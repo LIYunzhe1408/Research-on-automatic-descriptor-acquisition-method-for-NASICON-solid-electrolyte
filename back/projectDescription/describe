@@ -1,0 +1,22 @@
+1、三级用户体系（开发机构人员、机构管理员、普通机构用户）
+开发人员有所有目录的访问权限、给机构（管理员）分配可访问目录
+机构管理员给普通用户分配分配可访问目录
+机构管理员课简单看成管理员，机构是为了配置多套环境
+2、创建模块、页面、访问url
+前端建页面、设定路由、填写菜单信息；
+后端业务逻辑；
+数据库menu_info写入url，role_menu为机构与角色分配模块；
+3、纯前端打包
+config/index.js 中 build 中    assetsPublicPath: './',
+router index.js中// mode: 'history', //base
+axios都注掉换成data固定数据
+4、前端打包加入后端部署
+router index.js中// mode: 'history',或配置base：'/api'(前缀基路径)
+配置 /路径
+dist下文件放入static下,拦截器配"/index.html","/static/**","/"
+访问http://localhost:8081/api
+5、后端打包
+mvn clean package或mvn package
+jar包在target里
+java - jar xxx 启动
+6、

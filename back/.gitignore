@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+.idea
+.mvn
+*.log.zip
+*.iml
+target
+*.log
+*.cmd
+mvnw
+HELP.md
+
+
+pytorch_model.bin

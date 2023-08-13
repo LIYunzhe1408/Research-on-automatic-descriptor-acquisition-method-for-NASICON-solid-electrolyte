@@ -1,0 +1,35 @@
+// Tree
+digraph {
+	node [color=seagreen4 fontname=Consolas fontsize=24 shape=note]
+	edge [color=royalblue4]
+	compound=True fontname=Consolas fontsize=36 nodesep=0.25 rankdir=LR ranksep=2.5 splines=polyline
+	conductivity -> Structure [label=predicate color=black]
+	conductivity -> Property [label=predicate color=black]
+	conductivity -> Composition [label=predicate color=black]
+	conductivity -> Characterization [label=predicate color=black]
+	subgraph cluster_a {
+		label=Basis labeljust=l labelloc=t pencolor=lightsalmon style=rounded
+		Structure
+		Property
+		Composition
+		Characterization
+	}
+	Composition -> NaSn [label="Cause-Effect(e1,e2)" color=red]
+	Property -> diffuse [label="Cause-Effect(e1,e2)" color=red]
+	Property -> diffusion [label="Cause-Effect(e1,e2)" color=red]
+	Composition -> Liatoms [label="Cause-Effect(e1,e2)" color=red]
+	Characterization -> NEB [label="Method-Of(e1,e2)" color=pink]
+	Characterization -> DFT [label="Method-Of(e1,e2)" color=pink]
+	subgraph cluster_b {
+		label=Fine_grained labeljust=l labelloc=t pencolor=lightsalmon style=rounded
+		crystal
+		current
+		"terminal voltage"
+		NaSn
+		diffuse
+		diffusion
+		Liatoms
+		NEB
+		DFT
+	}
+}
