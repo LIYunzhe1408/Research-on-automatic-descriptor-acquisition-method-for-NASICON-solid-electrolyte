@@ -1,5 +1,6 @@
 # Research-on-automatic-descriptor-acquisition-method-for-NASICON-solid-electrolyte
 
+#### Video presentation on Bilibili：https://www.bilibili.com/video/BV1Lp4y1g76Z/?vd_source=4da953d6172fefe3b5aabce7be3f5662
 ```
 Platform
 ├─back
