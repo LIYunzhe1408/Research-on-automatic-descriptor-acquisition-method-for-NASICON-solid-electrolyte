@@ -257,25 +257,27 @@ export default {
       let param = {
         fileName: this.extractLitName
       }
-      this.$axios.post('/demo/entityExtraction',param).then(res => {
-        console.log(res.data.code)
-        if (res.data.code === 1) {
-          this.$notify({
-            title: '成功',
-            message: res.data.msg,
-            type: 'success'
-          });
-          this.writeEntity();
-          this.isExtracted = 1;
-          this.showClue = 0;
-        } else {
-          this.$notify({
-            title: '警告',
-            message: res.data.msg,
-            type: 'warning'
-          });
-        }
-      })
+      // this.$axios.post('/demo/entityExtraction',param).then(res => {
+      //   console.log(res.data.code)
+      //   if (res.data.code === 1) {
+      //     this.$notify({
+      //       title: '成功',
+      //       message: res.data.msg,
+      //       type: 'success'
+      //     });
+      //     this.writeEntity();
+      //     this.isExtracted = 1;
+      //     this.showClue = 0;
+      //   } else {
+      //     this.$notify({
+      //       title: '警告',
+      //       message: res.data.msg,
+      //       type: 'warning'
+      //     });
+      //   }
+      // })
+      this.isExtracted = 1;
+      this.showClue = 0;
     },
     downloadFile() {
       let param = {
