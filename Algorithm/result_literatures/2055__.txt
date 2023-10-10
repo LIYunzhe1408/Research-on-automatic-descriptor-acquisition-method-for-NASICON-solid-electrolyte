@@ -1,0 +1,47 @@
+Mg0.5Ti2(PO4)3 having NASICON-lattice was prepared by sol±gel method and evaluated as a cathode material for magnesium cells. The crystalline phase could be successfully obtained after heating at 6008C. Electrochemical magnesium insertion from a propylene carbonate solution into this host was found possible and one Mg2 ion could be accommodated per unit formula. However, the magnesium insertion process was under kinetic control of Mg2 diffusion due to the low mobility of Mg2 in this host. # 2001 Elsevier Science B.V. All rights reserved.
+
+Keywords: Magnesium battery; Magnesium titanium phosphate; Electrochemical magnesium insertion
+
+Magnesium cells may be a candidate of high energy density cells competable with lithium cells, because the raw material costs may be lower than those in lithium cells and magnesium is less dangerous than lithium. However, it is so far well known that Mg2 insertion into ion-transfer hosts proceeds slowly owing to the strong polarization effect of small and divalent Mg2 ion compared with Li or Na and only a small discharge capacity has been reported for magnesium insertion cathode [1±5]. Consequently, it is necessary to realize fast Mg2 transport in the host in addition to other requirements as practical cathode materials for magnesium cells.
+
+Both lithium and sodium ions can be inserted/extracted reversibly into/from a series of compounds having a general formula of AnM2(XO4)3 (A  Li or Na; M  transition metal; X  S, P or As) [6±8], derived from well-known fast ionic conductor of NASICON [9], because they have large enough interstitial voids to uptake guest species and high structural stability based on three-dimensional framework. Similarly, fast Mg2 transport may also be expected in such compound lattice, which seems as promising host for magnesium.
+
+In this study, NASICON-structured Mg0.5Ti2(PO4)3 samples were prepared by sol±gel method and investigated electrochemically as a magnesium host.
+
+0.1 mol dm 3 Mg(CH3COO)24H2O (Wako Chemical, >99%) and 0.1 mol dm 3 NH4H2PO4 (Wako Chemical, >99%) aqueous solutions were prepared separately, in addition to 0.1 mol dm 3 C4H9O[Ti(OC4H9)2O]4C4H9 (Wako Chemical, >95%) ethanol solution. These solutions were mixed at the stoichiometric ratio to give Mg0.5Ti2(PO4)3. The obtained sol solution was further stirred at 708C for 6 h to form a gel, which was then dried at 908C for 12 h to give a powder. The powder was heated at 300 and then 5008C to remove ammonium and acetate groups, followed by ®nal ®ring at various temperatures for 24 h.
+
+Electrochemical magnesium insertion from 1 mol dm 3 Mg(ClO4)2/propylene carbonate (PC) solution was performed in a cylindrical glass cell. The sample electrode pellet was prepared by pressing the 70:25:5 (in wt.) mixture of Mg0.5Ti2(PO4)3, acetylene black (Denka Black) and PTFE (Mitsui-Du Pont) at a pressure of 2  103 kg cm 2 onto a porous nickel sheet. Magnesium ribbon was used as the counter electrode. The reference electrode consisted of a silver wire immersed in 0.1 mol dm 3 AgClO4/PC solution, which was separated from the cell electrolyte by a glass ®lter. Similarly, electrochemical lithium insertion from 1 mol dm 3 LiClO4/PC solution was performed with the lithium wire counter electrode. All procedures and cell
+
+X-ray diffraction (XRD, Rigaku, RINT-1300) measurements were performed on a nickel substrate both before and after electrochemical measurements as well as for prepared Mg0.5Ti2(PO4)3 powder on a glass plate.
+
+Mg0.5Ti2(PO4)3 ®nally ®red below 5008C showed amorphous XRD pattern as in Fig. 1. Mg0.5Ti2(PO4)3 ®nally ®red at 6008C, on the other hand, gave a set of XRD peaks which could be assigned for the hexagonal lattice (space group R3c). This phase has so far been obtained at 7668C by Barth et al. [10] or at 700±7508C by Miyamoto et al. [11]. The formation of Mg0.5Ti2(PO4)3 phase at 6008C may be explained by different starting materials and a slow heating rate of 0.28C min 1. Moreover, the unit cell parameters of a  0:852 nm and c  2:10 nm are independent of ®nal ®ring temperatures between 600 and 9008C.
+
+Galvanostatic discharge curves at  50 mA cm 2 for Mg0.5Ti2(PO4)3 ®nally ®red at 7008C are compared in Fig. 2 in order to optimize the [active material]/[acetylene black] ratio (r), since NASICON-structured compounds have low electronic conductivities in general. For r  70/ 25, the potential plateau at about  1.6 V (versus Ag/Ag) continues until the limit of one-electron accommodation by Ti4/Ti3 (reduction of Ti4 to Ti3) de®ned as x  1, where x denotes the calculated amount of inserted Mg2 per unit formula. At the discharge potential below  2.4 V, an unexpected reaction such as solvent decomposition might occur. On the other hand, for r  90/5, a large potential drop
+
+Fig. 2. Galvanostaic ( 50 mA cm 2) discharge curves for different [Mg0.5Ti2(PO4)3]/[acetylene black] ratios.
+
+on initial discharge is a characteristic of low electronic conductivity and the extent of Mg2 insertion is limited to about x  0:6. For r  30/65, the potential plateau at  1.6 V disappears completely and the potential approaches to the  2.4 V region immediately. These results may suggest that the electronic conduction paths are not enough in the electrode at r  90/5, whereas the ionic conduction paths are blocked by too much carbon at r  30/65. Further investigations were carried out by employing the appropriate r  70/25 sample electrodes.
+
+Galvanostatic discharge curves at various current densities per apparent geometrical area are compared in Fig. 3. The plateau becomes the shorter and lower at the higher current density, owing to the low mobility of Mg2 in the host lattice. In order to con®rm the diffusion-controlled situation in the host matrix, the limiting amount of Mg insertion, (xlim) which corresponds to plateau length until about  2.2 V, is determined from the in¯ection point of discharge curves at various current densities (j). As seen in Fig. 4, there can be found a proportional relation between
+
+Fig. 1. XRD patterns of Mg0.5Ti2(PO4)3 obtained at various firing temperatures. Simulation: space group R3c, a  0:852 nm, c  2:10 nm.
+
+Fig. 3. Discharge curves of Mg0.5Ti2(PO4)3 at various current densities.
+
+Fig. 4. Relationship between the limit of Mg insertion xlim in Mg0.5xTi2(PO4)3 and current density.
+
+Discharge curves of electrochemical Li and Mg2 insertion are compared in Fig. 5. The Li insertion proceeds in consists of several steps in contrast to the one-step Mg insertion. Thus, Mg insertion behaviors seem to be different from Li insertion although Li insertion into Mg0.5Ti2(PO4)3 has not been reported. As a whole, the plateau potential (i.e. the number of acceptable electrons per unit formula) for Li insertion (Li/Li corresponds to  3.72 V versus Ag/Ag) is slightly higher than that for Mg insertion (Mg dissolution on anodes occur at  2.20 V versus Ag/Ag), whereas the discharge capacity for Li insertion is smaller than that for Mg insertion.
+
+Changes in XRD patterns induced by electrochemical Mg and Li insertion are shown in Figs. 6 and 7, respectively. As seen in Fig. 6, there appears no substantial change after Mg
+
+insertion up to n  2:0, where n denotes the number of inserted electrons per insertion at n  2:0, on the contrary (1 0 4) and (1 1 0) peaks originally overlapped at 2y  218 split remarkably as well as the (2 1 1) and (1 1 6) peak couple at 2y  338.
+
+formulae. 
+
+The unit cell parameters after Mg and Li insertion are compared in Fig. 8. The electrochemical Mg insertion does not lead to the lattice expansion up to n  2:0, whereas the same lattice expands in the a-direction almost linearly with the amount of inserted Li. It has been known that Mg2 (0.086 nm), Li (0.090 nm), Ti4 (0.075 nm) and Ti3 (0.081 nm) ions occupy six-coordinated sites in NASICON-lattice [12]. The a-axis expansion observed only for Li accommodation may hardly be explained by slight difference in ionic radii between Li and Mg2. Rather, the strong polarization of small and divalent Mg2 seems to suppress the lattice expansion caused by the reduction of Ti4 to Ti3. Anyhow, the expansion-less accommodation of Mg in Mg0.5Ti2(PO4)3 NASICON host should be favorable for an insertion electrode employed in secondary cells.
+
+Fig. 5. Discharge curve for Li insertion compared with that for Mg insertion at  50 mA cm 2.
+
+Fig. 7. XRD patterns of Li inserted LinMg0.5Ti2(PO4)3.
+
+

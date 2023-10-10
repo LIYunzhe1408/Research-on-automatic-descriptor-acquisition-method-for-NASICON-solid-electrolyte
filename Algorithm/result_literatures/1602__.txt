@@ -1,0 +1,69 @@
+The properties of Li  phosphates have been studied by impedance spectroscopy, 3 4 – 2 2 – 3         x x x x-ray diffraction, and electron microscopy. 
+The effect of heterovalent substitution on the thermal expansion and lattice parameters of the phosphates has been examined. 
+Their electrical conductivity is shown to rise in going  from  Li PO In   to  Li PO ,  which  can  be 3 4 1.1 4 2 3 3 accounted for by consecutive ﬁlling of the M(1) and M(2) sites in the structure of the phosphates. 
+
+A great deal of attention has recently been paid to alternative  energy  technologies,  which  require  stable materials with high proton or lithium ion conductivity. 
+In  this  context,  there  is  considerable  interest  in Ä (ê ) å   (A  =  tri-,  tetra-,  or  pentavalent  element) O 2 3 4 x NASICON-type  compounds,  which  offer  high  ionic conductivity, thermal stability, low thermal conductivity, and low thermal expansion.
+The  framework  structure  of  these  compounds  is Ä  tetrahedra and  made up of PO O  octahedra and con4 6 + å  ions may reside in two tains spacious channels. 
+The  inequivalent  sites:  M(1)  (one  per  formula  unit),  with distorted octahedral coordination, and M(2) (three per formula unit), surrounded by ten oxygens.
+Ivanov-Shits and Murin investigated the electri3+ , Ä (ê ) å O  compounds with Sc cal conductivity of  3 4 2 x 4+ 4+ ,  on the A site. Partial het or Sn Fe Ti erovalent  substitutions  on  this  site  have  a  signiﬁcant the  properties  of  effect  on. 
+is  known  to  crystallize  in  hexagonal NaInNb PO 3 4 symmetry.  
+Data  on  its  lithium  analog  and  compounds with a variable niobium : lithium ratio are not available in the literature. 
+The purpose of this work was to study the properties ( ) of Li  phosphates by x-ray diffraction Nb In PO 3 4 – 2 2 – 3         x x x (XRD) and impedance spectroscopy.
+
+ 3 – 2  materials (  = 0.6, n Li 0.7, 0.8, 0.9, 0.95, 0.98, 1, 1.02, 1.05, 1.1, 1.2, 1.4, 1.6, 1.8, 2, 2.5, 3) were synthesized from lithium carbonate, ammonium  phosphate  (dibasic),  niobium(V)  oxide, and indium(III) oxide. 
+To ensure the highest possible phase purity, we used a two-step solid-state synthesis procedure described elsewhere.
+First,amounts  stoichiometric    of  Li 3 2 ( ,  ) NH HPO , and In Nb O O  were thoroughly ground 3 2 5 2 4 2 4 and reacted at 973 K for 2 h in platinum crucibles. 
+The resultant materials were reground and pressed at 510 MPa into disks, which were packed with powder of nearly the same composition (enriched in lithium) and annealed for ≥  1.4. 
+We used different annealing temperatures because the materials with   > 1.4 melted on heating to 1373 K, and the powder stuck to the samples.
+The  materials  were  characterized  by  XRD  on  a Rigaku D/MAX 2200 diffractometer (Cu  radiation).
+Lattice  parameters  were  determined  by  least  squares reﬁnement using the POWDER program.
+Microstructural  examination  was  performed  on  a Leo Supra 50 VP scanning electron microscope (SEM).
+Electrical conductivity was measured at frequencies from 10 Hz to 2 MHz using a 2V-1 impedance analyzer. 
+The samples had the form of pellets 5 mm in diameter and 2 mm in thickness, with platinum contacts. 
+The temperature  was  varied  from  298  to  823  K  in  10 to  20-K steps. 
+The conductivity was determined by extrapolating the semicircle representing the bulk component to the real axis.
+
+SEM  examination  showed  that  all  of  the  samples were homogeneous.
+The crystal size ranged from 0.25 µ to 3  m.
+At low lithium contents, the crystal size was somewhat larger, which is attributable to the higher synthesis temperature for  n Li<1.4.
+According  to  XRD  results,  the  compounds  with  =  0.6–1.1  crystallize  in  hexagonal  symmetry,  and n Li ≥ ‡  2 have a monoclinic structure. 
+The  those with  Ò and    cell  parameters  of  the  hexagonal  compounds increase linearly with lithium content. 
+The reason for this is that an increase in nLi is accompanied by an increase in the content of indium, whose ionic radius far exceeds that of niobium.
+Heating produces only slight changes in the XRD patterns of the samples. 
+In particular, on heating to 923 K the reﬂections from Li PO  shift only gradually Nb 3 4 1.5 2 to smaller angles. 
+In addition, the reﬂection at 2θ = 14° splits into two components, while the lines at 2θ ≈ 28° merge together. 
+The reason for this is that heating increases  from 8.741(4) to 8.774(4) Å and Ò from 12.404(9)  to  1.677(9)  Å,  whereas  b  decreases  from 8.879(2) to 8.745(2) Å.
+The  thermal  expansion  coefﬁcient  is  (7.1 ± 0.8) × 10−6 K–1 along the a axis, (–2.8 ± 0.1) × 10–5 K–1 along the b axis, and Ò − (3.9 ± 0.2) × 10–5 K–1 along the c axis. 
+Heating to 973 K has little effect on the XRD pattern of  LiNbIn(PO4)3.  
+Below  this  temperature,  the  compound undergoes no phase transitions. Its a cell parameter  varies  insigniﬁcantly,  whereas  c  increases  from 22.076(6) to 22.242(6) Å.
+Thus, the thermal expansion of this material is anisotropic: its thermal expansion coefﬁcient is (3 ± 1) × 10–7 K–1 along the a axis and Ò – (1.12 ± 0.04) × 10–5 K–1 along the c axis. Note that low thermal expansivity is characteristic of NASICON materials.
+The  ionic  conductivity  of  our  samples  was  determined by impedance spectroscopy. 
+Figure 5 shows the Arrhenius plots of conductivity .
+where σ0 is the preexponential factor, Ea is the activation energy for conduction, and R is the gas constant) for LiNbIn(PO4)3 and Li2.5Nb0.25In1.75(PO4)3. 
+There are two  distinct  linear  portions,  above  and  below  573  K, which differ in slope by no more than 20%. 
+The origin of the break is not quite clear at the present stage given that,  according  to  our  XRD  data,  the  compounds undergo no phase transition in this temperature range. 
+The plot of the 773-K ionic conductivity versus lithium  content  demonstrates  that  the  conductivity  rises systematically  in  going  from  Li0.6Nb1.2In0.8(PO4)3  to LiNbIn(PO4)3. 
+At the same time, as nLi increases to above 1.0, the conductivity drops sharply, up to the composition Li1.2Nb0.9In1.1(PO4)3.
+This behavior of conductivity can be understood by analyzing structural data. 
+At low temperatures, the lithium ions in NASICON materials typically occupy the M(1) site, which can accommodate one lithium ion per formula  unit.  
+It  is  this  site  that  small-sized  cations, including  lithium  and  sodium  ions,  occupy  predominantly. 
+It seems likely that, up to the composition LiNbIn(PO4)3, the conductivity is dominated by lithium ion  transport  through  M(1)  sites  and,  accordingly, increases with M(1) site occupancy.
+
+At  higher  lithium  contents,  the  M(1)  site  is  fully occupied, and the vacancy concentration on the M(1) site decreases with increasing indium content, so that the  amount  of  vacancies  involved  in  ionic  transport gradually  decreases. 
+In the  composition  range Li1.2Nb0.9In1.1(PO4)3–Li3In2(PO4)3,  lithium  ion  transport through M(2) sites prevails. 
+The highest lithium content on this site is nLi = 3, but its occupancy is just 2/3 even in Li3In2(PO4)3. 
+For this reason, the conductivity rises steadily in the latter composition range.
+Note that, with increasing lithium content, the high temperature activation energy for conduction gradually decreases, down to 31 kJ/mol in the range nLi = 0.8–1. 
+The change in the type of majority carriers at nLi = 1.1 leads to an increase in the activation energy for conduction up to 43 kJ/mol. 
+At higher lithium contents, the activation energy decreases to 38 kJ/mol because of the decrease in the enthalpy of defect formation. 
+At still higher lithium contents, the increase in M(2) site occupancy  is  accompanied  by  a  gradual  rise  in  activation energy,  up  to  49  kJ/mol.  
+This  is  probably  due  to changes in lattice parameters and composition and also to the fact that the signiﬁcant amount of lithium ions in the  conduction  channels  formed  by  alternating  M(1) and  M(2)  sites  produces  steric  hindrances  to  charge transport. 
+Thus, the behavior of the activation energy for  conduction  provides  indirect  evidence  that  the mechanism of lithium ion transport depends on composition.
+
+We synthesized Li3 – 2xNbxIn2 – x(PO4)3 materials and studied  their  properties.  
+Their  electrical  conductivity rises systematically in going from Li0.6Nb1.2In0.8(PO4)3 to  Li3NbIn2(PO4)3  and  from  Li1.2Nb0.9In1.1(PO4)3  to LiInNb(PO4)3, which can be accounted for by consecutive ﬁlling of the M(1) and M(2) sites in the structure of these materials.
+The  data  for  LiNbIn(PO4)3  and  Li2Nb0.5In1.5(PO4)3 demonstrate  that  these  materials  have  small  thermal expansion coefﬁcients.
+
+
+

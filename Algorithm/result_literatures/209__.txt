@@ -1,0 +1,117 @@
+Ion  conductivity  of  ceramic  electrolytes  sets  a  limit  to  their  use  in  batteries;  correct  analysis  of  this  parameter opens a gate for further material optimization. Electrochemical impedance spectroscopy (EIS) is the only way  to characterize ionic conductivity but data obtained could vary from researcher to researcher for a number of reasons.  Our  goal  was  to  propose  unified  approach  on  the  basis  of  both  the  published  data  and  our  own  experience.  We  synthesized  pure  Li1.3Al0.3Ti1.7(PO4)3  and  analyzed  it  using  EIS,  Powder  X-Ray  Diffraction  Analysis,  Scanning  Electron  Microscopy,  and  Energy-Dispersive  X-ray  spectroscopy.  We  show  how  to:  1)  obtain  reliable  EIS  spectra;  2)  to  verify  equivalent circuit by adjusting the temperature; 3) estimate error of measurement via three approaches highlighting their  use for special research aims. Finally, we summarized parameters that should be checked when describing results and  benchmarking  the  results  with  literature.  The  article  will  be  useful  for  those  who  work  with  ion-conducting  ceramics.
+
+Electrochemical  impedance  spectroscopy  (EIS)  serves  as universal tool to characterize electrochemical systems.  By  measuring  responses  to  small-amplitude  sinusoidal  perturbations  in  applied  current  or  voltage,  one  can  analyze  various  processes.  In  battery  applications,  EIS  characterizes ion and electrical conductivity1-5, interfacial  resistance  and  solid-electrolyte  interface  formation6,7,  mass  transfer  and  diffusion  coefficients8-10.  In  this  article  we will focus on measuring ionic conductivity of ceramics  using  the  Li1.3Al0.3Ti1.7(PO4)3  (LATP,  one  of  the  most  promising electrolytes for Li-ion batteries11).
+
+Generally,  EIS  data  are  presented  as  Nyquist  plot  (imaginary  vs  real  part  of  the  impedance).  For  ceramic  polycrystalline  materials  (like  LATP)  the  plot  looks  like  several  semicircles  with  the  maxima  determined  by  relaxation time of the process (time interval that needed  for  the  system  to  return  to  the  equilibrium  state  after  applied  perturbation)12.  This  means  that  polarization  under  applied  electric  field  differs  within  ceramic  grains  and  at  their  boundaries  as  well  as  at  the  contact  with  electrode  which  reflects  on  characteristic  relaxation  time13.  To  interpret  these  data,  Nyquist  plot  is  modeled  with  electrical  equivalent  circuits  and  the  most  difficult  part  of  EIS  is  the  correlation  between  equivalent  circuit  elements and electrochemical processes14.
+
+
+He  studied  polarization  behavior  of  zirconia-yttria  solid  electrolyte  over  a  range  of  temperatures;  he  varied  electrode area and porosity of the studied system to track  changes on an admittance plot. Thus, he attributed each  semicircle  to  a  special  process  (bulk  conductivity,  grain  boundary conductivity, electrode effect). T. Van Dijk and  A.J.  Burggraagf16  tried  another  approach.  They  studied ceramic solid solutions (GdxZr1-xO2(x/2)) and tried to verify  equivalent circuit by comparing polycrystalline materials  and  single  crystal.  In  the  latter  case,  they  detected  two  relaxation process with maxima at frequencies (Fmax) < 102  Hz  and  >106  Hz  while  for  polycrystalline  material  additional  semicircle  at  104  Hz  was  observed.  This  approach aided researchers to distinguish grain boundary  conductivity (called macroscopic in the article, semicircle  with  Fmax  ~104  Hz)  and  grain  conductivity  (called  microscopic,  semicircle  with  Fmax  >106  Hz)  while  process  with Fmax ~104 was attributed to the electrode polarization.  These  works  gave  way  for  data  interpretation  of  EIS  of  ion-conductive ceramics.
+
+
+Li1.3Al0.3Ti1.7(PO4)3  (LATP)  was  synthesized  via  solid  state  method.  The  reagent-grade  Li2CO3,  (NH4)H2PO4  and  freshly-prepared  Al2O3  (decomposition  of  reagent-grade  Al(NO3)3·nH2O at 900 °C for 2h) were grounded in agate  mortar  and  pressed  into  1  cm-diameter  pellets  (Platen  Press  P  300  P/M,  applied  pressure  500  MPa).  Solid  state  synthesis was carried out in several heating steps with the  final one at 850 °C (Scheme on Fig. S1 in Supplementary).  Then,  samples  were  stored  in  argon-filled  glove  box  (Siements MBraun 200B ECO GloveBox; partial pressures  of O2 and H2O < 10 ppm).
+
+Powder  X-Ray  diffraction (PXRD)  analysis  was  performed  using  the  Bruker  D8  Advance  (CuKα1,2  radiation;  LynXeye  XE  detector;  2.5°  soller  slits;  1  mm  fixed divergence slit; 30 °/min sample holder rotation; 2θ  range from 10° to 120°; 2θ step = 0.01°). The PXRD patterns  were  recorded  from  freshly  prepared  and  grounded  samples  with  the  intensities  exceed  150  000  counts.  Crystal  structure  was  refined  by  the  Rietveld  method  in  the R3 c space group using the JANA 2006 software25.
+
+
+Analyzing the related literature, we noticed that the exact  EIS experiment is usually not described in terms of data  reproducibility and reliability. Thus, we decided to unify  the EIS measurement process within the whole study and  designed the 2-electrode EIS cell that provides equal and  reproducible  sample  (Supplementary, fig. S2). EIS was recorded at air using the  galvanostat/potentiostat  Metrohm  Autolab  (frequency  range  1  MHz   0.1  Hz,  amplitude  10  mV  vs  Root  Mean  Square  (RMS),  10  points  per  decade,  temperature  range  from – 160 to 60 °C). Temperatures from 5 to 60 °C were  set  by  TSO-1/80  SPU  thermostat  (Russia);  temperatures  from -160 to -20 °C was achieved by using liquid nitrogen  (T  was  checked  by  the  Testo  735  multichannel  thermometer  with  the  Testo  Type  K  chromel-alumel  thermocouple  probe).  Due  to  experiment  design,  alternative type of EIS cell was used for low temperatures.  During  experiment  T  change  did  not  exceed  0.5  °C  for  thermoset, and vary in 1-5 °C for liquid nitrogen bath (T  was varied by sample position within bath). Photographs  of  experimental  set-up  may  be  found  in  Supplementary  (Section 1.3.)
+
+Prior  to  measurements,  blocking  gold-electrodes  (30  nm thickness; 8 mm diameter) were magnetron-sputtered  on the both sides of pellet using Quorum Q150T ES and  special  masks.  Au  was  chosen  since  no  side  reactions  happen between LATP and gold electrode. The masks and  impedance  cells  were  designed  using  the  FreeCad  software and fabricated through PLA using the Ultimaker  2+ 3D printer and the HAAS DM-1 CNC Drill/Mill center.
+
+
+Relative  error  of  conductivity was estimated using 3 approaches (Scheme in the Fig. 1):
+
+Multiple  measurements  (from  5  to  14  for  1 sample) was done to check stability;
+
+Five  measurements  for  3-4  pellets  synthesized  simultaneously  was  used  to  check  variability  within  1  synthesis  and  relative  error  (identic  pellets  in  terms  composition; slight variation of thickness);
+
+Same approach as 2 but with significant variation of pellet thickness.
+
+Below, you can find definition of terms that are used in the article.
+
+Error  of  approximation  (%)   is  an  error  that  comes  from  simulation  of  spectra  in  NOVA  software  after  equivalent circuit modelling (Nova uses Boukamp model  for fitting28, which is based on nonlinear least squares fit  procedure;  error  in  %  provides  margin  of  confidence  in  the value).
+
+Instrumental error – is an error of measurement which  is  determined  from  device  accuracy  (e.g.  a  micrometer  accuracy is 0.001 mm; a balance accuracy is 0.1 mg).
+
+Random  error  –  is  error  which  is  calculated  from  standard deviation (SD) of multiple measurements (equal  to SD·t, where SD — standard deviation, t — Student’s ttest, 95% confidence level was used in this article).
+
+Error  of  resistance  was  calculated  according  to  the  formalism  for  propagation  of  uncertainty29.  In  our  case,  error  takes  into  account  the  Autolab  instrumental  error  (was estimated experimentally as deviation of measured R  from standard value for dummy cell and comprised 2%),  error of approximation (AE, ≤ 5 %, depending on sample)  and random error. Calculation of relative error (%):
+
+ΔR – absolute error (Ω),  Error  of  conductivity  –  this  error  takes  into  account is average value (Ω).
+
+As-synthesized  ceramic  pellets were analyzed by SEM, SEM-FIB, EDX and PXRD  techniques.  Fig.  2  (a-b)  shows  that  sample  is  free  of  amorphous  inclusions  and  is  characterized  by  wellcrystallized  grains  with  the  shape  close  to  cubic  morphology  with  an  average  size  of  2.2±0.9  µm.  The  density of samples varies in a range 80-83%, grains have  good  contact,  yet,  some  voids  inevitably  exist  (SEM-FIB  data, Supplementary, Fig. S10).
+
+The  experimental,  reﬁned  and  diﬀerential  PXRD  patterns  are  given  in  Fig.  2  (c)  (the  Rietveld  refinement  reliability  factors  are  Rwp  =  5.99;  Rp  =  4.35;  RFall  =  3.36;  RBall = 5.74). Material represents pure α-NASICON phase  with  the  unit  cell  dimensions:  a  =  b  =  8.4986(1)  Å;  c  =  20.8064(2) Å; V = 1301.44(1) Å3 (the error values are given  in e.s.d. and were calculated via Jana2006 software). The  true density ρtrue was estimated as 2.93532(3) g/cm3. As it 
+
+is seen in Fig. 2 (c) the pattern additionally contains two  weak  peaks,  that  are  attributed  to  the  same  main  LATP  phase  and  caused  by  the  residual  low-intensity  X-Ray  irradiation,  namely  CuKβ  and  WLα1 26,30,31.  Full  structure  refinement  results  are  presented  in  Supplementary  (for  more  details,  please,  refer  to  the  corresponding  CCDC  number 1945903). 
+
+EDX  (Supplementary,  Fig.  S.5)  confirmed  uniform  distribution  of  elements.  Thus,  sample  chemical  composition  is  uniform  on  micro  and  macro  level;  there  should be no internal effects on impedance spectra except  grains and their connections (grain boundaries).
+
+
+Firstly,  our goal was to obtain reliable data thus equivalent circuit  verification  will  be  described  in  the  section  Electrical  circuit verification.
+
+Impedance  should  fulfill  several  conditions:  linearity  (‘system  is  described  by  a  system  of  linear  differential  equations’), stability (‘A stable system remains stable until  excited by an external source, and it should return to its  original  state  once  the  perturbation  is  removed’),  causality  (‘the  output  depends  only  on  the  present  and  past input values’) and finiteness (‘the real and imaginary  components of the impedance must be finite-valued over  the entire frequency range’)14. 
+
+All  these  parameters  are  sewn  into  Kramers-Kronig  Relations  (KK-relations)  that  help  to  verify  data  on  the  first step. For example, in Nova software, χ2 < 10-6  means  excellent fit; χ2 ~ 10-5 ÷ 10-6 good fit; χ2 ~ 10-4 ÷ 10-5 marginal  fit  and  χ2  ˃  10-4  bad  fit.  Thus,  χ2  ~  10-5  ÷  10-6  or  lower  indicates good data that could be fitted. Additionally, it is  possible  to  verify  separately  stability  and  linearity  of  the  measured response.
+
+In our case, KK-relations yielded in χ2 ~ 10-6 that means  that  excellent  fit  could  be  obtained  by  approximation  of  the data. To demonstrate stability of a system, impedance  could  be  recorded  from  high  frequency  to  low  and  vice  versa14.  We  recorded  EIS  data  with  frequency  range  of  from 10 to 1 MHz and from 1 MHz to 10 Hz (fig. 3).Impedance spectra of ceramic sample recorded  from 10 to 1 MHz (KK-relations χ2 (Z) = 2·10-5) and vice versa  from 1 MHz to 10 Hz (χ2 (Z) = 2·10-6): full frequency range (a);  frequency range of 1 MHz – 3.5 kHz (b).
+
+According  to  Nova  manual  scanning  from  high  to  low  frequencies  gives  more  accurate  values.  Thus,  scanning  from  higher  to  lower  frequencies  leads  to  acquisition  of  more  reliable  data  that  could  be  fitted  with  higher  accuracy  (this  regime  was  applied  for  all  measurements  described below). It is interesting to note that difference  between  average  bulk,  grain  boundary  and  total  resistance comprise 12, 12 and 8 % which enable us to call  system stable.
+
+The  linearity  of  system  may  be  checked  by  input  amplitude  –  increasing  it  twice,  for  example,  should  not  affect impedance spectra14. Table 3 summarizes calculated  parameters  for  variation  of  amplitude  (5  measurements  for each amplitude).
+
+If we calculate ΔR between 0.01 and 0.025 it would be 3  %,  so  the  difference  is  negligible  and  the  sample  meets  the condition for linearity.
+
+Thus, KK-analysis, repetitious recording of spectrum (at  for  each  sample),  variation  of five  spectra least instrumental conditions (direction of data acquisition and  amplitude)  help  to  understand  that  data  are  valid  and  suitable for fitting.
+
+An  additional  way  to  deconvolute  the  attribution  of  semicircles  to  the  process  is  to  compare  values  of  capacitance with some established values13.
+
+Irvine et al report that such approximation for ceramic  material: capacitance of 10-12 F could be attributed to bulk;  10-11-10-8  F  to  grain  boundaries;  10-7-10-5  F  to  electrodesample interface32.
+
+Our  goal  was  to  understand  if  we  take  two  samples  from  one  specific  synthesis  and  treat  them  differently  before  EIS  analysis  what  conductivity  values  are/become  distinguishable.  Since R depends on pellet thickness (which can be close  but  different  for  several  pellets)  it  is  worth  comparing  resulting  conductivity  (example  of  total  conductivity  in  Fig.  6).  For  each  sample  error  slightly  differs  and  on  average  comprised  6,  7  and  6  %  for  σb,  σgb  and  σt  (exact  values for each sample are given in Supplementary, table  S3).  It  means  that  if  values  for  conductivity  differ  more  than  for  5,  6  and  7  %  we  can  consider  these  values  as  different. This result is important because statistically the  samples  from  one  specific  synthesis  can  be  considered  similar  initially,  then  treated  differently  and  compared  with each other.
+
+
+To  sum  up  introduction  and  our  results,  we  identified  a  set  of  parameters  that  affect  reported  conductivity  values  and  should  be  taken  into  account  when  describing  results  and  comparing  them  with reported measurements (Table 3). We have divided  parameters  into  two  groups:  external  parameters  that  include measurement procedure and internal parameters  that  reflect  sample  characteristics.  Thus,  to  have  reproducible  results  one  should  fix  the  first  group:  perform  measurements  standardized  conditions  (electrode,  temperature,  atmosphere,  frequency  range,  etc.). When working with new ceramic material it is also  important  to  preform  KK-analysis  and  verify  equivalent  electric circuit by changing measurement conditions (T in  our  case;  electrode  material  and  area,  or  sample  aspect  ratio may be suitable for other systems). 
+
+We  recommend  to  set  standard  measurement  and  fitting parameters to ensure proper benchmarking and to  detail  in  the  publication  internal  sample  characteristics  (structure,  composition,  purity,  density)  to  avoid  misrepresentation  of  reported  results  between  different  research  groups  and  may  facilitate  more  direct  comparison  of  the  results  between  different  literature  reports.  We  tried  to  compare  our  result  and  published 
+
+Ionic conductivity is temperature dependent  process (Arrhenius behavior)43. Thus, to obtain  reproducible results one should fix  temperature (Note, room temperature (RT) in  different countries may vary, exact values are  preferable to be mentioned in the paper);  Dealing with elevated temperatures, one  should be confident that sample is not  decomposing during thermosetting and  measurement. 
+
+EIS data for ion-blocking (Au, Pt, Ag) and nonblocking electrodes (Li) could be slightly  different;  Poor contact between sample and electrode  leads to errors in measurements.  One should carefully choose type of electrode  and ensure that sample does not degrade  contacting with it. 
+
+Higher frequency range, more accurate results  since system meets condition for finiteness14.
+
+Ceramic samples may degrade in contact with  components of ambient atmosphere. 
+
+More than one scheme could describe the  process, it is recommended to choose those  that has physical meaning14,43; We recommend  to verify scheme and choose scheme with  lower error (error of approximation or χ2,  depending on software)
+
+For stable samples should not depend on  overall results14.
+
+Higher N of frequencies (recorded points)  provides more accurate results. 
+
+From our Arrhenius plot (calculation provided in  Supplementary Section 13) it follows that 5 °C  difference of measurement environment lead to 20  % difference between conductivity values, while  2°C difference to 10 %.
+
+Authors observed rise in resistance of LAGTP  during contact with metallic Li (which reflects  changes in conductivity). Moreover, they detected  1 order of magnitude difference between R  measured with Au and Li electrodes for LATTP  (Li1+x−yAlx Li-garnets interacts with Pt, thus this metal should  not be used as electrode in EIS measurements37.
+
+In our case, (Supplementary, table S5) frequency  range impact error of bulk conductivity: reducing  frequency from 1MHz to 1kHz lead to drastic  increase on this parameter; while reducing range  in low frequencies slightly improves error.  Supplementary, Table S6 demonstrates that EIS  recorded at air and Ar differs in order of error (3, 4,  4 % difference for σb, σgb and σt). Yet, we recommend to carry out long  measurements (> 2 h) of LATP in inert  atmosphere. Li-garnets reacts with moisture and CO2 at air  quite fast leading to conductivity fade45,46.
+
+Example of scheme verification is given in our  work and in ref.34,35. Lowering T helped to detect  contribution from bulk, grain boundary and  electrode processes.
+
+Example is given in current work: change of  amplitude from 0.01 to 0.05 V give only 2-4 %  difference between conductivity values. It is recommended to record 10 points per  frequency decade14. Supplementary, Table S7  shows that variation of this parameter has effect  on error of conductivity: higher amount of points  lower error.
+
+Total conductivity depends on porosity since  porosity may be reflected in grain boundary  resistance. 
+
+Conductivity of LATP falls exponentially with the  porosity increase47.
+
+Approximation models and following data  processing works well for cubic-shaped grains  with uniform size distribution32. Higher size of grains lowers grain boundary  resistance, thus, enhances total conductivity  (Note, the situation is described for samples  where grain boundary resistance is a limiting  factor in total conductivity)
+
+Frequently, impurities have ion-blocking  nature, thus purer sample conduct better.
+
+Due to Li-evaporation at elevated  temperatures nominal composition may differ  from the real one. 
+
+Conductivity of LATP increase with enlargements  of grains but fades when intergranular contact  become poor48.  Microcracking at grain boundaries of LATP  materiel hinders ion transport49.
+
+The thorough LATP synthesis optimization shows  evident negative impact of AlPO4 impurity on the  final conductivity47. Having similar sizes of grains,  Li1.3Al0.3Ti1.7(PO4)3 samples with higher purity (no  secondary phases vs 1.2 wt. % AlPO4 and 4.0 wt.%  TiO2) had almost 3 times higher conductivity49.  The presence of AlPO4 by-phase leads to the  conductivity fading of the NASICON-based  Li1.5Al0.5Ge1.5(PO4)3 glass ceramics for approx. 40  %50.
+
+The ionic conductivity of any inorganic compound  is determined fundamentally with structural and  compositional features. The interrelations within  chemical composition | crystal structure | ionic  conductivity triad has been studied widely, so we  can conclude that even small changes of the first  two triad factors (5% in Al:Ti variation or addition  of Ge traces) may change the final one in orders39,  51-53.
+
+We  synthesized  pure  LATP  ceramics  with  an  average  size  of  grains  of  2.2±0.9  µm  and  density  of  80-83%.  We  described how to obtain reliable EIS spectra using simple  experimental  check.  We  verified  equivalent  circuit  that  describe Nyquist plot by adjusting the temperature. Error  of  approximation  is  reviewed;  in  the  article  we  have  proposed  several  approaches  to  its  estimation.  We  have  reviewed most crucial parameters that affect conductivity  having divided them into two groups: external parameters  (measurement  procedure  itself)  and  internal  parameters  (sample characteristics).

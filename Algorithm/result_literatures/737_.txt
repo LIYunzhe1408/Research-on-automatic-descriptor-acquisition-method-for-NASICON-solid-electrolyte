@@ -1,0 +1,11 @@
+Robust, safe, and reliable grid-scale energy storage continues to be a priority for improved energy surety,expanded integration of renewable energy, and greater system agility required to meet modern dynamicand evolving electrical energy demands.
+We describe here a new sodium-based battery based on amolten sodium anode, a sodium iodide/aluminum chloride (NaI/AlCl3) cathode, and a high conductivityNaSICON (Na1þxZr2SixP3xO12) ceramic separator.
+This NaI battery operates at intermediate temperatures(120e180 C) and boasts an energy density of >150 Wh kg1. The energy-dense NaI-AlCl3 ionic liquidcatholyte avoids lifetime-limiting plating and intercalation reactions, and the use of earth-abundantelements minimizes materials costs and eliminates economic uncertainties associated with lithiummetal.
+Moreover, the inherent safety of this system under internal mechanical failure is characterized bynegligible heat or gas production and benign reaction products (Al, NaCl).
+Scalability in design isexemplified through evolution from 0.85 to 10 Ah (28 Wh) form factors, displaying lifetime averageCoulombic efficiencies of 99.45% and energy efficiencies of 81.96% over dynamic testing lasting >3000 h.
+This demonstration promises a safe, cost-effective, and long-lifetime technology as an attractive candidatefor grid scale storage.
+We have demonstrated the viability of an innovative NaI-basedbattery which operates near 150 C with lifetime average CE as highas 99.45% and EE of 81.96% over dynamic testing lasting >3000 h.
+Further improvements in cathode design will further increase energyefficiencies.
+This energy dense, readily scalable battery consistsonly of earth-abundant materials, making it an economicallyattractive system for grid scale storage.
+Moreover, the anolyte andcatholyte chemistries contained within this system introduceinherent safety in the event of battery failure, mitigating concernsof cascading thermal runaway, flammability or production of hazardousbyproducts.
+The promising performance of these prototypesacross several lab-scale capacities promises opportunities todevelop this new technology into a viable and important technologyfor future energy storage.

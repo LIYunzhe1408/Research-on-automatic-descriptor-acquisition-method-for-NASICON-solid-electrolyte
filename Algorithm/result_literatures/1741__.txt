@@ -1,0 +1,159 @@
+We prepared transition metal containing titanium phosphates obtained from mesoporous titanium phosphate treated with cobalt and copper acetatesand subsequently heated at 573 K under either air or nitrogen atmospheres.
+The first treatment with acetates incorporates themetal and acetate ions in thesystem.
+Moreover, it partially extracts the director agent.
+Total extraction of the surfactant can be reached in the copper samples after heating twice.
+However, the surfactant is not removed from the cobalt samples under the thermal conditions therein used.
+The composition of the heated materials isclose to NASICON structures with a formula close to M1.5Ti1.5(PO4)3 (M=Co,Cu).
+A certain content in elemental carbon is observed in the samplesobtained under nitrogen atmosphere, which are also more conductive than those prepared under air.
+The first discharge of lithium cells based in thesemesoporous materials show electrochemical activity of Ti4+/Ti3+, Co2+/Co0 and Cu2+/Cu0 couples in the OCV–1.0 V region.
+Below this voltage, thedischarge profiles are typical of phosphate systems where Li3PO4 is a product of the electrochemical reaction with lithium and, moreover, electrolytesolvent is reduced.
+Electrolyte ismore degraded when the samples contain carbon.
+Capacities as high as 1600mAh g−1 can be obtained at deep discharge.
+However, there is an irreversible capacity loss in the four systems due to the occurrence of insulating products as Li3PO4 and a solid electrolyte interface.
+Layered titanium phosphates (the α-TiP and γ-TiP polymorphs)are layered structures that show excellent exchange properties.
+Theα-TiP (Ti(PO4)·2H2O) layers contain atoms lying in a plane andbridged through phosphate groups.
+Three oxygen atoms of eachtetrahedral phosphate are linked to three titanium atoms so thateach titanium is octahedrally coordinated with six oxygen atoms ofsix different phosphate groups.
+The fourth oxygen of each phosphategroup bears a proton.
+This proton can be replaced withanother ion without any alteration in the structure of the layer itself.
+Therefore, each layer can be considered a planar macroanion [Tin(PO4)2n]2n− with negatively charged oxygen atoms (called fixedcharges) that are balanced by an equivalent amount of protons orother cations.
+The interlayer distance in α-TiP is 7.56 Å.
+In thelayered γ-TiP (Ti(PO4)(H2PO4)·2H2O), the interlayer distance is12.4 Å.
+In this structure the macroanion contains a remarkablyhigher density of fixed charges than those corresponding to α-TiP.
+These 2D systems have been studied in catalysis and as exchangers,but to our knowledge, they have not been used in electrochemicaldevices.
+In contrast, 3D titanium phosphates have beenproposed as positive electrodes for lithium ion batteries .
+The wide majority of the phosphates investigated belong to thefamily of NASICON (Na super-ionic conductor) structures, withthe composition A[Ti,M]2(PO4)3 (A=Li,Na;M=transition metal),which provide a capacity up to 120 mA h g−1 associated to the fullreduction of Ti4+ to Ti3+ in the 2.5–2.27 V region.
+They are 3D networks with positions in the interstitial space available to lithiumduring the discharge.
+For lithium-free titanium phosphates, itseems that the sites preferred by these ions in the discharge areoctahedral M2 sites, meanwhile for lithium containing phosphates,the mechanism of diffusion and occupation seems different, involvingtetrahedral sites M3 andM3′, 0.8 Å shifted fromM2 sites.
+A common feature for these phosphates is their low electricalconductivity, a drawback for their use in batteries.
+A cheap andcommon procedure for enhancing conductivity envisages the coatingof the phosphate particles with carbon.
+Carbon can be obtainedby an incomplete pyrolysis of carbon sources such as sucroses .
+In this context, our group has reported an interesting performancefor a carbon-coated iron phosphate obtained by submitting a surfactant-containing precursor to heating under nitrogen .
+With this background in mind, it seemed obvious to us toenvisage the electrochemical study ofmesoporous titaniumphosphates,that are often based on α-TiP or γ-TiP.
+For the preparation of a porous form of titanium phosphate(hereafter called m-TiP), we followed the recipe described elsewhere.
+Reagents were dodecyltrimethylammonium bromide(CTAB), Ti(iPrO)4, water, H3PO4 and ethanol.
+A light yellowsolid was collected after two reaction days at 90 °C, then recoveredby centrifugation and extensively washed with water.
+For theintroduction of a transition metal into its network, 700 mg ofm-TiP were treated with 50 ml of 0.05 M cobalt or copperacetate ethanolic solutions.
+After stirring during 2 h, the solidswere collected by filtration and extensively washed with ethanol.
+m-TiP turned violet or green, for Co(II) or Cu(II), respectively,indicating the incorporation of the divalent metal inthe solid.
+Additionally, treatment with ethanol led to a partialextraction of CTAB as discussed below .
+The correspondingair-dried powders were subsequently heated at 573 K for 1 hand this treatment was repeated.
+Heating was carried out inorder to remove the remaining surfactant in the samples.
+Twoheating atmospheres were used, nitrogen or air.
+With the use ofnitrogen, we expected to obtain carbon in the samples, due to anincomplete pyrolysis of CTAB.
+Thus, we obtained two sets ofsamples depending on the heating treatment, called hereafterCoTiP and CuTiP (for cobalt or copper, respectively, when heatedunder air), CCoTiP and CCuTiP (when heated under nitrogen).
+X-ray diffraction patterns were recorded on a Siemens D5000X-ray diffractometer, using CuKα radiation (λ=1.54059 Å) and agraphite monochromator.
+FTIR spectra on KBr-based pellets,were collected with a Bruker IFS66 instrument used in the transmittancemode.
+Spectra were recorded at 4 cm−1 intervals over the4000–400 cm−1 range.
+Specific surface area was determinedusing a Micromeritics ASAP 2010. Total conductivity was determinedby a HP4192A Impedance Analyzer.
+Electrochemicalmeasurements were carried out with an electrodic mixture consistingof activematerial, carbon black and Teflon in aweight ratio85:10: 5. 
+Theworking electrode consisted of a stainless steel gridon which approximately 3 mg of the mixture was pressed.
+Theelectrolyte usedwas 1MLiPF6 in EC/DMC2:1 solvent.
+Both thereference and the counter electrodes consisted of a lithium disk.
+Galvanostatic discharges were performed using a MacPile II(BioLogic) potentiostat under a regime of C/20 (i.e.lithium wastransferred in 20 h).
+Coin cells were used in all the experiments.
+Experiments were recorded at least twice.
+The treatment of m-TiP with the divalent metal solutions yieldscoloured materials, green and violet for the copper and cobaltsystems respectively.
+Fig.1a and d show the corresponding XRDpatterns.
+As shown, the materials are amorphous, therefore thetreatment did not form crystalline divalent metal orthophosphatesor pyrophosphates.
+FTIR spectra corresponding to these samplesare shown in Fig.2. 
+The spectra of the pristine m-TiP (Fig.2a)contains peaks corresponding to the asymmetric (2925 cm−1) andsymmetric stretching (2850 cm−1) vibrations of C–CH2 in themethylene chains of CTAB and sharp bands in the region of 1450–1500 cm−1 attributed to the deformation of –CH2− and –CH3 of thesurfactant.
+The broad band between 3000 and 3700 cm−1 and theband at 1636 cm−1 are associated to structural water.
+The band at1000–1050 cm−1 is ascribed to the Ti–O–P vibrations.
+Followingacetate treatment (Fig.2b and c), the intensity of the peaks correspondingto the C–CH2 vibrations have drastically diminished butthey are still present in the spectra.
+Furthermore, newpeaks occur inthe 1330–1580 cm−1 region, unambiguously associated to acetatepresent in the samples.
+From the spectra it was concluded that theexchange incorporates acetate in the samples and partially removesthe surfactant.
+These features are in line with earlier reports on theuse of sodium acetate for the extraction of templating agents inmesoporous FePO4  and titanium phosphate .
+Isotherm curves and pore distribution of copper and cobaltsamples are shown in Fig.3.
+ These systems show lower surfacearea (320 and 350m2 g−1 for Co(II) and Cu(II), respectively) thanm-TiP (950 m2 g−1) but keep mesoporous character (4.4 nm ofpore diameter).
+The change in textural parameters (surface area,average pore diameter) can be associated with the removal ofdirector agent.
+The lack of crystallinity of our samples prevents an exactdetermination of its composition.
+It was earlier reported that formesoporous titanium phosphate, it can be either α-TiP or γ-TiPwith a certain amount of CTAB in the pores .
+The treatmentof Ti(HPO4)2 with M2+ ions follows the reaction (1).
+From the observations of the materials obtained after the acetate treatment(colour, no occurrence of divalent metal phosphates or pyrophosphates,mesoporosity), we can consider a similar reaction for m-TiP.
+After heating the samples twice, the FTIR spectra of CuTiPand CCuTiP (Fig.2d and e) reveal the complete removal ofremaining CTAB and acetate.
+However, the peak at 1425 cm−1associated to CTAB is still present in CoTiP and CCoTiP samples(Fig.2f and g), which could be explained by a strong coordinationbetween the cobalt atom and nitrogen from the CTA+ ion.
+Moreover,the cobalt systems spectra show the peak at 1560 cm−1which is characteristic of acetate.
+XRD patterns of the heated samples are shown in Fig.1. 
+Allthe materials obtained are amorphous, except the CCuTiP samplethat contains copper (Fig.1c).
+The presence of copper is adirect proof of the carbothermal reduction of the Cu2+ ion and an indirect proof of the incomplete pyrolysis of acetate orCTAB under nitrogen atmosphere.
+When heating at 1073 K, thefour phosphates are decomposed yielding TiO2, TiP2O7, M2(P2O7) and M3(PO4)2 (XRD not shown therein).
+Isotherm curves of the heated samples are shown in Fig.3a and c.
+From the figures, the four heated materials are mesoporous,their surface areas being close to 200 m2 g−1 (Table 1).
+They also show narrow pore distribution in the 5.5–6.5 nmrange (Fig.
+3b and d).
+Thus, the thermal treatment leads tomaterials with lower surface area and wider pore distributionthan the original copper or cobalt phosphates, which is a knownphenomenon for non stabilised mesophases.
+Heating decreasedthe surface area of cobalt samples in a similar way to thatreported for a sodium-containing titanium phosphates TiP studied in an earlier report , where we showed a slight influenceof the treatment atmosphere on this textural parameter.
+However,surface areas of the copper titanium phosphates stronglydepend on the atmosphere as they decreased from 350 m2 g−1 to220 m2 g−1 and 173 m2 g−1 for CuTiP and CCuTiP, respectively.
+It is not surprising as copper contained in the CCuTiPsample can significantly reduce the surface area of this system.
+By the way, the presence of a CTAB-containing phase justifiesthe high surface area of CCoTiP.
+Finally, for cobalt samplesdpore decreased under nitrogen atmosphere, which can be takenas an indirect proof of the remaining carbon in the pores .
+Information about the composition of the materials obtainedunder air or nitrogen atmospheres was obtained by an analysercoupled with a JEOL microscope (Table 1).
+The values indicatethat for both divalent metals the M2+/Ti ratio approaches the onedescribed by reaction (1).
+However, the P/[Ti4++M2+] ratio wasclose to two.
+This means that after heating, our samples are notbased in α-TiP or γ-TiP structures.
+The composition rather approachesan oxyphosphate or a NASICON structure.
+A thermoanalyticalstudy of the α-TiP and γ-TiP structures showed that aphase transition takes place in the range of 560–680 K but noformation of a NASICON structure was reported .
+X-rayphotoelectron spectroscopy (XPS) carried out on the original TiPindicates the existence of Ti4+ in a phosphate environment, consistentwith a defective NASICON hypothesis structure .
+Therefore,the following formulae were proposed: Co1.62Ti1.44(PO4)3 forcobalt treated and Cu1.56Ti1.47(PO4)3 for copper treated materials.
+In order to shed light on the possible presence of carbon in thesamples together with its nature, we performed CHNS analyseson the four phosphates.
+The tests were performed three times.
+The results are shown in Table 1. 
+The content in carbon followsthe order CCoTiP>CCuTiP>CoTiP>CuTiP.
+In the latter case,the carbon content is close to zero, which is well in line with thecomplete pyrolysis of remaining CTAB by twice heating underair.
+The presence of remaining CTAB justifies the carbon contentfound in CoTiP.
+Moreover, carbon is present in a 2.0–2.5%weight ratio in the samples obtained by heating under nitrogen.
+Although for CCoTiP, we can claim that some template is stillpresent, it is not true for CCuTiP.
+According to recent results ofour group, carbon in an elemental, conductive form, is present inmesoporous titanium phosphates (C-TiP) obtained in a similarway .
+This carbon was found to occlude the mesophases pores.
+Actually, the content in carbon shown byCCoTiP andCCuTiP areclose to that found in the C-TiP material .
+Conductivity was measured for the four samples and for thedivalent metal free phosphate (see Table 1).
+For the TiP [8], CoTiPand CuTiP materials, the values are very similar and indicate thelow conductivity of the phosphates.
+Furthermore, they follow thesame ranking to that found for γ-TiP derivatives , which is asfollows: CoTiP>TiP>CuTiP.
+Therefore, in spite of the structuraldifferences between our systems and the layered titanium phosphates,the effect of the divalentmetal on the network conductivity is similar.
+The samples obtained under a nitrogen atmosphere areremarkably less resistive than those prepared under air.
+The mostsuitable explanation is the presence of conductive carbon in thesystem .
+CCoTiP shows a total conductivity of2·10−4 S cm−1 which is certainly higher than that shown byCoTiP but is four times smaller than for the related cobalt freesystem C-TiP .
+In this case, the presence of CTAB can accountfor a resistive component.
+Finally, the CCuTiP is the most conductivesample prepared due to the presence of copper.
+The first galvanostatic discharges of CoTiP- and CCoTiPbasedcells are shown in Fig.4a.
+Those corresponding to TiP andC-TiP as well Co3(PO4)2 have been added in order to achieve abetter discussion.
+For the cobalt-based cells there is a voltagefading in the OCV–1.6 Vregion, which corresponds to a capacityin the range of 100–150 mA h g−1. 
+Between 1.6 Vand 1.25 V, avoltage pseudoplateau with an extension of 200 mA h g−1 and300 mA h g−1 for CoTiP and CCoTiP, respectively, were observed.
+This pseudoplateau is not present in the cobalt-free samples,therefore is associated to the presence of cobalt in CoTiP andCCoTiP.
+Between 1.0 Vand 0.0 V, the curves show a voltage tail thatprovides 450 and 900 mA h g−1 for CoTiP and CCoTiP respectively.
+This profile is similar to that found for a wide varietyof phosphates: hydrated and anhydrous iron phosphate ,antimony phosphate and for the cobalt free samples TiPand C-TiP .
+For these titanium phosphates, it was stated thatbelow 1.0 V, titanium phosphate reacts with lithium to yield Ti,Li2O and P4. Another possible explanation is the reduction ofsolvent at low voltages, especially when carbonaceous materialsare present in the electrode.
+The product of the reduction is aninsulator solid electrolyte interface (SEI) that usually leads topoor electrochemical performances when cycling the electrodes.
+Fig.4b shows the first galvanostatic discharge of CuTiP- andCCuTiP-based cells.
+Those corresponding to TiP and C-TiP aswell as those to Cu3(PO4)2 have been added.
+For the coppertitanium phosphates, there is a redox activity from OCV to 2.0 V meanwhile the crystalline copper phosphate is not active in thisvoltage range.
+The capacities to 2.0 V can be therefore associatedto the reduction of Ti4+ ions into Ti3+.
+Below 2.0 V, the profiles ofthe three copper compounds are alike.
+It was shown that theplateau at 1.8 Vof Cu3(PO4)2 corresponds to the network destructionto yield Cu and Li3PO4 .
+Therefore, the complex profileof the CuTiP and CCuTiP is associated to the reduction ofthe Cu2+ ions.
+In this context, the occurrence of Cu+ species inNASICON structures  and in Cu3PO4 were earlier reported.
+However, for the CCuTiP cell there is an excesscapacity of 200 mA h g− 1. 
+Please note that an excess capacity wasalso observed for the CCoTiP system.
+Between 1.0Vand 0.0 V, theprofiles shown in Fig.4b are quite similar to those in Fig.4a.
+Therefore, the copper and cobalt titanium phosphatesmust follow asimilar reaction mechanism.
+Actually, CuTiP and CCuTiP samplesprovide 1000 mA h g− 1 and 1600mA h g−1 in the deep discharge.
+Considering the similarities between CCoTiP and CCuTiP profiles,it seems that the reduction of solvent at low voltages is moreextended for this last compound.
+The presence of copper metal (inaddition to carbon) in CCuTiP can account for higher electrolytedegradation.
+Unfortunately, the lack of crystallinity of our samples preventsthe identification of the products present in the electrodes at 2.0 V,1.5 V, 1.0 V and 0.0 V.
+The corresponding XRD patterns (notshown therein) only show peaks corresponding to the stainlesssteel substrate.
+Moreover, these peaks are located at similar anglesto expected metallic products (Ti,Co,Cu) and therefore,we cannotstate the products of the electrochemical reaction with lithium.
+Fig.5 shows the electrodes cycling in the 1.5–3.2 V region.
+This region is selected for testing titanium phosphate NASICONstructures used as positive electrodes.
+None of the fourelectrodes shows a good cycling behaviour, with the capacityless than 75 mA h g−1 at the third cycle.
+It is not so surprising ifwe consider the presence of Li3PO4 formed during the reactions(3) and (4).
+This product is insulating and it damages the electrodeperformance .
+Fig.6 shows the behaviour of oursamples as negative electrodes.
+For this purpose the voltagewindow was 0.0–2.5 V.
+As shown, the presence of a solidelectrolyte interface determines the capacity retention of ourcells, and for example, at the fifth discharge, the capacitiesprovided are less than 250 mA h g−1. These values are too smallfor a practical negative electrode.
+In this context, the presence ofnative carbon or copper are not beneficial as they promotethe formation of the SEI.
+We have obtained cobalt and copper containing titanium phosphateas the amorphous phase.
+Some of the samples contained carbon in an elemental form, due to incomplete pyrolysis of thesurfactant contained in the original TiP.
+The electrochemical activityof the samples in lithium cells involves the Ti4+/Ti3+, Co2+/Co0 and Cu2+/Cu0 redox couples.
+The cells based in these materialsprovide high capacities in the first discharge, both in theOCV–1.5Vand 1.5–0.0Vregions.
+However there is a continuouscapacity fading with cycling.
+The poor electrochemical behaviourshown by the four systems is based on the presence of twoinsulating products, Li3PO4 and a solid electrolyte interface, atdifferent stages of the electrochemical reaction.

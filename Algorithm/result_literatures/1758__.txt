@@ -1,0 +1,29 @@
+Na3AZr(PO4)3 (A ¼ Mg, Ni) phosphates were prepared at 750 1C by coprecipitation route.
+Their crystal structures have been refinedat room temperature from X-ray powder diffraction data using Rietveld method.
+Li2.6Na0.4NiZr(PO4)3 was synthesized through ionexchange from the sodium analog.
+These materials belong to the Nasicon-type structure.
+Raman spectra of Na3AZr(PO4)3 (A ¼ Mg, Ni)phosphates present broad peaks in favor of the statistical distribution in the sites around PO4 tetrahedra.
+Diffuse reflectance spectraindicate the presence of octahedrally coordinated Ni2+ ions.
+
+Chemical analysisrevealed that the Na+2Li+ ion-exchange was notcomplete: the final product presented the formula Li2.6Na0.4NiZr(PO4)3. 
+Its purity and lattice parametersdetermination were carefully monitored by XRD on aPanalytical X’Pert PRO diffractometer (CoKa radiation).
+Diffraction data of Na3AZr(PO4)3 (A ¼ Mg, Ni) phosphateswere collected at room temperature on a Siemens D5000 diffractometer.
+Raman spectra were recorded using a Dilor XY Ramanmicroprobe.
+The samples were excited with the 514.5nmline of an argon ion laser (Coherent model Innova 300).
+
+Assuming that Na3MgZr(PO4)3 andNa3NiZr(PO4)3 belong to the Nasicon family, the Zr(A), Pand O atoms are in the (12c), (18e) and (36f) Wyckoffpositions, respectively, of the R¯3c space group.
+
+Na3MgZr(PO4)3 was then used as a model torefine the structure of Na3NiZr(PO4)3. Na atoms wereassumed to occupy the M(1) and M(2) sites.
+In the firststep, Na occupy fully the M(1) site and the excess ofsodium (two atoms) was located in the M(2) site (18e).
+
+In the second step, theoccupancies of Na(1) and Na(2) sites were allowed tovary, but the total sodium contents were constrained to 3.
+The result of these refinements show clearly a partialoccupancy of M(1) and M(2) sites.
+
+These values indicate a weak crystal field forNi2+ and a covalent character of Ni–O bond in goodagreement with structural results which showed that Ni2+ions are located in the framework [NiZr(PO4)3].
+A new phosphates Li2.6Na0.4NiZr(PO4)3 and Na3NiZr(PO4)3 have been obtained, respectively, by ion exchangeand coprecipitation routes.
+Structures of Na3AZr(PO4)3(A ¼ Mg, Ni) have been refined from X-ray powderdiffraction using Rietveld method.
+The latter phosphatesbelong to the Nasicon family and crystallize in the R¯3cspace group.
+A2+ (A ¼ Mg, Ni) and Zr4+ cations arestatistically distributed in the octahedral sites (12c) of theframework.
+Na atoms occupy partially M(1) and M(2)sites.
+Raman spectra of these phosphates present broadpeaks due to the statistical occupation of the sites (12c,M(1) andM(2)) around PO4 tetrahedra.
+Optical studyshows a covalent character of Ni–O bonds.

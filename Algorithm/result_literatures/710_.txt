@@ -1,0 +1,15 @@
+The development of safe, reliable, yet economical energy storage has been reemphasized with recent incidents involving the explosion and subsequentrecall of lithium-ion batteries.
+The organic liquid electrolyte used in theconventional lithium-ion battery can potentially act as a fuel for combustionin a thermal-runaway reaction, and hence an alternative with a significantlyreduced flammability must be sought.
+All-solid-state batteries have thepotential to meet safety and reliability requirements with the possibility ofincreasing the volumetric energy density of the system, making these a promisingcandidate for the development of the next generation of energy storage.
+Moreover, the sodium-ion battery exhibits a better cost-efficiency without significantly compromising the energy density, making the combination of thesodium chemistry with the solid electrolyte an attractive choice for safe andeconomical energy storage.
+Here, a general background on the recent developmentof ceramic and glass-ceramic sodium-ion-conducting electrolytesis provided with regard to oxide-, sulfide-, and hydride-based electrolytes.
+The ionic conductivity, chemical stability, and mechanical properties of thesodium-based solid electrolyte are discussed, which is followed by a perspectiveon future developments in the field.
+The development of Na-ion-conducting solid electrolyte hasbeen briefly summarized here.
+Since the discovery of β-alumina, which led to widespread research on solid-state electrolytes, theresearch efforts have been mainly focused on further increasing the ion conductivity and processability.
+In order to increase the conductivity, the following approaches have mainly been undertaken;the substitution/addition of dopants to modify the concentrationof mobile ions and vacancies and the morphology controlto remove the grain-boundary resistance.
+Similarly, an improved process ability of solid-state electrolyte has been achieved throughthe substitution of cations and anions, which induces a changein bond energies, allowing stability on exposure to the ambientair and the elastic modulus to be modified for an improvedmechanical property.
+While anion substitution is predicted to bemore effective in improving the properties of interest, there isstill limited research on the approach probably due to the difficultyin the synthesis.
+More experimental attempts to rationallytune the anion substitutions are expected in the future.
+In addition to tuning the existing structure of Na-ion solidelectrolytes, investigation into new structures of Na-ion solid electrolyte with high ion conductivity is crucial for future research.
+An experimental and a theoretical investigation aidedby a computational analysis would be essential in facilitatingthe survey of an extensive list of potential candidates for solidelectrolyte.
+Furthermore, while outside the scope here, theinterfacial reaction driven by the components of the solid electrolyteand that of the active material composite must be carefully considered for constructing sodium all-solid-state batterywith good electrochemical performance.

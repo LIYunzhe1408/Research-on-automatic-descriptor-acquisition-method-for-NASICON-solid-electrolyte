@@ -1,0 +1,109 @@
+Sodium iron phosphate (Na3Fe2(PO4)3) as cathode material for sodium-ion batteries has been  synthesized  through  a  simple  method  of  solid  state  reaction.  It  crystallizes  monoclinic structure  in  the  space  group  C2/c.  The  morphology  of  the  as-prepared  sample  has  been investigated  by  scanning  electron  microscopy  and  transmission  electron  microscopy.  The 
+charge/discharge curves show a very flat plateau at about 2.5 V (vs. Na/Na+). The initial specific discharge capacity is 61 mAh g-1 and remains at 57 mAh g-1 after 500 cycles at a current rate of 1 C. X-ray photoelectron spectroscopy measurements indicate that not all of the Fe3+ of Na3Fe2(PO4)3 is reduced during the electrochemical process. The  Ex-situ  X-ray  diffraction  measurements  was applied  to  research  the  mechanism  of  sodium-ions  storage;  the  results  indicated  that  the Na3Fe2(PO4)3  compound  partly  transformed  into  Na4Fe2(PO4)3  and  Na3+xFe2(PO4)3  compound. 
+
+Sodium-ion  batteries  (SIBs)  are  considered  as  potential  alternatives  to  the  current  lithium-ion batteries (LIBs) due to the natural abundance and low cost of sodium.1, 2 However, few electrode materials can meet the requirements for practical applications because ionic radius of sodium ion is  much  larger  than  that  of  lithium  ion.3-7  Therefore,  we  need  to  find  appropriate  electrode materials for  application  in  SIBs.  Since  the  olivine LiFePO4 cathode material was first reported by  Padhi  et  al.,8  the  search  for  novel  polyanion-based  insertion  “host”  materials  has  been ongoing.9-11 Compared with olivine LiFePO4 cathode material for LIBs, olivine NaFePO4 would be suitable for SIBs.12, 13 However, the olivine NaFePO4 cannot  be  synthesized  through  a simple solid  state  reaction  and  is usually attained by a complicated method of electro-chemical Li+/Na+ exchange of olivine LiFePO4.
+12, 14-17 Carlier et al.18 reported Na3Fe3(PO4)4 as the cathode material in SIBs, however, the electrochemical performance of layered Na3Fe3(PO4)4 compound was not attractive.  As  we  all  know,  iron-based  phosphate  compounds  are  rich  and  complex  structural chemistry.
+
+In this study, Na3Fe2(PO4)3 as the cathode material for SIBs has been reported. The structure of monoclinic Na3Fe2(PO4)3  consists  of  corner-sharing  PO4 tetrahedra and FeO6 octahedra that are like “lantern units”.19-21 The skeleton structures are assembled into a three-dimensional framework defined by M(1) (one position per formula unit) and M(2) (three positions per formula unit) host sites in the rhombohedra. 
+
+The M(1) and M(2) host sites are usually filled (fully or partially) with “guest”  alkali  ions  (Li,  Na).  
+
+Herein,  the  Na3Fe2(PO4)3 NASICON-type phase was  synthesized through the sample method of the solid state reaction. 
+
+The structures of samples were investigated by using the methods of X-ray diffraction (XRD), field emission scanning electron microscopy transmission  electron  microscopy (HR-TEM),  and  X-ray photoelectron spectroscopy (XPS). 
+
+The electrochemical performance was evaluated through the positive electrode in sodium-ion half coin  cells, which exhibited a  very long cyclic stability and excellent rate capacity. 
+
+The structural transformation during discharging process was investigated through XPS and ex-situ XRD measurements.   
+
+Synthesis of Na3Fe2(PO4)3 samples. Amorphous FePO4 was applied as precursor. 
+
+Firstly, FePO4 nanoparticles  were  synthesized  by  means  of  co-precipitation.  Fe(NO3)3·9H2O  (0.1  mol, Sinopharm Chemical Reagent Co.) and NH4H2PO4 (0.1 mol, Sinopharm Chemical Reagent Co.) were dissolved in deionized (DI) water and transferred into a glass reaction kettle. 
+
+DI water (200 mL) and ammonia (20 mL) (ammonia/DI volume ratio of 1:1) was added drop-wise to adjust the pH  value. 
+
+Polyvinyl  alcohol  (5  mL,  PVA,  Mw:  9000,  Sigma-Aldrich  Co.)  was  added  as  a dispersant. 
+
+The suspension continued to react at 90 °C for 2 h. After ageing for 2 h, the solution was centrifuged at 8000 rpm for 15 minutes and washed three times with DI water. 
+
+The schematic of the synthesis of the Na3Fe2(PO4)3 samples is illustrated in  Figure  1. The as-prepared FePO4 nanoparticles were mixed with CH3COONa,  NH4H2PO4  based on stoichiometric proportions by high-energy ball milling for 4 h. 
+
+Then, the hybrid powder was sintered in a tube furnace at 600 °C for 10 h. 
+
+All chemicals were analytically pure reagents that were used without further purification. 
+
+Structural characterization. The structures of the samples were identified using XRD combined with Rietveld refinements using a X-ray diffractometer (Bruker D8 Advance,  Germany) with Cu 
+
+Kα radiation (λ = 0.1506 nm). The diffraction angle (2θ) was 5–90° with a step size of 0.03° and a counting time of 5s per step. Ex-situ XRD patterns were  collected between 5° and 90° (2θ) at a scanning speed of 2° min-1. The refinements were carried out using the GSAS  program with the EXPGUI  interface  and  the  monoclinic  unit-cell  in  the  space  group  C2/c.  
+
+The  morphology  of particles  was  characterized  by  using  the  FE-SEM  (HITACH  S4800,  HITACH  Co.,  Japan). 
+
+(HR-TEM(JEM-2100F,  Japan)  was  used  to  study  the  microstructure  of  the  Na3Fe2(PO4)3.  
+
+The XPS  measurements  were  carried  out  on  an  RBD  upgraded  PHI-5000C  ESCA  system  (Perkin Elmer) with Mg Kα radiation (hν = 1253.6 eV). The whole spectra (0-1200 eV) and the narrow spectra of all the elements with much higher resolution were both recorded by using the RBD 147 interface  (RBD  Enterprises,  USA)  with  AugerScan  3.21  software.  
+
+Binding  energies  were calibrated  by  using  the  containment  carbon  (C1s  =  284.6  eV).  The  XPS  data processing  was carried out using the XPSPEAK4 program.   
+
+The  electrochemical  properties  were  evaluated  by  using  a CR2016 type coin cell. The positive electrode material was prepared by ball-milling with a ratio of active material to conductive material (consisting of acetylene black and graphite with a weight ratio of 6:4) of 62:30 by weight. The average mass of composite loading on the electrode was 15 mg.  
+
+The area of the electrodes  was about  2 cm2.  The composite and  PTFE (polytetraﬂuoroethylene, average Mw ~ 500000, Sigma-Aldrich Co.) were mixed in a ratio of 92:8 by  weight  in  alcohol  through  grinding  and  then coated  on the  stainless steel  mesh,  which  was welded on the positive electrode shell of the CR2016-type coin cell. 
+
+The electrode sheet was then dried in a vacuum oven at 120 ◦C for 24 h. The sodium foil was used as the anode in this work. One mole  of  NaClO4  (AR,  purchased  from  Aladdin  Co.)  dissolved  in  ethylene  carbonate  (EC)  anddimethyl carbonate (DMC) at a volume ratio of 1:1 was used as the electrolyte, and glass fibres were  used  as  the  separator  (Separators  were  supplied  by  the  Whatman  Co.,  EC,  DMC  were purchased  from  BASF  Co.).  
+
+All  coin  cells  were  assembled  in  an  argon-filled  glove  box.  
+
+A galvanostatic  cycle  was tested  in  the  voltage  window  of  1.5–3.5  V  by  using  a  Land CT2001A battery test system (Wuhan Land, China). 
+
+The cyclic voltammetry (CV) tests were carried out on the electrochemical work station (Chenhua CHI660C, Shanghai, China). 
+
+CV measurements were made at different scanning rates and the potential window was 1.5–3.5 V. As-synthesized cathode material  was  used  as  the  working  electrode  and  sodium  foil  (AR.  Purchased  from  Sinopharm Chemical  Reagent  Co.)  as  the  counter  electrode  and  reference  electrode.  All  electrochemical measurements were tested at room temperature (25 ºC). 
+
+The XRD patterns of Na3Fe2(PO4)3 and crystal structure are shown in Figure 2a. The refinement used  the  monoclinic  unit-cell,  a  =  15.128(1)  Å,  b  =  8.721(1)  Å,  c  =  21.564(1)  Å,  and,  β  = 90.14(1)° in the space group C2/c and the results are shown in Table 1. 
+
+The results indicate that the  structure  of as-prepared  Na3Fe2(PO4)3  is  monoclinic  in  the space  group  C2/c.22  The crystal structure  is  illustrated  in  Figure  2b.  The  framework  is  built  of  [Fe2(PO4)3]  “lantern  units” stacked  parallel  to  the  [001]  direction.  
+
+Iron  and  phosphorus  are  in  octahedral  and  tetrahedral coordination environments, respectively. The sodium ions are located in the two crystallographic sites, defined as M(1) and M(2) sites, respectively. The point symmetry of the 6-coordinate M(1) that lies along [001], between two [Fe2(PO4)3] lantern units is 3. 
+
+The point symmetry of M(2) is 2; it is 8-coordinated and lies at the same z value as the phosphorus atom. It is a NASICON-type 
+
+The  XPS  spectra  of  Na3Fe2(PO4)3 are shown in Figure 3. The typical spectra show the whole spectrum (0~1100 eV,  Figure  3a) and the narrow spectra of all the elements (Figures  3b-f). The binding energies were calibrated using containment carbon (C1s = 284.6 eV). 
+
+As shown in Figure 3c, the Fe 2p spectrum is split into two parts due to spin-orbit coupling, which consists of Fe 2p3/2 and Fe 2p1/2.23  The Na3Fe2(PO4)3 exhibits binding energies located at the values of 712.5 eV for Fe  2p3/2  and  726  eV  for  Fe  2p1/2.  The  results  confirmed  that  iron  is  almost  totally  in  the  +3 oxidation state and is in good agreement with the Fe3+ ions’ binding energy.24 The P 2p spectrum shown in Figure 3d is like Fe 2p spectra as it is split into two components of P 2p3/2 and P 2p1/2, respectively.  The  binding  energy  of  P  2p3/2  is  133.4  eV  and  that  of  P  2p1/2  is  134.3  eV.  The observation of only one P 2p doublet corresponds to the appearance of only one environment of phosphorus,  which  corresponds to the  (PO4)3 group  of  the  Na3Fe2(PO4)3 compound.  The O  1s spectrum shown in Figure  3e  is  located at approximately 531 eV and is attributed to the oxygen atoms of the (PO4)3group of Na3Fe2(PO4)3 compounds. The Na 1s spectrum shown in Figure  3f is located at 1071.7 eV and is attributed to the NaO group of Na3Fe2(PO4). 
+
+The SEM and TEM images of the precursor FePO4 are shown in Figure 4a. 
+
+The morphology of FePO4 was ball-like and the grain size was about 20 nm. The HR-TEM image exhibited no lattice fringe and the selected area electron diffraction (SAED) images did not show obvious diffraction rings,  which  proved  sufficient  evidence  that  the  precursor  FePO4  is  of  amorphous  structure.  A detailed explanation has been published in previous reports.25-29 The TEM images of as-prepared Na3Fe2(PO4)3 are shown in Figure 4b. Under heat treatment, the particle grain size enlarged duo to  the  crystallization  process  and  agglomeration.  The  HR-TEM  image  and  SAED  pattern  are shown in Figure 4b. The results indicated that as-synthesized samples were of high crystallinity. 
+
+The lattice spacing of 2.8 Å and  3.7 Å could be assigned to the (021) and (022) crystal planes, respectively. The results were in good agreement with the aforementioned XRD results. . 
+
+The  electrochemical  performance  of  Na3Fe2(PO4)3  as  cathode  material  in  SIBs  is  shown  in Figure 5. The CV test results at various scan rates of 0.02, 0.05, 0.08, 0.1, 0.2, 0.3, 0.4, and 0.5 mV s−1 are displayed in Figure 5a. There is only one pair of peaks, which correspond to the redox of Fe3+/Fe2+. The pair of current peaks is located at 2.4V/2.6V at a scan rate of 0.02 mV s−1 and they show outstanding reversibility. The current peaks are  still clearly observed at a high scan rate  of 0.5 mV s-1.  The charge/discharge curves under a rate of 1 C are shown in Figure 5c. The initial discharge/charge specific capacities are about 61 mAh g-1 with very flat voltage plateaus located at about 2.5 V, in good agreement with the results of CV tests. The reactions can be expressed by Eq. 1. The active mass of electrode material, charge/discharge current density, and specific capacities have  been  calculated  based  on  the  Na3+xFe2(PO4)3  (x  =  2).  The  retention  of  charge/discharge specific capacity at the rate of 1 C and corresponding coulombic efficiency are displayed in Figure 5d. 
+
+The reversible capacity of Na3Fe2(PO4)3 was 61 mAh g-1 and was maintained at 57 mAh g-1 after 500 cycles without obvious fading of the capacity. The initial coulombic efficiency was up to 95%  and  remained close to 100% during all of the cycles. The rate capability of Na3Fe2(PO4)3 is shown in Figure 5e and Figure 5f. The values of reversible capacities were 61, 60, 57, 50, and 40 mAh g−1 at 0.2, 0.5, 1, 2, and 5 C, respectively. When the rate current returned to 1 C, the discharge specific capacity of 57 mAh g−1 was still recovered. Remarkably, the excellent rate capability and cyclic stability of the Na3Fe2(PO4)3 cathode material clearly prove that Na3Fe2(PO4)3 is a potential cathode material for SIBs. 
+
+To  further  explain  the  outstanding  rate  performance,  we  calculated  the  sodium-ion  diffusion coefficient  (DNa+)  using  the  CV  method.  The  DNa+  value  can  be  calculated  from  the  linear relationship between the peaks current (Ip) and the square root of the scan rate (ν1/2) from the CV profiles, according to the following Randles–Sevcik equation (Eq. 2).30-32 where n represents the charge-transfer number (here n = 2), A is the surface area of the electrode (2 cm2), and CNa+ is the concentration of sodium ions in the Na3Fe2(PO4)3 electrode (6.85 × 10-3 mol cm-3).  The plots of Ip versus ν1/2 are shown in Figure 5b. (the value of the slope is shown in the inset). 
+
+The  DNa+  value  was  calculated  to  be  2.4  ×  10-8  cm2 s-1. Compared to the values for other electrode materials in LIBs, such as 8.3 × 10−14 cm2 s−1 for LiFePO4 for Li4Ti5O12,34 the diffusion process of sodium ions becomes easier in Na3Fe2(PO4)3, even though the radius of sodium ions (1.02 Å) is much larger than that of lithium ions (0.76 Å). The high value of DNa+ is one of the reasons for the outstanding rate capability. 
+
+After the sodiation process completed, the coin cells were disassembled in the glove box. The positive electrodes were characterized by the XPS method. The results are shown in Figure 6. The whole spectrum (0~1100 eV) (Figure  6a)  was similar to that of the pristine Na3Fe2(PO4)3 except for the appearance  of the  F  1s  characterization  peak,  which corresponded  to the component  of binder PTFE. 
+
+The Fe 2p spectrum of completely sodiated Na3Fe2(PO4)3 is displayed in Figure 6b and consists of two segments of spin-orbit coupling (Fe 2p1/2 and Fe 2p3/2). Each component consists of two peaks with the binding energy position related to Fe2+ and Fe3+, respectively.24 The results confirmed that not all of the Fe3+ was reduced after the discharge state. 
+
+Not all of the Fe3+ inNa3Fe2(PO4)3 compounds showed electrochemical activity, which was in good agreement with the phenomenon of the specific capacity hardly reaching the theoretical specific capacity even though the current density was relatively low. The C 1s spectrum is shown in Figure 6c and consists of four peaks located at 284.6, 286.8, 289.1, and 291.7 eV, respectively. The main peak at 284.6 eV was assigned to the conductive carbon.35 Two peaks at 286.8 and 291.7 eV were attributed to the PTFE  binder  (-CH2 and  -CF2 groups,  respectively).
+
+The  O  1s  spectrum  of  sodiated Na3Fe2(PO4)3  displays  only  one  peak  at  approximately  531  eV,  which  was  attributed  to  the  O atoms of the (PO4)3group. The results were similar to those of pristine Na3Fe2(PO4)3 apart from the appearance of a new weak peak at 534 eV, which might be attributable  to  a  scant  amount  of oxygenated  material  deposited  on  the  surface  of  the  positive  electrode.  
+
+The  P  2p  spectrum  of Na3Fe2(PO4)3 after the discharge process was almost unchanged. The Na 1s spectrum is shown in Figure 6f consists of two peaks. The main peak at 1071.7 eV was similar to the peak of pristine Na3Fe2(PO4)3. A weak peak corresponding to NaClO4 was assigned. The results from XPS tests led us to conclude that the Fe3+ in the Na3Fe2(PO4)3 could not be completely reduced during the electrochemical  process.  
+
+Very  Little  substance  was  deposited  on  the  surface  of  the  positive electrode and few side-reactions took place during the electrode reaction.   To further understand the structural changes in the Na3Fe2(PO4)3 during the sodiation process, ex-situ  XRD  measurements  were  performed  at  different  discharge  stages  and  the  results  are presented  in  Figure  7.  
+
+A  wide  board  peak  appeared  at  10º,  corresponding  to  the  conductive graphite.36 Several strong peaks appeared beyond the diffraction angle of 60º corresponding to the current collector. The rest of the peaks were attributed to the Na3+xFe2(PO4)3. According to the XRD  results,  there  was  formation  of  a  new  phase  with  the  insertion  of  sodium  ions  because appearance  of  obvious  peaks  and  some  peaks  of  intensity  becoming  stronger.  
+
+The  diffraction peaks located at about 20º and 40.5º became stronger and new peaks appeared at about 40.5º after the insertion of sodium ions. Those  diffraction peaks corresponded  to  the  Na4Fe2(PO4)3 phase based  on  previous  report.37  The  results  indicated  that one phase Na3Fe2(PO4)3 transformed into another phase Na4Fe2(PO4)3 during sodium-ion insertion. 
+
+The XRD patterns illustrate that existed mixtures of two phase’s character of the reaction. We deduce the part of the slope on the discharge curve might correspond to other processes  and  the  composition  at  the  discharged  state  at  1.5V might  correspond to  Na5Fe2(PO4)3 compound.  We state that the structure of Na5Fe2(PO4)3 might be the same as that of Na4Fe2(PO4)3. Therefore, we think the composition at  the  discharged state at  1.5V  was  Na4Fe2(PO4)3 or  Na5Fe2(PO4)3 compound.  
+
+However,  we did not find the standard PDF card of Na5Fe2(PO4)3 composition, which the crystalline structure need further research. 
+
+In  summary,  Na3Fe2(PO4)3 was successfully synthesized through a simple solid-state method and  the  structure  was  characterized  by  XRD  combined  with  Rietveld  refinement.  It  shows  the monoclinic structure in the space group of C2/c. We used the Na3Fe2(PO4)3 as cathode material in SIBs, which showed very high cyclic stability and kept a reversible specific discharge capacity of 40  mAh  g−1  at  the  current  rate  of  5  C,  with  very  flat  voltage  plateaus  located  at  about  2.5  V. Nevertheless, monoclinic Na3Fe2(PO4)3 still has a shortcoming at present, namely that the specific discharge  capacity  is  relatively  low.  
+
+Once the  bottleneck  of  relatively  low  specific  discharge capacity  is  broken,  the  low  cost  and  environmental  friendliness  of  Na3Fe2(PO4)3  might  have extensive application prospects in energy storage systems. 

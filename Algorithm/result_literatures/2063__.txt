@@ -1,0 +1,119 @@
+Sensors and Actuators B 77 (2001) 339±345
+Abstract
+
+Different oxygen electrodes are compared to be used in second kind gas sensors. Perovskite oxides (La1 xSrxMnO3), RuO2, platinum and gold deposited on NASICON electrolyte were characterized by impedance spectroscopy in different atmospheres (argon, synthetic pure air or with 5% CO2). They were also mixed with Na2Ti6O13±TiO2 and Na2Ti3O7±Na2Ti6O13 to improve the reversible exchange of oxygen and sodium at the interfaces. Results show that the resistance of the platinum electrode is generally smaller than the perovskite one hundred or thousand times smaller than the gold one when they are deposited alone. The best results when using mixtures are obtained for the Na2Ti3O7± Na2Ti6O13 system mixed with La0.8Sr0.2MnO3 for which a sensitivity to oxygen is observed. # 2001 Elsevier Science B.V. All rights reserved.
+
+Keywords: Gas sensor; Oxygen electrode; Impedance; LSM; Titanium oxides; NASICON
+
+1. Introduction
+
+Food industry, domestic and environmental applications need the development of sensors for the CO2 analysis [1,2]. The ®rst CO2 potentiometric sensor was developed by Severinghaus and Bradley in 1958 (see, e.g. [2]), but the ®rst new potentiometric solid sensor was built by Gauthier at 20 years later [3] using K2CO3±Ag2SO4 pellets.
+
+Studies of second kind potentiometric sensors using new solid ionic conductors are more and more developed for gas analysis, because they can be miniaturized and manufactured in mass production. In this ®eld, other researches have been performed using new solid electrolytes (b-alumina, NASICON and LISICON) with a high ionic conductivity [4±6]. The sensitivity and selectivity of CO2 electrodes have been studied too [5,7±10]. For such sensors, oxygen electrodes have been proposed as reference electrodes in open devices [11±16]. In this case and without additional compound, the electrode reaction can be written: O2  2e   2Na and in the calculation of the voltage, Na2O activity is supposed to be constant in the solid electrolyte or at the interface [17]. Such a hypothesis is not obvious and reversible thermodynamic chains have been proposed by Maier et al. [15,16] using sodium±titanium oxides, for example
+
+mixtures of Na2Ti3O7±Na2Ti6O13 or Na2Ti6O13±TiO2 [18,19]. In such a case the electrode reaction can be written, for example, for the first mixture: O2  2Na
+
+Na2Ti3O7 and Na2Ti6O13 are separated phases, their activities are well defined and so the stability of the voltage must be improved.
+
+Generally, in such sensors, the electrical connections are platinum or gold. They are very expensive and the use of other materials with catalytic properties could be interesting for a mass production. Perovskite oxides are usual electrode materials in SOFC devices and can be easily deposited in thin or thick layers. In the present study, the compound
+
+La1 xSrxMnO3 (x  0:2) which is a good electronic con-
+
+ductor has been tested. The impedance spectra have been compared to those of platinum, gold and also RuO2 in different atmospheres (argon, pure air and air±5% CO2 for future applications in CO2 sensors). The electrodes were directly deposited on NASICON pellets by serigraphy, or in mixtures with Na2±Tim oxides.
+
+2. Experimental
+
+2.1. Electrode and electrolyte materials
+
+Na2±Tim oxides were prepared by a sol±gel method. The titanium (IV)±n-butoxide 99% starting compounds are: (Jansen Chimica), sodium hydroxide (Strem Chemical Inc), butanol and water. The alkoxides are mixed in a butanol medium and the hydrolysis±condensation reaction is obtained by an excess of water. The powder is dried and sintered during 16 h at 10008C in an ambient atmosphere. X-ray diffraction analysis reveled that two phases are present. The ratios of these phases are calculated by a semi-quantitative method, by integrating the pick intensities of the same diffraction plane (1 0 0) of the phases. The following compositions were obtained: for the ®rst powder, Na2Ti3O7±Na2Ti6O13 with 3/1 in mass (named Ti3 in the text) and for the second powder, Na2Ti6O13±TiO2 with 2/1 in mass (named Ti6 in the text). The X-ray spectra are agreeing with the literature data and no additional phases were detected. Their conductances were
+
+measured and will be published elsewhere, nevertheless to summarize the principal results, we can say that the conductivity depends on the oxygen pressure for Ti6 and is independent for Ti3 at a given temperature.
+
+The perovskite oxide is a commercial product (Praxair LSM 99.9%, particle size: 2.2 mm); and the X-ray diffraction analysis correspond to the composition La0.8Sr0.2MnO3 which was named LSM in the text. RuO2 layers are obtained by burning commercial RuCl3 (Johnson Matthey) in ambient air. Platinum electrodes were realized by painting with a commercial lacquer (308A, Demetron) and gold electrodes by vacuum deposition (Edwards E306A apparatus).
+
+The NASICON was also synthesized by a sol±gel method and sintered at 10008C to obtain dense pellets (0.8 mm
+
+Fig. 1. Scan electronic microscopy (SEM) photographs: (a) distribution of size grains and (b) distribution of LSM particles with the retro-electron scan (particles more clear) for the system NASICON/LSM (TiO2±Na2Ti6O13).
+
+
+diameter and 1 mm thickness), as described in details elsewhere [20].
+
+program ``Equivalent circuit'' [21] using an impedance spectrometer Hewlett Packard 4192A.
+
+2.2. Screen printing deposition
+
+The LSM and LSM/Na2±Tim inks were elaborated with a particle size smaller than 400 meshes. After a 24 h mixing, the oxide inks were deposited by the screen printing technique on both sides of NASICON pellets (symmetrical cells). The sintering of pellets was done at 10008C, during 1 h in ambient atmosphere.
+
+The layer was characterized by scan electronic microscopy (SEM). An example is shown on Fig. 1 for a LSM/ Na3±Tim mixture. The particle distribution is homogeneous like is shown on Fig. 1a. The average size of ink particles is 10 mm, but there are some particles with 30 mm. The distribution of LSM particles is shown on the Fig. 1b using the retro-electron scan. Because lanthanum is a heavy element, it appears like the clearest particles. The LSM has an average particle size of 3 mm. The darkness regions of photograph (Fig. 1b) represent the particles of Na2Ti6O13± TiO2 mixture.
+
+Three pellets of NASICON were elaborated with LSM: LSM/Na2Ti3O7±Na2Ti6O13 (called LSM±Ti3 and with 50± 50 wt.% composition) and LSM/Na2Ti6O13±TiO2 (called LSM±Ti6 and with 50±50 wt.% composition too).
+
+2.3. Experimental set up
+
+Fig. 2 shows a schematic diagram of the symmetrical devices used for the study. Oxygen sensing experiments were carried out in a conventional ¯ow apparatus equipped with a heating facility in the range 470±7008C. Sample gases containing 21% O2 in N2 (dry synthetic air); 19% O2, 5% CO2 in N2, and 10 ppm O2 in argon. The ¯ow rate of gases was ®xed at 2 l h 1.
+
+The electrical impedance spectroscopy (EIS) was used to analyze the oxygen response, in the range 13 MHz to 5 Hz. The analysis of impedance spectra was built up by the
+
+Fig. 2. Experimental cell for impedance measurements and reference electrodes deposited on NASICON.
+
+3. Results and discussion
+
+The impedance plots have a shape characteristic of a
+
+limiting diffusion regime, in accordance with: Z  sw o1=21   j and with sw 
+
+where o is the alternative frequency signal, D the equivalent diffusion coefficient of the electroactive species (due for instance to a limiting effect of the porosity) and C0 is their concentration (function of the oxygen pressure).
+
+The equivalent electric circuit response can be plotted in a Nyquist diagram and theoretically semi-circles appear at high and medium frequencies due to the NASICON conduction (grain and grain boundary effects) and due to the transfer phenomena. The straight line with a slope of 458 is due to the limiting phenomenon of the electrode reaction above mentioned. Because of the time constants are close to each other, semicircles cannot be clearly identi®ed and only a global loop (approximately a semi-circle) is often observed which overlaps with the Warburg straight line, essentially when the temperature is increasing. Moreover, a parasite effect at high frequencies due to a self induction of electrical leads is also generally observed. We studied the straight line only (named Warburg line) representing the limiting phenomenon.
+
+For a given frequency, if C0 is increasing (for example, for ), then sw and |Z| are decreasing. With a similar high PO2 effect of the diffusion coef®cient, the impedance modulus is high at a given frequency for a slow electrochemical system. Our plots, for example using a platinum±Ti3 mixture electrode (Fig. 3), verify that the oxygen reaction in air is faster than in argon. It is also slightly faster than in the 19% O2, 5% CO2 mixture in N2. Because the diffusion coef®cient is an increasing function of temperature, the higher the temperature the smaller the impedance.
+
+Different electrodes deposited on NASICON were tested (Au, Pt, LSM, RuO2), pure or with Na2Tim oxides. The determination of the total resistance of the NASICON pellet can be made from the high frequency spectra and the values correspond to the usual ones whatever the temperature is [20]. At low frequencies, the spectra associated to the electrode processes (O2 diffusion) correspond to the previous discussion. Because the charge transfer is fast compared to the diffusion phenomenon, the impedance spectra are a straight line with a slope close to 458.
+
+A comparison of pure materials deposited on NASICON as oxygen electrodes at 7008C for the same area is made in
+
+well known and the application in the oxygen reaction is described in the literature [22±24]. Our results show that the impedance obtained with gold is the highest. Gold, which is an inert metal versus oxygen is then the worse oxygen electrode from this point of view. Such results are not surprising, because they are in accordance with the results obtained on zirconia at high temperature [25]. The sensibility versus the oxygen pressure is very low for the gold electrode, low for the RuO2 one and signi®cant for the other materials (about a factor two, when the values obtained with air and argon are compared).
+
+When the electronic conductors are mixed with the Na2± Tim oxide mixtures, the results are different as shown in Table 2 (for Na2Ti3O7±Na2Ti6O13). The electrodes based on a platinum mixture are not very performing, because the impedance is very high. Of course, in this case, the quantity of metal is lower, because a paint was used and the quantity of solvent in the paint is not very well known. The mixture with RuO2 gives average results with a low sensitivity to the oxygen pressure. Moreover, we have observed a strong in¯uence of CO2 on the loop of the high frequency impedance which can be due to a reaction of CO2 with RuO2±Ti3 mixture.
+
+From these results, the mixture of LSM with Ti3 seems to be the best choice with low values of impedance and a high sensitivity. Examples of impedance diagrams are plotted in Figs. 4 and 5, when LSM is used as pure materials or mixed with Ti3.
+
+Fig. 3. Impedance plot for the cell NASICON/Pt±(Na2Ti3O7±Na2Ti6O13) (50±50 wt.%) at 7008C (13 MHz±5 Hz) in three atmospheres (argon, air and air 5% CO2).
+
+Table 1. The values correspond to the real part of the impedance at 5 Hz. A qualitative variation with the oxygen pressure is observed, whatever the materials are: the lower the oxygen pressure, the higher the impedance.
+
+For the platinum electrodes, the value are not very reproducible, they depend on the deposition or the ink quality, because in this case the deposition is simply made by painting with a brush. So we can only compare the order of magnitude and the amplitude of the variation in function of the gas. The properties of electronic conductor LSM are
+
+and so the electrode reaction is delocalized and can be written: 2Mn4
+
+at the interface metal lead/LSM (such a reaction can be considered as fast). At the interface LSM/gas, through the porosity, the limiting step can be written: LSM  O2  2Mn3 where VLSM is an oxide vacancy and O2  LSM a normal oxide ion in LSM. So the total reaction at the electrode can be also written: O2  VLSM  2e  , O2  In our case, we can suppose that the oxygen diffusion is dif®cult to reach the interface through the porosity of the layered electrode.
+
+On the other side, the sodium and oxide contributions by LSM electrode, NASICON electrolyte and Na2±Tim oxides can be written in accordance with the following reaction: LSM  2Na O2 
+
+if LSM is used as pure phase, or the following reaction: LSM  2Na O2  if mixtures of Na2±Tim are added.
+
+In this mechanism, the diffusion of oxide ions through the materials can also be a limiting phenomenon leading to a
+
+Fig. 5. Impedance plot cell NASICON/LSM±(Na2Ti3O7± Na2Ti6O13) (50±50 wt.%) at 7008C (13 MHz±5 Hz) in three atmospheres (argon, air and air 5% CO2).
+
+Because LSM seems to be promising, the values obtained when it is used in pure phase or mixed with Ti3 or Ti6 were compared versus temperature (Fig. 6). It appears that Ti3 is better than Ti6. Such a result is not surprising, because Ti6 is a mixture of Na2Ti6O13±TiO2, and TiO2 is a poor electronic conductor (n or p, versus the oxygen pressure) and the electrode resistivity is higher than the Ti3 one. Of course the impedance of pure LSM is smaller when it is mixed with the Na2Tim systems, because of the low conductivity of these materials. We can see that the sensitivity is increased when Ti3 is added compared to other systems.
+
+There is not true model for the oxygen reaction on LSM up to now. LSM is a mixed conductor (ionic and electronic)
+
+Fig. 6. Resistance representation at 5 Hz as function of temperature (470±7008C).
+
+J. Ramirez, P. Fabry / Sensors and Actuators B 77 (2001) 339±345
+
+Warburg impedance and so the conductivity of the mixed conductor plays a major role. These reactions show that several phenomena can be limiting in the mechanism of such electrode responses. Nevertheless, because the impedance depends on the oxygen pressure and, because the conductivity of Ti3 does not depend on this parameter, we can think that the limiting phenomenon is the oxygen moving through the electrode porosity.
+
+The use of an electronic conductor directly deposited on NASICON has generally a low impedance excepted gold electrodes. Nevertheless, such systems are not very well de®ned from a thermodynamic point of view, because the activity of Na2O which is introduced in the calculation is not physically de®ned.
+
+Mixed oxides such as Na2Ti3O7±Na2Ti6O13 allow to introduce a reversible system at the interface with the NASICON electrolyte. Because such materials are not good electronic conductors it is necessary to add a metal or another electronic conductor. Gold, which is usually used in CO2 sensor devices is a bad choice, because the oxygen electrode reaction is very slow. Platinum could be a better metal, but it is expensive. RuO2 has not given good results when it is mixed with Na2±Tim oxides and a reaction between CO2 and such a mixture seems to appear.
+
+The electrode materials used in fuel cells are more promising, because they are good conductors. The results show that a mixing of such materials with Na2Ti3O7± Na2Ti6O13 leads to satisfactory performances, for example, in sensitivity. In this case, the impedance spectra can be explained by diffusion of electroactive species (i.e. oxygen) by diffusion through the porosity of electrode materials, because it depends on the oxygen pressure. Of course a systematic study should be necessary to verify such a model for example to determine what is the law of variation vs. the oxygen pressure.
+
+First results in progress in our laboratory are showing that a nernstian response to the oxygen pressure can be obtained using a potentiometric sensor with the electrochemical chain: M MO; Ti3=NASICON=LSM; Ti3
+
+in the temperature range 300±7008C. So, we can already propose such an electrode as reference oxygen electrode in second kind potentiometric devices, for example, for CO2 sensors.
+
+

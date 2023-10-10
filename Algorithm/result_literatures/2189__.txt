@@ -1,0 +1,191 @@
+Phosphates of general formula M Hf (PO ) with M 5 Cd
+
+and Cu were prepared by coprecipitation 21 and characterized by several physical techniques. The compounds containing Cd belong to the Nasicon-type structure, whereas Cu Hf (PO ) exhibited substantially different DRX patterns. Combined temperature programmed 4 3 reduction (TPR) and temperature-programmed oxidation (TPO) showed that the copper in Cu Hf (PO ) was distributed between two energetically different sites in proportions respectively equal to 40 and 60%. Electron Paramagnetic Resonance (EPR) investigations conﬁrmed the TPR/TPO results and revealed that ions are of ions might be reduced by hydrogen to Cu . These results were also supported orthorhombic symmetry. Moreover, the Cu by the UV–visible studies that showed the disappearance, under reducing conditions, of the band corresponding to crystal 1 ﬁeld transitions of Cu and (3d) (4s) 1Cu levels. At the same time, IR spectroscopy conﬁrmed that protons entered the open lattice framework of the material and gave rise to a new protonated phase containing monovalent copper Cu H Hf (PO ) . This redox process was proven to 4 3 be reversible without any subsequent change in the network of the phosphate. 1998 Elsevier Science B.V. All rights reserved.
+
+Nasicon-type phosphates of general
+
+formula 9M M (PO ) constitute a family of particular interest in many domains of solid state chemistry and recently in heterogeneous catalysis [1]. The frame-
+
+Corresponding Ziyad@fsr.ac.ma
+
+work of these materials allows diverse substitutions and large ranges of compositions. Compounds with M 5 Na , Li and M9 5 Ti, Sn, Zr have been extensively studied [2–5]. Recently, sodium–copper exchange had given rise to a new class of phosphates with attractive properties. The copper is hosted by these materials at 1 2 or 1 1 or both oxidization states at the same time [6,7]. Moreover, the basic skeleton is not destroyed by the
+
+copper relatively high temperatures. This property might be of use in catalytic studies involving hydrogen or oxygen and could provide relevant information on the function of Cu and Cu species in the catalytic activity [8,9]. Nasicon-type structure was initially described for NaZr (PO ) [10]. It consists of an assembly of 4 3 [ZrO ] octahedra and [PO ] tetrahedra sharing corners and forming a three-dimensional skeleton crossed by conduction tunnels (Fig. 1). The cations M occupy two types of sites in the structure with different oxygen environments, referred to as M and M . The distribution of M between these sites is believed to depend on the nature of the cation M and perhaps also on the factors governing the method of preparation. In NaZr (PO ) for instance, the sodium 4 3 was found to lie exclusively in the M sites along the c-axis of the hexagonal cell. According to the literature, these sites exhibit a distorted octahedral symmetry, whereas the cations in M sites have a coordination number ranging from 8–10.
+
+compounds Cu M (PO ) is not as yet accurately established 4 3 despite the numerous studies carried out on these
+
+copper
+
+materials. The difﬁculties encountered result probably from the high distortions introduced in the structure by the divalent copper. Due to this lack of it structural data, in Cu Zr (PO ) , the divalent cations M occupy 4 3 two different sites M and M analogous to those identiﬁed in In 21 Cu Hf (PO ) 4 3 ions poses undoubtedly identical problems.
+
+the Nasicon-type the precise localization of the Cu
+
+is commonly accepted that
+
+The present article is concerned with the synthesis and the characterization of the new divalent copper– hafnium phosphate Cu Hf (PO ) . The Cu ions in this compound like in Cu Zr (PO ) should 4 3 exhibit ﬁve or six-fold coordination, strongly distorted by the static and/or dynamic Jahn-Teller effect. In addition, the extent of the inﬂuence of the individual properties of Cu ions on the geometry and the stability of the host matrix is a question that might be raised. Other compounds belonging to the 21 same family M Hf (PO ) with M 5 Cd , Ca were also synthesized, characterized and and Sr compared to Cu Zr (PO ) . Special attention was devoted to the surrounding symmetry and the redox properties of
+
+Chemical composition and the amounts of Cu, Hf and P were determined using an ICP–AE spectrometer after dissolving the sample in dilute aqua-regia. EDX–STEM analysis were performed on a high resolution JEOL JEM 100CX transmission electron microscope.
+
+X-ray powder diffraction patterns were recorded with a Phillips PW 1710 diffractometer using Cu Ka radiation. P MAS NMR spectra were obtained with a Bruker MSL 300 spectrometer. Chemical shifts were referenced with respect to H PO . Diffuse reﬂectance spectra were taken between 200 and 1200 nm on a PerkinElmer (Lambda 9) spectrometer using BaSO as the reference. EPR spectra were recorded using a Varian E100 spectrometer and the DPPH as the reference for the calibration of g values. IR spectra were obtained in transmission mode on a Bruker IFS 48 spectrometer equipped with Fourier transform and a cell supporting high temperatures and different atmospheres.
+
+Temperature-programmed reduction (TPR) and temperature-programmed oxidation (TPO) were per21 formed to characterize the redox behavior of Cu ions. The device used is mainly composed of a
+
+the oxidation)
+
+quartz reactor containing the sample which is exposed to a linear temperature rise and a stream of reducing (or oxidizing) diluted gas [12]. The reduction (or the copper was continuously monitored by thermal conductivity detectors which measure the changes in the concentrations of the gases at the outlet of the reactor. These thermal techniques, beside their easy usage, provide information that cannot be drawn from the usual steady state kinetic measurements.
+
+Chemical titration of the samples and the EDX– STEM analysis are reported on Table 1. They show is in that positive formula Cu Hf (PO ) . 4 3
+
+the stoichiometry of the ﬁnal material
+
+0.5 X-ray diffraction patterns of Cu Hf (PO ) 4 3
+
+(Fig. 2) recorded at room temperature differ noticeably from that of Nasicon-type compounds. However, they are identical to those of Cu Zr (PO ) prepared by coprecipitation and to the low temperature variety of LiZr (PO ) [11,13]. They can be indexed 4 3 assuming a monoclinic cell with the following parameters:
+
+All the other phosphates M Hf (PO ) of larger divalent cations like M5Ca exhibit similar X-ray diffraction patterns. They can be indexed in the rhombohedral system presumably with the space group R32. The parameters of the
+
+Table 1 Chemical Cu Hf (PO ) 4 3
+
+composition
+
+EDX–STEM analysis
+
+Atomic ratios
+
+Theoretical Chemical analysis EDX–STEM analysis
+
+M. Ziyad et al. / Solid State Ionics 110(1998)311–318
+
+Fig. 2. X-ray diffraction patterns of Cu Hf (PO ) . 4 3
+
+equivalent hexagonal cell of Cu Hf (PO ) are 4 3 given in Table 2 and are compared to that of M Hf (PO ) 4 3
+
+0.5 The results show that the parameter c increases linearly with the radius of the divalent cation (Fig. 3). Correlatively, a decreases probably because of the elastic character of the basic lattice framework [Hf (PO ) ]. Strikingly, Cu Hf (PO ) does not 4 3 obey the same evolution. The deviation from the linear behavior (Vegard’s law) was attributed to the 21 large distortions introduced in the structure by Cu ions. Indeed, the volume of the elementary cell of Cu Hf (PO ) was found to be slightly weaker than the volume of the other cells of the series. It is difﬁcult to give a reasonable interpretation to all these differences in lack of a precise description of the structures. In the Nasicon-type compounds, large divalent cations are known to occupy only half of the M sites [15]. It can be assumed then that the situation is probably analogous for the isostructural phosphates M Hf (PO ) . 4 3
+
+Fig. 3. Parameter c (A) dependence of the ionic radius of the 21 cation M .
+
+4. Redox properties
+
+The temperature-programmed reduction (TPR) and temperature-programmed oxidization (TPO) were utilized to investigate the redox processes of Cu species contained in Cu Hf (PO ) . These techniques provide valuable information on the amount, the environment and the oxidation states of exposed copper [16].
+
+4.1. Temperature-programmed reduction (TPR)
+
+The experiments were carried out at atmospheric pressure, on 300 mg of Cu Hf (PO ) , using 40 cm min of nitrogen containing a partial pressure of hydrogen equal to 34 Torr. In Fig. 4 the typical thermogram proﬁle of an experiment performed at a
+
+Table 2 Cell parameters of M Hf (PO ) with M5Cu , Ca
+
+Phosphates
+
+M. Ziyad et al. / Solid State Ionics 110(1998)311–318
+
+heating rate and E the activation of the reduction process.
+
+By modifying the heating rate b in a series of experiments and measuring the corresponding temperatures T , good straight lines were obtained when plotting successively for each one of the peaks (2 ln T 2ln b2ln [H ]) against 1/T . The activation energies deduced from the slopes of these straight lines are respectively E 545 kJ mol and E 578 kJ mol . The temperature gap between the two hydrogen consumptions at their apex is about 2708C. Comparative results were reported in the literature for copper exchanged zeolites [18]. Albeit in this case, the reduction might proceed until the formation the activation energies were of metallic copper, found to correspond to the reduction of Cu ions located in nonequivalently oxygenated sites [19].
+
+UV–visible analysis of the sample after the TPR run (Fig. 5) showed a complete disappearance of the 21 band corresponding to d–d transitions of the Cu ions and the apparition of a new broad band within 10 350–650 nm due to charge transitions between 3d and 3d 4s Cu electronic levels. Despite the high temperatures reached during this reduction, the spectrum does not exhibit the optical conduction band of metallic copper (ca. 570 nm) proving that the formation of this metal did occur.
+
+IR spectra of the sample after the TPR (Fig. 6) evidenced the apparition of new bands at 530, 825 and 1280 cm . These bands have been also ob-
+
+Fig. 5. UV–visible spectra of M Hf (PO ) . 4 3
+
+Fig. 21 Cu Hf (PO ) at b5108C min .
+
+reduction
+
+heating rate equal to 108C min is shown. It shows two peaks of hydrogen consumption centered respectively on 2508C and 5208C. These two peak might be associated with the reduction of Cu ions located in two different sites. The total amount of hydrogen taken by the sample (0.23 mol of H per mol of the phosphate) was deduced from the area under both peaks. Comparison of this quantity with the total ions contained in the sample amount of Cu 1 conﬁrmed the entire reduction of the Cu into Cu . A separate determination of the area of each one of the peaks showed also that quantitatively the distribution of Cu ions between the two sites is respectively 40 and 60%. However, it is believed that these proportions might vary depending on the method used for the preparation of the sample and on its thermal history. At the end of the TPR run, the color of the sample was found to be white.
+
+In order
+
+to derive the experimental activation energies of the Cu reduction in both sites, Eq. (1) which assumes that the processes involved are of ﬁrst order and H concentrations, was applied [17].
+
+2 ln T 2 ln b2 ln[H ] 5 E/RT 1 constant
+
+T , is the temperature at the maximum of the peak, [H ] hydrogen concentration in the inert gas, b the
+
+M. Ziyad et al. / Solid State Ionics 110(1998)311–318
+
+Fig. 6. IR spectra of Cu Hf (PO ) 4 3 after the TPR run.
+
+(a) before the TPR run (b)
+
+case of reduced sample of served in the [11]. They were assigned to the Cu Zr (PO ) 4 3 vibration modes of groups resulting from the introduction of protons in the phosphate in order to balance the negative charges created by Cu reaction might be summarized by the following equation: Cu Hf (PO ) 1 1/4H ﬁ Cu H Hf (PO )
+
+reduction. The overall
+
+This protonation does not induced noticeable distortions of the phosphate framework, albeit it gives rise to phosphate ICu H Hf (PO ) 4 3
+
+new Cu(I) Nasicon-type
+
+4.2. Temperature-programmed oxidization (TPO)
+
+Temperature-programmed oxidization was performed on a sample that already underwent a TPR. The reactor was fed with 40 cm min of helium containing a partial pressure of oxygen equal to 14 Torr. The proﬁle of the thermogram recorded with b5108C min is displayed in Fig. 7. It shows that between 250 and 4308C there is a progressive broad consumption of oxygen immediately followed by a peak centered on 4508C. Oxygen uptake occurred in two stages presumably by two nonequivalently located Cu ions. The amount of oxygen consumed during these processes (0.125 mol of O per mol of the phosphate) corresponded precisely to the quantity required for the entire oxidization of Cu ions into 21Cu . Moreover, a formation of water subsequent to
+
+Fig. 21 Cu Hf (PO ) at b5108C min .
+
+oxidation
+
+this oxidation was also observed. The global reaction might be then written in the following manner: Cu H Hf (PO ) 1 1/8O ﬁ Cu Hf (PO )
+
+The activation energy of this oxidation was determined only for the consumption involving the peak centered on 4508C by plotting (2 ln T 2ln b2ln[O ]) versus 1/T for various heating rates. It was found to be equal to 52 kJ mol
+
+IR, XRD and UV–visible spectra of the sample at the end of the TPO were found to be identical to those of the initial phosphate. The redox behavior of 21Cu is then entirely reversible. Furthermore, the framework of the material did not suffer any noticeable modiﬁcation over the explored temperature range.
+
+ions in Cu Hf (PO ) 4 3
+
+4.3. NMR,UV–visible and EPR characterization
+
+P NMR–MAS spectrum of Cu Hf (PO ) 4 3 (Fig. 8) exhibited two peaks of different intensities appearing at d5 218.4 ppm and d5 227.4 ppm. These resonances were associated with two P atoms located in nonequivalent distorted environments, in agreement with the monoclinic symmetry of the structure which assigns two positions to phosphorus. The P NMR–MAS spectrum of monovalent copper–hafnium phosphate recorded in identical experimental conditions shows only, as expected from
+
+M. Ziyad et al. / Solid State Ionics 110(1998)311–318
+
+Fig. 8. P NMR spectrum of Cu Hf (PO ) . 4 3
+
+local
+
+present
+
+environment
+
+compounds belonging to the R3c space group one peak appearing at d5 216.8 ppm [20]. This resospectra nance of Cu Hf (PO ) the (Fig. 8) and indicates that 4 3 sample does not contain traces of CuHf (PO ) . 4 3 ions
+
+in Cu Hf (PO ) was also investigated by UV–visible and EPR spectroscopies. Diffuse reﬂectance spectra of the samples are displayed on Fig. 5. All of them except Cu Hf (PO ) showed a single narrow band at 260 nm, attributed to the electronic transfers and O ﬁ M . Equivalent absorption O ﬁ Hf occurs at lower in Cu Ti (PO ) indicating that the Hf–O bond has a 4 3 41 more covalent character than Ti–O and that the Hf ions are located in distorted octahedral coordination. Spectrum of Cu Hf (PO ) showed in addition 4 3 another broad band located in the range 600–1400 9 nm assigned to d–d transitions of Cu (3d ) resulting from the crystal ﬁeld and Jahn-Teller distortion [21].
+
+energy
+
+EPR spectra of the sample recorded at 21968C in X-band (9.35 GHz) and in Q-band (35.2 GHz) are respectively reported on Figs. 9 and 10. They clearly show that in the low ﬁeld region the EPR signal consists of the superposition of two resonances in conjunction with two types of Cu ions located in different environments [22]. This is consistent with the previous information deduced from TPR/ TPO data. Moreover, successful ﬁttings of the experimental curves were achieved when the percentages of the
+
+Fig. 9. Experimental (———) and calculated (-) X-band EPR spectra of Cu Hf (PO ) . 4 3
+
+Fig. 10. Experimental (———) and calculated (-) Q-band EPR spectra of Cu Hf (PO ) . 4 3
+
+sites occupation by Cu ions were presumed to be respectively 60 and 40%, in agreement with the TPR/TPO results. The X-band spectrum was ﬁtted using as the starting values of the g factors, the values determined from Q-band spectrum. The parameters derived from these ﬁts are given in Table 3. There is no signiﬁcant difference between the values of g deduced from the X and the Q bands. They agree with localization of the Cu ions in two orthorhombic distorted environments. Similar investigations carried out on the isostructural phosphate Cu Zr (PO ) have showed that the Cu ions in this material are distributed between two different
+
+M. Ziyad et al. / Solid State Ionics 110(1998)311–318
+
+Table 3 Fitted parameters for Cu Hf (PO ) 4 3
+
+sites
+
+Sites containing 60% of Cu
+
+Sites containing 40% of Cu
+
+Spectral band
+
+sites [23]. It is likely that their environment symmetry is as low as in Cu Hf (PO ) . 4 3
+
+5. Conclusion
+
+The results reported in this article revealed that the divalent copper–hafnium phosphate Cu Hf (PO ) 4 3 is isotypic with Cu Zr (PO ) . Its characterization by various spectroscopic techniques and comparison 21 with M Hf (PO ) ) 4 3 showed that its structure differs from the Nasicontype phosphates presumably because the divalent copper introduces in it profound distortions. The basic framework [M (PO ) ] of is however more covalent when M5Hf than when M5Ti, Zr.
+
+the material
+
+rise
+
+gave
+
+TPR/TPO investigations showed that the redox behavior of copper species in Cu Hf (PO ) was reversible. Reduction of Cu ions by hydrogen was the phosphate accompanied by a protonation of which phase ICu H Hf (PO ) . This process did not destroy the framework of the material. It was also shown that the Cu ions are hosted in the structure by two crystallograghically different sites with large differences in activation energies. EPR studies established the orthorhombic symmetry of these sites and the extent of their occupation by Cu
+
+new acidic
+
+

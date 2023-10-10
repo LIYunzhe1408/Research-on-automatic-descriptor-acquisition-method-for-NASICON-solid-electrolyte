@@ -1,0 +1,27 @@
+Solid electrolytes possessing sufficient ionic conductivity and electrochemical stability are urgently needed for thefabrication of all-solid-state Li-ion batteries (LIBs).
+In this study, we focus on a solid-state oxide electrolyte LiZr2(PO4)3 (LZP),which has NASICON structure and electrochemically stable Zr4+ ions.
+Using density functional theory (DFT) to calculate the electrochemicalwindow of LZP, we find that it is unstable against Li metal, in accordance with our experimental results.
+The Li-iontransport is investigated using first-principles molecular dynamics (FPMD) simulations.
+The calculated Li-ion conductivity at roomtemperature (5.0 × 10-6 S/cm) and the activation energy for Li-ion diffusion (0.43 eV) are in fair agreement with experimental results.
+The mechanism of Li-ion conduction in LZP is revealed by analyzing the Li-ion trajectories in the FPMD simulations.
+It isfound that each Li ion migrates between 6b sites as it is pushed out or repelled by other Li ions around these 6b sites.
+Hence, thehigh Li-ion conductivity is attributed to a migration mechanism driven by Frenkel-like defect.
+The Li-ion battery (LIB) is one of the most popular types ofrechargeable batteries with high energy density, long cyclelife, and good safety.
+LIBs have been widely used for electricvehicles, smartphones, laptops, and so on.
+At present, theprevailing electrolytes for LIBs are organic liquid solvents,such as dimethy carbonate and ethylene carbonate.
+However,these electrolytes are at risk of liquid leakage, inflammation,and/or explosion caused by short circuit.
+The electrochemical stability and Li-ion conductivity ofNASICON-type LZP solid electrolyte are investigated by DFTcalculations.
+For the former, we probe the reactivity of LZPwith Li metal through convex-hull creation and GA technique.
+From the analysis of the convex polytope in five dimensions(four elements and energy), we reveal that LZP is thermodynamicallystable because it is one of the vertices of our convex-hull.
+The result predicted the electrochemical window ofLZP to be 2.20–4.14 V vs.Li metal.
+Indeed, our experiment shows LZP reacts with molten Li, verifying our computationalresults.
+The estimated Li intercalation voltage of LZP is positive,therefore the Li intercalation mechanism is also plausible.
+Since the intercalation reaction may occur even at room temperature,we conclude that LZP is unstable against Li metal.
+Thus, further modification of LZP, such as controlling itscomposition, is required to suppress the reaction with Li metal.
+The Li-ion conductivity at room temperature and diffusionactivation energy were estimated using DFT-based FPMDcalculations.
+The results indicate moderate Li-ion conductivityand activation energy of LZP, which are also in fair agreementwith experimental results from earlier studies.
+The Li-iontrace in our FPMD simulations reveals the three-dimensionalconduction pathway of Li ions between 6b sites.
+Furthermore,the SDF calculation allows a more detailed analysis of the Li-ion conduction mechanism in LZP.
+Li ions migrate whilepushing out or being repelled by other Li ions around 6b sites,and it is remarkable that two and more Li ions could existsimultaneously around the same 6b site.
+For the first time, the present paper clarified the electrochemicalwindow and ionic conduction mechanism for LZP atthe atomic level.
+These results would benefit the design ofLZP-related compounds.

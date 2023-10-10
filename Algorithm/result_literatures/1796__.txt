@@ -1,0 +1,8 @@
+A new NASICON-type chromium(III) phosphate,K0.16Na0.34Li2.5Cr2(PO4)3, lithium sodium potassium dichromatetris(phosphate), has been prepared by solid-state reaction.
+It consists of CrO6 octahedra and PO4 tetrahedra sharingcorners to form a three-dimensional framework.
+The monovalent cations are located in the M1 (six-coordinate) and M2(four-coordinate) sites of the framework.
+The M1 site isoccupied by Na+ and K+ cations with 69 (3) and 31 (3)%occupancy, respectively.
+The Li+ ions, Li1 and Li2, are splitover twoM2 sites in general positions, with 60 (2) and 40 (2)%occupancy, respectively.
+Atom Li2 is disordered around athreefold inversion axis.
+Except for the two Li atoms, which were refined isotropically, allatoms were refined anisotropically.
+The sums of the site occupancyfactors for the monovalent cations were restrained to unity.

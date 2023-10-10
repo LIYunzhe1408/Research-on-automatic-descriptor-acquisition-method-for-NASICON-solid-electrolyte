@@ -1,0 +1,54 @@
+Abstract: The material Na3V2(PO4)3 (denoted as NVP) has attracted ubiquitous attention as a promising cathode materialfor sodium ion batteries (NIBs) because it has a fast Na+transportable NASICON framework.
+
+ However, the major challenge for the wide application of NVP in NIBs is the poor intrinsic electric conductivity that results in poor electrochemical performance.
+
+In this work, nanosized electrochemicallyactive carbon-coated NVP nanoparticles embedded in 1Dporous carbon nanowires (NVP@C-CNW) were designed andfabricated to improve the intrinsic electric conductivity.
+
+The1D carbon nanowires easily percolate and enable fast electron/ion transport to the NVP particles, while also accommodating the volume variation during Na ion insertion and extraction.
+
+In addition, the porous structure facilitates easyelectrolyte access, leading to improved fast charge performance.
+
+ The NVP@C-CNW exhibits superior rate performance (62.2 mA h g1 at 60 C) and an ultralong cycle life(96.6 mA h g1 after 1000 cycles at 1C), indicating its greatpotential for application as the cathode material in high-performance NIBs.
+
+Lithium ion batteries (LIBs) have been widely used in the fieldof portable electronic devices, electric vehicles and large-scaleenergy storage systems.
+
+ However, the cost and the limitation of the lithium reserves still restrict LIBs for large-scale application.
+
+Room-temperature Na-ion batteries (NIBs) have recently attracted attention as potential alternatives to currentLIBs because of the higher abundance of Na resources, theirenvironmental friendliness, and their similar intercalationchemistry to LIBs.
+
+For practical application, there are stillchallenge for NIBs.
+
+As is known, it is very hard to choose theappropriate electrode materials for the fast sodium ion diffusion in NIBs due to the larger radius of the Na+ compared tothat of the Li+.
+
+In addition, the larger radius of Na+ resultsin serious structural damage and volume expansion of theelectrode materials during the repeated charge/discharge process.
+
+ Currently, sodium vanadium phosphate (Na3V2(PO4)3)with Na super ionic conductor (NASICON) frameworks havebeen considered as the promising cathode materials becauseof their open frame structure for Na accommodation, the fastchemical diffusion coefficient of the sodium ion, the superiorstability of the structure and the good thermal stability.
+
+However, Na3V2(PO4)3 (denoted as NVP) exhibits both poorrate capability and cyclability due to the slow kinetics ofsodium ions in the host matrix deriving from the poor electronic conductivity.
+
+ Many approaches have been reportedto increase the ion and electron transport kinetics in batteriesincluding enhancing the electronic conductivity by coatinga conductive surface layer[5, 15, 22] and tailoring the particle size(or morphology) of electroactive materials.
+
+ Constructinglow dimensional electroactive material has been demonstratedas a very effective way to improve the electrochemical performance of electrode materials due to the drastically shortened transport distance for both ions and electrons.
+
+Among these, one dimensional (1D) materials show uniquecharacteristics, including high surface to volume ratio, shorttransport lengths for ionic transport and efficient 1D electrontransport along the longitudinal direction.
+
+Recently, our previous work has demonstrated that embedding electroactive nanoparticles (MoS2) in carbon fibers couldlead to a powerful electrochemical integrated circuit in whichthe particles are mechanically decoupled but electrochemicallywell connected.
+
+ Inspired by this previous study, we developed a facile hydrothermal method to synthesize carboncoated NVP embedded in 1D porous carbon nanowires (denoted as NVP@C-CNW) for high performance room-temperatureNa-ion batteries.
+
+ Such a special structure of NVP@C-CNW combines a variety of advantages.
+
+First, the porous 1D nanowiresstructure could not only shorten the sodium ion diffusionpathways but also offer enough space for the volume expansion of the active material during the repeated charge/discharge cycle;[32] Second, the porous structure with a large surface area could make it easy for the electrolyte to soak in,which greatly enhance the sodium-ion diffusion rate;[33] Finally,the core–shell structure could effective restrain the particlesgrowth during the heating process and enhance the electricconductivity for the electrode materials.
+
+When used as cathodefor Na-ion batteries, they display long cycle life (only 9.6% capacity loss after 1000 cycles at 1 C with a capacity retention of96.6 mA h g1) and an outstanding rate performance (a reversible capability of 84.2 mA h g1, 77.0 mA h g1 and 62.2 mA h g1at 30 C, 40 C and 60 C, respectively).
+
+In summary, nanosized electrochemically active carbon-coatedNVP embedded in 1D porous carbon nanowires (NVP@C-CNW)was fabricated by a carefully designed synthetic process.
+
+Theobtained composites possess a desired structure for high rateand long cycle life battery applications.
+
+ The unique 1D morphology and conductive network enhances the electronic conductivity, offers large electrode/electrolyte contact area, facilitates the Na+/e diffusion in the active materials.
+
+In addition,the porous structure could accommodate the volume expansion during the repeated sodium ion insertion/extrication process.
+
+ When used as cathode for sodium ion batteries, it exhibits the super long cycle performance (96.6 mA h g1 after 1000cycles at 1C) and excellent rate capability (62.2 mA h g1 at60C), demonstrating its great potential of application as thecathode material in high performance NIBs.
+

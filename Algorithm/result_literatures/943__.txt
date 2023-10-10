@@ -1,0 +1,45 @@
+The copper-based polyanion compounds Li6CuB4O10 and Li2CuP2O7 were synthesized using a conventional solid-state reaction, and their electrochemical properties were determined.
+
+Li6CuB4O10 showedreversible capacity of 340 mA g1 at the first discharge–charge process, while Li2CuP2O7 showed largeirreversible capacity and thus low charge capacity.
+
+Ex situ X-ray diffraction (XRD) and X-ray absorptionnear edge structure (XANES) measurements revealed that the electrochemical Liþ intercalation/deintercalation reaction in Li6CuB4O10 occurred via reversible Cu2þ/Cuþ reduction/oxidation reaction.
+
+Thesedifferences in their discharge/charge mechanisms are discussed based on the strength of the Cu–Ocovalency via their inductive effects.
+
+Copper-based materials have attracted attention as low-costand safe electrodes for lithium batteries [1–10].
+
+Among them,Li2CuO2 shows large charge capacity of 490 mAh g1 at the firstcycle, which is very close to the theoretical capacity of the bielectron reaction.
+
+Although high charge capacity was observed, anirreversible structural change, which occurred during the firstcharge process, resulted in a large irreversible capacity at the firstcharge–discharge cycle, which provides poor cycle stability [11].
+
+Therefore, more stable Cu-based electrode materials with robustframeworks are necessary for enhancing cycle stability.
+
+For the enhancement of the cycle stability of Cu-based electrode materials, we have been focused on polyanion compounds.
+
+Goodenough et al.reported that Fe-based polyanion compoundscould be stabilized by introducing polyanions, (XO4)n (X¼S, P, Si,As, etc.), into their lattice [12].
+
+Furthermore, introduction of thesepolyanions increases the Fe2þ/Fe3þ redox potential because theX–O bonds increased the electronegativity of the anionic group,enhancing the ionic character of the M–O bonds [13,14].
+
+The inductive effect provides excellent cycle stability and high charge–discharge potentials in Fe-based polyanion cathode compounds,such as LiFePO4 [15], Li2FeP2O7 [16], Li2FeSiO4 [17], and LiFeBO3[18].
+
+This effect suggests that energy densities as well as cyclestability of Cu-based electrode materials may be enhanced.
+
+ Recently, Ceder et al.reported the redox potentials for Cu2þ/Cu3þand Cuþ/Cu2þ couples in the phosphate framework based on abinitio calculation [19].
+
+Although the much higher redox potential ofthe Cu2þ/Cu3þ couple is greater than 4.5 V, that for the Cuþ/Cu2þcouple is approximately 3.2 V, which is suitable for lithium batteries with organic electrolytes.
+
+In addition, the low-valent redoxcouple of Cuþ/Cu2þ is likely to have high charge–discharge capacity because the low-valent cation redox couple requires smallamounts of polyanions to form the framework.
+
+The present reportfocuses on two polyanion compounds containing Cu2þ, Li6CuB4O10[20,21], and Li2CuP2O7 [22].
+
+ Fig.1 shows crystal structures forLi6CuB4O10 and Li2CuP2O7.Both compounds contain Cu2þ in CuO4square planes, which are formed with corner-shared BO3 trihedrons and PO4 tetrahedras, respectively.
+
+The crystal structuresindicated that lithium can diffuse along the a axis for Li6CuB4O10and along the b and c axes for Li2CuP2O7.Therefore, both materialscan be expected to undergo electrochemical Liþ intercalation/deintercalation reactions.
+
+Thus, the electrochemical properties forLi6CuB4O10 and Li2CuP2O7 were investigated.
+
+This report describes the electrochemical properties for thecopper-based polyanion compounds Li6CuB4O10 and Li2CuP2O7.Li6CuB4O10 showed a reversible capacity of 340 mA g1 at the firstdischarge–charge process via a reversible Cu2þ/Cuþ reduction/oxidation reaction.
+
+In contrast, Li2CuP2O7 was converted to Cumetal and Li4P2O7 via electrochemical displacement between Cuand Li.
+
+Phosphorus is more electronegative than boron; therefore,the more ionic Cu–O bond in Li2CuP2O7 is likely to be more fragilethan the more strongly covalent Cu–O bond in Li6CuB4O10.

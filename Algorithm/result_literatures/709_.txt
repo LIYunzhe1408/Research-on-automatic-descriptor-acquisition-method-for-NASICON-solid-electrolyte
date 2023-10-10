@@ -1,0 +1,13 @@
+Na3V2(PO4)3 (NVP) is a very promising cathode material in sodium ion battery for rapidly emerginglarge-scale energy storage with its classical 3D NASCION structure.
+However, the cycling life and rateperformances are restricted its low electronic conductivity.
+To overcome these, the double carbonwrappedNa3V2(PO4)3 composite is firstly designed through rheological phase approach, deliveringenhanced electrochemical properties.
+The unique double carbon layers are composed of uniformamorphous carbons as protecting framework for stabilizing the structure, as well as the graphitizedcarbon sheets playing the role of conductive network for better electronic conductivity.
+This doublecarbon-wrapped Na3V2(PO4)3 composite exhibits a high reversible capacity of 99.8 mAh g1 over 500cycles at 1 C (110 mA g1), yielding the coulombic efficiency of ~99.8%.
+Meanwhile, it displays an initialcapacity of 73 mAh g1 at 100 C and remains 55 mAh g1 at an ultra-rate of 200 C.
+Even after cycling at200 C over 12 000 cycles, the Naþ-storage capacity of 40 mAh g1 with a retention of 72.7% is stillobtained, highlighting its excellent long cycling life and remarkable rate performances.
+The double carbon-wrapped Na3V2(PO4)3 nanocomposite hasbeen successfully achieved by rheological phase reaction approach.
+The as-prepared NVPC-800 nanocomposite displays an impressivecycling stability of 98.9% capacity retention for the initial capacity of100.9 mAh g1 over 500 cycles at 1 C.
+Remarkably, the excellent rateperformances of NVPC-800 nanocomposite exhibits a high initialcapacity of 55 mAh g1 at ultra-rate of 200 C, as well as the capacityretention is 72.7% over 12 000 cycles at 200 C.
+The carving of citricacid and suitable calcination temperature play an important role inimproving the electrochemical performances.
+Meanwhile, thedesigned double carbon-wrapped structure, which offers stableframework for fast diffusion of Naþ and superior electronic conductivity.
+Such a double carbon-wrapped Na3V2(PO4)3 nanocompositecould effectively enhance electrochemical propertieswith long cycling life and high rate capability cathode materials inSIBs for energy storage applications.

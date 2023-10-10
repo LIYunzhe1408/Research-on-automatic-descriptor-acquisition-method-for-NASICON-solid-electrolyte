@@ -1,0 +1,7 @@
+We here prepared polystyrene-derived carbon-coated Na3V2(PO4)3 composite (NVP/C) cathode materials via a solid-phase reaction using a mixture of NVP precursor and polystyrene (as the carbon source), followed by calcination at high temperatures.
+Using this method, we were able to obtain active NVP materials with relatively high purity while allowing a uniform surfacecoating with carbon layers about 34nm thick.
+This structure significantly prevented NVP particle growth even after calcination at high temperatures.
+The NVP/C material calcined at 700°C exhibited the best charge dischargeperformance among the samples studied.
+Recently, our group and other group have reported promising battery performances of carbon-coated LiFePO4 (LFP) active materials synthesized with polystyrene as the carbon source.
+18),19)In addition to LFP, the effectiveness of the present synthesis technique was confirmed for NVP.
+Thus, this polystyrene-derivedcarbon coating method developed here represents a promising technique to improve the electrochemical properties of NVPand/or to design new active materials.

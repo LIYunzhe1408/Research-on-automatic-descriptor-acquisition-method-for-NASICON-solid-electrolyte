@@ -1,0 +1,70 @@
+The novel Li3V2(PO4)3 glass-ceramic nanocomposites were synthesized and investigated as electrodes forenergy storage devices.
+
+ They were fabricated by heat treatment (HT) of 37.5Li2O–25V2O5–37.5P2O5mol% glass at450 °C for different times in the air.
+
+XRD, SEM, and electrochemical methods were used to study the effect of HT time onthe nanostructure and electrochemical performance forLi3V2(PO4)3 glass-ceramic nanocomposites electrodes.
+
+XRDpatterns showed forming Li3V2(PO4)3 NASICON type withmonoclinic structure.
+
+The crystalline sizes were found to be inthe range of 32–56 nm.
+
+ SEM morphologies exhibited nonuniform grains and changed with variation of HT time.
+
+Theelectrochemical performance of Li3V2(PO4)3 glass-ceramicnanocomposites was investigated by using galvanostaticcharge/discharge methods, cyclic voltammetry, and electrochemical impedance spectroscopy in 1 M H2SO4 aqueouselectrolyte.
+
+The glass-ceramic nanocomposites annealed for4 h, which had a lower crystalline size, exhibited the bestelectrochemical performance with a specific capacity of116.4 F g−1 at 0.5 A g−1.Small crystalline size supported thelithium ion mobility in the electrode by decreasing the iondiffusion pathway.
+
+Therefore, the Li3V2(PO4)3 glass-ceramicnanocomposites can be promising candidates for large-scaleindustrial applications in high-performance energy storagedevices.
+
+Energy has become one of the biggest challenges that mayface humanity in this century due to expecting depletion offossil fuels and consequent ever-increasing global environmental issues [1–3].
+
+Recently, society is racing towards theemploying of renewable resources, such as wind, solar, geothermal, and hydropower energy, which have become promising alternatives to traditional fossil fuels.
+
+Although theseenergy resources are renewable, low-cost, clean, and environmentally friendly, these energy resources considerably dependon natural conditions, such as wind, sunlight, rain, and location.
+
+ Therefore, the strong and urgent demand for highperformance energy storage devices has encouraged the development of advanced electrode materials.
+
+Among variousenergy storage systems, supercapacitor has been widely studied and considered to be one of the most promising alternativeenergy storage systems, due to their series of unique advantages (high power density, high number of cycles, short charging time, and long-term operation stability) [4, 5].
+
+In recentyears, composites containing transition metal oxides (TMO)have been extensively investigated as alternative electrodematerials for supercapacitors and lithium ion batteries due totheir high specific capacitance and energy density than carbonmaterials [6, 7], such as ZnCo2O4 [8], ZnMn2O4 [9], Co3O4-MnO2 [10], NiCo2O4 [11], SnO2-Co3O4 [12], and Fe2O3-Co3O4 [13].
+
+However, most single transition metal oxidesshow poor rate capability and cycling performances becauseof their low conductivity and large volume expansion/contraction during the long-term charge/discharge cycling.
+
+Therefore, various efforts have been developed to overcomethese issues and improved electrochemical performance, suchas fabrication of complex metal oxide nanostructures.
+
+Theadvantages of these nanocomposites are shortened ion/electron transporting paths and a high surface area of contactbetween the electrolyte and cathode [14, 15].
+
+In addition, layered V2O5 is suitable host material for intercalation chemicallybecause the interlayer spaces in conjunction with their semiconductor properties allow them to use as electrode materialsin energy storage devices [16].
+
+Phosphate glass-ceramics containing lithium ions have relatively high ionic conductivity,and thus, they can be used in energy storage devices [17,18].
+
+Monoclinic Li3V2(PO4)3 NASICON-type structure hasbeen suggested as the most promising high-safety electrodematerials for energy storage devices (supercapacitor orlithium-ion batteries) due to its high specific capacity, highoperating voltage, and good ion mobility [19, 20].
+
+Li3V2(PO4)3 nanocomposites have been synthesized by usingsome methods, such as sol-gel chemistry [21], solid state reaction [22], spray pyrolysis [23], and hydrothermal method[24].
+
+These methods require difficult procedures, high-costequipment, and very long processing time.
+
+So, it is stronglyrequired to use other low-cost and rapid techniques for fabrication of Li3V2(PO4)3 nanocomposites, such as conventionalmelt-quenching technique.
+
+In the present work, we focus our attention on synthesis of37.5Li2O–25V2O5–37.5P2O5 glass by conventional meltquenching method and fabricate its glass-ceramics consistingof Li3V2(PO4)3 nanocrystalline phase by annealing at 450 °Cfor different times (2, 4, 8, and 24 h).
+
+X-ray diffraction (XRD)and scanning electron micrograph (SEM) are reported.
+
+Theeffect of heat treatment (HT) time on the nanostructure andelectrochemical performance of the present samples isinvestigated.
+
+The glass sample with composition 37.5Li2O–25V2O5–37.5P2O5 mol% was prepared by conventional meltquenching method as a low-cost and fast technique to obtainthe glass-ceramic nanocoposites consisting of Li3V2(PO4)3NASICON type materials by annealing the as-prepared glassat 450 °C for different times, as confirmed by XRD patterns.
+
+The lattice structure of these nanocomposites can be indexedto the monoclinic unit cell (with the space group of P21/n).
+
+SEM images appear a greater number of large particles withsevere agglomeration composed of small grains, which hasnot regular shape and the morphologies change with the HTtime.
+
+The glass-ceramic nanocomposites annealed for 4 h hasa lower crystalline size, and its structure become more porous.
+
+So, these features are important to facilitate ions insertion/deinsertion and diffusion during charge/discharge process.
+
+Thespecific capacitance of glass-ceramic nanocomposite annealedfor 4 h decreases from 116.4 to 105 F g−1 as the current densityincreased from 0.5 to 5 A g−1, demonstrating an excellent rateperformance with 90 % capacitance retention as the currentdensity increases 10 times.
+
+EIS impedance result exhibits thatthe charge transfer resistance for the present Li3V2(PO4)3glass-ceramic nanocomposite electrodes are small.
+
+This studyindicates that the suitable intercalation of alkali ions and fabrication of appropriate nanocomposites materials are effectiveto enhance the diffusion of ions, charge transfer in theelectrode, and other electrochemical performance for layeredoxides, and it is suggested that this obtained nanocompositesmay be promising materials to achieve both high energy andpower density for advanced energy storage devices.
+

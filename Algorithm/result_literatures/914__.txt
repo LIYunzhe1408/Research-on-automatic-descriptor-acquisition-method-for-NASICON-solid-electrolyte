@@ -1,0 +1,83 @@
+New high lithium ion conductor glass–ceramics with NASICON-type structure (Li1+x+yAlxCryGe2 − x − y(PO4)3,x + y = 0.5) were synthesized using melt-quenching method and converted to glass–ceramics through heattreatment.
+
+ Influence of addition of different concentrations of aluminum and chromium in LiGe2(PO4)3 glassceramic was investigated.
+
+Substitution of Ge4+ ions by Al3+ and Cr3+ ions induced more Li+ ions in A2 vacantsites and also changed the unit cell parameters and resulted in ionic conductivity improvement of glass–ceramics.
+
+The glass–ceramics were characterized by X-ray Diffraction (XRD), Field Emission Scanning Electron Microscopy(FESEM), Energy-Dispersive X-ray spectroscopy (EDX), Differential Scanning Calorimetry (DSC), ComplexImpedance Spectroscopy (CIS) and cyclic voltammetry (CV).
+
+The highest lithium ion conductivity of6.65 × 10−3 S/cm was obtained for x = 0.4 and y = 0.1 (Li1.5Al0.4Cr0.1Ge1.5(PO4)3) crystallized at 850 °C for8 h with minimum activation energy of 0.292 eV.
+
+Safety and high power density are two important challenges inlithium ion batteries (LIBs) production industry.
+
+Common LIBs contain organic flammable solvents (such as ethylene carbonate, dimethylcarbonate and ethyl methyl carbonate) and are not appropriate for specific use of transportation industry because charge and discharge processes of batteries in hybrid and electrical vehicles are in high currentrate that it can cause explosion in these batteries [1].
+
+ Moreover, fabrication costs of batteries, when using organic electrolytes are high.
+
+Thesedrawbacks limit their application in large-scale batteries, which requirelow cost, high safety, and high power density [2].
+
+Recently, aqueous andsolid electrolytes as safe, environmentally friendly and cheap electrolytes have been investigated by different researchers [3–6].
+
+Allsolid-state and aqueous lithium-air batteries are two new types ofLIBs which use these electrolyte and are recently investigated by researchers for safety and power density improvement respectivelywithout common problems of organic solvents.
+
+Both of these batteries need solid lithium ion conductors as electrolytes or anodeprotector [7,8].
+
+Solid electrolytes that are used in these types of batteries must have some properties such as low electron conduction(electronic conductivity), high lithium ion conduction and electrochemical stability in contact with anode and cathode or wide potential window [9–12].
+
+Moreover, these solid electrolytes or lithium ionconductors must have other properties except those that were mentioned above such as stability in contact with lithium metal and nopermeability for water and air molecules when used for lithium-airbatteries [13].
+
+Perovskite-type, Garnet-type, NASICON-type andLISICON are four main crystalline inorganic lithium ion conductors[14].
+
+NASICON-type has general formula of LiM2(PO4)3 where M canbe Ti4+ or Ge4+.
+
+Crystals with Ti4+ are unstable in contact with lithiummetal because of reduction of Ti4+ to Ti3+.
+
+Only Ge4+ can make a crystalline structure with high lithium ion conduction and all propertiesthat were mentioned above [15–18].
+
+LiGe2(PO4)3 NASICON-type crystallizes in 3D network structure (rhombohedral crystal system, spacegroup R3c) which has appropriate channels for Li ions (Li+) migration.
+
+In this crystal, two types of polyhedrons contain: GeO6 octahedra andPO4 tetrahedra which are attached by their corners to form[Ge(PO4)]− frame with 3D interconnected channels and two types ofinterstitial cavities, A1 and A2.Li ions migrate in channels of this frame[19].
+ Li ions can occupy in A1 and A2 sites.
+
+ In LiGe2(PO4)3 with no dopant, A2 sites are vacant when A1 sites are occupied by Li ions.
+
+Partial substitution of Ge4+ ions by trivalent cations such as Al3+ and Cr3+ ionincreases the unit cell dimensions and residual negative charges areneutralized by additional Li ion that occupy A2 sites.
+
+The change inunit cell dimensions and Li ion concentration in crystal leads to increaseof ionic conductivity [19–23].
+
+The effect of Al as dopant on ionic conductivity of LiGe2(PO4)3 (LGP)was investigated by researchers and it was proved that highest lithiumion conductivity is obtained when only 25% of Ge4+ ions were replacedby Al3+ ions in LiGe2(PO4)3 crystal structure (x = 0.5 in overall formulaof Li1+xAlxGe2 − x(PO4)3) [24,25].
+
+Other researchers investigated theeffect of chromium dopant on lithium conduction improvement ofLiGe2(PO4)3 [26,27].
+
+Recently, chromium and aluminum co-dopedNASICON-type LiTi2(PO4)3 (LTP) were synthesized by Zhang et al.
+
+andsimultaneous replacement of Ti4+ ions by aluminum and chromiumions showed good improvement on ionic conduction of LTP glass–ceramics [28].
+
+The NASICON-type lithium ion conductors were prepared bypowder sintering route [29,30], Sol–gel method [13,31,32] andglass–ceramic process (melt quenching) [33–35].
+
+Glass–ceramicmethod produces homogeneous microstructure without porositywith high Li+ ion conductivity which is better for lithium-air batteries.
+
+ Therefore, in this research the last method was applied for preparation of lithium ion conductors.
+
+In this research for the first time, the influence of addition of aluminum and chromium as dopants on crystal structure and ionic conductivity of LiGe2(PO4)3 NASICON-type glass–ceramics were investigatedsimultaneously.
+
+In this new glass–ceramics (Li1+x+yAlxCryGe2 − x − y(PO4)3, x + y = 0.5,y = 0, 0.1, 0.25, 0.4, 0.5 and x = 0.5, 0.4, 0.25,0.1, 0) only 25% of Ge4+ ions were replaced by different concentrations of aluminum and chromium.
+
+These five samples with y = 0,0.1, 0.25, 0.4 and 0.5 are labeled as #Cr0, Cr0.1, Cr0.25, Cr0.4 and Cr0.5,respectively.
+
+In addition crystallization process is an important phenomenon that affects ionic conductivity strongly and recently the effects of crystallization time and temperature have been studied byauthors in another work for achievement of maximum ionic conduction in Li1.5Al0.5Ge1.5(PO4)3 glass–ceramics (under review).
+
+Theseoptimum conditions were used for crystallization of synthesized aluminum and chromium co-doped NASICON-type LiGe2(PO4)3.NASICON-type glass–ceramics with addition of aluminum andchromium dopants as a novel fast lithium ion conductor were synthesized by conventional melt-quenching method and crystallizedin optimum crystallization time and temperature.
+
+In overall formulaof Li1+x+yAlxCryGe2 − x − y(PO4)3, addition of chromium increasedthe crystal cell dimension but addition of more than y = 0.1 leads toformation of GeO2 and CrPO4 impure phases in grain boundarieswhich has blocking effect and prevents from lithium ion migrationin other words chromium addition has dual effect on the ionic conductivity of LiGe2(PO4)3 glass-ceramic.
+
+On one hand, it increasesthe cell parameter which improves conductivity and on the otherhand formation of secondary phases in grain boundaries which decreases the conductivity.
+
+Formation of these phases was observedin XRD patterns and FESEM images and also was proved by EDX analysis.
+
+Measuring the ionic conductivity of samples in 26 °C by compleximpedance spectroscopy showed the maximum lithium ion conductionof 6.65 × 10−3 S/cm obtained for Li1.5Al0.4Cr0.1Ge1.5(PO4)3 sample.
+
+Measuring the conductivity for each sample in temperature range of 20 to60 °C for calculation of activation energy by Arrhenius equation showedminimum activation energy for Li1.5Al0.4Cr0.1Ge1.5(PO4)3 sample about0.292 eV with highest ionic conductivity.
+
+Also, the cyclic voltammetryof this specimen showed good stability in contact with lithium foil.
+

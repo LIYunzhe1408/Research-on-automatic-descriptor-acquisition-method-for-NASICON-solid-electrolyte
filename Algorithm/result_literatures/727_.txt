@@ -1,0 +1,14 @@
+Low ionic conductivity limits the development of NASICON-type LiZr2(PO4)3 (LZP) for solid-state batteries.
+Here,we present the possible factors that may affect the conductivity, and further establish the relationships among conductivity, crystalstructure, relative density, grain size, chemical composition, and elemental distribution.
+The conditions for the existence of the fourphases of LZP (α, α’, β, and β’) and the phase transition processes among them are systematically clarified.
+With secondary ionmass spectrometry, the spatial distribution of elements within the grains and grain boundaries is clearly presented.
+Based on ourresults, proper elemental doping, high sintering temperature, and especially fast cool-down rate are all indispensable to stabilize thehigh-conductivity (α) phase at room temperature.
+Finally, we demonstrate the feasibility of lithium-based batteries with this LZPsolid electrolyte and commercial cathodes.
+This work provides insights for preparing LZP with high conductivity and paves the wayfor the development of solid-state batteries.
+In summary, NASICON-type LYZP solid electrolyte with ahigh ionic conductivity of 3.5 × 105 S cm1 at room temperaturehas been prepared with SPS.
+We investigated the possiblefactors that affect the conductivity of LYZP, and further establishedthe relationships among conductivity, structure, andchemical composition.
+High relative density (> 98%, 3.06 gcm-3) can be easily realized with SPS, and grain size has aninsignificant effect on conductivity.
+The existence of β phasein the LYZP ceramic dramatically decreases the ionic conductivity,and α phase with high conductivity can be obtained withhigh sintering temperatures (> 1200 ºC) and a fast cool downrate.
+Moreover, excess Li and P lead to impurity phases andthus phase separation, both of which greatly decrease the conductivity.
+These results can provide some valuable informationfor the improvement of conductivity for other kinds of solidelectrolyte materials as well.
+Finally, a solid-state battery wasdemonstrated with a high-voltage cathode LNMO, LYZP solidelectrolyte, and Li metal anode, which exhibits good Coulombicefficiency and cycle stability.

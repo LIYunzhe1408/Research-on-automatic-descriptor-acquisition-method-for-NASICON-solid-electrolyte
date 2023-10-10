@@ -1,0 +1,55 @@
+A Li-ion battery cathode with target stoichiometry LiTi0.08Fe0.92PO4 wasprepared by doping excess amount of Ti4+ into the olivine structure using solid-statereaction at 700 C.
+
+Synchrotron X-ray diffraction (XRD) studies confirmed the presenceof a major olivine phase and NASICON-type ion-conducting Li3Fe2(PO)4 andLi2TiFe(PO4)3 impurities.
+
+Further, the calculated lattice parameter values appear toconfirm Ti-doping in LiFePO4.Electron microscopy and particle distribution studies notonly revealed a slightly increased average particle-size and particle fragmentation butalso confirmed a fair distribution of Ti4+ ions in the prepared sample.
+
+When tested forlithium storage properties, the LiTi0.08Fe0.92PO4 cathode delivered high specificcapacities and good capacity retentions (≤ 2% capacity loss after 50 cycles).
+
+Besides,the cathode delivered impressive rate capabilities as specific capacities of 160 and 110mAh g-1at 0.1 and 11.4 C, respectively, were retained.
+
+Although the average particlesize was slightly higher, the presence of ion-conducting NASICON-type species appearto contribute to the enhanced electrical conductivity and hence to the cathodeperformance of LiTi0.08Fe0.92PO4.Ever since its introduction by Padhi et al.in 1997, the olivine-type LiFePO4 hasattracted wide attention as cathodes for high-power lithium-ion battery applications dueto its relatively high theoretical capacity ( 170 mAh g-1), impressive cycle life, lowcost and environmental benignity [1].
+
+The fundamental and stable polyanion unitnamely, (PO4)3-, elevates the Fe3+/Fe2+ redox couple to useful potential levels (3.4 V vs.Li/Li+) in commercially used liquid electrolytes [2].
+
+In addition, the strong covalentbonding in the polyanion units facilitates stabilization of the olivine structure evenunder deep charging [3].
+
+Unfortunately, olivine LiFePO4 suffers from low electronicconductivity ( 10-9S cm-1) and limited Li-ion diffusivity ( 10-14– 10-15 cm2s-1).
+
+Toovercome these drawbacks, several strategies including particle-size minimization [4],mixing conductive phases [5], and cation doping [6, 7] have been pursued.
+
+Interestingly,the strategy of cation doping in LiFePO4 and the consequential enhancement inelectrochemical properties has remained under debate since its introduction by Chung etal.
+
+This study concluded that the solid-solution doping of supervalent cations intothe M1 (Li) sites of the olivine lattice tends to enhance its electronic conductivity (byeight orders of magnitude) and hence the electrochemical properties.
+
+On the contrary,the formation of a percolating metal phosphide network on the particle surface wasclaimed to contribute to the enhanced electronic conductivities and hence electrodeproperties of LiFePO4 [8, 9].
+
+Although computational studies revealed that theincorporation of tetravalent/pentavalent (M4+/5+) ions into the olivine lattice is notenergetically favorable, it was contended that doping effect is mainly influenced by ionkinetics during synthesis, in contrast to theoretical predictions that are based on justmetal ion parameters [10, 11].
+
+Nevertheless, several studies have reported thepossibility of achieving up to ≤ 10 mol% of supervalent cation doping in LiFePO4 [12-21].
+
+In fact, a recent study demonstrated 20% vanadium (V3+)-doping in a LiFePO4cathode using a combination of neutron and XRD techniques [22].
+
+Moreover, accordingto Wang et.al, isovalent metal (Mg, Co, Ni) ion doping in LiFePO4 led to increasedionic conductivity and the enhanced rate capabilities was attributed to the possibleweakening of the Li-O bond, the larger bond length, and their smaller binding energies[23].
+
+Meanwhile, NASICON-type species with appreciable ionic conductivity areknown to serve as potential solid electrolytes for battery applications [24-27].
+
+Also, theincorporation of NASCION-type crystallites in to the amorphous domains of glassyelectrolytes tends to enhance its ionic conductivities [27-29].
+
+Overall, the strategy tointroduce ion-conducting phases to improve electrical conductivities and hence theelectrode performance of LiFePO4 appears promising [30].
+
+The present study, therefore, aims to develop highly performing cathodesincorporated with traces of NASICON-type ionic conductors by the excessive doping oftitanium (Ti4+) ion into LiFePO4 using high temperature solid-state reaction.
+
+A previousstudy on a solution-based LiFePO4 cathode with excess Ti-dopant concluded that theinevitable formation of Li3PO4 appeared to degrade electrode properties [31].
+
+However,the present cathode (LiTi0.08Fe0.98PO4) displayed high specific capacities, good capacityretentions and impressive rate performance versus lithium.
+
+A Ti-doped olivine, LiTi0.08Fe0.92PO4 cathode was prepared by excessive Tidoping in the olivine structure using solid-state reaction at 700 C.
+
+XRD studiesconfirmed not only the presence of a major olivine phase in addition to phase-separatedNASICON-type Li3Fe2(PO)4 and Li2TiFe(PO4)3 phases as ion-conductingimpurities/sources but also the doping of titanium (Ti) in to the olivine lattice.
+
+Electronmicroscopy studies confirmed that a slight increase in average particle-size is observeddue to Ti-doping in LiFePO4.When tested for Li-ion storage properties, the preparedLiTi0.08Fe0.92PO4 cathode demonstrated enhanced specific capacities, good capacityretentions and impressive rate performances (160 mAh g-1at 0.1 C and 110 mAh g-1at11.4 C).
+
+ The enhanced performance of the prepared LiTi0.08Fe0.92PO4 cathode is mostlikely due to the facilitation of ionic migration pathways formed by the NASICONparticles strategically placed between the olivine particles.
+
+The ion-conduction paths inconjunction with the carbon-coating on the olivine particle surface may result in theformation of an electrical conducting nano-scale network that may ultimately contributeto the enhanced electrode performance of LiTi0.08Fe0.92PO4.

@@ -1,0 +1,119 @@
+ LiTi2(PO4)3 (LTP) and Li1.3Al0.3Ti1.7(PO4)3 (LATP) (S. g. R-3c) have been prepared using conventional ceramic and mechanical activation (MA) methods.
+ It has been shown that preliminary mechanical activation of initial mixtures leads to different nature and amount of dielectric admixtures in the final product after heat treatment at 800– 1000 °C as compared with ceramic method. 
+Transport properties of as prepared materials have been studied by lithium ionic conductivity at d.c. and a.c. (complex impedance –1 method), and 7Li NMR spin-lattice relaxation rate T1 measurements. 
+Lithium ionic conductivity of mechanochemically prepared LTP and LATP was characterized by significant reduction of grain boundary resistance, especially for LTP, while the bulk conductivity and Li ion diffusion does not noticeably change. 
+The activation energy of bulk conductivity and Li ion diffusion, i.e. short-range motion, appeared to be almost the same for all samples and was equal to ~0.20 eV. 
+On contrary, the activation energy of d.c.conductivity, i.e. long-range Li ion motion decreases from ~0.6 eV for ceramic samples to ~0.4 eV for samples prepared via mechanochemical route. 
+It was proposed that MA leads to formation of nano-particulate high-conductive grain boundaries both in LTP and LATP.
+
+Recently, high energy density and long life all solid-state lithium-ion batteries using solid lithium-ion electrolytes have been requested.
+Li3N is a well-known lithium conductor with the highest conductivity at room temperature. The conductivity of glasses based on Li2S is also reasonably high. 
+However, these materials are not stable in air atmosphere. 
+On the other hand, NASICON-type materials (isostructural with NaZr2(PO4)3) are good ionic conductors with negligible electronic conductivity and stable in air. 
+Among them, LiTi2(PO4)3 is one of the most promising electrolyte.
+
+The structure of LiTi2(PO4)3 (space group R-3c) consists of a three-dimensional network made up of TiO6 octahedra sharing all their corners with PO4 tetrahedra and vice versa to form the so-called “lantern” units, all oriented in the same direction (along the c-axis) .
+ The conduction channels are generated along the c-axis direction. 
+Two positions for the mobile Li ions, M1 and M2, inside the channels, can be distinguished: one (M1) in elongated octahedral oxygen environment at the intersection of three conduction channels, and the other (M2) in an 8–10 oxygen environment at each bend of the conduction channels. 
+The bottleneck between both sites for the rhombohedral R-3c symmetry is formed of three oxygen atoms whose centers make up an isosceles triangle. 
+In the absence of motion, Li ions preferably occupy octahedral M1 site (6b), whose coordinates are (0;0;0). Ti, P, O1, and O2 ions are in the Wyckoff positions (12c), (18e), (36f), and (36f), respectively.
+
+
+It has been shown that the bulk conductivity of  at LiTi2(PO4)3 (LTP) 298 K, whereas d.c.-conductivity determined by grain −1 because boundary resistance is only 10–5 ÷ 10 of high porosity and poor sinterability of ceramic. 
+Effective value of activation energy is 0.3 ÷ 0.4 eV. 
+Different researchers tried to improve bulk conductivity by nonstoichiometry, while to decrease grain boundary resistance, fusible and glass-like additives enhancing the sintering process at grain contacts were used. 
+By substitution of trivalent cations (Al, Cr, Ga, Fe, Sc, In, Lu, Y, or La) for Ti4+ in the octahedral sites of LTP, Aono et al. reported much improved Li ionic conductivity in the modified ceramics with considerably decreased porosity. 
+The improved total conductivity was attributed by Aono et al.  to densification of the sintered pellets and to decrease of activation energy for the grain boundary ion transport. 
+However, the bulk conductivity did not depend the cell constants by the M3+ on the alternation of substitution; its activation energy remained unaffected. 
+For all the systems, the σb+g (bulk and grain boundary) value was almost equal to σg. 
+This means that conduction at grain boundaries is the rate-determining step for the lithium ion migration at room temperature. 
+Among the modified LTP ceramics, Al substituted LTP at the nominal composition Li1.3Al0.3Ti1.7(PO4)3 (LATP) was reported to have the −1, grain optimum Li ionic conductivity (bulk 3×10–3 S·cm −1 at 298 K) . 
+In spite of boundary and total 7×10–4 S·cm increased concentration of mobile carriers (Li ions) in the result of substitution Ti4+↔ Al3+ + Li+ and the possibility to realize the other transport mechanism due to higher occupation of 8-coordinated Li position, the bulk conductivity does not change. 
+The authors observed a maximum in the overall conductivity at x=0.2 for a series of Li1+xAlxTi2−x(PO4)3.
+Structural and compositional changes resulting from framework modification of LATP should lead to formation of vacancies and grain boundary phases, both of which may influence lithium ion dynamics in the modified LTP framework. Vacancies are well known to promote diffusion in a crystal and thereby affect ionic conductivity. 
+Impurity phases present at the inter-crystal regions are important space fillers to reduce porosity of a pellet.
+ In fact, it has been shown that the value of conductivity is influenced by admixture phases (TiO2, TiP2O7 for Al<0.3 and AlPO4 for Al>0.3), formed as a result of partial Li sublimation . 
+More importantly, these grain boundary phases are dielectric, however may provide low energetic pathways for charge transport through the intergranular regions.
+It has been shown that mixing LTP with binders such as Li2O, Li4P2O7, Li3PO4 and Li3BO3, LiNO3 , and a glassy electrolyte 0.01Li3PO4 – 0.63Li2S – 0.36SiS2 is successful in obtaining high lithium conductivity of LTP as well. 
+The question remains to the origin for the higher degree of densification in the modified (composite) material. 
+Grain boundary conductivity of LTP and LATP was found to be highly dependent on synthesis conditions resulting in different particle size and impurity phases. 
+Recently, it has been shown that nanocrystalline and composite (nano-micro) Li ion conductors show superior conductivity. 
+To prepare nanosized materials, mechanical activation method is currently widely used. 
+MA leads to decreased particle size of materials as well as induces cell defects, especially at the surface of particles. 
+Preliminary activation of reagent mixture allows one to reduce the temperature of subsequent heat-treatment and to increase phase homogeneity of final product as a result.
+The aim of the present study was to prepare LTP and LATP using MA method and to investigate their transport properties by complex impedance and NMR spin-lattice relaxation spectroscopy.
+
+To prepare LTP, a stoichiometric mixture of TiO2, Li2CO3, and NH4H2PO4 was preheated at 400 °C to decompose NH4H2PO4. 
+As prepared precursor was activated for 5 min in planetary mill EI-2×150 with titanium jars and balls, 600 rpm. 
+Activated and nonactivated mixtures were annealed at 800, 900 and 1000 °C for 4 h.
+ For the synthesis of Al-substituted LATP samples, a suitable amount of Al(OH)3 gibbsite was added to the initial mixture.
+The crystal and the local structure of as prepared materials were investigated by X-ray powder diffraction (DRON-3M diffractometer, CuKa irradiation) and IR spectroscopy (FTIR spectrometer Specord-75, Bruker, pellets with CsI, 200– −1). 
+Microstructure of sintered pellets was analyzed 4000 cm by scanning electron microscopy with SEM microscope LEO 1430 VP. 
+Li ion conductivity was studied by complex impedance spectroscopy at direct current (d.c.) and alternative current (a.c.) by complex impedance spectroscopy using a HP-4284A impedancemeter in the frequency range 20 Hz – 1 MHz on pellets pressed at ~ 0.7 GPa and sintered at 800, 900 and 1000 °C, with silver electrodes in the 200 ÷ 600 K temperature range. 
+7Li NMR spectra and spin-lattice relaxation rate on 7Li nuclei (spin 3/2) were measured with impulse coherent NMR spectrometer at frequency 25 MHz. 
+NMR lines were recorded as Fourier transformation of free precession signal after 90° impulse. 
+Measurements of spin-lattice relaxation rate were performed by the saturation-reduction method of 7Li nuclei magnetization in the 100 ÷ 600 K temperature range.
+
+X-Ray study shows the presence of TiP2O7 as an admixture in ceramic LTP prepared at 800 and 900 °С and AlPO4 in the case of ceramic LATP (Figs. 1 and 2). 
+At elevated temperature (1000 °С), thermal decomposition of LTP occurs with partial sublimation of Li2O according to the reaction: 
+which brings to additional low-intensity peaks of TiO2 on Xray patterns.
+Heating of activated mixtures at 800–1000 °С leads to decreased amounts of impurity phases in the final products as compared with ceramic method. Only tiny amounts of TiO2 and some unknown phases were found in LTP and LATP prepared using MA. 
+Thus, as prepared ceramic and MA-samples of Li electrolytes are characterized by different nature and amount of dielectric admixtures.
+According to, cell parameters a and c are equal to 0.85129 and 2.0878 nm for LTP, and 0.850 and 2.082 nm for LATP. 
+Thus, Al-substitution only slightly decreases cell 3+= parameters which correlates with ionic radii: RAl 4+=0.0605 nm. 
+According to Table 1, there 0.0535 nm, RTi is no big difference between cell parameters of ceramic and MA samples. 
+Cell parameters for LTP samples increase from 800 to 900 °С and then decrease again, while they keep almost unchanged for LATP samples. 
+For samples heated at 900 °С, cell parameters are closer to the literature data.
+On the IR spectra of pure and Al-doped LTP, prepared at 900 °С from activated and non-activated mixtures, four series of bands are present: at 270–300, 300–550, 550–700 −1 (Fig. 3). 
+The main contribution to the and 800–1200 cm spectra intensity belongs to the stretching and deformation −1), as well as to the bands of PO4 groups (320–550 cm −1).
+stretching vibration of TiO6 groups (550–650 cm Partial substitution of Ti4+ for Al3+ does not noticeably influence the spectra. 
+The form of high-frequency bands becomes more complicated, evidencing a slight distortion or non-equivalence of PO3 4groups as a result of introduction of Al3+ ions in the structure. 
+This correlates with the 31P NMR spectroscopy data, according to which a narrow line at −28 ppm characteristic to orthophosphates becomes wider and asymmetric under partial substitution of Ti for Al. 
+The main difference of MAand ceramic samples consists in higher intensity of the bands for MA-samples, especially in the case of LTP.
+Such increase of IR lines intensity usually correlates with the diminishing of particle size of material and decrease of electronic conductivity.
+Figs. 4 and 5 show SEM images of fracture surfaces of the LTP and LATP pellets sintered at 900 °C. 
+It follows that ceramic LATP sample is better sintered than the ceramic LTP sample, which corresponds to literature data.
+One can see the traces of surface fusion in the case of ceramic LATP (contrary to MA-LATP), probably as a result of melting process of fusible additives or eutectics which brings to better sinterability of LATP. 
+Such material can be considered as glass-ceramics which are known to have higher ionic conductivity. 
+The main differences in morphology of ceramic and MA-samples consist 1) in the grain size: the MA-samples are characterized by lower particle size (< 1 μm) and larger particle size distribution; 2) in the form of particles: the ceramic samples form cuboid crystals while the MA-ones are well-rounded; besides, one can observe triple contacts of adjacent crystallites; and 3) in degree of sinterability: higher degree of sinterability of MA-samples is not so evident from SEM. 
+However, the presence of large amount of submicron particles proposes the larger volume fraction of small pores in MA-samples. 
+It should be noted that the measured experimental density of MA-samples appeared to be lower than those of ceramic samples: 2.25 and 1.85 g/cm3 for ceramic and MA-LTP; 2.75 and 2.35 g/cm3 for ceramic and MA-LATP, respectively.
+Impedance measurements show that the highest conductivity was observed for the samples prepared at 900 °С. 
+The Arrhenius plots for these samples are presented in Fig. 6. 
+Partial Ti substitution for Al increases the conductivity value by 1–2 orders of magnitude which correlates with the literature data. MA brings to additional noticeable enhance−1 at room ment of the total conductivity of LATP (6·10–5 S·cm −1), i.e. about temperature) and especially of LTP (2·10–5 S·cm 3 orders of magnitude higher than that for ceramic samples (see Table 2). 
+Such a high value of conductivity for LTP was obtained only by authors using spark-plasma sintering.
+Experimental impedance godographs Z* were described in terms of equivalent circuit, which includes a consecutive array of 3 elements: Z1*, Z2* and Z3*, corresponding to contribution of bulk, grain boundaries and electrode to the total impedance.
+ Each Zi element can be presented as a combination of parallel array of active resistivity Ri and the element of constant phase.
+The parameters of the equivalent circuit, i.e. the values of R1, R2, R3, were determined by the minimization method of root-mean-square deviation of calculated values from experimental ones using optimization procedure of the Mathcad 11.0 Program.
+MA does not noticeably change the bulk conductivity of LTP and LATP, whereas grain boundary resistance is noticeably reduced (Fig. 6).
+It should be noted that the deviation of experimental data of total conductivity from linearity at low (for ceramic samples) and high temperatures (for all samples) occurs. 
+In the high temperature range, grain boundary conductivity becomes close to that of the bulk. 
+The parameters of temperature dependence of conductivity are shown in Table 2. 
+The activation energy of conductivity measured at high frequencies (σ bulk) appeared to be close to 0.20 eV for all samples. 
+On contrary, the activation energy of d.c.-conductivity (σ grain boundary) decreases from ∼0.6 eV for ceramic samples to ∼0.4 eV for the samples prepared via mechanochemical route.
+The enhancement of conductivity of MA-samples is consistent with X-Ray, i.e. with the smaller amounts of dielectric impurities and the presence of some new phases, but contradicts with SEM data, i.e. with smaller particle size and larger porosity. 
+Such effects can be attributed to the presence of surface nano-particulate phases. 
+According to, for nanocrystalline Li ion conductors, whether single-phase or nano-micro composites, the grain boundary or interfacial region diffusion dominates due to larger Li ion concentration and higher mobility of ions in the surface or pre-surface layer owing to increased vacancy disordering. In nano-particulate materials, besides contributions from the bulk and the interfaces, surface diffusion can also occur due to a large volume fraction of pores. 
+In addition, in MA samples, triple junctions at borderlines where three adjacent crystallites are brought into contact can be thus bringing to fast diffusion pathways (see realized, SEM data in Figs. 4 and 5). 
+On the other hand, the formation of glass-ceramic MA-composition with surface glass phase is less probable, since no traces of fusion were observed by SEM.
+It is well known that conductivity measured at direct current or at low frequencies characterizes a long-range mobility of carriers when ion is able to make many jumps, and the carrier system relaxes till interactions between ion and the lattice and between carriers take place. 
+Activation energy Ea in this case is an effective constant, which includes the value of energetic barrier U for crystal formation, as well as a pure dynamic additive – the Cologne correlation energy of carriers EC: Ea=U + EC. 
+On the other hand, high-frequency measurements, e.g., 7Li spin-lattice relaxation at 15–35 MHz brings to the value of the real energetic barrier U since for such a short time, correlation interaction between carriers does not occur.
+Ionic motion averages the interaction among nuclei (dipole interaction) and that from the electrostatic inhomogeneity in their surroundings (quadrupole interaction). 
+Such averaging is observed as a narrowing of resonance lines in NMR spectra. 
+Thus, the resonance lines strongly reflect Li motion in the bulk, since NMR signals mainly come from the bulk.
+7Li static NMR spectra of ceramic and MA-LATP in the 123 650 K temperature range are shown in Fig. 7. 
+They consist of a central line (−1/2 → 1/2 transition) and two satellites (1/2 → 3/2 and −3/2 → −1/2). 
+The width of the central line is governed by dipole interaction and Li ion mobility, while satellite lines dominate by quadruple interaction. 
+The central line is broadened at 123 K but sharply narrows starting from ~300К. At 600К, the linewidth reaches 250 Hz for ceramic sample and 700 Hz for MA-sample.
+ It has been found that a quadrupole coupling constant Cq increases with temperature evidencing the activation motion of Li ions.
+Activation energy of Li ion diffusion was evaluated from temperature dependence of spin-lattice relaxation rate 1/T1 (Fig. 8). 
+In the 100–200К range, spin-lattice relaxation rate 1/T1 sharply increases from 3 to 1000 ms, achieves its maximum at 260К for both samples and then decreases again. 
+The changes of longitudinal 1/Т1 relaxation rate vs. temperature are qualitatively described by BPP formula .
+ The estimated activation energy of Li diffusion from the slope of the curve on the low-temperature side was about 0.2 eV which is consistent with the Ea of bulk conductivity
+
+Thus, it has been shown that LTP and LATP prepared via MA route show enhanced Li ion conductivity due to the decrease of grain boundary resistance, especially for LTP, while bulk conductivity remains unchanged. 
+The activation energy of long-range Li ion motion decreased from ~0.6 eV to ~0.4 eV, whereas the activation energy of short-range Li ion motion appeared almost the same for all samples and was equal to ~0.20 eV. 
+We consider that MA leads to the appearance of new high conductive grain boundaries which consist of nano-particulate phases. 
+Diffusion and ionic conduction in nanocrytalline ceramics is far from being understood completely, but is essential in tailoring functional materials with optimized properties.
+

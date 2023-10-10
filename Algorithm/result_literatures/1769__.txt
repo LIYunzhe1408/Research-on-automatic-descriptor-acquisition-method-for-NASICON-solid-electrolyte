@@ -1,0 +1,89 @@
+CuZr2(PO4)3 crystallises with the Nasicon-type structure and is a copper(I) ion conductor.
+Thepossibility of a solid solution between CuZr2(PO4)3 and Cu0.5Zr2(PO4)3 has been a controversialissue for many years.
+As part of a continued study, CuZr2(PO4)3 and Cu0.5Zr2(PO4)3 wereprepared by solid state methods and used to investigate the copper stoichiometry and phaserelationships between these two materials as a function of copper content, temperature andoxygen fugacity.
+The following reversible reaction: Cu0.5Zr2(PO4)3 (s) + 12CuO (s) ↔ CuZr2(PO4)3(s) + 14O2(g) was studied by thermogravimetry in an atmosphere of PO2= 0.22 atm and wasfound to occur at 475±10◦C.
+Thus, CuZr2(PO4)3 is a thermodynamically stable phase in airabove ∼475◦C, which places a lower temperature limit on its use as an electrolyte in air.
+Theresults of X-ray powder diffractometry on materials with various copper contents that had beenannealed in argon at 750◦C indicate that there is no evidence for a significant solid solution between CuZr2(PO4)3 and Cu0.5Zr2(PO4)3 nor, a reductive decomposition of Cu0.5Zr2(PO4)3. 
+Thecoexistence of CuZr2(PO4)3 and Cu0.5Zr2(PO4)3 as discrete phases is also supported by evidencefrom electron spin resonance spectroscopy on these materials, which indicate the presence ofcopper(II) ions in CuZr2(PO4)3 at a dopant and dispersed level of concentration.
+The results from energy dispersive X-ray analysis, as well as, the novel use of the fluorescent behaviour of CuZr2(PO4)3 in ultra-violet light as an analytical tool, support the above conclusions.
+
+The resulting mixture, after the evaporationof the acetone in air, was placed in an aluminacrucible and slowly heated in a box furnace (VecstarFurnaces VF 1 SP) to 400◦C and held at that temperatureovernight in order to decompose the NH4H2PO4 and initiate the first stage of the reaction .
+The productmaterial was slowly cooled to room temperature, thenground with an agate pestle and mortar.
+The powderedmaterial was placed in a boat-shaped alumina crucibleand introduced into a tube furnace (Lenton FurnacesLTF 16/50/180) attached with a recrystallized aluminaworktube.
+The material was heated to 1200◦C for 16 h, ina flowing argon (99.99%, Hede Nielsen A/S) atmosphere,with heating and cooling rates both set at 5◦C/min.
+
+The precursor material comprised a finely ground powder of CuZr2(PO4)3 as prepared above.
+This material was placedinside an alumina crucible and oxidized in air, inside a box furnace at 400◦C, then cooled to room temperature.
+The product material was ground with an agate pestleand mortar.
+The above oxidation process was repeatedto ensure complete oxidation of the material.
+Finally, thepowdered product was washed with warm dilute nitricacid to remove the copper(II) oxide, followed by a washwith distilled water, then subsequently dried in air.
+Theproduct was analysed by powder XRD using a SiemensD5000 diffractometer using Cu-Kα1 radiation.
+The instrumentwas operated with a controlled atmosphere, which wassupplied by mixing oxygen (99.5%, Hede Nielsen A/S)with argon (99.99%, Hede Nielsen A/S) in different ratios.
+The contents of the atmosphere were determinedby ‘on-line’ mass spectroscopy.
+A powdered sample of CuZr2(PO4)3 was placed in a miniature alumina crucibleand heated with a rate of 1◦C/min from room temperatureto 1000◦C in an atmosphere of PO2= 0.22 atm, and maintainedfor one hour, then followed by cooling to roomtemperature at the same rate.
+Powders of colourless CuZr2(PO4)3 and pale-blue Cu0.5Zr2(PO4)3 were weighed together with formula-unitratios of 3:1 and 1:1 respectively.
+In each case, the thoroughly mixed powder was placed inside a silicon rubbermould (manufactured in-house) which in turn was heldand tied inside a condom, before being pressed at 15 kbar for 30minutes using an oil-press (20 kbars Pressure ReactionSystem, supplied by PSIKA Pressure Systems Ltd.
+The pelletwas then heated to 750◦C for 16 hours in 99.99% argon.
+These conditions should be sufficient, in terms of temperature,time, and pellet density to enable any envisagedformation of a solid solution to take place, by the interdiffusionof copper ions within this two phase mixture.
+After heat treatment, the pellet was quenched to roomtemperature and then ground using an agate pestle andmortar.
+The powdered material was analysed by ESR andpowder XRD.
+A third pellet was prepared by a method for making‘double-layered’ pressed powdered pellets.
+A layer of Cu0.5Zr2(PO4)3 powder was placed in the bottom halfof the silicon rubber mould, and followed by a layer ofCuZr2(PO4)3 powder in the top half of the mould.
+This was then pressed at 15 kbar for 30 minutes into a singlepellet using the oil press as described above.
+The pelletwas first heated at 750◦C in flowing argon (99.99%) for 16 hours and then cooled to room temperature.
+Observations were made on the pellet before re-annealingunder identical conditions for a further 160 hours.
+Afterthis time, the pellet was dissected longitudinally, such thatthe cross-section was observed under ultra-violet lightand also analysed by electron microscopy and dispersiveX-ray analysis (EDXA) using a Jeol JSM-35CF scanningmicroscope.
+In this work, CuZr2(PO4)3 was obtained as a colourlesspowder whilst, Cu0.5Zr2(PO4)3 was obtained as apale-blue powder.
+The powder XRD patterns for thematerials, CuZr2(PO4)3 and Cu0.5Zr2(PO4)3 as preparedhere, are shown in Figs 4 and 5 respectively.
+Their dvaluesand relative intensities for these phases correspondclosely to those reported in the ICDD card numbers 81-0526 and 42-1057 respectively.
+Interestingly, one additionalpeak (2θ = 25.75◦, relative intensity = 17) appearsin the powder pattern for the CuZr2(PO4)3 materialprepared in this work, with a d-value = 3.457 Å;but it has not been possible to either index this peak or,account for its presence.
+Fig.6 shows the thermogravimetric profile forCuZr2(PO4)3 in an oxygen partial pressure of 0.22 atm.
+This shows a gradual and continuous gain in massfrom room temperature upwards, which is interpretedin terms of oxidation of the material until 475±10◦C.
+Above this temperature the material gradually loosesmass, which is interpreted in terms of a loss of oxygenfrom the system and is associated with the reductionof the material.
+Later in the heating-cycle, whenthe sample is eventually cooled below 475±10◦C,there is a regain in mass corresponding to the additionof oxygen to the system.
+This mass-temperatureprofile is therefore interpreted in terms of a reversible uptakeand release of oxygen from the material.
+Similar observationshave been reported for CuHf2(PO4)3 andCuSn2(PO4)3 , whereby the redox-transition equilibriumtemperatures are approximately 500◦C and 480◦C respectively.
+Given the close structural similarities betweenthese three compounds it is quite reasonable toexpect a similarity in their redox-transition equilibriumtemperatures.
+This analysis confirms that CuZr2(PO4)3 is ametastablephase at room-temperature and under atmospheric conditions(T = 298 K and PO2= 0.22 atm).
+Therefore, as the temperature increases, CuZr2(PO4)3 begins to oxidize to Cu0.5Zr2(PO4)3 and CuO.
+However, once the temperaturerises above the redox-transition temperature (Tredox),the material (an intimate mixture of Cu0.5Zr2(PO4)3 andCuO) begins to revert back to CuZr2(PO4)3, with a correspondingloss of oxygen from the system.
+It is thereforeconcluded that CuZr2(PO4)3 is a thermodynamically stablephase at a temperature, T≥475±10◦C (at PO2=0.22atm).
+To investigate this system further, a powdered sampleof CuZr2(PO4)3 was annealed at 700◦C in air (PO2 =0.21 atm) for 2 hours, then poured immediately onto alarge block of aluminium in order to quench the materialto room temperature.
+The product materialwas essentially a colourless powder with a pale-green tinge in places.
+Thepowder XRD pattern is shown in Fig.7. 
+Besides an additionalpeak (2θ = 25.75◦) which has previously beencommented on in Section 3.1, this pattern indicates that CuZr2(PO4)3 was the only phase detectable by this technique.
+This shows that the material exists essentially inits reduced (cuprous) form, CuZr2(PO4)3 at 700◦C in air.
+From the electrochemical studies of Schaffer et al,one is left to infer, from their interpretation of electrochemicaldata, that the material should exist in its oxidizedform under these conditions; in other words, asa two phase mixture of Cu0.5Zr2(PO4)3 and CuO.
+Thisis in contradiction to the observations made here in this present work.
+Perhaps the Cusicon ‘electrode’ as usedby Schaffer et al.is not at a state of equilibrium orfunctioning in a manner, as they have presumed in theirwork.
+
+
+It is therefore concluded that a solid solution does notexist at 750◦C.
+Neither is there evidence of any reductivedecomposition of Cu0.5Zr2(PO4)3 under these conditions.
+Figs 10a and b show respectively, pictures taken undernormal white light of the ‘double-layered’ pellet, beforeand after the 16 hours of annealing as described in Section 2.5; revealing colourless CuZr2(PO4)3 on theleft and pale-blue Cu0.5Zr2(PO4)3 on the right.
+Fig.10c shows the same as Fig.10b, but is taken under ultra-violetlight (λ = 366 nm); revealing the green-fluorescencefrom CuZr2(PO4)3 on the left and non-fluorescence fromCu0.5Zr2(PO4)3 on the right.
+The presence of two clearlysegregated regions suggests there is no significant interdiffusionof copper between these two layers after 16hours of annealing at 750◦C.
+Fig.10d shows a picture taken under normal whitelight after annealing for a further 160 hours at 750◦Cin argon; revealing pale-green material on the left anda pale-blue material on the far-right with a colourlessmaterial in the interfacial region.
+These observations suggest thatsome inter-diffusion has occurred between CuZr2(PO4)3and Cu0.5Zr2(PO4)3 after prolonged annealing, althoughthe original segregation is still clearly visible in Fig.10e.
+Table I shows the results from the energy dispersive X-rayanalysis (EDXA) performed on this cross-section of thepellet.
+These results indicate a difference in copper concentrationacross the pellet longitudinally, correspondingto a high copper content in both the colourless and palegreenregions and, a significantly lower copper concentrationin the pale-blue region, as described above.
+Aftersuch prolonged annealing, it is evident that the material isstill very inhomogeneous.
+In terms of microstructure, theinter-diffusion region of the pellet is more appropriatelydescribed as a fine-grained mechanical mixture of two distinct phases (CuZr2(PO4)3 and Cu0.5Zr2(PO4)3) ratherthan a solid solution.
+The results of aseries of ESR measurements performed on the variouscompositional mixtures investigated in this present workare shown in Fig.11.
+ The absolute concentrations aredifficult to quantify by this technique, but nonetheless,the copper(II) signal in CuZr2(PO4)3 is particularly weak.
+This indicates the presence of copper(II) ions asa dopant and at a dispersed level of concentration in thecolourless to pale-green material.
+The Cu0.5Zr2(PO4)3 material gave a very broad peak similar to that reportedby Taoufik et al, whilst the CuZr2(PO4)3 materialgave a very sharp peak.
+Intermediate compositions gavevery broad peaks.
+These aspects concerning the peakwidth are used here to show that there is no evidence of asolid solution in these intermediate compositions.
+If any significant solid solution did occur, then progressive linebroadening would be expected across the compositionalseries.
+The results from thermogravimetry performed on this materialunder an atmosphere of PO2= 0.22 atm.
+CuZr2(PO4)3 shouldtherefore function as a copper(I) ionic conductor in airabove ∼475◦C, even after a long exposure time to air;but not below this temperature.
+This is different to the situation when CuZr2(PO4)3 is used under an inert atmosphere;in which a lower temperature restriction on its useis then, normally, dictated by the magnitude of its ionicconductivity.
+This presentwork has indicated that there is no evidencefor a continuous solid solution between CuZr2(PO4)3 andCu0.5Zr2(PO4)3; and especially not within the compositionalrange Cu1−xZr2(PO4)3 (0.125≤x≤0.25) at 750◦C.
+However, the results suggest that the pale-green to colourlessmaterial corresponds to a solid solution of a very limitedextent, described by, CuI/II1−xZr2(PO4)3 (0 ≤ x 0.125), which is more akin to the presence of copper(II)ions at a dopant and dispersed level of concentration.
+Thepresence of these copper defects is not expected to affectthe ionic conducting properties of this material by anygreat extent.
+The absence of a solid solution may be due to the peculiarco-ordination environments of the copper(I) andcopper(II) ions in these materials.
+Although the substructuralframeworks of CuZr2(PO4)3 and Cu0.5Zr2(PO4)3 areclosely related, the co-ordination of copper(I) and copper(II) ions in the M(1) position are very different, whichleads to local distortions.
+This might explain why copper(I) and copper(II) ions cannot be accommodated simultaneouslywithin a single Nasicon-type phase, exceptwhen present at a defect level of concentration.
+Itwould beinteresting to compare these aspects with related systems,such as, CuTi2(PO4)3 − Cu0.5Ti2(PO4)3, CuHf2(PO4)3 −Cu0.5Hf2(PO4)3 and CuSn2(PO4)3 − Cu0.5Sn2(PO4)3, as well as, to obtain single crystal X-ray diffraction or, neutrondiffraction data for the cupric phase, Cu0.5Zr2(PO4)3.
+The fluorescent behaviour of CuZr2(PO4)3 under ultravioletlight has proved to be useful as a simple analyticaltool in this work.

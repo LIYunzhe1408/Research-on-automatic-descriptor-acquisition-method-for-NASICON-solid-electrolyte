@@ -1,0 +1,97 @@
+This paper reports the effect of the sensitive layer thickness on the response of Nasicon based electrochemical CO2 sensors. It was found that: (a) the cell voltage dependence on the thickness of the thin ﬁlm Na CO auxiliary electrode is well described within the theory of Schottky barriers formation in ionic crystals; and (b) sensors with relatively thick gas-sensitive layer are more reliable in dry CO atmosphere. 1998 Published by Elsevier Science B.V. All rights reserved.
+
+Keywords: Chemical sensor; Sensor for carbon dioxide
+
+types of solid electrolyte CO sensors alkali carbonates are an essential component, often employed as thin layer between electrolyte and electrode [1]. The long time stability of the sensor is determined by the stability of its interfaces. Fast electrode kinetics is desirable in view of short response times and is found to correlate with a lower deviation from the theoretical Nerstian sensitivity [2]. The aim of this paper is to discuss problems connected with interphase stability and the thickness effects of the thin ﬁlm Na CO auxiliary electrode as they reﬂect on a CO electrochemical sensor which is schematically represented as
+
+AuuSealed reference electrodeuNasiconuAuuNa CO , 3 O , CO (g).
+
+Two types of sensor devices ((a) and (b)) shown in Fig. 1. were fabricated. High density electrolyte discs (10 mm in diam. and 1mm thick) were obtained by isostatically pressing ﬁne powder of Nasicon, prepared by the sol gel method [3], into proper shape and sintering the compact green pellet at 11508C for 21 1 h. The heating and cooling rates were 28C min . The reference electrode discs were prepared by intimate mixing of Na CoO and Nasicon powders in 50:50 weight ratio in isopropanol, drying for 4 h at 1208C and compressing into pellets (8 mm in
+
+Fig. 1. Sensor devices with thin ﬁlm (type (a)) and thick layer (type (b)) sodium carbonte auxiliary electrode.
+
+diam. and 0.8 mm thick). This composite electrode was found in a recent study [4] to give a relatively stable and reversible interface with the Nasicon electrolyte compared to the pure sodium cobalt oxide reference electrode used in earlier studies [5,6]. The reference electrode was pressed mechanically onto the surface of the Nasicon disc and sealed with a high temperature ceramic sealer (Cotronics Copr.). The sensing electrode was made by painting gold paste of homogeneous thickness on the top of the Nasicon disc followed by annealing at 6008C for 2h. To fabricate device (a), thin ﬁlms (0.3, 5 and 8 mm thick) of sodium carbonate auxiliary electrode were deposited by electron beam ablation [7] in CO2 atmosphere onto the top of the gold electrode and annealed at 5008C for 6h. The thus obtained ﬁlms, shown in Fig. 2a Fig. 2b, are porous.
+
+the fabrication of device (b), a saturated sodium carbonate–isopropanol solution was ﬁrst painted onto the top of the gold electrode and then sintered at 5008C for 2 h. The resulting layer (ł0.1mm thick) is relatively dense compared to the thin ﬁlm auxiliary electrode.
+
+CO sensing experiments were carried out in a conventional gas ﬂow apparatus. Sample gases (CO2 concentration: 0.1 to 8 volume percent (v/o)) were prepared from pure CO by mixing with dry synthetic air. The difference in potential between the sensing electrode and reference electrode of the sensor at 5008C was mesured by means of a high inner resistance electrometer (.10 Ohm) under a constant oxygen concentration of 20 v/o and a total 21 ﬂow rate of 100 cm min .
+
+A symetrical cell was used for the impedance
+
+Fig. 2. a: SEM picture of gold paste deposited onto the top of the NASICON disc and annealed for 6 h at 5008C. b: SEM picture of [gold paste12.5 mm thin ﬁlm sodium carbonate] deposited onto the top of the NASICON disc and anealed for 6 h at 5008C.
+
+spectroscopy measurements. The parameters of the cell impedance were measured at 5008C in a controlled argon atmosphere inside a quartz cell. A 4192 A Hewlett Packard impedance analyser was employed. The frequency range covered in this study was 5–10 Hz and the oscillation amplitude of the input signal was 0.2 mV.
+
+3. Results and discussion
+
+3.1. Sensing responses
+
+3.1.1. Considerations on the measured cell voltage (e.m.f.)
+
+Fig. 3 shows the responses of freshly prepared type (a) and (b) sensors at 5008C to the varying partial pressure of CO in the gas mixture. For this type of potentiometric electrochemical sensors the derivation of the Nernst potential E is often explained by the assumption that the electrochemical potential of the electrons, which is identical with the Fermi in the working and in the reference electrode are equal. This leads to the familiar equations [8,9]:
+
+and h
+
+where h are the chemical potential of sodium ions in the reference and in the working electrode, respectively. E is a constant at ﬁxed temperature, n is the number of electrons exchanged during the cell reaction, e and (RT/F ) have the usual meaning.
+
+The measured cell voltages, as shown in Fig. 3, lie on straight lines as described by Eq. (2). The slopes of the lines, reported in Table 1, are slightly lower than the calculed value, 73 mV, for a two electron process (n52). For the type (a) sensor the cell voltage varies with the thickness of the thin ﬁlm auxiliary electrode. This variation cannot be explained by considering the basic assumptions of the Eq. (1) and Eq. (2). In the following, we propose a possible explanation to this variation. Let us ﬁrst present a brief review of the potentiometry which was used to describe the measured cell voltage E of our galvanic cell which is represented by the cell arrangement (I). From the latter and the scanning electron microscope (SEM) picutres Fig. 2a Fig. 2b it is seen that in the cell there are four heterojunctions:
+
+(1) Gold electrode–reference electrode; (2) Reference (3) Nasicon–working electrode Na CO ; (4) Working 2 electrode Na CO –gold electrode.
+
+the ﬁrst heterojunction the equilibrium is reached when electrons from both sides are in equilibrium. When two materials with different location of Fermi levels are brought into contact electrons ﬂow from the material with higher position of Fermi level to the material with lower location of the electrostatic equilibrium is Fermi reached. Using the basic functional relationship between the fermi level E and the work function f e [10]
+
+level until
+
+where d is the work needed to overcome the surface
+
+Table 1 The observed Nernstian slope for dry CO gas
+
+Fig. 3. The cell voltage variation with CO concentration at 5008C for type (a) and (b) sensors.
+
+dipole, yields the contact difference of potential at the ﬁrst heterojunction
+
+one of the electrodes (or in both) induces a changement of the cell voltage.
+
+where f and f are the work function of electrons in the gold and in the reference electrode, respectively.
+
+At the second and third heterojuntion the equilibrium is reached when the electrochemical potential of the mobile Na ions is equal in both the reference electrode and the Nasicon electrolyte and in the Nasicon electrolyte and the Na CO auxiliary electrode. Since the electrochemical potential for charge species the equilibration at the second and the third heterojunction results in the formation of a potential difference through the interfaces
+
+the electrostatic potential,
+
+is the chemical potential of the Na
+
+the forth heterojunction the equilibrium is reached when electrons from both sides are in equilibrium and similarly to the ﬁrst heterojunction the contact difference of potential is described by
+
+Thus the resulting potential of the cell is
+
+It follows from Eq. (8), that the cell voltage depends 1 on both the chemical potential of the mobile Na ions and on the values of the work function in the reference and in the auxiliary electrodes. From this consideration the modiﬁcation of the value of the work function or the position of the Fermi level in
+
+3.1.2. Dependence of the cell voltage on the thickness of the Na CO thin ﬁlm auxiliary electrode
+
+the Fermi
+
+Let us consider the contact between the Na CO2 3 auxiliary electrode and gold electrode. The value of the total conductivity of the sodium carbonate is approximatively equal and typical for ionc conductors. The transport number for 1Na ions was found to be equal to t 51 and the electronic current is negligible [11]. Due to this, the Schottky barrier at the heterojunction gold–Na CO2 3 auxiliary electrode can be considered within the model proposed by Bredikhin et al. [12]. In accordance with this model the value of the work function and the position of level f in Na CO depend on the thickness of the E Na CO layer. The creation of a Schottky barrier and a depletion region near the interface in the Na CO2 3 layer takes place due to the diffusion of self-trapped electrons from Na CO into the gold electrode. The value of this potential barrier V is equal to the difference in the values of the work function for electrons in the gold and in Na CO . However, the properties of the Schottky barrier are determined by the presence of mobile Na ions. The barrier capacitance C which is of the order of magnitude of 10 F is much higher than in semiconductors [13]. For the formation of a contact difference of the potential, the required charge is approximately e cm then. If the thickQ 5V C ness l of the Na CO layer is small (l ,0.1mm), as a consequence approximately all mobile electrons must diffuse from the bulk layer to the heterojunction for the formation of the contact difference of the potential. In this case a depletion of the sample by electrons takes place as well as a shift of the position of the Fermi level. The calculation of the dependence of the position of the Fermi level for electrons E of the value of the work function f and of the value of the contact difference of the potential V on the thickness of the ionic conductor has been done in detail in [12]. From this calculation it follows that the value of the work function for electrons in Na CO depends on the thickness of the layer according to the following equation
+
+For the logarithm of the partial pressure of CO 2 equal to 22.699, the measured cell voltage for the type (a) sensor with 2.5 mm and 5 mm is 2167 mV and 2196mV, respectively. Using Eq. (12), provides a B value about 145?10 V cm which means a Nd value about 2.3?10 cm . The latter value is well consistent with the usual donor concentration in ionic conductors [14].
+
+A more relieable way to calculate B using the given formulas seemed to be if one calculates E for every electrode thickness from a plot of E versus log( p ). If one now plots E versus 1/l the slope of this graph yields a value of 172?10 V cm which shows that the above used approximation using two datapoints ﬁts nevertheless quite well.
+
+Fig. 4. The response time variation with CO concentration at 5008C for type (a) and (b) sensors.
+
+F. Salam et al. / Solid State Ionics 110(1998)319–325
+
+Fig. 5. Long-term stability of the response to 6% volume CO for type (a) and (b) sensors.
+
+steady state equilibrium. Accordingly to this result, the interaction between the gas and the sensing electrode is considered to be the response rate determining process.
+
+As shown in Fig. 5, the e.m.f. response to 6% volume CO at 5008C was found to be quite stable during the time range investigated for the type (b) sensor comparatively to the response of the type (a) sensor with 2.5 mm thin ﬁlm. This shift can be attributed to the aging of the sensing electrode at the relatively high working temperature. An experimental veriﬁcation of such supposition is given by the impedance spectroscopy measurements described below.
+
+4. Aging of the sensing electrode
+
+An investigation of the aging of the interface gold paste, sodium carbonate thin ﬁlm and Nasicon electrolyte was performed by impedance spectroscopy. The following symmetrical cell
+
+was constructed. Fig. 6 shows the evolution of the impedance spectrum of (II) with time. Though the parametrization of a such spectra is not
+
+the cellThin ﬁlms ranging from 2.5 to 8 mm and thick layers of sodium carbonate were deposited by electron beam ablation and by painting, respectively. Sensor properties were measured at 5008C under dry CO gas. The results indicate that sensors with thick
+
+

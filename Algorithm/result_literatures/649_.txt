@@ -1,0 +1,137 @@
+Even though advocated as the potential low-cost alternatives to current lithium-ion technology, the practical viability of sodium-ion batteries remains illusive and depends on the development  of  high-performance  electrode  materials. 
+Very  few  candidates  available  at present can simultaneously meet the requirements on capacity, rate capability and cycle life. 
+Herein,  we  report  a  high-temperature  solution  method  to  prepare  Ni3S4  nanorods  with uniform  sizes.
+These  colloidal  nanorods  readily  self-assemble  side  by  side,  and  form microsized  superstructure,  which  unfortunately  negates  the  nanoscale  feature  of  individual nanorods.
+To  this  end,  we  further  introduce  two-dimensional  graphene  nanosheets  as  the spacer to interrupt nanorod self-assembly.
+Resultant composite presents a marked advantage toward electrochemical storage of Na+ ions.
+We demonstrate that in half cells, it exhibits large reversible specific capacity in excessive of 600 mAh/g, high rate capability with >300 mAh/g retained at 4 A/g, and great cycle life at different current rates.
+This anode material can also be combined with NASICON-type Na3V2(PO4)3 cathode in full cells to enable large capacity and good cycleability.   
+Sodium-ion batteries (SIBs) have attracted rapidly growing attention over recent years as one  of  the  most  promising  post-lithium-ion  technologies  by  virtue  of  the  natural  abundance and low cost of sodium.
+They also share a similar working principle to lithium-ion batteries (LIBs), and  therefore the accumulated  knowledge  about  LIBs can be  readily  transplanted  to facilitate  their  research.
+In  spite  of  the  great  potential,  current  SIBs  still  cannot  rival existing  lithium-ion  technology.
+A  primary  cause  is  the  lack  of  suitable  electrode  materials that  are  able  to  accommodate  the  reversible  electrochemical  uptake  and  release  of larger-sized  Na+ ions  with  a  significant  capacity  and  cycle  life.
+High-capacity  materials such as  P  and  Sb are  usually short  in cycle  life, whilst  long-cycle-life  materials  such  as hard carbon have rather limited capacity (<300 mAh/g).
+Transition  metal  sulfides  are  a  large  class  of  materials  having  a  variety  of  chemical compositions  and  crystal  structures. 
+They  were  first  investigated  for  LIBs  and  SIBs  in 1970s,and  despite  subdued  research  activities  in  80s-90s,  have  recently  gained  revived interest for the electrochemical storage of alkali metal ions.
+Among them, nickel sulfides (NiSx,  including  NiS,  NiS2,  Ni3S2,  Ni3S4  and  Ni7S6)  have  remarkable  theoretical  capacity values in the range of 450–880 mAh/g, but unfortunately are far from reaching their ultimate potential  in  practice.
+To  promote  their  electrochemical  performance  would  require structure  engineering  at  the  nanoscale.
+It  has  been  widely  accepted  that  nanostructured electrode  materials  are  generally  advantageous  and  desirable  for  battery  applications  due  to their  enlarged  surface  areas,  shortened  electron  and  ion  diffusion  length,  and  better  strain accommodation  during  repetitive  cycling.
+However,  an  often  neglected  but  important issue  associated  with  nanomaterials  is  their  natural  propensity  to  aggregate  during  the material  synthesis,  post-synthetic  treatment  or  electrode  preparation,  severely  negating  the gain  in  electrochemical performance associated  with  reduced material  dimensions.
+As a result,  we  propose  that  in  conjunction  with  the  development  of  synthetic  methods,  effective strategies  should  be  sought  to  suppress  their  aggregation  so  as  to  fully  capitalize  their nanoscale feature in electrochemical energy storage. 
+In  this  work,  we  report  the  high-temperature  solution  synthesis  of  Ni3S4  nanorods  with uniform sizes.
+Graphene nanosheets are additionally introduced as the conductive support and the spacer to effectively interrupt their aggregation. Resultant composite material enables the reversible storage of Na+ ions with impressive specific capacity (>600 mAh/g), rate capability (~300 mAh/g at 4 A/g) and cycling performance (>200 cycles) at the half cell level as well as satisfactory performance when coupled with the Na3V2(PO4)3 cathode in full cells. 
+Ni3S4  nanorods  (NRs)  were  prepared  by  reacting  NiCl2  and  1-dodecanethiol  in oleylamine  at  250°C  (see  Experimental  Methods  for  details).  Solid  product  at  the  end  of reaction was readily dispersible in non-polar solvents such as cyclohexane to form a colloidal solution  stable  for  months,  presumably  due  to  the  surface  passivation  of  Ni3S4  NRs  with oleylamine.
+Figure  1a  (insert)  showed  a  ~100  mL  cyclohexane  solution  of  Ni3S4 NRs  at  a concentration  of  1.6  mg/mL  from  one  reaction  batch.  It  could  be  further scaled  up  to  yield product  at  the  gram  scale.  When  added  with  polar  solvents  such  as  ethanol,  the  dispersion became destabilized, and Ni3S4 NRs were immediately precipitated.   
+X-ray  diffraction  (XRD)  analysis  (Figure  1a)  of  the  product  revealed  that  it  was  cubic Ni3S4  (JCPDS  No.076-1813)  free  of  other  impurity  phase.
+Typical  scanning  electron microscope  (SEM)  image  illustrated  that  it  consisted  of  one-dimensional  nanorods  with largely  uniform  sizes  (Figure  1b).
+Many  of  these  nanorods  were  aligned  side  by  side,  and formed  a  continuous  film  over  the  substrate.  Their  diameter  and  length  were  analyzed  by randomly  counting  >100  nanorods  from  multiple  SEM  images  and  were  presented  in  the histograms  of  Figure  1c.
+We  noted  a  narrow  size  distribution  with  a  predominant  length  of 35-40  nm  and  a  predominant  diameter  of  5-6  nm.
+Very  interestingly,  under  slow  solvent evaporation,  these  nanorods  were  observed  to  spontaneously  self-assemble  and  form superstructures  up  to  microsize.
+A  representative  image  in  Figure  1d  depicted  such  a superstructure  consisting  of  roughly  hexagonal  close-packed  nanorods  standing  on  the substrate and some horizontally lying nanorods scattered around the perimeter.
+This would be impossible if it was not for the strong interaction among nanorods and for their uniform sizes. 
+It  was  widely  accepted  that  the  self-assembly  of  nanorods  was  driven  by  the  reduction  of interfacial energy.
+Given its structure anisotropy, the side-by-side assembly of nanorods to form  a  hexagonal  close-packed  lattice  could  maximize  their  mutual  interaction  and  thereby was  energetically  more  favorable  than  the  head-to-head  assembly.
+In  addition,  we investigated  the  influence  of  several  synthetic  parameters  on  the  product  morphology,  and results were summarized in Supporting Information, Figure S1. 
+Under  transmission  electron  microscopy  (TEM),  small  bundles  of  aligned  Ni3S4  NRs were clearly discernible (Figure 1e). They were survived from the vigorous sonication during the  TEM  sample  preparation,  and  again  reflected  the  strong  interaction  among  nanorods. 
+High-resolution TEM image revealed that each nanorod was single-crystalline and displayed obvious lattice fringes assignable to the (311) plane of cubic Ni3S4 (Figure 1f).
+Based on the corresponding  fast  Fourier  transform  pattern  as  shown  in  the  insert,  we  determined  that  the nanorod  longitudinal  axis  was  along  the  [110]  direction.  Such  structural  anisotropy  was suggested to be facilitated by the selective binding of Clions on the surface.
+Despite  the  appealing  superstructure  ordering,  the  spontaneous  self-assembly  of  Ni3S4NRs  during  solvent  drying  would  greatly  diminish  available  surface  areas,  negate  their nanosized feature and therefore was detrimental to electrochemical applications.
+To alleviate this problem, we introduced a small amount of graphene oxide nanosheets as the spacer and support  to  the  cyclohexane  solution  of  as-prepared  Ni3S4  NRs.
+Graphene  oxide  nanosheets were  selected  for  their  flexible  two-dimensional  (2D)  structure,  large  surface  areas,  rich surface  functionalities,  good  dispersion  in  most  solvents  and  facile  conductivity  restoration by  thermal  reduction.
+They  could  readily  capture  and  immobilize  Ni3S4  NRs  from  the solution  presumably  via  their  surface  functionalities.
+After  brief  sonication,  resultant composite  solid  was  precipitated  upon  ethanol  addition,  and  subsequently  subjected  to annealing at 400 o C in Ar. The final product was named Ni3S4 NRs/rGO. 
+Raman  spectrum  of  Ni3S4  NRs/rGO  was  measured  as  shown  in  Figure  2a.
+It  exhibited several vibrational bands at the low-wavenumber region that were characteristic to Ni3S4,well as the pronounced D and G bands between 1200-1700 cm-1 from the defective graphene support.
+Ni 2p and S 2p X-ray photoelectron spectroscopy (XPS) spectra as well as C K-edge and  Ni  L-edge  X-ray  absorption  near  edge  structure  (XANES)  spectra  of  Ni3S4 NRs/rGO were consistent with those of NiSx and rGO support (Supporting Information, Figure S2).
+A  low-magnification  TEM  overview  revealed  that  Ni3S4  NRs  were  attached  side-on  to graphene nanosheets with a uniform distribution and mostly free of aggregation (Figure 2b, c). 
+There  was  no  free  nanorod  identified  outside  the  support,  highlighting  the  effectiveness  of two-dimensional  graphene  nanosheets  for  immobilizing  Ni3S4  NRs  and  suppressing  their aggregation.
+Close  TEM  examination  showed  that  individual  nanorod  retained  its  sizes  and single-crystallinity (Figure 2c). Elemental mapping by energy dispersive spectroscopy (EDS) was also carried out under scanning transmission electron microscopy (STEM) (Figure 2d-f). 
+The  distribution  of  both Ni  and  S  species  had  high  spatial  correlation  and  agreed  well  with the physical location of Ni3S4 NRs on the graphene support.
+Furthermore, thermogravimetric analysis (TGA) in air evidenced that the graphene content in Ni3S4 NRs/rGO was ~11.8 wt% NRs with uniform sizes, and upon the incorporation of graphene nanosheets as the spacer, the formation of  intimate Ni3S4 NRs/rGO composite. 
+(Figure 2g). Above structural characterizations corroborated the successful synthesis of Ni3S4 
+Such a composite preserved the nanosized feature  of  individual  Ni3S4  NRs.
+The  introduction  of  graphene  support  could  also  provide high electric conductivity needed for electrochemical applications.   
+In  what  follows,  we  examined the  performance  of  Ni3S4  NRs/rGO  for the electrochemical  storage  of  Na+  ions.
+Its  half-cell  measurements  were  carried  out  by  pairing this  composite  material  with  Na  metal  disks  in  standard  CR  2032  type  coin  cells  (see Experimental  Method  for  details).
+The  electrolyte  in  use  was  1  M  NaClO4  in  ethylene carbonate/diethyl  carbonate  (EC/DEC,  1:1  by  volume)  with  the  addition  of  8  vol% fluoroethylene  carbonate  (FEC).
+The  sodiation/desodiation  process  of  Ni3S4  NRs/rGO  was suggested  to  proceed  via  a  conversion  mechanism  to/from  Ni  and  Na2S  as  schematically illustrated in  Figure  3a.
+All conversion  materials were  subjected to an  irreversible structural change  during  the  first  cycle,  and  Ni3S4  was  no  exception.
+Figure  3b  presented  the  typical cyclic  voltammetry  (CV)  curves  of  Ni3S4  NRs/rGO  between  0.05  V  and  2.8  V  (versus Na+/Na,  the  same hereafter)  at a scan  rate  of  0.1  mV/s  for  the first  three cycles.
+During  the initial  negative  sweep,  multiple  cathodic  peaks  centered  at  0.66  V,  1.0  V  and  1.2  V  were discernible,  which  attested  to  the  stepwise  sodiation  of  Ni3S4,  likely  accompanied  with  the formation of solid electrolyte interface (SEI).
+All ensuing cycles featured two cathodic peaks at 0.79 V and 1.27 V, and two anodic peaks at 1.71 V and 1.38 V — indicative of permanent structure  change  at  the  first  discharge  and,  subsequently,  reversible  structure  conversion.
+It was  also  noteworthy  that  the  stabilized  CV  curves  of  Ni3S4  NRs/rGO  resembled  those  of NiS-based  materials  previously  reported  in  literature.
+It  inferred  that  despite  different starting compositions, both of them transformed to a similar active structure for the reversible uptake and release of Na+ ions. 
+Galvanostatic  charge/discharge  voltage  profiles  of  Ni3S4  NRs/rGO  were collected  at  50 mA/g and depicted in Figure 3c. 
+Its discharge curve exhibited a plateau approximately around 1.0  V,  followed  by  a  long  sloping  tail  from  0.9  V  down  to  the  cutoff  voltage.
+The corresponding charging plateau was at ~1.6 V. 
+Ni3S4 NRs/rGO delivered a specific capacity of  ~830  mAh/g  at  the  first  discharge,  and  recovered  ~700  mAh/g  upon  the  subsequent recharge.
+This recovered capacity was close to the theoretical value of 705 mAh/g assuming the  complete  conversion  to  Ni  and  Na2S,  and  the  irreversible  capacity  loss  during  the  first cycle  (~130  mAh/g)  was  likely  associated  with  the  SEI  formation.
+Ex-situ  XRD  and  TEM analysis  showed  that  at  discharge  Ni3S4  converted  to  Ni  and  Na2S,  and  upon  recharge, rhombohedral Ni3S2 phase emerged rather than original cubic Ni3S4 (Supporting Information, Figure S3).
+This was probably because Ni3S2 was more thermodynamically stable than Ni3S4 within  the  corresponding  potential  region.  Worth  noting  was  that  an  earlier  work  similarly reported Ni3S2 as the recharge product using NiS as the starting electrode material. 
+As  further  cycling  proceeded,  the  specific  capacity  of  Ni3S4  NRs/rGO  reached  a  stable value of ~630 mAh/g and retained this value for at least 100 cycles as shown in Figure 3d.
+Coulombic  efficiency  after  the  third  cycle  maintained  97~100%. 
+The  contribution  of  rGO support  to the  specific  capacity  was found to be small  (Supporting  Information, Figure  S4). 
+Control  experiments  with  commercial  Ni3S4 nanopowders  and  Ni3S4  NRs  alone  were  also carried  out.
+When  assessed  under  the  same  conditions,  the  former  demonstrated  a  smaller initial discharge capacity of ~500 mAh/g that quickly declined to ~300 mAh/g after 50 cycles, whereas  the  latter,  despite  its  similar  initial  capacity  to  Ni3S4  NRs/rGO,  was  also  suffered from  notably  inferior  cycling  stability  and  ended  up  with  ~490  mAh/g  after  90  cycles.
+In addition, we also noted that most NiSx-based electrode materials previously reported for SIBs had  insufficient  specific  capacity  (200~500  mAh/g)  and/or  limited  cycling  stability (sometimes  <  50  cycles)  (Supporting  Information,  Table  S1).
+The  greatly  enhanced electrochemical  performance  of  our  Ni3S4  NRs/rGO  over  control  samples  and  previous NiSx-based  materials  was  believed  to  benefit  from  the  nanoscale  feature  of  Ni3S4  NRs  and their  effective  hybridization  with  the  rGO  support.
+Here,  2D  rGO  nanosheets  not  only provided the high electrical conductivity desirable to battery applications, but also suppressed the nanorod self-assembly and preserved their individual nanoscale feature.
+We found that if rGO  was  replaced  with  the  same  amount  of  Ketjenblack  carbon  at  the  mixing  step,  Ni3S4 nanorod agglomeration was not effectively suppressed, and the electrochemical performance of  thus-formed  composite  (Ni3S4  NRs/C)  was  considerably  inferior  to  Ni3S4  NRs/rGO (Supporting  Information,  Figure  S5).
+Moreover,  we  examined  the  morphology  of  the recharge product under TEM (Supporting Information, Figure S6).
+The rod-like morphology was preserved after the 2nd cycle, but it gradually transformed to small (~3 nm) nanoparticles attached rGO  nanosheets  afterwards.
+Such  a  morphology transformation  was understandable  given  the  large  volume  change  during  charge  and  discharge.
+But  it  was remarkable  that  all  these  nanoparticles  stayed  attached  to  the  support,  which  might  explain the observed excellent cycle life after the initial capacity loss. 
+Next, we evaluated and compared the rate capability of Ni3S4 NRs/rGO and Ni3S4 NRs. 
+As  shown  in  Figure  3e,  their  specific  current  was  programmed  to  ramp  stepwise  from  50 mA/g  up  to  4  A/g,  and  then  symmetrically  reverting  back  to  50  mA/g. 
+Ni3S4  NRs/rGO exhibited  remarkable  high-rate performance, and was able to deliver  a  significant  reversible capacity of ~310 mAh/g even at 4 A/g.
+By stark contrast, Ni3S4 NRs alone showed poor rate capability, and its specific capacity dropped close to zero at 4 A/g. Such drastically different high-rate performances underscored the markedly enhanced charge transfer kinetics in Ni3S4 NRs/rGO  over  Ni3S4  NRs  due  to  the  intimate  contact  between  individual  nanorods  and  the conductive  graphene  support.
+Electrochemical  impedance  spectroscopy  (EIS)  analysis  of these  two  electrode  materials at  the  end  of  the  3rd  charge  showed  that  the  interfacial  charge transfer  resistance  of  Ni3S4  NRs/rGO  estimated  from  the  semicircle  diameter  was  only  a small  fraction  of  that  of  Ni3S4  NRs  (Figure  3f).
+Furthermore,  we  found  that  the  cycling stability  of  Ni3S4  NRs/rGO  was  not  noticeably  compromised  under  high current  rates. 
+At  1 A/g,  it  delivered  a  reversible  specific  capacity  of  ~460  mAh/g  with  99~100%  Coulombic efficiency for 200 cycles, whereas Ni3S4 NRs alone suffered from a  quick capacity loss and retained  only  ~40  mAh/g  after  200  cycles  (Figure  3g).
+As  far  as  we  were  aware,  the capability of our composite material to sustain large and stable capacity even at high current rates  exceeded  most existing  NiSx-based electrode  materials  (Supporting  Information,  Table S1)37-40 as well as other popular SIB candidate materials such as hard carbon, MoS2, SnS2 and so on,41-43 and therefore rendered it attractive for potential power applications.   
+Encouraged by the impressive performance of Ni3S4 NRs/rGO as the SIB anode material, we  constructed  sodium-ion  full  cells  by  pairing  this  anode  material  with  nanostructured Na3V2(PO4)3  (NVP)  cathode  (Figure  4a).
+NVP  had  a  three-dimensional  Na+  ion  superionic conductor (NASICON) framework with large interstitial channels for fast Na+ ion diffusion, and was well known for its great cycling stability and high-rate performance.
+In our study, nanostructured  NVP  was  prepared  via  a  facile  solution  precipitation  method  followed  by high-temperature annealing.
+The final product was analyzed to be pure NVP by XRD and revealed to  consist  of  nanoflake-assembled  hierarchical  microflowers  under  SEM (Supporting  Information,  Figure  S7).
+When  evaluated  in  the  half-cell  configuration  in  1  M NaClO4/EC/DEC,  NVP  exhibited  the  characteristic  flat  plateau  at  ~3.4  V  (Figure  4b).
+Its specific capacity reached ~120 mAh/g at 30 mA/g, and retained 93% of the initial capacity at the  end  of  100  cycles,  typical  to  NVP  reported  in  literature.
+NVP//Ni3S4  full  cells  were assembled by pairing 10 mg/cm2 NVP and 1 mg/cm2 Ni3S4 NRs/rGO in standard coin cells. 
+The absolute capacity of the cathode was ~40% larger than that of the anode in order to offset the irreversible capacity loss of Ni3S4 NRs/rGO during the first cycle and to ensure that Ni3S4 NRs/rGO was the capacity-limiting electrode.
+Figure 4c showed the galvanostatic charge and discharge  voltage  profile  of  the  NVP//Ni3S4  full  cell  between  0.1−3.0  V  at  50  mA/g (normalized  to  the  weight  of  anode  material).
+It  displayed  a  discharge  voltage  plateau between  1.7−2.0  V,  and  delivered  a  capacity  of  530-580  mAh/g  (also  normalized  to  the weight  of  anode  material)  for  the  first  three  cycles.
+At  last,  the  cycling  stability  of NVP//Ni3S4 full cell was also assessed.
+It was charged and discharged at 50 mA/g for the first five cycles,  and  then  at  100  mA/g  for  up  to  100  cycles.
+The  capacity  retained >400  mAh/g with corresponding Coulombic efficiency over 98% (Figure 4d).   
+In summary, we developed a high-temperature solution method for the rational synthesis of  Ni3S4  NRs.
+They  had  uniform  sizes,  and  could  self-assemble  side  by  side  to  form microsized  superstructures  upon  slow  solvent  evaporation.
+In  order  to  fully  capitalize  the nanoscale  feature  of  individual  nanorods  for  electrochemical  applications,  we  further introduced  two-dimensional  graphene  nanosheets  as  the  spacer  to  interrupt  nanorod self-assembly.  
+Ni3S4  NRs  became  effectively  immobilized  side-on  to  graphene  nanosheets with a uniform distribution and mostly free of aggregation in the resultant composite.
+When assessed as the SIB anode material at the half-cell level, Ni3S4 NRs/rGO composite exhibited impressive  specific  capacity  over  600  mAh/g,  excellent  rate  capability  with  >300  mAh/g retained at 4 A/g, and great cycling stability at different current rates.
+When coupled with the Na3V2(PO4)3  cathode  in  full  cells,  it  enabled  an  average  working  voltage  of  ∼2  V,  large reversible capacity of >400 mAh/g and decent cycling stability.
+Our study demonstrated how the  rational  synthesis  and  engineering  of  nanomaterials  could  lead  to  much  enhanced electrochemical performance for traditionally problematic SIB electrode materials.   
+Synthesis  of  Ni3S4  NRs/rGO.  We  started  with  the  preparation  of  Ni3S4  NRs.
+In  a  typical synthesis, 2 mmol NiCl2•6H2O was first dissolved in 40 mL of oleylamine inside a 100 mL three-necked  flask.  Moisture  and  oxygen  was  repelled  from the  solution  by  heating  it  up  to 140°C under magnetic stirring and Ar protection.
+After cooled back to room temperature, the solution was added with 12 mL of 1-dodecanethiol via injection.
+Its temperature was raised to 250°C,  and  maintained  at  this  temperature  for  30  min.
+At  the  end  of  the  reaction,  solid product  was  collected  by  centrifugation  at  8000  rpm,  repetitively  washed  with  cyclohexane and  then  redispersed in 100 mL cyclohexane.
+Subsequently,  26 mg  of graphene  oxide  (GO) powder  (prepared  from  the  modified  Hummers’  method48)  was  dispersed  in  the  above cyclohexane  solution  of  Ni3S4  NRs.
+After  vigorous  bath-sonication  for  15  min,  the  solid composite  was  precipitated  following  the  addition  of  ethanol,  repetitively  washed  with  the mixed  solvent  of  cyclohexane  and  ethanol  (~1:3  v/v),  and  lyophilized. 
+The  product  was finally annealed under Ar at 400 °C for 1 h for the thermal reduction of GO to rGO.   
+Powder  X-ray  diffraction  (XRD)  was  performed  on PANalytical  X-ray  diffractometer  at  a  scan  rate  of  0.05o/s.
+Scanning  electron  microscopy (SEM)  images  were  taken  on  Supera  55  Zeiss  scanning  electron  microscope.
+Transmission electron  microscopy  (TEM)  images,  scanning  transmission  electron  microscopy  (STEM) images and energy dispersive spectroscopy (EDS) mapping were acquired using Tecnai F20 transmission  electron  microscope  at  an  acceleration  voltage  of  200  kV.
+Raman  was conducted  on  LabRAM HR  800 Raman microscope using  514  nm laser excitation.
+Thermal gravimetric analysis (TGA) was carried out on Mettler Toledo TGA/DSC1 Thermal Analyzer in air from room temperature to 1000 °C at a heating rate of 10 °C/min.
+X-ray photoelectron spectroscopy  (XPS)  was  performed  on  Ultra  DLD  XPS  Spectrometer.
+X-ray  absorption spectra  were  collected  at  the  XMCD  endstation  of  the  National  Synchrotron  Radiation Laboratory (NSRL). 
+To prepare the working electrodes, Ni3S4 NRs powder was blended  with  Ketjenblack  and  carboxymethyl  cellulose  (CMC),  and  homogeneously dispersed in water.
+The slurry was then evenly blade-coated onto Cu foil, and vacuum dried at  60°C  for  12  h. 
+The  areal  loading  of  Ni3S4  NRs/rGO  was  1~2  mg/cm2.
+Half-cell measurements  were  conducted  in  standard  CR2032  coin  cells  by  pairing  the  working electrode with a metallic Na disk, separated by electrolyte-saturated glass fiber membrane in an  Ar-filled  glovebox.
+The  electrolyte  was  1  M  1  M  NaClO4  in  ethylene  carbonate/diethyl carbonate (EC/DEC, 1:1 v/v) with the addition of 8% fluoroethylene carbonate (FEC).
+Cyclic voltammetry  (CV)  was  performed  on  CHI  660E  potentiostat  between  0.05−2.8  V  at  a  scan rate  of  0.1  mV/s.
+Galvanostatic  charge  and  discharge  measurements  were  carried  out  on NEWARE  battery  tester  between  0.05−2.8  V  at  various  current  rates.
+All  specific  currents and specific capacities calculated based on the total weight of the composite.
+Electrochemical impedance  spectroscopy  (EIS)  was  collected  on  Gamry  Interface  1000E  electrochemical workstation.
+For  NVP//Ni3S4  full  cell  measurements,  10  mg/cm2  NVP  and  1  mg/cm2  Ni3S4 NRs/rGO  were  paired  up  in  standard  coin  cells  with  the  same  electrolyte.
+Galvanostatic charge/discharge experiments were carried out between 0.10 and 3.0 V. 

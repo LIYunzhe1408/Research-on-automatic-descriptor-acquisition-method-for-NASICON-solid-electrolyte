@@ -1,0 +1,15 @@
+New approach of phosphate–sulfate synthesis, preventing sulfur elimination was proposed.
+It implies sulfur encasement into intermediate with heightened thermal resistance, thus the synthesis temperature of phosphate– sulfate could be increased, and crystallization can be performed.
+This method is considered to be capable by example of obtaining of Pb2/3FeZr(PO4)7/3(SO4)2/3 ceramic.
+It was synthesized by means of sol–gel method via formation of intermediate PbSO4, which encased sulfur and eventually led to formation of mentioned before phosphate– sulfate.
+Obtained sample was characterized via Xray, IR, combined DTA–TG, SEM and microprobe electron analysis.
+Crystal structure and unit cell parameters were derived from least-squares refinement of powder Xray diffraction data (NZP-type, sp.gr.R3c, a = 8.6339 A ° , c = 23.2991 A ° , V= 1504.1 A ° 3).
+Thermal expansion (aa = 0.9610-6, ac = 3.24@10-6, aav = 1.76@10-6 K-1) of compound also has been studied.
+There is a wide area of interest, due to development of ceramics with low thermal expansion.
+We suggested new synthesis method of phosphate–sulfates and proved it by Pb2/3FeZr(PO4)7/3(SO4)2/3 formation.
+Also we have determined the thermal expansion parameters of the phosphate–sulfate with NZP structure.
+So, compound related to materials with ultra-low thermal expansion.
+In accordance with represented method, it may be easily applied to other compounds, which synthesis can be performed via formation of intermediate sulfate with high melting temperature.
+We are on a verge of the synthesis of the following row: Pb2-0.5xMgFe(PO4)3-x(SO4)x (0\x\4/3).
+It is appealing because of the maintenance of lead excess in comparison with sulfur.
+It offers an opportunity to completely bind sulfur in precursor and finally synthesize phosphate–sulfates.

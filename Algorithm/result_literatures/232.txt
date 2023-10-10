@@ -1,0 +1,15 @@
+The thermal expansion coefficient (CTE) of the Al and Y-substituted NaSICON compositions Na3+2xAlxYxZr222xSi2PO12 with 0 ≤ x ≤ 0.3 was obtained by dilatometry and compared to the CTE derived from the lattice parameters using high-temperature X-ray diffraction.
+However, for successful application in batteries, their mechanical properties and the thermal expansion behavior must also be studied in order to avoid thermal stresses and assure thermally stable cathode-electrolyte contact to avoid micro-cracking at the interface.
+High-temperature X-ray diffraction (HT-XRD) is the most reliable technique to measure the CTE at the crystallographic unit cell level where the lattice expansion is determined as a function of temperature.
+Typically, the lattice of NaSICON expands anisotropically.
+The anisotropy is a crucial material property, as it results in residual stresses during cooling after sintering and thus induces micro-cracks, reduces the electrical conductivity, and increases safety risks.
+This is particularly true for materials with crystal anisotropy and depends also on the microstructure.
+In addition, the formation of micro-cracks also erases the results of CTE measurements by dilatometry. In this case, the dimensional change of samples is measured mechanically using a pressure-sensitive push-rod or optically with a laser system.
+The length change is recorded as a function of temperature from which the CTE can be determined. Since CTE determination from dilatometry uses the macroscopic dimensional change, it therefore also includes changes in microstructure.
+NAYZSiPx has a monoclinic structure for 0 ≤ x < 0.2, and transforms into a rhombohedral R3c phase when x ≥ 0.2.
+The coefficients of thermal expansion coefficient (CTE) of the NaSICON series NAYZSiPx were measured by dilatometry.
+The CTE values were similar to those obtained by HT-XRD.
+The prerequisite for accurate dilatometry measurements is a careful sample preparation for achieving crack-free specimens.
+The CTEs of NaSICON materials increase with Na content per formula unit when Zr4+ is used as transition metal cation in the polyanionic lattice.
+This is because sodium influences the charge polarization and therefore induces stronger lattice vibrations due to increased repulsive forces within the lattice.
+In addition, the substitution of trivalent transition metal cations influences the CTE because they have weaker attractive forces towards oxygen atoms of the octahedra as compared to tetravalent cations, which also leads to higher lattice vibrations.

@@ -1,0 +1,145 @@
+
+Al/Y-substituted NASICON solid electrolytes are promising for novel solid state batteries. The solid solutions  Na1+2xAlxYxZr2-2x(PO4)3 and Na3+2xAlxYxZr2-2x(SiO4)2(PO4) (NAYZSiPx)  that  crystallize  in  this  structure  are  characterized  by  depth-sensitive  indentation 
+
+technique  to  determine  their  micro-mechanical  properties.  NAYZPx  is  rhombohedral,  whereas 
+
+NAYZSiPx  changes  from  monoclinic  to  rhombohedral  phase  depending  on  substitutional  level 
+
+and temperature. For rhombohedral NAYZPx elastic moduli are in the range ~ 72 to 82 GPa and 
+
+hardness values are in the range ~ 4.8 to 5.8 GPa, whereas for NAYZSiPx the elastic moduli are 
+
+with  the  range  ~  72  to  88  GPa  and  hardness  ~  5.6  to  7.6  GPa,  respectively.  The  fracture 
+
+toughness values for both systems, as determined by Vickers indentation, are rather independent 
+
+of the applied load being with the range 1.30 to 1.58 MPa·m0.5. Cracks typically show a mixed 
+
+intergranular/transgranular crack mode.  
+
+Structural  stability  and  ionic  conductivity  makes  NASICON  (Na+  Super  Ionic  Conductor) 
+
+materials  promising  for  the  application  as  solid  electrolytes  for  solid-state  sodium  batteries. 
+
+Originally the system Na1+xZr2P3−xSixO12 (0  ≤ x  ≤ 3) has a minimum  Na+-ion resistivity of  ≤ 5 
+
+Ω·cm at 300 °C, which is similar as that of the conventional sodium-ion conductor  β″-alumina  [1,2]. The crystal structure is rhombohedral ( 1)3 3) 4)) and tends, depending on composition, towards  a monoclinic distortion. There are several studies on synthesis, substitution and conductivity in 
+
+literature (e.g. [3-6]); however, very few reports deal with the mechanical properties [7,8].
+
+In  addition  to  high  ionic  conductivity,  a  solid  electrolyte  should  exhibit  necessary  mechanical 
+
+reliability.  Therefore,  it  is  necessary  to  gain  more  knowledge  on  mechanical  performance  to 
+
+warrant safety and reliability. It has been reported that Na-S batteries with β/β″-alumina revealed 
+
+failure due to Na filaments that have propagated through the solid electrolyte [9-11]. In fact, the 
+
+fracture  toughness  is  a  crucial  parameter  for  crack  growth  and  hence  potentially  for  short-
+
+circuiting in solid-state batteries [12,13].
+
+The indentation is a frequently used method to derive fracture toughness values, which requires 
+
+only a small materials’ volume and simple specimens’ preparation. Cracks are induced by a sharp 
+
+stylus, mostly Vickers or Berkovich type, and the length of the resultant cracks that are induced 
+
+above a critical load is measured. For the fracture toughness calculation, due to the relationship to 
+
+elastic and plastic volume, knowledge of elastic modulus and hardness is a prerequisite [14-15]. 
+
+Furthermore, the elastic modulus is also a very important parameter when designing a solid-state 
+
+battery  [16-22].  The  solid  electrolytes  should  deform  elastically  and  accommodate  internal 
+
+stresses and should be able to assure a good electrode/electrolyte interface [23].  
+
+Thus, the purpose of this study is the determination of the mechanical properties of NASICON 
+
+solid  electrolyte  with  double  substitution  of  Zr4+  with  Al3+  and  Y3+  [24].  Elastic  modulus, 
+
+hardness and fracture toughness are determined via indentation testing as function of the applied 
+
+load, and potential correlations with substitution level and microstructural features are discussed.  
+
+
+The  NASICON  solid  solutions  Na1+2xAlxYxZr2-2x(PO4)3  (NAYZPx,  0  ≤  x  ≤  0.25)  and 
+
+Na3+2xAlxYxZr2-2x(SiO4)2(PO4) (NAYZSiPx, 0 ≤ x ≤ 0.3) were prepared using the Pechini method 
+
+[5]. The obtained gels were fired at 600 °C for 3 h and amorphous precursors were formed and 
+
+calcined  at  800  °C  for  12  h.  The  calcined  powders  were  milled  and  pressed  into  pellets.  The 
+
+NAYZPx pellets were sintered at 1200 °C for 10 h in air, whereas the NAZYSiPx samples were 
+
+exposed to a two-step sintering process, first at 1200 °C for 0.5 h and then at 1150 °C for 5 h in 
+
+air.  More  details  of  synthesis  can  be  found  in  [24].  The  relative  density  of  the  specimens  was within the range 85 to 93%.
+
+Phase purity of the sintered specimens was controlled by X-ray diffraction. Rietveld refinement 
+
+was  performed  to  calculate  the  lattice  parameters  [24].  The  microstructure  was  characterized 
+
+using  cross-sections  by  field  emission  scanning  electron  microscopy  (FE-SEM;  Zeiss  Merlin). 
+
+The grain size distribution was determined using the software AnalySIS Pro based on the circular 
+
+intercept segment mode. Electrical conductivity was measured using an impedance spectroscopy 
+
+system  (Biologic,  VMP300)  from  -30  °C  to  100  °C  in  the  frequency  range  4  MHz  to  300  Hz 
+
+using sputtered gold as blocking electrodes.
+
+The  indentation  method  was  used  to  evaluate  hardness  (H),  elastic  modulus  (E)  and  fracture 
+
+toughness (KIC). Cross-sections of pellets were embedded in epoxy resin and finely polished via 
+
+alumina suspension. A matrix of 5 × 5 indentation imprints was performed for each load. H and E 
+
+values based on Oliver-Pharr procedure [25] were obtained as function of the applied loads, i.e. at 
+
+50 mN, 100 mN and 1000 mN, using a Fischer HC100 machine with a Vickers diamond tip, see 
+
+also [26,27]. Poisson’s ratio for all compositions was assumed to be 0.27 [7].
+
+The  fracture  toughness,  KIC,  was  derived  from  the  cracks  induced  from  the  corners  of 
+
+indentations after loading to 1 N, 2.94 N, 4.9 N and 9.81 N. The dependence of cracks lengths 
+
+and hence fracture toughness on the load was checked. Due to the load limitations, the Fischer 
+
+HC100 machine  was  used only for 1 N, while for higher loads a  Micromet, Buehler  Ltd.,  was 
+
+employed. KIC was derived on the basis of a Palmqvist crack system, since it was observed that 
+
+crack  lengths  (l)  and  half-diagonals  (a)  were  in  the  range  0.25  ≤  5)  6)⁄ ≤  2.5. 
+
+From the X-ray diffraction patterns it was identified that the NAYZPx are in rhombohedral phase  with  space  group   1)3 3) 4),  and  some  minor  secondary  phase  content  (YPO4,  AlPO4,  ZrO2)  for  x  being in the range of 0 to 0.15 and x equal to 0.25. In case of the sample with x = 0.20 the amount 
+
+of YPO4 is unusual high, about 10 wt.%, and in case of x > 0.25 a continuous increase in YPO4 
+
+and  Na3Y2(PO4)3  with  increasing  x  indicates  that  the  solid  solution  is  at  its  limit  [24].  For 
+
+NAYZSiPx  a  monoclinic  structure  was  found  in  the  range  0  ≤  x  ≤  0.1  and  a  transition  to  a 
+
+rhombohedral phase for 0.2 < x < 0.3, with a small amount of monoclinic ZrO2 detected in all 
+
+compositions. Table 1 summarizes space group, lattice parameters and ionic conductivity (s ) at 
+
+room temperature for all samples, where ahex and chex are the hexagonal lattice constants and ar is 
+
+the rhombohedral lattice constant. 
+
+The  microstructures  are  rather  homogeneous  with  small 
+
+grain sizes, consistent and as expected for such powders obtained via the Pechini method. 
+
+Figure  1 SEM  images  of  polished  cross-section  of  different  NAYZPx  and  NAYZSiPx. 
+
+Granular  micro-cracks  appear  for  non  Si-substituted  compositions  NAYZPx  as  indicated 
+
+by arrows. White ZrO2 and grey YPO4 secondary phases are also visible. The dark region 
+
+between the grains is glassy phase. 

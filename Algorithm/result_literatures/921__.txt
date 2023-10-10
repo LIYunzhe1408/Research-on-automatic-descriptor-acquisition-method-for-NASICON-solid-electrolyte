@@ -1,0 +1,96 @@
+Composites with general stoichiometry Na3V2xMnx(PO4)3/C (0  x  0.7) have been evaluated ascathode materials in sodium-ion batteries.
+
+The sol-gel method here employed favors the formation of ahomogeneously dispersed carbon conductive phase.
+
+XRD patterns show a limited solubility of Mn in theNASICON structure.
+
+ The substitution of 0.3e0.5 manganese per formula unit promotes the formation of ahomogeneous composite.
+
+ XPS spectra evidence an effective substitution of V3þ by Mn3þ.
+
+Galvanostaticcycling of sodium half-cell reveal a plateau at 3.4 V ascribable to the V4þ/V3þ redox couple.
+
+A small andreversible plateau at ca. 3.85 V is also observed for x  0.3, and ascribed to the activation of the V5þ/V4þredox couple, according to XPS spectroscopy.
+
+ Ex-situ XRD patterns NayV1.7Mn0.3(PO4)3 evidence theoccurrence of a reversible two phase mechanism of sodium insertion.
+
+An optimized performance isachieved for Na3V1.7Mn0.3(PO4)3/C, reaching a capacity value of 104 mA h g1 at C/2 and 92 mA h g1 at2C.
+
+ It is ascribed to the optimal morphology, leading to low internal resistance and favorable electrodeelectrolyte interphase.
+
+Rechargeable lithium-ion batteries are powering many electronic devices which are widely spread as commercial products inthe consumption market.
+
+Moreover, these electrochemical devicesfor energy storage are envisaged as crucial elements to solveinherent problems of employing clean renewable energy sourcesand electric vehicles in the next future.
+
+Although it remains aquestion of debate, lithium resources may become economicallyunsafe when dealing with the enormous quantities needed for newapplications as transport and stationary batteries [1e3].
+
+For thisreason, researchers are envisaging the development of electrochemical cells based on new chemistries [4e6].
+
+These new devicespropose alternative electrochemical reactions for electricity storagewhich performances are still lower than those of Li-ion batteries.
+
+However, their high potentiality and sustainability is favoring anintense research.
+
+Among them, Na-ion batteries are attracting much attentionbecause of the abundance, environment-friendly and cost-effectivemanufacturing.
+
+Moreover, the electrochemical principles governingLi-ion and Na-ion batteries are quite similar, therefore, facilitatingthe implementation of this new technology [7e9].
+
+Thus, the electrochemical reaction at the cathode similarly undergoes sodiumintercalation into their atomic network [10,11].
+
+In addition, anodematerials also exhibit a rich compositional variety and reactionmechanism such as insertion into host framework [12,13], formation of sodium-metal alloys [14] and sodium driven conversionreactions [15].
+
+Focusing on cathodes, Na3V2(PO4)3 has demonstrated to be ahighly performing material for sodium insertion [16,17].
+
+TheNASICON structure provides an open and rigid framework favoringa fast diffusion of sodium ions through a topotactic reaction, despiteof their large ionic radius [18].
+
+In addition, the use of syntheticroutes leading to the formation of an amorphous carbon phasecoating the phosphate particles ensures a suitable electrical conductivity and good cycling performance [19,20].
+
+The NASICONstructure of Na3V2(PO4)3 can be described as a three-dimensionalframework which backbone consists of [V2(PO4)3] repeatingunits.
+
+VO6 octahedra and PO4 tetrahedra are sharing corners, whilethe alkaline cations are located at six-fold and eight-fold coordinated sites.
+
+Ion-doping has been commonly envisaged as an efficientmethod to improve the structural stability, intrinsic electronicconductivity and ion diffusion.
+
+Many research groups havedemonstrated that ion doping in the related Li3V2(PO4)3 compoundexerted beneficial effects on the capacity delivery, cycle life, andrate capability [21].
+
+ Particularly, Bini et al.found that the sol-gelsynthesis favors the manganese doping, though to a limitedextent [22].
+
+ Chen et al.reported that the replacement of V3þ byMn3þ, using MnOOH as source, enhances the lithium diffusionability and stability of Li3V2(PO4)3 during charge/discharge [23].
+
+Also, the benefits of manganese doping have been determined for arelated pyrophosphate with the nominal stoichiometry Li9V3(-P2O7)3(PO4)2, being attributed to the optimization of particle size,electronic conductivity, lithium ion mobility and structural stability[24].
+
+Moreover, co-doping of Ti-Mn [25] and MnO coating [26] havealso been successful approaches to improve the electrochemicalbehavior of Li3V2(PO4)3.Concerning the sodium compound, ourgroup is pioneer in the study of the effect of metal doping inNa3V2(PO4)3.We have recently reported that the replacement ofvanadium by either chromium or aluminum provides an increasedcapacity and exceptional cyclability [27,28].
+
+The goal of this study is to determine the effect of manganesedoping on the electrochemical properties of theNa3V2xMnx(PO4)3/C (0  x  1) series as positive electrodes forsodium-ion batteries.
+
+Several samples were synthesized by a citricbased sol-gel method.
+
+X-ray diffraction, electron microscopy, andRaman and X-ray photoelectron spectroscopies allowed to gatherinformation about their microstructural and morphological properties.
+
+Sodium half cells were subjected to galvanostatic charge anddischarge cycles to determine their electrochemical performanceand kinetic response.
+
+A citric based sol-gel method has been used to prepareNa3V2xMnx(PO4)3/C (0  x  0.7) composites with potentialapplication as cathode materials in sodium-ion batteries.
+
+The insitu generated carbon conductive phase was identified by Ramanspectroscopy and electron microscopy revealing its highly disordered structure and nanometric size.
+
+The incorporation of manganese to the NASICON structure had a significant influence on theparticle morphology.
+
+ Thus, particles belonging to samples with x ¼ 0.3 and 0.5 appears highly disaggregated and intimately mixedwith the carbon conductive phase.
+
+ Contrarily, low (x ¼ 0.1) andhigh substituted samples show large and densely packed agglomerates.
+
+XPS spectra of the original compounds showed that aneffective substitution of V3þ by Mn3þ is achieved under the synthesis conditions, at least for the studied range.
+
+Galvanostatic cycling of sodium half-cell revealed the typicalplateau at 3.4 V ascribable to the V4þ/V3þ redox couple.
+
+A smalland reversible plateau at ca.3.85 V was also observed for x  0.3,which was ascribed to the activation of the V5þ/V4þ redox couple,according to the XPS spectra of a charged electrode.
+
+In addition,the spectra showed the irreversible oxidation of manganese to thetetravalent state upon the first charge.
+
+Ex-situ XRD patterns ofpartially charged and subsequently discharged electrodes ofNa3V1.7Mn0.3(PO4)3 evidenced the occurrence of a two phasemechanism for the reversible insertion of sodium.
+
+An optimizedelectrochemical performance was achieved for the sample withx ¼ 0.3, reaching a capacity value of 104 mA h g1 at C/2 and92 mA h g1 at 2C, outperforming those of the Mn free sample.
+
+This outstanding behavior has been ascribed to the optimalmorphology of the Na3V1.7Mn0.3(PO4)3/C composite.
+
+The homogeneous dispersion of the active material particles in the carbonmatrix favors both the ionic and electrical conductivities andhence provides a performing electrode material for sodium-ionbatteries.
+

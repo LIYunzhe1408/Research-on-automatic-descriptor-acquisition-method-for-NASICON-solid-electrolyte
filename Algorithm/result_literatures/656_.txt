@@ -1,0 +1,141 @@
+NASICON-type LiTi2(PO4)3 (LTP) is a representative solid-state electrolyte and promising anode for rechargeable  Li batteries.
+However, the electronic conductivity and  specific  capacity  of  LTP  anode  are  encumbered  by  its  massy  and  sluggish phosphate  groups.
+Herein,  vanadium  (V)  substitution  compound  LiTi2(P8/9V1/9O4)3 (LTPV)  has  been  synthesized  by  using  a  selective  vanadic  source  of  Li3VO4  at  an adjusted sintering temperature of 700 oC.
+The PO43 radicals partly replaced by VO4radicals are confirmed via XRD refinement, SEM, Raman and infrared spectra.
+The electronic  conductivity  of  LTPV  is  two  orders  of  magnitude  higher  than  that  of  the undoped  one,  and  meanwhile  the  charge-transfer  impedance  observably  decreases after V substitution.
+More importantly, the V5+ cations are electrochemical active in LTPV  and  contribute  additional  capacity  during  discharge  and  recharge  processes.
+Benefitted from the increased electronic conductivity and the reduced charge-transfer impedance, the rate performance of LTPV is also distinctly improved when compared with the pristine LTP.
+Among many battery systems, lithium ion batteries (LIBs) showed irreplaceable advantages  in  energy  density,  power  ability  and  cycle  performance,  have  expanded from  portable  electronic  markets  to  electric  vehicles  (EVs)  and  large-scale  energy storage  systems  (ESSs).
+However,  the  safety  issue  and  high  cost  of  combustible organic electrolytes have limited the further applications of conventional LIBs in the new  areas.
+Moreover,  safety  still  a  challenge  for  organic  LIBs  used  in  smart phones with high power dissipation.
+Aqueous  LIBs and all-solid-state  LIBs are two promising directions which can fundamentally eliminate the safety problem of organic electrolytes.
+Framework material LiTi2(PO4)3 (LTP) with NASICON structure has  numerous  interstitial  cavities  and  diffusion  pathways,  which  are  favorable  for Li-ion migration.
+Moreover, the flat voltage plateau of LTP at 2.4 V vs.Li+/Li is suitable for Li-ion intercalation within the aqueous LIBs.
+Therefore, LTP is one of the most important aqueous anode and solid-state electrolyte for LIBs.
+However, the intrinsic electronic conductivity and theoretical capacity of LTP are poor  for  acting  as  anode  material,  and  the  Li-ion  conductivity  of  LTP  is  not  high enough for a practical solid-state electrolyte.
+Different configurations of surface carbon  coating  have  been  actualized  to  improve  the  electronic  conductivity  of  LTP .
+But  the  carbon-coated  nanoscale  LTP  often  exhibited  low  packing  density, which  will  reduce  the  volumetric  energy  density  of  batteries.
+Moreover,  the  ionic conductivity  of  LTP  can  be  enhanced  by  partial  substitution  of  the  tetravalent  Ti4+ cations by the trivalent ones (Al3+, Fe3+, Y3+, etc.).
+Meanwhile,  the  inactive  PO43 groups dominant a major weight of LTP, thus if part of P5+ cations can be replaced by other electrochemical  active  cations,  such  as  V5+,  the  specific  capacity  may  increase,  and the  electronic  and  ionic  conductivity  may  change  for  the  LTP  anode.
+However,  the P-site substituted LTP has not been reported in the literature up to now.
+In this paper, we present a P-site substituted LTP compound, LiTi2(P8/9V1/9O4)3 (abbreviate  as  LTPV),  and  investigate  the  solid-state  synthesis,  crystal  structure, electronic  and  ionic  conductivities,  and  electrochemical  properties  of  LTPV  as insertion host for Li ions, which are seriatim compared with that of its parent material LTP.
+In our initial proposition, partial PO43radicals replaced by VO43radicals with larger  volume  will  influence  the  electronic  and  ionic  transportation  in  the  LTPV structure, and more importantly, the electrochemical active V5+ ions can provide more redox  centers  during  the  ion  insertion  and  extraction,  namely  increase  the  specific capacity of LTPV anode.
+Single  phase  LiTi2(PO4)3  (LTP)  was  prepared  via  a  conventional  solid-state method.
+Proper amounts of LiOH·H2O (3% excess to compensate Li volatilization at high temperature), TiO2 and NH4H2PO4 were homogeneously mixed and preheated at 350 °C in air for 5 h to decompose out H2O and NH3, then milled again  and finally sintered  at  900  °C  for  12  h  in  a  muffle  furnace.
+On  the  other  hand,  single  phase LiTi2(P8/9V1/9O4)3 (LTPV) was first prepared via a two-step method by using Li3VO4 as  reaction  intermediate.
+For  step  #1  illustrated  in  Eq.  (1),  the  pure  intermediate Li3VO4  powder  was  obtained  via  solid-state  reaction that involved initial homogenization of raw materials Li2CO3 and V2O5 followed by annealing at 750  oC for 8 h in the furnace under air.
+For step #2 illustrated in Eq. (2), the obtained Li3VO4 was further milled with proper amount of TiO2 and NH4H2PO4, and finally sintered at 700  °C  for  12  h  in  the  muffle  furnace.
+The X-ray diffraction (XRD) data of the final sample powders were collected by a  Bruker  D8  advance  diffractometer  (Germany)  with  Cu  Kα  radiation.
+A  graphite monochromator  was  used  for  diffracted  beams,  and  a  step  scan  mode  was  adopted with a scanning step of  0.017o.
+The  Rietveld refinements of the  final products were carried  out  by  GSAS  program  (Larson  &Von  Dreele,  2000) via  the  EXPGUI interface  (Toby,  2001).
+The  thermal  gravimetry  (TG)  and  differential  scanning calorimetry (DSC)  measurements  were  performed  employing  an  STA449C simultaneous thermal analyzer from NETZSCH (Germany).
+Alumina crucibles were used as vessels and Al2O3 as reference substance.
+The precision of measurements was ±1  oC.
+The  heating  rate  was  10  oC  min-1  from  100  to  1000  oC  in  air.
+The  element contents the  as-prepared  LTPV  were  determined  via  atomic  absorption spectrometry (AAS) method by using Hitachi Z-2000 atomic absorption spectrometer with  a  polarized  Zeeman  effect  background  corrector.
+Raman  scattering  spectra (LabRAM Aramis, Horiba Jobin Yvon) were performed at a room temperature using the  532  nm  excitation  line  of  He-Ne  laser.
+Infrared  transmission  spectra  were measured with a Vertex 70 FTIR spectrometer (Bruker, Germany).
+SEM images of the LTP and LTPV composites were obtained by using Nova NanoSEM 430 (FEI, USA) scanning electron microscopy (SEM).
+The electrochemical properties of LTP and LTPV as cathodes in the two-electrode electrochemical  cells  were  measured  by  using  an  automatic  battery  testing  system. 
+The electrodes of the cells were fabricated by blending LTP or LTPV composite separately with acetylene black and polyvinylidene fluoride (PVDF) binder at a weight ratio of 75: 15: 10 in N-methyl-2-pyrrolidone (NMP).
+The Cu foils were chosen  as  current  collectors  to  test  their  electrochemical  performance  within  the voltage range of 1.8~3.3 V vs. Li.
+The areal loading density of active materials was about  2~3  mg  cm-2.
+The  cells  were  assembled  in  a  Mikrouna  glove  box  filled  with high-purity  argon,  in  which  lithium  metal  foils  were  used  as  the  anodes,  Celgard® 2320 as the separators and 1 M LiPF6 in EC: DMC (1:1, vol. %) as the electrolyte.
+The specific capacity was evaluated for the active material only.
+The electrochemical impedance  spectra  (EIS)  were  performed  by  using  an  AUTOLAB  PGSTAT302N (Metrohm,  Netherlands)  electrochemical  station.
+Before  EIS  measurements,  the potential  of  the  electrodes  was  set  to  the  3.0  V  vs.  Li  and  held  for  30  min.
+The concentration  of  Li  ions  in  the  electrodes  then  was  considered  to  have  reached  the equilibrium state.
+EIS measurements were carried out with an AC perturbation of 10 mV, and the frequency range was from 105 Hz to 0.01 Hz.
+The electronic conductivity of LTP and LTPV powders was obtained via volt-ampere method by using the same electrochemical station.
+The specimens used for electronic conductivity measurement were disk-shaped pellets with 8 mm in diameter and 2 mm in thickness.
+In a phosphorus-site substituted LTP compound LiTi2(P1-xVxO4)3, the vanadium should has the highest oxidation state of +5 identical to that of phosphorus.
+However, the impurity of lithium vanadyl (IV) orthophosphate, LiVOPO4, always appeared in the  final  products  even  sintered  in  air  when  V2O5  was  used  as  vanadic  source (Fig.1d).
+The  reason  is  probably  that  the  V5+  in  V2O5  is  easily  reduced  to  V4+  by NH4H2PO4, and the LiVOPO4 is very stable even sintering in air [18].
+For avoiding the reduction of V5+ by NH4H2PO4, we had tried a vanadium phosphate, Li2VPO6, as a  intermedium  to  obtain  LiTi2(P1-xVxO4)3  solid  solution.
+High-purity  Li2VPO6  was synthesized via a solid-state reaction similar with that of Korthuis et al.
+As a result,  LiTi2(P0.95V0.05O4)3  can  be  prepared  by  using  Li2VPO6,  whereas  LiVOPO4 was  also  appeared  as  impurity  when  the  substitution  was  increased  to  x  =  0.1  of LiTi2(P1-xVxO4)3  (Fig.  1e).
+In  the  pursuit  of  higher  phosphorus  replacement  by vanadium, we finally chose a more stable vanadium source of Li3VO4, which even can’t be reduced by carbon in a H2/Ar atmosphere.
+As we can see in Fig. 1c, single  phase  of  LiTi2(P0.9V0.1O4)3  can  be  obtained  via  Li3VO4  as  reaction intermedium, which should be isostructural with that of synthetic LiTi2(PO4)3.
+Fig.1b  and  1c  show  the  X-ray  diffraction  (XRD)  patterns  of  freshly  synthesized LiTi2(PO4)3  and  LiTi2(P0.9V0.1O4)3  respectively,  which  have  similar  positions  and relative intensity of diffraction peaks with that of the calculating pattern (Fig. 1a) of standard LiTi2(PO4)3 from ICSD #184088, and no impurity can be found under the resolution of our diffractometer.
+However, the highest concentration of V5+ doping in P sites is x=1/9 for using Li3VO4 as vanadium source, when all the Li component of  LiTi2(P1-xVxO4)3  has  been  supplied  by  Li3VO4  as  well.
+Hence,  we  chose  the LiTi2(P8/9V1/9O4)3  (LTPV)  as  our  research  object,  and  compared  with  the  undoped LiTi2(PO4)3 (LTP) in this paper.
+During the preparation of LTPV by using Li3VO4 as vanadic source, the lower sintering temperature of 700  oC was found compared with that of LTP.
+Hence, for more deeply investigating on the synthetic processes, TG-DSC joint measurements were  conducted  on  the  stoichiometric  mixtures  of  raw  materials  LiOH·H2O,  TiO2 and NH4H2PO4 targeted to LTP (Fig. 2a), and Li3VO4, TiO2 and NH4H2PO4 targeted to LTPV (Fig. 2b).
+The DSC endothermic peaks of 196 oC in Fig. 2a and 182 oC in Fig.  2b  can  be  ascribed  to  the  melt  and  subsequent  decomposition  of  NH4H2PO4, corresponding  to  the  weight  loss  in  TG  curves  by  releasing  of  NH3  and H2O.
+The endothermic peaks of 651  oC in Fig. 2a should be related to the decomposition of LiOH,  and the  LTP phase was  gradually  formed.
+However, no distinct exothermic peak can be found in the DSC curve of Fig. 2a, which implies the sluggish reaction rate of  LTP formation.
+The dilatory weight loss from 500  oC to 800  oC in the TG curve  of  Fig.  2a  suggests  the  pure  phase  of  LTP  can  be  obtained  above  800  oC, therefore 900 oC was chosen to synthesize LTP in this work and high purity product can be achieved according to Rietveld structure refinement result (Fig. 3a).
+On the other hand, there is a sharp exothermic peak around 586 oC and a crisp weight loss from 400 oC to 600 oC in Fig. 2b, which indicates the LTPV formation using Li3VO4 as intermedium is much more vigorous than LTP.
+After a flat plain within 600 oC to 750  oC  of  the  TG  curve,  another  exothermic  peak  of  785  oC  appeared  which forebode the degradation of LTPV at such a high temperature.
+Hence, we chose 700 oC as a final sintering temperature for synthesizing pure LTPV, and impurities would be found if the sintering temperature was higher than 800 oC.
+It’s obviously that, the V  substitution  can  benefit  the  formation  of  LTP  analogous  structure,  leading  to  a much lower sintering temperature and thus reducing the manufacturing cost.
+For  purpose  of  obtaining  the  detailed  structural  information  of  LTPV  and comparing  with  that  of  LTP,  the  high-power  XRD  was  conducted.
+The  Rietveld structure refinement of the final products LTP and LTPV are shown in Fig. 3a. 
+Space group of R3c in orthorhombic syngony was chosen as the refinement model for LTP and LTPV.
+For the refinement of LTPV, the vanadium ion (V5+) had been add into the refinement model and occupied the same crystallographic site as the phosphorus ion (P5+), and the occupancy of V and P in the site is according to the formula of LTPV.
+The  reasonably  small  Rwp  factors  (LTP:  8.43  %,  LTPV:  6.99  %)  of  structure refinements  suggest that  single-phase  products  can  be  obtained  under  our experimental process, and no impurity phases can be detected under the resolution of our X-ray diffractometer.
+The cell parameters of LTPV (a = b = 8.517 Å, c = 20.856 Å) are larger than that of LTP (a = b = 8.503 Å, c = 20.837 Å).
+Furthermore, the average bond length P(V)-O in LTPV structure is 1.576 Å, which is longer than that in LTP (1.567 Å).
+These evidences from the results of Rietveld structure refinement illustrate the V5+ ions had been allocated in the P sites of LTP lattice, because of the difference of ionic radii where the crystal radius of V5+ ion (0.495 Å) is larger than that of P5+ ion (0.310 Å) in a four-fold coordination environment.
+The molar ratio of Ti: P: V  =  6.08:  9:  0.96  in  LTPV  calculated  from  the  results  of  AAS  is  close  to  the theoretical value of 6: 9: 1.
+In  order  to  further  verify  that  P  has  been  partly  substituted  by  V  in  LTPV, vibrational  spectra  including  Raman  scattering  spectrum  and  infrared  transmission spectrum  of  LTPV  were  recorded  and  compared  that  of  LTP  (Fig.  4).
+Raman scattering spectra of LTP and LTPV are presented in Fig. 4a.
+The spectrum of LTP is dominated by three intense bands at 971, 989, and 1009 cm-1 and a weaker band at 1095 cm-1, which can be ascribed to the intramolecular PO43stretching modes (ν1 and ν3)  of  LTP.
+The  three  bands  at  971,  990,  and  1009  cm-1  were  assigned  to  the  ν1 vibration of the PO43symmetric stretching mode, while the band at 1095 cm-1 was assigned  to  the  ν3  antisymmetric  stretching  modes.
+On  the  other  hand,  the spectrum of LTPV is dominated by three intense bands at 970, 989, and 1006 cm-1 and a  weaker  band  at  1093  cm-1,  which  are  lower  than  that  of  LTP.
+The  decreased frequencies  indicate  the  longer  P(V)-O  distance  in  LTPV,  and  it’s  also  an evidence of partial P substituted by V.
+Besides, the Raman scattering intensity appears to  decrease  as  V  substitution,  which  can  be  ascribed  to  the  higher  electronic conductivity  of  LTPV  than  that  of  LTP  (Fig.  7a).
+The  improvement  of  electronic conductivity can reduce the optical skin depth of the incident laser beam, resulting in a decrease of Raman scattering intensity of LTPV.
+Infrared transmission spectra of LTP and LTPV are presented in Fig. 4b.
+Three bands detected at 574, 585, and 643 cm-1  of  LTP  and  572,  583,  and  642  cm-1  of  LTPV  can  be  assigned  to  the antisymmetric  bending  modes  ν4  of  PO43 anions.
+The  absence  of  any  spectral activity near 750 cm-1 combined with the high-resolution XRD pattern in Fig. 3a can conclude  that  the  LTP  sample  has  no  bridging  P-O-P  groups  due  to  condensed phosphates.
+However, the band observed at 807 cm-1 of LTPV can be attributed to the stretching vibration (ν1 mode) of VO4 tetrahedron according to the study of LiMVO4 
+Fig.5a&b present the morphology of the LTP particles, which is compared with that of LTPV sample in Fig.5d&e.
+Both of them have a particle size of 0.5~2 µm and typical appearance of inorganic material obtained by using solid-state reaction.
+More fragments  of  LTP  can  be  found  in  Fig.  5b,  while  LTPV  particles  have  a  smoother surface  and  more  regular  shape  (Fig.  5e).
+Hence,  the  particle  distribution  is  more concentrated  for  LTPV  sample,  which  can  be  comprehended  by  the  difference  of sintering temperature.
+The LTP particles sintered at 900 oC more easily overgrew and agglomerated  than  LTPV  sintered  at  700  oC,  and  the  large  grains  of  LTP  were crumbled into fractions after milling.
+The component elements of Ti, P, O in LTP (Fig.5c)  and  Ti,  P,  V,  O  in  LTPV  (Fig.  5f)  had  been  detected  by  EDX  detector,  and  the molar ratio between V and P in LTPV sample was 10.5% consisted with the results of AAS.
+However, lithium is too light to be detected by X-ray, and the EDX signal of Cu was caused by the substrate of copper foil. Fig. 6b&c illustrate the element mapping of  Ti  and  P  respectively,  in  which  the  outline  of  LTP  particle  (Fig.  6a)  can  be distinguished.
+And more notably, Fig. 6e-g also present the element mapping of Ti, P and V of a LTPV particle (Fig. 6d) respectively.
+As we can see, the outline of LTPV particle  can  be  recognized  as  well  from  not  only  Ti  and  P  mapping  but  also  V mapping,  which  convincingly  illustrates  that  the  V  had  been  allocated  in  the  LTPV 
+As we know,  LiTi2(PO4)3 suffers from its low electronic conductivity as  anode material for  Li-ion batteries.
+In order to compare the  electron transportation of  LTP and  LTPV,  the  linear  sweep  voltammetry  was  performed  on  the  tables  of  LTP  and LTPV individually (Fig 7a).
+The pristine LTP has an electronic conductivity of 4.82×10-7 S cm-1 from the linear-fitting result, which is very close to the result of Xia’s group.
+On  the  other  hand,  the  electronic  conductivity  of  the  vanadium-doped compound LTPV (8.55×10-5 S cm-1) is two orders of magnitude higher than that of the undoped one.
+In the LTP network, each TiO6 octahedron is connected to six PO4 tetrahedra,  and  each  PO4  tetrahedron  is  connected  to  four  TiO6  octahedra.
+The electronic  transport  is  obstructed  by  the  sluggish  PO4  tetrahedra,  so  the  electronic conductivity of pure LTP is low.
+However, partial PO4 tetrahedra were replaced by the active  VO4 tetrahedra  in  the  LTPV  framework,  thus  the  electronic  transport  can  be unblocked and the electronic conductivity of LTPV is improved.
+On the other hand, the Nyquist plots of LTP and LTPV electrodes at 3.0 V vs. Li were obtained via EIS tests  as  shown  in  Fig.  7b.
+The  fitting  curves  were  obtained  by  using  the  equivalent circuit (Fig. 7c) of the generalized Frumkin and Melik-Gaykazyan (FMG) impedance model.
+The  plots  both  include  a  depressed  semicircle  in  the  high  frequency region  and  an  oblique  line  in  the  low  frequency  region.
+The  semicircle  at  high frequency  can  reflect  the  charge-transfer  impedance  (Rct)  of  electrode-electrolyte interface, while the line  relates to the  Li-ion diffusion within the electrode particles .
+Distinctly, the interface impedance of LTPV electrode (76 Ω) is much lower than that of LTP electrode (213 Ω) calculated from the fitting results of the EIS data.
+The increased electronic conductivity can  also benefit the incorporation of electrons and ions located  at the  electrode-electrolyte interface,  and thus  reduce the charge-transfer  impedance.
+Furthermore,  the  lithium  diffusion  coefficient  DLi  in  the bulk of LTPV or LTP can be calculated by using the following equation: where R is the gas constant, T stands for the absolute temperature, A is attributed to area  of  electrode  surface,  n the  number  of  electrons involved the rate-determining step, F is the Faraday constant, C is concentration of Li+ ion, and σw is  the  Warburg  impedance  coefficient,  which  can  be  obtained  by  calculating  the relationship between plot of real impedance (Z’) and lower angular frequency (ωin Fig. 7d.
+According to the equation (Eq. 3), the lithium diffusion coefficient of LTP is  2.1×10-14  cm2  s-1  agreed  with  the  previous  study  [30],  while  the  Li  diffusion coefficient  of  LTPV  (3.8×10-14  cm2  s-1)  is  slightly  higher  than  that  of  LTP.
+As  the lithium diffusion coefficients of LTP and LTPV are in the same order of magnitude, it can  be  considered  that  the  V  doping  has  very  small  impact  on  the  Li-ion transportation in the bulk phase of LTP particles.
+The electrochemical performance of LTP and LTPV electrodes in Li batteries are shown in Fig. 8.
+As we can see in Fig.8a, the discharge-recharge curves of LTP and LTPV  in  the  first  cycle  are  apparently  different.
+The  LTP  electrode  delivered  a discharge capacity of 62 mA h g-1 with a voltage plateau of 2.46 V vs.Li indicating a two-phase mechanism for Li insertion, and a recharge capacity of 53 mA h g-1 with a voltage plateau of 2.53 V vs.Li, which is a typical electrochemical behavior of pure 
+LTP  consisted  with  the  previous  studies.
+It  is  noteworthy  that  the  LTPV electrode delivered a discharge and recharge capacity of 98 mA h g-1 and 80 mA h g-1, respectively, which is 58 % and 51 % higher than that of LTP.
+Comparing the profile of  the  charge-recharge  curves  of  LTPV  with  that  of  LTP,  obviously  a  slope  with  a capacity of 28 mA h g-1 in the range of 3.12~2.49 V appeared in the discharge curve of LTPV.
+Since V5+ is electrochemical activity certified in other pentavalent vanadium oxides, such as V2O5, ZrV2O7 and Li3VO4 , the slope can be ascribed to the reduction  of  V5+  accompanied  by  Li  insertion,  which  has  realized  the  purpose  of substituting  inert  P  by  active  V  within  polyanions  phosphate.
+Furthermore,  a discharge plateau at 2.47 V and a recharge plateau at 2.53 V of Ti4+/Ti3+ redox also emerged in the case of LTPV electrode, but these two plateaus are more oblique than that of LTP.
+The reason may be the combination effects of Ti and V redox, and/or P and V allocated disorder in the polyanions of LTPV.
+On the other hand, both the LTP and  LTPV  electrodes  were  successively  discharged  and  charged  in  different  current densities  of  5,  10,  20,  finally  50  mA  g-1,  and  the  rate  abilities  of  LTP  and  LTPV electrodes  are  shown  in  Fig.  8.
+The  rate  performance  of  LTPV  electrode  was  much better than that of LTP particularly in the highest rate of 50 mA g-1.
+Primitive LTP was blamed for its electronical and electrochemical sluggishness, thus carbon coating and nano scaling were conventionally used to achieve its potential capacity but sacrificed its  compacted  density.
+Herein,  after  partial  P  replaced  by  V  in  LTPV,  the  initial capacity  and  rate  performance  can  be  benefitted  from  the  increased  electronic conductivity  and  the  reduced  charge-transfer  impedance.
+More  importantly,  both theoretical and practical capacity of LTP can be improved after electrochemical active V substitution, which is much more effective than carbon coating or nano scaling of 4.
+In  this  study,  the  synthesis,  structure  and  electrochemical  properties  of LiTi2(PO4)3 (LVP) and LiTi2(P8/9V1/9O4)3 (LTPV) have been systematically compared in  order  to  improve  the  electronic  conductivity  and  specific  capacity  of  LTP  anode.
+Considering LTP comprised of massy and sluggish phosphate groups, active V5+ was adopted to replace the inert P5+ within PO43radicals.
+Thus, V substitution compound LTPV  was  synthesized  by  using  a  selective  vanadic  source  of  Li3VO4  to  avoid  the reduction of V5+, and sintering at an adjusted temperature of 700 oC determinated by TG-DSC joint analysis.
+In the final product of LTPV, part of PO43radicals have been replaced by VO43radicals, which was concluded by the results of XRD refinement, SEM-EDS,  Raman  and  infrared  spectra.
+It  is  noteworthy  that  the  electronic conductivity of LTPV (8.55×10-5 S cm-1) is two orders of magnitude higher than that of the undoped one (4.82×10-7 S cm-1), and meanwhile the charge-transfer impedance of  the  electrode  in  Li  batteries  observably  decreases  after  V5+  substitution.
+More importantly,  it’s  the  first  time  of  discovering  that  V5+  cations  are  electrochemical active  in  LTPV  and  contribute  additional  capacity  during  discharge  and  recharge processes.
+Furthermore,  owning  to  the  increased  electronic  conductivity  and  the reduced charge-transfer impedance, the rate ability of LTPV is much better than that of  LTP  as  well.
+The  comparison  between  LTPV  and  LTP  can  conclude  that  it  is  an effective  way  of  replacing  the  P5+  by  V5+  in  phosphate  groups  to  improve  the electrochemical performance.
+This method can be also applied to other anode/cathode materials in phosphate family to arouse their electronic conductivity and compensate their insufficient capacity.
+

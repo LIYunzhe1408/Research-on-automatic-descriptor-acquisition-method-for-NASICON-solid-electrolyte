@@ -1,0 +1,51 @@
+Lithium ion conducting ceramics Li1 + 2xZr2 − xSrx(PO4)3 with x = 0–0.2 were synthesized via a sol-gel methodusing citric acid.
+
+The effects of Sr2+ substitution on the structure, microstructure, and conductivity of LiZr2(PO4)3ceramics were studied.
+
+Rietveld refinement of powder XRD patterns showed that 5% of Sr2+ substitution for Zr4+in LiZr2(PO4)3 stabilizes the rhombohedral (space groupR3c) phase at room temperature.
+
+Sr2+ doped LiZr2(PO4)3samples exhibited significantly improved ionic conductivity with Li1.2Zr1.9Sr0.1(PO4)3 showing highest conductivity of 0.34 × 10−4 Ω−1 cm−1 at room temperature.
+
+ Activation energy was found to decrease from 0.56 eVfor LiZr2(PO4)3 to 0.40 eV for Li1.4Zr1.8Sr0.2(PO4)3.Li+ transference number determined by DC polarization forLi1.2Zr1.9Sr0.1(PO4)3 was close to 1 confirming the ionic nature of conductivity.
+
+Rechargeable lithium ion batteries have been widely used as powersources for small and portable electronic devices owing to their excellent cyclabilities and energy density.
+
+However, for the applicationssuch as electric vehicles, communication electronics, storage and loadleveling on electrical grids next generation batteries are expected tohave higher energy and power densities and be safer and cheaperthan the existing batteries [1–3].
+
+In view of this, there is a renewedfocus on the development of the rechargeable Li-air and all-solid-statebatteries.
+
+ Both Li-air as well as all-solid-state batteries employ fast lithium ion conducting membrane as a separator between anode and cathode assemblies [3–5].
+
+Though several groups have investigated a widerange of materials, fabrication of solid electrolytes with high ionic conductivity along with good chemical stability in aqueous electrolytes ofthe wide pH range remains an open challenge [6,7].
+
+Among inorganic solid electrolytes, LiM2(PO4)3 compounds withNASICON-type structure have drawn considerable attention due totheir high ionic conductivity.
+
+Corner sharing MO6 octahedra and PO4tetrahedra framework in these materials form a 3D network of interstitial tunnels through which lithium ion can diffuse easily [8,9].
+
+Whiledoped LiTi2(PO4)3 ceramics and glass-ceramics show good ionic conductivity exceeding 10−4 Ω−1 cm−1, chemical stability of solid electrolytes having Ti4+ in strongly reducing environment is a serious issuelimiting their use in rechargeable batteries [10].
+
+IsomorphousLiZr2(PO4)3 (LZP) is expected to be electrochemically stable against lithium metal due to M-site being occupied by the stable oxidation Zr4+;disadvantage with LZP is its low ionic conductivity at room temperature.
+
+LiZr2(PO4)3 is known to exhibit a complex polymorphism- lowtemperature synthesized ‘β’ phase is reported to undergo orthorhombicto monoclinic transition around 300 °C whereas the high temperaturesynthesized ‘α’ phase is reported to exhibit rhombohedral ðR3cÞ to triclinicðc1Þ structural transition around 60 °C [11–15].
+
+Room temperatureionic conductivity of rhombohedral phase is about 10−5 Ω−1 cm−1 andthat of triclinic phase is about 10−8 Ω−1 cm−1 [11,16].
+
+High ionic conductivity is one of the most crucial prerequisites for a material to beused as solid-electrolytes in rechargeable batteries.
+
+Even for lithiummicrobatteries, where electric current densities are quite low, conductivity of electrolyte thin film is expected to be at least 10−5 Ω−1 cm−1[17].
+
+The value of room temperature conductivity for LZP is thus lowerthan desired for solid electrolytes in practical applications.
+
+Ionic conductivity in NASICON-type materials could be improved significantly byaliovalent doping [18–20].
+
+Incorporation of elements with differentionic size and charge into the crystal lattice of LZP could tune the sizeof bottlenecks of Li+ transport pathways and thereby increase theionic conductivity.
+
+Herein, we report the effect of the substitution of Sr2+ for Zr4+ inLiZr2(PO4)3 on the crystal structure, microstructure and ionic conductivity with the aim to achieve high ionic conductivity.
+
+In addition, directcurrent polarization study for a selected sample which exhibits highestionic conductivity in the present study is reported.
+
+In summary, we successfully synthesized Li1+2xZr2-xSrx(PO4)3 samples with x = 0, 0.05, 0.1, and 0.2 by a sol-gel route.
+
+Rietveld refinementof room temperature powder XRD patterns showed the incidence of mixed rhombohedral and triclinic phases in pristine LZP.
+
+Incorporationof Sr2+ for Zr4+ resulted in stabilization of pure NASICON-type phase(space groupR3c) at room temperature and increased the room temperature ionic conductivity from 8.06 × 10−7 Ω−1 cm−1 for LZP to3.44 × 10−5 Ω−1 cm−1 for sample with x = 0.1. Direct current polarization confirmed the conductivity to be mostly ionic in nature with transference number close to 1.

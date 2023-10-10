@@ -1,0 +1,60 @@
+In order to improve the ionic conductivity of NASICON-type lithium ion conductor, Li1.In order to improve the ionic conductivity of NASICON-type lithium ion conductor, Li1.3Al0.3Al0.3Ti1.3Ti1.7(PO4)3 (LATP), lithium ion conductive composites have been prepared to disperse the perovskite-type lithium ion conductor, Li0.7(PO4)3 (LATP), lithium ion conductive composites have been prepared to disperse the perovskite-type lithium ion conductor, Li0.348La0.348La0.55TiO3 (LLTO), in the LATP matrix. X-ray powder diﬀraction revealed that the added LLTO has reacted with LATP to form some LaPO4 derivatives after the sintering at 1000°C. The measured conductivity of the composite increases with the amount of added LLTO up to 4 wt% showing the highest value of 7. 
+
+The measured conductivity of the composite increases with the amount of added LLTO up to 4 wt% showing the highest value of 7.6 × 10−4 S cm−1, which is approximately three times larger than that of pristine LATP. 
+
+Further amount of LLTO addition gives gradual decrease in conductivity due to the deterioration of sintered density. It is also conﬁrmed that the transport number of lithium ion is almost unity for the LATP-LLTO composite from the DC conduction experiments using blocking electrode. © The Electrochemical Society of Japan, All rights reserved.
+
+Rechargeable lithium ion batteries perform a major role as power sources for various electronic devices such as lap-tops or electric vehicles because of their high energy density. Particularly all-solidstate lithium ion batteries with inorganic solid electrolyte instead of liquid organic electrolyte attract remarkable attention in terms of energy density and safety.
+
+Despite of such advantages, all-solidstate batteries still have some challenges to be solved, for example, lithium ion conductivity of the solid electrolyte and lithium ion transport between solid electrolytes and electrodes.2 As the solid electrolyte, inorganic lithium ion conductors have been investigated for a wide range of materials including oxides, sulﬁdes or halides. 
+
+Among them, oxide-based solid electrolytes have been extensively studied for superior stability in air, regardless of its lower lithium ion conductivity. Some oxide electrolytes are yet likely to be reduced by metal lithium anode resulting in a narrow potential window, while stable lithium conductive oxides such as Li7La3Zr2O12 (LLZ) are also reported.3NASICON-type structured Li1+xMxTi2¹x (PO4)3 (M = Sc, Al, Fe, Ga or In) has been studied for a long time.4–6 In particular, Li1.4–6 In particular, Li1.3Al0.3Al0.3Ti1.3Ti1.7(PO4)3 (LATP) with partial substitution of Ti4+ cation by Al3+ is much attractive because of its high ionic conductivity at room temperature. 
+
+Nevertheless, the ionic conductivity of LATP is still lower than liquid-based electrolytes (e.g. 10. 10.8 mS cm¹1 for LiPF6 1 M in EC-DMC)8 and further ionic conductivity is expected for the application.
+
+This phenomenon has been explained by the formation of space charge region around the insulator particles in which lithium ion migration is enhanced.
+
+While early studies on this phenomenon have focused on the metal halide-insulator 11 and LiI-SiO2,12 some composite systems such as LiBr-Al2O3 reports have been published for oxide electrolyte systems as LLTO14 composites.As for LATP SiO2 electrolyte, dispersion of Al2O3 would not be suitable, since Al13 and Na4Zr2Si3O12-BaTiO3is a constituent of LATP and Al2O3 would be easily dissolved during the synthesis. On the other hand, perovskite-type structured Li0. On the other hand, perovskite-type structured Li0.348La0.348La0.55TiO3 (LLTO) is a famous lithium ion conductor with very high bulk lithium ion conduction (·bulk = 1 © 10¹3 S cm¹1).15 However ionic conductivity at grain boundary is considerably low (·gb = 7.15 However ionic conductivity at grain boundary is considerably low (·gb = 7.5 © 10¹5 S cm¹1) and Ti4+ ¼ Ti3+ reduction is likely to occur at the interface with negative electrodes.16 This prevents the application of LLTO for a solid electrolyte of practical use.
+
+In the present system, we selected LLTO as the dispersion particles for relatively high grain-boundary resistance, which would act as an insulator. On the contrary, if lithium ions might be introduced into the LLTO particles from the LATP matrix at the conduction, the lithium ions are expected to migrate through the fast conduction path of LLTO bulk. Then, we have attempted to prepare the LATP-LLTO composites by means of conventional solid-state reaction method and to investigate the electrochemical properties.
+
+Li0.Li0.348La0.348La0.55TiO3 (LLTO; nominal composition) has been prepared by the conventional solid-state reaction method. 
+
+Stoichiometric amounts of Li2CO3 (99. Stoichiometric amounts of Li2CO3 (99.0% Wako Pure Chem.), La2O3 (99.), La2O3 (99.5% Wako Pure Chem.
+
+The calcined samples were reground, isostatically pressed into pellets under 392 MPa and sintered again at 1300°C for 10 h. The obtained LLTO samples were roughly crushed and then milled with zirconia balls by a planetary ball milling machine (Fritsch, Pulverisette7 premium line) in air at 400 rpm for 10 h. The ﬁnally obtained LLTO powder was dried at 100°C.
+
+LATP-LLTO composites have been prepared from the mixture of LATP precursor and LLTO powder by means of solid-state reaction method. LATP precursor was synthesized from Li2CO3 (10 wt% (96% Strem Chem.
+
+TiO2 and excess was added), C-Al2O3 (NH4)H2PO4 (99.), TiO2 and excess was added), C-Al2O3 (NH4)H2PO4 (99.0% Wako Pure Chem.
+
+ The mixtures of starting powders were at ﬁrst calcined at 700°C for 2 h to obtain the LATP precursor.The product was reground and mixed with aboveobtained LLTO powder in ethanol using a planetary ball mill with zirconia balls for 1 h and then dried at 100°C in a vacuum oven. The obtained powders were pressed into pellets using a cold isostatic press and sintered at 1000°C for 10 h.
+
+Powder X-ray diﬀraction (XRD) (Ultima IV, Rigaku) using CuKA radiation (40 kV, 40 mA) has been carried out to investigate the phase formation of the samples. 
+
+Sample pellet surfaces were polished and morphology was investigated by using a scanning electron microscope (SEM) (SU6600, HITACHI) emphasizing on the particle distribution. For the electrical conductivity measurements, Au paste was applied on the both sides of the sample pellets (typical size of 6 mm in diameter and 8 mm in length) to form the electrodes. Impedance measurements were carried out by two-electrode AC method using an LCR meter (3531 Z Hitester, Hioki, 50 Hz–1 MHz), where current/potential probes are separately extended to the Pt current collectors (4 wires). 
+
+Conductivity data were collected in the temperature range from 25°C to 300°C. To probe the charge carrier in the composites, DC resistance has been also measured by applying a constant voltage of 0. To probe the charge carrier in the composites, DC resistance has been also measured by applying a constant voltage of 0.5 V using blocking (stainless-steel) and nonblocking (lithium foil) electrodes as anode, which were assembled in an argon ﬁled gas tight cell. 
+
+The sample size of composite employed was 16 mm in diameter and 1. The sample size of composite employed was 16 mm in diameter and 1.2 mm in thickness.
+
+Figure 4.Figure 4. Measured conductivity of LATP-LLTO composites at room temperature (25°C).
+
+On the other hand, introduction of further amount of LLTO decreases the nominal sintered density to decline the conductivity. Assuming that the major dispersed particles after the sintering are LaPO4 as detected by XRD, we have prepared additional composites by sintering LATP precursor with LaPO4 particles, which is referred as LATP-LaPO4 composites. Nevertheless, LATP-4 wt%LaPO4 composite exhibited only smaller conductivity as 9. Nevertheless, LATP-4 wt%LaPO4 composite exhibited only smaller conductivity as 9.3 © 10¹5 S cm¹1 without any conductivity enhancement. Therefore, insulator particle should be introduced with the form of perovskite-type LLTO to enhance the conductivity of LATP.
+
+Figure 5 shows the Arrhenius plots of conductivity for LATPLLTO composites measured in the heating process up to 300°C. Each sample roughly yields a straight line in this temperature range and the conductivity enhancement from the pristine LATP becomes larger at elevated temperatures. 
+
+Activation energies of these samples are plotted against the added LLTO amount in Fig. 6. 6. LATP-LLTO composites increase the activation energy Ea with the additive amount of LLTO in the composites. 
+
+This result suggests that lithium ion conduction path at the electrolyte-insulator interface with higher activation energy becomes more predominant with increasing LLTO. In order to evaluate the electronic contribution, DC current was conducted on the samples using blocking and non-blocking electrode on the opposite side. Figure 7 shows the measured current on applying 0. Figure 7 shows the measured current on applying 0.5 V between anode and cathode of the LATP5 wt%LLTO sample using lithium and stainless-steel anodes. In the case of non-blocking lithium foil anode, electric current about 0. In the case of non-blocking lithium foil anode, electric current about 0.1 mA can be ﬂowed in the sample, whereas the current is hardly conducted for the blocking stainless-steel anode.For the asymmetricFigure 6.For the asymmetricFigure 6. Activation energy of LATP-LLTO composites plotted against composition.
+
+Figure 7.(Color online) Time variation of the measured current under the DC ﬁeld on LATP-5 wt%LLTO electrolyte using blocking and non-blocking anodes.
+
+The lithium ion conduction of the synthesized LATP-LLTO composite has been thus conﬁrmed.
+
+In the present experiment, we have successfully improved the lithium ion conductivity of LATP by simply sintering LATP precursor with LLTO powders to form LaPO4 dispersion with the particle size less than 1 µm. Further enhancement in conductivity is expected by optimizing the particle size, distribution or morphology. On the other hand, further precise investigation should be performed to declare the mechanism of lithium ion conduction enhancement.
+
+We have synthesized the LATP-LLTO composites from LLTO powder and LATP precursor mixtures to enhance the lithium ion conductivity. 
+
+The added LLTO powder reacts with LATP to form LaPO4 dispersions at the sintering. The highest conductivity of 7. The highest conductivity of 7.6 © 10¹4 S cm¹1 is attained at room temperature for the sample LLTO-4 wt%LLTO, which is three times larger than pristine LATP. Activation energies of composites are larger than pure LATP, while transport number of the lithium ion remains unity for composites. The conductivity enhancement in the present system is supposed to be due to the dispersion of insulator mechanism such as LiI-Al2O3 system, although the sample using LaPO4 does not exhibit such a conductivity enhancement.
+

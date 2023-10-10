@@ -1,0 +1,44 @@
+A three-dimensionally well-ordered NASICON-type Mg2þ cation conductor, (MgxHf1x)4/(42x)Nb(PO4)3,was firstly developed by partial substitution of lower valent Mg2þ cation onto the Hf4þ sites in a HfNb(PO4)3 solid to realize high Mg2þ cation conductivity even at moderate temperatures.
+
+Due to the formation of well-ordered NASICON-type structure, both the high Mg2þ cation conductivity below 450 °Cand the low activation energy for Mg2þ cation migration was successfully realized for the (Mg0.1Hf0.9)4/3.8Nb(PO4)3 solid.
+
+ Pure Mg2þ cation conduction in the NASICON-type (Mg0.1Hf0.9)4/3.8Nb(PO4)3 solid wasdirectly and quantitatively demonstrated by means of two kinds of dc electrolysis.
+
+Solid electrolytes are functional materials where single ionspecies generally migrate into the solid lattice as a charge carrier,which is quite different from liquid electrolyte solutions wherecations and anions are simultaneously conducted.
+
+Based on suchunique selective ion migration, solid electrolytes are applied tovarious electrochemical devices, such as rechargeable batteriesand chemical sensors.
+
+The conduction of various ions with valence states frommonovalent to tetravalent has been observed in rigid crystal lattices; however, the ion conductivity is significantly dependent onthe valence state and ionic size, i.e., lower valent or smaller sizedions can migrate in solids more readily than higher valent or largersized ions.
+
+As a result, many researchers have paid an attention tothe development of monovalent cation conductors, such as Liþand Naþ conductors, to realize high-performance electrochemicaldevices in the 20th centuries.
+
+In the 21st century, there has been astrong demand for high-performance rechargeable batteries withhigh energy density, so that divalent cation conducting solidelectrolytes have attracted much attention.
+
+Among them, Mg2þcation conductors are believed to be suitable candidates for theelectrolyte of next-generation batteries [1] due to advantages suchas safety and low cost compared to the conventional Li-ion battery.
+
+However, most of the research on Mg2þ ion batteries has employed liquid or polymer electrolytes [2–4].
+
+Consideration offeatures such as energy density, safety, and ease of fabricationconcerns indicate that it is better to fabricate an all-solid-statebattery with a Mg2þ cation conducting solid electrolyte.
+
+Until now, there are few reports on Mg2þ cation conduction incrystalline solids [5–9].
+
+Among them, MgZr4(PO4)6 [5–8] with theβ-Fe2(SO4)3-type structure (monoclinic symmetry, P21/n), which isknown to have a three-dimensional network linking ZrO6 octahedra and PO4 tetrahedra by corner-sharing, has been reported toexhibit high Mg2þ cation conductivity (1.4  103 S cm1 at800 °C), although its activation energy for Mg2þ ion conductionwas extremely high (96–110 kJ mol1).
+
+Furthermore, improvement of the Mg2þ ion conductivity in the β-Fe2(SO4)3-typeMgZr4(PO4)6 crystal structure was reported by the introduction ofpentavalent Nb5þ cations to form the Mg0.7(Zr0.85Nb0.15)4P6O24solid [10].
+
+ Although the Mg0.7(Zr0.85Nb0.15)4P6O24 solid possessed aMg2þ cation conductivity of 7.7  104 S cm1 at 600 °C, whichwas ca times higher than that of MgZr4(PO4)6, the activationenergy for Mg2þ cation migration was still high (92.0 kJ mol1),and therefore, its Mg2þ cation conductivity at lower temperatureswas significantly reduced, which was attributed to the distortionbehavior of the β-Fe2(SO4)3-type structure.
+
+Therefore, to obtain high Mg2þ cation conductivity even atmoderate temperatures around 300 °C, we must select a moresuitable structure for Mg2þ cation migration, such as the NASICON(Naþ super ionic conductor [11])-type structure (rhombohedralsymmetry with hexagonal setting, R3c), which is also a threedimensional network structure similar to the β-Fe2(SO4)3-typestructure.
+
+Although the arrangement of Zr2P3O18 (lantern) units inthe β-Fe2(SO4)3-type structure are distorted, the lantern units inthe NASICON-type structure are well ordered.
+
+This provides anordered ion conduction pathway surrounded by lantern units inthe NASICON-type structure, so that smooth ion migration is expected with this NASICON-type structure, i.e., high ion conductivity is expected even at moderate temperatures of 300–500 °C due to lowering of the activation energy for ion migration.
+
+However, most of the solids that were synthesized at high temperature in an attempt to form the NASICON-type structure wereobtained as β-Fe2(SO4)3-type solids, which is speculated to be dueto the small ionic radius of Mg2þ, so that the ordered NASICONtype crystal structure is not formed.
+
+In the work reported here, we firstly succeeded to develop aseries of NASICON-type Mg2þ cation conductors, (MgxHf1x)4/(42x)Nb(PO4)3, by selecting HfNb(PO4)3 as the mother solid (HfNb(PO4)3 has been reported as a tetravalent Hf4þ cation conductor[12]), of which the lattice size is small compared to other NASICON-type solids, and we report its high Mg2þ cation conductivityat moderate temperatures.
+
+We have firstly developed a three-dimensionally well-orderedNASICON-type Mg2þ cation conductor by partial substitution oflower valent Mg2þ cation onto the Hf4þ sites in the HfNb(PO4)3solid to realize high Mg2þ cation conductivity below 450 °C.
+
+Inaddition, Since the activation energy for Mg2þ cation migrationwas considerably reduced by the formation of a well-orderedcrystal structure compared to the conventionally reported Mg2þcation conductors, we expect that further improvement in theMg2þ cation conductivity of this solid electrolyte for practicalapplication at moderate temperatures around 300 °C or below willbe achieved in the near future.
+

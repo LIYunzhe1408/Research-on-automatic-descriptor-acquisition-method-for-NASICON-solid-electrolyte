@@ -1,0 +1,24 @@
+Aqueous lithium−air batteries have very high theoretical energy densities, which potentially makes thistechnology very interesting for energy storage in electric mobility application.
+However, the aqueouselectrolyte requires the use of watertight layer to protect the lithium metal typically a thick NASICONglass-ceramic layer, which adds ohmic resistance and penalizes performance.
+This paper deals with there placement of this ceramic electrolyte by a hybrid organic−inorganic membrane.
+This new membranecombines an ionically conducting inorganic phase for Li-ion transport (Li1.3Al0.3Ti1.7(PO4)3 (LATP) and apoly(vinylidene fluoride−co−hexafluoropropylene (PVDF−HFP) polymer for water-tightness andmechanical properties.
+The Li−ion transport through the membrane is ensured by an interconnected 3−Dnetwork of crystalline LATP fibers obtained by coupling an electrospinning process with the sol-gelsynthesis followed by a thermal treatment.
+After an impregnation step with PVDF−HFP, hybridmembranes with different volumetric fractions of PVDF−HFP have been synthesized.
+These membranesare watertight and have Li−ion conductivities ranging from 10-5 to 10−4 mS/cm.
+The conductivity dependson the PVDF−HFP volume fraction and the fibers’ alignment in the membrane thickness, which in turncan be tuned by adjusting the water content in the electrospinning chamber during the process.
+Thealignment of fibers parallel to the membrane surface conduces to poor conductivity values while adisordered fibers mat lead to interesting conductivity values (1 x 10-4 mS/cm) at ambient temperature.
+One of the main disadvantages of the electric vehicle is its short driving range, which is limitedby the energy density of lithium-ion batteries.
+There is therefore a need for batteries with higherenergy densities.
+Among the various technologies existing on the market, the aqueous Li−airbattery is promising technology, with energy densities potentially twice as high as currentbatteries.
+Aqueous Li−air batteries today use a separator consisting of a Li ion conductingNaSICON−like ceramic electrolyte, itself protected from lithium metal by thin LiPON layer.
+This ceramic separator needs to be sufficiently thick to ensure good mechanical properties,giving rise to a large ohmic resistance and therefore leading to batteries with poor powerperformances.
+By replacing the solid ceramic membrane with ceramic fibers, Li-ion conductionis obtained in a non-brittle, flexible, material.
+Watertightness is obtained by filling the voidscreated by the fibers with an organic, hydrophobic, non-conducting polymer.
+The solid ceramicelectrolyte is therefore replaced by a flexible hybrid organic−inorganic membrane, combininggood Li−ion conduction and watertightness.
+In order to achieve a good percolation of theinorganic Li-ion conducting network, we propose to fabricate an interconnected 3D network offibers obtained by combining sol−gel chemistry and electrospinning.
+The microstructure of the3D fiber network was tuned through the electrospinning parameters including water content inair (or relative humidity (RH)), speed of the rotating counter electrode and the final sinteringtemperature.
+The water content of the surrounding air was found to have an impact on the fiberdiameter whilst the rotating electrode speed impacts the alignment of the fibers produced: highspeed and high humidity conduces to aligned fibers with a large diameter.
+Sintering the fiber matat high temperature, i.e.T ≥ 850°C, produces crystalline fiber mats with good mechanicalproperties.
+The Li−ion conductivity was estimated by impedance spectroscopy and valuesranging from 10-5 and 10-3 mS/cm have been measured depending on the microstructure of thefiber mat (i.e.fibers alignment).Taking into account a porosity of 30% in volume, theconductivity value is comparable to that measured on dense pellets in the same conditions,attesting the good quality of the particle-particle contact along the LATP fibers.
+Impregnation ofthe crystalline fiber mat by a hydrophobic polymer (PVDF-HFP) conduces to the formation offlexible hybrid membranes.
+The PVDF−HFP volume fraction was tuned from 40 to 80% and thebest results in term of water tightness and conductivity value was obtained for membranes with avolume fraction of PVDF-HFP of 70% and a Li−ion conductivity of 1 x 10-4 mS/cm for athickness of 20 μm, corresponding to an ohmic resistance of 40 k • cm2. Even if the membraneexhibits promising properties, further improvements in term of Li-ion conductivity are needed totest it in a real Li-air battery.

@@ -1,0 +1,123 @@
+A compact tubular sensor based on NASICON (sodium super ionic conductor) and V2O5-doped TiO2 sensing electrode was designed for the detection of SO2. 
+In order to reduce the size of the sensor, a thick-ﬁlm of NASICON was formed on the outer surface of a small Al2O3 tube;
+furthermore, a thin layer of V2O5-doped TiO2 with nanometer size was attached on the NASICON as a sensing electrode. 
+This paper investigated the inﬂuence of V2O5 doping and sintering temperature on the characteristics of the sensor. 
+The sensor attached with 5 wt% V2O5-doped TiO2 sintered at 600 ◦C exhibited excellent sensing properties to 1–50 ppm SO2 in air at 200–400 ◦C. 
+The EMF value of the sensor was almost proportional to the logarithm of SO2 concentration and the sensitivity (slope) was −78 mV/decade at 300 ◦C. 
+It was also seen that the sensor showed a good selectivity to SO2 against NO, NO2, CH4, CO, NH3 and CO2. 
+Moreover, the sensor had speedy response kinetics to SO2 too, the 90% response time to 50 ppm SO2 was 10 s, and the recovery time was 35 s. 
+On the basis of XPS analysis for the SO2-adsorbed sensing electrode, a sensing mechanism involving the mixed potential at the sensing electrode was proposed.
+
+Sulfur dioxide, mainly produced from the burning of substances containing sulfur such as coal and fuel oil and natural reactions such as volcanic eruptions and forest ﬁres, is one of the main pollutants in the atmosphere. 
+SO2 in the atmosphere is almost changed into sulfurous and sulfuric acids which causes acid rain. 
+Hence, the development of SO2 sensors is very important for the detection of sulfur dioxide, which could restrain the damage of acid rain. 
+At present, SO2 sensors with semiconductors, liquid electrolytes and solid electrolytes have been proposed. 
+Among these, the sensors fabricated from solid electrolytes have strong advantages, such as highly selectivity, rapid and reproducible response and low concentration detection. 
+The detection of SO2 using solid electrolytes such as Li2SO4–Ag2SO4 , ␤-Al2O3 , ZrO2  and NASICON (sodium super ionic conductor)  by solidstate electrochemistry techniques has been reported.
+In our previous papers, thick ﬁlm, tubular and planar type CO2 and H2S sensors using NASICON synthesized by sol–gel process have been investigated. 
+At the same time, we are also searching for new sensing materials for the sensing electrode of SO2 sensor. 
+In this study, the V2O5-doped TiO2 was found to have excellent effect on improving the sensing properties to SO2. 
+The sensing mechanism was also proposed by investigating the catalytic behavior of SO2 on V2O5-doped TiO2.
+
+
+The NASICON material was prepared from ZrO(NO3)2, NaNO3, (NH4)2HPO4 and Si(C2H5O)4 by sol–gel process . 
+Nanometer-sized titanium dioxide was prepared by a sol–gel method with Ti(OC4H9)4 as a precursor, C2H5OH as a solvent and CH3COOH as a chelating reagent. 
+The sol was dried at 100 ◦C for 20 h and the obtained gel was sintered at 600 ◦C for 3 h. 
+The structure of NASICON and V2O5-doped TiO2 was identiﬁed by X-ray diffraction analysis. 
+Surface morphology of the sensing electrode and the link of NASICON and the sensing electrode were identiﬁed by the scanning electron microscope (SEM) (HITACHI TM-1000 Tabletop Microscope). 
+To investigate the sensing mechanism of the SO2 sensor, XPS  was utilized to analyze the adsorbed species on the surface of 5 wt% V2O5-doped TiO2 sintered at 600 ◦C after exposing to 100 ppm SO2 at 300 ◦C for 10 h.
+
+The fabrication of the sensors was described in our previous paper, as shown in Fig. 1. 
+In this paper, NASICON was used for the basic material and V2O5-doped TiO2 for the sensing electrode. 
+The proportions of V2O5 to TiO2 were 0, 2, 5, 10 and 20 wt%. 
+The sensors were sintered at different temperatures (400, 500, 600, 700 and 800 ◦C) and heated by a Ni–Cr coil type heater when exposed to air or a sample gas.
+Gas sensing properties of the sensor were measured by a conventional static mounting method. 
+The sample gases containing different concentrations of SO2, NO, NO2, CH4, CO, NH3 and CO2 were obtained by diluting pure gases with O2 (20%) and N2 (80%). 
+The electromotive force (EMF) was measured with a digital electrometer (Advanced, TR 8652) connected with a registering computer.
+
+XRD analysis was used to conﬁrm the phase composition of NASICON and measure the mean grain size of NASICON, as shown in Fig. 2. 
+From this ﬁgure, NASICON was conﬁrmed to have a single phase of rhombohedral. 
+In addition, the mean grain size of NASICON calculated with Debye–Scherrer equation was about 20 nm.
+Fig. 3 shows the XRD patterns of TiO2 with different V2O5 doping proportions. 
+From Fig. 3, it could be seen that the TiO2 was identiﬁed to be the mixture of rutile and anatase without V2O5 doping. 
+However, the amount of anatase phase decreased when TiO2 was doped with a small quantity of V2O5 and the TiO2 material was identiﬁed to be the single rutile phase when the doping proportion of V2O5 was 5 wt%, whereas the phase of V2O5 could be found when increasing the doping proportion of V2O5 further (≥10 wt%).
+First, the effect of V2O5 doping on the characteristics of the TiO2 sensor was studied, as shown in Fig. 4. 
+The variety of EMF of the sensor based on pure TiO2 to 50 ppm SO2 was −70 mV at 300 ◦C and the 90% response and recovery times were 5 and 25 s, respectively. 
+A small amount of V2O5 doping (<5 wt%) could improve the sensitivity of sensor. 
+When the proportion of V2O5 doping was 5 wt%, the variety of EMF was −176 mV, and the 90% response and recovery times were 10 and 35 s, respectively. 
+When the doping proportion of V2O5 was increased further, the response time of the sensor increased much more and the response time of the sensor attached with 10 wt% V2O5-doped TiO2 could be more than 80 s. 
+Moreover the response time of the sensor with 20 wt% V2O5-doped TiO2 could be much more longer than 100 s. 
+It might be that a small amount of V2O5 doping could promote the catalytic activity of the sensing electrode to SO2 and increase the sensitivity. 
+But when the proportion of V2O5 was in a high range (≥10 wt%), the phase of V2O5 appeared in the XRD patterns. 
+The excessive doping of V2O5 in TiO2 brought on the appearance of single phase of V2O5 which decreased the active location. 
+This decreased the catalytic ability of the sensing electrode to SO2, so that the response time of the sensor increased.
+Fig. 5 shows the kinetic response of the sensor using 5 wt% V2O5doped TiO2 sintered at different temperatures (400, 500, 600, 700 and 800 ◦C) to 20 ppm SO2 at 300 ◦C. 
+The sensors attached with 5 wt% V2O5-doped TiO2 was sensitive to SO2 at different sintering temperatures. 
+The EMF of the sensors calcined at 400, 500, 600, 700 and 800 ◦C was −70, −102, −144, −104 and −40 mV, respectively. 
+The response time of the sensor sintered at 400 ◦C was relatively long (50 s). 
+But the characteristics of the sensors calcined between 500 and 700 ◦C were much excellent than those of other temperatures. 
+And the greatest performance occurred at 600 ◦C. 
+Fig. 6 shows the SEM image of the sensing electrodes when sintered at 400, 600 and 800 ◦C. 
+From this ﬁgure, we could see that the compacting quality of the surface of the sensing electrode increased along with the increased sintering temperature, but the combing quality between NASICON and sensing electrode became bad. 
+At 600 ◦C, the compacting quality of the surface of the sensing electrode as well as the combining quality of NASICON and sensing electrode was both well. 
+However the combining quality of NASICON and sensing electrode was quite bad at 800 ◦C. 
+This could be used for explaining why the most excellent sensitivity occurred with the sensor calcined at 600 ◦C.
+The sensitivity of the sensor depended on the operation temperature, too. 
+Fig. 7 shows that the EMF of the device attached with 5 wt% V2O5-doped TiO2 sintered at 600 ◦C is perfectly linear to the logarithm of SO2 concentration, and the slopes were −8, −42, −78, −47 and −20 mV/decade at 200, 250, 300, 350 and 400 ◦C, respectively. 
+With increasing the operating temperature, the slope tended to become large. 
+At 300 ◦C, the largest value of the slope occurred, but above 300 ◦C the slope tended to become small. 
+This could arise from the consumption of SO2 when it diffused through the V2O5-doped TiO2 electrode layer at higher temperatures. 
+Also the amount of SO2 molecules, diffused though the V2O5-doped TiO2 electrode to the interface of NASICON and V2O5-doped TiO2 and adsorbed at the three-phase interface of air, V2O5-doped TiO2 and NASICON, increased along with the gradually increased operating temperature at low temperatures (<300 ◦C).
+In addition, the chemical reactions at the three-phase interface, described by the reactions (2) and (3), could be affected by the operating temperature. The occurrence of the chemical reactions needed deﬁnite activated energy. 
+At low temperatures (<300 ◦C), it did not reach the activated energy, so that the sensitivity of the sensor to SO2 increased along with the increasing temperature.
+But above 300 ◦C, the reverse diffusion and desorption of SO2 molecules exhibited became more signiﬁcant. 
+Hence the sensitivity of the sensor to SO2 decreased with the further increasing operating temperature. 
+The device attached with 5 wt% V2O5-doped TiO2 sintered at 600 ◦C gave speedy response kinetics to dilute SO2. 
+Fig. 8 shows the response and recovery transients to various concentrations of SO2 at 300 ◦C, and the 90% response time to 1–50 ppm SO2 was 25–10 s and the recovery time was 30–40 s. 
+This indicates that the solid electrolyte SO2 sensor combining NASICON with a V2O5-doped TiO2 electrode exhibits more rapid response and recovery rates. 
+In addition, the amounts of adsorbed gas molecules and reacted gas molecules increased along with the increased gas concentration, and the recovery time increased. 
+For this type of sensor, the EMF value of the sensor could recover to 90% of the initial value in 40 s when the concentration of SO2 was 50 ppm. 
+In Fig. 8, the EMF value did not recover to the initial value because of the short investigating time. 
+However, the EMF value could restore to the initial value in the situation of enough time (10 min). 
+And there were small ﬂuctuations for the EMF value of the sensor in the atmospheres of 5, 10 and 50 ppm SO2. 
+This could be due to the concentration slope of SO2 in the sensing electrode when SO2 gas molecules adsorbed on the surface and diffused in the sensing electrode or the unstable external circumstances (such as temperature and voltage). 
+The cross-sensitivities of the device attached with 5 wt% V2O5doped TiO2 sintered at 600 ◦C to other various gases, i.e. NO, NO2, CH4 CO, NH3 and CO2, were measured at 300 ◦C, and the results obtained are shown in Fig. 9. 
+The cross-sensitivities were rather small or almost negligible, indicating its excellent SO2 selectivity.
+
+For explaining the sensing behavior of the device, XPS was applied for measuring the chemical shift of the related components (e.g., Ti 2p, O 1s, V 2p and S 2p) on the surface of V2O5-doped TiO2 before (sample 1) and after (sample 2) exposure to 100 ppm SO2 at 300 ◦C, as shown in Fig. 10. 
+As a result, it was found that the chemical binding energies of Ti 2p, O 1s and V 2p did not change before and after exposure to 100 ppm SO2, whereas the strongest peak of S 2p of sample 2 appeared at 169 eV which accords with 2−. 
+This suggests that SO2 reacted with the adsorbed or that of SO4 lattice oxygen of V2O5-doped TiO2 and was oxidized to S6+. 
+In other words, as a catalyst, V2O5-doped TiO2 could enhance the oxidation of SO2 at 300 ◦C.
+As described above, the sensor using NASICON and V2O5-doped TiO2 electrode gave a good linear relationship between EMF and the logarithm of the concentration of SO2 as switching on dilute SO2. 
+Lu et al. have established a sensing mechanism involving mixed potentials for a group of sensors combining stabilized zirconia with oxide electrodes, such as NOx, H2 and CO sensors, Therefore, a similar sensing mechanism would be attempted to apply to the present sensors.
+The sensor could be expressed with the following electrochemical cell:
+According to the result of XPS analysis, we consider that a couple of electrochemical reactions (2) and (3) happen at the sensing electrode simultaneously.
+These two electrochemical reactions construct a local cell at the sensing electrode, and when the rates of the reactions were equal to each other, they arrive at a dynamic equilibrium, and the electrode potential at the sensing electrode was the mixed potential. 
+In addition, we would deal with the local cell more quantitatively, and the electric current densities of the oxidation and reduction reactions (2) and (3) can be represented by the following equations: 
+E is the electrode potential, F the Faraday constant, R the gas constant and T the temperature. E0, i0 and  are the electrode potential at equilibrium, the exchange current density, and the transfer coefﬁcient, respectively, for reactions (4) and (5) at the equilibrium state. 
+The absolute values of the above electric current densities were same, but the directions were opposite. 
+So, we can express the equilibrium state with the following equation: 
+We supposed the exchange current densities to obey the following kinetic equations, respectively: 
+here, C represents the concentration of SO2 or O2, and B1, B2, m and n are the constants. 
+Let us combine Eqs. (4)–(8), the following equation could be attained: 
+EM is the electrode potential of the sensing electrode at the equilibrium state, so it is called a mixed potential. 
+The EMF was the initial value in air as the concentration of O2 and SO2 was ﬁxed. 
+From Eqs. (9) and (10), it could be seen that the initial value was concerned with electrode potential at equilibrium, exchange current density, transfer coefﬁcient, and so on. 
+And these parameters were inﬂuenced by adulterating proportion, sintering temperature and operating temperature. 
+Therefore, the initial value of the sensor could be different at different adulterating proportion, sintering temperature and operating temperature. 
+Also a positive or negative initial value of the sensor could appear. 
+In this experiment, the absolute value of the third part of Eq. (9) is larger than that of the ﬁrst two parts at lower sintering temperatures (<700 ◦C) or much rare adulterating of V2O5. 
+Therefore, the initial value of EMF is negative. However, the situation is opposite at higher sintering temperature or larger adulterating of V2O5. 
+When the concentration of oxygen is ﬁxed, the mixed potential changes linearly with the logarithm of the concentration of SO2, as described in the following equation: 
+Eq. (12) could explain the experimental result shown in Fig. 7 very well, but some additional tests for the present sensing mechanism need to be carried out, such as the relation between EMF and O2 concentration at ﬁxed SO2 concentration and the measurement of the polarization curves.
+
+Similar reactions (2) and (3) described above occur at the reference electrode possibly. 
+But the EMF is smaller than that of the sensing electrode. 
+So, the electrochemical reactions occurring at the sensing electrode are dominant to those at the reference electrode.
+
+A compact solid electrolyte sensor using a thick ﬁlm of NASICON and 5 wt% V2O5-doped TiO2 electrode sintered at 600 ◦C has been examined to show good sensing properties to dilute SO2. 
+The slope between the EMF and the logarithm of SO2 concentration was −78 mV/decade, and the 90% response time to 1–50 ppm SO2 was about 25–10 s, and the recovery time was about 30–40 s. 
+In addition, the sensor showed excellent selectivity to SO2 against disturbing gases, and the operating temperature of the sensor was 300 ◦C. XPS analysis of the V2O5-doped TiO2 exposed to SO2 at 300 ◦C testiﬁed the existence of S6+ on the V2O5-doped TiO2, indicating that the chemical oxidation or electrochemical oxidation of SO2 took place in the thin layer of V2O5-doped TiO2 or the three-phase interface of NASICON, oxide electrode and SO2 (and air), respectively. 
+Mixed potential theory could explain the sensing behavior of the sensor. 
+However, further study on the sensing mechanism is yet to be done for understanding the electrochemical behavior at the sensing electrode very well.
+

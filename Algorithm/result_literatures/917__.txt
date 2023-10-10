@@ -1,0 +1,76 @@
+A rechargeable hybrid aqueous battery (ReHAB) containing NASICON-type M3V2(PO4)3 (M=Li, Na)as the cathodes and Zinc metal as the anode, working in Li2SO4-ZnSO4 aqueous electrolyte, has beenstudied.
+
+Both of Li3V2(PO4)3 and Na3V2(PO4)3 cathodes can be reversibly charge/discharge with theinitial discharge capacity of 128mAh g−1 and 96mAh g−1 at 0.2C, respectively, with high up to 84% ofcapacity retention ratio after 200 cycles.
+
+The electrochemical assisted ex-XRD confirm that Li3V2(PO4)3and Na3V2(PO4)3 are relative stable in aqueous electrolyte, and Na3V2(PO4)3 showed more complicatedelectrochemical mechanism due to the co-insertion of Li+ and Na+.
+
+The effect of pH of aqueouselectrolyte and the dendrite of Zn on the cycling performance of as designed MVP/Zn ReHABs wereinvestigated, and weak acidic aqueous electrolyte with pH around 4.0–4.5 was optimized.
+
+The floatcurrent test confirmed that the designed batteries are stable in aqueous electrolytes.
+
+The MVP//ZnReHABs could be a potential candidate for future rechargeable aqueous battery due to their high safety,fast dynamic speed and adaptable electrochemical window.
+
+Moreover, this hybrid battery broadensthe scope of battery material research from single-ion-involving to double-ions -involving rechargeablebatteries.
+
+Energy storage and transition systems, including Li//air1,2, Mg/air3, metal (V, Sn, Ni)//air4, Zn//air5, Tin/Air6,aqueous rechargeable lithium/sodium batteries1,7–10, redox flow batteries11, Li//I212, Li//sulphur13, and Li//Se14,Fuel cell15,16, capacitor17,18, have been developed rapidly to satisfy the various energy demands of electronics andelectric automobiles.
+
+Recently, based on aqueous rechargeable battery -rechargeable hybrid aqueous batteries(ReHABs)- have been widely developed6–9 on account of their safety, environmental friendliness, and low cost.
+
+ReHAB is indeed a novel power system, mainly because of its separated electrochemical mechanism in cathode and anode.
+
+In most aqueous rechargeable batteries, only one type ion (Li+) involved in the electrochemicalreactions traveling back and forth between electrodes, such as the well-known “rocking chair” mechanism inlithium-ion batteries.
+
+In ReHABs, lithium ions are intercalated/extraction in the composite cathode (second-orderelectrode), while zinc ions are deposited/dissolved from the zinc metal anode (first-order electrode).
+
+This novelbattery broadens the scope of battery research from single-ion-involving to double-ions-involving rechargeablebatteries.
+
+Zinc is abundant, low cost and environmental friendly in the nature with a high theoretical capacity(820mAhg−1) as anode.
+
+ An adaptable negative potential (−0.762V vs.SHE)19, enable it to be constructed withother cathodes in aqueous electrolytes.
+
+Several rechargeable zinc batteries, including nickel//zinc battery20, zinc//air battery21 and Zn//Na0.95MnO27, Zn//LiMn2O48,22 have been investigated in aqueous systems.
+
+However, there are not many choices of cathodes using in ReHABs for the limitation of their potentials vs.Zn2+/Zn.
+
+Contradictorily, too low cathode potential also reduces the power density of cathodes, while too highpotential will destroy the aqueous electrolyte, as well as decomposition of water.
+
+Totally, the cathodes whichcan be used in aqueous electrolyte required aqueous stability, adaptable charge/discharge potential plateauscompared with that of decomposition of water.
+
+Although the 4 V materials such as LiMn2O423,24, LiCoO225 orLiNi1/3Co1/3Mn1/3O226 were introduced into aqueous electrolyte batteries, their potential plateaus in aqueousmedia are close to water decomposition potential.
+
+Therefore, those cathodes with potential plateaus below 4 Vshow more promising in aqueous electrolyte batteries.
+
+Only few cathodes are more possible in Li-containingReHABs with possible good cycling performance in aqueous electrolytes, including Li3V2(PO4)3 (LVP)27–30,Na3V2(PO4)3 (NVP)31–34, LiFePO410, and MnO235,36.The monoclinic Li3V2(PO4)3 and rhombohedral Na3V2(PO4)3 have attracted considerable interest as promising cathode candidate in non-aqueous lithium-ion batteries due to their thermodynamically stable structure, highcell-voltage and fairish theoretical specific capacity (LVP: 191mAh g−1for extraction of three Li+ ions between3.0–4.6V, 133 mAh g−1for extraction of two Li+ ions between 3.0–4.2V vs.
+
+Li+/Li; NVP: theoretical dischargecapacity with 118mAhg−1, with two Na+ ions being completely extracted up to 4.0V versus Na+/Na).
+
+The(PO4)3− polyanions facilitate to form a three dimensional pathway for Li+ insertion /extraction with a very highLi ion diffusion coefficient (from 10−9to 10−10 cm2/s).
+
+As cathodes of hybrid ion batteries, Li2NaV2(PO4)3(LNVP)were also investigated in organic lithium ion electrolytes37,38.These two phosphate salts, LVP and NVP, haveobvious different insertion/extraction mechanisms in organic electrolyte, including the inserted/extracted lithium ion number per unit formula and plateaus voltages as well structure stability, but their behaviour in aqueouselectrolyte seldom is evaluated.
+
+In this work, we studied these cathodes to expand their application in aqueouselectrolyte batteries.
+
+By calculation, the discharge plateau voltages (vs. Zn2+/Zn) of LVP should be at 1.25 V, 1.35 V, 1.75 V and2.2V.
+
+ Detailedly, the plateau at 1.25V and 1.35V is correspond to the insertion of one lithium ion, and the plateau at 1.75V is for the insertion of the second lithium ion, which are lower than the oxygen evolution reaction(OER) of water.
+
+ The plateau voltage around 2.2V is higher than that of OER, therefore the third lithium of LVP isimpossible to be extracted in aqueous electrolyte.
+
+The theoretical energy density of LVP//Zn and NVP//Zn batteries calculated by the total weight of cathodes and Zn anode is about 164Wh kg−1and 76Wh kg−1, respectively.
+
+Therefore, the electrolyte stability in ReHABs with LVP cathode should be higher than that of ReHABs containingLiMn2O4 (2.05V vs.Zn2+/Zn), considering that the working potential of LiMn2O4 is closer to the OER of aqueouselectrolyte.
+
+ LVP also has higher charge/discharge plateaus than that of LiFePO4(1.45V vs.Zn2+/Zn), therefore,the power density should be optimism.
+
+ The discharge plateau voltages (vs. Zn2+/Zn) of NVP should be at 1.35V,and one Na+ ion can be extracted.
+
+The fast ion transfer and reversible charge/discharge performance of MVP inorganic encourage us to study its applications in aqueous electrolytes.
+
+Like most cathodes in organic or aqueouselectrolyte, MVP cathodes also face some challenges, such as structure stable ability and cycling performancewhen they are introduced into a new system, which attract our interest to study.
+
+Inspired by this fact, we developed a new binary ion-containing ReHAB with M3V2(PO4)3 (MVP, M=Li, Na)and zinc as cathode and anode respectively, operated in an aqueous electrolyte containing Zn2+ and Li+ (Na+)(Scheme 1).
+
+ Their electrochemical performance and dynamic reaction mechanism are investigated.
+
+As well, themain effect of pH and concentration of electrolyte, float charge current and Zn dendrite on the electrochemicalperformance were evaluated.
+

@@ -1,0 +1,46 @@
+In the prospect to study the heterocyclic thiazolidin-2-thione and its derivatives variously substituted (see figurebelow), our investigation in the solid state will becompleted by AM1 and ab-initio calculations.
+.
+Both of the two theoretical methods leads us topreferential conformations and the comparison betweenthe most stable molecular conformations of the differentmolecules investigated, helps us to estimate the "weight"of each effect in the real structure of the compound.
+Ourinterest has essentially been carried on the conformationalbehaviour of the heterocycle th-2-th studied and moreexactly on theCsp3-Csp3 part which is the soft part of cycle.
+state shows the flexibility of the heterocyclepentagonal form S1C2N3C4C5 and reveals a relationshipbetween the flexibility of the cycle which is defined by thetwisting angle S1C5C4N3 and the distance C4-C5. 
+Thequasi-planar and planar conformations are associatedtogether with very short distances C4-C5 (up to 1.40 Å).
+The study of the heterocycle by the semi-empiricalmethods  shows that the evolution towards the planarstate entails a stabilization of the molecule by covering ofs and p orbitals and particularly in part C4-C5.
+At the end, it’s possible to envisage that the combinationof steric effects and electronic effects could lead to anefficient model in the treatment of the heterocyclicsystems.
+properties (due to presence of benzopyrone moiety) andtherefore, are used as high quantum yield laser dyes (e.g.coumarin 4, coumarin 120, etc).
+Their frequent use as amodel compounds in photophysical studies prompted us tolook for their polymorphs.
+Crystallization experiments involved recrystallizationfrom polar and non-polar solvents and their mixtures, cocrystallizationwith 5 % or equimolar amount of anothercoumarin derivative.
+We also investigated the influence ofthe crystallization solvent and additives on crystal habit.
+The transition behavior of the crystalline forms ofcoumarin 120, its melting point, and enthalpy wereinvestigated by DSC, FTIR and X-ray crystallography.
+These experiments allowed to obtain a new crystallineform of 7-amino-4,methyl-coumarin (coumarin 120) withunprecedented crystal structure, containing two types ofmolecules – nonpolar and polar.
+These crystals exhibitalso a new type of polymorphism – where molecules oftwo different electronic structures co-exist in the samecrystal.
+Both types of molecules are bound by the samehydrogen bonding pattern, similar tu that found in firstpolymorph .
+Although, polar molecules are boundslightly tighter (m.p.of a new form higher by 3 oC) duringmelting new polymorph transforms irreversibly into thefirst form.
+These studies confirm that fluorescencequenching observed for coumarin 120 is due to thepresence of equilibrium of various electronic structures insolution.
+Titanium phosphates are currently of interest fortheir chemical and physical properties as catalysts, nonlinearmaterials and ionic conductors.
+In this context thenew titanium phosphate Na3CaTi(PO4)3 has beensynthesized and structurally characterized.
+Singlecrystals were obtained by melting a mixture of Na2CO3,CaCO3, TiO2 and (NH4)2HPO4 in stoichiometricproportion, at 900°C, followed by slow cooling(3°C/hr).
+Na3CaTi(PO4)3 crystallizes in the space group R32with a = 8.985(1)Å, c = 21.920(3)Å, V = 1532.6(3)Å3,and Z = 6. 
+The refinement factors are R1 = 0.0365 andwR2 = 0.0944. The structure of Na3CaTi(PO4)3 belongsto the Nasicon-type family.
+It consists of a threedimensional network of PO4 tetrahedra and AO6 (A =Ti, Ca) octahedra sharing corners.
+A 2-2 ordereddistribution of titanium and calcium occurs along the caxis giving rise to two different units [Ti2(PO4)3] and[Ca2(PO4)3].
+Within this covalent framework exist twoadditional cationic sites usually labeled M1 and M2where the sodium ions are located.
+The M1 site is an antiprism sharing faces with two AO6octahedra.
+The M2 site is a large cage bounded by 8oxygens.
+Tris-dipicolinate lanthanide complex, Na3.[Ln(DPA)3],where DPA stands for pyridine-2,6 dicarboxylate, wasused to obtain derivative crystals of hen egg-whitelysozyme (HEWL).
+Derivative crystals were prepared byco-crystallization using conditions close to those leadingto the native tetragonal HEWL crystals by adding in thecrystallization drops solutions of Ce or Lu complexes to afinal concentration of 50-100 mM.
+The crystals, belongingto a new monoclinic form of lysozyme, space group C2,were diffracting to a resolution never achieved withlysozyme crystals.
+Diffraction data for the Ce and Luderivative crystals were recorded to resolutions of 0.80and 0.85 Å, respectively.
+Taking advantage of theanomalous signal of Lu (f'' = 7.8 e- at λ = 0.85 Å),experimental phases were determined by the SAD methodusing the program SHARP .
+Most of the atoms in thestructure could be individually observed in theexperimental electron-density map, similar in quality tothe final 2Fo-Fc map.data using the program SHELX .
+Among 5 sites foundfor the lanthanide complexes, 2 sites turned out to bealmost fully occupied.
+The tris-dipicolinate lanthanidecomplexes, located at the interface between proteinmolecules are involved in the crystal packing.
+Stronginteractions between each lanthanide complex anddifferent lysozyme molecules strengthen the packing thusenhancing the diffracting power of the crystals.
+In the past, plaster obtained by calcination of gypsum, hasbeen used as biomaterial.
+However, there has been limitedresearch on the Moroccan gypsum, although the Moroccangypsum reserves are very significant.
+Our study respectively refers to a physicochemicalcharacterization of gypsum samples from three differentareas of Morocco: Midelte (GMB), Immentanoute (GIB)and Safi (GRST).
+These samples were compared withmedical plaster (PMC).
+The mineralogy and chemistry of all samples werestudied by X-ray Diffraction (XRD), IR X-rayfluorescence,.
+The morphology of gypsumwas studied by Scanning Electron Microscopy (SEM).
+The chemical analyses revealed that the three naturalgypsum samples GMB, GIB, GRST and PMC, are madeup mainly by calcium sulphate and calcium oxide .
+Thesenatural samples are characterized by a high puritycomparable to sample PMC.
+SiO2, Al2O3 and MgO, arepresent in very small abundances, in miuneral impuritiessuch as traces of clays and carbonates as was confirmedby XRD on bulk samples.

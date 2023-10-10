@@ -1,0 +1,80 @@
+The phosphates Na5M(PO4)3 (M ¼ Ti, Zr, Hf) of NZP type structure were synthesized by solid-state procedure and precipitating methods.
+Their thermal behavior and heat capacity were studied in the range 7e650 K.
+Solid-to-solid phase transitions were observed for the phosphates Na5Zr(PO4)3 (406.9 K) and Na5Hf(PO4)3 (516.5 K).
+The crystal structure of a novel phosphate, Na5Hf(PO4)3, at 298.15 K was reﬁned by the Rietveld method.
+The basis of the structure is the framework built up of corner-sharing NaO6and HfO6-octahedra (with ordered distribution of Na and Hf fragments) and PO4-tetrahedra.
+Cavities in the framework are occupied mainly by Na cations.
+Structure and phase formation data on the phosphates of alkali and group IV d-transition metals are generalized.
+
+Phosphates of the NaZr2(PO4)3 (NZP) type structure are of interest as constructional and functional ceramics due to their stability to the extreme environmental conditions (high temperature and pressure, aggressive media, radiation), nearzero thermal expansion, high ionic conductivity, and catalytic activity .
+The basis of their structure is three-dimensional framework {[L2(PO4)3 ]p  }3N (L is octahedral cation) which may include from 0 to 4 cations in its cavities .
+It is known that double phosphates AM2(PO4)3 (A ¼ Li, Na, K, Rb, Cs; M ¼ Ti, Zr, Hf) have NZP type structure, some of them also have other polymorphs .
+The phosphates containing different alkali elements in the framework cavities 0M2(PO4)3 have been described by our group.
+A1 xAx With systematic investigation of NZP substances, it was of interest to study the phosphates in which framework positions L are occupied by both alkali metal and group IV d-transition metal.
+Herein, synthesis, crystal structure, thermal behavior and generalization of structure and phase formation data on sodium-containing phosphates Na5M(PO4)3 (M ¼ Ti, Zr, Hf) are reported.
+The compounds Na5M(PO4)3 (M ¼ Ti, Hf) were synthesized by powder technique.
+All used reactants were provided by REACHEM.
+Mixtures of NaCl (99.8%), TiO2 (99.9%) or HfO2 (99.9%), and NH4H2PO4 (99.5%) in the stoichiometric proportions were heated in unconﬁned air access at 473 K for 10e12 h, 873 and 1023 K for 24 h.
+Compound Na5Zr(PO4)3 was synthesized by precipitating method.
+$8H2O (98%) and NH4H2PO4 Starting reagents, NaCl, ZrOCl2 were previously dissolved in distilled water.
+The zirconium concentration in the solution taken for synthesis was conﬁrmed gravimetrically .
+During synthesis, the solution of NH4H2PO4 taken in accordance with the stoichiometry of the phosphate was dropped into the solution containing NaCl and ZrOCl2 under stirring.
+The mixture was dried at 353 K and thermally treated at 873 and 1073 K with 24 h plateaus at each step.
+All the thermal treatment stages were alternated with careful grinding.
+The obtained samples were colorless crystalline powders.
+Their homogeneity was conﬁrmed by scanning electron microscopy on a CamScan MV-2300 device with a Link INCA ENERGY 200C energy-dispersion detector.
+The presence of the elements, Na, Ti (Zr or Hf), and P, was veriﬁed.
+The chemical composition of the samples was determined by chemical analysis.
+Known masses of the samples were dissolved in the HF aqueous solution.
+The sodium mass contents were determined by atomic absorption method on a PerkineElmer 603 device.
+The zirconium (titanium, hafnium) mass contents were determined gravimetrically .
+The phosphorus mass contents were determined colorimetrically on an SF-46 spectrophotometer according to the method employing solutions of ammonia vanadate and ammonia molybdate.
+Phase purity of the phosphates Na5M(PO4)3 (M ¼ Ti, Zr, Hf) was established by powder X-ray diffraction (XRD) on a STOE STADI MP powder diffractometer equipped with a scanning position sensitive detector and curved Ge(111) primary monochromator using Cu Ka1 radiation (l ¼ 1.54056 A˚ ).
+XRD patterns of the compounds were indicated in the space group R32. Unit-cell parameters of the compounds were determined at room temperature from the corresponding diffraction patterns indexed within range 10e50 in 2q (Table 1).
+XRD data forthe structure reﬁnement ofthe novel phosphate Na5Hf(PO4)3 were collected in the angular range 8e117 in 2q with a step size of 0.02 and a counting time of 600 s for each step.
+The structure reﬁnement was carried out by a Rietveld analysis using the program WYRIET, Version 3.3 .
+The shape of the reﬂections was modeled with a Pearson VII function.
+Ionic scattering curves were used for all elements.
+and M4þFor the initial fractional coordinates we used those of Na5Ti(PO4)3 (, model I) and Na5Zr(PO4)3 ([11], model II).
+In both models octahedrally coordinated framework positions (6c) are ordered occupied by Na or Zr4þ ) cations.
+The models differ by centering or off-centering of M4þ in their framework positions: they occupy one type of position in Na5Ti(PO4)3 structure and distributed between two closely situated framework positions in Na5Zr(PO4)3 structure.
+In both models framework cavities are occupied by Na (with a small part of Zr4þ cations in Na5Zr(PO4)3 structure).
+There are also differences in Na distribution in the cavities of these compounds.
+On carrying out structure investigations, Na and Hf4þsite occupancies were reﬁned.
+The experimental conditions and results of reﬁnements in both models are presented in Table 2, the ﬁnal fractional coordinates and isotropic atomic displacement parameters are listed in Tables 3 and 4, and the selected interatomic distances in Tables 5 and 6. 
+As a result, in both reﬁned models we have obtained satisfactory values of all R factors.
+Calculated in both models bond lengths and angles in structure-forming polyhedra were within a typical range in other phosphates of NZP structure .
+Obtained for all atoms B parameters are positive and reasonable.
+So, the results of structural reﬁnement do not allow choosing one of these models.
+An example for a Rietveld plot for model II is shown in Fig.1.
+ It is seen that the observed and calculated proﬁles are in good agreement.
+The thermal behavior and heat capacity of the samples Na5M(PO4)3 (M ¼ Ti, Zr, Hf) in the ranges 7e350 K and 330e650 K were measured with a BCT-3 low-temperature adiabatic vacuum calorimeter and an automated dynamic calorimeter (ADCTTB) , respectively.
+The apparatus and the measurement procedure allowed us to obtain the C0 values of the substances in the crystalline state with an uncertainty of not more than 2% from 7 to 10 K, 0.5% between 10 and 40 K, and within 0.2% in the range from 40 to 350 K, and about 1.5% between 350 and 650 K.
+The uncertainty of the transition temperature determination was within 0.3 K.
+XRD data indicated thatthe phosphates Na5M(PO4)3 (M ¼ Ti, Zr, Hf) crystallized in NZP type structure.
+The unit-cell parameters of the Ti phosphate were signiﬁcantly less than those for Zr and Hf phosphates (Table 1).
+The fact may be explained by the inﬂuence of ionic radii of the framework-forming cations M4þThe thermal behavior and the heat capacity of the phosphates were studied within the interval 7e650 K (Fig.2).
+The heat capacity of Na5Ti(PO4)3 monotonically increases with the increase of temperature and varies a little above effects corresponding 500 K.
+The absence of the C0 to polymorphic transitions over the temperature range studied proves the stability of crystalline Na5Ti(PO4)3 structure.
+Solid-to-solid phase transitions were observed on the heat capacity curves of Na5Zr(PO4)3 (406.9 K) and Na5Hf(PO4)3 (516.5 K).
+According to the literature data, isostructural transition of Na5Zr(PO4)3 corresponds to Na occupationsites(between itsin cavities) and orderinge transfer disordering processes of cations Zr4þ in the framework of the structure with changing temperature .
+The same structural type of Zr and Hf phosphates, and closeness of Zr4þ and Hf4þ radii let us suppose the observed phase transition for Na5Hf(PO4)3 to be connected with a centering of off-centered cations Hf4þ in octahedral sites (like in the Na5Zr(PO4)3 structure) and changing of Na occupation in their positions.
+The absence of polymorphic transition for Ti phosphate may be explained by the absence of off-centering of cations Ti4 and limited occupation transfer between sodium sites in the unit cell of less volume than Zrand Hf-containing substances.
+So it seems reasonable to suppose ordering of cations Hf4þ in the structure of Na5Hf(PO4)3 at room temperature (according to model II) and changing of their coordinates and occupancies at the temperature of phase transition.
+Structure of Na5Hf(PO4)3 due to model II is shown in Fig.3. 
+The basis of the structure is the framework built up of corner-sharing NaO6and HfO6-octahedra and PO4-tetrahedra.
+There are two closely situated and statistically occupied positions of H cations (Hf1 and Hf3) within their octahedra.
+Two octahedra and three tetrahedra fragments form ribbons along c axis of the unit cell.
+Na-containing fragments alternate with Hf-containing fragments in these ribbons.
+
+These ﬁndings are in accordance with the results obtained from the crystal structure analyses of previously investigated phosphates.
+Marked differences between values of interatomic distances Hf2eO may be explained by location of Hf2 sites in the cavities of the structure.
+The average PeO distances range between 1.495 and 1.589 A˚ .
+The average Na1eO and Na2eO distances are typical for octahedrally coordinated Na ions.
+Averageand Hf4The electroneutrality rule allows to write the general formula of the double phosphates of alkali and group IV dtransition metals to be AnM2.25 0.25n(PO4)3, where n is discrete values between 0 and 9. 
+They crystallize in the NZP type structure with rhombohedral symmetry .
+Cations Zr4þ form frameworks of the substances (together with PO4-tetrahedra) and occupy part of their cavities.
+The structural frameworks of phosphates AM2(PO4)3 (n ¼ 1)  are also formed by cations Ti4þ , Zr4þ , and alkali metals occupy the framework cavities.
+There are literature data on phosphates A3M1.5(PO4)3 (n ¼ 3) [18e20], but these compounds are not characterized by framework structure.
+The frameworks of NZP phosphates Na5M(PO4)3 (n ¼ 5) formed by Na and M4þ polyhedra simultaneously are possible only in the case the composition Na:M ¼ 1:1 which allows to realize of ordered distribution of Naand M-containing fragments of octahedra and PO4-tetrahedra.
+Such distribution may bethe majority of stability of NZP framework with the large number of cation positions is a result of optimum ﬁlling of the crystal space with the octahedra and tetrahedra and also uniformly distributed framework cavities.

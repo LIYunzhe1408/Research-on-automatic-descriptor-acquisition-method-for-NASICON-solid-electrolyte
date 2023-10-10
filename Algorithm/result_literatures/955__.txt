@@ -1,0 +1,80 @@
+NASICON-type structured NaTi2(PO4)3 (NTP) has attracted wide attention as thepromising anode material for sodium-ion batteries (SIBs), whereas, it still suffersfrom poor rate capability and cycle stability due to the low electronic conductivity.
+
+Herein, the architecture, NTP nanoparticles embedded in the mesoporous carbonmatrix, is designed and realized by a facile sol-gel method.
+
+Different from thecommonly employed potentials of 3.0 - 1.5 V, the Na+storage performance isexamined in a low operation-voltages between 3.0 and 0.01 V.
+
+The electrodedemonstrates an improved capacity of 208 mAh g-1, one of the highest capacities inthe state-of-the-art titanium-based anode materials.
+
+Besides the high working plateauat 2.1 V, another new one is observed at around 0.4 V for the first time due to furtherreduction of Ti3+ into Ti2+.
+
+Remarkably, the anode exhibits superior rate capability,whose capacity and corresponding capacity retention reach 56 mAh g-1 and 68%,respectively, over 10000 cycles under the high current density of 20 C-rate (4 A g-1).
+
+Worthy to note that the electrode shows negligible capacity loss as the currentdensities increasing from 50 to 100 C, which enables NTP@C nanocomposite as theprospective anode of SIBs with ultrahigh power density.
+
+With raising concerns on the global fossil fuel consumption, the development ofrenewable energies such as solar, wind and tidal energies is widely considered as theanswer to the mounting environmental and energy crisis.
+
+Lithium-ion batteries (LIBs),the most popular energy storage system (ESS), are successfully utilized in portableelectronic devices in the past decades.
+
+ However, taking into account its high cost,uneven distribution of lithium resource and safety issues related to the dendriteformation, research on the novel rechargeable batteries or electrode materials plays acritical role in meeting the great demands for the large-scale EES.
+
+In recent years, room-temperature sodium-ion batteries (SIBs) have receivedmuch interest due to the abundant resource of sodium in the earth crust and sea, andthe similar intercalation chemistry as LIBs.
+
+ In comparison with the boom in thestudies on the cathode materials, searching for suitable anode materials for SIBsseems especially urgent.
+
+Though hard carbon shows good Na+storage performance,its low working voltage below 0.1 V is likely to lead to the formation of sodiumdendrite and therefore causes safety issues.
+
+Analogous to the (de)alloyingmechanism of LIBs, Na+is also capable of forming alloys with Sb14 and Sn15-16exhibiting high specific capacities.
+
+However, the volume expansion during(de)alloying processes hinders their potential applications.
+
+On these grounds,searching for novel anode materials with negligible volume expansion is highlydesired.
+
+Currently, a series of titanium-based anodes on the basis of (de)intercalationmechanism attracted much interest by taking advantage of the Ti4+/Ti3+ redox, such asNa2Ti3O7,17 NaTiO218 and Na2Ti6O13.19 In particular, the P-2 type Na2/3Co1/3Ti2/3O2demonstrates outstanding cycle stability with ca.85% capacity retention for 3000cycles and good rate capability of ca. 41% capacity retention at 10 C rate.
+
+ Anotherexciting example is graphene-coupled TiO2 sandwich-like hybrid, which can exhibitultra-long cycle life over 4300 cycles with high reversible capacity of 120 mA h g-1.Also, the hybrid shows a specific capacity of above 90 mA h g-1 at the current densityof 12 A g-1 due to the enhanced pseudocapacitive Na+storage process.
+
+NASICON-type NaTi2(PO4)3 (hereafter donated as NTP) is built up fromisolated [TiO6] octahedra and [PO4] tetrahedra interlinked by corner sharing, asdisplayed in the inset of Fig.
+
+The established three-dimensional open frameworkgives rise to plenty of interstices, capable of fast inserting and extracting of Na+withlittle crystallographic lattice strain.
+
+ NTP, however, usually suffers from the lowelectronic conductivity due to its insulating property.
+
+To overcome this issue, variouscarbonaceous materials, such as porous carbon,26 graphene27 and CMK-3,28 have beenutilized as the electron transfer network enabling good rate capability and long-termcycle life.
+
+Encouragingly, NTP demonstrates dual functions as the anode material inboth aqueous and organic electrolytes.
+
+When combining with the cathodes likeNaMnO2,29 Na2CuFe(CN)630 and Na0.44MnO2,23 the aqueous batteries demonstratedhigh energy density and good cycle stability, particularly attractive for stationaryenergy storage applications.
+
+NTP could also exhibit superior Na+ storage performancein organic electrolyte with a well-defined working plateau at around 2.1 V vs.Na+/Na.
+
+High working potential of 3 - 1.5 V has been generally accepted so far and capacitybelow 130 mA h g-1 can be obtained at the current density of 0.1 C,24-28 whereas, it islower than the value of widely studied titanium oxides.
+
+Thus, sensibly lower theoperation voltage would be needed to enhance NTP’s Na ion capacity.
+
+Worthy to notethat similar strategy has been successfully applied in our previous study onNa3V2(PO4)3/C nanocomposite, which delivers an improved specific capacity of 175mAh g-1 when extending the low cut-off voltage from 1.5 to 0.01 V.
+
+Besides thesuperior rate capability and long-term cycle stability, a novel working plateau at 0.28V is proposed owing to further reduction of vanadium.
+
+In this work, a facile sol-gel method was used to prepare NTP@Cnanocomposite.
+
+Highly crystalline NTP particles were firstly coated by a densecarbon layer, and then embedded inside a mesoporous carbon matrix.
+
+Besides thereported working plateau at 2.1 V, another new one was observed at round 0.4 V forthe first time, owing to the Ti3+/Ti2+ redox.
+
+Inspired by the high reversible capacity(ca. 210 mA h g-1 at 0.1 C), remarkable rate capability (170 mA h g-1 at 1 C, 115 mAh g-1 at 10 C, 66 mA h g-1 at 50 C and 50 mA h g-1 at 100 C), and ultralong cycle life(approximately 68% capacity retention over 10000 cycles), NTP@C nanocompositewas extremely attractive as the anode material for SIBs.
+
+NaTi2(PO4)3@C nanocomposite was successfully synthesized by the sol-gelmethod.
+
+Carbon coated NTP nanoparticles were found to be embedded in themesoporous carbon network, which could not only improve the electronicconductivity of the composite electrode, but also benefit the electrolyte wetting duringcycling.
+
+The electrochemical properties of NTP@C nanocomposite in the sodium halfcell were tested in the operation voltage of 3-0.01 V for the first time.
+
+Besides thereported voltage at 2.1 V, another working plateau appeared at round 0.4 V owing tothe further reduction of Ti3+ into Ti2+.
+
+The electrode also demonstrated superior ratecapability (high capacity of 82 mA h g-1 under the high current density of 20 C-rate)and ultralong cycle life (capacity retention of 68% over 10000 cycles).
+
+Moreover,NTP@C nanocomposite showed negligible capacity loss when increasing the currentrate from 50 C to 100 C, which could be attributed to the contribution ofpseudocapacitance.
+
+Thanks to the high reversible capacity, remarkable rate capabilityand ultralong cycle life, NTP@C nanocomposite was considered as the promisinganode material for SIBs.
+

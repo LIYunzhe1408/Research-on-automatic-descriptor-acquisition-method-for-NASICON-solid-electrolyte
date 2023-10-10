@@ -1,0 +1,85 @@
+Zinc-ion batteries are considered as potential large-scale renewable energystorage devices due to low redox potential, low cost, large capacity, high electricconductivity, nontoxicity and easy processing of zinc metal.
+
+However, thedevelopment of cathode materials for zinc-ion batteries to date has been mainlylimited to tunnel manganese oxides and Prussian blue analogues.
+
+Here we have firstlydeveloped NASICON structured Na3V2(PO4)3 as cathode material for Zn-ion batteries.
+
+To compensate the low conductivity, graphene-like carbon wrapped Na3V2(PO4)3nanoparticles are fabricated.
+
+With Na3V2(PO4)3/C as cathode, Zn metal as bothcounter and reference electrodes, and 0.5 mol L-1Zn(CH3COO)2 solution aselectrolyte, the aqueous Zn-ion battery delivers a reversible capacity of 97 mAh g-1at0.5 C and retains 74% capacity after 100 cycles.
+
+Meanwhile, the battery can becharged and discharged at high rate up to 10 C.
+
+The cyclic voltammogram analysisshows that the Zn-ion storage in Na3V2(PO4)3 is a diffusion-controlled kinetic process.
+
+A mechanism of Zn ion occupancy variation during cycling is proposed.
+
+Our resultsprovide an example for understanding and designing the intercalation process ofdivalent metal ions in NASICON structured cathode for new type rechargeabledivalent metal ion batteries.
+
+With increasing stress on environmental pollution and energy shortage, pursuitfor new energy storage technologies with high performance, safety andeco-friendliness are becoming more and more urgent [1-3].
+
+In recent years, therechargeable batteries based on multivalent metal anodes have received much interest,such as Zn, Mg, Al, etc.
+
+These metal-based anodes show very high energy density (Zn:5851 mAh mL-1; Mg: 3833 mAh mL-1; Al: 8046 mAh mL-1) [4-6], among which Znanode is more suitable for practical application in aqueous system due to higher redoxpotential of -0.78 V vs.
+
+ standard hydrogen electrode (SHE).
+
+Considering its low redoxpotential, low cost, large capacity, high electric conductivity, nontoxicity and easyprocessing, zinc metal is an ideal anode to develop high energy density aqueoussystem batteries, i.e., Zn-ion batteries (ZIBs).
+
+Up to now, only a few cathode materials have been reported as intercalation hostsfor divalent Zn2+ ions.
+
+Tunnel-type manganese oxides have been mostly investigated[7-13].
+
+Kang and coworkers [7] have explored α-, β-, γ-, and δ-types MnO2 withdifferent tunnel structures as intercalation hosts for Zn2+, and found that α-type MnO2with 2×2 tunnel exhibits excellent electrochemical performance.
+
+
+observed a reversible phase transition of α-MnO2 from tunneled to layeredpolymorphs during charge/discharge process, but the repeated phase transitions leadto an excessive structural stress that may result in the gradual conversion toamorphous phase and hence capacity decay at high rates.
+
+Recently, a 3×3 tunneltodorokite-type MnO2 with improved cyclic stability were reported [10].
+
+Theintercalation mechanisms of Zn2+ into spinel γ-MnO2 and phase transitions duringcycling were also systematically investigated [11].
+
+Prussian blue analogues are theother kind of attractive cathode materials for ZIBs [14].
+
+Liu and coworkers [14]developed a zinc hexacyanoferrate (ZnHCF) cathode for aqueous ZIBs with energydensity up to 100 Wh kg-1. Trocoli et al.
+
+ developed a ZIB based on CuHCF via asimilar route.
+
+Besides, there are some hybrid aqueous systems based on Zn anode, inwhich the cathode materials are actually those used in lithium or sodium ion batteries[16-21].
+
+Since the radius of Zn2+ ion is 0.74 Å which is smaller than Na+ion (0.99 Å),volume variation during Zn2+ insertion would be small if the cation radius is the onlyfactor under consideration [22].
+
+However, high polarization of Zn2+ ion may limit itsmigration dynamics [4].
+
+Tunnel manganese oxides and Prussian blue analogues arethe only two families that have been reported as Zn2+ intercalation cathode materials.
+
+In this work, we focus our interest on the NASICON AxMM’(XO4)3 (A = Li, Na, Mg,etc., M, M’ = Ti, V, Cr, Fe, etc., X = P, Si, S, etc.) compounds.
+
+This large family ofpolyanionic cathode materials own very stable framework that is favorable for longcycle; the redox voltage is higher than the binary oxide analogue due to the inducingeffect; plenty of vacancies existing in the structure can store metal ions [23].
+
+Manystudies took Na3V2(PO4)3 as cathode for monovalent metal ions such as Li and Naions [24-32].
+
+However, to the best of our knowledge, no attempts have been made touse Na3V2(PO4)3 as intercalation cathode for divalent metal ions such as Zn2+, Mg2+and Ni2+ ions.
+
+ The Zn2+, Mg2+ and Ni2+ ions possess smaller radii of 0.74, 0.72 and0.69 Å, respectively, as compared with Na+cation [22], indicative of a possibleapplication as guest species stored in the framework.
+
+In this work, graphene-likecarbon wrapped Na3V2(PO4)3 was fabricated to validate the divalent metal ion storagebehavior in these compounds.
+
+This is the first time to use Na3V2(PO4)3 as intercalationhost for divalent cations.
+
+A new and eco-friendly Zn-ion battery was designed byusing Na3V2(PO4)3 as cathode, zinc as anode and Zn(CH3COOH)2 as aqueouselectrolyte, as shown in Figure 1a.
+
+The electrochemical performance and intercalationmechanisms of Zn-ions were demonstrated.
+
+In summary, graphene-like carbon nanosheets wrapped NASICON Na3V2(PO4)3nanoparticles were fabricated and evaluated as cathode material for Zn-ion batteries.
+
+The NASICON NaV2(PO4)3 framework shows storage capability of divalent metalions such as Zn2+, Ni2+ and Mg2+.
+
+The diffusion determined Zn-Na3V2(PO4)3 batteryexhibits excellent rate and cyclic performances.
+
+CV and Rietveld-refined XRD resultssuggest an ion occupy variation mechanism during the insertion of Zn ions.
+
+SinceNa3V2(PO4)3 belongs to a large family of NASICON AxMM’(XO4)3 (A = Li, Na, Mg,etc.; M, M’ = Ti, V, Cr, Fe, etc.; X = P, Si, S, etc.), it is possible to find similar oreven better cathode materials for divalent metal ion batteries in this family.
+
+Therefore,the results presented here provide an avenue not only for understanding theintercalation process of divalent metal ions but also for the future design andoptimization of NASICON structured cathode materials for rechargeable divalentmetal ion batteries.
+

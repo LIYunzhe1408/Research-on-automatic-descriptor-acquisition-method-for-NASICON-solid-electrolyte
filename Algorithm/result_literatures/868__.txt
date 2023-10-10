@@ -1,0 +1,100 @@
+A symmetric sodium-ion battery with an aqueouselectrolyte is demonstrated; it utilizes the NASICON-structured Na3MnTi(PO4)3 as both the anode and the cathode.
+
+TheNASICON-structured Na3MnTi(PO4)3 possesses two electrochemically active transition metals with the redox couples ofTi4+/Ti3+ and Mn3+/Mn2+ working on the anode and cathodesides, respectively.
+
+The symmetric cell based on this bipolarelectrode material exhibits a well-defined voltage plateaucentered at about 1.4 V in an aqueous electrolyte witha stable cycle performance and superior rate capability.
+
+Theadvent of aqueous symmetric sodium-ion battery with highsafety and low cost may provide a solution for large-scalestationary energy storage.
+
+The development of electric-power storage devices, with thecharacteristics of low cost, high-energy-density, and long cyclelife, is a global priority to integrate renewable and cleanelectric-power generated from solar and wind energy intoa smart electrical grid.
+
+Despite the great achievement oflithium-ion batteries in portable electronics and electricvehicles in recent years, the insufficient and unevenlydistributed lithium resources as well as increasing cost mayrestrict their application in large-scale electrical energystorage systems.
+
+Consequently, extensive efforts havebeen devoted to the investigation of sodium-ion batterieswith nonaqueous electrolytes that share similar scientific andtechnological principles to the commercialized lithium-ionbatteries.
+
+Although the utilization of organic liquidelectrolytes enables sodium-ion batteries with a higher voltage and a wider choice of electrode materials, safety andenvironmental concerns are arising from the toxic andflammable organic solvents.
+
+Furthermore, comparedwith aqueous electrolytes, the much lower ionic conductivitiesand higher costs of organic liquid electrolytes possibly imposeadditional constrains on large-scale application of nonaqueous sodium-ion batteries.
+
+To overcome the drawbacks oforganic liquid electrolytes, the development of sodium-ionbatteries with aqueous electrolytes may represent a promisingapproach for large-scale storage of electrical energy.
+
+Recently, a number of transition metal oxides, Prussianblue analogues, and polyanionic frameworks have demonstrated stable sodium storage performance in aqueouselectrolytes.
+
+Particular interests have also been focusedon sodium storage in NASICON (Na Super Ionic Conductors)-type compounds because of their structural stability,their large ionic channels, and the abundance of sodiuminsertion sites.
+
+The NASICON-structured materials withthe formula unit of AxMy(XO4)3, where A, M and X are alkalimetal, transition metal and nonmetal atoms, respectively, canbe described as three-dimensional polyanionic frameworks ofcorner sharing MO6 octahedra and XO4 tetrahedra withinterconnected channels for the diffusion of alkali ions.
+
+The redox potentials of NASICON-structured materials canbe tuned by changing the elemental composition and/or thevalence states of the transition metal ions.
+
+The NASICONstructured NaTi2(PO4)3 has a sodium-ion insertion potentialwell-above the evolution of H2 in an aqueous Na2SO4electrolyte.
+
+The recently synthesized Na3Ti2(PO4)3 asa sodium-bearing anode for aqueous sodium-ion batteriesenables the utilization of sodium-depleted cathode materials.
+
+Sodium-ion full-cells with aqueous electrolytes werealso constructed with the NaTi2(PO4)3 anode and a variety ofcathodes, including Na0.44MnO2,[33] Na2NiFe(CN)6,[34]Na2CuFe(CN)6,[35] Na3V2(PO)4,[36] and NaMnO2.[37]In this work, a NASICON-type compound of Na3MnTi-(PO4)3 was prepared to construct an aqueous symmetricsodium-ion battery.
+
+The design of a symmetric battery isattractive because the cathode and anode with the sameactive material can simplify the fabrication process, reducethe manufacturing costs, and buffer the volume change ofelectrodes (the cathode shrinking accompanied by anodeexpansion, and vice versa).
+
+Recently, the layered metaloxides of O3-Na0.8Ni0.4Ti0.6O2 and P2-Na0.66Ni0.17Co0.17Ti0.66O2were successfully used to realize symmetric sodium-ionbatteries through the utilization of the redox centers ofnickel and cobalt on the cathode side and titanium on theanode side in organic liquid electrolytes.
+
+The realizationof an aqueous symmetric sodium-ion battery requires thediscovery of an electrode material that can be used asa sodium-rich cathode and a sodium-deficient anode, withsufficient sodium storage capacities, reversible redox activities, and especially working within the electrochemicalpotential window of water (within the oxygen and hydrogenevolution potentials).
+
+The NASICON-type Na3MnTi(PO4)3forms a three-dimensional framework based on MnO6 or TiO6octahedra sharing all of its corners with PO4 tetrahedra(Figure 1).
+
+Two independent types of sodium ions are locatedin the interstitial sites of the framework with two differentoxygen environments: A single interstitial site per formulaunit with six-fold coordination (M1 site) is occupied by a lessmobile sodium-ion, and three equivalent sites per formulaunit with eight-fold coordination (M2 sites) are occupied bytwo mobile sodium-ions.
+
+Since the sodium ions positioned atM1 sites are strongly bound to the coordinated oxygen atoms,only the sodium ions residing at M2 sites can be extracted/inserted for electrochemical activity.
+
+We demonstrated thatthe extraction of one sodium-ion per formula unit fromNa3MnTi(PO4)3 with the formation of Na2MnTi(PO4)3through the Mn3+/Mn2+ redox couple is well-below theoxygen evolution potential, and the insertion of onesodium-ion per formula unit into Na3MnTi(PO4)3 with theformation of Na4MnTi(PO4)3 through the Ti4+/Ti3+ redoxcouple is well-above the hydrogen evolution potential in theneutral aqueous electrolyte of Na2SO4 (1.0m).
+
+Therefore,Na3MnTi(PO4)3 enables its utilization as both a sodium-richcathode and a sodium-deficient anode for a symmetricsodium-ion battery in the aqueous electrolyte.
+
+Na3MnTi(PO4)3 was synthesized by a sol-gel methodfollowed by calcination of the precursor at 6008C in argonatmosphere.
+
+The XRD diffraction pattern (Figure 2) ofNa3MnTi(PO4)3 can be indexed into a rhombohedral NASICON-type unit cell with the R3c space group (Table S1,Supporting Information).
+
+The morphology of Na3MnTi(PO4)3was analyzed by scanning electron microscopy (SEM) andtransmission electron microscopy (TEM).
+
+SEM imagesshowed that the particle size of Na3MnTi(PO4)3 ranges froma few hundreds of nanometers to several micrometers.
+
+TEMimages revealed that the Na3MnTi(PO4)3 particles are composed of nanosized primary particles well-dispersed ina carbon matrix.
+
+The presence of carbon is used to improvethe electrical conductivity of Na3MnTi(PO4)3.The carboncontent is about 7.8 wt.%, determined by thermogravimetricanalysis (TGA) of the Na3MnTi(PO4)3 sample.
+
+The chemicalcomposition of Na3MnTi(PO4)3 was confirmed by energydispersive X-ray spectroscopy (EDS) analysis (Figure S1,Supporting Information).
+
+The electrochemical properties of Na3MnTi(PO4)3 asa bipolar electrode material were first assessed in a threeelectrode system with Ag/AgCl as the reference electrode inthe aqueous electrolyte of Na2SO4 (1.0m).
+
+The cyclic voltammogram (CV) of the Na3MnTi(PO4)3 electrode features a pairof redox peaks centered at about 0.6 V vs.
+
+Ag/AgCl (Figure 3A), which can be attributed to the reversible reactions ofthe Mn3+/Mn2+ redox couple in the NASICON lattice withextraction/insertion of sodium-ions from/into Na3MnTi-(PO4)3.The redox voltage of Mn3+/Mn2+ in the NASICONstructured Na3MnTi(PO4)3 is well-below the oxygen evolutionpotential in the neutral aqueous electrolyte (1.1 V vs.
+
+Ag/AgCl), which therefore enables it to be used as a high-voltagecathode for aqueous sodium-ion batteries.
+
+ In accordancewith the CV results, the Na3MnTi(PO4)3 electrode exhibitedcharge and discharge profiles with well-defined voltageplateaus centered at about 0.6 V vs.
+
+Ag/AgCl with littlepolarization (Figure 3 B), corresponding to the reversiblereaction of Na3MnTi(PO4)3Na+eQNa2MnTi(PO4)3, withthe oxidation of Mn2+ to Mn3+ on charge and the reduction ofMn3+ to Mn2+ on discharge,[46, 47] keeping the valence state ofTi4+ unchanged (Figure S2, Supporting Information).
+
+TheNa3MnTi(PO4)3 electrode delivers a discharge capacity of58.4 mAh g1 at a rate of 0.5 C (1 C = 58.7 mA g1), corresponding to a nearly 100% utilization of its one sodiumextraction/insertion capacity of the Na3MnTi(PO4)3 electrodethrough the Mn3+/Mn2+ redox couple.
+
+The structural changeof Na3MnTi(PO4)3 is reversible during extraction and insertion of one sodium-ion per formula unit through the Mn3+/Mn2+ redox couple.
+
+When charging the electrode to 1.0 V vs.Ag/AgCl, the X-ray diffraction peaks of (012), (113), (024),and (300) shift to higher angles, indicative of a volumeshrinkage because of the extraction of sodium ions from theNASICON-structured material.
+
+ Upon discharging to 0 Vvs.Ag/AgCl, the diffraction peaks of the electrode recoveredto its original state (Figure S3, Supporting Information).
+
+The redox couple of Ti4+/Ti3+ in the NASICON-structuredNa3MnTi(PO4)3 was also evaluated in a three-electrodesystem in the aqueous electrolyte of Na2SO4 (1.0m).
+
+Themain feature of the CV curves of Na3MnTi(PO4)3 is a pair ofredox peaks centered at about 0.8 V vs.
+
+Ag/AgCl (Figure 4A), corresponding to the reversible insertion/extractionreaction of one sodium-ion per formula unit into/from theNa3MnTi(PO4)3 lattice operating in a reversible reaction ofNa3MnTi(PO4)3 + Na+ + eQNa4MnTi(PO4)3.The observedvoltage of the Ti4+/Ti3+ redox couple in Na3MnTi(PO4)3 is inaccordance with the voltage of the Ti4+/Ti3+ redox couple inNaTi2(PO4)3, which is sufficiently higher than the hydrogenevolution potential in the neutral aqueous electrolyte (1.2 Vvs. Ag/AgCl).
+
+ The galvanostatic discharge/charge profilesrevealed that the Na3MnTi(PO4)3 electrode delivers a sodiation capacity of 58.2 mAh g1 at a rate of 0.5 C, correspondingto almost full utilization of the Ti4+/Ti3+ redox couple inNa3MnTi(PO4)3, with the reduction of Ti4+ to Ti3+ upon theinsertion of one sodium-ion per formula unit and theoxidation of Ti3+ to Ti4+ upon the extraction of the insertedsodium-ion, without changing the valence state of Mn2+(Figure S4, Supporting Information).
+
+ In addition, thecharge and discharge reaction of Na3MnTi(PO4)3 proceededmostly at a flat plateau centered at about 0.8 V vs.
+
+Ag/AgClwithout significant polarization, suggesting an excellentelectrochemical reversibility of the Na3MnTi(PO4)3 electrode(Figure 4 B).
+
+ When discharging the electrode to 1.3 V vs.Ag/AgCl, the X-ray diffraction peaks of (113), (024), (211),and (300) shift to lower angles, because of a volume expansionafter the insertion of sodium-ions into the NASICONstructured material.
+
+After the extraction of the insertedsodium-ions, the material transforms back completely to itsoriginal phase (Figure S5, Supporting Information).
+

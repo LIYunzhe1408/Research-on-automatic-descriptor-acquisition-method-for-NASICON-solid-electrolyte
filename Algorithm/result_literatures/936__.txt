@@ -1,0 +1,72 @@
+The Al-substituted LiTi2(PO4)3 powdersLi1+xAlxTi2−x(PO4)3 (LATP) were successfully prepared by awater-based sol−gel process with subsequent calcination andsintering.
+
+The crystal structure of obtained samples wascharacterized at different temperatures using high-resolutionsynchrotron-based X-ray and neutron powder diffraction.
+
+Possiblelithium diffusion pathways were initially evaluated using thedifference bond-valence approach.
+
+Experimental 3D lithiumdiffusion pathway in LATP was extracted from the negative nucleardensity maps reconstructed by the maximum entropy method.
+
+Evaluation of the energy landscape determining the lithiumdiffusion process in NASICON-type superionic conductor isshown for the first time.
+
+Rapid growth of the portable electronics market is due toportable energy storage solutions with improved characteristics,e.g., energy and power density, temperature, cycling stability,safety, cost, etc.
+
+Among various factors defining the performance of a typical Li-ion battery, the issue of electrolytealithium salt (typically LiPF6) in organic solvents (ethylenecarbonate, dimethyl carbonate, diethyl carbonate, or theirmixture)is often considered to be a bottleneck in the stateof-the-art Li-ion batteries.
+
+Key properties like battery safety,high-voltage operation, use of new electrode materials withimproved gravimetric and volumetric energy densities, temperature range of stable operation, and/or cycling stability areseverely hampered by the liquid electrolyte.
+
+This inspired anactive search for new liquid electrolytes with improvedcharacteristics, which is now a subject of intense research.
+
+Alternatively, the concept of an all-solid-state batteryanelectrochemical cell based on solid-state components only,including the electrolyteis considered.
+
+Despite the obvious advantages offered by an all-solid-stateapproach to Li-ion technology the use of solid-state batteries isdefined by the limited selection of suitable solid lithium-basedelectrolytes.
+
+Among various types of solid-state lithium-ionconductors the ceramics with NASICON-type of structure hasattracted the interest of researchers due to its chemical stabilityto air and moisture (the authors2 reported a chemical instabilityof LTP- and LATP-based materials toward Li metal, with thereduction of Ti4+ to Ti3+ which, correspondingly, will require aprotection layer in all-solid-state battery applications).
+
+Thepresence of 3D-connected cavities in a NASICON type ofstructure, e.g., LiTi2(PO4)3 (LTP), make it well suited forlithium conduction, which can be considerably enhanced bypartial substitution of tetravalent cations (Ti4+) by trivalentones (Al3+, Fe3+, Y3+, etc.).
+
+ Among variously doped LTP, thehighest bulk conductivity of 10−3 S/cm at 27 °C6 was achievedin the Al-substituted LTP compound.
+
+There maximalconductivity in Li1+xAlxTi2−x(PO4)3 was observed at x = 0.3,known as LATP = Li1.3Al0.3Ti1.7(PO4)3.Depending on thesynthesis and sintering conditions, the total ionic conductivityof LATP was reported to vary between 10−8 and 10−3 S/cm.
+
+ The low electronic contribution (about 10−11 S/cm11)to the total conductivity makes LATP a promising choice foruse as a solid electrolyte in all-solid-state batteries.
+
+Understanding of processes supplemented the 3D lithiumdiffusion in the LATP class of materials has an obviousrelevance for further materials development, and it was activelyexplored by theoretical methods: Nuspl et al.
+
+determined thediffusion pathway of Li+ ions in LTP and LATP frameworks bymolecular dynamics simulations.
+
+One has to admit the increased role of theoreticalmethods for determination and prediction of diffusionpathways in ionic conductors.
+
+ Recently, Wang et al.16attempted to develop a fundamental design principle in theform of a new structural descriptor capable of predicting theperformance of sulfide-based solid-state Li-ion conductors.
+
+The crystal structure is the property defining ionicconductivity, and, therefore, the structural properties ofLATP and related materials were actively studied using powderdiffraction.
+
+In the LTP-type structure the Li+ ions tend topreferentially occupy the M1 site (0, 0, 0) in space group R3̅c.
+
+The doping of LTP by Al causes Li ions to occupy additionalinterstitial positions within the framework, and differentpositions for the lithium atom were proposed in the literature,e.g., 18e (x, 0, 0.25) (M2 site), 36f (0.47, 0.31, 0.25) (M2′site),8 (0.07, 0.34, 0.07) (M3 site),18 etc.
+
+In “completely” Liintercalated Li3Ti2(PO4)3 with only Ti3+ and with therhombohedral space group R3̅, all Li ions were reported tooccupy M3/M3′ sites inside M2 cavities(0.030 0.319 0.045)and (0.055 0.373 0.117), respectively.
+
+The localization of the lithium interstitial position is highlyrelevant for understanding lithium diffusion in LATP-basedmaterials.
+
+However, significant discrepancies in the literaturedata seriously bound the understanding of diffusion processesin these materials.
+
+The observed inconsistencies can be relatedto various factors, e.g., data quality, sample preparation,morphology, chemical composition, etc.
+
+Therefore, in thecurrent manuscript a systematic study of the crystal structure ofLATP-based materials was performed on the number ofsamples with nominally similar composition.
+
+Analysis ofstructural data aiming to determine nuclear density maps andto define the lithium diffusion pathways is reported.
+
+The crystal structure of Li1.3Al0.3Ti1.7(PO4)3 ionic conductorwas systematically studied using a combination of neutron andsynchrotron-based high-resolution powder diffraction.
+
+Thesystem is characterized by highly anisotropic thermal expansion,whose magnitude seems to be affected by the atmosphere ofdata collection.
+
+The structural evolution of lithium−oxygencoordination polyhedra has been found mostly affected bytemperature.
+
+While Ti/Al polyhedra become more regular atelevated temperatures, PO4 tetrahedra display a weak tendencyto contract upon heating due to increasing libration motions.
+
+Significant lithium disorder (both static and dynamic) isnoticed for Li1.3Al0.3Ti1.7(PO4)3.Different approaches wereconsistent in the localization of an interstitial lithium site,whose occupation has been found to be thermally populated.
+
+Acomparison of the lithium diffusion pathways obtained by themeans of theory (difference bond valence) and negative nucleardensity maps after MEM reconstruction revealed a similarcharacter, thus indicating that Li migration in LATP likelyoccurs between Li1 (6b) and Li3 (36f) sites.
+
+The obtainedactivation energy (determined in the framework of Boltzmannstatistics) has been found to be in good agreement with theliterature.
+

@@ -1,0 +1,186 @@
+Nominal Li1+xAlxGe2−x(PO4)3 (0≤x≤1.2) lithium fast ion conductors have been prepared as polycrystalline powders and characterised byRietveld analysis of laboratory X-ray powder diffraction patterns (LXRPD).
+All samples display the ideal R 3¯c symmetry of compounds withNASICON structure.
+However, Li, 27Al, 31P MAS–NMR and AEM analyses suggest an unusual cationic distribution where Al is located in bothoctahedral and tetrahedral sites, replacing germanium and phosphorus, respectively.
+In these compounds, Li ions are preferentially disposed at M1sites, but additional Li incorporated to compensate the charge deficit of aluminium are located near M2 sites of the NASICON structure.
+Localmobility of Li is responsible for narrowing effects detected in 7Li MAS–NMR experiments.
+Impedance spectroscopy measurements show thatthese materials are excellent lithium ionic conductors with bulk conductivity values close to 10−4 S cm−1 at room temperature.
+Nowadays, there is an increasing interest in the developmentof high density or “all-solid-state” lithium batteries due to theirlightweight, high potential and very high energy-density storageproperties.
+In this picture, the research effort to find new threedimensional solid based Li electrolytes, e.g.NASICON-typematerials, is very intense .
+The term NASICON (Na(sodium) Super Ionic Conductor) refers to Na1+xZr2P3−xSixO12(0.0≤x≤3.0) materials  which show a 3D-frameworkconstituted by an infinite number of octahedral and tetrahedralstructural units, [MO6][(PO4)3][MO6], disposed parallel to caxis, and designated as “lantern units”.
+These units are locatedat the corners of a simple pseudo-cubic network and they arelinked to each other by P–O–M bridges, yielding a 3Dframeworkwhich generates interstitial voids of two types,known asM1 and M2 sites.
+The large charge-compensating Na+cations are located in these two positions.
+The M1 site (one performula) is constituted by a trigonal antiprism of oxygens andthe M2 site (three per formula) has a distorted 8-foldcoordination.
+
+Partial substitutions of M4+ by trivalent cations inthese compounds have been the aim of numerous studies.
+Thus,the Li1+xAlxTi2−x(PO4)3 (0.0≤x≤0.4) series exhibits ionicconductivity values close to 10−4 S cm−1 at room temperature.
+The similarity of titanium and aluminium ionic radiiproduces a homogeneous framework with optimum size voidsfor lithium cations to pass through.
+However, it is difficult toobtain monophasic samples and the presence of titanium causesundesirable reduction processes, so it is reasonable to attemptthe research of other alternative systems.
+Several materials derived from LiGe2(PO4)3 have been studiedand the low ionic conductivity  has been enhanced byincreasing densification and/or by raising the number ofcharge carriers.
+
+For these cases, ionic conductivity values can be as high as 10−4 S cm−1; however,some of the proposed stoichiometries are difficult to obtain.
+Sofar, published reports indicate that the compositional limit byboth ceramic synthesis and sol–gel route is x=0.6 .
+Nevertheless, neither structural refinement of the NASICONphases has been carried out, nor the quantification of secondaryphases (crystalline and/or vitreous) has been investigated.
+In thepresent work the synthesis of the “bimetallic” Al–Ge materialswith general formula Li1+xAlxGe2−x(PO4)3 has been studied.
+The techniques employed in the characterisation of preparedsamples have been laboratory X-ray powder diffraction,differential thermal and thermogravimetric analysis, 7Li, 27Aland 31P NMR spectroscopy, analytical electron microscopy andimpedance spectroscopy.
+This combined study has yielded tounexpected results unpublished so far.
+The synthesis of Li1+xAlxGe2−x(PO4)3 series has been optimised by an appropriatechoice of reagents, heating temperatures rates, and reactiontimes.
+The resulting synthetic procedure used was as follows:(1) the reagents were ground in an agate mortar for 20 min; (2)the mixtures were heated in platinum crucibles at 0.1 K·min−1up to 473 K and held at this temperature for 4 h; (3) then, themixtures were heated up to 623 K and held at this temperaturefor 8 h to ensure total decomposition of reagents; (4) aftercooling, the samples were milled for 3 h in a Fritsch ball millPulverisette 7 [vessel (45 cm3) and 7 balls (15 mm diameter) ofagate] at 200 rpm with reverse rotation every 10 min; (5) themixtures were pelletised and a second thermal treatment wascarried out at 1223 K for 90 min; (6) finally, the samples withx≤0.6 were heated again in two successive treatments of 1 h:first at 1273 K and then, at 1373, 1323, 1298 and 1273 K forx=0.2, 0.4, 0.5 and 0.6, respectively.
+These temperatures were40–50 K below that of the liquid phase appearance.
+No weightlosses, linked to volatilisation, at these temperatures and timeswere detected.
+The samples are hereafter labelled as Li1+x forLi1+xAlxGe2−x(PO4)3 (x=0.0, 0.2, 0.4, 0.5, 0.6, 0.8, 1.0 and 1.2)series.
+The Al/P and Ge/P molar ratios for the Li1+x series werechecked by Analytical Electron Microscopy (AEM) using aPhilips CM200 Supertwin-DX4 with an electron microanalysisprobe EDX.
+The detector system has an ultra thin window thatimproves the resolution to 149 eV.
+A measurement time of 100 sper crystal was used for data acquisition.
+Samples for theelectron microscopy study were prepared as follows: a smallamount of powder was finely ground in an agate mortar anddispersed in absolute ethanol, then, several drops of theresultant suspension were deposited onto a carbon filmsupported on a copper grid.
+Na1.6Al0.6Ti1.4(PO4)3 andLiGe2(PO4)3 (from this study) were used as standards for theAEM study.
+More than 10 microcrystallites for each singlephase sample were measured to minimise local effects,identifying previously the main phase of crystallites by electrondiffraction.
+All samples were characterised by laboratory X-ray powderdiffraction (LXRPD) at room temperature.
+Powder patternswere collected on a Siemens D5000 automated diffractometerwith (θ/2θ) Bragg–Brentano geometry using a graphitemonochromated CuKα1,2 radiation.
+Patterns were recordedfrom 14° to 50° (2θ) with 0.04° step size for 1 s (counting time)to follow the chemical reactions, and between 14° and 110° (2θ)with 0.03° step size for 15 s (counting time) to refine crystalstructures by the Rietveld method, using the GSAS suite ofprograms .
+7Li, 27Al and 31P MAS–NMR spectra were recorded at roomtemperature in an MSL 400 Bruker spectrometer working at155.5, 104.2 and 161.9 MHz, respectively, by applying anexternal magnetic field of 9.4 T.
+Samples were spun at 10–12 kHz and spectra recorded after a single pulse irradiation (2–6 μs).
+In 27Al NMR signal, the maximum intensity was obtainedat lower irradiation times that deduced for liquid AlCl3 solutions(2 μs) .
+In 7Li NMR signal, the maximum was obtained atthe same values than used in LiCl solutions (6 μs).
+The numberof scans was in the range of 40–200, and the time between scanswas selected between 5 and 60 s, according to the spin-latticerelaxation of the analysed nuclei.
+Chemical shifts of NMRsignals are given relative to the aqueous solutions LiCl (1 M),AlCl3 (1 M) and H3PO4 (85 wt.
+%).
+The analysis of NMRspectra was carried out with the Winfit (Bruker) softwarepackage .
+A standard, nonlinear least-squares fitting methodwas used in deconvolutions.
+The spinning rate, position, linewidth, and intensity of components are automatically determined.
+However, chemical shift anisotropies and quadrupoleconstants are adjustable parameters that must be determined bytrial and error procedures.
+The atom fraction located in eachenvironment is obtained by the integration of the area of thecorresponding bands.
+Impedance data were collected on cylindrical pellets(∼10 mm of diameter and ∼2 mm of thickness) obtained byapplying an uniaxial pressure of 125 MPa for 1 min.
+The pelletswere sintered for 1 h at a temperature 25 K higher than that usedin samples preparation, to improve the mechanical strength.
+Electrodes were deposited by sputtering gold on opposite pelletfaces.
+Different treatments were applied to achieve an electricalresistance of both pellet faces lower than 1 Ω.
+Impedance datawere collected using a Hewlett–Packard 4284 impedanceanalyser over the frequency range 20 Hz to 1 MHz, with anapplied voltage of 100 mV.
+Samples were studied in twotemperature ranges: (i) from 153 to 293 K (at 10 K intervals)and (ii) from 323 to 473 K (at 50 K intervals) in a NovocontrolQuatro Cryosystem.
+All measurements were done with thepellets under a dried nitrogen atmosphere.
+The stabilisation timeused before each data acquisition was 40 min.
+The maximumtemperature variation tolerated during electrical measurementswas 0.1 K.
+Measurements were controlled electronically by thewinDETA software package .
+The structural analysis of nominal Li1+xAlxGe2−x(PO4)3(x=0.0, 0.2, 0.4, 0.5, 0.6, 0.8, 1.0 and 1.2) samples showed thatthe main crystalline phase detected in LXRPD patterns displaysthe rhombohedral R 3¯c NASICON-type structure.
+However, in allanalysed samples small amounts of several side-phases weredetected: GeO2 (PDF 83-2474), Li4P2O7 (PDF 77-1045) and/orAlPO4 (PDF 11-0500).
+A second AlPO4 polymorph (PDF 48-0652) was detected in samples with x≥0.4, its presence increaseswith aluminium content, being the only crystalline phase in thesample with x=1.2.
+ Differential thermal studies did not show anymass variation of samples in the temperature range analysed.
+The crystal structure of the seven NASICON phases, Li1+x(x=0, 0.2, 0.4, 0.5, 0.6, 0.8 and 1.0), were refined by theRietveld method using the structure of LiGe2(PO4)3 (ICSD69763)  as the starting model.
+In refinements, the commonoverall parameters, histogram scale factor, background coefficients,unit-cell parameters, zero-shift error and pseudo-Voigtcoefficients corrected for asymmetry  were firstrefined.
+The occupation factors of the octahedral sites werefixed to their nominal values because of the small difference onthe number of electrons of Al3+ and Ge4+ cations.
+The extra Licontent necessary to compensate the Ge4+/Al3+ substitution wasplaced at M2 sites and its occupation factors were fixed tonominal values.
+Then, the positional parameters were optimisedand, finally, isotropic thermal parameters of different atomswere freely refined.
+For lithium atoms, thermal factors of M1and M2 sites were constrained to the same value.
+The weightfractions of side phases were also refined for all compositions.
+Fig.1 shows the fit of the LXRPD pattern of Li1.4Al0.4Ge1.6(PO4)3 composition as an example of the Rietveld refinementquality.
+Refined crystallographic parameters, disagreementfactors, P–O average bond distances and weight fractions ofside phases are given in Table 1.
+The bandslocated close to −13 ppmare ascribed to AlO6 and those located at≈39 ppm to AlO4 environments, see Fig.2. 
+The firstcomponent corresponds to Al in octahedral sites of theNASICONstructure and chemical shift values move to more negative valuesas aluminium content increases in the series.
+The secondcomponent mainly corresponds to Al in AlPO4 polymorphsdetected by X-ray diffraction.
+This signal is the unique componentobserved in the x=1.2 spectrum.
+The position of this componentalso shifts to more negative values as a consequence of variationsdetected on the relative amount of the two AlPO4 polymorphs,see Table 1. 
+27Al MAS–NMR spectra have been quantitativelyanalysed, and octahedral and tetrahedral fractional contents aregiven in Table 2.
+ By subtracting the contribution of tetrahedralaluminium, it is possible to calculate the octahedral aluminiumcontent of the NASICON phase.
+These values are given inTable 2. 
+In all cases, obtained values are lower than those deducedfrom the nominal compositions.
+31P MAS–NMR spectra of the nominal Li1+xAlxGe2−x(PO4)3(0.0≤x≤1.2) series are shown in Fig.3.
+ For x=0.0, a narrowband is observed at −43.5 ppm that is associated with P(OGe)4environments.
+As aluminium content increases, the number ofphosphorous environments rises and the 31P MAS–NMR signalbecomes complex.
+The spectrum of the Li2.2 composition is verydifferent from those of other materials.
+It is formed by an intensebroad band (V) at −13.8 ppm, that has been ascribed to anamorphous vitreous material, and two shoulders (A and A′) at−28.3 and −31.7 ppm, that correspond to the two AlPO4polymorphs identified by X-ray diffraction.
+These two signals arealso detected in other spectra but they cannot be differentiatedfrom the complex wide band located between −20 and −45 ppm,associated withNASICONcompounds (see Fig.3).
+Finally, smallbands located between −3.5 and −6.5 ppm (P), in samples with0.0≤x≤1.0, correspond to Li4P2O7 detected in LXRPD patterns.
+The complex band detected in Li1+xAlxGe2−x(PO4)3 sampleswith 0.0≤x≤1.0, has been analysed on the basis of a randomdistribution of Ge and Al in octahedral sites of the NASICONstructure.
+
+Theseparation between components is always similar, indicatingthat the progressive substitution of Ge by Al produces similareffects in all cases .
+This observation makes easier thedeconvolution of nonresolved spectra.
+From statistical considerations, the highest detected componentmust correspond to P(OGe)4 environments.
+As thealuminium content increases, the probability to have environmentswith a lower amount of Ge increases.
+From integratedintensities of observed 31P MAS–NMR bands, the chemicalcomposition of samples has been estimated.
+Chemical shifts of 31P MAS–NMR components andaluminium molar contents deduced from 31P MAS–NMRspectra are given in Table 3. As an example of fits, thedeconvolution of the 31P MAS–NMR spectra for Li2.0 is givenin Fig.4.
+ In all cases, Al occupancies are lower than nominalvalues and closer to octahedral Al deduced from 27Al MAS–NMR spectra.
+7Li MAS–NMR spectra of nominal Li1+xAlxGe2−x(PO4)3(0≤x≤1.2) samples are shown in Fig.5. 
+These spectra areformed by a central line (−1/2, 1/2 transition) at −1.7 ppm andtwo satellite lines (−3/2, −1/2 and 1/2, 3/2 transitions) withtheir corresponding spinning sidebands.
+Central and satellitelines are modulated by equally spaced spinning sidebands.
+7Li NMR spectra profiles depend on the local symmetry ofLi sites.
+When lithium atoms are located at M1 sites (verysymmetric), quadrupolar interactions are small and spectra arespread over a small region.
+When lithium atoms are located nearM2 sites (very asymmetric) quadrupolar interactions should behigher and spectra spread over a larger region .
+Theinspection of 7Li MAS–NMR spectra of different samplesshows the presence of two components; the relative intensity ofsatellite bands decreases when Li content increases.
+At the sametime, the line width of the central transition decreasesconsiderably in samples with xN0.2, suggesting that Li mobilityincreases significantly when Li occupy M2 sites.
+Li mobilityaverages quadrupolar interactions, producing the elimination ofspinning sidebands of Li(2) sites.
+According to this fact, wehave deconvoluted 7Li NMR spectra with two components centered at the same frequency: a single line ascribed to mobileLi(2) atoms and a broad spinning sideband pattern ascribed toLi(1) ions.
+The intensity of the central bands increasesprogressively as the Al contents increases (Table 4).
+Chemicalshifts, quadrupole constants, asymmetry parameters and Limolar fractions in M2 positions, deduced from 7Li MAS–NMRspectra of the Li1+xAlxGe2−x(PO4)3 (0≤x≤1.2) series are alsolisted in Table 4. As an example of the fits, the deconvolution ofthe 7Li MAS–NMR spectra for Li2.0 are given in the inset ofFig.5.
+In the Li2.2 spectrum, the spinning sidebands pattern occupya larger region and the line width of components is higher(approximately 24 ppm), indicating that mobility of Li isconsiderably lower.
+At the same time, the chemical shift of Lisignal is less negative.
+In this sample, the only crystalline phasedetected in LXRPD patterns is AlPO4, so the totality of thelithium must be located into an amorphous material.
+Impedance data for Li1.5 recorded at two temperatures areshown as impedance complex plots in Fig.6a.
+Similar plotswere obtained for all compositions.
+At high temperatures, awell-developed spike can be observed with an associatedcapacitance of 0.64 μF cm−1 at 20 Hz.
+Since it is inclined withrespect to the Z′ axis≈70°, it indicates a blocking electroderesponse; therefore, the conducting species must be ionic, thatis, Li+ ions.
+At lower temperatures, 223 K, a very broad arc isobserved and, at least, two well-resolved contributions to theelectrical response of pellets can be distinguished.
+The totalpellet conductivity, σT, is obtained from the intercept of thespike and/or the arc (low frequency end) on the Z′ axis.
+A deeper insight into the electrical microstructure of thepellets can be obtained from the spectroscopic plots of theimpedance imaginary part, −Z″, and the complex electricmodulus, M″, vs log f, see Fig.
+6b.
+A large separation betweentwo maxima (more than 3 orders of magnitude in frequency) canbe observed.
+Furthermore, two shoulders are detected at lowand high frequency in M″ and Z″ curves, respectively.
+The M″shoulder is approximately coincident with Z″ maximum, withassociated capacitance values that are very close (173 and189 pF·cm−1, respectively).
+These values are too high to beascribed to the intrinsic response of the sample and have beenassigned to the presence of a thin grain boundary, characteristicof materials with narrow grain–grain contact region.
+Thiscomponent dominates the Z″ spectrum and, constitutes themajor part of the total resistance of samples.
+In the same way,the Z″ shoulder at high frequency is almost coincident with M″maximum and both show capacitance values very close (2.1 and1.8 pF·cm−1, respectively).
+These components represent thebulk response of the sample; and are responsible of the smallsemicircle observed at high frequencies in the Nyquist plot.
+Bulk conductivity values are obtained from the intercepts of thatsemicircle on the Z′ axis in Nyquist plots.
+When arcs areoverlapped, the intercept was calculated using the ZViewprogram .
+Bulk conductivity data of Li1+xAlxGe2−x(PO4)3(0.2≤x≤1.0) series are shown as an Arrhenius plot in Fig.7.
+High conductivity values (10−4 S cm−1 at 298 K) and lowactivation energies (0.27–0.35 eV) have been reported fornominal x=0.4, 0.5 and 0.6 values.
+It can be observed thatactivation energies decrease slowly with the Al content forsamples with xb0.5 and faster for samples with xN0.8.
+The dependence of unit-cell parameters as a function of thecomposition of the nominal Li1+xAlxGe2−x(PO4)3 (0.2≤x≤1.0)series is shown in Fig.8. 
+The unit cell variation along the seriesis anisotropic and non-homogeneous: a parameter remainsalmost constant whereas c parameter increases non-steadily,slightly until x=0.4 and more perceptibly above this composition.
+This behaviour is not in accordance with the Vegard law,indicating that Al/Ge substitution is not simple in NASICONcompounds.
+Moreover, other unexpected results were detectedduring Rietveld refinements: 1) an excessive increment of bP–ON distances up to unusual values (ordinary values of PO4≈1.52–1.54 Å), 2) negative isotropic thermal parametersfor octahedral sites in samples with x≥0.6 and 3) too highdisagreement factors, see Table 1. 
+All these facts indicate thatstructural model used for x≥0.4 compositions is not suitable.
+According to 27Al and 31PMAS–NMR studies (see Tables 2and 3), molar aluminium content in the NASICON structure(Alx) is always lower than nominal value.
+The evolution ofoctahedral aluminium content is reasonable up to values ranging0.33 and 0.45; however, results derived from Al-richer samplesare too low.
+Nevertheless, octahedral Al contents deducedby 27Al and 31P MAS–NMR spectroscopies are similar,indicating that these values are correct.
+On the other hand,lithium molar contents located at M2 site (Lix), deducedfrom quantitative analysis of 7Li MAS–NMR spectra, areconsiderably higher than those deduced from 27Al MAS–NMRspectra (Tables 2 and 4).
+This analysis suggests the existence ofanother mechanism, besides the germanium substitution(Ge+4→Al+3+Li+), that increases the Li content in NASICON compounds.
+Therefore, it can be concluded that the generalformula for NASICON materials is not Li1+xAlxGe2−x(PO4)3and that Al/P and Ge/P ratios must be different from x/3 and(2−x) /3, respectively.
+To further analyse other possible substitutions in theNASICON structure, Al/P and Ge/P ratios were studied byAEM microanalyses for Li1+xAlxGe2−x(PO4)3 samples withnominal values x=0.2, 0.4 and 0.8. In Fig.9, the plot on the left shows Al/P ratios (solid circles, ●) versus aluminium molarcontents, deduced from 31P and 27Al MAS–NMR spectra,respectively.
+When Al/P ratios measured with AEM microanalysisare considered, points move vertically to the open circles.
+The corrected Al/P ratios are higher than theoretical valuesfor the three analysed samples.
+Hence, if experimental Al/Pratios are higher and actual aluminium contents are lower thannominal ones, it can be inferred that phosphorus contents aresmaller than those expected for the nominal Li1+xAlxGe2−x(PO4)3 stoichiometries.
+Aluminium and phosphorus deficienciescould also be produced in the NASICON phase by thepresence of AlPO's in samples; however, a determination ofcorrected Al and P contents in NASICON phases does notreproduce measured values.
+An analogous study of the Ge/Pratios is given in the plot on the right in Fig.9. 
+It shows Ge/Pratios (solid squares, ■) versus aluminium molar contentsobtained from the analysis of 31P and 27Al MAS–NMR spectra,respectively.
+When Ge/P ratios (AEM values) are plotted, pointsmove vertically to the open squares .
+Again, experimentalratios are higher than theoretical values for the three samples,indicating once more that phosphorus contents are lowerthan those expected for the nominal Li1+xAlxGe2−x(PO4)3compositions.
+A suitable explanation of measured values can be the partialsubstitution of P by Al or Ge in tetrahedral sites.
+In this case, adifferent stoichiometry could be proposed, whose formula wouldjustify the increase of the lithium molar content detected by 7LiMAS–NMR (Table 4) with regard to the nominal value: i)When Al replaces P, the structural formula is Li1+x+2y(AlxGe2−x)(AlyP3−y)O12 and Al/P and Ge/P ratios would be given by (x+y)/(3−y) and (2−x)/(3−y), respectively.
+Using these expressionstogether with Al/P values deduced from AEM and 27Al MAS–NMR (Alx), stoichiometries of samples can be deduced, seeTable 5. 
+Theoretical Ge/P ratios deduced from these formulae arevery close to those obtained experimentally byAEM.
+ii)WhenGereplaces P, the new general formula is Li1+x+y(AlxGe2−x)(GeyP3−y)O12 and Al/P and Ge/P ratios are x/(3−y) and (2−x+y)/(3−y),respectively.
+In this case, Ge/P ratios deduced from theseformulae are very different to those obtained experimentally,indicating that Ge only occupies octahedral sites, see Table 5.
+From described results, it can be concluded that the incorporationof aluminium in NASICON materials takes place simultaneouslyin octahedral sites, replacing germanium, and in the tetrahedralsite, replacing phosphorus.
+According to the new substitution model, 27Al MAS–NMR spectra should be re-analysed to take into account thetetrahedral Al of NASICON compounds.
+In this case, thetetrahedral Al band should be the sum of two signals; one dueto the aluminium in AlPO4 polymorphs and the other due toaluminium replacing P atoms in the NASICON structure.
+Fig.10a and b show the deconvolution of the 27Al MAS–NMR tetrahedral band of Li1.4 and Li1.6 samples, respectively.
+In this analysis, it has been assumed that the position of thetetrahedral band of the NASICON phase (N) almost does notchange (dotted vertical line), but the position of tetrahedral Alin two AlPO4 polymorphs is different: one higher (PDF 11-0500) and other lower (PDF 48-0652) than the NASICONsignal.
+This analysis allowed an estimation of tetrahedralaluminium contents (Aly) in analysed samples.
+From theanalysis of 27Al MAS–NMR spectra, the octahedral (x) andtetrahedral (y) aluminium molar contents were deduced and,from these values, the total molar lithium content (1+x+2y)of samples was estimated.
+In Fig.11, lithium molar contentsdeduced from 27Al MAS–NMR (■) are plotted versusnominal (x+2y) compositions.
+It is observed that thecorrelation between Li contents deduced from these twosources is remarkable.
+On the other hand, plotted values arevery similar to those deduced from 7Li MAS–NMR spectra.
+Based on this fact, it is probable that the new distributionscheme deduced in this work could also be operative in otherAl-substituted NASICON compounds.
+Nandini et al.have studied A3Al2P3O12 (A=Na, K, and Rb) compounds andthey have found that these aluminophosphates have structuresdifferent from those of hitherto reported isomorphousNASICON-type compounds and contain aluminium exclusivelyin tetrahedral coordination.
+In order to confirm the distribution scheme proposed, adetermination of structural occupation sites is necessary.
+Iftetra and octahedral Al contents deduced by 27Al MAS–NMRspectra are considered in Rietveld refinements, agreementfactors were slightly (almost 0.5 units) improved.
+The newrefinements yield also more coherent values for isotropicthermal parameters and bP–ON distances.
+To better analysestructural occupation sites a joined refinement with X-ray andneutron diffraction data is required.
+This analysis is importantto explain electrical properties of these materials, see Fig.7.
+High conductivity values (10−4 S cm−1 at 298 K) and lowactivation energies (0.27–0.35 eV) have been reported fornominal x=0.4, 0.5 and 0.6 values.
+Taken into account thelow reducibility of these compounds, these materials arepromising electrolytes for “all-solid-state” lithium batteries.
+Nominal Li1+xAlxGe2−x(PO4)3 (0≤x≤1.2) series has beenprepared and structurally characterised by the Rietveldanalysis of LXRPD patterns.
+In all samples, the rhombohedralR 3¯c structure of NASICON compounds has been deduced.
+The combined analysis of 7Li, 27Al and 31P MAS–NMRresults and AEM microanalysis data reveals that aluminium islocated simultaneously in both, octahedral site, replacinggermanium, and tetrahedral site, replacing phosphorus.
+According to this analysis, the structural formula of thesecompounds results Li1+x+2y(AlxGe2−x)(AlyP3−y)O12. The newdistribution scheme proposed permits a higher incorporationof Li ions in the structure of NASICON compounds.
+Bothresults are important to improve electrical performances ofthese compounds.
+In order to confirm the Al distributiondeduced from 27Al MAS–NMR study, a detailed analysis ofsamples by neutron diffraction is required.
+This study willallow better explain excellent ionic conductivity values, closeto 10−4 S cm−1 at 298 K, deduced from electric impedanceresults.

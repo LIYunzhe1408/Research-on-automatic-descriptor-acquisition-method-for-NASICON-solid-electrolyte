@@ -1,0 +1,83 @@
+Synthesis and structure of two phosphates belonging to the ternary Sb2O5-Fe2O3-P2O5 system arereported.
+Structures of both SbV1.50FeIII0.50PO43 and SbV0.50FeIIIe0.50P2O7 phases, obtained bysolid state reaction in air atmosphere at 950 °C and 900 °C, respectively, were determined at roomtemperature from X-ray powder diffraction using the Rietveld method.
+Sb1.50Fe0.50PO43 phosphatebelongs to the Nasicon-type structure with R32 space group.
+Each P2O7 group shares its six vertices with three SbO6 and three FeO6 octahedra, andeach octahedra is connected to six P2O7 groups.
+A quasi 1-1 ordered distribution, along the b-axis,of Sb5+ and Fe3+ ions in the pyrophosphate framework are observed.
+
+However,for TiP2O7 and for most of the tetravalent cations, itwas reported that at room temperature the real MIVP2O7structure is a superstructure having the same space group butwith a unit-cell parameter a=3ao Sanz et al., 1997.
+More recently, a combination of high-resolution synchrotron,powder diffraction, and single-crystal synchrotron diffractiondata has shown that the room-temperature superstructure ofZrP2O7 is orthorhombic Pbca.
+Synthesis pyrophosphate compoundsproduced by replacing MIV, in MIVP2O7, with mixedMV/MIII cations were also reported.
+This last investigation has shown that-phase is not a simple distortion of the -phase, and thelong-range ordering of SbV and SbIII cations within theorthorhombic TaBi, NbBi, TaSb,TaNd phases were shown to have a structure closely relatedto that of cubic ZrP2O7, and no observations of extra reflectionsindicative of a superstructure have been detected
+Their roomtemperatureX-ray diffraction patterns were indexed on a cubicunit cell similar to that of ZrP2O7, but no detailed structuraldeterminations for some were reported.
+Our interest is focused on characterization of new phosphatematerials containing antinomy and iron.
+In a continuation of our search fornew materials likely to exhibit interesting physical properties,synthesis and structural characterization of two compounds.
+Syntheses of SbV1.50 and P2O7 were carried out using conventionalsolid-state reaction techniques.
+Polycrystalline samples wereprepared from mixtures of Fe2O3 Prolabo, 99%, Sb2O3Riedel-de Haën, 99.9%, and NH4H2PO4 Riedel-de Haën,99% in stoichiometric proportions.
+
+Experimental conditions included a divergenceslit of 1° and an antiscatter slit of 1°.
+XRD data werecollected from 10 to 90°2, in steps of 0.0084°, with acounting time of 30 s per step.
+The Rietveld refinement ofthe structure was performed using the Fullprof programRodriguez-Carvajal, 1997.
+A preliminarily investigation of the Sb2O5-Fe2O3-P2O5ternary diagram foresees the possibility of new phosphateswithin the pseudo-binary SbOPO4-FePO33 Figure 1.
+
+In the pattern of the 930 °Csample, peaks from the Sb0.50Fe0.50P2O7 phase disappear,and a notable decrease of SbOPO4 diffraction intensities ofSbOPO4 is also observed.
+In the 950 °C sample obtainedafter several heat treatments and with intermediate regrinding,only Sb1.50Fe0.50PO43 peaks can be detected.
+XRDpowder data revealed that Sb1.50Fe0.50PO43 crystallizes in atrigonal system and belongs to the Nasicon-type structurefamily Hagman and Kierkegaard, 1968.
+Room-temperature XRD patterns of theSb0.50Fe0.50P2O7 composition prepared at different temperaturesbetween 700 °C and 900 °C are given in Figure 3.
+
+The presence of SbPO4 is an indication ofan incomplete reaction process.
+In the pattern of the 850 °Csample, peaks of the SbPO4 and FePO33 phases disappear,and new peaks belonging Sb1.50Fe0.50PO43 appear.
+XRD resultsare compatible with the pseudo-binary SbOPO4-FePO33 diagram Figure 1.
+On heating up to 900 °C withintermediate regrinding, peak intensities for theSb1.50Fe0.50PO43 phase were found to disappear almostcompletely.
+An attempt for heat treatments above 900 °Cwas found to cause decomposition, and therefore the structuralstudy presented herein was done for the sample synthesizedat 900 °C.
+A careful analysis of the XRD powder dataof Sb0.50Fe0.50P2O7 phase showed the presence of extra reflections—an indication of a superstructure.
+Therefore, the XRD pattern of the 900 °C samplecould not be completely indexed on the basis of an idealcubic ZrP2O7-type structure, and in a first approximationSb0.50Fe0.50P2O7 was considered to be isostructural with-SbP2O7 phase Verbaere et al.
+, 1988.
+The XRD pattern of Sb1.50Fe0.50PO43 indicates that itsstructure belongs to the rhombohedral Nasicon-type family.
+The general crystallographic formula for Nasicon, phosphatescan be written as M23M1X2PO43. Note that forSb1.50Fe0.50PO43, the M1 and M2 sites are empty.
+Structure determination, using the Rietveldmethod, was therefore undertaken in two models.
+Inthe first model the refinement was made in R3¯ space group,whereas in the second the hypothesis of R32 space groupwas conducted.
+
+The refinement led to acceptable reliability factors,e.g., RB=5.6%.
+In the final refinement, Sb and Fe atomswere allowed to occupy the two possible positions, but thetotal Sb and Fe contents were constrained to 1.5 and 0.5,respectively.
+Selected interatomic distances are listed in Table II.
+In orderto facilitate the structure description, X1O6 is defined asthe site 88% occupied by Sb5+ and X2O6 the site 38%occupied by Fe3+ ions.
+The Sb1.5Fe0.50PO43 formula cantherefore be written as X1X2PO43. 
+Its crystal structureis built up by corner-sharing XO6 octahedra and PO4 tetrahedrain such a way that each octahedron is surrounded bysix tetrahedral, and each tetrahedron is connected to fouroctahedral see Figure 5.
+Refinement results also show a 2-2ordered distribution of X1 and X2 along the c-axis, givingrise to two different X12PO43 and X22PO43 units.
+Each PO4 group is connected to two X1O6 and two X2O6octahedra, and each XO6 is surrounded by three P1O4 andthree P2O4 tetrahedra.
+X1O6 octahedra are more distortedin comparison to the X2O6 octahedra.
+Compared toP1O4 tetrahedra, the P2O4 tetrahedra are more distorted.
+In all cases, the P-O distance values are in good agreementwith those typically observed in Nasicon-phosphate phasesTable II.
+In order to have more structural information, thebond valence sums BVS based on bond-strength analysiswere also computed Brown and Altermatt, 1985.
+BVS valuesfor X1, X2, and P sites are relatively consistent withthe expected formal oxidation states of Sb5+, Fe3+, and P5+ions Table II.
+X-ray powder diffraction data ofSb1.5Fe0.50PO43 derived from the Rietveld refinementCuK1:1.540 56 Å are presented in Table III.
+Since peak positions and intensities of the XRD patternfor Sb0.50Fe0.50P2O7 are close to those of the -SbP2O7-type structure , the patternwas indexed on a primitive orthorhombic cell withparameter values of a=7.8651 Å, b=15.6992 Å,and c=7.8471 Å.
+The unit cell parameters of-SbV0.50SbIII0.50P2O7 a=8.0181 Å, b=16.1343 Å, c=8.0295 Å are relatively larger than those ofSbV0.50FeIII0.50P2O7, because the ionic radius of Sb3+0.90 Å is larger than that of Fe3+ 0.645 Å Shannon,1976.
+A notable decrease of the volume unit cell from10391 Å3 for -SbP2O7 to 9691 Å3 forSb0.50Fe0.50P2O7 was also observed.
+Since the experimentalXRD pattern of Sb0.50Fe0.50P2O7 also has diffraction peaksfrom a small amount about 6 wt.
+% of theSb1.50Fe0.50PO43 Nasicon phase, the Rietveld refinementwas carried out using a two-phase model, consisting ofSb0.50Fe0.50P2O7 and Sb1.50Fe0.50PO43.
+ It should be notedthat only high-intensity diffraction peaks ofSb1.50Fe0.50PO43 appear as impurity in the XRD pattern ofSb0.50Fe0.50P2O7. 
+Since R3¯c space group is a minimal nonisomorphicsupergroup of R32, the atomic positions ofSb1.50Fe0.50PO43 used during the refinement were chosen tobe those corresponding to the R3¯c space group.
+Starting parametersfor the Rietveld refinement of Sb0.50Fe0.50P2O7were based on those reported for -SbP2O7. Sb, Fe, P, and Oatoms were assumed to be located at the 4a Wyckoff positionsof the Pna21 space group.
+Structural refinement wasdone in two steps.
+In the first step, Sb and Fe atoms wereconstrained to be distributed between the two possible typesof the 4a positions: Sb atoms at 0.510.37-0.25 and Featoms at 0.510.130.73.
+
+In the secondstep, the occupancy factors for Sb and Fe atoms within thetwo possible positions were allowed to vary, but the totalcation contents were constrained to be in accordance with thestoichiometry of the initial synthesized mixture.
+This refinementalso led to acceptable reliability factors,  RB=8.6%.
+It should be noted that, in both cases, refinements donot lead to significant changes in atomic positions.
+An examinationof the two occupancy factors Occ values obtainedfor Fe atoms at the 0.510.130.73 positionOccFe=0.921 and for Sb atoms at the 0.510.370.25 position OccSb=0.921 confirms a high tendencyof an ordered distribution of Fe and Sb atoms Table IV.
+Itshould be noted that refinement of occupancy factors for Sband Fe atoms without constraints leads to unacceptable occupancyfactors.
+It is likely that preparation of single crystalsof this phase can give information about the presence of asmall stoichiometric deviation in Sb0.50Fe0.50P2O7. Ob-served, calculated, and difference XRD patterns forSb0.50Fe0.50P2O7 in both cases, two-phase modelSb0.50Fe0.50P2O7 and Sb1.5Fe0.50PO43 and singlepyrophosphatephase model in inset, are given in Figure 6.Selected interatomic distances of Sb0.50Fe0.50P2O7 aregiven in Table V.
+X-ray powder diffraction data, obtainedfrom the “observed intensities” of the Rietveld refinementCuK1:1.54056 Å of Sb0.50Fe0.50P2O7, are presented inTable VI.
+
+An analysis of selected interatomic distances shows thatFe2O6 octahedra are slightly distorted in comparison toSb1O6 octahedra.
+Each Sb1O6 octahedron is surroundedby six Sb1O6 and six Fe2O6 at a distances of about5.61 Å, and each octahedron is connected to another octahedronby two of its vertices, via one edge of a PO4 tetrahedronfor every vertex Figure 8.
+A similar description canexplain the neighborhood of every Fe2O6 octahedron.
+
+In both Sb1.50Fe0.50PO43 and Sb0.50Fe0.50P2O7, a hightendency of an ordered cation distribution within the frameworkshas been verified.
+The ordering of Sb5+ and Fe3+ cat-ions is generally dependent on the size difference, chargeimbalance, or both between the cations.
+Of interest is theordering between Sb5+ and Fe3+ cations in theA0.50SbFePO43 A=Mn,Cd,Ca Nasicon phases, which hasbeen previously reported.
+Since theionic radii of Sb5+ 0.74 Å and Fe3+ 0.645 Å cations arerelatively comparable Shannon, 1976, the exact reason behindthe cation ordering within the octahedral framework ofthe A0.50SbFePO43 compounds are shown to depend on thedifference between their oxidation states.
+Despite the tendencyof a mixed occupancy within both the X1 and X2sites of Sb1.5Fe0.50PO43 crystallographic formulaSb0.88Fe0.12X1Fe0.38Sb0.62X2PO43, a 2-2 ordering cationicdistribution along the c-axis are shown to be favored.
+Indeed, in both Sb1.50Fe0.50PO43 and Sb0.50Fe0.50P2O7, thedriving force for ordering distribution between Sb5+ and Fe3+cations seems to be the charge imbalance between the twocations.
+On the other hand, as a consequence of the presencein the two compounds of both i elements that can havemore than one oxidation state such Sb5+ and Fe3+ and alsoii vacant sites in the structures, potential applications willbe envisaged, such as for the use of these compounds aselectrode materials for lithium batteries.

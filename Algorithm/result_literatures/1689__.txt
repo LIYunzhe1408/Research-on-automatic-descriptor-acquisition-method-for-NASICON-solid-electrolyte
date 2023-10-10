@@ -1,0 +1,127 @@
+Despite the discovery of sodium superionic conductivity in Na1+xZr2SixP3−xO12 (0.4bxb0.8) compounds in 1976, up to now their synthesis inhomogeneous thin films has not been achieved on wide surfaces.
+In Part I, we have shown the limitations of the classical radiofrequency sputtering methods for depositing this kind of films with highmicroscopic and macroscopic chemical homogeneities.
+The present paper (Part II) proposes a new sputtering method based on the reactive cosputteringof ZrSi alloy and Na3PO4 targets.
+The last one is powered by a high frequency pulsed direct current (DC) generator.
+It is possible to tunethe discharge voltage as the current is regulated thanks to the modifications of the discharge frequency and/or the pulse off-time.
+The depositionrate of the Na3PO4 target is strongly influenced by the discharge voltage.
+Thin films were deposited in the Na2O–ZrO2–SiO2–P2O5 system with ahigh physical quality.
+The experimental configuration allows to adjust the Na/Si atomic ratio by varying the intensity dissipated by the ZrSi targetand the target–substrate distance.
+Hence it is possible to reach on a large area the ratio 1.5 characteristic for Na3Zr2Si2PO12 compound.
+Thestructural analysis of a selected film showed an amorphous film in the as deposited condition.
+After annealing at 700 °C the monoclinic structure,which corresponds to the superionic conducting phase Na3Zr2Si2PO12 was obtained.
+Sodium (Na) SuperIonic CONductors (NASICON) areinteresting candidates for applications in solid state electrochemistrywhere fast ionic conductivity is required.
+
+Moreover itpresents high chemical durability versus molten sodium andsulphur .
+Hence these materials can be used as electrolytesfor applications in the fields of gas sensors, ion selectivemembranes, Na–S batteries .
+The interest in thin filmsincreases due to the possibility of miniaturisation and a possiblereduction of the electrolyte resistance.
+Although fast sodium transport in such compounds has been reported in 1976 byHong and Goodenough only few contributions deal withNASICON coatings.
+Few attempts were made by pulsed laserdeposition and radio-frequency magnetron sputtering.
+A deviation from the targeted composition was systematicallyobserved and was expected to originate from the highmobility of Na+ species.
+Part I was dedicated to the exploration of the classicalmagnetron sputtering methods for the preparation of thinNASICON films.
+It has been shown that these depositiontechniques are unsuitable to achieve microscopic and macroscopichomogeneous films.
+In this paper (Part II), a new way tosynthesise thin NASICON films on large substrates at highreproducibility and high chemical homogeneity is proposed.
+This sputtering method is based, on the one hand, on the cosputteringof two targets parallel to a rotating substrates-holder.
+On the other hand it is based on the high frequency DC supply of a ceramic target.
+The influence of the experimentalparameters on the films properties is presented.
+A particularattention is given to the evolution of the chemical compositionof the coatings as a function of the substrate position and to theirstructural evolution as a function of a subsequent annealing.
+Thin films belonging to the Na2O–ZrO2–SiO2–P2O5 systemwere sputter-deposited on stainless steel, silicon and glasssubstrates.
+In order to have the possibility to adjust easily thechemical composition of the films, their constitutive elementsare deposited from two targets.
+The reactive constitutiveelements (Na,P) with regard to ambient air are combined withina ceramic Na3PO4 target obtained by cold pressing Na3PO4powders at 2.5 ·108 Pa.
+The second target is a Zr0.52Si0.48 discobtained from a powder mixture of Zr and Si hot pressed at1000 °C for 5 h at 2.5 ·107 Pa under argon.
+Thin films areprepared from two targets in the presence of a reactive argonoxygenmixture.
+The targets are powered by Advanced Energygenerators (DC supply equipped with a 20 kHz Spark-le unitand Pinnacle+with discharge frequencies ranging from 0 to350 kHz by steps of 5 kHz).
+The experimental device is a 40-l sputtering chamber pumped down via a mechanical pump anda turbo-molecular pump allowing a base vacuum of 10−4 Paequipped with two magnetron systems separated by 120 mmfrom each other (Fig.1).
+The distance between each target andthe substrates-holder can be adjusted.
+In all experiments, thetarget–substrate distance for the ceramic target d1 was fixed at46 mm and the target–substrate distance for the metallic targetd2 varied in the range 50–146 mm.
+The substrates are placed ona rotating substrates-holder parallel to the targets surfaces at agiven distance from the substrates-holder axis r (see Table 1).
+The argon and oxygen flow rates are controlled with MKSflowmeters and the pressure is measured using a MKS Baratronabsolute gauge.
+The morphology and chemical composition ofthe coatings were respectively observed with a Philips XL30.
+SFEG (Field Effect Gun) scanning electron microscope anddetermined by EDS (Energy Dispersive Spectroscopy) measurementswith the same apparatus.
+The structure of filmsis studied by grazing incidence (4°) X-ray diffraction (XRD)using Co Kα radiation.
+The deposition rates are obtained bythickness measurements using the step method with a Talisurfprofilometer allowing an accuracy of ±20 nm.
+Except in special cases, the sputtering rate is higher with ametallic target than with a ceramic one .
+Here, both kinds oftargets are co-sputtered.
+Therefore, the limiting factor for thetotal deposition rate is the Na3PO4 target even if the formationof Na3Zr2Si2PO12 films requires 2 ZrSiO4 moles for 1 Na3PO4mole.
+Hence, to achieve a good reproducibility and to adjust thesputtering rates, it is necessary to set the oxygen gas flow rateFO2 in the compound sputtering regime (CSR) for the Zr–Sitarget.
+Fig.2 gives the evolution of the ZrSi target voltage as afunction of FO2. The maximum of voltage on the deoxidationand oxidation curves is observed near 3 sccm.
+It is characteristicof a significant modification of the surface properties of thetarget and can be associated with the transition between theelementary sputtering regime (ESR) and the compound sputteringregime (CSR).
+For this study FO2 has been maintained at5 sccm (Table 1).
+It is expected that electrically insulating targets have to besputtered via radio-frequency (13.56 MHz) discharges.
+Nevertheless,this sputtering mode is related to low sputtering rates.
+It induces perturbations of the measurement devices andcauses chemical instability of the Na3PO4 target.
+Moreover, thedifference of the potential between the plasma and thesubstrates-holder is practically two times higher than for adirect current (DC) discharge .
+As described in Part I, thisparameter is assumed to drive the formation of microscopic andmacroscopic heterogeneities.
+In this study, the Na3PO4 targetwas sputtered with a high frequency pulsed-DC (HF-DC) discharge.
+The ignition and stability of the discharge for such aninsulating target should be guaranteed due to the fact that thefrequencies used (250–350 kHz) are between the conventionalDC (b100 kHz) and RF discharges (13.56 MHz).
+Fig.3 gives the evolution of the deposition rate for this targetsputtered alone as a function of the discharge voltage.
+Thedeposition rate is quite stable and very low below 175 V andincreases between 175 and 250 V to stabilise around 65 nm/h for higher values of the discharge voltage.
+This behaviourhighlights the necessity to control the discharge voltage for agiven value of the discharge current.
+Hence, the discharge voltage shall increase continuously asthe cut-off time of the discharge Toff and (or) the sputteringfrequency f increases.
+The evolutions of the discharge voltagefor sputtering experiments of the Na3PO4 target under variousconditions and for the sputtering of the ZrSi target as a functionof Toff are reported on Fig.4. 
+On the same figure and on the basisof Eq.(1), the evolution is reported from a theoretical point ofview for the Na3PO4 target with 0.5 A dissipated on the targetand f=250 kHz.
+The experimental curves for both kinds oftargets present oscillations with a decreasing mean value of thedischarge voltage as Toff increases.
+The amplitude of theseoscillations is significantly higher for the insulating Na3PO4target than for that of the metallic ZrSi.
+Indeed, the phenomenonmainly depends on the intrinsic characteristics of the generatorand is secondly influenced by the nature of the target.
+Moreparticularly, we expect that the target impedance is an importantfactor to take into account.
+Up to know, the nature of thisbehaviour is not clearly identified.
+This could result from thelimitations of the electronic components of the supply and iscertainly linked to the particular features of the HF-DC mode.
+The curves for the Na3PO4 target suggest the following remarks:• The maxima and minima of potential occur for the samevalues of Toff independently of the values of the frequencyand current.
+ Decreasing the frequency induces a shift of the voltagecurves towards higher voltage.
+It is possible for various values of the discharge current toobtain the same behaviour in terms of evolution of thedischarge voltage by changing the frequency, at least for alarge range of Toff.
+The possibility to tune the discharge voltage via Toff and fduring a deposition run with a current regulation allows to adjust simultaneously the Ar+ flux at the target surface and theenergy of Ar+ ions accelerated towards the target surface .
+This is particularly interesting, for example, to vary the depositionrate while keeping constant the spatial distribution ofsputtered species.
+
+Fig.5 gives the evolution of the discharge voltage during thefirst minutes of a sputtering experiment of a Na3PO4 target fordifferent discharge voltages.
+It can be observed, that the voltagesuddenly decreases after 1–2 min of approximately 25% of theinitial value.
+By increasing the discharge voltage the suddendecrease appears earlier.
+With increasing sputtering times thevoltage slowly increases and stabilises after some minutes tovalues below the initial value.
+This behaviour can be interpretedby the heating of the target surface and by the transformation ofNa3PO4 from a ionic insulating tetragonal phase to a ionicconducting cubic phase at 330 °C .
+By increasing the initialvoltage the impact energy of Ar+ ions increases, resulting in afaster heating of the target.
+The mobility of Na+ ions in thetarget is supposed to allow an evolution of the discharge voltagevia the modification of its impedance.
+On this basis, series of experiments were realised .
+The discharge voltage for the Na3PO4 target was set around320 V; d1 and the current dissipated by the target surface INPOwere fixed at 46 mm and 0.7 A, respectively.
+The valuesof d2 and of the current dissipated on the metallic target IZSwere varied in order to attain various compositions in theNa2O–ZrO2–SiO2–P2O5 system.
+In accordance with Eq.(1),the discharge voltage for the metallic target UZS increasesmonotonically with IZS.
+Fig.6 shows the SEM micrograph of a brittle-fracture crosssection for a film deposited on glass slide with N4 conditions.
+Itappears clearly that the coating is dense and defect free.
+Exceptthe intrinsic properties of NASICON, these parameters are the most important.
+Therefore, most of the applications involvingNASICON electrolytes require a resistance to short-circuits andto the permeation of fluids.
+Hence, the required thicknessdepends on the density and can, in the best cases, be limited to100–200 nm.
+The continuity of the fracture relief between thesubstrate and the film is significant of a good adhesion of thefilm.
+The same behaviour is observed for the films deposited onstainless steel.
+A comparison with the morphology of films RFsputtered from ceramic targets (Part I) shows an importantimprovement of the quality of films with the sputtering methodused here.
+Fig.7 represents the evolution of the depositionrate as a function of r for various experimental conditions.
+The deposition rate is only slightly affected by a modification of d2when the other experimental parameters are kept constant.
+Themain tendency is a preferential deposition close to the centre ofthe substrates-holder (low values of r) as d2 decreases.
+Acomparison of the evolutions for the conditions N3 and N4 onthe one hand and of N2 and N5 on the other hand clearlyhighlights the enhancement of the deposition rate as IZS increases.
+Except for N3 conditions, the variation of the depositionrate along r is low and does not exceed 20% of themaximum value in the region of r 30–70 mm.
+Hence the lateralthickness of the coating is homogeneous.
+This fact is of greatinterest because it should ensure low lateral variations of theionic resistance of thin NASICON electrolytes in solid stateelectrochemical devices.
+The evolution of Na/Si and Zr/Si atomic ratios as a functionof r is reported on Figs.8 and 9 respectively.
+In Fig.8, N1 andN3 do not show significant differences in the deposition rate.
+Sienrichment can be induced by decreasing d2. Nevertheless, it isnot sufficient to reach the targeted ratio of 1.5 characteristic forNa3Zr2Si2PO12. By adjusting d2 and IZS simultaneously, it ispossible to reach this ratio for at least two experimentalconditions (N4, N5).
+Moreover, the lateral chemical homogeneityis excellent in the r region of 20–80 mm for N1 to N3. ForN4 and N5, this homogeneity is significantly improved and isexcellent for the whole range of r values.
+This fact certainlyresults from the sharpening of the angular distribution ofsputtered Si as UZS increases .
+For the same experimentalconditions, it can be observed on Fig.9 that the Zr/Si ratio,characteristic of the transfer of species from the metallic targetto the film, is close to 1 on a large range of r.
+Therefore, the cosputteringmethod associated with the HF-DC supply of theNa3PO4 target is suitable to synthesise dense films on largesurface areas with a stoichiometry close to Na3Zr2Si2PO12. Thehypothesis of an influence of the sputtering mode on thechemical and physical qualities of films (see Part I) is confirmedby the present results.
+Fig.10 gives the XRD patterns for a NASICON filmcorresponding to r=60 mm synthesised under condition N4after annealing at various temperatures.
+The film is amorphousin the as-deposited state and crystallises after annealing attemperatures close to 700 °C.
+This crystallisation temperature issignificantly lower than that obtained for bulk compoundssynthesised by sol–gel methods (∼1000 °C) .
+The mainstructural characteristics correspond to the monoclinic C2/csymmetry relative to Na3Zr2Si2PO12 bulk compounds at roomtemperature .
+Nevertheless, additional peaks are observed inthe higher region of the diffraction angles, which could beascribed to the Si substrate and to tetragonal ZrO2 also stated forbulk NASICON synthesised by sol–gel.
+It appears that the sputtering method presented in this paper issuitable to synthesise thin NASICON films chemically homogeneousat microscopic and macroscopic scales.
+The depositionrate is higher than with conventional methods (see Part I) andits lateral variation is low.
+A film of convenient stoichiometryexhibits a structural organisation owing to highly conductingNASICON phases after appropriate annealing at 700 °C.
+A novel sputtering method was used to deposit thinNASICON films in the Na2O–ZrO2–SiO2–P2O5 system.
+It isbased on the reactive co-sputtering of ZrSi alloy and Na3PO4targets.
+The main characteristic of this approach is to supply theNa3PO4 insulating target with a high frequency pulsed DC (HFDC)generator.
+It is expected to minimize the difference ofpotential between the plasma and the substrates-holder.
+Consequently, the chemical microscopic and macroscopicheterogeneities are reduced.
+The discharge voltage of theNa3PO4 target presents a singular evolution as a function of thecut-off discharge time Toff and with the frequency f.
+Thisbehaviour can be advantageously exploited to tune thedischarge voltage at a convenient level as the discharge currentis regulated.
+Hence, the sputtering rate of the Na3PO4 target canbe adjusted easily.
+The variations of the current dissipated onthe ZrSi target and of the target–substrate distance d2 allow toapproach the Na3Zr2Si2PO12 composition on large surfaceareas.
+Resulting films are dense and defect free.
+A representativefilm, amorphous in the as deposited state, crystallisesafter annealing at 700 °C.
+The crystalline structure ismonoclinic and corresponds to the Na3Zr2Si2PO12 ionicsuperconducting phase.
+The sputtering method proposedhere (Part II) allows to avoid the drawbacks of the classicalRF sputtering of a NASICON target (Part I) for the synthesis ofNa1+xZr2SixP3−xO12 0bxb3 films.

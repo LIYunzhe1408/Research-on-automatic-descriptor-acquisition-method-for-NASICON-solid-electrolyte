@@ -1,0 +1,162 @@
+Gas sensors has been currently in great demand because of serious concern over environmental pollution and public health considerations resulting from tremendous growth of industrialisation.
+Concurrently, there have been continuous efforts to obtain sensors with improved performance.
+The performance of any solid-state electrochemical gas sensor has been always rated on its response time, thermodynamic stability, operating temperature, gas sensing ability, sensitivity and gas concentration range, which is to be sensed.
+This article reviews the factors contributing towards a gradual development of electrochemical solidstate gas sensors in terms of a continuous tailoring of its two basic components, i.e.solid electrolyte and reference electrode.
+
+Atmosphere, which makes up the largest fraction of the biosphere, has been a dynamic system that continuously absorbs a wide range of solids, liquids and gases from both natural and man-made sources.
+Clean dry air is composed of 78.09% nitrogen and 20.94% oxygen by volume.
+The remaining 0.97% has been comprised of gaseous mixture of carbon dioxide, carbon monoxide, helium, argon, krypton, nitrous oxide as well as very small amounts of other organic and inorganic gases whose concentration in the atmosphere varies with time and place.
+The portion of these substances, which interacts with environment to cause toxicity, diseases, aesthetic distress, psychological effects or environmental decay, has been labelled by man as a pollutant.
+Today, the whole world is in the grip of global warming, ozone layer depletion, acid rain and toxicity resulting from various chemical pollutants (Table 1) released by tremendously grown industries, automobiles and homes.
+The economic performance ofindustrial processes and their safety as well as operability to a large extent depends on how well they have been controlled.
+Therefore, considerable incentives exist to either employ controls to processes that lack in them or improve the control of those already being regulated.
+The Gas sensor has been a root of any intelligent control system used for improved process operation and environmental protection.
+Consequently, there has been ever increasing demand for a compact economical sensor for developing a device, which detects gases in real time.
+Gas sensors and related devices find application in combustion, conservation of the global environment, control of air quality in green houses, automobiles, biotechnology, medical, brewing technologies, atmospheric control in beer and wine chillers, air conditioners, control of various industrial, chemical and biological processes, mines, houses etc.
+
+Gases of interest, their concentration range/ threshold concentration, important conventional analytical detection techniques and use of solid-state sensors (underscored) along with the end users are summarised in Table 2. Both legislation and marketing factors have greatly influenced devices based on the gas sensor in recent years and the state-of-the-art-achieved technology .
+However, the current dominant influence with regards to gas detectors/analyser development, without doubt, has been pressured from environmental protection and vehicle pollution control.
+Electrochemical gas sensorsSome of the available analytical techniques for measuring gases (Table 2), such as infrared, radiography, isotope microprobe or laser mass spectroscopy are sophisticated and capital incentive but can only be used in laboratory for qualitative or semi-quantitative analysis.
+In recent years, however, many efforts have been focused on the development of gas sensor technologies to detect gas content in various conditions, such as chemo-luminescence, ionselective electrode, biochemical sensor, semiconductor sensors, optical sensor and solid electrolyte sensor.
+Chemoluminiscence methods are affected by sample turbidity, colour and the presence of metal ions.
+They also require a long response time and additional reagents.
+Ion-selective electrodes have been available commercially since 1974. They have the advantage of simple design, fast response and compatible with automatic and computerised systems.
+Turbidity and colour of the samples have not they can only be applied in aqueous solution.
+However,Biochemical gas sensors using a gas-permeable membrane with immobilised bacteria have been useful in detection of H2 in the part per million (ppm) range.
+The selectivity of the microbiosensor has also been satisfactory.
+These sensors, however, cannot be applied for H2 detection in industrial gases at elevated temperatures.
+Semiconductor sensors are the most widely developed and commercially applied one during the last decades.
+Inprinciple, there are two types of semiconductor sensors: one, either based on semiconducting metal oxide films or a mixture of semiconducting oxides, while the other type has been based on metal phthalocynine organic semiconductors.
+The poor selectivity to different gaseous species remains a serious problem in the utilisation of semiconductor gas sensors.
+Solid electrolyte sensors have been one of the most promising gas sensors for commercial applications because of their high selectivity, ease of operation, fast response, simple construction and scope for miniaturisation.
+Particularly, galvanic sensors have received a major share of attention looking at their inherent simplicity and obtaining a direct electrical readout.
+The pace of advance in galvanic devices has been further accelerated by the progress in the fields of solid-state ionics and electronics.
+Success with the solid-state oxygen detector, based on stabilised zirconia in the ppm concentration range, has stimulated much interest among scientists and engineers to undertake research activity into other types of sensors for the measurement of ambient and industrial pollutants.
+It is well known that the quality performance of any all solid-state electrochemical gas sensor is always rated on its response time, thermodynamic stability, operating temperature, gas-sensing ability and sensitivity.
+The efficiency, with which the three basic constituents of sensor, i.e.
+the solid electrolyte, the reference electrode and the working electrode function, solely governs its performance.
+The magnitude of ionic and electronic conductivity, chemical and thermodynamic stability, phase and form of solid electrolyte and reference electrode are the determining factors of the efficiency.
+The rapid advancement in the devices is thus chiefly linked with the discovery of advanced materials and processing techniques.
+Before touching these aspects, it is imperative to discuss experimental details pertinent to sensor fabrication and characterisation.
+
+The gold or platinum film (depending on sensors, SO2/CO2/O2) on the flat surface of the electrolyte, opposite to reference electrode, was obtained using dc/radio frequency (rf) sputtering.
+Initially, the sputtering time was varied so as to optimise the thickness of the Pt/Au film.
+
+A little discrepancy/inaccuracy during the testing leads to wrong conclusions and impedes greatly the progress of the development work.
+Thus, it is very crucial to characterise the sensors using an infrastructure having high reliability.
+The experimental setup for sensor characterisation used in the present investigation is shown schematically in Fig.1. Some of the crucial stages, e.g.sensor heating, gas mixing and high impedance data acquisitions are handled with immense care.
+The temperature of the cell, during the characterisation, was maintained closed to 400 and 550±1 °C for CO2 and SO2 sensors, respectively.
+Using flowmeters and a gasmixing sub-system (Fig.1), a blend of appropriate percentage of CO2/SO2 gas, while keeping oxygen 21% and remaining carrier argon gas (78%), was obtained.
+The pre-decided test gas was allowed to flow through the probe assembly.
+Simultaneously, the variation of cell electromotive force (emf) was recorded as a function of time after every 10 s using Solatron electrochemical interface or Keithley 617 programmable electrometer or 236 SMU.
+The concentration of the gas is toggled from x1 to x2 ppm, and subsequently, the open-circuit voltage as a parametric function of time was recorded to determine the response time and reversibility of sensor.
+To check the cross interference of other gases, the sensor was exposed to standard gas mixtures containing impurity gases.
+SO2 gas sensorIn the very first attempt of making a SO2 sensor, the electrolyte Li2SO4-K2SO4-Na2SO4 system in the moltenFig.1 Schematic representation of experimental setup for multichannel complex impedance measurementform has been used.
+The use of molten salt electrolyte, however, posed certain difficulties like: (1) quite high operating temperature at 925 C, (2) corrosion of the cell because of high reactivity and (3) need of periodic change to compensate evaporation losses and maintenance of reference gas electrode.
+The use of electrolytes in the solid phase obviates the above-cited problems because of their following known characteristics.
+(1) Imperious barrier to liquids and gases, however, allows one or more ions to migrate through its lattice when tendency of such migration exists.
+facilitates the measurement of chemical potential difference of migrating species on either side in terms of emf in a properly constituted cell combination.
+(3) It executes thermal and chemical stability at high temperatures and (4) possesses corrosion resistance.
+Gauthier and Chamberland  in 1977, in their pioneer work, have used K2SO4 solid electrolyte in the pellet form with the gas reference electrode for detecting and measuring SO2/SO3 concentration.
+Following this work, many attempts have been made to use single-phase alkali sulphates, possibly with a view to further reduce the operating temperature and achieve other merits like chemical and thermodynamic stability, sinterability etc.
+In most of the single-phase solid electrolyte sensors, however, transient cell potentials have been seen because of micro-cracks formed in the electrolyte during thermal cycles of heating and cooling.
+Thus, the poor sinterability, hygroscopic nature and micro-cracks have been the chief factors responsible for reported drifting in cell voltage of single-phase solid electrolyte sensors.
+The single-phase solid electrolyte sensors with gas reference electrodes, on one hand, have been found reliable about the cross-sensitivity, but on the other hand, they show voltage instabilities.
+
+In another approach, to overcome the difficulty associated with the polycrystalline sulphates, several Japanese investigators have fabricated sensors using a thin-film sulphate electrolyte (auxiliary electrode) on the sodium super-ionic conductor.
+These oxides have been employed to avoid the permeation of gas because in addition to good sinterability, no structural phase transition takes place during heating from room temperature to their melting point.
+The sulphate-based electrolyte has been physically or electrochemically coated on the surface exposed to the test gas acting as an auxiliary electrode.
+However, a standard gas reference with a known SOx partial pressure has been found necessary.
+To overcome this, considering the ion exchangeability of Na+–β″alumina, polycrystalline Ag+–β″-alumina has been obtained and used with Ag metal to realise a complete solid state SOx sensor [7].
+A novel SOx sensor using a temperature gradient has been reported by Rao et al.
+The Na+–β″-alumina in the tubular form has been used as a solid electrolyte.
+The response time of this thermal gradient Na–β″-alumina sensor was found to be about 10 min.
+Additionally, although the experimental results were consistent with the theoretical predictions, the reference electrode complexity still persists.
+Hence, the concept of temperature gradient sensors has not inspired research activity any further to take up.
+The unique concept of using metal–metal sulphate (Ag: Ag2SO4) as a solid reference electrode has not only removed the complexity of maintaining and circulating the stable concentration of reference but also increases the scope for miniaturisation of the sensor.
+A clear-cut view of the gradual development of existing sulphate materials and the cited merits of the solid reference electrode for SOx sensor evoked interest to use multi-phase electrolytes having chemical and thermodynamical stability.
+The development and basics of sulphate-based solid electrolytes have been reviewed previously .
+is worth mentioning here thatthe sensitivity (dE/ dPSO3) of the sensor can be extended by appropriately monitoring its operating/working temperature.
+The commensurable results for sensors, particularly, with gas reference have been observed .
+ Because the sensor emf is chiefly linked with the partial pressure of electrochemically active SO3 ions, it can be correlated with the SO2 to SO3 conversion reaction constant K.
+The variation of K with temperature suggested a considerable decrease in electro-active SO3 partial pressure with temperature; there-by, it may be possible to detect high SO2 concentration .
+From this, one can infer that the sensitivity for SO2 gas may be extended further in the high-/lowconcentration region by increasing/decreasing the operating temperature.
+Advantages of Ag2SO4-based solid electrolytesThe Ag2SO4-based solid electrolytes opted for our investigation have been quite successful in offering the following additional advantages when compared with the Li2SO4: Ag2SO4 solid electrolyte: (1) It is stable in the Ag–O–S system, (2) Ag2SO4 is not hygroscopic, (3) it has no cationic inter-diffusion between electrolyte and reference electrode, (4) it exhibits low activation enthalpy, (v) it has better mechanical integrity with the Ag:Ag2SO4 solid reference electrode and (vi) it has good sinterability.
+Thus, a large number of silver sulphate-based electrolytes have been tailored for the development of a SO2 sensor device with a view to reduce operating temperature, response time and obtain long-term stability.
+Various approaches adopted include: (1) classical isovalent doping in Ag2SO4, (2) aliovalent doping in Ag2SO4, (3) new binaries of Ag2SO4 with MSO4 (M=Ca, Ba) and Me2SO4, where Me=Cs, Gd2 and La, and (4) dispersion of the second insoluble insulating phase and Ag+-conducting glass.
+A comparison of the silver sulphate-based solid electrolyte studied in our laboratory with the reported one is given in Table 3.In any sensor development activity, optimisation of response time, sensitivity and stability are of great concern.
+Because the sensors (in most of the applications) are used in controlled loop feedback systems where the emf generated is fed back to the control circuits to adjust the appropriate parameters to optimise the process, the fast response of the sensor to variations of gas concentration is extremely important.
+In this regard, the shape and structure of the working electrode play vital roles, and hence, efforts were made in the present investigation to optimise them.
+
+Figure 2a clearly indicates that the sensor having the working electrode obtained by sputtering for 10 min does not respond at all to the change in gas concentration.
+On the other hand, the response time of the sensor (Fig.2c) sputtered for 20 min is very large (>60 min).
+The sensor responds very fast (1– 2 min) for the Pt film that was obtained by sputtering for 15 min (Fig.2b).
+These results indicate that the porosity of the Pt-film should be optimised to obtain fast response time.
+A close look at the response of sensor obtained by 15min sputtering time (Fig.2b), however, indicates poor reversibility.
+To overcome this, the porous Pt film (15-min sputtering time) is obtained on the partial surface of the sensing side as indicated in Fig.
+3a
+
+The sensor exhibits perfect reversibility.
+Moreover, the time required to attain 90% of saturation value, which we define as the response time, is found to be 45 s.
+Mari et al.have used three different configurations of the measuring electrodes to minimise the sensor response time.
+The platinum sputtered on the sulphate electrolyte, having the largest number of triple points because of the porous structure of platinum film, presents the shortest response time.
+Moreover, according to them, the response time of the gauge has been reported to be dependent on electrolyte thickness.
+In the best case of platinum-sputtered (2 mm thick) film on electrolyte, a minimum response time .
+Worrell and Liu have used additional catalyst V2O5 in the upstream of gas system to reduce the response time further.
+Later, Liu et al. in their study have employed three different additional catalysts, V2O5, Pt-coated alumina single-bore tube and Pt-coated quartz with a view to achieve faster equilibrium between the SO2, SO3 and O2 gas mixture and ultimately a fast response.
+It is interesting to note that the response time has been seen (to a first approximation) to be independent of gas concentration and its flow rate .
+A large number of sensors have been fabricated using various sulphate-based multi-phase electrolytes and tested.
+A comparison of various SO2 gas sensors is given in Table 4.evident.
+In addition, this gas is very difficult to detect by conventional gas sensors for the reason of its high stability at ordinary temperatures.
+Many kinds of compact CO2 sensors using various materials, such as solid electrolytes , mixed oxides , zeolites , polymers with carbonate solutionsand so on, have been investigates so far.
+None of them seems to have achieved sufficient performance characteristics for practical use.
+Among these, solid electrolyte-based sensors are of particular interest again from the viewpoint of low cost, simple structure, high sensitivity and simplicity of the CO2 detection mechanism.
+Because multiphase solid electrolytes are advantageous over the single phase, a number of multi-phase systems were studied.
+The conductivity data of optimised composition is summarised in Table 5.CO2 gas sensorThe demand for reliable and economical CO2 gas sensors with a large detection range, high sensitivity, good selectivity, rapid response and high accuracy has becomeTable 4 A comparison of SOx sensors with reported oneSimilarto SO2 sensors discussed above,intially, a standard gas reference has been used to detect CO2. Recently, Maier and Warhus [34, 35] have construct a simple electrochemical cell using a solid reference that responded to PCO2 in a thermodynamic way.
+
+
+Evidently, the emf of the sensor increases exponentially from 500 mV and attains 650 mV (saturation in emf) on switching the gas concentration from 250 to 1,000 ppm and vice versa.
+The response time is found to be ≈45 s.
+The identical behaviour of the sensor (nature of change and saturated emf value) on each cycle (Fig.4a) suggests good reversibility.
+The variation of sensor emf with time at a fixed CO2 partial pressure (at 400 °C) is shown in Fig.4b.
+As seen, there is no change in the emf with time indicating a good long-term operation stability.
+Furthermore, it suggests negligible electronic transport number in the heterogeneous solid electrolytes under investigation.
+Figure 5a,b reveals that the sensor obeys the Nernst law.
+It is worth mentioning here that the electrolyte content in the reference electrode was optimised so as to achieve good electrode–electrolyte interface thereby good reversibility, stable cell emf and fast response time.
+Figure 6 depicting the variation of emf with operating temperature of sensor reveals a good response over a temperature range 300–490 °C.
+It is worth mentioning here that the response time was faster at higher temperature visà-vis lower one.
+It is also been inferred that for the detection of a higher CO2 concentration, the sensor should be operated at relatively lower temperature.
+On the other hand, it should be operated at high temperature for very low concentrations; that is, in changing the operating temperature in here also, one can modify detection/sensitivity range.
+The cross-sensitivity for NO2, H2 and Cl2 is found to be negligible.
+The performance of a few CO2 sensors investigated is compared with earlier reported one in Table 6.
+Later, he elaborated this idea and developed a sensor using various new solid-state open-reference electrodes .
+Liu and Weppner , on the other hand, have developed a CO2 sensor using a solid metallic sodium as the reference electrode, but sealing of the reference electrode has been mandatory.
+In such sensors, apart from the experimental difficulties with the alkali metal, both O2 and CO2 affect the cathodic side and requires very strict sealing.
+The sealing problem has also not been avoided by using sodium bronzes.
+In this regard, the use of open reference electrode in CO2 sensor is most convenient and easy method to prepare.
+Furthermore, it is convenient to employ for a number of practical purposes.
+The number of electrochemical cells using optimised solid electrolyte in conjunction with open reference were fabricated and characterised.
+The general sensor configuration was:where Me=Li/Na and X=Zr/Ti/Co.
+Most of the solid-state commercially available sensors require heating to acquire fast ionic conductivity.
+Certain proton conductors keep relatively high ionic conductivity even at room temperature.
+Utilisation of room temperature proton conductor into the electrochemical cell can eliminate the use of liquid electrolyte, leading to more attractive all solid-state gas sensors that can be operated at room temperature.
+Potentiometric oxygen gas sensors using fluoride ion conductors have shown slow response time at room temperature.
+Moreover, the response mechanism was complex.
+Preliminary results of amperometric sensors have demonstrated faster response time then potentiometric ones at room temperature.
+Hence, work was undertaken to study room temperature amperometric oxygen sensor.
+the sensorfor determination of oxygen partial pressure was designed using Nafion, a protonconducting solid membrane, as electrolyte and porous platinum as working electrode (Fig.7a).
+Practically, the Nafion, film (9 and 1 mm diameter and thickness, respectively) was punched out from the sheet obtained from Aldrich chemicals, USA.
+A porous Pt film was sputtered on both flat surfaces of the film using rf sputtering.
+Two identical cells were obtained and mounted in a specially designed probe assembly, as shown in Fig.7b.
+In this case also, sputtering time to obtain Pt film was optimised in a similar way to that for SO2 and CO2 sensors.
+The O-rings used do not allow any gas permeation/ leakage from either compartment.
+Cu mesh is used to draw electrical contacts.
+A voltage of about 500 mV was applied across the cell-I with the help of Solatron electrochemical interface and allowed to pass moisturised gas through it.
+The hydrogen gas (reference) is obtained on the reference side of the test cell-II.
+The test gas, with pre-decided O2 is allowed to pass through the other partial pressure, compartment of sensor, and simultaneously, the shortcircuit current is measured as a function of time.
+It was observed that the sensor responds very fast to the change in O2 partial pressure and attains equilibrium within a time of less than 60 s.
+One of the major limitations of using zerconia-based solid electrolyte in the measurement of oxygen partial pressure has been the onset of electronic conductivity at low oxygen partial pressure.
+
+A few sensors using hydrogen uranyl phosphate (HUP) were also obtained and characterised.
+Noteworthy, in both the the response time and short-circuit current sensors (with Nafion and with HUP) is found to be moisture sensitive.
+A comparison of room temperature oxygen sensors is given in Table 7.

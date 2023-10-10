@@ -1,0 +1,45 @@
+New trivalent rare earth ion conducting (RxZr1−x)4/(4−x)Nb(PO4)3 (R: La, Nd, Gd) solid electrolytes based on the NASICON type structure,which have a three-dimensional network structure suitable for the R3+ ion conduction, were prepared and their ion conducting propertiesin their solids were investigated.
+The most suitable conducting path size for the R3+ ion conduction in the solids was identified from therelationship between the mobile ion size and the lattice volume.
+The typical ion conductivity of the rare earth phosphates was found to bein the order of 10−4 S cm−1 at 600 ◦C and the highest ion conductivity among the (RxZr1−x)4/(4−x)Nb(PO4)3 phosphate series was obtainedfor R= Nd.
+The conducting species in the (NdxZr1−x)4/(4−x)Nb(PO4)3 solid electrolyte was identified to be the trivalent Nd3+ ion by the ACconductivity measurements in various oxygen partial pressures and also by the DC electrolysis.
+Solid electrolyte is one of many functional materialspractically applied in industrial fields.
+It has the uniquecharacteristics of conducting only a single ion species insolids macroscopically with accompanying electric chargeand has attracted a significant attention because of the promisingapplication in various electrochemical devices such as allsolid-state rechargeable batteries and chemical gas sensors.
+In the solid electrolyte field, a number of mono or divalentions have been known to migrate in solids and some of themhave been already commercialized as lithium batteries forheart pacemakers and oxygen sensors for vehicle emissioncontrol .
+In contrast, trivalent cations have been regardedto be extremely difficult to conduct in solids due to their highelectrostatic interaction with surrounding anions comprisingthe framework of structure.
+For the purpose of realizing apure trivalent ion conduction, it is necessary to strictly select the structure suitable for ion conduction and in addition,to reduce the above interaction by containing cations witha valency higher than the conducting trivalent ion in thestructure.
+As pure trivalent cation conductors, M2(WO4)3 (M = Al,Sc, Y, Er–Lu) tungstate series with the quasi-layeredSc2(WO4)3 type structure and R1/3Zr2(PO4)3 (R = Sc,Y, Eu–Lu) with the three-dimensional NASICON type structure have been developed since 1995. 
+However, theirtrivalent ion conductivities were still lower than those ofmono- or divalent ions.
+Furthermore, the migrating ionspecies in these solids were limited to Al3+ ion and also somerare earth ions with small ionic radius.
+From the practical view points, the further enhancementof the trivalent ion conductivity and the increase of thenumber of the conducting trivalent ion species are sought.
+
+In the present study, among the rare earth ion species, especially,the light rare earth ion (La3+, Nd3+, Gd3+) conductorsin the (RxZr1−x)4/(4−x)Nb(PO4)3 (R: rare earths) series withthe NASICON type structure were prepared and their ionconducting properties in solids were investigated.
+The compoundswere mixed in an agent pot at a rotation speed of 300 rpmfor 12 h by a ball milling method (Pulverisette 7, FRITSCHGmbH).
+The mixed powder was heated at 600 ◦C for 6 h, andthen 1300 ◦C for 12 h in air.
+The samples obtained were characterizedby X-ray powder diffraction (XRD) analysis usingCu K radiation (MultiFlex, Rigaku).
+The AC conductivitiesof samples were measured on the sintered pellets (sinteredat 1300 ◦C for 12 h) coated with platinum-sputtered layeron both center surfaces by a complex impedance methodover the frequency range 5Hz to 13MHz (Hewlett-Packardprecision LCR meter, 4192A) in the temperature rangeof 300–600 ◦C in air.
+The polarization measurementswere carried out in oxygen (PO2= 105 Pa) or in nitrogen(PO2= 40 Pa) atmosphere by applying a DC current of 1 .
+A through the sample pellet and the corresponding DC voltageover the sample with Pt mesh electrodes was measured as afunction of time.
+DC electrolysis was carried out by applyinga DC voltage of 3V for 240 h at 800 ◦C with ion-blocking Ptbulk electrodes.
+After the electrolysis, the cathodic surfaceof the sample was analyzed by scanning electron microscope(SEM) (S-800, Hitachi) and electron probe microanalysis(EPMA) method (EPMA-1500, Shimadzu).
+
+
+
+The conductivity depends on theion size and it is evident that the most suitable ion size forthe trivalent ion conduction exists in the present NASICONtype phosphates series.
+From the figure, it becomes clearthat the (R0.1Zr0.9)40/39Nb(PO4)3 (R: Pr, Nd) solids exhibitalmost the same values, which are the highest amongthe (R0.1Zr0.9)40/39Nb(PO4)3 (R: La, Pr, Nd, Gd) series.
+However, the (Pr0.1Zr0.9)40/39Nb(PO4)3 solid does not holdthe single NASICON type phase but two phase composite of the NASICON phase and NbPO5, resulting in a higheractivation energy than its counterpart.
+Therefore, it is clearthat the (Nd0.1Zr0.9)40/39Nb(PO4)3 solid with the singleNASICON phase is the most suitable conductor amongthe (R0.1Zr0.9)40/39Nb(PO4)3 (R: La, Pr, Nd, Gd) series forpractical use due to showing both the highest conductivityand the lowest activation energy.
+The oxygen partial pressure dependencies of the ACconductivity for (Nd0.1Zr0.9)40/39Nb(PO4)3 at 600 ◦Cwas measured.
+No conductivity change was observed bychanging the oxygen partial pressure between 105 and10−8 Pa and this phenomenon suggests that the predominantconducting species is only ion and neither electron norhole.
+Furthermore, the polarization measurements were performedby measuring the DC to AC conductivity (σDC/σAC)ratio as a function of time in both oxygen (PO2= 105 Pa)and nitrogen (PO2= 40 Pa) atmosphere.
+An abrupt decreasein the (σDC/σAC) ratio was recognized in both atmospheresand the ratios after 30 min were both below 0.01, indicatingthat the oxide anion conduction did not appear in the(Nd0.1Zr0.9)40/39Nb(PO4)3 solid as demonstrated in Ref.
+Therefore, the migrating species in the solid is found to belimited to only the cation species.
+In order to directly determine the conducting cationspecies, the DC electrolysis was performed by sandwichingthe (Nd0.1Zr0.9)40/39Nb(PO4)3 sintered pellet betweentwo platinum bulk electrodes.
+Before the electrolysis, thedecomposition voltage of the sample was identified to beca.
+1.9V from the preliminary current–voltage measurement.
+The higher voltage than the decomposition voltagewas applied in order to generate cation species at the anodicside in itself and force the migrating cations to conductfrom anode to cathode direction continuously.
+Deposits wereclearly observed on the cathodic surface of the electrolyzedsample after the electrolysis.
+The EPMA spot analyses werecarried out on the representative deposit and the result isshown in Table 1. Among the elements in the sample, aremarkable increase was observed only for Nd element comparedwith that of the sample before the electrolysis.
+These results suggest that the predominant conducting species inthe (Nd0.1Zr0.9)40/39Nb(PO4)3 solid is clearly demonstratedto be Nd3+ cation.
+The ion conductivitiesof the (R0.1Zr0.9)40/39Nb(PO4)3 (R: La, Nd, Gd) solidelectrolytes below 500 ◦C are located in the conductivityrange of the representative divalent oxide anion conductors,and a trivalent ion conductivity higher than 10−4 S cm−1at a temperature higher than 500 ◦C was obtained forR=La3+, Nd3+, Gd3+ in the (R0.1Zr0.9)40/39Nb(PO4)3 Newtrivalent rare earth cation conductors, (R0.1Zr0.9)40/39Nb(PO4)3 (R: La, Nd, Gd), with the single phase of theNASICON type structure were successfully developed.
+Itbecomes clear that the suitable lattice volume for the R3+ ionconduction exists in the present trivalent phosphate series with the NASICON type structure from the relationshipbetween the conducting trivalent ion size and the latticevolume.
+Since the (R0.1Zr0.9)40/39Nb(PO4)3 (R: La, Nd, Gd)solid electrolytes possess the high trivalent ion conductivitywhich is comparable to that of YSZ and CSZ, applicationsin functional devices such as chemical sensors are greatlyexpected.

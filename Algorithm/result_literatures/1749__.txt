@@ -1,0 +1,72 @@
+Structures of two K2SnXPO43 X=Fe,Yb phosphates, obtained by conventional solid statereaction techniques at 950 °C, were determined at room temperature by X-ray powder diffractionusing Rietveld analysis.
+The two materials exhibit the langbeinite-type structure P213 space group,Z=4.
+Cubic unit cell parameter values are: a=9.92174 Å and a=10.15834 Å for K2SnFePO43and K2SnYbPO43, respectively.
+Structural refinements show that the two crystallographically independent octahedral sites of symmetry 3 have a mixed Sn/X X=Fe,Yb population althoughordering is stronger in the Yb phase than in the Fe phase.
+Materials with general formula AxXXPO43 typicallyconsist of a XXPO43 framework built up by cornersharingXXO6 octahedra and PO4 tetrahedra in such a waythat each octahedron is surrounded by six tetrahedra andeach tetrahedron is connected to four octahedral.
+These compoundscrystallise mainly with the nasicon NaZr2PO43-typestructure R3¯c space group Hagman and Kierkegaard,1968.
+Depending on the size of the A, X, and X cations andthe value of x, the AxXXPO43 compounds can crystallisein other structure types, such as the langbeinite-type orSc2WO43-type.
+All these structures are related to each otherby simple distortions and/or rotations of the cationic polyhedra.
+The langbeinite structure is a cage structure with large Acations in the cages and small windows connecting thecages.
+Consequently the AxXXPO43 langbeinite phasesare generally favored when the A cation is larger than .
+One important difference between the two structures is thatin langbeinite the framework creates closed cavities that trapalkali cations, while in nasicon, A+ cations are found in theintersection of tunnels through which they can diffuse.
+
+A+ and A2+cations occupy one of the two fourfold analogous K sites ofthe structurally characterized K2Mg2SO43 mineral langbeinitewhereas X3+ and/or X4+ are located in the two fourfoldMg sites.
+More recently, structural characteristics were determinedby powder X-ray diffraction XRD using the Rietveldmethod for ATiFePO43 A=Mn,Ca,Cd,Sr andASnFePO43 A=Na2,Ca,Cd phases Aatiq and Dhoum,2004; Aatiq, 2004; Aatiq and Dhoum, 2006.
+All these materialsexhibit the nasicon-type structure.
+In a continuation ofour research concerning phosphates with general formulaAxSnXPO43, the principal objective of the present studywas the structural determination, using Rietveld refinementof the XRD patterns, of two phosphates with general formulaK2Sn4+X3+PO43 X=Fe,Yb.
+Syntheses of K2SnXPO43 X=Fe,Yb were carried outusing conventional solid-state reaction techniques.
+Powdercrystalline samples were prepared from mixtures of K2CO3Riedel-de Haën, 99%, Yb2O3 Prolabo, 99%, Fe2O3 Prolabo,99%, SnO2 Riedel-de Haën, 99.9%, and NH4H2PO4Riedel-de Haën, 9.9% in stoichiometric proportions.
+Themixtures were heated progressively with intermittent grindingat 200 °C 12 h, 600 °C 12 h, 800 °C 16 h, and950 °C 48 h in air.
+
+Thedata were collected from 10 to 90° 2, in steps of 0.02°, witha counting time of 14 s per step.
+The Rietveld refinement ofthe structure was performed using the FULLPROF programRodriguez-Carvajal, 1997.
+The peak positions and intensities of the two XRD patternsfor K2SnFePO43 and K2SnYbPO43 Figures 1 and2 were close to those of langbeinite-type KTi2PO43 P213space group, Z=4 .
+Therefore, the twoXRD powder patterns were indexed on a primitive cubic cellwith parameter values of 9.92174 Å and 10.15834 Å forK2SnFePO43 and K2SnYbPO43, respectively.
+The unitcell parameter of K2SnYbPO43 is larger than that forK2SnFePO43 because the ionic radius of Yb3+ 0.868 Å islarger than that of Fe3+0.645 Å Shannon, 1976.
+In thefollowing discussion, the structural refinements were basedupon the above-mentioned assumption.
+Initial starting parameters for the Rietveld refinement ofK2SnXPO43X=Fe,Yb were based on those already reportedfor langbeinite-type KTi2PO43.
+ Initially, the two Katoms in K2SnXPO43 were located at the K1 and K2sites 4a positions of langbeinite-type KTi2PO43. 
+We alsoinitially located the Sn and B atoms in K2SnXPO43 in thetwo different octahedral Ti1 0.58-0.58-0.58 and Ti20.86-0.86-0.86 sites, respectively.
+The P and O atoms wereall located in independent 12b positions.
+
+Based on these results in subsequent refinements forboth materials the occupancies of Sn and X X=Fe,Yb atomsin both crystallographically possible sites were allowedto vary, but the total atomic contents were constrained to beone for Sn and one for X atoms per formula unit.
+Finalrefinements led to a mixed Sn/X X=Fe,Yb populationwithin the two crystallographically independent octahedral sites.
+The observed, calculated, and difference XRD patternsof K2SnFePO43 and K2SnYbPO43 are given in Figures 1and 2, respectively.
+Results of the Rietveld refinement, selectedinteratomic distances, and calculated bond valencesum BVS of K2SnFePO43 are gathered in Tables I and II.
+X-ray powder diffraction data, obtained from the “observedintensities” of the Rietveld refinement Cu K1: 1.54056 Å, of K2SnFePO43 are presented in Table III.
+The resultsof refinement, selected interatomic distances, and X-raypowder diffraction data of K2SnYbPO43 are reported inTables IV–VI, respectively.
+It is noted that ordering of two cations, within a framework,is generally dependent on the size difference and/orcharge imbalance between them.
+Indeed, in K2SnXPO43the driving force for Sn/X distribution within the frameworkseems to be the size difference between Sn4+ and the X3+cations.
+
+
+The two langbeinite K2M2PO43 M=Sn/Fe,Sn/Ybframeworks are built of MO6 octahedra sharing corners withPO4 tetrahedra Figure 3.
+A simple description of the framework is based on M2P3O18 units composed of two MO6octahedra linked together by three PO4 tetrahedra.
+Each PO4shares two corners with M1O6 octahedra and two cornerswith M2O6 octahedra.
+A careful analysis of the interatomicdistance values shows a high dependence between the Sn/Xdistribution and the average M-O distance values.
+In fact,in K2SnFePO43 where Sn and Fe are nearly randomly distributed,the M1-O distance value is practically equal tothat of M2-OTable II.
+Both M-O distance values arecomparable to the predicted M-O distance 2.07 Å calculatedfrom Shannon’s table rSn4+=0.690 Å, rFe3+=0.645 .
+In contrast, because of the high preferencefor the larger Yb3+ ion to occupy the M1 site inK2SnYbPO43, the M1-O distance value is higher thanthat for the M2-O.
+Since there is no geometrical constraints,the exact reason behind the high preference of largercation i.e., Yb3+ in K2SnYbPO43 to occupy M1 site isnot clear.
+P-O distance values in both phases are comparable tothose generally found in langbeinite-type phosphates TablesII and V.
+Within the langbeinite K2M2PO43 M=Sn/Fe,Sn/Yb frameworks, large isolated cages are formed Figures3 and 5.
+Recently, an improved visualisation of thecages formed in langbeinite phases, based on M5P6O39 units,has been presented.
+
+
+The average K1-O andK2-O distance values Tables II and V show that thecage volume, in K2SnYbPO43, is relatively larger than thecorresponding one in K2SnFePO43. 
+Analysis of the calculatedbond valence sums BVS based on bond-strength analysis Brown and Altermatt, 1985 for M1 sites, M2 sites,and P and K atoms, within the two K2M2PO43 M=Sn/Fe,Sn/Yb phases agrees with the expected formal oxidationstates of the corresponding cations Tables II and V.
+It is interesting to note that the K1 atom can also be describedas being surrounded by four MO6 octahedra in atetrahedral arrangement, while the K2 atom is surroundedby six MO6 octahedra in an octahedral geometry Figure 5.
+These two large polyhedra share one triangular face to forma cage of seven MO6 octahedra about two K+ ions.
+The twoenclosed K atom types are located at each end of the cage.
+As shown in Figure 5b, a careful structural analysis of thelangbeinite framework shows clearly the presence of a tetrahedralEM4 cavity, located opposite the K1M4 tetrahedraand shares one triangular face with K2M6 octahedra.
+Theempty E probable site can accommodate a small cation.
+Note for example that in K2SnFePO43, Rietveld refinementshows clearly that, in a first approximation, this probablecation can be found at 0.44-0.44-0.44 site 4a positions.
+This last assumption leads to a E-O distance values ranging from 2.191 to 2.671 Å.
+Therefore, apparently 0.81 Å isa reasonable radius value of the largest cation that could fit in this tetrahedral EM4 cavity.
+To our knowledge, there is noexample of a langbeinite structure in which this third possibleposition is occupied.
+It should be noted that a similarobservation was recently made for other langbeinites.
+
+Finally it is important to note that in the nasicon framework,there are interconnected interstitial sites through whichunivalent cations can diffuse, leading to fast ionic conductivity.
+In contrast, within the langbeinite framework, the channelsbetween the holes have narrow windows, and only isolatedlarge cages, containing a maximum of two atoms, areconsidered.
+This fact prevents univalent cation transport; socations of a sufficiently large size remain captive in the cagesand lose their ability to migrate.
+This characteristic may be useful in developing materials for the immobilisation oftoxic cations i.e., 137Cs+ from wastes, including radioactivewaste.
+It is of interest to note for example that inCs2FeZrPO43 and/or Cs2Mg0.50Zr1.50PO43 langbeinitephases  concentration of 137Cs can reach38 wt %, which is comparable with its concentration in themineral pollucite.

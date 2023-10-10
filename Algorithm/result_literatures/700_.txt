@@ -1,0 +1,16 @@
+Structural, thermal and electrical transport in PEO-LiCF3SO3 solid polymer electrolyte dispersed with Li+-NASICON crystallites has been assessed.
+Fine submicron crystallites of LiTi2(PO4)3 (LTP) were added in appropriateamount during solution casting of the polymer films.
+Thus the compositions 95[PEO1 − x-LTPx]-5LiCF3SO3 have been synthesized for a wide range of LTP content (x=0–0.9).
+Electrical conductivity increaseswith LTP content monotonically.
+Highest room temperature conductivity of ~7 ×10−5 Ω−1 cm−1 has beenobtained for the sample with x=0.9 of LTP which is ~43 times higher than that of the sample with no LTPcontent.
+FE-SEM investigations performed on pellets with higher LTP content suggest uniform distribution of LTPparticles in the polymer matrix.
+Preliminary investigations reveal that mechanism of electrical transport in SPELTPhybrid composites is greatly influenced by LTP content.
+The electrical conductivity shows a significant rise with LTP content.
+It appears that Li+ ions do move through Li+-NASICON grainsparticularly for large content due to (i) their volume fraction in thepolymer matrix and (ii) well connected LTP-polymer pathways.
+Therefore, these filler particles act like “Li+ ion conductivity facilitators”and possibly also suppress/discourage anion electricaltransport, provided their concentration is high and dispersion ishomogenous.
+In this limited temperature range, the mechanism of electricaltransport appears to be complex in nature, it is expected that forhigh LTP content the ions move predominantly through the Li+-NASICON grains, and for low LTP content through the polymermatrix.
+More sophisticated experiments in wider temperature rangeand particle size variation are required to understand the overallionic transport.
+The chemistry of the composite formation (uniformity of dispersion,homogeneity, complexation etc.) needs further systematic investigations.
+Nevertheless, from present study it may be suggestedthat dispersion does not lead to new phase formation due to chemicalreaction between polymer and LTP.
+Hybrid electrolyte exhibits thermal stability in appreciably widerange of temperature.
+Efforts are on to understand the electricaltransport in wide temperature range.

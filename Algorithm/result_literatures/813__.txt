@@ -1,0 +1,162 @@
+An in-situ generated  carbon matrix has demonstrated to  be essential to  provideelectrical  conducting  properties  to  Na3V2(PO4)3  as  cathode  materials  for  sodium-ioncells.Na3V2(PO4)3/C nanocomposites are synthesized by varying their eventual carboncontent  in  order  to  determine  the  influence  in  the  electrochemical  behavior.
+
+X-raydiffraction patterns evidence the crystallinity  and purity of Na3V2(PO4)3, while Ramanspectroscopy reveals the disordered character of the carbon phase.
+
+The determination ofthe  chemical  state  of  the  carbonaceous  phase  unveils  that  an  increase  of  the  carbonthese  composites  in  sodium  half  cells  reveals  that  carbon  contents  close  to  7%  arepreferred to provide cycling stability, while the best rate performance is achieved for thesample  with  carbon  content  close  to  11%.
+
+A  full  sodium-ion  cell  delivers  an  energycontent involves a decrease of carboxyl groups and a slight increase of graphitic carbonatoms,  in  agreement  with  the  Raman results.The  electrochemical  characterization  ofdensity of 320 W h kg-1 at 2C.
+
+Much attention is being paid to Na-ion batteries as an alternative strategy to Li-ion  analogues.Sodium  is  an  economically  available  and  environmentally  harmlessalkali  element  which  can  be  easily  implemented  in  insertion  based  batteries.It  isreflected in the increasingly number of reports on new electrode materials for Na basedcycling [10].
+
+The  three  dimensional  framework  of  polyanionic  compounds  with  NASICONcontribute to diminish the ion diffusion and increase the structural impact in electrodesbatteries  [1-9].
+
+Nevertheless,  the  large  ionic  radius  and  atomic  weight  negativelystructure offers large and interconnected vacant sites, building up suitable paths for thediffusion  of  alkaline  Na+  ions.The  NASICON  structure  is  based  on  the  so-calledinserting sodium.
+
+Despite of these facts, the open framework of NASICON compoundsis optimal to accommodate the large Na+ ions, and hence to provide phase stability uponsharing  all  corners.Infinite  ribbons  of  alternating  lantern  units  and  NaO6  octahedraextend along the c direction.Otherwise, the PO4 tetrahedra linked together these ribbonsprovide a highly stable and flexible host framework, and create large eight-coordinatedsites  for  the  reversible  insertion  of  sodium  [10-14].In  addition,  the  V4+/V3+  redoxcouple  could  yield  a  maximum  theoretical  capacity  of  117  mA h g-1according  to  the“lantern”  repeating  units,  consisting  of  three  PO4  tetrahedra  and  two  VO6  octahedrastoichiometry  [15-17].Unfortunately,  the  absence  of  electronic  delocalization  throughdirect  -M-O-M-links  involves  a  poor  intrinsic  electronic  conductivity.
+
+This  is  a  mayordisadvantage for an electrode material.Thus, the implementation of Na3V2(PO4)3 as anefficient  cathode  in  sodium-ion  batteries  requires  the  addition  of  conductive  agents.
+
+Likely, the most appropriated method to achieve this goal is the use of organic reagentswhich  are  partially  decomposed  upon  the  thermal  treatment  in  inert  atmosphere.Theresulting Na3V2(PO4)3/C nanocomposite reveals a significant improvement in electroderate  capability.  Jian  et  al.  first  reported  the  use  of  carbon  coated  Na3V2(PO4)3[18].
+
+Further reports have shown the reliability of different carbon materials to yield effectiveNa3V2(PO4)3/C nanocomposites.Thus, a number of reports on graphene [19], grapheneoxide  [20],  carbon  nanotube  or  nanofiber  [21,  22],  porous  carbon  [23,  24]  andhierarchical framework [25] among others, can be found in the recent literature.
+
+However, the effect of the carbon content on the electrode performance has notbeen  completely  scrutinized  so  far.
+
+This  factor  has  demonstrated  to  be  essential  tooptimize  the  electrochemical  properties  of  several  electrode  materials  for  Li-ionbatteries. 
+
+Thus,  Gao et  al.determined that  the  capacity  retention  of  LiFePO4is  poor inthe  absence  of  the  carbon  phase.In  contrast,  an  excessive  carbon  content  discloses  aslightly  reduced  discharge  capacity  ascribable  to  the  hindered  lithium  diffusion  andelectrolyte penetration through the thick carbon layer [26].Thus, intermediate contentsThe  aim  of  this  work  is  to  determine  the  effect  of  the  carbon  content  onNa3V2(PO4)3/C  electrodes  prepared  by  a  citric  based  sol-gel  method.Thesenanocomposites  will  be  characterized  by  X ray  diffraction,  Raman  spectroscopy  andthe best of our knowledge, a detailed a study of the impact of the carbon content on theelectrochemical  performance  on  Na3V2(PO4)3/C  nanocomposites  has  not  yet  beenof carbon provide the optimal performance as deduced for related compounds [27].Toelectron  microscopy  to  evaluate  the  microstructural  and  morphological  properties.
+
+Sodium  half  cells  and  Na-ion  full  cells  will  be  tested  to  examine  the  electrochemicalNa3V2(PO4)3/C composites were prepared by a sol-gel procedure.Citric acid waschosen to act as a chelating agent and carbon source. 
+
+For this purpose, 50 mL of a 0. For this purpose, 50 mL of a 0.005NaH2PO4 (Aldrich, 98-102%) aqueous solution were added dropwise and stirred for onehour to ensure the complete chelation of metal ions.
+
+Then, the solvent was removed inaM NH4VO3 (Panreac, 98%) aqueous solution were first magnetically stirred while citricacid  (Aldrich,  99%)  was  added.Four  different  vanadium  to  citric  ratios were essayed,including  2:1,  2:2;  2:3  and  2:4.
+
+Four  different  vanadium  to  citric  ratios were essayed,including  2:1,  2:2;  2:3  and  2:4.  After  complete  dissolution,  50  mLof  a  0.  After  complete  dissolution,  50  mLof  a  0.005  Mrotor evaporator at 70ºC and 200 mbar.
+
+The resulting gel was eventually dried overnightat 120 ºC.The dried greenish precursor was pestled in an agate mortar and subjected tothermal treatment at 800 ºC for 8h (Heating ramp: 5 oC min 1) under an Ar stream (80mL/min).Samples  will  be  named  as  NVP-Cx  (1 ≤ x ≤ 4),  where  x  refers  to  the  citriccontent according to the metal to citric ratios above mentioned.
+
+The carbon content wasdiffractometer  furnished  with  Cu  K radiation  and  a  graphite  monochromator.Ascanrate of a 0.Ascanrate of a 0.025o/s was applied for a range set between 10 and 70o(2-theta degrees).
+
+Theunit  cell  parameters,  crystallite  size  and  microstrains  were  calculated  withTOPASsoftware.Transmission  electron  micrographs  (TEM)  were  acquired  in  a  JEOL  1400precisely determined by using an Elemental CHNS Eurovector EA 3000 analyzer.
+
+X-ray  diffraction  (XRD)  patterns  were  scanned  on  a  BrukerD8  Discover  A25microscope.Raman  spectroscopy  was  implemented  in  a  Renishaw  Raman  instrument(InVia  Raman  Microscope)  using  a  green  laser  light  excitation  source  (532  nm)  andfurnished with a Leica microscope. The profiles were decomposed with a Peakfit v.4.4.12software package.
+
+A VMP multichannel system was used to run galvanostatic cycling tests on thesewas  a  9  mm  sodium  disk.Both  electrodes  were  separated  by  glass  fiber  disks  (GF/A-Whatman)  soaked  in  a  electrolyte  solution  consisting  of  1M  NaPF6  (EC:DEC)  (10%Sodium half cells were assembled in SwagelokTM type two-electrode cells in anargon  filled  glove  box  under  controlled  O2  and  H2O  traces.Working  electrodes  wereprepared by gently stirring a mixture of the active material (80%), carbon black (10%)and  PVDF  (polyvinylidene  fluoride)  (10%)  in  N-methyl-2-pyrrolidone.The  resultinghomogenous paste was spread onto a 9 mm aluminum disk and vacuum dried at 120 oCfor  several  hours.  The  electrode  mass  loading  was  about  3  mg.The  counter  electrodecells  between  2.The  counter  electrodecells  between  2.0  and  4.0  and  4.3  V  at  several  C  rates  ranging  from  C/10  to  40  C.
+
+Electrochemical  Impedance  Spectroscopy  (EIS)  was  performed  to  unveil  the  cellinternalimpedance.
+
+For this  purpose,  working  electrodes  were  assembledSwagelokTM  type  three-electrode  cells,  with  sodium  disks  as  counter  and  referenceelectrodes.
+
+After subjecting the cells to a number of cycles, they were allowed to relaxto  reach  a  quasi-equilibrium  state.
+
+Then,  the  impedance  spectra  were  measured  on  anAutolab PGSTAT12 by perturbing the open circuit voltage with an AC signal of 5 mVsucrose  derived  hard  carbon  carbonized  at  1300ºC  for  5  hours  as  an  anode.
+
+Theseelectrodes were assembled in a three electrode SwagelokTM-type cell.The m+/mmassratio  was  eventually  optimized  according  to  the  stoichiometry  of  the  fully  sodiatedcompounds  were  considered.Electrodes  were  respectively  activated  by  charging  thecathode  and  discharging  the  anode  in  half  cell  configuration  in  order  to  circumventFull sodium-ion cells consisted of a selected Na3V2(PO4)3/C as a cathode and afrom 100 kHz to 2 mHz.
+
+On  increasing  the  carbon  content,  primary  particles  are  progressivelyThe  Na3V2(PO4)3/C  samples  were  subjected  to  elemental  analysis  to  determinetheir  carbon  content.The  results  in  Table  1  reveal  a  non-linear  increase  of  the  carboncontent  with  the  vanadium  to  citric  ratio  previously  set  in  the  experimental  section.
+
+Thus, the increase in carbon content is less pronounced from NVP-C3 to NVP-C4.Thus, the increase in carbon content is less pronounced from NVP-C3 to NVP-C4.Thisis  probably  indicative  of  an  enhanced  evolution  of  carbon  containing  gases  for  largecitrate contents in the precursor.
+
+SEM images show an overview of the texture of thesefor NVP-C4.SEM images show an overview of the texture of thesefor NVP-C4.
+
+The presence of the carbon conductive phase can be clearly observed in theTEM  images  as  flake-like  particles  surrounding  submicrometric  Na3V2(PO4)3  ones.Inturn,  the  latter  ones  are  characterized  by  an  irregular  shape  with  sharp  edges  (Fig.  1).
+
+For  NVP-C1,  the  presence  of  the  carbon  phase  was  scarce  as  expected  from  the  lowcarbon  content.Contrarily,  the  contribution  of  the  carbon  phase  to  the  overall  sampletexture  was  more  evident  for  the  other  samples.Carbon  flake-like  particles  appearembedded in a carbon matrix leading to larger particles, this effect  being more evidentsurrounding  and  interconnecting  the  Na3V2(PO4)3  active  material.This  evenlydistribution  of  the  in-situ  generated  carbon  conductive  phase  may  provide  benefits  tothe electrochemical behavior of these samples, as will be discussed below.
+
+Figure 2 shows the experimental and calculated XRD patterns of Na3V2(PO4)3/Csamples.The  monoclinic NASICON-type Na3V2(PO4)3 was indexed in  the  C2/c spacedetermined  (Table  1).Both  parameters  tend  to  decrease  on  increasing  the  carbongroup  [28,  29].
+
+The  calculated  cell  parameters  were  close  to  those  previously  reportedfor this compound (Table 1) [30, 31].For NVP-C4, the fitting of the diagram revealedminor  peaks  at  32.For NVP-C4, the fitting of the diagram revealedminor  peaks  at  32.7  and  33.7  and  33.3  º(2),  which  are  coincident  with  the  most  intensereflections of Na4P2O7 impurities (JCPDS 10-1087).
+
+From the peak broadening analysisby using Voigt functions, the variation of the average crystallite size, calculated as theintegral breadth based volume-weighted column height (IB-LVol), and strains were alsocontent,  reaching  the  minimum  values  for  NVP-C3.From the peak broadening analysisby using Voigt functions, the variation of the average crystallite size, calculated as theintegral breadth based volume-weighted column height (IB-LVol), and strains were alsocontent,  reaching  the  minimum  values  for  NVP-C3.Thus,  the  presence  of  low  ormoderate  amounts  of  carbon  limits  crystallite  growth  and  reduces  local  strain  andspectra  of  the  composites  were  recorded  (Figure  3).
+
+The  overall  profiles  weredecomposed  in  several  Gaussian  profiles  to  disclose  two  main  contributions:  thebroadened D1 band at 1350±1 cm 1ascribable to disordered domains and the G band at1598±2  cm 1due  to  ‘in  plane’  displacement  of  carbon  atoms  in  the  graphene  sheets  ofcrystalline domains [32].Additional bands D2, D3 and D4 are required for the completedeconvolution  of  the  profiles[33].The  G-to-D1  intensity  ratio  (IG/ID1)  is  commonly  ameasure of the level of graphitization [34].The common temperature, employed duringthe  thermal  treatment,  prevents  large  differences  between  the  profiles.However,  theany structural information by X-ray diffraction procedures.To solve this issue, RamanUnfortunately, the amorphous character of the carbon phase prevents  obtainingdefects. Further carbon incorporation in NVP-C4 led to the opposite effect.
+
+quantitative  treatment  of  the  spectra  allowed  discerning  a  slight  increase  in  the  G-to-D1ratioonincreasingcarbon  content  in  the  sample  (Fig.  4).Likely,  larger  amounts  ofcitrateligandsthe  precursor  promote  heat  release  duringthe  exothermaldecomposition  of  the  organic  molecules,  leading  to  a  slight  but  detectable  increase  inthe level of graphitization of the carbon phase.
+
+For  NVP-C1,  a  band  appearing  at  ca.1040  cm-1is  clearly  visible  in  the Ramanspectrum.This  small  signal  is  commonly  ascribed  to  the  vibrational  properties  ofNa3V2(PO4)3.This  small  signal  is  commonly  ascribed  to  the  vibrational  properties  ofNa3V2(PO4)3.The progressive accumulation of carbon players onto the inorganic phaseeventually masks its appearance for the other samples [18].
+
+The  in-plane  correlation  length  (La)  can  be  easily  determined  according  to  thefollowing equation [35]:contribute positively to electron conduction in the electrode material.
+
+To gather more information about the chemical states of elements, XPS spectraAs  expected,  the  data  plotted  in  Fig.4  reveal  an  increase  of  La,  which  mayof two samples with distinct carbon contents were recorded (Fig. 5).
+
+The C1s core levelspectra were deconvoluted into four components which chemical shifts are assigned tographitic carbon (sp2 configuration, 284.
+
+The C1s core levelspectra were deconvoluted into four components which chemical shifts are assigned tographitic carbon (sp2 configuration, 284.6 eV), C–OH (285.6 eV), C–OH (285.9±0.9±0.1 eV), C=O (287.1 eV), C=O (287.6±0.6±0.2eV),  and  carboxylic  (290.2eV),  and  carboxylic  (290.1±0.1±0.2  eV)  groups  (Fig.  3)  [36].
+
+On  increasing  the  carboncontent,  we  clearly  detected  an  increase  of  the  signal  ascribable  to  graphitic  carbon,while the one attributed to carboxylic groups decreased.This fact can be directly relatedto the increase of the level of graphitization and La above mentioned.Concerning of theO1s core level, NVP-C1 is characterized by two main contributions at 530.
+
+Concerning of theO1s core level, NVP-C1 is characterized by two main contributions at 530.6 and 531.6 and 531.9eV.The  low  amount  of  carbon  existing  in  this  sample  let  us  to  ascribe  these  peaks  tooxygen  atoms  linked  to  metal  and  phosphate,  respectively  [37,  38].For  the  sampleswith  a  high  carbon  content,  the  O1s  spectrum  drastically  changes,  the  most  relevantfeatures  being  the  signals  appearing    at  531.For  the  sampleswith  a  high  carbon  content,  the  O1s  spectrum  drastically  changes,  the  most  relevantfeatures  being  the  signals  appearing    at  531.1±0.1±0.2  eV  and  533.2  eV  and  533.1±0.1±0.1  eV,  respectivelyattributed  to  C=O  and  C-OH  groups  on  the  surface  of  carbon  [39].Likely,  theprogressively thicker carbon layer masks those signals characteristic of Na3V2(PO4)3 inthe latter samples.Finally, the V2p spectra were recorded for both samples in order todetermine the oxidation state of vanadium.
+
+Two broadened Gaussian-Lorentzian bandsappear  at  516.
+
+Two broadened Gaussian-Lorentzian bandsappear  at  516.8±0.8±0.2  and  523.2  and  523.3±0.3±0.3eV,  ascribable  to  theV2p3/2  and  V2p1/2  core  levels,respectively  (Fig.  5).These  values  are  close  to  those  early  reported  for  trivalentvanadium, as expected from the Na3V2(PO4)3 stoichiometry [40, 41].
+
+In addition, a smallcomponent at 521.In addition, a smallcomponent at 521.1±0.1±0.1 eV is commonly assigned to an O1s X-ray satellite.
+
+Fig.6 shows the potential versus capacity curves recorded for sodium half cellsthe lowest  rate,  respectively.
+
+They  are  commonly ascribed to  the occurrence of a two-galvanostatically  charged  and  discharged  at  increasing  rates  from  C/2  to  40  C.Longplateaus at ca. 3. 3.41 V and ca. 3. 3.34 V are observed for cells charged and discharged  atphase  mechanism  based  on  the  coexistence  of  sodium  poor  and  rich  phases  [40,  41].
+
+The  extent  should  be  correlated  to  the  reversible  oxidation  of  V3+  to  V4+,  while  twosodium  atoms  are  reversibly  exchanged  between  the  electrode  and  the  electrolyte  [16,17]. On increasing the C rate, the extension of the electrochemical plateau diminishes.
+
+Also, cell polarization between the charge and discharge plateaus increases.
+
+This fact isrecorded for sodium half-cells assembled with the studied samples and cycled at severalC rates.It clearly sets that a minimum amount of carbon phase is needed for ensuring acharge/discharge  hysteresis  can  be  discerned.  
+
+Fig.7  displays  the  capacity  valuesproper  cell  performance.  Thus,  NVP-C1  containing  only  (0.  Thus,  NVP-C1  containing  only  (0.182  %  C)  revealed  a  verycommon  and  arises  from  the  fast  kinetics  imposed  to  the  electrochemical  reaction  athigh rates.By comparing these galvanostatic profiles, differences in both capacity andlow  initial  capacity  and  even  a  worse  rate  capability  on  cycling.On  increasing  thecarbon  content,  initial  capacity  values  of  104.On  increasing  thecarbon  content,  initial  capacity  values  of  104.2,  106.2,  106.7  and  101.7  and  101.7  mA h g-1  wererespectively recorded for NVP-C2, NVP-C3 and NVP-C4 at C/2.7  mA h g-1  wererespectively recorded for NVP-C2, NVP-C3 and NVP-C4 at C/2.On cycling, the lattersample  shows  a  poor  capacity  retention  leading  to  95.On cycling, the lattersample  shows  a  poor  capacity  retention  leading  to  95.1  mA h g-1  after  only  5  cycles.
+
+Contrarily, NVP-C2 and NVP-C3 kept values as high as 102.Contrarily, NVP-C2 and NVP-C3 kept values as high as 102.8 mA h g-1 after the sameby  NVP-C2  and  NVP-C3  was  also  corroborated  by  an  excellent  capacity  recovery,  asrevealed  by  coulombic  efficiencies  close  to  95%.
+
+In  contrast,  NVP-C1  and  NVP-C4number  of  cycles.
+
+This  fact  evidences  that  the  beneficial  effect  of  carbon  does  notincrease linearly with carbon content.
+
+Other authors have also reported that an excessivethickness of the carbon layer leads to hindrances to ion migration through the electrode-electrolyte interface [26].
+
+On increasing the C rate to 40 C, both NVP-C2 and NVP-C3revealed  a  similar  rate  capability  to  20  C,  though  only  NVP-C3  was  able  to  sustaincapacity  values  over  50  mA h g-1  at  40  C.
+
+At  the  end  of  the  cycling  experiment,  theinitial lowest rate was applied again for a few cycles.The good behavior demonstratedcharge/discharge  hysteresis.
+
+Fig  8quantifies  this  cell  polarization  as  a  function  of  thecurrent  passed  through  the  cell.Although  the  differences  are  minor  at  low  rate,  theeffect of carbon is more important when rates higher than 2C are used.
+
+Surprisingly, thelargest  carbon  content  in  NVP-C4  led  to  the  lowest  cell  polarization.From  anapproximation to a linear plot in Fig.8, a cell resistance in non-equilibrium conditionscan be calculated to quantify this polarization effect (Table 3).This result evidences thatthe limiting rate performance determined for this sample cannot be strictly correlated tocell polarization. From the same plot, another parameter can be inferred.Thus,  Dreyeret  al.proposed  that  an  inherent  finite  voltage  gap  exists  between  the  charge  andAs  can  be  seen  in  Fig.6,  the  differences  among  samples  extend  also  to  thewere able to recover only 85% of the initial capacity.
+
+discharge  curves  even  at  the  zero  current  state  due  to  the  occurrence  of  a  sequentialparticle-by-particle  mechanism  in  insertion  storage  systems  containing  multipleparticles [42].
+
+Zero current values were calculated by extrapolating the plots in Fig 8 tothe  vertical  axis  and  are  collected  in  Table  2.Zero current values were calculated by extrapolating the plots in Fig 8 tothe  vertical  axis  and  are  collected  in  Table  2.These  values  show  a  minimum  cellpolarization  at  zero  current  for  NVP-C2  confirming  that  the  good  rate  capability  is  aresult of the excellent particle connectivity provided by an optimized carbon content atthe conductive matrix under equilibrium conditions.
+
+The impedance spectra, displayed as Nyquist plots in Fig.9, were recorded after a 1, 10and 30 cycles at C/2 rate.
+
+The cell was allowed to relax for a few hours and the resultingequilibrium  state  was  minimally  perturbed  during  the  measurements.
+
+Under  thesehindrances imposed by the electrode-electrolyte interphase to ion migration in a quasi-experimental  conditions,  the  calculated  cell  resistances  can  be  correlated  to  theequilibrium  state.
+
+For  this  purpose,  the  spectra  were  fitted  to  the  equivalent  circuitincluded  in  Figure  9a,  Rel  being  the  negligible  electrolyte  ohmic  drop,  Rsl  the  surfacelayer resistance and Rct the charge-transfer resistance.
+
+As can be seen, Rsl and Rct are themain contributions to cell resistance.
+
+These values are included in Table 3 for the first,tenth  and  thirtieth  cycle.In  addition,  the  circuit  required  the  inclusion  of  CPE  andWarburg elements to account for capacitive and diffusion effects, respectively.
+
+However,  this  feature  must  be  taken  into  account  to  achieve  a  gooda core-shell boundary in a biphasic system [43].
+
+As can be seen, loop appearance is notmeasured cycle.
+
+It is attributed to relaxation phenomena when ions are diffused throughthese  plots  show  a  characteristic  inductive  loop  at  low  frequencies  depending  of  thecorrelated to kinetic hindrances because it was usually observed in samples performingfitting of the spectrum by modifying the equivalent circuit as described elsewhere [44].
+
+Table 3 clearly reveals the highest resistance values for NVP-C1.Table 3 clearly reveals the highest resistance values for NVP-C1.Also, both Rsland  Rct  progressively  increased  on  cycling  leading  to  an  Rct  value  as  high  as  12.Also, both Rsland  Rct  progressively  increased  on  cycling  leading  to  an  Rct  value  as  high  as  12.814Ohm g  after  30  cycles.Contrarily,  NVP-C2,  NVP-C3  and  NVP-C4  were  able  to  keeplow these resistance values on cycling.Also,  a tendency to  decrease was observed  forall  resistance  values  evidencing  the  structural  flexibility  of  Na3V2(PO4)3/C  compositesto overcome the mechanical stress during cycling, by allowing a suitable diffusion pathfor sodium ions.Regarding the overall contributions of the resistance values in Table 3,NVP-C3 shows the lowest internal resistance.This particularity may explain the lowestcapacity fading demonstrated in Fig.7, when the sodium half-cell was subjected to ratesas high as 40 C.
+
+Cycling tests were performed in sodium test half-cells at two different rates (C/2and  2C)  for  a  long  number  of  cycles  (Fig.  10).The  initial  capacity  values  wereconsistent  with  those  of  Fig.  7.  7.The  best  Coulombic  efficiencies  were  observed  forNVP-C2.The  best  Coulombic  efficiencies  were  observed  forNVP-C2.  Thus,  values  of  95%  and  87%  were  respectively  calculated  at  C/2  and  2C.
+
+Surprisingly, NVP-C3  displayed  an efficiency value  as low as 75% at  C/2.Surprisingly, NVP-C3  displayed  an efficiency value  as low as 75% at  C/2.
+
+This  resultconfirms  that  the  latter  sample  performance  is  relatively  poor  at  low  rates,  as  waspreviously inferred from Fig. 7. 7.In fact, its efficiency increased to 85% when cycling atbehavior in full sodium ion cells as a proof of concept [45-47].For this purpose, a hardcarbon obtained from the carbonization of sucrose was used as anode.
+
+The activation ofthe full cell pursuits avoiding the initial irreversibility existing during the first cycle ofboth  cathode  and  anode.By  this  strategy,  the  cathode  to  anode  mass  ratio  can  bematched  more  efficiently  considering  the  reversible  capacity  performed  in  subsequentcycles.
+
+The  nominal  cellvoltages  during  discharge  and  charge  were  3.2  and  3.2  and  3.4  V,  respectively,  revealing  anexceptionally  low  cell  polarization.The  energy  density  value  can  be  calculated  bymultiplying the discharge capacity by the discharge voltage.Thus, our full cell featuredThe  improved  cycling  stability  evidenced  by  NVP-C2  led  us  to  test  theirrevealed the highly disordered character of the in-situ generated carbon phase, though aslightly  increase  of  the  level  of  graphitization  and  in-plane  correlation  length  werea  value  of  320  W h kg-1  after  discharging  at  2C.This  excellent  energy  densityencourages  to  regard  this  carbon  optimized  Na3V2(PO4)3/C  composite  as  a  potentialcandidate for the positive electrode of sodium-ion cells.
+
+Four  different  Na3V2(PO4)3/C  nanocomposites  were  synthesized  by  the  citricbased  sol-gel  method  by  allowing  to  vary  the  carbon  content.Raman  spectroscopylike particles surrounding the submicrometric of Na3V2(PO4)3.
+
+Raman  spectroscopylike particles surrounding the submicrometric of Na3V2(PO4)3.The chemical state of thecarbonaceous phase, unveiled by XPS, revealed an increase of graphitic carbon along toa decrease of carboxyl groups, when the carbon content increases.Also, the prominenceallowed  to  clearly  set  the  beneficial  effect  of  intermediate  carbon  contents  to  providehigh capacity, low cell resistances and cycling stability for a large number of cycles.Itwas  correlated  to  their  low  cell  impedances,  which  values  even  decreased  on  cyclingdemonstrating  the  optimal  properties  of  NVP-C2,  NVP-C3  samples  to  allow  sodiumdiffusion  and  electrons  conduction  during  an  extended  cell  cycling.Thus,  the  lowestdetected.The conductive carbon phase appear in the TEM images as nanometric flake-The galvanostatic profiles of sodium half cells recorded at an increasing C rateof trivalent vanadium, regardless the concentration of carbon, was evidenced.
+

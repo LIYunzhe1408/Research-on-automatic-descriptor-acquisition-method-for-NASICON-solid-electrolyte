@@ -1,0 +1,5 @@
+In this work, we report a detailed temperature dependent inelastic light scattering study on a solid electrolyteLiZr1.9Al0.1(PO4)3 as a function of temperature, from 20 °C to 400 °C, in a wide spectral range of 60 - 1250 cm-1. Weobserved a clear signature of structural phase transition around ~ 220 °C marked by the renormalization of the phononfrequencies and integrated intensity.
+The phonon modes frequencies above the transition temperature showed nearlytemperature independent behaviour reflecting the disordered nature of the phase transition.
+Our detailed analysis of the temperature dependent Raman studies provide a clear evidence for the structural phasetransition, which is disordered in nature, via the anomalies found in the phonon frequencies in almost all the observedmodes and their integrated intensity.
+The phase transition temperature decreases from 300 °C in parent compound,LiZr2(PO4)3, to ~ 220 °C in 10% Al-doped system.
+The decrease in transition temperature is ~ 25 %.

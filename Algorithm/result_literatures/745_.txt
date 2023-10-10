@@ -1,0 +1,11 @@
+NASICON-type NaTi2(PO4)3 with a zero-stress framework has been receiving particular attention as anadvanced anode material for high-performance sodium-ion batteries.
+In this work, the three-dimensional (3D)NaTi2(PO4)3@CNT microspheres were prepared by using a spray drying method with thermal calcination.
+Inthis composite, the conductive CNT was condensed into the NaTi2(PO4)3 microspheres, leading to intimateinterfacial contact between the NaTi2(PO4)3 and CNT.
+As an anode for energy storage, the NaTi2(PO4)3@CNTexhibited a high reversible capacity and stable cycling performance due to the constructed 3D network whichcould greatly enhance the electronic conductivity of NaTi2(PO4)3 material.
+It delivered the initial capacities of127, 125 and 123 mA h g−1 at 0.1, 0.2 and 0.5 C, respectively.
+Even at 10 C, this composite still showed acapacity of 88 mA h g−1 with capacity retention of about 99.3% over 20 cycles.
+In summary, the 3D NaTi2(PO4)3@CNT composite was successfullydesigned and prepared by using a spray drying method with thermalcalcinations.
+The SEM and TEM results indicate that the CNTconstructs a 3D conductive network among the NaTi2(PO4)3 microspheres.
+Such a special structure can significantly facilitate the transportof electron throughout the secondary particle.
+Thus, theNaTi2(PO4)3@CNT anode shows excellent sodium storage performancessuch as high specific capacity, superior rate capability andstable cycling performance.
+It can be speculated that the as-prepared3D NaTi2(PO4)3@CNT composite is a promising candidate anode forenergy storage.

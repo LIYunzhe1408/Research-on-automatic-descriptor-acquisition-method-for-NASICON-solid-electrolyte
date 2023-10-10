@@ -1,0 +1,103 @@
+A new complete solid solution of NASICON-type compounds between LiZr2(PO4)3 and La1/3Zr2(PO4)3 was evidenced with thegeneral formula Li1xLax/3Zr2(PO4)3 .
+These phases were synthesized by a complex polymerizable method and structurallycharacterized from Rietveld treatment of their X-ray and neutron powder diffraction data.
+This solid solution results from thesubstitution mechanism Li+-1/3La3++2/3& leading to an increase of the vacancies number correlated to an increase of the Lacontent.
+According to this substitution mechanism, the general formula can then be written Li1xLax/3&2x/3Zr2(PO4)3 (0pxp1) in orderto underline the correlation between the La content and the vacancies rate.
+For all the compounds, the structure is clearly related to thatof the NASICON family with three crystallographic domains evidenced.
+For 0pxp0.5, all the members adopt at high temperature thetypical NASICON-type structure , while at lower temperature, their structure distorts to a triclinic form , as observedfor LiZr2(PO4)3 prepared above 1100 1C.
+Moreover, in this domain, the reversible transition is clearly soft and the transition temperaturestrongly depends of the x value.
+For 0.6pxp0.9, the compounds crystallize in a rhombohedral cell, while for x ¼ 1, the phaseLa1/3Zr2(PO4)3 is obtained (s.g.P3¯ , Z ¼ 6, a ¼ 8.7378(2)A ˚ , c ¼ 23.2156(7)A ˚ ).
+This paper is devoted to the structure analysis of the series, from X-ray and neutron powder thermodiffraction and transmission electron microscopy (TEM) studies.
+The crystal structure of NASICON-type phases, ofgeneral formula AxM2(XO4)3, can be described fromcorner-sharing of MO6 octahedra and XO4 tetrahedra(Fig.1).
+The three-dimensional framework M2(XO4)3obtained delimits large cavities which can be occupied byvarious A cations.
+Two main types of cavities, M1 and M2,are often considered: the M1 cavity, one per formula unit,is located between two MO6 octahedra along the c-axisforming ribbons O3MO3AO3MO3, while the M2 cavity,three per formula unit, is situated between these ribbons.
+Inthis NASICON family, the RE1/3Zr2(PO4)3 compounds,first pointed out by Alami Talbi et al.in 1994, werefound recently to be RE3+ ionic conductors : sinceRE3+ ions occupy only 1/3 of the Li sites in LiZr2(PO4)3,the RE3+ migration could then be expected due to thegreat number of available vacancies.
+One of thesecompounds, the La1/3Zr2(PO4)3 phase, holds a particularplace: indeed, our research group shows in a recent paperthat it is the only one to crystallize at room temperature inthe P3¯ space group , a new one in the NASICON family.
+Moreover, by increasing the temperature, La1/3Zr2(PO4)3presents a structural transition [4a] from P3¯ to P3¯ c1 spacegroups, transition induced by the La3+ ion ability to movein the [Zr2(PO4)3] network despite its ionic size.
+Takinginto account this phenomenon, we chose to study the newseries Li1xLax/3Zr2(PO4)3 (0pxp1) by hoping that the available vacancies created by the substitution mechanismbetween Li+ and La3+ would support the migration of theconducting species.
+This paper is devoted to the structuralproperties with results based on Rietveld treatment of theX-ray and neutron diffraction powder patterns andtransmission electron microscopy study while the ionicconductivity and the 31P NMR measurements will bepresented in a forthcoming paper.
+Several members of the series Li1xLax/3Zr2(PO4)3(x ¼ 0–1.0 every 0.1) were synthesized in powder formfrom 7Li2CO3, dried La2O3 (1000 1C overnight),ZrOCl2  8H2O and NH4H2PO4 in stoichiometric ratiosusing a complex polymerizable method  as described inour previous paper .
+7Li was used to reduce theabsorption cross-section for neutron experiments.
+The black precursorobtained after the gel calcination at 350 1C wasground and two successive annealings were performed in afurnace at 800 1C for 6 h, then at 1000 1C for the same time.
+The powder obtained was then pelletized and heated for 4 hat 1200 1C for 0.0pxp0.5, and for higher x values,(0.6pxp0.9) at only 1100 1C for a longer time (6 h).
+Onecan notice that a better crystallization can be obtained byincreasing temperature and time of annealing but that ledalways to the formation of some impurities, as ZrP2O7 andZr2O(PO4)3.
+ The continuous evolution of the cell parametersbetween the first member LiZr2(PO4)3 and the lastmember La1/3Zr2(PO4)3 as well as the purity of the samplesrevealed by the X-ray diffraction patterns allow us to retainthe nominal value as the sample chemical composition.
+The X-ray powder diffraction (XRD) patterns wererecorded in air between room temperature and 1000 1C with CuKa radiation on a PANalytical X’Pert Prodiffractometer equipped with the X’celerator detector anda high-temperature attachment Anton Paar HTK1200.
+Every 100 1C, the data were collected by step (0.0171) witha step time of 100 s scanning over an angular rangeof 7.01o2yo1001.
+Structure refinements were carried out by the Rietveldmethod from neutron data, using Fullprof  profilerefinement software, with a pseudo-Voigt function appliedto approximate the diffraction profiles and a manualbackground correction.
+The La content is fixed to itsnominal value due to the small quantity and the lowsensibility of the neutrons diffraction data concerning theRe content.
+We test structure refinements from XRD databut acceptable reliability factors can be obtained only withapplying ‘‘soft constrained’’ Zr–O and P–O distancesdue to the precision of the light atom positional parameters (O and P).
+However, better lanthanum localization isobtained from XRD data, so we tried to combine the twodata files to approach the solution as well as possible.
+Inaddition, the evolutions of the parameters versus temperatureand versus x at 800 1C are made only from XRD data,since we have more experimental points.
+Transmission electron microscopic (TEM) studies (selectedarea electron diffraction—SAED) were carried outon the phase Li0.4La0.2Zr2(PO4)3 compound usinga JEOL 2010 electron microscope operating at 200 kV andequipped with a side entry 7301 double tilt specimenholder.
+The sample was ultrasonically dispersed in butanoland a drop of the suspension was placed on a Cu grid witha holey carbon film.
+A complete study, recently publishedby our group on the phase La1/3Zr2(PO4)3 [4b] revealed arapid transformation under the beam of the sample as soonas the crystallite is illuminated by the electron beam.
+Thistransformation implies the displacement of the two La3+cations in a preserved classical [Zr2(PO4)3] network.
+TheLi0.4La0.2Zr2(PO4)3 compound is then investigated byTEM technique (SAED) in order to see if a similartransformation occurs, and no study was realized for theterms xp0.5, because of their structural change withtemperature (C 1¯-R3¯ c), as described hereafter.
+All the compounds present at room temperature adistortion of the classical rhombohedral NASICON-type,as LiZr2(PO4)3 prepared at high temperature (X1100 1C):above 60 1C, LiZr2(PO4)3 adopts the typical NASICONstructure (s.g.R3¯ c — a variety)  while at lowertemperature, its structure distorts to a triclinic form (s.g.C 1¯ — a0 variety) with the same linkage topology.
+Atlow temperature, the patterns of all the synthesizedcompounds present always a mixture of the two formsand their treatment with a ‘‘two phases’’ option is essentialto index all the hkl lines.
+As an example, a zoom near2y ¼ 201 of the XRD patterns of Li0.7La0.1Zr2(PO4)3(x ¼ 0.3) between room temperature and 800 1C is shownon Fig.2, revealing the overlapping of the lines belongingto the two varieties and the progressive disappearance ofthe C 1¯ form with increasing the temperature: at lowtemperature, the C 1¯ variety largely dominates, whileas of 600 1C, the patterns can be fitted with only therhombohedral variety.
+The coexistence of the two forms isobserved in a very large temperature range (E500 1C)meaning that the reversible triclinic-rhombohedral transitionis soft (Table 1).
+Moreover, for all these compositions(0pxp0.5), the thermal domain of coexistence of the two varieties C 1¯ and R3¯ c is clearly dependent of the lanthanumcontent, as one can see on the Table 1.
+At low temperature, Rietveld pattern refinements aredifficult since an important overlapping of the lines isobserved, nevertheless acceptable results can be obtainedfrom XRD data with the pattern matching mode for thetwo varieties.
+As an example, the evolution versustemperature of the hexagonal cell parameters (R3¯ c variety)followed on the whole temperature range is drawn on theFig.3 for the member Li0.7La0.1Zr2(PO4)3 (x ¼ 0.3) andreveal two very different regions either side of 600 1C.
+Asencountered for R3¯ c NASICON phases, the a and cparameters have opposite variations in good agreementwith the literature for NASICON-type phases, with adecrease of the a parameter and an increase of the cparameter, implying however a small volume expansion.
+Indeed, manyauthors studied their thermal behavior, and moreparticularly the influence of the order/disorder of the Acations and the vacancies.
+However, even if the mechanismis still under investigations, they showed that thermalexpansion of these phases is clearly anisotropic and dependin general of the space group: for the compounds crystallizingin the R3¯ c space group, a contraction of the a axisand an expansion of the c-axis is observed, while for thosecrystallizing in the R3¯ space group, an inverse situation isencountered.
+This seems to be due to the oppositeexpansivities of filled and vacant M1 sites.
+In addition,some authors claimed that it can be due to a displacementof A cations in the framework , while others think thatthe way of preparation can even influence the thermalbehavior [9b].
+At 700 1C, a complete R3¯ c structure refinement for themember Li0.7La0.1Zr2(PO4)3 (x ¼ 0.3) is done from neutrondata with the starting model of the ideal NASICONatomic coordinates for the La3+ cations and the[Zr2(PO4)3] network.
+At this stage of the refinement, thereliability factors obtained are relatively high and we do not succeed to localize theLi+ cations despite the use of neutron diffraction data:Fourier difference maps show no residual negative peaks in spite of the lithium content .
+This situation is probably due to the fact that the twocations Li+ and La3+ are located in the same cavities.
+Then, we choose to localize the lithium at a positionproposed by Catti et al.[9a] in their thermal study of a-LiZr2(PO4)3 and better reliability factors are obtained  with refining the Li atomiccoordinates.
+This Li position is all around the 3blanthanum site (at 1.23A ˚ ) and its environment is constitutedby only two close oxygen atoms (2.24 and 2.29A ˚ ),the two others being further (2.44 and 2.54A ˚ ).
+Final structure refinement results are gathered in Table 2 whileatomic coordinates are given in Table 3 and the correspondingexperimental, calculated and difference profilesare shown in Fig.4. 
+In this structure, classical interatomicdistances and valence sums [13] are obtained for Zr, P andO (respectively, 4.2, 5.4, 2.1 and 2.0), but La cationspartially filling the 6b site (10%) in a six-fold coordinationpresent a too low valence sum (1.9) and a too large Bisovalue (9.3(9)) for such heavy cations.
+This situation,already encountered for many A cations in AxM2(XO4)3NASICON-type phases [7,9b,10e,14], can be correlated tothe size of the antiprism O6 which would be able toaccommodate larger A cations.
+All the diffraction patterns could be fitted on the basis ofthe expected rhombohedral cell (aE8.7 and cE23.0A ˚ ), butthe observed extinction conditions are inconsistent with theR3¯ c space group usually used to describe a NASICON typestructure: for example, the presence of two diffractionlines (003) and (101) at low 2y angle (Fig.5), prevents the c-axisglide plane.
+Then, we start the Rietveld calculations in theR3¯ space group: the lowering of the symmetry (R3¯ c to R3¯ )is due to an ordering of the cations and the vacancies onthe two available sites, 3a and 3b (Fig.
+1) of the R3¯ spacegroup, while in the typical NASICON R3¯c space group,the A cations and the vacancies are located on the samesite (6b).
+The calculations are made for two temperatures(room temperature and 600 1C) for the member Li0.2La0.8/3Zr2(PO4)3 (x ¼ 0.8) with the atomic positionsfor all the ions taken from the model of Ca0.5Ti2(PO4)3 .
+At the beginning of the refinements, the La3+ content isequally distributed on the two sites 3a and 3b and isallowed to be refined with constraint to its nominal value.
+The calculation progressively empties the 3a site in favor ofthe 3b site.
+This situation differs from that of thecompound La1/3Ti2(PO4)3 where the two La3+ ionsare only distributed on the 3a site.
+For both temperatures,the reliability factors converge to reasonable values listedin Table 4, although we did not succeed in locating the Li+cations in the cell.
+Final atomic coordinates, sof, Biso valuesand bond valence calculation results are gathered inTable 5. 
+A good minimization of the difference between theexperimental and the calculated neutron patterns isobserved, as shown on Fig.5 for room temperature.
+At 600 1C, the calculated distancesare very similar, respectively, 2.01(1)–2.13(1) and2.01(1)–2.14(1)A ˚ for the two octahedra Zr1O6 andZr2O6, and 1.48(1)–1.54(1)A ˚ for the tetrahedral PO4.
+Due to the large size of the antiprism O46 where thelanthanum cations are located, a large Biso value isobtained for La3+ (5.9(5) at room temperature and 6.3(7)at 600 1C) correlated with a small bond valence value (2.2at room temperature and 2.0 at 600 1C) which was alreadyobserved in similar phases [7,9b,10e,14].
+It must be notedthat, for other x values of this domain composition, thelocalization of the lanthanum ions is not affected by the lithium content since the 3a site is always empty whateverthe composition.
+Moreover, thermal diffraction measurementsshow no modification of the lanthanum distribution,since the 3a site remains empty, meaning that no structuraltransition, as observed for La1/3Zr2(PO4)3, is evidenced.
+Finally, the evolution of the cell parameters from XRD data for this compound is plotted on the Fig.6 and themean thermal expansion coefficients are low and bothpositive between room temperature and 1000 1C.
+ If below200 1C a classical anisotropic thermal behavior of an R3¯NASICON phase is observed, above 200 1C, an expansionof the c parameter occurs.
+The temperature correspondingto the minimal c value 
+ increases with thelithium content (for example, for x ¼ 0.6 this minimum isclose to 450 1C).
+On another hand, if we compare the O–Oheight along c-axis of the oxide antiprism O6 surroundingthe M1 position for the two sites 3a (O3–O3) and 3b(O4–O4) for the phase Li0.2La0.8/3Zr2(PO4)3, we see thatbetween the room temperature and 600 1C, the two sitesheight is preserved in spite of their different occupancy rate, in goodagreement with the low thermal coefficient ac.
+The reconstitution of the reciprocal space of variouscrystallites of Li0.4La0.2Zr2(PO4)3 (x ¼ 0.6) leads always toan hexagonal cell with the following parameters aE8.7 andcE23.0A ˚ .
+The systematic absences are characteristic of arhombohedral extinction symbol R- - -, compatible with thecentrosymetric space groups R3¯ (no.
+148) and R3¯m (no.166) and the corresponding acentric ones.
+As discussed inthe X-ray paragraph, the condition on the 0 0 l spots,l ¼ 6 n, implying the existence of c-axis glide is clearly notrespected, preventing the R3¯c space group.
+Typically,SAED patterns of two different zone axis orientationsare shown in Fig.7. 
+No transformation like that observedfor La1/3Zr2(PO4)3 [4b] under the beam was observed forthis sample.
+The phase La1/3Zr2(PO4)3  is obtained (s.g.P3¯ , Z ¼ 6,a ¼ 8.7378(2)A ˚ , c ¼ 23.2156(7)A ˚ ).
+In this structure, thetwo La3+ are found quasiordered along the c-axis at roomtemperature in the M1 cavities: 1 La3+ in the La1 site (1a),0.56(1) in the La2 site (1b) and the remaining 0.44(1) in theLa3 one (2d) (Fig.1).
+By increasing the temperature, theLa3 site progressively empties in favor of the La2 site [4a],leading at 1000 1C to a structural transition from P3¯ toP3¯ c1, with the two La3+ ions located along the c-axis (2bsite).
+Finally, despite the existence of these different crystallographicdomains, it is possible to plot at 800 1C theevolution of cell parameters a and c versus compositionfrom XRD data (Fig.
+8), since at this temperature, all thecompounds crystallize in an hexagonal cell: spacegroup R3¯ c for 0pxp0.5, space group R3¯ for 0.6pxp0.9and space group P3¯ for x ¼ 1. Despite the differentspace groups used in the three domains, both evolutionsare linear: the a parameter decreases while the c parameterincreases.
+These two opposite behaviors can beexplained by considering electrostatic repulsion andoccupation number of the cationic A site as explainedby Delmas .
+Indeed, the substitution mechanismLi+-1/3La3++2/3& leads to an increase of bothvacancies number and La content.
+This variation of thevacancies number with x can be correlated with a decreaseof the cation–cation repulsion between the ribbons implyinga shortening of the a parameter.
+Concerning theexpansion of the c parameter, it is influenced by twoadditional simultaneous effects: the occupation number ofthe A cationic site which decreases with the lanthanum content and the substitution of small Li+ cations by a largerone La3+ (respectively, 0.76 and 1.032A ˚ for a six coordinationnumber ).
+This leads both to an increase of the c parameter.
+Taking into account these evolutions, we can concludethat the solid solution between LiZr2(PO4)3 andLa1/3Zr2(PO4)3 is continuous (Fig.
+9).
+A new complete NASICON solid solutionLi1xLax/3Zr2(PO4)3 (0pxp1) is evidenced and resultsfrom the substitution mechanism Li+-1/3La3++2/3&between LiZr2(PO4)3 and La1/3Zr2(PO4)3. 
+The compoundswere synthesized by a complex polymerizable method andstructurally characterized from Rietveld treatment of theirX-ray and neutron powder diffraction data.
+Their structureis clearly related to that of the NASICON family but three crystallographic domains can be evidenced.
+For 0pxp0.5,the compounds adopt a similar behavior with that ofLiZr2(PO4)3 prepared above 1100 1C.
+At high temperature,the typical NASICON structure (s.g.R3¯ c — a variety) isobserved, while at lower temperature, the structure distortsto a triclinic form (s.g.C 1¯ — a0 variety).
+This softtransition C 1¯ -R3¯ c is reversible and dependent of the xvalue.
+For 0.6pxp0.9, the compounds crystallize in arhombohedral cell (s.g.R3¯ ), the lowering of the symmetrybeing due to an ordering of the A cations and thevacancies.
+For x ¼ 1, the phase La1/3Zr2(PO4)3 is obtained(s.g.P3¯).
+This structural study is a new example of theflexibility of the NASICON framework and confirms theparticular behavior of La1/3Zr2(PO4)3: a small Li insertionin La1/3Zr2(PO4)3 implies immediately an ordering of thelanthanum.
+On another hand, no transformation under thebeam during the TEM study, as encountered for thelanthanum compound, can be evidenced.
+Ionic conductivityand 31P NMR measurements are now in progress andwill be presented in a forthcoming paper.

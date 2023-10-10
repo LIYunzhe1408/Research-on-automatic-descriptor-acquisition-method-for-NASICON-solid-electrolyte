@@ -1,0 +1,55 @@
+Amorphous analogs of lithium–iron phosphates (LFP) were prepared by standard press-quenching method and their thermal stabilities as well as structural properties were studied for the first time. 
+Glass transition temperature Tg determined by DTA method was observed at the temperature range 492–523°C, depending on the glass composition. 
+The maxima of crystallization peaks were observed in the 555–579°C range. 
+In products obtained after heating up to 700°C the XRD patterns have revealed the presence of: LiFePO4 (triphylite), FePO4 (heterosite), a -FePO4 (quartz like structure) and Li3Fe2(PO4)3 (Nasicon like structure) phases.
+
+Crystalline olivine-like LixFePO4 solid solutions (also known as LFP – lithium–iron phosphate) are under intensive studies as the most competitive positive electrode materials for Li-ion rechargeable batteries. 
+In these batteries Li cations intercalate from electrolyte into cathode and this process is accompanied with electron flow via external electric circuit. 
+The change of Li content is related neither to change of electro-neutrality nor to change of Fe or P contents. 
+The main advantages of LiFePO4 as cathode material are that it
+is a highly stable, cheap and non-toxic material which maintains high theoretical specific capacity of 170 mAh g–1 and a high discharge voltage. 
+Unfortunately,besides all their advantages, olivine-like phases exhibit one serious drawback – very low electrical conductivity – ca. 10–10 S cm–1 – at room temperature.
+Many efforts have been undertaken to improve their electrical properties by structure modifications, introduction of carbon additives , or by appropriate doping. 
+Recently we have proposed another, yet unexplored, way of circumventing the problem of low conductivity of crystalline olivine cathode materials.
+We have prepared vitreous analogs of these materials and have started studies on their long-range and local structure, electrical charge transport and magnetic properties. 
+The second step, being under investigation, consists in turning these glasses into nanomaterials by an appropriate thermal treatment.
+This work reports our most recent results of studies on thermal and structural properties of LFP glasses, whose nominal composition can be approximately written as LixFePO4, wherex was changed in the 0£ x£ 1 range at D x=0.1 intervals. 
+In particular, we were interested in the determination of the thermal stability range and beginning of crystallization of studied glasses. 
+Our earlier studies of lithiumvanadate phosphate glasses show that nanocrystallization has an especially important effect on electrical
+conductivity enhancement . 
+The recent results indicate that a similar phenomenon occurs in the LFP glasses .
+
+A series of vitreous samples of nominal composition LixFePO4 for 0x1 at x=0.1 intervals were synthesized by a press-quenching technique. 
+Appropriate amounts of dried precursors: Li2CO3 (Aldrich, 99.99%),NH4H2PO4 (POCh – Polish Chemicals, 99.5%) and Fe2O3 (POCh, 98.5%) were ground and mixed in a mortar. 
+Alumina crucibles filled with the powders were placed in an electric furnace and heated from 20 to 1270°C in air at a heating rate of 5 K min–1. 
+The molten mixtures kept at 1270°C were rapidly poured out onto a stainless-steel plate held at a temperature close to 25°C and immediately covered by a second stainless-steel plate. 
+The average thickness of the resulting samples was 0.5–1.0 mm.
+The composition of the solid products was analyzed by means of X-ray diffraction (XRD) on a Philips X’Pert apparatus using Ni-filtered (=1.54 ) CuK1 radiation in step mode with step size of 0.01°.
+The pulse count integration time was 0.3 sec.
+DTA measurements, in the temperature range of 20–700°C, were carried out on a DTA7 System thermal analyzer (Perkin-Elmer). 
+The conditions of the experiments were: heating rate 10 K min–1, Ar
+flow rate 50 cm3 min–1, sample mass 130–133 mg.
+
+The DTA curves of the samples reveal the existence of two overlapped thermal effects. 
+The first effect is due to devitrification and the other, strongly exothermic effect is due to the crystallization of phosphate phases
+in the system (Fig. 1).
+The superposition of the two effects, particularly in the samples with low contents of lithium (Li0.1FePO4 and Li0.2FePO4) makes impossible to determine the values of Cp during glass transition. 
+In samples containing more lithium the separation of the
+two effects is clearer; the value of Cp determined for
+the sample of Li0.8FePO4, in which the two effects are
+the most readily seen, is 0.7 J g–1 K–1. 
+The sample exhibits the greatest stability of the vitreous phase
+determined as the Tc–Tg difference which amounts 79°C (Fig. 2, Table 1).
+Due to the overlapping of thermal effects of glass transition and crystallization mentioned earlier, no relationship between the composition of the studied glasses and the Tg value was observed.
+It should be noted, however, that the onset temperature of glass transition decreases with increasing contents of lithium, with the exception of FePO4 and Li0.1FePO4 samples (Fig. 3).
+The maximum of the exothermic effect of crystallization of the studied glasses is observed from 555 to 579°C. 
+In the case of samples containing more than 20 mol% lithium the crystallization process can be seen on DTA curves at temperatures of up to 700°C.
+In the products obtained at that temperature the XRD measurements have revealed the presence of four a -FePO4 (quartz like structure) and Li3Fe2(PO4)3 (Nasicon like structure) (Fig. 4).
+SEM micrograph received glass – Li0.8FePO4 – show smooth uniform area, typical for the amorphous material. 
+After heating up to 540°C one can see small crystallites, about 1 m m and much smaller grains around 100 nm. 
+Annealing of the sample at 700°C results in massive crystallization (Fig. 5). 
+Temperatures Tg, T0c and Tc determined from DTA curves indicated wide thermal stability range of studied materials and were used to set up the temperature program of impedance spectroscopy measurement.
+
+For the first time, lithium–iron phosphate (LFP) glasses were prepared – the promising cathode materials for Li-ion batteries. The obtained glasses exhibit considerable thermal stability in comparison to other conductive glasses (e.g. lithium-vanadate phosphate glasses ).
+The other advantage of the prepared glasses is their inherent ability to nanocrystallization which may improve their electrical conductivity.
+

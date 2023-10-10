@@ -1,0 +1,104 @@
+A flexible and wearable aqueous lithium-ion batteryis introduced based on spinel Li1.1Mn2O4 cathode anda carbon-coated NASICON-type LiTi2(PO4)3 anode (NASICON = sodium-ion super ionic conductor).
+
+Energy densitiesof 63 Whkg¢1or 124 mWhcm¢3and power densities of3 275 W kg¢1or 11.1 W cm¢3can be obtained, which are seventimes larger than the largest reported till now.
+
+The full cell cankeep its capacity without significant loss under differentbending states, which shows excellent flexibility.
+
+Furthermore,two such flexible cells in series with an operation voltage of 4 Vcan be compatible with current nonaqueous Li-ion batteries.
+
+Therefore, such a flexible cell can potentially be put intopractical applications for wearable electronics.
+
+In addition,a self-chargeable unit is realized by integrating a single flexibleaqueous Li-ion battery with a commercial flexible solar cell,which may facilitate the long-time outdoor operation offlexible and wearable electronic devices.
+
+Flexible, portable and wearable electronic devices havefound a wide variety of promising applications such as smartclothes, rollup displays, wireless sensors, wearable devices andimplantable medical devices and gained increasing interestsin recent years.
+
+As a result, it is desperately required todevelop corresponding energy-storage systems, such as supercapacitors and lithium-ion batteries (LIBs), to power them.
+
+However, commercially available supercapacitors and LIBsare typically rigid and heavy due to the thick electrode stackand their packaging,[3, 4] which unfortunately cannot satisfy therequirement of flexibility, portability, convenience and designfor flexible electronic devices.
+
+Numerous attempts have beenmade to fabricate flexible supercapacitors and great advanceshave been achieved.
+
+ Nevertheless, inferior performances,including low energy densities, have prevented them fromappearing in the market.
+
+Instead, lithium-ion batteries withmuch higher energy densities are believed to become a leadingcandidate to power flexible and wearable devices.
+
+Recently,alot of efforts have been made to develop flexibleand lightweight LIBs while maintaining their highcapacity.
+
+However, all reported flexible Li-ion batteriesare based on highly toxic and flammable organic electrolyte,which can cause safety hazards.
+
+Especially, the safety issuesmay be much enlarged for flexible and wearable LIBs, whenthey are stretched and distorted repeatedly during use.
+
+Anattractive approach to circumvent this problem is to use anaqueous electrolyte for LIBs, which adopt a “rocking-chair”concept similar to the organic LIBs.
+
+Unfortunately, up topresent, flexible and wearable aqueous LIBs have never beenreported.
+
+On the other hand, most reports about electrodepreparation were through directly printing, coating, sprayingor weaving active materials on/in the carbon substrates, wherethe carbon materials play the role of current collector.
+
+ This approach can efficiently utilizethe characteristic of carbon substrates, including high flexibility, porous structure and high electronic conductivity, andthus ensure the electrochemical and mechanical properties ofelectrode at deformed states.
+
+However, the key disadvantageis that the mass loading of electrode materials is quite low,[20]which much limited the practical energy density, especially involumetric energy density.
+
+For example, in most of theprevious reports, the mass loading of electrode activematerials is generally lower than 1.5 mgcm¢2.[9, 22–25, 28] To thebest of our knowledge, the largest reported energy densityabout wearable and flexible LIBs is only 17 mWhcm¢3.[31]Herein, we designed a wearable and flexible aqueous LIBthat is based on a spinel Li1.1Mn2O4 (LMO) cathode anda carbon-coated NASICON-type LiTi2(PO4)3 (LTPO) anode(Figure 1).
+
+The electrode was prepared by directly rollinga mixture of LMO (or LTPO) as active material, acetyleneblack (AB) as conductive agent and polytetrafluorethylene(PTFE) as binder into a film (Figure 1 a), which was thenpressed onto a flexible and lightweight stainless steel mesh(see Figure S1 in the Supporting Information) to forma flexible electrode.
+
+As shown in Figure 1 b and 1 c, theelectrode active material (LMO or LTPO) and the conductivecarbon material of AB are well mixed in the electrode film,which results in enhanced electrical conductivity of theelectrode.
+
+Additionally, the line-shaped polymer binder ofPTFE further improves the interfacial contact betweenelectrode active materials (LMO or LTPO) and AB, whichensures the flexibility of electrode film.
+
+Therefore, theresulting electrode can be freely folded, rolled and twistedwithout mechanical damage, exhibiting a perfect flexibility(Figure S2).
+
+This simple electrode fabrication method makesthe mass loading of active material (LMO or LTPO) as highas 10 mgcm¢2, which is much higher than previousreports.
+
+Then, the as-prepared electrodes and themicroporous polyacrylonitrile (PAN) nonwoven separatorwetted by aqueous electrolyte (2m LiNO3) were used tofabricate a 2 V aqueous LIB device (Figure 1 d), whichexhibits typical flexibility (Figure 1 e and 1 f).
+
+Electrochem-ical performance of the LIB and its flexibility were investigated in detail.
+
+In addition, two such wearable and flexiblecells connected in series with an operating voltage of 4 V werealso fabricated and investigated.
+
+Prior to the fabrication of the flexible full cell, electrochemical performance of the LMO and LTPO flexibleelectrode films in aqueous electrolyte were investigated bycyclic voltammetry (CV) and galvanostatic charge/dischargemeasurements with a three-electrode system, respectively.
+
+Preparation and characterization of both materials are givenin Figure S3 and Figure S4.It can be detected from the CVprofile of LMO that two pairs of redox peaks locate in thepotential of + 0.82 V/ + 0.75 V and + 0.95 V/ + 0.88 V (vs.SCE; Figure 2 a), which corresponds to the Li+-intercalation/de-intercalation.
+
+As shown in Figure 2 b, the specificcapacity of LMO is 105 mAhg¢1.CV curve of LTPO ispresented in Figure 2 c, where the redox peak at ¢0.81 V/¢0.65 V (vs.saturated calomel electrode = SCE) can beobserved clearly.
+
+The small redox peaks located around¢0.4 V (vs.SCE) should be attributed to the impurity ofTiPO4in the LTPO sample (Figure S4).
+
+It can be detected thatthe specific capacity of LTPO is 80 mAhg¢1(Figure 2 d).
+
+Thecycle performance for both electrodes is given in Figures S5and S6, respectively.
+
+After the electrochemical investigation of single electrode, LMO and LTPO are then used as cathode and anodematerials, respectively, to form a flexible belt-shaped aqueousLi-ion full cell with the lamination process.
+
+As shown inFigure 3 a, the cell can be charged/discharged within thevoltage window from 0 to 2.0 V, which is consistent with thepotential difference of the cathode and the anode observedaforementioned.
+
+The mass loading of cathode material(LMO) and anode material (LTPO) is 10 mgcm¢2and12 mg cm¢2, respectively.
+
+The current density (Ag¢1) and thespecific capacity (mAhg¢1) are calculated based on the totalmass of electrode materials (LMO + LTPO).
+
+The flexible celldelivers a discharge capacity of 40 mAhg¢1at the currentdensity of 0.2 Ag¢1, indicating a cathode capacity of 88 mAhg-1LMO based on the mass of LMO and an anode capacity of72 mAhg-1LTPO based on the mass of LTPO.
+
+The small plateauat about 1 V arises from the impurity of TiPO4in the anodeLTPO electrode (Figure S4).
+
+When a current density of1 Ag¢1is applied, the discharge capacity of 35 mAhg¢1canstill be achieved.
+
+Even at a much higher current density of2 Ag¢1, the flexible cell can still deliver a capacity of morethan 25 mAhg¢1, suggesting a perfect rate capability.
+
+Ragoneplot of the flexible cell is given in Figure 3 b.
+
+It can be detectedthat the specific energy reaches 63 Whkg¢1at a specific powerof 320 W kg¢1, and still keeps 28 Whkg¢1at a power density of3 275 W kg¢1.The volumetric energy density and powerdensity were also calculated based on the total volume ofcathode, anode and separator.
+
+The maximum volumetricenergy density and power density are 124 mWh cm¢3and11.1 W cm¢3, respectively, which are about 7 times higher thanthe largest value (17.7 mWh cm¢3and 1.7 W cm¢3) reportedup to present (Table S1).
+
+The cycle performance given inFigure 3 c indicates the cell can keep its columbic efficiencyaround 100% during 100 cycles with capacity retention ofabout 72% at the current density of 1 Ag¢1.Moreover,flexible aqueous Li-ion battery can still work well even withhigher mass loading of active material (ca.
+
+In present case, the mass loading of electrode materials isas high as 10–12 mg cm¢1, which is about 10 times higher thanprevious report (less than 1.5 mgcm¢2).
+
+Accordingly, it isnecessary to investigate the flexibility of this cell.
+
+As shown inFigure 4, electrochemical performance of a same cell has beentested under various shapes, that is, before bending, bended to458, 908, 1358, and 1808, last bended to a cycle.
+
+It can bedetected that almost same capacity is achieved at differentbending states, which confirms the excellent flexibility.
+
+Evenafter repeating the bending tests for 100 times, the cell showsnegligible performance loss (Figure S8).
+

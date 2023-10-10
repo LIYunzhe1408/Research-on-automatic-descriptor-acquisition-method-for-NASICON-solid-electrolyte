@@ -1,0 +1,251 @@
+A sodium (Na) Super Ion Conductor (NaSICON), has been studied at Pacific Northwest National Laboratory (PNNL) to investigate its ability to separate sodium from radioactively contaminated sodium salt solutions for treating U.S.Department of Energy (DOE) tank wastes.
+Ceramatec Inc.developed and fabricated a membrane disk containing a proprietary NAS-GY material formulation that was electrochemically tested in a bench-scale apparatus with both a simulant and a radioactive tank-waste solution to determine the membrane performance when removing sodium from DOE tank wastes.
+Implementing this sodium separation process can result in significant cost savings by reducing the disposal volume of low-activity wastes and by producing a 19 M NaOH feedstock product for recycle into waste treatment processes such as sludge leaching, regenerating ion exchange resins, inhibiting corrosion in carbon-steel tanks, or retrieving tank wastes.
+In actual waste tests, average sodium transport rates of 10.3 kg=day=m2 were achieved at average sodium transport efficiencies of 99%.
+The membrane was found to be highly selective to sodium ions resulting in no detectable cation transport except Na and a small quantity (0.04% to 0.06%) of 137Cs.
+An average decontamination factor of 2000 was observed with respect to 137Cs.
+As expected, Gibbsite precipitation was observed as OH  ions were depleted from the tank waste.
+
+Producing nuclear materials within the U.S.Department of Energy (DOE) complex generated acidic waste streams that were made highly alkaline by adding sodium hydroxide for storage in carbon-steel tanks.
+Many of the wastes are therefore dominated by non-radioactive sodium that can negatively affect waste treatment and disposal operations.
+Sodium is the primary contributor to large disposal volumes of lowactivity waste, because it decreases the durability of waste forms such as glass.
+Waste-treatment processes, such as cesium ion exchange, sludge washing, and calcination, are made less efficient and more expensive because of the high Na concentrations.
+Some proposed pretreatment processing strategies (1,2,3) call for adding more Na (primarily as NaOH) to the wastes.
+For example, adding NaOH is proposed to enhance the sludge-leaching process to leach Al from the high-level waste (HLW) process stream.
+Also, more importantly, NaOH additions are proposed to prevent solids precipitation.
+These Na additions, unless removed, will ultimately increase the quantity of waste processed.
+Separating and recycling Na from the radioactive wastes can potentially reduce costs by reducing the low-activity waste disposal volumes, improving the efficiency of the waste-treatment processes, and avoiding the need to procure additional chemicals.
+In the late 1990s, a multi-step development and testing process for sodium (Na) Super Ion Conductors (NaSICON) membrane materials was completed at Pacific Northwest National Laboratory (PNNL).
+The initial step was to screen the materials by determining the sodium ionic conductivity in static (non-flowing) cells using a combination of DCpulse (current interrupt) and AC-impedance techniques.
+Materials with the greatest sodium ionic conductivity were subjected to long-term testing in single disk electrochemical cells to assess the chemical and electrochemical stability of the materials and to determine the long-term sodium transport efficiency.
+The membrane compositions with the best combination of ionic conductivity and lifetime were incorporated into the multi-disk scaffolds for benchand pilot-scale testing.
+Several different membrane compositions and three different disk sizes were tested.
+The initial materials investigated were RE-NaSICON compositions based on the rare-earth elements dysprosium  and neodymium .
+The new family of NaSICON and doped NaSICON compositions tested were denoted NAS-D, NAS-E, NAS-G, and NAS-H where the letters D, E, G, and H denote a given class of compositions.
+
+These compositions were developed to increase the sodium transport rate by increasing the channel size for sodium ion conduction.
+The X dopant in the composition provides chemical and electrochemical stability toward corrosion.
+Membranes were fabricated with diameters of 2.54 cm, 3.9 cm, and 5.1 cm and a thickness that is typically 1.4 to 1.5 mm.
+Disks as thin as 0.7 mm were fabricated and tested in an effort to reduce the resistance of the membranes to ionic conduction and thereby lower the voltage drop across the membrane.
+Through experimental work, it was discovered that these new materials were 2.5 (NAS-E) to 4 (NAS-G) to 5 (NAS-H) times more conductive than the NAS-D materials.
+The sodium ion transport efficiencies were generally greater than 90%.
+The NAS-G membranes were tested at current densities as high as 400 mA=cm2. Both the NAS-E and NAS-G membranes were found to be susceptible to weakening and failure after about 500 hours in tests with Hanford waste simulants.
+Failure was thought to be due to ion-exchange-induced corrosion in which Kþ exchanges with Naþ in the material structure.
+Additional membranes were developed within the NAS-G family of membranes to produce an improved NAS-GY (876GY) material with attractive chemical and electrochemical stability.
+Extensive testing of the NAS-G membranes was conducted by Ceramatec Inc.
+but these materials were only subjected to waste simulants and no actual tankwaste samples.
+PNNL was recently solicited to conduct bench-scale testing of an NAS-GY membrane, 1.4 mm thick and 7.62 cm diameter, using an actual tank-waste sample.
+Three experiments were conducted, one with a nonradiological waste simulant and two with a composited sample of AP104=SY101=AZ101 tank waste from the Hanford site.
+This paper presents a summary of membrane testing activities associated with separating and recycling sodium from radioactive wastes.
+Testing activities include bench-scale testing with non-radioactive tank waste simulants and actual radioactive tank wastes at the Hanford site.
+Process DescriptionThe electrochemical salt-splitting process based on inorganic ceramic membranes is shown in Fig.1. 
+This process shows promise as a means to mitigate the impact of Na by enabling the separation and recycling of Na from the radioactive wastes.
+In this process, the waste is added to the anode compartment, and an electrical potential is applied to the cell.
+The ceramic membrane allows the selective transport of Naþ ionsM. S.Fountain et al.
+The charge balance in the anode compartment is maintained by generating Hþ from the electrolysis of water.
+The charge balance in the cathode is maintained by generating OH   , either from the electrolysis of water or from oxygen and water using an oxygen gas diffusion cathode.
+The normal gaseous products of the electrolysis of water are oxygen at the anode and hydrogen at the cathode.
+Potentially flammable gas mixtures can be prevented by providing adequate volumes of a sweep gas, using an alternative reductant, or destroying the hydrogen as it is generated.
+As Hþ is generated in the anode compartment, the pH drops.
+Producing OH   in the cathode compartment results in a rise in pH as the NaOH product is produced.
+Although a number of organic-based ion exchange membranes are available for use in salt-splitting processes (4), ceramic membranes offer a number of advantages over organic membranes for treating radioactive wastes.
+Inorganic materials are generally very resistant to radiation damage, and the Dy-NaSICON materials have been exposed to relatively large amounts of radiation (109 Rads from a 60Co gamma source) with no detectable impact on performance (5).
+Ceramic membranes have superior resistance to fouling because of the tendency to exclude diand tri-valent cations that can precipitate in organic membranes during salt splitting.
+Ceramic membranes also appear to have a high selectivity for Na relative to most other waste components (5).
+This is especially important in treating radioactive wastes, where it is desirable to minimize the radioactivity in the recycled Na.
+Figure 2 shows a schematic of the electrochemical flow cell used for simulant and actual waste testing.
+Separate flow loops were provided for the anolyte and catholyte solutions.
+Each loop consisted of a solution storage reservoir, pump, and flow-control meter.
+An inert gas purge line was supplied to the catholyte solution container to prevent the buildup of potentially flammable gases generated in the cathode.
+A simple ambient air condenser was placed on the cathode outlet line to recover any evaporation losses.
+The operating temperature was maintained with two 6 12 inch fiberglass-reinforced silicone-rubber heat blankets wrapped around the reservoirs.
+Actual reservoir and cell outlet temperatures were monitored manually with a Fluke 54II handheld thermometer and Omega PFA-coated T-type thermocouples.
+Power was supplied with a BOSS model 730 electrochemical unit manufactured by the Electrosynthesis Company.
+Voltage (0 to 60 volts) or current (0 to 50 amps) could be directly set.
+All experiments were conducted at a constant current.
+The BOSS power supply also monitored various experimental parameters and automatically shut down the system if any limits were exceeded.
+Voltage and current output signals from the BOSS power supply were recorded with an Agilent 34970A dataacquisition system using a 34901A hardware board and stored on a computer hard disk.
+The anolyte and catholyte reservoirs consisted of polypropylene (PP) tanks with a 2-L capacity.
+Fittings and tubing used for both the non-radioactive (simulant testing) and radioactive testing was polytetraflouroethylene (PTFE) tubing with PP fittings.
+Two caustic-resistant, magnetically driven centrifugal pumps (Little Giant model #4-MD-SC) were used to circulate the catholyte and anolyte solutions through theirFigure 2. Bench-scale electrochemical salt-splitting system.
+
+Flow rates between from 138 to 156 L=h were maintained.
+Solution loop and transmembrane pressures were monitored with corrosive service gauges capable of 0 to 15 psig and incremental markings of 0.25 psig each.
+The electrochemical cell was a modified Electro multi-purpose (MP) model (ElectroCell AB) for bench-scale testing.
+The electrodes were platinized titanium (anode) and nickel (cathode) with a projected surface area of 100 cm2. The cell materials of construction are scaffold-HDPE, flow promoter-PP, gaskets-ethylene-propylene-diene monomer (EPDM) rubber, metal endplates, and bolts-316 stainless steel.
+Turbulence promoters were inserted between the scaffold and the electrode surface to promote solution mixing.
+A minimum flow rate of 60 L=h is specified by the manufacturer for the MP cell.
+The 1.4-mm-thick, 7.62-cm-diameter ceramic membrane, with a NAS-GY formulation, was incorporated as a disk into a scaffold consisting of 0.635-cm (1/4-in.) HDPE.
+The membrane disk was sealed at the edge and offered an active membrane surface area of 45.6 cm2. All testing was completed with the same ceramic disk membrane.
+All catholyte solutions were prepared using reagent-grade chemicals and deionized, distilled water (DDI).
+In the final experiment, a known mass of 19 M NaOH was added to the anolyte reservoir to replenish the Na and hydroxide quantities lost in the previous test.
+The system was operated in a batch recycle mode with initial feedstock volumes ranging from 0.9 to 1.0 L.
+In the non-radioactive test and first radioactive test, the initial catholyte solution consisted of 1 M NaOH to provide conductivity for ionic transport.
+The final test used 18.6 M NaOH as the initial catholyte solution.
+The anolyte consisted of AP104=SY101= AZ101 simulant and actual AP104=SY101=AZ101 tank waste.
+The testing duration was primarily dictated by the start of Al(OH)3 (Gibbsite) precipitation as the anolyte solution pH approached 12. Experiments with actual wastes were conducted without adding caustic and were terminated when solids started to precipitate.
+The temperature of the system was normally controlled at 40The process samples were analyzed using inductively coupled plasma-optical emission spectrometry (ICP-OES), which provided concentrations of the important cations.
+The uncertainty of the ICP-OES measurement is estimated at 5% based on both the blank spike and the matrix spike recoveries.
+Hydroxide analyses were completed using a Brinkman 636 Auto-titrator.
+Standard recoveries exceeded 97% and matrix spikes exceeded 92% recoveries.
+Sodium mass balances were used to check the consistency of the results and to check for Na losses due to ion chromatography (anions), and hydroxylleaks and weeping around the connections.
+Selected samples were also analyzed with total organic carbon (organic content), total inorganic carbon (carbonate), ion titration to obtain information on the changes in waste chemistry.
+For the tests with actual waste, gamma energy analysis (GEA) was used to determine the concentrations of 60Co, 106Ru=Rh, 126Sn=Sb, 137Cs, 154Eu, 155Eu, and 241Am.
+The 99Tc concentration was determined by liquid scintillation counting after a combination of ion exchange and solvent extraction.
+The 90Sr concentration was determined using extraction chromatography followed by liquid scintillation counting.
+Tank Waste Feed and Simulant CompositionsSelecting the actual tank-waste feed was constrained by the wastes that were available.
+Two particular tank-waste supernate samples previously treated by ion exchange were located and deemed as representative tank-waste feeds for conducting caustic recycle experiments.
+Both samples had previously been depleted of 137Cs and 99Tc by ion exchange and were combined to produce a composite waste feedstock.
+Table 1 identifies the estimated constituent concentrations in the composited sample.
+Note that Cs and Sr concentrations were below detection limits for the ICP-OES analysis method and reported as zero.
+However, Cs, Sr, and other radionuclides were present in the composited waste sample and measured by GEA analysis.
+A simulant recipe was produced during this work to mirror the non-radioactive components identified in the AP104=SY101=AZ101 composited sample.
+Table 2 identifies the estimated constituent concentrations in the simulant.
+Bench-Scale Testing of NAS-GY Single DiskThree experiments using a single NAS-GY (876GY) disk (1.4 mm thick 7.62 cm in diameter) were completed using the ElectroCell MP system described previously.
+The cell was operated in the batch mode,  at 40 C, with no material additions during testing.
+The current density to 45.6 cm2 and is based on the exposed membrane area, equal fixed at 50 mA=cm2. Only periodic sampling was performed.
+
+The sodium-transport efficiency was determined at various times during the experiment based on chemical analysis of samples.
+The sodiumtransport efficiency, provided in Equation (1), is defined as the moles of sodium transported through the membrane relative to the total moles of electrons.
+Na Transport Efficiency ¼ actual moles of Na transferredCurrent, time, and Faraday’s constant (96,484 amp-s=mol) are represented by I, t, and F, respectively.
+The sodium-transfer rate was determined through chemical analysis of each sample and then averaged over the length of the experiment.
+Finally, membrane selectivity for Naþ over other metal cations is represented by Equation (2):Membrane Selectivity¼ ðmoles of Na Transferred=Initial Na ConcentrationÞ ðmoles of Metal Transferred=Initial Metal Concentration)where the moles of materials transferred are based on the catholyte while initial concentrations are based on anolyte analyses.
+Simulant TestingSimulant testing was completed before conducting radioactive testing.
+An AP104=SY101=AZ101 simulant charge of 1206.8 g ( 1 L) was placed into the anolyte reservoir and 1026.8 g ( 1 L) of 1 M NaOH was charged to the catholyte reservoir.
+Figure 3 illustrates a good agreement between theoretical and the actual sodium transport rate.
+The theoretical transport rate assumes that all applied current was involved in electron transfer.
+Aside from a slight offset, the slopes of the lines are approximately equal.
+The sodium transport efficiency was determined through OH  titration results on the catholyte samples.
+OH  titration standard recovery was 107% while matrix spikes were 95 to 96%.
+The first sample, at 62 minutes, was low at 88% while the next three samples produced 93 to 95% efficiencies.
+The average efficiency was 93%.
+The average sodium transfer rate was 9.6 kg=day=m2. 
+
+An 1121.5 g ( 912 mL) sample of AP104=SY101=AZ101 tank waste was charged to the anolyte reservoir, and 1028.1 g ( 993 mL) of 1 M NaOH was charged to the catholyte reservoir.
+Samples were obtained at least every 45 minutes for both the catholyte and anolyte.
+These samples were then submitted for analysis including: OH titration, ICP-OES (cations), ion chromatography (IC) (anions), total inorganic carbon (TIC) and total organic carbon (TOC) analysis by a hot persulfate wet oxidation method, radionuclide identification by Gamma Energy Analysis (GEA), and total alpha and beta activity by liquid scintillation.
+The experiment was ended at the first visual indication of solids precipitation, and a final sample was taken.
+Using OH  titration data from the catholyte samples, Figure 4 illustrates good agreement between theoretical and the actual sodium transport rate.
+The sodium-transport efficiency was determined through OH  titration results on the catholyte samples.
+Efficiencies varied from 94 to 101% over the course of the experiment while the average efficiency was 99%.
+The average sodium transfer rate was 10.3 kg=day=m2. Based on ICP-OES analysis of the catholyte, no discernable transport of nonNa cations was observed.
+GEA indicated that about 0.04% of the initial 137Cs in the anolyte was transported to the catholyte.
+No other radionuclides were transported and measured in the catholyte solution above detection limits.
+The sodium selectivity with respect to 137Cs was 384.
+AP104/SY101/AZ101 Radioactive Anolyte Test #2 (18.6 M NaOH Catholyte)A second radioactive test was completed using the sodium-depleted anolyte solution from the previous (Rad Test #1) experiment.
+To replenish the anolyte reservoir of depleted sodium hydroxide, a 52.9 g addition of 19 M NaOH was made at the end of the previous day’s test.
+The anolyte solution was recirculated through the anolyte loop for 7 minutes to re-dissolve the precipitate into solution before shutting down.
+The catholyte solution was drained from the previous experiment (Rad Test #1) and replaced with 1502 g ( 984 mL) of 19 M NaOH.
+Based on previous volume-recovery measurements of catholyte solutions and the measured catholyte concentration (1.75 M NaOH), the new concentration of the catholyte feedstock solution was estimated to be 18.6 M NaOH.
+Samples were obtained at least every 45 minutes for both the catholyte and anolyte.
+These samples were then submitted for the same analysis completed during radiological test #1. The experiment was ended at the first visual indication of solids precipitation, and a final sample was taken.
+Due to large analytical errors produced during dilutions for OH  titration analysis on  19 M NaOH catholyte samples, anolyte OH  titration data were used to produce performance results in the second test.
+Figure 5 illustrates good agreement between the radiological theoretical and the actual sodium transport rates.
+The sodium-transport efficiency was also determined through OH  titration results on the anolyte samples.
+Efficiencies varied from 95 to 102% over the course of the experiment while the average efficiency was 99%.
+The average sodium transfer rate was 10.3 kg=day=m2. Basedon ICP-OES analysis of the catholyte, no discernable transport of nonNa cations was observed.
+GEA indicated that about 0.06% of the initial 137Cs in the anolyte was transported to the catholyte.
+No other radionuclides were transported and measured in the catholyte solution above detection limits.
+The sodium selectivity with respect to 137Cs was 250.
+The primary goals of the current NaSICON salt-splitting testing were to obtain process performance results using actual radioactive tank waste and a non-radiological simulant.
+A summary of process parameters for the three experiments is provided in Table 3. 
+With few exceptions, little variation in operating conditions existed between experiments.
+A change in flowrate was seen in radiological test #2 due to the increased density and viscosity of the high molarity NaOH solution.
+No detrimental effect was expected since the minimum specified manufacturer flowrates (1 L=min) were exceeded.
+The most notable difference was the change in cell voltage for each experiment.
+This is discussed further in the following paragraphs.
+Cell voltage changes were monitored over time, and the rate of these changes varied from test to test.
+
+These results were consistent with previous results obtained by Hobbs (6) where a significant increase in voltage is observed in the latter stages of testing.
+However, Hobbs (6) concluded the voltage increase occurred from an anodic reaction shift from hydroxide and nitrite oxidation to water oxidation as the former species became depleted.
+This conclusion is not supported in this work since approximately 70% of the original nitrite concentration in the anolyte remained at the conclusion of each test.
+Other possible contributions to the voltage increase includes the effects of solids precipitation, material plating on the electrodes or membrane surfaces, a solution conductivity decrease, or lattice changes in the crystal structure of the membrane.
+Additionally, Ceramatec has previously completed post-exposure examination of sample surfaces and cross-sections and revealed that some Kþ had diffused into the membrane and could contribute to the observed voltage behavior.
+During simulant testing, a slight decrease in voltage is observed over the course of the experiment.
+This behavior has been observed previously by Ceramatec Inc.
+and believed to be due to a change in the impedance at the membrane-anolyte and catholyte interface.
+The voltage jump from 3.9 V to 4.1 V between the end of the simulant testing and the start of the first radiological test is believed to result from a change in anolyte solutions.
+To investigate this hypothesis, a duplicateCaustic Recycle Using Ceramic Membranessimulant test is suggested using the current NaSICON membrane (state after rad test #2).
+A clear change in voltage was observed at 750 minutes (cf.in Fig.6) during radiological test #1 and 1200 minutes (cf.Fig.6) during radiological test #2. 
+It is assumed that this behavior is due to the increased cell resistance caused by the precipitation of aluminate in the form of gibbsite in the anolyte chamber and on the electrode or membrane surface.
+Analytical ICP-OES data of the anolyte samples taken shows a steady Al concentration in the anolyte until a sharp decrease occurs after the abovementioned voltage increases.
+These results support a well-documented observation that dissolved aluminate will precipitate out of solution as the pH decreases below 13.6 when the equilibrium aluminate solubility in NaOH is surpassed (7).
+Furthermore, the slow increase in voltage is likely due to a combination of membrane chemical deterioration, potassium exchange, and other minor transport channel blockages due to monovalent cations in solution.
+Surface studies of the membrane have not been completed at this time and could provide insight into this voltage change.
+A relatively low initial Na current efficiency during simulant testing was noted.
+An initial unsaturated membrane is a possible explanation for this behavior and supports observations made previously by Ceramatec.
+It was also noted and illustrated in Fig.7 that the initial differential transport efficiency in all three experiments was slightly lower than subsequent efficiency results in the middle and late periods of testing.
+Capacitive charging currents at the electrodes or membrane surface are believed to cause the low current efficiencies during the initial testing periods.
+
+Aside from an initial depression in sodium transport efficiency, values were consistently high, indicating good reproducibility and effective power usage.
+Sodium transport rates, summarized in Table 3, were relatively consistent throughout the testing and offer a basis for scaling up the Na production processes to the industrial level to meet throughput requirements of the Waste Treatment Plant (WTP).
+The selectivity of the NAS-GY membrane towards sodium is an important performance parameter in the tank-waste treatment process because undesirable cations and radionuclides degrade the purity of the recycled material and increase its dose.
+In both radiological experiments, no cations or anions except Na and trace quantities of Csþ were transported through the membrane.
+This indicates that o-ring and membrane integrity were maintained.
+A small percentage, 0.04% (rad test #1) and 0.06% (rad test #2), of 137Cs was transported to the catholyte in approximately 8 hours of operation.
+
+Using the specific activity of 137Cs (98 lCi=g), the detection limits were on the order of 1E-6 lg=mL.
+
+this process and is defined as the ratio of its final concentration in the catholyte and initial concentration in the anolyte.
+The extremely high decontamination factors observed during the present testing indicate that the caustic recycle process will generate a very-high-purity caustic product with dose rates approximately 2000 times less than the initial waste stream.
+It is important to note that the initial anolyte sample analyzed in Test #2 contained precipitated solids and was obtained prior to re-dissolution of solids with 19 M NaOH.
+The concentrations of 154Eu, 155Eu, 126Sn=Sb, 241Am, and 90Sr appear to have been reduced significantly by the solids precipitation.
+For example, the initial concentration of 241Am and 90Sr in the anolyte both appear to have changed by 6.11E-4 and 0.47 while detection limits of 241Am and 90Sr were < 1E-5 and < 4E-5, respectively.
+Surely 241Am and 90Sr would have been detected in the catholyte sample analysis if anolyte concentrations decreased due to membrane transport.
+Given this unexpected solids influence on the anolyte sample, the best estimate of the initial anolyte concentration for test #2 is the initial anolyte concentration measured in Test #1 minus any measured change.
+In future experiments, radionuclide analysis should not include samples with precipitated solids or these solids must be re-dissolved prior to analysis.
+The waste composition of the anolyte reservoir is of particular interest in assessing the potential for solids generation and the potential impact on downstream processes.
+GEA measurements indicated no radionuclide changes in the anolyte except for the transport of 137Cs to the catholyte.
+ICP-OES measurements clearly indicated Na ion transport, but also identified a decreased concentration of Al, Ca, and Si in the samples taken after the large voltage increases occurred.
+These changes are illustrated in Table 5. 
+An Al concentration decrease is expected from gibbsite precipitation due to the consumption of OH   and the resulting pH decrease.
+Si and Ca are observed to drop out as solids complexes as well.
+The precipitation of Si-based solid phases was reported previously by Hobbs (6).
+
+However, approximately 30% of the original NO2  anions were oxidized to NO3 2, and PO4During true Na production operations, the precipitation of solids would not be allowed because of possible system fouling or plugging.
+In both radiological tests, operations were shut down at the first visual observation of solids formation.
+These solids were identified in previous work (6) as aluminum (gibbsite form) through XRD analysis.
+The formation of aluminum precipitate will ultimately dictate and limit the amount of sodium that can be removed.
+Therefore, predicting aluminate precipitation is important to the successful operation of a caustic recycle process.
+Understanding the equilibrium conditions between Al and hydroxide allows operators to maximize the amount of Na removed from the process stream while avoiding possible system fouling due to Al solids.
+Misra (8) developed an empirical model for the quantity of sodiumhydroxide required to dissolve gibbsite from simulant data:  ] is the concentration in where T is the temperature in Kelvin, [Al(OH)4 solution, and [NaOH] is the total caustic concentration.
+Note that this equation was developed for pure sodium hydroxide solutions, and other anions will cause some increase in the aluminate solubility.
+Taking a conservative approach, the aluminate solubility in this work is based only on the measured free hydroxide concentrations.
+The Misra (8] model delineates the point at which precipitation may start to occur.
+However, the rate of precipitation is equally significant, particularly if waste process streams become vitrified in a short time frame.
+Li and coworkers (7) investigated crystal growth rates of saturated sodium aluminate solutions and established that the saturation ratio governed the precipitation rate of over-saturated aluminate solutions.
+The saturation ratio was defined as the ratio of the aluminate concentration of the actual solution to the concentration at the solubility limit.
+This is shown in Equation (4).
+When the saturation ratio is less than one, the solution is under-saturated, and it is over saturated when the saturation ratio exceeds one.
+Caustic Recycle Using Ceramic Membraneswhere SR is the saturation ratio of is the actual concentration of ½AlðOHÞ  ½AlðOHÞ  ration from Equation 3 (mol l   1).
+saturation is the concentration of ½AlðOHÞ the solution, 4  in solution (mol4 actual l 1), and 4  in solution at satu-Through Equations (3) and (4), both the conditions to initiate precipitation and the rate of precipitation can be determined.
+For example, an aluminate solution that is just saturated at 50 C will have a saturation  ratio of 1.8 at 25 C will have a saturation ratio from 4 to 5 (depending on the sodium hydroxide concentration) when cooled to 25 C.
+A heated leachate solution that is saturated at 100Li and coworkers (7) measured crystal-growth-rate data, and these data show that the crystal growth rate for these solutions varies exponentially with the saturation ratio.
+In general, the measured precipitation rates were slow, being under 1 nm=min at a saturation ratio of eight and trending toward 0 at a saturation ratio of one.
+A power-law fit of the data shown in Fig.8 was used to predict the time needed to precipitate gibbsite particles of various diameters.
+A residence time on the order of 1 week is assumed.
+Preventing large, processimpacting particles (greater than 10 microns) from forming in the process corresponds to a maximum particle-size range of 1 to 10 microns forming over the average residence time of one week.
+In this analysis, a target saturation ratio range of 1.5 to 8 is determined for process compatibility.
+In a full-scale production process, the separation cells would operate in a continuous process mode (not batch), and these high saturation ratios would not be approached.
+
+The cell was also successfully operated at saturation ratios as high as 12. 
+Further, samples obtained for chemical analysis were monitored for any solids precipitation since testing was completed.
+All samples obtained prior to reaching a saturation ratio of 10 remained clear of any solids.
+Therefore, this prediction approach appears useful; however, the influence of anions on the aluminate solubility must be better understood to assure safe operation.
+A NaSICON membrane, with a proprietary NAS-GY formulation, was electrochemically tested in a bench-scale apparatus with both a simulant and radioactive tank-waste solutions to determine the membrane performance when removing sodium from Hanford tank waste samples.
+Conclusions from these experiments are as follows:.
+Sodium transport efficiencies ranged from 88 to 102% while average efficiencies were 93% (non-radioactive test) and 99% (both radioactive tests).
+The membrane appears to undergo an initial ‘‘break-in’’ period, which is assumed to be a transition from an unsaturated to a saturated Na channel network.
+.All three experiments produced Na transport rates in good agreement with theoretical Na transport rates based on applied current.
+Average Na separation rates of 9.6 kg=day=m2 (simulant-1 M NaOH), 10.3 kg=day=m2 (rad-1 M NaOH), and 10.3 kg=day=m2 (rad-18.6 M NaOH) were observed.
+. The NAS-GY membrane is highly selective to sodium.
+No transport of any cations or anions was detected except for Na and 137Cs.
+Decontamination factors on the order of 2000 were observed with respect to 137Cs.
+ICP-OES measurements clearly indicated Na ion transport, but also identified a decreased concentration of Al, Ca, and Si in the samples taken after the large voltage increases occurred.
+The electrochemical cell system successfully produced a 19 M NaOH solution with no observable membrane performance loss.
+In addition, concentrating the NaOH product to 19 M NaOH satisfies the feedstock caustic requirement of DOE’s WTP and would eliminate the need for a process evaporator when using other separation technologies.
+The anion waste composition of the anolyte solution was relatively stable.
+There was no discernable transport or composition changes related to F   , Cl   , NO2  2, CrO4  3 anions  2, and PO4   except approximately 30% of the original NO2 anions were oxidized to NO3M.
+A maximum recoverable sodium quantity could be predicted by combining both an aluminate solubility model and gibbsite crystal growth rate.
+Testing shows cell voltages were relatively stable until saturation ratios exceeded 9 (sharp increase in voltage), and the cell was successfully operated at saturation ratios as high as 
+12.

@@ -1,0 +1,30 @@
+A series of transition metal phosphates, Mg0.5y(FeyTi1 y)2(PO4)3 (MFTP), modi®ed from Mg0.5Ti2(PO4)3 (MTP) were prepared by sol± gel method and evaluated as cathode materials for rechargeable magnesium cells. The crystal structure of MFTP at 0  y  0:5 was identical to that of MTP, while their unit cell volumes were smaller than that of MTP due to introduced Mg2 ions. Electrochemical magnesium insertion into MFTP was found possible as observed for MTP. However, the limiting extent of magnesium insertion into MFTP at 0:1  y  0:5 was small compared with MTP and remarkably dependent on the current density during discharge, suggesting that the insertion limit is determined not by the number of available sites for Mg2 or electrons but by the mobility of Mg2 in the host varying with the unit cell volume. # 2001 Elsevier Science B.V. All rights reserved.
+
+Keywords: Magnesium insertion; NASICON-structure; Sol±gel method; Diffusion control
+
+The so-called lithium ion cells are now widely accepted as secondary batteries having high energy density. On the other hand, rechargeable magnesium cells may be another candidates of high energy density cells, because the raw material costs may be lower than those in lithium ion cells and magnesium is less dangerous than lithium. However, it has been known that the rate of Mg2 insertion into ion-transfer host is slow owing to the strong polarization of small and divalent Mg2 ion compared to Li or Na [1±5].
+
+Lithium and sodium ions can be inserted/extracted reversibly into/from a series of compounds having a general formula of AxM2(XO4)3 (A  Li or Na; M  transition metal; X  S, P or As) [6,7], derived from well-known fast ionic conductor of NASICON [8], because they have large enough interstitial voids to uptake guest species and high structural stability of three-dimensional framework. Consequently, fast Mg2 transport may also be expected in such compounds.
+
+In this study, NASICON-structured Mg0.5y(FeyTi1 y)2 (PO4)3 (MFTP), modi®ed from Mg0.5Ti2(PO4)3 (MTP), are prepared by sol±gel method and investigated as a magnesium host.
+An amount of 0.1 mol dm 3 Mg(CH3COO)24H2O (Wako Chemicals, >99%) and 0.1 mol dm 3 NH4H2PO4 (Wako Chemicals, >99%) aqueous solutions were prepared separately, in addition to 0.1 mol dm 3 FeCl3 (Wako Chemicals, >95%) and 0.1 mol dm 3 C4H9O[Ti(OC4H9)2O]4 C4H9 (Wako Chemicals, >95%) ethanol solu-tions. These solutions were mixed at the calculated ratio to give Mg0.5y(FeyTi1 y)2(PO4)3. The obtained sol solution was further stirred at 708C for 6 h to form a gel, which was dried at 908C for 12 h to give a powder. The powder was heated at 300 and then 5008C to remove ammonium and acetate groups, followed by ®nal ®ring at 7008C for 24 h.
+
+Electrochemical magnesium insertion from 1 mol dm 3 Mg(ClO4)2/propylene carbonate (PC) solution was performed in a cylindrical glass cell. The sample electrode pellet was prepared by pressing the mixture of MFTP (or MTP), acetylene black (Denka black, Denkikagaku Kogyo) and PTFE (Mitsui-Du Pont) at 70:25:5 in wt.% under a pressure of 2  103 kg cm 2 on a porous nickel sheet. Magnesium ribbon was used as the counter electrode. The reference electrode consisted of silver wire immersed in 0.1 mol dm 3 AgClO4/PC solution, which was separated
+K. Makino et al. / Journal of Power Sources 97±98 (2001) 512±514
+
+from the cell electrolyte by a glass ®lter. All procedures and cell construction were performed under dried argon atmosphere in a grove box.
+
+X-ray diffraction (XRD, Rigaku, RINT-1300) was carried out both before and after electrochemical measurements.
+
+3.1. Preparation of Mg0.5y(FeyTi1 y)2(PO4)3
+
+When ®nal ®ring temperature, TF, was set below 5008C, the sample (y  0:5) was amorphous showing no sharp XRD line. A crystalline MFTP phase could be obtained at T F  7008C and all diffraction lines could be consistent with the simulation data as hexagonal (space group: R3c). However, TiP2O7 and Mg2P2O7 phases appeared due to the decomposition of MFTP phase at T F  9008C. A set of samples having nominal composition of 0  y  1:0 in Mg0.5y(FeyTi1 y)2(PO4)3 obtained at T F  7008C were investigated by XRD. MTP-structured single phase only at MFTP could be obtained as 0  y  0:5 without uncertain XRD line. Mg3(PO4)2 and FePO4 phases appeared at 0:5 < y as the impurity and their XRD intensities increased with increasing y. These results indicate that solid solution region of MFTP phases is at 0  y  0:5.
+
+The effects of Ti4 substitution with Fe3 on lattice parameters were shown in Fig. 1, where the shrinkage in c-axis occurs due to the relaxed O±O repulsion in (Fe, Ti)O6 octahedra and to the bond formation between introduced excess Mg2 and O in (Fe, Ti)O6 octahedra. On the other hand, a-axis expands to compensate the c-shrinkage in the ¯exible NASICON-framework [6,9]. However, this compensation seems too little to prevent the decrease in unit cell volume. The unit cell volume decreases remarkably at 0  y  0:1 then gradually at 0:1  y  0:5.
+
+Fig. 2. Discharge curves of Mg0.5y(FeyTi1 y)2(PO4)3 at  50 mA cm 2.
+
+
+MFTP samples having MTP-lattice could be obtained at 0  y  0:5, and their unit cell volume was smaller than that of MTP by ca. 0.8% owing to the c-shrinkage caused by introduced Mg2 ions. Electrochemical magnesium insertion
+
+into MFTP was found possible as into MTP. However, the insertion limit was smaller for MFTP than x  1:0 for MTP and decreased with increasing discharge rate, suggesting that the insertion is under kinetic control of Mg2 diffusion in the MFTP host.

@@ -1,0 +1,9 @@
+The Na superionic conductor (NASICON)NaNbAlP3O12 compound was prepared by the conventionalsolid-state reaction method.
+The formation of single-phasematerial was confirmed by X-ray diffraction studies, and itwas found to be a hexagonal phase at room temperature.
+The electrical conductivity was measured in the frequencyrange from 200 Hz to 5 MHz and temperatures between 573and 773 K using impedance spectroscopy technique.
+The obtainedresults were analyzed by fitting the experimental data tothe equivalent circuit model.
+The analysis of Nyquist plots hasrevealed the contribution of three electrically active regionscorresponding to the bulk mechanism, distribution of grainboundaries, and electrode processes.
+Besides, the frequencydependence of the conductivity is interpreted in terms ofJonscher’s law.
+Temperature dependence of the power lawexponent s strongly suggests that the non-overlapping smallpolaron tunneling (NSPT) model is the dominant transportprocess.
+The variation of the imaginary part of the complexmodulus as a function of angular frequency at several temperaturesshows a double relaxation peak suggesting the presenceof grains and grain boundaries in the sample.
+An analysis ofthe dielectric constants ε″ and loss tangent tan (δ) with frequencyshows a distribution of relaxation times.

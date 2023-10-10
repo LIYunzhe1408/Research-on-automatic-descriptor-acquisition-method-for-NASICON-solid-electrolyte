@@ -1,0 +1,13 @@
+Super ionic conductors (e.g. A3M2(XO4)3, A=Li, Na) have received attention in applied research due to theirinteresting electrochemical property and inherently high ionic conductivity [1].
+However, structural and compatibilityrequirements for fast ion transport is stringent and it plays a crucial role.
+In A3M2(XO4)3, a suitable cage formation in thecrystal framework due to corner sharing arrangement of XO4 tetrahedra and MO6 octahedra creates voids that acts ashost/guest site for cation transport.
+In this work, we report Nasicon structure Na3Fe2(PO4)3 (NFP) prepared via sol-gel routemediated by citric acid.
+Structural analysis confirmed that NFP sample belongs to monoclinic crystal structure having Ccspace group (S.G.No 9) with lattice parameters, a=15.106 Å, b=8.722 Å, c=8.775 Å and β=124.96°.
+Electrical propertiesof the prepared sample have been studied by AC impedance spectroscopy technique.
+The AC conductivity results indicatedtypical signature of ionically conducting system.
+In this report, we have studied the formation and electrical properties of a super ionic conductor Na3Fe2(PO4)3 asa function of temperature.
+The impedance spectra indicates that the material exhibits electrical transport governed bybulk and grain boundary contribution at very low temperature (≥75oC).
+This phenomena is established from theasymmetric semi-circular arc and equivalent circuit modelling.
+The DC conductivity of the material was also studiedwhich reveals that the conduction process is a thermally activated process.
+The DC conductivity when plotted againsttemperature gives a typical Arrhenius nature of electrical conduction.
+The activation energy of the material is 0.51 eVwhich establish the super ionic behavior of the prepared sample.

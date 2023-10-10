@@ -1,0 +1,107 @@
+This work reports on the synthesis and characterization of NASICON obtained from solid state reaction between SiO2, .12H2O and two types of zirconia: monoclinic ZrO2 and yttria-doped tetragonal phase (ZrO2)0.97(Y2O3)0.03. Powders and Na3PO4 dense samples were characterized by SEM, XRD and DTA. Electrical conductivity was measured by impedance spectroscopy. Results obtained with dierent NASICON samples showed a signi®cant role of composition and processing conditions on the electrical properties. Dense yttria-doped samples were obtained at a lower temperature than the undoped material. The electrical conductivity, close to 210 3 S cm 1 at room temperature, is signi®cantly higher than the value obtained with the material prepared from pure ZrO2. Attempts to compensate the charge unbalance due to replacement of Y3+ for Zr4+ with additions of Na+ failed. Instead, a drop in electrical conductivity due to an enhancement of the grain boundary impedance was observed. Formation of monoclinic zirconia and glassy phases along the grain boundary were responsible for this . Results suggest a major role of microstructure on electrical properties rather than composition. # 2001 Elsevier Science Ltd. All rights reserved.
+
+Keywords: Impedance spectroscopy; Ionic conductivity; NASICON; Solid state reaction
+
+Oxides with the general formula Na1+xZr2SixP3 xO12 (0<x<3) are well known as NASICON, Na super ionic conductors.1,2 Due to a high ionic conductivity and claimed stability under conditions of practical relevance,3 NASICON thin or thick ®lms have been suggested as ion selective electrodes or gas sensor devices.4 6
+
+The structure of these materials can be seen as a three dimensional arrangement of ZrO6 octahedra linked to SiO4 or PO4 tetrahedra by corner shared oxygens. The Na+ ions are located in the interstitial sites formed by this three dimensional network. Conduction happens when Na+ moves from one interstitial site to another through ``bottlenecks'' formed by a triangle of oxygen ions.
+
+One important characteristic of this family of materials is a wide range of stoichiometries, where x can virtually assume any value between 0 and 3. Thus, a number of compositions with dierent structural and electrical properties are possible. The highest ionic conductivity in undoped materials is observed in the monoclinic structure, obtained for x2.7 Partial replacement of either of the original cations has been widely exploited in numerous works aiming at improved properties.8 10
+
+Composition aects the electrical behavior of the material but processing also has a key role, as very reactive powders are needed. The sintering temperature must be high enough to obtain total combination of reactants and, simultaneously, low enough to avoid loss of Na-or P-based volatile compounds and, consequently, segregation of monoclinic zirconia in the grain boundary, with a blocking eect on charge transport.3 The ceramic route, based on solid state reaction of oxide or carbonate precursors at relatively high temperatures, yields low reactivity powders with relatively large grain size, and has therefore been questioned. The alternative sol±gel route has proven to be a successful technique in
+
+R.O. Fuentes et al. / Journal of the European Ceramic Society 21 (2001) 737±743
+
+processing of performant materials. In fact, the sol±gel procedure, based on hydrolysis±polycondensation reactions of alkoxides in alcohol medium, with excess of water and under strong stirring, yields very ®ne and reactive powders.11,12 However, the cost of a sol±gel route is a serious drawback.
+
+Previous work showed that the electrical properties of Na3Zr2Si2PO12 materials obtained via a ceramic route could be considerably improved by using a highly reactive zirconia precursor, the well known 3 mol% yttria-doped tetragonal polycrystalline zirconia (TZP).13 The main expected advantage was a signi®cant increase in the reaction kinetics at low temperature, not only due to the smaller particle size but also because of the low stability of the zirconia tetragonal phase. The identi®cation of possible defects created to compensate for the charge unbalance (due to replacement of Y3+ for Zr4+) was ignored before. In this work, the study is extended to compositions with excess of Na+ added to compensate for the charge unbalance.
+
+2. Experimental procedures
+
+Three kinds of NASICON compounds were prepared:
+
+a. NASICON, the classical Na3Zr2Si2PO12, starting
+
+from pure monoclinic ZrO2;
+
+b. A derived material starting from TZP as a precursor, hereby called NASICON-TZP, with a nominal formula Na3Zr1.88Y0.12Si2PO12; and
+
+c. NASICON-TZP-Na with an excess of Na added to compensate the charge unbalance due to replacement of Zr4+ by Y3+, corresponding to a nominal composition Na3.12Zr1.88Y0.12Si2PO12.
+
+Powders of ZrO2 (Riedel-de-HaeÈ n), (ZrO2)0.97(Y2O3)0.03 (Tosoh), Na3PO4.12H2O (Merck), SiO2 (Merck) and Na2CO3 (Merck), were mixed in appropriate stoichiometric ratios and ball-milled with ethanol for 2 h. After drying at 60C, the mixtures were calcined in air at temperatures ranging from 900 to 1100C during 8 h in order to obtain single phase materials. To obtain ®ne reactive powders, a second ball-milling step was introduced. This powder was then disk shaped into 1 cm diameter pellets by two consecutive pressing steps: uniaxially at 98 MPa for 2 min, and isostatically at 200 MPa for 5 min. Sintering was carried out in air at temperatures between 1230 and 1265C for 10 h, with the pellets inside a closed Pt crucible to avoid major losses due to volatilization.
+
+Following this procedure, dense specimens were obtained for NASICON-TZP and NASICON-TZP±Na but only poor densities could be obtained for the classical NASICON. In this case the powder with an organic binder was pressed and pre-sintered under vacuum at
+
+900C for 2 h, before ®nal sintering in air at 1260C for 16 h. A pre-calcination step under vacuum is used to eliminate the binder. Further details on this procedure can be found elsewhere.13,14
+
+Structural and phase composition of powders and pellets was carried out by XRD using CuKa radiation with a scan speed of 0.1/min and step width, 0.02. Powder XRD patterns were used to estimate lattice parameters. The density of the materials was determined from weight and external dimensions of the pellets. Dense pellets were polished and thermally etched at 1100C during 10 min to enhance grain and grain boundary contrast for ulterior scanning electron microscopy (SEM) observation.
+
+Concentration of Na and P was veri®ed by inductively coupled plasma-mass spectrometry (ICP±MS), after each temperature treatment, for stoichiometry control. Solutions for ICP±MS analysis were prepared by dissolution of grounded pellets in an ultrasonic bath with HF.
+
+Platinum electrodes were painted onto the surface of polished dense pellets and sintered at 700C for 30 min. These pellets were then characterized by impedance spectroscopy between 0 and 200C in the frequency range from 20 Hz to 1 MHz using an HP 4284A LCR meter.
+
+3. Results and discussion
+
+3.1. Processing conditions and phase composition
+
+Fig. 1 shows XRD patterns of dierent powders calcined at two dierent temperatures. At low temperature (900C), no NASICON is formed when pure monoclinic zirconia is used as precursor, but NASICON is clearly present when using TZP as source of zirconium (Fig. 1a). In both low temperature patterns, observation of uncombined reactants (ZrO2, TZP and Na3PO4) shows that 900C is not high enough for completion of the NASICON forming reaction. The patterns of similar powders calcined at 1100C are shown in Fig. 1b. At this temperature, NASICON is clearly present in all materials. However, diraction peaks corresponding to small amounts of monoclinic ZrO2 and Na3PO4 are still present in the case of NASICON prepared from undoped ZrO2. Reaction seems to be complete in the case of NASICON-TZP, but in the NASICON-TZP-Na composition some monoclinic zirconia is also present.
+
+In order to check for stoichiometry deviations, the amount of Na and P were, at the dierent temperature steps of sample preparation, estimated by ICP±MS. Results are shown in Table 1. Na concentration estimates are slightly higher than the expected stoichiometric values. To the contrary, values for P are lower than the stoichiometric composition. Apparently, the preparation
+
+R.O. Fuentes et al. / Journal of the European Ceramic Society 21 (2001) 737±743
+
+route of the analytical solutions for ICP±MS aects Na determination. Note that errors resulting from precursors dosage are less probable because the initial Na and P concentrations are de®ned by the same initial reactant Na3PO412H2O. Despite these constraints, it can be said with reasonable con®dence that: (i) Na
+
+Fig. 1. XRD of calcined NASICON, NASICON-TZP and NASICON-TZP±Na powders, at (a) 900C and (b) 1100C. At 1100C, the strongest lines of monoclinic ZrO2 are not present in NASICON-TZP powders. Dashed lines show the positions of the main monoclinic ZrO2 diraction peaks.
+
+Table 1 Na and P contents in the NASICON materials estimated by ICP±MSa
+
+Material
+
+Sintering T (C) Na (wt.%)
+
+volatilization seems to be less important than P; (ii) Na and P losses increase with sintering temperature.
+
+Previous work15 suggested that the Na+ concentration depends not only on the Si/P ratio but also on the Zr concentration. In this case, this family of materials should be described in the quarternary system Na2O± SiO2±P2O5±ZrO2 by the general formula Na1+zZr2 y SixP3 xO12, where z x 4y=0. According to this relation, the introduction of 0.12 mol of Na+ would lead to the formation of 0.5 vol.% ZrO2, which is far below the detection limits of the diractometer. Therefore, although thermodynamically predicted, the apparent amount of monoclinic zirconia found in the NASICONTZP±Na powder cannot be justi®ed by the excess of Na+. TZP should be only partly combined. Note that the TZP main peak could be masked by the NASICON peaks in the 2 range from 30 to 31. Fig. 1 shows NASICON appearing before monoclinic zirconia is identi®ed, suggesting that the entire process involves more than one stage. A ®rst step would be the partial consumption of TZP in the reaction with the remaining precursors for the formation of the NASICON phase. The subsequent formation of monoclinic zirconia might be the result of either loss of yttrium from the unreacted TZP to the NASICON phase, or due to precipitation of ZrO2 from the NASICON-type phase, following Na and P losses, either segregated to glassy phases or, less likely, volatized to the atmosphere. In fact, the small deviation to the stoichiometric composition found for all materials (see ICP-MS results in Table 1) suggests that most of Na and P remain in the material, presumably as glassy phases.
+
+All three NASICON compositions could be indexed to a monoclinic structure in the space group C2/c according to JCPDS-ICDD ®le no. 35-412. The estimated lattice parameters are presented in Table 2. The partial replacement of Y3+ for Zr4+ provokes a lattice expansion mainly due to an increase in the a parameter of the unit cell. This fact suggests a prevailing eect of the higher ionic radius of Y3+ on the expected lower electrostatic repulsion due to its smaller charge.16 Comparison between both TZP-based materials shows a decrease in the lattice volume with the introduction of excess Na+.
+
+Table 2 Lattice parameters estimated from XRD of powders calcined at 1100C for 10 ha
+
+Material
+
+a Patterns were indexed to a monoclinic structure (space group C2/
+
+a Stoichiometric values are presented inside brackets.
+
+c) according to the JCPDS-ICDD ®le no 35-412.
+
+R.O. Fuentes et al. / Journal of the European Ceramic Society 21 (2001) 737±743
+
+To obtain dense
+
+samples, NASICON-TZP and NASICON-TZP±Na were sintered at 1230C while NASICON pellets were obtained only after sintering at 1265C XRD patterns of sintered samples of all materials are shown in Fig. 2. All of them exhibit diraction lines typical of monoclinic ZrO2. When compared to the patterns obtained at 1100C (Fig. 1b), it is noticeable that there is an increase in the relative intensity of the monoclinic ZrO2 peaks, suggesting higher amounts of this zirconia phase with increasing sintering temperature. The most probable reason for this increase is segregation from the NASICON phase due to Na and P losses.
+
+Previously, transmission electron microscopy observations of compositions revealed the presence of Na and P rich liquid phases surrounding the grains of the material.17 This is a direct consequence of temperatures employed to get well-densi®ed pellets, close to the melting temperature.
+
+the high sintering
+
+An homogeneous grain size of about 1 mm is evidenced in the case of NASICON-TZP pellets. A similar microstructure with slightly larger grains (about 2±3 mm) is observed in NASICON-TZP±Na pellets. No vestige for the formation of liquid phase could be noticed in either case. Simple observation of the microstructures previously presented also suggests that the densi®cation of NASICON-TZP and NASICON-TZP± Na is higher than found for the classical NASICON composition.
+
+
+3.2. Electrical properties
+
+Fig. 5 shows the typical impedance spectra at 0C of NASICON (sintered at 1265C), NASICON-TZP and NASICON-TZP-Na (both sintered at 1230C) samples. Only the grain boundary arc is clearly seen and the bulk contribution can only be estimated from the high frequency intercept of the grain boundary arc. Simple inspection of the spectra shown in Fig. 5 suggests that the major dierences between these materials are mostly due to the grain boundary contribution as all high frequency intercepts of the grain boundary arc are close to each other. However, in the NASICON pellet the bulk contribution tends to be higher. At room temperature, NASICON shows a total ionic conductivity of about 410 4 S cm 1, while values of about 110 3 S cm 1 were obtained for NASICON-TZP and NASICONTZP±Na sintered at 1230C.
+
+Dierences in conductivity can be relatively well understood on the basis of the structural features discussed above. The lower bulk impedance found for the TZP-based materials is coherent with the higher mobility of the Na+ ions due to a larger cell dimensions. The increasing grain boundary resistance in the sequence NASICON-TZP/NASICON-TZP±Na/NASICON follows the relative intensity of zirconia peaks shown in Fig. 2. Presumably, the higher the peak intensity the higher the amount of segregated monoclinic zirconia+glass along the grain boundaries, both blocking the charge transport. Indeed, in the case of NASICON a generous amount of liquid phase could be identi®ed along the grain boundaries, which is known to result in a low temperature ion-blocking behavior.
+
+No apparent bene®t arises from the additional introduction of Na+ in NASICON-TZP-Na material. In fact, excess Na+ might segregate to the grain boundaries as Na2O,17 acting as ¯ux agent. This would explain the somewhat larger grain size of the NASICON-TZP±Na.
+
+Fig. 4. Dependence of the density of NASICON pellets on sintering temperature. The dashed line shows the theoretical value for NASICON-TZP±Na.
+
+Fig. 5. Impedance spectra at 0C of NASICON-TZP±Na (1230C), NASICON TZP (1230C) and NASICON (1265C).
+
+R.O. Fuentes et al. / Journal of the European Ceramic Society 21 (2001) 737±743
+
+reduction in grain boundary impedance and in the formation of glassy phases seems to be related to the amount of monoclinic zirconia formed during the high temperature treatments. Easy formation of glassy phases (rich in Na, Si and P oxides) and monoclinic zirconia explains why materials with only small deviations from global nominal composition show signi®cantly dierent electrical performance.
+

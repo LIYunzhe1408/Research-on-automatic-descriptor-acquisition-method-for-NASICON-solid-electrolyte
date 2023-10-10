@@ -1,0 +1,43 @@
+Thick-film CO2 sensors were fabricated using a sodium super ionic conductor(NASICON: Na1+xZr2SixP3-xO12) with a series of Li2CO3-BaCO3 auxiliary phases.
+The powder of aprecursor of NASICON with high purity was synthesized by a sol-gel process.
+Using theNASICON paste, an electrolyte was prepared on the alumina substrate through screen printing andthen sintered at 1000°C for 5 hours.
+The resulted NASICON thick film was characterized by XRDand FESEM.
+Within a wide range of CO2 volume ratio concentration from 1,000 to 10,000 ppm,the output of the sensor showed a good electromotive force (EMF) response that was very close tothe theoretical value.
+The sensor attached with a binary carbonate auxiliary phase Li2CO3-BaCO3(1:2) showed fairly good CO2 sensing properties at 470°C.
+The carbon dioxide (CO2) sensor has been greatly demanded for monitoring or controlling CO2in various fields such as biology and environment (pollution), combustion processes, airconditioners, farming, and brewing in beer and wine cellars.
+Solid electrolyte-type CO2 sensorsare of particular interest from the viewpoint of low-cost, high-sensitivity, high-selectivity, andsimple-element structure .
+It is well known that NASICON has a three-dimensional frame work structure and possesses ahigh Na+ ionic conductivity.
+The chemical composition of such compound is Na1+xZr2SixP3-xO12.
+The highest ionic conductivities are obtained for 1.8 < x < 2.4.
+A commercial NASICONwith a nominal-composition Na3Zr2Si2PO12 has been investigated as a CO2 electrochemical sensor.
+The CO2 sensing properties can be upgraded with auxiliary phases in sensing electrodes, whichare binary carbonate systems such as Na2CO3-BaCO3 and Li2CO3-BaCO3 .
+The device improvedin this way has much increased feasibility in practice.
+In the present paper, the material of NASICON was synthesized using the sol-gel method so thata dense and homogeneous electrolyte could be prepared.
+After that, attempts to improve the sensorproperties by modifying the auxiliary phase and the sensor structure were performed and thesensors combining NASICON with a series of Li2CO3-BaCO3 system were systematicallyinvestigated for CO2 sensing properties.
+The NASICON powder was prepared using the sol-gel method, starting from the solutions ofZrO(NO3)2·8H2O, NH4H2PO4, and Na2SiO3·9H2O .
+These solutions were mixed together to forma sol, which was further dehydrated at 80oC to form a gel.
+The gel was then dried at 120oC for 8hours to form a fine dry powder, which was then ground and calcined at 750oC for 1 hour toeliminate the organic remains.
+Afterwards, the calcined material was reground.
+The planar CO2 sensor was fabricated by stacking a NASICON thick film, a layer of Li2CO3-BaCO3 auxiliary phase, and Pt electrodes on an alumina substrate by a screen-printing method asshown in Fig.1. 
+Commercially available alumina substrates with 50x50 mm2 and 0.5 mm inthickness were used.
+Each substrate was laser-scribed to allow several individual sensors to beprinted on one substrate.
+The solid electrolyte thick films were characterized by using an X-ray diffractometer and an FESEM (Hitachi 4300, Hitachi).
+The CO2 gas-sensingcharacteristics were investigated by the sensor testing equipment especially prepared in ourlaboratory.
+The sensors were tested in controlled conditions at different CO2 concentrations andsubjected to variation in operating temperatures.
+The gas mixtures of CO2/air with the CO2concentration varied from 1,000 to 10,000 ppm.
+The electromotive force (EMF) of the sensors wasmeasured by a digital electrometer.
+It was known that ZrO2 is the most important second phase easily appearing in the synthesizedNASICON [10].
+As the additional phase will decrease the ion conductivity of NASICON at lowoperating temperature, the development of the synthesis method to avoid its appearance is preferredfor the sake of improving the performance of the solid electrolyte NASICON based sensing device.
+Fig.2 shows the XRD result of the powders sintered at 1,000°C for 5 hours.
+The analysisindicated that the crystallization was already converted into NASICON without ZrO2. As shownfrom the FESEM images in Fig.3, the NASICON thick film sintered at 900°C has porousmicrostructure and the densification of the samples sintered at 1,100°C was improved.
+The CO2 sensors were tested in controlled conditions at different CO2 concentrations andoperating temperatures.
+A series of Li2CO3-BaCO3 mixtures at molar ratio in the range 1:0-1:2 wereattached to the sensing electrode.
+Fig.4 shows the EMF response to CO2 as a function of CO2concentration at various temperatures.
+As the temperature increased, the EMF variation for eachsensor (slope) increased.
+An increase in the amount of BaCO3 at the auxiliary phase is veryeffective to reach the theoretical value.
+As shown in Fig.4(d), in this experiment, the sensor withLi2CO3-BaCO3 (1:2) as an auxiliary phase showed the measured sensitivity of 73 mV/decade andthis value was in good agreement with the theoretical value of 74 mV/decade .
+The response time of the sensor for 90% saturation with Li2CO3-BaCO3 (1:2) auxiliary phase wasas short as 12 seconds at 470°C.
+The CO2 sensors were fabricated using dense and homogeneous NASICON thick films by usingthe powders prepared by a sol-gel process.
+The CO2 sensor with Li2CO3-BaCO3 (1:2) auxiliaryphases showed fairly good sensing properties.
+The EMF values were obtained linearly dependentupon the logarithm of CO2 concentration over a wide range (1,000-10,000 ppm).
+The response timefor 90% saturation was 12 seconds at 470°C.

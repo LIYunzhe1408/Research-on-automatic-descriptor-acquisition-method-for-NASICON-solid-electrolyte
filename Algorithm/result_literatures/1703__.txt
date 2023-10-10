@@ -1,0 +1,146 @@
+Changes in electronic structure upon electrochemical lithium insertion into two iron compounds, namely,rhombohedral Fe2(SO4)3 with a NASICON-type structure and monoclinic Fe2(MoO4)3, were investigated usingX-ray absorption spectroscopy (XAS).
+Fe K-edge and LIII- and LII-edge XAS revealed that the rearrangementof Fe d electrons or rehybridization of Fe d-O p bonding took place accompanied by the reduction of Feions upon Li insertion for both samples and that a larger change in spectra was observed in Fe2(SO4)3. 
+Inaddition, the changes in the electronic structure of the polyanion units XO42- (X ) S or Mo) after Li insertionwere also investigated by O K-edge and S K-edge or Mo LIII-edge XAS.
+The results indicated that the electronicstructure around oxygen markedly changed in Fe2(MoO4)3, while no significant change was observed in Fe2-(SO4)3.The demand for higher energy, longer life, and lower costcathode materials for the lithium ion battery has graduallyincreased since it was created.
+Until today, lithiated cobalt oxide,, has been mainly used for commercial lithium ionbatteries because of its good cyclability and high voltage.
+However, since cobalt compounds are expensive, alternativecathode materials are desired for their large-scale use in thefuture, e.g., hybrid-type electronic vehicles (HEV).
+Amongseveral candidates, iron compounds are one of the most attractivecathode materials from both the economical and environmentalviewpoints.
+In the 1980s, Goodenough et al.investigated Liinsertion into Fe2(XO4)3 (X ) S, Mo, W) with a NASICONtypeor a similar type of structure by both chemical andelectrochemical methods.
+ In addition, they also investigatedvarious iron phosphates, olivine-type LiFePO4, NASICON-typeor NASICON-like Li3Fe2(PO4)3, and LiFeP2O7.4-8 These compoundsare classified as “polyanion compounds” that containcompact tetrahedral units, e.g., XO4 (X ) S, Mo, P, etc.) andshow much higher voltages than normal oxides upon chargingand discharging.
+It was suggested that the high cell potentialobserved in polyanion electrodes is related to the smallcovalency in the Fe-O bond.
+This was arising from inductiveeffects where a strong polarization of O2- toward the polyanioncenter Xn+ leads to a weaker Fe 3d-O 2p hybridized orbital,and it results in a lowering of the energy of Fe2+/Fe3+ redoxcouples.
+In other words, the valence d band of Fe places aroundthe Fermi level and is isolated from the polyanion band.
+Thissimple description of the electronic structure for polyanioncompounds could account for the observed high voltage.
+Tounderstand the mechanism of such unique electronic structureobserved in polyanion compounds, we investigated the changesin the electronic structure around each atom of Li1-xCoPO4 usingX-ray absorption spectroscopy (XAS).
+It was demonstratedthat the changes in electronic structure around the PO4 polyaniontook place accompanied by the oxidation of Co ions, althoughthe electrons of the PO4 polyanion were generally considerednot to contribute to the oxidation.
+In addition, we also revealedthat the polarization effect introduced by Li ions influencedchanges in the electronic structure of the PO4 polyanion.
+Augustsson et al.performed soft X-ray absorption and X-rayemission spectroscopy of LiFePO4 and FePO4.11 They havereported that the bonding character of Fe-O changes fromnonbonding to stronger hybridization with Li removal.
+Similarobservations have been reported for Li insertion into monoclinicLi3Fe2(PO4)3 using XAS and ab initio calculation, and it revealedthat the charge compensation occurred around polyanion, PO4,as is the case of olivine type material.
+Therefore, it has beenpresumed that electronic structure around polyanion units, XO4,varies upon Li insertion or removal as well as other transitionmetal compounds.
+ However, to our knowledge, no investigationof the electronic structure of polyanion compounds otherthan those with PO4 has been reported.
+Thus, in this study, we have investigated the electronicstructure of polyanion compounds with different polyanioncenters, namely Fe2(SO4)3 and Fe2(MoO4)3, and their lithiatedsamples by using XAS technique.
+By comparison of thedifference in electronic structure among them, the relationshipbetween polyanion centers and their electrochemical propertywould be clarified.
+Figure 1 represents the crystal structures of Fe2(SO4)3 andFe2(MoO4)3 reported elsewhere.
+Although Fe2(SO4)3 and Fe2-(MoO4)3 belong to different crystal systems (the former hasrhombohedral and the latter monoclinic symmetry, respectively),the framework of Fe2(SO4)3 and Fe2(MoO4)3 can be describedcommonly as follows: FeO6 octahedra and XO4 polyaniontetrahedra are three-dimensionally placed by sharing a cornerwith oxygen atoms.
+In addition, these compounds could insert 2 mol of Li at its maximum due to the limitation of the amountof the redox couple, Fe3+/Fe2+.
+Rhombohedral Fe2(SO4)3 was synthesized by using commercialFe2(SO4)3ânH2O as starting material.
+Fe2(SO4)3ânH2O was dehydrated byheating at 250 °C for 12 h in air and crystallized by heating ina vacuum quartz tube at 600 °C for 12 h.
+4 All experiments forFe2(SO4)3 were performed in Ar atmosphere because of itsdeliquescence.
+Monoclinic Fe2(MoO4)3 was synthesized by acitric acid complex method using Fe(NO3)3â9H2O and (NH4)6-Mo7O24â4H2O as starting materials.
+All materials each in astoichiometric ratio were solved into extrapure water and mixedtogether.
+Then, excessive citric acid which is about 50% morethan the stoichiometric amount of each metal was slowly addedto the solution with stirring on a hot plate.
+After evaporation ofthe solvent, the target product was obtained by sintering twiceat 650 °C for 12 h.
+The phase identification and refinement ofthe lattice parameters for the samples were performed by powderX-ray diffraction (XRD) analysis using Cu KR radiation.
+In the case of Fe2(MoO4)3, Rietveldrefinement was carried out using the RIETAN program.
+Electrochemical Li insertion into Fe2(XO4)3 (X ) S, Mo)was performed using a three-electrode cell.
+The workingelectrode was prepared using a mixture of 70 wt % activematerials, 25 wt % acetylene black as a current collector, and5 wt % polyvinylidene fluoride (PVdF) binder.
+Li foil (Aldrich)was used as a counter electrode and a reference electrode.
+Theelectrolyte used was 1 M LiClO4 dissolved in ethylene carbonate/diethyl carbonate (volume ratio of 1:1) .
+Li insertion was carried out at0.1, 0.2, and 1 C, where 1 C corresponds to 67.02 mA g-1 forFe2(SO4)3 and 45.31 mA g-1 for Fe2(MoO4)3, respectively.
+Discharge cutoff voltages were set at 3.2 V for Fe2(SO4)3 and2.5 V for Fe2(MoO4)3, respectively.
+Fe K-edge XAS was performed by a transmission methodusing synchrotron radiation at the beamline BL-7C, PhotonFactory (PF), High-energy Accelerator Research Organizationin Tsukuba, Japan.
+The absorption of the Cu K-edge was usedto calibrate the absolute energy scale.
+
+The absorptionof X-ray was determined by the total-electron-yield method.
+The total electron yield was divided by the storage-ring currentthat was recorded simultaneously.
+The absorption energy wascalibrated by comparison with data for the standard materialsFe2O3, S, and MoO3. For the samples after electrochemicaltreatment, all installation operations were performed in N2atmosphere.
+Figure 2 shows the XRD patterns of obtained Fe2(SO4)3 withsimulated patterns whose structural parameters were cited fromprevious reports.
+All Bragg peaks can be identified byappropriate reflection indices without any impurity peaks;therefore, the obtained Fe2(SO4)3 belonged to NASICON-typerhombohedral lattice (space group; R3h) with the crystal frameworksas shown in Figure 1.
+ Rietveld refinement was notperformed for Fe2(SO4)3 phase, since the peaks and backgroundof polyethylene film covering the samples to prevent the samplefrom deliquescence made the fitting difficult.
+Instead, the latticeparameters were refined using Si powder as an internal standard,and the results (a ) 8.2354(3) Å, c ) 22.179(1) Å) agreed wellwith those of previous reports.
+In the case of Fe2(MoO4)3,Rietveld refinement using a monoclinic lattice (space group;positions of each atom were fixed to those of previous paper,22which could be enough for the purpose of the refinement forthe lattice parameters.
+The obtained lattice parameters (a )15.6925(6) Å, b ) 9.2352(1) Å, c ) 18.2227(8) Å, â )125.233(3) Å) showed good agreement with those of theprevious papers.
+SEM images of Fe2(SO4)3 and Fe2(MoO4)3 are shown inFigure 4. The irregular polyhedral fine particles were obtainedwith primary size of 2 ím.
+Fe2(MoO4)3 particles seem to bepartially aggregated with each other; on the contrary, no clearaggregation is observed for Fe2(SO4)3 particles.
+The discharge curves of Fe2(SO4)3 and Fe2(MoO4)3 underseveral current density conditions were shown in Figure 5. Theobserved discharge voltages were 3.5 V for Fe2(SO4)3 and3.0 V for Fe2(MoO4)3, respectively, and the values wereconsistent with previous report.
+In the present study, only 1mol of Li inserted in Fe2(SO4)3 even at 0.1 C, althoughapproximately 2 mol of Li insertion has been reported in aprevious study.
+This discrepancy is still uncertain.
+One cansee the amounts of electrochemically inserted Li into Fe2(SO4)3strongly depended on current density as shown in Figure 5,4and relatively larger polarization was observed with increasingcurrent density.
+Thus, the undesirable side reaction wouldprevent the smooth lithium insertion process.
+Considering thatthe lattice parameters of Fe2(SO4)3 were consistent with thoseof the sample in the previous paper,22 the discrepancy ofcomposition would not be significant.
+We infer that an inactivesurface film formation due to residual water may cause thelowering of the capacity.
+Thus, optimization of the synthesisprocedure may be needed.
+On the other hand, the rateperformance of Fe2(MoO4)3 was excellent compared with Fe2-(SO4)3, and the amount of Li inserted into Fe2(MoO4)3 was closeto 2 mol agreeing with the result of previous reports.
+Inaddition, the cell voltage of Li insertion into Fe2(MoO4)3 waskept constant at almost all Li contents, indicating that Liinsertion proceeded under two-phase coexistence, as is in theprevious reports.
+ The voltage curves of Fe2(SO4)3 appearedrelatively flat, which may suggest a two-phase coexistence.
+However, it is generally difficult to determine whether thereaction proceeds a single phase or a two-phase coexistencemanner only by voltage profile.
+To our knowledge, the evidenceof the two-phase coexistence in the LixFe2(SO4)3 system hasnot been clearly reported, though a two-phase coexistent reactionwas suggested in previous papers.
+ To clarify the variationin crystal structure during Li insertion, the XRD measurementsof Fe2(SO4)3 and Fe2(MoO4)3 with various Li contents werecarried out (Figure 6).
+In the case of Fe2(MoO4)3, the two-phasecoexistence manner between monoclinic and orthorhombic(space group, Pbcn) phases was clearly shown from thecomparison with the simulated pattern of the orthorhombic phasewhose structural parameters were cited from the previousreport; some new peaks appeared during the lithiation, while the diffraction peaks ofthe monoclinic phase fadedor disappeared.
+After delithiation from Li2Fe2(MoO4)3, the XRDpattern returned to the initial monoclinic lattice, indicating thatthe Li insertion/removal of Fe2(MoO4)3 reversibly occurredbetween the monoclinic P21 framework and the orthorhombicPbcn framework.
+(Note that the topology of the Fe2(MoO4)3framework does not change before and after lithiation, althoughthe space groups for them are different.
+
+As is the case of Fe2-(MoO4)3, the changes in XRD patterns for Fe2(SO4)3 upondischarging and charging indicated that the reaction reversiblyproceeded with a two-phase coexistence manner.
+The additionalpeaks appeared as indicated by arrows in figure and increasedin the intensity by lithium insertion.
+Note that the peaks of Fe2-(SO4)3 do not disappear after full discharging, indicating thatthe core of Fe2(SO4)3 particles did not completely react withlithium as mentioned above.
+Thus, the nominal lithium amountx in LixFe2(SO4)3 would be limited to 1.0 mol at 0.1 C asindicated in Figure 5. Lithium contents of lithiated phase afterphase transformation would be 2 mol as expected in theprevious report.
+ The structure of lithiated phase, however,could not be identified in this study.
+Further investigation isneeded to clarify this.
+We refer the lithiated samples as LixFe2-(MoO4)3 and LixFe2(SO4)3 in this paper; however.
+Figure 7 shows the variation of Fe K-edge XAS for LixFe2-(SO4)3 and LixFe2(MoO4)3 during Li insertion.
+The absorptionenergies of these compounds were summarized in Table 1 andcompared with those of Fe2O3 and FeO.
+Before Li insertion,the valence state of Fe ions was +3 in both compounds, sincethe absorption energy was close to that of Fe2O3. In the spectraof LiFe2(SO4)3 and Li2Fe2(MoO4)3, the absorption energy shiftedto lower value and agreed with that of FeO, as shown in Table1. Therefore, the oxidation state of Fe decreased from +3 to+2 upon Li insertion.
+However, in the case of the spectrum ofLiFe2(SO4)3, the white line was split into two.
+Probably, thereduction of Fe3+ was not completed as mentioned above,because of two-phase coexistence, Fe2(SO4)3 and Li2Fe2(SO4)3.In Figure 8, the variations of the Fe L-edge spectra for Fe2-(SO4)3 and Fe2(MoO4)3 before and after Li insertion arerepresented.
+In the spectra of both samples, Fe LIII- and LIIedgeabsorptions were observed ranging from ca.707 to 716eV and from ca.721 to 727 eV, respectively.
+These spectracorresponded to dipole transitions from Fe 2p3/2 (LIII) and 2p1/2(LII) core electrons to an unoccupied 3d state (2p63dn f 2p5-3dn+1), respectively.
+The absorption energy shifted toward thelower energy side in both LIII and LII XAS after Li insertion, asis the case of Fe K-edge spectra.
+This indicates the decrease inthe effective nuclear charges of the Fe ions, or Fe ions reduced.
+Both LIII- and LII-edge absorptions consist of two peaks mainly,representing the intense 2p3/2, 2p1/2 f 3d electron transition.
+The peak split arises from the interplay of crystal field andelectronic interactions.
+ The intensity ratio of two peaks ineither the LIII- or LII-edge markedly changed after Li insertioninto both compounds.
+According to the literature,26 the typical LIII absorption edge of Fe2+ in an octahedral crystal field consistsof a larger and a smaller intensity peaks at lower and higherenergy region (peaks A and B in Figure 8), respectively.
+Onthe other hand, that of Fe3+ is described by opposite manner.
+This supports the results in Figure 8; that is to say, the reductionof Fe3+ proceeded to Fe2+ upon Li insertion.
+Table 2 representsthe ratio of the peak area A and B fitted by Gaussiancombolution before and after lithium insertion into bothcompounds.
+As seen in the table, larger increase in the ratio ofpeak A and B for Fe2(SO4)3 is indicated, although the molaramount of inserted lithium ions in Fe2(SO4)3 is smaller than inFe2(MoO4)3. 
+Note that the spectrum of LiFe2(SO4)3 consistedof two phases, nonreacted Fe2(SO4)3 and lithiated Li2Fe2(SO4)3(Figure 6).
+Thus, the present results of peak separation (Table2) did not directly relate to the intrinsic physical property.
+However, one can see the larger peak ratio change in LixFe2-(SO4)3 system despite the smaller amount of lithium insertion.
+Therefore, it would be concluded that larger electronic structuralchange occurred around Fe ions during Li removal in the Lix-Fe2(SO4)3 system than in the LixFe2(MoO4)3 system.
+In ourprevious study about Li3Fe2(PO4)3,12 such a spectral change wasrelated to the rehybridization of Fe-O bonding and changes inelectronic configuration among Fe d orbitals after Li insertion,which was investigated from Fe L-edge XAS and ab initiocalculation.
+Especially, from the comparison of the results ofab initio calculation between GGA and LDA+U, it was revealedthat the electronic rearrangement in the Fe d orbitals upon Liinsertion were connected to the effects for localization of the delectrons, in other words, the bonding character of Fe-Ohybridized orbital.
+These results were supported by the previousstudies of other polyanion-type cathode materials.
+ Therefore,it is suggested that the changes in the intensity ratio oftwo peaks after Li insertion into both Fe2(SO4)3 and Fe2(MoO4)3were related to the rehybridization of Fe-O bonding orrearrangement of electronic configuration in Fe d orbitals.
+Inaddition, from the difference of the changes in Fe L-edge XASbetween two compounds, the variation of changes in electronicconfiguration in Fe d orbital or rehybridization with oxygenwould be more marked in Fe2(SO4)3 than those in Fe2(MoO4)3as shown in Table 2.
+ The more detailed discussion will be shownbelow taking the O K-edge XAS into consideration.
+The changes in the electronic structure of the polyanion units,SO4 or MoO4 tetrahedra, before and after Li insertion wereinvestigated using O K-edge, S K-edge, and Mo LIII-edge XAS.
+
+The peak A in LixFe2(SO4)3 is rather small due tothe inductive effect; that is to say, the strong covalence bondingbetween O 2p and S 3p leads to a small hybridization of Fe3d-O 2p.
+After Li insertion into Fe2(SO4)3, no remarkablechange was observed in the spectra.
+Although the spectrum ofLiFe2(SO4)3 included the contribution of both Fe2(SO4)3 andLi2Fe2(SO4)3 phases, almost no changes in peak width andposition was indicated before and after Li insertion.
+Therefore,it could be concluded that the electronic structure around oxygenincluding the Fe 3d-O 2p hybridized orbital did not vary theelectrochemical reaction.
+In other words, the drastic change inthe peak ratio of Fe LIII-edge spectra of Fe2(SO4)3 upon Liinsertion would be due to the changes in electronic configurationin Fe 3d orbitals rather than the rehybridization of Fe-Obonding, which was indicated in LixFe2(MoO4)3 and Li3+xFe2-(PO4)3.
+ To our knowledge, the O K-edge XAS for electrodematerials of LIB show drastic spectral changes upon Li insertion/removal, especially for transition metal (TM) d-O 2p hybridizedorbital.
+This would indicate that Li insertion into variouscompounds leads to the changes in the electronic structurearound the oxygen ion via hybridization between TM d and O2p orbital.
+ Note that the spectral changes were indicated even in the case of olivine-type LiMPO4 (M ) Fe, Co) andLi3Fe2(PO4)3 where the inductive effect weakens hybridizationbetween TM d and O 2p orbital.
+ Therefore, no markedchanges in peak A for LixFe2(SO4)3 indicated that the strongionic character of Fe 3d-O 2p bonding due to the largeinductive effect caused by SO4 tetrahedra kept the electronicstructure around oxygen unchanged by electrochemical lithiation,and oxygen ions hardly contributed to the charge compensationupon Li insertion.
+On the other hand, the O K-edge spectral change for LixFe2-(MoO4)3 was quite different from that for LixFe2(SO4)3. 
+Thereare three peaks, C-E, in the spectrum of Fe2(MoO4)3. Peaks Cand D corresponds to the electron transition from the O 1s orbitalto the Fe 3d-O 2p or Mo 4d-O 2p hybridized orbital, andpeak E assigned as the transition to O 2p-TM sp hybridizedorbital.
+The peaks C and D for Fe2(MoO4)3 are apparently largerthan the peak A for Fe2(SO4)3. 
+This would be caused by thelarge covalent bonding of Mo 4d and/or Fe 3d with O 2p orbital.
+After Li insertion into Fe2(MoO4)3, the intensity of peak Cdecreased, and absorption energy shifted toward lower energyside.
+Thus, it reveals that the TM d and O 2p hybridized orbitalinvolved the electron-transfer process during lithiation.
+Inaddition, a new peak F appeared after Li insertion, indicatingthe electrostatic interaction between inserted Li and the O 2porbital as reported in previous papers.
+As mentioned above, the O K-edge spectral changes aredifferent between LixFe2(SO4)3 and LixFe2(MoO4)3, althoughboth polyanion centers consist of a sixth valent element.
+To clarify the origin of difference in the O K-edge spectral change,S K-edge and Mo LIII-edge XAS were measured for LixFe2-(SO4)3 and LixFe2(MoO4)3, respectively.
+Figure 10 presents theresults of the S K-edge and Mo LIII-edge XAS for LixFe2(SO4)3(x ) 0, 1) and LixFe2(MoO4)3 (x ) 0, 2), respectively.
+Twopeaks were observed in the S K-edge spectra of Fe2(SO4)3: (1)the main absorption peak at 2482 eV due to the transitionfrom S 1s to S 3p; (2) a weak preedge peak at 2470 eV.
+Inprevious studies, a preedge peak was observed in S K-edge XASfor CuSO4, whereas S K-edge XAS for ZnSO4 did not showsuch a preedge peak.
+ This would indicate that the state ofthe TM d orbital and/or the number of d electrons affects thechange in the electronic structure of sulfur via oxygen ions.
+Therefore, a similar interaction between Fe3+ and SO42- wouldtake place, resulting in the appearance of weak preedge peak.
+The preedge peak disappeared after Li insertion, indicatingchanges in the interaction between Fe 3d and SO4 tetrahedradue to the increase in the number of d electrons around Fe ions.
+However, the electronic structure around sulfur ions hardlychanged except for the disappearance of preedge peak, and theabsorption energy of the main peak was kept at constant afterLi insertion.
+In the Mo LIII-edge spectrum in which electrontransition took place from the Mo 2p3/2 orbital to the 4d orbital,two peaks were observed, corresponding to interplay of crystalfield (tetrahedral symmetry of MoO4) and electronic interactions.
+As is the case of S K-edge spectra, no remarkable changes inspectra were observed before and after Li insertion into Fe2-(MoO4)3. Accordingly, there were almost no influences of Liinsertion on the electronic structure around sulfur and molybdenumions.
+This results indicate that the changes in O K-edgeXAS for LixFe2(MoO4)3 relates to the rehybridization of Fe3d-O 2p orbital.
+In a summary of the results of XAS, less Fe-O hybridizationis indicated in LixFe2(SO4)3 than in LixFe2(MoO4)3, althoughboth of the valence state for the polyanion center are +6.
+Therefore, one can see the fact that the electronic structurearound oxygen and its change during Li insertion/removal arestrongly dependent on the polyanion center.
+The cell voltageof LixFe2(SO4)3 is much higher than that of LixFe2(MoO4)3, sincethe Fe 3d orbital remains isolated from oxide ion, or higher theionic character of Fe ions, in LixFe2(SO4)3.
+In this study, we investigated the changes in electronicstructure for Li insertion into rhombohedral Fe2(SO4)3 withNASICON-type and monoclinic Fe2(MoO4)3. 
+The single phasesof both Fe2(SO4)3 and Fe2(MoO4)3 were obtained, and electrochemicalreaction proceeded in a two-phase coexistence mannerfrom the results of XRD.
+By Fe K-edge and L-edge XAS, thereduction of Fe3+ to Fe2+ was confirmed in both samples duringLi insertion.
+In addition, in the case of Fe2(SO4)3, larger changesin Fe L-edge spectra were observed during Li insertioncompared with that of Fe2(MoO4)3, and no marked change inO K-edge XAS was observed.
+Therefore, the rearrangement ofelectronic configuration among Fe 3d orbitals mainly took placein Li2Fe2(SO4)3, and electrons around oxygen do not contributeto the electronic transfer.
+On the other hand, peak shift and additional peak appearance were observed in Fe-O hybridizedorbital during lithium insertion into Fe2(MoO4)3. S K-edge andMo LIII-edge XAS showed almost no marked changes after Liinsertion, indicating little contribution to charge compensation.
+The difference in spectral changes for Fe and O between bothcompounds could be ascribed to the inductive effect ofpolyanion center of S6+ or Mo6+.

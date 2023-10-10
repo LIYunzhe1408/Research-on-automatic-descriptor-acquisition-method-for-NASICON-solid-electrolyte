@@ -1,0 +1,99 @@
+A compact tubular sensor based on sodium super ionic conductor (NASICON) and ZnSnO3 sensing electrode was designed for the detection of sulfur dioxide.
+The NASICON and ZnSnO3 material were prepared by sol–gel method and were analyzed by the X-ray diffraction (XRD) analysis, respectively.
+And ZnSnO3 materials were analyzed by SEM.
+ZnSnO3 thick ﬁlm was prepared to investigate characteristics of sulfur dioxide (SO2) at various operating temperatures.
+The sensor using ZnSnO3 gave excellent sensing properties to 5–50 ppm SO2 in air at 360–390 ◦C.
+The EMF value of the sensor was almost proportional to the logarithm of SO2 concentration, the sensitivity (slope) was 255 mV/decade at 375 ◦C.
+It was also seen that the sensor showed a good selectivity to SO2 against H2S, NO2, Cl2, NO and C7H8. The sensor had speedy response kinetics to SO2 too, the 90% response time to 5, 10, 20 and 50 ppm SO2 was 18, 10, 8 and 5 s, respectively, and the recovery time was 27, 99, 184 and 243 s, respectively.
+Finally, a sensing mechanism involved the mixed potential was proposed.
+Sulfur dioxide (SO2) gas in the global atmosphere is a major source of acid rain.
+Sulfur dioxide is a toxic gas for human health and destroys the survival environment of human being.
+In the view of these environment and safety concerns, the development of sulfur dioxide sensor is very urgent and important.
+NASICON is a promising material for SO2 and CO2 sensors because of its high Na+ conductivity even at low temperatures, no crack formation upon heating and cooling.
+The commonly used sensing materials are metals or metal oxides, e.
+g. improvement of SO2 sensing properties of WO3 by noble metal loading.
+Also the SAW (surface acoustic wave) based sulfur dioxide gas sensors have been studied.
+Among these, the electrochemical SO2 sensors have such advantages as cheap, portable, continuous monitoring, etc.
+In this study, we have synthesized a new material (ZnSnO3) for the sensing electrode and investigated gas-sensing properties of solid-state potentiometric sensor based on NASICON and compound metal oxide electrode-ZnSnO3 for the detection of sulfur dioxide.
+It focuses on the preparation, electrochemical characterization and sensing behavior of solid electrolyte gas sensor toward SO2. 
+A linearity between the electromotive force (EMF) of the sensor to SO2 and the logarithm of SO2 concentration is obtained,and a sensing mechanism involved the mixed potential is used for explaining the sensing behavior of the sensor.
+The NASICON precursor was prepared from ZrO(NO3)2, NaNO3, (NH4)2HPO4 and Si(C2H5O)4 by sol–gel process.
+Here, the NH3·H2O was used for the dispersant and HNO3 for the reverse solvent.
+And the obtained sol was dried in oven for 3 h at 100 ◦C to form xerogel.
+The resulted gel was pre-sintered at 500 ◦C for 4 h, and then pressed into bulk sample and sintered again at 1000 ◦C to obtain the powder material.
+ZnSnO3 was prepared by sol–gel method.
+In the sol–gel process, SnCl2·5H2O and Zn(CH3COO)2·2H2O were used as precursors, C2H5OH was used as solvent, acetone and acetic acid were used as chelating agent, the obtained sol was dried at 100 ◦C for 20 h and the obtaining gel was sintered at 500, 600, 700, 800 and 900 ◦C for 3 h, respectively.
+A sensor device was fabricated by using an alumina tube of 6 mm long, 0.8 and 1.2 mm in inner and outer diameter, respectively, as shown in Fig.1. 
+A thick ﬁlm of NASICON was formed on the outer surface of the alumina tube by dipping it in NASICON precursor paste many times.
+For increasing the density of NASICON, the layer of NASICON was pre-sintered at 600 ◦C for 1 h before the next layer was formed.
+Finally, the thick ﬁlm of NASICON was sintered at 900 ◦C for 6 h.
+As the next step of the fabrication process of the sensor device, two Au electrodes with mesh-shape were made on the two ends of the thick ﬁlm of NASICON by applying a commercial Au paste and calcining at 800 ◦C for 20 min.
+For forming the sensing electrode of the SO2 sensor, ZnSnO3 powder was mixed with pure water, fully triturated and the resulting paste was applied on one of the Au electrode, and the other Au mesh was used for the reference electrode, followed by sintering at 600 ◦C for 3 h.
+A Ni–Cr coil was set in the inner of the alumina tube as a heater.
+Gas sensing properties of the sensor were measured by a conventional static mounting method.
+The sample gases containing different concentration of SO2 were obtained by diluting pure SO2 gas with O2 (21%) and N2 (79%).
+When the sulfur dioxide sensor was exposed to air or a sample gas, the electromotive force (EMF) was measured with a digital electrometer (Advanced, TR 8652) and the results abtained were registered with a computer connected to the electrometer.
+
+XRD (Rigaku wide-angle X-ray diffractometer analysis was used to conﬁrm the crystal structure of ZnSnO3 and NASICON materials and measure the mean crystallite size of ZnSnO3 and NASICON nano-powders.
+Fig.2 shows the XRD pattern of NASICON.
+From this picture, we could see that the synthesized NASICON was conﬁrmed to have the single phase of rhombohedral and the mean crystallite size of NASICON calculated with Debye–Scherrer equation  was about 20 nm.
+Fig.3 shows the XRD patterns of ZnSnO3 prepared with the sol–gel method when calcined at different temperatures, and the synthesized ZnSnO3 was conﬁrmed to have the phase of tetragonal.
+Moreover, there was the phase of ZnO when sintered at high temperatures (≥600 ◦C).
+In addition, the mean crystallite size of ZnSnO3 calculated with Debye–Scherrer equation was about 10, 12, 14, 19 and 25 nm when sintered at 500, 600, 700, 800 and 900 ◦C, respectively.
+So that the mean grain size of the sensing materials increased along with the sintering temperature.
+This could bring on the variety of the sensitivity of the ZnSnO3 based gas sensor investigated and described below.
+The ZnSnO3 materials were calcined at 500, 600 and 700 ◦C.
+And the sensitivities of the sensor attached with ZnSnO3 electrodes to SO2 were tested when the sensors were all sintered at 600 ◦C.
+And the results obtained are shown in Fig.4. 
+The sensitivities of the sensor are 230, 255 and 241 mV/decade at 375 ◦C , when the sensing electrodes are calcined at 500 ◦C, 600 ◦C and 700 ◦C, respectively.
+From this picture, we could see that the distinction among the sensitivities of the devices based on the NASICON electrolyte and the ZnSnO3 sensing electrodes was small.
+Fig.5 showed the SEM images of the sensing materials which were sintered at 500, 600 and 700 ◦C.
+From this picture, it could be seen that there were some holes in the material sintered at 500 ◦C.
+It could be doubted that there were impurities, especially the organic substances consisting in the material sintered at 500 ◦C.
+And the materials sintered at 600 ◦C was compact.
+However, there were cracks on the surface of the materials sintered at 700 ◦C which could effect the performances of the sensors.
+According to these results, the material sintered at 600 ◦C attracted us much more.
+So that in the following discussions, the material sintered at 600 ◦C was used for the sensing electrode and investigated further.
+Fig.6 shows the sensitivities of the sensor combining NASICON with ZnSnO3 to SO2 at different operating temperatures.
+The sensitivities of the sensor are almost linearly to the logarithm of the SO2 concentration.
+And the slopes are 51, 91, 178, 255, 170, 82 and 60 mV/decade at 325, 350, 360, 375, 390, 400 and 430 ◦C, respectively.
+With increasing the operating temperature, the slope tends to become big.
+The largest value of the slopes occurs at 375 ◦C, but above 375 ◦C the slope tends to become small.
+The occurring of the chemical reactions needs deﬁnite activated energy.
+Fig.7 shows the interface morphology of ZnSnO3 and NASICON.
+It showed that the combination between ZnSnO3 and NASICON was comparatively compact.
+The chemical reactions at the threephase boundary described by the reactions (2) and (3) below could be affected by the operating temperatures.
+At low temperatures (<360 ◦C), there were only a small parts of the gas molecules participating in the chemical reactions among the adsorbed SO2 gas molecules.
+Along with the increasing operating temperatures, more and more gas molecules participated in the chemical reactions and the sensitivities increased in the same time.
+But the desorption of the SO2 gas molecules was dominant and the amount of the gas molecules participating was decreased when the operating temperatures increased further (>390 ◦C).
+And the sensitivities of the sensor decreased with the further increasing operating temperatures.
+The sensitivities of the device attached with ZnSnO3 to other various gases, i.e.H2S, NO2, Cl2, NO and C7H8 each in the concentration range of 5–50 ppm in air are measured at 375 ◦C, and the results obtained are shown in Fig.8. 
+The sensitivities to these disturbing gases are rather small than that to SO2, indicating its excellent SO2 selectivity which was very important to the application of the sulfur dioxide gas sensor.
+Furthermore, the device showed well resistance against water humidity which was shown in Fig.9. 
+It showed that the sensitivities were similar to each other at different water humidity except for the transfer of EMF towards the portrait indicating that the inﬂuence of the water humidity to the device was small.
+The sensor attached with ZnSnO3 gives speedy response kinetics to dilute SO2, too.
+The 90% response times to 5, 10, 20 and 50 ppm sulfur dioxide are rapid and are 18, 10, 8 and 5 s, respectively, and the 90% recovery times are much longer and are 27, 99, 184 and 243 s, respectively, as shown in Fig.10. 
+However, due to the strong oxidation characteristic, the base line does not come back to the initial value after switching off the SO2 gas.
+This indicates that the solid electrolyte SO2 sensor combining NASICON with ZnSnO3 electrode exhibits rapid response rate.
+Also the stability and reproducibility were investigated.
+It was found that the EMF value decreased to some extent after 90 days.
+However, the variety of the EMF value of the sensor at 375 ◦C did not change much more .
+The variety of EMF was small (4 mV/decade).
+As a result, the sensor attached with ZnSnO3 sensing electrode exhibited deﬁnite stability and reproducibility.
+As described, the device using NASICON and ZnSnO3 electrode gave a good linear relationship between EMF and the logarithm of the concentration of SO2 as switching on dilute SO2. Miura et al.
+have established a sensing mechanism involving mixed potentials for a group of sensors combining stabilized zirconia with oxide electrodes, such as NOx, H2 and CO sensors.
+Therefore, a similar sensing mechanism would be attempted to apply for the present devices.
+The device could be expressed with the following electrochem-ical cell: O2, SO2inair, ZnSnO3, Au|NASICON|Au, SO2, O2inair Here, the ZnSnO3 sensing electrode plays a catalyzed effect in the electrochemical reactions.
+We propose that an electrochemical oxidation reaction (2) of SO2 and an electrochemical reduction reaction (3) of O2 occur at the sensing and counter electrodes, respectively,
+
+electrode at the equilibrium state, so that it is called a mixed potential.
+When the concentration of oxygen is ﬁxed, the mixed potential changes linearly with the logarithm of the concentration of SO2, as described in Eq.
+(12) could explain the experimental results shown in Fig.5 very well, but some additional tests for the present sensing mechanism need to be carried out, such as the relation between EMF and O2 concentration at a ﬁxed SO2 concentration and the measurement of polarization curves.
+A compact solid electrolyte sensor using a thick ﬁlm of NASICON and a thin layer of ZnSnO3 sensing electrode has been examined to show good sensing properties to sulfur dioxide in air.
+The variety of EMF of the sensor was linear to the logarithm of sulfur dioxide concentration.
+And the slope between the EMF and the logarithm of SO2 concentration was 255 mV/decade at 375 ◦C when sulfur dioxide was at the concentration of 5–50 ppm.
+Furthermore, the sensor exhibited good response–recovery properties.
+The 90% response and recovery times to 5, 10, 20 and 50 ppm SO2 were 18, 10, 8, 5 s and 27, 99, 184, 243 s, respectively.
+In addition, the sensor showed excellent selectivity to SO2 against the disturbing gases (H2S, NO2, Cl2, NO and C7H8) and well water resistance properties.
+A sensing mechanism involved the mixed potential was found to be ﬁt for the sensing properties of the sulfur dioxide (SO2) gas sensor.
+

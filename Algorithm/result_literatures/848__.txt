@@ -1,0 +1,109 @@
+Li3V2(PO4)3 glass-ceramic nanocomposites, based on 37.Li3V2(PO4)3 glass-ceramic nanocomposites, based on 37.5Li2O-25V2O5-37.5Li2O-25V2O5-37.5P2O5 mol% glass, were successfully prepared via heat treatment (HT) process. 
+
+The structure and morphology were investigated by X-ray diffraction (XRD) and scanning electron microscope (SEM). XRD patterns exhibit the formation of Li3V2(PO4)3 NASICON type with monoclinic structure. The grain sizes were found to be in the range 32–56 nm. The effect of grain size on the dynamics of Li+ ions in these glass-ceramic nanocomposites has been studied in the frequency range of 20 Hz–1 MHz and in the temperature range of 333–373 K and analyzed by using both the conductivity and modulus formalisms. The frequency exponent obtained from the power law decreases with the increase of temperature, suggesting a weaker correlation among the Li+ ions. Scaling of the conductivity spectra has also been performed in order to obtain insight into the relaxation mechanisms. The imaginary modulus spectra are broader than the Debye peak-width, but are asymmetric and distorted toward the high frequency region of the maxima.
+
+It has been reported that the alkali glasses and glassceramic nanocomposites containing transition metal oxides (TMO) show mixed conductivity.For instance, Na2O–B2O3–V2O5 glasses exhibit both electronic and ionic conductivity contribution [10]. 
+
+Mixed conductivity was also reported for other glasses, e.g., Li2O-V2O5-TeO2 [11], Na2O-V2O5TeO2 [12], Li2O-WO3-P2O5 [13], and Na2O-V2O5-P2O5 [14]. 
+
+Dielectric relaxation spectroscopy has been proven to be a strong technique for investigating the ion conduction mechanisms and relaxation in glasses and glass-ceramic nanocomposites. The frequency-dependent conductivity gives important information on the relaxation of charge carriers in the glasses and glass-ceramic nanocomposites. The necessary features of the ion dynamics may be deduced from the conductivity spectra [15–17]. Another way to enhance materials parameters is to obtain them in nanocrystalline form. The advantages of these nanocomposites are shortened diffusion paths for Li+ ions/electrons and higher surface area which may give higher ionic conductivity [18, 19].
+
+The purpose of this work was to study the effect of grain size on the lithium ion dynamics and conductivity relaxation in 37.
+
+The purpose of this work was to study the effect of grain size on the lithium ion dynamics and conductivity relaxation in 37.5Li2O-25V2O5-37.5Li2O-25V2O5-37.5P2O5 glass and its glass-ceramic nanocomposites annealed at 450 °C for different times (2, 4, 8, and 24 h), using the impedance spectroscopy. The ac conductivity has been analyzed in the framework of power law conductivity and modulus formalisms. The structure and morphology are investigated by X-ray diffraction (XRD) and scanning electron micrograph (SEM). In general, we focus our attention on enhancement of dynamics for Li-ions in these glass-ceramic nanocomposites.
+
+The glass system 37.The glass system 37.5Li2O-25V2O5-37.5Li2O-25V2O5-37.5P2O5 mol% was prepared by mixing specified weights of vanadium oxide (V2O5, purity 99 %, Sigma Aldrich), lithium oxide (Li2O, purity 99 %, Alfa Aesar), and phosphorus oxide (P2O5, purity 99.5P2O5 mol% was prepared by mixing specified weights of vanadium oxide (V2O5, purity 99 %, Sigma Aldrich), lithium oxide (Li2O, purity 99 %, Alfa Aesar), and phosphorus oxide (P2O5, purity 99.9 %, Sigma Aldrich). 
+
+The powder mixture was heated in a platinum crucible at 1050 °C for 20 min. 
+
+The material at melting point was cast in a stainless steel mold. Following this procedure, we obtained a bulk glass of about 1. 
+
+Following this procedure, we obtained a bulk glass of about 1.5 mm in thickness. The glass-ceramic nanocomposites were prepared by heat treatment (HT) of the abovementioned glass by heating in air after crystallization temperature at 450 °C for 2, 4, 8, and 24 h in air. The samples were checked by X-ray diffraction (Siemens D 6000) using CuKα radiation at 40 kV in the 2θ range from 10° to 60°. Scanning electron microscope (SEM; EVO 40, ZEISS) was utilized to investigate the morphology of the glass-ceramic samples. Complex impedance spectroscopy measurements were taken of about 1-mm-thick samples obtained from the initial rectangular with silver past evenly applied on both sides of the sample for better electrical contact. The sample was then held between two spring-loaded electrodes.The impedance |Z*|, the phase angle θ, the dielectric constant ε′, and the dielectric loss ε″ were measured withMICROTEST 6377 LCR meter in the 20 Hz–1 MHz frequency range at different temperatures.
+
+The XRD patterns of the present glass and corresponding glass-ceramic nanocomposites annealed at 450 °C for different times (2, 4, 8, and 24 h) are shown in Fig. 1. 1. 
+
+As seen in this figure, the glass sample does not exhibit any sharp peaks, which are suggestive of the non-crystalline nature of the materials. 
+
+The overall features of the glass curve confirm the amorphous nature of the present glass sample. 
+
+In the case of glass-ceramic nanocomposites, they include a number of peaks corresponding to nanocrystalline phase. 
+
+The material could be indexed well to monoclinic Li 3V 2(PO 4) 3 NASICON type structure with the space group of P21/n (PDF#01-072-7074) [20] and some unknown phases. Generally, several factors can contribute to the broadening of X-ray diffraction peaks. One factor is lattice strain that directly affects the Li3V2(PO4)3 crystallite [21, 22].The average grain sizes (D) of glass-ceramic nanocomposites were calculated according to the following [23]: D ¼ Kλ Bcosθwhere K ≈ 0.The average grain sizes (D) of glass-ceramic nanocomposites were calculated according to the following [23]: D ¼ Kλ Bcosθwhere K ≈ 0.9, λ = 0.9, λ = 0.15406 nm is the wavelength of Cukα radiation, є is the lattice strain, B is the full width at half maximum (FWHM) of the most intense peak, and θ is the Bragg angle of the X-ray diffraction peak.The induced strainThe variation of grain sizes and lattice strain of the present glass-ceramic nanocomposites as a function of HT time is shown in Fig. 2. 2. It is observed that the grain size values are between 32 and 56 nm. 
+
+These results agreed with the results obtained by TEM images in our recent paper [25]. 
+
+The sample annealed at 450 °C for 4 h exhibits the smallest value of grain size, 32 nm. 
+
+On the other hand, the annealed sample for 2 h exhibits relatively large grain size, 38 nm, and then the grain size decreases to 32 nm for 4 h. 
+
+However, the grain size increases again to 47 and 56 nm for 8 and 24 h, respectively. This result can be explained by the following: the annealing temperature increases the atomic mobility which enhances the ability of atoms to find the most energetically favorite sites. After that, with increasing of the annealing time, the densities of the crystalline defects including dislocations, vacancies, and interstitials decrease [26]. However, with increase of the annealing time, the nuclei collect together again to form large grains. The lattice strain of the present glass-ceramic nanocomposites is almost the same (≈0. The lattice strain of the present glass-ceramic nanocomposites is almost the same (≈0.01), suggesting that the crystalline lattice is not distorted with variations of grain size in the resulting Li3V2(PO4)3 crystallite (i.e., the present glassceramic nanocomposites have similar lattice structures with variations of grain size in the given Li3V2(PO4)3 crystallite) [27].
+
+Fig.2 Effect of HT time on grain size (D) and lattice strain (ϵ) for glassceramic nanocompositesFig.3 SEM image and energy dispersive X-ray (EDX) spectrum of Li3V2(PO4)3 glass-ceramic nanocomposite annealed at 450 °C for 4 hdetection limit of EDX. Similar results were obtained on the other samples.
+
+Impedance spectroscopy (IS) is a well-known method for the characterization of dynamics of ions in the present glass and its glass-ceramic nanocomposites annealed at 450 °C for 2, 4, 8, and 24 h. The Nyquist plots (ρ′(ω) vs. ρ″(ω)) for all the samples (see Fig. 4) exhibit two semicircles: one in the high frequency region and the other at lower frequency. According to impedance spectroscopy, this type of behavior can be described by a series combination of two parallel gather RC circuits as shown in the inset of Fig. 4. 4. The first semicircle (R1C1) appears due to the bulk resistance of the sample, and its intersection with the real axis is taken as the resistance of the sample, while the second semicircle (R2C2) appears due to polarization of mobile Li+ ions at the electrode-sample interface [29]. The bulk resistance is an attribute of electronic conduction [30]. 
+
+It has been reported that the alkali glasses and glass-ceramic nanocomposites containing transition metal oxides (TMO) show mixed conductivity (i.e., both electronic and ionic) [10–14]. The centers of the semicircles are found to be below the real axis.This suggests that the relaxation ofions is non-Debye in nature. While temperature increases, the radius of semicircle, corresponding to the bulk resistance, decreases. It means that the bulk resistance of the sample decreases with increase of temperature and accordingly conductivity increases.
+
+The dc conductivity of the glass and its glass-ceramic nanocomposites annealed at 450 °C for 2, 4, 8, and 24 h was calculated from impedance plots. 
+
+The reciprocal of the absolute temperature dependence of the dc conductivity for the present glass and its glass-ceramic nanocomposites shown in Fig.5 is described by Arrhenius relation, σdc ¼ σ0exp −Eσwhere σ0 is the pre-exponential factor, Eσ is the activation energy for the electrical conduction, and k is Boltzmann’s constant. 
+
+The activation energies for the electrical conduction, calculated from Eq. (3), are listed in Table 1. (3), are listed in Table 1. 
+
+The variation of dc conductivity and crystalline size with HT time is illustrated in Table 1. The variation of dc conductivity and crystalline size with HT time is illustrated in Table 1.The maximum conductivity and minimum grain size are found for the glass-ceramic nanocomposite withFig.4 Complex plane plots of the resistivity at selected temperatures for as-prepared glass and its glass-ceramic nanocompositesFig.5 
+
+Temperature dependence of the dc conductivity for glass and its glass-ceramic nanocompositesannealing for 4 h. 
+
+This maximum conductivity may be due to the reducing in grain size. However, the electrical conductivity is influenced by grain boundary dispersing. This grain boundaries work as traps which capture electrons and lead to form a potential barrier. Constructing of a potential barrier at the grain boundaries also causes dispersing of conduction electrons, which leads to decrease the conductivity. 
+
+Therefore, the increase of the conductivity can be attributed to the reducing in grain boundary dispersing due to the decrease in grain size [31]. 
+
+From Table 1 also, it is clear that the conductivity tends to be highest when the activation energy is small. On the other hand, the glass-ceramic nanocomposites annealed at 450 °C for 4 h which has the smallest grain size exhibits highest conductivity and smallest activation energy. 
+
+The dynamics of charge carriers in the present glass and its glass-ceramic nanocomposites is studied by Almonde-West  s formula [35], σ ωð Þ ¼ σdc 1 þ ω ωhwhere ωh is the crossover frequency of the charge carriers. We have calculated the crossover frequency (ωh) by the expression, ωh = (σdc/A)1/s, and its values for the present glass and its glass-ceramic nanocomposites at fixed temperature (353 K) are listed in Table 2. We have calculated the crossover frequency (ωh) by the expression, ωh = (σdc/A)1/s, and its values for the present glass and its glass-ceramic nanocomposites at fixed temperature (353 K) are listed in Table 2.
+
+The scaling behavior of the conductivity spectra provides a perception into the temperature dependence of the ion dynamics.
+
+In this scaling process, the conductivity is scaled by dc conductivity, σdc, and the frequency axis is scaled by the crossover frequency, ωh, which is expected to be more suitableTable 1 Values of the grain size, D, dc conductivity at 353 K, the activation energies for the dc conduction, Eσ, and the relaxation process, Eτ, and stretched exponential parameter β of 37.In this scaling process, the conductivity is scaled by dc conductivity, σdc, and the frequency axis is scaled by the crossover frequency, ωh, which is expected to be more suitableTable 1 Values of the grain size, D, dc conductivity at 353 K, the activation energies for the dc conduction, Eσ, and the relaxation process, Eτ, and stretched exponential parameter β of 37.5Li2O-25V2O5-37.5Li2O-25V2O5-37.5P2O5 glass and its glass-ceramic nanocompositesFig.7 
+
+Temperature dependence of frequency exponent, s, for asprepared glass and its glass-ceramic nanocompositescarriers in the present glass and its glass-ceramic nanocomposites is independent of temperature.
+
+We have also investigated the ac conductivity of present glass and its glass-ceramic nanocomposites using the modulus formalism. We have used both the conductivity formalism and the modulus formalism because there is a discussion on which of these two formalisms gives a better descriptive of the data analysis [36–38].
+
+Table 2 Ac conductivity parameters, crossover frequency, ωh, and conductivity relaxation time, τm, of 37.Table 2 Ac conductivity parameters, crossover frequency, ωh, and conductivity relaxation time, τm, of 37.5Li2O-25V2O5-37.5Li2O-25V2O5-37.5P2O5 glass and its glass-ceramic nanocomposites at fixed temperature (353 K)Fig.8 Scaling of the conductivity spectra for asprepared glass and its glass-ceramic nanocompositesThe electric modulus M* is defined as the inverse of thecomplex dielectric constant, ε* [39].M * ¼ 1where M′ and M″ are the real and imaginary part of the complex modulus, M*.
+
+Figure 9 exhibits the variation of real and imaginary parts of the electric modulus as a function of frequency for the present glass and its glass-ceramic nanocomposites at different temperatures. From this figure, it is observed that the real part of modulus spectra, M′, exhibits dispersion as the frequency is increased and tends to saturate at M∞ at higher frequencies. 
+
+The small value of M′ in the low frequency region facilitates the migration of ion conduction. 
+
+The imaginary part of modulus spectra, M″, in Fig. 9 shows a single relaxation peak focused at the dispersion region of M′. The M″ curves exhibit a maximum at a distinctive frequency, known as relaxation frequency, fmax. The most probable conductivity relaxation time, τm, can be calculated from (fmax = 1/2πτm) [39].The values of τm at 353 K for the present glass and its glass-ceramic nanocomposites are listed in Table 2.The values of τm at 353 K for the present glass and its glass-ceramic nanocomposites are listed in Table 2. From this table, the glass-ceramic nanocomposite annealed at 450 °C for 4 h which has the smallest grain size shows the smallest relaxation time. We also see that the maximum in the imaginary part of electric modulus M″ (M″max) shifts to higher frequency, leading to decrease of relaxation time, with increase in temperature (i.e., as the temperature is increased, the movement of the charge carriers becomes faster). 
+
+This behavior implies that the relaxation is thermally activated [15]. 
+
+The reciprocal of the absolute temperature dependence of the relaxation time is exhibited in Fig.10, which shows the Arrhenius formula  [40] τ m ¼ τ 0exp Eτwhere τ0 is the pre-exponential factor. The values of activation energy Eτ are listed in Table 1. 
+
+The values of activation energy Eτ are listed in Table 1. 
+
+The activation energy Eσ, obtained from the dc conductivity processes, known as the activation energy for long range charge transport, and Eτ from the relaxation processes, which corresponds to the short distance transport, are found to be nearly same.
+
+The comparableFig.9 Frequency dependence of the real part, M′( f ), and imaginary part, M″ ( f ), of the electric modulus for as-prepared glass and its glass-ceramic nanocompositesThe electric modulus can also be defined as a Fourier trans-form of a relaxation function ϕ(t) such as [39] M * ¼ M ∞ 1−exp −jωtceramic nanocomposites and are fairly low, suggesting a greater departure from Debye relaxation and having a wider distribution of relaxation times. This low value of β also implies cooperative motion of the ions in the material, i.e., the jump of a mobile ion cannot be treated as an isolated event.The jump of the ion from one equilibrium site to other site causes a time-dependent movement of other ions in thewhere M∞ is the inverse of high-frequency dielectric constant ε∞. 
+
+The function ϕ(t) gives the time evolution of the electric field within the materials.
+
+The modulus plot can be described by the Kohlrausch–Williams–Watts (KWW) function [41, 42]  ð9Þ ∅ tð Þ ¼ exp − twhere β is the stretched exponent (0 < β < 1). For an ideal Debye-type relaxation, β = 1. For an ideal Debye-type relaxation, β = 1. 
+
+The smaller is the value of β means, the greater is the deviation from the Debye-type relaxation. 
+
+We have fitted the experimental data in Fig. 9 to obtain the values of β. It means that the value of β can be evaluated by using the width at half height of the M″ plot (β = 1. It means that the value of β can be evaluated by using the width at half height of the M″ plot (β = 1.14/ FWHM). The (FWHM) was found to be almost constant with variation in temperature. 
+
+The β values obtained from the present glass and its glass-ceramic nanocomposites are listed in Table 1. The β values obtained from the present glass and its glass-ceramic nanocomposites are listed in Table 1.From this table, the values of β do not differ considerably with the variations of grain size of the present glass-To obtain better understanding into the relaxation dynamics, we have used the scaling behavior of the modulus spectra [44]. 
+
+Figure 11 exhibits a master plot of the modulus isotherms, where the frequency axis is scaled by the relaxation frequency fmax and M′ (or M″) is scaled by M∞ (or M″max). The perfect overlap of all the curves on a single master curve for all the temperatures indicates that the relaxation processes are temperature independent. The scaled spectra of M′ and M″ for the present glass and its glass-ceramic nanocomposites at a fixed temperature (353 K) are also shown in Fig. 11. 11. It can be seen that the spectra for the present glass and its glassceramic nanocomposites also merge on a single master curve. This means the dynamical process controlling the conductivity relaxation indicates the same mechanism at variations of grain size for these glass-ceramic nanocomposites. Finally, the text and verified electrochemical performance of Li3V2(PO4)3 glass-ceramic nanocomposites as electrodes for energy storage devices will be discussed in our new paper.
+
+NASICON-type materials were prepared, and their XRD, SEM, and dc and ac conductivities were studied over a wide frequency and temperature range. 
+
+The lattice structure of the nanoparticles can be indexed to the monoclinic unit cell of Li3V2(PO4)3 NASICON type (with the space group of P21/n), and the crystalline lattice is not distorted with variations of grain size in the resulting Li3V2(PO4)3 crystallite. As the conductivity increases, the corresponding activation energy decreases. 
+
+The value of frequency exponent s decreases with the increase of temperature, implying that there is a weaker correlation effect among the Li+ ions. 
+
+The scaling of the conductivity spectra along with the modulus spectra inthe relaxation dynamics of charge carriers dicates that temperatures and follow a common mechanism for all all differences of grain size. On the other hand, the activation energies calculated from the complex impedance plots match fairly well with the activation energies calculated from the relaxation processes. The low values of the non-exponential parameter, β, obtained from the fit of the (KWW) function to the modulus spectra, indicate a wide distribution of relaxation times and cooperative motion of the ions in the present glass and its glass-ceramic nanocomposites. The most probable conductivity relaxation time τm decreased with decreasing of the grain size. The calculated relaxation time at 353 K for the present glass was 10.

@@ -1,0 +1,89 @@
+Two types of sodium-air cells, i.e., nonaqueous and mixed aqueous-nonaqueous (abbreviated as‘aqueous’) cells, have been compared to elucidate factors limiting performances of nonaqueous air cellsand how the aqueous electrolyte is effective to reliving these limitation
+The two cells have the sameconfiguration consisting of a nanoporous gold (NPG) air electrode and a ceramic separator of fast sodiumion conductor, NASICON.
+
+Only the selection of catholyte, either alkyl carbonate-based nonaqueoussolution of NaClO4 or aqueous solution of NaOH, is different.
+
+All performances are demonstrated to bebetter for the aqueous one.
+
+ Lower overpotential of aqueous cell leads to better round-trip efficiency.
+
+Alarge resistance relevant to oxygen reduction reaction in the nonaqueous cell is relieved by changing thecatholyte to the aqueous electrolyte, affording higher rate capability and power density.
+
+The aqueouselectrolyte is also effective to remove the limitation of the discharge capacity defined by the volumetricamount of air electrode, as has been claimed in previous studies on aqueous Na-air cells.
+
+Furthermore,theaqueous cell is demonstrated to be robust and less sensitive and to atmosphere.
+
+The NPG electrode worksreversibly in the half-cell reaction of the aqueous cell, while an electrodeposition of metallic Na on theanode during charging requires an improvement.
+
+Future energy technologies demand batteries with much higherenergy density than the current rechargeable lithium ion batteries(LIBs), which deliver 100–200Whkg1 at the best.
+
+Lithium-air(more explicitly, Li-O2) batteries (LABs) [1–3] have a theoreticalenergy density of approximately 3500Whkg1 based on weightsof reactants including oxygen gas, and are one of promisingcandidates to overcome the limitations of LIBs.
+
+However, innonaqueous LABs, discharge products are insoluble in organicelectrolytes, clogging gas-permeable electrode to limits itspractical electrochemical capacity.
+
+Large overpotentials duringthe discharge and charge processes are a general problem ofnonaqueous LABs resulting in relatively low round-trip energyefficiencies [4].
+
+To avoid the clogging and reduce the overpotentials, itis effectiveto incorporate aqueous electrolyte atthe cathode (air electrode) sideby protecting reactive anode (i.e.alkali metals) using a solidelectrolyte [5–7].
+
+Nonaqueous electrolyte can be again incorporatedbetweenthe solidelectrolyteandthe negative activematerial[8–10].
+
+This configuration is employed in the present study, and should betermed as a mixed or hybrid aqueous-nonaqueous air cell, and isusually termed simply as an aqueous air cell.
+
+So far, no directcomparison between nonaqueous and aqueous cells with same cellgeometry has been examined.
+
+Thus, the effect of the aqueouselectrolyte has not been explicitly demonstrated.
+
+Replacement of lithium in LIBs and LABs with sodium hasattracted attention recently [11–23].
+
+This is motivated by not onlybetter availability of sodium resources but also interests insimilarity and difference in cell chemistry and unexpected benefit[12].
+
+ Table 1 summarizes representative cell reactions of nonaqueous and nonaqueous LABs and NABs.
+
+The sodium replacementis apparently not advantageous for battery performance due tolower cell voltage and heavier weight.
+
+However, a nonaqueous Naair battery was found to exhibit much lower overpotential thanthat of LABs when NaO2 precipitates as a discharge product [13,14].
+
+Recently, we reported that aqueous Na-air batteries (NAB) withNa3Zr2Si2PO12 (Na super ionic conductor, NASICON) ceramicseparator potentially deliver higher energy densities owing tosolubility of hydroxide discharge product larger than Li-counterpart by 9 times [22], and higher powder density especially in highdischarge current range (5–10 mAcm2) owing to lower internalresistivities [23].
+
+Total conductivity of NASICON ceramics exceeds 1 103 Scm1, which is typically an order of magnitude larger thanthose of Li-ion conducting oxides.
+
+Furthermore the concept ofceramic-protected sodium battery can expand to a rechargeableseawater battery [24].
+
+This study focuses on both nonaqueous andaqueous Na-air cells.
+
+Meanwhile, development better air electrode has beenaddressed as a principal issue especially for nonaqueous batteries.
+
+Nanoporous gold (NPG) is an almost pure gold material having asponge-like microstructure with a few to a few tens micrometer inits pore size [25].
+
+In 2012, Peng, Freunberger and Bruce applied theNPG to an air electrode of LAB coupled with LiClO4/dimethylsulfoxide electrolyte and demonstrated a high-rate cycles withexcellent capacity retention over 100 cycles [26].
+
+Cost of gold ishigh both in price and weight, and hence, minimum usage isdesirable.
+
+On the other hand, the NPG is attractive for the aqueoussystem because of its good corrosion resistance and moderateoxygen reduction activity in alkaline electrolyte [27,28].
+
+The present study applies NPG to nonaqueous and aqueous Naair cells, and demonstrates that NPG is best effective when coupledwith the aqueous Na-air cell.
+
+For the fair comparison, we employthe same cell configuration as schematically shown in Fig.1, inwhich selection of catholyte is only different.
+
+This comparison isalso helpful for elucidating the factors limiting performances ofnonaqueous air cells and how the aqueous electrolyte is effective toreliving these limitation.
+
+NPG electrode have been applied to ceramic electrolyteprotected Na-air cells with nonaqueous or aqueous catholytes.
+
+Overpotential of aqueous cell was 0.6V for both charging anddischarging at current density of 0.5–1.0 mAcm2, leading to betterround-trip efficiency.
+
+The resistance component, RS, related tooxygen reduction kinetics in the NPG electrode is lower in theaqueous cell than the nonaqueous one by more than 10 times,affording higher rate capability or power density by approximately10 times.
+
+Effect of aqueous positive electrolyte is far better than theexpenses of additional resistivity components due to a ceramicseparator.
+
+The aqueous electrolyte is also effective to remove thelimitation of the discharge capacity defined by the volumetricamount of NPG electrode.
+
+For example, in the present experimental set up, the NPG-weight-based discharge capacity was enhancedby approximately 100 times.
+
+The aqueous cell was less sensitiveand more robust to atmosphere.
+
+Although the nonaqueous cell canextend the capacity markedly by finally forming NaHCO3 orNa2CO3,this reaction is not practically advantageous because of thelarge overpotential.
+
+The NPG works satisfactorily in the half-cellreaction of aqueous cell, while the electrodeposition of metallic Naon the negative electrode during charging involves problems.
+
+Solution for this is commonly required for further development ofsecondary alkali-metal batteries operatable at room temperature.
+

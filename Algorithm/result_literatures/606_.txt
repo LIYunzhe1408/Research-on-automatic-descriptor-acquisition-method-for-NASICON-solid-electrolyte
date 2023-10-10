@@ -1,0 +1,114 @@
+Hybrid electrolytes Ceramic conductors NASICON Ionic liquidsCeramic electrolytes are prepared through sintering processes which are carried out at high temperatures and require prolonged operating times, resulting unwelcome in industrial applications.
+We report a physicochemical characterization on hybrid, sodium conducting, electrolyte systems obtained by coating NASICON ceramic powders with the N-butyl-N-methylpyrrolidinium bis(triﬂuoromethanesulfonyl)imide ionic liquid.
+The goal is to realize a ceramic-IL interface with improved sodium mobility, aiming to obtain a solid electrolyte with high ion transport properties but avoiding sintering thermal treatment.
+The purpose of the present work, however, is showing how simply combining NASICON powder and Py14TFSI does not lead to any synergic eﬀect on the resulting hybrid electrolyte, evidencing that an average functionalization of the ceramic powder surface and/or ionic liquid is needed.
+Also, the processing conditions for preparing the hybrid samples are found to aﬀect their ion transport properties.
+The lithium-ion technology is currently the most established battery chemistry for small to medium (e.g., portable electronic devices, power tools, etc.) as well as large-scale applications (e.g.electric/hybridvehicles, smart grids, electric energy storage from renewable power sources).
+However, the more and more growing lithium demand leads to serious concerns about availability and price stability of the lithium resources.
+Lithium-based compounds are not worldwide largely available, being mainly located in politically unstable countries.
+These concerns have pushed the scientiﬁc community towards novel alternative materials, but showing similar characteristics.
+The lower cost, much higher abundance and easy mining of sodium minerals as well as the feasible use of aluminium as lighter anode current collector have promoted the interest in sodium-based electrochemical systems as alternative devices for electric energy storage.
+In addition, sodiumand lithium-based systems exhibit similar fundamental principles [4,5] and their redox potential diﬀers of only 300 mV .
+However, as well as lithium batteries, Na-based systems often use electrolytes based on organic (alkyl carbonates) solvents, which represent a major safety problem.
+For instance, uncontrolled internal temperature increase might cause combustion of the vaporized (ﬂammable and volatile) organic electrolyte with oxygen becoming available from the decomposition of the positive electrode [15,16], leading to catastrophic events (burning, explosion, rapid cell disassembly).
+Therefore, the scientiﬁc community is devoting large eﬀort for moving towards solvent-free solid electrolytes.
+In this scenario, the use of ceramic ionic conductors as electrolytes for all-solid-state battery systems represents a very appealing approach.
+Early ceramic electrolytes were limited to high temperature applications only, as the ion conduction occurs through the movement of ionic point defects, thus requiring high thermal energy.
+The progressive development of ceramic solid electrolytes allowed to largely enhancing the ion transport properties, i.e., up to 10−3 S cm−1 at room temperature instance, Na1+xZr2SixP3−xO12 (0 < x < 3), NASICON, is one of the most, if not the most, investigated Na+ conducting ceramic material, exhibiting conductivity equal to 2.7 × 10−3 S cm−1 at 27 °C.
+Sintering processes require (1,200–1,400 °C) and long processing times high temperatures (20–40 h) [29], leading to volatilization of some constituents (mainly Na2O and P2O5) and the subsequent zirconia segregation at grain boundary.
+This causes high grain boundary resistance (at the graingrain interface), resulting in slow Na+ cation transport [24–29] and, therefore, dramatic decay of sodium conduction, thus limiting their appealing for industrial applications.
+Therefore, the sodium-ion transport properties at the grain-grain interface of ceramic conductors play a key role for developing practical solid-state batteries.
+A promising approach could be decorating the NASICON particle surface with a very thin layer of extremely low ﬂammable/volatile fast ion conductors as, for example, ionic liquids (ILs).
+The purpose is to enhance the Na+ mobility at the ceramic grain-grain interface and, therefore, realizing a solid-state, safe, ceramic-IL hybrid electrolyte (Fig.1), without any high temperature treatment, exhibiting from good to high ion transport properties.
+Tarascon et al.have shown the possibility of decorating the surface of the LiZnSO4F lithium cation conductor material with the 3-ethyl-1-methylimidazolium bis(triﬂuoromethanesulfonyl)imide (EMITFSI) ionic liquid, leading to the realization of a hybrid solid electrolyte with a room temperatureFig.
+Although it is not yet fully understood whether the ceramic conductor was really grafted or only decorated by EMITFSI, this undoubtedly opens a new way in the ﬁeld of ceramic conductors, as highlighted by the increasing number of recently published papers on hybrid electrolytes.
+Zhang et al.have demonstrated how a small amount of N-methylN-propylpiperidinium bis(ﬂuorosulfonyl)imide (PP13FSI) ionic liquid, acting as wetting agent, is able to enhance the charge-transfer rate at the NASICON/Na3V2(PO4)3 solid ceramic interface.
+In the present work, however, we report how the simple coating of NASICON with IL does not lead to any synergic eﬀect, in terms of ion transport properties, in the resulting hybrid electrolyte.
+N-butyl-N-methylpyrrolidinium bis(triﬂuoromethanesulfonyl)imide (Py14TFSI), favorably proposed as electrolytic component for sodium batteries, was chosen as the ionic liquid.
+The components were ball milled in ethanol in a 250 mL zirconia vessel using ZrO2 balls (powder/balls volume ratio = 1:5) for 12 h.
+The mixture was dried in a stove at 60 °C and calcined in air at 1,100 °C for 8 h.
+Once cooled down to room temperature, the calcined powder was ground again for 2 h in an agate mortar.
+Finally, the powder was pressed using an isostatic press at 200 MPa for 10 min and sintered in air at 1,220 °C for 40 h.
+Platinum crucibles were employed as sample substrates during the heat treatments in order to avoid contamination.
+Preparation of hybrid electrolytesThe hybrid electrolyte preparation as well as the material handling and cell assembly was performed inside an argon ﬁlled glove box (MBRAUN, O2 and H2O content < 1 ppm).
+The NASICON powder, obtained from grinding of sintered ceramic, was previously dried in high vacuum at 80 °C overnight.
+This dry powder was combined with pure Py14TFSI or the Py14TFSI-NaTFSI (NaTFSI by Solvionic, 99.5 wt%) mixture (mole ratio = 9:1 [34]), which were previously dissolved in anhydrous acetonitrile (Sigma-Aldrich, 99.9 wt%).
+Successively, the NASICON powder was added to the solution and stirred overnight with the purpose of homogeneously dispersing the powder particles and the ionic liquid, and promoting their intimate contact.
+The solvent was allowed to slowly evaporate at 70 °C (using a heating plate).
+Successively, the resulting hybrid material was subjected to a drying step.
+In order to evaluate the drying condition eﬀect on the hybrid material performance, some samples were dried at low vacuum (oil pump, 120 °C, overnight, 10−3 bar) and compared with hybrids processed at high vacuum (turbo molecular pump, 120 °C, 20 h, 10−8 bar).
+No liquid leakage was exhibited by the hybrid electrolytes in any case, even after prolonged storage times.
+Journal of Power Sources xxx (xxxx) xxx–xxxTable 1 Composition summary of the investigated hybrid electrolytes.
+The ionic conductivity values, determined at 20 °C, were also reported for Py14TFSI and PYy14TFSI-NaTFSI.
+The vacuum level applied in the drying step is also indicated (low: vacuum by conventional oil pump; high: vacuum by turbo molecular pump).* = pelletized material.
+ConductivityVacuumSilicaFor comparison purpose, a hybrid material constituted by non-ionically conducting ceramic (silica), having similar particle size and volume fraction with respect to NASICON, and Py14TFSI was prepared.
+This instrument has a (θ/2θ) Bragg–Brentano geometry and is equipped with a curved graphite monochromator.
+The 2θ range analyzed was 5–70° with a step scan of 0.02° and a counting time of 0.5 s per step.
+The microstructure of the sintered samples was analyzed by a TENEO ﬁeld emission scanning electron microscope, FESEM (FEI).
+The acceleration voltage was 2.0 kV and the backscattered electrons T1 detector was used.
+DSC measurements were carried out on the hybrid NASICON-IL samples (7 mg, housed in Al pan) using a Discovery DSC (TA Instruments).
+A cooling scan (10 °C min−1) was run from room temperature down to −140 °C, followed by thermal cycles performed from −140 °C up to the onset of an exothermal “cold crystallization” feature (not reported) in order to fully crystallize the Pyr14TFSI fraction [34].
+Finally a heating scan (10 °C min−1) was run up to 100 °C.
+Pycnometric density measurements were carried out on the NASICON and hybrid NASICON-IL samples using a Micro-Ultrapyc 1200e gas pycnometer (Quantachrome Instruments), equipped with a 0.25 cm3 sample nanocell holder.
+The instrument was calibrated using a 0.0898 cm3 reference.
+The samples were ﬁrst pressed in the glovebox at 7 MPa for 5 min to obtain a pellet using a hydraulic pump (EQ-YLJ-24, MTI corp.).
+About 100 mg of sample was used for each density measurement.
+The ionic conductivity was evaluated by impedance spectroscopy on two-blocking electrode cells containing the samples under test.
+The AC measurements, taken in the 20–80 °C temperature range at 10 °C step (heating scan of 10 °C day−1) were performed in the 0.1 Hz to 1 MHz frequency range (ΔV amplitude equal to 10 mV) using a potentiostat/ galvanostat equipped with frequency response analyser (ModulabXM, Solartron Analytical).
+level– low low low high low lowlow low low high2.5. Conductivity cell assemblyThe hybrid NASICON-PYR14TFSI samples were ﬁrstly pelletized into a homemade cylindrical Teﬂon insulator case having a 13 mm internal diameter hole.
+A stainless steel cylindrical current collector (13 mm diameter and 5 mm thickness) was introduced into the hole.
+A carbon paper disc (13 mm diameter) was placed onto the cylindrical current collector (for improving the electronic contact) and, then, about 200 mg of NASICON-ionic liquid (wet) powder-like sample were loaded into the dye and pressed at 7 MPa for 5 min to obtain a pellet.
+Another carbon paper disc was overlapped to the pellet and the top current collector was introduced into the hole.
+Finally, the cell was hermetically sealed.A top screw was fastened by applying a torque of 3 N m for maintaining the proper contact between cell components and ensuring mechanical stability of the formed pellet.
+Upon manufacturing, the cells were housed in sealed soft-envelopes to avoid any contamination of the sample under test with the external environment.
+The XRD pattern reported in Fig.2 (upper panel) conﬁrms the formation of the NASICON phase, but some small diﬀraction peaks around 2θ = 32° and 35° and associated to monoclinic ZrO2 are also observed.
+This is a common secondary phase found in NASICON synthesis and, as mentioned before, comes from the volatilization of some small amounts of Na2O and P2O5 during the sintering process.
+Nevertheless, the loss of Na is lower than 5 wt% as conﬁrmed by energy dispersive X-ray spectroscopy (EDS).
+In addition, these sodium losses were homogeneously distributed through the powder as depicted in Figure S-1 (Supplementary Material), which reports the elemental EDS mapping.
+The unit cell parameters were determined from the XRD patterns using the full-prof program [38] and considering a monoclinic structural model (C2/c S.G.).
+Theses parameters c = 9.2222(8), β = 124.146(8) º) are in good agreement with those reported in the literature [39,40].
+SEM images (lower panel) evidence agglomeration of NASICON particles, having size of about 0.5 μm.
+Further SEM analysis (Figure S-2) reveals how the sintering process leads to formation of well-packed (ceramic) agglomerates with size up to 10 μm.
+The impedance Nyquist plot of the sintered sample with gold electrodes and recorded at room temperature (Figure S-3) shows a unique semicircle that does not pass through the origin.
+The capacitanceJournal of Power Sources xxx (xxxx) xxx–xxxto check the reproducibility of the hybrid electrolyte composition.
+Figure S-4 shows, as an example, the TGA trace of a (90 wt%)NASICON(10 wt%)Py14TFSI sample which, above 200 °C, clearly evidences a progressive weight loss (due to the ionic liquid thermal decomposition [43]) up to 10.0%.
+No further loss in weight is recorded above 480 °C, thus conﬁrming that the hybrid was correctly prepared.
+SEM images, taken on NASICON-Py14TFSI hybrid electrolyte samples with diﬀerent composition (Fig.3) evidence a progressive increase in ceramic decorating moving from 5.0 to 10.0 wt% of IL.
+The thermal traces referred to the heating scan, obtained from differential scanning calorimetry (DSC) measurements performed on the hybrid electrolytes, are compared in Fig.4A.
+All samples exhibit a wellpronounced endothermic feature around −8 °C, due to the melting of Py14TFSI.
+No glass transition and “cold crystallization” proﬁle (prior the melting feature) is observed, indicating full crystallization of the ionic liquid fraction within the hybrid samples.
+However, a weaker and broader exothermal peak, missing in the DSC trace of pure Py14TFSI reported for comparison purpose (Fig.4), was detected between 0 and 10 °C.
+Such a feature is likely attributed to adsorption (exothermal) process of the ionic liquid, upon melting around −8 °C, onto the ceramic surface.
+However, the conductivity values are at least one order of magnitude lower with respect to either sintered NASICON or pure Py14TFSI [32], i.e., depicted in Fig.5 and Table 1 for comparison purpose.
+For instance, single ceramic and IL materials exhibit conductivity close or above 10−3 S cm−1 at room temperature whereas the hybrid electrolytes show values ranging from 1.5 × 10−5 (2.5 wt% of IL) to 3.6 × 10−4 (10.0 wt%) S cm−1. This suggests no relevant synergic eﬀect resulting from NASICON coating with Py14TFSI.
+The lower panel of Fig.5 compares (95 wt%)NASICON(5 wt%)Py14TFSI and (95 wt%)NASICON-(5 wt%)Py14TFSI:NaTFSI hybrid electrolytes subjected to drying steps carried out at diﬀerent vacuum levels.
+It is evident how the addition of sodium salt improves the ion transport properties, i.e., leading to conduction values (square data markers vs.triangles) respect to those of the single (sintered) ceramic and ionic liquid (with and without NaTFSI) conductors.
+It is interesting to note how hybrid samples, subjected to drying step (see Experimental) performed at high vacuum level (solid data markers), exhibit lower ion conduction values with respect to those processed at low vacuum level (open data markers).
+This is likely ascribable to much lower residual traces (with respect to the low vacuum drying step) of the acetonitrile solvent used for the preparation of the hybrid samples.
+It is well known that ceramic materials are able to retain (or adsorb) organic molecules, the latter resulting hard to be removed even under vacuum drying conditions.
+The eﬀect played by the drying step vacuum level was observed either in NaTFSI-free (squares) or NaTFSI-containing (triangles) hybrid electrolytes.
+Finally, the replacement of NASICON with an analogous volume fraction of a non Na+-conducting ceramic material such as Silica (upper panel of Fig.5), having similar particle size and surface area, depletes the ionic conductivity of the hybrid electrolytes, i.e., from 3 × 10−5 to about 6.4 × 10−6 S cm−1. Therefore, the ceramic conductor does not seem to be fully foreign in the ion transport properties of the hybrids.
+Fig.2. XRD pattern assigned on the basis of a monoclinic P21/n unit cell (upper panel) and SEM image (lower panel) of NASICON powder.
+The symbol (*) is referred to the ZrO2 phase.associated with the arc is around 3 × 10−10 F and consequently is attributed to grain boundary.
+The bulk contribution (not observed) can be estimated from the high frequency intercept of the grain ionic conductivity (1.3 × 10−4 S cm−1) is boundary arc.
+The total substantially lower than those reported for this composition [29], likely due to the higher grain boundary impedance.
+The experimental data are in good agreement with the theoretical values, indicating no fraction of void volume and, therefore, good grain-IL-grain contact within the hybrid electrolytes.
+Thermogravimetrical (TGA) measurements were performed aimingTable 2 Pycnometric and theoretical densities of NASICON-Py14TFSI hybrid samples.
+The pure Py14TFSI ionic liquid is reported in the insert for comparison purpose.
+The ratio between the areas of two features is seen to decrease when rising the ionic liquid content up to 5 wt% (Fig.4B).
+This suggestsJournal of Power Sources xxx (xxxx) xxx–xxxclear indication that no synergic eﬀect, at least on the ion transport properties, is observed if the NASICON surface is just coated with ionic liquid.
+Therefore, it is reasonable to hypothesize that Na+ ions have to overcome an activation energy barrier to be transferred from the ceramic conductor to ionic liquid and vice versa.
+This target could be attained through proper functionalization of the NASICON surface and/ or ionic liquid, aiming to largely promote the Na+ cation transferring at the ceramic/IL interface.
+Hybrid sodium-conducting electrolyte systems, obtained by coating NASICON ceramic powders with the N-butyl-N-methylpyrrolidinium bis(triﬂuoromethanesulfonyl)imide ionic liquid, were physicochemically characterized.
+The target is to realize a proper ceramic-IL interface with improved Na+ mobility, aiming to obtain a solid electrolyte with high ion transport properties but avoiding sintering thermal treatment.
+However, the obtained results show how just coating the ceramic conductor surface with an ionic liquid does not lead to any practical synergic behavior between the solid and IL electrolyte.
+For instance, the existence of an energy barrier for the Na+ motion at the IL/NASICON interface can be hypothesized.
+This issue could be achieved by an average functionalization of the ceramic surface and/or ionic liquid, aiming to largely promote the Na+ cation transferring at the NASICON/ Py14TFSI interface.
+erefore, due to the high grain boundary resistance, the ions do practically move mostly through continuous, even if tortuous, three-dimensional IL pathways due to ionic liquid percolation within the hybrid electrolytes.
+Conversely, in case of fast Na+ charge transfer at the NASICON/ Py14TFSI interface, the sodium cation movement within the hybrid electrolytes should occur through linear mixed (ceramic-IL) conductive linear pathways, resulting in ion conduction values comparable to that of the pure ceramic and ionic liquid components.
+However, the comparison with Silica-Py14TFSI hybrids (Fig.5) having similar composition in volume (Table 1) shows how the contribute of the ceramic conductor to the overall ionic conductivity of the hybrid electrolyte is not fully negligible.
+Even though, it is not suﬃcient for substantially improving the ion transport properties, most likely due to the still relevant grain boundary resistance.
+A moderate gain in conductivity is observed upon incorporation of NaTFSI into the ionic liquid (Fig.5).
+It should be highlighted that addition of sodium salt leads to a conductivity decrease in pure IL, e.g., the Na+ cations interact more strongly than (PYR14)+ with the TFSI− anions, thus increasing the ionic liquid viscosity.
+Therefore, it is reasonable to hypothesize an enhanced (even if modest) sodium mobility at the NASICON/Py14TFSI interface upon NaTFSI incorporation, likely due to a less diﬃcult jump of Na+ from the ceramic conductor to the IL (and vice versa), which increases the contribute of the ceramic conductors to the overall ion conduction of the hybrid sample.
+However, the gain in ion conduction, resulting due to the NaTFSI salt addition, is too low for allowing practical application of such a hybrid electrolyte in sodium batteries least 10−3 S cm−1 at room temperature is required).

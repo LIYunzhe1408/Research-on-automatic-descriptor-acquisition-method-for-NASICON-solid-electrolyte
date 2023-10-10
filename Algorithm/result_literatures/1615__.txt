@@ -1,0 +1,111 @@
+The potentiometric response of PLD-made LiFePO4 thin films versus Li+ ions in aqueous solutions has been investigated, and a sensitivity of 54mVdec−1 has been observed in a Li+ concentration range of 1–10−4 M. 
+Physical and electrochemical measurements of electrodes
+aged in aqueous medium show a slight surface oxidation with formation of heterosite- FePO4 that we show to be responsible for the stable potential response measured. 
+Cyclic voltamperometry measurements operated in different Li+ concentration clearly highlight the key relation between the material lithium ion insertion/de-insertion capability and its potentiometric sensing response implying a faradaic-governed sensing mechanism. 
+Based on such a finding, selection criteria (enlisting among others the potential of the redox couple,the nature of the insertion process) are herein underlined in the search for new sensitive materials.
+
+In the past decades, considerable attention has been put on the design and development of new sensor devices as a response to the increasing demand for monitoring systems for life quality improvement. 
+In particular, owing to the important progress in the ﬁelds of material science and electrochemical engineering, electrochemical sensors appeared very appealing because of their simplicity and interesting performances among the different transduction possibilities (optical, mechanical, electrochemical, . . .). 
+Despite great achievements and various electrodes developed for sensing ions in solution, a great amount of research work is still needed to particularly improve their selectivity, and to better understand the equilibrium phenomena leading to the responses. 
+Among the different ions of interest, lithium detection is particularly needed during the treatment of manic-depressive diseases to keep the lithium concentration within the therapeutic range 0.5–1.5 mM. 
+The development of integrated, selective and miniaturized systems could avoid using heavy and expensive methods such as ﬂame spectrophotometry to quantify this ion. 
+However, the literature for such lithium ISE (Ion Selective Electrodes) is not extensive. 
+Potentiometric membranes based on organic ionophores like carboxiloxane dendrimer, crown ethers or phenanthroline (for a review of the different molecules tested prior to 2000 Refer to) were shown to exhibit a Nernstian-like behaviour with lithium ion concentration in solution but still with selectivity problems vs. other alkaline cations. 
+An extensive work was also performed by Fabry’s group on NASICON-based membrane electrodes. 
+While initially studied for their attractive Li+ or Na+ ionic conducting properties, they can also be used for the development of ion sensors, as successfully demonstrated with the phosphate Li1+xAlxM2−x(PO4)3 (M = Ti or Ge) phases . 
+Interestingly, Kanoh et al. reported a new successful approach for Li-ion sensors, based on the use of a − mixed Li+/e conductor materials such as spinel-type ␭-MnO2. 
+They could reach a detection limit as low as 10 −1. 
+We recently evidenced the versasensitivity of 54 mV dec tility of this approach through the study of LiFePO4 , Na0.44MnO2 and Cu3VS4 phases for the detection of lithium, sodium and copper ions, respectively. 
+While good potentiometric properties were obtained using LiFePO4 (in composite polymeric electrodes or as thin ﬁlms), several questions were still pending regarding the understanding of the sensing mechanism. 
+Indeed, this material initially presents neither any available surface sites to accommodate Li+ from the solution nor a redox couple to account for the near Nernstian observed sensitivity. 
+2D thin ﬁlm technology (with no conducting additive) was thus of particular interest to throw some light on the intrinsic sensing properties of LiFePO4 thin ﬁlms as well as to provide insights on their sensing response mechanism. 
+In previous papers, we reported their growth optimization by Pulsed Laser Deposition (PLD), their characterization and electrochemical properties both in non aqueous and aqueous electrolytes . 
+Herein, the potentiometric behaviour of such thin ﬁlms will be further explored to provide insights into their sensing response mechanism.
+
+LiFePO4 powder was synthesized from an aqueous solution route .
+LiH2PO4 and Fe(NO3)3·9H2O were ﬁrst dissolved in two distinct containers. 
+After slowly adding the lithiumbased solution into the iron nitrate, one in stoichiometric proportions, the water was slowly evaporated leading to rustylike slurry dried in air. 
+The resulting powder was annealed, ﬁrst at 300 C under N2/H2 (90/10) for 20 h to reduce Fe3+ to Fe2+. 
+The obtained well crystallized and pure LiFePO4 phase was shaped into a 20 mm diameter pellet using a mono-axial press operating at −2. 
+80–85% compactness targets were a pressure of 0.5 ton cm obtained by room temperature isostatic pressing of the pellets at 2000 bars for 20 min followed by sintering at 800 C under Ar for 24 h.
+Thin ﬁlms were grown by PLD with a KrF source ( 2) = 248 nm). 
+The substrate was made of Si(0 0 1) wafers on which a 10 nm thick Pt layer (current collector) was previously DC sputtered. 
+The X-ray diffraction patterns were recorded in a /2 conﬁguration using a Philips PW1729 (Cu K␣). 
+The morphology was investigated using a scanning electron microscope (Philips XL30 FEG) coupled with an X-ray analysis system (EDX Oxford isis). 
+The ﬁlm thicknesses were evaluated by proﬁlometry using a Dektak ST3 model. 
+The electrochemical measurements were carried out through a three-electrode setup in a bath at 30 C. 
+A Pt wire and a saturated calomel electrode were used both as counter and reference electrode, respectively. 
+The electrochemical data were monitored using an automatic multi-potentiostat system .
+
+Crystallized and homogeneous LiFePO4 thin ﬁlms were grown by PLD in a one step process on a Si/Pt substrate maintained at 600 C. 
+The chamber pressure was maintained at 8× 10 −2 mBar while the distance substrate-target, the laser repetition frequency and ﬂuency were ﬁxed at 3 cm, 10 Hz and −2, respectively. 
+For this study, we used two different 2 J cm deposition times of 30 min and 1 h leading to ﬁlms with thicknesses of 400 nm and 900 nm, respectively. 
+The 400 nm ﬁlms exhibit a strong preferential orientation along (1 2 0) direction (S.G. Pmnb) (Fig. 1). 
+When the thickness is increased to 900 nm,the ﬁlms appear less oriented as illustrated by the obtaining of a typical XRD pattern for LiFePO4 in agreement with . 
+In both cases however, we observed a rough surface allowing a good electrode/electrolyte contact area.
+The potentiometric measurements were realized at 30 C using a three-electrode conﬁguration in LiNO3 solutions with −5 M.
+Under such conconcentrations varying from 1 M to 10 ditions, 400 nm LiFePO4 ﬁlms aged for 30 min in 1 M LiNO3 show stable potential steps for each solution concentration with an expected decreasing evolution as the lithium ion concentration is lowered (Fig. 2a). 
+A good reversibility is noticed as illustrated by the same measured value at 1 M at the initial and ﬁnal steps. 
+The response time is about 100 s and the −4 M. 
+Such values are slightly better than detection limit 10 those previously reported for composite polymeric electrodes based on LiFePO4/C with comparable potential drift and good potential reproducibility over experiments. 
+Reporting the different equilibrium potential values recorded as a function of the logarithm of the lithium ion concentration, we obtain a good linear depen−1 dence from 1 M to 10 −1 expected from Nernst law that is lower than the 60 mV dec. 
+Similar OCV measurements were performed using thicker LiFePO4 ﬁlms (ca. 900 nm) having a rougher surface but without any (1 2 0) preferential orientation as compared to the 400 nm ones. 
+Whatever the ﬁlm orientation or thickness (400 nm and 900 nm), the only difference noticed lies in the −1 response sensitivity that is slightly lower; 46 mV dec −1 instead of 54 mV dec . 
+Overall, whatever the thicknesses of the ﬁlms, a common result is that stable responses are obtained with the measured sensitivity well below the one recorded (58 mV dec -1) on plastic composite electrodes made according to the Bellcore-type technology (58% LiFePO4, 6% of Csp, 15% of PVDF-HFP and 21% of DBP), which were found to have an electronic conductivity of ∼10 −1 S cm −1. 
+In light of such an observation, the poor intrinsic electronic conductiv ity of our LiFePO4 thin ﬁlms (10 −9 S cm −1), as compared to the plastic composite ﬁlms could explain such sub-Nernstian behaviour for the thin ﬁlms.
+The ﬁlms selectivity responses were evaluated by the ﬁxed interferent method (FIM). 
+For this, the potentiometric measurements were carried out by varying the lithium concentration as above, but in this case in the presence of a ﬁxed interfering ion concentration. 
+Similar curves were obtained for different 0.1 M of K+, Na+ or Mg2+ interfering ions with a main difference at low lithium concentration clearly indicating an interference with the three types of cations used. 
+The numerical evaluation of the selectivity coefﬁcients has been undertaken using Nickolskii–Eisenman equation.
+where [Li+] is the variable lithium concentration in solution,  is the selectivity coefﬁcient of Li+ vs. Xn+, and [Xn+] K is the interfering ion concentration in solution. 
+Although the validity of such a method is frequently questioned, it enables to quantify the selectivity coefﬁcients in the electrode conﬁguration used herein with good approximation as previously reported . 
+Table 1 gathers the different determined values. 
+The lithium ion selectivity vs. Mg2+ is rather good + > (log K +/Mg2+ ). 
+A similar evolution is roughly observed K Li for the Bellcore-type polymeric electrode but with selectivity coefﬁcients one order of magnitude lower in that conﬁguration . 
+While this difference is still poorly understood, we obtained results comparable to those reported by Cretin et al. using NASICON-type ceramics as Li-ion sensor . 
+However, the values are still too high and further work will be needed to be able to use such material for different applications. 
+Such a difference in selectivity between thin ﬁlms and plastic ﬁlms could be nested in the different natures of their surface.
+Furthermore, this also underlines that for sensor applications (i.e. surface interactions), the use of insertion material does not require to present optimized electrochemical insertion/de-insertion properties but only presents a sufﬁcient electrode electronic conductivity.
+However, the surface state seems to be a key parameter. 
+Indeed, depending on the preparation procedure (room temperature deposition followed by a ﬁlm annealing treatment), it was possible to prepare LiFePO4 thin ﬁlms presenting carbon on the surface. 
+We pursued potentiometric measurements using such ﬁlms. 
+The ﬁrst differences compared to the above described ﬁlms were the huge increase in response time (about 1 h) together with −2 M despite the a noticeable detection limit increase to 10 fact that such thin ﬁlms exhibit higher lithium insertion/deinsertion kinetics. 
+The thin surface layer of carbon (from 2 nm to 6 nm) is probably at the origin of this discrepancy as also similarly observed on LiFePO4 particles coated with C. 
+A screening effect of the C at the surface, impeding an efﬁcient interfacial equilibrium, is one of the reasons which could account for such an evolution.
+As mentioned above, no redox couple is initially present in LiFePO4 ﬁlms (Fe2+). 
+This was checked both by a surface sensitive method like by XPS (X-ray photo-electron spectroscopy) and CEMS (conversion electron M ¨ossbauer spectroscopy) experiments. 
+Furthermore, in opposition to -MnO2 or FePO4, no crystallographic site to accommodate lithium ion from the solution is vacant in LiFePO4. 
+We ﬁrst checked the electrochemical behaviour of a 400 nm ﬁlm in aqueous medium and found a well deﬁned signature with an equilibrium potential of 0.153 V (vs. SCE) in agreement with previous reports. 
+Besides, we also tested the effect of scan rate on the electrochemical response and observed that the peak current density evolves linearly with the square root of the scan rate indicating that the process is diffusion-controlled, and with the slope of the curve being reminiscent of the kinetic of the electrochemical process. 
+It turns out that this slope is three times larger than the one measured in non aqueous medium, for instance in 1 M LiClO4/PC, implying faster kinetics for the former . 
+While the insertion/de-insertion equilibrium is easily obtained in lithium nitrate solution, it is interesting to notice that a short aging period was necessary prior to recording a suitable potentiometric response  as illustrated by the monotonous potential increase up to a stable value. 
+Interestingly, by collecting a cyclic voltamperogram once such a value was obtained, we observed the existence of a capacity when the ﬁlm is directly reduced, consistent with the insertion of Li+ into FePO4 . 
+This simply implies a partial ﬁlm oxidation during the aging step as conﬁrmed by XPS. 
+This oxidation is likely induced by the presence of dissolved oxygen in the analyte as reported for other sensitive materials . 
+As a consequence of this partial oxidation, there is the growth of heterosite-FePO4 domains/layers at the ﬁlm surface enabling simultaneously the presence of a redox couple (Fe3+/Fe2+) and available crystallographic sites for the lithium ions. 
+It is also worth to mention that neither noticeable dissolution nor structural modiﬁcation were experienced on bulk-LiFePO4 after 2 months of aging the material within an aqueous media. 
+For the MnO2 system,the response mechanism expressed by Kanoh et al. is based on insertion/de-insertion equilibrium. 
+To check whether this is also the case for the FePO4/LiFePO4 system, voltamperometry experiments −1 in different were performed with a scan rate of 2 mV s concentrations of LiNO3/H2O electrolyte ranging from 1 M to −4 M (0.1 M tetramethylammonium nitrate was added as 10 supporting salt). 
+As expected with decreasing the lithium concentration, we measured a potential shift of the faradaic phenomena towards more reductive potentials. 
+The equilibrium voltage Eeq (with Eeq = 1/2(Ea + Ec)) values evolution is consistent with the potentiometric measurements (Fig. 3) in agreement with a Nernstian-type law resulting from the equilibrium: 
+The electrode potential can thus be written:
+However, we simultaneously observed the progressive disappearance of the redox couple FePO4/LiFePO4 ﬁngerprint when decreasing the Li+ concentration to 10 −4 M. 
+Interestingly, this loss of signal occurs at a similar concentration (nearby 10 −4 M) at which the sensor loses its sensitivity, implying a direct relationship between insertion/de-insertion properties; hence the faradaic character of the recorded potentiometric response.
+According to the equilibrium potential expression and owing to the biphasic nature of the Li+ insertion/de-insertion system in FePO4/LiFePO4, this potential depends only on lithium ion activity (activity in solids can be considered constant in the OCV experimental conditions). 
+In light of these results, the redox potential of the material plays an important role on the detection limit. 
+For this reason, sensitive materials with “high” redox potential within the electrolyte stability window materials should be favourable to obtain reasonable detection limits. 
+Furthermore, a few extra key criteria can also be drawn from our experimental data. 
+For instance, sensitive materials displaying rapid redox couple (i.e., high current density exchange) and electrochemical biphasic transition (potential-composition domain very well deﬁned) should exhibit rapid response time and good potential reproducibility. 
+As opposed to previous reports on the development of amperometric sensors based on MnO2, we cannot use LiFePO4 with this detection mode since we experienced irreversible reactions linked to the insertion process.
+
+In this work, we reported the potentiometric measurements vs. lithium of LiFePO4 thin ﬁlms deposited by PLD. 
+The OCV measurements showed a linear evolution in agreement with −4 M and an Nernst law with a detection limit of around 10 −1. 
+A ﬁlm surface oxidation electrode sensitivity of 54 mV dec occurring when the material is plunged in the analyte has been pointed out by electrochemical and physical investigations. 
+This material oxidation enables to produce Fe3+/Fe2+ redox couple and to get surface lithium ion available sites accounting for the resulting Nernstian-type behaviour. 
+Cyclic voltamperometry measurements realized in different Li+ concentration highlighted the key relation between lithium ion insertion/de-insertion and potentiometric response. 
+Based on these results, some important features in the research of new active insertion material for their potentiometric sensor applications have been addressed (high insertion/de-insertion potential, rapid redox couple and biphasic transition system). 
+In this paper we also evaluated the selectivity of LiFePO4 thin ﬁlms. 
+The values obtained vs. Na+, K+ and Mg2+ could be relatively high for some applications. 
+The necessity of ﬁnding novel materials with better selectivity for medical application still remains a must, and further works involving both materials science and engineering will be needed to tackle these challenges.
+
+

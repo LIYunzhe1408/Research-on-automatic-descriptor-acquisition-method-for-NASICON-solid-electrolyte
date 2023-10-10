@@ -1,0 +1,15 @@
+Na3V2(PO4)3 (NVP) with NASICON crystal is a promising cathode for sodium-ion battery, while the rate performance shouldbe improved due to its poor electric conductivity.
+Here, pomegranate-like NVP/C composites were proposed and preparedvia a simple and cost-efficient method with yeast mould.
+Based on the yeast’s strong adsorption ability, high tolerance toextreme conditions and high nitrogen and phosphorus content, NVP with a hierarchical structure and N, P-doped carbondecorating was in situ established.
+In the NVP/C composites, the nano-scaled NVP grains were coated by carbon derivedfrom the cytoplasm, and micron-sized carbon capsules resulting from the sturdy cell walls carbonization were constructedto further accommodate dozens of the carbon-coated NVP grains.
+The unique pomegranate-like architecture and the N, P doped carbon can provide superior electrochemical kinetics and stability with efficient electron pathways, and buffer forvolume change during Na+ insertion/extraction.
+As a result, the NVP/C composites exhibit good rate performance (113.9mAh g-1 at 10 C) and outstanding long-term cycling stability (retention of around 74.7% after 10,000 cycles).
+The design ofthe pomegranate-like structure moulded by yeast microorganism is powerful and the NVP/C composites are believed to be promising electrode materials for sodium-ion battery.
+Pomegranate-like NVP/C composites with hierarchical carbonframework were established with assistance of microorganismmould via a facile sol-gel method.
+As a mould, the yeast withstrong adsorption ability of ions provides the pomegranate-likestructure through holding the NVP reactants.
+Thus, in theNVP/C composite, carbon-coated crystallized NVP grains were accommodated by micron-sized carbon capsules during the insitu crystallization and carbonization process.
+As carbonsources, the yeast transformed into N, P-doped carbon, whichis favorable to the electric conductivity.
+The pomegranate-like structure and the consequent good performance of the composites are revealed by electron microscopy, XRD, Ramanand the electrochemical evaluation.
+Compared with the NVP sample without yeast carbon decorating, the NVP/C-3composite with a carbon content of 7.25wt% exhibit a highreversible capacity (117 mAh g-1 at 0.1 C, equal to thetheoretical capacity), excellent rate performance (116.3, 115.7,113.9 and 79.2 mAh g-1 at 1 C, 5 C, 10 C and 20 C, respectively) and brilliant long-term cycling stability (retention of around74.7% after 10,000 cycles).
+The outstanding performances canbe mainly ascribed to (1) the unique pomegranate-like architecture which provides efficient electron pathways andbuffer for volume change during Na+ insertion/extraction, aswell as (2) the N, P-doped carbon offering high conductivity.
+We believe that the results presented here not only introducean advanced electrode material for SIB, but also provide agood design for the hierarchical energy storage materials usingsimple and cost-effective method with yeast as a mould and N,P-doped carbon source.

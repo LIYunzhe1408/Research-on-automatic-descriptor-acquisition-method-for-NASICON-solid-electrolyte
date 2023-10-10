@@ -1,0 +1,123 @@
+The local structure and mobility of lithium ions of the NASICON-type ionicconductor Li1+xAlxTi2−x(PO4)3 (with x = 0.0, 0.1, 0.2, 0.35, 0.5, 0.7 and1.0), synthesized using conventional solid-state reaction route, have beenstudied with solid-state nuclear magnetic resonance (NMR) techniques.
+Li,7Li, 27Al, 31P solid-state NMR experiments have been employed to tracethe structural changes with varying cation concentration.
+
+The structuralevolution and the creation of new Al and P environments with changingcation contents were studied by magic-angle spinning (MAS) NMR measurements.
+
+Li MAS NMR and 27Al triple-quantum MAS (3QMAS) showhigh-resolution spectra enabling site assignments and phase-purity inspections.
+
+The temperature dependences of 7Li NMR spin-lattice relaxation(SLR) rates for different compositions yield important information on thelithium ion mobility in the systems.
+
+ Li ion jump rates, the activation energies and the dimensionality of Li diffusion were deduced from the SLR experiments.
+
+A vacancy migration model has been proposed for the Li+ ionicdiffusion process in pure-phase Li1+xAlxTi2−x(PO4)3 prepared by solid-statereaction.
+
+ Above a certain threshold value of x (0.5) additional phosphatephases appear which slow down diffusion.
+
+ This phenomenon can be observed from 6Li exchange spectroscopy.
+
+The optimum cation concentrationfor maximum ionic mobility in the phase-pure Li1+xAlxTi2−x(PO4)3 systemcan be read directly from the solid-state NMR results.
+
+Highly mobile lithium ion containing solids are excellent candidates forlithium ion battery (LIB) materials.
+
+While electrodes are usually madesolely of solids, polymer electrolytes along with organic solvents are widelyused as electrolytes in LIB’s.
+
+For all-solid-state batteries, the electrolyte hasto be replaced with a fast Li+ ion conducting solid.
+
+LISICON (Li-superionicconductor)1 and NASICON (Na-superionic conductor)2structured solidscan be used as potential solid electrolytes.
+
+NASICON-type lithium titanium phosphate (LiTi2(PO4)3 ; abbreviated as LTP) is one of such systems.
+
+By substituting Al for Ti the system Li1+xAlxTi2−x(PO4)3 (abbreviatedas LATP) with highly mobile Li+ ions can be achieved.
+
+The LATP ceramics have very high bulk ionic conductivity of the order of 10−3 S cm−1being three orders of magnitude higher than that of the unsubstituted LTP.
+
+LATP possesses three-dimensional channels suitable for fast Li ion diffusion.
+
+The factors affecting this diffusion process include the concentration (x) ofLi ions, the porosity of the system, the grain boundary contribution, the formation of additional phases of oxides and phosphates, and their structuralstability on sintering.
+
+Therefore the synthesis route has a very importantinfluence on the ionic conductivity of LATP.
+
+LTP crystallizes in the rhombohedral structure (Figure 1) with R3c spacegroup.
+
+The unit cell is composed of corner sharing TiO6 octahedra and PO4tetrahedra.
+
+ Li is located in oxygenated distorted octahedral sites (Li1) between the TiO6 planes.
+
+In LATP, some of the Ti4+ sites are occupied byAl3+ and the net charge is compensated by Li+.
+
+The additional Li occupiesirregular 8-O-coordinated sites (Li2).
+
+The Li+ ionic diffusion mechanismin LATP involves the Li1-Li2-Li1 pathway.
+
+The Al-substitution has beenshown to enhance the three-dimensional Li diffusion.
+
+Similarly differenttrivalent cations can induce this effect to enhance the Li+ ionic conductivity.
+
+When the value of x is above 0.5, additional phases like TiO2, Li4P2O7,TiP2O7 and/or AlPO4 (amorphous and crystalline) can be formed.
+
+Belowx = 0.5, the lattice parameters decreased with increasing cation content,as shown in Figure 1.These small changes in the structure may lead tochanges in ionic transport properties.
+
+However, the influencing factors suchas the sintering procedure and the formation of the additional phases causing changes in intrinsic conductivity properties of LATP have rarely beenstudied.
+
+Nairn et al.studied Li1.3Al0.3Ti1.7(PO4)3 with 27Al and 31P MAS NMRand observed that Al3+ is not only substituting Ti4+ but occupies also a verysmall percentage of the P-sites.
+
+Hence, the authors contradicted a previousresult4 where only Ti-substitution was observed.
+
+This suggests the importantinfluence of sample preparation methods on the structure of LATP.
+
+Nairnet al. observed a single Li-site by a 7Li NMR powder pattern being characterized by a quadrupole coupling constant (CQ) of 45 kHz.
+
+The asymmetryof the 31P NMR signal was attributed to different P-sites which appearupon Al-substitution.
+
+In a following paper Forsyth et al. with the helpof 27Al MAS NMR, observed a considerable amount of Al3+ reaching thetetrahedral sites of LATP with x = 0.3, whereas there was no tetrahedrallycoordinated Al visible for LATP with x = 0.1.The increasing asymmetryof the 31P NMR signal with x suggested the formation of additional P-sites.
+
+This was accompanied with an increase of the 7Li CQ indicating a reductionof structural symmetry.
+
+ In addition, the work details the effects on replacing the PO4 tetrahedra with VO4 and/or NbO4.9 With 27Al MAS NMR,Best et al. observed five-fold coordinated Al in addition to tetrahedral andoctahedral Al in Li1.3Al0.3Ti1.7(PO4)3.With some stoichiometric changes(Li1.3+4yAl0.3Ti1.7−y(PO4)3) the authors managed to remove the tetrahedralAlPO4 phase, thereby increasing the grain-boundary conductivity.
+
+However,the bulk ionic conductivity was never seen to be higher than that in LATP.
+
+Arbi et al.11 studied LATP (0.0 ≤ x ≤ 0.7) using 7Li, 27Al and 31P MASNMR and suggested a few important structure models.
+
+They claimed thedifferent P-sites are of the type P(OTi)4−n(OAl)n, where n varies from 0 to4.These sites change their number density according to the extent of Al substitution, and their overlapped 31P MAS NMR signals (in the range from -20to -30 ppm) provide different asymmetries.
+
+ The authors of Ref.11 observeda gradual increase of the tetrahedral 27Al signal (≈ 40 ppm) intensity withthe increase of x from 0.0 to 0.7. In addition, for LATP with x = 0.5 and0.7, there was a new species of octahedral Al centered at around -17 ppm.
+
+From 7Li NMR, they concluded that when the value of x is above 0.2, theLi4P2O7 phase appears and causes the decrease in ionic conductivity.
+
+Fromconductivity measurements, the authors estimated grain interior activationenergies in the range between 0.27 eV and 0.35 eV.
+
+Furthermore, they also reported severalhigh-temperature structural changes in LATP, observed with NMR, above770 K.
+
+In the present work, we carried out solid-state NMR characterizationof different LATP compositions (with x = 0.0, 0.2, 0.35, 0.5, 0.7 and 1.0)synthesized by solid-state reaction.
+
+We have also done ion dynamics studieson all the compositions using 7Li NMR spin-lattice relaxation (SLR) time(T1ρ) measurements in the rotating frame as well as by 6Li NMR exchangespectroscopy.
+
+ Activation energies for the ionic jump process have been estimated along with the jump rates at various temperatures.
+
+The present workshows how the combined utilization of a variety of NMR techniques to studyboth structure and dynamics of ion conductors at different compositions canhelp to optimize the properties of an important potential solid electrolytesystem.
+
+Solid-state NMR methods have been used to characterize structure and dynamics in an ionic conductor, Li1+xAlxTi2−x(PO4)3 (0.0 ≤ x ≤ 1.0).
+
+MASNMR provided high-resolution 6Li, 7Li, 27Al, 31P spectra of the samplesdiffering in cation concentrations.
+
+The site assignments were done usingthe multinuclear NMR data.
+
+The coalescence of the 7Li indicated fast ionicmotion even at ambient conditions.
+
+The faster ionic motion in the case ofLATP with x = 0.35 when compared to that for x = 0.0 can be seen fromthe 7Li motional narrowing data.
+
+ This was also proven by 7Li relaxometry experiments.
+
+The SLR rates showed diffusion-induced maxima at verylow temperatures when 0.35 ≤ x ≤ 0.5, indicating a faster Li ionic motionfor them in the LATP series.
+
+The activation barriers for the pure-phaseLATP systems were in the range between 0.29 and 0.37 eV.
+
+With the helpof different solid-state NMR methods, the ionic mobility landscape of LATPas a function of ionic composition and temperature can be visualized.
+
+Avacancy migration model for the ionic transport is proposed in the LATPsystem prepared using solid-state reaction.
+
+Li exchange spectroscopy provided hints of slowly moving Li ions in additional phosphate phases formedat the expence of LATP when x is above 0.5.In short, a variety of solidstate NMR techniques were exploited to analyze a series of ion conductors toexplore the most favorable mobility characteristics.
+
+However, the structuralfeatures and hence the ion dynamics of the LATP system show a strongdependence on the preparation method, as understood from the comparisonwith previous reports.
+

@@ -1,0 +1,19 @@
+Constant-pressure, constant-temperature variable-shape simulation cell Monte Carlo and microcanonical ensemble molecular dynamics simulation of superionic conducting rhombohedral phase of Nasicon, Na1+xZr2SixP3-xO12, 0 ≤ x ≤ 3, at a temperature of 600 K is reported.
+Changes in structure, conductivity, hop path, site occupancies, bond lengths of framework atoms with composition are discussed.
+Average Na(1)-O distance shows a peak at x = 2, while Na(2)-O distance shows a monotonic increase.
+Sum of the sodium occupancies at Na(1) and mid-Na sites adds up to a constant value of one which supports the conclusion of Boilot et al. based on X-ray diffraction.
+Occupancy of Na(1) site attains a minimum at x = 2. The predominant conduction channel (which carries more than 90% of the sodium ions) is found to be the one connecting Na(1)-mid-Na-Na(2).
+Density contours for sodium, depicting this conduction channel, are reported.
+Free energy profile along the conduction channel suggests that entropy contribution cannot be neglected.
+The mid-Na site is not associated with a free energy minimum.
+It is possible to synthesize a series of materials of the general formula Na1+xZr2SixP3-xO12 with 0 ≤ x ≤ 3 and that the material Na3Zr2Si2PO12 (the composition with x = 2) is an excellent ionic conductor.
+The conductivity of Na3Zr2Si2PO12 above 443 K was found to be comparable to that of Na-<nUm>-alumina, with many an advantage in practical applications as a fast ion conductor.
+A particularly interesting aspect of Na1+xZr2SixP3-xO12 is that as the composition, x, increases the conductivity initially increases, by many orders of magnitude, up to an x ≈ 2. Beyond this it decreases showing an anomalous peak near x = 2.
+This anomalous variation in conductivity with composition is associated with a similar anomalous variation of the c-axis of the rhombohedral unit cell.
+The structure (R3hc) of Nasicons may be described as consisting of corner-sharing PO4/SiO4 tetrahedra and ZrO6 octahedra interconnected to give rise to a three-dimensional network through which the alkali ions can move. Each octahedron is connected to six tetrahedra and each tetrahedron is connected to four octahedra.
+Bond angles in Nasicons may play an important role in the changes observed in both structure and conductivity with composition.
+The O-Zr-O, O-Si-O, and O-P-O are the angles within the polyhedra and are expected to be more stiff, while Zr-O-Si and Zr-O-P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition.
+It is well-known in the literature that the substitution of the larger Si ion in place of P ions and associated incorporation of counterions (Na+), as x increases from 0 to 3, gives rise to an anomalous increase in the c parameter of the rhombohedral cell while the a parameter increases monotonically.
+It is interesting that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials.
+Overall it is seen that the geometry of the polyhedra (octahedra and tetrahedra) as well as the angles between the polyhedral units are reproduced well.
+The lattice parameters and their variation with composition are also in agreement with the X-ray diffraction results available in the literature suggesting that the potential is able to successfully reproduce the structure.

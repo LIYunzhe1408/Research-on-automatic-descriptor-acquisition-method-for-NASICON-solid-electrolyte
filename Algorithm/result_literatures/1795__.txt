@@ -1,0 +1,11 @@
+Al substituted Li1+xAlxHf2x(PO4)3 solid electrolytes were prepared by conventional sintering (CS) and spark plasmasintering (SPS), and the Li+ ion conductivity of the sintered pellets was examined using an impedance analyzer.
+All the samples exhibited arhombohedral NASICON-type structure.
+SPS improved the densification compared to CS, and Al substitution further increased the sampledensity resulting in a maximum density of 90%.
+The Li+ ion conductivity increased in proportion to the sample density and the highestconductivity of 1.1 was found in the Li1.5Al0.5Hf1.5(PO4)3 SPS specimen, which is comparable to the best value reportedelsewhere.
+The activation energy of the total conductivity (bulk+grain boundary) reduced from 0.39 to 0.28 eV with Al substitution.
+Theenhanced conductivity was discussed in terms of the densification, bottleneck size, and lithium ion content.
+The Li+ ion conductivity in LiHf2(PO4)3-based solidelectrolytes was greatly enhanced by employing SPS and Alsubstitution.
+Up to x =0.5 in Li1+xAlxHf2x(PO4)3, arhombohedral NASICON R3¯c structure was maintained,and the lattice parameters and unit cell volume decreasedwith increasing Al concentrations.
+Both SPS and Alsubstitution improved the densification, and a maximumdensity of ¨90% was achieved in x =0.5 Al substituted,SPS specimen.
+The increase of ionic conductivity byenhancing the densification was confirmed by comparingthe CS and SPS specimens.
+In the SPS specimens, both bulkand grain boundary conductivities increased with Alsubstitution, resulting in the highest conductivity of1.1104 Scm1. The activation energy of the totalconductivity (bulk+grain boundary) reduced from 0.39 to0.28 eV with Al substitution.

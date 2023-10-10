@@ -1,0 +1,65 @@
+Our and others' results on the thermal expansion of compounds and the crystal 2)chemical infor 2) mation about their structure have been used to properly select compositions of new NASICON materials with  (M and M' are alkali met 2) small thermal expansion and low thermal expansion anisotropy:  als, 0 ≤ x ≤ 1), M''FeTi(PO4)3 (M'' is an alkaline 2)earth metal), and Ca0.5(1 + x)FexTi2 – x(PO4)3 (0 ≤ x ≤ 1). Such materials have been synthesized through salt coprecipitation from aqueous solutions and their thermal expan 2) sion has been assessed by high 2)temperature X 2)ray diffraction. We have determined their unit 2)cell parameters as  functions  of  temperature  and  correlated  their  thermal  expansion  parameters  and  composition.  The K0.5Rb0.5Ti2(PO4)3 and Rb0.8Cs0.2Ti2(PO4)3 materials obtained combine small volumetric thermal expansion and near 2)zero thermal expansion anisotropy. DOI: 10.1134/S0020168513050117
+
+the NaZr2(PO4)3 (NASICON) phosphate, which is isos 2) tructural with a large class of solid ionic conductors, are known to have low thermal expansion and readily allow  ion  substitutions  on  all  their  crystallographic sites,  with  no  changes  in  structural  basis,  which ensures controlled compositional changes and the for 2) mation of chemically complex products with tailored properties [1]. The NASICON family includes com 2) pounds  and  solid  solutions  with  the  general  crystal 2) chemical formula (M1)0 → 1(M2)0 → 3{[L2(TO4)3]p–}3∞, where {[L2(TO4)3]p–}3∞ represents the structural frame 2) work (with a charge р), and (M1)0 → 1 and (M2)0 → 3 are different  types  of  extraframework  cation  sites,  with designation of the site occupancy in each type (Fig. 1). The corner 2)sharing of LO6 octahedra and TО4 tetra 2) hedra in their structure opens up the possibility of low, controlled  thermal  expansion  along  any  crystallo 2) graphic direction. Many NASICON 2)type compounds have been synthesized to date, and for some of them thermal expansion and thermal expansion anisotropy data are available [1–3].
+
+sured along (αc) and across (αa) the threefold axis of the crystal and the average LTEC: αav = αV/3 = (2αa + αc)/3. Thermal expansion anisotropy is quantified by |αa – αc|. Combining one compound with αa < αc and another  with  αa  >  αc,  both  capable  of  forming  wide solid 2)solution  ranges,  one  can  obtain  ceramics  with
+
+Solid solutions are of considerable practical inter 2) est because a variety of their physical parameters can be gradually varied. New candidates for compositions with low thermal expansion anisotropy, which makes it  possible  to  avoid  microcracking  during  cooling  of the  material  from  high  temperatures,  can  be  found among  solid  solutions  between  their  end 2)members with known thermal expansion parameters.
+
+Most  of  the  NASICON  materials  have  a  trigonal structure. Their thermal expansion is defined by two linear  thermal  expansion  coefficients  (LTECs)  mea 2)
+
+Fig. 1.  Crystal  structure  of  NASICON  materials:  frame 2) work of L octahedra and T tetrahedra, and extraframework sites M1 and M2 (one unit cell).
+
+low  thermal  expansion  and  minimize  their  thermal expansion anisotropy. The best result can be obtained when the LTECs of the end 2)members of a solid solu 2) tion are opposite in sign and close in magnitude.
+
+The  purpose  of  this  work  is  to  predict  composi 2) tions of new NASICON materials with small thermal expansion and low thermal expansion anisotropy in   (M  and  M'  are  alkali  metals,  0  ≤ M M Ti PO x ≤  1),  M''FeTi(PO4)3  (M''  is  an  alkaline 2)earth metal), and Са0.5(1 + x)FexTi2 – x(PO4)3 (0 ≤ x ≤ 1) and to synthesize and characterize such materials.
+
+reagents  the  synthesis  of   (M,  M'  =  Li,  Na,  K,  Rb,  Cs), M M Ti PO M''FeTi(PO4)3  (M''  =  Mg,  Ca,  Sr,  Ba),  and Са0.5(1 + x)FexTi2 – x(PO4)3 were aqueous solutions pre 2) pared  using  reagent 2)grade  chemicals:  Li2CO3  (dis 2) solved  in  an  appropriate  amount  of  hydrochloric acid), NaCl, KCl, RbCl, CsCl, MgCl2, CaCl2, SrCl2, BaCl2, FeCl3, H3PO4, and a TiOCl2 solution prepared by oxidizing TiCl3 with a mixture of nitric and hydro 2) chloric acids.
+
+Appropriate  amounts  of  aqueous  solutions  of  the alkali (alkaline 2)earth) metal, titanium, and iron salts were poured together at room temperature with con 2) stant stirring. Next, a stoichiometric amount of ortho 2) phosphoric  acid  was  slowly  added  with  stirring.  The reaction  mixtures  were  dried  at  90°C  and  then  heat 2) treated in air at 600 and 800–1100°C for at least 24 h at each temperature, with several intermediate grindings. The chemical composition and homogeneity of the resultant materials were checked by X 2)ray microanal 2) ysis on a CamScan MV 2)2300 scanning electron micro 2) scope equipped with a Link INCA Energy 200C energy dispersive  X 2)ray  microanalysis  system.  The  composi 2) tion of the samples was determined using the PAP cor 2) rection procedure with an accuracy of ±2.5 wt %.
+
+X 2)ray diffraction patterns were collected on a Shi 2) madzu  XRD 2)6000  diffractometer  (Ni 2)filtered  CuKα radiation,  λ  =  1.54178  Å,  angular  range  2θ  =  10°– 60°). High 2)temperature measurements were made in the temperature range 25–800°С on the same appara 2) tus  using  a  Shimadzu  HA 2)1001  thermal  accessory. Unit 2)cell parameters were determined after indexing X 2)ray diffraction patterns.
+
+Fig. 2. LTEC (25–800°C) as a function of the ionic radius of M+ for MTi2(PO4)3 compounds.
+
+Figure 2 shows the LTEC as a function of the ionic radius of the alkali metals for the MTi2(PO4)3 (M = Li, Na, K) compounds [8]. Since a number of practical applications  require  materials  that  possess  not  only small average LTECs but also extremely low thermal expansion  anisotropy,  we  evaluated  the  radius  of  an M+  cation  that  ensures  zero  anisotropy  (that  is, αa = αc).  Extrapolated  lines  representing  the  LTECs along the а and c axes intersect at   =  1.55 ± 0.10 Å. To  reduce  the  thermal  expansion  anisotropy  in ,  we  examined  K0.5Rb0.5Ti2(PO4)3 M M Ti PO (average  radius  of  a  “formal”  alkali  metal  cation, 1.45  Å),  RbTi2(PO4)3    =  1.52  Å),  and Rb0.8Cs0.2Ti2(PO4)3 (
+
+X 2)ray  diffraction  and  X 2)ray  microanalysis  data showed  that  the  samples  synthesized  at  900°C  were single 2)phase, with the NASICON structure, and that their  composition  differed  little  from  that  evaluated from the starting mixture composition. Temperature 2) dependent unit 2)cell parameters of K0.5Rb0.5Ti2(PO4)3, RbTi2(PO4)3,  and  Rb0.8Cs0.2Ti2(PO4)3  were  deter 2) mined  using  reflections  with  the  Miller  indices  012, 110, 113, 202, 024, 116, 018, 211, 122, 300, 036, 226, and 410. With increasing temperature, the reflections from the three samples shifted systematically.
+
+Both  the  а  and  с  cell  parameters  of  the and K0.5Rb0.5Ti2(PO4)3,  Rb0.8Cs0.2Ti2(PO4)3  samples  increase  with  increasing temperature (Fig. 3). The temperature dependences of the  unit 2)cell  parameters  were  fitted  with  quadratic polynomials (table). The average LTECs calculated for the temperature range 25–800°С correspond to small and medium thermal expansion (table). The thermal expansion  anisotropy  is  rather  low,  |αa –  αc| = (1.3–
+
+Fig.  3.  Temperature  dependences  of  the  a  and  c  cell  parameters  for  (a)  K0.5Rb0.5Ti2(PO4)3,  (b)  RbTi2(PO4)3,  and (c) Rb0.8Cs0.2Ti2(PO4)3.
+
+3.1) × 10–6 K–1, but does not reach zero because of the limited  stability  region  of  the  NASICON 2)type  solid solutions in Rb1 – xCsxTi2(PO4)3 (0 ≤ x ≤ 0.2).
+
+On the whole, the compounds containing the alkali metals and titanium exhibit a rather general tendency: the presence of a larger sized cation on the extraframe 2) work site M1 (Fig. 1) reduces both the thermal expan 2)
+
+sion and its anisotropy (Fig. 2, table). In particular, the small cation size of M = Li+ in MTi2(PO4)3 may give rise  to  severe  distortion  of  the  structural  polyhedra during  heating,  ensuring  the  largest  average  LTEC among the compounds studied. If an МО6 octahedron occupied  by  a  larger  cation  is  already  “stretched”  at room temperature, further deformation of the frame 2)
+
+Fitting polynomials for temperature 2)dependent LTECs and average LTECs in the temperature range 25–800°C
+
+Fig. 4. Temperature dependences of the a and c cell parameters for M''FeTi(PO4)3 with M'' = (a) Mg, (b) Ca, (c) Sr, and (d) Ba.
+
+work  structure  along  the  а  and  с  axes  will  be  sup 2) pressed. The lowest thermal expansion anisotropy, in combination with a small average LTEC, is offered by Rb0.8Cs0.2Ti2(PO4)3.
+
+M''FeTi(PO4)3  (M''  =  Mg,  Ca,  Sr,  Ba)  and Са0.5(1 + x)FexTi2  –  x(PO4)3.  Single 2)phase  products  in M''FeTi(PO4)3 (M'' = Mg, Ca, Sr, Ba) were obtained at  temperatures  from  900  to  1000°C  (depending  on the ionic radius of the alkaline 2)earth metal). Accord 2) ing to X 2)ray diffraction data, they crystallized in the )  [9,  10].  In NASICON  structure  (sp.  gr.  Са0.5(1 + x)FexTi2 – x(PO4)3 at 1000°C, we observed the formation of a limited solid solution series (sp. gr.  ) 3R c in the composition range 0 < x ≤ 1 [10].
+
+The coefficients of the fitting polynomials and the LTECs of M''FeTi(PO4)3 (M'' = Mg, Ca, Sr, Ba) in the
+
+temperature  range  25–800°C  are  listed  in  the  table. Analysis  of  for M''FeTi(PO4)3 points to a tendency that the а param 2) eter  varies  only  slightly,  whereas  с  increases  with increasing  temperature  (Fig.  4).  These  compounds have thermal expansion anisotropy, which decreases in the M''FeTi(PO4)3 series in going from the magnesium to the barium compound (table).
+
+The  αa of CaFeTi(PO4)3 is negative, and its  αc is positive (table). Since the average LTEC of this com 2) pound is relatively small and its αa and αc are oppo 2) site in sign, the thermal expansion anisotropy in the Ca0.5(1  +  x)FexTi2  –  x(PO4)3  solid  solution  would  be expected to decrease upon changes in its composition. The thermal expansion data for this solid solution in Fig.  5  suggest  that  the  material  with  х  =  0.30  ± 0.10 should have the lowest thermal expansion anisot 2)
+
+Fig.  5.  LTECs  αa  and  αc  as  functions  of  х  for Ca0.5(1 + x)FexTi2 – x(PO4)3.
+
+ropy.  However,  the  average  LTEC  of  the  experimen 2) tally  studied  compound  Ca0.675Fe0.35Ti1.65(PO4)3  (х  = 0.35) exceeds that of CaFeTi(PO4)3 (х = 1).
+
+Thus,  the  relatively  small  LTECs  of  NASICON 2) type compounds allow one to produce crack 2)resistant materials  based  on  such  compounds.  The  thermal expansion anisotropy in such materials can, in princi 2) ple,  be  always  reduced  by  combining  compounds capable of forming wide solid 2)solution ranges and by varying their composition. In so doing, however, one should  always  balance  the  attainable  decrease  in anisotropy and a possible increase in average LTEC.
+
+The  average  LTECs  of  known  framework  com 2) pounds  of  the  alkali  (alkaline 2)earth)  metals  and Group  IV  transition  metals  range  from  –2  × 10–6  to 17 × 10–6 K–1. Combining NASICON 2)structure com 2) pounds differing in LTEC and capable of forming solid solutions,  one  can  predict  compositions  of  ceramics with  controlled  thermal  expansion,  including  small one, and minimize its anisotropy. For example, among framework  titanium  and  alkali  metal  compounds, such  characteristics  are  offered  by  the  theoretically predicted Rb0.8Cs0.2Ti2(PO4)3, examined in this study (αa = 2.9 × 10–6 K–1, αc = 4.2 × 10–6 K–1, αav = 3.3 × 10–6  K–1,  |αa  –  αc|  =  1.3  ×  10–6  K–1).  Among  the compounds of the alkaline 2)earth metals, the smallest average  LTEC  is  offered  by  CaFeTi(PO4)3  (αav  = 2.6 × 10–6  K–1, |αa – αc| = 10.7 × 10–6 K–1), whereas
+
+Ca0.675Fe0.35Ti1.65(PO4)3 (αav = 5.6  × 10–6 K–1, |αa – αc| = 1.7 × 10–6K–1) has the lowest thermal expansion anisotropy.
+
+This work was supported by the Russian Founda 2)
+
+tion for Basic Research, project no. 11 2)03 2)00032.

@@ -1,0 +1,8 @@
+NASICON structure solid electrolyte with the composition of Na3+xZr2-xMxSi2PO12(M=La, Y) were prepared by solid-state method.
+The effects of La and Y doping on the densityand ionic conductivity of NASICON solid electrolyte were investigated.
+The results show thatthe doping of La and Y can improve the ionic conductivity of NASICON structure solidelectrolyte because of the higher carrier concentration, migration efficiency, and higher density.
+The Na3.3Zr1.7La0.3Si2PO12 has the highest ionic conductivity of 6.7×10-3 S/cm at 25 °C.
+La-doped, Y-doped, and undoped NASICON samples were prepared by the solid state method at thetemperature of 1225 ℃.
+It was found that the ionic conductivity of NASICON-type solid electrolytedoped by rare earth elements was higher than that of the undoped one.
+La-doped NASICON exhibitsthe highest ionic conductivity of 6.7×10-3 S/cm at 25℃.
+The doping of rare earth elements canincrease the density of NASICON, increase carrier concentration, improve the sodium ion channel,thereby increasing the ionic conductivity of these materials.

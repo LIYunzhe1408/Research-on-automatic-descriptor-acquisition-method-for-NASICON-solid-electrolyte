@@ -1,0 +1,70 @@
+NaTi2(PO4)3/C porous plates have been successfully synthesized via solvothermal approach withammonia as inductive agent combined in-situ carbon coating.
+
+It reveals that the inductive agent plays acritical role in morphology-controllable fabrication.
+
+The morphology, structure, and electrochemicalproperties of NaTi2(PO4)3/C composites with multilayered plates, single-layered plate, porous multilayered plates all have been investigated, which are prepared by using urea, triethylamine, and ammonia,respectively.
+
+Among these samples, NaTi2(PO4)3/C porous multilayered plates with ammonia additionexhibit the best electrochemical properties due to their unique mesoporous structure.
+
+NaTi2(PO4)3/Cporous multilayered plates deliver an initial specific capacity of 125 and 110 mAh g1 at 0.1 and 1 C,respectively.
+
+Furthermore, NaTi2(PO4)3/C porous multilayered plates show a good rate capability, whosecapacity and corresponding capacity retention reach 85 mAh g1 and 82.4%, respectively, after 120 cyclesunder the high rate of 10 C.
+
+The excellent results indicate that the NaTi2(PO4)3/C porous multilayeredplates are a promising electrode candidate for sodium ion battery.
+
+To date, with the rapid development of consumer electronics,exploring for suitable energy storage devices are extremelydemanded to keep up with the fast-paced life [1e5].
+
+Recently, greatefforts of lithium ion batteries (LIBs) have been widely investigatedas renewable power source for various portable electronics, due totheir high-energy capacity, long-life and environmental friendlyproperties [6e8].
+
+Nevertheless, it is inevitable that lithium supplieswill run out in one day since the tremendous requirement forlithium commodity chemicals but insufficient lithium reserves[9e12].
+
+This obstacle has become a major limitation for practicalapplication of lithium ion battery in larger scale energy storage.
+
+Therefore, great attention has been drawn to ambient temperaturesodium ion batteries, benefiting from the abundant and inexpensive sodium resources [13].
+
+Naturally, considerable efforts havebeen paid to find suitable electrode materials for sodium ion batteries (SIBs).
+
+As far as Na ions host cathode materials are concerned,oxides and phosphates have been extensively investigated, such aslayer transition metal oxides NaxCoO2 [14], NaCo0.5Mn0.5O2 [15],polyanion-type NaFePO4 [16], and NASICON-type Na3V2(PO4)3[17e19].
+
+Furthermore, some titanium based anode materials withnegligible volume expansion are also highly desired, such as TiO2[20] and Na2Ti3O7 [21].
+
+Within the polyanion category, NASICON-type NaTi2(PO4)3(NTP) as a typical super-ionic conductor has been considered as apromising alternative electrode material for SIBs, because of itshighly covalent three-dimensional framework crystalline structureand good behavior as ionic conductors.
+
+Moreover, the NaTi2(PO4)3presents a well-defined redox plateau (~2.1 V vs.
+
+Na/Naþ) with twoNa ions intercalation/deintercalation, delivering a theoretical specific capacity of 133 mAh g1 [22].
+
+Though pioneering works inNaTi2(PO4)3 have opened a new window in the field of aqueousrechargeable sodium ion battery and non-aqueous sodium ionbattery, the low intrinsic electrical conductivity of NaTi2(PO4)3 stilllimits the specific capacity and rate capacity owning to the poorelectronic conductivity of phosphates [23e27].
+
+In order to overcome this intractable problem, two typical strategies have beenwidely applied to enhance the ionic and electron transport kinetics.
+
+On the one hand, reduce of the particles to a nanometer-sizeddimension, with decreasing the Na ions diffusion path andincreasing the contact area within the electrolyte [28e30]; On theother hand, form an effective conductive layer (e.g., carbon orgraphene) around the NaTi2(PO4)3 particles to improve the electronic conductivity [31e34].
+
+Notably, nanometer-sized and porousstructures are conductive to the penetration of the electrolyte, thusshorting the transmission distance between ions and the solidphase.
+
+Therefore, plentiful composites with porous plate structurehave also been successfully synthesized and applied in the field ofenergy storage [35e38].
+
+ Encouragingly, some desirable electrochemical performances have been achieved.
+
+In this work, we firstly report a facile solvothermal approach forsynthesizing three types of NaTi2(PO4)3/C microplates withdifferent submicro structures using ammonia, triethylamine, andurea as inductive agents, respectively.
+
+Crystalline particles areuniformly coated by conductivity carbon layer.
+
+Owning to theadvantage of pore structure and electronic conductive network, theNaTi2(PO4)3/C porous multilayered plate prepared via addingammonia presents the best electrochemical performance.
+
+In conclusion, NaTi2(PO4)3/C composites with three differentmicroplate structures have been obtained through simply adjustingthe inductive agent with a facile solvothermal method.
+
+The resultsindicate that the addition of inductive agent plays an important rolein crystal growth.
+
+Among these composites, NaTi2(PO4)3/C porousmultilayered plates prepared by using ammonia as inductive agentpossess the highest BET surface areas and best electrochemicalperformance.
+
+Amphorous carbon layer is uniformly coated on theporous plate structure, which could not only enhance the electronicconductivity of electrode but also beneficial to the Na ions diffusionduring cycling.
+
+Ultimately, the NaTi2(PO4)3/C porous multilayeredplates delivers a remarkable initial discharge capacity of125 mAh g1 between 1.5 and 3.3 V at 0.1 C.
+
+In addition, even at ahigh rate of 10 C, it shows a high specific capacity of 85 mAh g1 atthe first cycle and remains at 70 mAh g1 after 120 cycles.
+
+Thisstudy suggests that NaTi2(PO4)3/C porous multilayered plates arepromising electrode material for sodium ion batteries.
+
+Furthermore, the influences of inductive agent in this research may opennew avenue for morphology control of NaTi2(PO4)3 particles.
+

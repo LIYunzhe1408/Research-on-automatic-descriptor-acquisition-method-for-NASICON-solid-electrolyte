@@ -1,0 +1,139 @@
+The optimisation of the morphology of WO3 thin films allowed a more efficient electrochromic colouring using Na+ ions than H+ ones.
+Therefore, sodium superionic conductor (Na3Zr2Si2PO12, NASICON) films may be used as electrolyte in inorganic electrochromic devices.
+In this paper, the structure, chemical composition, morphology and electrochromic properties of WO3, ZnO:Al and Na3Zr2Si2PO12 thin films were studied to develop a novel type of electrochromic device.
+WO3, ZnO:Al and Na3Zr2Si2PO12 thin films were deposited using reactive magnetron sputtering of tungsten, zinc and aluminium and Zr–Si and Na3PO4 targets, transparent conductive oxide coatings, a correlation was established between the deposition parametres and the film’s structure, transmittance and electrical resistivity.
+Classical sputtering methods were not suitable for the deposition of NASICON films on large surface with homogenous composition.
+On the other hand, the use of high-frequency pulsed direct current generators allowed the deposition of amorphous films that crystallised after thermal annealing upon 700 °C in the Na3Zr2Si2PO12 structure.
+Amorphous films exhibited ionic conductivity close to 2×10 to the electrochromic performance of NASICON, WO3 and indium tin oxide devices were given.
+So far, electrochromic devices are limited to expensive applications due to high production costs and formation of defects during the process.
+An entirely sputter-deposited device would help to decrease the fabrication costs by avoiding any interruption in the industrial process.
+This can be overcome by developing a device based on an inorganic electrolyte.
+Tungsten oxide (WO3) is the archetype of the electrochromic compounds.
+With the appropriate morphology, high colouring efficiencies can be achieved during the insertion of small alkaline cations (H+, Li+, Na+, K+) .
+Highly ionic-conducting H+ and Li+ conductors exist such as Ta2O5 nH20, ZrO2 nH2O, and LiTaO3. 
+Their composition is very difficult to measure with non nuclear methods and the conductivity of H+ conductors is very sensitive to the water (or hydrogen) content.
+K+ conductors are much less conductive.
+For these reasons, it would be very interesting to develop a device on the basis of a sodium superionic conductor (NASICON) electrolyte.
+NASICON are interesting candidates for applications in solid state electrochemistry where fast ionic conductivity is required.
+Indeed, bulk NASICON with Na1+xZr2SixP3−xO12 −1 stoichiometry presents Na+ conductivity close to 10 at room temperature for x=2, comparable to that of the best polymeric gels.
+Moreover, they are very stable even in molten sodium and sulphur.
+The performances of electrooptical systems are linked to the electrical and optical properties of transparent semi-conducting oxide electrodes.
+Indium tin oxide is the most widely studied material of this category and can achieve electrical −4 Ω cm.
+Nevertheless, it is resistivity as low as 2×10 difficult to obtain simultaneous high transparency and conductivity without heating the substrate.
+An alternative consists in Al-doped ZnO (ZnO:Al) films whose constitutive elements are less polluting and cheaper.
+The magnetron sputtering technology is well suited to deposit these comroom temperature as thin and dense films.
+pounds at Moreover, this method can be dedicated to industrial treatment of large area surfaces.
+In this paper, we summarise some of our research on the development of a NASICONelectrolyte-based electrochromic device.
+This emphasises more particularly on the thin film magnetron sputtering synthesis and properties of the materials described above.
+Experimental detailsThin oxide films were deposited by magnetron sputtering in various chemical systems: W–O, Na2O–ZrO2–SiO2–P2O5, and Zn–Al–O.
+They act as electrochromic layer (WO3−x), electrolyte (Na3Zr2Si2PO12) and transparent electrode (ZnO:Al), respectively, for the development of a fully inorganic electrochromic device based on Na+ motion.
+Most of the films were deposited using the magnetron cosputtering experimental configuration described on Fig.1a (configuration A) which allows achieving complex and homogeneous compositions over large area surfaces relative to the target diametre used.
+Few films were deposited with fixed substrate holder (configuration B, Fig.1b).
+The distance between each target and the substrate holder can be adjusted.
+The substrates were placed on a rotating substrate holder parallel to the target surfaces at a fixed distance from the substrate holder axis.
+The argon and oxygen flow rates were controlled with MKS flowmetres and the pressure was measured using an MKS Baratron absolute gauge.
+The chamber was pumped down via a mechanical pump and a turbo-molecular pump allowing a typical base pressure of 10–4 Pa.
+The synthesis procedure for each system is described hereinafter.
+W–O systemWO3−x films were deposited on soda lime glass and commercial polyethylene terephthalate (PET)–ITO substrates by sputtering a tungsten (W) target in the presence of an Ar–O2 reactive gas mixture.
+The influence of the total pressure during the deposition was studied with filmsdeposited with a 50 mm in diametre target using configuration B in a 40-l reactor equipped with one magnetron facing the centre of the substrate holder (Fig.1b).
+The target–substrate distance was fixed to 110 mm and was powered by a 6-kW Advanced Energy generator (direct current (DC) supply equipped with a 20-kHz Spark-le unit).
+The argon flow rate was set to 20 sccm and the O2 flow rate to 10 sccm.
+The total pressure was tuned via a throttle valve limiting the pumping speed.
+Films were also deposited with a 200-mm target using configuration A in a 100-l chamber (Alcatel SCM 650) to study the influence of the reactive conditions on the lateral homogeneity of the colouring behaviour and that of the intercalating ion on the colouring behaviour of WO3−x and also to build partial devices.
+The distance from the substrate holder axis to that of the target was 180 mm and the target was powered by a 6-kW Advanced Energy generator (DC supply equipped with a 20-kHz Spark-le unit).
+The target to substrate distance was 110 mm.
+The characterisations were done at a position corresponding to a given position r1 relative to the substrate holder axis.
+Sodium superionic conductor films close to the Na3Zr2Si2PO12 composition were sputter-deposited in Ar–O2 gas mixture on soda lime glass and WO3−x-covered PET–ITO substrate.
+In order to have the possibility to adjust easily the chemical composition of their constitutive elements were deposited from two 50-mm diametre targets (configuration A).
+The reactive constitutive elements (Na, P) with regards to ambient air were combined within a ceramic Na3PO4 target obtained by cold pressing Na3PO4 powders at 2.5×108 Pa.
+The second target was a Zr0.52Si0.48 disc obtained from a powder mixture of Zr and Si hot pressed at 1,000 °C for 5 h at 2.5×107 Pa under argon.
+The targets were powered by Advanced Energy generators (6-kW DC supply equipped with a 20-kHz Spark-le unit and Pinnacle+ with discharge frequencies ranging from 0 to 350 kHz by steps of 5 kHz) in a 40-l chamber equipped with two magnetron systems separated by 120 mm from each other.
+The characterisations were done at a position corresponding to a given position r2 relative to the substrate holder axis during the synthesis.
+The working pressure was close to 0.4 Pa.
+Zn–O–Al systemZnO:Al films were deposited on glass substrates by cosputtering of Zn and Al metallic targets (configuration A, 40-l chamber).
+The targets, 50 mm in diametre, were powered by Advanced Energy generators (MDX 1.5-kW DC supply for Zn and pulsed DC Pinnacle + for Al).
+The characterisations were done at a position corresponding to a given position r3 relative to the substrate holder axis during the synthesis.
+The target to substrate distance was 60 mm and the current dissipated on the Zn and Al targets were 0.1 and 0.4 A, respectively.
+The argon gas flow rate was set to 20 sccm and the oxygen gas flow rate was varied by steps of 0.25 sccm within the 2.75–3.25 sccm range.
+The subsequent working pressure was close to 0.3 Pa.
+Films characterisationThe morphology and chemical composition of the different coatings were respectively observed with a Philips XL30.S field effect gun scanning electron microscope and determined by energy dispersive spectroscopy measurements with the same apparatus.
+The structure of films was studied by grazing incidence (4°) X-ray diffraction using Co Kα radiation.
+The optical measurements of ZnO:Al films were performed using a Varian Cary 5000 ultraviolet–visible– near infrared spectrometre.
+The electrical conductivity values of ZnO:Al films was determined by the four point probe method via a Keithley 2700 multimetre and aKeithley 237 high-voltage source.
+A Solartron 1260 frequency response analyser coupled with the coplanar method led to the determination of the ionic conductivity of the sodium superionic conductor coatings.
+The frequency ranged from 10 MHz to 2 Hz with steps of 11 points per frequency decade.
+Rectangular 12×2 mm2 and 100-nmthick Pt electrodes were sputter-deposited on the film surface.
+The spacing between the two electrodes was 2 mm.
+Sputtered boron carbonitride layers were systematically deposited on the permeable side(s) of the sodium conductor in order to prevent the sodium extraction during the annealing process (thermo-electrical and thermo-structural studies).
+No boron carbonitride was deposited where Pt covered the ionic conductor.
+The optical bleaching) through the samples was measured with a spectrometre during electrical cycling (−2 V/+2 V) of the ITO layer relative to a Pt counter electrode immersed in the aqueous media.
+The measurement apparatus was optically insulated from outer perturbations.
+Electrochromic behaviour of WO3−x films—influence of the deposition parametres and intercalating ionElectrochromic properties of the tungsten oxide films were first found to be influenced by their morphology.
+The colouring efficiency is very low for the classical pressures range of magnetron sputter deposition (<1 Pa).
+Thin WO3 films deposited in these conditions on PET–ITO were dense and led to colouring levels lower than 5% in H2SO4 media (Fig.2a).
+For significantly higher pressures (>2 Pa) a columnar growth of the coating is observed (Fig.2b) and the colouring levels rose up to 86% at 3 Pa.
+Three mechanisms could be involved to explain this effect:(a) An exaltation of the influence of the surface ionic conductivity across the film induced by the creation of surface during the transition from dense to columnar porous growth.
+Infiltration at media by capillarity in the intercolumnar spacing.
+the nanometre scale of the aqueous(c) A certain degree of freedom for the columns' volume expansion improving the ion (H+) intercalation efficiency in WO3 and facilitating the formation of HxWO3
+To ensure the convenient morphology, a total pressure of 3 Pa has been chosen for other tests and system building, whatever the synthesis configuration used.
+The degree of oxygen substoichiometry is known to influence significantly the colouring efficiency of WO3−x.
+According to our knowledge, there is a lack of reports about the influence of the gas mixture on the lateral homogeneity of the WO3−x colouring efficiency.
+For films close to the stoichiometry (transition from the metallic sputtering mode to the reactive sputtering mode), a slight modification of the oxygen gas flow rate is found to have a huge impact on this characteristic of practical interest.
+Surprisingly, the performance is not proportional to the substoichiometry.
+Actually, even if the efficiency can locally be high for all the reactive conditions, an optimal oxygen gas flow rate of 19 sccm (configuration A, argon flow rate=100 sccm, P=3 Pa) led to a very good homogeneity (see Fig.3).
+For a fixed position, Kim et al.reported an optimal colouring efficiency with Li+ insertion for 15 vol.% oxygen in the gas mixture.
+This kind of behaviour is probably linked to the evolution of the balance between the ionic and electronic conductivities driving the charge exchange inside the WO3−x layer.
+The oxygen ions originating from the magnetron plasma loop (target erosion track) are likely to significantly affect the organisation and oxygen composition of the film.
+Their flow is proportionally higher for the substrate trajectories tangential to the erosion track (r1=12 and 24 cm).
+Therefore, the complex behaviour as a function of the lateral position along the substrate holder can be explained by the following oxidation processes:(a) Competition between the oxidation rate and the instantaneous deposition rate influenced by the oxygen partial pressure (or oxygen flow rate) and r1.(b) Contribution of energetic oxygen species sputteredfrom the erosion track.
+WO3−x films, 600 nm thick, synthesised on PET–ITO substrates (oxygen flow rate=19 sccm, r1=180 mm) tested in NaCl and H2SO4 solutions show an improvement of the colouring level from cycle 1 to 3 (Fig.4) of negative polarisation of the ITO layer (−2 V, 120 s).
+This can be linked to the consumption by oxygen species trapped at the grain boundary of a significant part of the H+ and Na+ ions inserted in the film during the first cycles.
+This effect is also called “education” process.
+It is worth noting that colouring levels achieved in NaCl media are higher than in H2SO4 media.
+Therefore, the highly ionic-conducting and stable compounds owing to the Na2O–ZrO2–SiO2–P2O5 system are potential electrolyte to build a fully inorganic device based on sodium motion and intercalation.
+The following part summarises the main characteristics of a way to synthesise good quality, thin amorphous or crystalline NASICON films, gives an insight of their physical behaviour and reports first electrochromic results for a PET–ITO/WO3−x/NASICON stack.
+ Figure 7 shows the evolution of the optical transmittance (300 nm thick)/NASICONacross a PET–ITO/WO3−xSputter-deposited Na1+xZr2SixP3−xO12 films—synthesis and propertiesThe combination of electrical characteristics of the sputtering method, the structural features and low temperature ionic conduction of NASICON compounds makes classical sputtering methods inappropriate for a reproducible synthesis of these sodium superionic conductors.
+Films radio frequency (RF)-deposited from a NASICON target exhibit a significant lack of sodium and we observed a mechanical instability of the target .
+The Na3Zr2Si2PO12 stoichiometry was achieved locally for an RF sputtered target obtained from hot pressing a Na3PO4+2 ZrSiO4 powder mixture.
+Nevertheless, the motion of Na+ species trough the films during deposition, originating from the gradient of electrical potential across the films thickness, led to the formation of Na2O defects and to a strong microscopic chemical heterogeneity (see Fig.5a).
+The separation of the constitutive elements in two distinct targets allows lowering the influence of the RF sputtering plasma by introducing a DC component: Na and P originates from a sputtered Na3PO4 target, Zr and Si originate from a DC-sputtered Zr–Si composite target.
+High stability, reproducibility, good quality (Fig.5b) and homogeneity of the deposited films were observed thanks to high-frequency pulsed DC sputtering (200 to 350 kHz) of the Na3PO4 target.
+As deposited films are amorphous and reorganise after air annealing near 300 °C before a crystallisation under a NASICON phase near 700 °C.
+The ionic conductivity seems to be influenced by the structural reorganisation in the glassy state (Fig.6, see the conductivity drop during the first heating cycle).
+The less pronounced diffusion wing resulting from this the event the room amorphous phase.
+After this reorganisation, −5 S cm −1 temperature ionic conductivity raised from ~3.10 −1. 
+This is consistent with the up to ~2.10–3 S cm continuous evolution from the conductivity of highly −1 at 300 °C) towards that disordered glass (σ~9.10 −1 at of highly static disordered crystalline (σ~6.10–2 S cm the activation energy, 300 °C).
+In the meantime, characterised by the slope of the conductivity vs 1,000/T, significantly increases around 250 °C.
+The same behaviour has been reported for 1% B2O3-doped thick NASICON films deposited by silk-screen printing .
+For the amorphous phase at the grain boundaries of polycrystalline bulk NASICON samples, a marked transition characterised by a drop of the conductivity followed by a strong increase of the activation energy has been observed in the same range of temperatures.
+Without specific surface preparation between the different the reduction of optical transmittance is all the more marked, after 120 s of negative polarisation, than the number of cycles increases.
+During cycle 15 the transmittance reduction is of about 30%.
+A delamination at the WO3−x/ITO interface has been observed for higher number of cycles.
+The cycling durability can be significantly improved with a short RF etching of the substrates (50 W for 1 min) between the deposition runs (the RF bias is turned off just after the beginning of each run).
+With this procedure, a maximal reduction of optical transmittance of 78% has been achieved after nine polarisation cycles.
+This shows that cleaning and activating the surfaces improve the adhesion and the transfer of ions from the NaCl media to the tungsten oxide active layer.
+The development of a “fully ceramic” device is now subordinated to the synthesis of a mixed (Na+ and electronic) conductor for the counter electrode.
+Transparent conducting ZnO:Al electrodesSo far, ITO is the reference material among the transparent conducting materials.
+Nevertheless, their constituting elements (In, Sn) are expensive heavy metals.
+The electrical and optical properties of ZnO:Al are equivalent and evolved faster over the last few years probably due to the increasing interest for this family of compounds.
+In combination with p-type ZnO, the possibility to incorporate these compounds might be involved in future p–n-junctionbased transparent otpoelectronic devices.
+Therefore, thin ZnO:Al the next generation transparent-conducting-oxide-based devices among such electrochromic devices.
+ZnO:Al films were reactively sputtered with a 1.5±0.2 at.
+% Al-doping level.
+In this composition range, small variations in Al doping can involve slight modifications of the electrical behaviour.
+The size of the ZnO crystals and the oxygen substoichiometry can also affect the electronic conductivity.
+Whatever the position of samples r3 within the experimental conditions used, the films are highly transparent above 3 sccm of oxygen flow rate (Fig.8).
+Strong variations of the conductivity are observed along r3 (Fig.9), all the more pronounced that the oxygen flow rate is high.
+Far from the position corresponding to the circumference next to the magnetrons axis (r3=60 mm), the conductivity is high but slightly lower than the best values from the literature whatever the conditions.
+The resistivity increases as the sample approaches r3 = 60 mm.
+We found a strong correlation between the electrical behaviour and the grain size and no correlation respectively far from and at r3= 60 mm.
+These observations suggest an influence of the variation of the plasma density along r3. 
+In the case of RF sputter-deposited films, Tominaga et al. linked the spatial variation of resistivity to the flow of energetic O atoms supposed to combine with Al atoms to form Al oxide and limit the doping effect.
+Despite these limitations, a small window of parameters (around 3 sccm O2) leads to a good homogeneity of conductivity and of optical transparency.
+Nevertheless, for industrial applications it is still needed to understand how to reduce the heterogeneity and increase the working window.
+Thin films dedicated to the development of a fully ceramic electrochromic device based on Na+ colouring of WO3 were deposited.
+A good homogeneity and high quality of WO3 electrochromic and ZnO:Al electrical and optical behaviours were achieved thanks to a fine tuning of the reactive atmosphere.
+Because the colouring efficiency of WO3 is high relative to Na+ insertion, sodium superionic conductors can be considered as convenient ceramic electrolyte.
+A sputtering configuration was developed to produce thin films close to the Na3Zr2Si2PO12 stoichiometry with high ionic conductivity.
+Electrochromic tests performed in NaCl media on ITO/WO3−x/NASICON stack showed a colouring efficiency increasing with the number of polarisation cycles and with the preparation (RF etching) of the interfaces between each layer.
+The remaining technical challenge to develop a full device based on Na+ motion is the synthesis of a compatible Na+ counter electrode.

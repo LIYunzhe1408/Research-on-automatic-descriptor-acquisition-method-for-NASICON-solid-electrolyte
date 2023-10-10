@@ -1,0 +1,84 @@
+In this work, we present a comprehensive investigation of the elastic properties (the full elastic tensor, bulk, shear and Young’s moduli,and Poisson’s ratio) of 23 well-known ceramic alkali superionic conductor electrolytes (SICEs) using first principles calculations.
+
+We find that the computed elastic moduli are in good agreement with experimental data (wherever available) and chemical bondingnature.
+
+The anion species and structural framework have a significant influence on the elastic properties, and the relative elastic moduliof the various classes of SICEs follow the order thiophosphate < antiperovskite < phosphate < NASICON < garnet < perovskite.
+
+Within the same framework structure, we observe that Na SICEs are softer than their Li analogs.
+
+We discuss the implications ofthese findings in the context of fabrication, battery operation, and enabling a Li metal anode.
+
+The data computed in this work willalso serve as a useful reference for future experiments as well as theoretical modeling of SICEs for rechargeable alkali-ion batteries.
+
+Alkali (lithium and sodium) superionic conductors have garneredincreasing interest in recent years as potential replacement electrolytesfor alkali-ion batteries.
+
+The electrolyte in today’s rechargeablealkali-ion batteries typically comprises a mixture of organic solvents(e.g., 1:1 ethylene carbonate and dimethyl carbonate) with an alkalisalt (e.g., Li/NaPF6) added for ionic conductivity.
+
+Such electrolytesare flammable and have limited electrochemical windows of up to4.5 V.
+
+Ceramic alkali superionic conductor electrolytes (SICEs), onthe other hand, are non-flammable and can potentially have widerelectrochemical windows.
+
+An all-solid-state rechargeable alkali-ionbattery based on such a solid electrolyte would therefore represent asignificant leap in safety and energy density.
+
+The development of novel SICEs has thus far been mostly focusedon the alkali ionic conductivity as the key design parameter, and therehave been significant successes in this aspect.
+
+State-of-the-art sulfideSICEs such as Li10GeP2S12 (LGPS) and Li7P3S113,6,11–15 have alkaliconductivities that rival those of liquid electrolytes (∼ 10 mS/cm),16and oxide SICEs such as NASICON-type LATP (lithium aluminumtitanium phosphate), perovskite-type LLTO (lithium lanthanum titanium oxide) and garnet-type LLZO (Li7La3Zr2O12), have alkali conductivities approximately one order of magnitude lower.
+
+However, less attention has been paid to the mechanical propertiesof SICEs, which can have a profound influence on the fabricationand performance of an all-solid-state rechargeable alkali-ion battery.
+
+For instance, a critical challenge in all-solid-state batteries is achievingand maintaining an intimate conformal contact with the electrodes during operation.
+
+ Typical commercial cathodes (e.g., LiCoO2, LiMn2O4and LiFePO4) and anodes (e.g., graphitic and hard carbons) exhibitchemical strains of up to 10% during electrochemical cycling.
+
+ Thechallenge is even greater with cutting edge Si anodes, which exhibitvolume changes in excess of 300%.
+
+The SICE must therefore be ableto deform without the formation of cracks or pores to maintain theelectrode/electrolyte interface during these volume changes, whichwould require “soft” SICEs that can acommodate large strains beforefailure.
+
+On the other hand, another potential application of SICEs is inenabling Li metal anodes by suppressing Li dendrite formation,22 forwhich a SICE with high shear modulus and hardness would be moresuitable.
+
+To the authors’ knowledge, there have been only a few works exploring the mechanical properties of SICEs.
+
+Wolfenstine, Sakamotoand co-workers have reported on the Young’s modulus and fracture toughness of polycrystalline Al-stabilized cubic LLZO garnetand LLTO perovskite.
+
+ Jackman et al.also characterized Young’smodulus and fracture toughness of LATP.
+
+In general, all these oxides exhibit relatively high Young’s moduli (100-200 GPa) and fracture toughnesses of ∼ 1 MPa√m.
+
+In the sulfide chemistry, Sakudaet al.
+
+measured the Young’s modulus of Li2S − P2S5 glass electrolyte,which is tunable by its composition within the range of 18 ∼ 25 GPa.
+
+A common limitation of these experimental studies is that only theoverall Young’s modulus, Poisson’s ratio and fracture toughness aremeasured.
+
+In rechargeable battery applications, the stresses/strainsdeveloped during operation are often anisotropic, requiring knowledge of the full elastic tensor.
+
+The full elastic tensor is also usefulfor understanding the development of internal stress fields during fabrication, which can often have a critical impact on final reliabilityand performance of the device.
+
+Another potential issue is that themeasured values (which are mainly for polycrystalline samples) arehighly dependent on various factors such as moisture, porosity andmicrostructure, and the presence of secondary phases.
+
+Somechemistries are also inherently more challenging to handle experimentally, such as the sulfides which are sensitive to moisture andair.
+
+First principles calculations based on density functional theory(DFT) can therefore be an invaluable complement to experimentsin characterizing the intrinsic elastic properties (including the fullelastic tensor) of SICEs.
+
+ An example is the work of Wang et al., whocalculated the elastic properties of the solid electrolyte LGPS fromfirst principles calculations.
+
+ However, data on most SICEs are stilllacking.
+
+In this work, we perform a comprehensive investigation of theelastic properties of 23 well-known ceramic alkali SICEs using firstprinciples calculations.
+
+We will provide an assessment of the accuracy of three exchange-correlation functionals - the Perdew-BurkeErnzerhof (PBE),31 PBE revised for solids (PBEsol)32 generalizedgradient approximation functionals and the van der Waals (vdW) density functional with opt88 exchange (optB88-vdW)33 - in predictingelastic properties.
+
+We report the calculated full elastic tensors andother derived elastic properties (e.g., bulk, shear and Young’s modulus, Poisson’s ratio, etc.) of these well-known SICEs, and discussobserved trends with structure and chemistry.
+
+ We will discuss the implications of the computed elastic properties for SICE design.
+
+Thedata compiled in this work will also serve as a useful reference forfuture experiments as well as theoretical battery models.
+
+To conclude, we have investigated the elastic properties, includingthe full elastic tensor, bulk, shear and Young’s moduli, and Poisson’sratio of a broad spectrum of alkali superionic conductor electrolytesusing first principles calculations.
+
+We find that the computed elasticconstants are in good agreement with experimental data whereveravailable and chemical bonding nature.
+
+In general, we find that NaSICEs are somewhat softer than Li SICEs in the same structure, andthe anion and structure type have a significant influence on the elasticproperties.
+
+The data provided in this work would also provide a usefulbenchmark for future experimental investigations and computationalmodelings of SICEs for rechargeable alkali-ion battery applications.
+

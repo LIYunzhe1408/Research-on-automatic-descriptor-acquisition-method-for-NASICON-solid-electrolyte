@@ -1,0 +1,41 @@
+Feasibility of potentiometric oxygen gas sensor based on
+
+A new solid potentiometric sensor for the oxygen gas detection using NASICON as solid electrolyte is proposed and tested in the range 300–700 8C for a feasibility study. The measuring electrode is a mixture of Na2Ti3O7–Na2Ti6O13 and La1 xSrxMnO3d (LSM) as mixed electronic and ionic conductors. A system based on Ni-NiO/Na2Ti3O7–Na2Ti6O13 is used as solid internal reference. A linear relationship was observed between the sensor output and the logarithm of oxygen concentration. The response is in good agreement with the theoretical  16 atm). A very fast response was observed. # 2002 Elsevier Science B.V. All rights Nernstian equation in a large range (10 reserved.
+
+Keywords: Oxygen sensor; NASICON; Na2Ti3O7–Na2Ti6O13; La1 xSrxMnO3d
+
+The role of oxygen and the measurement of its concentration have always received wide spread in many ﬁelds of science and technology. So there is an increasing demand for small-scale solid-state sensors, allowing rapid, easy, precise and cheap measurements under a wide range of conditions [1]. Measurements of gaseous oxygen are very important for example in environmental control, modiﬁed atmospheres (e.g. greenhouses, gas industries, respiratory gases), safety in industrial environments, emission control and combustion optimisation [2–5]. Electrochemical determination of oxygen has been the subject of numerous studies since the pioneering work of Heyrovsky [5] and Kolthoff and Miller [6] at the dropping mercury electrode (DME), and these studies are surveyed in many books and monographs [7–10]. Until now a lot of works has been focused on the development of zirconia-based galvanic sensors [10–12] and Co2O3 or TiO2, Nb2O5 that operate at elevated temperature [13]. However, solid-state sensors based on oxide ion conductors cannot be used at low temperature and still need a heater or a thermal source for their operation. Such sensors are well adapted for combustion control or measurements in melted steels or glasses [14].
+
+To made measurements at low temperature, another kind of fast ion conductivity crystals was proposed. They were composed of chlorides or ﬂuorides, such as SrCl2–KCl–SrO, PbSnF4, LaF3, PbF2, CeF2, showing good properties of conduction at low temperature [15–18].
+
+In this paper, a new kind of oxygen potentiometric sensor is tested. This sensor is based on NASICON which is a cationic solid electrolyte (second kind transducer). The measuring electrode is a composite based on sodium titanates and perovskite materials (LSM).
+
+A mixture of titanates, for example Na2Ti3O7–Na2Ti6O13,
+
+was ﬁrstly proposed as oxygen electrode on NASICONelectrolyte by Holzinger and Maier [19] to constitute the reference electrode in open devices of CO
+
+composites clarify the ion exchanges at between the gas and the NASICON.
+
+Oxides with the perovskite structure receive much attention at the present time due to the observation of interesting properties (superconductive, catalytic, oxygen reduction) and more especially mixed electronic-ionic conduction properties [20]. Kofstad and Petrov [21] shown in 1993 that the conductivity is function of PO2 related to the variations of stoichiometry according to a simple model. These properties of high conduction in function of oxygen pressure are very attractive for SOFC electrodes [22] because they can catalyse the oxygen reduction. Such materials were also proposed as measuring electrode in oxygen sensors based on CeO2 solid electrolyte [23]. Other electrode materials giving
+
+better results in SOFC devices could also be envisaged, for example, based on cobalt oxides, but a diffusion of cobalt through the NASICON was observed and then such materials were not kept in the ﬁeld of our studies.
+
+Using impedance analysis, we have compared the electrical properties of several materials as elements of oxygen reference electrode in CO2 sensors based on NASICON [24,25]. The mixture of LSM and Na2Ti3O7–Na2Ti6O13 was selected because it is an excellent compromise among other materials (Pt, Au, RuO2, pure or mixed with Na2Ti3O7– Na2Ti6O13 or Na2Ti6O13–TiO2). In the present paper, we propose to determine the relationship between the emf of the cell and oxygen partial pressure and to verify that such an electrode can be used in gas sensor devices with NASICON materials, for example in oxygen sensors.
+
+A mixture of Ni–NiO and sodium titanate was used as solid internal reference electrode. The choice of a solid system for this feasibility study allows to avoid the fabrication of a separated atmosphere cell which is generally a source of gas-tightness difﬁculties. The galvanic cell is represented as follow: Ni NiO; Na2Ti3O7 Na2Ti6O13=NASICON= Na2Ti3O7 Na2Ti6O13 LSM; O2; Ar
+
+At the measuring electrode, when only metals are chosen as electrode materials, it is commonly supposed in the literature that a compound like Na2O is present at the interface or is dissolved into the NASICON. So the following equilibrium can be written, as mentioned in our previous paper [24]: LSM þ Naþ O2 
+
+Nevertheless, the presence of Na2O was never proved. Another explanation could be based on a change of stoichiometry between phases at the grain boundaries, for example according to the following reaction: Na3Zr2Si2PO12 þ Na3PO4
+
+were Na3PO4, SiO2 and Na2Zr2SiP2O12 are compounds at the grain boundaries. SiO2 and ZrO2 are generally present at the grain boundaries in ceramics and Na3PO4 was observed in NASICON materials by F. Mauvy et al. [26]. Moreover because there are a lot of NASICON with the general formulae Na1þxZr2SixP3 xO12 [27], we can also envisage such stoichiometry variations.
+
+On this point it must be mentioned that such a reaction is only an example, without real experimental foundations and another equilibrium could be proposed. Whatever the phases are, they can be present only in very small quantities (traces)
+
+and so without buffer effect assuming a good reversibility of the interface exchange.
+
+From this point of view, using a mixture of Na2Ti3O7– Na2Ti6O13 and LSM, the situation becomes clear. The electrochemical reactions at the measuring electrode can be decomposed as follow:
+
+measuring , O2 
+
+2 O2 þ 2e  Na2Ti6O13 þ O2  In such a schema, the reversibility can be assumed by the mobility of oxide ions and electrons in LSM materials, assuming fast exchanges between these materials and the gaseous phase. The exchange of Na can be facilitated by the Na conductivity of the materials [25]. Moreover, if these compounds are present in sufficient quantities such a system appears satisfying for a measuring electrode, when there is a change of the parameters, more especially the oxygen pressure.

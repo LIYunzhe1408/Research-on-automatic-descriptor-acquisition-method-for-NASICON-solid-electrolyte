@@ -1,0 +1,11 @@
+Vitreous phases of K3M2P3O12 (M =B, Al, Bi) NASICON-type materials are prepared and their electrical properties are investigated overa frequency range from 42 Hz to 1MHz and at different temperatures.
+An anomalous diffusion model (ADM) is applied to discuss the acconductivity, permittivity and electric modulus of the NASICON-type glasses.
+The ADM is used to extract the dc conductivity and relevantphysical parameters, namely, crossover length and relaxation frequency in the ion diffusion process.
+The dc conductivities and relaxationfrequencies are thermally activated, with activation energies found to be in the range 0.70–0.82 eV.
+The frequency- and temperature-dependentconductivity spectra of individual glasses can be superimposed by means of the Summerfield scaling.
+The new K3M2P3O12 (M =B, Al, Bi) NASICON-typematerials were successfully vitrified and the glassy natureis further characterized by XRD, DSC and FTIR techniques.
+The electrical properties of the glasses were studied over widerange of temperature and ac frequency.
+The anomalous diffusionmodel is used to study the power law dependence ofconductivity and permittivity and to evaluate various importantparameters of NASICON-type glasses.
+In general, thecross over lengths, ξ and activation energies show M sitecation size dependency in all systems under the present investigation.
+The electrical modulus spectra are analyzed by both KWW and ADM models, enabling further discussion of themodel validity, particularly at the high frequency wing of themodulus spectra.
+A scaling approach between the ac conductivityand the temperature further appreciates the meritof our systems, and also shows generalized features of otherreported glasses.

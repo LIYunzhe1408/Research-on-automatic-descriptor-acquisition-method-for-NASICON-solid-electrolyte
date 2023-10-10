@@ -1,0 +1,74 @@
+We report the effect of trivalent cations dopants in the Li1.3Al0.3xRxTi1.7(PO4)3 (R¼Ga3þ, Sc3þ, Y3þ)NASICON ceramic system in the concentration range x¼0.01,0.03,0.05,0.07, on the Liþ ion conductingproperties using impedance spectroscopy.
+
+The samples were prepared by solid state reaction method andcharacterized by X-Ray Diffraction and density measurements.
+
+The electrical properties were studiedusing impedance spectroscopy in frequency range 10 Hz to 20 MHz and temperature range 303 K to423 K.
+
+Although the porosity of the material decreased with doping, the overall Liþ ion conductivity ofthe system did not improve with doping.
+
+Ionic radii of the dopant cations was found to be an importantfactor in formation of impurity phases and low Liþ ion conductivity.
+
+Gallium doped samples exhibited ahigher Liþ ion conductivity compared to its scandium and yttrium doped counterparts.
+
+The necessity for compact electrical sources in the areas liketransportation, medicine, defence and electronic equipments likemobile phones and laptops has placed an increased demand tolook for sources of electrical energy like batteries, supercapacitorsand fuel cells.
+
+ Lithium batteries have emerged as promising candidates due to their higher energy density.
+
+Amongst lithium ionconducting materials, NASICON (Na like Super Ionic Conductors)compound Li1.3Al0.3Ti1.7(PO4)3 (LATP) has been a widely studiedsystem for its high Liþ conductivity of 103 S/cm [1,2,3,4,5] andits application as electrode and electrolyte material in the Lithiumion batteries.
+
+LATP compound has a rhombohedral (R3̄c) symmetry with mutually facing alternate arrangement of TiO6 octahedra [4,7].
+
+The corner oxygen atoms of the octahedra are sharedwith PO4tetrahedra.
+
+M1 cation vacancies are formed between PO4tetrahedra amidst the ribbons while M2 vacancies are formedbetween adjoining TiO6 octahedra.
+
+Liþ ions diffuse along thepathways (also called bottlenecks) which interconnect the M1–M2vacancies, in a robust 3-D NASICON network.
+
+From 27Al NMRstudies it was found that aluminum in the LATP NASICON compound is located at two positions – at tetrahedral (denoted as AlT)and octahedral (denoted as AlO) sites [3].
+
+One of the primaryreasons of higher Liþ ion conductivity is the large size of the LATPlattice which provides broad enough passage for the Liþ ions.
+
+Inthe present study we modify the LATP lattice by doping oxides oftrivalent cations.
+
+The host Al3þcation is replaced in the systemLi1.3Al0.3xRxTi1.7(PO4)3 (R¼Ga3þ, Sc3þ and Y3þ) by other trivalentcations of larger ionic radii, which may further increase the latticevolume, but retain the charge neutrality of the lattice leading tohigher values of Liþ ion conductivity.
+
+However the ion conducting oxide ceramic materials preparedusing solid state reaction method in general suffer from porosity.
+
+Pores and cracks formed at grain boundaries inhibit a smoothpassage of Liþ ions across grain boundaries.
+
+Hence grain boundaryconductivities in Liþ ion conducting NASICON materials is an order or two lesser than in bulk (grain) and is an important limitation in using these compounds in commercial Li-ion batteries today [10,11].
+
+Non conducting phases like AlPO4 are an unavoidableby-product during the synthesis of LATP system [3,9] which maysegregate towards grain boundaries.
+
+ Although they reduce porosity within the material, they do not contribute towards improving Liþ ion conductivity.
+
+Hence, inspite of presence of AlPO4the overall Liþ ion conductivity in LATP NASICON compounds isreported to be of the order 103 S/cm [3,5].
+
+Hence it is interesting to investigate if doping of trivalent cations to replace Al3þin the LATP would also form similar phases and affect the Liþ ionconductivity as in case of their parent system LATP.
+
+It has been observed that if the values of ionic radii of thedopant cations are significantly larger than that of the host cations,the dopant cation cannot get fully substituted in the host latticebecause the elastic strain energy developed due to size differenceof the two cations acts to drive the dopant out of the lattice [14–17].
+
+Such oversized dopants form oxide phases and get segregatedtowards grain boundaries.
+
+The thermal energy during synthesisassists the migration of such impurity phases [18–20].
+
+ Hence although there are reports [6–9] about Liþ ion conductivity in inorganic ternary systems of Li1.3Al0.3xRxTi1.7(PO4)3 type, a comparative study of the electrical properties for the dopants withincreasing ionic radii as an important parameter has not beenundertaken to the best of our knowledge.
+
+R¼Ga3þ, Sc3þ, Y3þ) dopant salts of cations with increasing ionicradii are studied.
+
+ In case of Ga3þ the substitution of Al3þ at (tetrahedral) AlT and (octahedral) AlO positions is possible.
+
+Besides,Ga3þ also substitutes Ti4þ at octahedral position is possible in theLATP lattice.
+
+However due to size mismatch between (host) Al3þat tetrahedral position and (dopant) Sc3þ and Y3þ the substitutionis less likely.
+
+Hence such dopants get segregated towards grainboundaries.
+
+However, near the larger TiO6 octahedra the dopantscations occupy position near the host cations Ti octahedral sitesand distort the LATP lattice and block the Liþ motion near the M1vacancy.
+
+The segregated phases (of larger dopant cations) at grainboundaries reduce the porosity of the material (and increaseruggedness and durability), as they segregate towards grainboundaries, the structural modification (distortion) and theblocking of the bottlenecks in the LATP lattice, deteriorates theoverall Liþ ion conductivity.
+
+Therefore, ionic size of the dopantcations play a role in determining the Liþ conducting properties ofthe ceramic materials.
+
+This result can be further exploited to tailorLiþ ion conducting materials with optimized density, robustphysical composition and higher Liþ conductivity values to workas electrolytes in Lithium ion batteries.
+

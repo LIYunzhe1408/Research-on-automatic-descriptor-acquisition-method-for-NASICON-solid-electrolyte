@@ -1,0 +1,242 @@
+Phosphosilicate molecular precursor for the synthesis of NASICON, natrium super ionic conductor, Na1+xZr2SixP3-xO12 (x ) 1 and 2) has been devised and prepared by the hydrolysis of tetraethoxysilane (TEOS) employing sodium phosphate solution. 
+The molecular precursor was reacted with Zr(OC3H7)4 in ethanol under solvolytic condition to yield nano precursor material of NASICON. 
+This material was annealed at high temperature to yield phase-pure NASICON. 
+The molecular precursor was characterized using 31P NMR, FTIR spectral data, powder XRD pattern and TG/DTA studies. 
+The structure of the molecular precursor was deduced from the powder XRD data, which indicates the presence of edge sharing tetrahedral arrangement of -O-Si-O-P-O-Sichain. 
+The NASICON precursor material was characterized using TG/DTA, FTIR, TEM, SEM, MAS 31P NMR and XRD. 
+The conductivity of the synthesized NASICON material was measured using the pellet annealed at 900 °C and was found to be 5.5 x10-3 S cm-1. 
+The details on the preliminary investigation are presented in this paper.
+
+NASICON, Na3Zr2Si2PO12, is a super ionic conductor of sodium ion at ambient temperature and has potential applications in sensors and devices.
+It has the general formula of Na1+xZr2SixP3-xO12, (x ) 0-3) wherein the end members are sodium zirconium phosphate x ) 0 (NaZr2P3O12) and sodium zirconium silicate x ) 3 (Na4Zr2Si3O12). 
+Hong and Goodenough have reported the synthesis of NASICON in 1976. 
+Since then many synthetic strategies have been reported in the literature. 
+These methods comprise conventional solid-state reaction, sol-gel method, nonhydrolytic method, coprecipitation method, mechanochemical synthesis, combustion method, and Magnetron sputtering method using Sol-gel derived precursor material of NASICON for the preparation of thin ﬁlms.
+In the conventional solid-state reaction, NASICON was formed by wet ball milling stoichiometric quantities of the required raw materials followed by calcination at elevated temperatures. 
+The ﬁnal annealation was generally carried out at 1200 °C for 50 h.
+At present, the sol-gel method is employed extensively for the preparation of NASICON. 
+A variety of starting materials have been considered ranging from TEOS, SiCl4, fumed silica, Na2SiO3 · 9H2O, PCl5, NH4H2PO4, H3PO4, and POCl3 as the sources of Si and P. 
+The chosen raw materials were allowed to react with the zirconium source (such as Zr(OR)4, ZrO(NO3)2 · 8H2O, ZrCl4, etc.) to form the sol and then gel, which was dried and subsequently annealed at elevated temperature to get the NASICON phase.
+In the alkali silicate route, NH4H2PO4 and NaOH were dissolved in warm water and pipetted simultaneously with Na2O · 3SiO2 · 3H2O solution into zirconium n-propoxide solution. 
+The solution was hydrolyzed and slowly evaporated at room temperature to get the NASICON precursor, which was pellatized and sintered at elevated temperature.
+In addition to these two methods, there are other methods for the preparation of NASICON. 
+Stoichiometric amounts of NaNO3, (NH4)2HPO4, ZrO(NO3)2, fumed silica along with ammonium perchlorate (oxidizer) and urea (fuel) was heated that lead to the autoignition of the reactant to form the precursor, which was further processed to get the required NASICON phase. 
+In the nonhydrolytic synthesis, tributyl phosphate, SiCl4, and zirconium(IV) tertiary butoxide were reacted in anhydrous CH3CN, to which sodium tertiary butoxide was added as the source of sodium ions. 
+The resultant precursor material was annealed at 1000 °C to get the NASICON phase. 
+In the mechano-chemical synthesis, ZrO2, Na3PO4 · H2O, and SiO2 were ball milled with ethanol for 2 h at 20 rpm and the sample was dried at 60 °C. 
+The dried sample was mechanically activated in a planetary ball mill at 500 rpm for 50 h. 
+This material was annealed at high temperature to get the NASICON phase.
+NASICON family of compounds will be of technological importance for a wide variety of applications, viz., electrochemical sensors, batteries, and devices.
+Most of the literature methods report the presence of traceable quantity of ZrO2 and other phases. 
+Further, it has been noted that crystallized ZrO2 along the boundaries of NASICON has adverse effect on the sodium ion conduction. 
+Hence, an alternative synthetic strategy may be desirable for the preparation of phase pure NASICON, which should be adoptable for bulk preparation as well.
+In recent years, molecular precursors plays a dominant role in the preparation of oxidic ceramics. 
+Molecular Precursor is a species that has the required structural framework to encompass the metal ions of interest in the proper proportion, which facilitates the formation of homogeneous and defect-free precursor. 
+This method has been exploited mainly for the preparation of mixed metal oxides. 
+In this approach, requisite metal ions to be incorporated in the oxidic material are taken in the form of complex of organic multitendate ligand or metallo organic derivative that will undergo elimination of the organic framework during the course of the reaction. 
+The organometallic derivatives can be used effectively for controlling the stoichiometry, homogeneity, lower temperature of phase formation, and high surface area of the target material. 
+In the present work, we have attempted to identify and prepare a molecular precursor for the preparation of NASICON. 
+Unlike the case of oxidic materials, wherein the scheme of reactions is fairly straightforward, NASICON is a complex system and the classical molecular approach would be rather difﬁcult. 
+A perusal of the literature shows that phosphate and silicate tend to form anionic networks of phosphosilicates. 
+It may be pertinent to note that Na3Zr2Si2PO12 has corner oxygen sharing tetrahedra of phosphate and silicate with zirconia-centered octahedral sites. 
+For every two octahedral sites, there are three tetrahedral site comprising two silicate and one phosphate center. This arrangement is repeated spatially to form the monoclinic/rhombohedral phase of NASICON.
+Hence, for the preparation of Na3Zr2Si2PO12, a phosphosilicate that contains two silicate and one phosphate moieties linked by the oxygen bridge with requisite number of sodium ions may be an appropriate molecular precursor. 
+Phosphosilicate with one silicate and two phosphate centers with two sodium ions may be an appropriate molecular precursor for the preparation of Na2Zr2SiP2O12. 
+In most of the reported literature,phosphosilicates are prepared by the hydrolysis of TEOS in alcoholic medium with HCl and the resultant gel was reacted with either POCl3 or R3PO4 or H3PO4.
+The acid-catalyzed hydrolysis of TEOS would not lead to the formation of molecular precursor as in most of the cases polymeric gel was formed. 
+On the contrary, it is fairly well documented that TEOS under basic hydrolytic condition undergo SN2 reaction to form siloxane polymer by the attack of hydroxide ions on the Si center of TEOS. 
+It may be a worthwhile exercise to control the hydrolysis of TEOS by sodium phosphate solution (instead of strong base), which may result in the formation of phosphosilicate molecular precursor.
+The hydrolysis of TEOS by Na3-xHxPO4 (x ) 0 or 2) solution is the basis for the formation of the molecular precursor. 
+For the preparation of Na3Zr2Si2PO12, TEOS, and Na3PO4 solution (2:1 mol ratio) will be reacted to have the required silicate/phosphate and sodium ions in the molecular precursor, wherein for the preparation of Na2Zr2SiP2O12 TEOS and NaH2PO4 (1:2 mol ratio) would be employed. 
+The molecular precursor thus formed can be reacted with a suitable zirconium source, in the present case [Zr(OC3H7)4], as we do not want the elimination of sodium ions from the molecular precursor during the formation of the NASICON precursor. 
+The preliminary results on the preparation and characterization of molecular precursor, the ensuing NASICON precursor preparation and characterization are presented in this paper.
+
+Zirconium isopropoxide and tetraethoxyorthosilicate were procured from Sigma Aldrich India (P) Ltd., India. 
+All the other chemicals used were AR grade, purchased from Sisco Research Laboratories, India and used without further puriﬁcations.
+The synthesis of Na3Zr2Si2PO12 was performed in two stages. 
+The ﬁrst stage involves the hydrolysis of (TEOS, 4.5 mL) using trisodium orthophosphate (Na3PO4.12H2O, 3.8 g) dissolved in 50 mL of distilled water. 
+The initial pH of the solution was 11.8. 
+The solution was stirred for 4 h at ambient temperature in a Teﬂon reaction vessel. 
+At the tenure of the reaction the solution became clear. 
+The ﬁnal pH of the solution after hydrolysis was lowered to 11.2 and the solution was evaporated in a rotavap system to yield a white residue.
+In the second stage, stoichiometric amounts of zirconium isopropoxide in ethanol and the aqueous solution of the molecular precursor prepared were reacted to yield a white precipitate and separated by evaporating the ethanol to get the NASICON precursor. 
+In a typical reaction, 6.5 mL of zirconium isopropoxide was dissolved in 300 mL of ethanol and the molecular precursor (MP-PSi2) prepared in the ﬁrst stage was added in one portion under vigorous stirring. 
+The solution was initially clear indicating molecular level mixing of the ingredients that ensures homogeneity of the reaction mixture which was reﬂuxed under stirring for 4 h. 
+The solution turned translucent and milky. 
+At the tenure of the reaction the product was obtained as dimensionally stable suspension. 
+The solvent was distilled off using a rotavap system to yield the NASICON precursor (NasP-PSi2) as white powder.
+The molecular precursor for the preparation of Na2Zr2P2SiO12 was derived using sodium dihydrogen phosphate as the phosphate source and TEOS as the silicate source in the mole ratio of 2:1(the molecular precursor of this here after designated as MP-P2Si and thus formed NASICON precursor as NasP-P2Si). 
+The end members, NaZr2P3O12 and Na4Zr2Si3O12 were prepared using Zr(C3H7O)4 with phosphoric acid and NaOH (3:1 mol ratio) and Zr(C3H7O)4 with TEOS and NaOH (hydrolyzed in the mole ratio of 3:4), respectively. 
+Annealing these precursor materials at elevated temperatures yield the respective NASICON phases.
+The molecular precursor and the precursor material of NASICON were characterized using TGA/DTA, FTIR, P NMR spectral methods, TEM, SEM, powder XRD pattern, and impedance measurements. 
+TGA/DTA studies were carried out using PL STA 1000/1500 at a heating rate of 20 °C/min was employed. 
+The FTIR spectra of the samples (precursor and the annealed materials) were recorded using Nexus FT-IR spectrometer (model 670) with DIGS detector. 
+The morphology of the molecular precursor material was studied using Transmission Electron Microscopy (Tecnai 20 G2) and the annealed samples using scanning electron microscope (SEM) (JEOL JSM 35-CF).
+P NMR spectral studies (MAS as well as solution spectra) were carried out using Brucker 400 MHz multiprobe NMR spectrometer. 
+D2O was used as the solvent for the measurement in solution. 
+The XRD measurements were measured using Cu KR radiation (Philips PANalytical Model X’Pert PRO). 
+The structure of molecular precursor was evaluated using Crysﬁre, Endeavor, and GSAS. 
+The electrical conductivity was measured in air by frequency response analyzer at ambient temperature using Autolab Potentiostat Galvanostat model 30. 
+The impedance spectra were collected for the NASICON discs annealed at 900 °C in the frequency range between 1 MHz and 1 Hz. Two types of pellets were prepared for the impedance measurements. 
+The ﬁrst one is prepared from the as formed NasP-PSi2 at a pressure of 8 tons/cm2 and the pellet was annealed at 900 °C for 3 h. 
+The second pellet was prepared from the annealed material of NasPPSi2 at 600 °C for 3 h and the pellet was ﬁred at temperature of 900 °C for 3 h. 
+After annealing silver paste was applied on both the sides of the pellets as ionically blocking electrode. 
+The dimension of the pellet was 1.3 cm in diameter and 0.8 mm thickness.
+
+Synthesis of Molecular Precursor. The molecular precursors comprising phosphate and silicate were prepared by a new, elegant and a very simple procedure, starting form TEOS and a solution of Na3PO4 in water as the medium of hydrolysis. 
+Livage et al. showed that phosphate esters react too slowly with water in comparison with TEOS. 
+On the contrary, TEOS under acidic condition hydrolyzed to form the gel. 
+Further, it has been observed that in the presence of phosphorus source it often results in the formation of phosphosilicates. 
+In the present study, TEOS was hydrolyzed using the solution of either Na3PO4 or NaH2PO4 (in the requisite mole ratio) at ambient temperature. 
+The reaction exhibits different reactivity as it neither formed a gel nor a precipitate under the reaction condition. 
+Initially, TEOS was like droplets ﬂoating on Na3PO4 solution (pH 11.8), which was stirred for 4 h. 
+During the hydrolysis, TEOS gradually reacted with the phosphate and the resultant product is soluble in water. 
+The pH of the resultant solution was found to be 11.2, which on evaporation yielded a white solid (MPPSi2). 
+For the preparation of Na2Zr2SiP2O12, TEOS and NaH2PO4 were employed as the starting materials to give the molecular precursor MP-P2Si.
+Characterization of the Molecular Precursor. It is worth pointing out that both the molecular precursors are soluble in water and there was neither gelation nor precipitation during the course of the reaction. 
+Hence, the molecular precursors should be salt like and not a polymeric gel. 
+The 31P NMR of MP-PSi2 in D2O was recorded and is presented in Figure 1. 
+It can be seen from the ﬁgure that the 31P resonance for this material appears at 3.06 and 3.16 ppm with reference to 85% H3PO4. 
+It may be noted that the P 3as Na3PO4 appears around 6.0 ppm and resonance for PO4 with decrease in the pH it shifts toward zero and for 85% phosphoric acid, the resonance appears at 0 ppm. 
+If phosphate ion had not undergone any chemical transformation during the course of the reaction, the chemical shift value is expected to be around 4.5 ppm. 
+In the present case, an upﬁeld shift of nearly 1.5 ppm was observed. 
+Hence, the phosphorus center is in fact not a free phosphate ion. 
+A perusal of the chemical shifts for various phosphorus centers indicates that phosphate esters appear around 3.0 ppm. 
+Formation of phosphorus alkoxy bond at this juncture is ruled out, as ethoxy group cannot undergo migration from TEOS to phosphate ion. 
+Thus the present focus is on the species responsible for the resonance at 3.16 ppm and 3.06 ppm. 
+It has been reported by many researchers that orthophosphate monoesters type species [ROPO3]2resonance appears around 3-5 ppm. 
+It is worth pointing out at this juncture the hydrolysis of TEOS under basic condition. 
+In the ﬁrst step, OHattacks the silicon center to form the silanol transition state which undergoes further reaction to form the polysiloxane. 
+Under the experimental conditions, the phosphate ion present in the reaction mixture may attack the silanol to form the phosphosilicate type of species. 
+The sodium phosphosilicate thus formed is expected to be water soluble and phosphorus center will have connectivity through -O-Si group (Scheme 1). 
+This may lead to the shifting of the resonance to 3 ppm. 
+Thus silanol groups react with Na3PO4 to form covalently linked SiOPO3H(Na) as depicted in Scheme 1. 
+It is pertinent to point out the recent ﬁndings of M. L. Di Vona et al. 
+They have hydrolyzed tributoxyphosphate with SiCl4 and observed that the phosphorus center experienced deshielding effect. 
+This was attributed to phosphorus-trichlorosilyl intermediate and the P resonance experienced a maximum shift from 4.2 for tetrabutoxyphosphate to approximately 7.5 ppm. 
+Thron and co-workers have observed shielding effect due to the formation of OP(OSiMe3)n. 
+In the present case, the phosphosilicate formed may exist in the cyclic\open form which may appear as separate peaks in the NMR spectrum (Scheme 2). 
+The MAS P NMR spectra of Na3PO4 · 12H2O along with the molecular precursor solids are presented in Figure 2. 
+The P resonance in MP-PSi2 appears at -2.00 ppm, whereas Na3PO4 · 12H2O gives rise to the peak at 1.0 ppm. 
+The trend in the P resonance is similar to that observed for the solution spectra of the molecular precursor and Na3PO4 · 12H2O. 
+This indicates that the structural integrity of the molecular precursor is intact in the solution as well as in the solid state sample, viz.; the phosphate is not a free entity and is connected to the siloxy groups. 
+Further it is noteworthy 3ions in phosphosilicates (either in sol or gel) are that PO4 mobile in siloxane network under neutral or acidic conditions. 
+On the contrary, when the pH of the medium is high in the presence of alkali metal cation then the phosphosilicate network is formed and stable. 
+This observation manifests itself in the P NMR spectra of phosphosilicate. 
+The marginal shift observed in the present case indicates the connectivity of P and Si in the molecular precursor. 
+The C and the 1H NMR spectra of MP-PSi2 in D2O were measured and it was observed that there are no resonances arising from TEOS moiety in the solution, suggesting complete hydrolysis of TEOS by the phosphate solution.
+The FTIR spectrum of the molecular precursor showed a broadband at 1068 cm-1 with shoulders that are characteristics of Si-O and P-O stretching vibrations. 
+Peaks characteristics of Si-O-Si bending, P-OH stretching, PdO vibration, Si-O-P linkage, Si-OH vibrations were observed (Table 1). 
+The observation of FTIR peaks characteristic of Si-O-Si and Si-O-P vibrations corroborates the formation of phosphosilicate molecular precursors.
+The TGA/DTA curves of MP-PSi2 showed (ﬁgure not shown) one major endothermic process between 40 and 100 °C, wherein it underwent a weight loss of 25.2% due to the loss of physisorbed water molecules and there was no weight loss above 150 °C.
+These observations indicate the formation of phosphosilicate salt as the product of hydrolysis of TEOS using phosphate solution. 
+The hydrolysis of TEOS is complete and there is no organic residue in the resultant product. 
+It may be noted that the materials obtained using the conventional sol-gel process undergo an exothermic process around 230 °C because of the oxidation of organic residues in air. 
+The absence of such processes in DT/TG features indicates that TEOS is hydrolyzed in a controlled fashion completely to form sodium phosphosilicate.
+The MP-PSi2 was annealed at 800 °C and the powder XRD pattern was recorded and is given in Figure 3 along with the powder pattern of Na3PO4. 
+It is pertinent to point out that Na3PO4 belongs to tetragonal system and the powder pattern is in accordance with the reported literature (ICSD ﬁle 00-013-1318). 
+It is clear from the ﬁgure the molecular precursor is entirely different from Na3PO4. 
+The X-ray powder diffraction pattern of the molecular precursor was compared with the sodium phosphate, sodium silicate and silica. 
+The observed pattern did not match with any of these systems. 
+Hence, an attempt has been made to index the observed pattern.
+The indexing of the reﬂections of the molecular precursor annealed at 800 °C was carried out with the Crysﬁre package in combination with Chekcell. 
+A large number of cells were obtained with high ﬁgure of merits. The symmetry of the annealed MP-PSi2 was found to be orthorhombic with space group P 212121 and unit cell parameters were a) 10.251 Å, b ) 8.774 Å, c ) 7.517 Å (Z ) 4). 
+Further, the crystal structure was deduced using Endeavor (Structure Solution from Powder Diffraction Data) software. 
+The R value in the Endeavor was 18%. 
+The structural parameters are listed in Table 2. 
+The crystal structure of the molecular precursor deduced from the XRD powder pattern is provided in Figure 4. 
+The crystal structure revealed that the MP-PSi2 consists of O-P-O-Si-O-Si-O networks. 
+The network consists of two silicates and a phosphate edge sharing tetrahedra as repetitive units. 
+The sodium ions are present in the interstitial voids. 
+It is noteworthy that the structure arrived from the XRD powder pattern of the annealed sample is in conformity with the structure arrived at based on solution phase NMR studies, MAS NMR studies and FTIR data. 
+Further it may be added that this type of edge sharing tetrahedral arrangement of phosphate and silicates are present in the NASICON structure as well and hence may facilitate the formation of NASICON material.
+Synthesis and Characterization of NASICON Precursor. The aqueous solution of the molecular precursor was reacted with Zr(OPr)4 in ethanol. 
+Initially the reaction mixture was clear, indicating the homogeneity of the reaction. 
+On heating, the reaction mixture became translucent and then milky. 
+NASICON precursor was obtained as a dimensionally stable suspension in ethanol, which on evaporation yielded the NASICON precursor as white powder. 
+This material was characterized using TEM/SEM, TGA/DTA, XRD and MAS 31P NMR Studies.
+TEM picture of the as formed NASICON precursor is given in Figure 5. 
+It can be clearly seen from the ﬁgure that the NasP-Si2 material is nanosized material and extensively agglomerated. 
+The size of the material is approximately 5 nm and spherical in shape. 
+It is noteworthy that the grain boundaries are not well deﬁned indicating the amorphous nature of the material. 
+SEM pictures of the samples annealed at different temperatures are shown in Figure 6. 
+The pictures show that the particle size has increased with the increase in the annealing temperature.
+The TGA/DTA curves of the NASICON precursor along with that of the material obtained by hydrolysis of Zr(OPr)4 in the absence of the molecular precursor are shown in the panels a and b in Figure 7, respectively. 
+It can be seen from the graph that the NASICON precursor undergo three processes as seen in the thermogram. 
+The ﬁrst process is an endothermic process and occurs in the range of 40-100 °C, as in the case of MP-PSi2, and may arise because of the loss of physisorbed water. 
+In the process of dehydration the precursor shows a weight loss of 24.3%. 
+Subsequent to this there is no signiﬁcant weight loss. 
+The second process is a broad exothermic process peaking at 340 °C. 
+This process may arise due to the reorganization of the precursor material to form the amorphous NASICON framework (Figure 7a). 
+The third process is an endothermic process centered at 1175 °C and this process is also not associated with signiﬁcant weight loss. 
+It can be seen that the process starts around 800 °C. 
+This process may be associated with the NASICON phase formation. 
+These observations are in contrast with the TGA/DTA of the hydrolyzed product of Zr(OPr)4 in EtOH/ H2O in the absence of the molecular precursor, which is predominantly Zr(OH)4.
+A closure look of the Figure 7b shows that Zr(OH)4 undergoes two endothermic processes at 67.56 and 254.5 °C and an exothermic process at 442 °C. 
+The ﬁrst endothermic peak corresponds to the loss of H2O from Zr(OH)4, that corresponds to 22.6%. 
+There was no weight loss associated for the peak centered at 442 °C and is assigned to the phase formation of monoclinic ZrO2.36 The NasP-PSi2 and the product from the hydrolysis of Zr(OPr)4 in the absence of MP-PSi2 were annealed at 600 °C and the XRD powder patterns were recorded. 
+It was observed that the NasP-PSi2 showed amorphous characteristics, wherein the control experiment (product obtained from the hydrolysis of Zr(OPr)4 alone) showed the formation of monoclinic ZrO2 (ICSD ﬁle 00-013-0307). 
+This observation suggests NasPPSi2 formed during the reaction is not an admixture of Zr(OH)4 and MP-PSi2. 
+This is further conﬁrmed by the MAS 31P NMR spectral studies (vide infra) and the powder XRD studies on the NASICON precursor materials.
+The XRD pattern of the NASICON precursor is presented in Figure 8.a, which indicates the material is amorphous, which persisted up to 700 °C. 
+The NASICON precursor showed considerable differences when annealed at high temperature. 
+The XRD pattern of the material annealed at 800 °C is presented in Figure 8b, which clearly shows that the material became crystalline and the main reﬂections of the Na3Zr2Si2PO12 are observed for this material. 
+However, the peak at diffraction maximum at 2θ ) 13.67° characteristics of NASICON phase is absent. 
+This observation indicates that the NASICON phase formation has started at 800 °C. 
+This on further heat treatment gave raise to pure NASICON phase and is presented in Figure 8.c. 
+As can be seen, the powder XRD pattern observed at 900 °C resembles rhombohedral phase of NASICON. 
+It can be seen from the pattern that there is no residual phase of zirconium dioxide, which has been the major problem in the preparation of this ionic conductor. 
+The analysis shows that no other impurity phases, such as, SiO2, ZrSiO4, Na3PO4, Na2SiO3 could be detected in these samples. 
+The formation of phase pure NASICON is credited to the molecular precursor that has the requisite spatial arrangements of the phosphate silicate networks for the NASICON precursor formation. 
+Thus it is felt that the presence of ZrO2 phase is not due to the phase separation at high temperatures but is due to the hydrolysis of zirconium alkoxide or other zirconium sources before reaction with other precursors. 
+Figure 8.d. shows the XRD pattern of the samples annealed at 1000 °C. 
+The pattern is almost similar to those obtained at 900 °C, except that there is increase in the intensity of the peaks for the samples annealed at higher temperature. 
+It was observed that even at high temperature say 1200 °C ZrO2 phase was not observed. 
+The XRD pattern of the various compositions of NASICON annealed at 900 °C are depicted in Figure 9. 
+The observed patterns were compared with the ICSD ﬁles (00-033-1313) and it was found that almost all the peaks match exactly. 
+In all these cases,there were no other impurities phase present.
+To establish the role of the molecular precursor approach, the two end members of the NASICON were mixed together and annealed at 1000 °C. 
+The NASICON phase was not formed as pure as obtained via the molecular precursor route. 
+The purity in the NASICON phase is credited to the molecular precursor formed that has the requisite spatial arrangements of the phosphate and silicate networks for the formation of the NASICON matrix.
+The solid state P NMR spectra of NasP-P2Si are presented in Figure 10 along with that of MP-P2Si. 
+It can be seen from the ﬁgure that MP-P2Si gave rise to a single P resonance peak at 1.02 ppm and the NasP-P2Si the P resonance was found to have shifted to -4.14, -9.612, -12.55, -14.99, and -21.0 ppm. 
+It is fairly well established that with connectivity with other metal ions the P resonance will be shifted to more negative values. 
+These observations are in conformity with the TG/DT analysis and XRD data that the NASICON precursor materials are not just admixtures of Zr(OH)4 and the molecular precursors.
+The MAS P spectra of NasP-PSi2 annealed at different temperatures are presented in Figure 11a-f. 
+There is a systematic change in the spectral characteristics for the samples prepared at different annealing temperature. 
+It has been observed that MP-PSi2 the 31P resonance appear at -2.0 ppm and for NasP-PSi2 there are additional peaks at -2.5, -5.80, -9.32, and -11.67 ppm (Figure 11.a). 
+For the samples annealed at 500 °C the minor additional peaks at -5.8 to -11.67 ppm were disappeared and new peaks at -0.77, -4.3, and -9.1 ppm were observed. 
+When the sample was annealed at 800 °C then a new peak at -16.9 ppm was observed in addition to the peak at -1.63 ppm. 
+The peak at -16.9 ppm started growing with the increase in the temperature. 
+It is noteworthy that two peaks were observed at -16.9 and 0.77 ppm for the sample annealed at 1200 °C. 
+Jager et al. have reported that Na3Zr2PSi2O12 gave rise a major peak around -16 ppm and a weak resonance at 0 ppm. 
+A detailed investigation is in progress with respect to the two line spectra in the present case. 
+The MAS P spectral studies also indicate the NASICON phase formation starts around 800 °C from NasP-PSi2.
+It would be desirous to compare the conductivity values of the material prepared by the molecular precursor method with that reported in the literature. 
+Hence, the preliminary studies have been carried out for the NASICON material with the composition Na3Zr2PSi2O12 prepared by this route. 
+NASICON pellets were made from the as formed NasP-PSi2 and also from NasP-PSi2 annealed at 600 °C (3 h). 
+The pellets were sintered at 900 °C for 4 h and silver pastes were applied on either side of the pellet as blocking electrodes. 
+The conductivity measurements were carried out with FRA at ambient temperature in the frequency range 1 MHz-1 Hz. 
+Figure 12 depicts the Nyquist plots of these pellets. 
+Bohnke et al. have reported two semicircles for NASICON and NASICON type of materials that arise due to the bulk conductivity and at the grain boundaries. 
+Further, Mauvy et. al have reported that if ZrO2 is present as the impurity phase in NASICON it may also give rise to a two semicircles response in the Nyquist plot. 
+In the present case, a single semicircle at the high-frequency range followed by a straight line at the low frequency window is observed. 
+This is similar to the observation made by Fuentes et. al. 
+Appearance of a single semicircle (for both the pellets) indicates that NASICON phase is pure without any impure zirconia phase. 
+It can be seen from the ﬁgure that the as formed material (Figure 12a) shows lower impedance value, when compared to the pellet formed from the annealed material. 
+This indicate that the pellet made from the as formed material the grain boundary conductivity is higher than the other pellet, indicating the compactness or compressibility of the material under identical condition. 
+The intercepts have been calculated and the conductivity values for both the pellets were calculated. 
+The conductivities are 5.6 × 10-3 and 2.2 × 10-3 S cm-1 for the as formed and the pellet formed from the annealed samples. 
+It may be noted that the best conductivity value for NASCION is 2.5 × 10-3 S cm-1 for the sample sintered at 1220 °C for a period of 40 h. 
+We may conclude that the molecular precursor approach has paved the way for the preparation of nano sized NASICON precursors that may be responsible for the phase purity and better conductivity of the resultant material.
+
+The study shows the formation of molecular precursor Na1+xP3-xSixO8 (x ) 1 or 2), by the hydrolysis of TEOS using phosphate solution. 
+The molecular precursor formation was conﬁrmed by P NMR, FTIR and XRD studies. 
+The XRD data indicates the presence of edge sharing phosphate and silicate tetrahedra in the molecular precursor. 
+The molecular precursors were reacted with Zr(OC3H7)4 under solvolytic condition to form the NASICON precursors materials, which are not ad mixture of Zr(OH)4 and the molecular precursors. 
+It has been demonstrated in the present work that the NASICON precursors transform to phase pure NASICON at elevated temperature and impurity phases like ZrO2, sodium phosphate, sodium silicate were not observed. 
+The method is convenient for the synthesis of complex systems involving phosphosilicate networks. 
+Bulk preparation of the ionic conductor was carried out using this route (ca. 200 g scale) and the phase purity is the same. 
+The molecular precursor has been successfully employed for compounds with composition Na1+xTi2SixP3-xO12 and Li1+xZr2SixP3-xO12 and the details will be reported elsewhere. 
+Further works are in progress in this regard.
+

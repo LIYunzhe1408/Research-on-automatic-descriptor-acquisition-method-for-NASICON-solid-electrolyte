@@ -1,0 +1,118 @@
+In this paper, Na3V2-xMox(PO4)3@C including sol-gel and solid was successfully prepared through two steps method, state thermal reduction.
+The optimal doping amount of Mo was deﬁned by experiment.
+When x was 0.15, the Na3V1.85Mo0.15(PO4)3@C sample has the best cycle performance and rate performance.
+The discharge capacity of Na3V1.85Mo0.15(PO4)3@C could reach 117.26 mA$h$g-1 at 0.1 C.
+The discharge capacity retention was found to be 94.5% after 600 cycles at 5 C.
+The requirement of energy is more and more urgent with the development of the society.
+Renewable energy sources, such as the wind energy and the solar energy, are hopeful to support this requirement.
+However, they are all affected by intermittent natural conditions and the cost-effective energy storage solutions are needed.
+After development for many years, lithium-ion batteries (LIBs) are more and more skillful and the applications of LIBs to electric vehicles (EVs) and large-scale energy storage systems (EESs) show great advantages [2–5].
+However, when taking many factors such as cost, abundance, energy density into consideration, the largescale applications of LIBs are not satisfactory.
+Based on this consideration, sodium-ion batteries (SIBs) attract attention as they show more advantages than LIBs.
+First, the reserve of sodium is twenty times than that of lithium.
+Second, sodium carbonate (0.07–0.37 £/kg) is much cheaper than lithium carbonate (4.11–4.49 £/kg).
+Furthermore, sodium and lithium are alkali metals and they have many similar properties.
+So, developing SIBs can adopt similar theories and technologies of LIBs.
+Till now, developing suitable electrode materials which have similar storage capacity, cycling life and rate capability as LIBs do for SIBs is still a great challenge.
+Although both sodium and lithium are alkali metals, compared with Li+ (0.76 Å), Na+ (1.02 Å) has larger ionic radius and severer structure degradation in the charge/ discharge progress, leading to poor cycle performance and rate performance [16–17].
+Up to now, many materials which could be applied in SIBs as cathode materials, such as Na0.7Fe0.7Mn0.3O2, NaxCoO2, NaFePO4, NaxMnO2 and Na3V2(PO4)3 (NVP) [22–30], have been investigated.
+Among these materials, the discharge voltage plateau of NVP is about 3.4 V (the same as LiFePO4) and is relatively higher compared with other sodium cathode materials.
+In addition, the empty space made up of large interstitial channels will well facilitate the Na+ transport in the NVP crystal structure.
+Unfortunately, NVP has a poor electronic conductivity like Li3V2(PO4)3 and LiFePO4, which results in poor cycle performance and rate performance.
+At present, three main methods are used to improve the performance of electrode materials.
+The ﬁrst is to reduce the size of the material to nanoscale.
+The second is to formate a hybrid electrode material with carbon or other conductive materials.
+As for NVP, according to the reported papers, compounding with carbon or other conductive material is the most commonly used method.
+More recently, doping other cations to substitute V to improve the electrochemical performance of NVP has aroused more interest of researchers.
+A good ionic and electronic conductivity was obtained when Cr, Ni, and Mg were used, resulting in improved rate and cycle performance.
+The increase of capacity and theoretical energy density could also be achieved by doping Fe and Al.
+In this paper, Mo was chosen as a dopant to partially substitute V in NVP.
+As we know, Mo3+ (83 pm) has a larger ionic radius than V3+ (78 pm), which may bring a larger channels and pathways for the transportation of Na+ in the crystal lattice and result in an improved dynamicperformance.
+The Mo-doped high crystalline NVP nanoparticles wrapped in carbon layer (named MoNVP@C hereafter) were synthesized through two steps of sol–gel method and solid state thermal reduction method.
+By adjusting different dosages of the doped Mo, a series of Mo-NVP@C materials were prepared.
+The electrochemical performance of as-synthesized materials applied as the cathode of SIBs was investigated.
+Experimental2.1 Synthesis of Mo-NVP@C nanocompositesTwo steps of the sol–gel method and the solid state thermal reduction method were used to prepare the Mo-NVP@C composites.
+In the ﬁrst step, precursor gel was obtained by hydrothermal reaction which makes the components mixed homogeneously.
+NH4VO3, molybdenum acetylacetonate, Na2CO3 and NH4H2PO4 [(2 – x):x:1.5:3 by molar ratio (x = 0, 0.05, 0.1, 0.15, 0.2, 0.25)] were added into 40 mL distilled water with strenuous stirring at room temperature to form yellow solution.
+Then, 5 mL ethylene glycol was added into the above solution.
+The ethylene glycol acted as a gel formation reagent and the carbon resource in the later process.
+The solution was continuously strenuously stirred for 30 min.
+After that, the mixed yellow solution was placed into a 60 mL Teﬂon vessel which was positioned in a stainless-steel autoclave.
+The autoclave was transferred into an oven which temperature kept at 180°C lasting for 24 h.
+After the oven was cooled to the room temperature, a blue gel was got in the vessel.
+The blue gel was dried in an oven at 120°C for 12 h.
+After that, the gray NVP precursor was obtained.
+Subsequently, the gray NVP precursor was ground into powder, pre-heated at 350°C for 3 h and then further calcined at 850°C for 6 h in the ﬂow of Ar/H2 atmosphere.
+After cooling to room temperature, the MoNVP@C sample was obtained.
+It was obvious that the position of the peak was shifted with doping, indicating that Mo has entered the NVP lattice.
+In order to further explore the structure change by the Mo doping, Rietveld reﬁnement was conducted for Na3V1.85Mo0.15(PO4)3 samples (Fig.1) and other Mo-NVP@C samples by using the GSAS program suite within the R-3c space group.
+The structure of NVP could be regarded as three [PO4] tetrahedrons sharing one corner of each octahedron [VO6].
+A highly covalent three-dimensional framework is constituted by [VO6] octahedrons and [PO4] tetrahedrons together.
+The three-dimensional framework can provide channels and pathways for the transport of electron and Na+.
+Moreover, it needs to identify the doping site of Mo for the two-possibility sites (Na and V).
+The preferred doping site in polyanion can be predicated by the following formula:where, XM and XM1(2) are electronegativity values of the dopant and the substituted ions, respectively; rM and rM1(2) are ionic radii of the dopant and the substituted ions, respectively.
+The morphologies and sizes of the sample were observed by a Hitachi-S-4800 ﬁeld emission scanning electron microscope and a FEI-TECNAI-G2 transmission electron microscope, respectively.
+Energy dispersive X-ray spectroscopy (EDS) results were also obtained by using the Hitachi-S-4800 ﬁeld emission scanning electron microscope.
+High-resolution transmission electron microscopy (HRTEM) images were got via a JEOL-2010 transmission electron microscope.
+Electrochemical measurements of NVP@CThe electrochemical performance of the Mo-NVP@C samples were measured through 2032-type coin cells whose counter electrode was sodium foils
+The oxygen and moisture levels of the glove box were no more than 1 and 0.1 ppm, respectively.
+Active materials, super P and PVDF (80:10:10 by weight) were mixed into N-methylpyrrolidone solvent forming uniformly mixed slurry for preparing the working electrode.
+Following it was transformed into a vacuum oven to dry at 110°C for 12 h.
+The electrodes possess a mass loading of the active materials about 1.0–1.2 mg$cm–2. The electrolyte was 1 mol$L–1 NaClO4 dissolved in a mixture of ethylene carbonate (EC), dimethyl carbonate (DMC) and ethyl methyl carbonate (EMC) (1:1:1, volume ratio).
+A CHI660E electrochemical workstation (Shanghai, China) was used to test cyclic voltammetry (CV) and electrochemical impedance spectroscopy (EIS).
+Figure S1(a) shows XRD patterns of the Mo-NVP@C samples and the peaks can be indexed in rhombohedral phase of NVP.
+No other peaks related to carbon could be the carbon in Mo-NVP@C found, demonstrating thatFig.
+ietveld reﬁned XRD patterns of Na3V1.85Mo0.15(PO4)3.XPS spectra of prepared Mo-NVP@C samples were shown in Fig.
+To identify the content of Mo, Mo-NVP@C was characterized by EDS and the results are shown in Fig.
+From the spectra, elements of C, V, Na, Mo, O and P were clearly observed in the doped NVP.
+The speciﬁc content of Mo was illustrated in the inset table of Fig.
+With the increase of the dosage of Mo, the content of Mo in MoNVP@C samples was increased too.
+SEM was applied to characterize morphologies and the structure of prepared Mo-NVP@C samples.
+Figures 4(a)–4 (f) represented images of prepared Na3V2 – xMox(PO4)3@C samples at high magniﬁcation with x for 0, 0.05, 0.10, 0.15, 0.20 and 0.25, respectively.
+The samples were the same with each other which constituted by nanoparticles with the average size of about 200 nm.
+EDS spectra of prepared Mo-NVP@C samples and atomic percentage of Mo in as-prepared Mo-NVP@C samples.
+These nanosized particles could decrease the path way of Na+ and beneﬁt the Na+ diffusion.
+Many holes were formed for the accumulation of particles.
+It could enlarge the speciﬁc surface area of Mo-NVP@C samples [27,43–44].
+Figures 4 (g)–4(l) represented images of the prepared Mo-NVP@C samples at low magniﬁcation with x = 0–0.25, respectively.
+Mo-doped NVP@C composites for high stable sodium ion battery cathodeFig.
+SEM images of as-prepared Na3V2 –xMox(PO4)3@C samples in (a)(b)(c)(d)(e)(f) high magniﬁcation and (g)(h)(i)(j)(k)(l) low magniﬁcation.
+The morphology of the samples is of 2–4 μm sphere constructed by nanoparticles.
+To obtain more detailed information of the prepared Mo-NVP@C samples, TEM and HRTEM were applied to characterize the samples.
+The porous structure facilitates for both the inﬁltration of electrolyte and the transformation of ions.
+Figures 5(b)–5(d) show HRTEM images of the Mo-NVP@C (x = 0.15) sample.
+Clear lattice fringes could be observed in the HRTEM images.
+The distances between neighboring lattice fringes were 0.625, 0.44 and 0.31 nm, which consist with the (012), (104) and (024) planes of rhombohedral phased NVP, respectively.
+In addition, a layer of carbon with an average thickness of 7 nm covered on the NVP particles could be observed clearly in Fig.5(b).
+This layer of carbon could not only restrict the size of NVP at nanoscale, but also enhance the electrical conductivity of materials.
+To better obtain the detailed information of the layer of carbon covered on NVP, Raman spectroscopy was performed on prepared Mo-NVP@C samples.
+The peak located at 1359 cm–1 represented D band which was caused by disordered carbon.
+Another peak located at 1587 cm–1 stood for G band related to graphite carbon.
+The two bands were further deconvoluted into four peaks byFig.5 (a) TEM image and (b)(c)(d) HRTEM images of asprepared Mo-NVP@C sample (x = 0.15).
+The D3 and D4 modes are attributed to interstitial defects of disordered carbon and sp2-sp3 stretching vibrations of polyene-like structures.
+The ratios of the integrated areas (ID1/IG) are 3.9, 3.2, 3.3, 3.9, 3.8 and 3.8 for Mo-Na3V2 – x(PO4)3@C samples with the x values of 0, 0.05, 0.10, 0.15, 0.20 and 0.25, respectively, indicating a high disordered carbon phase.
+To better understand the electrochemical performances of as-prepared Mo-NVP@C samples, CR2032 coin-type batteries were assembled and measured.
+The CV curves of fresh Mo-NVP@C electrodes were shown in Fig.7(a).
+There was one oxidation (desodiation) peak located at 3.5 V caused by theFig.
+Raman spectra of as-prepared Mo-Na3V2 –x(PO4)3@C samples with the x value of (a) 0, (b) 0.05, (c) 0.10, (d) 0.15, (e) 0.20 and (f) 0.25 (black lines: experimental curves; red lines: ﬁtted curves; green line: deconvoluted curves).
+phase conversion from NVP to NaV2(PO4)3. However, two split peaks located at 3.3 and 3.2 V were observed in the reduction (sodiation) process, which may originate from the transfer of Na1 to Na2 in the NVP structure for heat release during the discharge–charge process.
+The average voltage was in agreement with the equilibrium voltage of V4+/V3+ redox couple in this compound (3.40 V vs.Na+/ Na).
+No other paired oxidation/reduction peaks were observed in the CV curves, indicating that Mo did not participate in the electrochemical reaction, which consists with Mo-doped LiFePO4/C sample.
+It also should be pointed out that the voltage separation of the redox couple has a minimum value of 0.17 V when x = 0.15. As the minor voltage separation means a good reversibility of theelectrode, the Na3V1.85Mo0.15(PO4)3@C sample will have a better cycling performance.
+The initial discharge capacities of the six samples were 104.62, 102.77, 102.57, 102.48, 101.40 and 100.32 mA$h$g–1 with x of 0.15, 0.10, 0.05, 0.20, 0.25 and 0, respectively, and after 600 cycles, the corresponding discharge capacities were 97.85, 93.41, 91.20, 82.71, 75.13 and 67.56 mA$h$g–1. Corresponding capacity retention rates were 94.5%, 90.9%, 88.9%, 80.7%, 74.1% and 67.3%, which are shown in Table 1. According to the result, the stability ofFig.
+8 Long cycle performance at the current rate of (a) 1 C for 200 cycles and (b) 5 C for 600 cycles of as-prepared Mo-NVP@C samples.
+Mo-NVP@C samples was better than that of the NVP@C sample.
+And when x was 0.15, the Mo-NVP@C sample obtained the best electrochemical performances.
+The sample showed 112.1, 110.5, 107.4, 102.1, 96.8, 83.4 and 69.7 mA$h$g–1 discharge capacities at the current rates of 0.5, 1, 2, 5, 10, 20 and 40 C, respectively.
+When the current rate turned back to 0.5 C, the discharge capacity was 111.7 mA$h$g–1. In addition, at the small current rate (0.5 or 1 C), the discharge capacity difference of the six samples was tiny.
+With the increase of the current rate, the discharge capacity difference was increased.
+In order to study kinetics process of the prepared Mo-NVP@C electrode, EIS tests were carried out at the frequency range from 106 to 10–2 Hz.
+Nyquist plots as well as ﬁtted equivalent electrical circuit of the fresh cells of Mo-NVP@C electrode were shown in Figs.9(b) and S3. The Nyquist plots were made up of a straight line in the low-frequency region which represent the Warburg resistance (Wo) and a semicircle in the high-frequency regionTable 1 Capacity retention of as-prepared Mo-NVP@C samples at 1 and 5 C for 200 and 600 cyclesValue of xCapacity retention/%Capacity retention/%slope of the straight line in the low-frequency region, which is larger than that of the sample with x = 0.10 and 0.20. Therefore, a suitable Mo doping quantity for NVP will improve its electrochemical performance.
+On the basis of the experiment results, optimal doping amount of Mo was selected.
+Na3V1.85Mo0.15(PO4)3@C sample had the best cycle performance and rate performance.
+The discharge capacity of Na3V1.85Mo0.15(PO4)3@C could reach 117.26 mA$h$g–1 at the current rate of 0.1 C.
+A steady long-cycle life at 5 C for about 600 cycles was observed.
+The discharge capacity could even keep 94.5% of the initial capacity.
+The outstanding performance of the as-prepared Na3V1.85Mo0.15(PO4)3@C sample could result from follows: Firstly, the doping Mo was good for overcoming the kinetics restrictions.
+Secondly, the carbon covered on Mo-NVP@C particles could not only restrict the size at nanoscale, but also enhance electrical conductivity.
+Thirdly, porous structure of Mo-NVP@C could enlarge contact area of electrode/electrolyte.

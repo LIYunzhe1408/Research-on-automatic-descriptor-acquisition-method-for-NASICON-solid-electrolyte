@@ -1,0 +1,32 @@
+Recently, much attention has been paid to the development of compact, low-priced, solid-state sensors which can monitor directly the concentration of atmospheric NO2. Several potentiometric solid-elecsensors have been proposed and trolyte NO2 examined [1–10]. Some sensors can detect a small amount of NO2 in air, but the accuracy of concentration data obtained is not usually high because of the potentiometric signal, which varies logarithmically with gas concentration. Generally speaking, amperometric sensors, if properly fabricated, can give more precise concentration data than potentiometric sensors. However, there has been little work [11] on solid-state amperometric NO2 sensors.
+
+Lately, we have proposed and reported [12, 13] an amperometric NO2 sensor using a NASICON (Na+super-ionic conductor) and sodium nitrite (NaNO2). The current response of this sensor varied linearly with NO2 concentration, but its lowest limit of NO2 detection was several-hundred ppb. In addition, the original sensor needs a ﬂow of air to a counter electrode side as a reference gas, so the simpliﬁcation and miniaturization of sensor structure is not easy. To overcome these drawbacks we designed a relatively small and compact sensor which requires no reference-gas ﬂow. This modiﬁed amperometric sensor was found to give excellent NO2 sensing properties with a detection limit of 10 ppb, as described below. Here we report the preliminary sensing characteristics and sensing mechanism of this compact sensor.
+
+A compact electrochemical sensing device was fabricated by using a small plate (5 mm · 8 mm · 0.7 mm) of NASICON (Na3Zr2Si2PO12), as shown in schematic form in Fig. 1. A commercial gold paste was applied on both sides of the plate, as a sensing counter and reference electrode, respectively, followed by annealing at 700  176)C for 30 min. The counter gold electrode was then covered with a layer of NaNO2. The thicknesses of the gold electrode and the NaNO2 layer were about 10 lm and about 200 lm, respectively. The gold electrode was coated with an inorganic adhesive to avoid the direct contact with the sample gas. We conﬁrmed that the potential of this reference electrode was quite stable even in the ﬂow of the sample gas 0021-891X  211) 1998 Chapman & Hall
+
+containing NO2. Such a reference electrode has been successfully used in the other kinds of solid electrolyte gas sensors (e.g. [14]). The NO2 sensing experiments were carried out in a conventional gas ﬂow apparatus equipped with a heating facility. Sample gases containing various concentrations of NO2 under a constant oxygen concentration of 21 vol % were allowed to ﬂow over the whole sensor element at a rate of 100 cm3 min)1. The sensing electrode was polarized at a constant value by means of a potentiostat (Hokuto Denko, HA-101), with reference to the gold electrode. On switching the gas ﬂow between air and the sample gas, the electrolysis current ﬂowing through the NASICON plate was measured as a sensor signal, mainly at 150  176)C. The polarization curves for the device were also measured in air or in the sample gases.
+
+Figure 2 shows the polarization curves of the device measured in air and in the sample gases containing varying concentrations of NO2 at 150  176)C. It is seen that the cathodic current increases with increasing NO2 concentration and a clear limiting current is observed in the sample gases when the sensing electrode is polarized at around )130 24) )280 mV vs reference electrode. This indicates that the potential of the reference gold electrode coated with the inorganic adhesive layer remains constant even in the sample gas so that the electrode functions as a relatively stable reference electrode. Furthermore, the appearance of a limiting current suggests that the diusion of NO2 gas into the NASICON/sensing Au electrode interface is controlled by the gold layer which is porous.
+
+The current response to NO2 was then measured at a constant sensing-electrode potential of )150 mV at 150  176)C. Figure 3 depicts the dependence of NO2 sensitivity (absolute current value) on NO2 concentration in air. An almost linear relationship between the sensitivity and NO2 concentration is seen over a wide concentration range from 10 ppb to 1 ppm.
+
+Figure 4 depicts the response transients to NO2 of various concentrations under the operating conditions mentioned above. It is seen that the response of the device is relatively quick even for very diluted NO2 gas, that is, the 90% response time in 20 ppb NO2 was as short as  24)60 s. Furthermore, it was conﬁrmed that the cross sensitivities to other gases, such as 100 ppb NO, 100 ppm H2, 100 ppm CO,
+
+Fig. 1. Conﬁguration of the compact amperometric NO2 sensing device.
+
+Fig. 4. Response transients to NO2 at 150  176)C. Working electrode potential: )150 mV vs reference Au electrode.
+
+1000 ppm CO2, and 1.84 vol % H2O, were very low compared to that to 100 ppb NO, as shown in Fig. 5. With such excellent sensing performances, the present device appears promising for NO2 monitoring in atmospheric air.
+
+Figure 6 shows the schematic NO2 sensing model for the present device. At the sensing electrode, whose potential is polarized cathodically in the NO2 gas ﬂow, the following cathodic reduction (Equation 1) of NO2 takes place to produce NaNO2: Na 135)  135) NO2  135) e 255) ! NaNO2
+
+ 133)1 134) At the counter electrode, on the other hand, the anodic reaction (Equation 2) of NaNO2 (decomposition reaction) occurs giving Na+ and NO2:
+
+ 133)2 134) Thus the sodium ions migrate through the NASICON plate from the counter electrode side to the sensing electrode side. This is accompanied by current ﬂow in the external electric circuit as a sensing
+
+Fig. 2. Polarization curves of the device in air and in sample gases (NO2 + air) at 150  176)C.
+
+Fig. 3. Dependence of sensitivity (DI) on NO2 concentration at 150  176)C. Working electrode potential : )150 mV vs reference Au electrode.
+
+Fig. 5. Sensitivities (DI) to various gases at 150  176)C. Working electrode potential: )150 mV vs the reference Au electrode.
+

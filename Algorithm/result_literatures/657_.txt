@@ -1,0 +1,133 @@
+The exploitation of renewable energy with environmental friendly nature and low cost has been placed on the top of priority of industrial development.
+As an important component of renewable sources, rechargeable batteries are attracting tremendous attention.
+Although lithium-ion batteries (LIBs) are used worldwide for mobile electronics and electric vehicles, scarcity of lithium resources and a signiﬁcant increase in the price of lithium carbonate have limited its large-scale applications.
+Recently, sodium ion batteries (SIBs) are expected to become competitive alternatives to LIBs due to the lower cost and the larger abundance of sodium than lithium.
+Among various sodium based materials, Na3V2(PO4)3 (denoted as NVP), with a typical sodium super ion conductor (NASION) structure, consists of corner-shared PO4 tetrahedron and VO6 octahedron which can provide three-dimensional open framework to exhibit high mobility of sodium ion with little volume change of the crystal structure.
+In addition, NVP shows two electric plateaus at 3.4 V and 1.6 V vs. + Na redox couples, respectively.
+Therefore, NVP electrode can be used as both anode and cathode in different voltage window.
+For NVP compound, the −1 in the voltage retheoretical capacity can reach up for 117 mAh g gion of 2.4–3.7 V, which hints 2/3 of the sodium deintercalation form and intercalation into the material structure.
+The above advantages endow NVP great potential as cathode materials for SIBs.
+Na, which are based on the V4+and V3+NVP/C composites have been synthesized by various methods to ions and electrons transfer to further enhance improve kinetics of Na the electrochemical performance.
+One effective way to synthesize NVP/C is sol-gel method.
+Lim reported a sol-gel reaction to prepare NVP/C which delivered a slight low discharge capacity, which lost 2.7% of the initial capacity after 50 cycles.
+Shen presented a sol-gel method combining with a freeze-drying process to synthesis a porous NVP which was coated by 6 nm thick carbon layer, and the material showed better electrochemical properties than bare NVP powders in the voltage range of 2.7–4.0 V.
+7 A nano core-shell NVP@C material, which was synthesized by a hydrothermal assisted sol-gel method, −1 at 0.5 C rate.
+19 coule deliver a discharge capacity of 104.3 mAh g It is obvious that electrochemical performance of NVP/C needs to be further improved by optimizing synthesis parameters in sol-gel process, such as sol-gel reaction temperature, molar ratio of NVP to C, calcination temperature, calcination time and so on.
+Therefore, sol-gel method needs to be systematically investigated, and orthogonal test is a feasible choose to select the best process parameters because it can achieve the balance between schedule and quality.
+In this paper, NVP/C composites are successfully synthesized by a sol-gel method based on orthogonal test and single factor method.
+After optimizing synthetic parameters, the NVP/C composites exhibit remarkable improvements in electrochemical performance.
+The effects of calcination temperature on crystal structure, particle size and electrochemical properties are studied in detail.
+All the raw materials used in the sample synthesis, were all purchased from Sinopharm Chemical Reagent Beijing Co., Ltd.
+NVP/C samples were synthesized by a simple sol-gel method (located in Scheme 1).
+NaOH, NH4VO3, NH4H2PO4 were mixed in the molar ratio of 3:2:3 (Na:V:P).
+The mixture and a certain percentage of critic acid were dissolved into deionized water, then the ◦ solution was stirred at 60–100 C for 8h to attain dark blue gel.
+The ◦ C for 12h under air atmosphere.
+Afﬁnal gel was dried in oven at 80 ter ground, the powders were transferred into a tube furnace, then the ◦ C for 3 h and continuously calcined at powders were calcined at 350 ◦ C for 8–16 h under argon atmosphere to obtain the NVP/C.
+600–800 The reaction process is as follows:
+Designing the optimal synthesis parameters.
+To ﬁnd out the optimal parameters of synthesizing NVP/C and study their effects on the electrochemical performance of samples, a orthogonal test is performed by using L9 (34) orthogonal table to arrange four-factor and three-level experiment.
+Factors of A (NVP:C), B (sol-gel reaction temperature), C (calcination temperature) and D (calcination time) for NVP/C preparation were considered.
+The initial discharge capacities were considered as target.
+The phase composition of NVP/C was measured by X-ray diffraction (XRD, Regaku SmartLab) using Cu kα radiation (λ = 1.5406 Å) at a scanning rate 4 ◦ /min within 2θ = 10 ◦ .
+The particle morphologies and size were observed with a scanning electron microscopy (SEM, Zeiss Supra 55).
+The exist of carbon was conﬁrmed by a micro-Raman spectrometer (Raman, Renishaw InVia) with a 514.5 nm blue laser beam.
+The carbon content of NVP/C was estimated using Carbon and Sulfur Analyzer.
+ASSA-4300 instrument was operated, and the speciﬁc surface area was calculated from N2 adsorption and desorption data by the
+Scheme 1. Schematic illustration of preparation of NVP by sol-gel method.
+Brunauer-Emmett-Teller (BET) method, and the pore size distribution was obtained by Barrett-Joyner-Halenda (BJH) method.
+The electrochemical performance was measured using CR2032 coin half cells, which were assembled in a glove box ﬁled with argon.
+The electrode, composed of NVP/C, carbon black and polyvinylidene ﬂuoride (PVDF) at a mass C for 8 h under vacuum.
+Sodium ratio of 80:10:10, was dried at 120 metal foil was used as anode, and the glass microﬁber ﬁlter was used as separator.
+The electrolyte was 1M NaClO4 in ethylene carbonate (EC) and dimethyl carbonate (DEC) (1:1 in volume) and 5% weight ﬂuoroethylene carbonate (FEC).
+The charge-discharge properties and cycle performance were examined using Land CT2001A at 0.2 C in potential range of 2.5 V–3.8 V.
+Analysis synthetic parameters.
+The plan and results of the orthogonal test are listed in Table I .
+From Fig.1a, the initial discharge capability achieves the maximum value under molar ratio of NVP to ◦ C (1:1), sol-gel reaction temperature (80 C), both calcination temper◦ C and 16 h).
+And it is obvious that ature and calcination time (800 the inﬂuencing order of the factors for the initial discharge capability was calcination temperature > molar ratio of NVP to C>sol-gel reaction temperature>calcination time.
+Simultaneously, calcination temperature has the greatest effect on the degree of crystallization of samples.
+Fig. 1b shows the XRD patterns of NVP prepared in sol-gel orthogonal test and the samples are named as S1-S9.
+Obviously, the XRD patterns show bread-shaped scattering peaks when samples are ◦ prepared at 600 C, indicating the formation of amorphous phase.
+The amorphous phase will decrease the proportion of the active material which leads to poor electrochemical performance.
+The XRD peaks of main phase NVP are sharp and the degree of crystallization is increased with the rise of calcination temperature.
+All reﬂections of NVP prepared at 700 C can be indexed to the calculated pattern of NVP with R-3c space group.
+The proper calcination temperature can ensure high crystalline and good crystal structure of the prepared samples.
+The effect of calcination temperature.
+According to orthogonal design, calcination temperature is the most inﬂuential factor.
+We synthesized samples under NVP to C (1:1), sol-gel reaction temperatureTable I.
+Orthogonal experimental factors and levels.
+Figure 1. a The variation trends of the NVP initial discharge capacity under different factors and levels. b XRD patterns of NVP from the orthogonal tests.
+Fig. 2a presents the X-ray diffraction tures (750,800,825 and 850 (XRD) patterns of the samples prepared under different conditions.
+The XRD patterns have the NASICON structure with space group of R-3c (JCPDS card # 00-062-0345) .
+The results were consistent with previous report.
+Each cell includes six NVP structural units which are composed of octahedral VO6 and tetrahedral PO4, the unit becomes a polyanion [V2(PO4)3] and connected to the same
+Figure 2. XRD patterns of NVP/C a at different calcination temperature, b Initial charge/discharge curves of charge/discharge curves of NVP/C.
+Therefore NVP has a highly open three-dimensional structure.
+There are mainly two types of Na ions in different oxygen environments located in the crystal voids or channels, one of which is the Na site (6b) at the octahedral site and is deﬁned as Na (1).
+The other is the Na site (18e) located in the tetrahedral position and is deﬁned as Na (2).
+Each unit contains one Na (1) and three Na (2).
+Therefore, the polyanion [V2(PO4)3] has four Na ions.
+However, the valence state of vanadium in NaxV2(PO4)3 is generally trivalent V3+ , and vanadium valence state transition can be achieved by controlling electrochemical reaction in a certain voltage range.
+Comparing the diffraction peaks, the diffraction peak intensity of the sample increases with increasing of the calcination temperature, which indicates that the crystallinity of the sample is increasing, but it may imply that the particles overgrow resulting in larger grain size.
+When the calcination temperature reaches 850 due to the instability of bivalent V2+C, there is a faint peak near 30 degree.
+Fig. 2b depicts the initial charge/discharge curves of sample under different calcination temperature at the rate 0.2 C in the potential window of 2.5–3.8 V.
+The initial discharge capacity are 104.5, 106.7, 102 and 98.8 mAh g C, the maximum ◦ at 800 C (denoted as Opt-NVP/C).
+Moreover, Opt-NVP/C exhibits a long and stable voltage platform at around 3.4 V.
+Opt-NVP/C possesses the shortest distance between discharge and charge plateaus among all the samples which means the smallest polarization owing to an improvement of the kinetics of NVP active materials.
+SEM shows that the morphology of the sample was mass irregularly shaped with a particle size of about 3–11 μ m in Figs.3a-3d.
+As the calcination temperature C, the agglomeration phenomenon decreases and the increases to 800 size of secondary particles decreases.
+When the calcination temperature continues rises to 825 C, the agglomeration trends to be more serious.
+The crystallinity of the sample improves with increasing calcination temperature, which results in a further increase in particle size.
+Fig. 3b insets high magniﬁcation image of NVP/C at ◦ 800 C.
+It reveals that a lot of pores can be observed in active materials because of pyrolysis of the critic acid.
+The porous particle structure produces positive effect on the electrochemical performance, because the pores increase area of the direct contact with electrolyte, which improves the possibility to transport sodium ions into NVP/C.
+In order to further clarify the porous morphology of the sample, the corresponding porous size and surface area of the sample are shown in Fig. 5a.
+The nitrogen adsorption and desorption isotherms are described as type III with H3 hysteresis loop which suggests a weak interaction between solid and gas.
+The BET surface area is estimated
+Figure 3. SEM images of NVP/C at different calcination temperature: a 750−1.
+The Barret-Joyner-Halenda pore-size distribution to be 20.65 m2 g curve displays that the pore size is distributed around 2–6 nm.
+It may facilitate both the sodium insertion/deinsertion properties.
+TEM image of Opt-NVP/C clearly shows two kinds of topograhical regions in Fig.4a.
+Firstly, we can observe the approximate oval dark area and shape edges (drawn as A).
+Then ﬂocculent irregular particles scattered around the black area (drawn as B).
+In Fig. 4b, we can clearly observe the lattice fringes of samples.
+The lattice spacing is 0.2518 nm which corresponds to the (300) crystal plane of the sample.
+It can be clearly seen the presence of carbon on the surface of the samples partly.
+The experiment by using Raman spectra also conﬁrms the existence of carbon again.
+Fig.5b shows two characteristic peaks −1, corresponding to D and G bands of at 1324 cm carbon and indicating formation of graphitic domains.
+The carbon content is further conﬁrmed using carbon sulfur analyzer, which shows the carbon content of 1.47%.
+The existence of moderate carbon can hinder the agglomeration of particles, improve electrical conductivity and cycle performance.
+Comparative cycling performance of different samples is carried out and shown in Fig. 6a.
+When all samples cycled between 2.5 and 3.8 V, the capacity of Opt-NVP/C seems to be higher than others in the ﬁrst cycle.
+This result may come from better crystallization caused by moderate temperature and morphology of bigger pores.
+Figure 4. Images of the Opt-NVP/C: a TEM, b HRTEM.
+Figure 5. a nitrogen adsorption /desorption isotherm curve, b Raman spectra of Opt-NVP/C.
+Figure 6. Cycling performance of NVP/C a at a current rate of 0.2 C, b at different rate performance.
+After 100 delivers a discharge capacity of 104.5 mAh g cycles, it only lost 2.5% compared to the initial discharge capacity, which exhibited a better capacity retention and cycling stability.
+The improvement of cycling property should be related to a reduced polarization and stable operating voltage window during electrochemical process.
+The rate performance of the different NVP samples at 0.2C, 0.5C, 1C, 2C, 5C, 10C, 20C are shown in Fig. 6b.
+Obviously, thedischarge capacity decreases with the increase of the current density.
+In the voltage range of 2.5–3.8 V, Opt-NVP/C samples showed better rate performance and the best discharge speciﬁc capacity at the same rate, and the smallest capacity difference between 0.2C and −1 even at a high 20C.
+The discharge capacity exceeds 90 mAh g rate of 20C, which is mainly due to the improvement of sodium ions diffusion.
+Fig. 7b shows the CV curves for the Opt-NVP/C −1, respectively.
+The Na of the Opt-NVP/C can be calculated by the classical Randles-Sevcik equation:Where Ip is the peak current (A), n is the electron transfer number, S is the area of the active material on the electrode, DNa is the diffusion coefﬁcient of sodium ion, ν represents the scanning rates, and C0 is the Na-ion concentration in the eletrode.
+Fig. 6c shows a linear ﬁt of peak currents (Ip) and the square root of the scan rates (ν1/2).
+Based on Equation 1, the diffusion coefﬁcient of sodium ions can be calculated by the slope of the ﬁtting line is 1.612 × 10 −10 cm2 −1 for cathod and anode, respectively. s−9 and 8.487 × 10
+To further investigate the electrochemical process, the electrochemical impedance spectra measurements on the NVP cathode ma−1 Hz to 105 Hz before charge and disterials are performed from 10 charge.
+Fig. 8a shows the Nyquist plots Opt-NVP/C sample and the ﬁtting equivalent circuit.
+A semicircle in the high-frequency range of Nyquist plots is attributed to charge transfer resistance (Rct), an inclined line in low-frequency region corresponds to Warburg impedance (Zw) in equivalent circuit which is related to the diffusion of Na ions in a large amount of electrode material, at high frequencies, the Z-axis intercept corresponds to the composite resistance (Re) of the electrolyte and the electrode, which is almost  for all electrodes.
+CPE is related to surface properties.
+The ﬁtting values are listed in Table II.
+The diffusion coefﬁcient of sodium ions (DNa) can be estimated from the low frequency region using the following formula:R is the gas constant, T is the absolute temperature, S is the active surface area of the cathode, n is the number of electrons per species reaction during oxidization, F is the Faraday constant, C is the concentrationof Na ions in the cathode electrode (which was approximately 6.92 × 10 −3, given the chemical composition of the active  4) material), and σ is the Warburg factor related to Z−3 mol cm 4) = Re + Rct + σω−1/2
+Fig. 8b shows the linear ﬁt of Zand B, and its slope can be used to calculate the diffusion coefﬁcient of sodium ions.
+According to Equation 2 we can get, DNa is equal to 4.37693 × 10 −1.
+It is smaller than the diffusion coefﬁcient calculated using the CV method.
+This may be due to failure to take into account information about the potential dependence of DNa values, leading to the DNa inaccurate, but it has been lager than the previous report.
+Figure 7. CV curve of Opt-NVP/C in 2.5–3.8 V voltage a at a scanning rate of 0.1 mV s−1, b at different scanning rate, c Linear ﬁtting of Ip vsν1/2.
+Fig. 7a shows CV curve of Opt-NVP/C sample in 2.5–3.8 V voltage inat a scanning rate of 0.1 mV s sertion (oxidation)/extraction (reduction) process at 3.49 V and 3.29 V + (Na redox couple of NVP as a result of transformation between Na3V2(PO4)3 and NaV2(PO4)3.
+About 0.20 V of the polarization values ( V) also demonstrates excellent reversibility and cycle stability.
+The peaks represent a facile Na + /V3+/ Na), respectively.
+In summary, a porous NVP/C material with a particle size of around 3–11 μm has been successfully prepared using sol-gel method.
+The results turn out that the crystal structure and electrochemical performance are signiﬁcantly improved after optimizing technical parameters.
+For the optimization synthesis of NVP/C, when cycled at 0.2 C, −1 can be obtained, and the disthe initial capacity of 106.7 mAh g −1 after 100 cycles, charge capacity can be stabilized at 104.5 mAh g which indicates that the structure stability has not been broken with + Na migration.
+Our ﬁnding can offer a low-cost and simple synthetic strategy to prepare cathode materials with high-power and long cycle life for Na-ion batteries.
+

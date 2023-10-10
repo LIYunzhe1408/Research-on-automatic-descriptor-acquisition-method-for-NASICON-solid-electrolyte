@@ -1,0 +1,146 @@
+We  have  patterned  a CO,  thin  film  electrochemical  sensor  using  Xe  laser  ablation  of  Pt,  Nasicon  and  Na,CO, 
+
+thin  films.  A  thin  metallic  absorbing  layer  on  Nasicon  is used  to  achieve  reproducible  ablation  of  the  ionic  conductor  with  no  piercing  of  the  buried  Pt electrode.  Processing  conditions  are  10 J/cm2  pulses  with  a  scanning  velocity  of  500  pm/s  for  Pt  and  6.3  J/cm2  pulses  with  a  scanning  velocity  of  100  pm/s  for  Nasicon.  Nasicon  is  ablated  in  the  form  of  flakes  suggesting  an  ablation  in  the  solid  phase.  Fabrication  of  an  integrated  heating  element  and  a  micro-thermometer  by  laser  ablation  is  also  presented. 
+
+Recent  interest 
+
+in  the  use  of  integrated  gas  sensors  for  environmental  pollution  measurements  has  stimu lated  research  and  development  in  the  field  of  ap plied  solid  state  ionics.  The  need  for  detection  of  gases  such  as  CO,,  SO,,  NO,  etc  at  ppm  levels  has  led  to  the  design  of  various  electrochemical  sensing  devices  [l-6]  based  on  advanced  superionic  materi als  such  as  NASICON  (Na  Super  Zonic  Conductor)  0  <  x <  31.  Such  advanced  [Na l+~Zr*Si,R3-~012’  materials  are  often  not  compatible  with  standard  microelectronic  techniques.  For  instance,  Nasicon  is  water  sensitive.  Thus,  Nasicon  films  can not  be  patterned  using  photolithography  without  damaging  in  microelectronics  for  circuit  or  photomask  repairs  [7],  mainly  for  ablation  of  metal  lines.  It  is  already  the 
+
+them.  Laser  ablation 
+
+is  widely  used 
+
+fabrication 
+
+
+technique  of  choice  for  patterning  material  that  is  either  water  sensitive  or  cannot  be  etched  by  chemi  cals  or  by  reactive  ion  etching  (RIE).  Laser  ablation  by  direct  writing 
+
+is  a  very  versatile 
+
+technique,  well suited 
+
+to  research  and  development  work,  since  it  is  easy  to  modify  device  design  without  changing  all  photolithographic  masks.  With  the  appropriate  choice  of  laser  wavelength,  one  can  ablate  a wide  variety  of  materials  (metals,  ceramics,  etc.)  [8]. We  report  here  the  use  of  laser  ablation  of  superionic  conducting  ceramic  thin  films  in  the  fabrication  of  a  CO,  thin film  electrochemical sensor 
+
+based  on  Nasicon.  We  in  fabrication  of  an 
+
+also  report  use  of  laser  ablation  integrated  heating  element  and  micro-thermometer  associated  with  the  sensor  device. 
+
+For  this  system,  the  maximum  incident  energy  was  300  p,J,  with  a  pulse  duration  of  =  1  p,s.  The  incident  energy  may  be  varied  from  0  to  lOO%, with  an  accuracy  of  I%,  using  an  optical  attenuator.  The  pulse  rate  may  be  varied  from  1 to  30  Hz.  The  laser  beam  was  focused  on  the  sample  surface.  The  size  of  a  squared  spot  could  be  varied  from  5  p,m  X  5  pm  to  60  Frn  X  60  km.  We  typically  used  40  p,m  X  40  p.m  spots.  The  sample  is  placed  on  a  computer table,  and  moved  during  direct  writ controlled  x-y  ing.  The  displacement  (pattern)  programmed  may  be  modified  or  recalled  at  any  time.  A  CCD  camera  allows  observation  of the  sample  surface  during  abla tion.  Thin  films  of  Pt,  silicate-limit  Nasicon  [6]  and  Na,CO,  were  deposited  onto  4-inch  Si  (100)  wafers  by  reactive  magnetron  in  an  ultra-high  vacuum  chamber. 
+
+sputtering 
+
+A  cross  section  of  the  patterned  gas  sensor 
+
+is  shown  in  Fig.  1.  The  substrate  used  was  a  silicon  wafer  on  which  a  thermal  oxide  ( =  0.3  pm)  had  been  grown.  A  platinum  thin  film  (=  0.3  rJ,m) was  sputtered  and  patterned  in  order  to  form  the  elec trodes  of  the  electrochemical  cell.  The  ionic  conduc tor  (Nasicon)  thin  film  (=  0.5  p,rn)  was  deposited  by  sputtering  on  the  electrodes.  The  catalytic  electrode  (Na,CO,)  to  the  gas  to  be  detected  was  then  sputtered. 
+
+sensitive 
+
+laser  ablation 
+
+The  device  was  patterned  by 
+
+to  selectively  remove  parts  of  the  films.  Such  an  ap proach  is  necessary,  due  to  both  the  high  solubility  of  the  carbonaceous  materials  which  are  used,  and  to  the  electrochemical  interference  of  water  molecules  penetrating  Though 
+
+laser  ablation  of  metals  straightforward,  use  of  lasers  in  patterning 
+
+the  layers.  the 
+
+is  quite  the  device 
+
+Fig.  1. Cross  section  of  the patterned  gas  sensor 
+
+Fig.  2. Platinum  residues  in the  laser  ablated  region. 
+
+described  above  represented  ablation  of  (Na,CO,  the  Nasicon  thin  film  without  damaging  ing  platinum 
+
+two  challenges:  First,  of  materials  low  absorbance  and  Nasicon);  second,  selective  ablation  of  the  underly
+
+thin  film. 
+
+light 
+
+The  first  laser  processing 
+
+step  is  the  ablation  of  the  platinum  layer  in  order  to  form  the  two  metallic  electrodes  of  the  sensor.  The  Xe  laser  tube  was  held  at  a pressure  of  8 mTorr  with  a bias  voltage  of  4  kV.  The  repetition  rate  was  30  Hz.  The  scanning  velocity  was  varied  from  10  to  750  km/s.  The  threshold  fluence  for  Pt  ablation  over  SiO,  was  7.5  J/cm*.  At  12.5  J/cm*,  SiO,  was  damaged.  Threshold  fluences  show  very  small  variation  the  power  varia tion  from  pulse  to  pulse  e-g  few  %)  with  scanning  velocity.  However,  at  750  km/s,  important  ablation  residues  are  still  present.  For  processing  conditions,  we  chose  a  high  scanning  velocity  the  process  time  and  fluence  below  SiO,  threshold.  The  optimised  processing  conditions  for  Pt  are  a  fluence  of  10 J/cm*  and  a  scanning  velocity  of  500  km/s.  the  electrodes  Although  totally  isolated  from  each  other,  a  100 kL!  resis electrically  is  tance  across  acceptable  this.  ablation  residues  have  to  be  minimized.  This  is  done  by  three  passes  of  the  40  pm  square  laser  spot  using  a  small  overlap  between  tracks. 
+
+for  our  device.  In  order  to  achieve 
+
+the  100  p.m  interelectrode 
+
+ideally  be 
+
+to  reduce 
+
+should 
+
+space 
+
+This  process  tends  to  produce  balls  of  melted  Pt,  of  =  2  km  diameter,  in  the  center  of  the  ablated  region.  Fig.  2  shows  a  scanning  electron  micrograph 
+
+
+thin 
+
+electrodes  and  often 
+
+ablation,  we  sputtered  a  very 
+
+to  lead  to  uncontrolled  patterning  of  the  sufficient  buried  platinum  to  complete  removal  of  this  layer.  Piercing  of the  buried  platinum  layer  was  observed  at  the  center  of  the  spot  probably  caused  by  the  explosive  vaporisation  of  Pt  result  of  an  inhomogeneous  heating  by  the  incident  laser  beam.  Based  on  these  observations  and  in  order  to  improve  Nasicon  film  ( =  100  nm)  of  Pt  or  Au  over  the  Nasicon  thin  film.  This  metallic  film  acts  as  an  absorbant,  which  uni layer.  With  this  formly  spreads  heat  to  the  Nasicon  metallic  absorbing  is  repro ducible  and  no  piercing  of  the  lower  Pt  layer  was  observed.  The  best  conditions  were  a  fluence  of  6.3  J/cm*  with  a  scanning  velocity  of  100  Fm/s.  Laser  energy  at  the  surface  of  the  sample  must  be  con trolled  to  within  4%.  Otherwise,  either  no  ablation  occurs  or  the  Pt  layer  was  pierced.  The  Nasicon  film  tends  to  ablate  in  the  form  of  flakes  of  the  size  of  the  laser  spot.  A  dry  N,  jet  was  used  to  remove  these  residues.  Fig.  4  shows  a  SEM  photograph  of  the  Nasicon  ablated  region.  One  can  distinguish  the  very  layer  over  the  Nasicon  as  thin  metallic  absorbing  well  as  the  small  residues  of  Nasicon  left  over  the  ablated  region. 
+
+layer,  Nasicon  ablation 
+
+The  last  ablation 
+
+step  in  gas  sensor  fabrication,  the  buried  platinum  electrodes  over  a  200  exposing  km  X  200  pm  region  for  wire  bounding,  is  also  critical.  For  this,  we  need  to  make  the  ablation  of  Na,CO,  is  only  the  range  of  h  =  0.48-0.54  weakly  absorbing 
+
+over  Nasicon.  Sodium  carbonate 
+
+Fig.  3.  Nasicon  coverage  over  bumps  at  the  edge  of  the  laser  ablated  region 
+
+could  have 
+
+the  optimised 
+
+in  which  Pt  residues 
+
+remain.  of  an  ablated  region  laser  This  can  be  reduced  by  using  rate.  However,  scanning  speed  and  laser  repetition  forms  a  region  the  edge  of  the  ablated  platinum  bump.  This  phenomenon  two  major  drawbacks.  First,  material  coverage  over  these  bumps  is  not  good,  and  can  cause  a  discontinuity  between  material  over  the  electrode  and  material  in  the  active  region.  Second,  the  presence  of  these  bumps  induces  a  localised  stress  build-up  during  Nasicon  sputtering,  causing  film  cracking.  Coverage  of  material  over  bumps  at  the  edge  of  the  ablated  region  is  shown  in  Fig.  3. 
+
+The  second  patterning 
+
+step  is  the  ablation  of  the  the  active  region  of  the  sensor,  Nasicon  both  in  the  metallic  electrodes,  and  over  which  is  between  to  allow  contact  be one  of  the  platinum  electrodes  film  (Fig.  1).  tween  that  electrode  and  the  Na,CO,  At  that  stage,  it  is  very  important  that  one  edge  of  the  active  region  be  free  of  Nasicon.  This  ablation  is  also  very  critical,  in  that  it  is  important  not  to  pierce  the  platinum 
+
+Ablation  of  Nasicon 
+
+pm.  Scanning  velocity 
+
+is  only  weakly  absorbing 
+
+is  quite  difficult  because  in  the  range  of  Nasicon  (10  to  200  A =  0.48-0.54  and  fluence  (4  to  8  J/cm’)  were  varied  in  km/s>  order  to  determine  the  optimum  ablation  conditions.  However,  we  rapidly  found  that  the  process  window  for  Nasicon  ablation  was  narrow  and  difficult  to  reproduce.  Energy  variation  from  pulse  to  pulse  was 
+o  that  standard  RTD  total  resistance  the  temperature.  controllers  can  be  used  to  monitor  This  to  work  reliably  up  to  450°C.  Some  aspects  of  electrical  behaviour  of  our  device  have  been  published  previ ously  [6]  and  other  publications  will  appear  shortly.  Laser  ablation  has  been  found  to  be  a  very  versa in  the  tile  technique  heating  element  and  micro-thermometer  design,  many  geometries  have  been  tried  in  a  short  period  of  time.  Avoiding  to  remake  all  photolithography  mask  sets  each  time,  only  a  change  of  few  lines  in  the  computer  program  were  sufficient  to  remake  the  patterns. 
+
+Laser  ablation  usually  occurs  by  melting  or  subli mation  of  the  material,  through  light  absorption.  This  process  thus  depends  strongly  on  optical  and  thermal  to  be  ablated  and  on  their  properties  of  materials  substrates.  Metallic  film  ablation  may  occur  through  melting,  evaporation  or in  solid  phase  [9-131.  to  explode  For  melting,  liquid.  under  Formation  is  a  normal  consequence  of  this  process.  The  metallic  balls  ob served  at  the  edge  of  the  ablated  region  could  be  of  importance,  depending  upon  the  application.  These  residues  can  be  minimised,  but  not  eliminated,  by  finding  laser  scan ning  speed,  spot  dimensions  and  repetition  rate  to  the  material  and  thin  film  thickness.  For  the  gas  sensor  fabrication,  these  bumps  were  too  large  compared  to  the  thickness  of  subsequent  sputtered  films  over  the  metallic  electrodes,  and  caused  film  cracking  during  7:1:8  sputtering.  Chemical  etching  (HCl:HNO,:H,O;  at  70°C)  [14]  was  finally  used  only  the  platinum 
+
+Nasicon  ablation  was  a  crucial  problem.  Laser  ablation  was  in  fact  the  only  patterning  technique  available,  since  Nasicon  cannot  be  etched  neither  by  wet  chemical  etches  nor  by  RIE.  Nasicon  absorbs  very  little  in  the  range  A =  0.48-0.54  km  and  its  ablation  to  the  metal  ablation  described  above.  This  means  that  Nasicon  thin  film  ablation  is  probably  due  to  the  heating  of the  layer  under  it.  But  the  temperature  to  produce  ablation  of  the  Nasicon  thin  film  seems  very  high,  since  the  Pt  layer  was  often  ablated  at  the  same  time.  A  small,  but  insufficient,  improvement  was  obtained  by  making  the  Pt  layer  thicker.  In  order  to help  the  absorption  of  light,  a  thin  film  (=  100  nm)  of  Pt  was  sputtered  over  the  Nasicon  film  acting  as  a light  absorbant  and  thickness  of  Pt  is  spreading  uniformly  heat.  This  more  than  the  optical  absorption  length  in  the  range  pm  [15].  The  choice  of  100 nm  film  A =  0.48-0.54  thickness  of  Pt  or  Au  as  an  absorbant  was  intuitive  since  no  thermal  model  calculations  were  computed  because  of  lack  of  data  on  silicate-limit  Nasicon  temperature  dependent  (thermal  conductivity  and  diffusivity).  But  this  absorbant  layer  film  and  make  was  sufficient 
+
+ablation  possible.  This  additional  metallic  film  has  no  effect  in  the  sensor  structure.  A  shown  in  Fig.  4,  the  thin  metallic  film  is  removed  from  a wider  region  than  the  Nasicon  film,  avoiding  any  electrical  shorts  with  the  device  electrodes. 
+
+This  mechanism  de different  in  the  solid  scribed  above  and  could  be  an  ablation  for  metals  phase  as  has  already  been  documented  [12]  and  oxide  [ 131  [9-l  I],  high  T,  superconductors  layers.  Material  ablation  occurs  at fluences  where  the  laser  induced  temperature  is  below  the  ablated  mate rial  melting  temperature.  Reported  results  of  ablation  in  solid  phase  are  of  absorbant  layers  on  transparent  substrates.  Here,  we  have  ablation  of  a  transparent  film  (Pt)  and  we  layer  (Nasicon)  over  an  absorbing  thermal  contribu should  anticipate  a  more  important  tion  from  the  underlaying  in  the  solid  phase  is  also  reported  for  the  low  fluence  domain.  Fluences  used  in  this  work  are  more  than  one  order  of  magnitude  higher  than  those  reported.  In  compar son,  Toth  et  al.  [l  11 observed  ablation  in  solid  phase  of  tungsten  on  glass  substrate  using  a  pulsed  Ar+  and  SziirCnyi  et  laser  with  fluence  of  180  mJ/cm’  al.  [13]  observed  in  solid  laser  with  a  fluence  of  phase  using  a  KrF  excimer  430  mJ/cm’.  The  fluence  used  in  this  work  for  Nasicon  ablation  is  6.3  J/cm’.  The  size  of  ablated  particules  reported  here  is  in  the  range  of  tens  of  km  in  comparison  of  few  pm  for  both  Toth  et  al.  [ 111  and  Szi-jr&yi  et  al.  [13]  . This  is  probably  due  to  the  larger  spot  size  used  this  work.  The  Nasicon  ablation  in  solid  phase  leads  to  a delamination  of  the  Pt(100  nm)/Nasicon  pair  that  is  probably  enhanced  by  thermal  expansion.  This  is  suggested  by  Fig.  4  in  we  may  see  signs  of  delamination  of  the  ablated  films. 
+
+indium-tin  oxide  ablation 
+
+the  range  h  =  0.48-54 
+
+The  ablation  of  the  Na,CO, 
+
+thin  film  should  be  very  similar  to  that  of  Nasicon,  since  it  also  does  not  absorb  pm.  We  could  have  used  the  same  technique  developed  for  Nasicon  it  ablation:  use  of  a  thin  absorbing  has  been  the  ablation  100  nm)/Nasicon  structure  film  being  removed  at the  same  time  as  the  Nasicon  film.  This  material  is 
+
+found  more  convenient  of  the  Na,CO,/Pt( together,  the  Na,CO, 
+
+to  perform 
+
+also  ablated  in  form  of  flakes.  The  process  is  very  reproducible,  but  requires  very  good  control  of  the  incident  energy  density  (to  4%).  If  the  energy  is  not  sufficient,  no  ablation  occurs.  If  the  energy  density  is  too  high,  the  Pt  film  is  pierced. 
+
+The  optimised  conditions  we  obtained  were  spe cific  to  the  optical  wavelength  and  pulse  duration  of  our  ablation  system.  We  anticipate  that  superior  abla tion  results  can  be  obtained  using  both  shorter  dura tion  pulses  and  UV  pulses  from  excimer  or  YAG  lasers.  In  particular  the  formation  of  metallic  balls  can  be  avoided,  and  ablation  selectivity  can  be  en hanced. 
+
+A  CO,  thin  film  electrochemical 
+
+sensor  has  been  fabricated  using  laser  ablation.  A  novel  technique  for  ablation  of  non-absorbing  material  has  been  devel oped  and  shown  very  reproducible.  Ablation  of  Nasi con  and  Na,CO,  in  solid  phase  is  observed.  Laser  technique  controlled  by  computer  has  been  ablation  found  to  be  a  very  attractive  and  versatile  tool  for  research  and  development  works. 

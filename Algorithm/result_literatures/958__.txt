@@ -1,0 +1,80 @@
+The phenomenon of relaxation in dielectric materials is described as one of the powerfultools to determine the behavior and properties of ion transport.
+
+The kinetics of ionic speciesand dipole in solid-state electrolyte are dependent on frequency, temperature, and dielectricrelaxation.
+
+ Li1+xTi2-xAlx(PO4)3 conducting solid state electrolyte with x=0.3 wassynthesized via conventional solid state technique using the raw materials Li2CO3, TiO2,Al2O3, and NH4H2PO4 as starting materials.
+
+TGA/DTG and X-Ray diffractionmeasurements were carried out to study the thermal behavior and phases of thecomposition.
+
+It was observed from the TGA/DTA curves that there is no mass loss above500 ºC.
+
+The XRD peaks were observed to start appearing at 500 ºC which corresponds tosmall peaks in TGA.
+
+It was also pointed out that at increasing sintering temperatures from700 ºC to 1000 ºC the number of phases drastically decreased which is attributed to thecomplete chemical reaction.
+
+Temperature and frequency dependence of dielectric relaxationand electric modulus of the compounds were investigated at temperatures 30 – 230 ºC andat frequencies of 40 KHz–1MHz.
+
+The findings showed that the dielectric relaxation peaksshift to higher temperature as frequency increases and the change in ac conductivity withfrequency is in agreement with Jonscher’s power law.
+
+Superionic conductors are material compounds that exhibit higher values of ionicconductivity within a solid state [1].
+
+The major challenge in the study of super ionicconducting material is the electrical characterization of the material and how to reduce theconductivity temperature to ambient conditions so that they can be suitable for applicationsin devices such as lithium ion batteries [2,3,4].
+
+NASICON is known as sodium super ionicconductor which is a family of NZP (Sodium Zirconium Phosphate).
+
+The crystal structureof the parent composition NaZr2(PO4)3 was first determined by Hungman and Kriega [5,6].
+
+The network structure of the NASICON AxM2(XO4)3 consists of a network with cornersharing MO6 octahedral and XO4 tetrahedral.
+
+In such framework, each octahedron issurrounded with six tetrahedral and each tetrahedron is connected to four octahedral [7].
+
+The NASICON-type material has an exceptional property due to its ability to provideaccommodation to atoms of various sizes in its lattice sites.
+
+All the various atoms in thelattice can be substituted (Na, Zr and P) with the exception of oxygen, which may result ina material with different chemical and physical properties that may be used in diverseapplications [8,9].
+
+Most works based on NASICON have been carried out in the titanium systemLiTi2(PO4)3 (LTP) where the small size of Ti4+ cations make the size of the sites in thechannels more appropriate for lithium cations [10].
+
+However, it was observed that, there isalso the problem of poor sinterability and controversial phase transition in the preparationof LTP [11].
+
+But significant improvement in bulk and grain boundary conductivity wasreported by Forsyth [12] due to partial substitution of Ti with Al content into the basic LTPlattice.
+
+ A significant improvement has been reported by the same substitution by Aono.
+
+The best optimum lithium ionic conductivity has been reported in nominalstoichiometry composition of Li1+xTi2-xAlx(PO4)3 with x = 0.3 [13].
+
+Another importantobservation is that sintering of the pellets becomes more easy on substitution which reducesporosity to 4% [12].
+
+It was also reported that varying sintering temperatures have an impactin increasing the number of impurity phases in the material and this has a great effect on thebulk conductivity of the material [14].
+
+Four phases could be associated with the preparationof NASICON polycrystalline materials namely berlinite polymorphs AlPO4, tridymiteAl(PO4 ), rutiles TiO2 and TiP2O7 [15].
+
+Based on literature reports it has been suggestedthat low sintering temperature (900–1000 ºC) could be better for sintering LATP materialto avoid loss of lithium in the sample when sintered at high temperature [16].
+
+Dielectric relaxation study is very important and valuable phenomena for understandingthe transport behaviour of ions in solid state ionic conductors.
+
+Literature survey shows thatdielectric properties of ionic LATP conductors have not been widely studied despite theirimportance which may be attributed to complexity of data representation.
+
+There is aconsiderable amount of research work on synthesis and electric characterization of LATPby various researchers, but only a few exist on the dielectric properties of LATP.
+
+Most ofthe electrical characterization on the material has been on impedance spectroscopy withinthe range of 1 Hz to 10 MHz and just very few reported on the dielectric relaxationbehaviour [17].
+
+In this research work, synthesis of LATP has been carried out using conventional solidstate synthesis technique at different sintering temperatures (800–1000 ºC).
+
+Structuralcharacterization was also carried out using XRD analysis.
+
+The present study aims to reportthe electrical properties, dielectric permittivity, dielectric relaxation and electric modulus ofsintered Li1+xTi2-xAlx(PO4)3 (LATP) compounds with x=0.3 at the temperature range 30 –230 ºC and in the frequency range 40 Hz – 1MHz.
+
+LATP samples were synthesized by means of conventional solid state reaction technique.
+
+Sintering properties of the material were studied at various temperatures from 500-1000 ºC.
+
+X-ray Diffraction studies confirmed the rhombohedra structure with R3c space group of thesynthesized sample with ICSD card No.
+
+ In the high frequency region the conductivity exhibits frequencydependence.
+
+The decrease in the value of correlation exponent with the increase intemperature confirms that the mobility of the ions at high temperature is frequencyindependent conductivity and also n is temperature-dependent which obeys the power law.
+
+The decreasing trend for both dielectric constant and dielectric loss with increasingfrequency were observed at all temperatures.
+
+The presence of dielectric relaxation wasconfirmed by investigating the variation of electric modulus with frequency in which thepeak values of M’’ shift from lower frequency towards the high frequency region and theheight of the peak increases gradually as the temperature rises.
+

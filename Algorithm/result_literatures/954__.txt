@@ -1,0 +1,38 @@
+Crystallization of high-temperature self-flux ofthe pseudo-quaternary system Na2O–MIIO–Al2O3–P2O5(MII–Mg, Mn) was studied, and two new complexorthophosphates with general composition Na4MgAl(PO4)3(NaMgAlP) and Na4MnAl(PO4)3 (NaMnAlP) were prepared and characterized.
+
+Their structures were determinedusing the single-crystal (NaMnAlP) and powder (NaMgAl)X-ray diffraction data.
+
+Both compounds belong to NASICON family (rhombohedral system, space group R32) withcell parameters a = 8.8570(4), c = 21.2865(19) forNaMnAlP and a = 8.74631(13), c = 21.1534(3) A˚ forNaMgAlP.
+
+The basic building blocks of the rigid framework of both compounds are two different units [Al2(PO4)3] and MII2 ð Þ PO4 3 .
+
+The sodium atoms are distributedover three crystallographic sites in cavities of the framework.
+
+The NASICON-type framework topology in spacegroup R32 is discussed.
+
+NASICON-related compounds have great scientific interestdue to their useful physical properties such as high ionicconductivity [1–6], low thermal expansion [7–10], luminescence [11] and high-temperature stability.
+
+Besides, theyare known as perspective hosts for radioactive waste [12],cathode materials in sodium-ion batteries [13, 14] and other.
+
+The basis of their structure is three-dimensional framework[M2(EO4)3]x- (M–I–V valent metals, E–S, P, As, Si, P/Si, P/Mo et al.) that may include from 0 to 4 cations in its cavitiesper one anionic unit [M2(EO4)3]x-.
+
+Crystallographic formula can be shown as (MI)(MII)3(MIII)2(EO4)3, where MIII ispolyvalent metal in rigid octahedral oxygen environment,while MI is cation compensator with distorted octahedraloxygen coordination coaxial with two [(MIII)2(EO4)3] unitsbetween which it is situated.
+
+MII cations have eight-coordinated oxygen environment and occupy another type of thecavities, which are larger.
+
+This type of the building blocksarrangement is realized in rhombohedral (R3c , R3c, R  3, R3, R32 space group) or monoclinic (C2/c or P21/n space group)systems.
+
+In the above privacy, the most of NASICON-related complex sodium-containing orthophosphates (the MIand MII site may be fully occupied by sodium ions) aredescribed in rhombohedral (R3c space group) and mono- clinic (C2/c or P21/n space group) systems.
+
+There are severalexamples of compounds which belong to R 3 [15] or R3space groups [16, 17], while only some complexorthophosphates: Na5MIV(PO4)3 (MIV–Ti, Zr, Hf) [18–20],Na5.28Zr0.94(Si0.5P2.5O4)3 [21], Na4Nb(PO4)3 [22], Na4Ca0.5Ti(PO4)3 [23] and Na3CaTi(PO4)3 [24] crystallize inspace group R32.Herein, the structures of first examples NASICON-related phosphates containing MII and MIII metals whicbelong to rhombohedral system (space group R32) arereported.
+
+The single crystals of Na4MnAl(PO4)3 (NaMnAlP) have been prepared during investigation of hightemperature crystallization of pseudo-quaternary systemsNa2O–MnO–Al2O3–P2O5, while the Na4MgAl(PO4)3(NaMgAlP) have been obtained using melting method.
+
+Thestructures were solved from the single-crystal (NaMnAlP)and powder (NaMgAl) X-ray diffraction data.
+
+Obtainedcompounds have been characterized by powder X-raydiffraction and FTIR spectroscopy.
+
+Two new NASICON-type complex orthophosphates withgeneral composition Na4MIIAl(PO4)3 (MII–Mg, Mn) wereobtained and characterized by powder X-ray diffraction,single-crystal X-ray diffraction, FTIR spectroscopy andthermal studies.
+
+ Both compounds belong to NASICONrelated family in the space group R32.The detail analysisof structural building peculiarities for obtained Na4MIIAl(PO4)3 (MII–Mg, Mn) and previously reported phosphates (rhombohedral system, space group R32) shows thatpossibility of crystallization of NASICON-type phosphatesin the space group R32 is defined by the significant differences of the characteristic M–O contacts in MO6 octahedra which are the basis of the building [M2(PO4)3] units.
+

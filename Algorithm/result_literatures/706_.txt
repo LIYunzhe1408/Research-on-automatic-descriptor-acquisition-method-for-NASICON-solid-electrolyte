@@ -1,0 +1,13 @@
+The nanostructured Na3V2(PO4)3 (NVP) cathodematerial has been synthesized using the sol-gel route for differentmolar fractions of citric acid as a carbon source during thesynthesis.
+The nanostructured NVP as cores with carbonic shellstructures are fabricated with two different citric acid molarratios.
+The thermal treatment has been optimized to convertthe amorphous carbon shell into graphitic carbon to realizethe better electrical conductivity and thus effective electrontransfer during the electrochemical charge transfer process.
+The X-ray diffraction measurements confirmed the rhombohedralcrystallographic phase (space group R-3c) with averagecrystallite size ~28 ± 5 nm.
+The coin cells are assembled in ahybrid rechargeable electrochemical cell configuration withlithium as a counter electrode and LiPF6-EC:DEC:DMC(1:1:1 ratio) as the electrolyte.
+The electrochemical charge/discharge measurements are carried out at C/10 and C/20 ratesand themeasured specific capacities are 80 and 120mAhg−1 forsamples with lower and higher citric acid molar ratios, respectively.
+The studies suggest that NVP can be used as an effectivecathode material in hybrid electrochemical cells, and a higherconcentration of citric acid may result in the effective carbonicshell for optimal electron transfer and thus enhanced electrochemicalperformance.
+The phase pure carbon-coated Na3V2(PO4)3 nanostructuredmaterials have been synthesized successfully with differentcarbon fractions using the sol-gel route.
+The structural measurementssubstantiate the rhombohedral crystallographicphase with R-3c space group.
+The synthesized phase purematerials are porous in nature due to the carbonic shell structures, which is useful for facilitating the ionic transportacross the electrode materials.
+The cyclic voltammetry measurementssuggest that the material can be used as a cathodematerial in hybrid battery systems, with good cyclic reversibility.
+The electrochemical charge/discharge measurementssuggest that material with higher carbon content may providethe enhanced ~115 mAhg−1 specific capacity, close to thetheoretically predicted capacity in hybrid electrochemical configurations.
+These studies propose that effective carbon coatingis essential to achieve the desired electrochemicalperformance.

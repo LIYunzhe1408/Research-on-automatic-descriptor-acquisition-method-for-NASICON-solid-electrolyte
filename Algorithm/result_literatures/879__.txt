@@ -1,0 +1,54 @@
+Sodium extraction behavior in the rhombohedral Na3MnTi(PO4)3with the NASICON structure was investigated and shown to have a 0.5 eV separation of the localized-electron Mn3+/Mn2+ and Mn4+/Mn3+ redox energies.
+
+Used as acathode in a sodium-ion half-cell, the redox couples of Mn3+/Mn2+ and Mn4+/Mn3+ exhibit two voltage plateaus located atabout 3.6 V and 4.1 V vs.Na+/Na, respectively.
+
+Na3MnTi(PO4)3also exhibits a small volume change after the extraction oftwo sodium-ions, and the NASICON structure is well-maintained after repeated extraction and insertion of sodium-ions.
+
+The successful integration of sustainable and renewableenergy generated from solar and wind power plants intomodern society requires the development of energy storage devices at a low-cost in order to smooth the supply ofelectric power into the grid.
+
+The natural abundance ofsodium makes rechargeable sodium-ion batteries preferable candidates to lithium-ion batteries for large-scaleelectric-energy storage provided cost-effective sodiumhost anodes and cathodes can be found with the necessary capacity, voltage, and cycle life.
+
+A number of layeredoxide materials have been investigated recently as cathodes for sodium-ion batteries with the expectation toachieve high capacity.
+
+ However, the large volumechange and the phase instability during cycling areamong the largest obstacles for realization of layeredcathodes with a long cycle life.
+
+Prussian blue analogueshave also been intensively explored as cathodes for sodium-ion batteries due to their low cost, facile synthesisprocedure at low temperature, and the low activationenergies for Na+insertion/extraction.
+
+Nevertheless,their inferior thermal stability, their low volume density,and the toxicity of cyanide are the intrinsic limitationstowards practical applications of Prussian blue cathodesfor sodium-ion batteries.
+
+Another important category ofcathodes for sodium-ion batteries is polyanionic compounds with open framework structures.
+
+ The strong XO (X = P, S, Si, and B) covalent bonding can offer a highstructural stability with a relatively small volume changeduring insertion and extraction of sodium-ions.
+
+Withinthe family of polyanionic frameworks, NASICON (Na+super ionic conductor)-related compounds are of particular interest because of their high Na+mobility and reasonable capacities.
+
+The most useful redox potentials of transition metals inthe NASICON-related cathode materials have been identified as Fe3+/Fe2+ in the sulfate framework,21 and V4+/V3+in the phosphate framework.
+
+The redox couple ofFe3+/Fe2+ in Fe2(SO4)3delivers an average voltage of ~3.2 Vvs.Na+/Na.
+
+The redox couple of V4+/V3+ in Na3V2(PO4)3islocated at a voltage of ~3.4 V vs.Na+/Na.
+
+The redoxcouple of Ti4+/Ti3+ in NaTi2(PO4)3has also been exploited,but its voltage is too low (~2.1 V vs.
+
+Na+/Na) to be used asa cathode for sodium-ion batteries.
+
+Besides the welldocumented NASICON compositions of ATi2(PO4)3(A =Li+, Na+) and A3M2(PO4)3(M = V3+, Fe3+, Cr3+; A = Li+, Na+),limited work has been conducted on mixed transitionmetal phosphates with the NASICON structure, apartfrom the reports of Na2TiM(PO4)3(M = Cr3+, Fe3+, Ga3+,and Rh3+).
+
+The preliminary investigation of NASICONstructured Li2TiFe(PO4)3and Li2TiCr(PO4)3 in lithium-ionbatteries revealed electrochemical insertion of lithiumions proceeds through the reduction of Fe3+ into Fe2+ (~2.8V vs.Li+/Li) and Ti4+ into Ti3+ (~2.5 V vs.Li+/Li).
+
+Theinsertion of sodium-ions into Na1.5Fe0.5Ti1.5(PO4)3andNa1+xTi2-xFex(PO4)3was reported recently; besides theplateau at about ~2.1 V vs.
+
+Na+/Na from the Ti4+/Ti3+ redoxcouple, a continuous voltage decrease is observed between 2.6 and 2.2 V vs.
+
+Na+/Na presumably because of thereduction from Fe3+ to Fe2+.
+
+However, the Fe3+ and Ti4+mixed phosphate cannot provide high voltages due to thedifficulty of oxidation of Fe3+ to Fe4+ in the NASICONframework.
+
+The design of M2+ and Ti4+ mixed phosphatewould open a way to access a high voltage with the helpof the M3+/M2+ and M4+/M3+ redox couples, especially withM2+ = Mn2+.
+
+Herein, we report our investigation of sodium-ion extraction/insertion behavior in NASICONrelated rhombohedral Na3MnTi(PO4)3.The redox couplesof Mn3+/Mn2+ and Mn4+/Mn3+ were accessed in theNa3MnTi(PO4)3cathode, exhibiting two voltage plateauslocated at about 3.6 V and 4.1 V vs.Na+/Na, respectively.
+
+In conclusion, a NASICON-structured material ofrhombohedral Na3MnTi(PO4)3was prepared, and the sodium extraction/insertion behavior was investigated.
+
+Theaccess to two redox couples, Mn3+/Mn2+ and Mn4+/Mn3+,with a voltage gap of 0.5 V between them, provides ahigh-voltage cathode for a sodium-ion battery, but thepoor electronic conductivity will require small particleswith a carbon coating, which would limit the volumetricenergy density of the cathode.
+

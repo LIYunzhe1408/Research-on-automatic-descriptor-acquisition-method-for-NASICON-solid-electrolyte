@@ -1,0 +1,15 @@
+Double and triple cobalt-containing phosphates Cs1–2xCoxZr2(PO4)3 (x = 0.15, 0.25, 0.50) with NASICON structure obtained by the sol–gel method were characterized using XRD, BET, XPS, and UV spectroscopy.
+The major isobutyl alcohol conversion reaction on these phosphates is dehydration.
+The triple phosphates have higher catalytic activity than the double phosphates in accord with a correlation between the yield of olefins and the concentration of acid sites on the catalyst surface.
+Complex phosphates with NASICON (Sodium Super Ionic Conduction) structure has attracted increasing attention in the past two decades since these compounds possess a broad range of applications due to their capacity to form compounds with various given structures and properties.
+The basic structure of the phosphate is formed by ZrO 6 octahedra and PO 4 tetrahedra that share common corners in the unit cell as well as having M1 and M2 cavities of different size, in which a broad range of cations compensating the charge of the framework (charge-compensating cations) may fit.
+The composition of the surface layer was studied by X-ray photoelectron spectroscopy (XPS).
+The surface composition was found to differ from the stoichiometric composition.
+Table 2 shows that the content of the charge-compensating ions on the surface was two or three times greater than the stoichiometric values.
+In comparing these catalysis and adsorption experiments, we see that activity relative to dehydration correlates with the total amount of acid surface sites titrated through pyridine adsorption  25 , while the activity relative to dehydrogenation correlates with the fraction of activated adsorption , i.e., the amount of transition metal ions in the conductance channels of the phosphate.
+Thus, partial replacement of cesium ion by cobalt ions has been found to lead to a linear decrease in the crystal lattice parameters, while complete replacement leads to a change in the type of crystal lattice with a sharp decrease in the size of the unit cell.
+The major reaction in the conversion of isobutyl alcohol is dehydration.
+The triple phosphates demonstrate higher catalytic activity than the double phosphates.
+A correlation was shown between the olefin yields and the total amount of surface acid sites.
+The X-ray diffraction studies were carried out using the scientific equipment and the Physicochemical Research Collective Use Center of the Peoples’ Friendship University of Russia.
+The X-ray photoelectron spectral data were obtained using the scientific equipment of the Scientific Research Collective Use Center of the Chemistry Faculty of Moscow State University.

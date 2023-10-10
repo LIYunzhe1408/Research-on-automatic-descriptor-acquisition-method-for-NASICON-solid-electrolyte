@@ -1,0 +1,50 @@
+Single crystals of NASICON-type material Li1+xTi2-xAlx(PO4)3 (LATP) with 0 ≤ x ≤ 0.5 weresuccessfully grown using long-term sintering techniques.
+
+Sample material was studied bychemical analysis, single crystal X-ray and neutron diffraction.
+
+The Ti4+ replacement scalesvery well with the Al3+ and Li+incorporation.
+
+The additional Li+thereby enters the M3 cavityof the NASICON framework at x, y, z ~ (0.07, 0.34, 0.09) and is regarded to be responsiblefor the enhanced Li+conduction of LATP as compared to Al-free LTP.
+
+Variations instructural parameters, associated with the Ti4+ substitution with Al3+ + Li+will be discussed indetail in this paper.
+
+Lithium-based batteries, in particular Li-air concepts, have the highest theoretical energydensities among conventional batteries.
+
+Their specific energy density excluding oxygen of11430 Wh kg-1 - similar to the energy density of fossil fuels - make them attractive as apossible energy source for electric vehicles even if only half of this energy density might beused in future (Zhang et al, 2008).
+
+In Li-air batteries, mainly water-based electrolytes aredeveloped nowadays, which is problematic due to rapid corrosion of Li metal at low pH.
+
+Therefore solid electrolytes are under development, which are stable against water and Limetal.
+
+ For this purpose garnets (Murugan et al., 2007) or Li-based NASICON materials are ofspecial interest due to their high ionic conductivity, especially Li1+x+y(M, Al, Ga)x(Ge1-qTiq)2-xSiyP3-yO12 and Li1+xAlxTi2-x(PO4)3.Both materials, however, are prone to reduction (Ge4+ toGe2+, Ti4+ to Ti3+) and subsequent decomposition when the material is in contact with metallicLi.
+
+A solution for avoiding this reaction is the application of thin protective coatings of Liconduction garnets or a polymer electrolyte or the use of Li alloys as anode material (Zhang etal., 2008).
+
+NASICON – type materials are skeleton structures, which were originally discovered byHong (1976) and proposed for fast Na+ionic conductivity in the pioneering work ofGoodenough et al. (1976).
+
+A skeleton structure is defined to consist of a rigid framework withinterconnected interstitial space in which ions move in three dimensions (Goodenough et al.,1976).
+
+They identified materials based on Na1+xZr2(P1-xSixO4)3 to show high and fast Na+conductivity.
+
+ A huge amount of work on many different NASICON and Li-based NASICONtype materials have been done since then.
+
+LATP is among the most widely investigated solid electrolyte materials for Li-ion batteriesbecause of its relatively high Li-ion conductivity, chemical stability and mechanical strength.
+
+Its Li-ion bulk conductivity is induced by partial substitution of Ti4+ with Al3+, in combinationwith the incorporation of additional Li+into the structure (see Figure 1 for structural details).
+
+The electrical conductivity therefore depends strongly on the substitution parameter x.
+
+In order to better understand the transport properties from the crystal chemical point of view,highly accurate diffraction data are needed.
+
+Structural information on LATP is available fromseveral studies, e.g.
+
+However, in mostcases only lattice parameters are provided and the main focus of these studies is on synthesisand electrochemical property characterization of LTP with various substituants.
+
+More detailedstructural data are only available from the recent studies of Arbi et al.
+
+Considering theimportance of LATP to enable new battery concepts, it is remarkable that up to now no singlecrystal diffraction studies are available, which is attributed to the difficulties in preparingsingle crystals from Li-conducting materials in general.
+
+However, we succeeded to synthesize single crystals of Li1+xAlxTi2-x(PO4)3, with 0 < x < 0.5and investigated these single crystals by means of single crystal X-ray diffraction (SC-XRD)combined with time-of-flight (t.
+
+This finally enables adetailed analysis of structural variation in LATP as a function of x, which is necessary to fullyunderstand the structure-property relationships in this class of materials.
+

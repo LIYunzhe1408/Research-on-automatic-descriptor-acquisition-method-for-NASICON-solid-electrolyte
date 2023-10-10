@@ -1,0 +1,94 @@
+The thermodynamic parameters of ion exchange have been estimated for HZr · O and the  products of its aliovalent doping.
+Ion exchange occurs via formation of the  PO O  solid-solution series.
+As in the case of ion exchange on layered zirconium phosphate, the interdiffusion coefﬁcient and the major interfacial defect generation processes are considerably affected by the contact-solution pH.
+
+Ion exchange on inorganic sorbents is of signiﬁcant interest due to their high selectivity and chemical stability.
+Kinetic and thermodynamic studies of exchange are most signiﬁcant for both applications and approaching some problems in advanced materials science.
+Among the inorganic ion-exchange materials, layered hydrogen phosphates of polyvalent elements are some of the most abundant and stable in aqueous solutions .
+Ion exchange on some of them was studied in our previous works.
+NASICON materials, which have high ion conductivities and hydrolytic and thermal stability, are especially interesting .
+The literature  on  the  properties  of  zirconium  hydrogen  is scarce.
+PO · H phosphate of composition HZr 2  4 2 2 Clearﬁeld and colleagues were the ﬁrst to synthesize this compound using a hydrothermal process; they described  its  structural  features  and  ion  conductivity.
+More recently, we obtained analogous compounds and products of their aliovalent doping with higher degrees of crystallinity using solid-state synthesis followed by ion  exchange .
+Aliovalent  doping  of  zirconium hydrogen phosphate with niobium(V) and yttrium(III) cations  generates  vacancies  and  interstitials,  which enhance an increase in the cationic mobility at low temperatures.
+
+The corresponding hydrogen species were prepared by ion exchange in hot nitric acid for 20 days.
+Process completion was monitored using a Netzsch TG 209 thermobalance (temperature range, 293–1223 K; heating rate, 10 K/min; sample size, 20–30 mg).
+X-ray  powder  diffraction  was  performed  on  a  radiαRigaku D/MAX 2000 diffractometer using Cu ation.
+The  products  crystallize  in  a  rhombohedral  phase and  contain  one  water  molecule  per  formula  unit,  as determined  by  X-ray  powder  diffraction  and  thermogravimetry.
+The course of ion-exchange reactions was studied as variation in solution pH as described in .
+Test samples (0.1 g) were transferred to 0.004 M NaCl solution (25 mL) to avoid possible hydrolysis of exchange products.
+Then,  0.095  M  NaOH  solution  (0.2  mL)  was added to each sample with vigorous stirring.
+An Expert001-4 pH meter/millivoltmeter was used in potentiometric titration.
+
+Equilibrium  pHs were found by extrapolation of  pH experimental data τ to  inﬁnite  process  time  .
+The  activity  coefﬁcients  of hydrogen ions were taken from.
+Electron micrographs were obtained on a Leo Supra 50 VP microscope; the accelerating voltage was 5 kV.
+Element  distributions  were  studied  by  electron  probe microanalysis  (EPMA)  using  a  Jeol  JSM-840A  scanning electron microscope equipped with a PGT IMIX EPMA unit.
+PINUS  et  al.be ﬁrst of all decided whether the exchange mechanism involves a continuous solid-solution series, or it is heterogeneous and occurs via growth of a new phase on the surfaces of ion-exchanger particles.
+X-ray diffraction patterns of the starting compounds and exchange products (Fig.2) are indexed in orthorhombic system, as for undoped zirconium hydrogen phosphate mono  hydrate (HZr H O) .
+A weak shift of lines PO  is,  however,  observed  in  exchange  products  in  accordance with the change in their unit cell parameters.
+This shift provides evidence that the ion exchange occurs via a continuous solid-solution series, as follows:Here, (solid) and (sln) denote the occurrence of a given compound or ion in a solid or solution phase, respectively.
+This scheme is, in general, reasonable, because the matrix  built  of  PO   octahedra   tetrahedra  and  ZrO  remains  virtually  unchanged  upon  ion  exchange.
+Sodium ions only substitute for oxonium ions in voluminous interstices.
+Figure  3  shows  representative  pH  versus  process time  curves.
+Equilibration  at  high  sodium-for-proton substitution  levels  is  kinetically  slow  even  after  long exposures of samples in contact with the solution.
+If pH measurements are stopped at values differing by more than 0.5 pH units from equilibrium values, the extrapolation results can noticeably deviate from the true values.
+
+The starting zirconium hydrogen phosphate is a heterogeneous crystalline mass.
+The product material contains rather small grains, with sizes of 200–500 nm, and µ far coarser grains with sizes on the order of 10–20  m.
+Electron  micrographs  change  quite  little  upon  ion exchange.
+Figure 1 is an electron micrograph of a sample with an about 50% sodium-for-proton substitution   Zr PO level  (calculated  composition  is  Na ).
+EPMA shows that phosphate particles are pro2 gressively enriched in sodium cations.
+In order for the interpretation of ion-exchange thermodynamic and kinetic data to be adequate, it should
+
+The  Gibbs  energies  calculated  for  HZr2(PO4)3  · H2O,  and H1.02Zr1.98Y0.02(PO4)3 · H2O test samples with 10% proton substitution levels are 0.0, –9.5, and –1.8 kJ/mol, respectively.
+The  H0.98Zr1.98Nb0.02(PO4)3  · H2O  sample has the highest sodium-to-proton substitution selectivity.
+In our opinion, this is not a accidental result.
+Partial substitutions of pentavalent niobium for tetravalent zirconium result in a greater polarization of linked phosphate anions.
+The attendant electron-density redistribution inevitably weakens the valence bond between protons and the oxygen atoms of PO4H groups and, thus, increases their acidity.
+A consequence is a decrease in the Gibbs energy for ion-exchange reaction (1).
+On the other hand, partial substitutions of tervalent yttrium  for  zirconium,  presumably,  should  cause  an inverse effect.
+In the NASICON structure, there are two positions for univalent cations (M1 and M2 interstices surrounded  by  six  and  eight  oxygen  atoms,  respectively).
+All M1 positions in the HZr2(PO4)3 · H2O and NaZr2(PO4)3 structures are, however, occupied.
+Therefore,  in H1.02Zr1.98Y0.02(PO4)3  · H2O,  in  this  case,  are  incorporated into M2 positions.
+The bonding strength of hydrogen ions in these positions should be slightly lower.
+The combination of the aforementioned two factors, likely, results in this change in the Gibbs energy of the ionexchange  reaction  in  transfer  from  HZr2(PO4)3 ·  H2O and H1.02Zr1.98Y0.02(PO4)3 · H2O.
+hydrogen sodium extra ions The  test  materials  have  3D  NASICON  framework structures,  in  which  diffusion  is  possible  in  three dimensions.
+Thus, diffusion coefﬁcients were calculated in terms of a homogeneous model from the Barrer and Boyd relationship for spherical particles :where F is the degree of exchange completion, R is the particle radius of the ion exchanger, D is the diffusion coefﬁcient, and n is an integer.
+Mean  grain  sizes  were  determined  from  electron microscopy data.
+The interdiffusion of protons from the solid phase and sodium cations from the contact solutions occurs inside a layer of the (H3O1 – xNax)Zr2(PO4)3 solid  solution.
+Accordingly,  the  diffusion  coefﬁcients can slightly change with changing hydrogen-ion substitution level.
+Calculated  log  diffusion  coefﬁcient  vs.pH  curves for samples with 30% substitution levels are shown in Figs.4a–4c.
+The diffusion coefﬁcients are well-deﬁned functions  of  solution  pH,  as  in  layered  zirconium hydrogen phosphate Zr(HPO4)2 · H2O.
+This reﬂects the change in the concentrations of various types of defects in the matrix of exchange products on account of theFig.3. pH relaxation after alkali was added to HZr2(PO4)3 · H2O.
+Percentage proton substitution: (1) 10, (2) 30, (3) 50, (4) 70, and (5) 100. interaction  of  exchange  products  with  the  solution  at the  solid–liquid  interface .
+In  most  cases,  this dependence is expressed by two segments, which can, in good approximation, be ﬁtted to straight lines with slopes approaching +1 and –1 (Figs.4a–4c).
+
+According to , this suggests that the major defect generation scheme isAt high pHs (7–10), the slope of the where HH and   are, respectively, a hydrogen ion and a  hydrogen-site  vacancy  in  the  structure  of  exchange products.
+From Eq.(3), the proton vacancy concentration in a solid phase should be proportional to the OH– concentration in a solution, provided quasi-equilibrium defect generation at the interface .
+At the same time, at pHs lower than 6.8 the log diffusion  coefﬁcient  versus  pH  plot  reverses  its  slope: d( )/d(pH) = –1 (Figs.4a–4c).
+This means that, at low pHs, the majority defect type changes from proton vacancies to interstitials .
+The major defect generation process can be represented as(4) In  accordance,  the  interstitial  proton  concentration  is proportional to the hydrogen ion concentration in the solution.
+It is noteworthy that, as in layered zirconium hydrogen phosphate, the change of the major defect-formation process here occurs near pH of 6.8–7 and is very close to the equivalence point for neat water.
+Interestingly, the highest diffusion coefﬁcients were discovered
+
+At 50% and higher sodium-for-proton substitutions, the  rate  curves  have  considerably  different  character.
+The contact-solution pH is higher than 7 even after long exposures.
+The ion-exchange rate decreases appreciably,  despite  the  fact  that  the  ion  conductivity  of NaZr2(PO4)3 exceeds that of HZr2(PO4)3 · H2O .
+At  high  calculated  doping  levels  (50%  and  higher), lines intrinsic to sodium zirconium phosphate appear in X-ray diffraction patterns.
+Most of these lines is overlapped with those for (H3O1 – xNax)Zr2(PO4)3, except for the strongest ones at 2θ = 19.4° and 31.3° (Figs.
+2b, 2c).
+From  this,  it  seems  adequate  that,  at  high  calculated degrees of exchange, it mainly occurs inside ﬁne particles and on the surfaces of large particles.
+Proton carriers  in  NaZr2(PO4)3  in  alkaline  solutions  can  only  be water  molecules  contained  in  lattice  voids.
+Exchange products have far a lower degree of hydration as determined by thermal analysis.
+For example, a sample with the calculated 50% substitution contains as little as 0.65 water  molecule  per  formula  unit.
+Therefore,  the  concentration  of  proton  carriers  and,  consequently,  their diffusion  coefﬁcient  are  extremely  low  in  this  case.
+This leads to the incommensurate low proton-diffusion rates in these samples.
+It is for this reason that kinetic data for them were not processed.
+At the same time, exchange products are not hydrolyzed even upon long exposures to alkali solutions.
+The absence of a precipiate after addition of magnesia mixture proves the high hydrolytic stability of the test materials.
+In summary, the thermodynamic parameters of ion exchange for HZr2(PO4)3 · H2O and the products of its aliovalent doping have been estimated proceeding from potentiometric titration data.
+As in the case of exchange on layered zirconium phosphate (Zr(HPO4)2 · H2O), the interdiffusion  coefﬁcient  and  the  major  interfacial defect  generation  processes  are  considerably  affected by the contact-solution pH.
+
+

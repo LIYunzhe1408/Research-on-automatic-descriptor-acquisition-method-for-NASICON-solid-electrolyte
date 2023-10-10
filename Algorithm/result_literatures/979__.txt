@@ -1,0 +1,56 @@
+In this work solid polymer electrolyte (SPE) amperometric sulphur dioxide sensor isinvestigated.
+
+Nafion was used as a membrane electrode and 1M sulphuric acid as an internalelectrolyte.
+
+ Sensor response to sulphur dioxide was measured.
+
+Besides traditional constantvoltage amperometry also different electrochemical techniques were used.
+
+Results obtained bythese methods are compared.
+
+Amperometric sensors due to high sensitivity and good dynamic properties are frequently used in toxicgas concentration monitoring [1].
+
+ Most of such sensors are based on liquid electrolytes.
+
+Up to nowusage of solid polymer electrolyte (SPE) membrane with layer of porous, metal electrode inconstruction of amperometric sensors is the most successful approach [2].
+
+Main advantages of thistype of sensors are a very high active area of the working electrode (WE) and a short responsetime [3].
+
+In this work performance of SO2 amperometric sensor with SPE is investigated.
+
+The main goal ofthis work is to verify if usage of different electrochemical methods can improve sensor properties.
+
+Sensor responses were measured with constant potential amperometry (CPA), pulsed amperometry(PA), cyclic voltammetry (CV) and square wave voltammetry (SWV) techniques.
+
+These techniques are used with different sensors in the determination of different compounds.
+
+Forexample, PA technique was used with the glucose enzyme sensor [4].
+
+CV method is commonly usedin liquid solution electrochemistry and also with electrocatalytic gas sensors based on solid stateelectrolytes [5-9].
+
+SWV technique can be used in the determination of volatile organic compounds[10].
+
+In contrast with CPA, when only single value of the current is obtained, in case of the CV orSWV methods a response in a form of a curve with more information for a given gas mixture isobtained and analysed.
+
+These additional information obtained from CV and CWV response can beused to improve sensor properties.
+
+In order to analyse such responses a various methods of dataanalysis can be used [11].
+
+To our knowledge, the PA and SWV techniques have not been used so farfor the measurements of SPE sensors responses.
+
+For such sensors, a cyclic voltammetry technique isfrequently used, however only to perform preliminary investigation in order to determine workingpotential.
+
+The CV is not employed for the determination of gas concentration and additionalinformation contained in measured responses can not be used.
+
+In this article experimental results of the SPE sensor investigation are presented.
+
+Sensor response tosulphur dioxide was measured.
+
+It was proven that measurements of a gas concentration by this kind ofsensor can be realised by other techniques, than constant potential amperometry which is usually used.
+
+Measurements with more sophisticated techniques, such as pulsed amperometry, cyclic amperometryand square wave amperometry were made and their results were presented.
+
+Sensitivity was calculatedfrom all results.
+
+It can be concluded that proper choice of measurement method can improve sensorsensitivity without modification of its construction.
+

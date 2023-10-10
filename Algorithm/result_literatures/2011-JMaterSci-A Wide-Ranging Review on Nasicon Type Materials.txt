@@ -1,0 +1,42 @@
+The O2- ion conductivity in Ca2+ or Y3+ stabilized zirconia was less and silver halides are not stable in air and easily decompose.
+B-Alumina has a layer structure and Na+ ions migrate between two-dimensional conductive planes only.
+The general formula of Nasicon composition can be written as AMM'P3O12 (or AM1M2P3O12/AM1M2(PO4)3) where the site "A" can be occupied by alkali ions, alkaline earth ions, and it can also be vacant. The M and M' sites are occupied by di, tri, tetra, and penta valent transition metal ions to balance the charge suitably. Phosphorous can be partially substituted by Si or As.
+Depending on the composition, the crystal structure can be rhombohedral (for many Nasicon systems), monoclinic, triclinic, orthorhombic, Langbeinite, Garnet, SW type (orthorhombic scandium wolframate Sc2(WO4)3), and corundum-like.
+The rhombohedral structure consists of a three-dimensional rigid framework with M(M')O6 octahedra and PO4(SiO4) tetrahedra sharing common corners.
+This 3D framework contains interconnected channels in which the mobile conducting ions are encapsulated at "A" sites. The interstitial space of the tunnels provides the conduction pathway for the mobile ion as shown in Fig. 1.
+The ions present in "A" position can have two different sites: type I sites (6b) situated between two M(M')O6 octahedra along the c-axis (ribbons of O3MO3AO3M0O3) with a distorted octahedral coordination and type II sites (18e) located between the ribbons perpendicular to c-axis with a trigonal prismatic coordination.
+Its composition is derived from NaZr2P3O12 by partial replacement of P by Si with Na excess to balance the negatively charged framework to yield the general formula Na1+xZr2P3-xSixO12 (0 <= x <= 3).
+The crystal structure remained rhombohedral with space group R3c for all compositions except in the range 1.8 <= x <= 2.2 where a monoclinic transition occurred with space group C2/c.
+The conductivity was found to be high for a phase with monoclinic crystal lattice (x = 2.0).
+The micro hardness of the doped samples increased considerably while the variation in the bulk conductivity was found to be small.
+The conductivity of Na3MnZr(PO4)3 is smaller by two orders of magnitude compared to Na3Zr2Si(PO4)3 while the conductivity of Na3MgZr(PO4)3 is half of the value of Mn compound.
+The triangle T1 formed by one O(1) and two O(2) is identified as the key bottleneck in the irregular M1–M2 conduction pathway.
+In these zirconium deficient Nasicon compounds, a phase transition from monoclinic to rhombohedral occurs around x = 0.333.
+It is observed that the mobility of Na+ ions in these materials is mostly influenced by the size of the bottlenecks through which the ions have to pass. The phase transition does not affect the ionic conductivity.
+Lithium based solid electrolytes are mainly useful for all solid state batteries due to their high energy densities and high open circuit potentials.
+It is observed that LiZr2(PO4)3 prepared above 1100 °C adopts rhombohedral structure (R3c) and undergoes a phase transition to triclinic structure below 55 °C.
+LiZr2P3O12 may crystallize in the Nasicon or SW (orthorhombic scandium wolframate Sc2(WO4)3) structure depending upon the synthetic temperature.
+The enhancement of ionic conductivity at 423 K is attributed to distorted tetrahedral coordination of Li+ coupled with the large number of empty sites available for jumping in the rhombohedral phase, which was absent in the room temperature triclinic phase.
+The monoclinic-to-rhombohedral phase transformation occurs in the range 120–190 °C on heating while rhombohedral to monoclinic transformation occurs between 60 and 100 °C on cooling cycle.
+These studies indicate that LiHf2P3O12 exhibits a reversible first order phase transition around 0 °C. It crystallizes in the hexagonal lattice and undergoes to a triclinic distortion at 0 °C.
+The conductivity was considerably enhanced in these systems due to the densification and decrease in the activation energy at the grain boundary.
+It was noted that in the series Li1+xCrxHf2-x(PO4)3, rhombohedral structure exists for x = 0.1 and orthorhombic structure for 0.5 < x< 2.0. The ionic conductivity increases with the substitution of M3+ for Hf4+ ions.
+The increase in the conductivity is correlated to both the incorporation of Al and the presence of vacancies in the LTP framework.
+Nb substitution leads to cation mobility enhancement and triclinic-rhombohedral phase transition.
+Busu et al. investigated the ionic conductivity in the system Li9-4xZrx(PO4)3 (0<x<2) and the enhancement of conductivity with increase in the value of x.
+The experimental results showed that grain size and relative density were the main factors determining the ionic conductivity of the bulk materials.
+The ionic conductivities of silver containing Nasicons are always higher than those of corresponding sodium containing Nasicons, which was explained based on polarizability of silver ion.
+In Ti-Nasicon, W6+ was partially substituted onto the Nb5+ site to obtain high Ti4+ ion conductivity by reduction of the strong electrostatic interaction between the Ti4+ cation and the surrounding counter O2- anions.
+Zr4+-ion conducting Nasicon was developed by partially substituting the P5+ ions in the Nasicon-type ZrTa(PO4)3 solid with Si4+ ions having larger ionic size and lower valence.
+Tetravalent Ge4+ ion conduction was demonstrated by partial replacement of P5+ ion in GeNb(PO4)3 by Si4+ ion.
+The strength of the P–O bonds are affected by A and M ions in these phosphates.
+The composition, Na3.5Cr1.5Co0.5P3O12 crystallizes in rhombohedral lattice with R3c space group.
+From the analysis of the 7Li and 31P NMR spectra, cation distribution and Li mobility have been deduced.
+It was observed that Li and Mn occupy statistically the M1 sites and the lithium ions electrochemically intercalated in this structure are localized in M2 site.
+Nasicon type materials show low thermal expansion beha vior, which was exploited in some of the applications of these materials.
+Some of the members of this NZP family exhibited very low thermal expansion coefficients (<1 * 10-6 ) including some negative values.
+The composition LiZr2P3O12 shows a phase transition around 60 °C.
+The compositions Ca0.5Zr2 P3O12 and Sr0.5Zr2P3O12 have exhibited negative and positive thermal expansion coefficients, respectively.
+The anisotropy of axial thermal expansion of these materials is believed to induce micro cracking.
+The high ionic conductivity of Nasicon is used in the fabrication of sensors where the Nasicon phase acts as solid electrolyte.
+Since the original Nasicon composition, Na3Zr2PSi2O12 has high ionic conductivity, it is used in the form of dense pellet or thick film in the sensing devices now.

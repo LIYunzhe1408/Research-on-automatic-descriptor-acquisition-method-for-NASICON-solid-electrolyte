@@ -1,0 +1,293 @@
+Abstract. Solid electrolyte-based electrochemical devices combined with an auxiliary phase of oxyacid salt have, in this decade, emerged as new attractive sensors to detect oxidic gases of CO2, NO, NO2 and SO2. Various combinations of solid electrolytes and auxiliary phases as well as various new single or multi-component auxiliary phases have been exploited to improve the gas sensing properties and stability of these devices. Some of the potentiometric sensors developed e.g., CO2 sensors using NASICON and Li2CO3-CaCO3, NO2 sensors using NASICON and NaNO2-Li2CO3 and SO2 sensors using MgO-stabilized zirconia and Li2SO4-CaSO4-SiO2, exhibit excellent gas sensing performances in laboratory tests and appear to be promising for monitoring the respective gases in ambient environments and/or combustion exhausts. This paper aims at describing our exploratory works on and the state of the art of these potentiometric gas-sensing devices.
+
+gas sensor, CO2, NOx, SO2, solid elecrolyte
+
+Introduction
+
+Sensory detection of oxidic gases such as CO2, NO and NO2 (NOx), and SO2 has become increasing important for protecting global as well as living environments. For the past 10 years, we have been seeking solid-state sensors capable of detecting these oxidic gases in combustion exhausts and environments. It has turned out that electrochemical gas sensors using solid electrolytes exhibit very attractive features, showing promise for applications. It is the aim of this article to review some of our approaches in this ﬁeld brieﬂy and to describe the state of the art of electrochemical oxidic gas sensors. Let us begin with a description of progress in the conception of electrochemical gas sensors.
+
+2. Types of Potentiometric Gas Sensors
+
+An all-solid-state electrochemical cell is usually constructed by combining a membrane of solid electrolyte (ionic conductor) with a pair of electrodes (electronic conductor). For the past three decades, various electrochemical gas sensors have been
+
+developed or proposed. Those sensors are classiﬁed into potentiometric and amperometric sensors, and the former group is further divided into equilibriumand mixed-potential types. We consider here the equilibrium potential type only. The gas sensors of this type have been explored extensively by using conventional as well as unconventional solid electrolytes.
+
+2.1 Type I Sensors
+
+A gas sensor is readily constructed from a solid electrolyte for which the mobile ion is the same as that electrochemically derived from the gas phase. Sensors of this type belong to Type I according to the classiﬁcation by Weppner [1]. A representative example would be an oxygen sensor using an O2  255) ionic conductor such as yttria-stabilized zirconia (YSZ). The sensor forms an oxygen concentration cell as follows.
+
+At the three-phase contact between solid electrolyte, electrode (Pt) and gas phase, the following electrochemical reaction proceeds.
+
+Here F is the Faraday constant, R the gas constant and T the temperature. If PI is known, one can O2 evaluate PII from the value of E. Type I sensors are O2 also available for simple gases such as H2, Cl2, and Na (vapor) by using appropriate conductors of H  135) , Cl  255) and Na  135) . For the oxidic gases like CO2, however, there are no such solid electrolytes available.
+
+2.2 Type II Sensors
+
+An important breakthrough came about in oxidic gas sensors when Gauthier and Chamberland reported detection of CO2, NO2 and SO2 with electrochemical cells using salts of oxyacids like K2CO3, Ba(NO3)2 and Na2SO4 [2,3]. The cell for CO2, for example, was fabricated on a disc (membrane) of K2CO3 as follows.
+
+Here K2CO3 acts as a solid electrolyte allowing K  135) -ionic conduction though at a rather poor conductivity. The gaseous components interact with the electrode (Au) and K2CO3 to undergo an electrochemical reaction as follows.
+
+2.3 Type III Sensors
+
+Another important breakthrough was made by the research group of Saito and Maruyuma [6]. They fabricated an electrochemical cell using NASICON (Na3Zi2Si2PO12, Na  135) -ionic conductor) to test its response to SO2. Surprisingly the device did respond to SO2 in almost the same manner as the device using a Na2SO4 membrane. They analyzed the NASICON membrane to ﬁnd spontaneous formation of Na2SO4 on its surface, leading to the following cell structure.
+
+Here SO3 was produced up to its equilibrium concentration through the oxidation of SO2 on the electrodes (Pt). This ﬁnding is very important, because one can now replace the monolithic membrane of oxyacid salt by a typical solid electrolyte diaphragm attached with the same oxyacid salt, which is far easier to fabricate. The typical solid electrolyte used has nothing to do with the gas to be detected without the aid of the oxyacid salt (auxiliary phase). This type is called Type III. As an extension of this type of sensor, the same group proposed a probetype CO2 sensor having an asymmetric cell structure [7].
+
+The interface II combined with Na2CO3 is sensitive to CO2, while interface I is sensitive to O2 only, so that it is no longer necessary to separate the sample gas (CO2-air) from the reference gas (O2 or air). This
+probe-type sensor was shown to generate an EMF according to the following equation.
+
+where E0 is constant when T and the sensing materials are ﬁxed. The electrochemical arrangement of this cell will be discussed later (section 6.1).
+
+In the above devices, the main solid electrolyte (NASICON) and the auxiliary phase (Na2CO3) have the same mobile ion (Na  135) ) in common. Later we found that the other types of combinations of solid electrolyte (SE) and auxiliary phase (AP) such as NASICON/Li2CO3 and MgO-stabilized zirconia/ Li2CO3 are also possible. It is more convenient to classify Type III sensors into three subtypes according to the relation between the mobile ions of the SE and the AP as follows.
+
+Table 1 illustrates schematic cell structures for these subtypes together with other types [2,3,7–22]. It is remarked that, to complete an electrochemical cell of IIIb or IIIc, one needs the presence of a mediating layer (ionic bridge) between the SE and the AP. Such ionic bridges are formed spontaneously in many cases. Type III sensors have increased the degree of freedom in sensor design and materials selection dramatically.
+
+3. Fabrication of Type III Sensors
+
+A few Type III sensor devices that we constructed for experimental purposes are shown in Fig. 1. These were unattached with an internal heater and tested in a gas ﬂow apparatus equipped with external heating facilities. For the convenience of device fabrication, gas-separation type devices like (a) (a0) and (b) were mostly used. Since the counter (reference) electrodes of Type III devices are usually insensitive to the gases of interest, a probe type device like (c) is possible.
+
+Structures (a) and (a0) were adopted for the devices using NASICON. A disc of NASICON fabricated in our laboratory, 8 mm in diameter and 0.7 mm thick, was ﬁxed on the end of a quartz tube with an inorganic adhesive. A layer of auxiliary phase (AP) was deposited on the open surface of the disc by a melting and crystallizing method. That is, the designated part of NASICON disc was dipped into a molten bath of AP and quickly taken out in the air to crystallize AP. This method was found to give a thin, porous layer of
+
+Potentiometric Gas Sensors for Oxidic Gases
+
+AP tightly adhering to the NASICON disc. The sensing electrode (Ptor Au-mesh) was attached beneath (a) or over (a0) the AP layer. The reference electrode (Pt black) was attached on the opposite side of the disc and exposed to the atmospheric air.
+
+Structure (b) was adopted speciﬁcally to utilize a stabilized zirconia tube of commercial origin. The open tube was coated with a layer of AP from a molten AP bath as above. A planar device (c) was prepared on a tip of stabilized zirconia. In this case, the AP layer was attached by applying a paste of pulverized AP and 5 wt% ethyl cellulose dispersed in a-terpineol on the designated part of the tip, followed by calcining at high temperature (800 14)C). This device could be ﬁxed easily on the alumina substrate attached with an internal heater.
+
+4. NASICON-based Sensors
+
+4.1. NOx
+
+Concerns about global environmental issues grew sharply in the 1980s, stimulating the development of sensors to detect the hazardous components emitted from combustion facilities. We began our investigation in this ﬁeld by choosing NO2 and NO (NOx) as ﬁrst targets in 1988. By then, several attempts had been made to develop Type II or III sensors for CO2 and SO2, but little attention had been paid to the detection of NOx despite its importance. NO is produced up to a concentration of a few thousands ppm through the combustion of N-containing fuels ( fuel NOx) as well as the direct reaction between N2 and O2 (thermal NOx). The NO is then oxidized to NO2 under thermodynamic as well as kinetic constraints. Equilibrium compositions of NO and NO2 in NOx are roughly equimolar (1:1) at 500 14)C under usual conditions, while the ratio of NO or NO2 increases rather steeply as temperature goes up or down, respectively. The NOx gases are subjected to NOx-removal processes before being emitted into the atmosphere. The environmental standard of NO2 has been legislated to be 40–60 ppb in Japan.
+
+We ﬁrst tested the possibility of NO2 sensors of Type IIIa [14]. Electrochemical cells, similar to structure (a) in Fig. 1, were constructed on a disc of Na-ß/ß00-alumina or NASICON and attached with a layer of NaNO3 as an AP material. The resulting devices were found to respond fairly well to
+
+Yamazoe and Miura
+
+Table 1. Classiﬁcation of solid electrolyte gas sensors
+
+Cell structure
+
+Type
+
+Type I
+
+Type II
+
+Type IIIa
+
+Type IIIb
+
+Type IIIc
+
+A : Activity of A  135) for the reference electrode aref AB: Solid electrolyte (A  135) or B  255) -conductor)
+
+Solid electrolyte ZrO2( 135) Y2O3) HUO2PO4 4 H2O Sb2O5 2 H2O
+
+Auxiliary phase (Na2SO4) (NaNO3) (Na2CO3) (Li2CO3) (LaOF)
+
+Auxiliary phase (Li2CO3) (Ba(NO3)2)
+
+Auxiliary phase (Li2SO4) (Li2CO3) (Ba(NO3)2) (Li2CO3)
+
+SOX SOX NO2 3) CO2 Cl2
+
+SOX NO2 7) CO2 CO2 16) O2
+
+CO2 NOX
+
+SOX CO2 NOX CO2
+
+Potentiometric Gas Sensors for Oxidic Gases
+
+Fig. 1. Structures of Type III sensors. AP: Auxiliary Phase, MSZ: MgO-Stabilized Zirconia.
+
+10–200 ppm NO2 in air in the temperature range 200– 250 14)C. The EMF response followed the Nernst equation of the form,
+
+suggesting a sensing electrode reaction of
+
+A problem about
+
+these devices was that
+
+the operating temperature was limited to be up to the melting point of NaNO3 (309 14)C). This limitation can be serious for applications in combustion-exhaust monitoring. Thus we tried to replace it by Ba(NO3)2 (melting point 592 14)C) or a binary nitrate system of Ba(NO3)2 255) NaNO3 [18]. The device using the binary system was found to be able to operate at 450 14)C as well as 200 14)C. Another device using Ba(NO3)2 could work well at these temperatures provided that the solid electrolyte disc (Na-ß/ß0-alumina) was ionexchanged with Ba2  135) by dipping it in a molten salt of Ba(NO3)2 255) BaCl2 (62:38 in molar ratio) overnight
+
+before use. Unfortunately the introduction of Ba(NO3)2 was found to induce a serious adverse
+
+affect; the devices showed high cross-sensitivity to CO2, making the devices unable to work as NO2 sensors in combustion exhausts. This ﬁnding was disappointing with respect to the development of high temperature NO2 sensors, but at the same time it gave an important hint for designing CO2 sensors as mentioned later. The possibility of NOx sensing at high temperature was subsequently pursued with devices working on a different principle (mixed potential) and fairly promising results have been obtained [23]. Type III devices, on the other hand, have been innovated for NO2 sensing performances at moderate temperature by the discovery of an attractive AP of NaNO2 as mentioned below.
+
+By the way, detection of NO is also very important as a precursor of NO2. Chemical properties of NO are totally different from those of NO2 so that it is hardly possible to detect both gases with a single sensor. In fact, the NO2 sensors fabricated above hardly gave a reasonable response to NO. There are two alternative ways of NOx detection in practice, i.e., those gases are detected respectively with different sensors, or the concentration of total NOx is evaluated with an NO2 or NO sensor after the gases are completely equilibrated or converted into a single component of
+
+Yamazoe and Miura
+
+NO2 or NO. We pursued the former way tentatively and tried to develop a Type III NO sensor using NASICON [24]. As for the AP material of the device, NaNO2 was considered. If NaNO3 works for NO2 sensing, then NaNO2 should work for NO sensing as follows.
+
+subsequent
+
+The device using NaNO2 was found in fact to give good sensing properties to NO, as shown in Fig. 2. The cross-sensitivity test, however, revealed a surprising fact that the device was far better suited to NO2 sensing. The device gave EMF response to NO2 in coincidence with the Nernst equation for the one-electron cathodic reaction of NO2,
+
+Fig. 2. Dependence of emf of the device attached with NaNO2 auxiliary material on NO or NO2 concentration. (150 14)C, structure (a0)).
+
+The EMF response to NO2 was far larger than that to NO of the same concentration together with very sharp response transients, as also shown in Fig. 2. In the NO2 sensing performances were far addition, better than those of the previous device using NaNO3, probably in part due to the simplicity of the electrode reaction (14) as compared with (12). These results shows that the NaNO2-attached device, though not applicable for NO sensing under the coexistence of NO2, can be very attractive as an NO2 sensing device. Thus we switched back to the NO2 sensing study again. The device combined with NaNO2 could satisfactorily detect 0.2–200 ppm NO2 in air at 150 14)C in laboratory tests. These performances seemed to be sufﬁcient for applications to combustion exhausts after heat exchange. When tested for various gas mixtures simulating combustion exhausts, the device (5– showed good sensing performances to NOx 100 ppm) provided that the simulation gases were passed through a catalyst bed to burn hydrocarbons off as well as to oxidize NO to NO2, prior to contacting the device [25].
+
+The lower detection limit (LDL) can be deﬁned as the concentration of NO2 below which the EMF deviates from the Nernstian relation. For the above particular device, the LDL was about 0.2 ppm at 150 14)C, which is still far larger than the environmental standard of NO2 (40–60 ppb). An attempt was made to lower LDL by modifying the NaNO2 with additives. The addition of Li2CO3 or Na2CO3 turned out to be fairly effective in this respect, although too much additive induced cross-sensitivity to CO2 [27]. The AP materials of NaNO2-Li2CO3 (9:1 in molar ratio), optimized from LDL and CO2 cross-sensitivity, eventually gave excellent sensing performance down to 5 ppb NO2 in air without being disturbed by CO2 of concentration up to 50%, as shown in Fig. 3. Obviously this device has sufﬁcient sensitivity to monitor the environmental NO2.
+
+Some additional comments regarding the LDL are warranted. All of the above devices exhibit a certain value of EMF to zero concentration of NO2 in air (air base), as illustrated in Fig. 3. The concentration at which the Nernstian relation intersects the air base gives the critical detection limit of NO2. Obviously LDL is closely related with the location of the air base, although LDL was a little larger than the critical detection limit. The lowering of LDL with the Li2CO3 additive mentioned above resulted mainly from
+
+Potentiometric Gas Sensors for Oxidic Gases
+
+Fig. 3. Dependence of EMF on the concentration of NO2 (structure (a0)).
+
+shifting the air base downward relative to the Nernstian relation to NO2. Beside the AP materials, however, operating temperature and device structure were also important. That is, LDL tended to be lowered as temperature decreased. Further device structure (a0) was superior to (a) for obtaining better LDL. These phenomena are rather complex and need further investigation.
+
+As mentioned previously, the device with the NaNO3Ba(NO3)2 addition for NO2 detection was found to suffer from heavy cross-sensitivity to CO2. This suggests that the AP material was converted into carbonates under the exposure to CO2. Thus, devices with Na2CO3-BaCO3 were fabricated by the meltingand -crystallizing method and tested for CO2 detection [28]. As it turned out, excellent sensing properties to CO2 could be obtained at temperatures around 500 14)C, when the composition of Na2CO3-BaCO3 was 1:1.7 in molar ratio or more rich in BaCO3 content. The response transients of a typical device with Na2CO3BaCO3 (1:1.7) are compared with those of a device with Na2CO3 only in Fig. 4. Apparently, the former device exhibited far larger EMF response (increment of EMF) to a ﬁxed concentration of CO2, far sharper response transients, and far greater stability to interference by water vapor than the latter device. The serious interference by water vapor in the latter
+
+Fig. 4. Response transients for the sensors using Na2CO3 (a and b) and Na2CO3-BaCO3 (c and d). (structure (a)) (a) and (c) : Dry CO2, (b) and (d) : Wet CO2 (5.3 torr H2O).
+
+device seemed to show up because Pt sensing electrodes were used at this stage of the investigation. It has been reported that Pt electrodes can be corroded in alkaline atmosphere so that it is better replaced by Au electrodes. Nevertheless the Pt electrode could be used without problem in the former device. This follows from the fact that no crystalline phase of Na2CO3 was detected for this device by X-ray diffraction analysis [28].
+
+The EMF of the device to CO2 obeyed very well the following Nernst equation over a wide range of CO2 concentration from 10 ppm to 40%, as shown in Fig. 5.
+
+Fig. 5. EMF vs. CO2 concentration for the device using BaCO3Na2CO3 (1.7:1). (550 14)C, structure (a)).
+
+Yamazoe and Miura
+
+favorable interface structures are obtained by the use of composite materials.
+
+As judged from these sensing properties, the device seemed to be a very good CO2 sensor. However, we soon encountered an unexpected problem. The Na2CO3-BaCO3 composite was too hygroscopic at room temperature. It deliquesced when the device was kept under humid conditions at room temperature overnight. The deliquescence is obviously induced by Na2CO3, and we had to delete it from the device to overcome the problem. Thus the adoptability of Li2CO3 was tested. The resulting device, Type IIIb, was found to work fairly well as a CO2 sensor. In addition, its composites with alkali earth metal carbonates, i.e., Li2CO3-BaCO3, Li2CO3-SrCO3 and Li2CO3-CaCO3, gave better CO2-sensing performances than the single phase Li2CO3. As shown in Fig. 6, for example, the device with Li2CO3-CaCO3 (1.8:1 in molar ratio) exhibited excellent sensing performance at 500 14)C. These devices were hardly disturbed by water vapor, and stable to storage at room temperature under humid condition. These devices now seem to be acceptable for indoor CO2 monitoring.
+
+Investigations are under way for why the composite auxiliary materials like Na2CO3-BaCO3 and Li2CO3-CaCO3 give better CO2 sensing properties than the pure materials like Na2CO3 and Li2CO3. It has been revealed that the interfaces between NASICON and the carbonate auxiliary materials are not simple, containing corroded or mediating layers more or It appears that more
+
+less in between.
+
+5. Stabilized Zirconia-based Sensors
+
+As already mentioned, a device combining NASICON with Na2SO4 had been reported as a pioneering work on Type III SO2 sensor when we began our work. The auxiliary material of this device (Na2SO4) was formed spontaneously. This fact arouses apprehension for the long-term stability of the device. One should select a solid electrolyte resistant to corrosive atmospheres at sensors. high temperature Stabilized zirconia was considered to be most reliable if adoptable. We selected MgO(15 mol%)-stabilized zirconia (MSZ) because it is more resistant to thermal shock during the sensor fabrication processes than Y2O3or CaO-stabilized zirconia (YSZ or CSZ).
+
+especially for SO2
+
+To fabricate a sensing device of structure (c) in Fig. 1, an MSZ tube with a closed end of commercial origin was coated with an auxiliary phase (AP) of metal sulphate by a meltingand -crystallizing method, and then with the sensing electrode (Ptmesh) and counter electrode (Pt black). When exposed to the ﬂow of SO2 diluted in air, the device forms the following electrochemical cell (Type IIIc).
+
+SO3 is assumed to be produced through the oxidation of SO2 over the Pt electrode up to its equilibrium composition.
+
+Here K is the equilibrium constant. Figure 7 illustrates SO2 sensing properties of the device with Li2SO4 at 650 and 800 14)C. The response to switching-on SO2 was rapid but the recovery upon switching-off SO2 was sluggish at both temperatures. The EMF to SO2 under constant oxygen concentration obeyed the following equation.  133)18 134)
+
+rather
+
+Fig. 6. Response transient and EMF to CO2 for the NASICON based device with Li2CO3-CaCO3. (500 14)C, structure (a)).
+
+Here PSO2,in
+
+inlet SO2 which is equal to the sum of PSO2
+
+stands for the partial pressure of the and PSO3 .
+
+Potentiometric Gas Sensors for Oxidic Gases
+
+Fig. 7. Correlations between EMF and inlet SO2 concentration for the MSZ-based device ﬁtted with Li2SO4 at 650 and 800 14)C. (structure (b)).
+
+Fig. 8. Response transients and stability of EMF vs inlet SO2 concentration correlation in three weeks for the MSZ-based (4:4:2) at 650 14)C. device attached with Li2SO4-CaSO4-SiO2 (structure (b)).
+
+This equation can be explained based on the sensing electrode reaction
+
+and the assumption of equilibrium for the reaction [17]. The EMF to a ﬁxed concentration of SO2 shifted down rather steeply on increasing temperature, while the air base remained rather ﬁxed. This means that the lower detection limit (LDL) depends on temperature. As suggested from Fig. 7, LDL will be smaller than 0.1 ppm SO2 at 650 14)C, while it will be around 1 ppm at 800 14)C. Similar SO2 sensing properties were also obtained with the device with Na2SO4. It will be possible to apply this type of device for monitoring environmental SO2 (standard 40 ppb in Japan) if lower operating temperatures are available.
+
+Attempts were made to optimize the auxiliary material from the viewpoint of response kinetics, especially the rate of recovery [29]. The rate of recovery was improved considerately when Li2SO4 was replaced by a binary system of Li2SO4-CaSO4 (6:4 in molar ratio). The fastest recovery was provided with a ternary system of Li2SO4-CaSO4-SiO2 (4:4:2 in molar ratio), as shown in Fig. 8. The time for 90% recovery was 2–4 min to be compared to 34–40 min for the device with Li2SO4. This device exhibited good stability in operation for the medium tested, as also shown in Fig. 8. As judged from SEM
+
+observations of the auxiliary materials as well as the cross-sections of the devices, the addition of CaSO4 and SiO2 seems to improve the adhesion of the AP layer to MSZ and to eliminate cracks and macropores from the AP layer, illustrated schematically in Fig. 9.
+
+YSZ or CSZ tubes in place of the MSZ tube were later tried [30]. Unexpectedly the YSZor CSZbased devices with Li2SO4 failed to give a stable response to
+
+Fig. 9. Schematic drawings of phases coated on MSZ.
+
+the morphology of auxiliary
+
+Yamazoe and Miura
+
+SO2. It was found, however, that the devices could work well when the auxiliary material was replaced by Li2SO4-MgO (8:2 in molar ratio), indicating the importance of MgO. Further, it turned out that the MSZ tubes used in these studies happened to contain a certain amount of free MgO. When a well-prepared MSZ tube was used, the MgO-mixed auxiliary (Li2SO4-MgO) was again necessary to material obtain a reasonable response to SO2. Thus, MgO is required to form an ionic bridge ( probably MgOLi2ZrO3 solid solution) which mediates between stabilized zirconia (O2  255) conductor) and the auxiliary material (Li  135) conductor).
+
+It was found that a CO2 sensor of the same type (IIIc) could be obtained by combining an MSZ tube with an auxiliary material of Li2CO3 [20]. The correlation between EMF and CO2 concentration at temperatures in the range 550–650 14)C as well as response transients at 550 14)C are shown in Fig. 10. The response and recovery were sharp. The EMF obeyed the same Nernst Eq. (18) as already observed with the NASICON-based device. Unlike the previous case, however, the EMF was found to be dependent on the concentration of coexistent oxygen over the temperature range examined. This dependence on oxygen concentration could be completely removed when a probe-type planar device of structure (c) was used.
+
+6. Electrochemistry of Hetero-junctions
+
+6.1. Electrochemical Chain
+
+Every sensor of Type III has a hetero-junction between the base solid electrolyte (SE) and the auxiliary phase (AP). An electrochemical chain must be established through the junction. For a Type IIIa device, this is straight forward. Let us consider the NASICON-based CO2 sensor shown in Fig. 11. This device can be considered as coupling an O2-sensitive half cell (left) with a CO2-sensitive one (right). Since SE and AP have the same mobile ion (Na  135) ) in common, the electrochemical chain is easily achieved with Na  135) . The electrochemical potential of Na  135) is deﬁned as
+
+ 22)mNa 135)  136) mNa 135)  135) Ff
+
+ 133)20 134) where mNa 135) is chemical potential of Na  135) and f is electric potential. mNa 135) is different for SE and AP and, in the vicinity of the sensing and counter electrodes, it changes with a change in O2 or CO2 concentration. The equilibrium condition requires that mNa 135) be equal the device. To achieve this, f also through out changes to compensate the change of mNa 135) , leading to the generation of EMF for the particular device using Na2CO3, the electrochemical reactions on the sensing and counter electrodes have been proposed by Saito and Maruyama [7] as follows.
+
+the device. For
+
+Fig. 10. Correlations between EMF and CO2 concentration for the MSZ-based three temperatures.
+
+attached with Li2CO3
+
+device
+
+Fig. 11. Electrochemical chain diagram of a CO2 sensor using NASICON / Na2CO3 combination (Type IIIa, structure (a0)).
+
+Sensing electrode : 2Na 135)  135) CO2  135) O2  135) 2e  136) Na2CO3
+
+Reference electrode : 2Na 135)  135) 1 2
+
+Overall reaction : Na2O 133)in NASICON 134)  135) CO2  136) Na2CO3
+
+ 133)23 134) The Gibbs’ free energy change (DG) of the overall reaction is positive at the temperature of interest (around 500 14)C), indicating that the reaction actually tends to proceed in the reverse direction. The EMF is given by  255) DG/2F, which is negative for the cell al. arrangement above. Recently, Holzinger reported Na-ß0-alumina-based CO2 sensors (Type IIIa) attached with a CO2-sensitive auxiliary phase of Na2CO3 (sensing electrode) and an O2-sensitive auxiliary system of Na2O 255) TiO2 (reference electrode). They showed a CO2 sensing mechanism which is similar to the above one [31].
+
+For Type IIIb and IIIc devices, an electrochemical chain can not be attained without the presence of a mediating phase (ionic bridge) between SE and AP. Let us consider the CO2 sensor which couples MSZ (SE) and Li2CO3 (AP) as shown in Fig. 12. The left half cell sensitive to O2 and the right one sensitive to CO2 are governed by and mO2  255), and mLi  135), respectively. The two function can be correlated to each other only when there is an interfacial compound which contains both ions. As such a compound, Li2ZrO3 is assumed
+
+Potentiometric Gas Sensors for Oxidic Gases
+
+here. Then we can write down all the cell reactions as follows.
+
+Sensing : 2Li 135)  135) CO2  135) 1 O2  135) 2e  136) Li2CO3 Ionic bridge : Li2ZrO3  136) 2Li 135)  135) O2 255)  135) ZrO2
+
+Counter :
+
+Overall : CO2  135) Li2ZrO3  136) Li2CO3  135) ZrO2; DG
+
+ 133)27 134) The device EMF,  255) DG/2F, is thus dependent on the kind of ionic bridge involved. For the above device, the observed EMF was very close to what is expected from the ionic bridge of Li2ZrO3, as shown in Fig. 13 [32]. It is possible to complete the cell reaction by assuming an ionic bridge of Li2O, but this assumption leads to a great discrepancy between the theory and the practice, as also shown.
+
+For the other sensors of Type IIIb or IIIc, ionic bridges appear to be more complex. For the SO2 sensors using stabilized zirconia and metal sulphates, the ionic bridge seems to be provided by MgOcontaining Li2ZrO3, not simply by Li2ZrO3. For the CO2 sensors using NASICON and Li2CO3-based auxiliary materials, formation of a solid solution containing Na  135) and Li  135) is highly probable.
+
+6.2. Dual Chains
+
+Type III devices of structure (a) have the sensing electrode sandwiched between SE and AP. Let us
+
+Fig. 12. Electrochemical chain diagram of a CO2 sensor using MSZ / Li2CO3 combination (Type IIIc, structure (b) or (c)).
+
+Fig. 13. Correlations between EMF to 400 ppm CO2 and temperature for the MSZ-based device with Li2CO3. (structure (c)).
+
+Yamazoe and Miura
+
+consider the CO2 sensor combining NASICON and Na2CO3 of the form air; Ptj NASICONjAu; Na2CO3; CO2-air
+
+It is easily understood that the Au sensing electrode is involved in two kinds of three-phase contacts, i.e., one among Au, SE and gas phase and the other among Au, AP and gas phase. We can therefore deconvolute the device into two elementary cells.
+
+The ﬁrst one is a cell sensitive to O2, while the second one is the same CO2-sensing cell we just discussed. These cells are connected in parallel, sharing the same electrodes. It has been shown that the device is determined by the the EMF of competition between the two cells [33]. In the higher temperature region the CO2-sensing cell is more inﬂuential than the O2-sensitive one, while the reverse is true in the lower temperature region. This results in the appearance of lower limiting temperature for CO2 detection, which is about 400 14)C for the Na2CO3-attached device, as shown in Fig. 14. It has been shown that the lower limiting temperature can be lowered to 350 14)C or below when a binary system like Li2CO3-CaCO3 is used for AP.
+
+Fig. 14. EMF values of the NASICON-based device with Na2CO3 to 0, 100, or 1000 ppm CO2 in air as correlated with temperature. (structure (a)).
+
+7. Prospect and Problems
+
+Table 2 summarizes several sensors of Type III for CO2, NO, NO2 and SO2. These sensors have shown attractive performances in short term laboratory tests, though most of them should be subjected to ﬁeld and long term stability tests. Among these, the CO2 sensors may be applicable for auto-ventilation of indoor air as well as for CO2 control in green houses. As CO2 is deeply associated with bioactivities of animals, plants and bacteria, the sensors may also be applicable to measurement or control of various restricted bioactivities. The NO2 for combustion applicability to emission control exhausts because of the upper limit of operating temperature. Instead there is ample possibility of monitoring NO2 and possibly total NOx in environmental atmospheres by using these sensors. The SO2 sensors have intrinsic capability of monitoring SO2 in combustion exhausts, and may also be applicable to environmental SO2 monitoring.
+
+sensors have
+
+It has to be mentioned that these sensors still have many problems, from basic to technical, to be solved. Some are as follows. 1. For NASICON-based sensors for CO2, NO and NO2, the EMF is independent of PO2 , inconsistent with the sensing electrode reactions assumed (Eq. (12), (13) and (21)). The gas sensing reactions, especially the dependence on O2, should be elucidated.
+
+2. For these devices, air base is a major factor to determine the lower detection limit for the gas of interest. The nature of the air base should be clariﬁed.
+
+3. Hetero-junctions and ionic bridges between SE and AP have great importance for the performance and stability of the devices. Their structure and properties should be clariﬁed.
+
+4. Various kinds of AP have been used empirically so far. Principles of AP design should be established. 5. The operating temperatures of the devices are not always well suited to their applicational purposes. For example, lower temperature will be more favorable for usual purposes, while sufﬁciently high temperature will be needed for combustion exhausts control. It is desired to make the operating temperature more ﬂexible. If these problems are solved, we can move a great step forward towards establishing excellent sensors for oxidic gases.
+
+Table 2. Gas sensing performance of Type III sensors
+
+Solid electrolyte
+
+Auxiliary material
+
+MgO-stabilized zirconia
+

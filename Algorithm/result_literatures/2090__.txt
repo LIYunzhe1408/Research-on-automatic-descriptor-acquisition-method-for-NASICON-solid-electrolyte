@@ -1,0 +1,59 @@
+Abstract. The study of non-hydrolytic reactions for the synthesis of NASICON is reported. Different procedures have been considered, changing the precursors and their addition order, and varying the reaction solvent; dichloromethane, acetonitrile and tetrahydrofuran (THF). The most promising results in terms of homogeneous reactivity were obtained using PO(On-C4H9)3, Zr(Ot-C4H9)4, SiCl4 and Na(Ot-C4H9) in acetonitrile. The reactions were followed using heteronuclear Nuclear Magnetic Resonance (NMR) spectroscopy (13C, 31P). NASICON C. The powders were powders were prepared by the thermal decomposition of the gels between 900 and 1200 analyzed by XRD to check the formation of the NASICON phase.
+
+One of the main drawbacks of conventional sol-gel routes for the synthesis of heterometallic oxides is their lack of homogeneity caused by the different reactivity of the various precursors [1]. The use of heterometallic alkoxides as molecular precursors to multicomponent oxides has been proposed as an alternative to overcome differences in hydrolysis rates but it seldom involved more than two components [2].
+
+The control of reactivity of the precursors becomes a key factor in a complex system such as NASICON, Na3Zr2Si2PO12, involving four different species. C
+
+NASICON is a solid electrolyte with high Naionic conductivity suitable for use in electrochemical gassensors [3, 4]. Many chemical routes have been proposed in the relevant literature for the synthesis of NASICON, including conventional sol-gel methods, but none has been proved to be completely satisfactory in obtaining homogeneous, single-phase NASICON materials [5, 6].
+
+A different strategy to improve the homogeneity of NASICON materials might be the non-hydrolytic sol-gel route. Such approach avoids the use of all-
+
+alkoxides as precursors and permits employment of different reactants and solvents to control reaction rates and mechanisms to improve homogeneity at molecular level [7].
+
+Following such strategy we have studied new nonhydrolytic procedures for the synthesis of NASICON varying the reaction conditions to optimize the process. The reactions were monitored by means of heteronuclear NMR spectroscopy (13C, 31P), a technique which has been successfully used to control the NASICON synthesis via a conventional sol-gel route, as reported in a previous paper [5].
+
+All solvents (Carlo Erba) were dried as reported in the literature [8]. All other reagents (Aldrich) were reagent grade and were used without further puriﬁcation. All syntheses have been carried out under N2.
+
+Synthesis A: BrP(n-C4H9)4 (1 g, 3.04 mmol) was dissolved in CH2Cl2 (60 ml). Zr(On-C4H9)4 (2.33 g, 6.08 mmol) was added and the solution was reﬂuxed for 1 h. The solution was cooled to room temperature and SiCl4 (0.7 ml, 6.08 mmol) was added. The
+Sodium has been always added at the end of each synthesis as Na(Ot-C4H9) in conditions studied to maintain homogeneity of the system. The reactions of various P, Zr and Si precursors in different solvents have been monitored by NMR.
+
+In the ﬁrst synthesis (A) BrP(n-C4H9)4, Zr(OnC4H9)4 and SiCl4 have been reacted in CH2Cl2. Dichloromethane has been chosen as solvent because its low polarity and non-coordinating properties make it an excellent solvent for most organic and organometallic species. BrP(n-C4H9)4 has been chosen as phosphorous source because previous studies demonstrated the very low reactivity of phosphorous alkoxides in NASICON preparation [5]. However the 31P NMR spectrum of BrP(n-C4H9)4, did not vary upon addition of the other reactants indicating that it was substantially
+
+Synthesis B: PO(On-C4H9)3 (1 ml, 3.68 mmol) was dissolved in THF (60 ml). ZrCl4 (1.71 g, 7.35 mmol) was added and the solution was kept stirring for 15 min. Si(OC2H5)4 (1.64 ml, 7.35 mmol) was C added. The resulting solution was heated at 50 for 2 h. After cooling to room temperature Na(OtC4H9) (1.06 g, 11.04 mmol) was added and the solution stirred for 30 min.
+
+Syntheses C and D: PO(On-C4H9)3 (1 ml, 3.68 mmol) was dissolved in CH3CN (60 ml). ZrCl4 (1.71 g, 7.35 mmol) was added and the solution was kept stirring for 15 min. Si(OC2H5)4 (1.64 ml, 7.35 mmol) was added. In the case of syntheses D t-C4H9OH (1 ml) was added. The resulting solution was heated C for 2 h. After cooling to room temperature at 50 Na(Ot-C4H9) (1.06 g, 11.04 mmol) was added and the solution stirred for 30 min.
+
+Synthesis E: PO(On-C4H9)3 (0.18 ml, 0.65 mmol) was dissolved in CH3CN (20 ml). SiCl4 (0.15 ml, 1.3 mmol) was added and the solution was kept stirring for 1 h. Zr(Ot-C4H9)4 (0.5 g, 1.3 mmol) was added. The resulting solution was reﬂuxed for 1 h. After cooling to room temperature Na(Ot-C4H9) (0.19 g, 1.97 mmol) was added and the solution stirred for 1 h.
+
+Samples for NMR measurements were prepared directly in the NMR tube by following the procedures described above scaling the amount of the reagents in order to have a total volume of 3 ml.
+
+NMR spectra were recorded on a Bruker AM 400 spectrometer. 13C chemical shifts are given in ppm from tetramethylsilane (TMS) and are referenced against solvent residual signals. 31P chemical shifts are given in ppm from external H3PO4 (85% w/w). NASICON powders were prepared by heating the solutions at varC for 1 h ious temperatures in the range 900–1200 – ¡1). The phase evolution as a (heating rate 10 function of the decomposition temperature was investigated by X-ray diffraction (XRD) analysis, using a Cu Kﬁ radiation.
+
+Different non-hydrolytic synthetic procedures have been examined for the preparation of NASICON.
+
+13C NMR spectra in CH2Cl2 of Synthesis A: (a) Figure 1. BrP(n-C4H9)4; (c) BrP(nC4H9)4 C Zr(On-C4H9)4 C SiCl4. An asterisk marks the solvent signal.
+Non-Hydrolytic Routes for the Synthesis of NASICON
+
+have been reacted in THF, a very polar solvent with strong coordinating properties. In this case 13C and 31P NMR showed the occurrence of a reaction between PO(On-C4H9)3 and ZrCl4, which further proceeds upon addition of Si(OC2H5)4 as indicated by the linewidth increase in the 31P spectrum (Fig. 2(d) and (f)). The reaction was not however complete as shown by the presence of intense resonances due to unreacted Si(OC2H5)4 in the 13C spectrum (Fig. 2(a)–(c)) of the reaction mixture: the high coordination power of THF might have decreased the number of reacting sites available.
+
+13C (a–c) and 31P (d and f ) NMR spectra in THF of Figure 2. Synthesis B: (a) and (d) PO(On-C4H9)3; (b) and (e) PO(OnC4H9)3 C ZrCl4; (c) and (f) PO(On-C4H9)3 C ZrCl4 C Si(OC2H5)4. Solvent signals in the 13C spectra are marked with asterisks.
+
+unreacted. Figure 1(a) shows the 13C NMR spectrum of BrP(n-C4H9)4. The addition of Zr(On-C4H9)4 to the solution of BrP(n-C4H9)4 lead to a spectrum which is simply the sum of those of the two reactants (Fig. 1(b)). Upon addition of SiCl4 new peaks appeared in the lowﬁeld region of the spectrum (Fig. 1(c)) indicating that the reaction mainly occurred between Zr(On-C4H9)4 and SiCl4. The lack of reactivity of BrP(n-C4H9)4 might be attributed to the high covalency of the Br P bond.
+
+The precursors have then be varied and in the second synthesis (B) PO(On-C4H9)3, ZrCl4 and Si(OC2H5)4
+
+As shown in Scheme 1b the reaction lead to the formation of t-C4H9Cl identiﬁed by the presence of the resonances at 34.5 and 67.1 ppm in
+
+The same species have then been reacted in CH3CN (synthesis C): a solvent with lower coordination ability but with polarity high enough to dissolve all the reactants. The 13C and 31P NMR spectra reported in Fig. 3 show that all the precursors reacted in these conditions leading to the formation of different coordination environments for P, Zr and Si. The large linewidth of the 31P resonances and the presence of new broad peaks between 60 and 70 ppm in the 13C spectrum are indicative of the formation of an extended polymeric network.
+
+The formation of the polymer is likely to occur via a SN1 mechanism with the generation of a carbocation (Scheme 1a). It has been previously demonstrated that alkoxides easily undergo ligand exchange reactions with different alcohols [5]. t-C4H9OH has then
+
+Figure 5. XRD patterns of NASICON prepared calcining at 1000 C the precursors obtained by Synthesis C (a) and D (b). *: NASICON phase; #: tetragonal zirconia.
+
+ Such promising result lead to another modiﬁcation of the synthetic procedure aimed to optimize the reactivity of all the species (Synthesis E). Thus the more reactive SiCl4 has been used instead of Si(OC2H5)4 and Zr(Ot-C4H9)4 instead of the linear alkoxide to obtain a stable tertiary carbocation. The reaction has been carried out in acetonitrile which have revealed to be the best solvent among those examined. Several broad resonances spread over a 15 ppm range are present in the 31P NMR spectrum of the mixture (Fig. 4) indicating that the phosphorous atom is bound in different sites. The negative values of the chemical shifts are indicative of Si and Zr bound P atoms [9].
+
+Preliminary XRD analysis showed the presence of the NASICON phase with different amounts of free zirconia. Figure 5 shows the XRD spectra of the products of syntheses C (Fig. 5(a)) and D (Fig. 5(b)) ﬁred at C. In the ﬁrst case the lack of homogeneity can 1000 be ascribed to the incomplete reaction that occurred in solution. The amount of zirconia is much lower in the XRD spectra of the product of syntheses D.
+
+Further investigation directed towards optimization of the reaction conditions (time, temperature etc.) is currently in progress.
+
+

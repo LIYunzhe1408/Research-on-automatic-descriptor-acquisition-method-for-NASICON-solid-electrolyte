@@ -1,0 +1,104 @@
+NASICON-type Li1.5Al0.5Ge1.5(PO4)3 (LAGP) solid electrolyte thin films were fabricated without any heat treatment by aerosol deposition(AD).
+
+Ball-milled LAGP powders with different particle sizes were used as raw material and deposited directly on a stainless steel substrate viaroom temperature impact consolidation.
+
+X-ray diffraction patterns revealed that as-deposited LAGP film has a same crystal structure with rawLAGP powder and no secondary phases are formed during deposition.
+
+SEM observation showed that film consists of fractured LAGPnanoparticles but the porosity is strongly influenced by an averaged particle size of raw LAGP powder.
+
+Maximum total (bulkþgrain-boundary)ionic conductivity at room temperature in aerosol deposited (ADed) LAGP film was 0.5  105 S cm1, while the bulk conductivity of film wasapproximately 104 S cm1, which is comparable with the bulk property of LAGP as previously reported.
+
+Therefore, lower total conductivity ofADed LAGP film is mainly attributed to large grain-boundary resistance between the LAGP nanoparticles in the film.
+
+Improvement of filmdensity and the connectivity among the LAGP nanoparticles in the film should be needed to enhance the total conductivity.
+
+All-solid-state lithium-ion batteries (LiBs) are expected as one ofthe next generation energy storage devices because of their highenergy density, high safety and excellent cycle stability [1–3].
+
+Development of solid inorganic lithium-ion conducting materialsused as solid electrolyte is the most important issue for realizationof all solid-state LiBs.
+
+The materials used for solid electrolyte musthave not only high lithium-ion conductivity σLi4103 S cm1 atroom temperature but also chemical stability against metalliclithium or lithiated negative electrode, air and moisture.
+
+Althoughoxide based solid electrolytes have rather lower σLi than sulfidebased one, they have other advantages such as their chemicalstability and easiness for handling.
+
+Among various oxide based solid electrolytes, Li1.5Al0.5-Ge1.5(PO4)3 (LAGP) [4–10] with NASICON-type frameworkhas several advantages over other electrolytes such asLi1þxAlxTi2x(PO4)3 (LATP) [11–13], Li2/33xLaxTiO3 (LLT)[14–17] and Li7La3Zr2O12 (LLZ) [18–21].
+
+Although LATP havealso NASICON-type structure and higher σLi than LAGP, LAGPhas a wider electrochemical potential window than LATP whichreacts with lithium at 2.4 V vs.
+
+Li/Liþ due to the Ti4þ/Ti3þredox reaction [6,9].
+
+Perovskite-type LLT has much higher bulkionic conductivity than LAGP, but very high temperature sinteringabove 1400 1C must be applied for densification and reduction ofgrain-boundary resistance [15].
+
+In addition, LLT also reacts withlithium at 1.7 V vs.
+
+Li/Liþ due to the Ti4þ/Ti3þ redox reaction[16,17].
+
+Such narrow electrochemical stability window for LATPand LLT gives a difficulty to use them in a practical use for solidstate LiBs.
+
+Compared to garnet-type LLZ solid electrolytes, LAGPcan be easily synthesized without any phase transition duringsynthesis condition such as heat-treatment temperature and elementary composition [18–21].
+
+σLi of sintered LAGP is 104 Scm1 at room temperature and at least one digit lower thanorganic liquid electrolyte.
+
+This property has not been regarded ashigh enough for practical use in all-solid-state batteries operating atroom temperature.
+
+Solid electrolyte thin film provides low electrical resistance,small size of a device and increasing volumetric energy density forall-solid-state battery.
+
+Several studies have been carried out forpreparing thin film solid electrolyte using RF magnetron sputtering[22–25], pulsed laser deposition [26,27] and sol–gel methods[28–30].
+
+These methods are efficient for fabricating uniform filmand controlling the film thickness, but in some cases, it is difficultto control elementary composition.
+
+Moreover, increasing substratetemperature during deposition and/or post-annealing should benecessary to obtain well-crystallized thin films.
+
+Since hightemperature treatments may lead to undesired reactions at theinterface or uncontrolled diffusion between electrode and solidelectrolyte, these methods are not recommended in some cases andinadequate for fabricating all-solid-state batteries.
+
+Aerosol deposition (AD) has many advantages compared toother conventional thin film deposition methods as mentionedabove, including deposition of a crystallized thin film without anyheat treatments and a fast deposition rate [31–33].
+
+A film isdeposited through impact and adhesion of fine particles onsubstrate at room temperature.
+
+This phenomenon is called as“room temperature impact consolidation (RTIC)” (Fig.
+
+ 1).
+
+Consequently, as-deposited film has similar properties with raw powdermaterial, such as the crystal structure, composition and physicalproperty.
+
+AD additionally provides a number of advantages,including room temperature deposition and high adhesion strengthwith a substrate [31–33].
+
+By addressing these attractive features,numerous studies to form thin film by using AD have beenreported in various functional ceramic materials, including Pb(Zr,Ti)O3 (PZT) [32,33], (K0.5Na0.5)NbO3 [34], TiO2 [35], andCa3Co4O9 films [36].
+
+Several papers have been also reported inthe battery field.
+
+ Popovici et al.
+
+reported the adoption of AD toprepare LATP solid electrolyte film and the as-deposited filmshowed total conductivity of 1.1 106 S cm1 at 22 1C [37].
+
+Ahn et al.
+
+also reported the properties of LLZ solid electrolyte filmfabricated by AD without any heat treatment, but the conductivityis 108 S cm1 even at 140 1C [38], which is much lower thansintered LLZ [18].
+
+The electrochemical properties of Si alloy orcomposite [39–42], LiMnO2 [43], LiNi1/3Co1/3Mn1/3O2 [44,45],LiFePO4 [46], Li4Ti5O12 [47] and Fe2O3 [48] film electrodes werealso investigated to verify the feasibility of AD.
+
+In this paper, we fabricated NASICON-type LAGP solidelectrolyte thin film by AD.
+
+Although LAGP is not stable againstlithium metal [10], it has a much wider electrochemical potentialwindow than LATP and LLT.
+
+For constituting all-solid-state LiBusing LAGP, several anode materials operating at high potentialfor lithium-ion storage such as Li4Ti5O12, TiO2 and Nb2O5 can bepotentially used.
+
+LLZ is known to be stable against lithium metaland have better electrochemical stability than LAGP, but synthesisof LAGP is much easier than LLZ.
+
+Furthermore, fabrication ofLATP film with NASICON-type crystal structure has beendemonstrated in [37], so that we selected LAGP as the materialsfor fabrication of solid-electrolyte thin film by AD.
+
+LAGP powderswith different particle sizes were directly used as raw material forLAGP film formation via RTIC.
+
+The crystallinity, microstructureand ionic conductivity of as-deposited LAGP film without any heattreatment were investigated.
+
+NASICON-type LAGP solid electrolyte thin film wasfabricated on SUS316 substrate by aerosol deposition (AD).
+
+LAGP powders were used as raw material and sprayed directlyonto a substrate to form LAGP film without applying any heattreatments.
+
+XRD patterns revealed that aerosol deposited(ADed) LAGP film has a same crystal structure with rawLAGP powder and no secondary phases were formed duringthe film deposition.
+
+Porosity of ADed LAGP films is stronglyinfluenced by the size of raw LAGP particles.
+
+Dense LAGPfilms consisting of fractured LAGP nanoparticles can beobtained using LAGP powders with an averaged particle sizeof 0.5–1 μm.
+
+Maximum total ionic conductivity at 27 1C inADed LAGP film was estimated to be 0.5  105 S cm1.Total conductivity is much lower than sintered LAGP, whichis mainly due to larger grain-boundary resistance betweenfractured LAGP particles in the film.
+

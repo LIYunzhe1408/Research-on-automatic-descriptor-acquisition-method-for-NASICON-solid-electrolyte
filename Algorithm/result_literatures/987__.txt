@@ -1,0 +1,36 @@
+Glassceramic materials based on NaMgSc0.5Lu0.5(MoO4)3:Eu3+ and Na0.5Mg0.5ScLu0.5(MoO4)3:Eu3+NASICON phases of variable composition and borosilicate glass have been produced by solidstate reactions.
+
+The materials have been characterized by Xray diffraction and differential thermal analysis, and their photoluminescence (excitation and emission) spectra have been measured.
+
+Their spectral characteristics havebeen analyzed with the aim of identifying materials potentially attractive as red phosphors.
+
+The current status and future prospects of lightingengineering, optoelectronics, and laser technologiesare determined to a significant degree by the development of physicochemical tools for a targeted search forand engineering of novel materials with tailored spectroscopic and luminescent properties.
+
+In this context,an important place is occupied by systems based onrareearth compounds, which offer bright emission atroom temperature, long excited state lifetimes, andfixed band position.
+
+In particular, europium compounds are widely used as phosphors with characteristic emission in the red spectral region [1].
+
+A great deal of attention is currently paid to luminescent glassceramic materials, which combine thefunctional properties of crystallites embedded in aglass matrix and the technological advantages offeredby glass preparation processes [2–4].
+
+Glassceramicmaterials have a number of advantages over conventional ceramics: fine grains, lower porosity, and thepossibility of controlling the crystallite size.
+
+Comparedto glasses, glassceramics have considerably higherstrength, more stable parameters, and smaller thermalexpansion coefficients [5].
+
+There is great interest in oxide phases that crystallize in NASICONrelated structures, which is arousedby their unique properties: high chemical and thermalstability and low thermal expansion [6–9].
+
+NewNASICON phases have been sought for a long time inphosphate, molybdate, sulfate, silicate, and arsenatesystems.
+
+Such phases are used as key components inproducing phosphors, sensors, optical devices, membranes, and catalysts.
+
+The possibility of varying the cation compositionwithout changes in structure type allows for the targeted synthesis of M1 –хA1 –хR1 +х(MoO4)3 phases ofvariable composition (where M, A, and R are mono,di, and trivalent cations, respectively) crystallizing inNASICONrelated structures.
+
+A necessary conditionfor a compound to have a NASICONrelated structure is that the size of the doubly and triply chargedcations in it lie in the range 0.6–0.9 Å [10, 11] (whichis met by the Mg2+, Sc3+, and Lu3+ ions) and that thesize of the additional cation Na+, which resides inframework voids, be not very large [12].
+
+The objectives of this work were to synthesize phosphors based on borosilicate glass and Eu2О3dopedNаMgSc0.5Lu0.5(MoO4)3 and Na0.5Mg0.5ScLu0.5(MoO4)3NASICON phases of variable composition and investigate their spectroscopic and luminescent properties.
+
+Analysis of the luminescence spectra of the glassceramics has shown that the europium oxidedopedsamples exhibit bright 616nm luminescence, arisingfrom the Eu3+ 5D0 → 7F2 transition.
+
+The luminescencespectra of the glassceramics suggest that these materials are potentially attractive as narrowband redphosphors.
+
+The present data for the NASICONcontainingglassceramics demonstrate that increasing the Eu2O3content to above 6 mol % reduces the thermal stabilityof the glassceramics and contributes to the formationof crystallites of NASICON phases and europiumoxide.
+

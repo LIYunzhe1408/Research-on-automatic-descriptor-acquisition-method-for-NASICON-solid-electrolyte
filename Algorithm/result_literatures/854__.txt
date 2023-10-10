@@ -1,0 +1,44 @@
+A solid electrolyte with a high Li-ion conductivity and a smallinterfacial resistance against a Li metal anode is a key componentin all-solid-state Li metal batteries, but there is no ceramic oxideelectrolyte available for this application except the thin-film Li-Poxynitride electrolyte; ceramic electrolytes are either easily reduced by Li metal or penetrated by Li dendrites in a short time.
+
+Here, we introduce a solid electrolyte LiZr2(PO4)3 with rhombohedral structure at room temperature that has a bulk Li-ion conductivity σLi = 2 × 10−4 S·cm−1 at 25 °C, a high electrochemical stabilityup to 5.5 V versus Li+/Li, and a small interfacial resistance for Li+transfer.
+
+It reacts with a metallic lithium anode to form a Li+-conducting passivation layer (solid-electrolyte interphase) containingLi3P and Li8ZrO6 that is wet by the lithium anode and also wets theLiZr2(PO4)3 electrolyte.
+
+An all-solid-state Li/LiFePO4 cell with a polymercatholyte shows good cyclability and a long cycle life.
+
+Arechargeable cell having a flammable organic liquid Li+electrolyte has enabled the wireless revolution, but it is notable to power safely an electric road vehicle at a cost that iscompetitive with the gasoline-powered internal combustion engine (1–4).
+
+Safety concerns as well as cost, volumetric energydensity, and cycle life have prevented realization of a commercially viable electric road vehicle.
+
+To address this problem,considerable effort is being given to the development of a solidLi+ or Na+ electrolyte that is wet by a metallic lithium or sodiumanode and has an alkali ion conductivity σi > 10−4 S·cm−1 at thecell operating temperature Top, where a Top ≤ 25 °C is desired(5–10).
+
+ Such a development would allow new as well as traditional strategies for the cathode.
+
+Wetting of the solid electrolytesurface is desired not only because it prevents dendrite formation and growth during plating of an alkali metal anode, but alsobecause wetting constrains the anode volume change in a charge/discharge cycle to be perpendicular to the anode/electrolyte interface, thereby allowing a long cycle life.
+
+Therefore, the shearmodulus of the electrolyte may not be critical where lithium wetsthe electrolyte surface.
+
+Ceramic oxide electrolytes offer a large energy gap betweentheir conduction and valence bands, which can allow realizationof a battery cell with a large energy separation between the anode and cathode chemical potentials without either reduction oroxidation of the electrolyte by an electrode (2).
+
+However, if analkali-metal anode reduces the solid electrolyte, formation of astable solid-electrolyte interphase (SEI) that conducts the workingLi+ or Na+ ion is acceptable if the Li+ or Na+ transfer across the SEIhas a low resistance.
+
+Although many ceramic solid Li+ electrolyteshave been investigated, they are easily reduced by Li metal and/orthey have failed to block dendrite formation and growth into theirgrain boundaries (SI Appendix, Fig. S1).
+
+However, the rhombohedral structure of the Na electrolyte Na1+3xZr2(SixP1–xO4)3 (11),NASICON, which was developed over 45 y ago, has recently beenused in a cell design in which a seawater cathode provides the sodium of the anode (12).
+
+The stability of the solid electrolyte on contact with a lithiumanode is a critical issue.
+
+If a lithium anode reduces the electrolyte, (i) the electrolyte may become an electronic conductor,(ii) an interface layer may form that blocks Li+ transfer, or (iii) aninterface layer may form that conducts Li+ ions with a low impedance.
+
+ The third situation forms with a LiZr2(PO4)3 electrolyte.
+
+In this paper, we report that a Li+ electrolyte with theNASICON structure, LiZr2(PO4)3, can be fabricated by usingzirconium acetate as the precursor and spark plasma sintering(SPS); it forms a stable Li+-conducting SEI that is wet by ametallic lithium anode and also wets the electrolyte to provide asafe, all-solid-state Li/LiFePO4 cell operating at Top = 80 °C witha long cycle life; the LiFePO4 cathode particles are embedded ina polymer catholyte and carbon.
+
+We have prepared a stable rhombohedral NASICON LiZr2(PO4)3electrolyte at room temperature.
+
+A thin amorphous interfacial layercontaining Li8ZrO6 and Li3P formed on the LiZr2(PO4)3 surface byreaction with Li metal; this layer is wet by Li metal, which suppressesLi dendrite formation.
+
+LiZr2(PO4)3 has a Li-ion conductivity of 2 ·10−4 S·cm−1 at 80 °C, a small interfacial resistance against Li metaland a LiFePO4 cathode, and a large electrochemical window up to5.5 V.
+
+An all-solid-state Li metal battery with LiZr2(PO4)3 as a solidelectrolyte contacting a Li metal anode showed no Li dendriteformation and good cycling performance with a Li insertion cathodeembedded in a polymer catholyte.
+

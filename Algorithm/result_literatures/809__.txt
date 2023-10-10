@@ -1,0 +1,188 @@
+In  compound  Li1.3Al0.3Ti1.7(PO4)3,  the  investigation  by  solid  state  NMR  of  the  T1  and  T2 relaxation  times  of  27Al  and  31P  nuclei  are  used  to  study,  versus  temperature,  the  local  dynamic properties at different lattice points. Our results can be summarized in the following way: Inside the NASICON framework, these two nuclei do not undergo any diffusion motion.  
+
+The  motion  of  the  skeleton  M(IV)(PO4)3  induces  fluctuations  in  the  P-O  and  Al-O  bonds giving rise to quadrupolar fluctuations for 27Al and chemical shift fluctuations for 31P. 
+
+The static distortions induced by these motions allow explaining some structural aspects. 
+
+In part I of this work structural aspects of the modified system Li1+xAlxTi2-x(PO4)3 (with the acronym LATP)  was  reported.
+
+The  main  purpose  of  that  first  part  was  to  synthesize  and  structurally characterize samples presenting a substitution Al3+/Ti4+ exclusively on octahedral site of the NASICON framework  (Figure  2b  of  ref.  1).  
+
+The  acronym  NASICON  (NAtrium  Super  Ionic  CONductor) represents  a  structural  family  of  general  formula  AxM2(XO4)3  where  A  can  be  alkali,  alkaline  earth metal or rare earth, M is a transition metal and X is a small cation (P5+, As5+, Si4+). 
+
+The first phase of this family, NaZr2(PO4)3 was pointed out by Sljukic et al. in 1967.2 Its structure, determined in 1968 by Hagman  and  Kierkegaard,  consists  in  a  tridimensional  framework  of  PO4  tetrahedra  and  ZrO6 octahedra sharing oxygens.2 This pattern forms the NASICON skeleton Zr2(PO4)3, or more generally M2(PO4)3, in which Na (or A) cations are distributed. 
+
+Li1.3Al0.3Ti1.7(PO4)3  belongs  to  the  rhombohedral  symmetry  (space  group  R 3c ,  Z=6)  which  is typical  for  NASICON  structure.  The  lattice  parameters  of  Li1.3Al0.3Ti1.7(PO4)3  are  a = 8.504  Å  and c = 20.881 Å .4-6 Let us recall the main results obtained in part I (apart the synthesis). 
+
+In the case of 27Al, both Magic Angle Spinning (MAS) and static modes give evidence to a single site with disorder. This disorder, which prevents to observe any second order quadrupolar structure on the central transition line, is explained by the disorder in the Al-O bonds. Spinning side bands of MAS spectrum allow us to determine quadrupolar parameter CQ=250 kHz and ηQ=0.9. 
+
+
+In MAS mode, the single crystallographic site of 31P splits in 6 different chemical environments which account for the distribution of aluminum in its neighborhood and the distortion of the NASICON 
+
+In  both  static  and  MAS  modes,  a  well  resolved  quadrupolar  structure  is  observed  on  7Li  spectra evidencing only one chemical site while the chemical formulation enforces at least two crystallographic sites. Actually, two cages of NASICON framework M1 and M3 were identified to host the lithium. The single  chemical  site  evidenced  by  NMR,  together  with  the  increase  against  temperature  of  the quadrupolar parameter CQ (Figure 4d of ref. 1), were explained by the lithium motion inside equivalent triangular oxygen planes between the M1 and M3 cages. 
+
+Part II was devoted to lithium motion studied in the temperature range from 120 K to 420 K on the Li1.3Al0.3Ti1.7(PO4)  sintered  ceramic  sample  studied  in  reference  1.7  These  NMR  studies  consisted measurements of relaxation times of the Zeeman energy T1Z=T1 , T2, T1ρ, and of the quadrupolar energy relaxation  time  T1Q  for  7Li.    The  T1  of  6Li  results  contributed  to  evidence  that  the  relaxation  of  the lithium is due to transferred hyperfine fluctuations and particle diffusion. A model accounting for all the experimental results was proposed and validated. 
+
+This part III is devoted to the study of the dynamics of aluminum and phosphorus ions in the same Li1.3Al0.3Ti1.7(PO4) sample and in the same temperature range as for part II. This dynamical aspect was observed through the measurements of T1 and T2 relaxation times of 27Al and 31P nuclei. So far no joint study  of  the  dynamics  on  the  site  of  the  phosphor  and  the  aluminum  was  realized  in  the  substituted compounds.  These  dynamic  results  allowed  establishing  a  plan  of  the  static  distortion  of  the  lattice which was abundantly used in the part I to establish several important structural results. That is why the analysis of these NMR results of this part is particularly detailed. 
+
+Nuclear  Magnetic  Resonance  (NMR)  experiments  were  performed  on  an  Avance  DSX300 spectrometer  (Bruker)  working  at  Larmor  frequencies  ν0 =121.495 MHz  and  ν0=78.204 MHz  for  31P and,  27Al  nuclei,  respectively.  31P  is  a  nucleus  with  a  nuclear  angular  momentum  I = ½.  27Al  is quadrupolar nuclei with I = 5/2 spin value.  
+
+Dynamical properties of 31P and 27Al nuclei were studied in the temperature range 120 K-420 K. The experimental  proceeding  for  the  temperature  control  was  already  reported.  8,9  Setting  parameters  are summarized in the SI file of reference (1). The T1 spin lattice relaxation time, which probes the Zeeman energy exchange between spin system and the lattice, were obtained by using the saturation-recovery sequence. In the case of  31P all the transition are saturated then observed. In the case of 27Al, because the satellite transitions are unobservable in the static mode, all transitions are saturated and measured with  a  non-selective  excitation  but  the  analyses  were  performed  on  the  central  transition.  Pulse durations  were    t90(31P)=3.5  µs  and  texc(27Al)=1.5µs.  T2  experiments  were  performed  with  the  Carr-Purcell-Meiboom-Gill sequence   the delay between transients was taken tdel≈10T1 although a saturation comb before each transient  was used.10 
+
+Another complication is due to the value of the spin: for a system with half integer spin I, in absence of rapid spin exchange transition, 2I T1 values are expected in the slow regime. 11-21  
+
+This number decreases because of to the symmetry in the relaxation matrix, and it depends upon the type  of  fluctuations  (quadrupolar,  dipolar  homo-nuclear,  hetero-nuclear,  etc...).  For  example,  in  the slow  regime,  for  quadrupolar  relaxation  in  the  case  of  I=5/2  (27Al)  the  recovery  of  the  central transition, after it was saturated is given by 1 0.06 exp 0.09 exp with  W1  the  one  quantum  transition  probability  and  we  suppose  that  the  double  quanta  transition probability  is  equal  to  W1=W2.17  Wq  is  related  to  the  spectral  density ( ) ( 2 qJqω .  
+
+The  two  following properties will help us in the analysis: It  is  important  to  note  that  each  parameter  Aq  has  its  own  symmetry  given  by  the  corresponding spherical  harmonics.  So  it  is  possible  to  report  asymmetrical  phenomena  by  differentiating  the amplitude and the correlation times of these parameters.  
+
+In  the  case  of  half  integer  spin,  the  homo-dipolar  and  quadrupolar  fluctuations  do  not  bring  any adiabatic contribution to the transverse relaxation rates R2 of the central line. Thus R2 has a maximum at the same temperature position as R1.  
+
+Eq ( 3) shows that even in the case where there are only quadrupolar fluctuations it will be difficult to observe the different relaxation times owing to their weak contributions. 
+
+The DMFIT software is used to fit the spectra and to obtain the linewidths, lines positions (in Hz or ppm) and intensities, and quadrupolar splitting.22  31P spectra are referenced from H3PO4 (85 %),  27Al from  Al(NO3)3.  Results  are  expressed  either  in  Hertz  or  in  ppm  (X(Hz)=X(ppm)ν0(MHz)).  
+
+In  the different tables, the amplitudes of the parameters are expressed in kHz. Logarithm plots provide a more sensitive test of non-exponentiality. So, at first all the experimental relaxation data for  both  27Al  and  31P  nuclei  were  processed  in  the  logarithm  scale  at  each  temperature.  Then,  these values were checked in the linear scale. 
+
+Dynamical NMR studies can be separated in two parts: on one hand low frequency regime evidenced by R2=1/T2 and linewidth, and on another hand high frequency regime given by R1=1/T1. R2 and the linewidth are intimately connected but this last one can be disturb by contributions which have nothing  to  do  with  the  dynamics.  Therefore,  apart  for  31P,  only  R2  will  be  analyzed.  In  some  figures  several temperatures Tc1, Tc1M, TcρΜ, Tc2M are identified. Tc1M≈195 K identifies the temperature of the relative minimum of R2(7Li); TcρΜ=225 K identifies the temperature of the R1ρ(7Li) maximum while Tc2M=250 K  indicates  the  temperature  of  the  relative  maximum  of  both  R2(7Li).  Tc1M=320  K  indicates  the temperature of the maximum in R1(7Li) and R1Q(7Li).
+
+31P spectra recorded at RT are sketched in the Figure 1a. The broad line corresponds to the spectrum recorded in static mode, while the narrow line corresponds to the MAS spectrum (νR=25 kHz). When the  temperature  varies,  the  linewidth  of  this  broad  line  changes  very  weakly  (Figure  1b).  We  can deduce that MAS is more effective in the line narrowing than temperature (motional averaging).
+
+In the static mode, a Gaussian/Lorentzian shape accounts for the  31P spectra.  Indeed the dipolar interaction, the chemical shift anisotropy and the disorder smooth the line shape, making impossible to distinguish the  different  contributions  observed  in  high  resolution  MAS  mode  (see  ref.  (1)).  In  Figure  1b,  we compare  the  experimental  transverse  relaxation  rate  results  R2(31P)  with  the  line  width  δ(31P).    At decreasing temperature, we observe that: the  slope  of  R2  is  very  weakly  negative  (even  zero)  while  the  slope  of  the  linewidth  is clearly positive.  owing to the difference of slopes between R2 and the linewidth, we can conclude that these two physical quantities are not sensitive exactly to the same fluctuations.  at very high temperature the linewidth does not reach zero and a residual linewidth remains. 
+
+It is consistent with the R2 behavior. Such results will be also observed in the case of 27Al. 
+
+The difference ∆= R2(31P) -δ(31P)  between these two parameters versus reciprocal temperature is given as an inset of this figure 1b. ∆ clearly deviates from a linear law (best fitted with an exponential) clearly  highlighting  a  saturation  effect.  Therefore, these  straight lines  are  only  unrefined 3.1.2 27Al transverse relaxation rate R2. 
+
+Figure 2a gives part of the static spectrum restricted to central transition (± ↔ m  ) which is the only observable transition in the static mode.  
+
+This unique line is fitted by a Gaussian / Lorentzian line shape.  This  structure  less  line  indicates  that  the  second  order  quadrupolar  is  weak.  Moreover  the dipolar broadening and local disorder (see part I) lead to the disappearance of the quadrupolar structure of the central line (even in Magic Angle Spinning experiments (MAS), see part I).
+
+The R2(27Al) parameter versus reciprocal temperature results are reported in Figure 2b. A unique R2 is detected as it is expected in this type of experiment when there is only one aluminum site and only the  central  line  is  analyzed.  The  first  points  (high  temperature)  of  the  experimental  data  seem  to indicate  that  R2(27Al)  does  not  decrease  to  zero  and  a  residual  contribution  remains  (at  least  in  the temperature  range  under  consideration).  At  decreasing  temperature,  R2(27Al)  begins  to  increase  from nearly 1000 s-1 up to a relative maximum (of about 2000 s-1) around 1000/T=3.7 (T=286 K). 
+
+Then it decreases down to a relative minimum around 1000/T=5.2. Finally it increases slowly towards its rigid lattice limit (which is not reached).  
+
+In  Figure  3  we  display  the  relaxation  rates  R1  versus  temperature  for  the  phosphorus.  Although several components are evidenced in high resolution MASNMR (up to six components, see ref. 1), only two T1 are observed. In this temperature range the R1 values are weak. At decreasing temperature, the less intense component of R1 reaches its maximum at 1000/T~3.2 and seems to stabilize in this value. 
+
+The  studied  domain  of  temperature  did  not  allow  evidencing  the  stabilization  of  the  value  of  the  the most intense component. 
+
+A third very weak and constant component around 0.05 s-1  is also detected. We have attributed this component to dipolar hyperfine interaction which is too weak to be observed on the other nuclei.
+
+The  experimental  results  of  the  spin  lattice  relaxation  rate  R1(27Al)  are  gathered  in  Figure  4a.  In Figure 4b we compare the relaxation rates R1(27Al) and R2(27Al). Two branches of R1 are observed in the whole domain of temperature (T<410 K), while the spectrum contains a single line. The presence of two  contributions  in  R1  is  confirmed  in  high  resolution  (MAS  νr=25  KHZ)  which  gives  at  room 
+
+When 2 T1 are clearly observed, the strongest contribution is due to the longest T1. During the fits of the experimental data, because of the dipolar fluctuations that are underlying, it was not possible to maintain constant, at any temperature, these two contributions and we left free these parameters. However the contribution of the longest T1 was always between 83 % and 66 %.  
+
+Above 410 K, in the rapid regime (high temperature), it would seem that both components will be confused.  If  this  is  true,  the  single  line  together  with  the  merger  of  the  two  T1  branches  allow  us  to conclude that these two  branches correspond to two different branches among the three expected for I=5/2 quadrupolar spins relaxation. Otherwise, we have one  27Al chemical site, with one T2 and 2 T1, what  means  that  the  sites  of  the  aluminum  would  distinguish  themselves  by  their  high-frequency dynamics. However both contributions should remain constant in temperature. So this last hypothesis has to be ruled out. 
+
+At low temperature a small distortion appears on each branch (indicated by the arrow on Figure 4a). 
+
+We shall show in paragraph 4.2 that this distortion is due to the superposition of two contributions to each R1 curves..
+
+First of all, as it can be observed on Figures 1b for 31P l and 2b in the case of 27A, it is important to note that, contrary to the lithium, the phosphorus and the aluminum nuclei have a residual contribution to R2  (at least in the temperature range under consideration). These residual contributions (600 s-1 in the case of 27Al and 7087 s-1 in the case of 31P ) are due to the inefficiency of the motions and fluctuations to average the line broadening. 
+ 
+Because in part reference (7), we have evidenced the lithium motion, the presence of a residual contribution to R2 both for phosphorus and aluminum means that these two nuclei do not undergo any motion (at least in this temperature range).  
+
+Figure  1a  shows  that  MAS  is  more  effective  than  temperature  in  the  averaging  of  the  linewidth. 
+
+These results lead to the following conclusions: In  the  temperature  range  we  are  interested  in,  the  fluctuations  at  the  origin  of  the  31P  low frequency relaxation (R2), have weak amplitudes, are not isotropic (MAS rotation performs an isotropic averaging) and/or are not represented by a tensor of rank 2.  
+
+The  weak  slope  observed  at  low  frequency  on  Figure  1b  is  a  consequence  of  weak  dipolar fluctuations between  31P and  27Al. Among the contributions to the broadening of the  31P nucleus line (chemical  shift  anisotropy,  homo-dipolar  and  hetero-dipolar)  the  most  averaged  one  is  the  7Li-31P hetero nuclear one due to the Li motion. We can conclude that phosphorus ions embedded in their PO4 tetrahedrons do not move in the structure.  
+
+Now let us compare the behavior of R2(31P) and δ(31P) (Figure 1b) versus reciprocal temperature. We know that the transverse relaxation rate and the linewidth are intimately related. However, as shown in Figure  1b,  the  slope  of  R2=-73  is  very  weak  with  an  opposite  sign  in  regards  to  the  one  of δ.  This indicates  that  R2  differs  from δ  by  other  interactions  which  become  more  and  more  effective  at  high temperature. The linewidth is sensitive to the dipolar interactions and to the anisotropies (dipolar and chemical shift) and both are represented by tensorial operators of rank k=2. 
+
+Nevertheless, the relaxation by  chemical shift fluctuations differentiates of that of the others mechanism by the spectral densities J(0)0 and J(1)q (properties which we also find in the J coupling)   
+
+Thus we can reasonably conclude that the difference in behavior between R2(31P) and δ(31P) is due to chemical shift fluctuations introduced by J(0)0 and J(1)m. Furthermore these further contributions have to increase at increasing temperature. In order to account for the R1 experimental data we used modified BBP  spectral  density  functions  given  by  equ.  4  with are  the amplitudes of the chemical shift fluctuations. In the case of isotropic fluctuations, with fixed k value and whatever the m value, all the functions are equal. Nevertheless to account for anisotropic fluctuations we can differentiate these amplitudes.   
+
+In  eq.(  4),  two  adiabatic  contributions  are  evidenced  for  R2:  an  isotropic  one  given  by  J(0)0 corresponding to fluctuation and an axial one given by J(2)0 corresponding to . 
+
+The antisymmetric contribution given by J(1)1(ωI) due to fluctuation is not observed on the NMR spectra but can contribute to the linewidth. The isotropic contribution is interesting because it is the one which is not averaged in the MAS experiment but especially it is the one which accounts for effects of isotropic expansion or contraction of the environment of the considered nucleus. The second adiabatic  contribution accounts  for  the  fluctuations  along  the  z  axis  of  the  chemical  shift tensor. 
+
+The fluctuations of the chemical shift are due to the distortion of the P-O bond. In the present case, the residual values of R2(31P) and δ(31P) at high temperature,  indicate that this nucleus does not undergo any activated motion but rather feel effect of phonons which act on the M(IV)(PO4)3 skeleton. Generally,  the  couplings  to  phonons  have  static  and  dynamic  components.  The  former  gives  rise  to static distortion which can be observed on the NMR spectrum while the latter participates to dynamics and can be observed through the relaxation times. Accordingly, the phonons give rise to fluctuations in the chemical bond owing to the motion of the electronic cloud. The electronic states (from which the chemical shift is defined) depend on the electronic orbital and the vibration states. This is well known in structural phase transition. 
+
+In  the  case  of  anisotropic  systems  as  that  observed  in  this  work,  we  expect  that  the  isotropic expansion becomes anisotropic. This one gives rise to of the anisotropic dynamic and static effects of the environment of the phosphorus ions acting on the chemical bonds. In our case, these chemical bond fluctuations  are  due  to  distortions  of  the  M(IV)(PO4)3  skeleton.1  The  distortions  of  skeleton  were discussed besides.
+
+The  relaxation  of  spin  I  by  hetero-nuclear  fluctuations  with  spin  S  is  monitored  by    the  coupled 
+
+The meaning of the matrix elements II R R R R  can be found in refs (23, 24, 29, 30). Relations  1( 5) are given for a pair of spin I=31P and S=7Li). 
+
+For system with several spins I and S coupled to the spin I under consideration the second moments are introduced and ( 9) with α=1.30 y=ωΙτc,  ωΙ=ω(31P) being the  Larmor precession  of the observed nucleus  (I=31P) and τ the correlation time  of  the  fluctuations. 
+
+Thus the contributions we will take into  account  will  be  maximized  from  the  rigid  lattice  limit  of  the  relaxation  rates  of  the  two  nuclei under consideration R2(31P)=7500 Hz and R2(7Li)=5500Hz. 
+
+This value of the upper limit of the dipolar contribution is in the range of the experimental value (0.8 s-1). So it seems that the longitudinal relaxation is also monitored by hetero-nuclear dipolar fluctuation (31P-7Li). The experimental data are fitted with the functions ( 4) ( 6),( 8) and  (  9)  with  parameters  given  in  table  1  and  considering  activated  motion  for  the  correlation  time (which is a rough approximation). The α parameter accounts for the disorder in correlation fluctuation time;32 this disorder was also evidenced in reference (1).  
+
+We are now going to show that the experimental curves R1(31P) ( 1 ) for the fastest contribution and R1(31P)  (  2  )  for  the  slowest  contribution report physical  phenomena  almost  identical.  For  it,  we calculate  the  ratios  between  the  parameters  defining  each  of  the  contributions.  The  values  of  these ratios are in the neighborhood of 1.5. Thus, a part a very weak shift in temperature (due to the values different  from  correlation  times  and/or  from  activation  energies)  both  curves  are  homothetic;  we  can conclude that the relaxation is due to the same types of fluctuation for the two phosphorus species. 
+
+From this ratio, we can consider that the relaxation separates phosphorus in two types, 60 % for the fastest and 40 % for the slowest. These two categories are essentially characterized by the amplitude of fluctuations  with  the  correlation  times  and  the  activation  energies  very  slightly  modified.  This  60  % contribution could correspond to configurations with 1Al3+ and 3 Ti4+ as second neighbors (Ti3a, Ti3b and Ti3c).1
+
+However, the observation of two T1 and only one T2 is not contradictory because T1 and T2 are not sensitive  to  the  same  fluctuations  and  the  fluctuations  are  anisotropic:  R2  mainly  depends  on fluctuations  along  the  z  axis  of  the  interaction  tensor  whereas  R1  depends  on  fluctuations  along  the other directions. Nevertheless, we can look for mechanisms which can account for this situation: two T1 among six expected values. In this case we expect several T2 which are not observed. 
+
+This  last  hypothesis  is suggested by the MAS (see part I) results in which the six contributions to the spectrum line up by pairs with  larger  widths  for  the  sites  of  phosphorus  with  several  Al3+  ions  in  the  neighborhood.  For  these disordered sites we expect a faster relaxation. In this case we expect also several T2 but these ones can also be very close. 
+
+This  mechanism  was  proposed  in  order  to explain the presence of two T1 in LiZr2(PO4)3 while in this sample there is a single phosphorus site.32. the lithium is not exactly on the   3  axis. This was established in part I. The distances d(31P-7Li)  are  not  all  the  same  and  the  dipolar  fluctuations  can  differentiate  the  31P  relaxation.  This mechanism also accounts for the previous results because this off-centered position is averaged by the lithium motion. In ref.(1) it was concluded that the lithium is not on the  3 axis, but it remains in the plan with triangular oxygen environment. 
+
+It is difficult to distinguish the real solution among these four hypotheses because all give nearly the same contributions. These four mechanisms are not contradictory. For example we can notice that the second  and  third  mechanisms  are  very  similar.      Among  both  conclusions  established  in  the  case  of 27Al, the second, which suggests the distinction of two types of aluminum by their relaxation, is totally coherent with the presence of 2 T1 for the phosphor. So the longitudinal relaxation distinguishes two types of 31P and 27Al.The phosphorus is sensitive to the local distortions and to the lithium diffusion of the lithium; these local distortions are at the origin of the quadrupolar fluctuations. 
+
+We propose the following model which takes into account the four situations previously described. 
+
+Let us suppose that in each of its sites the phosphorus can access to two states of relaxation A and B defined by T1A, T1B, T2A, T2B. These states would correspond to two configurations of PO4 tetrahedrons differentiated by a static distortion and fluctuations in the P-O lengths engendering different chemical shift  fluctuations.  
+
+This  hypothesis  is  supported  by  the  correlation  times  which  range  in  the  phonon process.  The  motion  of  the  M(IV)(PO4)3  skeleton  allows  exchanges  between  states  A  and  B  in  an exchange  time τe with the particularity that this motion has very weak effects on T1. If  τe<< T2A and T2B,  it  is  an  average  T2  which  is  observed. 
+
+These  results  are  in  complete  agreement  with  those  obtained  in  the  IR  experiments  in  which,  the characteristic  infrared  bands  of  the  vibrations  of  the  PO4  are  broadened  by  the  disorder  in  the  P-O bonds.  26,  37 These distortions explain the CQ behavior with the temperature (see  ref. (1)), confirming the mechanism proposed in ref. (34). 
+
+The  results  of  paragraphs  3.1.2  and  3.2.2  require  to  be  analyzed.  There  is  a  single  T2  while  2 branches of R1 are observed but must be attributed to a single type of aluminum (see part I).  
+
+In the case of quadrupolar nucleus with I=5/2, we expect three contributions in the recovery of the magnetization  during  T1  experiments  (see  eq.  (  3)).  Different  effects  prevent  from  observing  all  of them:  the  disorder  and  the  weak  intensity  of  some  of  these  contributions.  The  disorder  (due  to distortion in the P-O and Al-O bonds was observed on the 27Al spectra.
+
+Let  us  evaluate  the  ratio  R2  /R1  when  the  two  components  of  R1  collapse  (around  1000/T≈1.98), R2/R1≈400/25=16.  
+
+This  ratio  is  very  close  to  the  enhancement  factor  2[I(I+1/2)-1/4]=17  of  the transverse fluctuations in the T2 process when only the central transition is observed.35The discrepancy between  the  two  ratios  is  due  to  difference  between  the  contributions  (dipolar,  quadrupolar)  to  the different branches. The theoretical contribution values are difficult to evaluate and can be determined only  in  particular  cases.
+
+The two R1(27Al)   branches and the R2(27Al)  have their maximum at nearly the same temperature T0 such that 1000/T0=3.9 (Figure 2b). This is a further argument in favor of quadrupolar fluctuations with no adiabatic contribution to the transverse relaxation of the central line (see remark II in paragraph 2). 
+
+However we observe a small shift between the experimental data and the calculated curves if we take strictly the same parameters for R1 and R2, what is only an approximation because we do not know the  respective  contributions  of  the  spectral  densities  J1(ω0)  and  J2(2ω0).  The  dotted  line  is  obtained  by modifying  a  little  the  activation  energy  (Ea=0.165  eV→  Ea=0.160  eV).  
+
+This  modification  can  be understood as a consequence of the anisotropy of the quadrupolar fluctuations and J1(ω0) and J2(2ω0)  contributions which are different for R2 and R1.     
+
+Now we will show that the dipolar interaction is not the main contribution to the maximum of the 27Al  relaxation.  Let  us  consider  the  hetero-nuclear  dipolar  interaction  27Al-7Li  which  is  the  most efficient  dipolar  fluctuation  for  27Al  relaxation.    In  the  calculation  of  the  upper  limit  we  use  the previous  method.  
+
+However,  doing  this  we  introduce  a  further  approximation  because  we  do  not  take into account the quadrupolar feature of the aluminium (I=52) and the fact that the T1 of 27Al and 7Li are in the same order. Nevertheless, we shall maintain these relation ( 6),( 8) and ( 9) for the pair 27Al-7Li because within the framework of the calculation of an upper limit, the order of magnitude of the limit will not be modified. The second moment of the aluminium is maximized by the rigid lattice limit of R2(27Al) taken at 2700 Hz. This upper limit of the dipolar contribution to R1(27Al) is maximized by the Dip R 1max that is really too weak with regard to the experimental value.
+
+Thus we can conclude  that  the  quadrupolar  fluctuations  are  the  main  contribution  to  T1  maxima.    The  R1(27Al) experimental  data  are  fitted  with  parameters  given  in  table  2.  Two  quadrupolar  contributions  are needed with 60% for the fastest and 40 % for the slowest as we obtain for 31P.  
+
+However,  to  account  for  low  temperature  behavior  of  R2(27Al),  we  need  adiabatic  dipolar fluctuations.  This  type  of  fluctuation  does  not  contribute  to  the  R1  parameter.  The  most  important contribution  is  due  to  coupling  between  27Al  and  7Li  (due  to  Li  motion).  These  hetero-dipolar fluctuations have non-adiabatic contributions to R1 around Tc1 when the adiabatic contribution accounts for the low temperature behavior of R2(27Al) when it converges towards the rigid lattice limit (which seems to not be reached in the temperature range under consideration). The experimental data are fitted with the parameters given in table 2. We used modified BPP spectral ( 7).   
+
+Activated correlation time is used for quadrupolar fluctuations and the following correlation time for  the adiabatic dipolar fluctuations is introduced: It is worth noting that this correlation time ( 10) has its slope in the range of the δ(31P) one  (see Figure 1b) and accounts for the residual contribution (of 600 s-1) at high temperature. The non-adiabatic part  of  these  weak  hetero-nuclear  dipolar  fluctuations  also  account  for  the  small  contribution  to  R1 which appears around Tc1.  
+
+To  be  more  precise,  if  the  aluminium  and  the  phosphorus  do  not  feel  dipolar  hetero-nuclear fluctuations D27Al-31P(t), it is either because distances d(27Al-31P) do not fluctuate (or a little), or because spectral  densities  of  these  fluctuations  are  null  in  the  range  of  the  relevant  nuclear  frequency.  The tetrahedron  surrounding  the  phosphorus  and  the  octahedron  surrounding  the  aluminium  vibrate  by keeping  constant  the  distances  Al-P.  
+
+To  understand  the  origin  of  the  aluminium  quadrupolar  fluctuations,  we  can  compare  the  jump attempt  frequencies  and  activation  energies  of  these  nuclei  with  the  ones  of  lithium  ions.7  The activation  energies  are  (0.15  eV,  0.16  eV)  for  27Al  and  (0.17,  0.18)  for  7Li.    The  residence  times  of lithium ions (τc0≈ 10-12s) are slightly longer than the correlation times obtained for aluminium. This can be explained by the unfixed number of lithium surrounding 27Al (1,2,3). 
+
+These values strongly suggest that the lithium motion through the oxygen plane induces fluctuations in the oxygen positions which give rise to quadrupolar fluctuations as discussed in ref. (I). This motion induces the MO6 stretching distortion as viewed by Infra-Red spectroscopy.26,28 It is worth noting that the lithium motion is due the mobility of this ion but also to the distortion of the lattice induced by this motion and the M(IV)(PO4)3 skeleton relaxation. 
+
+This work was devoted to the study of the local dynamics in Li1.3Al0.3Ti1.7(PO4)3 by NMR of  27Al, 31P  through  T1 and T2 relaxation times measurements. This set of nuclei allowed us to probe the local dynamics in various sites. 
+
+The  residual  contribution  observed  at  high  temperatures  on  R2(27Al)  and  on  R2(31P)  allowed  us  to deduce  that  these  ions  do  not  diffuse  in  the  material  and  are  submitted  to  anisotropic  fluctuations. These  residual  contributions  allowed  us  to  conclude  that  there  are  negligible  fluctuations  in  their distances. The main contribution to the relaxation of these nuclei is due to fluctuations in the P-O and Al-O bonds implied by M(IV)(PO4) skeleton motion. It is important to note that, at higher temperature, when  the  system  tends  towards  an  almost  liquid  state,  the  motions  can  average  these  residual contributions to very weak values. 
+
+In the case of 27Al, two T1 branches are observed which are two among three expected for a spin 5/2 
+
+which  relaxes  by  the  quadrupolar  fluctuation.  That  is  the  absence  of  spin  and/or  particles  diffusions which allows this observation. 
+
+The maximum of R2(27Al) is due to the absence of adiabatic quadrupolar contribution to the transverse relaxation rate of the central transition. 
+
+The adiabatic fluctuations are due hetero-nuclear (7Li-27Al) coupling and quadrupolar fluctuations.  
+
+Concerning  31P, we pointed out that the relaxation is due mainly to chemical shift fluctuations for the transverse relaxation and to hetero-nuclear dipolar fluctuation (31P-7Li). 
+
+The distortions of the M(IV)(PO4)  skeleton give rise to  two T1 and  the  dynamics  of  these  distortions  allow  exchange  between  both  T2  states  leading  to  an  average value.  We  expect  that  the  most  important  contribution  to  the  quadrupolar  distortion  is  due  to  the M(IV)(PO4)3 skeleton motion. By showing that  R2(31P) is sensitive to the chemical shift fluctuations, we deduct that there are deformations of the P-O bonds and by consequences of the distortions of the Al-O bonds leading to quadrupolar contributions. 
+
+It was important to establish these dynamical results because they allow understanding the structural aspects. Any fluctuation can be separated in a static part and a dynamic part. The former gives rise to the  distortions  is  evidenced  in  NMR  spectrum;  the  latter  intervenes  in  the  relaxation  process.  So  by studying relaxation process we are able to obtain information sur the static distortions. Here it is about distortions of the skeleton M(IV)(PO4)3 and thus about the P-O and Al-O bonds whose properties are respectively recorded on phosphor and aluminium spectra and allow to explain (see part I): 
+
+An  apparent  disorder  in  Al-O  bonds  which  prevents  the  observation  on  quadrupolar structure  on  the  central  line  of  27Al  spectrum  and  especially  the  loss  of  a  local  symmetry highlighted by the value of the asymmetry quadrupolar parameter ηQ=0.9. 
+
+The  splitting  of  the  unique  line  of  the  31P  NMR  spectrum  observed  in  the  not  substituted compound LiTi2(PO4)3, in six components in the substituted compound under consideration.  
+
+The temperature behavior of the quadrupolar parameter CQ(7Li). 
+
+To  conclude  on  the  whole  investigation  of  Li1.3Al0.3Ti1.7(PO4)3  by  solid  state  NMR,  the  local structural and dynamical studies showed that the lithium ions are not trapped in potential well formed  20 by the NASICON cages, but move by short jumps through triangular oxygen planes formed between Ti/AlO6  octahedrons  and  PO4  tetrahedrons.  Such  motion  occurs  between  positions  where  the  lithium can accommodate bond valences close to 1. 

@@ -1,0 +1,56 @@
+of the increased interest in our environment, the need for on-line control in industrial applications, medical monitoring, reliable fire alarms, optimizing the performance of car engines, etc., has motivated many governmental and industrial laboratories to investigate new generations of chemical sensors with enhanced performances [1].
+
+Chemical sensors differ significantly from physical sensors because of the great number of chemical parameters. As examples, the number of ions in the human blood or in sea water is so large that selectivity or specificity becomes a crucial property of chemical sensors [2].
+
+The ion selective electrode (ISE) [3], [4] is widely used in a large variety of applications in research, industrial processing and clinical analysis. Application examples include the determination of ions in blood, sweat, urine, sea water, drinking water, foods, etc. [5].
+
+Most of such sensors are based on a solid material selective only to the ion considered. The ionic conductivity of these S.cm ), materials is generally rather low (lower than 10 and the impedance of ISE’s is generally 1–100 M . This re-
+
+Manuscript received June 24, 1997; revised March 20, 2000. M. Attari is with the Laboratory of Instrumentation, Institute of Electronics, Houari Boumediene University, Bab-Ezzouar 16111, Algiers, Algeria (e-mail: mattari@usthb.dz; attari.mo@lacentrale.fr).
+
+P. Fabry is with the Laboratoire d’Electrochimie et de Physicochimie des Matériaux et Interfaces, Ecole Nationale Supérieure d’Electrochimie, ENSEEG, Institut National Polytechnique de Grenoble, Saint Martin d’Hères 38402, France (e-mail: Pierre.Fabry@inpg.fr).
+
+quires an input impedance of the measuring apparatus higher than 1000 G . NASICON (Na Super Ionic Conductor), has been found to be a good candidate for building a sodium ion selective electrode with a low impedance [6].
+
+This paper describes the structure of the NASICON based ISE sensor and the subsystem implemented to drive four ions sensors. Experimental results of the effect of disturbances on sodium sensors in the static and dynamic cases are also given.
+
+The membrane of the sodium sensor is based on a NASICON pellet. It is a ceramic material with the following chemical formula:
+
+It has been shown that the ionic conductivity is a function of the sodium stoichiometry ( ) of the material. The best conducabout 2 or 2.2. tivity has been obtained for the composition S.cm , At room temperature, the conductivity is about 10 which is extraordinarily high compared to that of the usual sensitive membranes. Several ways can be used to elaborate NASICON samples. The advantages of sol-gel routes have been sensors deshown to synthesize NASICON powders for Na vices [7]. Such a chemical process is based on hydrolysis and condensation reactions of alkoxides with an excess of water. The precursors are Si (OC H ) , Zr (OC H ) , NH H PO , and NaOH. Very fine powders can be obtained in this way and so the sintering temperature can be lowered from 1200 to 1000 C to avoid a loss of Na and P which are volatile elements. The dried powder is then prepressed in a double-punch disc and finally pressed isostatically at about 250 MPa. The samples are sintered under air (the process is described in details in [7]). NASICON pellets can be assembled on traditional ISE’s with an internal reference solution, and the waterproof is provided by a joint or by sealing with epoxy resin (Fig. 1). Other sensors with solid state internal reference systems have also been proposed, allowing the use of small pellets of NASICON [8] (Fig. 2). These traditional realizations are useful for a laboratory experiment, but not suited for mass production. For this purpose, thin layer technologies are better solutions for the realization of micro-sensors. For instance the dip-coating process, which is based on sol-gel chemistry, has been proposed to realize NASICON thin films for micro ISE or ISFET devices [9]. More recently, Leonhard et al. have proposed thick layer devices by screen technology [10].
+
+Ion selective electrodes often exhibit a response to other ions. The response of the electrode in the presence of an interfering ion is given by the Nikolskii–Eisenman equation is the electrode voltage response to the primary ion
+
+where in the presence of the interfering ion . , and are, respectively, the Boltzman’s constant, the absolute temperature, and are respectively the charge of the elementary charge. are respectively the the primary and interfering ion. activity of ion and , is a quantitative measure of the electrode ability to discriminate the interfering ion referred to as the selectivity coefficient.
+
+Ideally, the selectivity coefficient should be very small. Obviously, the error in the activity depends on their relative levels. The activity of an ion in solution is related to its concentration due to the interference of by the equation
+
+The sensors studied are of potentiometric type, and thus the electrode polarization due to the current should be avoided [11]. For this purpose, a special operational amplifier (OPA111BM of Burr–Brown) has been used for the conditioning circuit (Fig. 3). A careful shielding is also required to prevent “hum” pickup in input leads. Leakage currents across printed circuit boards can easily exceed the bias current of the op-amplifier used. To avoid leakage problems, the signal input lead of the op-amplifier
+Different solutions containing K , Li have been used to study the influence of interfering ions in measuring the activity of Na . The separated solution method is used to determine the selectivity coefficient of the sensor [2]. Initially, the cell composed of four sensors is conditioned in a solution containing the interfering ion with a concentration of 0.1 mol/l. After about two hours, the cell is washed carefully by distilled water and then transferred rapidly to the solution which contains the primary ion Na with a concentration of 0.1 mol/l. Fig. 4 shows the evolution of voltages with time when the sensor (membrane sintered at 1000 C) is transferred from the interfering to the primary ion.
+
+Fig. 7. Experimental setup for the transient reference electrode, 3) jet, and 4) high impedence instrumentation amplifier.
+
+Fig. 5. Evolution of the selectivity coefficient with the sintered temperature
+
+Fig. 8. Transient response to K interfering ion for the glass electrode.
+
+Fig. 6. Evolution of the selectivity coefficient with the composition of the membrane (x).
+
+The selectivity coefficient is also determined for the four sensors sintered at different temperatures. Fig. 5 illustrates the selectivity coefficient as a function of the sintering temperature of the membrane. The temperature 1150 C is found to be worst, and it is preferred to sinter the membrane at lower temperatures ( 1000 C).
+
+The evolution of the selectivity coefficient has also been studied with the composition of the membrane (Fig. 6), and the was found to be best for improving the composition with selectivity of such sensors [15], [16].
+
+For particular applications, for instance in biological monitoring, it may be necessary to know the transient phenomena in the presence of interfering ions, for example K with the Na sensors [17]. For this purpose, transient responses of an Na glass ISE have been compared with a NASICON membrane.
+
+To record the interference transient response, an apparatus was attached to the subsystem which consists of translating two jets of solutions (generating a step: K to Na ) supported by a disc mounted on a stepper motor (Fig. 7). The recording transient response is started when the stepper motor switches for an input impulse [18].
+
+Figs. 8 and 9 show potassium and sodium transient responses for the glass and NASICON membranes. As predicted by the
+
+Fig. 9. Transient response to K interfering ion for the sensor based NASICON membrane.
+
+is smaller than one, the steady Nikolskii relation, since K ion than for K ion state voltage must be higher for Na solutions, with the same concentrations. The NASICON ISE obeys this law in transient response with a monotonic character (Fig. 9), but a potential overshoot is observed for the glass ISE (Fig. 8). Such a phenomenon has been studied for glass electrodes and can be explained by several models, among them the role of hydrated surface layer or adsorption–desorption processes, as discussed by Linder et al. [19]. The NASICON ISE seems to respond by a direct exchange between the bulk of the membrane and the aqueous solution.
+
+In this paper, the interference phenomenon of a sodium sensor based on ceramic material has been studied. A subsystem was implemented to drive four ion sensors including a mechanical system for studying the interference responses. The evolution of the selectivity coefficients has been studied as functions of sintered temperatures and the composition of the membrane, to optimize the structure of the membrane. For the three interfering ions studied, 1150 C and have been found to be the optimal values for a low selectivity coefficient.
+
+Furthermore, the interference transient responses have shown that the NASICON membrane is approximately ten times faster than the glass membrane (Tacussel®). This case is interesting for in vivo investigation by micro-sensors where transient interferences are present with fast variation of concentration (in animal cells).
+
+

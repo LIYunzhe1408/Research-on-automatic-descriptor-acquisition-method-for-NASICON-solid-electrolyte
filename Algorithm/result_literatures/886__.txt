@@ -1,0 +1,35 @@
+Rechargeable lithium ion batteries have ruled the consumer electronics market for the past 20years and have great significance in the growing number of electric vehicles and stationary energystorage applications.
+
+However, in addition to concerns about electrochemical performance, thelimited availability of lithium is gradually becoming an important issue for further continued use anddevelopment of lithium ion batteries.
+
+Therefore, a significant shift in attention has been taking placetowards new types of rechargeable batteries such as sodium-based systems that have low cost.
+
+Anotherimportant aspect of sodium battery is its potential compatibility with the all-solid-state design wheresolid electrolyte is used to replace liquid one, leading to simple battery design, long life span, andexcellent safety.
+
+The key to the success of all-solid-state battery design is the challenge of finding solidelectrolytes possessing acceptable high ionic conductivities at room temperature.
+
+Herein, we report anovel sodium superionic conductor with NASICON structure, Na3.1Zr1.95Mg0.05Si2PO12 that shows highroom-temperature ionic conductivity of 3.5×10−3S cm−1.We also report successful fabrication of aroom-temperature solid-state Na-S cell using this conductor.
+
+Since their introduction in 1991, rechargeable lithium-ion batteries have proliferated throughout consumer electronics.
+
+ They continue doing so apace, alongside increasing use in stationary energy storage applications.
+
+Inconsidering future rechargeable batteries, the increasing lithium consumption and the likely future costs mustbe taken into account.
+
+ Sodium (Na) has redox potential of Eo= −2.71V vs.standard hydrogen electrode, whichis close to that of Li.
+
+Na-based batteries have recently began making a comeback as an alternative for large-scaleenergy storage1–3.In the development of oxide-based batteries, a principal long-standing challenge is associated with the ionicconductivities of solid electrolytes, poor mixed ionic-electronic conductivities in the electrodes, and inferiorinterfacial contact between electrolytes and electrodes4.This explains the reason why, despite increasing interestin solid-state electrolytes, little progress in solid-state batteries has been reported, with only few publications onoxide-based solid-state sodium batteries5–7.In the present work, the fabrication of a room temperature solid-stateNa-S battery using an oxide electrolyte is demonstrated that represents the first step towards the creation of asolid-state room-temperature Na-S battery.
+
+The development of sodium batteries began with 1960s, when a sodium beta-Al2O3 (NaAl11O17) solid electrolyte was first reported8, which inspired intense interest in the solid-state electrochemistry of Na-conductingsolid electrolytes.
+
+However, the high operation temperature (300 to 350°C) required for this system has raised aseries of concerns over battery design and manufacture, safety issues as well as maintenance costs.
+
+For example,the extremely corrosive polysulphide melts, and the degradation of sodium beta-Al2O3 at the high operation temperature, can potentially result in battery failure, leading to fire hazard, and in some cases causing explosion9,10.Decreasing the battery working temperature would enhance battery safety, improve durability, and reduce cost11.It is particularly desirable for a solid-state Na-based battery to operate at ambient temperature.
+
+Unfortunately, todate no superior solid-state electrolytes have been reported for room-temperature Na-based battery operation, inparticular for the Na-S system.
+
+A promising sulphide glass-ceramic electrolyte with a conductivity of 10−4 S cm−1at room temperature, has recently been reported by Tatsumisago’s group12.However, a practically useful valueof 10−3 S cm−1is required to enable realistic battery design13.Four decades ago, pioneering work by Hong andGoodenough on NASICON (sodium super ion conductor) structure, Na1+xZr2SixP3−xO12 (0≤ x≤ 3), demonstrated that good room-temperature conductivities (~10−4 S cm−1) could be achieved, owing to the presence ofa 3D cation transportation channel14,15.Surprisingly, this remarkable opening for further research in the fieldappears to have been ignored so far.
+
+Previously, we studied Li-ion electrolytes with garnet structure16.The alkaline earth cations have long beenviewed as confined to being located exclusively at the dodecahedral 8-coordination sites (La sites) in the garnetstructure owing to their large ionic radii17,18.However, we found that alkaline earth metals can be made to occupythe octahedral 6-coordination sites (Zr sites) through a structural transformation by a facile mechanochemicalmethod, leading to enhanced room-temperature conductivity19.We also note a report of conductivity enhancement in NASICON electrolytes to which metal oxides (for example, Y2O3, TiO2, SnO2, V2O5, Nb2O5, Ta2O5,MgO, ZnO) have been added, although the room-temperature conductivities were not studied in these systems20.Mindful of previous research reports, we describe here the development and characterization of NASICONelectrolytes doped with alkaline earth ions at octahedral 6-coordination Zr sites through mechanochemicalsynthesis.
+
+ Specifically, the prepared electrolyte with a composition of Na3.1Zr1.95Mg0.05Si2PO12 presents a highroom-temperature conductivity at the level of 10−3 S cm−1.

@@ -1,0 +1,7 @@
+Sodium-ion batteries (SIBs) have attracted increasing attention in the pastdecades, because of high overall abundance of precursors, their even geographicaldistribution, and low cost.
+Apart from inherent thermodynamic disadvantages, SIBs have to overcome multiple kinetic problems, such as fastcapacity decay, low rate capacities and low Coulombic efficiencies.
+A specialcase is sodium super ion conductor (NASICON)-based electrode materialsas they exhibit – besides pronounced structural stability – exceptionally highion conductivity, rendering them most promising for sodium storage.
+Owing to the limiting, comparatively low electronic conductivity, nano-structuringis a prerequisite for achieving satisfactory rate-capability.
+In this review, weanalyze advantages and disadvantages of NASICON-type electrode materials and highlight electrode structure design principles for obtaining the desired electrochemical performance.
+Moreover, we give an overview of recentapproaches to enhance electrical conductivity and structural stability of cathode and anode materials based on NASICON structure.
+We believe that this review provides a pertinent insight into relevant design principles andinspires further research in this respect.

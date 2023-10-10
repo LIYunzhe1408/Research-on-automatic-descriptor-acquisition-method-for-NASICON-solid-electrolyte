@@ -1,0 +1,34 @@
+The sodium excess strategy was applied to NASICON-type compound to form Na3+xM3+2−xM2+x(PO4)3, towards a new familyof sodium-ion battery cathode materials with increased reversible capacity.
+
+Here we chose M3+ = V3+ and M2+ = Fe2+ andsuccessfully synthesized sodium enriched mixed valence compounds up to x = 0.5, i.e., Na3.5V3+1.5Fe2+0.5(PO4)3.It showsreversible Na+ (de)intercalation centred at 3.4 V vs.
+
+Na/Na+, involving the Fe3+/Fe2+, V4+/V3+ and V5+/V4+ redox couples,demonstrating that the excess sodium contributes to the electrode reaction.
+
+Goodenough’s discovery of the electrochemical properties ofLiCoO2 in 19801 triggered worldwide researches on lithium-ion batteries.
+
+The following commercialization of the first Li-ion battery in1991 put aside researches on Na-ion batteries using similar chemistrybut with heavier and larger sodium ion, because they are supposed tobe unable to compete with the high energy density of Li-ion batteries.
+
+Nowadays, the growing energy production from renewable energysources poses a new challenge as their intermittent nature must befaced, and setting up power grids to regulate the energy production isthe most promising idea.
+
+In these systems, secondary batteries wouldstock the excessively produced energy to deliver it when needed.
+
+However, batteries to equip such systems must fulfil new requirementsincluding a long life cycle, low cost, and environmental friendliness.
+
+While the Li-ion technology is suffering from high manufacturingcosts and limited lithium resources, the Na-ion technology regained alot of interest in the 2000 s as it poses as a promising candidate, nowthat its low energy density is not always a limiting factor.
+
+Among the various systems studied as positive electrode materials, the NASICON (NaxMM(XO4)3) type compounds are extensivelystudied.
+
+Their inherent chemical tunability can accommodate varioustransition metal (M,M = Sc, Ti, V, Cr, Fe,. . .) and XO4n− polyanions(X = Si, P, S, Mo, Si,. . . ).
+
+In the NaxMM(XO4)3 system, the star candidate is Na3V2(PO4)32 which exhibits promising electrochemical properties such as high operating voltage and good cyclability.
+
+However,it is quite recently that the substitution in the Na3V3+2−xM3+x(PO4)3system (M3+ = Fe7, Al8,9) was explored, where the partial metal substitution by the isovalent Fe3+ or Al3+ was motivated by the lowercost and environmental friendliness of the substitution elements.
+
+In this work, we applied aliovalent doping to V sites to formsodium rich compounds Na3+xV3+2−xFe2+x(PO4)3, targeting muchhigher reversible capacity by using excess amount of Na+ and e−introduced in the pristine Na3V3+2(PO4)3.New mixed-valent compounds Na3+xV3+2−xFe2+x(PO4)3 (0 ≤x ≤ 0.5) were successfully obtained for the first time by solidstate synthesis, demonstrating that the sodium excess strategy canbe applied to NASICON type systems.
+
+ The material at x = 0.5,Na3.5V3+1.5Fe2+0.5(PO4)3, shows reversible capacity of ≈ 90 mAhg−1with good capacity retention.
+
+The structural and redox behaviors areclosely related each other, where the successive sodium compositional domains (monophasic-biphasic-monophasic) are separated bythe active redox process (Fe3+/Fe2+, V4+/V3+ and V5+/V4+, respectively).
+
+The Na excess strategy demonstrated in this work can beextended to other NASICON compounds with general chemical formula, A3+xM3+2−xM2+x(PO4)3, which may facilitates to design betterfunctional materials.
+

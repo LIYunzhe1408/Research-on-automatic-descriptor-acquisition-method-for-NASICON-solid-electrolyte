@@ -1,0 +1,102 @@
+Galvanostatic chronopotentiometry was performed to identify the reaction products formed on the sensing electrode of an amperometric NO2 sensor based on NASICON (Na conductor). It was indicated that the products after the sensing operation at 150 or 2008C were different, depending on the atmosphere. NaNO2 and NaNO3 were formed in the NO2-containing air, while NaOx (presumably Na2O2) was formed in the NO2-free air. It is concluded that NaOx is formed through the cathodic reaction of O2, while NaNO2 is formed as a primary product of the cathodic reaction of NO2. It is also concluded that NaNO3 is formed as a secondary product of the chemical reaction between NaOx and NaNO2 in dry condition, although the reaction between NaOx and gaseous NO2 also takes place in the humid condition as another root for NaNO3 formation. # 2001 Elsevier Science B.V. All rights reserved.
+
+Keywords: Amperometric sensor; NO2 sensor; NASICON; NaNO2; NaNO3; Na2O2; Chronopotentiometry
+
+Nitrogen dioxide is known as a typical air pollutant which causes photochemical smog and acid rain. The concentration of NO2 in environmental atmosphere is currently measured by using analytical instruments based on chemical luminescence or Saltzman method. However, beside being rather expensive and bulky, these instruments cannot meet the real time monitoring of NO2, because of rather long times needed for data acquisition. Under such a circumstance, strong demands have emerged for a low-cost, portable sensor that allows continuous monitoring of environmental NO2.
+
+Several solid-state amperometric sensors for environmental NO or NO2 have been proposed by using solid electrolytes such as Ag conductor [1,2], proton conductor [3±9], or Na conductor (NASICON) [10,11]. Although some of them could detect NO or NO2 at sub-ppm levels, the detection of NO2 at ppb-levels had been still a challenge until we reported an amperometric NO2 sensor in which NASICON (Na3Zr2Si2PO12, Na conductor) based electrochemical cell was attached with NaNO2 by the anode side, as shown in Fig. 1 [12±15]. With the sensing electrode (cathode) polarized at  150 mV relative to the reference Au
+
+electrode, the electric current ¯owing through the device was well proportional to the NO2 concentration over the range from 10 ppb to 1 ppm at 1508C, as shown in Fig. 2. This device seemed to be promising as an environmental NO2 sensor. It was postulated that the response current of this device would re¯ect the rate of the electrode reaction, Na  NO2  e  ! NaNO2, on the sensing electrode, but this postulation remained to be veri®ed experimentally. In this amperometric device, solid products like NaNO2 are formed on the sensing electrode during the sensor operation, while the NaNO2 attached to the counter electrode is consumed. Such accumulation and consumption of solid substances on the electrodes are not only related with the NO2 sensing mechanism but also related the stability and life time of the device. Therefore, it is of primary importance to clarify what happens on the electrodes. In this study, the products formed on the sensing electrode were identi®ed and determined by means of galvanostatic chronopotentiometry.
+
+Fabrication of amperometric NO2 sensor
+
+The sensor device (Fig. 1) was fabricated in the same way as reported elsewhere [10±15]. A disk (9 mmf  0:7 mmt)
+
+Fig. 1. Configuration of amperometric NO2 sensor based on NASICON (Na3Zr2Si2PO12, Na conductor).
+
+of NASICON (Na3Zr2Si2PO12) was prepared from a powder mixture of ZrSiO4 and Na3PO4, through milling in a zirconia-ball-mill for 24 h, calcining at 11258C in air for 11 h, compacting into a disk under pressure of 200 MPa, sintering at 12208C in air for 14 h, and polishing with Emery paper. A commercial gold paste (Tanaka Matthey: TR 114G) was applied on both sides of the disk as a sensing (SE), counter (CE) or reference electrode (RE), respectively, followed by annealing at 7008C for 30 min. The thickness of each Au electrode was ca. 10 mm. The Au reference electrode was coated gastight with an inorganic adhesive to keep it from direct contact with gas phase. The Au counter electrode was covered with a layer of NaNO2 by applying an aqueous paste of NaNO2, followed by drying at 1008C.
+
+Fig. 2. Dependence of response current on NO2 concentration in air for the amperometric sensor based on NASICON at 1508C (the sensing electrode potential:  150 mV vs. the reference electrode).
+
+Fig. 3. Schematic structure of the sensing electrode, and measurement scheme for sensor operation and chronopotentiometry.
+
+The experiments of NO2 sensing and chronopotentiometry were carried out under the ¯ow (0.1 dm3 min 1) of NO2containing air or the pure synthetic air (free of NO2) at 150 or 2008C. The scheme of measurements adopted is shown in Fig. 3. The sensor device was ®rst set in the sensing operation mode, i.e. the sensing electrode was kept polarized at  150 mV relative to the Au reference electrode by using a potentiostat (Hokuto Denko, HA-301) for a designated period under the atmosphere containing or free of NO2. During this procedure, electric current ¯ows between the sensing and counter electrodes in response to the atmosphere, and integration of the current gives rise to the total charge used for the electrochemical reactions. Then the device was switched to the chronopotentiometry mode by using a potentio/galvanostat. The electrolysis current between the sensing and counter electrodes was controlled at a constant anodic current of 500 nA (1.28 mA cm 2) in the 0.1 ppm NO2-containing air or in the pure synthetic air at 1508C. The potential of the sensing electrode was measured versus the reference electrode as a function of time by using an electrometer (Advantest, TR8652) linked to a computerized data acquisition system. The current observed in this experiment represents the rate of the reverse reactions, i.e. electrochemical decomposition of the reaction products on the sensing electrode and the electricity involved re¯ects the quantity of the compounds decomposed. If there are two or more kinds of compounds, corresponding changes should appear in the sensing electrode potential.
+
+M. Ono et al. / Sensors and Actuators B 77 (2001) 78±83
+
+Chronopotentiograms after NO2 sensing operation
+
+Fig. 4 shows a typical chronopotentiogram of the device used for NO2 sensing operation at 1508C. Under the condition of constant anodic current, the potential of the sensing electrode (anode in this experiment) is determined by the kind of anodic (decomposition) reaction. In an ideal case, the potential should be kept almost constant until the reaction goes to completeness, giving rise to a plateau in the chronopotentiogram. If there are plural products to be decomposed, plural plateaus should appear in succession in the increasing order of the anodic potentials needed for the decomposition. Actual chronopotentiograms, however, are distorted considerably from the ideal one (step-like changes) because of some non-ideal factors, as is the case for one depicted in Fig. 4.
+
+Each potential plateau is characterized by transition time (t) and quarter-wave potential (Et/4). The factor t is de®ned as the time interval until the potential begins to increase steadily after the plateau, as indicated. Et/4 is de®ned as the potential at a quarter point of t. The amount of each product can be estimated from the constant current designated and the time of electrolysis needed. As Et/4 is inherent to each compound, it is possible to discriminate each product on the sensing electrode. In this way, chronopotentiometry can be useful to identify and analyze the products on the sensing electrode.
+
+The chronopotentiogram in Fig. 4 shows two plateaus (1 and 2), which have Et/4 at 20.2 and 254.1 mV, respectively. This indicates that two kinds of products have been formed on the sensing electrode during the NO2 sensing operation. It was suspected that the above products formed on the sensing electrode could be NaNO2 and NaNO3. To con®rm this, fresh sensor devices were coated with NaNO2 and NaNO3, respectively, to cover the sensing electrode. Fig. 5 shows the resulting chronopotentiograms. The devices had Et/4 located at 24.3 mV (NaNO2) and 259.1 mV (NaNO3),
+
+Fig. 5. Chronopotentiograms obtained from test runs using the sensor attached with an NaNO2 or NaNO3 on the sensing electrode (chronopotentiometry: 500 nA, 1508C in air containing 0.1 ppm NO2).
+
+respectively, which were in close agreement to the Et/4 values in Fig. 4. Therefore, plateaus 1 and 2 in Fig. 4 can be ascribed to the following decomposition reactions of NaNO2 and NaNO3, respectively. Plateau 1 : NaNO2 ! Na  NO2  e  Plateau 1 : NaNO3 ! Na  NO2  1
+
+It can also be concluded that the NO2 sensing operation at 1508C produces NaNO3 in addition to NaNO2.
+
+Fig. 6 shows variations in chronopotentiogram with an increase in the time of exposure of the device to 0.1 ppm NO2-containing air in the sensing operation mode. It is seen that the two plateaus became more conspicuous as the exposure time increased, resulting in a chronopotentiogram very similar to that of Fig. 4 after the exposure for 39 h. The transition times for the ®rst and second plateaus, which re¯ect the decomposition of NaNO2 and NaNO3, respectively, were estimated from Fig. 6. The obtained values are plotted as a function of the sensor operating time (exposure time) in Fig. 7. The transition time of the ®rst plateau (decomposition of NaNO2) increased with an increase in
+
+Fig. 4. A typical chronopotentiogram for the amperometric NO2 sensor after sensing operation in NO2-containing air at 1508C (chronopotentiometry: 500 nA, 1508C in air containing 0.1 ppm NO2).
+
+Fig. 6. Chronopotentiograms of the sensor after operation in air containing 0.1 ppm NO2 at 1508C (chronopotentiometry: 500 nA, 1508C in air containing 0.1 ppm NO2).
+
+M. Ono et al. / Sensors and Actuators B 77 (2001) 78±83
+
+Fig. 7. Dependence of the transition times (t) for NaNO2 or NaNO3 on the sensor operating time.
+
+operating time but its slope tended to become less steep gradually. That of the second plateau (NaNO3), on the contrary, remained to be fairy small in the beginning period and tended to increase more steeply in the later period. These tendencies suggest that NaNO2 is a primary product, while NaNO3 is a secondary one converted from NaNO2.
+
+The chronopotentiometry so far stated was performed in the presence of 0.1 ppm NO2. It is remarked that in the absence of NO2 (pure synthetic air) Et/4 shifted up to be 64.2 and 398.4 mV for the ®rst (NaNO2) and second (NaNO3) plateaus, respectively.
+
+3.2. Chronopotentiograms after sensing operation in the NO2-free air
+
+To know what happens on sensing electrode in the absence of NO2, the device was kept in synthetic air under the sensor operation mode. The response current (to O2) was too small (less than  2 nA) at 1508C, so that operation temperature was raised to 2008C (the response current: ca.  100 nA). After standing for 6 h at 2008C, the device was subjected to chronopotentiometry in synthetic air.
+
+Fig. 8 shows the resulting chronopotentiogram. Only a single plateau appeared with quarter-wave potential (Et/4) at
+
+Fig. 8. Chronopotentiogram after sensor operation in synthetic air (free of NO2) at 2008C for 6 h (chronopotentiometry: 500 nA, 1508C in synthetic air).
+
+Fig. 9. Chronopotentiogram for the sensor which was operated successively in synthetic dry air for 12 h at 2008C and then in 0.2 ppm NO2containing air at 1508C (chronopotentiometry: 500 nA, 1508C in synthetic air).
+
+24.7 mV, indicating that a certain oxide of sodium (NaOx) is formed as a result of cathodic reaction of O2. It is well known that the oxides of alkali metals tend to form peroxide like Na2O2 in the oxidative condition. It is likely that the NaOx species in the present case is ascribed to Na2O2.
+
+3.3. Mechanism of NaNO3 formation during NO2 sensing
+
+It is expected that the NaOx formed would react with NO2 or NaNO2 during the sensing operation under the presence of NO2. Thus, the device was kept in the sensor operation mode (sensing electrode polarized at  150 mV), ®rst in synthetic air at 2008C for 12 h and then in 0.2 ppm NO2-containing air at 1508C for 2 h. Fig. 9 shows the resulting chronopotentiogram. It has two potential plateaus with the quarter-wave potentials (Et/4) at 23.4 and 397.1 mV, respectively, suggesting the decomposition of NaOx and NaNO3, respectively. In addition, the electric charge of the decomposition of NaNO3 (1:14  10 3 C) estimated from the chronopotentiogram was fairly close to the charge of response current to NO2 (1:24  10 3 C) in the foregoing cathodic treatment under the NO2-containing air. Obviously, the cathodic treatment in the NO2-containing air resulted in the formation of NaNO3, unlike the usual case where both NaNO2 and NaNO3 were formed (Fig. 7).
+
+To clarify the mechanism of NaNO3 formation further, a fresh sensor device was subjected to yet another cathodic treatment. This time, the device was polarized cathodically ( 150 mV) in synthetic air at 2008C for 8 h, and then exposed to 235 ppm NO2-containing air at 1508C under the open-circuit conditions. The resulting chronopotentiogram is shown in Fig. 10. Remarkably only a potential plateau due to the decomposition of NaOx could be observed with no apparent plateaus ascribable to NaNO3 or NaNO2. This indicates that NaOx does not react directly with NO2 to give NaNO2 or NaNO3 but remains rather stable even in the presence of NO2. It follows that the NaNO3 observed in
+
+M. Ono et al. / Sensors and Actuators B 77 (2001) 78±83
+
+Fig. 10. Chronopotentiogram for the sensor which was operated in synthetic air for 8 h at 2008C and then exposed to 235 ppm NO2containing air at 1508C under the open-circuit conditions (chronopotentiometry: 500 nA, 1508C in synthetic air).
+
+Fig. 10 was formed through the reaction of NaOx with NaNO2, not with NO2. If NaOx is assumed to be Na2O2, the mechanism of NaNO3 formation may be written as follows. 2Na  O2  2e  ! Na2O2 Na2O2  NaNO2 ! NaNO3  Na2ONASICON chemical reaction
+
+cathodic reaction
+
+NaNO2 is produced through the cathodic reaction of NO2 (Eq. (5)) and it then reacts with Na2O2, which has been formed also cathodically (Eq. (3)).
+
+Fig. 11 shows the chronopotentiogram of the sensor device which was subjected successively to sensing operation in synthetic air at 2008C for 12 h and exposure to the synthetic air containing 2.5 ppm NO2 and 1.7 vol.% water vapor at 1508C under the open-circuit conditions. The potential plateaus ascribable to NaOx (Na2O2) and NaNO3 are observed clearly, indicating that NaNO3 is formed through a chemical reaction between NaOx and gaseous
+
+Fig. 11. Chronopotentiogram for the sensor which was operated in synthetic air for 12 h at 2008C and then exposed to the synthetic air containing 2.5 ppm NO2 and 1.7 vol.% water vapor at 1508C under the open-circuit conditions (chronopotentiometry: 500 nA, 1508C in synthetic air).
+
+Fig. 12. Schematic NO2 sensing model for the amperometric sensor using NASICON in the NO2-containing air.
+
+NO2 under such a humid condition, unlike the case under the dry condition (Fig. 10). Hill et al. reported that Na2O2 reacts with CO2 very rapidly in moist air to form Na2CO3, while the reaction takes many days in drier conditions [16]. A similar phenomenon can be expected to occur for the reaction between Na2O2 and NO2.
+
+3.4. NO2 sensing mechanism
+
+Based on the results of the present study, the NO2 sensing mechanism may be considered as follows. Schematic NO2 sensing model for the amperometric sensor using NASICON is shown in Fig. 12. When the sensing electrode is polarized cathodically in the ¯ow of NO2-containing air, an electrochemical reaction (5) takes place to produce NaNO2, while a reverse reaction (6) takes place on the counter electrode. Sensing electrode : Na  NO2  e  ! NaNO2 Counter electrode : NaNO2 ! Na  NO2  e 
+
+In other words, the sodium ions supplied from the source (NaNO2 layer) on the counter electrode (Eq. (6)), migrate through the NASICON disk to the sensing electrode to be consumed there for the reaction with NO2 (Eq. (5)). This is accompanied by an electric current flow in an external electric circuit, giving rise to a sensing signal. This sensing mechanism is just what we have assumed so far. The present study supports this mechanism basically. However, the importance of side reactions was also disclosed. The side reaction originates from the cathodic reaction of O2, which produces NaOx (presumably Na2O2). The rate of NaOx formation on the sensing electrode at the sensor operating temperature (1508C) is very small as compared to that of the NaNO2 formation. Nevertheless, the NaOx formation can exert significant influences on the stability of the sensing performances because NaOx reacts easily with NaNO2 in dry condition, and also with gaseous NO2 in humid condition, forming NaNO3 in each case.
+
+M. Ono et al. / Sensors and Actuators B 77 (2001) 78±83
+
+4. Conclusions
+
+The products of the sensing electrode reaction for the amperometric NO2 sensor using NASICON were analyzed by means of galvanostatic chronopotentiometry. It was found that NaNO2 and NaNO3 are formed on the sensing electrode when the sensor is operated in the NO2-containing air. As revealed from the variations in chronopotentiogram with a change in the sensor operating time, NaNO2 is formed as a primary product of the cathodic reaction of NO2, while NaNO3 is a secondary product converted from NaNO2. It was also revealed that the cathodic reaction of O2 produces NaOx (presumably Na2O2). The NaOx thus formed has a key for the cathodic formation of NaNO3, because it reacts not only with NaNO2 in dry condition but also reacts with gaseous NO2 in humid condition, both reactions leading to the formation of NaNO3.
+

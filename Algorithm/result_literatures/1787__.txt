@@ -1,0 +1,20 @@
+Electrocatalytic sensors belong to a relatively new group of solid state electrochemical gas sensors.
+Its working principleis based on electric current acquisition, while voltage ramp is applied to the sensor.
+The current-voltage plot has uniqueshape, which depends on surrounding gas type and its concentration.
+Response ofthe electrocatalytic gas sensor containssignificantly more information in comparison with typical amperometric or potentiometric one.
+Methods of sensorsresponse analysis, which was employed so far, did not fully utilize this feature.
+Moreover, shape of sensor response, incase of some gases or mixtures, is hard to be interpreted with traditional techniques.
+In this work more advancedmethods to analyze electrocatalytic gas sensor response, which are based on explorative and confirmative techniques aswell as artificial neural network, are presented.
+In this paper typical processing methods of the electrocatalytic gas sensor response were analyzed.
+However, thosemethods have limited applicability.
+Some shortcomings of those methods are described by example of the sensorresponse obtained in case of the toxic gases.
+A new approach to analyzing electrocatalytic gas sensor response ispresented.
+This approach assumes usage of whole current-voltage plot as a sensor response indication.
+This approachwas combined with principal component analysis and artificial neural network.
+Verification was conducted on thesensors response characteristics obtained for toxic gases.
+Very promising results were obtained.
+Still, presented methods do not allow obtaining quantitative information.
+Other methods have to be used in order toextract information not only about gas type, but about its concentration as well.
+It is planned to use another multivariateregression methods.
+For example, Partial Least Squares Regression (PLS) and Principal Component Regression (PCR)can be used for this purpose.
+Successful application ofthose data processing methods allows obtaining multigas sensingsystem based on compact single sensor construction.

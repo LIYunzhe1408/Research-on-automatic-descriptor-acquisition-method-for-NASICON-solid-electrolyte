@@ -1,0 +1,126 @@
+The all-solid-state supercapacitors with this LATP/CNT mixture have been manufactured in sandwich structure—two mixture layers separated by a pure LATP layer as separator.
+And the impedance behavior as well as supercapacitance dependent on various CNT weight percentages (1–7.5%) has been investigated by electrochemical impedance spectroscopy and cyclic voltammetry.
+The results clearly prove that electrical double layer could be formed at the heterophase contacts indicating the supercapacitance behavior of the device, especially when the high contents of CNTs are used.
+The capacitance of specimen without CNT shows only a value of 0.52 mF/cm3, which is strongly promoted to 11.59 mF/cm3 when CNT content increases to 7.5%.
+Electrochemical impedance spectroscopyIntroductionSupercapacitors are widely used due to their special advantages like high capacitance, high power density, long cycle life, and possibility of bearing peak currents.
+They are helpful to meet the demands in electrical vehicles as complement for batteries in electrical energy storage and harvesting applications.
+The liquids used as electrolytes usually bring about the safety problem as leakage, and they are toxic and inflammable.
+One of the most promising solutions is utilizing all-solid-state electrolytes instead of the liquid ones.
+Fast ion conductors possess relatively higher ionic conductiv−5 S/cm) compared to regular crystalline solids (~ ity (> 10 −12 S/cm, NaCl), because the activation energy is 10Institute of Composite Structures and Adaptive Systems, German Aerospace Center (DLR e.V.), Lilienthalplatz 7, 38108 Braunschweig, Germanyrelatively lower for ions to overcome the barriers.
+Owing to the lack of stoichiometric variations in the pure ionic conductors, they could not be individually applied to the electrochemical energy storage
+To solve this problem, Chen et al. supposed to create Bartificial^ or heterogeneous mixed conductors which consist of compatible phases that are highly ionically and electronically conducting.
+Electrical energy could furthermore be stored by compositional changes at heterophase contacts.
+A prototype has been developed to prove their theory that silver ionic conductor RbAg4I5 and electronic conductor graphite were mixed as electrodes, separated by pure RbAg4I5.
+On the negative charged side of the cell, the silver ions excess in the form of interstitials on the RbAg4I5 side and the correlated electrons accumulate on the graphite side.
+Meantime, the silver deficiencies in the form of the vacancies appear on the RbAg4I5 side along with the holes on the graphite side on the positive charged side of cell.
+As a result, an extreme high relaxation time of τ0 = 40 ms has been realized indicating ultrafast charge/discharge rates.
+The same behavior has been reported for similar mixed conductors like Li2O:Ru or LiF:Ni.
+No characterizations of electrical energy storage capacitance have been reported in their workswhen those conductors were used as supercapacitors.
+Francisco et al. manufactured an all-solid-state supercapacitor based on Li2S-P2S5 glass-ceramic which are sulfide-based Li+ ion conductors possessing high ionic con−3 S/cm.
+Multiwall carbon nanoductivities of over 10 tubes (MWCNTs) as electronic conductive materials were added to the Li2S-P2S5, and the mixture served as nanostructured electrodes, which possessed a high inner surface.
+Here, the energy storage at heterophase contacts between Li2S-P2S5 and MWCNTs were characterized by cyclic voltammetry measurements.
+The capacitances were enlarged 1000 times compared to the devices without carbon nanotubes (CNTs).
+However, the sulfide-based Li+ ion conductors react with the moisture emitting flammable and toxic gas, which limits their applications in the ambient environments.
+Therefore, in the present work, the NASICON-type Li1.4Al0.4Ti1.6(PO4)3 (LATP) ionic conductor is utilized, due to its relatively high −4 S/cm at room temperature and excelconductivity of 7 × 10 lent stability in different environments.
+To produce the heterophase contacts inside the electrodes, an electronic conductor should be introduced into the LATP.
+Here, the single wall carbon nanotubes (SWCNTs), because of larger surface area and more excellent conductivity than MWCNTs, are chosen.
+For manufacturing of all-solid-state supercapacitors, the LATP/CNT mixture as well as pure LATP are layered in a sandwich configuration, similar as the one reported in Francisco’s work.
+One of the applications of this storage device has already been reported in our previous work, in which they were integrated with composite materials serving as multifunctional structural supercapacitors.
+In the present work, the SWCNTs are mixed with LATP in different weight proportions and separated with a pure LATP layer following with a sintering process to stabilize the mechanical properties of as-prepared specimens.
+Aiming at microstructure characterization, the scanning electron microscope is used.
+In addition, the cyclic voltammetry combined with electrochemical impedance spectroscopy are used to reveal the supercapacitive behavior of the prepared specimens.
+The influence of CNT contents in electrode mixtures on capacitances and conductivities of device has been systematically investigated.
+The results are discussed with respect to the best mixture of LATP/CNT and their potential of application as all-solid-state supercapacitors.
+ExperimentalSynthesis process of LATP solid electrolyte and electrode mixture with SWCNTsThe Li1.4Al0.4Ti1.6(PO4)3 (LATP) solid electrolyte was synthesized by a sol-gel method.
+Stoichiometric amount of 0.8 mol/L titanium (IV) t-butoxide (≥ 99.9%, Alfa Aesar)J Solid State Electrochemwas dissolved in 0.2 mol/L citric acid (> 99%, Merck KGaA), heated to 95 °C and stirred at this temperature for 20 h.
+Then stoichiometric amounts of LiNO3 (> 99%, ReagentPlus®), NH4H2PO4 (> 98.5%, ReagentPlus®), and Al(NO3)3·9H2O (99.2%, VWR chemicals) were added into solution, and stirred at the same temperature for 30 min until homogeneous solution was acquired.
+Ethylene glycol (≥ 99.9%, Merck Schuchardt OHG) of a molar ratio to citric acid at 1:1 was subsequently added and was heated up to 120 °C holding for 30 min and heated up to 170 °C holding for 2 h to evaporate the water.
+The dried gel was manually grinded by a mortar and transferred to a ceramic crucible, heated up to 600 °C holding for 5 h with a ramp of 5 °C/min to complete the pyrolysis process.
+The calcination was executed in the open air at 800 °C holding for 5 h.
+The produced powders were wet grinded with the help of a planetary ball mill (FRITSCH PULVERISETTE 7 premium line, Germany) by using ethanol as solvent.
+The milling process was performed in 80-ml grinding bowls with ZrO2 balls (diameter = 5 mm).
+The weight ratio was Mballs/ Mpowders = 6:1. The milling speed was 400 rpm/min.
+Between each 30-min milling step, an interval of 5 min was applied to ensure the solvent being not overheated.
+After 8 cycles, the solvent was transformed into an oven and dried at 80 °C for 10 h.
+As-prepared LATP powder was mixed with SWCNTs (Elicarb® SW 925, Thomas Swan, UK) with a dry grinding process by planetary ball mill.
+The grinding conditions were the same as mentioned above only without solvent.
+The milling process was set at 400 rpm/min for 30 min.
+The total weight of each electrode mixture layer was 0.03 g, and the separator layer was 0.20 g.
+The pellets were sintered at 700 °C under nitrogen for 6 h (heating rate was 2 °C/min, gas flow was 0.5 L/min) to prevent any thermal and/or oxidative degradations.
+Microstructure characterization and measurement of electrical propertiesThe cross sections of the pellets were analyzed by using a scanning electron microscope (LEO 1550, Zeiss Jena AG, Germany, operating voltage of 5 kV, 8 mm).
+Left part is LATP (gray part) deposited with 90-nm gold layers (yellow parts), right part is the photo of the LATP specimen after sintering.
+Configuration of storage device:LATP with CNTs (gray parts with patterns) separated by pure LATP (gray part) deposited with 90-nm gold layers (yellow parts), right part is the photo of LATP/CNT specimen after sinteringI V I U M e l e c t r o c h e m i c a l w o r k s t a t i o n ( Ve r t e x , TECHNOLOGIES, France) for the structural supercapacitors.
+The CV was tested in a voltage range of 0–0.5 V at scan rates of 5, 10, 20, 50, and 100 mV/s, respectively.
+The EIS was carried out in a frequency range of 1 MHz–0.01 Hz with a voltage amplitude of 10 mV.
+An equivalent circuit, describing the electrochemical process in the solid supercapacitor, was simulated by EC-lab® software.
+The electrical measurements of LATP pellets were carried out in a Swagelok® PTFE cell, and two aluminum bolds were used as plugs which could be connected with the workstation.
+There was a copper springer inserted between the bold and the specimen at one side, which ensured the pressure upon specimens being nearly constant in each measurement.
+Results and discussionsMicrostructure characterizationCNTs, with a chain structure, inserted along the LATP grain boundaries are demonstrated in Fig.2b–d.
+Before sintering, the CNTs have been dispersed in LATP powders by mechanical milling, which enables the LATP powders being wrapped by CNT chains.
+After sintering those chains inserted among the grain boundaries, it results in a large amount of heterophase contacts between electronic conductor (CNT) and ionic conductor (LATP).
+When the CNT content rises up from low value to high value, the chains among few grain boundaries could connect with each other and build up large CNT networks in the whole electrode layer.
+Calculated specific capacitances of various devices at the scan rate of 5 mV/sJ Solid State Electrocheminto leaf shapes at high scan rates (> 50 mV/s) because of the existence of equivalent series resistance (ESR).
+On the contrary, they intend to remain in near-rectangular shape when the scan rate decreases under 20 mV/s.
+The behavior of devices is thus described as a highly capacitive behavior.
+It implies that the double layers are built up at the heterophase contacts.
+When a voltage V is applied between two electrodes, the electrical field could distribute along the electrical conductors, namely the CNT networks.
+The electronic charge Q accumulates on the CNTs which drive the ions to detach from the positive electrode and bind to the negative side.
+On the negative electrode, the Li+ ions migrate to the interface between LATP and CNTs balancing the charge due to the excess electrons.
+The double layers form on every heterojunctions, which could be then considered as micro-capacitor parallel with a resistance, and they are connected as the networks contributing to the charge storage in the whole electrode.
+At the opposite electrode, deficiency of electrons in the CNT in contact with LATP will cause Li+ migrating away leaving a negative space charge in the LATP due to the lack of positive ions.
+The negative space charge compensates the excess charge in the CNT.
+Thus, a double layer is set up on each electrode due to the migration of cations within the electrolyte and supercapacitance is exhibited.
+The specific capacitance per electrode surface area rises up by raising the CNT content.
+This enhancement is significant when CNT content is from 2.5 to 6.5%.
+Without CNTs, the pure LATP pellet acquires a specific capacitance of only 0.52 mF/cm3, which is improved to 11.59 mF/cm3 when CNT content increases to 7.5%.
+On the other hand, the specific capacitance per CNT weight is obviously enhanced when CNT content variants from 1 to 4.5%.
+However, when CNT content further increases, the values decrease slightly.
+The maximum specific capacitance value is obtained of 353.570 mF/g in the device with 4.5%-CNTs.
+This CV behavior certifies that the electrochemical energy could be stored between LATP/CNT heterophase contacts.
+As every contact could be considered as a micro-RC circuit, it is obvious that more CNT addition results in larger amount of connected micro-RC circuits which contributes directly to a high total capacitance.
+The Al2O3 was coated on the surfaces of aligned SWCNT arrays to manufacture an all-solid-state supercapacitor.
+Furthermore, the electrochemical impedance spectroscopy has been executed for the devices without CNTs, with CNTs of 1, 4.5, and 7.5%.
+The EIS data expressed as Nyquist plots over frequency range of 10 MHz to 0.01 Hz are shown inJ Solid State Electrochem Fig.4. With increasing CNT content, the impedance of devices dramatically decreases not only in real part but also in imaginary part.
+The influence of CNT content on equivalent system resistance (ESR) value of devices is then demonstrated after the equivalent circuit analyses.
+The LATP pellet without CNTs is coated with gold by sputtering; thus, the charge exchange could occur at the LATP/Au interface.
+In addition, the semicircle’s termination of the Z′ axis in the lower frequency range represents the ESR of the device, namely ESR=R1+R2. Figure 4d shows the correlation between ESR values and CNT contents.
+The resistance of pure LATP ionic conductor is as high as 3.9 kΩ and the ESR decreases to 1.3 kΩ in device with 4.5%-CNTs.
+This value remains nearly constant even though more CNTs are added into electrodes.
+The second segment is a sharply increased line at lowfrequency region implying an electrode polarization.
+This process is represented by a constant phase element (CPE), which means the device’s behavior deviates from an ideal capacitor.
+This electrode polarization is induced by charge carriers which are trapped at interfaces of heterogeneous systems.
+This commonly indicates the nonuniform charging rate in an electrode-induced frequency distribution (represented by CPE1).
+It is evident that this frequency distribution has no significant effect in the 1%-CNTs device, because the electrode polarization resistance is still similar with the device without CNTs.
+Both Nyquist plots of devices 4.5%and 7.5%-CNTs show a distinct behavior compared to the other two devices.
+The insert line in the middle frequency range inclines to 45° which is followed by a straight line approaching more to the imaginary part in the lowfrequency range.
+This near-vertical line indicates a dominant effect of ideal capacitor behavior (Cdl).
+It indicates that in these devices, the electric double layer has formed due to a sufficient amount of heterogeneous contacts which enable the exchange of electronic and ionic charges.
+Besides, the electrode polarization could be totally fulfilled in these low frequencies.
+The evolution of the complex capacitance has been conducted of the devices with 4.5%and 7.5%-CNTs, respectively.
+When a supercapacitance is described as a capacitance C(ω) combined with a resistance R(ω), that both of them are functions of the frequency ω, the frequency-dependent supercapacitive behavior could be more clearly demonstrated.
+The values of the capacitance C′(ω) in real part are close to zero when frequency higher than 0.5 Hz, since the devices act as resistors in high-frequency range.
+As frequency gradually drops from 0.5 Hz, C′(ω) begins to increase.
+The values of two devices are very similar with each other until the frequency is lower than 0.05 Hz.
+Then the difference shows up: the device with 4.5% CNTs tends to be less frequency dependent at low frequency of 0.01 Hz, while the C′(ω) values of device with 7.5% CNTs increase significantly even at 0.01 Hz.
+It implies that the maximum electrode capacitance of device with 7.5% CNTs has not reached in the present measurement frequency range.
+The value of double-layer capacitance will be realized when the measurement frequency inclines to lower value.
+The device with 4.5% CNTs possesses then a C′(ω) value (per electrode surface area) at 0.01 Hz of 6.38 mF/cm3, which of the device with 7.5% CNTs is 12.14 mF/cm3. The C′(ω) values are in agreement with the capacitance values measured by CV at the scan rate of 5 mV/s.
+In Fig.5b, there is a frequency f0 corresponding to the peak of the C″(ω) vs.f curve, furthermore this value f0 is associated with the relaxation time constant τ0, in which τ0 = 1/f0. This parameter defines the boundary between the regions of capacitive and resistive behaviors of the supercapacitor.
+At τ0, C″0 = C′/2, when C″ > C′/2, device shows capacitive behavior and when C″ < C′/2 device exhibits the resistive behavior.
+The relaxation time constants of two devices with 4.5%and 7.5%-CNTs are obtained as 12 and 25 s, respectively.
+This lower relaxation time constant means that using LATP/CNT-4.5% mixed conductor as electrodes ensures the supercapacitors being able to deliver higher power than withLATP/CNT-7.5%.
+On the other hand, the higher CNT content supports a higher supercapacitance of the devices potentially bringing a higher energy density.
+In addition, the relaxation time constants of 12 and 25 s is much longer compared with it of RbAg4I5/graphite mixture as only 40 ms.
+This deviation could be caused by lower ionic conductivity of LATP than of RbAg4I5. The composition of the mixtures could bring about the different results.
+Besides, the interface resistance between heterophase contacts is also the key issue since the charge exchange process requires longer relaxation time.
+On the other hand, the relaxation times in the present work are within the same order of magnitude as the τ0 values calculated by other systems of supercapacitor.
+The research demonstrates the feasibility to fabricate energy storage device with this type of mixed conductors.
+It is demonstrated that the electrochemical performance significantly depends on the composition of those mixed conductors.
+The capacitance measurements by cyclic voltammetry show that the capacitance increases with increasing the amount of heterophase contacts between LATP and CNTs.
+Electrochemical impedance spectroscope reveals further the capacitance frequency behavior of different devices.
+As a result, the device behaves like a supercapacitor when CNT content in the mixture reaches to 4.5%.
+Additionally, the devices with higher content of CNTs result in a large amount of artificial heterophase contacts, which ensures betterJ Solid State Electrochemperformance of the storage devices.
+It needs to mention that even though the energy density and power density are not comparable with the liquid systems, which is because of the limited ionic transportation in the solid electrolytes and high interface resistance between electrode and electrolyte.
+However, the all-solid-state supercapacitors have the advantages not only the safety but also the good chemical stability in high temperature.
+Besides, in some special fields, a total dry condition of the energy storage devices is important, for example for the satellites.
+Therefore, the devices in the present work are potentially used as energy storage devices in the future.

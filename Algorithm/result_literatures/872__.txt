@@ -1,0 +1,56 @@
+We report a direct sol–gel synthesis and characterization of new proton-containing, rhombohedralNASICION-type titanium compounds with mixed phosphate and sulfate oxoanions.
+
+The synthetic conditions were established by utilizing peroxide ion as a decomposable and stabilizing ligand for titanylions in the presence of phosphates in a strong acidic medium.
+
+Thermogravimetric analysis (TGA), powderX-ray diffraction (PXRD), induction-coupled plasma optical emission spectroscopic (ICP-OES) elementalanalysis, and Raman and 1H magic angle spinning nuclear magnetic resonance (MAS-NMR) spectroscopicstudies have determined the presence of sulfate and proton ions in the structure, for which the compositional range has been found to be H1xTi2(PO4)3x(SO4)x (x¼0.5–1).
+
+The particulate products exhibita nanocrystalline nature observed through characterization with scanning electron microscopy (SEM)and transmission electron microscopy (TEM).
+
+The N2 sorption isotherm measurements and subsequentBrunauer–Emmett–Teller (BET) and Barrett–Joyner–Halenda (BJH) analyses confirmed the presence ofthe textural meso- and macropores in the materials.
+
+Future studies would determine the potential of thenew compounds in various applications as battery materials, proton conductors and solid acid catalysts.
+
+Rhombohedral NASICON-type oxide compounds, AM2(XO4)3,have been studied extensively due to their diverse properties andapplications including ion exchange [1], piezoelectricity [2], luminescence [3], thermal expansion [4], chemical sensing [5], ionsorption [6], proton conduction [7], catalytic properties [8], solidelectrolyte [9], and redox properties for battery [10].
+
+The diversityis benefited by the flexibility of the NASICON structure that canaccommodate various combinations of A, M and X cations in thestructure where tetrahedral oxoanions (XO4) are cross-linked withoctahedrally coordinated metal cations (M) via corner-sharing ofthe oxide ions, and thus form a three-dimensional framework withconnected one-dimensional ion channels that host the alkali oralkaline earth (A) cations.
+
+In addition to common metal substitution modification of theNASICON compounds, mixing of the tetrahedral oxoanions has beenvery productive in discovery and optimization of the physicochemical properties of the compounds for the aforementionedapplications.
+
+In fact, the original NASICON compound was preparedas a solid solution between the known compounds NaZr2(PO4)3 [11]and Na4Zr2(SiO4)3 [12] for Na1þxZr2(PO4)3x(SiO4)x with muchimproved ion conductivity [13,14].
+
+The same chemistry has beenextended to titanium-based NASICON-type compounds with improved Naþ ion conductivity in titanium phosphate arsenates [15]and phosphate borates [16], with Liþ conductivity in titaniumphosphates doped with silicate [17–19], vanadate [17,20–22], andniobate [17,20–22].
+
+Herein we report new mixed oxoanion compounds, hydrogentitanium phosphate sulfate, H1xTi2(PO4)3x(SO4)x (x¼0.5–1)through sol–gel synthesis in an acidic medium.
+
+ This series constitutes a missing component upon comparison of the titaniumbased NASICON oxides to the zirconium-based ones.
+
+In the literature, NASICON-type Zr2(PO4)2SO4 has been reported from thesol–gel synthesis using sulfuric acid, NH4H2PO4 and zirconyl nitrate [23,24], while the corresponding Ti2(PO4)2SO4 has neverbeen discovered.
+
+Interestingly, only Zr2(PO4)2SO4 could be prepared among the mixed phosphate sulfate stoichiometries, evenwith all different nominal phosphate and sulfate amounts in theprecursor solutions including the use of excess amounts of sulfuricacid.
+
+ The Zr2(PO4)2SO4 decomposed to Zr2P2O9 and SO3(g) gradually when heated over 750 °C.
+
+The NASICON-type HZr2(PO4)3 proton conductor could besynthesized by exchanging the Liþ ions in LiZr2(PO4)3 withprotons from a dilute acid [25], or by thermal decomposition ofNH4Zr2(PO4)3 at 600 °C [26,27].
+
+However, the same reaction routewas not applicable for the titanium system as the thermal decomposition of NH4Ti2(PO4)3 at 770 °C led to an oxygen-deficientNASICON-type compound, Ti4P6O23 (or Ti2(PO4–1/6)3) [24,28].
+
+Appearance of the oxide deficient compound may be linked to thehigh stability of the NASICON-type framework structure, and yet itstill indicates that the Ti–O bonding is not strong enough to avoidthe defect formation under the high temperature condition thatwas necessary for the decomposition reaction.
+
+The apparent thermal instability of sulfate ion and also theformation of oxygen deficiency at high temperatures require newsynthetic routes that can crystallize the target products at relatively low reaction temperatures.
+
+Sol–gel routes are ideal for thepurpose and yet our preliminary experiments indicated that asimple mixture of phosphate and sulfate with a titanium precursorwould lead to immediate precipitation of titanium phosphatesthat do not contain sulfate.
+
+It was then discovered that the successful synthesis of the title compounds was possible by employing hydrogen peroxide as a stabilizing ligand of titanyl precursorions [29–31] in the presence of phosphate ions in a strong acidicmedium.
+
+Gradual decomposition of the formed titanyl peroxocomplexes is possible upon a gentle heating, which enables muchimproved homogeneous gelation.
+
+New rhombohedral NASICON-type compounds, hydrogen titanium phosphate sulfates, have been discovered in an aggregateform of strongly fused nanoparticles (20 nm in diameter),through a new sol–gel route that utilizes peroxide ion as a decomposable stabilizing ligand for titanyl ions in the presence ofphosphates in a strong acidic medium.
+
+TGA, PXRD, ICP-OES elemental analysis, and Raman and 1H MAS-NMR spectroscopic studies have established the presence of sulfate and proton ions inthe structure and the compositional range has been determined tobe H1xTi2(PO4)3x(SO4)x (x¼0.5–1).
+
+Except for the case of 1:1Ti:PO4 nominal ratio in synthesis, all the well-calcined final products contain an excess amount of the oxoanion ligands, implyingthat the surface of the product nanoparticles is more likely covered with phosphates.
+
+The new synthetic method allows crystallization of the mixed oxoanion compounds under the temperaturewhere sulfate ions decompose and thus may be expanded to explore new phosphate sulfates of other early transition metals.
+
+Future studies would determine the potential of the new compounds in various applications as battery materials, proton conductors and solid acid catalysts.
+

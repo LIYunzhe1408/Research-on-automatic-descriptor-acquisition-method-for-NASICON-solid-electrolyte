@@ -1,0 +1,78 @@
+All-solid-state sodium batteries using inorganic solid electrolytes have been studied for use as next generation batteries because they present several important beneﬁts of high safety, high energy density, and low material cost.
+Inorganic solid electrolytes with high sodium ion conductivity are key materials for solid-state sodium battery development.
+Na Super Ionic Conductor (NASICON) with the general formula of Na1 + xZr2SixP3 − xO12 (0 b x b 3) is well known as a sodium ion conductor.
+Ceramics with especially high conductivities were obtained for the composition x ≈ 2. Their conductivities were found to be higher than 10−3 S cm−1 at room temperature.
+Furthermore, NASICON ceramics can be synthesized in air from abundant elemental sources.
+Therefore, these materials present great beneﬁts for practical applications.
+Nevertheless, it is necessary to densify NASICON ceramics using hightemperature sintering at about 1200 °C to elicit their intrinsic high ion conducting properties.
+High-temperature sintering of NASICON for reducing grain-boundary resistance engenders several important difﬁculties.
+First, sintering at such high temperatures often promotes the volatilization of sodium and phosphorus contents, thereby decomposing the NASICON.
+Consequently, additional countermeasures such as burying a green compact in its unmolded powder of the same composition are necessary to avoid NASICON decomposition during sintering.
+Moreover, undesirable side reactions with electrode materials occur at high temperatures when batteries are fabricated using a cosintering process to form close solid–solid interfaces.
+For those reasons, decreasing the NASICON ceramic sintering temperatures is expected to be beneﬁcial for their application to solid-state batteries.
+Liquid phase sintering [16–18] with a low melting additive is an effective technique for preparing solid oxide electrolyte ceramics at lower temperatures.
+In fact, lithium ion conducting Li7La3Zr2O12 ceramics have been prepared by sintering at about 700–900 °C with several additives such as Li3BO3 and lithium borosilicate based glasses.
+These liquid-phase sintered ceramics show high conductivities approaching those of the ceramics sintered at high temperatures (about 1100–1200 °C).
+Moreover, unlike hot-pressing or spark plasma sintering techniques that have been studied for the fabrication of the solid-state batteries with oxide ceramics, this technique requires no expensive apparatus.
+Very recently, we found the effectiveness of the addition of Na3BO3 (NBO), which forms a liquid phase at about 680 °C [26], as a sintering additive for a NASICON solid electrolyte.
+The NASICON (Na3Zr2Si2PO12) based ceramic was prepared by sintering at 900 °C with the addition of about 5 wt% NBO.
+The obtained dense ceramic exhibited high room-temperature conductivity of 1 × 10−3 S cm−1, which was comparable to that of pure NASICON ceramic materials sintered at about 1200 °C.
+These results are particularly useful because the sintering process was free from any additional protection from NASICON decomposition and because the sintering temperature of 900 °C would accommodate NASICON to a co-sintering with a Na3V2(PO4)3 active material.
+Sintering at much lower temperatures is valuable to apply various electrode active materials without side reactions when solid-state batteries are fabricated using co-sintering processes.
+This work describes successful preparation of a NASICON ceramic that exhibits high room-temperature conductivity of 10−4 S cm−1 by sintering at a much lower temperature of 700 °C.
+Low-temperature sintered NASICON ceramic was prepared with added 9.1 wt% of NBO.
+The ballmilled NASICON powder and the NBO glass powder (100:10 in weight ratio) were mixed in an agate mortar and were then pressed uniaxially into disk-shaped molded bodies (10 mm diameter, ca.1.2 mm thickness) by application of 120 MPa pressure.
+The mixing and molding described above were done in an Ar-ﬁlled glove box to avoid NBO deliquescence.
+The green bodies comprising NASICON and NBO were ﬁred at 700 °C for 20 h in a Pt crucible.
+Sintering processes were performed in air using a conventional electric furnace with heating and cooling rates of 2 °C min−1. After sintering, the ceramic sample containing NBO was moved quickly into the glove box.
+The NASICON-sintered body without NBO was also prepared for comparison.
+Both surfaces of disk-shaped ceramic samples were dry-polished in Ar atmosphere using abrasive papers with grit progressing from 1000 to 3000.Fig.1 presents XRD patterns of the NASICON calcined powders and ceramics sintered at 700 °C.
+The PDF card data of monoclinic Na3Zr2Si2PO12 rhombohedral Na3.35Zr2Si2.25P0.65O12 (ICDD # 084-1577), which are known as highly conducting NASICON crystals, are also shown for comparison in the ﬁgure.
+The as-calcined powder was an almost single phase of monoclinic Na3Zr2Si2PO12, except for the existence of ZrO2 as a minor phase (Fig.1(a)).
+After ball milling to prepare a ﬁne powder, the peaks attributable to Na3Zr2Si2PO12 became very broad and weak (Fig.1(b)).
+This result, which signals the decrease of the Na3Zr2Si2PO12 crystallinity, led to manifestation of the ZrO2 peaks.
+After molding and sintering at 700 °C (Fig.1(c)), the peaks attributable to Na3Zr2Si2PO12 became sharper and stronger, but they were still broader and weaker than those of the as-calcined powder.
+That result implies that the Na3Zr2Si2PO12 crystallinity increased to a certain degree after sintering at 700 °C and that it remained low with no sintering additive.
+In contrast, sharp peaks attributable to NASICON were observed for the ceramic sintered with 9.1 wt% NBO (Fig.1(d)), which indicates the acceleration of the sintering of NASICON crystals by formation of a liquid from the NBO additive.
+However, NASICON peaks in the ceramic were rather attributable to rhombohedralFig.1. XRD patterns of NASICON calcined powders and ceramics sintered at 700 °C: (a) ascalcined powder, (b) calcined powder after ball-milling, (c) sintered ceramic without NBO, and (d) sintered ceramic with 9.1 wt% NBO added.
+NaCrO2, which is a representative layered-rock-salt type active material of sodium ion batteries, was also demonstrated for future fabrication of solid-state sodium batteries.
+Fig.2. SEM secondary electron images (a and b) and back-scattered electron images (c and d) for the NASICON ceramics: (a) fractured surface of the ceramic without NBO, (b) fractured surface of the ceramic with 9.1 wt% NBO added, (c) ion-milled surface of the ceramic without NBO, and (d) ion-milled surface of the ceramic added with 9.1 wt% NBO added.K.
+It is noteworthy that their peak positions were not matched perfectly with any reported pattern of rhombohedral Na1 + xZr2SixP3 − xO12 and that the peak intensities of ZrO2 were stronger than the as-calcined powder.
+The possibility exists that a new crystal was formed by a partial incorporation of boron into the NASICON crystal lattice and/or a compositional deviation because of losses of volatile elements of sodium and phosphorus.
+It is necessary to analyze the actual compositions of the ceramic with NBO using atomic emission spectroscopy and to reﬁne crystal structures using the Rietveld method.
+An important aspect of present XRD studies is that a dominant phase in the sintered ceramic with 9.1 wt% NBO is a crystal with similar structure to that of highly conducting NASICON crystals.
+In addition, no peak of NBO crystal or any other compound containing boron was observed, which suggests that NBO, or some kind of sodium borate derived from NBO, was present in the ceramic as an amorphous phase.
+Moreover, the XRD pattern of this NASICON-NBO ceramic was very similar to that of the ceramic with the same composition sintered at 900 °C.
+Because the 900 °C-sintered NASICON with 9.1 wt% NBO showed a high total conductivity of 7.6 × 10−4 S cm−1 at room temperature, the present 700 °C-sintered ceramic is expected to have a high grain-bulk conductivity.
+For oxide ceramic type solid electrolytes, microstructures are at least as important as crystal structures to control the ionic conductivities of the electrolytes because grain-boundary resistance is often dominant in the total resistance.
+Aono et al.reported, for instance, that the grainbulk conductivities of the Li+ conducting lithium titanium phosphates with NASICON-type crystal structure are ten or more times higher than their grain-boundary conductivities.
+Therefore, the microstructures of the sintered ceramics examined in the present work were observed using scanning electron microscopy (SEM).
+Fig.2(a) and (c) respectively show a secondary electron (SE) image and a back-scattered electron (BSE) image for the fractured surface of the ceramic without NBO.
+This ceramic displayed a very porous microstructure with very small grains (100–300 nm), suggesting that sintering progressed only slightly at 700 °C with no additive.
+The sparse ceramic microstructure was also apparent from the BSE image, indicating that necks formed to a slight degree among NASICON grains.
+The NBO-free ceramic had 1.91 g cm−3 density, which corresponds to 61% relative density if one ignores inclusion of the ZrO2 impurity phase (see Fig.1(c)).
+Conversely, the ceramic sintered with 9.1 wt% NBO had a dense microstructure, as depicted in Fig.2(b) and (d).
+Although numerous pores were observed on the SE image (Fig.2(b)), neck growth with grain growth clearly progressed compared to the NBO free sample.
+A BSE image of this ceramic portrays the distribution of components (Fig.2(d)).
+Based on the XRD pattern of this ceramic, majority areas with medium contrast, darker contrast areas with light elements, and brighter contrast small areas with heavy elements respectively correspond to the dominant phases of NASICON crystals, NBO (or some kind of sodium borate derived from NBO), and the impurity of ZrO2. The BSE image suggests that some sub-micrometer sized sodium borates segregated in particulate form without full penetration to NASICON grain boundaries and suggests that the NASICON grains mutually bonded well to form a solid skeletal microstructure.
+These segregated sodium borates are not expected to have a marked adverse effect on ionic conduction across grain boundaries between neighboring NASICON grains, although these sodium borates must contribute to a decrease of the volumetric fraction of conducting substances in the ceramic.
+The ceramic density was 2.38 g cm−3, which is greater than that of the sintered NASICON without NBO.
+Nevertheless, estimating the relative density is difﬁcult because of the lack of crystalline and amorphous phase clarity and their ratio in the ceramic.
+The NASICON ceramic with smaller amount of NBO (4.8 wt%) was also prepared by sintering at 700 °C.
+The obtained ceramic had a low density of 1.90 g cm−3 that was almost same as the density of NBOfree ceramic.
+Previously, we reported that a NASICON powder with4.8 wt% NBO signiﬁcantly densiﬁed by sintering at 900 °C to obtain a ceramic with a high density of 3.05 g cm−3.
+For NASICON sintering at a lower temperature 700 °C, a larger amount of the NBO additive was necessary to promote the ceramic densiﬁcation because of slow mass transfer at the low temperature.
+Ionic conductivities of the ceramics were found using AC impedance measurements using ion-blocking Au electrodes.
+Fig.3 shows Nyquist impedance plots of the NASICON ceramics at 25 °C.
+For the ceramic without NBO (Fig.3(a)), very large total impedance, with higher and lower frequency parts that are respectively separable into a grain-bulk and grain-boundary components, were observed.
+The room-temperature total conductivity of this ceramic was as low as 1.9 × 10−7 S cm−1, as might be inferred from its sparse microstructure.
+In contrast, extremely small impedance values were observed for the ceramic with 9.1 wt% NBO added (Fig.3(b)).
+A part of an inseparable arc at higher frequencies and typical spike behavior of ion blocking electrode at lower frequencies were observed.
+Although grain-bulk and grain-boundary components are not separated, the ceramic with 9.1 wt% NBO exhibited three orders of magnitude higher conductivity of 1.2 × 10−4 S cm−1 than that of the NBO free ceramic, probably because of a drastic decrease of grain-boundary resistance.
+The solid skeletal microstructure of the ceramic with NBO was observed on the SEM-BSE image (see Fig.2(d)).
+This characteristic microstructure without remarkable penetration of grain-boundaryFig.3. Nyquist impedance plots of the NASICON ceramics without NBO (a) and with 9.1 wt% NBO added (b) at room temperature.
+The inset in panel (b) represents a magniﬁed ﬁgure at the high-frequency region.
+The obtained liquid-phase sintered body was found to have high room-temperature conductivity of about 1 × 10−4 S cm−1, probably because of its characteristic microstructure in which the NASICON grains mutually bonded well and sodium borates segregated in particulate form without full liquid penetration into grain boundaries.
+The room-temperature conductivity of the present NASICON ceramic was three orders of magnitude higher than that of the ceramic without NBO sintered at 700 °C.
+It has comparable conductivity to a ceramic sintered conventionally at 1000 °C.
+Furthermore, this liquid phase sintering process at 700 °C was free from any undesirable reaction with NaCrO2. Results show that NASICON sintering with Na3BO3 is effective for developing co-sintering processing with electrode active materials for all-solid-state sodium batteries.

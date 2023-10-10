@@ -1,0 +1,173 @@
+Magnetic Structural Studies of the Two Polymorphs of Li3Fe2(PO4)3: Analysis of the Magnetic Ground State
+
+The nuclear and magnetic structures of the monoclinic (P21/n, A-LFP) and rhombohedral (R3h B-LFP) forms of Li3Fe2(PO4)3 have been solved by using powder neutron diffraction at room temperature and 1.5 K on polycrystalline samples. Both structures are built on [Fe2(PO4)3] ‘lantern units’ that are connected in a different way for each form. Measurements by a superconducting quantum interference device reveal a global antiferromagnetic behavior with ordering temperatures of 25 and 23 K for the A and B forms, respectively. Both magnetic structures, determined from symmetry analysis and Rietveld refinements of neutron diffraction data recorded at 1.5 K are collinear. The magnetic moments are perpendicular to [001] in both structures. The obtained magnetic moments are 4.7 and 3.9  237)B per iron atom for the A form (ferrimagnetic ordering of the two iron sublattices) and 4.7  237)B for the NASICON (B-LFP) form. The Fe atoms are oriented antiparallel within the [Fe2(PO4)3] lantern units, while parallel orientation takes place between Fe atoms that do not belong to the same [Fe2(PO4)3] lantern unit. Using numerical calculations we have established a magnetic phase diagram and determined the necessary constraints to be satisfied by the values of the exchange interactions to obtain the observed magnetic structures as the ground state.
+
+Three-dimensional polyanionic structures built of interconnected MO6 octahedra and XO4 tetrahedra, which provide an interstitial space partially occupied by alkali cations, have been the subject of intense research for their unusual ionic conductivity, thermal expansion, and electrochemical properties during the past 20 years. The most widely investigated is the NASICON family AxMM¢ (XO4)3,1 which offers extensive versatility toward chemical substitutions in the [MM¢ (XO4)3]¥ polyanionic framework into which between 0 and 5 alkali cations may be accommodated. Recent studies have been devoted to their interesting electrochemical properties as positive electrode materials in rechargeable lithium batteries.2-9 In particular, owing
+
+to the lower covalence of the M-O bonds in these polyanion structures, the Fe3+/Fe2+ and V4+/V3+ redox couples lie at much more useful potentials vs Li+/Li than in the simple oxides.2-9
+
+Electrochemical insertion of Li+ into Li3Fe2(PO4)3 leads to Li5Fe2(PO4)3 (Fe3+/Fe2+ couple),2,8 whereas electrochemical extraction of Li+ from Li3V2(PO4)3 leads to LiV2(PO4)3 (V4+/V3+ couple).9,10 These Li3M2(PO4)3 (M ) Fe, V) compositions adopt two distinct crystallographic forms, denoted A-Li3M2(PO4)3 (monoclinic, P21/n) and B-Li3M2(PO4)3 (rhombohedral R3h, NASICON) that differ by the way the M2(PO4)3 “lantern units” are connected. The “A” form is the stable form, prepared via solid-state reaction, whereas the “B” form is obtained through ion exchange from the NASICON sodium analogues Na3M2(PO4)3 (M ) Fe, V).11-13 The A and B forms show distinct electrochemical behavior.8,9
+
+enough, J. B. J. Solid State Chem. 
+
+Our interest lies also in determining the structural factors that have an impact on the electrochemical behavior of these materials. A detailed structural study of the metastable, rhombohedral, form of Li3Fe2(PO4)3 [noted B-LFP] was communicated recently.14 As part of our structural synchrotron X-ray and neutron diffraction works on these compositions, it was interesting also to investigate their magnetic structures that were still unknown. Only a few magnetic structural studies have been published so far, on isotypic compositions such as the stable monoclinic “A” form, adopted for instance by 5-17 or on the stable “B” form adopted by Fe2(SO4)3 18-22 In the course of our study, the magNa3Fe2(PO4)3 netic behavior of B-Li3Fe2(PO4)3 was also reported.23
+
+The monoclinic (A-LFP), and rhombohedral (B-LFP) forms of Li3Fe2(PO4)3 were prepared as described.8,12,13 A-Li3Fe2(PO4)3 was obtained in pure form after a prolonged final solid-state reaction in a Pt crucible at 930 °C from a stoichiometric starting mixture of Li2CO3, Fe2O3, and NH4H2PO4. B-Li3Fe2(PO4)3 was prepared by three successive ion exchanges (1 day each) from Na3Fe2(PO4)3 in a renewed concentrated aqueous solution of LiNO3 (Lisolution/Nasolid > 10). The phase purity was carefully controlled by chemical analysis and X-ray diffraction on a Philips diffractometer (Cu KR radiation) equipped with a back monochromator, as well as by high-resolution Synchrotron X-ray diffraction on the WD4C wiggler beamline of the DCI ring of LURE (Laboratoire pour l’Utilisation du Rayonnement Electromagnetique). Neutron diffraction experiments at 300 K and 1.5 K were performed at the Orphe´e reactor at the Laboratoire Le´on Brillouin in Saclay, France. The neutron powder diffractometer G4.2 ( 236) ) 2.3433 Å) allowed a precise determination of the lattice parameters at room temperature and the resolution of the magnetic structures at 1.5 K. The high-resolution neutron powder diffractometer 3T2 was used for data collection with high direct space resolution ( 236) ) 1.2251 Å, Qmax ) 9.2 Å-1), which allowed a precise determination of the nuclear crystal structures at room temperature. The program FullProf24 was used for crystal structure refinements by using the Rietveld method.25
+
+
+A. Magnetic Properties of A-Li3Fe2(PO4)3 and B-Li3Fe2(PO4)3. Magnetic and spectroscopic properties of Aand B-LFP have been published recently by two different groups.16,23 In complete agreement with these reports, Aand B-Li3Fe2(PO4)3 demonstrate antiferromagnetic behavior and the values of magnetic moments, paramagnetic Curie temperature (determined from a Curie-Weiss behavior >100 K), and Ne´el temperature are reported in Table 1. Values found in the literature for similar compounds are also reported for comparison. Both Aand B-LFP samples exhibit Curie-Weiss behavior above 100 K, leading to a magnetic moment of 5.89(1)  237)B (A-LFP) and 5.77(3)  237)B (B-LFP), consistent with the theoretical value of a free high spin Fe3+ in a weak crystal field (5.92  237)B). The value obtained for the A-LFP is slightly higher than the relatively low value (5.4  237)B) reported by Gon˜ i et al.16 The negative paramagnetic Curie temperatures (-50 K and -55 K for Aand B-LFP, respectively) indicate a global antiferromagnetic behavior at low temperatures and is in very good agreement with other reports.16 The value of the Ne´el temperature TN is very close in both samples, about 25 K, also consistent with values already published.16,23 These values were used to plan the neutron diffraction experiments. Macroscopic magnetic measurements in Aand B-LFP indicate the existence of possible ferrimagnetism in both compounds.16,23 The observed antiferromagnetic ordering is caused by exchange interactions that we identify after the analysis of the magnetic structures.
+
+B. Nuclear and Magnetic Structures of A-Li3Fe2(PO4)3 (Monoclinic, P21/n). The stable form of Li3Fe2(PO4)3, A-LFP, is monoclinic at room temperature (Rform, space group P21/n) and transforms on heating to orthorhombic symmetry ( 231)-form, space group Pcan) because of the disappearance of lithium ion ordering in the three-dimensional framework.26 We have refined the crystal structure of the R-form with neutron powder diffraction, at room temperature and at 1.5 K where antiferromagnetic ordering occurs on the iron sublattice. We first checked the sample quality with conventional X-ray diffraction (Cu KR) at room temperature. All the peaks are indexed in the monoclinic space group P21/n. The monoclinic distortion is very small [ 231) ) 90.523(1)°; pseudo-orthorhombic symmetry26] but high-resolution Synchrotron radiation at LURE ( 236) ) 0.9616 Å), allowed a clear separation of the Bragg peaks (Figure 1). The lattice parameters obtained from Synchrotron X-ray diffraction are in very good agreement with those already published and with those determined from powder neutron diffraction at room temperature ( 236) )
+Li3Fe2(PO4)3 Polymorph Magnetic Structural Studies
+
+The neutron diffraction pattern recorded when A-Li3Fe2(PO4)3 is cooled below TN shows the appearance of some extra reflections. In addition, the intensity of some peaks already present at high temperature is increased (Figure 3). One very intense reflection is clearly observed at 2ı ) 19.3°, and some other reflections are
+
+atom Fe(1) Fe(1s) P(1) P(1s) P(2) O(1) O(1s) O(2) O(2s) O(3) O(3s) O(4) O(4s) O(5) O(5s) O(6) O(6s) Li(1) Li(2) Li(3)
+
+Magnetic Moments ( 237)B) at 1.5 K x
+
+atom Fe(1-1) Fe(1-2) Fe(1-3) Fe(1-4) Fe(1s-1) Fe(1s-2) -x + 1/2 -y + 1/2 Fe(1s-3) -x Fe(1s-4)
+
+more intense at 1.5 K than at 40 K. All these reflections can be indexed with a propagation vector k ) (0,0,0), which indicates that the magnetic unit cell is the same as the nuclear unit cell described above and, consequently, the space group remains P21/n, with lattice parameters a ) 8.5599(2) Å, b ) 11.9965(3) Å, c ) 8.6096(2) Å, and  231) ) 90.559(2)°. The eight magnetic Fe3+ ions of the cell are distributed in two different crystallographic sites, at general position 4e, with x  25) 0.246, y  25) 0.108, z  25) 0.462 for Fe(1) and x  25) 0.754, y  25) 0.395, z  25) 0.471 for Fe(1s).
+
+Figure 2. Calculated and experimental neutron diffraction patterns of A-LFP at 300 K ( 236) ) 2.34 Å).
+
+We labeled the four iron atoms generated by Fe(1) in position 4e as Fe(1-1), Fe(1-2), Fe(1-3), and Fe(1-4). The different possibilities of magnetic configurations were investigated by using Bertaut’s symmetry analysis method,28,29 which allows the determination of the symmetry constraints between each magnetic moment of Fe3+ belonging to the same general crystallographic position. The representation of the propagation vector group can be decomposed upon four irreducible representations, each with three basis vectors, ¡ ) 3 (¡1 + ¡2 + ¡3 + ¡4), leading to four possible spin configurations: ¡1: GX ) S1 Y S2 ¡2: AX ) S1 Y S2
+
+where Si X is the component along x of the magnetic moment of atom i for a general position Fe(j) (j ) 1 or 1s in our case). For example, the representation ¡1 corresponds to a ferromagnetic coupling of the four moments in the z direction (FZ), whereas in the x and y directions (GX and GY), the moments are coupled antiferromagnetically between Fe(j-1) and Fe(j-2) and between Fe(j-3) and Fe(j-4), and ferromagnetically between Fe(j-1) and Fe(j-3).
+
+We tried all these magnetic models by least-squares refinements and Monte Carlo techniques. Refinement of independent magnetic moments for Fe(1) and Fe(1s) led to an antiferromagnetic coupling along the x axis. Of all the possibilities, the collinear solution FX ) S1 X
+
+(28) Bertaut, E. F. J. Phys. 1971, 32, C1. (29) Rossat-Mignot, J. Magnetic Structures and Neutron Diffraction;
+
+Academic Press: New York, 1987.
+
+Figure 3. Neutron diffraction patterns of A-LFP showing the appearance of magnetic peaks at low temperature.
+
++ S2 X (¡3), with opposite magnetic moments for Fe(1) and Fe(1s), gives the best agreement between observed and calculated patterns. No component of the magnetic moment exists along the y and z directions. We first tried the refinement with a same magnetic moment amplitude for Fe(1) and Fe(1s), and at the last stage of the refinement, we allowed the magnetic moments of Fe(1) and Fe(1s) to be completely independent. The refinement is shown in Figure 4, and the magnetic final Bragg R factor is 5.34%. For Fe3+ in highspin configuration, the expected moment is 5  237)B, but we observed slightly smaller values, perhaps because of a combined effect between the covalent character of the Fe-O bonds and the zero-point spin fluctuation of antiferromagnetism. The refined values for the magnetic moment are 4.7(3)  237)B for Fe(1) and 4.0(3)  237)B for Fe(1s), respectively. The magnetic moments for the eight iron magnetic ions of the unit cell are reported in Table 3. The difference observed between the magnetic moments of Fe(1) and Fe(1s) is in total agreement with macroscopic magnetic data at low temperature, indicating a ferrimagnetic structure for this compound.16,17 The structure we found by neutron diffraction confirms experimentally the prediction of Gon˜ i et al. from electron spin resonance spectra, the magnetic interaction in each sublattice being ferromagnetic and antiferromagneti-
+
+Li3Fe2(PO4)3 Polymorph Magnetic Structural Studies
+
+to 4.52(8)  237)B. In A-Li3Fe2(PO4)3, introducing a magnetic component along the y axis (according to the ¡3 representation) led to a refined value for the y component very close to 0  237)B, so, within the experimental error, the magnetic structure of A-Li3Fe2(PO4)3 can be described by (FX
+
+Analysis and Discussion of the Magnetic Structure. Magnetic Phase Diagram. The relative impacts of the different exchange interactions within this crystal structure type on the observed magnetic structure were closely examined. Because of the complexity of the topology, we had to treat the problem numerically by using the two computer programs, SIMBO and ENERMAG, which are briefly described in one of our previous articles.30 The symmetry of the structure is so low that an analysis of the exchange paths led to 18 different exchange interactions, all of them being of the supersuper exchange type; two anions are involved in the path. These interactions only differ by some changes in distances or in (Fe-Oi-Oj) angles, (Oi-Oj-Fe) angles and (Fe-Oi-Oj-Fe) torsion angles. We chose to simplify this problem by using the highest-symmetry structure, that is the orthorhombic space group Pcan (#60). The number of atoms is then divided by 2, because the pseudo-symmetry element (1/2 + x, 1/2 y, z) observed in the nuclear structure is taken into account. P(2) lies in special position 4c. The atomic positions we used for each iron and oxygen atom are the mean values of the previous two crystallographic positions in the space group P21/n. Note that this average structure corresponds to the high-temperature form of A-LFP ( 231)-form, >530 K26). In this space group, the number of independent exchange interactions found by SIMBO is 9, but this number can be reduced to 5 by a careful analysis of the exchange paths; we assume that the exchange integrals will have the same value if the topology is similar. The Fe-O distances are almost all identical, and we compared the (Fe-Oi-Oj) and (Oi-Oj-Fe) angles and torsion angles to distinguish between the different paths. Then, apart from J1 which connects the iron atoms belonging to a same ‘lantern unit’, the exchange paths can be grouped by 2. Table 4 reports the five resulting exchange interactions that should be considered to study the problem and the related geometrical information. Figure 6 represents these interactions (here the atoms are labeled in the Pcan space group, i.e., the notation ‘s’ is omitted, except for Fe for reasons of clarity). J1 is the coupling between two iron atoms that belong to the same lantern unit; the magnetic moments are aligned perpendicular to the general direction of the lantern units and are coupled antiferromagnetically. These two Fe3+ are coupled via three different super-super exchange paths involving O(3) and O(6), O(4) and O(4), and O(6) and O(3), corresponding to the three PO4 tetrahedra that link the two [Fe(1)O6] and [Fe(1s)O6] octahedra (Figure 6). This antiferromagnetic exchange may be the most intense because the Fe-Fe distance is the smallest in the structure (4.517 Å), and it governs the global antiferromagnetic properties of the material. The four other magnetic couplings, J2, J3, J4, and J5, occur via two double super-super
+
+Figure 4. Observed (obs, circles) versus calculated (calc, continuous line) neutron powder diffraction patterns of A-LFP ( 236) ) 2.34 Å) at 1.5 K. The positions of the Bragg reflections are represented by vertical bars (first row, nuclear; second row, magnetic). The difference (obs calc) pattern is displayed at the bottom of the figure. Arrows indicate the most intense magnetic reflections.
+
+Figure 5. Representation of the magnetic structure for A-LFP. Filled and open circles represent opposite directions of the magnetic moment along [001].
+
+cally coupled between the two Fe(1) and Fe(1s) sublattices. Figure 5 represents the magnetic structure found by neutron diffraction. The filled circles correspond to a negative magnetic moment of 4.0(3)  237)B in the x direction, whereas the open circles correspond to a positive moment of 4.7(3)  237)B in the x direction. In each ‘lantern unit’, the two Fe(1) and Fe(1s) are antiparallel, whereas two neighboring lantern units are parallel. This result can be compared with the magnetic structure of the related iron sulfate Fe2(SO4)3.15 This Fe3+ sulfate presents the same nuclear structure (space group P21/n) for the framework, and the arrangement of the magnetic moments is very similar to what we observe in A-Li3Fe2(PO4)3; the orientation of magnetic moments between crystallographically equivalent iron atoms is parallel, and Fe(1) and Fe(1s) atoms are antiparallel lying in the (a, b) plane. The magnetic moment, constrained to be equal for Fe(1) and Fe(1s), was refined
+
+Table 4. List of Effective Exchange Interactions Considered between Iron Atoms and Related Super-Super Exchange
+
+interaction
+
+path
+
+Paths, Bond Lengths, and Angles for A-LFPa R1 141.2 117.1 102.0 130.0 123.4 110.4 152.7 121.3 128.7 146.6 108.1 139.2 139.7 160.8 168.4 158.1 138.3 168.8
+
+a The pseudo-orthorhombic symmetry (space group Pcan) has been considered, for which ‘s’ atoms are deduced from their corresponding analogues by the symmetry element (1/2 + x, 1/2 y, z). d1 ) d(Fe-Oi); d2 ) d(Oi-Oj); d3 ) d(Oj-Fe); R1 ) (Fe-Oi-Oj); R2 ) (Oi-Oj-Fe);  231) ) torsion angle; d ) d(Fe-Fe).
+
+satisfied by the exchange integrals to have the propagation vector k ) (0,0,0) and the observed spin arrange(2)) ) ment (irreducible representation ¡3), (FX (+ + + +; -), as the ground state.
+
+The energy, lowest eigenvalue of the matrix Œ(k, {Jij}), as a function of the exchange integrals and k ) (X, Y, Z), can be obtained only numerically. The vector k minimizing  236)(k, {Jij}) for a given set of {Jij} is the propagation vector of the magnetic structure, and the spin configuration is obtained from the corresponding eigenvector. For the cases in which k ) 1/2H, H being a reciprocal lattice vector, the eigenvectors are all real and the sequence of signs of the eigenvector components corresponding to the lowest eigenvalue gives the spin configuration corresponding to the ground state.
+
+Figure 6. Representation of the five exchange paths between the iron atoms that must be considered in A-LFP.
+
+exchange paths involving two oxygen atoms. J2 links two Fe(1) via O(4) and O(5) in the (a, c) plane, and via O(1) and O(3) in the (a, b) plane. J3 and J4 connect two adjacent lantern units. We tried to evaluate the relative strengths and signs of these four exchange interactions that give the observed magnetic structure as the ground state. For that, numerical phase diagrams were generated by the program ENERMAG.30
+
+The problem of the magnetic ground state of a system of classical spins connected by isotropic exchange interactions was considered 40 years ago by several authors.31-34 Here we follow the discussion summarized by Fraiser.34 The first ordered state can be obtained from the resolution of an eigenvalue problem in which the matrix is the Fourier transform of the exchange interactions. In our case we do not have any new magnetic transition below TN, so that the first ordered magnetic state is the ground state. We use the method discussed in refs 31 and 34 to evaluate the conditions
+
+(31) Yoshimori, A. J. Phys. Soc. Jpn. 1959, 14, 807. (32) Villain, J. J. Phys. Chem. Solids 1959, 11, 303. (33) Lyons, D. H.; Kaplan, T. Phys. Rev. 1960, 120, 1580. (34) Fraiser, M. J. Phys. Rev. 1961, 123, 2003.
+
+A careful analysis of the five exchange integrals led us to make J3 ) 0, because this path presents angles that do not favor exchange interactions; the torsion angle is close to 80° and we expect this interaction to be negligible compared with others. This also reduces the number of integrals to consider to four, which is reasonable for plotting a phase diagram. To study the problem with ENERMAG, we varied the values of all the exchange interactions Ji (i ) 2, 4, 5) taking J1 as a reference value (J1 ) +100 or J1 ) -100) and J3 ) 0, in the interval [-100, 100]. The k vectors were varied inside the Brillouin zone and in special points. An auxiliary program takes the output of ENERMAG and plots a high-dimensional phase diagram with the exchange interactions as Cartesian axes. The different regions correspond to different magnetic structures. We have numbered the eight different kinds of collinear magnetic structure, with k ) (0,0,0), found by the program, and numbered as ‘9’ the regions where there is no classical magnetic ordering or where the magnetic structure is incommensurate because of frustration effects. The sign sequence characterizing the eight collinear structures is reported in Table 5. The observed magnetic structure of A-LFP is given by the sequence (2)) ) (+ + + +; -) and is numbered (FX as ‘1’.
+
+In Figure 7 we have represented two-dimensional maps of the different regions for representative cases.
+
+Li3Fe2(PO4)3 Polymorph Magnetic Structural Studies
+
+Table 5. Label of the Magnetic Structures and Sign Sequences of the Magnetic Moments Corresponding to Atoms Fe(1-1), Fe(1-2), Fe(1-3), Fe(1-4), Fe(1s-1), Fe(1s-2), Fe(1-3), and Fe(1s-4) Characterizing the Eight Possible
+
+Magnetic Structures for k ) (0,0,0) for A-LFPa sign sequences of collinear magnetic moments
+
+structure
+
+1. k ) (0,0,0) 2. k ) (0,0,0) 3. k ) (0,0,0) 4. k ) (0,0,0) 5. k ) (0,0,0) 6. k ) (0,0,0) 7. k ) (0,0,0) 8. k ) (0,0,0) 9 a We have numbered as ‘9’ the incommensurate and disordered structure occurring in the magnetic phase diagram because of frustration
+
++ + + + case of incommensurate or disordered structures
+
+(2)) ) (+ + + +; to a spin arrangement of (FX -). The first condition to get the observed magnetic structure as the ground state is J4 being negative. For J1 ) -100, the arrangement ‘1’ is observed if the following conditions are fulfilled: if J5 < 1/2, J1, J4 < 0, and J4 < 2 J2 + 1/2 J1; if jJ5j < 1/2 J1, then the conditions are J2 > 2 J5 and J4 < 0; if J5 > -1/2 J1, the ‘2’ domain is not observed.
+
+Figure 7. Magnetic phase diagram for A-LFP, for J1 ) -100. Phases numbered from 1 to 8 correspond to k ) (0,0,0) collinear magnetic structures found by the program ENERMAG. The sequence of signs is described in Table 5. The label ‘9’ corresponds to incommensurate or disordered structures. An analysis of the boundaries between the regions gives us the conditions that the exchange integrals have to satisfy to give, as the first ordered state, the observed magnetic structure. Only two values of J1 are considered: +100 and -100, because no fundamental difference is observed on the phase diagrams when jJ1j varies from 0 to +100. Here we have plotted J4 vs J2 for different values of J5. The eight different collinear structures are all observed, whatever the sign of J1. However, their relative importance is different. For (2)) ) example, the ferromagnetic structure (FX (+ + + +; + + + +) labeled as ‘7’ is observed in the upper right side of the diagram (J2 and J4 positive) when J5 is positive. This domain is smaller for J1 ) -100 than for J1 ) +100, but exists. On the opposite, the arrangement (+ + -; + + -) labeled as ‘5’, is observed for negative values of J2 and J4, but positive values of J5. This structure is obtained for both J1 ) +100 and J1 ) -100, but is smaller in the former case. Let us concentrate on the magnetic structure we observed from neutron data. It is labeled as ‘1’ and corresponds
+
+The ‘1’ domain is much smaller for J1 ) +100 than for J1 ) -100, but the general trend is the same. The conditions are then J4 < 0 and J4 < 2J2 + 1/2J1. The domain ‘1’ vanishes very quickly if J5 increases: for J5 > -1/2 J1 and above, the domain is not observed. To summarize, the stronger negative J1, J4, and J5, and the stronger positive J2, the more important domain ‘1’ is.
+
+C. Nuclear and Magnetic Structures of B-Li3Fe2(PO4)3 (Rhombohedral, R3h). The rhombohedral B-Li3Fe2(PO4)3 (B-LFP) compound presents the NASICON
+
+Table 6. Structural Parameters of the B-LFP Compound Determined from Neutron Diffraction, at 300 K ( 236) ) 1.225
+
+atom Fe(1) Fe(2) P O(1) O(1s) O(2) O(2s) Li(1)
+
+Magnetic Moments ( 237)B) at 1.5 K MX 4.76(3) 4.76(3) -4.76(3) -4.76(3)
+
+atom Fe(1-1) Fe(1-2) Fe(2-1) Fe(2-2) a Space group R3h, a ) 8.3165(4) Å, c ) 22.459(1) Å. Rp, 9.94%; Rwp, 10.1%; Rexp, 4.88%; ł2, 4.32. Atomic positions of magnetic ions in unit cell and their magnetic moment ( 237)B) at 1.5 K.
+
+structure with space group R3h; its structure was presented for the first time and in detail in one of our previous articles.14 Prepared by ion exchange from Na3Fe2(PO4)3, this compound is based on the same Fe2(PO4)3 lantern units as in A-LFP, but the relative positions of these lantern units are different. Table 6 reports the space group, lattice parameters, and atomic positions of the B-LFP at 300 K, determined from neutron diffraction on the 3T2 diffractometer, starting from the atomic positions of ref 14. One of the most striking features of this structure is that the Li+ ions lie in a new 4-fold coordinated site, different from the M(1) and M(2) sites occupied in Na3Fe2(PO4)3. Note that the same interesting redistribution of lithium ions within the framework occurs on going from B-Na3V2(PO4)3 to B-Li3V2(PO4)3.35 We concentrate here on the magnetic structure revealed by neutron diffraction below 25 K, because the neutron diffraction patterns present some new peaks and a higher intensity for some other peaks already present (Figure 8). Although the magnetic properties of the Na analogue B-Na3Fe2(PO4)3 (space group C2/c) has been widely studied,19-21 those of B-LFP have scarcely been mentioned apart from a recent publication that appeared during the course of our study.23 The results obtained by Andersson et al. on the magnetic structure are slightly different from what we found with our neutron data. We will discuss that point later.
+
+As mentioned by Andersson et al., all the magnetic reflections observed in the neutron diffraction pattern at 1.5 K can be indexed within the nuclear cell, indicating that the propagation vector for the magnetic structure is k ) (0,0,0), as in A-LFP. The magnetic structure
+
+Figure 8. Neutron diffraction patterns of B-LFP showing the appearance of magnetic peaks at low temperature.
+
+was solved by testing the different basis functions of the irreducible representation for R3h with k ) (0,0,0).28,29 There are two different crystallographic sites for iron in B-LFP, both in the 6c Wyckoff position with atomic coordinates of the atoms within a primitive cell (0, 0, z) and (0, 0, -z). The symmetry analysis with k ) (0,0,0) gives a decomposition within six irreducible representations of dimension 1, as ¡ ) ¡1 + ¡2 + ¡3 + ¡4 + ¡5 + ¡6. ¡3, ¡4, ¡5, and ¡6 have complex basis vectors, and are equivalent to two reducible representations ¡3 and ¡4 with two real basis vectors. We also have four different representations with basis vectors as follows:
+
+representation
+
+The presence of a (001) reflection indicates that there is a magnetic component in the (a, b) plane. The structure is very well refined with the collinear model (2)) corresponding to the ¡3¢ representation. (FX The values of the magnetic moments of Fe(1) and Fe(2) were constrained to be equal, otherwise the refinement leads to an unrealistic value for one of them (>5  237)B). The obtained value for Fe(1) and Fe(2) is refined to 4.76(3)  237)B. Note that we cannot distinguish between moments along the a or b axes with powders in a
+
+Table 7. List of Exchange Interactions and Related Super-Super Exchange Paths, Bond Lengths, and Angles for B-LFPa
+
+interaction
+
+path
+
+137.1 137.1 137.1 100.4 100.4 139.9 139.9 a d1 ) d(Fe-Oi); d2 ) d(Oi-Oj); d3 ) d(Oj-Fe); R1 ) (Fe-Oi-Oj); R2 ) (Oi-Oj-Fe);  231) ) torsion angle; d ) d(Fe-Fe).
+
+Li3Fe2(PO4)3 Polymorph Magnetic Structural Studies
+
+Table 8. Label of the Magnetic Structures and Sign Sequences of the Magnetic Moments Corresponding to Atoms
+
+Fe(1-1), Fe(1-2), Fe(2-1), and Fe(2-2) CharacterizIng the Four Possible Collinear Magnetic Structures for k ) (0,0,0)
+
+for B-LFP sign sequences of collinear magnetic moments
+
+structure
+
+1. k ) (0,0,0) 2. k ) (0,0,0) 3. k ) (0,0,0) 4. k ) (0,0,0) 5 a We have numbered as ‘5’ the incommensurate and disordered structure occurring in the magnetic phase diagram because of frustration effects. The conditions of existence as ground state are reported in terms of the three super-super exchange interactions described in Table 7.
+
+case of incommensurate or disordered structures
+
+conditions to be observed as ground state J3 J1 <0 >0 >0 >0 <0 <0 <0 >0
+
+Figure 9. Observed (obs, circles) versus calculated (calc, continuous line) neutron powder diffraction patterns of B-LFP ( 236) ) 2.34 Å) at 1.5 K. Position of the Bragg reflections are represented by vertical bars (first row, nuclear; second row, magnetic). The difference (obs calc) pattern is displayed at the bottom of the figure. Arrows indicate the most intense magnetic reflections.
+
+rhombohedral symmetry. We know, however, that a weak ferrimagnetic component exists from magnetic measurements.23 This component is probably very weak because we cannot obtain it from neutron diffraction. Andersson et al. suggest a ferromagnetic contribution of 0.7  237)B along the z axis, which would mean that they have a mixture of the ¡1 and ¡3 representations. If we try to introduce a weak component along the z axis with our data, the refinement becomes unstable. Table 6 gives the magnetic moments of the magnetic ions within the unit cell. Figure 9 presents the final refinement. (The magnetic reflections are indicated by arrows.) The final magnetic R factor was 7.42%. The magnetic structure obtained is in agreement with what has been observed for the Na analogues19-21: the two Fe inside the same lantern unit have an antiparallel orientation, and the orientation between crystallographically equivalent Fe is parallel (Figure 10).
+
+To understand the observed magnetic structure in terms of super-super exchange interactions, the same procedure as for A-LFP was followed. In Table 7 we report the first three super-super-exchange paths connecting two iron atoms. Only three exchange paths have to be considered for this structure. We limited at 5 Å
+
+script in preparation.
+
+Figure 10. Representation of the magnetic structure for B-LFP. Filled and open circles represent opposite directions of the magnetic moment in a direction perpendicular to [001].
+
+Figure 11. Representation of the three exchange paths between the iron atoms that must be considered in B-LFP.
+
+the maximum cation-cation distance. Above 5 Å, there is a gap in intercation distance, the first neglected interaction between Fe and Fe being at a distance of at least 5.5 Å. J1, J2, and J3 exchange interactions are illustrated in Figure 11. J1 is the shortest one and connects Fe(1) and Fe(2) in the same lantern unit via three equivalent exchange paths involving O(1) and O(1s). J2 connects two Fe(2) atoms via O(1s) and O(2). This interaction is perpendicular to the sheets containing the lantern units. J3 connects two Fe(2) belonging
+
+Figure 12. Magnetic phase diagram for B-LFP. Phases numbered 1, 2, 3, and 4 correspond to k ) (0,0,0) collinear magnetic structures found by the program ENERMAG. The sequence of signs is described in Table 8. The label ‘5’ corresponds to incommensurate or disordered structures.
+
+to two adjacent lantern units, via O(1) and O(2s). As for A-LFP, we calculated the phase diagrams with J1, J2, and J3 as Cartesian axes. We have numbered as ‘1’, ‘2’, ‘3’, and ‘4’ the four possible collinear magnetic structures with k ) (0,0,0), as described in Table 8. The (2)) ) (+ +; observed magnetic structure is (FX -) and is labeled as ‘4’ in the diagram of Figure 12. The incommensurate structure and the domains where no classical order can be found by the program are labeled as ‘5’. Then, we get the conditions to obtain the observed magnetic state [k ) (0,0,0) and the spin (2)) ) (+ +; -)] as the magnetic sequence (FX ground state. The phase diagram is much simpler than that for A-LFP (Figure 12). The different domains can be distinguished only by the sign of the exchange
+
+Rousse et al. integrals, not by their strength. If J1 > 0, the observed magnetic structure is not found as ground state. It is only observed when J1 < 0 and J2 > 0 and J3 > 0. Note that a positive value of J2 can be understood from the Goodenough-Kanamori-Anderson prediction rules36,37 extended to the super-super exchange interactions, because this exchange path exhibits the smallest angles, and also should be less antiferromagnetic than the others. The conditions to observe the other collinear structures are reported in Table 8.
+
+Remarks and Conclusion
+
+We have studied the crystal and magnetic structures of two iron phosphates: A-Li3Fe2(PO4)3 and B-Li3Fe2(PO4)3 (NASICON). Both of them show long-range magnetic ordering at low temperature. In both structures, the magnetic moments of iron atoms are antiparallel in a same lantern unit. We have determined the conditions to be satisfied by super-super exchange integrals to find the observed magnetic structure as the magnetic ground state. It is expected that for all compounds involving lantern units the exchange is negative and will lead to a global antiferromagnetic behavior.

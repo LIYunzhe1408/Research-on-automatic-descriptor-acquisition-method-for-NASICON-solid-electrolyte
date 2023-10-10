@@ -1,0 +1,112 @@
+Samples of nominal composition Li1.3Fe0.3Ti1.7(PO4)3 with a NASICON-type crystal structure,can be sintered up to 95% of the theoretical density at only 600 ◦C using spark plasma sintering, SPS.
+
+The final pellets however show different colouration in their upper and lowerfaces, being the upper face white and the lower one pink.
+
+The analysis of both surfaces byXPS shows a higher concentration of lithium on the white upper face, as a consequence ofthe polar diffusion of ions from the positive to the negative rams during SPS.
+
+On the otherhand the study by XRD and SEM shows the formation of an extra phase in the upper facewith nominal composition LiOPO4.A change in the cell parameters of the original NASICONstructure is also observed, confirming the diffusion of lithium ions.
+
+LiTi2(PO4)3 and its derivatives have been extensively studied to be used as anodes, cathodes and solid electrolytes inlithium batteries and other electrochemical devices [1–10].
+
+Compounds of formula Li1+xMxTi2−x(PO4)3 show values of dcionic conductivity up to 2 × 10−3 S cm−1 [11].
+
+However, themost important drawback of these compounds to be used istheir poor sinterability.
+
+Although the packing density of thepowders is enhanced with the substitution of titanium bytrivalent metals [12], it is still not good enough for practicalapplications.
+
+ By conventional sintering (CS), i.e.cold pressing plus thermal treatment, we have reported the obtaining ofsamples with densities as lower as 60% of the theoretical density [13].
+
+Moreover, this sintering method needs long thermaltreatments at high temperature which increases the energeticcosts of the product and can lead to loss of lithium during theprocess.
+
+In order to obtain dense samples in a shorter time andlower temperature, the Spark Plasma Sintering (SPS) can beused.
+
+Some articles report the successful application of SPSin LiTi2(PO4)3 and derivatives [14–19].
+
+The SPS is a sinteringmethod that uses electrical current to heat the sample atthe same time that the pressure is applied, which allows toachieve higher heating rates and shorter sintering times thanthe conventional sintering treatments.
+
+For this reasons, SPSis one of the advance densification techniques that may fulfil the actual requirements on consolidation.
+
+In addition toconsolidation, SPS is also being applied for the synthesis ofdifferent materials [20–24].
+
+A SPS unit is schematically shownin Fig. 1.It consists of a uniaxial pressure device, where thewater-cooled punches also serve as electrodes, and a pulsedDC generator.
+
+A computer-based process controller recordsthe shrinkage,temperature, pressure, average voltage and current during the process.
+
+Powders are placed on a die madetypically of graphite.
+
+Heating is carried out by Joule heatingwith an electrical current passing through the die and thesample, if it is conducting.
+
+The current used in SPS is normallypulsed.
+
+The high DC pulse frequency transfers and dispersesthe local heat throughout the specimen, resulting in a rapidand homogeneous heat distribution [25].
+
+The effect of pulseddirect current on atomic diffusion kinetics has been investigated experimentally by SPS, in several electrical conductivereaction couples like Mo–Si, B–C and Nb–C [26,27].
+
+It has beenshown that the presence of an electric current may give rise tochanges in phase transformations, temperatures, nucleationand grain growth rates, reactions patterns and deformationbehaviours of different materials.
+
+The proposed explanationsinvokes variations of dielectric and magnetic properties ofmaterials, increased diffusion rates, enhanced annihilationof dislocations, and changes in mobility of dislocations andvacancies.
+
+Even though it is very difficult to separate the effectof current from that of temperature in SPS, it is quite certainthat materials sintered by SPS are exposed to high electric andmagnetic fields during sintering, which most probably has aneffect on sintering [25].
+
+The occurrence of redox reactions during the SPS synthesisof Na24Si136 from Na4Si4 and Si together with mass transporthas been described [28].
+
+The oxidation of Si44− takes placeat the anode; while Na+ is reduced at the cathode.
+
+Since thiswork, other authors have reported the role ofthe electrical current during the synthesis of materials and SPS is revealed asa promising novel technique for synthesis and crystal growthin solid state science [29].
+
+In this work we report the polar diffusion of lithium ionsduring SPS in samples of composition Li1.3Fe0.3Ti1.7(PO4)3 asstudied by X-ray photoemission spectroscopy (XPS), X-raydiffraction (XRD) and Scanning Electron Microscopy (SEM).
+
+2-propanol using ZrO2 balls in a Retsch PM100 Planetary BallMill at 100 rpm during 10minutes.
+
+ Pellet samples with a diameter of 12mm and a thickness of 2.5mm were prepared invacuum using a uniaxial pressure of 90 MPa.
+
+ Sintering experiments were carried outin a SPS unit Dr.Sinter 2050 (SPS SyntexInc., Japan).
+
+The samples were loaded in a graphite pressuredie and enclosed by graphite papers.
+
+The die was heated byallowing a pulsed direct current to pass through.
+
+The pulseshad a time-duration of 3.3ms and a pulse sequence consistingof twelve pulses followed by a period of 6.6ms of no current(12 pulses On:2 pulses Off), with a maximum voltage of 3.5 Vand a current of 635 A.
+
+The samples were heated up to 600 ◦Cwith a heating rate of 100 ◦C/min and a holding time of 1minat the final temperature.
+
+The temperature was measured witha thermal couple inserted into the graphite die.
+
+For the XRD profile analyses of both faces of the obtainedpellets, step-scanned patterns were collected between 2 (◦)10 and 80 on a Bruker AXS D8 Advance diffractometer in stepsof 0.02◦ and a counting time of 12 s per step.
+
+ Rietveld refinement was carried out using TOPAS 4.2 software from BrukerAXS [30].
+
+For microstructural observations, the surfaces of thesintered samples were polished and chemically etched withoxidizing hydrochloric acid, and field emission scanning electron microscopy (FESEM) was carried out using a Cold FESEMHitachi S-4700 microscope supplied with an energy-dispersedspectroscopy microanalysis probe (EDS).
+
+X-ray photoelectronspectroscopy (XPS) was used to characterize the chemicalcomposition of both faces.
+
+XPS spectra were acquired in anultrahigh vacuum (UHV) chamber with a base pressure of10−9 mbar using a hemispherical electron energy analyser(SPECS Phoibos 150 spectrometer) and a monochromatic AlK(1486.74 eV) X-ray source.
+
+XPS spectra were recorded at normalemission take-off angle, using an energy step of 0.1 eV and apass-energy of 20 eV which provides an overall instrumentalpeak broadening of 0.55 eV [31–34].
+
+Carbon and hydroxyl (OH)species were detected as contaminants on the surface of thesamples, and the signal from adventitious carbon at 284.6 eVwas used for energy calibration.
+
+The overall surface composition was determined from survey spectra, and regions ofinterest (Ti2p, Fe2p, O1s, C1s, P2p, Li1s, and Ca2p) [35].
+
+Thesamples were exposed to air atmosphere upon preparation.
+
+In addition, the sample was cleaned by Ar+ ion bombardment(1 keV, 1.5A cm−2, 20min).
+
+This process removes part of theair contamination present on the surface of the sample, whichis also very useful to increase the XPS signal and, therefore,to analyze their composition.
+
+The integral peak areas afterbackground subtraction and normalization using sensitivityfactors provided by electron energy analyser manufacturerwere used to calculate the atomic concentration of each element.
+
+Data processing was performed using CasaXPS software(Casa Software Ltd., Cheshire, UK).
+
+In this paper we report the occurrence of polar diffusion oflithium ions during SPS in Li1.3Fe0.3Ti1.7(PO4)3 based materials.
+
+Several conclusions can be drawn:1. SPS permits a rapid densification of Li1.3Fe0.3Ti1.7(PO4)3 atlow temperature (600 ◦C).
+
+During the process a gradient of colour is stablishedbetween both sides of the pellets.
+
+The study of both faces by XPS shows a higher concentration of lithium in the upper side.
+
+XRD measurements show a change in the cell parametersof the NASICON structure which indicates a diffusion ofions from the lower to the upper sides during SPS.
+
+Moreover, new phases are formed in the upper side as shown byXRD and FESEM observations.
+

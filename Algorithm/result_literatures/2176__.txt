@@ -1,0 +1,44 @@
+The ion-exchange properties of NASICON type ceramics of composition Na3Zr2Si2PO12 were investigated in aqueous solutions of NaCl, LiCl and KCl. The solution analysis shows that the [Zr2Si2PO12] framework strongly prefers Na+ ion relative to K+ and Li+. The exchange current density of the alkalications at the NASICON/solution interface determined by impedance measurements varies in the order Na+>Li+>K+. These results agree well with the selectivity coe 129)cients of Na+ ion selective electrodes based on NASICON. The interference process to alkali-cations in the NASICON based electrode was shown to result from an ionic exchange. The selectivity was suggested to be governed by the mobility of the cation inside the NASICON framework. # 1999 Elsevier Science Limited. All rights reserved
+
+Keywords: chemical properties, alkali oxides, sensors.
+
+(NASICON) Na Super Ionic CONductor is the acronym of the solid solution of composition Nal+xZr2SixP3 255)xO12. It was ﬁrst synthesized by Hong in 1976.1 This compound has a rigid anion framework built of ZrO6 octahedra and (Si,P)O4 tetrahedra. It exhibits high Na+ conductivity for compositions for which 1.8<x<2.2 ( 27)=10 255)3   255)1 cm 255)1 at room temperature, for the x=2 composition). The NASICON ceramic has been proposed as the sensitive membrane of Na+ ion selective electrode (ISE).2 The main advantage with respect to the classical glass electrodes is the better selectivity
+
+The aim of the present work is to further investigate the selectivity process in the NASICON ceramic. The ionic exchange properties of NASICON compound in aqueous solution have been investigated by X-ray diraction and solution analysis. Furthermore, the ion exchange current density of alkali-cation at the NASICON/solution interface has been measured by impedance spectroscopy. Besides those measurements, the selectivity coe 129)cients of NASICON based Na+ ISE have been determined to look for any correlation.
+
+2.1 Materials The Na3Zr2Si2PO12 compound was obtained by the sol/gel process as described in Ref 4. Pellets of high density were obtained by isostatic pressing and sintering under air, at 1000 14)C. Their density was of the order of 90% of the theoretical density. The purity of the sample and crystallographic structure were checked by X-ray diraction. Pure single phase NASICON and NASICON containing a small amount of ZrO2 were tested. This ceramic crystallised in a monoclinic (or pseudo-rhombohedral) structure.
+
+2.2 Ionic exchange A weighed amount of NASICON powder was suspended in LiCl and KCl 0.1 M aqueous solution, during four days, at room temperature. After exchange, the solution was separated from the powder and analysed by ICP-AES method. The Na concentration in solution was determined with a precision of 5%. The experiments were performed in the Compagny Science & Surface S.A., France. The residual NASICON powder was dried and analysed by X-ray diraction to check the stability
+
+of the NASICON framework. All the exchanged powders were found to exhibit the NASICON-type crystallographic structure.5
+
+2.3 Impedance measurements—determination of i0 The exchange current density of the alkali-cations (Na+, Li+ and K+) at the NASICON/aqueous solution interface was measured by four electrode impedance measurements as depicted elsewhere.6 Impedance measurements were performed at room temperature, in aqueous solutions of NaCl, LiCl and KCl. BaCl2 0.1 M was used as the supporting electrolyte. They were carried out in the frequency range 65 kHz–0.l Hz, with an applied ac signal of 20 mV. A Solartron 1250 Frequency Response Analyser coupled to a 1186 Electrochemical Interface (Schlumberger) was used.
+
+Figure 1 shows typical impedance diagram of the NASICON pellet in contact with a 0.1 M NaCl, LiCl or KCL solution, respectively. These diagrams have been analysed in detail in Ref. 7.
+
+The exchange current densities i0 were deduced from the semi-circle in the frequency range 104–101 Hz, according to the following relationship:
+
+where RINT is the interfacial resistance deduced from the intercept of the semi-circle with the real axis and S is the NASICON/solution interface surface area.
+
+2.4 Potentiometric measurements—determination of KPOT Na;I The selectivity coe 129)cient of the Na+ ISE based on NASICON was determined by potentiometric measurements as proposed by I.U.P.A.C.8 The following electrochemical chain:
+
+Saturated Calomel Electrode (SCE)/Solution/ NASICON pellet/NaCl 0.1 M/AgCl-Ag was used. The voltage was measured between the SCE and silver wire. Aqueous solutions were prepared with BaCl2 0.1 M as the supporting electrolyte. Figure 2 gives a typical example of a calibration curve for Na+, Li+ and K+ ions. The potentiometric selectivity coe 129)cients, KPOT Na;I, were determined by identhese calibration curves with the tiﬁcation of Nicholkii–Eisenmann relationship taking into account the detection limit D.L. according to the following equation:
+
+where aNa is the sodium activity and aI represents the activity of the I 135) interfering cations in the analysed solution. Eo is a constant depending on the reference systems. R; T and F have their usual meanings.
+
+The ion exchange fractions determined from solution analysis are assembled in Table 1. The ionic exchange current densities measured in 1 M NaCl, LiCl and KCl solutions are also reported as well as
+
+the potentiomettic selectivity coe 129)cients. The NASICON of composition Na3Zr2Si2PO12 exchanges Li+ and K+. When it is contacted with solutions containing LiCl or KCl, a solid-solution Na3-x IxZr2Si2PO12 is formed. The exchange is only parindicating that the (Zr2Si2PO12) framework tial strongly prefers the Na+ ions. In agreement with this result, the best selectivity is obtained for the Na+ ions as well as the highest exchange current density. Comparison between the dierent cations shows that the ionic exchange currents at the NASICON/water in the order: i0(Na)>i0(Li)>i0(K). In parallel, the values of the potentiometric selectivity coe 129)cients show that the selectivity varies It appears that the selectivity properties correlate with the ionic exchange current densities. The higher the exchange current density is, the higher the selectivity coe 129)cient. Moreover, a high apparent ion exchange current density of the membrane corresponds to behaviour as a good nernstian sensor.
+
+The interference process to alkali-cations in NASICON based ISE can therefore be proposed to result from an ionic exchange. Eisenman’s model describes the potentiometric selectivity of ISE based on ionic exchange equilibrium.9 The potentiometric selectivity coe 129)cient can be expressed as a function of the mobilities of the primary UNa, and interfering uI cations inside the membrane and
+
+the exchange equilibrium constant Kexch according to the following equation:
+
+The results of Table 1 show that the exchange constant for Li+ and K+ are almost the same while the selectivity coe 129)cients are dierent. It allows us to suggest that the dierence of selectivity comes from the dierence of mobility of the cations inside in the order Na+> Li+>K+. The rate of exchange of the alkali-cations at the interface seems also to vary in the same way as the mobility of the cations in the structure.
+
+the membrane,
+
+interference process
+
+The in NASICON based ISE was shown to result from an ionic exchange between the NASICON framework and the solution. The selectivity was rather ﬁxed by the mobility of the cations inside the NASICON and varied in the same way as the cations exchange current density.
+

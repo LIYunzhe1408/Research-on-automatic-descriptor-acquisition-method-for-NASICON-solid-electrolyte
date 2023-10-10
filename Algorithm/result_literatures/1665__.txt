@@ -1,0 +1,92 @@
+A miniature CO2gas sensor based on NASICON (sodium super ionic conductor) thick film was fabricated.
+The solid-electrolyte NASICON material was synthesized through an inorganic-reagent-based sol-gelmethod.
+The resulting materials were characterized by means of X-ray diffraction (XRD) and X-ray photoelectronspectroscopy (XPS).
+NASICON paste was coated on a piece of alumina substrate attached to a platinumheater.
+Li2CO3–BaCO3binary carbonate in molar ratio 1 : 1.5 was utilized as the sensing electrode.
+Within awide range of CO2volume ratio concentration from 500 to 5000 ppm, the output electromotive force (EMF) ofthe sensor followed Nernst equation well at high working temperature.
+The response and recovery times were20 and 58 s, respectively.
+This miniature CO2 gas sensor possessed extra merits such as low power consumption,miniaturized framework, and easy fabrication.
+Co2 is one of the most important gases that couldgreatly influence atmosphere quality and the agriculturalproducts.
+Control and monitoring of 2concentrationis important in process control and automationand environmental pollution as well as applications inagricultural and biotechnological fields.
+Therefore, varioustypes of compact 2sensor with different workingmethods have been developed in trials .
+Among them, the solid-electrolyte-based NASICON 2gas sensor is a promising one for its high sensitivityand selectivity, low cost, compact structure, andshort response and recovery time  .
+The chemical composition of NASICON-typematerials is Na1–xZr2SixP3–xO12, and the highest ionicconductivity could be obtained atx= 2.0, namelyNa3Zr2Si2PO12. 
+The NASICON ceramics correspondingto Na3Zr2Si2PO12was often used as the fundamentalmaterial for the solid-electrolyte 2gas sensor because of its high conductivity and its optimal electrochemicalcharacteristics .
+Compared with the planardevice and tube-type sensor , the miniature 2 gassensor shows advantages of lower power consumption,more miniaturized framework, and easier fabrication.
+In this paper, NASICON material was synthesizedby sol-gel process, in which the cheap inorganicreagents such as ZrOCl2.8H2O,NaNO3and(NH4)2HPO4 were used as the major raw materials  .
+Modern analysismethods including XRD and XPS were employedto characterize the material.
+The miniature 2sensor based on the NASICON solid electrolyte was fabricatedand its sensing properties were investigated.
+NASICON precursor with the desired product compositionof Na3Zr2Si2PO12was synthesized by sol-gelmethod.
+ZrOCl2.8H2O,(NH4)2HPO4, and Si(C2H5O)4were used as the main reagents.
+Firstly, ZrOCl2wasprepared from ZrOCl2through the popular precipitationand redissolving procedure with the aid ofNH3·H2O and HNO3. 
+Then, ZrO(NO3)2, NaNO3and(NH4)2HPO4solution was added into the silica gel preparedfrom alcohol solution and Si(C2H5O)4. 
+The abovesolution was continuously stirred at70°ëfor more than2 h to form a sol.
+During the process of preparation, thepH value of the solution must be controlled strictly.
+Thesol changed into xerogel after drying in oven for 10 h at80°.
+The resulting gel was pre-sintered at500°for4 h, and then the resulting NASICON precursor powderwas pressed into pellets and sintered again at1000°for 12 h.
+The synthesis details could be found in ourprevious publication .
+XRD and XPS measurement were used to characterizethe phase structure and the stoichiometric proportionof every element in the resulting materials.
+A small alumina pellet attached to a platinum heaterwas used as the substrate for the dip-coated NASICONthick film.
+The diameter and thickness of the substrateare 4.0 mm and 0.4 mm, respectively.
+After the coatingof the substrate with SiO2, which was used as the insulating layer, a multiple dip-coating and sintering processwas employed for getting a suitable thickness andimproving the film density.
+The dip-coating film waspre-sintered at 600°for 1 h before the next coatingwas applied.
+Then the final film was sintered at900° for 6 h with resulting good adhesion of the thick film.
+Following the preparation of the NASICON thick film,a commercial aurum paste was coated on the both endsof the NASICON film to form two mesh patterns andthen sintered at800° for 20 min.
+For the measurementof the EMF, Pt electrodes were attached to the Aumesheswith the aid of Au paste and calcined at800°ëfor another 20 min.
+Finally, the sensing electrode ofLi2CO3–BaCO3binary carbonate in molar ratio 1 : 1.5 was prepared on one of the Au-meshes employing theconventional melting and quenching method.
+Amongmany others, the Li2CO3–BaCO3binary carbonate systemwas proposed as a sensing electrode material,because Li2CO3 has the lowest affinity to water vaporcompared to the other alkaline metal carbonates  .
+The structure of the miniature sensor is shown in Fig.1.
+CO2sensing properties of the sensor were measuredby a conventional static mounting method.
+The samplegases containing different concentration of CO2 were obtained by diluting pure CO2 gas with synthetic airobtained by mixing pure O2(21%) and N2(79%).
+The CO2 concentration varied from 500 to 5000 ppm.
+Thesensitivity, response and recovery time and selectivityof the miniature CO2gas sensor were investigated.
+Thevalue of EMF of the element was recorded with a TR8652 digital electrometer.
+XRD analysis of the resulted material was carriedout with D/max-rA diffractometer (Japan), CuKα, and the range of diffracting angles was10° <θ< 70°.
+Thescanning speed was 4°/min and the wavelength of theX-rays was 0.15406 nm.
+The XRD patterns shown in Fig.2 indicate that the powders show the presence ofmonoclinic NASICON and traces of ZrO2. 
+No otherphase such as SiO2, ZrSiO4. Na3PO12, Na2SiO3 orNa2ZrO2 could be detected in these samples.
+The lowfull widths at half maximum (FWHM) of the diffractionpeaks indicate that the crystallization of the NASICONphase is effective under the experimental conditions.
+The average grain size was determined fromthe full-width half-maximum of the XRD peak recordedwith a scanning speed of 1/8 degree per minute.
+Themean crystallite size was about 30 nm, which was calculatedfrom the Debye–Scherrer equation .
+XPS measurements were used to determine theatomic ratio and electrovalence of each element in theNASICON materials, using a VG ESCA LAB MK IIinstrument (England, MgKα, 10 Pa).
+Figure 3 depictsthe XPS spectra of NASICON powders, from whichgood Gauss symmetry was clearly observed from eachelement of the NASICON material, indicating that eachelement has one electrovalence only.
+(a) is the chart ofNa1s.
+The binding energy of Na1s is 1071.3 eV, deducingthe electrovalence of Na being Na+.
+(b) is the chartof O1s.
+The binding energy of O1s is 531.2 eV, indicatingthe electrovalence of O being O2– and the formula isP or Si .
+(c) is the spectra of Zr3d.
+The bindingenergy of Zr3d is 183.3 eV, indicating the electrovalenceof Zr being Zr4+.
+(d) is the chart of Si2p.
+The bindingenergy of Si2p is 102.4 eV, but the normal bindingenergy of Si4+ is 103.4 eV and the one of Si0 is99.15 eV, so the electrovalence of Si of NASICON isless than +4.
+ (e) is the spectra of P2p.
+The bindingenergy of P2p is 133. 6 eV, indicating the electrovalenceof P being P5+ and the formula is P .
+Therefore,the formula of the resulting NASICON that can bededuced from the XPS spectra is Na3.2Zr2.3Si1.8PO12,which is close to Na3Zr2Si2PO12.controlled by the heating current that was passed through the platinum heater.
+The relationship betweenthe operating temperature and the EMF is investigated,as shown in Fig.4; the concentration of CO2is 1000 ppm.
+It can be seen that the absolute value of the EMF increases as the operating temperature increases from200 to 450°, but a linear relationship is not obtainedas predicted by the Nernst equation.
+The equation (1) indicates that the EMF of the sensoris directly proportional to the logarithm of CO2 concentrationwith the slope of 2.303 RT / 2F, which is normallytaken as the theoretical sensitivity.
+Figure 5shows the typical EMF response of the sensor in thebulk concentration range from 500 to 5000 ppm, correspondingto different working temperature.
+The heatingtemperatures were set in the range of 200–400°.
+It canbe seen that the output EMF was linear function of thelogarithm of CO2 concentration at each operating temperature.
+The sensitivity of the sensor increases with anincrease of heating temperature, as listed in Table 1.
+The number of exchanged electrons (Fig.5) does notcorrespond to the value predicted by the theory (n = 2)at lower working temperature, because the electrochemicalreaction is not sufficiently fast at low temperature.
+However, the value of n tends to the theoreticalone with the temperature increasing.
+The sensitivity of the sensing element at the heatingtemperature of 400°ë was 66.3 mV per decade.
+In comparison with the planar-type and tube-type structureelement, the heating current was decreased by about 100 mA and 60 mA to maintain the same temperatureand a favorable sensitivity, because the planar-type sensoris externally heating and the heat consumption ishigh; in addition, the resistance of the Pt-heater of theminiature sensor (20 ohm) is less than one of the heatingcoils of the tube-type sensor (30 ohm).
+It is anadvantageous trend to decrease the power consumptionand meet the practical application in the future.
+Figure 6 shows the typical transient response andrecovery time corresponding to the switching the CO2concentrations.
+The heating temperature is set at400°.
+The response and recovery time relevant to 90%EMF are 20 s and 58 s, respectively.
+Not only for arapid concentration change, but also for a slow transformationof CO2 concentration, the sensor with the aboveresponse and recovery time is adequate for the mostapplication in all kinds of fields.
+The previous investigation indicated that the kindsand ratios of auxiliary carbonate salt could produce anobvious influence on the resistance to interferencegases.
+So the Li2CO3–BaCO3 binary carbonate inmolar ratio 1 : 1.5 was adopted as sensing electrodematerial.
+Another important requirement for enhancingthe selectivity is the availability of very accurately controlledpreparation techniques for the sensor material.
+In our experiment, the conventional melting andquenching method was employed in the preparing ofthe sensing electrode, the melting temperature is640°.
+Figure 7 gives the EMF variation of the sensorat the heating temperature of 400°ë, corresponding tothe exposure to CO, CH4 and SO2, which often co-existwith the target gas of CO2 in practice.
+The sensitivitiesof the sensor corresponding to CO2 and interference gases are summarized in Table 2. 
+It can be seen that thesensitivities for CO, CH4 and SO2 within the wide rangeof volume ratio concentration from 500 to 5000 ppmare so much smaller than the sensitivity for CO2. 
+Inpractice, the concentration of CO, CH4 and SO2 is farsmaller than that CO2, so the results indicated that all these gases produced few disturbances to the detectionof the CO2 concentration.
+A miniature  2 gas sensor was fabricated, in whichsol-gel-synthesized NASICON was employed as solid electrolyte material and a small alumina pellet was usedas substrate.
+XRD and XPS were employed to characterize NASICON powders.
+The effect on the sensitivityfrom the heating temperature was checked in detail.
+Theminiature CO2 element with 400°ë heating temperatureshows high  2 sensitivity (66.3 mV/decade), shortresponse and recovery time (20 and 58 s), and acceptableselectivity.
+With the realization of miniature structureand lower heating temperature, the power consumptionwas effectively decreased in comparison with the traditionalplanar and tube-type sensors.

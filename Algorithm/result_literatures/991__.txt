@@ -1,0 +1,26 @@
+The structural characterization for Na? SuperIonic Conductor (NASICON)-type glass ceramics of20R2O–XZrO2–15P2O5–(65-X)SiO2 (R = Na, Li) wasinvestigated by X-ray diffraction (XRD) and X-rayabsorption fine structure to clarify the better conductivemechanism of Li-glass ceramics than that of Na-glassceramics.
+
+The Na-glass ceramics were synthesized by heattreatment using glass material, and the Li-glass ceramicswere obtained through ion exchange techniques from Naglass ceramics.
+
+From the XRD analysis, the positive correlation between ionic conductivity and lattice parameterwas identified for the Na-glass ceramics, on the other hand,there was no positive relation for Li-glass ceramics, indicating that the ion conductive mechanism cannot beexplained by the lattice parameter of NASICON crystallinephase alone.
+
+The Debye–Waller factors related to theoxygen surrounding the Zr-ion for the Li-glass ceramicswere higher than those for the Na-glass ceramics.
+
+Thestatic disorder around Zr-ion may cause more weaklybonding between the Li ions and surrounding atoms,resulting in the improvement of ionic conductivity.
+
+The relation between the ionic conductivity and structurefor 20R2O–XZrO2–15P2O5–(65-X)SiO2 (R = Na, Li) glassceramics containing a NASICON phase (space group R3c)was investigated by synchrotron XRD and XAFS.
+
+Based onsystematic analyses, the following conclusions weredrawn:For Na-glass ceramics, the lattice parameters andcell volumes increased systematically with increasing X value.
+
+The positive relation between the latticevolumes and the conductivity was also observed inthis system.
+
+On the other hand, for Li-glass ceramics,there was no relation between the lattice volumesand the conductivity.
+
+Li-glass ceramics have higherconductivities than those of Na-glass ceramics, butthe lattice volumes of the former materials aresmaller than those of the latter ones.
+
+These resultsindicate that the ion conductive mechanism cannotbe explained by the lattice volume of a NASICONcrystalline crystal alone.
+
+ From the measurement of the Zr K-edge EXAFS, theDebye–Waller factors for Li-glass ceramics werehigher than those for Na-glass ceramics, indicatingthat the static disorder around a Zr-ion was enhancedfor Li-glass ceramics.
+
+By the ion exchange, thedistribution of atom around a Zr atom in the glassceramics causes the improvement of the ionconductivity.
+

@@ -1,0 +1,63 @@
+Glass-ceramics of the boron-, aluminiumor gallium-containing Na5RSi4O12-type (R =rare earth; Y) Na+superionic conductors were prepared by crystallization of glasses with the composition Na3 + 3x + yY1−xXySi3−yO9 (X=B; NaYBSi, X=Al; NaYAlSi, X=Ga; NaYGaSi) (x=0.2, y=0.1). The crystallization kinetics of the glasses was examined by DTA, and the effects of X elements on the separation of the phase and the microstructural effects on the conduction properties of glass-ceramics were discussed. The activation energies of crystal growth of the NaYBSi, NaYAlSi and NaYGaSi glasses with the Na3.7Y0.8B0.1Si2.9O9, Na3.7Y0.8Al0.1Si2.9O9 and Na3.7Y0.8 Ga0.1Si2.9O9 compositions were 410, 392 and 382 kJ/mol, respectively. The conductivities of the glass-ceramic NaYBSi, NaYAlSi and NaYGaSi were 4.32×10−2, 3.73×10−2 and 3.40×10−2 S/cm at 300 °C, respectively.
+
+Glass-ceramics are polycrystalline materials which are produced by controlled crystallization of glasses. In addition to their easy fabrication into desired shapes, glass-ceramics generally have advantages over conventional sintered ceramics in mechanical properties and chemical durability because of their pore-free and small grained (b1 μm) microstructure. Glass-ceramics of Na+ superionic conductors are therefore expected to overcome the difﬁculties in the fabrication of practical devices such as tubes for Na/S secondary batteries.
+
+Glass-ceramics of the phosphorus containing Na5RSi4O12 (N5)type (R=rare earth) [1,2] Na+-superionic conductors [3,4] have been developed by crystallization of glasses with the composition Na3 + 3x−yR1−xPySi3−yO9 (NaRPSi) [5–19]. These materials are comparable to the conventional ceramic Na+-conductors such as Nasicon, βand β″-aluminas (e. g., NaAl11O17 and NaAl5O8). The R elements have a signiﬁcant effect on the crystallization of glasses [6], as well as on the conduction properties [1]. To date, polycrystalline N5-type NaRPSi has been obtained with Sc, Y, Gd or Sm as the R element. It is currently assumed from the analogy with N5 that all the R ions can be octahedrally coordinated with the non-bridging oxide ions of the (SiO4, PO4)tetrahedra of the 12-membered rings. The reported results on the silicate ceramics [1] show that the conductivity of N5-type NaRPSi increases with increasing size of its R ions. Our phosphorus containing compositions have been conﬁrmed superior to the mother composition of N5, especially in the production of the single-phase
+
+glass-ceramics. Considering the inference, our main work has recently been focused on the synthesis of various glass-ceramics with N5 single-phase.
+
+In the present study, the boron, aluminium or gallium with the tetrahedra conﬁguration in the glass was substituted for the silicon. The glass-ceramics of the boron-, aluminiumor gallium-containing N5type Na+-superionic conductors from the glasses with the composition Na3 + 3x + yY1−xXySi3−yO9 (X=B; NaYBSi, X=Al; NaYAlSi, X=Ga; NaYGaSi) (x=0.2, y=0.1) were prepared. The effects of X elements on the separation of the phase and the microstructural effects on the conduction properties of glass-ceramics were discussed, and the crystallization kinetics of the glasses was examined by differential thermal analysis (DTA).
+
+The glass-ceramics have been obtained under the appropriate sets of the parameters x and y of the composition formula Na3 + 3xY1−xXySi3−yO9 (X=B, Al, Ga) (x=0.2, y=0.1). The precursor glasses were made by melting stoichiometric mixtures of reagentgrade powders of anhydrous Na2CO3, Y2O3, (H3BO3, Al2O3 or Ga2O3) and SiO2 at 1350 °C for 1 h after calcinations at 900 °C for 1 h. The melts were quickly poured into a cylindrical graphite. The glass transition temperature (Tg) had been determined in advance by DTA. The quenched glasses were annealed for several hours at an optimum temperature (ca. 25 °C below Tg) to release internal stress. Crystallization was carried out according to the previous report [5]; bulk glasses were heated to a temperature above ca. 50 °C of Tg. This pretreatment was done in order to obtain homogeneous nucleation. The annealed specimens were heated up to 1150 °C for 5 h for crystallization.
+
+Fig. 2. DTA curves of NaYAlSi glasses.
+
+constants of these glass-ceramics. The lattice constant of the glassceramic NaYXSi increases as the ionic radius of X increased.
+
+Apparent activation energies for crystallization (crystal growth) were determined by employing the non-isothermal modiﬁed Kissinger methods [20,21] in which some characteristic of the crystallization peak determined by DTA, is monitored as a function of heating rate or temperature. The following relationship is then applied
+
+Fig. 1. X-ray diffraction patterns of NaYBSi, NaYAlSi and NaYGaSi glass-ceramics.
+
+Crystallized bulky specimens were crushed to powders, and then subjected to X-ray diffraction (XRD) analysis for the calculation of the hexagonal lattice constants as well as for phase conﬁrmation.
+
+Ionic conductivities were measured by the AC two-probe method on cylindrical glass-ceramics of typically 15 mm in diameter and 2 mm in thickness. Electrodes were prepared by sputtering of gold on polished surfaces. The applied ac ﬁeld ranged from 5 to 10 MHz in frequency. The temperature dependence of the conductivity was measured in a similar way at several temperatures ranging from room temperature to 350 °C.
+
+The N5-type glass-ceramic NaYBSi, NaYAlSi and NaYGaSi with the Na3.7Y0.8B0.1Si2.9O9, Na3.7Y0.8Al0.1Si2.9O9 and Na3.7Y0.8 Ga0.1Si2.9O9 compositions, respectively, were successfully produced by crystallization of glasses. Most of the compounds were obtained as crack-free glass-ceramics. The XRD patterns of N5-type NaYBSi, NaYAlSi and NaYGaSi glass-ceramics were given in Fig. 1. Table 1 shows the lattice
+
+Table 1 Lattice constants of NaYBSi, NaYAlSi, NaYGaSi glass-ceramics.
+
+where α is the heating rate, T0 is the peak crystallization temperature at a given heating rate, E is the apparent activation energy, R is the gas constant, and m and n are numerical factors which depend on the crystallization mechanism (m depends on the dimensionality of crystal growth). When Bulk crystallization occurs with an increasing number of nuclei (i.e. the number of nuclei is inversely proportional to the heating rate), m=3 and n=4 (three-dimensional growth of crystals). In this study, the parameters m and n are assumed as 3 and 4, respectively, because bulk glasses were heated to a temperature above ca. 50 °C of Tg in order to obtain homogeneous nucleation. Representative DTA curves of the prepared glasses with NaYAlSi were given in Fig. 2. Fig. 3 shows the modiﬁed Kissinger plots for NaYBSi, NaYAlSi and NaYGaSi glasses. Table 2 summarizes the DTA peak temperatures and activation energies of crystal growth obtained from the modiﬁed Kissinger-equation under nonisothermal condition of the NaYXSi glasses. The activation energies of crystal growth are 410 for NaYBSi, 392 for NaYAlSi and 381 kJ/mol for NaYGaSi, respectively. The
+
+Fig. 3. Modiﬁed Kissinger plots for NaYBSi, NaYAlSi and NaYGaSi glasses.
+
+Table 2 DTA peak temperatures and activation energies of crystal growth of NaYBSi, NaYAlSi, NaYGaSi glasses.
+
+Fig. 5. Arrhenius plots of conductivities of grains (G), grain boundaries (GB) and total (T) for NaYAlSi glass-ceramics.
+
+activation energy of crystal growth of the NaYXSi glass decreases as the ionic radius of X increased.
+
+The complex admittance diagrams of the glass-ceramic NaYAlSi specimen is shown in Fig. 4(a) as an example. Those admittance diagrams were analyzed with the equivalent circuit shown in Fig. 4(b). The complex admittances of the measured glass-ceramic specimen consisted of two semi-circles at lower temperatures. The two intercepting points on the real axis are interpreted as the resistance of crystallized grains (RG(c)) and the total resistance of grains and remaining glassy grain boundaries (RGB(g)). Assume the complex admittance diagram shown in Fig. 4(c), where the parameters L1 and L2 are set here as the radii of the two arcs 1 and 2. Those parameters are related to one another as the following: L1∝1
+
+Therefore, in an ideal glass-ceramics (composite consisting of crystallized grains and small amounts of residual glass (b1%)) where residual glass would have negligible inﬂuence on the total, arc 2 would be much smaller than arc 1, since L2/L1→0. As an example, the ﬁtting curves for the complex admittance diagram at 300 °C are shown in Fig. 4(a) using dotted lines. The ﬁtting parameters 1/RG(c) and 1/ (RG(c) + RGB(g)) were 0.378 and 0.350 S, respectively.
+
+Fig. 5 shows examples of the temperature dependence Arrhenius plots made on the basis of the calculated conductivity values of grains and grain boundaries of the glass-ceramic NaYAlSi specimen, in which the geometrical ratios of thickness to surface area for grains were also used for convenience for those of grain boundaries because of their undeﬁnable shapes. The conductivity of the total bulk (T) is as close as
+
+Fig. 4. (a): Complex admittance diagrams of NaYAlSi glass-ceramics. (b): Equivalent circuit employed for the admittance analysis. E-B INT, GB, and G represent the electrode-bulk interface, grain-boundaries and grains, respectively, and (R1, C1), (R2, C2), and R3 are their resistances and capacitances. (c): An idealized diagram of complex admittance for glassceramics, in which arc 1 (ARC 1) and arc 2 (ARC 2) are related to the crystallized grains (G(c)) and remaining glasses (GB(g)). L1, L2, RG(c), and RGB(g) are, respectively, the radii of arcs 1 and 2, the resistances of G(c) and GB(g).
+
+Table 3 Conduction properties of NaYBSi, NaYAlSi and NaYGaSi glass-ceramics.
+
+the conductivity of grain boundaries were calculated using the geometry ratio of surface area to thickness of the whole glass-ceramic bulk.
+
+Table 3 summarizes the conduction properties of the NaYXSi glassceramics. The conductivities of the glass-ceramic NaYBSi, NaYAlSi and NaYGaSi were 4.32×10− 2, 3.73×10− 2 and 3.40×10− 2 S/cm at 300 °C, respectively. The conductivity decreases giving the order NaYBSi>NaYAlSi>NaYGaSi. The conductivity of the NaYXSi glassceramics decreases as the ionic radius of X increased.
+
+Fig. 6 shows SEM photographs of the microstructure of the glassceramic NaYBSi, NaYAlSi and NaYGaSi. The grain sizes of the NaYBSi, NaYAlSi and NaYGaSi specimens were about 3.8, 4.4 and 4.9 μm, respectively. The grain size of the NaYXSi glass-ceramics increases as the ionic radius of X increased.
+
+We have successfully produced the glass-ceramics of the boron-, aluminiumor gallium-containing N5-type Na+-superionic conductors from the glasses with the composition Na3 + 3xY1−xXySi3−yO9 (X=B, Al, Ga) (x=0.2, y=0.1). The main features of this work are as follows:
+
+1. The lattice constant of the glass-ceramic NaYXSi increases as the
+
+2. The activation energies of crystal growth of the NaYBSi, NaYAlSi and NaYGaSi glasses were 410, 392 and 382 kJ/mol, respectively. The activation energy of crystal growth of the NaYXSi glass decreases as the ionic radius of X increased.
+
+3. The ionic conductivities of the glass-ceramic NaYBSi, NaYAlSi and NaYGaSi were 4.32×10− 2, 3.73×10− 2 and 3.40×10− 2 S/cm at 300 °C, respectively. The conductivity decreases giving the order NaYBSi>NaYAlSi>NaYGaSi. The conductivity of the NaYXSi glassceramics decreases as the ionic radius of X increased.
+
+4. The grain sizes of the NaYBSi, NaYAlSi and NaYGaSi glass-ceramic specimens were about 3.8, 4.4 and 4.9 μm, respectively. The grain size of the NaYXSi glass-ceramics increases as the ionic radius of X increased.

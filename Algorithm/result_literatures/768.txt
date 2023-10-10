@@ -1,0 +1,9 @@
+A fast Li+ ion-conducting membrane is the key component behind a successful performance ofan aqueous or hybrid Li-air battery.
+Currently available ceramic ionic conductors are hardlyscalable, difficult to seal, brittle and electrochemically unstable against the commonly usedcatholytes.
+In this work, an easily scalable high performance hybrid inorganic-organic membraneis realized that consists of NASICON-type Li1+xAlxGe2-x(PO4)3 (LAGP) as the fast ionconducting ceramic filler within a high stability polymer blend.
+The as-prepared hybrid membrane exhibits high ionic conductivity of 1.0×10-4 Scm-1 with chemical stability in bothneutral and acidified lithium chloride solutions.
+Energy efficiency of >93% under current densityof 0.03 mAcm-2 for aqueous/hybrid Lithium-air batteries enabled by this hybrid anode-protectingmembrane is demonstrated.
+In summary, we have developed novel fast lithium ion conducting, light-weight, flexiblehybrid inorganic-organic membranes that combine the fast-ionic conductivity, electrochemicaland mechanical stability of the LAGP ceramic component with the fundamental advantage oforganic compounds that they are more easily scalable and more easily molded into desiredshapes and sizes than purely ceramic solid electrolytes.
+Compared to a previously testedconventional hybrid membranes utilizing PEO as the polymer component and again LAGP as theceramic filler a major enhancement of the stability in contact with highly corrosive catholytes isobserved.
+This greatly enhanced stability of the hybrid membrane resulted in significantly improved battery cycle life.
+Under a current density of 0.03 mAcm-2, a Li-air cell with acidifiedLiCl (10M) was cycled for 140 hours with overpotentials < 0.4 V and an average energyefficiency of 93% for most of the cycles.

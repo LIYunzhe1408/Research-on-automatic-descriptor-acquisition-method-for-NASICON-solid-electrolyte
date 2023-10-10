@@ -1,0 +1,10 @@
+The obvious cost advantage as well as attractive electrochemical properties, including excellent cycling stability and the potential of high rate performance, make sodium-ion batteries prime candidates in the race to technically and commercially enable large-scale electrochemical energy storage.
+In this work, we apply our bond valence site energy modelling method to further the understanding of rate capabilities of a wide range of potential insertion-type sodium-ion battery cathode materials.
+We demonstrate how a stretched exponential function permits us to systematically quantify the rate performance, which in turn reveals guidelines for the design of novel sodium-ion battery chemistries suitable for high power, grid-scale applications.
+Starting from a diffusion relaxation model, we establish a semi-quantitative prediction of the rate-performance of half-cells from the structure of the cathode material that factors in dimensionality of Na+ ion migration pathways, the height of the migration barriers and the crystallite size of the active material.
+With the help of selected examples, we also illustrate the respective roles of unoccupied low energy sites within the pathway and temperature towards the overall rate capability of insertion-type cathode materials.
+In this work, we have proposed to quantify the rate performances of sodium cathode materials in half-cells using the stretched exponential function.
+This allows a systematic comparison among different compounds in terms of the critical C-rate W, inaccessible fraction of theoretical capacity α, and defect concentration-dependent β.
+We have also shown that W is fundamentally related to the underlying structural features as they in turn determine the pathway topology, which can be characterized by two main descriptors: limiting migration barrier EA and pathway dimension d.
+The dependence of W on particle size and temperature is also demonstrated.
+We believe our work would facilitate a deeper understanding of the various contributing factors towards the overall rate capability and provide a systematic guideline for future designs of high rate performance NIBs.

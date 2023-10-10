@@ -1,0 +1,14 @@
+A special case is sodium super ion conductor (NASICON)-based electrode materials as they exhibit – besides pronounced structural stability – exceptionally high ion conductivity, rendering them most promising for sodium storage.
+Compared to LIBs, sodium-ion  batteries (SIBs) offer multiple advantages  such as abundancy of elemental source,  evenly geographical distribution and distinctly lower cost are hence recognized as  serious alternative to LIB.
+It is shown that thermodynamic stability against Na requires absence of phosphate which already leads to a much lower conductivity.
+Organic polymers and surfactants are frequently used to control the NVP size; they reduce surface tension of solvents and can simultaneously serve as carbon sources.
+The rate capacities  of such NVP-F nanofiber networks were found to be superior to that of the NVP microflowers and of dense NVP bulk materials.
+Amorphous carbon can be obtained from many organic polymers, polysaccharides or surfactants by annealing  them in inert atmosphere.
+The NVP nanoparticles coated by thin carbon layers exhibit exceptional  electrochemical performance.
+Interconnected carbon frameworks result in free-standing and binder-free features, and can be prepared via various methods such as electrostatic spray deposition (ESD), spray-drying, and filtration-freezing-drying techniques.
+The high porosity and interconnectivity make the homogenously distributed NVP nanoparticles show excellent electrochemical performance.
+The N-doped carbon shell not only increases the effective electronic conductivity, but also enhances ionic diffusion during charging and  discharging.
+Notwithstanding the fact that the N-doped carbon coated NVP materials have shown exceptional electrochemical performance, the N-doped carbon materials are relatively sensitive to moisture and oxygen, which unfavorably affects their conductivity.
+Similar to NVP, NVPF also shows low electronic conductivity.
+Thus the performance of NVPF compounds can be  greatly improved by coating with carbon (using carbon black or citric acid as precursor and size-control agent) to enhance the electrical conductivity.
+NASICON-type materials have impressive features of stable  structural framework, high ionic conductivity, and good  thermal stability, which can be applied in many fields, including electrodes for both lithium ion batteries and sodium-ion batteries, solid electrolytes, membrane for lithium oxygen batteries, fuel cells and gas sensors.

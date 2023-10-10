@@ -1,0 +1,6 @@
+Reduced graphene oxide (rGO) was used to encapsulate Na3V2(PO4)2F3@Carbon nanoparticles toovercome its inherent low electronic conductivity and achieve superior sodium storage performance.
+This as-prepared cathode delivers a remarkable rate performance with a discharge capacity of ca.
+64 mA h g-1 at 70C and an ultra-long-term cyclability over 4000 cycles with great capacity retention of81% at 30C.
+This excellent performance can be attributed to the favorable combination of fast ionicconductivity of the NASICON structure and the interpenetrating conductive carbon framework; thusbringing a good pseudocapacitive quality to this material.
+Furthermore, thanks to the good sodiumstorage properties at low potential, a symmetric full cell can be assembled using Na3V2(PO4)2F3@C@rGOas both cathode and anode.
+The full cell delivers a high discharge capacity of 53 mA h g-1 at 20C rate,further demonstrating the feasibility of this hybrid material for smart grids.

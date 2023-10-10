@@ -1,0 +1,70 @@
+Na3V2(PO4)3/C samples are synthesized by a wet-ballmilling and in situ carbon-compositing process.
+
+The structuraland morphological characterization of the milled samplesshows that they are highly pure and crystalline composites, inwhich the specific surface undergoes an effective increase.
+
+Thesample prepared by milling for 24 h shows an excellent electrochemical behavior and reaches a capacity value as high as108.5 mA h g–1 at 40 C and full capacity recovery when returned to a C/2 rate at the end of the cycling.
+
+Furthermore, thissample is able to maintain 111 mA h g–1 at 10 C after 100 cycles.
+
+This exceptional performance is correlated to the goodkinetic response, as evidenced by impedance spectroscopy andthe analysis of the cell polarization at the charge and dischargebranches.
+
+The research into Li+ and Na+ ions as charge carriers for roomtemperature electrochemical batteries started almost in parallelin the 1970s.
+
+Classical examples of the initial interest in sodiuminsertion are the studies of TiS2[1] and NaxCoO2.[2] Nevertheless,the lower standard potential of the Na+/Na redox couple compared with that of the Li+/Li couple inevitably leads to a decreased energy density in Na systems.
+
+Therefore, further effortswere mainly focused on lithium batteries, and studies on sodium-insertion materials for energy storage remained scarce.
+
+Recently, renewed attention has been paid to sodium-ionbatteries.
+
+Owing to the great commercial success of Li-ion batteries in the electronic market and, more importantly, the largeexpectations for their use in transport media, a future scarcityof lithium resources has been predicted.
+
+ Although sodiumand lithium compounds usually form analogues with similarcrystal structures, they may also build different frameworks forrelated stoichiometries.
+
+This suggests that successful research into sodium systems may rely on new chemistry to overcome the low-energy-density issue.
+
+ For example, NaFeF3 is stable, whereas the Li analogue does not exist.
+
+Polyanion compounds have 3D structures with open channels that facilitate the diffusion of large Na+ ions.
+
+In particular,compounds with the general formula AxMy(PO4)3 (NASICONphosphates) have been studied as fast sodium-ion conductors.
+
+Their structures consist of corner-shared MO6 and PO4 polyhedra and provide highly stable frameworks for the reversible insertion of sodium.
+
+ Recently, carbon-coated Na3V2(PO4)3 was revealed to be a promising cathode for Na-ion batteries.
+
+Great efforts are continuously devoted to the development ofoptimized electrode materials through the modification ofchemical compositions[13,14] and the design of new morphologies.
+
+ For the latter case, mechanical milling is an efficientmethod to modify the particle morphology and, hence, to adjust the electrode/electrolyte interface by altering the particlesurfaces.
+The successful preparation of cathode materialsfor Na-ion batteries by wet ball milling and subsequent firinghas been reported.
+
+ The enhancement of the electrochemical behavior was ascribed to the reduction of the size of theprimary particles, an increase of the specific surface area, anda beneficial effect of the carbon coating.
+The aim of this work is to synthesize and characterizeNa3V2(PO4)3/C electrodes prepared by a wet-ball-milling and insitu carbon-compositing process.
+
+ X-ray diffraction, Raman spectroscopy, and electron microscopy were used to unveil the microstructural and morphological properties.
+
+The electrochemical performance and kinetic response were tested in sodiumhalf-cells by the galvanostatic method.
+
+Na3V2(PO4)3/C samples have been prepared by a wet-ball-milling and in situ carbon-compositing process.
+
+TEM images revealed an effective diminution of the particle size and a morehomogeneous dispersion of the carbon conductive phase surrounding the active material.
+
+The mechanical treatment beforethe sample annealing also favored the synthesis of highly pureand crystalline samples, which are characterized by slightlylarger crystalline domains, lower strains, and significantly largerspecific surfaces than those of the nonmilled sample.
+
+Ramanspectroscopy evidenced the low graphitization level of the carbon phase, along with a measurable decrease of the particlesize, mainly for the sample ball-milled for 24 h.
+
+The Na3V2(PO4)3/C sample prepared by mechanical millingfor 24 h evidenced an excellent behavior when cycled at bothhigh and low rates, whereas a shorter milling time (10 h) wasnot enough to ensure high capacities at high rates.
+
+ Thus, NVPBM24h exhibited a capacity as high as 108.5 mA h g–1 at 40 C(12 mA cm–2) with a Coulombic efficiency of 89 %.
+
+Moreover,100 % of the capacity was retrieved at C/2 during the last cyclesof the experiment.
+
+The good kinetic response of NVP-BM24hwas evidenced by impedance spectroscopy and the analysis ofthe cell polarization at the charge and discharge branches.
+
+Inthis last case, the mechanical treatment favored low direct-current resistance and zero-current values, which justify the enhanced charge-carrier transport through the electrode.
+
+Finally,the extended galvanostatic cycling of NVP-BM24 led to111 mA h g–1 at 10 C (3 mA cm–2) after 100 cycles.
+
+This valueequates to an exceptional Coulombic efficiency of 100 %.
+
+Theseresults revealed that the mechanical treatment of precursorsbefore annealing favors the synthesis of Na3V2(PO4)3/C composites with optimal morphologies for their performance as cathode materials for sodium-ion batteries.
+

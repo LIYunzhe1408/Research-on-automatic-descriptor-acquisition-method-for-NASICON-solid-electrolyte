@@ -1,0 +1,128 @@
+A low-temperature lithium ion based potentiometric CO2 sensor has been developed by adding 10 mol% of SiO2, B2O3, Li2O, and Bi2O3 composite metal oxide mixture to (Li2-Ba)CO3 sensing bicarbonate. 
+The sensors added with different mol% of oxides were tested at different operating temperatures. 
+The sensor with 1 : 2 : 1 : 1 mol% of the SiO2:B2O3 : Li2O : Bi2O3 composite metal oxide showed a fair Nernstian correlation and obtained n value equal to 2 at 300 C, where is the number of reaction electrons. 
+A glassy sensing phase resulted that improved response and recovery. The sensor is also found stable against humidity (70% RH) at 300 C. 
+However, it is further observed that the performance of the sensor deteriorated with increasing Li2O or decreasing B2O3 content. 
+The sensor performance could further be improved at lower temperatures with the introduction of dioctyl phthalate (DOP) plasticizer into the sensing electrode.
+
+It has become necessary to employ high-quality gas sensors to detect and control the concentration in various ﬁelds like agriculture, food, air-conditioning, and environmental monitoring due to the enormous increase of levels in the atmosphere and causing green house effects. 
+Solid sensors are very promising to detect state potentiometric concentrations in addition to their fast relow levels of sponse, simplicity and long term durability. 
+Among the masensors such as solid electrolytes, terials used for NASICON was considered to be one of the most promising cansensors operative at low operating temdidates. 
+However, peratures always have substantial demand in view of their low cost and wide applications.
+Composite type NASICON potentiometric sensors combined with foreign metal oxides have attained great importance due to the room temperature operation. 
+However, lithium electrolyte based sensors were also known to be promising and attractive due to their fast and less water reactive nature of the lithium ion than any other alkali metal. 
+It has been reported that the enhanced sensing properties of the sensor can be achieved by replacing the single carbonate-sensing electrode with a binary carbonate system.
+Plasticizers are additives that increase the plasticity or ﬂuidity of the material to which they are added. 
+They are, in general, polymer additives that serve to increase the polymer ﬂexibility, elongation, or ease of processing (workability). 
+In more technical terms, the addition of a polymer generally causes a reduction in the cohesive intermolecular forces along the polymer chains. 
+Thus, the chains can move freely relative to one another and the stiffness of the polymer is reduced.
+
+In this paper, we present the characteristics of a low-tempersensor using sensing ceramic oxides and metal oxides, with a view to reduce the operating temperature and avoid the problems related to the low power heater. 
+Application of DOP plasticizer, in addition to the composite metal oxide, into the sensing material was considered in order to further reduce the operating temperature, and to improve response and recovery characteristics. 
+Analytical methods such as TG-DTA, XRD, FT-IR, and SEM were employed to elucidate a probable mechanism.
+
+mixed with 5 mol% was used as electrolyte was used as and mixed with 10 mol% reference material. 
+The sensing and reference materials were ball milled in distilled water at 300 rpm for 4 h and dried at for 12 h.
+ An electrolyte pellet of 12 mm diameter 120 and 1 mm thickness was prepared by isostatically pressing at 200 MPa pressure and sintered at 800 for 8 h. 
+Appropriate amounts of oxides in different mol% compositions were taken in an agate mortar and mixed thoroughly and added binary carbonate to (90 mol%) mixture in 10:90 wt%. 
+The resulting mixture was mixed with -terpinol to make slurry and applied as sensing material. 
+Au electrodes were attached onto the homogenously applied Au for paste on both sides of the pellet and annealed at 600 1 h. 
+Reference and sensing pastes were applied on either side of the pellet and sintered at 700 and 600 for 1 h, respectively. 
+
+Differential thermal analysis (DTA) studies were carried out apparatus to evaluate thermal behavior on Mettler SDTA and possible phase changes of the sensing material. 
+The formation of the crystalline phase of the sensing material was determined on an X-ray diffractometer (XRD), Rigaku, D/\Max -3C, radiation in 2 scale from 10 to 70 in using steps of 0.05 . 
+Scanning electron microscope studies (FE-SEM) were carried out on Hitachi S-4700 and the surface morphology of the sensing electrode was observed after heat treatment at 600  for 1 h.
+Infrared spectroscopic (FT-IR) studies were carried out on Nicolet 520 P instrument in order to investigate the composition and structural changes.
+The sensor experiments were carried out in a typical con-
+ventional gas ﬂow apparatus. 
+Different concentrations of in the range from 500–5000 ppm at the sensing electrode were and synthetic air mixture combined obtained by using together in different ratios by mass ﬂow controllers, which were computer regulated. 
+The ﬂow rate of the out going gas after mixing was always maintained at 200 sccm (RH 7.7%). 
+The electromotive force (EMF) of the sensor was measured by two probe HP34401A multimeter of high impedance (above 10 ). 
+Effect of humidity was tested by allowing the test gas to bubble through water (about 70% RH) at 25  and then pass
+into the measuring system.
+A planar potentiometric sensor has been developed using and 10 mol% as the electrolyte, and 5 mol% mixed with 10 mol% as the reference electrode and 90 mol% modiﬁed with a foreign composite metal oxide as the sensing material.
+The sensor also follows the equation
+where a constant related with temperature and the activities of the electrode materials, T,the operating temperature in Kelvin,R and F , the gas and Faraday constants respectively.
+EMF is proportional to the logarithm of partial pressure at constant temperature and oxygen partial pressure.
+The general sensing mechanism of the sensor can be denoted by the equations
+The overall reaction at the sensing electrode follows the equation
+The reaction at the reference electrode
+And the overall reaction for the open cell can be expressed as
+Fig. 1 shows the DTA proﬁle of sensing electrode mixed with and a glass forming oxide encoded as SBLB(1121), (1211) and (1221) according to respective mol% compositions. 
+The shape of all the DTA proﬁles is similar, though some peak positions vary with temperature depending on the glass composition. 
+It can be observed that all the samples show endothermic peaks around 150 and corresponding to the decomposition of adsorbed water 650 mixed carbonates, respectively, irrespecand tive of the composition. 
+However, the exothermic peaks due to the glass formation are different for different glass compositions. 
+SBLB(1121) and (1221) compositions have shown two exothermic crystallization peaks around 450 and 550 . 
+Incontrast, the sample with SBLB(1211) composition has shown three exothermic peaks at 280, 360, and 480 . 
+Table I shows  the glass transition and the temperatures of exothermic reactions.
+The glass transition and the exothermic temperatures of (1221) and (1121) compositions are found to be tures similar at 400 and 450 of (1211) comand the ﬁrst position decreased to the lowest value of 250 temperature. 
+Hence, exothermic peak appeared around 280 it can be inferred that, boron and lithium oxide in 2 : 1 mol% could effectively decrease the glass transition temperature or inof the added glass. 
+However, further decreasing or increasing or of equal ratio in content has not shown any creasing effect on. 
+It is known that for a given chemical composition, the degree in crystallanity can be varied from the amorphous glass at one extreme to an almost completely crystalline glass-ceramic at the other. 
+This is of most important with respect to mechanical properties and to dielectric and transport properties such as ionic conductivity . 
+The addition of a certain percentage of network forming oxides to the sensing carbonate is necessary in order to achieve glass formation. Therefore, were added as network formers. 
+Fig. 2 shows the X-ray diffracfor tion pattern of the SBLB(1211) sample annealed at 600 for 1 h. 
+The crystallanity increased due to the addition of boron content, which can also be inferred by sharp XRD peaks. 
+In addiand tion, SBLB glasses may yield other phases such as as observed by Singh et al.
+The composition and structural changes of the CO2 sensing material as a function of sintering temperature were studied by infrared spectroscopy (FT-IR). 
+The changes were closely related to the changes in shape and intensity of the bonds. 
+All the samples were prepared in the form of KBr pellets. 
+Fig. 3 shows the infrared spectra of SLB and SBLB compositions at room temperature (RT), 300 and 600 , respectively. 
+In the spectra, the broad band around 1400 characterizes the stretching of units. 
+The bands at 850–1200 and around 700 assigned to the stretching of groups are related to bond bending vibration of the B-O-B bridges.
+The bands at 850 and 980 in curves (b-d) grow in intensity with temperature and  were attributed to the polyhedra. 
+at the expense of transforms the structure into a bismuthate, mainly formed by octahedra. 
+The band range around 480 is typical for the normal vibrations of groups . 
+Apart from borate groups ,only units in micro-nuclear chains have an ionic nature when the content is low or equal to 20 mol% and they act as ionic conductors.
+The surface morphology and microstructure of the glassy ceramic added bicarbonate sensing electrode is observed by ﬁeld emission scanning electron microscopy (FE-SEM). 
+Fig. 4 shows the SEM image of the SBLB(1211) sensing electrode surface after heating at 600  for 1 h. 
+It can be observed from the ﬁgure that the surface contains many agglomerations of tiny glassy with crystallite size around formations with crystallized 0.5 along with small pores over the dense glass matrix.
+
+Fig. 5 shows the EMF as a function of concentration for SLB and SBLB glassy composition added sensor at 300.
+The number of reacted electrons for molecule , for SLB, SBLB(1121,1211,1221) sensors were 3.2, 11.5, 2.0, and 4.1, respectively.
+It is observed that the SBLB(1211) sensor has shown excellent Nernstian behavior than all other compositions with equal to 2, though the trend of SLB and SBLB(1221) sensors is also relatively good. 
+More content of the glassy oxide has shown adverse effect on the sensing properties of the  sensor.
+This result is in accordance with the low behavior of the SBLB(1211) composition as observed in DTA in Fig. 1.
+Hence, it can be concluded that addition of less  glassy oxide to the sensing electrode could help in reducing the operating temperature of the sensor.
+In case of SBLB(1121) the observed n value was 11.2. 
+This could be presumably due to the more non-Nernstian behavior shown by this combination. 
+This is the only combination tested among many others. 
+The with less content of is 1 mol% and its corresponding Tg value was content of high, similar to SBLB(1221), as shown in Fig. 1. 
+As a result, values obtained were also high as shown the corresponding in Fig. 5. 
+This may be due to the less boron content that would reduce the conductivity effect and may cause hindrance for Li ion transfer.
+Secondly, in this combination, since the content of was increased to 2 mol%, it would further deteriorate the sensing properties as compared to that of the SBLB(1221). 
+Fig. 6 shows the response and recovery of the SBLB(1211) sensor in dry as well as humid atmospheres (70% RH) at 300. 
+The sensor has shown almost a stable behavior with a maximum drift of 2% for dry as well as 30-70% RH humid conditions for all concentrations at 300. 
+A consistent behavior was all observed in the sensor over a considerable time period of one month.
+The presence of in the sensing material leads to stabilization of were added in 90 : 10  mol%, as a result, the melting temperature of the resulting mixture is decreased and then melted in its eutectic ratio at the eutectic temperature of about 610
+According to (4), will be formed during the partial decomposition of .
+On the other hand, the glass transition temperature observed on the onset of the exothermic curves (Fig. 1) for each SBLB composition reveals that decreased when boron and lithium were added in 2 : 1 mol% in addition to 1 : 1 mol%.
+It is a normal tendency that reduces with increase in content, which is observed in single and in mixed  former glasses, and is explained by considering some interaction between the modiﬁer and the matrix.
+Hence, in the case of SBLB(1211) composition, the content of lithium may be sufﬁcient enough to cause a low effect.
+Further increase in lithium, as in the case of SBLB(1221), would deteriorate the sensing properties due to the increase in with a corresponding increase in value (4.1) as observed in Figs. 1and 5.
+The more complex systems containing such glass former viz. 
+borophosphate gave even better results in terms of conductivity . 
+In mixed former glasses, conductivity could be enhanced by increasing the alkali metal content (Li). 
+The conductivity rises with the increase in lithium concentration due to an units in the glass matrix, increased number of tetrahedral on one hand, and increase in mobile ion concentration, on the other hand. In addition, the increase in boron content compared to bismuth also tends to increase the ionic conductivity.
+As is a typical glass-former and, a conditional is evident glass former, the competitive role of the from the network formation. 
+The conductivity of the glass network will also enhance with the addition of. 
+The bismuth  ion being more polarizable compared to boron, its presence in ionic networks acts as a polarizing unit facilitating migration. 
+The glasses with two glass formers exhibit higher conductivity due to mixed glass-former effect, and the presence of these modify the glass network and make it favorable for lithium ion mobility of the sensor at 300.
+Moreover, in order to further decrease the working temperature and to improve the sensing and recovery characteristics sensor, dioctyl phthalate (DOP) plasticizer is introduced into the sensing electrode. 
+The purpose of using the DOP plasticizer is to reduce the local viscosity thereby facilitating the ion mobility through the glassy sensing phase.
+This may enhance the ion mobility and hence increase the conductivity of the sensor. 
+This effect was tested in two glass 1 : 2 : 1 mol%) and systems, i.e., SBL 
+and SBLB(1211) loaded sensors. 
+Figs. 7 and 8 show the response and recovery characteristics of the sensors (a) without and (b) with the addition of the DOP at 350 and 200  respectively. 
+The sensor characteristics were drastically improved at lower temperature as shown in the Figs. 7 and 8.
+Dioctyl phthalate is the best plasticizer for improving the ion conduction properties of PEO based solid polymer electrolytes. 
+However, the increase in sensitivity in sensor may presumably be due to the formation of a stronger coordination bond between the phthalate ester group oxygen and ion.  
+The presence of conjugated double bonds in the phthalate ester group enhances the donor capacity of oxygen atom and thereby facilitates the formation of ion-ester group coordination.
+A low-temperature gas sensor has been developed by modifying the sensing electrode with a low glass transition tempreture borobismathate glass. 
+The glassy oxide composed was added in different mol% to of bi-carbonate sensing material. 
+It is observed behavior at that SBLB(1211) composition exhibits a low than the other combinations. 
+This sensor has shown excellent sensing properties and Nernstian behavior with n value equal to 2 at 300.
+The low along with an increase in  ionic conductivity is due to boron and bismuth oxides, which  would modify the glassy network favorable for ion mobility or migration and responsible for low operating temperature of the sensor. 
+Moreover, the sensor working temperature was further decreased to 200 and improved response and recovery  is observed with the introduction of the DOP plasticizer into the sensing electrode.
+
+

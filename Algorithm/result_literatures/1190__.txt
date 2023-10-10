@@ -1,0 +1,424 @@
+An  all-solid  state  symmetric  monolithic  sodium  ion  battery  operating  at  200°C  is  described, 
+
+using NASICON-type electrodes and electrolyte. Na3V2(PO4)3 is used at both electrodes as the 
+
+active  material  while  Na3Zr2Si2PO12  stands  the  role  of  the  Na+  solid  electrolyte.  Both 
+
+compositions  present  order-disorder  phase  transitions  and  present  decent  ionic  conductivity 
+
+properties, 1.5 x10-3 S.cm-1 and 1.9 x10-4 S.cm-1 at 200°C for Na3Zr2Si2PO12 and Na3V2(PO4)3, 
+
+respectively. The full battery (560 m m in thickness) was assembled in a 10’ single step by spark 
+
+plasma sintering at 900°C. The electrochemical characteristics at high temperature (200°C) were 
+
+evaluated thanks to a new experimental set-up. The battery operates at 1.8 V with 85 % of the 
+
+theoretical  capacity  attained  at  C/10  with  satisfactory  capacity  retention,  for  an  overall  energy 
+
+density of 1.87 x10-3 W.h/cm2 and a capacity of 1.04 mA.h/cm2. 
+
+
+Over the past decade, lithium-ion technology has become the leader of the energy storage market 
+
+for portable devices due to its high volumetric and gravimetric energy densities. However, the 
+
+increasing  demand  combined  with  possible  lithium  resources  restrictions  might  lead  to  a 
+
+prohibitive price of these batteries [1, 2]. Thanks to its low cost, sodium does not fall under the 
+
+same considerations and appears as a good alternative to lithium. However, safety issues related 
+
+to flammable liquid electrolytes remain a serious concern and become even more serious because 
+
+of the very high reactivity of sodium with moisture and oxygen. All solid-state batteries, which 
+
+use  non-flammable  ion-conducting  solid  electrolytes  instead  of  an  organic  liquid  electrolyte, 
+
+have been proposed as strong candidates for alternative energy storage devices [3-9]. 
+
+The 3-D NASICON framework has been extensively studied for its structural stability and fast 
+
+ion  conduction,  initially  as  a  solid  electrolyte  and  more  recently  as  a  host  for  reversible 
+
+insertion/extraction of Li+ or Na+ [10]. The seminal papers were reported in 1976 by Hong and 
+
+Goodenough [11, 12] for the solid solution Na1+xZr2SixP3-xO12 (NZSP, 0 < x < 3) with highest 
+
+conductivities of ~10-1 S.cm-1 at 300°C for 1.8 < x < 2.2 [13]. The exact values of these ionic 
+
+conductivities depend on the exact stoichiometry of the NASICON composition prepared, itself 
+
+sometimes  difficult  to  control  when  high-temperature  sintering  processes  are  required 
+
+(~1150°C).  Since  then,  it  has  been  widely  studied  as  a  solid  electrolyte,  especially  for  gas 
+
+sensors, ions sensors applications [14-17] and Na/S technology [18].  
+
+
+Gopalakrishnan  was  the  first  to  report  [19]  on  the  chemical  oxidation  of  NASICON 
+
+2(PO4)3  (Na+  extraction)  to  yield  the  new  mixed-valence  (V5+  and  V4+)  composition 
+
+V2(PO4)3,  thus  providing  the  possibility  of  exchanging  more  than  one  electron  per  transition 
+
+metal.  Later  on,  the  electrochemical  extraction  of  Na+  from  Na3V2(PO4)3  to  NaV2(PO4)3  was 
+
+shown to occur following a two-phase reaction at 3.4 V versus Na+/Na (for a theoretical capacity 
+
+of  117.6  mAh/g),  the  latter  phase  being  isotypical  with  NaTi2(PO4)3  [20-22].  Moreover,  as 
+
+shown as well by Yamaki et al. [20] and Patoux  [21], V3+ may be reduced to V2+ through the 
+
+insertion of one sodium towards Na4V2(PO4)3 at 1.6 V vs. Na+/Na (for a theoretical capacity of 
+
+58.8  mAh/g).  Therefore,  Na3V2(PO4)3  (NVP)  may  be  used  as  either  a  positive  or  negative 
+
+electrode  in  Na  batteries  and  offers  the  possibility  of  building  NVP  //  electrolyte  //  NVP 
+
+symmetrical cells capable of delivering 1.8 V, as reported by Okada et al. [23, 24]. 
+
+Recently, Aboulaich et al. [3] and  Delaizir et al [4] have demonstrated the benefits of using the 
+
+Spark Plasma Sintering technique (SPS) to assemble dense monolithic all-solid state lithium ion 
+
+batteries,  as  a  new  path  for  designing  safe  and  efficient  energy  storage  devices.  We  hence 
+
+decided  to  follow  this  approach  and  focus,  for  the  first  time  to  our  knowledge,  on  all-ceramic 
+
+dense  monolithic  Na-ion  batteries  based  on  symmetrical  Na3V2(PO4)3  /  Na3Zr2Si2PO12  / 
+
+Na3V2(PO4)3 cells that operate remarkably well at temperatures as high as 200°C. 
+
+
+Monoclinic,  NASICON-type  Na3V2(PO4)3  (NVP)  active  material,  was  prepared  by  solid-state 
+
+reaction. NaH2PO4 (Prolabo, 98%) and NH4VO3 (Sigma-Aldrich, 99%) precursors were mixed 
+
+(mortar)  in  stoichiometric  proportions,  heated  at  400°C  for  4  hours,  mixed  again  and  then 
+
+calcined at 750°C for 8 hours with intermediate grindings. The whole annealing procedure was 
+
+performed  under  an  argon-hydrogen  (5  vol%  H2)  gas  mixture  flow  to  reduce  VV  into  VIII,  as 
+
+described in [25]. 
+
+The solid electrolyte Na3Zr2Si2PO12 (NZSP) was prepared by a sol-gel method as described by 
+
+Zhou et al.[17]. Tetraethyl orthosilicate (Si(OC2H5)4, TEOS) (Sigma-Aldrich, 99%), Zirconium 
+
+tert-butoxide  (Zr(OC4H9)4)  (Sigma-Aldrich,  99.99%),  sodium  nitrate  (Sigma-Aldrich,  99.5%) 
+
+and ammonium di-hydrogenophosphate (Prolabo, 99%) were sequentially dissolved in a mixture 
+
+of  ethanol,  water  and  nitric  acid  at  70°C  under  vigorous  stirring  during  4  hours.  Then,  the 
+
+solution was dried in ambient air at room temperature for about 2 days to form a xerogel, then 
+
+dried in an oven at 100°C for an hour. The resulting white powder was heat treated at 900°C for 
+
+2 hours and grinded before annealing at 1100°C for 2 hours. 
+
+X-Ray  powder  diffraction  (XRD)  diagrams  were  collected  from  a  Bruker  D8  diffractometer  
+
+using the Cu-Ka
+
+ radiation, mounted in θ–θ configuration. High quality diffraction patterns were 
+
+recorded  overnight  between  2θ  =  10°  and  2θ  =  100°  by  steps  of  4.5  sec./0.01°.  Differential 
+
+scanning  calorimetry  (DSC)  measurements  were  performed  using  a  Netzsch  DSC  204  F1 
+
+apparatus  operating  at  heating/cooling  rates  of  10  K.min-1  between  20  and  300°C  under  argon 
+
+For  ionic  conductivity  measurements,  dense  ceramic  pellets  of  Na3V2(PO4)3  (NVP)  and 
+
+Na3Zr2Si2PO12 (NZSP) were prepared as follows. In each case, ~250 mg of powder was placed 
+
+in a 10 mm graphite die and cold-pressed at 50 MPa at 298 K. The so-formed pellets were then 
+
+sintered in a FCT Spark Plasma Sintering apparatus at 93 K.min-1 up to 900°C for 10 minutes 
+
+under an applied pressure of ~ 100 MPa and under vacuum. The temperature was monitored by a 
+
+thermocouple in contact with the die. The resulting pellets were polished and then metalized on 
+
+each face by Platinum sputtering using a Bal-Tec SCD 050. The obtained pellets were 10.1 mm 
+
+in diameter, 0.3 mm and 0.5 mm in thickness for NZSP and NVP, with overall compactnesses of 
+
+72%  and  93%,  respectively.    Conductivity  measurements  were  performed  between  20-300°C, 
+
+both  upon  heating  and  cooling,  under  static  Argon,  using  the  device  illustrated  in  figure  1, 
+
+consisting mainly in a silica tube embedded between two Swagelok® cells.  
+
+The pellet sample sits in the middle of the cell and is connected electrically to both sides through 
+
+two  extended  stainless  steel  pistons.  The  high  temperature  cell  is  placed  in  a  custom  tubular 
+
+furnace for precise temperature regulation with a thermocouple placed right besides the pellet. 
+
+The  conductivity  was  monitored  using  a  Biologic®  VMP3  analyzer  and  impedance  data 
+
+acquisition was made over the frequency range 100 mHz to 200 kHz at intervals of 10 points per 
+
+decade with an applied voltage of 20 mV. 
+
+For the fabrication of monolithic all-solid-state NVP // NZSP // NVP batteries, each positive and 
+
+negative electrode contained 25% of NVP, 60 % of NZSP and 15 % of Carbon Super P, i.e. a 
+
+rather  low  active  material  content.  Given  that  Na3V2(PO4)3  can  be  either  reduced  towards 
+
+Na4V2(PO4)3  (1  Na+  exchanged  in  the  negative)  or  oxidized  towards  NaV2(PO4)3  (2  Na+ 
+
+exchanged in the positive), positive and negative electrodes were fabricated using 40 and 80 mg 
+
+of the above-mentioned NVP/NZSP/CSP mixtures, respectively. In between the electrodes, the 
+
+total mass of Na3Zr2Si2PO12 solid electrolyte used was of only 30 mg. The all solid state battery 
+
+was first assembled, layer by layer, in a 10 mm diameter graphite die using an uniaxial press at 
+
+50 MPa under ambient temperature. The monolithic battery was then sintered at 900°C using the 
+
+SPS machine, as described in the previous section and then polished and metalized on both sides 
+
+with  Pt.  The  electrochemical  tests  were  carried  out  on  a  Biologic®  VMP3,  using  the  high 
+
+temperature cell described in figure 1. Galvanostatic cycling with potential limitations (GCPL) 
+
+were performed between 0 V and 2.2 V. 
+
+Generally  speaking  NASICON  compositions,  and  especially  Na1+xZr2SixP3-xO12,  crystallize 
+
+under rhombohedral symmetry except below a certain temperature and for specific composition 
+
+ranges (1.8 < x < 2.2 in NZSP) were the lattice may be distorted to lower symmetry (monoclinic) 
+
+as  a  result  of  Na+  ion  ordering  on  both  M(1)  and  M(2)  crystallographic  sites.  Above  the 
+
+transition  temperature  from  the  monoclinic  ordered  state  to  the  rhombohedral  disordered  state 
+
+(generally  between  90°C  and  200°C),  these  materials  become  “SuperIonic  CONductors”, 
+
+characterized by a lowered activation energy for ionic conduction [26, 27].  
+
+The full pattern matching refinements of the XRD data of NZSP and NVP samples are gathered 
+
+in  figure  2.  The  NZSP  white  powder  is  composed  of  ~ 50  m m-sizes  particles  (as  revealed  by 
+
+SEM)  and  was  successfully  indexed  using  the  C2/c  space  group  with  unit-cell  parameters  a  = 
+
+15.616(6)  Å,  b  =  9.030(3)  Å,  c  =  9.211(3)  Å  and  β  =  123.83(1)  °,    in  good  agreement  with 
+
+literature  [11,  26].  Besides  the  Na3Zr2Si2PO12  phase,  tiny  amounts  of  zirconia  and  of  an 
+
+unidentified  phase  (sodium  silicates  and/or  sodium  phosphates)  were  detected.  The  obtained 
+
+NVP dark green powder is considered as phase-pure of ~ 10 m m-sizes particles and can be, as a 
+
+first  approximation,  indexed  in  a  C2/c  monoclinic  cell  similar  to  that  of  NZSP,  with  
+
+a = 15.112(1) Å, b = 8.727(1) Å, c = 8.824(1) Å and β = 124.54(1) °. As of yet, we were not able 
+
+to fully solve this complex superstructure, which disappears when the temperature is raised and 
+
+finally  yields  to  a  rhombohedral  Na+-disordered  phase  above  200°C,  [25,  28]  as  for 
+
+Na3Fe2(PO4)3 [29]. Our interpretation of the diffraction data of Na3V2(PO4)3 differs significantly 
+
+with recently published literature [22, 23, 30-32].  
+
+The  thermal  behaviors  of  Na3V2(PO4)3  (NVP)  and  Na3Zr2Si2PO12  (NZSP)  were  investigated 
+
+through DSC experiments under Ar, reported in figure 3a.  
+
+•  For NZSP, one can hardly detect a reversible tiny  thermal phenomenon at ~155°C that 
+
+corresponds  to  the  well  documented  transition  to  the  superionic  state  in  NASICON 
+
+compositions  [13,  26,  27,  33,  34].  As  reported  by  Boilot  et  al.  [33],  the  material’s 
+
+preparation  method  and  the  sintering  temperature  in  particular,  impact  greatly  on 
+
+temperature-dependent  effects  of  such  thermally  activated  transition.  Our  material, 
+
+prepared via a sol gel route and a short sintering at 1100°C for two hours may not have 
+
+reached the high degree  of crystallinity (and of purity) necessary for  observing a sharp 
+
+phase order-disorder phase transition, as discussed in [33].  
+
+•  For  NVP,  we  observed  two  reversible  thermal  phenomena  at  ~109°C  and  ~175°C 
+
+corresponding to order-disorder transitions within the sodium sub-network, over the M(1) 
+
+and M(2) crystallographic sites, as previously described and discussed for Na3Fe2(PO4)3, 
+
+Na3Ti2(PO4)3  and  Na3Cr2(PO4)3  [35-37].  Some  of  us  confirmed,  from  temperature-
+
+controlled  neutron  and  synchrotron  powder  diffraction,  these  order-disorder  transitions 
+
+The variations of log10 s
+
+ versus 1000/T for NZSP and NVP are reported in figure 3b, for both 
+
+heating and cooling sequences. For NZSP, one can distinguish two linear domains with different 
+
+activation  energies,  below  and  above  (140  ±  15)°C,  in  agreement  with  the  DSC  data  and 
+
+published  literature  [26,  27,  33].  The  low  temperature  and  high  temperature  regions  are 
+
+characterized by activation energies of 0.21 and 0.11 eV, respectively, i.e. smaller than most of 
+
+the reported data. Our data, obtained from a pellet with 72% of compacity, fit well with those 
+
+obtained by a similar sintering route (SPS, 900°C) [38] and are representative of the Na+ ionic 
+
+conductivity that will be reached within the solid state battery itself. For Na3V2(PO4)3, the data 
+
+follows some sort of diffuse transition profile that can be approximated by three linear domains 
+
+with 0.31, 0.55 and 0.21 eV of activation energies within temperature ranges in coherence with 
+
+the thermal phenomena  detected via DSC. The significant decrease of the activation  energy  at 
+
+high  temperature  vs.  low  temperature  is  characteristic  of  order-disorder  transitions  towards  a 
+
+superionic conducting phase into which Na+ ions are disordered [11, 12].  
+
+Na3Zr2Psi2O12  and  Na3V2(PO4)3  were  then  assembled  as  the  electrolyte  (NZSP)  and  the 
+
+electrodes  (NVP)  of  an  all  solid  state  symmetrical  battery  as  they  present  decent  ionic 
+
+conductivity properties, of 1.5 x10-3 and 1.9 x10-4 S.cm-1 at 200°C, respectively. The realization 
+
+of  such  battery  necessitated  several  important  steps  of  optimizations  and  compromises,  as 
+
+described by Aboulaich et al. [3] and Delaizir et al. [4].  
+
+As  described  in  the  experimental  section,  the  NZSP  electrolyte  was  sandwiched  between  the 
+
+positive and negative electrodes, each of them being constituted of 25% NVP, 60% NZSP and 
+
+15% Carbon. In order to prevent possible decomposition of the Na3V2(PO4)3 active material, the 
+
+SPS sintering temperature of the whole battery was set to a maximum temperature of 900°C for 
+
+10  min.,  after  which  a  dense  self-supported  three-layer  pellet  with  satisfactory  mechanical 
+
+properties  was  obtained  (fig.  1).  Figure  4  illustrates  the  respective  thicknesses  of  the  battery 
+
+components and shows excellent distribution of NVP and NZSP particles within each electrode 
+
+as well as remarkable interfaces even for a thickness of solid electrolyte layer of 130 µm.   
+
+Figure 5 gathers the galvanostatic cycling at 200°C of the all solid state battery, for current rates 
+
+of C/10 and C/2, between 0 and 2.2 V. The potential limitations were selected so that optimal 
+
+capacity of  Na3V2(PO4)3 could be attained at both negative and positive electrodes, given that it 
+
+can  be  either  reduced  (Na3V2(PO4)3   1)  Na4V2(PO4)3  at  1.6  V  vs.  Na+/Na)  or  oxidized 
+
+(Na3V2(PO4)3  1) NaV2(PO4)3 at 3.4 V vs. Na), hence providing a theoretical voltage of 1.8 V for 
+
+the symmetrical charged cell. 
+
+During  the  first  charge  up  to  2.2  V  at  C/40,  an  unexpected  (and  still  not  understood)  extra 
+
+capacity (+25%) was observed and disappeared  upon further cycling, as  witnessed by the nice 
+
+reversibility  of  the  reaction  attained  at  C/10  during  the  3rd  cycle.  Subsequent  cycling  is 
+
+satisfactory (for this kind of all solid state technology) and rates as high as C/2 could be attained 
+
+with decreased capacities, though, within the same potential windows. The shape of the V = f(x) 
+
+data at slow rate, displayed as a non polarized plateau with almost theoretical capacity reached 
+
+(95%  at  C/40)  suggests  that  the  electrochemical  reactions  at  both  negative  and  positive  
+
+electrodes are biphasic, even though they were performed at 200°C. At increased charging and 
+
+discharging  rates,  smaller  capacities  and  higher  polarization  result  most  likely  from  kinetic 
+
+limitations  (both  ionic  and  electronic)  within  the  NVP  active  material  (non  carbon-coated  and 
+
+with large grains) and possibly within the NZSP solid electrolyte as well that constitutes 60 wt% 
+
+of each electrode. When the battery was cycled back at C/10 after 20 cycles at C/2, the capacity 
+
+was almost recovered with, however, significant increase of the polarization. As revealed by the 
+
+SEM picture of figure 4b, this probably originates from cracks within the particles (and hence 
+
+loss  of  ionic  and/or  electronic  contact)  due  to  significant  unit-cell  volume  changes  of 
+
+Na3V2(PO4)3 when Na+ is inserted (+4%) or extracted (-8%).  
+
+The  characteristics  and  performances  of  the  sodium  solid  state  battery  described  here  are 
+
+reported in table 2 and compared to other related works in this field of research. Compared to the 
+
+previous  work  of  Noguchi  et  al.  [23]  on  the  same  NVP  /  NZSP  /  NVP  system,  the  operating 
+
+temperature of 200°C and the monolithic conception via the SPS technique allowed us to reach 
+
+85% of the theoretical capacity of the material at C/10, i.e. 97 m A/cm2 (vs. 58% at a current rate 
+
+of 1.2 m A/cm2 in [23]). Ohtomo et al. [7] report on performances higher to than ours when using 
+
+sulfur  based  glass  electrolytes  at  room  temperature:  the  capacity  per  gram  of  battery  of  11.8 
+
+mA.h  is  surely  larger  than  ours  (5.1  mA.h)  for  an  average  potential  of  3.8  V  of  their  system 
+
+compared  to  1.7  V  in  our  case.  It  should  be  noted  too  that  the  variations  in  total  gravimetric 
+
+capacity  (of  the  pellet)  are  highly  dependent  on  the  percentage  of  active  material  vs.  solid 
+
+electrolyte as well as on the molecular weight of the solid electrolyte itself. We obtained quite 
+
+similar capacity retention properties as well, still to be improved with powder morphologies and 
+
+ratios engineering.  
+
+We reported here on the electrochemical performances of an all-solid state monolithic symmetric 
+
+NASICON-based sodium ion battery, assembled by the SPS technique, operating at 200°C. For 
+
+this  purpose,  a  specific  high  temperature  electrochemical  cell  has  been  constructed  and  shows 
+
+remarkable stability on operation, up to 250°C. This technique and the development of suitable 
+
+solid  electrolytes  stable  at  high  voltage  vs.  Li  (or  Na)  should  allow  studying  new  reaction 
+
+mechanisms within Lior Na-based rechargeable batteries.  To this end, and in order to improve 
+
+the  overall  reactions  within  the  electrodes  as  well  as  the  overall  gravimetric  capacity  reached, 
+
+further developments need to be addressed and our efforts will focus on:     
+
+  Preparing  smaller  and  homogeneous  (in  size  distribution)  particles  of  both  solid 
+
+electrolyte and  electroactive materials 
+
+  Optimizing the Solid Electrolyte vs. Electrode materials vs. Carbon ratio so as to ensure 
+
+optimal percolation for high loadings of active materials. Recent successful operation of 
+
+monolithic batteries with 40 wt% of active material within each electrode paves the way 
+
+for future significant improvements of global energy density of such batteries.  
+
+  Further  reducing  the  electrolyte  layer’s  thickness  so  as  to  decrease  the  overall  battery 
+
+resistance. It should be noticed, though, that the more the thickness is reduced, the harder 
+
+it is to avoid short-circuits 
+
+  Developing  alternative  synthesis  routes  so  as  to  obtain  phase  pure  and/or  composite 
+
+structures containing both electrode and electrolyte compositions.  

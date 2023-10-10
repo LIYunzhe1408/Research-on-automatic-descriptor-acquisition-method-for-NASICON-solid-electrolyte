@@ -1,0 +1,112 @@
+As the most promising candidate of the solid electrolyte materials for future lithium batteries, oxide electrolytes with high–lithium-ion conductivity have experienced a rapid developmentin the past few decades.
+
+Existing oxide electrolytes are dividedinto two groups, i.e., crystalline group including NASICON,perovskite, garnet, and some newly developing structures, andamorphous/glass group including Li2O–MOx (M = Si, B, P,etc.) and LiPON-related materials.
+
+After a historical perspective on the general development of oxide electrolytes, we try togive a comprehensive review on the oxide electrolytes withhigh–lithium-ion conductivity, with special emphasis on theaspect of materials selection and design for applications assolid electrolytes in lithium batteries.
+
+Some successful examplesand meaningful attempts on the incorporation of oxide electrolytes in lithium batteries are also presented.
+
+In the conclusion part, an outlook for the future direction of oxideelectrolytes development is given.
+
+B ATTERIES based on lithium as working medium, i.e.,lithium batteries, especially those using Li metal asanode, are of considerable interest because of the lightestequivalent weight (6.94 g/mol) and the highest electropositivity (3.04 V vs standard hydrogen electrode) of lithiumamong metals, which gives rise to high cell voltages andenergy densities.
+
+Additionally, Li metal, if used as anode,i.e., in the case of lithium-metal batteries, can much moreeasily be handled at room temperature (RT) when comparedwith the other alkali metals.
+
+Compared with liquid counterparts, solid electrolytes are nonflammable, free from problems of corrosion, leakage, and evaporation, and exhibit theintrinsic potential to prevent internal cell short circuit causedby direct contact of active electrode components and the possibility for miniaturization using thin-film-processing techniques.
+
+Therefore, lithium batteries using solid electrolytes,i.e., all solid-state lithium batteries (ASLBs), are regarded tobe intrinsically safe with largely enhanced cycle life as compared with the commercial ones using organic liquid electrolytes, thus holding high promise to be used in large scalefor energy storage in transportation and grid balance (electrical utility load leveling).
+
+To be used as solid electrolytes in lithium-based batteries,especially in the future wide applications for large scaleenergy storage, the materials should ideally have high–lithium-ion conductivity (e.g., >104 S/cm) at RT,1 negligibleelectronic conductivity (i.e., the Li+ ion transference numberclose to unity), wide electrochemical window (e.g., >6 V vsLi+/Li) and stability with respect to adjacent electrodes, stability against heat treatment and moisture/aqueous solution,suitable mechanical properties, ready availability of chemicalconstituents, ease of fabrication, and reasonable cost.
+
+WhenLi metal is used as anode, the stability against Li metal isalso required.
+
+In the first prototypical ASLB developed by Liang et al.2,3in 1969, LiI was used as electrolyte.
+
+Shortly after, anothertype of LiI-based battery became commercially available,being successfully used in cardiac pacemaker.
+
+However, LiIexhibited low ionic conductivity (about 107–106 S/cm at27°C),5 thus can only be suitable for low drain batteries withthin film separators so that the contribution of the LiI electrolyte to the total resistance of the battery can be minimized.
+
+In addition, LiI is extremely hygroscopic and softensat about 100°C, limiting its wide applications.
+
+Li3N was another lithium-ion conductor investigatedintensively over the same period of LiI, while exhibitingmuch higher conductivities (over 103 S/cm at RT for its single crystals6).
+
+However, Li3N was shown to be unstableunder potentials higher than 0.44V7,8 or in contact withatmosphere.
+
+ Plus, the two-dimensional (2D) conduction nature renders the conductivity of polycrystalline Li3N to beorders of magnitude lower than its single crystalline form.
+
+LiBH4 is a newly discovered lithium-ion conductor withelectrochemical stability of up to at least 5 V (vs Li+/Li).
+
+It also has advantages10,11 of light weight, low grain-boundary resistance, and high stability to chemical reaction with Limetal and graphite-based anodes.
+
+However, the acceptableionic conductivity can only be achieved above 120°C, wherea transition from low temperature phase (insulator) to hightemperature phase (lithium-ion conductor) occurs.
+
+Byincorporation of lithium halides,13 lithium amide,14 or rareearth chlorides15,16 into LiBH4, RT conductivities of 105–104 S/cm can be obtained, but the resultant materials areusually less stable than LiBH4 either thermally orelectrochemically.
+
+ Moreover, the applications of LiBH4-based materials as electrolyte is also restricted by theirsensitivity to moisture and reactivity with oxide cathodematerials.
+
+Solid lithium-ion electrolytes, which show promising futurefor applications in ASLBs, can be divided into three categories: polymers, sulfides, and oxides.
+
+Polymer electrolytesoffer advantages of easy processibility and flexibility overinorganic solid electrolytes, and thus are useful for flexiblelithium batteries for powering wearable devices.
+
+One subclassof polymer electrolytes, gel polymers, as a “quasi-solid” transitional generation of the kind, have already been utilized incommercial lithium batteries based on Bellcore technology.
+
+22However, such gel electrolytes could bring about new problems associated with lower mechanical strength and lesschemical stability.
+
+Sulfide electrolytes have become attractivedue mainly to the high ionic conductivity together with lowtemperature processing.
+
+RT conductivities of 103–102 S/cmhas been reported in several sulfide systems, e.g., thioLIthium SuperIonic CONductor (thio-LISICON),23 Li2SP2S5 glass-ceramics,24,25 and Li101MP2S12 (M = Ge, Sn,Si).
+
+The applications of sulfide electrolytes may be largely accelerated once the main problem associated withhygroscopicity is properly tackled.
+
+Since we are not goingto talk about polymers and sulfides in details in this review,readers who are interested can reach to earlier reviewarticles.
+
+Compared with other inorganic solid lithium-ion conducting compounds such as halides and sulfides, oxide lithiumion conductors are generally more stable against ambient airand high temperature, thus can easily be handled duringmanufacture and operation of devices.
+
+ Moreover, oxide electrolytes are superior for their easier accessibility of raw materials.
+
+Accordingly, looking for appropriate solid electrolytesfrom oxide lithium-ion conductors for future lithium-basedbatteries has attracted ever-increasing interests.
+
+In thisreview, we will mainly focus on recent progress in such oxideelectrolytes, with special emphasis on the aspect of materialsselection and design for applications as solid electrolytes inlithium batteries.
+
+Although the focus of this review is put on recent progress inpromising oxide electrolytes, it is still hard to cover allaspects, since this topic is continuing to develop rapidly.
+
+Asdiscussed earlier, oxide electrolytes can basically be dividedinto two types: crystalline state and amorphous/glass state.
+
+Amorphous/glass oxide electrolytes exhibit low lithium-ionconductivities, but can be incorporated in thin-film ASLBsby thin-film fabrication techniques.
+
+ LiPON is a good example for the successfully commercial application.
+
+For crystalline oxide electrolytes, early investigated materials withsimple structures generally exhibit low conductivities, thuscould only be used at high temperatures.
+
+Newly developedstructures, including NASICON, perovskite, and garnet, arehighly conductive for Li+ ions, making the ASLBs becomeviable.
+
+Although some prototypes of ASLBs based on thesenewly developed oxide electrolytes have been proposed, muchwork still remains for their real applications.
+
+Specifically, major candidates with NASICON or perovskite-type structure contain ions such as Ti4+ that can bereduced below certain reduction potential, giving rise to electronic conductivity that may cause short circuit of the battery.
+
+Perovskite-type oxide electrolytes also suffer from highgrain-boundary resistance which suppresses the total conductivity to a relatively low level.
+
+Garnet-type oxide electrolytesare free from the easy reduced problems but plagued by therelative sensitivity to ambient air.
+
+Concerning to the assembly of the whole solid state battery, the severe sintering conditions of all the above newly developed oxide electrolytesare also problematic.
+
+Although several meaningful attemptshave been done, the performance of the batteries is still farfrom satisfaction.
+
+In general, the development of oxide electrolytes is goingthrough the period from searching for appropriate materialsby trial and error to application-oriented materials design.
+
+The development increasingly benefits from new advancedcharacterization techniques and calculations/simulations.
+
+Besides experimentally investigating oxide electrolytes withcomplicated structures, calculations/simulations can also offera facile route for designing oxide electrolytes with new structures.
+
+It is expected that high throughput calculations/simulations techniques will play a more important role inaccelerating the development of oxide electrolytes.
+
+A good battery performance relies on elaborate design ofthe battery structure and appropriate choice of fabricationtechniques.
+
+To this end, new emerging fabrication techniques,such as 3D printing,336 that can implement fabrication ofcomplicated structures, deserve more attention.
+
+Besides, asimilar structure of the electrolyte to that of the electrodematerial could also contribute to better battery performancesince the “structural match” concept may lead to a bettercompatibility and reduce interfacial resistance between adjacent battery components.
+
+Massive introduction of highlylithium-ion conductive interfaces with disordered structureprovides a new approach to enhance the conductivity ofoxide electrolytes.
+
+Much work remains to be done to exploitthese concepts.
+

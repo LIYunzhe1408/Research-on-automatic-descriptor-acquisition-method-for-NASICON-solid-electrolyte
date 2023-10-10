@@ -1,0 +1,12 @@
+The aspects of structure, dipole ordering, and ionic conductivity of the Na3Cr2(PO4)3 crystal withthe four polymorphic phases (α, α', β, and γ) have been investigated.
+The features of the α-Na3Cr2(PO4)3 crystalstructure and its dipole ordering and relaxation polarization in the low-temperature α and α' phases havebeen refined.
+The occurrence of Na3Cr2(PO4)3 dipole ordering in the α and α' phases and high ionic conductivityin the β and γ phases is attributed to the structural changes in the rhombohedral {[Me2(PO4)3]–3}3∞ crystalframe upon phase transformations α → α', α' → β, and β → γ.
+A model for explaining the dipole orderingand ionic conductivity phenomena in Na3Cr2(PO4)3 is proposed.
+(i) It was proved that the α-Na3Cr2(PO4)3 crystalstructure is characterized by the superstructural antiferroelectricordering.
+At the phase transitions α → α',α' → β, and β → γ in the Na3Cr2(PO4)3 crystal, theevents of a sequential crystal symmetry increase occur.
+The α'-Na3Cr2(PO4)3 crystal is a dielectric, althoughits conductivity is higher than that of α-Na3Cr2(PO4)3due to the partial elimination of the monoclinic distortionof the crystal frame.
+A noticeable increase inthe conductivity at the phase transition α' → β, yet aninsignificant decrease in the activation energy allow usto consider β-Na3Cr2(PO4)3 as an almost superionicphase.
+A noticeable increase in the conductivity and thecorresponding activation energy drop at the phasetransition β → γ allow us to conclude that γ-Na3Cr2(PO4)3 is a superionic conductor.
+(ii) It was demonstrated that the α-Na3Cr2(PO)3structure facilitates the formation of low-mobilitycompensated statistical sodium dipoles weakly interactingwith the external electric field.
+It was establishedthat the relaxation polarization in the dielectricα'-Na3Cr2(PO)3 phase has a Debye character and therelaxators are compensated sodium dipoles.
+The β andγ phases are characterized by the fast relaxation processescaused by the presence of mobile sodium cationsin the A and B cavities of the crystal frame.

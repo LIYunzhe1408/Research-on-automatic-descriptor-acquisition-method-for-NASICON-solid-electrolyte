@@ -1,0 +1,80 @@
+All solid-state sodium-ion batteries (SS-SIBs) are promising lowcost  and  high-safety  alternatives  to  today’s  lithium-ion  batteries  (LIBs),  especially  large-scale  energy  storage  systems  (ESSs).
+However,  a  critical  challenge  for  developing  safe  SSSIBs is the lack of sodium solid-state electrolytes with high-ionic  conductivity  comparable  to  organic  liquid  electrolytes  (OLEs)  (~1.0× 10-2 S cm−1 at RT).
+Sulfide glass and oxide ceramic sodium-ion conductors are  two kinds of common inorganic crystalline SSEs.
+Usually, sulfide  electrolytes have higher ionic conductivities than that of oxides at  RT, but sulfide electrolytes create unfriendly environments, easily  releasing  toxic  H2S  gas.
+In  1976,  Hong  et. al  discovered  NASICON-type Na3Zr2Si2PO12, and at RT, its conductivity is ~1.0  ×  10-3  S  cm-1.
+β/β″-alumina  superionic  conductors  are  already  commercialized,  however,  mainly  in  high-temperature  Na-S  batteries,  due  to  poor  conductivity  at  RT.
+None  of  these materials  has  acceptable  stability  in  sodium-ion  systems.
+And  poor  electrolyte-electrode  contact  complicate  large-scale  application.
+Remarkably,  layered  oxides  have  a  degree  of  freedom  to  expand the interstitial space between strongly-bonded 2D layers.
+Thus,  large  Na+  ions  gain  a  large  migration  space  in  layered  compounds more easily than in close-packed oxide ceramic hosts  that are bonded strongly in three dimensions.
+Larger migration  paths induce longer Na−O bonds to decrease the attractive force  between  Na+  and  the  O2-,  facilitating  Na+  ions’  migration.
+Therefore, considerable attention has been given to exploring the  intercalation and diffusion of Na in lamellar oxides.
+In 2011, a  new family of layered sodium compound, Na2M2TeO6 (M = Ni, Co,  Zn, Mg), was discovered.
+In this family, NZTO has the largest  interlayer space (~5 Å), which provides a large Na+ ion migration  path.
+Furthermore,  there  are  no  variable  valence  elements  in  NZTO, which guarantees it as a potential Na+ ion conductor for  SS-SIBs.
+In  the  present  work,  we  report  a  Na-ion  SSE  of  Na2-xZn2xGaxTeO6  (NZTO-Gx,  x  =  0,  0.05,  0.1,  0.15,  respectively,  i.e.,  NZTO,  NZTO-G0.05,  NZTO-G0.1,  NZTO-G0.15).
+The  highest  Na+  ion  conductivity  of  1.1  ×  10-3  S  cm-1  at  RT  is  achieved  in  NZTO-G0.1  with  respect  to  the  endmember  compounds  NZTO  and  NZTO-G0.15,  which  is  most  likely  related  to  the  reduced  amount of Na+ ions between the layers and agrees with a recent  report  of  NaFeO2-related  structure  Na3−xSn2−xSbxNaO6  (x  =  0.8  with a maximum conductivity of 1.43 × 10-3 S cm-1 at 500 °C).
+Na-NMR  studies  reveal  that  the  conductivity  improvement  stems from an interlayer cation deficiency, which is also a simple  way to create phases with deficient Na layers.
+Figure 1a shows the crystal structure of NZTO with a P6322  space group.
+The layers are comprised of two ZnO6/3 octahedra  and  one  TeO6/3  octahedral  ordered  in  the  plane  with  a  shared  edge,  and  each  TeO6/3  octahedral  is  surrounded  by  six  ZnO6/3,  forming a honeycomb structure while Na+ ions are ordered in the  plane  between  two  honeycomb  layers.
+Actually,  NZTO  has  two  different  Zn  sites,  2b  (Zn1)  and  2d  (Zn2),  while  both  of  their  polyhedra are formed by six regular bonds with different lengths,  2.013 Å and 2.011 Å, respectively.
+Meanwhile, NZTO has three  different Na sites, 6g (Na1), 2a (Na2), and 4f (Na3).
+Na1 is located  midway between two tetrahedral holes, formed by two ZnO6/3 and  one  TeO6/3  octahedra  and  a  large  vacancy  is  introduced  in  the  Na1-site by Ga3+ ion substitution in the Zn-site of NZTO.
+Na2 is  sandwiched between the triangular faces of the ZnO6/3 octahedra,  and Na3 is between the ZnO6/3 octahedra and TeO6/3 octahedra.
+Based  on  a  molecular  dynamics  (MD)  simulation  of  Na+  ion transport  in  Na2Ni2TeO6  (NNTO),  Na+  ions  migrate  from  Na1  to  Na2,  but  with  less  contribution  from  Na3  because  the  potential  energy of Na1 and Na2 (−2.45 eV and −2.65 eV, respectively) is  much  lower  than  that  of  Na3  (−2.32  eV).
+However,  our  bond  valence  sum  (BVS)  studies  show  that  Na3  has  nearly  equal  potential  energy  to  Na1  and  Na2  in  Na2Zn2TeO6  (NZTO)  (see  Figure S1, Supporting Information) because the repulsion of Na+  with Zn2+ of NZTO is much less than that of Na+ with Te6+ of NNTO.
+Furthermore, compared to fresh as-prepared samples, the lattice  parameters  of  a  one-month-stored  sample  have  no  significant  change  (see  Figure  S7,  Supporting  Information),  which  reveals  another key factor for SSE consideration.
+Figure  1.  a)  Transformation  of  partial  crystal  structure  before  and  after  Ga conductors prepared by conventional solid-state reactions.
+The crystal parameters of NZTO are a = b = 5.2874 (1) Å  and c = 11.2781 (4) Å, and most reflections can be indexed in the  P6322  space  group.
+Obviously,  the  superlattice  reflections  are  observed  at  l-odd-index  peaks  (101  and  103),  as  well  with  two  weak  l-even-index  peaks  (100  and  102).
+This  means  solely  Zn  atoms  occupy  the  columns,  which  comports  with  Evstigneeva’s  results.
+The  refinement  parameters  and  crystallographic  data  of  NZTO-Gx are shown in Table S1, Figure S2 and S3 (Supporting  Information),  respectively,  graphed  in  Figure  S4  (Supporting  Information).
+As Ga content x increases, the lattice parameter of  a decreases, confirming the introduction of Ga into the compound  given the smaller radius of Ga3+ (0.69 pm) than that of Zn2+ (0.74  pm).
+As shown in Figure 1a, Ga enters into the Zn2 site selectively  and preferably.
+Meanwhile, Na1-site vacancies are generated in  the  NZTO-Gx  system,  which  is  consistent  with  the  lattice  parameter trend that exhibits shrinking of the honeycomb layer.
+The morphologies  of  cross  sectional  of  NZTO-Gx samples  are  investigated by scanning electron microscopy (SEM, see Figure  S5, Supporting Information), investigating that the partical size of  all NZTO-Gx samples are ~2μm.
+The thermogravimetric analysis  (TGA)  and  differential  scanning  calorimetry  (DSC)  curves  displayed in Figure S6a and Figure S6b (Supporting Information)  show a less than 1% weight loss and a small endothermic peak  observed  at  100  ºC,  which  are  mostly  related  to  the  water  absorbed  on  particle  surfaces  and  a  little  hygroscopy.
+The details of total conductivity are shown in Table  1  and  Figure  S8d  (Supporting  Information).
+Figure  S8c  (Supporting  Information)  shows  DC-polarization  properties  of  NZTO-Gx.
+The stabilized currents of NZTO-Gx are much smaller  than  the  initial  current.
+This  illustrates  that  the  resistance  of  electronic conductivity is much lower than the ionic one in NZTOGx.
+The electronic conductivities of NZTO-Gx are shown in Table  1.
+The ratios of electron conductivity in total conductivity are less  than  0.1%,  which  proves  that  NZTO-Gx  are  real  Na+  ion  conductors.
+Table 1. Total resistance and conductivity, electron resistance and conductivity at room temperature and activation energy data for NZTO-Gx (x = 0−0.15) 
+As a result, Ea of NZTO and NZTO-G0.1 are  0.327 eV and 0.271 eV, respectively (see Figure 2b and Table 1).
+Figure 2c shows representative Nyquist plots of NZTO-G0.1 at a  temperature range of 50°C to 120 °C.
+As shown in Nyquist plots  at  120  oC,  the  high-frequency  semicircle  vanished.
+This  phenomenon is attributed to the increasing relaxation frequency  of  the  bulk  NZTO-G0.1  caused  by  temperature-dependent  resistance.
+Table  2. Activation  energy  for  NZTO,  NZTO-G0.1  and  other  oxide  Na  conductors prepared by conventional solid-state reaction 
+Figure  2d  displays  the  Arrhenius  curves  of  NZTO,  NZTOG0.1  and  typical  sodium  oxide  SSEs.
+At  about  100  oC,  NZTOG0.1  gives  a  higher  ionic  conductivity  than  single  crystal  β/β″alumina,  Na3Zr2Si2PO12  and  Ti-doped  NASICON,  but  lower  than  Y-doped  NASICON.
+Table  2  shows  the  Ea  of  each  oxide  that  SSEs  displayed  in  Figure  2d.
+NZTO-G0.1  gives  a  lower  Ea  than  NASICON,  and  its  ionic  conductivity is higher than other sodium oxide solid electrolytes,  except  for  Y-doped  NASICON.
+The  main  reasons  could  be:  (i)  large  ionic  migration  interlayers  in  NZTO-G0.1.Because  Ga3+  substitution  does  not  change  the  crystal  structure  of  NZTO  and  the  size  of  the  Na+  migration  pathway  in  NZTO-G0.1  is  5.58  Å,  larger  than  that  of  NASICON  and  β/β″-alumina,  inducing  longer  Na−O bonds and decreasing attractive force between Na+ and O2-.(ii)  Enough  Na-site  vacancies  in  NZTO-G0.1.
+These  vacancies  not  only  increase  the  concentration  of  current  carriers,  but  decrease the migration energy (Em) of sodium ionic because of  a  similar  ionic  radius  of  Ga3+  with  Zn2+,  and  no  distortion  is  generated in the crystal structure.
+Figure  3.  a)  23Na  NMR  spin-lattice  relaxation  rates  𝑇1 temperature for NZTO and NZTO-G0.1. (b) Ea calculated by EIS from bulk Na-  −1   versus  inverse ion conductivity of NZTO and NZTO-G0.1 compared with Em calculated by 23Na 
+Figure  3a  shows  23Na  NMR  spin-lattice  relaxation  rates  𝑇1versus  respectively.
+For these two samples,  𝑇1−1  temperature  of  NZTO  and  NZTO-G0.1,  −1  increases linearly to a maximum and then drops off with increasing temperature.
+At the  maximum, the motional correlation time (i.e. the Na+ hopping time  𝜏 )  is  optimal  for  the  frequency  distribution  to  be  effective  for  relaxation,  and  condition  𝜔0𝜏 ≈ 1   is  fulfilled.
+In  Figure  3a,  as  −1 ≈ 6.6 × 108 s-1 of  𝜔0/2𝜋 =105.8 MHz, the Na+ hopping rate  𝜏0 the two samples can be reached at the different temperature.23Na  NMR results show that the two sample diffusion coefficients are  5.46 × 10-12 and 12.35 × 10-12 m2 s-1 at 65 oC, respectively.
+Figure  3b displays that the comparison of two samples, Ea and Em from  EIS and NMR, respectively, shows these two kinds of results are  significantly close, 0.136 eV and 0.12 eV for NZTO, and 0.07 eV  and 0.05 eV for NZTO-G0.1, and they both confirm each other.
+Figure  4.  a)  Cyclic  voltammogram  in  a  Na/NZTO-Gx/Steel  cell  (x  =  0,  0.1) between −0.5V and 4.5 V at scanning rate of 5 mV s-1. b) Cyclability of NZTO and NZTO-G0.1 in  a symmetric Na/NZTO-Gx/Na (x = 0, 0.1) cell  with current density  of  0.1  mA  cm-2  at  45  °C.  c)  Charge/discharge  curves  of  NVP/NZTO-Gx/Na (x = 0, 0.1) with 0.2 C at 80 oC.
+The insert displays the polarization of the two cells and d) cycle performance of NVP/NZTO-Gx/Na (x = 0, 0.1) with 0.2 C 
+Figure  4a  shows  the  electrochemical  stability  of  NZTO-Gx  with  metallic  Na  investigated  by  cyclic  voltammetry  (CV)  measurements in Na/NZTO-Gx/Steel cells.
+Obvious anodic peaks  appear  at  close  to  4.5  V,  which  shows  that  NZTO-Gx  are  electrochemically  stable  in  conjunction  with  metallic  Na  with  similar  electrochemical  windows  of  ~4.0  V  and  no  adverse  side  reactions.
+Figure 4b displays Galvanostatic cycling of a symmetric  Na/NZTO-Gx/Na cell with a current density of 0.1 mA cm-2 at 45  oC.
+The  results  demonstrate  that  sodium  is  plated  and  stripped  fully reversibly with a low over-potential reaching a maximum of  ~50 mV for 50 cycles, the resistances of Na and NZTO-G0.1 is  ~225  Ω  calculated  by  Galvanostatic cycling,  smaller than  of  Na  and NZTO is ~360 Ω.
+Importantly, the stability between NZTO-Gx  SSEs and the metallic Na anode has been significantly improved  by Ga substitution.
+Figure  4c  shows  the  charge  and  discharge  curves  of  NVP/NZTO-Gx/Na (x = 0, 0.1) cells with a current rate of 0.2 C at  80  oC.
+These  solid-state  batteries  with  NZTO-G0.1  electrolyte  illustrate a smaller polarization and a higher reversible capacity of  ~70 mAh g−1 over 10 cycles at 80  oC.
+The EIS of the solid-state  batteries with NZTO and NZTO-G0.1 were shown in Figure S10,  the  total  resistance  of  solid-state  batteries  with  NZTO-G0.1  is  much  smaller  than  with  NZTO,  illustrated  that  Ga  doping  can reduce the resistance of SS-SIBs.
+Figure 4d shows the two kinds  of SS-SIBs exhibit excellent cycle performances at 80 oC.
+Though  the  performance  of  SS-SIBs  is inferior  to conventional  batteries  with  liquid  electrolyte  (See  Figure  S10)  and  the  Coulombic  efficiencies of SS-SIBs with NZTO-0.1G is only ~70% (see Figure  S11), the performance of the two kinds of SS-SIBs demonstrate  that  NZTO-Gx  compounds  are  applicable  as  electrolytes  for  fabricating advanced SS-SIBs.
+In  summary,  we  report  a  novel  NZTO-G0.1  superionic  conductor as a solid electrolyte for SS-SIBs.
+This solid electrolyte  requires a simple solid-state synthetic route and shows excellent  chemical  stability  under  ambient  conditions.
+Moreover,  remarkable  electrochemical  stability  with  a  metallic  Na  is  also  demonstrated.
+Importantly,  it  also  gives  an  amazing  ionic  conductivity of 1.1 × 10-3 S cm-1 at RT as a result of a large 2Dreticulate  Na-ion  migration  pathway  provided  by  its  layered  structure, which benefits fast Na+ ion transport.
+Combining  23NaNMR,  EIS  and  BVS  analyses  with  electrochemical  results,  the  extraordinary conductivity in NZTO-Gx is mainly attributed to Nasite vacancies slightly decreasing the number of mobile Na+ ions.
+Meanwhile, it facilitates Na+ ion motion by increasing the mobility  of the Na+ ions.
+The discovery of these layered sodium-ion SSEs  will lead to a progressive development of SS-SIBs.

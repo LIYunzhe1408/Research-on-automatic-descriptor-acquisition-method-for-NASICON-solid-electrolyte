@@ -1,0 +1,10 @@
+The sodium ions in Na3Zr2Si2PO12 (NASICON) weresubstituted with protons using an electrochemical alkali−proton substitution(APS) technique at 400 °C under a 5% H2/95% N2 atmosphere.
+The sodiumions in NASICON were successfully substituted with protons to a depth of<400 μm from the anode.
+Completely protonated NASICON, i.e.,H3Zr2Si2PO12, was obtained to a depth <40 μm from the anode, althoughcomplete protonation of NASICON cannot be achieved by ion exchange inaqueous acid.
+H3Zr2Si2PO12 was amorphous, whereas the partially protonatedNASICON was crystalline, and its unit cell volume decreased with an increasein the extent of substitution.
+Amorphous H3Zr2Si2PO12 was prepared bypressure-induced amorphization of the NASICON framework, in which aninternal pressure of ∼3.5 GPa was induced by the substitution of large sodiumions with small protons during APS at 400 °C.
+The temperature forion exchange in aqueous acid, i.e.<100 °C, is not sufficient todevelop structural reorganization, relaxing the internal pressure.
+The extent of substitution of alkali ions with protons istherefore limited up to the internal pressure, at which theframework structure is stable, without structural reorganization.
+As a result, the sodium ions in NASICON cannot becompletely substituted with protons using ion exchange inaqueous acid, and the substitution is limited to (Na0.9H2.1)-Zr2Si2PO12. In contrast, in the case of APS, a temperature of400 °C is just enough to develop structural reorganization,relaxing the internal pressure.
+The sodium ions in NASICONcan therefore be completely substituted with protons.
+However,the temperature is not sufficient to develop reconstructivetransformations.

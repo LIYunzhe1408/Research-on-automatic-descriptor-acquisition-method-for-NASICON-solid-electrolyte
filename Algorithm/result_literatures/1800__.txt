@@ -1,0 +1,7 @@
+New trivalent Al3+ ion conductors with NASICON type structure, [Al0.2(Zr1–xTix)0.8]20/19Nb(PO4)3 and (Al1–xLax)4/19(1 – x)Zr(16 – 19x)/19(1 – x)Nb(PO4)3, were developed and their ion conducting properties were investigated.
+The lattice size of the NASICON type(AlxZr1–x)4/(4-x)Nb(PO4)3 series was successfully controlled by intentionally doping Ti4+ ion or La3+ ion in the crystal lattice, and the mostsuitable lattice size for the Al3+ ion conduction was identified from the relationship between the Al3+ ion conductivity and the lattice volume.
+The highest ion conductivity of 6.1 at 600 -C was obtained for [Al0.2(Zr0.8Ti0.2)0.8]20/19Nb(PO4)3 among the NASICON typephosphate series prepared.
+Since the Al3+ ion conduction was dependent upon the crystal lattice size, it was demonstrated that the crystallattice volume can be one of the key factors to optimize the ion conduction in the NASICON type structure.
+The lattice volume of the NASICON type (Al0.2Zr0.8)20/19Nb(PO4)3 structure was successfully controlled by intentionallydoping Ti4+or La3+in the crystal lattice.
+Among thepresent NASICON type phosphate series, [Al0.2(Zr1–xTix)0.8]20/19Nb(PO4)3 (x =0.2) solid was found to possessthe most suitable lattice size for the Al3+ ion conductionwith regard to the relationship between the lattice size andthe Al3+ ion conductivity.
+Since the Al3+ ion conductiondepends on the crystal lattice volume, the lattice volume hasbeen identified to be a key factor to realize the optimizationof the individual ion conduction in the NASICON typestructure.

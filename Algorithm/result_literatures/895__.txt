@@ -1,0 +1,69 @@
+Preparation of sodium zirconium silicate phosphate (NaSICon), Na1+xZr2SixP3 – xO12 (0.25 ≤ x ≤ 1.0), thin films hasbeen investigated via a chemical solution approach on platinized silicon substrates.
+
+Increasing the silicon content resultedin a reduction in the crystallite size and a reduction in the measured ionic conductivity.
+
+Processing temperature was alsofound to affect microstructure and ionic conductivity withhigher processing temperatures resulting in larger crystallitesizes and higher ionic conductivities.
+
+ The highest room temperature sodium ion conductivity was measured for an x = 0.25composition at 2.3 3 10 – 5 S/cm.
+
+The decreasing ionic conductivity trends with increasing silicon content and decreasing processing temperature are consistent with grain boundary anddefect scattering of conducting ions.
+
+S OLID-STATE ion-conducting thin films are of interest forsmall-scale and mobile energy storage applications.
+
+Theuse of solid-state ion conductors as separators in ion batterychemistries is advantageous under consideration of safetyand packaging requirements.
+
+For example, in lithium ionbatteries solid inorganic ion conductors can be inherentlymore robust against dendrite formation,2 which can piercepolymer membranes leading to short circuits and potentialfor combustion of liquid electrolytes.
+
+Existing solid-state thinfilm battery technologies rely primarily on configurationswith lithium phosphorus oxynitride (LiPON) ion conductors.
+
+The ease of preparation by physical vapor approaches, ability to deposit films at room temperature, and electrochemicalstability over a broad voltage range makes LiPON an attractive option.
+
+LiPON, however, is hindered by a relatively lowlithium ion conductivity (~2.3 9 106 S/cm at 25°C),3 whichcan impart a large internal resistance to the battery and limitusage in applications requiring high power performance.
+
+Thislimitation has led to investigations of alternative separatormaterials with higher ionic conductivities.
+
+Processing andelectrochemical stability challenges of these alternative ionconductors have limited their deployment.
+
+To circumvent these challenges, research into sodium ionbatteries has been undertaken.
+
+Here, the existence of superionic conductors such as b-Al2O3 and Na1+xZr2SixP3xO12(sodium super ionic conductor, or NaSICon) presents anopportunity for the preparation of high power solid-statebatteries.
+
+To be applicable for thin film batteries, however,preparation methods of these materials must be demonstrated.
+
+We have previously shown that the phosphate endmember of NaSICon, NaZr2P3O12, can be prepared via achemical solution deposition approach using an alkoxidebased chemistry.
+
+We demonstrated that preparation on platinized silicon substrates results in preferentially (012)-textured films with room temperature ionic conductivities ashigh as 5 9 107 S/cm.
+
+This value is two times higher thanhas been reported for bulk materials of the same composition,8 which we attribute to increased density—the bulkceramics were reported to be 85%–90% dense—in the thinfilm samples.
+
+This high ion conductivity with respect to bulkceramic counterparts notwithstanding, this value remains lowcompared to other thin film ion conductors, such as LiPON.
+
+A means to increase the ionic conductivity of NaSICon isto substitute silicon (and an additional sodium for chargebalance) for phosphorus.
+
+By replacing phosphorus with silicon, the size of the lattice openings through which sodiummust travel are increased, leading to increasing ionic conductivity with increasing silicon content.
+
+Room-temperatureionic conductivities of 6 9 104 S/cm are possible for compositions substituting two silicon for phosphorus (x = 2),10which is the composition of peak ionic conductivity in NaSICon.
+
+Compositions containing silicon in excess of x = 2result in a decrease in ionic conductivity owing to a decreasein the size of the lattice openings for sodium transport.
+
+Whilethese trends have been widely demonstrated in bulk materials,11 reports on the preparation of silicon-containing NaSICon films are limited.
+
+ In many of the reports that doexist it is not readily evident that phase-pure NaSICon filmshave been successfully prepared.
+
+In this work we present ourefforts to incorporate silicon into NaSICon thin films prepared via chemical solution deposition on platinized siliconsubstrates.
+
+We will show that small amounts of silicon(x = 0.25) can be incorporated with significant increases inthe ionic conductivity, but that further increases in the siliconcontent do not result in commensurate increases in ionic conductivity.
+
+This diminished (and decreasing) ionic conductivityfor silicon levels >0.25 is attributed to decreased crystalliteand grain size, resulting in an increased number of grainboundaries and possibly defective crystallites for the giventhermal constraints imposed by the substrates.
+
+In summary, we have prepared Na1+xZr2SixP3xO12 thinfilms in the composition range of x =0.25 to x = 1.0 viachemical solution deposition.
+
+The following general trendswere found:(1) Increasing the silicon content from x = 0.25 to 1.0resulted in a decrease in crystallographic texture anda decrease in the average crystallite size in the films.
+
+Increasing process temperature from 750°C to 800°Cresulted in an increase in the average crystallite sizefor most compositions.
+
+The highest room-temperature ionic conductivity wasobserved for the x = 0.25 composition processed at800°C.
+
+Increasing the silicon content and/or decreasing the processing temperature resulted in a decreasein the measured ionic conductivity.
+The observed trends of decreasing ionic conductivitywith increasing silicon content can be correlated witha decrease in crystallite size.
+

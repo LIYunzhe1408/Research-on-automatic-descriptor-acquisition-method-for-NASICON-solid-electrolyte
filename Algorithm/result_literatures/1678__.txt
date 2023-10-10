@@ -1,0 +1,57 @@
+The high-temperature enthalpy increments of the phosphates La1/3Zr2(PO4)3, Nd1/3Zr2(PO4)3, Eu1/3Zr2(PO4)3 and Lu1/3Zr2(PO4)3 have beenmeasured by high-temperature drop calorimetry in the temperature range 484.5–1090.7 K.
+From these results the heat capacity of the studiedcompounds has been derived.
+Among the various compounds that are considered forradioactive waste immobilization, the attention has beendrawn to the phosphates with a framework-type structure ofNaZr2(PO4)3, generally abbreviated asNZP.
+The structureof this phosphate was first studied in 1968 .
+A natural mineralKZr2(PO4)3, isostructural with the Na-analogue was discoveredin 1991 and named kosnarite .
+A number of useful propertiesattributed to this structure make NZP-based phosphates alsoattractive for designing newcompositions for other applications:low thermal expansion materials, catalysts, ionic conductors,luminescent materials and some others.
+The uniqueness of NZP compared to other waste forms is theability to include a large variety of cations in its structure, basedon the principles of isovalent and heterovalent isomorphism thatis possible for different cation positions of the structure.
+This is an undeniable advantage with regard to complex wastecompositions.
+Two types of crystallographically nonequivalentstructural positions are available for cation substitutions in theNZP structure .
+These are framework positions of Zr andinterstitial positions of Na.
+NZP-type phosphates containing f-elements (lanthanides) arereported in literature in several papers and these studiesindicate that lanthanide cations can occupy both framework andinterstitial positions of the structure.
+However, they can onlyexist as framework forming cations in case their radius does notexceed ∼90 pm, e.g.from 86 pm (Lu3+) to 91pm (Dy3+).
+Moreover,the concentration limit of their inclusion into frameworkpositions depends on the cationic size and rapidly decreaseswith radius increase.
+Apparently, incorporation of americium(rAm3+ = 98 pm), plutonium (rPu3+ = 100 pm), other actinides(III) and lanthanides, nuclear fission products, in these positionswill be hampered.
+Trivalent f-element cations of biggersize, the lanthanides Ce-Tb, enter interstitial positions, but alsothe lanthanides of smaller size Dy-Lu can be found in thisposition.
+In this case the compounds with the general compositionLn1/3Zr2(PO4)3 are formed .
+Detailed investigation ofthese compounds by IR spectroscopy carried out in showedthe reduction of symmetry, accompanied with the change ofspace group from R¯3c in AZr2(PO4)3 (A = alkali metals) to R¯3 inB1/2Zr2(PO4)3 (B = alkaline-earth metals and some d-elements)and to P¯3c in R1/3Zr2(PO4)3 (R = rare earths).
+In most papers published such rare earth element (REE)phosphates are considered as future ionic conductors, luminescentmaterials or thermo mechanically stable compounds.
+Theirstudy is also very relevant to the immobilization of long-livedactinides to achieve their isolation from the biosphere over thelong time periods required for their storage and disposal, as thelanthanides can be used a proxy.
+However, there are only a fewpapers available on this topic .
+A number of questions stillremain open, among which that of their thermodynamic properties.
+While thermodynamic properties of NZP phosphates with1- and 2-valent cations in the interframework positions of theNZP structure have been reported in several papers , dataon the phosphates with 3-valent cations, including lanthanides,were not found.
+In this paper we report the high-temperature enthalpyincrement of the phosphates La1/3Zr2(PO4)3, Nd1/3Zr2(PO4)3,Eu1/3Zr2(PO4)3 and Lu1/3Zr2(PO4)3 measured using dropcalorimetry in the temperature range 485–1091 K.
+From theresults the heat capacity of these compounds has been derived.
+The precipitation method was used for the synthesis of the R1/3Zr2(PO4)3(R = La, Nd, Eu, Lu) compounds .
+Weighed amounts of the rare earth oxidesR2O3 (99.99%) were dissolved in a diluted nitric acid solution and mixed witha stoichiometric amount of ZrOCl2 solution (92.136 g l−1 Zr4+).
+Next, the stoichiometricamount of H3PO4 solution (8.5%) was added continuously to theobtained mixed solutions under constant stirring and heating.
+The precipitatesthus obtained were subsequently dried and thermally treated at 400 ◦C (24 h),600 ◦C (24 h) and 800 ◦C (24 h) in air.
+Each stage of heating was followedby careful grinding in an agate mortar.
+The powders were pressed into pellets,repeatedly heated at 800 ◦Cfor 20 h and subsequently used for the measurements.
+The X-ray diffraction (XRD) analyses of the samples for calorimetric measurementswere performed using a Seifert XRD3003HR diffractometer (Seifert& Co GmbH, Germany) in a range 15 < 2θ < 60, with a step of 0.02 and a counttime of 15 s/point, using CuK radiation.
+They indicated the presence of hexagonalNZP phases with no additional peaks from impurities.
+No significant changeswere found for the XRD patterns of the samples performed after the calorimetricmeasurements.
+Differential thermal analysis (DTA) and thermogravimetric analysis (TG)of the samples were performed using a Netzsch STA 449 C device, in aluminacrucibles, from room temperature up to 1400 ◦C.
+The samples mass used for themeasurements varied from 33.33 mg to 51.14 mg.
+Oxygen gas (70 ml min−1)was used as an atmosphere.
+The heating rate was 10Kmin−1.
+The drop-calorimetric measurements were performed with a Setaram HTCcalorimeter that was described in an earlier paper .
+All the measurementswere performed in air.
+Pieces of pure platinum (2mm diameter, massfraction purity 0.9995 Pt, Goodfellow Cambrige Ltd.) of typical masses(127.8–347.7) mg were used as a caloric standard.
+The background subtractionevaluations and peak integration were made using the DSCEval software.
+The DTA curves of all four R1/3Zr2(PO4)3 compounds arecharacterized by the presence of several exothermal effectsappearing between 850 and 1220 ◦C, which must be attributed toa decomposition process as is described in .
+As an example,the DTA/TG curves for La1/3Zr2(PO4)3 are given in Fig.1. 
+TheDTA/TG curves for the other studied compounds were similarexcept that peaks positions varied in a small range, conformingto specific temperatures of each compound.
+The correspondingmass loss occurred from approximately 960 ◦C on.
+This factgives evidence for the closeness of crystallization and decompositiontemperatures in the studied compounds.
+Bearing thatin mind, the upper temperature limit for the thermodynamicmeasurements by high-temperature drop calorimetry has beenassigned to be 1090 K.
+The enthalpy increment data of the R1/3Zr2(PO4)3 compoundsbeing studied are given in Table 1 and shown in Fig.2.
+The values at each temperature correspond to an average of 3to 4 sample drops for each isothermal run.
+After the first fitting, we estimated that C0p(298.15 K) should be around 380 JK−1 mol−1,and a consistent set of estimated values was derived, presentedin Table 2. Then the enthalpy data were fitted with the estimatedC0p(298.15 K) as constraint.
+The corresponding a and bcoefficients for each compound are listed in Table 2.
+As can be seen in Fig.3, the heat capacity curves showa regular behaviour which can be interpreted as follows.
+La1/3Zr2(PO4)3 and Lu1/3Zr2(PO4)3 represent the 4f0 and 4f14electronic configurations of the Ln3+ ions, and the heat capacityof these compounds are composed of a lattice component only.
+Nd1/3Zr2(PO4)3 has a 4f3and Eu1/3Zr2(PO4)3 a 4f6electronconfiguration of the Nd3+ and Eu3+ cations, respectively, as aresult of which an electronic (excess) contribution is present.
+The lattice heat capacity varies gradually within isostructuralseries, as our studies of a series of LnPO4 monazite compounds have shown.
+Due to the excess heat capacity the curves ofNd1/3Zr2(PO4)3 and Eu1/3Zr2(PO4)3 cross the Lu1/3Zr2(PO4)3curve at about 900 K.
+The same trend was observed for theLnPO4 series .

@@ -1,0 +1,14 @@
+Structures of the two M0.50SbFe(PO4)3 (M=Mg, Ni) phases, abbreviated as [Mg0.50] and [Ni0.50],were determined at room temperature from X-ray diffraction (XRD) powder data using theRietveld analysis.
+Both compounds belong to the NASICON structural family.
+XRD patterns of[Mg0.50] and [Ni0.50] phases were easily indexed with a primitive hexagonal unit cell [P3 spacegroup, Z = 6] similar to that already obtained for La0.33Zr2(PO4)3. Obtained unit cells parametersare [a = 8.3443(1) Å, c = 22.3629(1) Å], and [a = 8.3384(1), c = 22.3456(1) Å], respectively, for[Mg0.50] and [Ni0.50] phosphates.
+In both samples, the [Sb(Fe)(PO4)3]− NASICON framework is preservedand a partially-ordered distribution of Sb5+ and Fe3+ ions is observed.
+Raman spectroscopicstudy was used to obtain further structural information about the nature of bonding in [Mg0.50] andM0.50SbFe(PO4)3 (M=Mg, Ni) phosphates are preparedand characterised by XRD and Raman spectroscopy.
+Bothsamples crystallise in P3, which is a relatively new spacegroup in the NASICON-type materials.
+In both phases, the[SbFe(PO4)3]− NASICON framework is preserved and a partially-ordered distribution of Sb5+ and Fe3+ ions is observed.
+The three M2+ cations of the unit cell are preferentially locatedas follows: one in the M(1b) (0, 0, 0.5) site and the two othersone are in the M(2d′) (1/3, 2/3, ∼0.17) site.
+Both M(1b) and M(2d′) sites correspond to the M1(3b) sites frequently reportedin NASICON structure with R3 space group.
+Analysis of distancevalues between the centre of each 1a and 2d sites, whichboth correspond to the M1(3a) sites of R3 space group, andoxygen atoms surrounding them, confirms the fact that thesetwo sites are normally assumed to be empty in [Mg0.50] and[Ni0.50] phases.
+Crystallographic results we obtained forboth latter samples clearly show that structures ofM0.50Ti2(PO4)3 (M=Mg, Co) phosphates could be solvedwithout problems in the P3 space group instead of the twoR3c or R3 ones.
+Raman study is consistent with the obtainedcrystal structures.
+In fact, results from the factor group analysishave allowed us to follow the reduction of symmetry from R3in [Ca0.5] to P3 space group in both [Mg0.50] and [Ni0.50]phosphates.
+All Raman spectra show characteristic PO4 vibrationsand the stretching modes of SbO6 groups are observed atsignificantly higher frequency (570 and 670 cm−1) thanstretching modes of FeO6 groups (∼375 cm−1).

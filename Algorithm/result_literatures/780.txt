@@ -1,0 +1,13 @@
+The graphene coated NaTi2(PO4)3 has been fabricated via a simple sol-gel process followed by calcination.
+The NaTi2(PO4)3/graphene (NTP/G) composite is used directly as cathode electrode material for lithiumion battery and the electrochemical properties of the composite in this system is firstly studied in detail.
+In the charge-discharge process, two Li+ can occupy octahedral M (2) site and be reversibly intercalated into the 3D framework of NTP through the ion conduction channel where almost all of Na+ are immobilized to sustain the framework.
+At 5C rate, the capacity retention of the NTP/G composite after 800 cycles is still up to 82.7%.
+The superior electrochemical properties of NTP/G is ascribed to its stable 3-D framework and the enhanced electronic conduction resulting from the graphene sheets surface modification.
+In summary, the electrochemical properties of the NTP/G com-posite is firstly studied in detail when used as cathode electrodematerial for LIBs.
+The SEM and TEM analysis confirmed that the NTPparticles are well coated with graphene sheets.
+The NTP attachedto graphene sheets displayed the better electrochemical perfor-mances than NTP from the electrochemical test.
+At different currentrates of 0.1, 1, 2 and 5C, the NTP/G composite deliveres initialcapacity of 136.1, 124.9, 117.3 mAh g−1and 82.6 mAh g−1, respec-tively.
+Even after 800 cycles at 5C rate, the capability of the NTP/Gremained about 68.3 mAh g−1(82.7% retention).
+The morphologyof NTP/G composite conducted after 800 cycles at 5C and the cor-responding Ex situ XRD patterns demonstrate that almost all ofNa+remain immobilized to sustain the stable 3-D framework dur-ing fast Li+ion diffusion.
+The EIS results suggest that the increasedelectronic conductivity of graphene sheets may contribute to thegood electrochemical performance of NTP/G composite.
+The supe-rior electrochemical properties of NTP/G is ascribed to its stable 3-Dframework and the enhanced electronic conduction resulting fromthe surface modification of graphene sheets.

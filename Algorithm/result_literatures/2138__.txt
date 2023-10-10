@@ -1,0 +1,60 @@
+Lithium aluminium titanium phosphate (LATP) is one of the most highly conductive, air stable, lithium ceramic electrolytes [1]. In LATP, lithium ions move through tunnels in a NASICON-type structure. Gromov et al. [2] have partially substituted V and Nb for phosphorus in LATP and observed an increase in the conductivity of the system. These conductivities were measured at a single frequency (1 MHz), however, this frequency is not
+
+representative of either the bulk or the total conductivity. Previous work has shown Cole–Cole plots in which the grain boundary component of impedance produces an arc which extends from well above 1 MHz down to the kHz region [3]. Hence the literature data does not provide clear information about the mechanism of the conductivity enhancement, in particular whether the grain boundary or bulk conduction of In addition, there appears to be a discrepancy between published conductivity data [1,2] and this may be a result of the different processing routes used.
+
+the system is enhanced.
+
+In this work we have synthesised a series of Al, V and Nb substituted lithium titanium phosphate ceramics, comparing a number of different processing methods, including those previously published [2,4]. These materials have been characterised and compared using AC impedance spectroscopy, XRD and SEM.
+
+Grind high purity materials. Fire at 260–2708C until frothing ceases. Calcine at 9008C for 2 h using a 25% O –Ar gas. Ball mill in ethanol for 3 h. Material dried by distillation. Calcine at 9008C for 2 h using a 25% O –Ar gas. Ball mill in ethanol for 4 h. Material dried by distillation. 2–3 mm pellets with 3% PVA, 6 t for 1 h. Pellets sintered at 10008C for 2 h under 25% O –Ar gas.*
+
+Powder ground to 63 micron and pressed into pellets. Pellets annealed at 6508C for 2 h using 25% O –Ar gas. Pellets ground, 2–3 mm pellets with 3% PVA, 6 t for 1 h. Pellets sintered at 10008C for 2 h under 25% O –Ar gas.
+
+Grind high purity materials.
+
+Fire at 260–2708C until frothing ceases in a glassy carbon crucible. Ball mill in ethanol for 4 h. Material dried by distillation. 2–3 mm pellets with 3% PVA, 6 t for 1 h. Pellets sintered at 10008C for 2 h under 25% O –Ar gas.
+
+Grind high purity materials.
+
+Fire at 260–2708C until frothing ceases in a glassy carbon crucible. Grind to 63 micron.
+
+Calcine at 4508C for 1 h, then 9008C for 2 h. Ball mill 1 h in ethanol. Dry material by rotory evaporation. 2–3 mm pellets with 3% PVA, 6 t for 1 h. Pellets sintered at 10008C for 2 h under 25% O –Ar gas.
+
+The details of the preparative procedures examined are summarised in Table 1. High purity starting materials from Aldrich were used throughout. Pellets for conductivity examinations were prepared in all cases by pressing the powder into a 13 mm diameter die at 170 MPa for 1 h. The pellet was then sintered at 10008C for 2 h.
+
+AC impedance measurements were performed at DE 5 1 V, over a frequency range of 20 Hz–13 MHz. It was found that the nature of the electrodes was crucial in resolving the grain boundary arc in the Cole–Cole plot, as observed previously by Inaguma et al. [3]. In this work, we have compared graphite, silver and gold electrodes, as well as combinations of these, in order to obtain well deﬁned impedance arcs. Pellets used for conductivity measurements were 12 mm in diameter and 2.5 mm thick. Impedance data was measured using HP4192A and HP4924 impedance analyzers.
+
+SEM was used to determine particle morphology as well as the extent of the grain boundary sintering, which affects the grain-boundary resistance, and hence overall conductivity. A Jeol 840A SEM with Oxford 6211 Energy Dispersive Spectrometer was used.
+
+Measurements of Li solid state NMR static spectra were recorded on a Bruker CXP spectrometer interfaced with a Tecmag system at 300 K. More experimental details can be found in the accompanying paper in these proceedings [5].
+
+Samples were examined using XRD in order to ensure the correct product had been synthesised and to determine whether any starting materials or additional phases were present in the material. These measurements were carried out on a Rigaku Geiger Flex XRD using CuKa at 0.0288 sampling interval, over a 10–708 range.
+
+Fig. 1 shows Cole–Cole plots obtained using the different electrodes. It was found that graphite alone is too resistive and tends to dominate the impedance values, whilst silver ink did not produce good adherent electrodes even though the ﬁlm resistance was quite low. Gold sputtered electrodes, commonly used in this area, are difﬁcult to apply in a sufﬁciently thick layer to overcome the surface roughness of the pellet. Consequently, as seen in Fig. 1, the Cole–Cole plots remain unresolved due to electrode impedance. The best electrodes were obtained in this work by using a combination of a sputtered gold layer over which a silver ink layer was applied (see Fig. 1c).
+
+The equivalent circuit proposed by Bruce et al.
+
+which is thought to best describe the observed impedance behaviour in most ceramic electrolytes, was used to understand the Cole–Cole plots obtained in this work. The impedance is represented by a bulk resistance and capacitance that are thought to originate from ion motion within individual crystals. The boundary region between individual crystals, which may be partly made up of a disordered phase of the same or different composition to the bulk, and which is also contributed to by voids and cracks between crystals, is represented by a further resistance-capacitance pair which appear in series with the bulk resistance. Thus, the key elements measured in this work are the bulk resistance (R ) of the individual crystal grain and the grain boundary resistance (R ) gb representing the interface region; the bulk and grain boundary capacitances are given by C and C , gb respectively. R was obtained from the 13 MHz impedance value, which appeared to be the beginning of a plateau in the impedance-frequency diagram. R was determined from the reactance minimum before the onset of the electrode spike.
+
+Table 2 presents a summary of the bulk and grain boundary conductivities determined from the measured resistances. Density values and activation energies determined from conductivity vs. tempera-
+
+ture plots are also included in Table 2. Li linewidth measurements of the central transition (full width at half maximum, FWHM) are also listed.
+
+The typical porosity and morphology of the ceramic pellets is evident from Fig. 2, which shows an SEM photo of the Li Al Ti 4 0.1 composition. The predominant morphology appears to be cubic particles of size approximately 1 mm. Comparisons of theoretical density with measured densities conﬁrm the large extent of porosity visible here ( . 10%). Sintering appears to be incomplete and hence a large grain boundary resistance is to be expected.
+
+Table 3 shows X-ray unit cell data presented as a function of Al, V and Nb substitution in the basic LTP ceramic. All patterns are consistent with an R3c unit cell, with slightly varying cell dimensions as a function of composition. These XRD patterns suggest that the reactions are complete since there is no evidence of the presence of starting materials. Only one peak at 25.68 is common to both the basic LTP structure and one of the starting materials, TiO . In all patterns, there is, however, evidence of other low intensity peaks, in particular in the region 2u5 27– 288. Such peaks have previously also been reported [4]. A search of possible by-products was under-
+
+The results presented above indicate that the method of processing is of key importance in producing high conductivity in these materials. For example, the method published by Gromov et al. [2] involves at least one less processing step as compared with that of Aono et al. [4], which appears to correlate with the uniformly lower conductivity results in the former case. The additional methods employed in this work, shown in Table 1, also result in lower overall conductivities. The use of an Ar–O2 atmosphere results in lower conductivities. There appears to be a correlation also between the extent of sinterability (ie. ﬁnal density) and total conductivity. The conductivity measurements can be normalised to approximately take account of the ﬁrst order effect of differing ﬁnal density (or porosity) by calculating the ratio of conductivity/density, as shown in Table 2. From this, it can be seen that, although density is a key factor, the only processing factor inﬂuencing ﬁnal conductivity. 
+As previously reported [4] the degree of densiﬁcation appears to be improved by the substitutions investigated here. This improvement in densiﬁcation may be associated with extra intergranular low melting or glassy phases which can act as ﬂuxes to improve sinterability and conductivity. The XRD patterns conﬁrm the presence of some minor phases, in particular in the V-LATP system. This would suggest that the detailed conditions of composition, pressure, temperature and time of sintering are further key factors in determining total conductivity.
+
+In contrast to previous literature [2], no evidence of an enhancement of conductivity was found upon substitution of V or Nb into LATP. All conductivities measured in the V-LATP system prepared via the Aono et al. method had higher conductivities (at 13 MHz and grain boundary) than the optimum of the Gromov et al. values. This is further evidence supporting the importance of processing/ sintering
+
+Fig. 2. SEM micrograph of (a) sintered LATP and (b) LATP-V (V5 0.1). Both prepared according to the method of Aono et al.
+
+It may be possible to predict changes in ionic conductivity by measuring the mobility of the lithium ions in these materials. This can be achieved using Li NMR spectroscopy. Table 2 shows that with increasing V content, the Li static linewidth steadily increases, indicative of a decreasing lithium ion mobility. One would therefore predict that V substitutions in LATP will not enhance the bulk conductivity of the electrolyte.
+
+
+This work has examined the effect of various aspects of processing and measurement methodology on the lithium ion conductivity of LTP based ceramics. The conductivity is resolvable into bulk and grain-boundary components, although electrode impedance may obscure the latter component in the
+
+case of several of the commonly used electrode materials. Differences in processing between recent literature reports has been shown to be a key factor in determining the conductivities observed and also, more importantly, in the nature of the observed trends.
+

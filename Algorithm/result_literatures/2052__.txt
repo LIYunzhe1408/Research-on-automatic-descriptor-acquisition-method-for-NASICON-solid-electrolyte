@@ -1,0 +1,131 @@
+Environmental Gas Sensors
+
+Duk-Dong Lee and Dae-Sik Lee
+
+Abstract—Due to the dramatic growth in industrial development and population, the natural atmospheric environment has become polluted and is rapidly deteriorating. Thus, the monitoring and control of such pollutants is imperative to prevent environmental disasters. Conventional analytic instruments for this purpose are time consuming, expensive, and seldom used in real-time in the field. As such, a solid-state gas sensor that is compact, robust, with versatile applications and a low cost, could be an equally effective alternative. Accordingly, this paper presents a brief overview of solid-state gas sensors, which can be classified into semiconductor, capacitor, and solid-electrolyte type sensors, based on their sensing mechanisms and a simple NDIR instrument. Furthermore, the sensing properties of solid-state gas sensors to environmental gases, such as NOX, SOX, CO2, volatile organic compounds (VOCs), plus certain other gases, are also classified and summarized.
+
+Index Terms—Gas sensor, odors, pollutants, NDIR, solid elec-
+
+T HE current era of high technology and advanced industry has produced an incredible rise in living standards. However, this has also been accompanied by a variety of serious environmental problems, for example, the release of various chemical pollutants, including NO , SO , HCl, CO , volatile organic compounds (VOCs) and fluorocarbon, from industry, automobiles, and homes, into the atmosphere, resulting in global environmental issues, such as acid rain, the greenhouse effect, sick house syndrome, and ozone depletion.
+
+Environmental pollution can be classified into three categories: atmospheric, water, and soil pollution. In particular, atmospheric pollution, along with water pollution, can cause major disasters within a short period of time, since this type of pollution can diffuse rapidly over large areas. Furthermore, since the kinds and quantities of pollution sources have also increased dramatically, the development of a method for monitoring and controlling these sources has become very important.
+
+To prevent or minimize the damage caused by atmospheric pollution, monitoring and controlling systems are needed that can rapidly and reliably detect and quantify pollution sources within the range of the regulating standard values. Until now, air pollutant measurements have been carried out with analytic instruments using optical spectroscopy or gas chromatog-
+
+Manuscript received September 8, 2000; revised August 13, 2001. The associate editor coordinating the review of this paper and approving it for publication was Dr. Joseph Watson.
+
+D.-D. Lee is with the School of Electronic and Electrical Engineering, Kyung-pook National University, Taegu, Korea (e-mail: ddlee@ee.knu.ac.kr).
+
+D.-S. Lee is with the Microsystem team, Telecommunications Basic Research Laboratory, Electronics and Telecommunications Research Institute (ETRI), Taegon, Korea (e-mail: dslee@etri.re.kr).
+
+raphy/mass spectrometry. However, although these instruments can give a precise analysis, they are time-consuming, expensive, and can seldom be used in real-time in the field. As such, a gas sensor that is compact, robust, with versatile applications and a low cost, could be an equally effective alternative. Table I presents several feature comparisons between gas sensors and analytical instruments. A lot of recent research and development has been focused on the development of solid-state gas sensors, consequently, their performances have improved dramatically.
+
+There are several solid-state gas sensors currently available for gases such as O , H O, and LNG at relatively high concentrations. However, the range of air pollutant concentrations ) in comthat can be detected only reaches as low as ppm ( ) in bustion exhaust control or indoor monitoring and ppb ( atmospheric environmental monitoring. Therefore, the development of more sensitive and selective gas sensors than the above conventional sensors is still required.
+
+This paper briefly introduces several gas sensors that have been developed for environmental monitoring along with their sensing principles.
+
+A. Atmospheric Pollution
+
+Atmospheric pollution is defined as a status containing gases, offensive odors, and particles that are harmful to humans, animals, vegetables, or living environments above the regulation limits in specific regions. Atmospheric pollution has become particularly serious since the Industrial Revolution. Furthermore, due to the recent dramatic growth in population and industrial development, along with an intensified usage of fossil fuels, the natural atmospheric environment has become polluted and is rapidly deteriorating. Yet, since the level of public concern related to living and working in a healthy environment has now increased, the demand for monitoring and controlling the atmospheric environment in the house and
+
+workplace has also increased. As a result, intensive research efforts have been made in various fields in an attempt to resolve such environmental problems.
+
+B. Pollution-Emitting Sources and Regulating Standards
+
+Emitting sources can be classified into two categories according to the state of the source, that is, a stationary or mobile source. Stationary sources include houses, workplaces, thermal power stations, and so on, whereas mobile sources include automobiles, trains, ships, and so forth. Stationary emitting sources also cover many diverse fields, such as oil refineries, chemical plants, metal refineries, and grocery plants. In particular, with the tremendous increase in automobiles and consumption of fossil fuel, the atmospheric environment has deteriorated significantly. Therefore, the regulation of pollutant emissions has intensified all over the world. Table II shows some atmospheric pollution molecules and several environmental standard values.
+
+III. SENSING PRINCIPLES OF SOLID-STATE GAS SENSORS
+
+Gas sensors for detecting air pollutants must be able to operate stably under deleterious conditions, including chemical and/or thermal attack. Therefore, solid-state gas sensors would appear to be the most appropriate in terms of their practical robustness. Even though there are many kinds of solid-state gas sensors, as shown in Table III, only solid electrolyte, semiconductor, and nondispersive infrared absorption types are normally utilized. Four representative sensors are briefly described here.
+
+A. Semiconductor and Capacitor-Type Gas Sensors
+
+Semiconductor gas sensors are widely used for detecting inflammable gases and certain toxic gases in air. The adsorption or reaction of a gas on the surface of the semi-conducting material induces a change in the density of the conducting electrons in the polycrystalline sensor element. This chemical reaction can be described by four steps as follows.
+
+1) Pre-adsorption of oxygen on semi-conducting material
+
+2) Adsorption of specific gas. 3) Reaction between oxygen and adsorbed gas. 4) Desorption of reacted gas on surface. The above process of delivering electrons between the gas and the semiconductor actually represents the gas sensitivity of the gas sensor. When reacted with the gas, the conductivity of the semiconductor gas sensors increases when the adsorbed oxygen molecules play the role of acceptor, whereas the conductivity decreases when the adsorbed oxygen molecules play the role of donor. The principle is based upon initial reversible reaction of atmospheric oxygen with lattice vacancies in the oxide and the concurrent reduction in electron concentration . This reaction ), generates various oxygen species, (denoted by the constant according to the temperature and oxygen pressures, i.e., O , O or O , which can then react irreversibly with certain combustible species. As such, the basic reactions occurring at the sensor surface can be represented as follows [46]
+
+further reaction
+
+where the species in curly braces are bound on surface sites, is integer and is a combustible species, such as methane. As shown by (1)–(3), the concentration of oxygen species present at the surface of the tin oxide particles will depend on the balance between the rates of the first two reactions, with increasing the , the steady-state concentrations of the combustible species, concentration of O will decrease. From (1)–(3), it is clear that the presence of oxygen is essential for the operation of metal oxide compound semiconductor sensors.
+
+These oxygen molecules are preadsorbed on the semiconductor surface, then when they react with specific gases like CO and hydrocarbons, this produces changes in the electrical con-ductivity due to an oxidizing reaction. For example, when CO reacts with the preadsorbed oxygen molecules, CO gas is generated as follows [47]
+
+Although the modulation in carrier concentration can strongly affect the surface conductance in thin single-crystal films, it is unable to explain the large effect observed in thick and ceramic metal oxide films. Therefore, the model of conduction must be extended to consider a concentration-dependent mobility term that arises from polycrystalline oxides having an open granular structure into which the gas can diffuse and react is then at the surfaces of the granules. The electron mobility governed by the potential barrier between neighboring grains in a hopping model.
+
+C. Xu and N. Yamazoe [49] reported that nano-scale minute particles under 6 nm show a tremendous increase in sensitivity because of the relative increase in the ratio of the surface area to
+
+the bulk. To explain the sensing-mechanisms for inter-granular contacts, the neck model can be used for SnO with nano-scale grains smaller than 6 nm in diameter, whereas both the neck and the grain boundary models can be used for grains larger than 6 nm.
+
+Therefore, any change in conductivity is mainly related to the specific gas concentration through its effect on the electron concentration ( ) and electron mobility ( ). This change is modified according to the kind of additives, grain sizes, contacts and the states of surface and bulk [50].
+
+In addition, the electrical conductivity ( ) in a semiconductor sensor is also related to the oxygen partial pressure (P ) [47]
+
+lies between 0.5 and 1.0 according to where the exponent the kind of reaction, such as the pore density or microstructure on the surface. In ZnO, TiO , or SnO , all widely-used mateis known to be about 0.5. Both the ambient rials, the exponent oxygen partial pressure and the humidity could be disadvantageous in a practical viewpoint because they affect the sensitivity of metal oxide gas sensors.
+
+
+Even though the sensitivity, i.e., the resistance variation of a sensor, is an important parameter, three other parameters, selectivity, stability, and speed, are also vital parameters. While it is difficult to obtain a reliable sensor that includes all these qualities, they have been relatively enhanced by controlling the material, structure, and operating conditions of the sensor. For example, the sensitivity of a SnO Ca, Pt sensor, as a typical solidstate sensor, to several combustible gases, is shown in Fig. 1, at 350 C. The SnO Ca, Pt sensor exhibits the highest sensitivity to butane and a good linearity to combustible gases. Different sensitivity patterns, even with the same sensor, have been found when modulating the operating temperature, and this has been utilized to recognize different kinds of gases in an electronic nose.
+
+In case of capacitor-type gas sensors, they can measure the change of the dielectric constant of films between the electrodes as a function of gas concentrations. For an example, a spincoated polyphenylacetylene conducting polymer film responds to the various gases, such as CH , N , CO, and CO [56]. Capacitance changes in the capacitor-type sensors are typically in the range of pF and very dependent on the operating frequency and surrounding conditions, like humidity and temperature. Recently, a capacivitive microsystem with the ability to measure at different sensor temperatures for discrimination of ethanol, toluene and their mixture, was also introduced [57].
+
+B. Non-Dispersive Infrared Method Using Pyroelectric Infrared Sensors
+
+The use of infrared for atmospheric environmental measuring, especially for monitoring exhaust gas, is focused on selective and reliable gas detection. It is generally recognized that nondispersive methods are simpler in structure and easier to use that dispersive methods.
+
+Gas molecules selectively absorb the energy that corresponds to their own quantized vibrating energy, which is usually located in an infrared region. For example, CO , CO, and CH have a unique absorbing spectrum at 4.25, 4.7, and 3.3 m, respectively, in an infrared region. The gas-absorbing degree is proportional and follows the gas concentration to be detected. at a specific wavelength [58] can be
+
+Fig. 3. Construction materials for infrared detector.
+
+gases. For most spectroscopic analyzes, radiation consisting of a limited, narrow, and continuous group of wavelengths, called a band, is required. A narrow bandwidth tends to enhance the sensitivity of the absorbance measurements and can provide selectivity to both emission and absorption methods. In the NDIR gas-detecting method, filters or monochromators are used to obtain a monochromatic beam from an infrared light source with a wide wavelength range.
+
+Fig. 3 shows the spectral responses from different infrared
+
+light detectors with upper-limiting temperatures [59].
+
+Fig. 5. Time response of NDIR-type CO gas instrument.
+
+a Type III sensor, an auxiliary phase attached to the surface of the solid electrolyte is needed. For this auxiliary phase, a compound is used that contains the same ionic species as those from the gas. The auxiliary phase acts as a poor ion-conducting solid electrolyte which, by attaching to the sensing electrode, forms half of a Type I or II. This combination then makes up the electrochemical cell, as shown in Fig. 6. Type III sensors can be divided into several subgroups depending on the type of the half-cells combined. Type III sensors are used for detecting oxygenic gases, such as CO , NO and SO .
+
+There is also a LISICON gas sensor that uses Li
+
+instead of as the ionic conductor. This sensor exhibits a high sensiNa tivity to CO , even at a lower device temperature. Fig. 7 shows the structure of a LISICON sensor for detecting CO , which demonstrates a good linearity to CO gas along with a high stability through the use of inorganic binders for the auxiliary phase.
+
+NO (NO and NO ) gas is known to be very harmful to humans and one of the main causes of acid rain. Solid-state sensors for NO are desperately needed for monitoring the combustible exhaust in the environmental atmosphere. Only a few sensors are currently commercially available. As NO and NO have quite different properties from each other, there are hardly any reports on gas sensors that respond to both NO and NO with the same sensitivity. Most research has focused on the development of NO sensors. Among the various existing NO sensors, semiconducting oxides and solid electrolytes would appear to be the best.
+
+Semiconductor NO sensors using metal oxides have been investigated by many researchers. The sensitivity to NO and NO is dependent on the oxide used. Until now, WO -based sensors have shown an excellent sensitivity to NO above 1 ppm in air at an operating temperature range of 250–350 C, as shown in Fig. 8, where the sensitivity is defined as the ratio of the electrical resistance of the sensor in the gas (Rg) to that in air (Ra). The same device also shows a high sensitivity to NO , although this sensitivity is much lower than that for NO . Therefore, to be applicable for controlling combustion exhaust, the NO sensitivity needs to be improved. The addition of noble metals (Pt,
+
+Ru and Au) [17] or metal oxides (TiO and SnO ) to the WO material could enhance the sensitivity [7].
+
+Solid-electrolyte NO sensors can be fabricated using an Na
+
+conductor (solid electrolyte) and auxiliary phase, like NaNO . The e.m.f. of such a sensor can be expressed by
+
+regardless of the presence of coexistent oxygen. With the proper selection of the auxiliary phase, the NO -sensitivity can be improved to lower the detecting limit to less than 0.2 ppm. As for NO, more research is still required because NO sensing is more important than NO sensing for combustion exhaust control.
+
+B. SO Sensing
+
+SO (SO and SO ) gas in the global atmosphere is a major source of acid rain. The major industrial sources
+
+Fig. 8. Sensitivity of TiO   WO and WO gas sensors as a function of NO gas concentration.
+
+Fig. 9. EMF response of NASICON SO sensor with Na SiO reference electrode and Na SO auxiliary electrolyte to SO gas.
+
+of SO emissions are coal-fired power plants, oil and gas productions, and nonferrous smelting. Currently, chemical analyses (West-Gaeke coulometric technique, hydrogen peroxide method) and instrumental analyses (flame photometric detection, UV fluorescence technique) are used to determine SO gas in stack gases, however, these methods are very complicated. Therefore, great efforts have been made to find more suitable methods for the continuous monitoring of SO gases. One proposal is to use solid-electrolyte-type devices. Various sulfate-based solid electrolytes have been applied to Type III sensors, thereby combining NASICON or another Na conductor (solid electrolyte) and Na SO (auxiliary phase). These sensors have shown a high sensitivity and linearity to SO gas concentrations. For example, the structure of a NASICON SO sensor can be shown as follows [25]
+
+where Na SiO is the reference electrode in air and the binary composite of Na SO , and BaSO is the auxiliary phase. The e.m.f. of these sensors can be expressed as follows for the detection of SO in air
+
+m), or far region (m). The region ( m). For CO , the main absorption used the most is ( wavelength is known to be 4.25 m. By using a filter that only transmits a beam with a 4.25 m-wavelength, the absorbance beam can be detected by an infrared beam detector. The output can then be expressed as a function of the CO gas concentration. For example, the response of a CO NDIR sensor is shown in Fig. 5, where the gas concentration was changed from 400 to 800 ppm.
+
+Since the first solid-state CO sensor based on electrochemical principles (Type II) was reported in 1977 by Gauthier and Chamberland [62], a lot more research has been conducted. Nowadays, NASICON (Na Zr Si PO ) or LISICON Li Zr Si PO CO sensors are used with an attached auxiliary phase of an alkali metal carbonate, such as Na CO or Li CO . A planar-type LISICON sensor element is shown in Fig. 7. In this structure, the potential at the sensing electrode contacting the auxiliary phase changes as a function of the , while the potential at the partial pressure of CO opposite electrode, set by the partial pressure of oxygen in the air. ( The electromotive force of this sensor can be expressed by a Nernstian equation as follows), is determined at a level matching the
+
+The e.m.f. of an NASICON SO sensor with an Na SiO reference electrode and Na SO auxiliary electrolyte is proportional to the SO gas concentration, as shown in Fig. 9 [25].
+
+A semi-conducting SO sensor using ceramic SnO was reported on for the first time by R.Lalauze et al. [21].
+
+CO is the main cause of the greenhouse effect, yet, by itself, it is harmless. CO sensing is necessary for the auto-ventilation of air in living rooms and automobiles as well as for measuring or controlling bio-related activities.
+
+A nondispersive infrared method is currently prevalent for monitoring CO gas. Generally, infrared spectral regions can m), middle region be classified as a near region (
+
+The Nernstian correlation holds very well over a wide range of CO concentrations. The auxiliary phase is very important for Type III CO sensors and multiple carbonate systems are known to enhance the stability of these sensors, for example, in relation to humidity. NASICON or LISICON sensors are recognized as exhibiting a good linearity to CO gas concentrations. Fig. 10 shows the time response of LISICON CO sensors and indicates fast reactions to the gas concentrations [32].
+

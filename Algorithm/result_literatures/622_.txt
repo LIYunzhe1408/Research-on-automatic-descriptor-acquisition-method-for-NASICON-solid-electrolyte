@@ -1,0 +1,122 @@
+NASICON-based solid electrolytes with exceptionally high Na-ion conductivities are considered to enable future all  solid-state Na-ion battery technologies.
+Despite forty years of research the interrelation between crystal structure and Na-ion conduction is still controversially  discussed and far from being fully understood.
+In this study  microcontact impedance spectroscopy  combined with single crystal X-ray diffraction, and differential scanning calorimetry is applied to tackle the question how bulk Naion conductivity σbulk of sub-mm-sized flux grown Na3Sc2(PO4)3 (NSP) single crystals is influenced by supposed phase changes (α,  β, and  γ phase) discussed in literature.
+Although we found a smooth structural change at around 140 °C, which we assign to the  β→γ phase transition, our conductivity data follows a single Arrhenius law from room temperature up to 220 °C.
+Obviously, the  structural change, being mainly related to decreasing Na-ion ordering with increasing temperature  do not cause any jumps in ion  conductivity or any discontinuities in activation energies Ea.
+Bulk ion dynamics in NSP have so far rarely been documented; here,  under ambient conditions σbulk turned out to be as high as 3 × 10−4 S cm−1 (Ea, bulk = 0.39 eV) when directly measured with microcontacts for individual small single crystals.
+Introduction  Li-ion  conducting  solid  electrolytes  are  highly  desired  for  new  battery  concepts  overcoming  serious  safety  issues  of  state-of-the-art  battery  technologies  using  polymer-based  liquid  electrolytes.
+Moreover,  the  use  of  solid  electrolytes  enables  very  high  energy  densities  as  well  as  chemical  and  electrochemical stability, which is needed for any automotive,  and  grid  storage  applications.
+Concerns  regarding  the  availability of mineral resources of Li, however, increase the interest  in  other  cations  such  as  Na.
+The structural situation in this class of material is, however,  rather complicated and still not fully understood.
+As an example,  in  the  case  of  Na3V2(PO4)3  (NVP)  a  phase  transition  sequence from an ordered monoclinic α form (space group (SG) C2/c, a = 15.1244(6) Å, b = 8.7287(3) Å, c = 21.6143(8) Å, β  = 90.163(2)) to the classical disordered rhombohedral cell (SG  ܴ3തܿ,  a  =  8.73382(4)  Å,  c  =  21.91438(17)  Å)  with  two  intermediate  incommensurate  modulated  structures  β  and  β’  was  described.
+A  further  complication  arises  due  to  the  different  and  conflicting  behaviour  of  powders  and  single  crystals  of  NASICON-materials.
+For  polycrystalline  samples  of  Na3Sc2(PO4)3  (NSP),  fabricated  at  high  temperatures,  two  phase  transitions  are  reported5-7  with  the  room  temperature  (RT)  structure  often  being  described  using  a  monoclinic  cell  with  space  group  symmetry  C2/c.
+In  contrast,  flux  grown  single crystals are reported to show only a single phase transition at around 160 °C from the high temperature structure with  SG  ܴ3തܿ to a, compared to a more complicated trigonal structure with a 2a, c supercell.
+It  has  been  reported  that  these  structural  changes  in  NASICON  materials  are  associated  with  changes  of  the  thermal activation of Na-ion conductivity.
+While for NSP in some  papers only a single change in activation energy (Ea) associated with the α→β or β→γ phase transition is detected, in other  papers,  however,  two  changes  in  ionic  conductivity  were  reported  and  assigned  to  the  two  structural  changes.
+Some  of ACS Paragon Plus EnvironmentChemistry of MaterialsPage 2 of 8these  discrepancies  in  structure-property  relationships  published in literature seem to be related to the use of total Na-ion  conductivities instead of bulk Na-ion conductivities.
+The total  conductivity  comprises  both  grain  boundary  and  bulk  contributions.
+Of  course,  only  the  latter  contains  intrinsic  transport  properties  which,  to  our  opinion,  will  be  mostly  affected  by  the  crystal  chemical  changes.
+Hence,  with  the  data  available  until now, the apparently observed jumps in the thermal activation of the conductivity cannot be unequivocally assigned to  the phase transitions reported.
+Extremely high bulk conductivities in the mS cm-1 range are  equivalent  to  electrical  relaxation  processes  with  very  short  relaxation times.
+At ambient or slightly elevated temperature,  the relaxation frequencies of these low resistive bulk processes  with capacitances in the pF range are only seen in the MHz to  GHz regime.
+If powder samples are examined, the presence of  grain  boundaries  often  complicates  the  evaluation  of  impedance  data  in  Nyquist  plots  and  may  hinder  an  unambiguous  analysis  of  the  bulk  conductivity.
+Moreover,  chemical  and  structural  inhomogeneities  in  polycrystalline  samples  may  limit  the  accurate  study  of  electrochemical properties  as  only  mean values are accessible.
+The use of microelectrodes on top  of  single  crystals,  however,  enables  a  very  precise  study  of  conductivity properties since the obtained electrochemical data  usually  only  depend  on  electrical  bulk  properties  and  morphology.
+Therefore,  they  can  directly  be  correlated  with  information  from  single  crystal  diffraction.
+Very  recently,  we  used  the  same  setup  with  microelectrodes  to  successfully  investigate  electrical  bulk  properties  of  Li1+xAlxTi2−x(PO4)3  (LATP) single crystals.
+Here,  microcontact  impedance  spectroscopy  (MC  IS)  is  combined  with  single  crystal  X-ray  diffraction  (SC  XRD)  to  study  possible  interrelationships  between  intragrain  Na-ion  conductivity  and  phase  transitions  of  flux  grown  NSP  single  crystals.
+Surprisingly, contrary to the various reports in literature we do not observe any discontinuities in ionic conductivity as a function of temperature.
+Experimental Synthesis of single crystals Single  crystals  of  Na3Sc2(PO4)3  were  grown  using  the  flux  method  as  described  by  Sotofte  and  Fu.
+First  ScPO4  was  prepared via solid state reaction from a stoichiometric amount  of  Sc2O3  (Projector  GmbH,  99.5  %)  and  NH4H2PO4  (Merck  KGaA, 99 %).
+A  ratio  1  :  6  of  ScPO4  and  Na4P2O7 (Sigma-Aldrich, 95 %) was heated in a Pt crucible at  1100  °C  for  5h  in  air,  then  cooled  down  to  900  °C  at  3 K/h,  before the furnace was free cooled to RT.
+The single crystals  of  several  hundreds  of  µm  in  size  were  extracted  from  the  molten mass with hot water.
+Single crystal X-ray diffraction SC XRD data at RT were collected on several crystals on a  Bruker  SMART  APEX  CCD-diffractometer.
+Intensity  data  were  collected  with  graphite-monochromatized  Mo  Kα  X-ray  radiation (50 kV, 30 mA).
+The crystal-to-detector distance was  30 mm and the detector positioned at -28° 2Θ using an ω-scan  mode strategy at four different φ positions (0°, 90°, 180° and  270°).
+Three-dimensional  data  were  integrated  and  corrected  for Lorentz-,  polarisation  and  background  effects  using  the  APEX3 software.
+To study the evolution of the crystal structure with temperature three datasets (at 298, 403 K and 503 K)  were also collected at an STOE IPDS II single-crystal diffractometer  system  equipped  with  an  image  plate  detector  at  the  University of Innsbruck.
+Elongated exposure time of 120 s per  frame and significantly finer increments of 0.1° were chosen.
+Intensity integration was performed with X-Area software.
+Differential scanning calorimetry The heat capacity between 0 and 300 °C was measured using  a  power  compensated  Perkin  Elmer  Diamond  Differential  scanning calorimetry (DSC)® on samples weighing ca.38 mg.
+The  DSC  measurements  were  performed  under  a  flow  of  Ar  gas, with the calorimeter block kept at -20 °C using a Perkin  Elmer Intracooler.
+Each measurement consisted of a blank run  with  empty  calorimeter  chambers,  a  calibration  and  a  sample  run,  where  the  samples  were placed  into  the  sample  chamber  of  the  calorimeter.
+The  heat  flow  data  (difference  in  heating  power  between  the  sample  and  the  reference  chamber)  were  collected at 100 °C temperature intervals consisting of a temperature scan (heating rate of 10 °C/min) and isothermal periods  of 3  min before  and  after  the  temperature  scan.
+The  heat  flow versus temperature data from the sample runs were shifted and rotated until the data of the isothermal periods agreed  with those of the blank run.
+A sample-saving method for heat  capacity measurements on powders using relaxation calorimetry.
+The  data  from  the  blank  run  were  then  subtracted  from  those of the sample run to give the net heat flow of the sample.
+For calculating the heat capacity, the net heat flow data were  finally divided by the heating rate and the mass of the sample.
+Each sample run was corrected against a calibration run using  a  synthetic  single  crystal  of  corundum  (31.764  mg),  whose  heat capacities were taken from the National Bureau of Standards Certificate.
+The accuracy of the DSC heat capacity data  was determined to be better than 0.6 %.
+The black triangles  are WC needles used to contact the electrodes.
+Applying  of  the  microelectrodes  on  the  single  crystals For  electrochemical  characterization  single  crystals  were  embedded in epoxy resin.
+Pt thin films were sputter deposited  with a thickness of 200 nm on top of approximately 10 nm Ti  (used  to  improve  the  adhesion  between  the  sample  and  the ACS Paragon Plus EnvironmentPage 3 of 8Chemistry of Materialselectrode).
+Afterwards  a  negative  photoresist  was  coated  on  top of the embedded and polished single crystals.
+After applying the mask with the appropriate microelectrode pattern ― in  our  case  circular  electrodes  with  a  diameter  of  30  µm  ―  the  samples were exposed to UV light.
+Areas which were covered  during  exposure  were  removed  using  a  developer  solution  (Microresist Technologies, Germany).
+In a subsequent step the  microstructure was obtained by ion beam etching.
+Microcontact solid-state impedance spectroscopy   The  electrochemical  characterization  of  NSP  was  carried  out by electrical impedance spectroscopy according to ref.
+ All  impedance  measurements  were  performed  between  RT  and 200 °C in a tube furnace using an Alpha-A High Resolution  dielectric  analyzer  with  a  ZG-2  interface  (Novocontrol,  Germany)  in  the  frequency  range  from  3  ×  106  Hz  to 102  Hz  with  a  voltage  amplitude  of  100  mV.
+The  temperature  were  measured  using  a  thermocouple  placed  close  to  the  single  crystals.
+Figure  1  the  microcontact  set-up  and  a  schematic  picture of the performed experiment are shown.
+Results Structural  behaviour  of  NSP  single  crystals  as  a  function of temperature In agreement with suggestions presented in literature so far,  the RT SC XRD data reveal distinct superstructure reflections  and cannot be indexed with a rhombohedral nor with a monoclinic cell.
+This structural complexity was in the very same  manner  observed  for  dozens  of  single  crystals,  which  were  tested in the initial phase of our investigation.
+Figure 2a shows  calculations  of  the precession  images  from  the  SC  XRD  data  at different layers at 25 °C, the peaks belonging to the ܴ3തܿ	cell  are  marked  to  highlight  the  superstructure  peaks.
+The  comparison  of  their  reconstructed  reciprocal  space  layer  0kl  with  those  of  this  study  reveals  substantial  differences  with  the  superstructure  peaks  appearing along the c* direction; for NVP they appeared along  the b* direction.
+The only possibility to index all Bragg peaks  for NSP  fit  with  a  2a,  2b,  c  trigonal  cell.
+The  space  group  is ܲ3തܿ1, which is a natural subgroup of ܴ3തܿ	and which is in line  with findings of Collin et al. and Tran Qui et al.
+To  monitor  possible  changes  of  the  crystal  structure  with  temperature,  we  collected  two  data  sets  at  elevated  temperatures.
+Importantly,  at  230  °C  the  superstructure  has  completely  vanished  and  the  data  can  be  indexed  and  refined  with  the  commonly  observed  ܴ3തܿ  NASICON  structure.
+Figure  2b  shows the reconstructed reciprocal space layer hk1 at different  temperatures,  which  clearly  shows  that  the  superstructure  reflections  disappear.
+The  results  of  the  refinements  of  the  high-temperature  structure  are  illustrated  in  Figure  2c  and  presented in Table 1. Table  1.  Atomic  coordinates  and  equivalent  isotropic  displacement parameters for NSP single crystals at 230 °C*  Site *Atomic  coordinates  (Å×104);  equivalent  isotropic  displacement parameters (Å2×103); Ueq is defined as one third of the trace  of the orthogonalized Uij tensor.
+At 503 K the Na(1) site is occupied by ∼50%, the Na(2) by  ∼70%;  these  estimations  give  rise  to  a  total  Na  content  of  ∼2.66 per formula unit (pfu).
+The structure is characterized by  distinct  anisotropic  motion  of  the  Na  atoms.
+The  observation  of  the  β  (most  probably	ܲ3തܿ1,  see  above)  to  γ  (ܴ3തܿ)  phase  transition in single crystalline NSP material is further supported by DSC measurements (see Figure 3a), which show a weak  and  broad  peak  centred  around  140  °C.
+In  strong  contrast  to  the situation reported for powder samples, we found no measurable  indications  for  the  α  to  β  phase  transition  for  single  crystals.
+This  clear  difference  might  be  caused  by  different  synthesis conditions.
+ACS Paragon Plus EnvironmentChemistry of MaterialsPage 4 of 8Figure 2. (a) Calculated precession images of the hk1 and 0kl layers in Na3Sc2(PO4)3, the green circles represent the reciprocal lattice point  positions of the ܴ3തܿ lattice.
+Dark and bright  brownish ellipsoids indicate sodium ions in octahedral sides (Wykoff position (WP) 6b and 18e, respectively).
+Oxygen located corner atoms the the are To clarify this difference is beyond the scope of the present  paper  which  focusses  on  the  impact  of phase  transformations  on  (bulk)  ionic  conductivities  of  NSP  single  crystals.
+As  the  RT structure is yet not complete resolved, no information can  be extracted on Na disorder and its influence as a driving force  for  phase  transitions.
+Symmetry  and  structural  phase  transitions of NSP between 100 K and 500 K, as well as the role of  synthesis conditions will be presented in a follow-up paper.
+Na-ion  conductivity  and  Arrhenius  behaviour  of  NSP single crystals As  an  example  of  the  impedance  measurements,  a  Nyquist  plot  obtained  at  23.5  °C  is  shown  in  Figure  3b;  in  Figure  3c  the temperature dependence of σbulk is presented.
+The Nyquist  plot  recorded  at  RT  is  composed  by  parts  of  a  semicircle  at  high frequencies, followed by a sharp increase at low frequencies.
+This  low  frequency  impedance  can  be  attributed  to  the  strongly  ion blocking  electrode  and  described by  a  resistance  in parallel to a constant phase element (CPEel) with the impedance  given  by  ZCPE = 1/(iω)n  Q,  where  ω  is  the  angular  frequency  and  the  exponent  n  is  a  fit  parameter  accounting  for  non-ideal behaviour of the capacitance.
+It does not imply any  mechanistic information, however, it is needed to analyse the  sample-specific  high  frequency  arc  at  higher  temperatures.
+The  high  frequency  part  represents  the  bulk  resistivity  of  the  individual  single  crystals.
+The  resistive  part  of  the  arc  is  ap-proximated by a resistance element (Rbulk) and can be attributed  to  the  volumetric  Na-ion  conduction  σbulk,  see  below.
+The  bulk  capacitance  (Cbulk)  of  the  NSP  samples  cannot  be  obtained as we have to deal with an unavoidable and high stray  capacitance Cstray in the order of 100 fF.
+The whole equivalent  circuit  used  to  analyse  the  impedance  spectra  is  depicted  in  Figure 3b.
+Unfortunately, in ref  5  only  activation  energies  Ea  for  the  total  conductivity  are  present from which we cannot access Ea, bulk.
+As can be seen in  Figure  3c,  the  temperature  dependence  of  σbulk  of  three  randomly  selected  single  crystals  follows  an  almost  perfect  Arrhenius  behaviour  according  to  σbulkT  =  A exp(−Ea, bulk/kBT),  where A is the pre-exponential factor of the ionic conductivity,  and kB denotes Boltzmann’s constant.
+Up to 200 °C no change  in  slope  of  σbulkT  vs  1000/T  can  be  observed,  for  Ea, bulk  we  obtain  0.39  eV.
+This  analysis  does  not  take  into  account  that  true temperatures at the sample surface are slightly lower than  the set temperature due to asymmetric heating.
+ACS Paragon Plus EnvironmentPage 5 of 8Chemistry of MaterialsFigure 3: (a) DCS measurement of Na3Sc2(PO4)3 single crystals from 0 °C to 300 °C.
+The heat capacity versus temperature data do not  show a smooth behaviour, but show a peak centered at 140 °C.
+Although the peak is broad and not very pronounced, it is unmistakably an  endothermic peak and can be associated with the β → γ phase transition.
+Our observation that no jumps of σbulk or changes  in  Ea  occurred  contrasts  with  earlier  studies  reporting  up  to  two  changes  in  the  thermal  activation  of Na+  conduction,  see  Figure 3d.
+The Ea values from literature and this study are summarized in Table 2. Unfortunately, in  most of the previous experimental reports  only  the  final  conductivity  values  are  presented  without  providing  details  on  the  procedures  how  source  data  were  analysed.
+Their  experimental  setup  was  limited  and  only  allowed  impedance  measurements  up  to  500  kHz,  which  seems  to  be  too  low  to  separate  bulk  electrical  processes  with  fast  relaxation  rates.
+Consequently, they were restricted to use only total conductivities instead of bulk values to correlate Na+ conductivity with  structural changes.
+5,24 Since the crystal chemistry of a material  is  usually  correlated  mainly  to  bulk  properties,  the  use  of  overall conductivities could be misleading.
+In many  cases, so  far powders with µm-sized crystallites were considered and no  nanostructured  materials  with  disordered  interfacial  regions.
+If σtotal represents a mixture  of  the  two  components  with  mutable  contributions  over  the  temperature  range  covered,  slope  changes  in  Arrhenius  plots  might be artificially generated.
+These changes might not show  up  if  characteristic  electric  relaxation  frequencies  are  used  to  evaluate conduction processes.
+ACS Paragon Plus EnvironmentChemistry of MaterialsPage 6 of 8In our case we did not find any convincing indications for a  α→β  transition  of  NSP  single  crystals  grown  by  the  flux  method.
+Hence, we do not expect a change in σbulk at temperatures below 120 °C.
+Indeed, the measured bulk conductivities  simply  follow  a  straight  Arrhenius  line  (see  Figures  3c  and  3d).
+Importantly,  the  β→γ  phase  transition,  for  which  we  in  fact find indications from DSC, has no measurable impact on  σbulk.
+Up  to  200  °C  the  pre-exponential  factor  A  and  Ea, bulk  remain unchanged.
+A point worth mentioning is that the space  groups  suggested  for  the  β and  γ  phase,  and  even  for  the  α  form, are very similar.
+Also activation energies of local hopping processes can change and affect  long-range ion transport.
+Here, as far as the bulk conductivity  is concerned, we exclude any significant influence of the β→γ  phase transition on σbulk of single-crystalline NSP.
+Finally, this  finding agrees well with the singular result of Winand et al.
+Although  they  studied polycrystalline  samples  as others, 5,21-24 they analysed impedance data23 recorded up to  10  MHz  instead  of  only  500  kHz  (see  above).
+In  summary,  based on the microcontact impedance measurements σbulk is, if  at  all,  only  marginally  influenced  by  the  decreasing  Na-ion  ordering in NSP single crystals.
+NSP single crystals were prepared by flux growth and investigated by SC XRD, MC IS, and DSC with respect to its crystal structure and Na-ion conduction as a function of temperature.
+SC  XRD  experiments  in  the  suggested  α  (RT),  β  (130  °C),  and  γ  phase  (230 °C)  regions  identified  at  least  two  different modifications.
+The phases can be assigned to the β and γ  modification, with SG ܲ3തܿ1, and SG ܴ3തܿ, respectively.
+From  our  data  we  do  not  find  clear  indications  of  the  α  phase  although superlattice peaks become more intense with decreasing  temperature.
+Instead,  DSC  measurements  point  to  a  single  phase transition at about 140 °C which we assign to the β→γ  phase  transition;  a  possible  α→β  transition  remains  invisible  in our DSC and SC XRD measurements.
+The  β→γ  transition  does  not  lead  to  discontinuities  of  the  Arrhenius  behaviour  of  σbulkT  of  NSP  single  crystals  when  investigated  with  microcontact  impedance  spectroscopy.
+As  far  as  ionic  bulk  properties  are  considered,  this  behaviour  is  characterized by σbulk = 3.04 × 10−4 S cm−1 at RT Ea, bulk = 0.39  eV.

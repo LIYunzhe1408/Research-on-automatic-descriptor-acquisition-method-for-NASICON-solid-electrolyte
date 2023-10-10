@@ -1,0 +1,7 @@
+Development of highly reversible multi-electron reaction per redox center in NASICON-structured cathodematerials is desired to improve the energy density of Sodium-ion batteries.
+Here, we investigated more than one electronstorage of Na in Na3VCr(PO4)3. Combining a series of advanced characterization techniques such as ex situ 51V solid-statenuclear magnetic resonance, X-ray absorption near edge structure and in situ X-ray diffraction, we reveal that, V3+/V4+ andV4+/V5+ redox couples in the materials can be accessed, leading to 1.5-electron reaction.
+It is also found that a light changeon the local electronic and structural states or phase change could be observed after the first cycle, resulting in the fastcapacity fade at room temperature.
+We also showed the irreversibility of the phase changes could be largely suppressed atlow temperature, and thus leading to a much improved electrochemical performance.
+The redox coupleV3+/V4+ and V4+/V5+ could be observed form a series ofcharacterization techniques such as in situ XRD , ex situsolid state NMR and XANES.
+The mechanism of the capacitydecay from the slight structural irreversibility withthe formation of a metastable phase at the room temperaturewas also revealed by these characterization techniques.
+Besides, by suppressing the irreversibility at frozentemperature, we showed that the performance will belargely improved, and with 92% retention after 200 cycleshas been achieved.

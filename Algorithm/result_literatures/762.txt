@@ -1,0 +1,20 @@
+The rechargeable molten-sodium systems work at approx.100 oC and useaqueous bromine/bromide or iodine/iodide solutions as catholyte and sodium-ion conductive NaSICON(Na3Zr2Si2.3P0.7O11.85) as solid electrolyte.
+The free halogen, which is formed upon charge, is complexed ashighly soluble tribromide and triiodide, respectively.
+These systems can work in both, static and redox-flow setup, respectively, and aim at stationary energy storage applications.
+The sodium-halogen batteries were shown to run with high coulombic efficiency over several hundred hours.
+Long-term stability of theNaSICON ceramic material in contact with aqueous electrolytes, however, is still a concern.
+The sodiumbrominesystem suffers from a considerable bromine vapour pressure of the tribromide, whereas thesodium-iodine system was shown to operate in a stable manner with a catholyte allowing for a high totaliodine concentration (2.0 M).
+Catholyte concentrations up to 2.75 M total iodine in redox-flow setupand up 3.7 M in static setup are possible without iodine precipitation and correspond to specific energiesof 198 Wh kg1 and 228 Wh kg1, respectively, on total active material level.
+In this study, aqueous medium temperature (100 oC) sodiumhalogenbattery systems are evaluated.
+In theflow-cell setup thecatholyte is stored in a tank and pumped continuously through thecell which is maintained at temperatures around 100 C to keep thesodium in the liquid state.
+Slightly sodium-deficient NaSICON witha nominal composition of Na3Zr2Si2.3P0.7O11.85 was used as solidelectrolyte.
+This material showed chemical stability against Nahalogenide and Na halogenide + halogen solutions over severalhundreds of hours, except for NaBr+Br2, in which the low pH of 3.0causes a slight attack of the surface-near layer under formation ofhydronium NaSICON.
+The ceramic material shows good wetting, apparent chemical stability against molten sodium and ionicconductivities of 7.0 mS cm-1 under DC conditions in a cell in NaNa configuration and 21.4 mS cm1 under high frequency AC conditions.
+Discs with an active diameter of 14 mm and 28 mm andtypical thicknesses between 0.6 mm and 1.0 mm were used.
+Theaqueous sodium bromine system is limited by the vapour pressureof bromine at 100 oC to approx.0.5 M Br2 if the battery is kept undernormal pressure in aflow-system.
+In a static setup 1 M of Br2 was reached.
+The aqueous sodium-iodine system does not suffer from ahigh vapour pressure of the free iodine.
+Accordingly, a battery with concentrations of 0 - 2.0 M of iodine (present as NaI3 + traces of I2) was shown to run under normal pressure inflow-cell setup using7 M sodium iodide as catholyte at 101 C for several hundred hourswithout increase of cell polarization.
+The faradaic efficiency of thissystem is >99.9% and (for [I2] >0.3 M) the energy efficiency is 80% ata current density of 20 mA cm-2 (55 mW cm-2) at a mean discharge voltage of 2.75 V.
+A maximum current density of100 mA cm-2 was tested which corresponds to a discharge power density of approx.180 mW cm-2. A total iodine concentration of upto 2.75 M was obtained starting from saturated (8.3 M) NaI.2.75 M total iodine catholyte corresponds to 405 Wh L1 oncatholyte basis, at a mean discharge voltage of 2.75 V.
+A very high specific energy of 198 Wh kg-1 on “active material level” (=Na + NaIsolution) can, thus, be obtained.

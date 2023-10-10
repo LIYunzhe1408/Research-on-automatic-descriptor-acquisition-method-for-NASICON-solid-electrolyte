@@ -1,0 +1,102 @@
+The sensing response S of SnO2 thick-film sensor based on nano-powders annealed at 600 °C to2000 ppm CO2 at the operating temperature 240 °C can reach 1.24 for the background of wet airwith 14 % of room-temperature (23°C) relative humidity (RH), which is much larger than thecorresponding value (1.048) in dry air.
+
+With an increase of humidity from 14 % to 66 % RH, thesensing response of SnO2 to low CO2 concentrations such as 2000–4000 ppm initially increases,peaks at about 34 % RH, and then decreases.
+
+CO2-sensing response monotonically decreases withan increase of humidity at high CO2 concentrations such as 6000 and 20000 ppm.
+
+Densityfunctional theory calculations show that CO2 molecule can not be adsorbed onto stoichiometricSnO2(110) surface or SnO2 (110) surface pre-adsorbed by O2− and O− in dry air.
+
+When CO2 isintroduced to SnO2 surface in wet air, CO2 reacts with O of pre-adsorbed OH-, bringing about theformation of carbonates containing (CO3)2- and the dissociation/movement of surface OH-group,accompanying the releasing of electron from CO2 to SnO2 surface.
+
+The appropriate pre-adsorptionof OH-on SnO2 (110) surface promotes the sensing response of CO2.Global warming is a major concern of researchers because of the massive emissions of CO2.Hence, the detection and control of CO2 concentrations in the environment is necessary.
+
+CO2sensors can be used in many applications, particularly, in air quality monitoring, agriculturalproduction, clean energy technologies, engine exhausts, and chemical industries.
+
+Several types ofCO2 sensors, such as infrared [1, 2], surface acoustic wave [3, 4], solid electrolyte [5–15],capacitive [16–18], and resistive [19–26] sensors, have been developed.
+
+Among these sensingplatforms, the resistive sensors based on metal oxides have important advantages, such as goodreliability, low cost, small size, and its potential in the development of array-integrated gas sensors.
+
+The resistive sensor works based on a change in electrical conductance of semiconductors uponexposure to CO2 in air.
+
+Because CO2 is a chemically stable gas, detection of CO2 with the resistivemethod is more difficult than that of other reducing gases.
+
+Several sensors based onsurface-modified or phase-composited SnO2, such as La2O3-doped SnO2 [20], Pt/Ca-doped SnO2[21], LaOCl-doped SnO2 [25, 26] and CuO-SnO2 [27] were investigated.
+
+However, only a fewworks on CO2 sensing of pure SnO2 was reported.
+
+The milled micrometer-sized SnO2 appears toexhibit a very low response to CO2.The response S of thick-film sensors based on milled SnO2micrometer powders to 2500 ppm CO2 is only 1.01 [23].
+
+The CO2-sensing behavior of SnO2nanowires (prepared by evaporating Sn metals at 800 °C for 30 min) at three operatingtemperatures, particularly, 350, 400, and 500 °C was investigated [26].
+
+The response S to 2000and 4000 ppm CO2 of the SnO2 nanowires is about 1.5 and 1.58, respectively, at an operatingtemperature of 350 °C.
+
+CO2-sensing response was found to be decreased by water vapor inLa2O3-loaded SnO2 sensors [20], but enhanced in LaOCl-coated SnO2 [26].
+
+In contrast, theCO2-sensing response decreases with increased humidity in LaCl3-doped SnO2 (SnO2 coated witha mixture of La2O3 and LaOCl) [23].
+
+In the present work, the SnO2 nanocrystalline powders wereprepared by the co-precipitation method, followed by subsequent annealing.
+
+The CO2-sensingproperties of the nanocrystalline SnO2 thick-film sensor were investigated in various preparationsand operating conditions.
+
+To obtain the best sensor with the largest CO2 response, an optimalannealing temperature of 600 °C was used in the heat-treatment of precursors while fabricating theSnO2 sensor.
+
+Furthermore, an optimal operating temperature of about 240 °C was also used toobtain the largest sensing response for the nanocrystalline SnO2 thick-film sensor.
+
+At the operatingtemperature of 240 °C and relative humidity (RH) of 14 %, the sensing response S of SnO2nanoparticle sensor annealed at 600 °C to 2000, 4000, 8000, 20000, and 30000 ppm CO2 canreach 1.24, 1.71, 5.86, 8.11, and 10.66, respectively.
+
+The appearance of water vapor initiallyenhanced but ultimately reduced CO2-sensing response at low CO2 concentrations.
+
+At the sameoperating temperature but 34 % RH, the response S of SnO2 nanoparticle sensor annealed at 600°C to 2000 and 4000 ppm CO2 can reach 1.71 and 1.82, respectively.
+
+CO2-sensing responsedropped with increased humidity at high CO2 concentrations.
+
+The possible CO2-sensingmechanism was determined using the density functional theory (DFT) calculation.
+
+The SnO2 nanocrystalline powders were prepared by the co-precipitation method, followed bysubsequent annealing.
+
+CO2-sensing properties of thick films based on SnO2 nanocrystallinepowder sensors were investigated.
+
+When exposed to CO2, the resistance of the SnO2 thick-filmsensor decreases.
+
+Because SnO2 is an n-type semiconductor, CO2 behaves similar to a reducinggas.
+
+600 °C is the optimal annealing temperature to obtain the best sensor with the largest CO2response.
+
+On the other hand, 240 °C is the optimal operating temperature for obtaining a largesensing response.
+
+At an operating temperature of 240 °C and 14 % RH, the values for response Sof the SnO2 nanoparticle sensor annealed at 600 °C to 2000, 4000, 8000, 20000, and 30000 ppmCO2 can reach 1.24, 1.71, 5.86, 8.11, and 10.66, respectively.
+
+The values for response S of theSnO2 annealed at 600 °C to 2000, 4000 and 20000 ppm CO2 at 240 °C are only 1.048, 1.068 and1.198 in the background of dry air, much smaller than the corresponding values in the air with therelative humidity of 14 % RH.
+
+It is clear that the SnO2-based sensor has very small response toCO2 gas at atmosphere of dry air.
+
+With an increase of CO2 concentration from 2000 ppm to 30000ppm, the response time at an operating temperature of 240 °C (with the room temperaturehumidity of 14 % RH) of SnO2 annealed at 600 °C decreases from 350 s to 10 s, whereas therecovery time increases from 4 s to 54 s.
+
+With increasing of operating temperature, both responseand recovery times of SnO2 annealed at 600 °C decreases.
+
+With increasing of relative humidityfrom 14 % to 66 % RH, the sensing response of SnO2 to low concentrations of CO2, such as2000–4000 ppm, initially increases up to a peak at about 34 % RH, and then decreases.
+
+At 240 °Cand 34 % RH, the values for response S of the SnO2 sensor annealed at 600 °C to 2000 and 4000ppm CO2 are 1.711 and 1.815.CO2-sensing response drops with increasing of relative humidity athigh CO2 concentrations, such as 6000 and 20000 ppm.
+
+CO2 response of SnO2 sensor is stronglyaffected by the relative humidity values in the ambient.
+
+An assembly comprised of a SnO2CO2-sensor and a humidity sensor can detect CO2 in the background of wet air.
+
+DFT calculationwas performed to understand the CO2-sensing mechanism for SnO2.Calculated results show that,after optimization, the CO2 molecule leaves distantly from the stoichiometric SnO2 (110) surfaceor the SnO2 (110) surface pre-adsorbed by oxygen species O2−and O-.
+
+Interactions between theCO2 molecule and the SnO2 (110) stoichiometric or O2−/O-pre-adsorbed surfaces are exceedinglyweak to allow adsorption.
+
+When the CO2 molecule is introduced to SnO2 (110) surface in wet air,CO2 reacts with O of pre-adsorbed OH−.
+
+This process instigates the formation of carbonatescontaining (CO3)2−and the dissociation/movement of the surface hydroxyl OH group, along withthe release of electrons from CO2 to the SnO2 surface.
+
+Such results indicate that the pre-adsorptionof OH−on the SnO2 (110) surface promotes the sensing response to CO2, which is consistent withexperimental observations for low CO2 concentrations (2000–4000 ppm) at low RH (below 35 %).
+
+At high relative humidity, the active adsorption sites at the surface of SnO2 are mainly occupiedby hydroxyl OH groups, and there are few adsorption sites on SnO2 surface for CO2, which leadsto the decrease of the CO2 sensing response.
+
+It should be pointed that there are other n-typesemiconductor materials that response to CO2 in absence of humidity.
+
+The CO2 sensingmechanism varies for different sensing materials.
+
+Ab initio calculation on other n-typesemiconductor is needed in order to understand their CO2 sensing mechanism.
+

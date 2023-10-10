@@ -1,0 +1,8 @@
+This paper develops a computational model and applies it to investigatethe performance of a rechargeable battery that is comprised of a moltensodium anode, a NASICON sodium-ion-conducting separator membrane, anda iodine-based cathode.
+
+ The cathode compartment is comprised of a porouscarbon felt and an aqueous catholyte that supports an iodine redox process.
+
+The battery chemistry can be represented globally as 2Na+ + 2I− ⇋ 2Na + I2.The ion transport is represented in terms of a Nernst–Planck formulationthat includes four mobile species within the catholyte, Na+, I−, I−3, and I2.The charge transfer chemistry is modeled using a Butler–Volmer formulation.
+
+The model considers solubility limits and the potential precipitationof NaI and I2.Parameter studies investigate the influences of charge anddischarge rates, total elemental iodine loading, and effective conductivity ofthe carbon-felt cathode.
+

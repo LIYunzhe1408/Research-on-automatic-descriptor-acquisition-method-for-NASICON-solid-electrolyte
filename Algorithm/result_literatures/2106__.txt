@@ -1,0 +1,18 @@
+A practical CO gas sensor for air quality control is developed by using a combination of a Na Zr Si PO
+
+NASICON as a solid electrolyte and Li CO as a carbonate phase. The sensor’s electromotive force emf shows a linear relationship with the logarithm of CO concentration. Zeolite is chosen as a filter material in order to minimize the effect of interfering gases on the sensor’s emf and shows . very little sensor response deterioration to CO . Under continuous energizing, both the emf and a change in the emf defined as Demf are stable over a period of 2 years. However, after the sensor is exposed to a high humidity atmosphere in an unpowered state, the emf decreases, but Demf stays constant. A new data selection method for renewing the standard of the emf is investigated in order to monitor CO concentration using Demf. The output of the CO monitor corresponds to a conventional non-dispersive infrared NDIR analyzer. q 2000 Elsevier Science S.A. All rights reserved.
+
+Recently, accurate measurement of CO concentration in offices and houses has become widespread, as CO is a good indicator of air quality pollution. Although infrared spectroscopic analyzers are commonly used in this field, they have several disadvantages such as their large size and high cost, so there is a need to develop inexpensive and maintenance-free CO sensors. To provide these needs, solid-electrolyte type CO sensors composed of a solid electrolyte and a carbonate phase have been developed w 1–3 . In this study, we have produced a practical CO gas sensor with a platinum heater and a new zeolite filter. A CO monitor utilizing this sensor was developed and tested in an office.
+
+A solid electrolyte sinter of Na Zr Si PO 12  14) conductor, about 4 mm in diameter NASICON — Na and about 0.7 mm in thickness — was used. A pair of gold electrodes was attached to both surfaces of the solid electrolyte by screen printing. A working electrode was pasted with lithium carbonate on one side of the electrode
+
+A built-in Pt heater screen printed on an alumina plate was laminated on a reference electrode and sealed with glass. The sensor element was heated at 4508C and the electromotive force  14) emf was measured by a high-impedance voltage meter.
+
+The construction of the CO sensor is shown in Fig. 2. The sensor element was mounted on a resin base and the gas entrance was covered with a filter consisting of zeolite
+
+The Demf of the sensor showed a linear relationship with the logarithm of CO concentration and was slightly effected by interfering gases, such as carbon monoxide and ethyl alcohol, because of the zeolite filter. The emf response time reached 90% of the saturated value in about 123 s when CO concentration was changed from 350 to 1000 ppm. The emf of the sensor increased as the surrounding temperature rose, necessitating a correction in the temperature dependence using a thermistor. On the contrary, the emf was scarcely affected by absolute humidity in the surrounding atmosphere.
+
+The heating condition stability of the emf and Demf in indoor atmospheres is shown in Fig. 4. Both the emf and Demf indicated excellent stability over 2 years. On the other hand, when the sensor was exposed to a high humidity atmosphere, the emf decreased but Demf stayed fairly stable. It is therefore possible to measure CO concentration by calculating Demf.
+
+
+A practical solid-electrolyte type CO sensor was developed. The sensor’s emf showed a linear relationship with the logarithm of the CO concentration and was only slightly effected by interfering gases through the use of a

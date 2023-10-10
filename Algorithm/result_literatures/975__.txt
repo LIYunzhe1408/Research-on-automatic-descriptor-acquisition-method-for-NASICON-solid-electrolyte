@@ -1,0 +1,60 @@
+NASICON-type Na3V2(PO4)3(NVP) is one of the most promising cathode materials for sodium-ion batteries (SIBs).
+
+Here, we report a simple solegel method to prepare NVP@C porous microspheres networkfor high performance SIBs, which can realize NVP nanoparticles successfully embedding into acetylenecarbon (SP) and multiple walled carbon nanotubes (MCNTs) matrices.
+
+The electrochemical characterizations demonstrate that both NVP/SP and NVP/MCNTs show excellent cell performance with high rateability and stable reversibility, especially for the NVP/MCNTs sample.
+
+ In particular, as high as 112.8 mAh/gand 70 mAh/g of the discharge capacity for NVP/MCNTs system can be delivered at 0.2C and 10C,respectively.
+
+ Furthermore, a good capacity retention of 90% can be maintained after 400 cycles at 1C rate.
+
+Moreover, the enhanced electrode performance is ascribed to the contribution from both of the porousmicrospheres morphology and functional carbon matrices, which can favor the migration of both electrons and ions.
+
+With increasing concern on the non-renewable fossil fuel consumption, clean-energy development and storage have become ahot topic for worldwide governments and scientists [1e3].
+
+Lithiumion batteries (LIBs) are one of typical energy storage technologies,which have enormous potentials in the field of next generationelectric vehicles (EVs) and large-scale energy storage systems(EESs) [4e7].
+
+However, it is still a great challenge for its furtherdevelopment due to the absence of lithium resource and safetyissue.
+
+Compared with LIBs, sodium ion batteries (SIBs) have aserious of incomparable advantages, such as more abundant resources, higher economic efficiency, and better safety performance[8,9].
+
+On the other hand, it is notable that sodium has a larger ionicradius in comparison with Li ions (Naþ is 1.02 or 0.98 Å, Liþ is 0.76or 0.69 Å), Thus, it is necessary to find more suitable cathode/anodematerial for SIBs, which may not only provide facile Na-ion transport in the structure, but also impart the cathode/anode frameworkwith structural stability against the volume change and consequentstructural distortion that commonly occur during Na extraction/insertion [10e13].
+
+Among various cathode materials, the polyanion-type compound, Na3V2(PO4)3(NVP), are treated as one of the most promisingcathode materials for SIBs, because of its typical NASICON structure,high theoretical energy density (~400 Wh/kg), good thermal stability and open 3D framework with large interstitial channels [9].
+
+Nevertheless, the low electronic conductivity of NVP materials,resulting from low coulombic efficiency and poor cycle performance.
+
+In addition, the biphasic reaction mechanism, which leading to the large lattice volume change during the (de)sodiation, alsomakes the negative influence on its reversibility and cyclabilityperformance.
+
+Actually, all of these above factors limit its furtherdevelopment on the next generation ESSs systems [14,15].
+
+In recentyears, many efforts, including cation/anion doping and carboncoating methods, are paid on these materials for enhancing itscyclability and high-rate performance [16e20].
+
+For instance, Yuet al.proposed that effective carbon coating on the NVP nanoparticles was confirmed to be an excellent method to improve itsrate performance [21].
+
+ Meanwhile, Kim et al.suggested thatgraphene-supported NVP composite prepared by combining solegel and solid-reaction approach can provide a superiors cyclability, and 93% capacity retention can be obtained at 1C after 100cycles [22].
+
+However, rare reports on embedding the NVP nanoparticles into the carbon matrix, especially the porous microspherearchitecture on their electrochemical performance.
+
+In this work, we propose and realize the first time a powerfulnanostructure design for NVP that embeds the nanosized particlesinto different carbon matrices to form porous microspheres via asimple solegel method.
+
+This novel structure provides multipleadvantages: (I) the porous microsphere architecture favors betternanoparticles connectivity and provide high efficiency ion transport across the electrode/electrolye interface; (II) Acetylene carbon(Super P) and multiple walled carbon nanotubes (MCNTs) are usedas carbon matrices which counteract NVP nanoparticles assuringstructural integrity and facilitating electron transfer.
+
+Both thehybrid materials exhibit remarkable improvement in Na storageproperty, especially NVP/MCNTs shows higher rate performanceand cyclic stability.
+
+In conclusion, we present a novel architecture porous microspheres consisting of NASICON-type NVP nanoparticles embeddedinto different carbon matrices, which were successfully synthesizedvia a simple solegel method.
+
+Their electrochemical performancewas compared and the NVP dispersed in MCNTs matrix shows thebest electrochemical properties.
+
+This hybrid material exhibits adischarge capacity of 116.5 mAh/g at 0.2C and 70 mAh/g at 10C.
+
+Avery stable cycling performance even at 1C rate about 90 mAh/gwas still retained after 400 cycles.
+
+The superior performance can beattributed to the 3D sodium intercalation/deintercalation pathwaysand electron transport.
+
+In addition, the 3D carbon frameworkprovides the robustness for the structure during cycling, thus endows this material with excellent cycling performance.
+
+The synthetic approach presented in this work prepares NVP nanograinsembed into carbon matrices which forms porous microsphere architecture for cathode material of sodium-ion batteries and offersthe possibility to achieve high rate capability.
+
+It might encouragethe use of hybrid material cathode in large-scale sodium-ionrechargeable batteries.
+

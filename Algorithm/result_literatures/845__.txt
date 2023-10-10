@@ -1,0 +1,124 @@
+In  this  work,  we  have  achieved  all-climate  high-rate  performance  of  sodium  ion  batteries  byutilizing the electrode materials with Na Super Ionic Conductor (NASICON) crystalline structure.
+
+A  designed  NASICON-structured  carbon-coated  Na3V2(PO4)3  (NVP@C)  nanocompositeexhibits an excellent performance at high rates in a wide temperature range (i.e., from -20 to 55oC).
+
+Even  at  a  low  temperature  of  -20  oC,  the  NVP@C  cathode  can  still  maintain  a  dischargecapacity  of  91.Even  at  a  low  temperature  of  -20  oC,  the  NVP@C  cathode  can  still  maintain  a  dischargecapacity  of  91.3  mAh·g-1  or  85.3  mAh·g-1  or  85.2%  of  the  room  performance  at  10  C,  and  secure  an  averageoutput  voltage  of  2.2%  of  the  room  performance  at  10  C,  and  secure  an  averageoutput  voltage  of  2.86  V  (vs.  Na+/Na).These  excellent  wide-temperature  accomplishments  canbe  ascribed  to  the  fast  three-dimensional  Na+  hopping  transportation  mechanism  in  theNASICON  structure.The  finding  in  this  work  offers  a  promising  strategy  to  address  the  long-standing  inherent  wide-temperature  issues  of  rechargeable  batteries  and  extends  the  potentialapplication of sodium ion batteries.
+
+Large  capacity,  high  power  density  and  low  cost  energy  storage  is  critical  for  theelectrification  of  the  transportation  and  energy  infrastructures.Recently,  many  types  ofrechargeable  battery  technologies  such  as  aqueous  lead-acid  batteries  based  on  conversionreactions and organic lithium ion batteries (LIBs) based on intercalation have been developed.
+
+However,  they  both  suffer  from  severe  power  loss  and  slow  charging  at  low  temperatures.
+
+Meanwhile, severe voltage drop at  low temperatures  could  be  also  detrimental to  some electricapplications (such as electric vehicles) and cause safety hazards.
+
+ Although the direct strategyis  proposed  to  tackle  this  problem  via  the  introduction  of  external  heat  insulation  or  heatingaccessories  to  maintain  the  temperature  for  battery  reactions,[2,  4,  5]  these  methods  are  verylikely  to  bring  in  other  technical  problems  on  designing  and  manufacturing,  i.e.,  highermanufacturing  cost  and  more  weak  points,  etc.Therefore,  the  development  of  an  alternative,low-cost, wide-temperature (from -20 to 55 oC) and high-power battery system is highly desired.
+
+Systematic optimization of each battery components (including cathode, anode and electrolyte)is  a logical  way to  develop the targeted battery system.Sodium ion  batteries  (SIBs) have beenconsidered  as  the  most  realistic  alternative  to  LIBs  mainly  because  of  the  abundant  sodiumsources in strong contrast to the limited lithium storage in the earth.
+
+You et al and Hwang et alhave  investigated  the  low-temperature  performance  of  SIBs  cathodes.[7,  8]  Meanwhile,Ponrouch  et  al  has  demonstrated  that  hard  carbon  negative  electrode  can  have  performed  atvarious temperatures ranging  from  -15 °C up to  75 °C.
+
+ In addition,  fruitful optimizations ofthe  physicochemical  properties  (i.e.,  freezing  points,  viscosity,  ionic  conductivity)  of  theelectrolyte by choosing proper solvent and additives for low temperature application have beenreported.
+
+
+So  far,  these  pioneering  works  have  revealed  the  feasibility  of  SIBs  for  low-temperature application.However, their rate performances at low temperatures are still limited atlow rates, which  cannot  outperform that of  LIBs.Therefore, it  is  challenging but  significant  toseek suitable electrode materials for potential breakthrough at low-temperature performance.
+
+As  for  insertion-type  electrode  materials,  it  is  well  recognized  that  the  nature  of  narrowinterstitial  channels  and  sluggish  ionic  diffusion  rate  in  the  crystalline  limits  their  rateperformance.
+
+This phenomenon could be more severe at low temperatures owing to thedecrease  of  diffusion  coefficient  and  shrinkage  of  the  crystalline  structure.
+
+Therefore,specific  properties  of  the  electrode  materials,  such  as  the  stable  crystalline  structure  in  a  widetemperature  range,  the  low  migration  barriers  for  ionic  diffusion  and  low  activation  energy  forreaction  kinetics,  are  highly  desirable.Although  Na+  is  larger  than  Li+,  theoretical  andexperimental works have shown that the migration barriers can be lower for Na+ than for Li+ invarious  relevant  structures.
+
+Na  Super  Ionic  Conductor  (NASICON)  is  considered  as  aneffective  structure  to  facilitate  Na+  migration  because  of  the  fast  Na+  hopping  transportationmechanism.
+
+These NASICON-type compounds are a class of structurally isomorphous three-dimensional (3D) framework compounds.Na3V2(PO4)3 (NVP) is a typical NASICON material,featuring a stable 3D framework that offers sufficient interstitial spaces for Na+ diffusion (Figure1a).
+
+This outstanding Na+ mobility in the NASICON structure has been well documented.
+
+More  inspiringly,  the  Na+  hopping  transfer  from  liquid  electrolyte  to  solid  electrode  is  alsoproposed  to  be  easier  compared  to  Li+  on  account  of  the  less  extensive solvation  of  the  biggercation.
+
+ Given the above merits, NVP is envisaged to be a promising candidate for the low-temperature application.
+
+Like  other  phosphates,  NVP  crystalline  has  a  drawback  of  low  electric  conductivity.
+
+Coating  conductive  carbon  layer  on  the  NVP  surface  is  an  effective  approach  to  solve  thisproblem.
+
+ Herein, a low-cost organic carbon source of sucrose is adopted to construct anelectrically conductive coating on the NVP surface, which confines the NVP grains in nano scaleat the same time.
+
+As outlined in Figure 1b (the detailed experimental condition is included inSupporting  Information),  all  the  starting  materials  including  NaH2PO4,  V2O5  and  sucrose  areball-milled  for  9  h  in  alcohol  to  obtain  a  homogeneous  precursor  mixture.Upon  a  calcinationprocedure  of  300  oC  for  2  h  under  Ar  atmosphere,  bulk  intermediates  are  obtained  withcarbonization  of  sucrose  and  decomposition  of  NaH2PO4.Upon  a  calcinationprocedure  of  300  oC  for  2  h  under  Ar  atmosphere,  bulk  intermediates  are  obtained  withcarbonization  of  sucrose  and  decomposition  of  NaH2PO4.
+
+ The  subsequent  ball  millingtreatment  is  to  effectively  reduce  the  particle  size  of  bulk  intermediates  into  the  nano-scale,which  plays  a  beneficial  role  on  nanomaterial  synthesis.
+
+ Finally,  the  nano-sizedintermediates are subject to a calcination process at 800 oC in Ar atmosphere for 8 h, resulting inthe final product – a carbon-coated NVP (NVP@C) nanocomposite.
+
+The XRD pattern (Figure  2a) clearly confirms  that the  as-prepared NVP@C sample has a highcrystallinity  with  a  well-defined  NASICON  structure  (JCPDS  No.62-0345)  and  there  is  noimpurity existing in the NVP crystalline after the calcination process.Some tiny peaks also areobserved,  which  are  very  likely  XRD  response  of  the  superstructure  of  NVP  crystalline.
+
+Such  a  superstructure  is  believed  to  extend  interatomic  distances  and  enlarge  the  interstitialspaces of the NVP crystalline, which act as the Na+ diffusion channels, as described in Figure 1a.
+
+Moreover, as shown in the SEM images (Figure 2b and Figure S1), the particle size of NVP@Cis controlled in the vicinity of 100 nm.The small size bestows short Na+ diffusion length and fastNa+ transport level.
+
+As a result, the NASICON structure and nano-particle size collectivelyenable rapid Na+ hopping transportation in the NVP crystalline.
+
+Coating  pyrolytic  carbon  derived  from  sucrose  on  the  surface  of  active  grains  has  been  aconventional  approach  with  many  advantages,  such  as  enhancing  the  electric  conductivity,confining particle size and reducing the valance of metal ions.
+
+In this work, TEM image inFigure  2c  presents  a  carbon  coating  of  ca.4  nm  on  the  NVP  surface,  while  no  graphiticdiffraction  peaks  are  observed  in  the  XRD  spectrum,  suggesting  that  the  carbon  coating  isamorphous.
+
+Finally,  the  carbon  content  of  the  NVP@C  is  ca.  3.  3.78  wt%  as  detected  byElementar  Analysensysteme  GmbH.In  addition,  Raman  spectra  (Figure  2d)  and    X-rayphotoelectron spectra (XPS) (Figure S2a) for the elemental C of NVP@C shows an amount ofsp2-type  carbon  is  larger  than  that  of  the  sp3-type  carbon.
+
+ It  is  well  recognized  that  sp2  Cfacilitates electronic migration.
+
+ Besides, there is a peak located at binding energy of 515.[32] Besides, there is a peak located at binding energy of 515.75eV,  corresponding  to  V3+.
+
+ Therefore,  the  thin  carbon  coating  on  the  NVPnanoparticles will enhance electronic transport during the charge-discharge process.
+
+These achieved low-temperature performance of the NVP@C are incorporated into Table S1, inorder to compare with the state-of-the-art low-temperature researches on LIBs or SIBs cathodes.
+
+As  shown  in  Figure  3c,  at  low  rates  (<1  C),  the  discharge  capacity  of  NVP@C  is  slightly  lessthan that of the LFP-based or LVP-based cathodes because of the inherently limited theoreticalNVP value.
+
+Nevertheless, with  the rate  over 1  C, the low-temperature performance  ofNVP@C  clearly  outperforms  that  of  currently  reported  LIBs  cathodes.As  an  example,  thedischarge capacity of the NVP@C is almost ten times higher than that of the LVP-based cathode(ca.  10  mAh·g-1)  for  5  C  at  -20  oC.
+
+The  result  suggests  that  the  NASICON-structuredNVP@C has the overwhelming advantage in the low-temperature performances, compared withLIBs cathodes.
+
+To  demonstrate  the  suitability  of  the  NVP@C  for  stable  electricity  supply  application,  thedischarge capacity is monitored under varying temperature conditions (i.
+e, the initial temperate iscontrolled at 23 oC at the first 10 cycles, the down to -10 oC for 15 cycles and back to 23 oC for15  cycles)  As  shown  in  Figure  3d,  the  NVP@C  exhibits  a  steady  discharge  capacity  of  107.e, the initial temperate iscontrolled at 23 oC at the first 10 cycles, the down to -10 oC for 15 cycles and back to 23 oC for15  cycles)  .
+
+As  shown  in  Figure  3d,  the  NVP@C  exhibits  a  steady  discharge  capacity  of  107.8mAh·g-1 without significant variations.Furthermore, the NVP@C is also able to maintain widelysteady  voltage  platform  with  insignificant  voltage  drop.Only  170  mv  voltage  fluctuationbetween 23 C and -10 C is monitored in Figure S5, which is beneficial to the low-temperatureapplication.Furthermore, the NVP@C also has a remarkable stability at low temperatures with aretention of 75.Furthermore, the NVP@C also has a remarkable stability at low temperatures with aretention of 75.8% at 10 C after 500 cycles at -20  oC (Figure 3e).That is equivalent to a fadingrate of ca. 0. 0.048% for each cycle, which is similar to the case (average ca. 0. 0.04% for each cycle)at room temperature (Figure S6).It can be collectively concluded that the NVP@C can offer anoutstandingly stable electrochemical performance at various low temperatures.
+
+The  excellent  high-rate  and  steady  performance  of  the  NVP@C  cathode  should  stem  from  thefast  3D  Na+  hopping  transportation  mechanism  in  the  NASICON  structure.Electrochemicalimpedance  spectroscopy  (EIS)  is  used  to  evaluate  the  influence  of  temperature  on  the  Na+hopping behaviour in the reaction interface and crystalline structure, corresponding to the chargetransfer  resistance  and  ionic  diffusion  of  the  electrodes,  respectively.
+
+In  this  work,  besidesthe  commonly  asymmetric  NVP@C-Na  cell  model  (Figure  4a),  two  symmetric  cell  modelsconsisting  of  NVP@C-NVP@C  electrodes  and  metallic  Na-Na  disks  are  also  assembled  asshown  in  Figure  4b  and  c,  respectively.The  NVP@C-Na  cells  are  evaluated  at  varioustemperatures and the corresponding EIS results are given in Figure 4d.As shown in the inset ofFigure  4d,  the  impedance  spectrum  is  composed  of  two  partially  overlapped  depressedsemicircles  at  high  and  medium  frequency  regions,  and  a  straight  slope  line  at  low  frequencyregions.It is well established that each  semicircle corresponds to the respective charge-transferresistance  and  its  related  double-layer  capacitance.
+
+With  decreased  operation  temperatures,the  diameters  of  semicircles  in  the  profiles  become  significantly  larger,  suggesting  theimpedance  of  the  cell  increases.
+
+In  order  to  identify  the  contributor  (either  NVP@C  or  Naelectrode) that is responsible for the increasing impedance, the symmetric cells are investigatedand  the  corresponding  spectra  are  shown  in  Figure  4e  and  f.As  for  the  symmetric  NVP@C-NVP@C  cell  model  (Figure  4b),  all  the  corresponding  EIS  curves  (Figure  4e)  at  varioustemperatures  present  a  single  semicircle  with  similar  diameters,  implying  that  the  temperaturechanges have insignificant influence on the impedance values.
+
+In contrast, the EIS curves (Figure4f)  of  symmetric  Na-Na  cell  model  (Figure  4c)  exhibit  a  rapidly  increased  semicircle  diameterand  thus  increased  impedance  at  the  decreased  temperatures.In  order  to  validate  theeffectiveness  of  the  symmetric  cell  design,  following  the  three-electrode  system  proposed  byLiao  et  al[12],  a  three-electrode  cell  (NVP@C  as  working  electrode,  Na  metal  disk  as  counterelectrode  and  Na  metal  wire  as  reference  electrode)  was  assembly  for  EIS  tests  at  varioustemperatures (Figure S7a).The results in Figure S7b indicate that the charge-transfer resistancealso  increases  with  the  decreasing  temperature,  which  is  similar  to  the  results  of  two-electrodecells  and  validates  the  effectiveness  of  the  symmetric  cell.This  is  also  in  line  with  theobservation  in  a  symmetric  sodium  anode  cell  in  a  recent  work  of  Iermakova’s  group[40].
+
+According to the above observations, it can be concluded that the dramatically increased charge-transfer  resistances of the  NVP@C-Na  cell at  low temperatures are mainly originated  from  themetallic  Na  anode,  rather  than  the  NVP@C  cathode.“The  high  impedance  of  the  Na  counterelectrode  will  result  in  large  overpotential  that  decrease  the  discharge  voltage  of  NVP@C  andultimately limit power performance of the NVP@C cathode.
+
+According to the EIS results of the NVP@C-NVP@C cell model, the equivalent circuit is fittedas the inset of Figure 4e and the calculated parameters are listed in Table S2.”According to the EIS results of the NVP@C-NVP@C cell model, the equivalent circuit is fittedas the inset of Figure 4e and the calculated parameters are listed in Table S2.The intersection onthe x axis represents bulk resistance of the cell (Ru), which reflects the overall ohmic resistanceincluding  the  electrolyte  and  electrodes.
+
+The  Ru  values  in  Table  S2  escalate  with  thedecreasing  temperature,  which  are  mainly  ascribed  to  the  reduced  Na+  diffusion  in  theelectrolyte.
+
+The  variation  on  charge-transfer  resistance  (Rct)  reflects  the  impact  of  thedecreased temperatures on reaction kinetics in the interface.
+
+There is no significant increasein the collected Rct values from 52.[38] There is no significant increasein the collected Rct values from 52.9 (55  oC) to 87.9 (55  oC) to 87.45 (-30 oC) in Table S2.45 (-30 oC) in Table S2.It indicates a slighteffect of decreased temperatures on Na+ insertion/de-insertion process.It is believed that the fastNa+  hopping  transfer  between  electrolyte  and  solid  electrode  endows  high-rate  performance  ofNVP@C at low temperatures.The variation on the ionic diffusion coefficient can be reflected bythe  straight  slope  lines  at  low  frequency  region.
+
+No  significant  change  on  slope  value  alsoindicates the weak impact of temperature on the Na+ diffusion coefficient (Figure S8).
+
+The ionicdiffusion  coefficient  (DNa)  is  further  calculated  via  Warburg  Equation  (see  Equation  S1)  andDiffusion Equation (Equation S2).
+
+It is well understood that the operating temperature is favourfor  the  electrochemical  kinetics.  For  an  example,  the  Na+  diffusion  coefficient  is  41.  
+
+For  an  example,  the  Na+  diffusion  coefficient  is  41.6  ×10-13cm2·s-1 at 55 oC, being much higher than values at other operating temperatures (Table S2).
+
+This can be expected in that the higher temperature facilitates better ionic mobility and enhances thereaction kinetic of the sodium ion insertion process.The Na+ diffusion coefficient only declinesfrom 3.The Na+ diffusion coefficient only declinesfrom 3.35 ×10-14 cm2·s-1 to 0.35 ×10-14 cm2·s-1 to 0.83 × 10-14 cm2·s-1, along with decreasing temperature (from 23 oCdown to -30 oC). Even at -20 oC and -30 oC, ca.55% and 25% of the Na+ mobility are retained,respectively.Therefore,  the  Na+  diffusion  coefficient  of  the  NASICON  framework  has  moredependence  on  temperature  changes,  compared  with  LIBs  cathodes.Benefiting  from  theadvantages  of  fast  3D  Na+  hopping  migration,  the  NASCION  structured  NVP@C  enables  thehigh-rate SIB application at wide temperature range.
+
+To  highlight  the  advantage  of  the  NASCION  structure  in  ionic  migration  for  low-temperatureapplication,  a  comparative  sample  of  carbon-coated  LVP  (LVP@C)  composite  cathode  issynthesized  (the  detailed  experimental  conditions  can  be  seen  in  Supporting  Information)  andinvestigated  by  EIS  analysis.LVP  is  the  monoclinic  structure  confirmed  by  the  XRD  pattern(Figure  S9a).  
+
+The  carbon  coating  of  ca.3  nm  on  the  LVP  surface  is  characterized  by  TEM(Figure  9b).
+
+The  EIS  results  (Figure  S10,  S11  and  Table  S3)  illustrate  that  the  decreasedtemperatures  have  a  significant  impact  on  Li+  transfer  and  diffusion  process.The  Rct  value  forLi+  charge-transfer  resistance  rises  2.The  Rct  value  forLi+  charge-transfer  resistance  rises  2.3  times  from  23  oC  down  to  -30  oC.The  calculated  DLivalue for Li+ diffusion coefficient is significantly reduced by 82.The  calculated  DLivalue for Li+ diffusion coefficient is significantly reduced by 82.7% from 23  oC down to -20 oC.
+
+The  evidently  increasing  charge-transfer  resistance  and  decreasing  Li+   diffusion  coefficient  ofmonoclinic  LVP@C  lead  to  the  inability  in  high-rate  performance  of  LVP@C  at  lowtemperatures (e.g. at -10 oC in Figure S12).
+
+ConclusionsWe demonstrate a facile strategy of utilizing NASCION-structured electrode materials with fast3D  Na+  hopping  transportation  for  all-climate  battery  applications.A  designed  NASCIONstructured NVP@C nanocomposite cathode exhibits an excellent wide-temperature performancein  term  of  high-rate  ability  and  steady  capacity  output.The  NVP@C  can  deliver  a  dischargecapacity of ca. 115. 115.3 and 85.3 and 85.5 mAh·g-1 for 1 C at +55 oC and -30 oC, respectively.Therefore, themerits of the SIB based on the NVP@C cathode have satisfied the targeted requirements of low-cost, wide-temperature-range and high-power battery.Furthermore, this new strategy can be usedwith other NASICON materials (Figure S13) to  resolve a major barrier of the insufficient low-temperature  behaviors  of  rechargeable  batteries.With  the  availability  of  the  high  performanceand  low  cost  anode  materials  for  SIBs  such  as  hard  carbon[9],  all-climate  SIB  full  cell  can  beexpected in the near future.
+

@@ -1,0 +1,261 @@
+Given the interest of silicates as potential electrode materials for lithium batteries, it is critical to fullyunderstand the role that the inductive effect of the polyoxyanionic group, (XO4)n-, plays on theelectrochemical performance of polyoxyanionic compounds.
+In this work we have combined experimentsand first-principles methods to investigate to which extent the inductive effect of the X-O bond withinthe XO4n- polyanion (X ) Si, Ge0.5Si0.5, Ge, Si0.5As0.5, Si0.5P0.5, As, P) modifies the redox energy of theV5+/V4+ couple in the LiyVOXO4 family of compounds.
+Calculations using the GGA+U method evidencea nice correlation between the X electronegativity and details of the crystalline and electronic structures of Liy+1V4+OXO4/ LiyV5+OXO4 phasessuch as bond distances or band gaps.
+Besides the inductive effect of the polyanionic group, we foundthat the chemistry of these 2D compounds is also correlated to the Li+ site occupancy in the interlayerspace.
+The calculated lithium insertion voltages display an almost linear dependence on the Mulliken Xelectronegativity; this offers promising prospects in the design of novel polyoxyanionic electrode materials.
+The new electrode materials Li2VOGeO4 and Li2VOSi0.5Ge0.5O4 have been electrochemically tested,providing good agreement between experimental and calculated lithium insertion voltages.
+Activationenergies of the prepared compounds follow the band gap trend provided by the calculated data as well.
+Thus, experimental evidence support the computational results and the conclusions presented here.
+Understanding the factors governing the energy of theactive redox couple of an electro-active material and, as aconsequence, the working voltage of the lithium cell is ofcrucial importance in the design of innovative electrodematerials.
+To illustrate this idea, one could consider, forinstance, how the voltage developed by a lithium cell usingthe Fe3+/Fe2+ couple depends on the specific material.
+Thisredox couple is active at potentials ranging from 2.4 V inLi3Fe(MoO4)32 to 2.5 V in LiFeAs2O7,3 3 V in Fe2(MoO4)3,43.1 V in Li2FeSiO4,5 3.5 V in LiFePO4,6 and 3.6 V in Fe2-(SO4)3.7 As stated by Goodenough’s team, the energy of agiven redox couple varies from one compound to anotherdepending on two main factors: (1) the electrostatic field at the cation position and (2) the iono-covalency of the cationanionbonding.
+The relative importance of both factorscan be properly studied on materials formed by MOxpolyhedra (M ) transition metal cation) linked by tetrahedralpolyatomic anions (XO4n- ) PO43-, AsO43-, SO42-, etc.).
+The electrostatic field follows the structure variations.
+Onthe other hand, the covalence of the M-O bond is differentin isostructural compounds having different tetrahedralpolyatomic anions due to the so-called inductive effect, whichis a consequence of the different degree of covalence in theX-O bond.
+The meaning of inductive effect is “an experimentallyobservable effect of the transmission of chargethrough a chain of atoms by electrostatic induction”.
+However, while this concept looks simple and intuitive, itis desirable to quantitatively correlate the inductive effect of a polyatomic anion to the energy of the electrochemicalreaction associated to a redox couple, and then to the voltageof a cell constructed with a given counter electrode.
+Thisissue gets even more relevance given the increasing interestin silicates as potential electrode materials; three silicates,Li2FeSiO4,5,10 Li2MnSiO4,10 and Li2VOSiO4,11 have beenproven to be electrochemically active to date.
+Therefore, thereis not a lot known about the electrochemistry of silicates, in contrast with the wide information acquired about theelectrochemistry of phosphates during the past decade.
+Inmany cases the synthesis of lithium transition metal silicatesis a very difficult task due to the thermodynamic instabilityof the desired phase during the synthesis.
+To minimize theexperimental efforts, it would be desirable to correlate thewell-known electrochemistry of phosphates to analogoussilicates.
+We could question, for instance, which voltagedifference can be expected between a phosphate and asilicate, if silicates are better electronic conductors thanphosphates, and so forth.
+
+In  all cases the calculated lithium deintercalation voltagecorrelates to the Mulliken X electronegativity, displaying alinear dependence for each structural type/redox couple.
+Inthe present work, we combine first-principles and experimentalmethods to study in detail the correlations betweenproperties for the Liy+1V4+OXO4 family of compounds (X) Ge, Si, As, P, and their combinations) and the Xelectronegativity.
+Solid-state chemists are quite familiar with the inductiveeffect based on simple ionic-covalence concepts and haveused it sometimes as a sound platform to search for betterelectrode materials.
+The inductive effect is afterward thepolarization of the V-O chemical bond caused by thepolarization of the adjacent X-O bond.
+According toPauling, the fractional ionic character of a A-B bond canbe roughly estimated from the electronegativity differenceof the bonding atoms A and B.
+Furthermore, it is the bondpolarity that governs the three types of bonds as demonstrated by visualizing the vanArkel-Ketelaar triangle, the vertices of which are labeledcovalent, metallic, and ionic; the triangle is constructedquantitatively using the sum of the electronegativities of theconstituents as a horizontal coordinate, and as a vertical axisits differences.
+Following these elemental ideas, wepostulated that in polyoxyanionic structures possessing M-O-X bonds the iono-covalent character of the M-Obonding is correlated to the electronegativity of X.
+It is welldocumentedthat the evolution of band gaps, Fermi energies,or bond distances in binary solids correlates to the bondpolarity or the electronegativity difference between theconstituent elements.
+Therefore, in polyoxyanioniccompounds, bond lengths, band gaps, and lithium intercalationvoltages might be related to the X electronegativity.
+In this work we will refer to the Mulliken electronegativityscale,which defines the electronegativity as  ) (I +A)/2, where I is the lowest first ionization potential of aground-state free atom and A its corresponding electronaffinity.
+Vanadium-based oxides are well-known for presenting awide range of structures mainly due to the versatility of theoxygenated surroundings adopted by vanadium ions in their+5 and +4 valence states.
+Among them the LiyVO(XO4)family allows a comparison of the inductive effect of thepolyanionic group [XO4]n- on the redox potential of the V5+/V4+ couple.
+The prototype structure Li2VOSiO4 (Figure 1a)was reported in the 1990s together with the existence of asolid solution Li2VO(Si1-xGexO4).
+This structure is builtup with VO5 square pyramids (SP) sharing corners with SiO4tetrahedra (Td) to form layers stacked along the c-axis andlinked together by lithium ions located in distorted octahedra.
+The V4+ exhibits a typical short vanadyl V-O bond withthe apical oxygen and four equivalent V-O distances withthe equatorial oxygen ions.
+Prakash et al.showed that 0.7lithium ions can be removed from Li2VOSiO4 compound atan average voltage of 3.63 V.
+Studies reported in thephosphate vanadium based compounds show that among thedifferent polymorphs the alpha-I form LiyVOPO4 (y ) 0, 1)exhibits the Li2VOSiO4 structure type and is electrochemicallyactive at 3.9 V.
+ In the arsenate family LiyVOAsO4phase is reported to be present, even if not the most stableand easy to prepare form, a variety related to the alpha-Iform structure type.
+The combination of these different dataallow one to define a LiyVO(XO4) system with the samestructure and the same active redox couple V5+/V4+ whilevarying both the inductive effect of the polyanionic [XO4]ngroup(X ) Si, Si0.5Ge0.5, Ge: n ) 4 and X ) P, As: n )3) and the lithium amounts (y ) 1, 2 for n ) 4 and y ) 0,1 for n ) 3).
+This family of compounds provides then anexceptional case to quantitatively analyze how the inductiveeffect of the different (XO4)n- groups respectively shifts theredox potential of the V4+/V5+ couple.
+For completeness,the electrochemistry of the Li2VOSi0.5Ge0.5O4 and Li2-VOGeO4 compounds have been studied and reported in thispaper and the study of the hypothetical compounds Liy-VOSi0.5As0.5O4 and LiyVOSi0.5P0.5O4 aiming to extrapolatefor n ) 3.5 the results obtained for existing compounds (herey ) 0.5, 1.5).
+For sake of clarity the paper is organized following thelithium battery community’s general way of thinking.
+In the section (a) deals with the lithiuminsertion voltage of LiyV5+OXO5 compounds comprising the experimental results followed by first-principles predictions.
+In section (b) we address the crystalline structures of lithiatedand delithiated materials including a comparison betweencalculations and experiments whenever experimental data areavailable.
+Section (c) presents the experimental determinationof activation energies and the analysis of the calculatedelectronic structures.
+This outline was done according torelevant aspects that should be considered in the search forpromising electrode materials, starting with the commonobjective of each battery researcher that is to have theappropriate tools to tentatively design a new high lithiuminsertion voltage compound (section (a)).
+A good electrodeshould also display a nicely reversible lithium insertionprocess to favor long-term cyclability, and this is intimatelylinked to the crystalline structure (section (b)).
+Finally, it is very important to anticipate the polarization of the positiveelectrode since it directly governs its power rate capabilitythat depends on the intrinsic electrical conductivity of theactive material.
+While computing the total energy of acompound does not provide any information about the Limobility, information on the intrinsic electronic conductivitycan be inferred from the electronic structure (section (c)).
+The Li2VOSiO4, Li2VOGeO4, and Li2VOSi0.5-Ge0.5O4 phases reported herein were prepared by a ceramic route(Millet and Satto22).
+Stoichiometric amounts of Li2SiO3 (Aldrich)and Li2GeO3 (Aldrich) and homemade VO2 were thoroughly mixed,pressed into 12 4 mm pellets, wrapped within a platinum foil(to avoid direct contact of the reaction mixture with the silica tube),and then placed in a fused silica ampule that was then evacuatedand sealed.
+The ampule was heated at a rate of 4 °C/min to 925 °Cfor 48 h and then cooled to room temperature by turning the furnaceoff.
+The resulting red brownish pellets were powdered prior to characterizing the structural aspects.
+The powders were singlephased,as deduced from their X-ray diffraction pattern recordedon a Scintag diffractometer (Cu KR radiation ì ) 1.5418 ).
+Therefined cell parameters fall in good agreement with previouslyreported literature values (Table 1).
+The electrochemical reactivityof both lithiated and delithiated phases vs Li was tested usinglaboratory Swagelok cells.
+The as-made lithiated samples beingbarely electrochemically active were mixed with 20% (by weight)carbon and ball-milled for 10 h in a Fritch apparatus.
+Swageloktypecells were assembled in an argon-filled glovebox with about10 mg of the ball-milled mixture and separated from the negativeelectrode (lithium foil) by two sheets of fiber glass disks, the wholebeing soaked with a LiPF6 (1 M) solution in ethylene carbonate(EC)/dimethyl carbonate (DMC) mixture (1/1 v/v).
+Galvanostatictests were conducted with a Mac Pile controller at constanttemperature of 25 °C.
+For ac electrical conductivity measurements,the lithiated powders were first pressed into pellets by means ofuni-axial pressure (500 kg cm-2).
+The resulting pellets were sinteredunder N2 at 900 °C for 24 h, resulting in 76% dense pellets.
+Careful control and polishing of the pellet surfaces was ensuredbefore platinum deposition (sputtering) on opposite faces of thepellets.
+ac impedance measurements were done in air over the 403-518 K temperature range using an Autolab PGSTAT20 impedanceanalyzer by applying 350 mV amplitude in a frequency range of 1MHz to 1 Hz.
+A good description of the DFT method and itsapplication to the study of lithium battery materials can be foundin refs 26 and 27. 
+In this work, we have performed total energycalculations based on DFT in the Generalized Gradient Approximationwith the Hubbard parameter correction (GGA+U) followingthe rotationally invariant form as implemented in VASP.
+Withinthis approach, two correction terms enter as independent parameters in the calculation method: the onsite Coulomb correlation term U,and the J term, which is an approximation to the Stoner exchangeparameter.
+The U and J correction basically give an additionalcontribution from a Coulomb interaction (pairs with antiparallelspins) and exchange interactions (pairs with parallel spins) to thoseorbitals that keep their “atomlike” (e.g., localized) behavior andthus correct their energies.
+U and J can be extracted from selfconsistentcalculations.
+ An alternative route consists of selectingthese values so as to account for the experimental results whateverthey are: equilibrium volume, magnetic moment, band gap,structure, or lithium insertion voltage as in the present work.
+Wehave in the present case computed the total energies of Li2VOSiO4and LiVOSiO4 within the GGA+U approximation with U valuesranging from 0 to 5 eV and with J being equal to either 0 or 1 eV.
+Thereafter, we set U ) 4 eV and J ) 1 eV to calculate the totalenergy of all other Liy+1V4+XO5 and LiyV5+XO5 compounds.
+Inthe case of V5+-based compounds the total energy was alsocalculated within the pure GGA, i.e., without introducing the Uand J correction terms.
+For the exchange and correlation functionalwe chose a form suggested by Perdew, Burke, and Ernzerhof(PBE).
+A number of one, five, four/five, and six valence electronsare taken into account for each Li, V, Si(Ge)/P(As), and O atom,while the remaining core electrons together with the nuclei aredescribed by pseudo-potentials following the Projector AugmentedWave (PAW) method.
+To evaluate the influence of the basis seton the overall results, a second set of calculations was performedusing the PBE potentials but increasing the number of valenceelectrons to 3 and 11 for Li (1s22s1) and V , respectively.
+We will refer to this set of calculations as “set II”, while the onewith less valence electrons will be denoted as “set I”.
+Hence, it isimportant to stress that different pseudo-potentials have been usedin set I and set II; in the latter, smaller core pseudo-potentials havebeen introduced to explicitly introduce the semi-core states intothe calculations.
+Introducing the semi-core states of V 3p and Li1s as valence states in the calculation (set II) provides more accurateresults, though it comes at the expense of a high price in computational power.
+The wave functions were expanded on aplane-wave basis set with kinetic energy below 500 eV.
+Theintegration in the Brillouin zone is done by using the tetrahedronmethod corrected by Blo¨chl on a set of k-pointsdetermined by the Monkhorts-Pack scheme (48 irreducible k-points).
+A convergence of the total energy close to 5 meV per formula unitis achieved with such parameters.
+The initial cell parameters andatomic positions of Li2VOSiO4 were taken from Millet and Satto,22with the unit cell containing two formula units (Li4V2Si2O10).
+Thereafter, compositional variations were introduced placing differentX atoms (X ) P, As, Ge) in the Si positions to form LiyV4+-OXO4 (y ) 1: X ) P, As, y ) 1.5: X ) P0.5Si0.5, As0.5Si0.5 and y) 2: X ) Ge, Si0.5Ge0.5).
+Notice that for the mixed compoundsone Si atom is replaced by Ge, Si, or P .
+In all casesa ferromagnetic configuration was used to define the initial groundstate of LiyV4+OXO5 and the calculations were done consideringthe spin polarization.
+
+The final energies of the optimizedgeometries were recalculated so as to correct the changes in thebasis set of wave functions during relaxation.
+Preparation andanalysis of VASP files were done primarily with the CONVASP code.
+Swagelok LiVOSi(Ge)-O4/Li cells were assembled and cycled in a galvanostaticmode between 2.5 and 4 V with a discharge and chargecurrent of 10 íA/cm2. The voltage composition curvescollected for the three cells show a plateau, indicative of atwo-phase intercalation process.
+For reasons of length andclarity, we reported only on the derivative curves (dx/dV vsV) that are more appropriate for accurately determining redoxpotential values (Figure 2).
+Note that the redox potential,initially of 3.63 V vs Li+/Li0 for the Li2VOSiO4 phase,decreases to about 3.55 V for the Li2VOGeO4 phase andtakes an intermediate value of 3.58 V for the 50/50 Ge/Siphase.
+However, such relation between potential and inductiveeffect does not come as a surprise since it was alreadyspotted and described by Goodenough et al.for the phosphates.
+More covalent X-O bonds will make the V-Obonds less covalent through the inductive effect, resultingin a lowering of the antibonding states and leading to a higher lithiuminsertion voltage.
+Thereby it is possible, with polyoxyanionicstructures possessing M-O-X bonds, to act on the natureof X to change the iono-covalent character of the M-Obonding through the inductive effect of the counteranion, toestablish a systematic mapping and tuning of transition-metalredox potentials.
+However, a quantification of the voltage shift due to theinductive effect of the polyanion group is experimentally verycostly.
+Goodenough and co-workers showed that a changefrom sulfate to phosphate ions lowers the open-circuit voltageof isostructural compounds in 0.8 V.
+ Such a result comesfrom the study of at least four compounds (Li3+xM2(PO4)3,LixM2(SO4)3 with M ) Fe, V) comprising the preparation,structural characterization, and electrochemical testing.
+9Obviously, applying computational methods to precise voltageshifts would minimize experimental efforts.
+Since 1997, density functional theory (DFT) has beenwidely used to predict the average voltage of lithium insertionin many compounds.
+Assuming that the changes in volumeand entropy associated with the intercalation are negligiblysmall, the voltage can be extracted from the calculated totalenergies.
+ In systems with high electron-electron repulsion,introducing a U-parameter correction term into the densityfunctional theory improves the accuracy in the prediction oflithium insertion voltage, lowering the differences withexperimental voltages to the range of a few meV.
+In the LiyVOXO4 family vanadium ions are well separated by SiO4 tetrahedra, preventing any 3d orbital from overlapping,and therefore a U correction term must be included inthe calculation to account for these highly localized electrons.
+As recently demonstrated by Wang et al. the incapabilityof the pure DFT to accurately predict redox energies is acommon feature to any redox reaction where the electron istransferred between very distinct environments ; hence,the DFT+U method improves the accuracy on the predictionof such redox potentials even if the compound accepting theelectron has a transition metal ion with a d0 configuration(as V5+, or Cr6+-based compounds).
+Figure 3a shows thecalculated lithium insertion voltage for the LiVOSiO4 T Li2-VOSiO4 electrochemical reaction plotted as a function ofseveral U and J parameter values (see Methodology section);the experimental voltage is indicated by a horizontal line.
+The calculated voltage steeply increases with the value ofthe U parameter, as previously reported for olivine-LiFePO4,42 olivine-LiCoXO4 (X ) P, As),43 and Li2FeSiO4.12Without the U correction term the insertion voltage isunderestimated by ca.
+1 V, whereas for U values greater than4 eV the voltage is overestimated.
+For the set I of calculationsthe most accurate estimation of the experimental voltage isbeing reached at U ) 4 eV and J ) 1 eV.
+Although for the set II of potentials (green diamonds in Figure 3a) a moreaccurate estimation of the experimental voltage would requirea slightly larger U value, aiming to compare the results fromset I and set II, we selected U ) 4 eV and J ) 1 eV for theremaining calculations.
+For nomenclature consistency withprevious works, thereafter we will refer to the Ueffective value(denoted simply as U), being Ueffective ) .
+Special care is certainly needed to select a correct U valuesince U should have a physical meaning and should be in acorrect range of value.
+Regarding the physical meaning,depending on the U value that is chosen, the calculatedelectronic band gap will be affected, as we will discuss insection (c).
+Figure 3b plots the calculated and experimental lithiuminsertion voltage for LiyV5+OXO4 (X ) P, As, P0.5Si0.5, As0.5-Si0.5, Si, Ge) compounds as a function of the Mullikenelectronegativity of the central atom X (in Pauling units) of each polyoxyanionic group (XO4).
+Independent of thenumber of valence electrons included in the calculation (setI or set II), the calculated voltage increases with the Xelectronegativity displaying an almost linear dependence.
+Theexperimental voltages of lithium insertion into LiVOSiO4,LiVOGe0.5Si0.5O4, LiVOGeO4, and VOPO423 well agree withthe calculated values, supporting the computational results.
+For instance, for X )V5+ () 1.63) the calculated and experimental linear fittingsof Figure 3b give voltages of 3.1 and 3.3 V, respectively.
+These values of the hypothetical VOVO4 are comparable tothe V4+/V5+ redox potential value of 3.4 V in V2O5.46We have so far demonstrated that the experimental/computational lithium insertion voltages of the LiyV5+OXO4family of compounds can be correlated to values of tabulatedMulliken electronegativities.
+A linear correlation is observedin all cases, even when the set I of potentials is used (lessaccurate calculation, but faster).
+
+Lithium sites are fully occupiedin Li2VOSiO4, and oxidizing this compound would lead toa 50% Li site occupancy in LiVOSiO4. It is difficult tosimulate the LiVOXO4 structure using periodic electronicstructure methods unless a lithium/vacancy order is imposedto the cell used in the calculations.
+As there is no experimentalevidence of any Li ordering in the experimentallyprepared Li1.18VOSiO4,11 or in the isostructural LiVOPO4,47we set up different Li-ordering models by selectivelyremoving lithium ions from the relaxed structure of Li2-VOSiO4. In a first model, the oxidation corresponds toremoving all the lithium in one over two rows.
+The tetragonalsymmetry of the starting compound does not allow to choosebetween the [100] or [010] direction but of course does drive,in the resulting oxidized sample, to differentiate them.
+Considering the lithium chains running for example alongthe [100] direction in the starting material, removing all thelithium in one over two rows leads to formation along [010]alternate fully occupied and empty rows (as shown in Figure1).
+We calculated the energy of a second model, wherelithium ions are evenly removed along both [010] and [100]directions, so as to keep the tetragonal symmetry of Li2-VOSiO4. 
+This latter configuration resulted in lower stabilitythan the one shown in Figure 1d, with energy differences of 0.157 and 0.062 eV/f.u.for LiVOSiO4 and LiVOPO4,respectively.
+We should recall that DFT methods provideinformation for structures at 0 K (no entropy term isaccounted for).
+At higher temperatures the configurationalentropy term might be large enough to generate a randomlithium distribution.
+Table 1 summarizes the calculated lattice parameters ofV4+ and V5+ LiyVOXO4-type compounds obtained after fullyrelaxing the structures.
+Experimental values are given inparentheses; generally speaking, a good agreement is observedwith differences below 5%.
+As demonstrated below, the calculated orthorombic symmetry responds to the order of lithium ions imposed inthe calculated unit cell.
+The characterization of LiVOPO4by means of neutron and X-ray diffraction reveals that Liions are randomly distributed over 1/4 of the 8j sites of thestructure.
+ Since there are no experimental data at lowtemperature, one cannot discard that Li ions would orderbelow room temperature, resulting in a lowering of thetetragonal symmetry.
+Preparation of LiVOSiO4 was attemptedby chemical delithiation of Li2VOSiO4.11 The XRDPmatching of the delithiated sample was achieved whenconsidering the sample to be a mixture of the starting Li2-VOSiO4 compound and the LixVOSiO4 delithiated compound.
+The compositional analysis of the LixVOSiO4 phaserevealed its composition to be Li1.18VOSiO4. Though the poorquality of the XRD data did not allow the refinement of theatomic position of the ions in the cell, no superstructurereflections attributable to lithium ordering were observed.
+In the prepared Li1.18 VOSiO4, the departure from the idealstoichiometry, LiVOSiO4, would also contribute to theprevention of lithium ordering.
+As expected, for each oxidation state the volume tends toincrease with the size of X (Table 1).
+Delithiation causes aminor effect over the volume of the unit cell, the exceptionmade of X ) As, P, where lithium ions are completelyremoved from the structure so that the delithiated formconsists of neutral [VXO5] layers.
+Noteworthy, the calculatedlattice parameters of Li2VOSiO4 within the GGA+U, as afunction of the U value, display a small variation (1%),stressing that experimental redox voltages are more appropriatefor meaningfully defining U.
+In both V4+ and V5+ seriesof compounds the a and b parameters display a slighttendency to increase with the size of X.
+Lithium de-insertionproduces the shrinkage within the [VOXO4]n- layers due tothe oxidation of V4+ into the smaller V5+.
+The interlayerdistance corresponds to c sin R and is added for comparisonin Table 1 for compounds presenting R different from 90°.
+At this point we should analyze two aspects in thesestructures: (i) the amount of lithium ions in the interlayerspace and (ii) the structural distortions from the tetragonalsymmetry of Li2VOSiO4. Both factors are strongly correlatedas deduced from Figure 1. In the silicate and germanate Li2-VOXO4 (Figure 1a) the Li sites are fully occupied, and owingto this full occupancy, each oxygen of the V4+ squarepyramid also belongs to the Li+ and Si4+ polyhedra, resultingin four equivalent V-O distances and a tetragonal symmetry(see V-O distances in Table 2).
+As commented above, inour model, the oxidation of such compounds leads toalternate fully occupied and empty rows of Li along [010].
+This arrangement induces a puckering of the layer along theb direction which becomes longer than the a one.
+Theevolution of the V-O distances (Table 2) shows that V5+adopts its typical surrounding in the form of a distorted SP,the V5+ cation moving toward a tetrahedron coordination(four short distances at about 1.8 and a longer one close to2.0).
+The reduced LiVOXO4 compounds with X ) As or Pcorrespond to the same lithium amount (50% occupancy ofthe lithium sites) but with V in the +4 valence state.
+Hereagain a puckering of the layer is observed but the deformation is smaller than that in silicate or germanate.
+The distributionof V-O distances shows clearly that the vanadyl bond isstill present and that V4+ does not move toward thetetrahedron coordination.
+Oxidation of these latter compoundsleads to complete removal of the lithium, leading tofree interlayer space.
+The VO(P,As)O4 structure recovers thetetragonal symmetry.
+Strangely, the distribution of the V-Odistances is not in agreement with the one typically obtainedfor V4+ and V5+ oxygenated environment.
+Even if thediminution of the volume of the SP is observed during theoxidation, the distribution of the V-O distances shows ahigher distortion in the V4+ case than in the V5+ one.
+Thisunusual distortion can be related to the fact that the V4+valence state is associated with the presence of Li+ in theinterlayer space, inducing the sharing of oxygen ions.
+Since Li ions do not order (at room temperature) in theprepared LiVOXO4 compounds, it is important to confirmthat the structural distortion is due to the ordering of lithiumions between the layers.
+With this aim we simulated therelaxed structure of hypothetical compounds obtained usinga mixture of Si and P or As in the Td environment togetherwith V in +5 or +4 valence state, allowing simulation ofthe relaxed structure for other lithium occupancy Li1.5V4+O-(Si0.5X0.5)O4 and Li0.5V5+O(Si0.5X0.5)O4. Lithium ions areremoved one site over two along one chain over two fromthe fully occupied case to reach the 75% occupancy (V4+compound) and one site over two along the [100] remainingchains of the LiVOSiO4 structure type to reach the 25%occupancy (V5+ compound).
+In both cases that drives thestructural distortions associated here again to a puckeringof the layers.
+Note that the ordered occupancy along thesecond direction ([100] using our choice) leads to thedistortion of the layers along the corresponding cell parameter(a using our choice) and the departure of the correspondingangle which becomes different from 90°.
+The distributionof the V-O distances is in agreement with the usual onesfor both V4+ and V5+ environments, the latter exhibiting thetetrahedral distortion.
+Then clearly one can say that thelithium location is responsible for the structural distortion.
+A full or empty occupancy leads to symmetric structure whilepartial occupancies lead to structural distortion.
+The puckering of the layer appears in the direction where there isalternatively lithium and vacancies (along only one directionfor 50% occupancy corresponding to alternate empty andfull lithium rows and along both directions for 75% and 25%occupancy obtained when lithium and vacancies alternatein both directions).
+Interestingly apart for empty lithium freecompounds, whatever the structure symmetry, the distributionof V-O distances is in agreement with the V valence state.
+Next, it is important to clarify whether this structuraldistortion is somehow related to the inductive effect of thepolyoxyanionic group (X electronegativity).
+Based on theobservation that the major distortion affects the R angle, wechose as rough criteria to describe the structural distortionof the O-V-O angle formed between V ions, the vanadylbond, and the V-O bond opposite to it.
+As shown in theinset of Figure 4, this angle is 180° in the tetragonalsymmetry (see Figure 1 and Table 2).
+The departure from180° of this angle is represented in Figure 4 as a function ofthe Li site occupancy for set II of the calculations (set I givesequivalent results with departure-angle values ranging from0 to 15°).
+It can be inferred that the structural distortion fromthe tetragonal symmetry is due to the different Li sitesoccupancy and independent of the inductive effect of thepolyoxyanionic group.
+Figure 5 shows the evolution of the calculated averageV-O(basal) distances in V4+ (Figure 5a) and V5+ (Figure5b) compounds versus the electronegativity of the centralatom X of each polyoxyanionic group (XO4) (set I in red,set II in green).
+Looking for general trends, the lines connectelements from the same period (period 3: Si, P and period4: Ge, As).
+In both V4+ and V5+ series of compounds, thegeneral trend is that the average V-O(basal) distanceincreases with X electronegativity.
+Higher electronegative Xelements polarize more the oxygen electron density, resultingin a more polarized (ionic) V-O bond.
+This is nicelyobserved moving along a period (Si-P, Ge-As) where theX-O bond progressively acquires a stronger covalentcharacter, rendering the V-O bond more ionic in character.
+Regardless of this general trend, a clear splitting is observedbetween the elements of the n ) 3 (Si, P) and n ) 4 (Ge,As) periods.
+Going down a column, we are moving to 4dorbitals that are more expanded owing to a modification ofthe screening effect (Slater coefficients) together with theappearance of the f levels with, as the bottom line, theeffective nuclear charge increasing.
+Interestingly, accordingto the Allred-Rochow electronegativity scale [(A ) 0.359ZA/rA2 + 0.744), where ZA, as determined by the Slater rule, isthe effective nuclear charge and rA is the Pauling covalentradius], the electronegativities of Ge (2.02) and As (2.20)are higher than those of Si (1.90) and P (2.19).
+Therefore,it is not surprising that M-O distances are usually shorterin phosphates than in arsenates, as experimentally andcomputationally confirmed in â-LiVOXO448,49 and olivine-LiCoXO4 (X ) P, As).
+Another interesting feature observedin Figure 5 is the different slope of the V4+ and V5+ guidinglines; the average V-O distance variation in LiyV5+XO5 isonly 0.6% in the entire electronegativity range, in comparison with the 1.2% variation for the lithiated Liy+1V4+XO5materials.
+One believes that this effect is rooted in thereduction of the inductive effect from V4+ to V5+ since V5+renders the V-O bond more covalent.
+Worth mentioning isthat for V5+ compounds, although both sets of potentialsprovide the same general trend, utilizing the more accuratepotentials (set II) leads to longer V-O(basal) distances.
+The inductive effect of the polyoxyanionic groups is alsoevident in the vanadyl VdO distances in Figure 6.
+ Theevolution of the vanadyl bond with the electronegativity isvery similar for V4+ (squares) and V5+ (circles) series ofcompounds and independent of the computed set of structures(red, green, and violet symbols denote set I, set II, and thepure-GGA, respectively).
+Note that as X electronegativityincreases, the vanadyl bond shortens.
+Higher electronegativeX elements polarize more effectively the electron density ofthe V-SP(basal) oxygen, thereby enhancing the polarization power of the central V5+ (V4+) ion and resulting in a shortervanadyl bond.
+The shift between the 3 and 4 periods is lessnoticeable in the V-O(vanadyl) bond length evolution ascompared to the V-O(basal) bond length evolution (Figure5), which is not surprising since the oxygen atoms in thebasal plane are bonded to the X atom while the vanadyloxygen is not.
+In short, considering the structural evolution, one can saythat the inductive effect of the polyanionic groups togetherwith the V valence state govern the V-O distances whilethe overall structure distortion (puckering of the layer) isdirectly related to the lithium/vacancies ordering.
+Theobserved V-O distances evolution with the X electronegativitysupports the idea that in polyoxyanionic compounds,with X-O-M bonds, the iono-covalent characterof the M-O bond is correlated to the tabulated Mulliken Xelectronegativity.
+The correlation between bandgaps and electronegativity is well-known for binary compoundswithin the field of optics.
+ For a long time,scientists have been guided to the selection of suitablechemical substitutes to tune the optical gap of the IIIV(GaAs) or II-VI(CdTe) semiconductors on a electronegativity-band gap relation.
+However, not too much isknown about whether such a type of relation exists for ternarycompounds, making it appealing to seek out band gaps andX electronegativity correlations in the LiVOXO4 family.
+Experimentally, we have measured the ac conductivity ofLi2VOSiO411 and Li2VOGeO4. Since the pellets had highimpedance, we were only able to evaluate their conductivityfor temperatures greater than 403 K.
+
+
+Such largeroom-temperature resistance, together with the large activation energy, is consistent with the poor electrochemicalperformance of these electrode materials in terms of ratecapabilities as previously described.
+No impedance measurementscould be performed on the delithiated samples owingto our inability to prepare self-holding pellets.
+Information on energy band gaps can be deduced fromthe calculated density of states.
+Zhou et al.recently demonstratedthat the introduction of a U correction term in theGGA method could substantially improve the accuracy ofcalculated band gaps in highly correlated systems.
+ Even if some reservationsstill exist about the quantitative prediction of band gaps, itis generally assumed that the general trends extracted fromDFT calculations are fully reliable.
+Figure 8 shows thecalculated total density of states (DOS) of LiVOSiO4 (left)and Li2VOSiO4 (right), together with the partial DOS ofvanadium (green line), basal-oxygen (red line), and vanadyloxygen(blue line).
+In these compounds V ions are in a squarepyramid environment, which can be considered as a distortedoctahedron with a short V-O bond (vanadyl bond) and along V-O bond along the z-axis.
+The vanadium 3dz2 and3dx2-y2 orbitals point along the metal-oxygen bond direction,toward the px, py, and pz orbitals of the oxygen atoms.
+This overlap results in the bonding ó band, which appears belowthe Fermi level (predominantly oxygen 2p in character), andthe ó* band above the Fermi level (mostly consisting ofvanadium 3d states).
+In Figure 8 there is a significant mixingof O 2p states and V 3d states in both the ó and ó* bands,which supplies the direct evidence for the strong covalentinteraction of V-O bonds.
+The vanadium 3dxy, dxz, and dyzorbitals point in a direction perpendicular to the metaloxygenbond, being involved in interactions with the filledoxygen p orbitals of the correct symmetry.
+This hybridization originates in the octahedral-like t2g bands; the bonding t2gbands appear in the valence band dominated by oxygen 2pstates and the antibonding t2g states above the Fermi level.
+Due to the off-centering of the vanadium atoms from thebase of the square pyramid, t2g* splits into two sets of bands;the upper 3dyz/dxz one doubly degenerated and the 3dxy bottomone.
+As observed in Figure 8, in LiVOSiO4 the Fermi levelresides at the top of the valence band mainly composed ofO 2p states, while the conduction band is mostly composedof V 3dxy states.
+Under lithium insertion, diamagnetic V5+is reduced into paramagnetic V4+ (d1 ion); therefore, the DOSof Li2VOSiO4 shows majority spin (up spin) and minorityspin (down spin) contributions.
+As observed in Figure 8, inLi2VOSiO4 the band gap is the energy difference betweenthe filled up-(V 3dxy) band (which merges with the O p band)and the empty up-(V 3dxz/dyz) band.
+Figure 9 shows the evolution of the calculated band gapsextracted from set I (red) and set II (green) calculated DOSsas a function of the Mulliken X electronegativity.
+For reasonof completeness we calculated the DOS of V5+ compoundswithin the pure GGA (U ) 0) approximation (violet pointsin Figure 9b).
+All the compounds under study are insulatorswith calculated band gaps in the range 1.4-2.5 eV.
+Worthmentioning experimental and calculated data for V4+ compoundsfollow the same general trend with the Mulliken Xelectronegativity: the gap increases with the electronegativity.
+In contrast, in Figure 9b it can be seen that forthe V5+ compounds the band gap decreases with increasingMulliken electronegativity, displaying an almost lineardependence independent of the set of calculations (set I, setII, or pure GGA).
+As mentioned above, the U correction term should have aphysical meaning.
+In the end, using a too large U value inthe calculation would result in a significant overestimationof the band gap.
+Optical measurements are underway todetermine the optical band gap of Li2VOSiO4. At present,we can confront the calculated data with the measurementactivation energies and with the color of the preparedcompounds.
+Calculated gaps (set II) for Li2VOSiO4 and Li2-VOGeO4 are 2.32 and 2.25 eV, respectively; assuming asemiconductor intrinsic conductiVity type, the activationenergy should be half of the band gap, i.e., 1.16 eV for Li2-VOSiO4 and 1.13 eV for Li2VOGeO4.
+ In a very roughapproximation these values could be compared with theexperimental ones of 0.96 and 0.91 eV (blue points in Figure9a), even though such a fast comparison is subjected toclarification of which mechanism of electrical conductivitypredominates in these compounds.
+
+ In the presentcase, experimental activation energies are of the same orderof magnitude as that expected from the calculated gap.
+Underthe picture of a semiconductor intrinsic conductiVity typethis corroborates that our U value of 3 eV (extracted form the lithium insertion potential) is in the correct range.
+However, quantitatively comparing the “calculated” (1.14eV) and experimental activation energies (0.93 eV), wecannot discard that this U value is somewhat large, thereforeresulting in an overprediction of the band gap.
+The origin of colors in solids is quite complicated, though,normally, if one knows the color of a compound, one cancheck if the calculated band structure is in agreement withsuch a color.
+The Li2VOXiO4 are reddish-brown, and thedelithiated Li1.18VOSiO4 form is yellowish-green.
+In thecalculated DOS of LiVOSiO4 (Figure 8 left) there are twopossible charge-transfer transitions from the anion band tothe V 3d states that fall in the visible spectra.
+The transitionto the V 3dxy band is centered at 2.13 eV (absorbed coloryellow, observed color blue), and the transition to the V 3dxz/dyz band is centered at 2.68 eV (absorbed color blue, observedcolor yellow).
+Thus, we can expect the color of LiVOSiO4to be green.
+According to the calculated DOS of Li2VOXiO4we expect d-d transitions from the filled V 3dxy to theunfilled V 3dxy centered at 2.57 eV (absorbed color bluegreen,observed color orange) and 3 eV (absorbed colorviolet, observed color green-yellow).
+This is consistent withthe brown coloration of the prepared sample, though a deeperred coloration would require the displacement of the bandcentered at 2.57 eV to lower energies.
+This also suggeststhat though U ) 3 eV is in the correct range, it might besomewhat large.
+It is important to recall that quantitative results in theGGA+U method are known to be dependent on the valueof the U parameter.
+ Overall, it is worth mentioningthat DOS calculations are quite useful for giving band gaptrends; therefore, caution has to be exercised in literallycomparing such DOS calculations on the same compoundobtained from different computational approaches (set I andset II in the present work or the Li2VOSiO4’s DOS in ref53).
+Note that in Figure 9 the obtained gaps from set I, set II, and the GGA are different, but the variation is identical,confirming our statement that solely relative trends and notabsolute values have some meaning.
+The opposite general trends observed in band gaps oflithiated and delithiated phases can be rationalized from theDOS (Figure 8) attending to the V-O dxypð and V-O (dxz/dyz)pð overlapping.
+In the LiVOSiO4 DOS, the V 3dxy stateshybridize solely with the basal-oxygen states; therefore, theenergy of the resulting band depends on the iono-covalentcharacter of the V-O(basal) bonds.
+A more ionic V-O(basal)bond reduces the overlap between V 3dxy and O(basal)2p orbitals, moving the valence O p band (bonding states)to higher energies and the conduction band (antibondingstates) to lower energies.
+The final result is that the gapbetween the valence and conduction band gets narrower asthe ionicity of the V-O(basal) bond increases.
+Figure 5already showed that the V-O(basal) bond is more ionic withthe stronger inductive effect of the XO4 polyoxyanionicgroup, i.
+e., higher X electronegativity.
+On the other hand,the DOS on Figure 8 indicates that the V 3dxz/dyz states fullyhybridize with the vanadyl-oxygen, and to a lesser extentwith the basal-oxygen atoms.
+The shorter the vanadyl bond(more covalent), the higher the antibonding V 3dxz/dyz bandsare in energy.
+In a rough approximation, this energydifference is related to the electronic band gap of V4+compounds (see Figure 8).
+Therefore, in V4+ compounds onecan expect the band gap to increase with the X electronegativityparallel to the shorter vanadyl bond length (Figure6).
+This general trend is observed in Figure 8a, though thereis a shift between the undistorted Li2V4+OXO4 (X ) Si/Ge)and the other compounds, likely rooted in the full lithiumsite occupancy occurring in the former.
+The inductive effect has long been used by solid-statechemists as an intuitive tool to tune the iono-covalency ofan M-X bond.
+In polyoxyanionic structures possessingM-O-X bonds, the inductiVe effect is the polarization ofthe V-O chemical bond caused by the polarization of theadjacent X-O bond.
+In this work, we combine experimentsand first-principle calculations to investigate whether structural,electronic, and electrochemical properties of the LiyV5+-OXO4/Liy+1V4+OXO4 (X ) P, As, P0.5Si0.5, As0.5Si0.5, Si, Ge,Si0.5Ge0.5) family of compounds correlate to tabulated valuesof the Mulliken X electronegativity.
+Computational resultsevidence that the evolution of both V(4+)-O and V(5+)-Ocalculated bond lengths correlate to the Mulliken X electronegativity.
+Calculated electronic band gaps also show alinear correlation to tabulated Mulliken electronegativities;while this is a well-known feature in semiconducting binarycompounds, the results presented here provide one of thescarce examples of such relationship in ternary compounds.
+Furthermore, the computational results predict an almost linear dependence of the lithium insertion voltage of LiyV5+-OXO4 with the Mulliken X electronegativity.
+Electrochemicalexperiments carried out on the Li2VO(Si/Ge)O4 compoundssupport the computational findings.
+It should be stressed thatthe general trends observed are independent of computationalparameters as the Hubbard-like correction term (U in theDFT+U) or the basis set utilized in the calculation.
+
+The capability of first-principles methods to studyperfectly ordered structures allowed the deconvolution of therole played by the inductive effect (X electronegativity) andthe Li ordering.
+We found that the lithium content (y) andthe lithium/vacancy ordering in the interlayer space drivethe structural distortions, while the redox potentials arecontrolled by the inductive effect.
+This in accordance withprevious experimental observations on the electrochemicalbehavior of the hexagonal M2(XO4)3 hosts,54 where it wasfound that the redox energies of the various M cations arenearly independent of the Li ion concentration and distributionover the two types of interstitial sites.
+Overall, both experimental and computational techniquesshow that the V4+/V5+ redox potential in LiyVOXO4 (X )Si, Ge0.5Si0.5, Ge, Si0.5As0.5, Si0.5P0.5, As, P) is remarkablycorrelated to values of tabulated Mulliken X electronegativities,making this approach to estimate lithium insertionvoltages predictive on a simple basis.
+As demonstrated byGoodenough in 1997,using simple iono-covalency considerationslinked to electronegativity values, chemists cancertainly reach the same trends, but by no means potentialredox voltage value ranges.
+The observed correlation ofcrystalline, electronic, and electrochemical parameters withthe Mulliken X electronegativity leads to the idea of “datatransferability” within polyoxyanionic compounds within agiven structural type and for a particular redox couple.
+Inlight of the “data transferability” concept, the developmentof novel silicates could make a useful utilization of the wideinformation available on phosphates, thus minimizing theexperimental efforts.

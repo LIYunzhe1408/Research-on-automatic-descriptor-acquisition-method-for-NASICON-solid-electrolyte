@@ -1,0 +1,72 @@
+
+
+Preparation of Porous Glass-Ceramics with a Skeleton of NASICON-Type Crystal CuTi2(PO4)3
+
+Kousuke Yamamoto, Toshihiro Kasuga,* and Yoshihiro Abe*
+
+Department of Materials Science and Engineering, Nagoya Institute of Technology, Gokiso-cho, Showa-ku, Nagoya 466, Japan
+
+A novel porous glass-ceramic with a skeleton of CuTi2(PO4)3 was prepared by controlled crystallization of a glass and subsequent chemical leaching of the resulting dense glassceramic. A volume-crystallized dense glass-ceramic composed of CuTi2(PO4)3 and Cu3(PO4)2 whose surface was covered by a CuO thin layer was prepared by reheating a glass with a nominal composition of 50CuOⴢ20TiO2ⴢ30P2O5 (in mol%) glass in air. When the resultant glass-ceramic was leached with dilute H2SO4, Cu3(PO4)2 and CuO phases were dissolved out selectively, leaving a crystalline CuTi2(PO4)3 skeleton. The speciﬁc surface area and the average pore radius of the porous glass-ceramic obtained were approximately 45 m2ⴢgⴚ1 and 9 nm, respectively. The porous glassceramic showed catalytic activity in the conversion reaction of propene into acrolein.
+
+Introduction
+
+P OROUS glass-ceramics prepared by utilizing spinodal-type
+
+phase separation in glass have great advantages over conventional porous ceramics prepared by powder-sintering, because of their better control of pore and shape. Since a microporous glass-ceramic with a skeleton of CaTi4(PO4)6 crystals was prepared in 1989,1 we have reported a series of porous glass-ceramics consisting of functional titanium phosphate crystals.2 In the present work, we have prepared a novel porous glass-ceramic with a skeleton of NASICON-type copper(I) titanium phosphate, CuTi2(PO4)3, which has been reported to show some catalytic activity in oxidation.3
+
+CuTi2(PO4)3 is one of the basic members of the NASICON family4 with a three-dimensional network structure which is composed of PO4 tetrahedra sharing their corners with MO6 (M: tetravalent cation such as Zr4⫹, Ti4⫹, and Sn4⫹) octahedra.5,6 CuTi2(PO4)3 has been synthesized by sintering and characterized by some research.3,4 Oudet et al. reported that copper(I) titanium phosphate shows an interesting catalytic reaction in the oxidation of propene to acrolein.3 CuTi2(PO4)3 crystals can be obtained as a powder or pellets by ﬁring raw materials containing copper(I) salt under an inert gas atmosphere;4 the resulting CuTi2(PO4)3 has a relatively small surface area of ⬇1 m2⭈g⫺1. Its catalytic properties appear qualitatively as “mild oxidation.”3 It is expected to show greater catalytic activity with greater speciﬁc surface areas. In the present work, we have successfully prepared porous CuTi2(PO4)3 glass-ceramics with large speciﬁc surface areas. This is the ﬁrst porous ceramic with a skeleton of CuTi2(PO4)3 crystals, to our knowledge.
+
+M. C. Weinberg—contributing editor
+
+Manuscript No. 191591. Received August 19, 1996; approved December 6, 1996. Supported in part by a Grant-in-Aid for Scientiﬁc Research (No. 07455265) from
+
+the Ministry of Education, Science and Culture, Japan.
+
+*Member, American Ceramic Society.
+
+II. Experimental Procedure
+
+A norminal composition of the base glass 50CuO⭈20TiO2 ⭈ 30P2O5 (mol%) was prepared by using raw materials such as reagent-grade CuO, TiO2, and H3PO4 (85%) liquid. A mixture of these starting materials and water was put into a Teﬂon beaker with stirring to make a slurry. The slurry obtained was dried at about 200⬚C for 12 h, and was melted in an Al2O3 crucible at 1250⬚C for 1 h in air. The melt was poured onto a stainless steel plate and quenched quickly to form glass by pressing using an iron plate in nitrogen.
+
+The glass was heated from room temperature to 520⬚C and held at this temperature for 20 h for nucleation. Subsequently the specimens were heated to 550⬚C for 12 h and successively heated to 590⬚C for 12 h for crystal growth. These heating temperatures were determined by differential thermal analysis (DTA) of the base glass. The resulting dense glass-ceramic was leached with 0.5N H2SO4 aqueous solution at room temperature for 3 days.
+
+Crystalline phases of the glass-ceramics were identiﬁed by powder X-ray (Cu K␣) diffraction (XRD). The speciﬁc surface area and the pore size distribution of the resulting porous ceramics were examined by the measurement of N2-adsorption and -desorption isotherms (BET method). The microstructure of the specimens was examined with a ﬁeld emission-type scanning electron microscope (FE-SEM).
+
+The catalytic property of the porous glass-ceramic was evaluated by conversion (mol%) per sample-gram of propene into acrolein in a continuous-ﬂow system under atmospheric pressure. The porous glass-ceramic was pulverized, and 0.1 g of the powder was put into a reactor of a U-shaped Pyrex tube (inner diameter: 12.5 mm) kept at 400⬚C. The reactant mixture consisting of C3H6 and air (C3H6:air ⫽ 3:7) ﬂowed into the reactor at a rate of 10 cm3⭈min⫺1. The reaction products were analyzed by gas chromatography.
+
+III. Results and Discussion
+
+Figure 1 shows powder XRD patterns of the glass-ceramics before and after acid leaching. The powder XRD pattern of the sample obtained by reheating the mother glass in air shows formation of crystalline phases such as CuTi2(PO4)3, Cu3(PO4)2, and CuO (Fig. 1(a)). Note that CuTi2(PO4)3 crystals can be formed even by heating in air. In general, when coppercontaining glasses are prepared at a high temperature (e.g., ⬎1000⬚C), the copper ions in the resultant products are present as Cu⫹ and Cu2⫹ or mainly present as Cu⫹ because Cu⫹ ions are thermodynamically more stable than Cu2⫹ ions at a higher temperature.7,8 Then, CuTi2(PO4)3 can be formed from the base glass containing a large amount of Cu⫹ ions. Quantitative analysis of the Cu⫹/Cu2⫹ ratio of the as-quenched glass is in progress. SEM observation showed that the surface of the resulting dense glass-ceramic was covered with a thin CuO layer (⬇5 ␮m). The glass-ceramic body consisted of CuTi2(PO4)3 and Cu3(PO4)2. The dense glass-ceramic was leached with 0.5N H2SO4 at room temperature for 3 days. By this treatment, Cu3(PO4)2 and CuO phases in the as-reheated sample were
+
+March 1997
+
+Communications of the American Ceramic Society
+
+Fig. 3. Pore size distribution of the porous glass-ceramics estimated from N2-adsorption measurements; Vp ⫽ pore volume, rp ⫽ pore radius.
+
+showing that numerous pores are distributed throughout the sample. Table I summarizes the physical properties of the porous glass-ceramics. Figure 3 gives the pore size distribution, showing that the mean pore radius was approximately 10 nm. This pore size was nearly equal to that judged from the FE-SEM photo shown in Fig. 2. The speciﬁc surface area was determined to be 46 m2⭈g⫺1 by the BET method and was ⬇50 times larger than that prepared by a conventional sintering method. The leachability up to approximately 40 vol% and the rather small mean pore radius (9.3 nm) suggest that phase separation occurs by spinodal decomposition prior to crystallization.
+
+Figure 4 shows the conversion of propene into acrolein on the as-produced porous glass-ceramic after the samples were heated in N2 at 200–600⬚C for 1 h. All samples showed the conversion of propene into acrolein. The errors in the conversion measurements are at most several percent. When the glassceramics were heated at ⱖ400⬚C, conversion was increased with increasing heating temperature. In general, the catalytic reaction takes place on an active site on the surface, and then the catalytic activity depends on the number of sites.9 Improvement in the activity may result from an increase in the active sites for the removal of molecules adsorbed on the surface of the glass-ceramic. On the other hand, during the reaction with the porous glass-ceramic heated at 700⬚C, some other products in addition to acrolein were obtained, and at 800⬚C the conversion of propene into acrolein decreased to a great extent (⬇8 mol%). The speciﬁc surface area of the porous glassceramic heated at 800⬚C was smaller (⬇20 m2⭈g⫺1) than that of the as-prepared one. Further work is in progress to investigate the preparation of high-performance catalysts.
+
+Fig. 1. Powder XRD patterns of glass-ceramics (a) before and (䉲) Cu3(PO4)2, and (b) after acid leaching: (䊏) CuO.
+
+dissolved out selectively, leaving CuTi2(PO4)3. A weight loss of approximately 48 wt% was observed after the treatment for 3 days for an ⬇1-mm-thick sample, and further loss was not seen by further treatment for more than 3 days. The specimens had no serious cracking or deformation, retaining their original glass shape. Figure 2 is an FE-SEM photo of a fracture face,
+
+Table I. Physical Properties of Porous Glass-Ceramics
+
+Obtained from 50CuOⴢ20TiO2ⴢ30P2O5 Glass BET surface area 46 m2/g 9.3 nm Average pore radius 0.2 cm3/g Pore volume 38 vol% Porosity 2.0 g/cm3 Bulk density True density 3.2 g/cm3
+
+Fig. 2. Fracture face of a porous glass-ceramic.
+
+Fig. 4. Conversion of propene into acrolein on a porous CuTi2(PO4)3 glass-ceramic: (䊊) as-prepared sample, and samples heated in N2 at (䉱) 200⬚, (䊏) 300⬚, (䉬) 400⬚, (䊉) 500⬚, and (䉲) 600⬚C for 1 h.
+
+Communications of the American Ceramic Society
+
+IV. Summary
+
+Porous CuTi2(PO4)3 ceramics have been successfully prepared in air by controlled crystallization of 50CuO⭈20TiO2 ⭈ 30P2O5 (in mol%) glass and subsequent chemical leaching with 0.5N H2SO4 aqueous solution. No signiﬁcant deformation and dimension changes were observed in the course of crystallization and acid leaching. The mean pore radius, porosity, and surface area were approximately 9 nm, 40 vol%, and 45 m2⭈g⫺1, respectively. This porous glass-ceramic processing has advantages in its shape-forming ability and its large surface area.
+
+The porous glass-ceramics in this work have great potential
+
+in the preparation of novel catalysts.
+

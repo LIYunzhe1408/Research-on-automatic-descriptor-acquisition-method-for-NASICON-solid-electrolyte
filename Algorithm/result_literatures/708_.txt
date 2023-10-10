@@ -1,0 +1,11 @@
+The location of redox couples in transition metal compounds is among the key factors thatdetermine their applicability.
+AM2(PO4)3 NASICONs (A = Na, Li; M = Ti, Zr, Hf, Ge, Sn, Fe) form an intriguing group that feature fast ion diffusion and tunable reduction/oxidationpotentials and can therefore find numerous applications.
+The present study focuses on theLiTi2(PO4)3 member of this family and the possibility of controlling its transport and redoxproperties.
+It highlights the close relationship between the modification of the crystal and bandstructures via substitutions in the Ti sublattice or intercalation with lithium and its redoxbehaviour as well as transport properties.
+The correlation between ionic conductivity and theposition of the Ti4+/Ti3+ redox potential is discussed.
+UV-VIS reflectance spectra revealed asignificant impact of the type of dopant as well as the level of intercalation on the position ofthe fundamental absorption edge, indicating the possibility of modifying the electronicstructure.
+In the case of some of the examined dopants (Nb, Sn, In), more complex interactionwas observed, since they introduce their own redox activity, and thus enable the material’sbehaviour to be modified even further.
+Both the partial substitution of Ti4+ ions in LixTi1.7M0.3(PO4)3 with Al3+, Ga3+, In3+, Ge4+,Sn4+, Zr4+ or Nb5+ and the intercalation of Li1+yTi2(PO4)3 with Li+ ions (y = 0 – 2)significantly affected the crystal and band structures of the investigated materials,resulting in ability of tuning ionic conductivity as well as optical and redox properties.
+For a constant charge of a dopant decreasing ionic radius resulted in decreased latticeconstants, increased ionic conductivity, wider band-gap and Ti4+/Ti3+ redox potentialshifted towards more reducing potentials.
+However, these tendencies were overlappedand modified by the changes in occupancy of M1 and M2 lithium sites, which can beinduced via doping at Ti-sublattice, or via intercalation with lithium.
+With increasingoccupancy of M2 and decreasing occupancy of M1 sites Li+ mobility increased, bandgap decreased and Ti4+/Ti3+ potential became less reducing.

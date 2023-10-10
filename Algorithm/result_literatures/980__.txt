@@ -1,0 +1,46 @@
+By investigation of the microstructure of cerium-doped NASICON materials prepared by solid state reaction, we find that variation in the cell parameters a, b and c can affect their activation energy (Ea) ofionic conductance.
+
+ Furthermore, changes in the grain size and morphology can influence the pre-exponential factor s0.Analysis of the electrical conductivity of cerium-doped NASICON grains reveals adecrease from that for the undoped grains.
+
+These results suggest that when dealing with Ce-dopedNASICON system, the grain size and morphology play a more important role in determining the bulkconductivity than the lattice parameters, at least within a temperature range of 225–350 °C.
+
+Sodium ion-conducting solid electrolytes are important functional materials for a wide variety of applications ranging fromenergy generation to environmental protection [1].
+
+One suchmaterial, NASICON, has a chemical formula of Na1þxZr2SixP3xO12(0oxo3), that results in excellent sodium conductivity when thevalue of x is within a range of 1.8–2.2.Indeed, this so-called superionic conductor can achieve a maximum sodium conductivity of0.2 S/cm with a composition of Na3Zr2Si2PO12 at 300 °C [2].
+
+Itsionic conductivity at medium to low temperatures (o300—400 °C) [3] can also be sufficiently high to be used in fuel cells andchemical sensors [4,5].
+
+Ever since NASICON was first prepared by Goodenough andHong in 1976 [6], its unusual structure has attracted the interest ofa number of researchers with regards to its preparation, propertiesand potential applications.
+
+This structure is characterized by corner-sharing PO4–SiO4 tetrahedra and ZrO6 octahedra that create a3-D network of channels through which sodium ions can betransported [7].
+
+More specifically, two ZrO6 octahedra are separated by three (Si, P)O4 tetrahedra, with which they share corneroxygen atoms and two distinct of Na sites: a Na1 site located between two octahedra on the c-axis, and a Na2 site located midwaybetween two Na1 sites along the a-axis [8].
+
+At a certain workingtemperature, Naþ ions can isotropically achieve rapid migrationthat results in a high ionic conductivity.
+
+Using this structure as abasis, researchers have substituted other elements for Zr, P or Si tocreate solid electrolyte materials for use with divalent and trivalent ions, such as Al3þ or Mg2þ [9].
+
+As a result, the basic structureof NASICON has quite an important significance to the preparationof new solid electrolyte materials.
+
+Efforts have also been directed toward improving the conductivity of NASICON by doping it with metals, such as yttrium,niobium, and ytterbium [10].
+
+ For instance, Fuentes et al.used yttrium to attain an ionic conductivity of 1  103 S/cm at roomtemperature [11], whereas, Yadav and Bhatnagar attained a2.85  103 S/cm room-temperature conductivity with tin [12].
+
+The addition of hafnium to create a Na1þxHf2SixP3xO12 structurewas shown by Vogel to attain a conductivity of 2.3  103 S/cm atroom temperature [13].
+
+ Besides, Wang et al.found that a structureof Na2.5Hf1.4Ti0.6Si1.5P1.5O12 using a combination of Hf and Ti couldattain a conductivity of 0.36  101 S/cm at 300 °C and an activation energy of 25.76 kJ/mol at 200–400 °C [14].
+
+ However, Zuxiang et al.reported that the conductivity of NASICON were gradually reduced with increasing Ce doping from 5 mol% to 50 mol%,which was considered to be the result of an inability of Ceto form a solid solution in NASICON [15].
+
+Building on this work,this paper explores the effects of using Ce doping levels ofless than 5 mol% on the density, cell parameters, microstructureand bulk conductivity of NASICON synthesized by solid-statereaction.
+
+This study has found that in Ce-doped NASICON materials onlya very small proportion of the total Ce is present in solid solutionwithin NASICON grains, the remaining contained within the glassyphase that exsists between grains.
+
+Nevertheless, the addition of Cecan increase the lattice parameters of NASICON, thereby facilitating Naþ movement and reducing the activation energy.
+
+ With excessive Ce addition, however, the lattice distortion becomes sufficiently great to allow CeO6 octahedrals to squeeze out ZrO6 octahedrals, resulting in an increase in the amount of ZrO2 phase.
+
+The bulk conductivity of Ce-doped NASICON is reduced when thetemperature is increased from 225 to 350 °C, because whendealing with Ce-doped NASICON system, the reduction in activation energy with Ce addition is overshadowed by the much greaterinfluence at these temperatures of a pre-exponential factor relatedto the grain structure.
+
+In order to increase the bulk conductivity,this makes it vitally important to improve and attain an appropriate microstructure of Ce-doped NASICON at the temperatures of225–350 °C.
+

@@ -1,0 +1,87 @@
+An interface consisting of LiMn2O4 thin-ﬁlm (1 m thick) electrode and Li1+xAlxTi2−x(PO4)3-based NASICON-type solid electrolyte (LTP) was prepared by a sol–gel coating method.
+The submicron-sized pores were involved in the thin ﬁlm, and the porosity of the ﬁlm was relatively high.
+The prepared solid–solid electrochemical interface was evaluated by cyclic voltammetry and galvanostatic charge–discharge test.
+Two reversible redox peaks were observed at 4.0 and 4.1 V versus Li/Li+ in the cyclic voltammogram due to the redox of Mn3+/4+.
+The LiMn2O4 thin-ﬁlm electrode on LTP exhibited a discharge capacity of 80 mA h g at 0.1C rate.
+
+All solid-state lithium batteries consisting of solid electrodes and Li+ ion conductive ceramic electrolyte are attractive because of no leak of electrolyte and no ﬂammability .
+Lithium −1 is required for ion conductivity of over 10 practical rechargeable lithium batteries.
+Fortunately, some of inorganic materials show such a high ionic conductivity.
+For example, Li0.35La0.55TiO3 with a perovskite structure and Li1+xAlxTi2−x(PO4)3 with a NASICON-type structure have been reported in literatures.
+The Li1+xAlxTi2−x(PO4)3 glass-ceramic is composed of grains and grain boundaries which consist of crystal and glassy components, respectively.
+Li+ ion conductivity in the glassy component is not so low compared with that in crystal bulk.
+This property may be suitable as a solid electrolyte for all solid-state rechargeable lithium batteries.
+In fact, Weppner and co-workers have already prepared an all solidstate battery of Li4Ti5O12/Li1.3Al0.3Ti1.7(PO4)3/LiMn2O4, and it was operated successfully at room temperature .
+In this study, LiMn2O4 thin-ﬁlm electrode was prepared on Li1+xAlxTi2−x(PO4)3 solid electrolyte using a sol–gel method.
+LiMn2O4 is one of promising cathode materials for all solidstate rechargeable lithium ion batteries, because the expansion and shrinkage of lattice constant of LiMn2O4 are very small during Li+ ion insertion and extraction.
+So far, thinﬁlm type all solid-state lithium batteries have been prepared using sputtering and pulsed laser ablation (PLD).
+The sol–gel method is also well known as one of promising thin-ﬁlm preparation methods with some advantages, such as low fabrication cost, easy stoichiometry control, and fast deposition rate.
+We have already successfully prepared Li4Ti5O12 thin-ﬁlm electrode on a Li1+xAlxTi2−x(PO4)3 solid electrolyte using poly(vinylpyrrolidone) (PVP) sol–gel method .
+Here, a sol–gel method with PVP was utilized for the fabrication of LiMn2O4 ﬁlm on Li1+xAlxTi2−x(PO4)3-based glass-ceramic (LTP) .
+
+LiMn2O4 thin ﬁlm was prepared on a LTP plate by using PVP sol–gel coating method according to our previous report.
+
+Spin coating was conducted on LTP substrate under a rotation speed of 3000 rpm in order to prepare a gel ﬁlm.
+This gel ﬁlm was converted to ceramic thin ﬁlm by heating at temperature of 600 C in air for 5 min.
+Both spin coating and heating processes were performed repeatedly, until the ﬁlm thickness became 1.0 m.
+After that, the thin ﬁlm was heated at 600 C for 20 min.
+The prepared LiMn2O4 thin ﬁlm was observed with scanning electron microscope (SEM, JSM5310, JEOL) and ﬁeld-emission scanning electron microscope (FE-SEM, JSM-6100, JEOL).
+The prepared thin ﬁlm was characterized with X-ray diffraction (XRD, RINT-2000, Rigaku) with Cu K radiation and Raman spectroscopy (NRS-1000, Jasco) with 532 nm radiation.
+Electrochemical measurements were performed using twoelectrode conﬁguration as reported elsewhere.
+The working electrode was LiMn2O4 coated on LTP solid electrolyte.
+In order to obtain electrical contact from LiMn2O4 surface, Au thin ﬁlm was fabricated on LiMn2O4 surface by dc-sputtering method.
+Counter electrode was pure lithium metal.
+LTP solid electrolyte contains Ti4+ ion as one of main chemical components, therefore, this electrolyte is easily reduced by Li metal.
+In order to avoid undesirable reaction between LTP and lithium metal, polymethyl methacrylate (PMMA) gelpolymer electrolyte was used as a buffer layer.
+The PMMA gel-polymer electrolyte was prepared by thermal polymerization .
+Methyl methacrylate monomer (MMA) containing ethylene glycol dimethacrylate (EGMA) as cross-linking agent was polymerized in a mixed solvent of ethylene carbonate −3 and diethyl carbonate (1:1 in volume) containing 1 mol dm LiClO4 (LiClO4–EC–DEC).
+Azobisisobutyronitrile (AIBN) was used as polymerization initiator.
+The weight ratio of MMA, EGMA, AIBN, and LiClO4–EC–DEC was 1:0.05:0.02:2.87. 
+The polymerization was carried out in inert atmosphere at 80 C for 1 h.
+The thickness of the PMMA gel-polymer was 300 ␮m and its conductivity was 1× 10 −1 at room temperature.
+Cyclic voltammetry (CV) was performed using a potentiostat.
+The galvanostatic charge and discharge experiment was conducted with an automatic discharge and charge equipment (HJR-110mSM6, Hokuto Denko).
+Cut-off voltages were 4.3 and 3.5 V for charge and discharge processes, respectively.
+The impedance measurement was performed with an electrochemical measurement system (SI-1287 and 1255B, Solartron).
+The alternating voltage signal was 5 mV root mean square (rms) and the frequency range was from 100 kHz to 10 mHz.
+All electrochemical experiments were conducted in an argon-ﬁlled glove box at room temperature.
+
+Fig.2 shows the Raman spectrum of LiMn2O4 fabricated on the LTP plate.
+No impurity phase was detected by Raman spectroscopy.
+Factor group analysis for the cubic spinel LiMn2O4 with space group (O7 h symmetry) predicts ﬁve Raman active modes (A1g + Eg + 3F2g) .
+The Raman spectrum of LiMn2O4 −1. The consists of a series of bands between 300 and 700 cm −1 is assigned to A1g mode, and the strongest peak at 620 cm weak peaks at 380, 480, and 597 are assigned to F2g(1), F2g(2), and F2g(3) modes, respectively.
+The morphology of surface and cross-section of the ﬁlm was observed with SEM.
+Fig.3 displays the SEM images of the LiMn2O4 prepared on the LTP substrate.
+The surface morphology of the LiMn2O4 electrode was rough.
+The thickness of the thin ﬁlm was estimated to be 1.0 m from the cross-sectional view.
+The submicron-sized pores were involved in the thin ﬁlm, and the porosity of the ﬁlm was relatively high.
+The precursor of LiMn2O4 was prepared from CH3COOLi and Mn(CH3COO)2, and they remained as acetates during the gelation.
+During the calcination, they decomposed into manganese oxides, H2O.
+Fig.1 shows the XRD patterns of LTP solid electrolyte itself and the LiMn2O4 thin ﬁlm prepared on the LTP solid electrolyte.
+In the diffraction pattern of Fig.1(b), an additionalFig.2. Raman spectrum of LiMn2O4 thin-ﬁlm fabricated on LTP plate.
+
+Two reversible redox peaks were observed at 4.0 and 4.1 V, which were due to the redox of Mn3+/4+ in the LiMn2O4 spinel .
+The reversible electrochemical behaviour suggested that the Li+ ion transfer between the LiMn2O4 electrode and LTP took place reversibly.
+Fig.5 shows the charge and discharge curves of the LiMn2O4/LTP/PMMA/Li cell measured at 0.1 C −2).
+Two potential plateaus at 4.0 V and 4.1 V rate (1 A cm were observed, which well correspond to the two peaks in the CV (Fig.4).
+The discharge capacity of the LiMn2O4 was ca.−1, which was considerably smaller than the theoret80 mA h g −1).
+It was considered that some part ical capacity (148 mA h g of the ﬁlm was electrically isolated due to the porous nature of the thin ﬁlm.
+The isolated part could not participate in the redox reaction.
+Another possibility was formation of undetected impurities existing at the solid–solid interface or in the LiMn2O4 thin ﬁlm.
+Indeed, XRD peak of LiMn2O4 was very weak and Raman peaks were distinguished only a part of active modes.
+The impurities might lead to the small discharge capacity.
+A depressed semicircle in the high frequency region and Warburg-type impedance in the low frequency region were observed.
+The depressed semicircle was attributed to the Li+ ion transfer at the solid–solid interface of LiMn2O4/LTP, and the Warburg impedance was owing to the Li+ diffusion in the LiMn2O4 thin ﬁlm.
+The charge transfer resistance was ca.1500  cm2, which was much larger than that of LiMn2O4 measured in liquid electrolytes.
+It was considered that such high charge transfer resistance was caused by formation of undetected impurities existing at the solid–solid CO2. The gas generation resulted in roughening the surface and forming pores.
+Fig.4 shows a cyclic voltammogram of the LiMn2O4/ LTP/PMMA/Li cell.
+Despite the LiMn2O4 ﬁlm was porous, clear voltammogram was observed.
+This voltammogram showed a good agreement with that of LiMn2O4 thin-ﬁlm interface and/or insufﬁcient contact between LiMn2O4 and LTP.
+The optimization of heat treatment process for sol–gel fabrication of LiMn2O4 thin-ﬁlm electrode is needed to reduce the charge transfer resistance and improve the electrochemical performance of the solid–solid interface between LiMn2O4 and LTP.
+The electrochemical solid–solid interface between LiMn2O4 and LTP was successfully fabricated by PVP sol–gel method.
+Although the fabrication process of the LiMn2O4 thin ﬁlm needs further improvements, the interface between LTP and LiMn2O4 fabricated by PVP sol–gel method can be applied to thin-ﬁlm battery.
+Further efforts are underway in our group to prepare ﬂat and dense LiMn2O4 thin ﬁlm using the sol–gel method.
+If this process is carefully optimized, the solid–solid contact may be improved.
+This will lead to a higher electrochemical performance of the solid–solid interface between LiMn2O4 cathode and LTP.
+
+

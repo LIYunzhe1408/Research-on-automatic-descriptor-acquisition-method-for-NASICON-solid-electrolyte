@@ -1,0 +1,10 @@
+In this work, Integrated Mechanical and Thermal Activation(IMTA) process is used to synthesize pure natrium super ionconductor (NaSICON), Na1+xZr2SixP3-xO12 (0 ≤ x ≤ 3), powderwhich is then utilized to fabricate NaSICON/polymer compositemembranes.
+The composite membranes are fabricated via tapecastingof a NaSICON slurry, followed by sintering of the greentape to partial densification and then infiltrating the partiallysintered tape with polyethylene (PE).
+The Na-ion conductivities ofIMTA-processed NaSICON membranes are characterized and thetotal conductivity of IMTA-processed membranes without polymeris found to be 3.04 ± 0.1 × 10-4 S/cm, while the sintered bulkdensity is 3.04 g/cm3. Most importantly, this study has achievedand proved the feasibility and mechanical flexibility ofNaSICON/polymer composite membranes.
+Although the IMTA parameters presented in this study may not be the most effectiveones to process Na3Zr2Si2PO12 NaSICON, they did result in pure NaSICON phase.
+Phasepure NaSICON can be synthesized via the IMTA process, which is faster and moreenergy efficient, and could reduce the manufacturing cost significantly (8-10).
+Furthermore, high ionic conductivity of IMTA-processed NaSICON is observed(3.04±0.10 × 10-4 S/cm), and nearly identical to the reported value for those synthesizedvia traditional process (1, 4).
+NaSICON/polymer membranes of 30 to 40 μm thicknessare fabricated by tape casting of IMTA-processed NaSICON powders and infiltrationtechniques.
+The density of partially sintered thin tapes varies from 80 to 85%.
+The PEinfiltrated membranes exhibit great mechanical flexibility.
+The membranes aremechanical robust and could be bent by hands easily, while the study of removing thesurface polymer is still on-going.

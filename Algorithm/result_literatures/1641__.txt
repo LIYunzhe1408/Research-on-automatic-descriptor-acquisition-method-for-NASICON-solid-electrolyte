@@ -1,0 +1,98 @@
+The M2(PS4)3 transition metal) structure has been investigated as a new open 3D-framework structure for electrode materials for lithium rechargeable batteries.
+One of these compounds, LiTi2(PS4)3, was synthesized from solid state reaction.
+From the single crystal X-ray diffraction analysis, it was observed that the LiTi2(PS4)3 crystallizes in the hexagonal space group P6cc. 
+The resemblance of the powder X-ray diffraction pattern and the lattice parameters obtained from single crystal X-ray diffraction measurement indicates that the crystal structure is isomorphous with NaTi2(PS4)3. 
+This structure is built of TiS6 octahedra linked by edges to PS4 tetrahedra and vice versa to build a 3D framework.
+Most attractively, very wide tunnels are obtained along the c-axis where lithium ions are mobile.
+Electrochemical insertion of lithium into LiTi2(PS4)3 was carried out.
+The initial structure of LiTi2(PS4)3 was changed with initial insertion of lithium, but ∼7 Li per formula unit could be inserted in the modiﬁed structure without decomposition of the starting material.
+However, such a large capacity was not retained on cycling.
+IntroductionAlthough considerable attention has been devoted to the development of a plug-in hybrid car, its full potential remains unattainable mainly due to limitations in its battery performance.
+
+The former has a larger capacity than the latter in its stable 4 V range.
+What is needed is a cathode material capable of the same power density, but with a much larger energy density, while retaining a long cycle life on a deep discharge.
+Hence, extensive search is ongoing for a material in which two Li atoms per transition metal atom can be accommodated without either a large volume change or a large step in the voltage on passing from one redox couple to the next on the transition-metal ion.
+In order to accommodate more than one Li atom per transition-metal atom in a solid topotactical insertion/ extraction reaction, it is necessary to have a 3D framework structure within which an interconnected interstitial space is capable of holding all the Li atoms.
+An example of such a framework is the NASICON M2(XO4)3 host structure with X.
+Up to 5 Li atoms can be accommodated reversibly in its interstitial space, and fast topotactic Li insertion/extraction over a range of 4 Li atoms per formula unit have been achieved.
+However, in order to have a small step between two redox couples, it is necessary to work within the π-bond or σ-bond manifold and to have the redox couple pinned at the top of the anion p6 bands as has been demonstrated6 for the low-spin Ni4+/ Ni3+ and Ni3+/Ni2+ redox couples in the layered oxide LiNi0.5+δMn0.5-δO2. Moreover, Li3PS4 and related compounds  have been reported to be a solid electrolyte with a high Li+ ion conductivity (>10-4 S/cm).
+ Therefore, our ﬁrst initiative was to explore the possibility of synthesizing a LiTi2(PS4)3 phase to determine whether it forms a 3D framework structure analogous to that of NASICON.
+We successfully prepared LiTi2(PS4)3 by solid-state reaction and found it had a 3D framework built of edge-sharing rather than corner-sharing octahedral and tetrahedral sites; but on insertion of Li, our ex-situ X-ray diffraction data showed there is a phase change to an undetermined structure that could be cycled over one Li per Ti atom.
+The active redox couple has an energy giving about 2.1 V vs Li+/Li0 as against 2.48 V in the phosphate.
+This difference reﬂects different Madelung energies as well as inductive effects.
+However, the preparation method was more difﬁcult than is practical, and the introduction of a heavier M atom in a high valence state.
+Crystals of LiTi2(PS4)3 were prepared from 2 g batches of stoichiometric amounts of the starting compounds: Li2S (Aldrich 99.9%), TiS2 (Alfa, 99.9%), and P2S5 (Aldrich, 99.9%).
+They were mixed and placed inside a predried carbon-coated quartz tube inside an argon glovebox and then sealed under vacuum.
+The sealed tube and contents were heated according to the following temperature proﬁle:air quenchMany small, black-green needle crystals were observed.
+They were collected and coated with mineral oil to protect them from air during single-crystal X-ray measurement.
+This sample is moisture sensitive and decays quickly in free air at room temperature.
+In order to prevent any degradation due to the sensitivity to ambient atmosphere of the starting materials and the obtained products, all handlings and preparations were carried out in a glovebox under a dry argon atmosphere.
+Powder X-ray Diffraction Measurements.
+The sample was ﬁnely ground and placed in the sample holder of the diffractometer, which was sealed with thin amorphous tape.
+The powder X-ray diffraction data were collected at 298 K on a Philips X-pert powder X-ray diffractometer equipped with Cu KR radiation and a diffracted-beam monochromator that was operated at 45 kV, 40 mA, in step-scan mode with a step size 0.02° and step time 10 s.
+For the ex-situ XRD measurements of charged and discharged electrodes, the cells charged or discharged to certain voltages were disassembled in an Ar glovebox, and the electrodes were covered with thin amorphous tape after the complete evaporation of the solvent.
+Single-crystal X-ray diffraction data were obtained from a needlelike single crystal coated with mineral oil with Mo KR radiation, λ ) 0.710 73 Å in a Nonius κ-automated CCD diffractometer equipped with a graphite monochromator.
+A total of 205 frames of data were collected with 2° ω-scans and a counting time of 304 s/frame.
+The electrodes were fabricated from a 75:15:10 (wt %) mixture of active material:acetylene black (Gunbai) as current conductor:polytetraﬂuoroethylene (G-580, ICI)Figure 2. Structural unit for LiTi2(PS4)3 consisting of TiS6 octahedra sharing edges with PS4 tetrahedra.
+The active material and conductor were mixed completely, and then the polytetraﬂuoroethylene was added and the mass mixed again.
+The mixture was rolled into thin sheets and punched into 7-mm-diameter circular disks as electrodes.
+The typical electrode mass and thickness were 7–12 mg and 0.03–0.08 mm.
+The electrochemical cells were prepared in standard 2016 coincell hardware with lithium metal foil used as both the counter and reference electrodes.
+The electrode disks and cells were prepared in an Ar glovebox.
+The electrolyte used for analysis was 1 M LiPF6 in 1:1 ethylene carbonate/diethyl carbonate.
+The cells were taken out of the glovebox and placed in the battery testing system (ArbinBTS-2043).
+The cells were aged for 5 h before the ﬁrst discharge to ensure full absorption of the electrolyte into the electrode.
+A 10 min rest period was employed between the charge and discharge steps.
+Results and DiscussionComparing the experimental powder X-ray diffraction pattern with the database (JCPDS no.49-1680) showed a close match with the reported11 pattern of NaTi2(PS4)3 with slight shifts in 2θ (Figure 1).
+The reported lattice parameters for NaTi2(PS4)3 were used to assign hkl Miller indices, and the observed diffraction maxima ﬁt very well leading to the conclusion that the Li phase is isostructural with the Na phase.
+
+However, the quality of the selected crystals was too poor to warrant a data collection for structure reﬁnement.
+As the starting model for the reﬁnement, the atomic coordinates of the isostructural compound11 NaTi2(PS4)3 were used.
+On the basis of the demonstrated isomorphism, we used the published atomic parameters for the framework shown in Figure 3 and placed the Li atom within it.
+Unlike the 3D structure of NASICON-type compounds, which are built up of MO6 octahedra sharing corners with PO4 tetrahedra,3–5 the 3D network of this new Li compound is formed by TiS6 octahedra sharing edges with PS4 tetrahedra; each TiS6 octahedron shares edges with three PS4 tetrahedra, and each PS4 tetrahedron, in turn, shares its edges with two TiS6 octahedra (Figure 2).
+Wide channels are parallel to the c-axis as is shown in Figure 3. In this structure, the mobile Li ions are disordered in the wide channels as in the case of Na in NaTi2(PS4)3. 
+Li ions are also located in between the wide tunnels.
+The voltage proﬁle of the Li/Li1+xTi2(PS4)3 cell was obtained for the ﬁrst cycle between 1.0 and 3.0 V at a rate of 0.1 mA/cm2; it is shown in Figure 4a.
+The voltage proﬁles at 0.2 mA/cm2 showed little change; a further study of rate capacity was not made.
+A nearly plateau-like curve is observed at ≈2.1 V until a lithium content of x ≈ 2. The initial 2.1 V region with a capacity of ≈100 mAh/g would appear to correspond to an active Ti4+/Ti3+ redox couple.
+After insertion of two lithiums per formula unit, a voltage drop is observed followed by another nearly plateau-like curve at 1.85 V until a lithium insertion with x ≈ 4. An apparent splitting of 0.25 eV between the Ti4+/Ti3+ and Ti3+/ Ti2+ couples is unexpectedly small and turns out to reﬂect a change of the framework during insertion of lithium atoms.
+After four lithiums are inserted, the voltage gradually decreases until 1.2 V and then sharply drops to 1.0 V with further insertion of lithium into Li5Ti2(PS4)3. 
+The total discharge capacity is observed to be ≈600 mAh/g when thecell is discharged to 1.0 V, but the ﬁrst charge capacity appears to be only ≈10 mAh/g.
+This large irreversibility is due to a decomposition of the starting material.
+The ex-situ XRD patterns of the LiTi2(PS4)3 electrode during the ﬁrst discharge are shown in Figure 4b.
+Once Li ions begin to be electrochemically injected, a new peak appears and grows at 14.4° while the peak corresponding to the LiTi2(PS4)3 phase decreases.
+This new peak becomes unique as the discharge voltage approaches 1.85 V (x approaches 4).
+Interestingly, this unique peak is still maintained even after discharging to 1.5 V in which the corresponding lithium content per formula unit is about seven.
+However, this peak ﬁnally disappears on discharging to 1.0 V.
+Instead, the peaks assigned to Li2S appear at 27° and 31°.
+This observation indicates that the LiTi2(PS4)3 phase is decomposed to form the Li2S phase when the cell is discharged to 1.0 V, which is consistent with the large irreversible capacity observed in the ﬁrst cycle.
+The unique peak (at 1.85 V) remaining until discharging to 1.5 V suggests that the new structure obtained by discharging to 1.85 V is maintained with further lithium insertion.
+When the cell was charged to 3.5 V after discharging to 1.5 V, as shown in Figure 5a, the ﬁrst discharge and charge capacities are observed to be ≈350 and ≈300 mAh/g, which correspond to ≈7 and ≈6 Li per LiTi2(PS4)3 formula unit, respectively; 86% of the capacity consumed in the discharge process is recovered in the charge process, but there is a marked capacity fade on further cycling that roughly correlates with the extent to which the material becomes amorphous.
+Different from the ﬁrst discharge curve, there is no step on the next charge curve, which suggests that the structural change is not reversible.
+In addition, a monotonically decreasing voltage is observed in the second LiTi2(PS4)3 as Lithium Insertion Hosts discharge curve (Figure 5a) that is similar to the discharge curve12 for TiS2, where Li forms a continuous solid solution as x increases from 0 to 1 in LixTiS2. 
+The XRD pattern in Figure 5b shows that the major peak (14.4°) observed after the ﬁrst discharge to 1.85 V is maintained during the ﬁrst charge process up to 3.5 V from 1.5 V without the appearance of any other new peaks.
+However, this unique peak becomes weaker on further cycling and ﬁnally disappears on second charging to 3.5 V.
+These data indicate that the lithiation (discharge) of LiTi2(PS4)3 induces a modiﬁed framework structure for Li1+xTi2(PS4)3 on the ﬁrst discharge, but this modiﬁed structure becomes amorphous on further cycling.
+The modiﬁed structure has not been identiﬁed at 13 this point.
+Similar results have been observed in NbSe3 14 where the plateau voltage curve observed in the and NbS3 ﬁrst discharge was changed to a continuously decreasing voltage curve in the second discharge.
+It was found that on the ﬁrst discharge NbS3 and NbSe3 are changed to an amorphous structure that does not revert to the original lattice in a recharge process.
+Our XRD study showed there was no reduction of Ti4+ to metallic Ti0 on the reversible insertion of 7 Li atoms per LiTi2(PS4)3 formula unit.
+The insertion of 4 Li atoms per formula unit can be compensated by reducing Ti4+ to Ti2+, but the additional 3 Li atoms per formula unit without further reduction of the Ti2+ means there must be a reduction of some other unit before decomposition to Li2S.
+The apparent candidate is the (PS4)3unit to (PS4)4-, which requires placing an antibonding state of the (PS4)3unit below the 4s band of Ti0 at about 1.5 V vs Li+/Li0. A (PS4)4state cannot be very stable, and a capacity fade on cycling (over 7 Li per formula unit) should not be surprising.
+Figure 6a shows that if the cell is discharged to 1.8 V vs Li+/Li0, i.
+e., the range corresponding to ≈4 lithium atoms per formula unit with a discharge capacity of ≈200 mAh/g, the structural change makes the second discharge curve different, but subsequent cycles with the new structure, whichKim et al. immobile in the new, more stable framework host.
+The smallness of the broad voltage step at about 100 mAh/g in the ﬁrst discharge curve of Figure 6a is associated with the structural change.
+Figure 6b shows that when the cell is operated between 2.0 and 3.5 V vs Li+/Li0 (i.e., the range corresponding to 2 Li atoms per formula unit with a capacity of ≈100 mAh/g), cycling after the ﬁrst discharge is quite reversible at a voltage of about 2.1 V.
+A small capacity fade was observed with further cycling.
+The irreversible capacity loss of ≈30 mAh/g after the ﬁrst discharge can correspond to an immobility of ≈0.6 Li atoms per formula unit on the transformation of the original structure to the new framework.
+This deduction is consistent with the XRD data observed between 2.5 and 2.1 V in Figure 4b.
+LiTi2(PS4)3 was prepared by solid-state reaction.
+The powder diffraction pattern of this new lithium-containing compound matches the powder pattern of the sodium phase, indicating isomorphism.
+This structure forms a host 3D framework with a large interstitial space for Li insertion/ extraction.
+We began with this compound because the Ti4+ ion is stable in the octahedral site of a sulﬁde and could be capable of operating on both the Ti4+/Ti3+ and Ti3+/Ti2+ couples.
+In fact, we found that not just , Li atoms per formula unit can be introduced without decomposition of the host in the ﬁrst discharge.
+Insertion of 4 Li per formula unit would correspond to reduction of all the Ti4+ to Ti2+, and we believe that the additional 3 Li per formula unit probably reduce the (PS4)3polyanions to (PS4)4-.
+Although this experiment illustrates that our strategy to investigate 3-D framework structures is reasonable, the particular framework chosen proved unsatisfactory.
+First, the framework changed to a new framework structure on Li insertion; the new framework retained more than one immobile Li+ ion per formula unit, which resulted in a capacity loss between the ﬁrst and second discharge to below 1.8 V.
+Second, a capacity fade occurs due to transformation to an amorphous phase on cycling to 1.5 V.
+This fade may indicate a near overlap of the Ti3+/Ti2+ and (PS4)3-/(PS4)4redox couples.

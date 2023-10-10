@@ -1,0 +1,56 @@
+Naþ superionic conductor (NASICON) type Fe2(MoO4)3 with capacious ion diffusion tunnels and a flatdischarge plateau, is a promising cathode material for sodium ion batteries.
+
+However, the sluggishelectrochemical kinetics limits its further development due to the poor electron conductivity and longNaþ diffusion path.
+
+ In this work, a graphene wrapped Fe2(MoO4)3 nanoparticle composite was synthesized via a micro-emulsion method followed by annealing.
+
+ The composite exhibits ultra-high rate capability (64.1 mA h g1 at 100 C, better than all the reported works) and good high-rate cycling stability(76% capacity retention after 100 cycles at 10 C).
+
+The enhanced electrochemical performances are attributed to the unique composite structure with shortened ion diffusion distance and high electronconductivity.
+
+Furthermore, the Naþ insertion/extraction mechanism of the composite is systematicallyinvestigated, based on in-situ X-ray diffraction (XRD) and X-ray photoelectron spectroscopy (XPS).
+
+Ourwork demonstrates that the graphene wrapped Fe2(MoO4)3 nanoparticle composite has great potentialfor high-rate sodium ion batteries.
+
+With the insufficiency of lithium, lithium ion batteries (LIBs)can hardly meet the worldwide sustaining demand [1–5].
+
+As acandidate, sodium ion batteries (SIBs) hold great promise to be thenext generation of energy storage devices due to the high abundance of sodium and the similarity of its electrochemical mechanism to that of LIBs [6–8].
+
+However, the larger ionic radius ofNaþ (0.98 Å) in comparison with that of Liþ (0.69 Å) causes thelower Naþ diffusion coefficient and larger volume change, resulting in poor rate and cycling performances [9–13].
+
+Unfortunately, some materials such as layered NaxCoO2 and olivinetype NaFePO4, being primarily and widely considered for SIBs dueto the success of their analog LiCoO2 and LiFePO4, failed to overcome the inherent limitations of SIBs on account of the narrow iondiffusion tunnels and the irreversible phase transition after Naþintercalation [14–17].
+
+Therefore, new cathode materials with suitable structures for Naþ intercalation are urgently required to beexploited for SIBs.
+
+Naþ superionic conductor (NASICON) with an ideal open threedimensional (3D) framework for Naþ transportation, has beenregarded as the optimal cathode material for SIBs [18–20] .Amongthese NASICON-type materials, only a few possess electrochemicalactivity, and iron molybdate (Fe2(MoO4)3) is one of them [21].
+
+As acathode material for SIBs, Fe2(MoO4)3 is nontoxic and has a flatdischarge voltage plateau (2.6 V versus Naþ/Na), which showsgreat prospect for sodium ion storage [22].
+
+Nevertheless, its further development is limited by the sluggish electrochemical kinetics caused by the poor electronic conductivity and the long Naþdiffusion path [22–26].
+
+Compositing electrode active material withconductive agents is an effective approach to enhance the electronic conductivity [27–28].
+
+So far, highrate Fe2(MoO4)3 cathode material has not been reported.
+
+Thus, lowrate capability severely limits the further development ofFe2(MoO4)3.Reducing the sizes of the active material is aneffective way to improve the rate capability, because nanostructures can provide larger electrode/electrolyte contact area andshorter distance for ion transport [29–31].
+
+Therefore, to obtainhigh performance Fe2(MoO4)3 cathode material, compositing withconductive agents and reducing the sizes of the particles should besimultaneously achieved.
+
+Herein, we report a graphene wrapped Fe2(MoO4)3 nanoparticlecomposite synthesized via a micro-emulsion method followed byannealing.
+
+As a cathode material for SIBs, the graphene wrappedFe2(MoO4)3 nanoparticle composite exhibits high rate capability(64.1 mA h g1 at 100 C) and good high-rate cycling stability (morethan 76% capacity retention after 100 cycles at 10 C).
+
+The improvement of the electrochemical performance can be attributed tothe synergetic advantages of the nano-sized Fe2(MoO4)3 particlesand the high-conductive graphene, which provide not only shortened Naþ diffusion path but also effective electron transportation.
+
+Furthermore, the Naþ insertion/extraction mechanism of thecomposite is systematically investigated by in-situ X-ray diffraction(XRD) and X-ray photoelectron spectroscopy (XPS).
+
+In summary, the graphene wrapped Fe2(MoO4)3 nanoparticlecomposite has been synthesized via a facile method, and exhibits aconsiderable capacity of 98.4 mA h g1 with a flat voltage plateauas a cathode material for SIBs.
+
+Remarkably, a relatively highcapacity of 64.1 mA h g1 can be obtained under the ultra-highrate of 100 C.
+
+The fast ion diffusion coefficient cooperating withthe reduced electronic transmission impedance ensures thesuperior electrochemical performances of the graphene wrappedFe2(MoO4)3 nanoparticle electrode.
+
+Furthermore, the Na ion insertion/extraction mechanism of the composite is systematicallyinvestigated, based on in-situ XRD and XPS.
+
+ The results above indicate that the graphene wrapped Fe2(MoO4)3 nanoparticle composite is a promising cathode material for sodium ion batteries.
+

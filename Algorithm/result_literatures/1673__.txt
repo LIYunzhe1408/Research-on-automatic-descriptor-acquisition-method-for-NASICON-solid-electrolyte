@@ -1,0 +1,75 @@
+Besides gas sensitivity, luminescence characteristics of NASICON (Na+ super ion conductor) materials were found.
+In this paper, thephotoluminescence (PL) properties of NASICON and doped-NASICON materials were investigated.
+NASICON was synthesized by conventionalsol–gel process and doped with Dy2O3 by 1 wt.
+%, 3 wt.
+% and 5 wt.
+%, respectively.
+The ultraviolet light (325 nm, He–Cd laser) excited luminescentemissions of the resulted powders are recorded vs.
+wavelength in the range from 350 to 650 nm.
+The main peak of the pure NASICON is found at thewavelength of 474 nm (blue light), the transition energy is 2.616 eV.
+The luminescent intensity is increased after doping with Dy2O3.NASICON is a familiar material of gas sensors [1–4].
+Recently, it is accidentally found that NASICON also hasluminescence characteristics, which has been relatively littlereported.
+NASICON compounds are characterized by ananionic framework of SiO4 and PO4 tetrahedra linked by sharedoxygen ions to ZrO6 octahedra [5].
+The general formula ofNASICON series could be written as Na1+xZr2SixP3 − xO12 andthe highest ionic conductivity could be obtained at x=2, namelyNa3Zr2Si2PO12 [1,6–9].
+In this paper, NASICON materialswere prepared by sol–gel route using inorganic reagent instoichiometric ratio.
+The PL properties of NASICON anddoped-NASICON materials are investigated.
+NASICON materials were synthesized by conventional sol–gel process [10,11].
+ZrOCl2·8H2O, NaNO3, (NH4)2HPO4 andSi(C2H5O)4 were used as the main reagents.
+Firstly, ZrO(NO3)2was prepared from ZrOCl2 through the popular precipitationand redissolving procedure with the aid of NH3·H2O and HNO3. Then, ZrO(NO3)2, NaNO3 and (NH4)2HPO4 solutionswere added into the silica gel prepared by alcohol solution andSi(C2H5O)4. The above solution was continuously stirred at70 °C for more than 2 h to form a sol.
+During the process ofpreparation, the pH of solution must be controlled strictly.
+Thesol changed into xerogel after drying in an oven for 10 h at80 °C.
+The resulted gel was pre-sintered at 500 °C for 4 h, anddoped with Dy2O3 by 1 wt.
+%, 3 wt.
+% and 5 wt.
+%, respectively.
+Then the pure and doped-NASICON were ball-milled sufficientlyand pressed into pellet sample then treated at 1000 °C for12 h.
+Otherwise, 1 wt.
+% Dy2O3 doped-NASICON were sinteredfor 12 h at 800 °C, 900 °C and 1000 °C, respectively.
+To investigate the luminescent mechanism of NASICON,luminescence characteristics of commercial SiO2, ZrO2, ZrSiO4and Na3PO412H2O samples were studied.
+The ultraviolet light (325 nm, He–Cd laser) excited luminescentemissions of the resulted powders are recorded vs.
+wavelength in the range from 350 to 650 nm.
+XRD analysis on the resulted pure NASICON was carried out withD/max-rA diffractometer (Japan), Cu Kα, and the range of diffractingangles was 10°b2θb70°.
+The scanning speed was 4°/min and thewavelength of the X-rays was 0.15406 nm.
+The XRD result shown inFig.
+1 indicates that the powders show the presence of monoclinic NASICON and traces of ZrO2. No other phase such as SiO2, ZrSiO4,Na3PO12, Na2SiO3 or Na2ZrO3 is detected in these samples.
+Fig.
+2 shows the PL spectra of the pure and doped-NASICON withdifferent concentration of Dy2O3. From the spectra, the main peak ofthe pure NASICON is found at the wavelength of 474 nm (blue light)and the luminescent peak is a broad band, the transition energy is2.616 eV.
+It can be seen from Fig.
+2 that the difference between pureNASICON and impure NASICON is remarkable.
+The luminescentintensity increases consumedly after doping Dy2O3 into NASICONand the FWHM is very narrow compared with pure NASICON, whichsuggests that the luminescent efficiency of Dy2O3 doped-NASICON isvery high.
+The reason for this phenomenon is suggested that thetransition 4F9 /2→6H15 / 2 of the rare earth ion Dy3+ emits 470 nm–500 nm light, which is similar to NASICON and increases theluminescent intensity.
+But with the enhancement of the concentrationof Dy2O3, the intensity is decreased, which is caused by theconcentration quenching.
+The PL peaks of doped materials occurredobvious red shift about 12 nm.
+Namely, the transition energy wasdecreased with the addition of Dy2O3. Otherwise, another peak appearsat 580 nm (yellow light) after doping with Dy2O3, and this peak isattributed to the transition 4F9 / 2→6H13 / 2 of Dy3+.
+The transition of4F9 / 2→6H15 / 2 (486 nm) is stronger than that of 4F9 / 2→6H13 / 2(580 nm), so 4F9 /2→6H15 / 2 is the primary transition.
+In general, the Dy3+ activated phosphors cannot be excited by ultraviolet light.
+Theenergy transition may be happened from the host lattice group to Dy3+in the NASICON materials.
+To study the luminescent mechanism of NASICON, the luminescencecharacteristics of commercial SiO2, ZrO2, ZrSiO4 and Na3-PO4 ·12H2O samples were investigated, as shown in Fig.
+3. Theposition and shape of ZrO2 PL peak are both similar to that of pureNASICON PL peak.
+It can be suggested from Fig.
+3 that the reason ofthe PL of NASICON material is that Zr4+ possesses optical activenessand results in luminescence as an activator.
+When excited by ultravioletlight, Zr4+ not only can be the host cation but also possesses opticalactiveness.
+The luminescent intensity of pure NASICON is 5 times tothat of ZrO2, which is an advantage of luminescent materials.
+Theenergy band structure of NASICON and luminescent mechanismhaven't been studied deeply and further studies are underway.
+1 wt.
+% NASICON:Dy3+ represented merits in luminescent intensityand efficiency (Fig.
+2).
+1 wt.
+% Dy2O3 doped-NASICON were sinteredfor 12 h at 800 °C, 900 °C and 1000 °C, respectively.
+Fig.
+4 shows thePL spectra of the three samples.
+It can be seen that the luminescentintensity of sample sintered at 900 °C is the strongest and theluminescence start earlier with the increasing of sintered temperature.
+Therefore, it can be suggested that the crystallization and pureness ofsample sintered at 900 °C is the best among the three samples.
+Thesample sintered at higher temperature is excited easier.
+The differencebetween samples sintered at 800 °C and 900 °C is very small.
+The PL properties of NASICON and doped-NASICONmaterials are investigated.
+The NASICON materials aresynthesized by conventional sol–gel method, and doped withDy2O3 by 1 wt.
+%, 3 wt.
+% and 5 wt.
+%, respectively.
+The ultravioletlight (325 nm) excited luminescent emissions of theresulted powders are recorded vs.
+wavelength in the range from350 to 650 nm.
+The main peak of the pure NASICON is foundat the wavelength of 474 nm (blue light), the transition energy is2.616 eV.
+Zr4+ in the NASICON material not only can be thehost cation but also possesses optical activeness and results inluminescence as an activator.
+The luminescent intensity isincreased after doping with Dy2O3. The luminescent intensity of1 wt.
+% Dy2O3 doped-NASICON sintered at 900 °C is thestrongest.

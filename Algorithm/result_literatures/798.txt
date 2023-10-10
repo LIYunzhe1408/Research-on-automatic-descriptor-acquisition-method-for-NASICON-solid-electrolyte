@@ -1,0 +1,11 @@
+Small single crystals of NASICON-type LiTi2(PO4)3 of high quality were grown by means of long-term annealing of polycrystalline specimens synthesized using conventional solid state reaction.
+A thorough study of their structural properties and vibrational dynamics was carried out by means of an integrated experimental and theoretical approach.
+A single crystal X- ray diffraction analysis at room temperature allowed to determine the precise crystal structure and the anisotropic displacement parameters of all atoms.
+In addition, all the 25 indepen- dent components of the polarizability tensor, expected on the basis of the group theory for the LiTi2(PO4)3 crystal, were observed using polarized Raman spectroscopy in backscattering geometry on a micro-crystal, properly oriented by a micro-manipulator.
+Thus all the expected Raman modes have been unambiguously identified by determining both their wavenumber and symmetry throughout an accurate analysis of the spectral profiles observed in the different po- larization configurations.
+Finally, these experimental findings were fully corroborated by the results of first-principles calculations performed to determine Raman and infrared vibrational modes.
+In this study both the crystal structure and the vibrational dynamics of NASICON-type LiTi2(PO4)3 crystal have been carried out by single crystal X-ray diffraction and an integrated vibrational dy- namics study of LTP single crystals, consisting of polarized Raman scattering measurements and first-principles calculations.
+In particular, the structural parameters were carefully determined, like cell parameters, atomic positions and anisotropic thermal displacement parameters.
+Moreover, all the allowed Raman modes of LTP have been unambiguously detected and identified in terms of their frequency and symmetry.
+Our experimental findings resulted in excellent agreement with the results of first-principles calculations, which also provide additional insights into the infrared and silent vibrational modes.
+These structural and dynamical information on LTP, reference compound for NASICON-type materials, would help in outlining a thorough description of ion transport and related properties of NASICON-type solid electrolytes.

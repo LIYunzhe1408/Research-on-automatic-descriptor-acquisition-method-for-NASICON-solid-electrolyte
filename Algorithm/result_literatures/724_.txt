@@ -1,0 +1,17 @@
+The long-range Li ion diffusion in Li1.5Al0.5Ge1.5(PO4)3 (LAGP), a NASICON-type glass ceramic conductor with high ionicconductivity was studied using pulsed-gradient spin-echo (PGSE) 7Li NMR.
+LAGP is stable in air and water, and can be usedfor all-solid Li batteries as well as next generation Li-air batteries.
+The Li ion conduction mechanisms in the micrometerspace are important for the design of Li batteries and development of new materials.
+Our previous studies on sulfidebasedand garnet-type solid conductors showed that Li+ ion uniform diffusion is hampered by narrow pathwayssurrounded by stationary anions.
+The Li ions are engaged in parameter-dependent diffusion with the parameters beingobservation time (Δ) and pulsed-field gradient (PFG) strength (g); that is completely different from the Li diffusion insolution and polymer electrolytes, and also from molecular diffusion in neutral porous media.
+In this study, we observedapparent diffusion constant (Dapparent) values for the LAGP, that were almost continuously distributed within a limited rangeat a certain Δ.
+At very long observation time (above 300 ms) and large g (~13 Tm-1), an equilibrated diffusion constant(close to the tracer diffusion constant) could be observed.
+The apparent activation energy of Li ion diffusion was about 16kJ mol-1, which was smaller than the activation energy for the ionic conductivity.
+The temperature-dependent carrier ionnumbers were estimated.
+The long-range Li ion diffusion of a NASICON-type conductorLi1.5Al0.5Ge1.5(PO4)3 (LAGP), was measured by PGSE Li-NMRspectroscopy between room temperature and 100 ºC.
+Snapshots ofLi+ diffusion behaviours were observed by varying Δ.
+For Δ valuesshorter than about 20 ms, the Li ions diffuse quickly and collide withthe walls of the Li pathways composed of anions; they collide andare diffracted without thermal activation.
+At the longer Δ values,the diffracted patterns were not observed and the Stejskal andTanner plots showed exponential decays.
+The Li ions undergoparameter-dependent diffusion and the Dapparent values aredistributed depending on both Δ and the PFG strength g.
+For muchlonger Δ values, the Dapparent values converged toward a smallequilibrated value with thermal activation, which must be close totracer diffusion constant.
+The activation energy of the equilibratedD was 16 kJ mol-1, which was smaller than the activation energy ofthe ionic conductivity (37 kJ mol-1).
+The discrepancy can beinterpreted by the increase in the number of carriers withtemperature.

@@ -1,0 +1,125 @@
+Camaronesite (IMA 2012-094), [Fe3+(H2O)2(PO3OH)]2(SO4)·1 2H2O, is a new mineral from near the village of Cuya in the Camarones Valley, Arica Province, Chile. The mineral is a low-temperature, secondary mineral occurring in a sulfate assemblage with anhydrite, botryogen, chalcanthite, copiapite, halotrichite, hexahydrite, hydroniumjarosite, pyrite, ro¨merite, rozenite and szomolnokite. Lavendercoloured crystals up to several mm across form dense intergrowths. More rarely crystals occur as drusy aggregates of tablets up to 0.5 mm in diameter and 0.02 mm thick. Tablets are ﬂattened on {001} and exhibit the forms {001}, {104}, {015} and {018}. The mineral is transparent with white streak and vitreous lustre. The Mohs hardness is 2Ý, the tenacity is brittle and the fracture is irregular, conchoidal and stepped. Camaronesite has one perfect cleavage on {001}. The measured and calculated densities are 2.43(1) and 2.383 g/cm3, respectively. The mineral is optically uniaxial (+) with o = 1.612(1) and e = 1.621(1) (white light). The pleochroism is O (pale lavender) > E (colourless). Electron-microprobe analyses provided Fe2O3 31.84, P2O5 29.22, SO3 15.74, H2O 23.94 (based on O analyses), total 100.74 wt.%. The empirical formula (based on 2 P a.p.f.u.) is: Fe1.94(PO3OH)2(S0.96O4)(H2O)4·1.46H2O. The mineral is slowly soluble in concentrated HCl and extremely slowly soluble in concentrated H2SO4. Camaronesite is trigonal, R32, with cell parameters: a = 9.0833(5), c = 42.944(3) A˚ , V = 3068.5(3) A˚ 3 and Z = 9. The eight strongest lines in the X-ray powder diffraction pattern are [dobs A˚ (I)(hkl)]: 7.74(45)(101), 7.415(100)(012), 4.545(72)(110), 4.426(26)(018), 3.862(32)(021,202,116), 3.298(93)(027,119), 3.179(25)(208) and 2.818(25)(1·1·12,125). In the structure of camaronesite (R1 = 2.28% for 1138 Fo > 4sF), three types of Fe octahedra are linked by corner sharing with (PO3OH) tetrahedra to form polyhedral layers perpendicular to c with composition [Fe3+(H2O)2(PO3OH)]. Two such layers are joined through SO4 tetrahedra (in two half-occupied orientations) to form thick slabs of composition [Fe3+(H2O)2(PO3OH)]2(SO4). Between the slabs are partially occupied H2O groups. The only linkages between the slabs are hydrogen bonds. The most distinctive component in the structure consists of two Fe octahedra linked to one another by three PO4 tetrahedra yielding an [Fe2(PO4)3] unit. This unit is also the key component in the sodium super-ionic conductor (NASICON) structure and has been referred to as the lantern unit. The polyhedral layers in the structure of camaronesite are similar to those in the structure of taranakite. The Raman spectrum exhibits peaks consistent with sulfate, phosphate, water and OH groups.
+
+THE narrow, steep-walled Camarones Valley in Chile’s Arica Province is known locally for its small-scale sulfate outcrops, which have been exploited in the past as small quarries and diggings (Salas, 1964, 1965). In late 2011, while searching the valley ﬂoor for rocks that had tumbled down from outcrops on the steep valley walls, Arturo Molina encountered a small boulder with unusual sulfate mineralization. This boulder yielded a variety of rare sulfates, including massive intergrowths of crystals of the new mineral described herein. On a second visit in early 2012, Molina found a second small boulder about 100 m west of the ﬁrst discovery. This boulder contained vugs bearing free-standing crystals of the new mineral. The new mineral species, a remarkable ferric iron phosphate sulfate, is named camaronesite (kæm a:r ’oun æz ait) for the locality. In spite of the abundance of Fe, S and P in the natural environment, only two minerals, destinezite, and its amorphous analogue, diadochite, are known, with only these cations (Peacor et al., 1999; Mills et al., 2012). Several other minerals contain phosphate and sulfate ions; however, many of these minerals are members of the alunite supergroup (Mills et al., 2009; Bayliss et al., 2010) or complex white Al phosphate sulfates such as peisleyite (Mills et al., 2011), sanjuanite (Colombo et al., 2011), hotsonite (Beukes et al., 1984), kribergite (de Bruiyn et al., 1989) and sasaite (Martini, 1978).
+
+The new mineral and name have been approved by the Commission on New Minerals, Nomenclature and Classiﬁcation of the International Mineralogical Association (IMA 2012-094). The description of the new mineral was based on ﬁve specimens, which are all designated as cotype specimens and are deposited in the Natural History Museum of Los Angeles County, 900 Exposition Boulevard, Los Angeles, California 90007, USA under catalogue numbers 64023, 64024, 64025, 64026 and 64027. Specimens 64023–64026 are from the ﬁrst boulder found. Specimen 64027 is from the second boulder.
+
+The location where Arturo Molina found the two boulders is ~9 km NE of the village of Cuya in the
+
+Camarones Valley, Arica Province, Chile. The small boulders evidently originated from a leached outcrop located approximately at 19º5’58’’S 70º7’6’’W, high on the NW side of the steep valley, directly above the place where the boulders were found. We have designated the site of the deposit as the Cuya NE9 sulfate occurrence to differentiate it from other sulfate deposits at different distances from Cuya, as well as from other deposits with different mineral assemblages. Note that we are also investigating several potentially new minerals from a nearby deposit rich in arsenite minerals, which is also ~9 km NE of Cuya. This site will be designated the Cuya NE9 arsenite occurrence. Using this same approach, the chloride-rich deposit in the Camarones Valley 5 km NE of Cuya, at which a related to recent new Mg-rich mineral paratacamite (IMA-2013-014) was found, is designated the Cuya NE5 chloride occurrence.
+
+The rocks in the Camarones Valley area consist of faulted and metamorphosed lavas, lithic tuffs and marine sediments. Sulﬁde accumulations (pyrite with lesser arsenopyrite, sphalerite, etc.) in the marine sediments (shales and sandstones) have been oxidized under increasingly arid conditions, yielding extensive suites of secondary sulfates, arsenates, arsenites, chlorides, etc. (Salas, 1964, 1965).
+
+The ﬁrst of the two small boulders in which the camaronesite was found measured roughly 25 cm620 cm615 cm and weighed ~8 kg. The second boulder measured ~35 cm630 cm6 30 cm and weighed ~20 kg. Both boulders had crudely zoned structures with yellow-brown limonitic exterior coatings followed by the sulfate assemblages and then sulﬁde-rich cores. The ﬁrst boulder consisted of a dense intergrowth of minerals with few, if any, vugs. The second boulder contained numerous vugs containing well formed crystals of several of the sulfate minerals, most notably camaronesite and copiapite.
+
+The sulfate assemblage in the ﬁrst boulder included anhydrite, botryogen, camaronesite, chalcanthite, copiapite, halotrichite, hexahydrite, ro¨ merite, Its core contained prominent patches and small crystals of unaltered pyrite and a lesser amount of arsenopyrite. The sulfate assemblage in the second boulder included anhydrite, camaronesite,
+
+FIG. 1. Dense intergrowth of camaronesite and anhydrite. Note reﬂections from cleavages on broken camaronesite
+
+FIG. 2. Tabular pink camaronesite crystals with yellow
+
+chalcanthite, copiapite, hydroniumjarosite, rozenite and szomolnokite. Its core was richer in sulﬁdes than that of the ﬁrst boulder, pyrite being most prominent with lesser amounts of arsenopyrite, chalcopyrite and sphalerite. Chunks of actinolite, assumed to be remnants of the metamorphosed shale, were also a minor component of the second boulder. The small boulders evidently were sulﬁde accumulations in the metamorphosed shale that altered from the outside inwards
+
+in Crystals of camaronesite usually occur lavender-coloured, dense intergrowths, often heavily included by anhydrite. On broken surfaces of these intergrowths, cleavage planes up to several mm across can be observed (Fig. 1). More rarely crystals occur as pink to pale lavender tablets up to 0.5 mm in diameter and 0.02 mm thick forming isolated crystals (Fig. 2) or drusy aggregates lining vughs and seams. Tabular crystals (on specimen 64027) are ﬂattened on {001} and exhibit the forms {001},
+
+is transparent and has vitreous lustre. It does not ﬂuoresce in long or short wave ultraviolet light. The Mohs hardness is 2Ý, based on scratch tests with gypsum and calcite. The tenacity is brittle and the fracture is irregular, conchoidal and stepped. The mineral exhibits one perfect cleavage on {001}. The density measured by ﬂoatation in an aqueous solution of sodium polytungstate is 2.43(1) g/cm3, but because crystals generally contain inclusions of anhydrite, this value is probably too high. The calculated density is 2.383 g/cm3, based on the empirical formula and the unit cell determined by singlecrystal XRD. A small crystal of camaronesite requires several hours to dissolve in cold, concentrated HCl and several days to dissolve in concentrated H2SO4.
+
+Optically, camaronesite is uniaxial positive, with o = 1.612(1), e = 1.621(1), measured in white light. The mineral is pleochroic: O (pale lavender) > E (colourless).
+
+FIG. 3. Crystal drawing of camaronesite crystal, clinographic projection.
+
+Raman spectroscopic micro-analyses were obtained using a Renishaw M1000 micro-Raman spectrometer system. Light from a 514.5 nm argon laser was focused onto the sample with a 1006 objective lens, and at 100% power could provide ~5 mW of power at the sample, in a spot size of ~1 mm. Peak positions were periodically calibrated against a silicon standard and rarely  1. All spectra were varied more than 1 cm obtained with a dual-wedge polarization scrambler inserted directly above the objective lens to minimize the effects of polarization.
+
+The camaronesite Raman spectrum (Fig. 4) was obtained from an ~76 mm655 mm grain in a polished microprobe section. It shows a strong, broad OH-stretching band running from ~3600 to  1 with possible components near 3463, 2800 cm  1. Evidence for molecular 3363 and 3140 cm water comes from a narrower H2O-bending region  1 with likely components at centred at ~1610 cm  1. The spectrum also shows ~1638 and 1596 cm  1 strong, sharp bands at 1014, 1080 and 937 cm 2  that are in a position where both PO4 and SO4 vibrations occur. Curve ﬁtting indicates that additional bands appear at 526, 305, 254 and 227 cm
+
+The Raman frequencies of the free phosphate ion tend to occur at somewhat lower energies than those of the free sulfate ion (table II-6e in Nakamoto, 1978). However, an examination of the Raman spectra of hydrated ferric sulfate and phosphate minerals on the RRUFF website
+
+(Downs, 2006) shows that phosphate bands in  1 region can be at nearly the same, the 1000 cm or occasionally, slightly higher energies than the sulfate bands depending on the speciﬁc phase. Thus, while it is reasonable to assign the dominant bands in the 1100 950 cm  1 region to the n1 tetrahedral TO4 vibrations (T = P or S), we cannot reliably assign the individual bands to either phosphate or sulfate with the available data.
+
+Ten chemical analyses, eight on crystals from the ﬁrst boulder (specimens 64023 64026) and two on crystals from the second boulder (specimen 64027), were performed at the University of Utah using a Cameca SX-50 electron microprobe (EMP) with four wavelength dispersive spectrometers. Analytical conditions were 15 kV accelerating voltage, 10 nA beam current and a beam diameter of 20 mm. Counting times were 20 s on peak and 10 s on + and   background. No other elements were detected by energy dispersive spectroscopy. Other likely elements were sought by electron microprobe analysis, but none was found to be above the limit of detection. Raw X-ray intensities were corrected for matrix effects with a f(rz) algorithm (Pouchou and Pichoir, 1991).
+
+CHN analyses of the dense crystal intergrowths provided H2O values that were about half of those expected. These same intergrowths provided densities measured by Berman balance in the 2.6 2.7 g cm  3 range. Examination by powder XRD and polarized-light microscopy showed
+
+FIG. 4. Raman spectrum of camaronesite.
+
+these crystals of camaronesite to contain numerous inclusions of anhydrite, thus accounting for the discrepancies in the H2O content and density. The drusy camaronesite crystals contain far fewer inclusions and a CHN analysis on a 2.8 mg sample of this material provided an H2O content of 20.29 wt.%, only ~3 wt.% lower than that indicated by the structure determination and EMP oxygen analyses. Due to the problem with the CHN analyses caused by inclusions, we ultimately chose to report the H2O contents in camaronesite based upon careful EMP analyses of O (determined from the difference between measured and stoichiometric oxygen; see Nash, 1992), which closely match the amount of H2O provided by the structure determination. It is also worth noting that the CHN analyses conﬁrmed that the C and N contents of camaronesite are negligible. Analytical data are given in Table 1. The empirical formula (based on 2 P a.p.f.u.) is Fe1.94(PO3OH)2(S0.96O4)(H2O)4·1.46H2O. The s i m p l i ﬁ e d f o r m u l a 2 ( P O 3 O H ) 2 (SO4)(H2O)4·1 2 H2O. It should be noted that the H2O range in the analyses corresponds to 0.88 2.08 non-structural H2O p.f.u. in the empirical formula. The two EMP analyses on free-standing crystals from the second boulder provided analytical values for all components within the ranges obtained for the massive crystals from the ﬁrst boulder, although the H2O values for the free-standing crystals fell towards the lower end of the range. The free-standing crystals analysed contained approximately one non-structural H2O group p.f.u. The Gladstone-Dale compatibility index 1   (KP/KC) formula, indicating superior compatibility (Mandarino, 2007).
+
+Both powder and single-crystal X-ray studies were carried out using a Rigaku R-Axis Rapid II curved imaging plate microdiffractometer, with monochromatized MoKa radiation. For the powder-diffraction study, observed d spacings and intensities were derived by proﬁle ﬁtting using JADE 2010 software (Materials Data, Inc.). The powder data presented in Table 2 show good agreement with the pattern calculated from the structure determination. Unit-cell parameters reﬁned from the powder data using JADE 2010 with whole-pattern ﬁtting are: a = 9.0679(10), c = 42.991(6) A˚ , and V = 3061.4(6) A˚ 3.
+
+the best reﬁnement was obtained on a cleavage fragment carefully selected from intergrown camaronesite crystals from specimen 64023 (which originated from the ﬁrst boulder). The Rigaku CrystalClear software package was used for processing the structure data, including the application of an empirical multi-scan absorption correction using ABSCOR (Higashi, 2001). The structure was solved in the trigonal R32 space group by direct methods using SIR2004 (Burla et al., 2005). SHELXL-97 (Sheldrick, 2008) was used for the reﬁnement of the structure. No unindexed or streaked diffraction spots were observed and there were no space group violations. The Flack parameter, 0.04(2), suggests the absence of racemic twinning.
+
+The SO4 group was found to consist of two half-occupied tetrahedral groups sharing a common base, such that the O atoms of the base (two O5 and one O6) are fully occupied and the apical O atom (O7) and the S atom are half
+
+hematite apatite baryte hematite
+
+TABLE 2. Powder X-ray data for camaronesite.
+
+Only calculated lines with intensities of 2 or greater are listed.
+
+occupied. Attempts to resolve the SO4 group into separate fully occupied sites using lower symmetry (e.g. C2 and P1) and/or multiple cell lengths along c were unsuccessful.
+
+Difference Fourier syntheses located the H atom sites associated with the PO3(OH) group and
+
+with the H2O groups participating in Fe coordination. Three partially occupied non-structural H2O sites (OW10, OW11 and OW12) were also located. The H atom sites associated with the partially occupied H2O sites could not be located and because of the consequent uncertainty in
+
+CAMARONESITE, A NEW PHOSPHATE-SULFATE FROM CHILE
+
+assigning hydrogen bonds from the non-structural H2O groups, no corresponding bond-valence contributions are included in the bond-valence analysis. Note that possible hydrogen bonds from the non-structural H2O groups based on O O bond distances are as follows: OW10_OH4 ( 2 . 6 0 , 2 . 6 8 A˚ ) , O W 1 0_ O 7 ( 2 . 7 1 A˚ ) , OW10_OW9 (2.91 A˚ ), OW11_OH4 (2.81 A˚ ), OW11_OW8 (2.77, 2.79 A˚ ), OW12_OH4 (2.86, 2.93 A˚ ) and OW12_OW8 (2.78 A˚ ).
+
+In the ﬁnal reﬁnement, the Fe sites (Fe1, Fe2 and Fe3) and the S site reﬁned to less than full occupancy, in close agreement with the empirical formula. The reﬁned occupancies of the nonstructural H2O sites (OW10, OW11 and OW12) provided a total of 1.43 H2O p.f.u.,approximately midway in the 0.88 2.08 range provided by the EMP analyses. Note that the rather large Ueq for OW12 suggests that its reﬁned site occupancy might be somewhat too large.
+
+The data collection and structure reﬁnement details are provided in Table 3, atom coordinates
+
+they may have some OH character;
+
+and displacement parameters in Table 4, selected bond distances in Table 5 and bond-valence summations (BVS) in Table 6. Note that the rather low BVS for O6 and O7, both of which form unlinked vertices of the SO4 group, suggest that this would serve to compensate for the charge deﬁciency created by the deﬁciencies in Fe and S noted above. Lists of observed and calculated structure factors have been deposited with the journal and can be downloaded from http:// w w w . m i n e r s o c . o r g / p a g e s / e _ j o u r n a l s / dep_mat_mm.html.
+
+In the structure of camaronesite (Fig. 5), three types of Fe octahedra are linked by corner sharing with (PO3OH) tetrahedra to form layers perpendito c with composition [Fe3+(H2O)2 cular (PO3OH)]. Two adjacent opposite-facing layers are joined through SO4 tetrahedra (in two half-
+
+TABLE 3. Data collection and structure reﬁnement details for camaronesite.
+
+Diffractometer X-ray radiation / power Temperature Structural Formula Space group Unit-cell dimensions
+
+V Z Density (for above formula) Absorption coefficient F(000) Crystal size (mm) y range Index ranges Reflections collected / unique Reflections with Fo > 4s(F) Completeness to y = 25.01º Max. and min. transmission Refinement method Parameters refined GoF Final R indices [Fo > 4s(F)] R indices (all data) Flack parameter Largest diff. peak / hole
+
+occupied orientations) to form thick slabs of composition [Fe 3 +(H 2O) 2(PO 3OH)] 2(SO 4). Partially occupied H2O groups between the
+
+layers account for 1 to 2 H2O p.f.u., yielding the complete formula [Fe 3 +(H 2O) 2(PO 3OH)] 2 (SO4)·1 2H2O. The only linkages between the
+
+TABLE 6. Bond-valence analysis for camaronesite. Values are expressed in valence units.
+
+Multiplicity is indicated by 6?;; P5+ O bond strength from Brese and O’Keeffe (1991); Fe3+ O and S6+ O bond strengths from Brown and Altermatt (1985); the bond strengths are based on the reﬁned site occupancies for the Fe1, Fe2, Fe3 and S sites; hydrogen-bond strengths based on O_O bond lengths, also from Brown and Altermatt (1985); OW10, OW11 and OW12 are not included. * H8b hydrogen bonds to two partially occupied OW11 and one partially occupied OW12, with an estimated total bond strength of 0.18 v.u.
+
+FIG. 5. The crystal structure of camaronesite. The image on the right shows a single polyhedral layer on edge. Partially occupied non-structural H2O groups are large white spheres; H atoms are small white spheres. Note that the two half-occupied SO4 groups share the same base and, therefore, look similar to an octahedron in this projection.
+
+thick slabs are hydrogen bonds. The weak bonding between the slabs accounts for the perfect cleavage on {001}.
+
+The Fe1 and Fe3 octahedra link to each other by sharing corners with three (PO3OH) tetrahedra, thereby forming a distinctive [Fe2(PO3OH)3] unit (Fig. 6), sometimes referred to as a ‘lantern unit’ because of its similarity in appearance to a lantern
+
+FIG. 6. [M2(TO4)3] lantern unit (left) and [M3(TO4)6]
+
+The Fe2 octahedron shares three adjacent corners with (PO3OH) tetrahedra, each of which is part of a different [Fe2(PO3OH)3] lantern unit. The Fe2 octahedron, thereby, serves t o l i n k t h e i n t o t h e [Fe3+(H2O)2(PO3OH)] layer. The details of the linkages between the octahedra and tetrahedra are shown in Fig. 7.
+
+link between the Fe octahedra that forms the [M2(TO4)3] (where M represents the octahedral cation and T the tetrahedral cation) lantern units in the camaronesite structure is also found in the structures of the minerals coquimbite and paracoquimbite, [Fe3+(SO4)6(H2O)6]{Fe3+(H2O)6}(H2O)6 (Fang and Robinson, 1970; Robinson and Fang, 1971), but in the latter structures the linking tetrahedra are SO4 groups and there are two successive such triple linkages, resulting in an isolated [Fe3(SO4)6] cluster (Hawthorne et al., 2000), which we will refer to as a double lantern unit (Fig. 6).
+
+Among synthetic compounds, the [M2(TO4)3] lantern unit (although not yet referred to by that name) was ﬁrst found in the structure of NaZr2(PO4)3 by Hagman and Kierkegaard (1968). In this structure the lantern units are linked into a three-dimensional framework. As pointed out by Hong (1976) and Goodenough et al. (1976), the Na+ cations within this framework
+
+FIG. 7. The polyhedral layers in camaronesite and taranakite viewed on edge with the c axis vertical in both cases.
+
+Note that for camaronesite both of the half-occupied SO4 groups sharing the same base are shown.
+
+are mobile, making it a good candidate for fast ion conduction. This insight opened the door to a vast amount of subsequent research into materials with this structure, which has become known as the NASCION (sodium super-ionic conductor) structure (cf. Anantharamulu et al., 2011). It is in this research ﬁeld that the term ‘‘lantern unit’’ for this structural unit has come into common usage (cf. Masquelier et al., 2000).
+
+Moore and Araki (1979) reported the structure of (NH4)H8Fe3+ 3 (PO4)6·6H2O containing double lantern units, as in the cases of coquimbite and paracoquimbite, but in this case linked into a framework. They conjectured a related structure for taranakite, K3Al5(PO3OH)6
+
+(PO4)2·18H2O. They were later proven correct when the structure was ﬁnally solved by Dick et al. (1998). The structure of taranakite contains [Al3(PO3OH)6] double lantern units, which are linked by additional Al octahedra to form thick corner-sharing polyhedral layers. Even though the lantern units are doubled in the taranakite structure, the linkages within the layers are remarkably similar to those in the polyhedral layers of the camaronesite structure (Figs 7 and 8). The taranakite layer is constructed essentially of two camaronesite layers joined by condensing the lantern units into double lantern units. The linkages and geometries are virtually the same except for the inversion of some polyhedra.
+
+FIG. 8. The [Fe3+(H2O)2(PO3OH)] layer in camaronesite and the corresponding partial layer in taranakite. The view
+
+is down c in both cases.
+
+The colour of camaronesite
+
+The pale lavender colour of camaronesite is a direct result of the placement of Fe3+ in the crystal structure and, in particular, the isolation of each Fe3+ octahedron from other Fe3+ octahedra by intervening sulfate or phosphate tetrahedra such that no two Fe3+ octahedra share a common face, edge or vertex. Similar Fe3+ octahedra occur in the phosphate minerals strengite and phosphosiderite and in the sulfate minerals coquimbite and paracoquimbite, all of which share a pale lavender colour. The intervening phosphate and sulfate groups prevent magnetic interactions between the individual Fe3+ octahedra that would otherwise produce much more intense colours, such as in the Fe3+ minerals hematite, goethite, amarantite and jarosite (Rossman, 1976).
+
+Reviewer Giovanni Ferraris and Structures Editor, Peter Leverett, are thanked for their constructive comments on the manuscript. Arturo Molina is thanked for providing specimens of camaronesite. Work at the California Institute of Technology was supported by NSF grant EAR-0947956 and a grant from the Northern California Mineralogical Association. The remainder of this study was funded by the John Jago Trelawney Endowment to the Mineral Sciences Department of the Natural History Museum of Los Angeles County.

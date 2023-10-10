@@ -1,0 +1,69 @@
+Potentiometric CO2 sensors were fabricated usinga NASICON (Na1+xZr2SixP3−xO12) thick film and auxiliarylayers.
+The powder of a precursor of NASICON with highpurity was synthesized using the sol-gel method.
+Using theNASICON paste, an electrolyte was prepared on the aluminasubstrate through screen printing and then sintered at 1000◦Cfor 4 h.
+In the present study, as new auxiliary phases, a seriesof Na2CO3-CaCO3 system was deposited on the Pt sensingelectrode.
+The electromotive force (EMF) values werefound to be linearly dependent on the logarithm of the CO2concentration in the range of 1000–10000 ppm.
+The deviceto which Na2CO3-CaCO3 (1:2) was attached showed goodsensing properties at low temperatures.
+There has been an increasing need in various fields to monitorand controlCO2 concentration.
+TheCO2 emission in ambientair is traditionally determined using the titration technique ina basic solution, infrared adsorption spectroscopy, or thermalconductivity measurement.
+These methods are not suitablefor the development of an inexpensive portable setup.
+Fromthis point of view, gas sensors allow work in real time andappear to be good alternative analytical instruments.
+Most researches concerning the use of NASICON asactive element for gas sensors have been focused on theNa1+xZr2SixP3−xO12 formula, in the composition range of 1.8 < x < 2.4, because in this range, which conductivityshows the largest value .
+AcommercialNASICON witha nominal-composition Na3Zr2Si2PO12 has been investigatedas a CO2 electrochemical sensor .
+CO2 sensing properties can be upgraded with auxiliaryphases in sensing electrodes, which are binary carbonatesystems such as Na2CO3-BaCO3 and Li2CO3-BaCO3.
+The binary systems bring about several advantages such asbetter long-term stability, quick response time, and resistanceto water vapor interruption .
+However, studies of Na2CO3-CaCO3 auxiliary phase are not to be performed upto now.
+In this paper, the material of NASICON was synthesizedusing the sol-gel method so that a dense and homogeneouselectrolyte could be prepared.
+For the products, X-ray diffractionanalysis was performed, and the microstructure of thefilms was observed using a field emission scanning electronmicroscopy (FESEM) to find out the optimum sinteringtemperature of NASICON.
+According to the results of thesemethods, attempts to improve the sensor properties by modifyingthe sensing electrode material were performed anddevices that were based on a series of new Na2CO3-CaCO3system were systematically investigated for CO2 sensingcharacteristics.
+The NASICON powder was prepared using the sol-gelmethod, starting from the solutions of ZrO(NO3)2·8H2O,NH4H2PO4, and Na2SiO3·9H2O.
+The solutions were mixedtogether to form a sol, which was further dehydrated at 80◦Cto form a gel.
+The gel was then dried at 120◦C for 8 h to forma fine dry powder, which was then ground and calcined at750◦C for 1 h to eliminate the organic remains.
+Afterwards,the calcined material was reground.
+The planar sensor design requires the electrolyte to bescreen-printed onto the substrate.
+The starting material inthick-film technology is the so-called paste.
+The paste wasmade by mixing 20 g of NASICON powder, 15 g of α-terpineol, 8 g of butoxyethoxy ethyl acetate, 4 g of polyethyleneglycol, and 3 g of polyvinyl butylene.
+Commerciallyavailable alumina tiles with 50 × 50 mm2 and 0.5 mmin thickness were chosen as the substrate materials.
+Eachtile was laser-scribed to allow several individual sensorsto be printed on one substrate.
+The NASICON layer wasscreen-printed from a paste.
+The Pt electrodes were alsoscreen-printed on the designated regions before and afterthe deposition of the NASICON layer.
+The assembly wassintered at 900, 1000 and 1100◦C for 4 h in air, respectively.
+After this, a series of auxiliary phases (Na2CO3-CaCO3) wasscreen-printed on the Pt sensing electrode.
+The schematic diagramof the sensors is shown in Fig.1. 
+To control the operatingtemperatures, a Pt heater was formed on the rear side ofthe alumina substrate by printing the Pt paste.
+Pt wires wereused as lead wires and were attached using a silver paste.
+Gas-sensing properties were measured in a conventionalgas-flow apparatus by changing the mixing ratio betweenthe parent gas (4% CO2 in an N2 balance) and dry syntheticair.
+The operating temperature was controlled by monitoringthe applied voltage and current using the power supply.
+Thesensors were exposed to the flow (100 cm3/min) of the requiredsample gases.
+The gas mixtures of CO2/air with theCO2 concentration varied from 1000–10000 ppm.
+The solid electrolyte thick films were characterized through an FESEM and using an X-ray diffractometer.
+The electromotiveforce of the sensors was measured using a voltmeter.
+It is important to know the optimum sintering temperature tocrystallize theNASICONwithout a secondary phase.
+As seenfrom the FESEM images in Fig.2, the film that was sinteredat 900◦C had a very porous microstructure.
+Its densificationwas improved when it was sintered at 1000◦C and 1100◦C.
+The porosity of theNASICONmaterialswas too high to guaranteea sensing performance that was adequate for practicalapplications.
+That is, the properties of NASICON are suitablefor use in electrochemical devices, provided the ceramicis dense .
+From the XRD analysis shown in Fig.3, the resultingmaterials that were sintered at 900◦C, 1000◦C, and 1100◦Cfor 4 h, respectively, were already converted into NASICON.
+Compared with the results of the sample sintered at 900 ◦C, the crystallization of the samples sintered at 1000 and1100 ◦C was obviously better.
+The experimental results indicatedthat the co-existing ZrO2 phase could be observed whenthe sintering temperature was increased to 1100◦C.
+Avoidingtraces of the tetragonal ZrO2, which was the most importantsecond phase that easily appeared in the synthesized NASICON,is a key factor in synthesizing the NASICON phasebecause the additional phase decreases the ion conductivityof NASICON at a low operating temperature.
+Throughout this experiment, theNASICON thick film thatwas sintered at 1000◦C was used for the CO2 gas sensor.
+The findings of the experiment are consistent with the experimentalresults reported by Shimizu et al.and Miyachi et al..
+Four types of sensors were fabricated from NASICON asa solid electrolyte.
+A series of Na2CO3-CaCO3 mixtures atthe molar ratio range of 1:0–1:2 was attached to the sensingelectrode.
+Figure 4 shows the EMF response to CO2 as afunction of the CO2 concentration at various temperatures.
+The EMF variation for each sensor at 470◦C agreed wellwith the theoretical value of 74.0 mV/decade, based on atwo-electron electrochemical reaction.
+As the temperaturedecreased, however, the slope tended to deviate from theideal.
+Quite noticeably, the deviation could be suppressedvery effectively with Na2CO3-CaCO3 (1:2), which allowed50.2 mV/decade to be kept at temperatures as low as approximately400◦C.
+An increase in the amount of CaCO3 at theauxiliary phase is fairly effective for keeping the theoreticalvalue at lower temperatures, whereas an adverse effect occurredwhen the CaCO3 content was insufficient.
+The mechanismbehind such improvements is not yet well understood,though.
+The sensors of this type possess a hetero-junctionbetween the electrolyte and the auxiliary phase.
+It seems thatthe junction should play an important role in CO2 sensingperformance .
+It requires further research.
+Figure 5 shows the response time of the sensor to whichNa2CO3-CaCO3 (1:2) was attached to determine the CO2concentration.
+The response times for 90% saturation wereas short as 12 sec at 420◦C.
+A CO2 sensor with an internal heater was fabricated usinga NASICON thick film prepared using the sol-gel method.
+The properties of the NASICON thick film were largely dependent on the sintering conditions because of the crystallizationand densification of NASICON.
+The optimum sinteringtemperature of NASICON was 1000◦C, which wasdetermined through FESEM and XRD analysis.
+The deviceto which Na2CO3-CaCO3 (1:2) was attached showed fairlygood sensing properties at low temperatures.
+The responsetime was less than 12 sec at 420◦C.

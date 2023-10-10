@@ -1,0 +1,9 @@
+Materials with a NASICON structure having the composition (NH4)1 – xHxHf2(PO4)3 (x = 0–1)have been obtained by hydrothermal synthesis followed by heat treatment and by ion exchange and characterizedby X-ray powder diffraction, low-temperature nitrogen adsorption, and scanning electron microscopy.
+The catalytic activity of the materials in the conversion of ethanol is studied.
+All synthesized samplesare shown to exhibit activity in the dehydration of ethanol and, to a small extent, the dehydrogenation of ethanol.
+At low temperatures, the conversion of ethanol predominantly results in the formation of diethyl etherand, at higher temperatures, the reaction predominantly affords ethylene.
+The selectivity in diethyl ether formationreaches 96% with 60% conversion at 360°С on the ion exchange–produced material of HHf2(PO4)3composition with a triclinic modification.
+At temperatures ≥450°C, the selective formation of ethylene isobserved almost on all materials (~100%, with 100% conversion on NH4Hf2(PO4)3 with a rhombohedralmodification at 450°C).(NH4)1–xHxHf2(PO4)3 samples with a NASICONstructures crystallizing in cubic, rhombohedral, or tricliniccrystal system were synthesized.
+The study ofcatalytic properties of synthesized compounds in thetransformations of ethanol showed that all synthesizedsamples exhibit activity in the dehydration of ethanoland, to a small extent, in the dehydrogenation of ethanol.
+Ethanol conversion predominantly affordsdiethyl ether at low temperatures and ethylene athigher temperatures.
+This opens up the way for theselective preparation of diethyl ether (up to 96% at60% conversion on t-HHf2(PO4)3-{II} at 360°C)and, at high temperatures, for the selective preparationof ethylene (~100% at 100% conversion onr-NH4Hf2(PO4)3 at 450°C).

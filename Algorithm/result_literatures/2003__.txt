@@ -1,0 +1,215 @@
+Chemical and Structural Properties of a Whitlockite-like
+
+A. A. Belik,†,| F. Izumi,*,† S. Yu. Stefanovich,‡ B. I. Lazoryak,‡ and K. Oikawa§
+
+A new phosphate, Ca9FeD(PO4)7, with a whitlockite-like structure was synthesized by treating Ca9Fe(PO4)7 with D2 at 820 K. Mo¨ssbauer spectroscopy showed that the oxidation state of Fe in Ca9FeD(PO4)7 is +2. Ca9FeD(PO4)7 was paramagnetic in a temperature range from 5 to 300 K with an effective magnetic moment of 4.97  237)B per Fe2+ ion. The infrared spectrum of Ca9FeD(PO4)7 exhibited a broad absorption band due to an O-D stretching vibration at 2225 cm-1 in addition to bands assigned to PO4 groups. Ca9FeD(PO4)7 was stable under an Ar atmosphere up to 840 K. Above this temperature, it decomposed to a  226)-Ca3(PO4)2-like phase, Ca9.333Fe1.167(PO4)7, as well as  226)-Ca2P2O7 with releasing D2O and keeping the oxidation state of +2 for Fe. Ca9FeD(PO4)7 liberated D2O in air above ca. 720 K to produce Ca9Fe(PO4)7. Second-harmonic-generation signals, I2 246)/I2 246)(SiO2), in Ca9FeD(PO4)7 (ca. 0.15) were by a factor of ca. 17 less than ca. 2.5 in Ca9Fe(PO4)7. Rietveld analysis of time-of-flight neutron diffraction data for Ca9FeD(PO4)7 on the basis of space group R3c gave lattice parameters a ) 10.369 21(9) Å and c ) 37.1289(3) Å, making it possible to locate D atoms at two positions and propose a mechanism of reducing Ca9Fe(PO4)7. Its reduction accompanies changes in orientation of parts of P1O4 tetrahedra, formation of O11-D1 226) 226) 226)O21 and O11¢ D2 226) 226) 226)O34 bonds, and static disordering of Ca2+ ions at the Ca3 site. Structure parameters of Ca9.333Fe1.167(PO4)7 in a product of thermal decomposition of Ca9FeD(PO4)7 under Ar were also refined with its X-ray powder diffraction data: space group R3c; a ) 10.3576(2) Å and c ) 37.1429(5) Å; Z ) 6. Ca2+ and Fe2+ ions were found to split into two pieces along the c-axis to occupy a 6a site.
+
+Phosphates containing transition metals have been widely investigated because of the variety of their applications and diverse networks including porous ones. These phosphates are used as heterogeneous catalysts1 and corrosion inhibitors.2 They are also potential materials for fossil energy conversion,3 sensing gases,4 and purification of gas mixtures by removing H2.5
+
+NaZr2(PO4)3(NASICON6) and  226)-Ca3(PO4)2-type7,8 phosphates containing multivalent transition metals
+
+* Corresponding author. Telephone: +81 (298) 51-3354 (ext. 511).
+
+e 0.33),23,24 Ca10.5-xCux(PO4)7, and Ca10-x/2NaxCu0.5(PO4)7 (0 e x e 1).14
+
+Among the phosphates described above, iron phosphates are of considerable importance in view of the high natural abundance of Fe and their hydrogenabsorbing properties. In previous structure refinements of Ca9Fe(PO4)7 and Ca9FeH0.9(PO4)7,11 these two were both regarded as being structurally related to  226)-Ca3(PO4)2 (hexagonal, space group R3c).7 However, during the course of an investigation of a redox reaction involving Ca9FeHx(PO4)7 (0 e x e 1), we noticed subtle structural differences between Ca9Fe(PO4)7 and Ca9FeHx(PO4)7. Possible locations of H atoms in Ca9FeH0.911 and related compounds, Ca9MH(PO4)7 (M ) (PO4)7 Mg25 and Mn26), were proposed by analyzing P-O bond lengths and orientations of phosphate ions without any neutron diffraction experiments.
+
+In this work, we have studied the physical and chemical behavior of Ca9FeD(PO4)7 prepared by treating Ca9Fe(PO4)7 with D2 at high temperature. We have also refined its structure parameters from time-of-flight (TOF) neutron powder diffraction data to acquire significant information about locations of D atoms and structural changes accompanying the redox reaction in the Ca9FeDx(PO4)7 system. The resulting crystal data have helped us gain a clear understanding of the mechanism of the redox reaction in this system.
+
+Experimental Section
+
+Synthesis. Ca9Fe(PO4)7 was prepared from a mixture of Ca2P2O7, CaCO3, and Fe2O3 by the solid-state method at 1300 K for 150 h with several intermediate grindings. Ca9FeD(PO4)7 was synthesized by treating Ca9Fe(PO4)7 with D2. Ca9Fe(PO4)7 was placed in a quartz crucible and reduced in a steel setup at 820 K for 48 h. D2 was added into the setup until the pressure inside the setup remained virtually constant. The maximum D2 pressure in the setup was 0.2 MPa. Ca9FeH(PO4)7 was prepared by reducing Ca9Fe(PO4)7 in a flowing H2 gas at 820 K for 12 h. No impurities could be detected in any significant amount by X-ray powder diffraction (XRD). Ca9Fe(PO4)7 was light red, while Ca9FeD(PO4)7 and Ca9FeH(PO4)7 were white.
+
+Measurements of Physical Properties. We measured 57Fe Mo¨ssbauer spectra using a constant-acceleration Mo¨ssbauer spectrometer coupled with a multichannel analyzer with a 57Co/Rh source kept at room temperature (RT). All the isomer shifts,  228), were determined with reference to R-Fe. The resulting spectra were decomposed into symmetric quadrupole doublets with Lorentzian profile shapes by least-squares fitting.
+
+(24) (a) The Dow Chemical Co.; Vrieland, G. E. US Patent 3, 935, 126, 1974. (b) General Electric Co.; Krabbenhoft, H. O. US Patent 4, 346, 249, 1981. (c) General Electric Co.; Krabbenhoft, H. O. US Patent 4, 366, 089, 1981. (d) The Dow Chemical Co.; Strickler, G. R. US Patent 4, 471, 146, 1983.
+
+(26) Kostiner, E.; Rea, J. R. Acta Crystallogr., Sect. B 1976, B32,
+
+Magnetic susceptibilities, ł, of Ca9FeD(PO4)7 were measured on a dc SQUID magnetometer (Quantum Design, MPMS) between 5 and 300 K in an applied field of 100 Oe (1 Oe ) [103/4 240)] A m-1) under both zero-field-cooled (ZFC) and fieldcooled (FC) conditions.
+
+IR spectra of samples were recorded on a Nicolet Magna750 Fourier spectrometer in a wavenumber ( 238)˜) range from 4000 to 400 cm-1 with the KBr pellet technique.
+
+Second-harmonic-generation (SHG) responses of polycrystalline Ca9FeD(PO4)7 were measured in a reflection mode. A Q-switch pulsed Nd:YAG laser operated at a wavelength of  236) 246) ) 1064 nm was used as a radiation source with a repetition rate of 4 impulses per second and a duration of impulses of about 12 ns. The laser beam was split into two beams to excite the radiation at the halved wavelength,  236)2 246), of 532 nm simultaneously in the samples to be measured and a reference material, polycrystalline R-SiO2. The incident-beam peak power was about 0.1 MW on a spot 3 mm in diameter on the surface of the sample. SHG signals, I2 246)/I2 246)(SiO2), were measured between 300 and 970 K.
+
+Thermogravimetry. Thermal decomposition of Ca9FeD(PO4)7 was examined by thermogravimetry (TG) with a Sartorius scale in a quartz reactor in flowing gases, Ar or air, with a gas-flow rate of ca. 10 dm3/h and a heating rate of ca. 5 K/min. Ar was cleaned by activated carbon kept in liquid N2. X-ray and TOF Neutron Powder Diffraction Experiments and Structure Refinements. XRD data of the products were measured at RT on a SIEMENS D500 BraggBrentano-type powder diffractometer operated at 30 kV and 30 mA. The diffractometer was equipped with an incidentbeam quartz monochromator to obtain Cu KR1 radiation ( 236) ) 1.5406 Å) and a BRAUN position-sensitive detector. Si (NIST Standard Reference Material 640b) was used as an external standard material for diffraction angles. XRD data for phase identification were taken in a 2ı range from 10° to 60° with a step interval of 0.02°. XRD data for structure refinements were collected in a 2ı range from 10° to 110° with a step interval of 0.02°.
+
+Structure parameters were refined from the XRD data by the Rietveld method27 with RIETAN-2000.28 Coefficients for an analytical approximation to atomic scattering factors for Ca, Fe, P, and O were taken from ref 29. The split pseudoVoigt function of Toraya30 was fit to each reflection profile, and a 11th-order Legendre polynomial was fit to the background. Partial profile relaxation28 was applied to 012, 104, 110, and 0210 reflections to improve fits in these reflections at the last stages of the structure refinements. Preferred orientation was corrected with the March-Dollase function on the assumption of a (001) cleavage plane. TOF neutron powder diffraction data of Ca9FeD(PO4)7 were measured at RT on the powder diffractometer Vega31 (¢d/d  25) 2  2) 10-3; d is the spacing of lattice plane) at the pulsed spallation neutron facility KENS. About 4.8 g of the sample was contained in a V holder (diameter 9.2 mm), which was slowly rotated during the measurement. An array of 160 position-sensitive detectors (PSDs) installed in a backward bank with a 2ı range from 150° to 170° was used to measure the intensity data. Incident neutron spectra were monitored with a 3He monitor counter. Differences in efficiency between the PSDs and the monitor counter were corrected with intensity data collected in a separate measurement of incoherent scattering from V.
+
+Neutron powder diffraction data in a d range from 0.5 to 5.0 Å were analyzed by the Rietveld method with RIETAN2001T.32 A composite background function, i.e., a 14th-order
+
+(27) Rietveld, H. M. J. Appl. Crystallogr. 1969, 2, 65. (28) Izumi, F.; Ikeda, T. Mater. Sci. Forum 2000, 321-324, 198. (29) International Tables for Crystallography; Kluwer: Dordrecht,
+Chemical and Structural Properties of Ca9FeD(PO4)7
+
+Figure 1. Mo¨ssbauer spectra for (a) Ca9FeD(PO4)7 and (b) CaFe-Ar at RT. v, velocity; R, absorption. Hyperfine parameters refined by least-squares fitting are included in the figure, where  228) is the isomer shift, ¢EQ is the quadrupole splitting, ¡ is the full width at half-maximum, and S is the area of a profile (%). Unit for  228), ¢EQ, and ¡: mm/s.
+
+Legendre polynomial multiplied by a smoothed incident spectrum, was fit to the background. Bound coherent scattering lengths, bc, used for the structure refinements were 4.70 (Ca), 9.45 (Fe), 5.13 (P), 6.671 (D), and 5.803 fm (O).33 Preferred orientation was corrected with the March-Dollase function on the assumption of a (001) cleavage plane.
+
+Characterization of Ca9FeD(PO4)7. Figure 1a presents the Mo¨ssbauer spectrum of Ca9FeD(PO4)7 comprising two doublets with  228)  25) 1.20 mm/s, which provides corroborative evidence that Fe in Ca9FeD(PO4)7 has the oxidation state of +2. A similar Mo¨ssbauer spectrum was obtained in the case of Ca9FeH(PO4)7.
+
+A plot of (ł ł0)-1 against temperature, T, for Ca9FeD(PO4)7 (Figure 2) obeyed the modified Curie-Weiss rule in the whole temperature range, 5-300 K:
+
+where ł0 is the temperature-independent term including a diamagnetic constituent and Van Fleka paramagnetism, ı is the Weiss constant, and C is the Curie constant. Ca9FeD(PO4)7 is therefore paramagnetic over the whole range of temperature. The effective magnetic moment,  237)e ) (8C)1/2, was calculated at 4.97  237)B ( 237)B, Bohr magneton) per Fe2+ ion. This value is close to a theoretical one, 4.90  237)B, expected for the free Fe2+ ion. As described above, Ca9FeD(PO4)7 was the exclusive product of reducing Ca9Fe(PO4)7. This finding, coupled with the results of Mo¨ssbauer spectroscopy and the magnetic-susceptibility measurements, supports the idea that the oxidation state of Fe changes from +3 to +2 on the reduction of Ca9Fe(PO4)7 with D2 at 870 K:
+
+Figure 2. Inverse magnetic susceptibility, (ł ł0)-1, plotted against temperature for Ca9FeD(PO4)7 with a zero-field-cooling mode in an applied field of 100 Oe. Parameters in eq 1 are given in the figure.
+
+Figure 3. IR spectra in a  238)˜ region from 4000 to 400 cm-1 for (a) Ca9Fe(PO4)7, (b) Ca9FeD(PO4)7, (c) Ca9FeH(PO4)7, and (d) CaFe-Ar with  244) denoting the transmittance (arbitrary unit). Bands assigned to O-D, O-H, and P-O-P stretching vibrations as well as their regions are marked with arrows and lines, respectively.
+
+When the reduction is complete, the limiting formula of Ca9FeD(PO4)7 is reached.
+
+The IR spectrum of Ca9FeD(PO4)7 (Figure 3b) showed a broad absorption band due to O-D stretching in a  238)˜ range from 2550 to 1870 cm-1 with a maximum at 2225 cm-1, a weak O-D stretching band at 1720 cm-1, and P-O stretching and O-P-O bending bands in a  238)˜ range from 1700 to 450 cm-1. The IR spectrum for Ca9FeH(PO4)7 (Figure 3c) exhibited a broad and weak absorption band assigned to an O-H stretching vibration in a  238)˜ range between 3330 and 2570 cm-1 and a weak O-H stretching band at 2380 cm-1 in addition to P-O stretching and O-P-O bending bands. The wavenumbers of 2550-1870 cm-1 and 1720 cm-1 in Ca9FeD(PO4)7
+
+(33) Sears, V. F. International Tables for Crystallography, 2nd ed.;
+
+Figure 4. T, TG, and DTG versus time (t) curves (a) for Ca9FeD(PO4)7 under Ar and (b) for CaFe-Ar under air (see reactions 4 and 5).
+
+and those of 3330-2570 cm-1 and 2380 cm-1 in Ca9FeH(PO4)7 were consistent with the  238)˜ ratio expected for deuteroxyl and hydroxyl groups in the simple harmonic approximation:  238)˜(O-H)/ 238)˜(O-D) ) 1.37.34 Hence, the bands at 1720 and 2380 cm-1 are assigned to O-D and O-H stretching vibrations, respectively. O-H stretch2appear between 3400 and 2000 ing bands for HPO4 cm-1.35 In perovskite-type oxides Sr(CexZr1-x)0.95Yb0.05O3, O-H stretching bands occur between 3350 and 2350 cm-1.36
+
+The IR spectra for Ca9FeD(PO4)7 and Ca9FeH(PO4)7 were very similar to each other in the  238)˜ range of the P-O stretching and O-P-O bending bands (Figure 3b,c). On the other hand, they differed considerably from the IR spectrum of Ca9Fe(PO4)7 (Figure 3a), which resembled that of Sr9Fe(PO4)7.37
+
+Redox Reactions and Thermal Decomposition Involving Ca9FeD(PO4)7. Heating Ca9FeD(PO4)7 in air up to 1200 K is believed to change the oxidation state of Fe from +2 to +3. The light-red product was Ca9Fe(PO4)7, whose IR spectrum did not show any bands due to the O-D stretching vibration. Ca9FeD(PO4)7 therefore reacts with O2 to yield Ca9Fe(PO4)7, thereby releasing D2O:
+
+Figure 4a gives TG and differential TG (DTG) curves for Ca9FeD(PO4)7 in an Ar atmosphere. Ca9FeD(PO4)7 was stable under Ar up to 840 K. Above this temperature, we observed about 0.84% loss in mass, which is practically the same as ca. 0.83% evaluated on the assumption of a thermal decomposition formulated
+
+In what follows, the product resulting from heating Ca9FeD(PO4)7 in Ar will be referred to as CaFe-Ar.
+
+(34) Nakamoto, K. Infrared Spectra of Inorganic and Coordination
+
+Compounds; Wiley: New York, 1963.
+
+(35) Nyquist, R. A.; Kagel, R. O. Infrared Spectra of Inorganic
+
+Compounds; Academic Press: New York, 1971.
+
+Hattori, T.; Ishigame, M. Solid State Ionics 1999, 125, 285.
+
+(37) Belik, A. A.; Izumi, F.; Ikeda, T.; Okui, M.; Malakho, A. P.; Morozov, V. A.; Lazoryak, B. I. Accepted for publication in J. Solid State Chem.
+
+Figure 5. Dependence of the SHG signals, I2 246)/I2 246)(SiO2), on temperature for Ca9FeD(PO4)7 in air. Arrows indicate heating and cooling curves.
+
+The Mo¨ssbauer spectrum of CaFe-Ar (Figure 1b) obviously demonstrated that Fe has the oxidation state of +2. CaFe-Ar was white with a pale-green tint. Accordingly, the oxidation state of Fe remained unaltered during reaction 4. XRD showed CaFe-Ar to contain a  226)-Ca3(PO4)2-like phase as well as  226)-Ca2P2O7 in conformity with reaction 4. The mass fraction of  226)-Ca2P2O7 was determined in two ways: (a) from scale factors refined in the Rietveld refinements (see below) and (b) by an internal standard method. In method b, we used the 012 and 113 reflections of corundum (Al2O3) and the strongest 008 reflection of  226)-Ca2P2O7. Methods a and b afforded mass fractions of ca. 7.7% and ca. 11.3%, respectively. The latter value was comparable to the mass fraction of ca. 11.8% calculated with reaction 4. In the IR spectrum of CaFe-Ar (Figure 3d), a band due to a P-O-P stretching vibration in  226)-Ca2P2O7 35 appeared at 729 cm-1, but no noticeable O-D stretching band was observed.
+
+All the above facts concerning CaFe-Ar justify the validity of reaction 4, and the measured loss in mass agreed well with the stoichiometric composition Ca9FeD(PO4)7. Ca9MgH(PO4)7 was thermally more stable than Ca9FeD(PO4)7. Ca9MgH(PO4)7 decomposed in an N2 atmosphere in a T range from 920 to 1400 K.25
+
+Figure 4b illustrates TG and DTG curves in air for CaFe-Ar. An increase in mass of ca. 0.79% is close to the value of ca. 0.75% calculated with the probable reaction 24Ca9.333Fe1.167(PO4)7 + 14Ca2P2O7 + 7O2 )
+
+The oxidation of CaFe-Ar gave rise to a  226)-Ca3(PO4)2like phase, Ca9Fe(PO4)7. When CaFe-Ar was heated at 1300 K under Ar for 40 h and then oxidized in air, Fe2O3 was formed as an impurity. Nevertheless, further annealing at 1300 K caused complete disappearance of Fe2O3 and regeneration of Ca9Fe(PO4)7.
+
+Figure 5 is a plot of the SHG signals, I2 246)/I2 246)(SiO2), against temperature for Ca9FeD(PO4)7. The increase in the SHG signal above ca. 720 K is presumably caused by the onset of oxidizing Ca9FeD(PO4)7. The decrease in the SHG signal above ca. 870 K and its final disappearance are associated with a polar-to-centrosymmetric phase transition in Ca9Fe(PO4)7.38 During the cooling of oxidized Ca9Fe(PO4)7, the SHG signal increased with decreasing temperature. SHG signals of ca. 0.15 in Ca9FeD(PO4)7 were by a factor of ca. 17 less
+
+Chemical and Structural Properties of Ca9FeD(PO4)7
+
+than ca. 2.5 in Ca9Fe(PO4)7.38 Such pronounced differences in SHG signals must arise from structural differences between Ca9FeD(PO4)7 and Ca9Fe(PO4)7. Though the SHG signals in Ca9FeD(PO4)7 were weak, they unambiguously reveal Ca9FeD(PO4)7 to be noncentrosymmetric.
+
+Structure Refinement of Ca9FeD(PO4)7. Indexing Bragg reflections in the X-ray and neutron powder diffraction patterns of Ca9FeD(PO4)7 showed it to crystallize in the trigonal system with lattice parameters of a  25) 10.35 Å and c  25) 37.17 Å. Reflection conditions derived from the indexed reflections were -h + k + l ) 3n for hkl and h + l ) 3n, l ) 2n for hhhl (obverse setting), affording possible space groups R3c (No. 161, noncentrosymmetric) and R3hc (No. 167, centrosymmetric). As described above, the SHG data exclude the possibility for Ca9FeD(PO4)7 to have space group R3hc. For initial fractional coordinates in Rietveld analysis of Ca9FeD(PO4)7, we used those of Ca9FeH0.9(PO4)7, which was regarded as possessing a  226)-Ca3(PO4)2-like structure with space group R3c and lattice parameters of a ) 10.3543(2) Å and c ) 37.168(1) Å.11 The Fe5 site (6a; 0, 0, z) was placed at the origin (z ) 0) owing to the arbitrariness of setting the origin in the noncentrosymmetric space group of R3c. We assigned isotropic atomic displacement parameters, U, to all the sites, with U included in the isotropic Debye-Waller factor in the form of exp(-2 240)2U/d 2). Some U parameters converged to unusually large or negative values. In addition, some P-O bond lengths, l(P-O), in particular l(P1-O11)  25) 2.1 Å, were much larger or shorter than would be expected for a P-O bond. These findings suggest that the above structural model has to be modified to some extent.
+
+Next, we used fractional coordinates of synthetic whitlockite, Ca9MgH(PO4)7,25 in the initial structural model, which differed from the  226)-Ca3(PO4)2 model in orientation of P1O4 tetrahedra about the 3-fold rotation axis, namely, the c-axis. D atoms were located at a general position (18b; x  25) 0.06, y  25) 0.10, and z  25) 0.192) near a line connecting O11 (6a; z  25) 0.203) and O21 (18b; x  25) 0.724, y  25) 0.905, and z  25) 0.176) with an occupancy, g, of 1/3, as suggested in Ca9MgH(PO4)7.25 The Rietveld refinement adopting the whitlockite model gave more reasonable U and l(P-O) values. However, an l(P1O11) value of 1.69 Å and U parameters of P1 at a 6a site (3.56 nm2), O11 (3.20 nm2), Ca3 at a 18b site (2.06 nm2), and D (8.2 nm2) were still too large. Refining the occupancy, g, and U for D atoms yielded g(D) ) 0.284(8) and U(D) ) 5.2(6) nm2. The refinement of anisotropic atomic displacement parameters, U11 and U33, for P1 at this stage led to U33  25) 50U11. Such thermal motion that appears to be extremely anisotropic must reflect disordering of the P1 atoms along the c-axis.
+
+We modified the above structural model by trial and error and found two configurations of Ca3 atoms and P1O4 tetrahedra. One atomic configuration is similar to that in whitlockite, viz., Ca3 (18b; x  25) 0.142, y  25) 0.309, and z  25) 0.330), P1 (6a; z  25) 0.246), O11 (6a; z  25) 0.204), and O12 (18b; x  25) 0.022, y  25) 0.871, and z  25)
+
+(38) Lazoryak, B. I.; Morozov, V. A.; Belik, A. A.; Stefanovich, S. Yu.; Grebenev, V. V.; Leonidov, I. A.; Mitberg, E. B.; Davydov, S. A.; Lebedev, O. I.; Van Tendeloo, G. Submitted for publication in Chem. Mater.
+
+Table 1. Conditions of the TOF Neutron Diffraction Experiments and Parts of Refinement Results for
+
+d range/Å no. of data points space group Z lattice parameters
+
+no. of Bragg reflections preferred-orientation parameter variables
+
+0.259). The other atomic configuration resembles that in  226)-Ca3(PO4)2, i.e., Ca3¢ (18b; x  25) 0.127, y  25) 0.271, and z  25) 0.326), P1¢ (6a; z  25) 0.268), O11¢ (6a; z  25) 0.311), and (18b; x  25) 0.001, y  25) 0.861, and z  25) 0.251). We O12¢ refined occupancies and U parameters for the Ca3 and Ca3¢ sites under linear constraints of g(Ca3) + g(Ca3¢ ) ) 1 and U(Ca3) ) U(Ca3¢ ). The following linear constraints were imposed on occupancies and U parameters of atoms belonging the P1O4 and P1¢ O4 tetrahedra: g(P1) ) g(O11) ) g(O12) ) 1 g(P1¢ ) ) 1 g(O11¢ ) ) 1 g(O12¢ ), U(P1) ) U(P1¢ ), and U(O12) ) U(O12¢ ). In the preliminary refinement, D atoms proved to lie aside two lines connecting O11 with O21 (D1: 18b; x  25) 0.06, y  25) 0.10, and z  25) 0.193) and O11¢ with O34 (D2: 18b; x  25) 0.10, y  25) 0.06, and z  25) 0.315). Then, linear constraints, g(D1) ) g(O11)/3, g(D2) ) g(O11¢ )/3, and U(D1) ) U(D2), were applied with the assumption of 2ions. Refined lattice and structhe presence of DPO4 ture parameters yielded bond lengths of l(O11¢ -D2)  25) 1.21 Å and l(O34-D2)  25) 1.26 Å, which are quite unusual for O11¢ -D2 226) 226) 226)O34 bonds with the centered dots expressing a hydrogen bond. A g(D2) value of about 0.07 seemed to be too low to get accurate fractional coordinates of D2. A restraint l(O11¢ -D2) < 1.0 Å was therefore imposed in the final structure refinement.
+
+Table 1 lists experimental and refinement conditions for the TOF neutron diffraction data, lattice parameters, R factors, and so forth. Final fractional coordinates and U parameters for Ca9FeD(PO4)7 are tabulated in Table 2, and selected interatomic distances calculated with ORFFE39 are listed in Table 3. Numbers in parentheses are estimated standard deviations of the last significant digits throughout this paper. Figure 6 displays observed, calculated, and difference TOF neutron diffraction patterns for Ca9FeD(PO4)7.
+
+Structure Refinement of Ca9.333Fe1.167(PO4)7. We also refined structure parameters of the  226)-Ca3(PO4)2like phase in CaFe-Ar from its XRD data by the Rietveld method. For the second phase,  226)-Ca2P2O7,40 only a scale factor and lattice parameters a and c were refined. Profile parameters of  226)-Ca2P2O7 were constrained to be equal to those of Ca9.333Fe1.167(PO4)7 (see reaction 4). Fractional coordinates of  226)-Ca3(PO4)2 7 were
+
+(39) Busing, W. R.; Martin, K. O.; Levy H. A. Report ORNL-TM-
+
+306; Oak Ridge National Laboratory: Oak Ridge, TN, 1964.
+
+(40) Webb, N. C. Acta Crystallogr. 1966, 21, 942.
+
+Table 2. Fractional Coordinates and Isotropic Atomic
+
+Displacement Parameters for Ca9FeD(PO4)7
+
+atom site 0.8541(5) 0.4347(2) 0.7215(4) Ca1 18b 1 0.8207(5) 0.2322(2) Ca2 18b 1 0.6137(4) 0.3299(4) 0.309(2) Ca3 18b 0.51(4) 0.1419(13) Ca3¢ 18b 0.49e 0.3262(3) 0.271(2) 0.1270(13) 0 0 6a 1 Fe5 0 0 0.2462(2) P1 6a 0.778(7) 0 P1¢ 0 0.2681(8) 0 6a 0.222f 0.8554(4) 0.1357(2) 0.6838(4) 18b 1 P2 0.8434(4) 0.0325(2) P3 0.6492(4) 18b 1 6a 0.778g O11 0.2037(3) 0 0 O11¢ 6a 0.222f 0 0.3106(6) 0 O12 18b 0.778g 0.8712(7) 0.2587(2) 0.0224(4) O12¢ 18b 0.222f 0.861(2) 0.2506(6) 0.001(3) 0.9064(3) 0.1749(2) 0.7250(4) O21 18b 1 0.7529(4) O22 18b 1 0.7672(3) 0.1219(2) 0.7287(3) -0.0008(3) 0.1134(2) O23 18b 1 O24 18b 1 0.5121(4) 0.6010(3) O31 18b 1 0.5812(4) O32 18b 1 0.8212(4) O33 18b 1 0.6015(3) O34 18b 1 D1 0.0619(14) D2 0.103(3)
+
+a-d These U parameters were constrained to be equal to each other. e g(Ca3¢ ) ) 1 g(Ca3). f g(P1¢ ) ) g(O11¢ ) ) g(O12¢ ) ) 1 g(P1). g g(O11) ) g(O12) ) g(P1). h g(D1) ) g(O11)/3. i g(D2) ) g(O11¢ )/3.
+
+Table 3. Selected Interatomic Distances (Å) in
+
+used as an initial model in the structure refinement of Ca9.333Fe1.167(PO4)7. We fixed occupancies of metal sites in Ca9.333Fe1.167(PO4)7 to impose “chemical” constraints on them: g(Ca1) ) 1 (18b; x  25) 0.725, y  25) 0.858, and z  25) 0.433), g(Ca2) ) 1 (18b; x  25) 0.616, y  25) 0.823, and z  25) 0.232), g(Ca3) ) 1 (18b; x  25) 0.124, y  25) 0.272, and z  25) 0.326), g(Ca) ) 1/3 and g(Fe) ) 1/6 for a mixed-metal site M4 (6a; z  25) 0.178), and g(Fe5) ) 1 (6a; z ) 0). A Rietveld refinement adopting this model afforded reasonable U parameters for all the atoms except for U(Ca1) ) -0.08(9) nm2 and U(M4) ) 14.3(9) nm2. The unusually large U(M4) parameter indicates that Ca and
+
+Figure 6. Observed (crosses), calculated (solid line), and difference patterns resulting from the Rietveld analysis of the TOF neutron powder diffraction data for Ca9FeD(PO4)7. Bragg reflections are indicated by tick marks. Background intensities were subtracted from the observed and calculated TOF neutron diffraction patterns.
+
+Table 4. Conditions of the XRD Experiments and Parts of
+
+Refinement Results for CaFe-Ar
+
+space group Z 2ı range/deg step width/deg Imax/counts lattice parameters
+
+no. of Bragg reflections preferred-orientation parameter variables
+
+a For Ca9.333Fe1.167(PO4)7. b For  226)-Ca2P2O7. c Refined primary
+
+Fe atoms at the M4 site split in different degrees along the c-axis. Hence, we assigned independent sites to these Ca and Fe atoms, i.e., Ca4 (6a; z  25) 0.19) with g(Ca4) ) 1/3 and Fe4 (6a; z  25) 0.15) with g(Fe4) ) 1/6. More reasonable U parameters resulted from the subsequent Rietveld refinement: U(Ca1) ) 0.42(10) nm2, U(Ca4) ) 1.8(5) nm2, and U(Fe4) ) 3.7(9) nm2.
+
+Table 4 lists experimental and refinement conditions, lattice parameters, R factors, and so forth. Final fractional coordinates and U parameters for Ca9.333Fe1.167(PO4)7 are tabulated in Table 5. Figure 7 displays observed, calculated, and difference XRD patterns for the sample CaFe-Ar.
+
+Using the different techniques of characterization, we confirmed the stoichiometric composition of Ca9FeD(PO4)7 and the validity of reactions 4 and 5. Mo¨ssbauer spectroscopy and magnetic susceptibilities proved the oxidation state of +2 for Fe atoms in Ca9FeD(PO4)7. For the final confirmation of the formal Fe valence, we calculated bond valence sums, V, of the octahedral Fe5 sites in Ca9FeD(PO4)7 and Ca9.333Fe1.167(PO4)7 from the six Fe5-O bond lengths using two bond valence param-
+Chemical and Structural Properties of Ca9FeD(PO4)7
+
+Table 5. Fractional Coordinates and Isotropic Atomic
+
+Displacement Parameters for Ca9.333Fe1.167(PO4)7
+
+atom site Ca1 Ca2 Ca3 Ca4 Fe4 Fe5 P1 P2 P3 O11 O12 O21 O22 O23 O24 O31 O32 O33 O34
+
+a These U parameters were constrained to be equal to each
+
+Figure 8. IR spectra of (a) Ca9FeD(PO4)7 and (b) Ca9FeH(PO4)7 in a  238)˜ region from 4000 to 1600 cm-1 with  244) denoting the transmittance (arbitrary unit). Tick marks denote absorption bands due to O-H and O-D stretching. Arrows indicate two bands related by the ratio  238)˜(O-H)/ 238)˜(O-D)  25) 1.37.
+
+by tick marks, whereas Ca9FeD(PO4)7 shows at least six O-D stretching bands. Pairs of absorption bands with the  238)˜(O-H)/ 238)˜(O-D) ratio of 1.37 are indicated by arrows oxides Ba(Zr0.9Y0.1)O3, (La0.8Sr0.2)ScO3, and Sr(Ce0.95Y0.05)O3, several O-H (O-D) stretching bands are correlated with different locations of O-H (O-D) groups.43 Thus, our TG, IR, and crystal data of Ca9FeD(PO4)7 are all consistent with the presence of two D sites in Ca9FeD(PO4)7.
+
+The crystal data of Ca9FeD(PO4)7 afforded quite natural O-D 226) 226) 226)O bond lengths (Table 3) and bond angles,  30)(O11-D1-O21) ) 174.4(14)° and  30)(O11¢ -D2O34) ) 170(4)°.44 On the use of identical O-O lengths (in O-H 226) 226) 226)O bonds) in Ca9FeH(PO4)7 and an empirical relation between  238)˜(O-H) and l(O-O),45 the band at 2380 cm-1 in the IR spectrum of Ca9FeH(PO4)7 (Figure 8) can be assigned to the O11¢ -H2 226) 226) 226)O34 bond and the bands at 3000 and 2890 cm-1 to the O11-H1 226) 226) 226)O21 bond.
+
+We fit the Lorentzian doublets to the Mo¨ssbauer spectrum of Ca9FeD(PO4)7 with comparable initial parameters (Figure 1). At least two distinct Fe positions were found despite the inclusion of only one Fe5 site in the asymmetric unit. This contradiction is explained in terms of the two D sites, orientational disordering of the P1O4 tetrahedra, and Ca2+ ions occupying the two positions Ca3 and Ca3¢ . For example, some O21 atoms form O11-D1 226) 226) 226)O21 bonds whereas the other O21 atoms do not. The configuration of the O21 atoms influences that of the O24 atoms forming the first coordination sphere of Fe5 (Figure 9).
+
+(43) Glerup, M.; Poulsen, F. W.; Berg, R. W. Solid State Ionics 2002,
+
+(44) See, for example: (a) Fujihara, T.; Ichikawa, M.; Gustafsson, T.; Olovsson, I.; Tsuchida, T. J. Phys. Chem. Solids 2002, 63, 309. (b) Hriljac, J. A.; Torardi, C. C.; Vogt, T. J. Phys. Chem. Solids 1995, 56, 1339. (c) Partin, D. E.; O’Keeffe, M. J. Solid State Chem. 1995, 119, 157.
+
+Figure 7. Observed (crosses), calculated (solid line), and difference XRD patterns for CaFe-Ar. Bragg reflections for Ca9.333Fe1.167(PO4)7 (upper) and  226)-Ca2P2O7 (lower) are indicated by tick marks.
+
+eters, R0.41,42 The resulting V values in Ca9FeD(PO4)7 and Ca9.333Fe1.167(PO4)7 were, respectively, 2.20 and 2.08 with R0 ) 1.73441 and 2.08 and 1.96 with R0 ) 1.713.42 These V values offer additional evidence for the oxidation state of +2 for Fe.
+
+We could determine the locations of D atoms, D1 and D2, from the TOF neutron diffraction data thanks to the relatively large bc value of D. Both D1 and D2 are 2ions. The not isolated but are involved in DPO4 present phosphate is, therefore, best represented as Ca9Fe(PO4)6(DPO4), where the ratio of the amount of substance of D1 to that of D2 is 0.778:0.222.
+
+Thermal dehydration of Ca9MgH(PO4)7 in an N2 atmosphere proceeds via two main dehydration processes.25 This experimental fact suggests the occupation of two or more sites by H atoms in Ca9MgH(PO4)7. The DTG curve for Ca9FeD(PO4)7 (Figure 4a) is also in accord with two processes of releasing D atoms. Figure 8 presents IR spectra of Ca9FeD(PO4)7 and Ca9FeH(PO4)7 in a  238)˜ range from 4000 to 1600 cm-1. Ca9FeH(PO4)7 exhibits at least three O-H stretching bands denoted
+
+(41) Brese, R. E.; O’Keeffe, M. Acta Crystallogr., Sect. B 1991, B47,
+
+Figure 9. Parts of structures of (a) Ca9Fe(PO4)7 and (b) Ca9FeD(PO4)7 depicting their differences. Arrows represent movements of constituents during the reduction. Bond lengths are given in angstroms.
+
+Figure 9 illustrates portions of the structures for Ca9Fe(PO4)7 11 and Ca9FeD(PO4)7, manifesting their differences unequivocally. In Ca9Fe(PO4)7, the O11 and O12 atoms belonging to the P1O4 tetrahedron are bonded to three Ca3 atoms. During the reduction of Ca9Fe(PO4)7, P1O4 tetrahedra bearing D atoms change their orientation to form O11-D1 226) 226) 226)O21 bonds. Because Ca3 atoms are not bonded to O11 in this case, their positions change only slightly. The Ca3 atoms and P1O4 tetahedra are bound to neighboring ions rather loosely in Ca9Fe(PO4)7. In fact, the polar-to-centrosymmetric phase transition at 890 K in Ca9Fe(PO4)7 accompanies disordering of Ca3 atoms and P1O4 groups.38 Such lattice instability relevant to Ca3 and P1O4 will facilitate the reduction of Ca9Fe(PO4)7. Ca2+ and Bi3+ ions occupying positions corresponding to the Ca3 site were also disordered at 100 K in Ca9Bi(VO4)7, which is structurally related to  226)-Ca3(PO4)2.46
+
+No SHG signals were observed in centrosymmetric  226)¢ forms of Ca9Fe(PO4)7 38 and Ca9In(PO4)7.47 In these two phosphates, six Fe5-O or In5-O bond lengths are all equivalent to each other, Ca3 atoms are statistically distributed between two positions near the center of symmetry, and P1O4 tetrahedra are orientationally disordered. The Fe5O6 octahedron is more regular in Ca9FeD(PO4)7 than that in Ca9Fe(PO4)7, i.e., l(Fe5-O24) ) 2.088(4) Å ( 2)3) and l(Fe5-O33) ) 2.124(4) Å ( 2)3) in Ca9FeD(PO4)7 and l(Fe5-O24) ) 1.96(3) Å ( 2)3) and l(Fe5-O33) ) 2.16(3) Å ( 2)3) in Ca9Fe(PO4)7.11 As described above, the Ca3 atoms and P1O4 groups have
+
+(46) Evans, J. S. O.; Huang, J.; Sleight, A. W. J. Solid State Chem.
+
+(47) Morozov, V. A.; Belik, A. A.; Stefanovich, S. Yu.; Grebenev, V. V.; Lebedev, O. I.; Van Tendeloo, G.; Lazoryak, B. I. J. Solid State Chem. 2002, 165, 278.
+
+Figure 10. Portions of structures for (a) Ca9FeD(PO4)7 and (b) Ca9.333Fe1.167(PO4)7. Configurations of Ca3 and P1O4 are illustrated for Ca9FeD(PO4)7. Arrows represent paths of migration of Ca2+ and Fe2+ ions to the M4 site and rearrangements of P1O4 tetrahedra and Ca3 atoms during thermal decomposition of Ca9FeD(PO4)7 under Ar.
+
+disordered arrangements in Ca9FeD(PO4)7. The order/ disorder ratio is close to unity (1.06) for Ca3 but as large as 3.50 for P1O4. Nevertheless, atomic arrangements in Ca9FeD(PO4)7 are more similar to those in  226)¢ -Ca9Fe(PO4)7 than to those in Ca9Fe(PO4)7,11 which accounts for the much smaller SHG signals in Ca9FeD(PO4)7 than those in Ca9Fe(PO4)7.
+
+A disordered configuration of M4 atoms was surmised in whitlockite-like materials.8 In structure refinements of Ca10Li(PO4)7,48 Ca9MgLi(PO4)7,49 and Ca9CuLi(PO4)7,50 Li+ ions were split into two pieces along the c-axis to be located at the M4 site. Because Li+ ions hardly contribute to XRD intensities, we need to verify this split-atom model, resorting to neutron diffraction where bc is -1.90 fm for Li.33 In Ca9Cu1.5(PO4)7 51 and Sr9.1Cu1.4(PO4)7,52 Cu2+ ions proved to split in three M4 atoms slightly off the 3-fold rotation axis. Our structure refinement of Ca9.333Fe1.167(PO4)7 revealed locally different locations of Ca2+ and Fe2+ ions at the M4 site: the Ca4 and Fe4 sites. During the thermal decomposition of Ca9FeD(PO4)7 under Ar, orientation of P1O4 groups alters to a certain extent. In concert with this structural change, Fe2+ ions migrate from the Fe5 site to the Fe4 site, and Ca2+ ions from the Ca1, Ca2, and/ or Ca3 sites to the Ca4 site, as denoted by arrows in Figure 10a.
+
+J. Solid State Chem. 2002, 163, 121.
+Chemical and Structural Properties of Ca9FeD(PO4)7
+
+In the present study, we have successfully determined the crystal structure of Ca9FeD(PO4)7 and clarified the structural differences between Ca9FeD(PO4)7 and Ca9Fe(PO4)7. Neutron powder diffraction was most effective in determining the locations of the D atoms. The crystal data of the two phosphates have enabled us to put forward the mechanisms of reducing Ca9Fe(PO4)7 by D2 (H2) and decomposition of Ca9FeD(PO4)7 under Ar. We will further apply TOF neutron powder diffraction to other related phosphates containing DPO4
+
+Acknowledgment. The authors thank S. S. Khasanov of Institute of Solid State Physics for the XRD
+
+experiments, K. V. Pokholok of Moscow State University for the measurements of the Mo¨ssbauer spectra, E. M. Kopnin of National Institute for Materials Science for the magnetic-susceptibility measurements, and A. I. Beskrovnyi of the Frank Laboratory of Neutron Physics of the JINR for preliminary neutron diffraction experiments. This work was partially supported by the Russian Foundation for Basic Research (Grants 00-03-32660 and 01-03-06122). A.A.B. acknowledges the award of the STA Fellowship from the Japan Science and Technology Corporation.
+

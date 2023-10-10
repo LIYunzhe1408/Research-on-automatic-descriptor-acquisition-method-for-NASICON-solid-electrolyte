@@ -1,0 +1,85 @@
+A miniaturized electrochemical sensor for in vivo determination of Na in the gingival ¯uid is described. The device includes a NASICON type ceramic as the ion-sensitive membrane and a polyethylene-oxide-based polymer as the internal reference system. The device was successfully used for the direct determination of Na activity in gingival ¯uid. The response time was as short as 10 s. Measurements were performed with an external miniaturized calomel electrode located in the vestibular cavity. Some tests were also performed with an integrated Ag±AgCl electrode. The recordings clearly demonstrate that such a Na probe can be used to make in vivo diagnosis. # 2001 Elsevier Science B.V. All rights reserved.
+
+Keywords: NASICON; Gingival ¯uid; Na analysis; Ion-selective electrode
+
+The quantitative analysis of ions such as Na, K and Ca2 in the gingival ¯uid may be of interest for the evaluation of the extent of gingival and periodontal in¯ammation [1]. The change in Na concentration was shown to give reliable data. The Na concentration was greater in area showing an in¯ammation. Therefore, the determination of Na concentration in the crevicular ¯uid could provide a simple method to prevent and control the evolution of the periodontal disease. In the ®rst studies [1], the ¯uid was collected by capillary tubes and analyzed in vitro. The Na concentration was determined by ¯ame photometry. A few years later, Vogel et al. [2] have proposed to use microelectrodes in order to reduce the volume of ¯uid recovered from the patients. The minimum volume for analysis was reported to be less than 0.005 ml. However, the recovery of ¯uid may be dif®cult for routine analysis. Therefore, a method for measuring the ion activity in vivo may be of practical interest. Ferris et al. [3] have developed a conductivity probe to measure the gingival crevicular ¯uid conductivity, in vivo. They have also suggested the use of
+2. Experimental
+
+2.1. NASICON preparation
+
+The NASICON ceramic of composition Na3Zr2Si2PO12 was prepared by the sol±gel process. The synthesis has been described in more details elsewhere [5]. Dense samples were obtained by sintering at 10008C. The structure and the purity were checked by X-ray diffraction. The samples were machined with diamond tools to obtain their ®nal shape.
+
+2.2. Internal reference system: synthesis and test procedure
+
+AgCl±NaCl solid solutions were the ®rst solid-state internal reference systems proposed to be used with NASICON, at room temperature [4]. In the present study, they were deposited in thin layer on the NASICON sample. The thin ®lm was deposited from a melted AgCl±NaCl mixture by vacuum evaporation (Edwards E306A apparatus). The composition of the starting material was (AgCl)0.9±(NaCl)0.1. Then, the ®lms were calcinated at 3008C for 30 min. Their thickness was determined by scanning electron microscopy to be of the order of 1 mm. The composition of the ®lm was checked to be homogeneous and determined to be (AgCl)0.93±(NaCl)0.07. Silver was deposited on the AgCl± NaCl thin ®lm to ensure the metallic contact.
+
+PEO doped with NaI and AgI was proposed as an ionic bridge between NASICON and silver by Fabry et al. [7]. AgI was dissolved into PEO in the presence of an excess of NaI. The formation of complex anions in the form of AgIn 1  was suggested to explain the absence of silver ion diffusion in NASICON. The composition (PEO)8±(NaI±(AgI)0.25) was found to give the best results in terms of conductivity and Na exchange rate at the NASICON/polymer interface [8]. The polymer was prepared from PEO of molecular weight 900,000 (Prolabo). The stoichiometric amounts of polymer, NaI and AgI were dissolved in acetonitrile. The solution was outgassed and most of the solvent was eliminated to obtain a viscous solution. A silver wire of 0.5 mm in diameter was used as the metallic contact.
+
+Amalgams are extensively used in dental applications and show the advantage of being easily assembled to ceramic materials without thermal treatment. In addition, the adhesion to the NASICON sample is very good. The amalgam was prepared from the dental amalgam ANA 2000 which consisted of a Ag±Sn alloy. The ANA 2000 compound was mixed with Hg containing 0.2 wt% Na, in the same weight ratio. A platinum wire was used as the current collector.
+
+The impedance of the internal reference systems was measured with a three-electrode electrochemical cell. The working electrode consisted of the reference system in contact with a NASICON sample. The diameter of the NASICON sample was 8 mm and the thickness was in the range of 1±2 mm. This working electrode was assembled as described in [5]. A saturated calomel electrode (SCE) and a platinum wire were used as the reference electrode and
+
+counter electrode, respectively. The measurements were performed with the Solartron 1250 frequency response analyzer coupled to the 1186 electrochemical interface. The impedance of the working electrode was evaluated at the open-circuit potential. The signal amplitude was equal to 20 mV rms. In order to obtain the impedance of the internal reference system, the impedance of the NASICON/solution interface was assumed to be negligible. This assumption is in agreement with the study of the NASICON/solution interface performed in [9].
+
+The stability of the internal reference was evaluated by measuring the emf of the working electrode referred to the SCE, under open-circuit condition, as a function of time. The emf was recorded with a high input impedance ampli®er.
+
+Both impedance and emf measurements were carried out in 1 M NaCl and 0.154 M NaCl solution, at room temperature.
+
+2.3. Sensor assembling
+
+A schematic representation of the Na probe for clinical analysis is shown in Fig. 1a. Typical dimensions of the NASICON sample after machining were 0.3 mm in diameter and 5 mm of length. The NASICON needle was sealed in a capillary tube of polypropylene. The dimensions of the tube were 0.3 mm of diameter and 15 mm of length. The capillary was ®lled with the internal reference system. The picture of the Na probe in Fig. 1b shows that its size is similar to that of the classical periodontal probe used for routine clinical diagnosis.
+
+2.4. In vivo potentiometric measurements
+
+The measurements were performed either with an external SCE or with an Ag±AgCl electrode integrated on the Na probe. The miniaturized calomel electrode was placed in the vestibular cavity. Physiological serum was used as the salt bridge. In order to eliminate the errors resulting from the junction potential and to make a device easier to manipulate, an Ag±AgCl integrated reference was also tested. The Ag± AgCl electrode was deposited on the surface of the Na probe. Ag was ®rst painted on the surface of the capillary tube. Then, it was chloridized by electrochemical oxidation in chloride solution. Such a device, including both sensing and reference electrodes, allows the determination of the response of both Na and Cl  ions in differential mode. Prior to use in the gingival ¯uid, each probe was standardized using the following procedure: (i) the probe was put in a solution of physiological serum with a concentration of Na equal to 0.154 M; (ii) the output signal of the ampli®er was adjusted to zero; (iii) the probe was put in the gingival ¯uid between the gingiva and the tooth. The sensitivity of the probe was checked regularly by using a solution of known concentration in NaCl (0.226 M which corresponds to a potential drop of 10 mV).
+
+G. Caravel et al. / Sensors and Actuators B 76 (2001) 506±511
+
+Fig. 1. Structure of the Na periodontal probe (a) schematic diagram; (b) picture of the Na probe as well as two periodontal probes used for routine clinical analysis.
+
+3. Results and discussion
+
+3.1. Calibration curve
+
+The Na detection limit of NASICON-based ISEs using a liquid internal reference system was determined several years ago [5]. It was measured according to the IUPAC recommendations and found to be almost equal to 10 4 mol l 1. The Na concentration in the gingival ¯uid is around 10 1 mol l 1 whatever the gingival status [1]. Therefore, the NASICON sensitive membrane is expected to work properly. The calibration curve of the solid-state Na sensor based on NASICON was determined for the different internal references. Whatever the nature of the solid-state contact, the sensor response was found to be nernstian down to the detection limit ®xed by the NASICON membrane [5]. For the present application, the Na concentration is expected to be in the range of 1±10 2 mol l 1. In this concentration range, a slope of 59 mV per decade was obtained at room temperature with a great accuracy. This con®rms our previous results obtained with melted AgCl± NaCl solid solutions [4] and with PEO ionic bridges [7]. In some particular cases, subnernstian responses with a slope equal to 30 mV per decade were observed when AgCl±NaCl
+
+was used as the internal reference. The diffusion of silver inside the NASICON during the thermal treatment could be responsible for this behavior. It is worth noticing that a subnernstian response is also observed when the NASICON sample density is not high enough (typically lower than 80% [4]) or when small cracks are present in the sample [4]. In that case, the chlorine ions can penetrate into the membrane and reaches the Ag electrode. The competitive response to Cl  ions is responsible for the subnernstian behavior. Some examples are given in [4].
+
+3.2. Impedance measurements
+
+Fig. 2 shows the impedance diagram recorded with the various solid-state reference systems. The shape of the diagram measured with ion-selective electrodes was discussed by Buck [10]. The impedance is expected to result from: (i) the bulk properties of the NASICON and the solidstate ionic conductor used as the internal contact; (ii) the interfacial process which occurs at the NASICON/solidstate ionic conductor interface and (iii) the electrode reaction taking place at the ionic conductor/metal interface. With amalgam, the impedance simply results from the bulk properties of the NASICON and the electrode reaction at
+
+The aim of the present work was to compare the impedance measured in the same experimental conditions with the three different solid-state references in order to determine the system showing the lowest impedance value and so the best electrical properties. As shown from Fig. 2, the lowest interfacial resistance was obtained with the amalgam and the PEObased polymer. It was of the order of 400 O cm2 while the interfacial resistance with AgCl±NaCl was equal to 6 kO cm2. Therefore, it can be concluded that the amalgam and the PEObased polymer/Ag electrode are the most suitable systems as solid-state internal reference in terms of low impedance.
+
+3.3. Stability of the response
+
+Another interesting feature is the stability of the reference system during long term measurements, long term potential drift. The stability of the AgCl±NaCl/Ag electrode in contact with dense NASICON samples was demonstrated in [4]. The emf recorded as a function of the time with the PEO-based internal reference is shown in Fig. 3a. The sensor was immersed in the solution during the whole recording. For comparison, another recording was performed with the following procedure: the sensor was immersed in the solution during 3 min. Then, it was stored under air between each measurements. The results are reported in Fig. 3b. In discontinuous working mode, no signi®cant drift was observed. Therefore, the small drift which was observed during continuous immersion can be attributed to long term water-tightness failure of the cement.
+
+The emf recorded with the amalgam reference system as the solid-state contact is shown in Fig. 4. An important drift was observed during the ®rst time of use. After 8 h of immersion in the solution, the emf reached a stable value. During this drift, several plateaux were observed. They can be attributed to a reduction of NASICON by sodium contained in the amalgam [12]. Such a phenomenon leads to a local dark coloration of NASICON. A partial electronic conductivity is also likely to occur. Some works are in progress in our laboratory to better understand this process. Regarding the sensor performances, the sensitivity and detection limit were not modi®ed by the local reduction process. However, the results on Fig. 4 clearly indicate that the sensor needs to be calibrated frequently during the ®rst time of utilization. Another disadvantage could be a possible interference with redox couples in the aqueous solution because the latter can give a response with the electrons introduced into the membrane by this reduction process propagating up to the external interface. Because the Na exchange is very fast and the measuring time in the mouth is low, we can propose that such a phenomenon should be of minor importance.
+
+3.4. In vivo measurements
+
+The PEO-based internal reference was chosen because it exhibits the best stability and shows a low impedance. Fig. 5
+
+Fig. 2. Impedance diagram of the reference system/NASICON interface. The surface of the interface was of the order of 0.5 cm2. (a) AgCl±NaCl thin film; (b) PEO-based polymer; (c) amalgam.
+
+the NASICON/amalgam interface. The resistance of the membrane and the solid-state material can be measured from the extrapolation of the loop at high frequency on the real axis of the Nyquist diagram. With the amalgam, this point is equal to 280 O and corresponds to the resistance of the NASICON sample. It is equal to 1200 and 2100 O with the PEO-based polymer and the AgCl±NaCl thin ®lm, respectively. This indicates that the resistance of the AgCl±NaCl thin ®lm is higher than the resistance of the ionic polymer.
+
+As shown on Fig. 2, the impedance diagrams are composed of a high frequency depressed semi-circle and a low frequency straight line with a Warburg like behavior. The semi-circle could be attributed to a transfer process. The interfacial resistance could be determined from the radius of this semi-circle. The low frequency contribution could be related to a diffusion process. The origin of the impedance measured at the NASICON/PEO-based polymer/Ag interfaces has been studied in [8]. A theoretical study of the Ag/AgCl±NaCl/NASICON system was also reported in [11].
+
+
+Fig. 3. The emf of the electrochemical cell: Ag/PEO-based polymer/NASICON/0.154 M NaCl/SCE. (a) The Ag/PEO-based polymer/NASICON electrode was immersed in the solution during the whole experiment; (b) the electrode was immersed in the solution during 3 min for the measurements. It was stored in air between each measurement.
+
+shows the emf recorded with the Na probe and the SCE in vivo. The probe was placed in different sites between the gingiva and the tooth. The sites were either area which were clinically healthy (``normal area'') or in¯amed area. Two different normal sites as well as one in¯amed site were tested. Great care was taken to avoid contamination of the ¯uid by hemorrhage. As expected, the potential in a normal
+
+site was almost equal to the potential measured in physiological medium. A difference of voltage was clearly observed between a normal and an in¯amed zone. The amplitude of the signal difference was almost equal to 10 mV. This indicates that the concentration of Na in the in¯amed region is higher than in a normal place as proposed by in vitro measurements [1]. The measurement
+
+Fig. 4. The emf of the electrochemical cell: amalgam/NASICON/0.154 M NaCl/SCE as a function of the time of immersion in the solution.
+
+Fig. 5. In vivo signal of the Na probe recorded with an external SCE. The sequence of the recording is the following: first normal site, inflamed site, same inflamed site, second normal site (different from the first one), same inflamed site.
+
+
+The AgCl±NaCl system is less suitable because of its low conductivity and high interfacial resistance. Moreover, the system is not well adapted to a needle shape geometry. The amalgam shows good performances in terms of impedance. However, the reduction of NASICON by sodium from the amalgam leads to an important drift during the ®rst hours of utilization. As a consequence, the sensor needs to be frequently calibrated. The PEO-based system was chosen because of its low impedance and good stability.
+
+In vivo measurements show that the Na probe is very sensitive. It is clearly demonstrated that it can be used to make a routine clinical diagnosis on the gingival in¯ammation which is correlated to a change of sodium ion activity among other parameters. The all solid-state sensor used in this work has been miniaturized but still shows a traditional design. For the future, the use of microtechnologies would be interesting to improve the fabrication.
+

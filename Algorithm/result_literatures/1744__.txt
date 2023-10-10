@@ -1,0 +1,65 @@
+In this study, sodium titanium phosphate, NaTi2(PO4)3 was synthesized in a pure form by using microwave energy.
+The NaTi2(PO4)3 wasobtained by mixing the initial reactants of TiO2, (NH4)2HPO4 and NaH2PO4·2H2O with the molar ratio of 2:2:1 in a domestic type of microwaveoven by using 2.45 GHz frequencies and at power of 750W.
+The reaction was completed in 15 min.
+The microwave heating process was achievedby the help of the NaH2PO4·2H2O which is the only microwave absorber in the initial mixture.
+The product was analyzed by X-ray diffraction(XRD) and fourier transform infra red (FT-IR) techniques and the results confirms the rhombohedral crystal structure of the NaTi2(PO4)3 with theunit cell parameters of a = 8.4913(3), c = 21.7858(12) ° A, space group R¯3c and Z:6. 
+The titled compound is also known as a member of NASICON materials.
+In future, it is possible to synthesize different types of sodium including NASICON compounds by the help of microwave susceptoragent of the NaH2PO4·2H2O.
+Metal phosphates continue to be of great interest as they areused in a variety of commercial, industrial and scientific applications.
+Recently, NaTi2(PO4)3 was also accepted as a member of NASICON compounds (acronym for Sodium (Na) super ionicconductor).
+Goodenough et al.have demonstrated that theskeleton of the NASICON materials behave as fast ion conductors.
+They also behave as good ionic conductors when theyserve as solid-state electrolytes.
+These type of materials havealso been proposed for use as a solid-electrolyte in solid-stateelectrochemical devices such as gas sensors, ion sensors andNa–S batteries .
+The metal phosphates are usually synthesized by conventional methods.
+The solid-state reactions between the reactantsare usually taking placed at high temperatures and also needs long reaction time in themuffle type furnaces.
+Although, many metal phosphate compounds could be prepared in many different routes, recently themicrowave method has been become an alternative method sincethe reaction time is very short comparing to the traditional techniques.
+Microwaves are electromagnetic radiation, whose wavelengthslie in the range of 1mm to 1m .
+Only narrow frequency windows centered at 900MHz and 2.45 GHz are allowed for microwave heating purposes.
+Very few microwave applications involving heating havebeen reported for frequencies of 28, 30, 60 and 83 GHz .
+In order to initiate and drive a microwave-assisted reaction, atleast one of the initial reactants must couple with the microwavefield.
+Many microwave preparations reported in the literature havebeen done on the laboratory scale of only a few grams.
+Thesesyntheses have all been made with the use of domestic type ofmicrowave ovens which operates at 2.45 GHz with a maximumoutput power of 1 kW.
+Moreover, use of higher power levels forspecific applications has also been reported .
+Nowadays,large industrial types of microwave furnaces are manufacturedfor the production of many chemicals in larger quantities.
+Vaidhyanathan et al.reported  a novel microwaveassistedroute for the preparation of sodium rich binarymetal phosphates in the form of crystalline or glassy phases.
+Microwave radiation is expected to activate the rotationdegrees of freedom for H2O molecules present in the sampleNaH2PO4·2H2O.
+The sample first melts and then it formsa highly concentrated solution of NaH2PO4. 
+In the secondstage, the H2O molecules escape from the solution leavingbehind “hot” NaH2PO4, which behaves as microwave absorbingagent itself.
+This material then continues to be heated evenfurther where upon in the third stage, the water which chemicallybounded to NaH2PO4 was eliminated from the sample.
+After 5 min, the temperature of this process was measuredas 678 ◦C .
+A solid-state reaction could be occurredbetween NaH2PO4·2H2O and other possible reactants.
+Usingthis method, different type of binary and/or quaternary metalphosphates could be synthesized purely and economically.
+In the literature, the synthesis of the titled compound,NaTi2(PO4)3 was reported in the JCPDS card no 33-1296which was prepared by heating a 1:2:2 molar mixture ofNaH2PO4·2H2O, (NH4)2HPO4 and TiO2 (anatase) at 1000 ◦C.
+The obtained sample was then reground and heated at 1200 ◦Cfor 18 h.
+The detail XRD data of this sample was given in theJCPDS card.
+In this work, we have developed a previously unreportedmicrowave-assisted synthesis route for the sodium titaniumphosphate, NaTi2(PO4)3. 
+It was obtained purely in a shorttime (15 min) by using microwave electromagnetic radiation(2.45 GHz, 750 W).
+The reagents, TiO2, (NH4)2HPO4 and NaH2PO4·2H2O were used as initialreactants for the synthesis of NaTi2(PO4)3. 
+All commercial reagents were ofanalytical grade and supplied from the Merck company.
+Microwave-assisted reactions were carried out with a domestic type ofmicrowave oven, Arc¸elik MD-560. 
+The oven was operated at 2.45 GHz frequencywith a power of 750W.
+The X-ray powder diffraction data were collected by a diffractometer,Brucker AXS-ADVANCED-DX with a position sensitive detector, graphitemonochromator andCuKradiation .
+The weighted samples were grounded in an agate mortar until a homogenous mixture was obtained.
+The mixture was transferred into a ceramiccrucible and exposed to microwave energy in the microwave oven for 15 min.
+As a final stage, sample was allowed to cool inside the oven for 30 min.
+Theexperiment was repeated several times for reproducibility test.
+When the initial reactants were exposed to microwave radiation,in a minute, the water molecule was evoporated from thereactants.
+Then, flashes were seen in the center of mixture.
+At theend of this process, redness from the reactants in the ceramic cruciblewasobserved.
+The approximate temperaturewas estimatedbetween the ranges of 700 and 900 ◦C.
+At this temperature, asolid–solid reaction occurred between the initial reactants.
+The XRD pattern of the synthesized sample belongs to thecompound, NaTi2(PO4)3 and the data was in excellent agreementwith the JCPDS card no.33-1296 .
+The title compoundhas rhombohedral crystal structure with the cell parametersof a = 8.4913(3) °A and c = 21.7858(12)A° .
+The space groupis R¯3c and Z is six.
+For comparison, the literature and experimentalXRD values were given in Table 1.
+IR spectrums of the experimental product of NaTi2(PO4)3was given in Fig.2. 
+The functional groups of the experimentaldata are also listed in Table 2. 
+The stretching modesof a free PO4−3 anion with Td symmetry have four internalmodes of vibrations  which are ν3 (PO4) = 1107, 1024;ν1 (PO4) = 954; ν4 (PO4) = 576; ν2 (PO4) = 482 cm−1. 
+Thesevibrational wave numbers are in reasonable agreement with the experimental absorption bands for the obtained product ofNaTi2(PO4)3.In this study, a binary type of metal phosphate compound,NaTi2(PO4)3 was synthesized successfully by using 2.45 GHzmicrowave radiation.
+The microwave heating was achieved bythe help of the microwave susceptor, NaH2PO4·2H2O.
+The reactionwas completed in 15 min which is quite short comparing tothe conventional methods.
+Microwave processing is a relatively new method in materialprocessings.
+The coupling efficiency of microwaves directly tothe material is the primary advantage of microwave processingas compared to traditional routes.
+The volumetric heatingability of microwaves allows for more rapid and uniform heating,resulting in decreased processing time, and often enhancedmaterial properties.
+The NaTi2(PO4)3 is also known as a member of NASICONmaterials, so, in future, it is possible to synthesizesodium including NASICON compounds with or without dopingany metal ions by the help of microwave absorbing agent ofNaH2PO4·2H2O.
+Recently, since industrial types of microwaveovens are produced by manufacturers, these microwave synthesestechniques could easily adapted to the industrial processesin future.

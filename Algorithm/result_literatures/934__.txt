@@ -1,0 +1,84 @@
+The effect of high-frequency (HF) electric fields on the crystallization and sintering ratesof a lithium aluminum germanium phosphate (LAGP) ion conducting ceramic wasinvestigated.
+
+ LAGP with the nominal composition Li1.5Al0.5Ge1.5(PO4)3 was crystallizedand sintered, both conventionally and under effect of electrical field.
+
+Electrical fieldapplication, of 300 V/cm at 1 MHz, produced up to a 40% improvement in sintering rateof LAGP that was crystallized and sintered under the HF field.
+
+Heat sink effect of theelectrodes appears to arrest thermal runaway and subsequent flash behavior.
+
+Sinteredpellets were characterized using X-ray diffraction, scanning electron microscope, TEM,and electrochemical impedance spectroscopy to compare conventionally and field-sintered processes.
+
+The as-sintered structure appears largely unaffected by the field asthe sintering curves tend to converge beyond initial stages of sintering.
+
+Differences indensities and microstructure after 1 h of sintering were minor with measured sinteringstrains of 31 vs. 26% with and without field, respectively.
+
+Ionic conductivity of the sinteredpellets was evaluated, and no deterioration due to the use of HF field was noted, thoughcapacitance of grain boundaries due to secondary phases was significantly increased.
+
+Sodium superionic conducting (NASICON) ceramics are a family of sodium- or lithium-based solidsthat have been investigated as potential solid-state electrolytes since the 1970s.
+
+They offer relativelyhigh room temperature conductivity, improved safety due to their intrinsic stability, and the possibility of assembling mechanically robust monolithic battery cells (Birke et al., 1997; Nagata and Nanno,2007).
+
+Furthermore, as a high modulus and hardness ceramic solid electrolyte, these materials areproposed to inhibit dendrite formation during cycling, thus preventing the possibility of a shortcircuit, thermal runaway, and ultimately battery cell failure.
+
+The leading candidates among thisfamily of ceramics are aluminum substituted lithium titanium and lithium germanium phosphates.
+
+Trivalent ion substitution within the NASICON structure requires insertion of additional lithium tomaintain charge neutrality.
+
+The additional lithium ions, which force a rearrangement of the lithiumsublattice, have the effect of dramatically increasing lithium mobility and therefore conductivity.
+
+In particular, the Li1+xAlxGe2−x(PO4)3 [lithium aluminum germanium phosphate (LAGP)], x = 0.45appears to provide the highest conductivity for Li+ ions (Li et al., 1988; Francisco et al., 2015), withhigher x values resulting in secondary phase formation (Cretin and Fabry, 1999).
+
+At a minimum,a dense structure with no interconnected porosity is required to inhibit dendrite propagation inlithium metal battery cells; however, the sintering of LAGP to a consistently high density remains achallenge with densities of 70% to just over 90% of theoreticallyreported despite sometimes lengthy sintering cycles (Cretin andFabry, 1999; Yang et al., 2015).
+
+A number of sintering approaches can be utilized toincrease densification rates.
+
+Raising sintering temperaturesis the simplest approach, but for LAGP above 800–825°C,phase separation occurs with formation of insulating phases(Thockchom and Kumar, 2010; Mariappan et al.
+
+, 2011).
+
+The useof high heating rates, for example, by spark plasma sintering(SPS), to increase sintering rates has been well described.
+
+Inaddition to the applied mechanical pressure, the material is inintimate contact with a resistively heated graphite die resultingin heating rates in the hundreds of degree Celsius per minute.
+
+In materials for which the bulk diffusion activation energy,responsible for densification, is higher than the activationenergy for surface diffusion, responsible for grain coarsening,rapid densification occurs (Stanciu et  al., 2001).
+
+Resistivelyheating the sample itself, a process limited to electronicallyconductive materials is even more effective than traditionalSPS but requires an SPS furnace with additional complexityof the die structure (Zapata-Solvas et al., 2015).
+
+SPS sinteringof LAGP has been reported, but the achieved density was only87% of theoretical, and the 20°C conductivity was measured tobe 3.3 × 10−5S cm−1(Kubanska et al., 2014), a much lower valuethan what is commonly reported for such a density (Mariappanet al., 2011)
+
+It is notable that an additional, though low intensity, peak appears in the X-ray diffraction (XRD) pattern of thesample after SPS, corresponding to the most intense peak ofAlPO4, an insulating secondary phase, though a causal connection was not asserted.
+
+Microwave sintering is another effective approach for rapidsintering of ceramic materials.
+
+The alternating electrical fieldcomponent in microwave processing is used to polarize theceramic, an inherently lossy process, thereby transferring energyto the crystal lattice with every reversal while rapidly heating thematerial (Sudiana et al., 2013).
+
+Notably, the higher frequenciesabove about 28  GHz that are needed to prevent formation ofstanding waves in the chamber and resultant hot spots in thematerial (Sudiana et al., 2013) may prevent its use in a co-sinteringapplication of a battery device, since the bulk of the device wouldbe effectively shielded by any electronically conductive materials(Bokhan et al., 1995).
+
+Flash sintering methods use DC or lower frequency (up to1000  Hz) AC electrical current passing directly through thesample to achieve remarkably rapid densification (Cologna et al.,2010).
+
+However, the charge carrier drift speed at the currentsinvolved would inevitably cause NASICON phase breakdowndue to local changes in stoichiometry resulting from lithiumextraction near the anode and lithium accumulation near thecathode, similar phenomena to what has been shown in workwith zirconia (Downs, 2013) and thoria (Goldwater, 1961).
+
+Inaddition, flash sintering, with an ohmic conducting path fromthe electrodes to the component and a dielectric breakdown-likethermal initiation mechanism (Todd et  al., 2015; Zhang et  al.,2015), presents a formidable engineering challenge in assuringan even current distribution across essentially 2D objects, suchas battery components.
+
+Finally, we note that a number of investigations have shownthat the manner of material synthesis, and especially crystallization parameters, can substantially influence the conductivityof the final product (Thockchom and Kumar, 2010; Yang et al.,2015).
+
+Subjecting amorphous materials to alternating electricalfields, microwave irradiation in particular, has been used topromote uniform crystallization (Mahmoud, 2007).
+
+To the authors’ knowledge, frequencies between 1  kHz and2.4  GHz represent an unexplored frequency range for fieldassisted sintering.
+
+In this work, we evaluate the use of highfrequency (HF) electrical fields during synthesis, crystallization,and sintering as a means of enhancing sintering rate beyond thatfound in conventional thermal sintering processes for NASICONtype ceramics.
+
+The choice of frequencies in the megahertz rangerepresents a compromise between the shallow penetration ofmicrowaves and electrolysis-inducing direct current.
+
+We furtherdemonstrate the ability of a HF field to capacitively couple to thesample, eliminating both hot spots, and the need for platinumpaints used in flash sintering to achieve a reliable electrical contact to the ceramic specimen.
+
+High-frequency electrical fields by themselves do not appear tohave a pronounced effect on sintering rate of LAGP ceramic.
+
+However, by allowing the starting material to crystallize underthe same field, LAGP does show a moderately increased (+40%)sintering rate when sintered under field, as compared to powdersthat were conventionally calcined.
+
+Providing efficient heat sinksfor Joule heating appears to arrest any tendency toward thermalrunaway and flash sintering.
+
+Microstructure of the ceramic andits ionic conduction properties also show no negative effectsfrom application of HF electric fields.
+
+Finally, we demonstrate aHF field’s ability to efficiently couple capacitively into ionicallyconductive ceramics, preserving stoichiometry and foregoing theneed for electrically conductive coatings prior to field-assistedsintering.
+

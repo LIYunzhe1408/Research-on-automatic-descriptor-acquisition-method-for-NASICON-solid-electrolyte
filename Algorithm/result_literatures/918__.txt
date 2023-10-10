@@ -1,0 +1,78 @@
+The paper reports the development of high temperature in situ fully solid electrochemical sensor for sulfurcontaining gases monitoring.
+
+The sensor is based on Ag+β^-Al2O3 membrane with Ag2S or Ag2SO4 layer on its surface.
+
+Silver beta alumina was manufactured by high temperatureion exchange technique in AgNO3 melt.
+
+The original designof the in situ sensor was developed.
+
+Three types of galvaniccells were used for the investigation of electromotive force(EMF) response on SO2 partial pressure both in oxygen-freeand oxygen-containing atmosphere in the temperature range673–923 K.
+
+The data obtained was compared with followingNernst equations.
+
+The applicability of the sensor for in situmeasurements in industrial processes is discussed.
+
+Along with NOx, CO, and CO2, sulfur-containing gases (i.e.,H2S, RSH, SO2, SO3) are hazardous for human health and theenvironment.
+
+Among them, sulfur dioxide is of particular importance as it comprises the atmosphere of modernmegalopolises (with the concentration of several ppm) andaccompany mineral oil, fossil, and shale gas extraction.
+
+Specifically, Privolzhsky and Ural shale oils in Russia, so asEast Texas shale oil in the USA of Devon and Cambrianperiods bedding, enriched by sulfur should be mentioned.
+
+Processing of such feedstock results in large SO2 amountselaboration and, thus, fast engine and equipment corrosion,high vessel exhaust, and acid rains [1].
+
+High sensitive toolenabling in situ determination of combustion gases composition is required for efficient emissions reduction.
+
+So far, SO2 content in oils and gasoline is controlled indirectly at the ambient temperature by means of IR spectroscopy[2], gas chromatography [3, 4], optical [5], and amperometric[6] sensors.
+
+However, since gas composition could changeupon cooling, all these methods require long and complicatedsample preparation procedure.
+
+Latter makes express analysisimpossible.
+
+Low sensitivity and sensor properties degradationin the aggressive sulfur and sulfur dioxide-containing atmosphere are among their other disadvantages [4].
+
+High temperature electrochemical sensors based on solid electrolytes (SE)are regarded as the unique alternative to existing methods asthey are well suited for SO2 determination in combustion exhaust gas stream [7–10].
+
+The first attempts towards high temperature electrochemical sensor development were reported by Gautier in 1977 in[11, 12] and then Jacob in 1979 [13].
+
+Plenty of reports [14–18]and patents [19–21], devoted to high temperature electrochemical SO2 sensor designs, have been published since thattime.
+
+Despite many attempts made, only prototypes for hightemperature SO2 sensor are known to date.
+
+Rekas [23]describe the approaches, sensing mechanism and materialsused in the development of CO2 and SO2 sensors based onsolid electrolytes.
+
+Existing solid sensors for SOx gas have aquiet complex design and do not allow in situ measurementbecause of challenges in proper SE fabrication.
+
+Therequirements to SE for high temperature in situ SO2 sensorfabrication are following: fast ion transport at elevated temperatures (673–973 K), long-term use in the aggressive heatedSO2 and oxygen air-containing atmosphere and broad working temperature range.
+
+Due to its chemical stability and highconductivity level at above 600 K, silver beta alumina appearsto be a perfect candidate for SO2 in situ measurements[24–27].
+
+In contrast to other SE, commonly used for SO2sensors fabrication as Na+ β- and β^-alumina [22, 28, 29],NASICON-based SE [22, 30–33], composite YSZ-type sensors doped by Li2SO4, Na2SO4 [34, 35], Li2SO4-CaSO4 [36],and Ag2SO4-based electrolytes [37], the use of Ag+β^-Al2O3does not require an auxiliary electrode and significantly facilitates sensor design.
+
+The original fully solid electrochemical cell with electrolyte based on cylindrical Ag+β^-Al2O3 was proposed in [38,39].
+
+Porous platina was used as work electrode and silver wireas a reference.
+
+However, porous Pt gets readily poisoned uponthe measurement in the harmful environment and under elevated temperatures.
+
+ The cell for gaseous sulfur and H2S control was designed in [40].
+
+The construction involved the catalytic work gaseous electrode (MoSx impregnation), which iseffective for gaseous sulfur monitoring with the fugacity of100 Pa (i.e., 10−4 atm) in the absence of oxygen.
+
+Knownexperimental sensors provide good SO2 response in the concentration range from 10 to 200 rpm or, sometimes,1000 ppm.
+
+However, their batch production is not possiblebecause of narrow range of working temperatures, potentialdrift, fragility, and inability to conduct the reliable in situ measurements in the heated aggressive atmosphere of industrialprocesses.
+
+Thus, the goal of the present work was the development of high temperature sensor for sulfur-containing gasesallowing the in situ measurement in the broad temperaturerange from 673 to 923 K.
+
+The developed ceramics synthesis technique allows to manufacture Ag+β^-Al2O3 solid electrolyte of high conductivitylevel for further solid electrochemical SO2 sensor fabrication.
+
+The original design of the high temperature in situ sensor forsulfur-containing gases allows SO2 measurements both inheated oxygen-free and oxygen-containing atmosphere inthe air ambience.
+
+In the oxygen-free atmosphere, sensor withAg+β^-Al2O3 membrane with Ag2S layer on its surface provide fast and stable response to pSO2 due to the reversiblereaction of silver sulfide formation.
+
+However, in the presenceof oxygen sensor, EMF reversibly rises down to zero after 1 hmeasurement because of SO3 accumulation.
+
+In heated air oxygen ambiance, the sensor with Ag+β^-Al2O3 membrane withAg2SO4 layer on its surface can be successfully applied.
+
+Thedeviations of the sensor EMF from linear fit are observed justat low oxygen partial pressures.
+

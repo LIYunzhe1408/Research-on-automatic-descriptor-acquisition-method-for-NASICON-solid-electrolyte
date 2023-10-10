@@ -1,0 +1,106 @@
+
+Water Pressure Enhanced Sintering of Alkaline-Earth Perovskite ceramics 
+The alkaline earth–based perovskite ceramics are potential electrolytes for components of electrolysers, fuel cells and CO2/syngas converters. 
+Their high refractariness is an advantage from the chemical stability point of view but involves high sintering temperature (>1500°C), detrimental to the co-sintering procedure required to assemble device components. 
+Since the presence of protonic species is not intrinsic to the perovskite structure, the Ln – modified perovskites have to be successfully protonated by exposition of dense (95-99% theoretical density) ceramic pieces to (pressurized) water. 
+We demonstrate that densification of a AZr1-xLnxO3-δ ceramic can be enhanced by prior exposition of 1200 to 1300°C pre-fired (porous) ceramics to high water pressure using an autoclave. 
+Autoclave temperature and treatment duration are considered. Thermal expansion measurements reveal that the protonation (200-300°C under 15-80 bar of water vapour) of previously fired (70-80% of the theoretical density) porous perovskite body (SrZr1-xYbxO3, x=0.1) enhances the sintering and allows densification at lower temperature. The gain in temperature reaches 200-300°C. IR and Raman studies show that the film formed on surface consists of (hydrated) alkali-earth oxyhydroxides. 
+Sintering enhancement is assigned to the modification of the material structure close to the grain surface/boundary and to the enhancement of tions mobility at the grain surface/interface.  
+Since decades, the oxygen deficient AB1-xZxO3-δ perovskite ceramics [1-7] are considered as a potential base of Hydrogen economy [8]. 
+Namely, they can be used as electrolytic membranes (electrolyte [1-5,8,9] and (part of) electrodes [6,7,10,11]) of fuel cells, electrolysers, gas separation membranes and/or CO2/Syngas convertors. 
+These perovskites are oxygen ion conductors above 700/800°C and proton conductors between 400 and 600°C. 
+The presence of protonic species is not intrinsic to the perovskite structure. 
+Consequently, the ABO3 perovskite have to be first modified by substituting the B4+ ion by Ln3+ one in order to create oxygen vacancies and then exposed to water that allows the partial filling of vacancies by oxygen ions and the incorporation of protons [12,13]. 
+In the case of dense (95-99% theoretical density) ceramic pellets, the most efficient proton-incorporation procedure is the exposition to (pressurized) water [9,13-17]. 
+Such protonation process requires a few days of treatment at middle or high temperature [14]. 
+Note, many literature data deal with powder perovskites (see review in |18]) – due to their important active surface the protonation seems to be easier and faster, however simultaneously the carbonation and hydroxylation reactions are enhanced (see [14,16,17] for more details).   
+
+The very important refractority of Zr-based perovskites is an advantage from the chemical stability point of view but requires high sintering temperatures (>1450°C)[19]. 
+Such a high sintering temperature is however detrimental to the co-sintering procedure required to associate electrolyte, anode, cathode and eventually other materials (substrate, interconnects, current collectors, etc.) to form the core of the above mentioned electrochemical devices. 
+In particular, electrode materials based on less refractory transition metals because of their specific catalytic properties (Co, Ni, Fe, etc.) cannot support such high temperatures. 
+Different methods to lower the sintering temperature have been proposed:  i) decreasing the grain size as issued from sol-gel routes (it is difficult to have grain smaller than 0.1 µm) [20-23], ii) doping (segregation at grain boundary is common) and iii) adding a temporary liquid phase such as B2O3, fluoride or earth alkali excess [24]. 
+However; the incomplete control of these processes may have detrimental influence on proton conduction performances. 
+Note, important addition of different elements is not recommended when a high electrochemical stability is required [24,25].  
+Previous studies on various oxide compositions prepared by hydrolysis-polycondensation, the alkoxide sol-gel route, demonstrated that densification of the material is driven by the departure of protonic species that enhances the atom diffusion at the grain surface/interface [26-29]. 
+We present here a preliminary comparison of the sintering behaviour of pre-fired porous perovskite ceramics with or without preliminary protonation in order to determine the effect of protonation on the sintering properties.
+
+Reference Yb-substituted strontium zirconate ceramic pellets (diameter = 8 mm: thickness ~1.5 mm) were prepared from nitrate reagents as described in refs [24,25]. 
+The chemically prepared powder (coprecipitation) was calcined at 700°C (grain size around 300 nm, specific area ~8 m2/g). 
+Then, the powder was milled in order to eliminate the agglomerates, dried and finally pressed under 300 MPa. The green density was ~50%. 
+The sintering was performed between 1450 and 1650°C for 6 to 4 hours under controlled variable atmosphere (Hydrogenated argon and air) as a function of the target densification. 
+An additional isothermal treatment of 3 h was made at 900°C in order to eliminate traces of organic additives. 
+The density measured by the Archimedes’ method ranges from 90 to 98% of the theoretical density depending on the dwell temperature and duration of the thermal treatment. 
+Porous ceramics were prepared following essentially the same procedure but stopping the sintering step at 1200 or 1300°C. 
+
+Their densities are 60 and 70%, respectively. 
+
+The composition SrZr1-xYbxO3-δ (x=0.05 to 0.15, here after noted 5Yb:SZ, 10Yb:SZ etc.) was routinely controlled by chemical analysis. 
+In order to perform different measurements/treatments on the same sample, each ceramic pellet was broken in 4 pieces. 
+The thermal expansion measurements were carried out under Ar atmosphere between 25°C and 1400°C (10°C/min on both heating and cooling). 
+Setaram Setsys 1750 dilatometer (France) equipped with a cylindrical alumina sensor rod and support was used. 
+The vertical design allowed non-oscillating loading between 2 and 150 grams. 
+The 10g load was selected in this study. 
+Note such a charge value allows assuring a good contact but limits the creeps. 
+The diameter of the contact surface was estimated to be of the order of ~5 mm. 
+Additional measurements between 25°C and 700°C were made with an amorphous silica sensor rod and support in order to enhance the detection of eventual structural modifications of the host perovskite structure. 
+TGA was performed between 40 an 1000°C using a Setaram Setsys Evolution thermobalance. 
+The use of Pt-crucible and Heatmosphere allows significant enhancement of the measurement accuracy. 
+The details related to the recording of Raman and IR spectra can be found in our previous articles.
+Various treatments under high water pressure were performed using home designed temperature and pressure controlled autoclaves [12-15]. 
+CO2-free water was used in order to limit the carbonation. 
+The homogeneity of the protonation was controlled by Raman profilometry, an indirect method calibrated by neutron elastic scattering and neutronography [12-14]. 
+96 hour duration of the autoclave treatment was necessary to obtain an homogeneous protonation in the case of ~1.5 mm thick pellet. 
+Figure 1 compares the thermal expansion curves recorded under Ar atmosphere on as received, Yb:SZ non-protonated ceramic pellet previously fired at 1450°C (densification ~ 95%) as well as on various protonated Yb:SZ ceramics. 
+Note, as detailed in the Fig. 1 caption, the samples with different Yb content (5, 10, 15%) were treated at different temperatures and under different pressure values in order to determine the potential role of these parameters on the sintering process. 
+In the case of non-protonated ceramic pellets, no significant shrinkage is observed up to 1400°C as expected for a ceramic already sintered a few hours at 1450°C. 
+This thermal behavior is characteristic of all the non-protonated Yb:SZ ceramics investigated here and consequently does not depend on the Yb content.
+
+On the contrary, protonated pieces, H+ Yb:SZ, of the same ceramic pellets reveal the presence of significant shrinkage below 1400°C. 
+The most evident difference in the shrinkage temperature is observed as a function of autoclave treatment duration (Fig. 1a). 
+Namely, the 10Yb:SZ ceramic treated either 24h or 96h at 250°C in autoclave (water pressure of 40 bar) exhibits a shrinkage starting either at 1200 or at 1000°C, respectively. 
+As it can be seen in Fig. 1b, the choice of the autoclave treatment temperature and pressure do not affect the shrinkage onset significantly. 
+A slightly smaller shrinkage temperature is observed once the protonation process is performed at 200°C or 250°C. Similarly, the Yb content has not very important role on the shrinkage phenomenon, only a small decrease of the shrinkage rate is observed when the Yb substitution is increased from 5 to 10%. 
+
+Figure 2 compares the thermal expansion/shrinkage curves recorded on the 1200°Cand 1300°C-prefired 10Yb :SZ porous ceramics, before and after protonation under 200°C/15 bar/200h. 
+
+Contrary to the pellet sintered at 1450°C (Fig. 1), the shrinkage of non-protonated pieces starts above 1300°C and reaches ~2%. 
+
+In the case of protonated ceramics the shrinkage starts above 1000°C and reaches 7.5 and 8.2% for 1200°C and 1300°C pre-fired pieces, respectively. 
+
+The enhancement of densification is obvious and increases for porous, incompletely densified ceramics. 
+The density reaches 90% for a 1400°C peak temperature. 
+
+The above results clearly show that the previous protonation treatment can decrease the onset of the sintering temperature. 
+Different mechanisms can be at the origin of the sintering enhancement. 
+The first one is related to the presence of secondary phases at the surface of protonated ceramics. 
+Figures 3a and 3b compare the Raman and IR spectra characteristic of 10Yb :SZ ceramic: non-protonated and protonated at 250°C under 40 bar of water vapor pressure. 
+In the case of non-protonated compound, the spectra reveal the vibrational signature of the pure perovskite phase only. 
+Note, from the vibrational point of view, the host perovskite structure can be considered as composed of two sublattices: the highly ionic network of Strontium cations and the covalently bonded ZrO6/YbO6 octahedra. 
+Consequently, a low wavenumber region (100–250 cm−1) involves vibrations of the cationic network and the lattice modes, whereas the spectral range from 250 to 800 cm−1 reveals the bending and stretching modes of the covalent octahedron, respectively. 
+After protonation, the presence of additional peaks/bands, easily detectable in Raman and IR spectra (Figs 3a, 3b), reveals clearly the formation of strontium carbonate and/or strontium hydroxide [14,16]. The SrCO3 can be identified by the fine, well resolved Raman peak (~1070 cm-1) assigned to the stretching vibration of C-O bonds. 
+The Sr(OH)2 is especially well detected in the high wavenumber range, i.e.~3600 cm-1, in the form of a fine, single peak attributed to the vibration of isolated hydroxyl ions. 
+As it can be seen in the IR spectrum, the OH signature is associatedwith the presence of the so called ABC bands which are assigned to the strong non-linear coupling of rapid OH and slow O···O modes . 
+The second phase formation is due to the easy reaction between the alkaline earth elements with H2O and CO2. 
+Achievement of the perfect stoichiometry is difficult and a priori a small alkaline earth excess is better/less detrimental for undesirable modifications of the host perovskite phase than an excess of zirconium leading usually to zirconia second phase. 
+The hydroxylation and carbonation are enhanced by the rather important active surface area and by the thermodynamic conditions. 
+For instance, it is easier to create the carbonates if the protonation process is performed below 300°C [14]. 
+Consequently, relatively high porosity of the 1200/1300°C pre-fired pellets and the protonation conditions (200°C/15 bar pH2O) should promote the amount of strontium hydroxide/carbonate formed. 
+According to the thermogravimetric analysis (Fig. 3c) hydroxide decomposition appears between 300-500°C whereas that of carbonate one is detected above 800°C. 
+These processes lead to the formation of SrO at the grain/pore surface that could promote the formation of a liquid film at the grain surface/interface. 
+Note, the traces of SrO can be also detected by the presence of electronic transitions in the Raman spectrum arising from 4f ion interband luminescence emissions, excited by the laser beam (Fig. 3a) [31]. 
+Such features are not observed on high dense ceramic pellets, free of any traces of second phases. 
+Raman, IR and TG results point out that the sintering above 1000°C should be then due to the surface diffusion of Sr and O atoms. 
+Melting of hydroxide before decomposition is possible [32] and this has been detected on similar material by conductivity measurement [33]. 
+The second potential mechanism of enhanced sintering can be related to the behavior of oxygen vacancies. 
+The alkaline earth perovskite structure exhibits oxygen vacancies due to the Zr/Yb substitution. 
+As previously established, the autoclave treatment allows filling preferentially the oxygen vacancies (Vox) close to the surface according to the reaction: H2O + Vox => Oox + 2 Hi, where Oox corresponds to an oxygen ion in its regular site and Hi to an interstitial proton. 
+Note however, at the ceramic surface another reaction is more probable, namely the surface hydroxylation (OHs), summarized by the following equation H2O + [ceramic] => [ceramic + Hi] OHs.
+According to the second reaction the protonation leads to hydroxylation of the entire surface in contact with the water pressure and the material becomes rather similar to that prepared by hydrolysis-polycondensation [26-28]. 
+The de-hydroxylation enhances the oxygen surface diffusion and the sintering is driven by the surface diffusion. 
+Diffusion of oxygen atoms/oxygen vacancies and interstitial protons is required to move vacancies from the bulk to the near surface region [34]. The local heterogeneities created by the protonation should enhance the bulk diffusion because of the gradient effect [35]. 
+
+Sintering enhancement of perovskite ceramics after subsequent treatment under high water pressure is demonstrated. 
+The sintering enhancement is assigned to the hydroxylation of the oxide surface maximized by the porosity of the pre-fired ceramic. The phenomenon seems to involve a combination of surface diffusion similar to that observed for oxides prepared by the hydrolysis-polycondensation of alkoxide sol-gel route plus the contribution of surface alkaline earth liquid film. 
+The sintering enhancement offers new ways in the research field devoted to the control of the sintering temperature. 
+Moreover, it can be very useful from a technological point of view since it seems to make the co-sintering process easier. 
+Further analyses, in particular of the pore surface and grain boundary interface, are however required to go deeper in the understanding of this new route promoting the low temperature sintering. 

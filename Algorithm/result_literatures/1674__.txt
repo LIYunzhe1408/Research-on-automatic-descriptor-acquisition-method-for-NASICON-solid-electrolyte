@@ -1,0 +1,73 @@
+A compact tubular sensor based on sodium super ionic conductor (NASICON) and Pr6O11-doped SnO2 sensing electrode was designed forthe detection of H2S.
+In order to reduce the size of the sensor, a thick film of NASICON was formed on the outer surface of a small Al2O3tube; furthermore, a thin layer of SnO2 with nanometer size was attached on the NASICON as a sensing electrode.
+Compared with pure SnO2,Pr6O11-doped SnO2 was found to be more suitable for the sensing electrode.
+The sensor using Pr6O11-doped SnO2 gave excellent sensing propertiesto 5–50 ppm H2S in air at 200–400 ◦C.
+The EMF value of the sensor was almost proportional to the logarithm of H2S concentration, the sensitivity(slope) was 74 mV/decade at 300 ◦C.
+It was also seen that the sensor showed a good selectivity to H2S against SO2, NO2, CH4 and CO, and anexcellent resistance to water vapor.
+The sensor had speedy response kinetics to H2S, the 90% response time to and 50 ppm H2S was 8, 6 and4 s, respectively, and the recovery time was and 30 s, respectively.
+On the basis of XPS analysis for the H2S-adsorbed sensing electrode, asensing mechanism involving the mixed potential at the sensing electrode was proposed.
+Since hydrogen sulfide gas, frequently generated fromsewage, dumps as well as chemical producing processes, hasstrong toxicity, it has become an important research target onsolid-state gas sensors in recent years.
+So far H2S sensors basedon semiconducting oxides like SnO2 andWO3 have been mostlyreported.
+Although these sensors have good H2S sensingproperties, such as high sensitivity and good selectivity againstH2, the response and recovery rate to dilute H2S seem to beimproved .
+On the other hand, solid electrolyte H2S sensorsusing stabilized zirconia and oxide (e.g.WO3) electrodeshave been developed, which are related to the mixed potentialat the sensing electrodes .
+This group of H2S sensors showsexcellent sensing characteristics, but some problems, such as thelarge size of sensor, need to be overcome.
+We have been developing the compact solid electrolyte sensorsbased on sodium super ionic conductor (NASICON) andhave reported thick-film, tubular and planar type CO2 sensorsusing NASICON synthesized by sol–gel process .
+Atsame time, we have been also searching for the new sensingmaterials for semiconducting type H2S sensor.
+As a result, thedoping of Pr6O11 to SnO2 was found to have excellent effect onimproving sensing properties.
+In the present work, we tried to construct a compact solidelectrolyte H2S sensor by combining NASICON prepared bysol–gel process with Pr6O11-doped SnO2 electrode.
+The sensingmechanism was also suggested by investigating the catalyticbehavior of H2S on Pr6O11-doped SnO2.A sensor device was fabricated by using an alumina tube of6mm long, 0.8 and 1.2mm in inner and outer diameter, respec-tively, as shown in Fig.1. 
+A thick film of NASICON was formedon the outer surface of the alumina tube by dipping it in NASICONprecursor paste many times.
+For increasing the density ofNASICON, the layer of NASICON was pre-sintered at 600 ◦Cfor 1 h before the next layer was formed.
+Finally, the thick filmof NASICON was sintered at 900 ◦C for 6 h.
+As the next step ofthe fabrication process of the sensor device, two Au electrodeswith mesh-shape were made on the two ends of the thick filmof NASICON by applying a commercial Au paste and calciningat 800 ◦C for 20 min.
+For forming the sensing electrode of theH2S sensor, Pr6O11-doped SnO2 powder was mixed with purewater, and the resulting paste was applied on an Au electrode,followed by sintering at 600 ◦C for 3 h.
+A Ni–Cr coil was set inthe inner of the alumina tube as a heater.
+The NASICON precursor was prepared from ZrO(NO3)2,NaNO3, (NH4)2HPO4 and Si(C2H5O)4 by sol–gel process.
+In order to obtain SnO2 nano-powder, an aqueous solutionincluding citric acid as a dispersant was neutralized with anammonia solution, and the obtaining gel was sintered at 500 ◦Cfor 2 h.
+SnO2 was mixed mechanically with 5 wt%Pr6O11 for preparing the sensing electrode material of the H2Ssensor.
+The formation of single-phase SnO2 was confirmed byX-ray diffraction analysis (Rigaku wide-angle X-ray diffractionD/max rA, using CuKradiation atwavelength λ = 0.1541 nm).
+The grain size of SnO2 was determined by observing thesurface micrograph of SnO2 withTEM(HITACHIH-8100 transmissionelectron microscope, using an accelerating voltage of200 kV).
+Gas sensing properties of the sensor were measured by a conventionalstatic mounting method.
+The sample gases containingdifferent concentration of H2S were obtained by diluting pureH2S gas with O2 (20%) and N2 (80%).
+The H2S sensor heatedby a Ni–Cr coil type heater was exposed to air or a sample gas.
+The electromotive force (EMF) was measured with a digitalelectrometer (Advanced, TR 8652).
+To investigate the sensing mechanism of theH2S sensor, XPS(VGESCALABMKII,MgK, 10−7 Pa)was utilized to analyzethe adsorbed species on the surface of Pr6O11-doped SnO2 afterexposing to 200 ppm H2S at 300◦C for 10 h.
+TEM observation and XRD analysis were used to measurethe grain size of SnO2 nano-powder.
+As shown in Fig.2, TEMobservation revealed that the SnO2 prepared with the sol–gelmethod had a mean grain size of 9–11 nm.
+Fig.3 shows the XRDpatterns of pure SnO2 prepared with the sol–gel method, and thesynthesized SnO2 was confirmed to have a single phase of cubicrutile.
+In addition, the mean grain size of SnO2 calculated withDebye–Scherrer equation was about 10 nm, being almost thesame as the result obtained from the TEM observation.
+As a comparative experiment, a device attached with pureSnO2 was first examined.
+When the device was exposed to 5–50 ppm H2S in air in the range of 200–400 ◦C, the devicegave a large EMF response, but it had a poor linearity betweenEMF and the logarithm of H2S concentration in the temperaturerange tested.
+Besides poor linearity, the selectivity experimenttested that the device attached with pure SnO2 gave larger crosssensitivitiesto SO2, NO2, CH4 and CO in air at 300 ◦C.
+For improving the linearity and selectivity to H2S, dopingsome metal oxides to SnO2 was attempted.
+As a result, Pr6O11was found to be effective for improving the linearity to 5–50 ppmH2S in the range of 200–400 ◦C.
+Fig.4 shows that EMF ofthe device attached with Pr6O11-doped SnO2 is perfectly linearto the logarithm of H2S concentration, and the slopes were13, 37, 74, 32 and 31 mV/decade at 200, 250, 300, 350 and400 ◦C, respectively.
+With increasing the operating temperature,the slope tended to become big.
+At 300 ◦C, the largest value ofthe slopes occurred, but above 300 ◦Cthe slope tended to becomesmall.
+This could arise from the consumption ofH2S when it diffusedthrough the Pr6O11-doped SnO2 electrode layer at highertemperatures.
+The cross-sensitivities of the device attached with Pr6O11-doped SnO2 to other various gases, i.e.SO2, NO2, CH4 and COeach 100 ppm in air, were measured at 300 ◦C, and the resultsobtained are shown in Fig.5. The cross-sensitivities were rathersmall or almost none, indicating its excellentH2S selectivity.
+Wealso tested the effect of water vapor on the EMF value of H2S at300 ◦C.
+The EMF value of the device to the same concentrationH2S shifted down lightly with increasing the relative humidity,but the slopes of H2S at 0, 45 and 80%RH were almost the same,as shown in Fig.6.
+The device attached with Pr6O11-doped SnO2 gave speedyresponse kinetics to dilute H2S.
+Fig.7 shows the response andrecovery transients to various concentrations of H2S at 300◦C,and the 90% response time to 5, 20 and 50 ppm H2S was 8,6 and 4 s, respectively, and the recovery time was 12, 18 and30 s, respectively.
+This indicates that the solid electrolyte H2Ssensor combining NASICON and Pr6O11-doped SnO2 electrodeexhibits more rapid response and recovery rate than the resistive type ones using metal oxides, as shown in Table 1.
+For explaining the sensing behavior of the device, XPS wasapplied for measuring the chemical shift of the related elements(e.
+g., Sn3d, O1S, Pr3d and S2p) on the surface of Pr6O11-doped SnO2 before (sample 1) and after (sample 2) exposureto 200 ppm H2S at 300 ◦C, as shown in Fig.8. 
+As a result,it was found that the chemical binding energies of Sn3d, O1sand Pr3d did not change before and after exposure to 200 ppmH2S, whereas the strongest peak of S2p of sample 2 appeared at169 eV which accords with that of SO42−.
+This suggests thatH2S reacted with the adsorbed or lattice oxygen of Pr6O11-doped SnO2 and was oxidized to S6+.
+In other words, as acatalyst, Pr6O11-doped SnO2 could enhance the oxidation ofH2S at 200–400 ◦C.
+As described, the device using NASICON and Pr6O11-dopedSnO2 electrode gave a good linear relationship between EMFand the logarithm of the concentration of H2S as switching ondilute H2S.
+Such a result encouraged us to establish a sensingmechanism based on Nernst behavior.
+The device could beexpressed with the following electrochemical cell:According to the result of XPS analysis, we propose that anelectrochemical oxidation reaction (2) of H2S and an electrochemicalreduction reaction (3) of O2 occur at the sensing andcounter electrodes, respectively,The reaction electron number obtained from Eq.(4) was 8.
+However, the reaction electron numbers attained from the slopesin Fig.4 were 7, 4, 2, 3 and 4 at 200, 250, 300, 350 and 400 ◦C,respectively, being very different from the theoretical one basedon Eq.(4).
+This points out that the above sensing mechanism isvery difficult to interpret the sensing behavior of the device.
+Infact, Lu et al.have established a sensing mechanism involvingmixed potentials for a group of sensors combining stabilizedzirconia with oxide electrodes, such as NOx, H2, CO sensors, Therefore, a similar sensing mechanism would beattempted to apply for the present device.
+We consider that a couple of electrochemical reactions (2)and (3) happen at the sensing electrode simultaneously.
+Thesetwo electrochemical reactions construct a local cell at the sensingelectrode, and when the rates of the reactions were equal to eachother, they arrive at a dynamic equilibrium, and the electrodepotential at the sensing electrode was the mixed potential .
+By treating Eqs.(2) and (3) with the same process described inRefs, we could obtained the following equation.
+Acompact solid electrolyte sensor using a thick film ofNASICONand a thin layer of Pr6O11-doped SnO2 electrode has been examined to show good sensing properties to dilute H2S.
+Theslope between the EMF and the logarithm of H2S concentrationwas 74 mV/decade, and the 90% response time to 5, 20and 50 ppm H2S was 8, 6 and 4 s, respectively, and the recoverytimewas 12, 18 and 30 s, respectively.
+In addition, the sensor alsoshowed excellent selectivity to H2S against the disturbing gasesand a good resistance towater vapor.
+XPSanalysis of the Pr6O11-doped SnO2 exposed to H2S at 300◦C testified the existence ofS6+ on the Pr6O11-doped SnO2, indicating that the chemicaloxidation or electrochemical oxidation of H2S took place in thethin layer of Pr6O11-doped SnO2 or the three phase interfaceof NASICON, oxide electrode and H2S (and air), respectively.
+The sensing mechanism related to mixed potential could explainthe sensing behavior of the sensor.
+However, further study onthe sensing mechanism is yet to be done for understanding theelectrochemical behavior at the sensing electrode very well.

@@ -1,0 +1,292 @@
+ISSN 0020 2)1685, Inorganic Materials, 2014, Vol. 50, No. 3, pp. 273–279. © Pleiades Publishing, Ltd., 2014. Original  Russian  Text  ©  A.I.  Svitan’ko,  S.A.  Novikova,  I.A.  Stenina,  V.A.  Skopets,  A.B.  Yaroslavtsev,  2014,  published  in  Neorganicheskie  Materialy,  2014,  Vol.  50,  No.  3, pp. 295 ⎯302.
+
+Microstructure and Ion Transport in Li1 + xTi2 – xMx(PO4)3 
+
+(M = Cr, Fe, Al) NASICON 2)Type Materials
+
+A. I. Svitan’ko, S. A. Novikova, I. A. Stenina, V. A. Skopets, and A. B. Yaroslavtsev
+
+Kurnakov Institute of General and Inorganic Chemistry, Russian Academy of Sciences, 
+
+Leninskii pr. 31, Moscow, 119991 Russia
+
+e 2)mail: novikova@igic.ras.ru Received September 27, 2013
+
+Abstract—Li1 + xTi2 – xMx(PO4)3  (M  =  Cr,  Fe,  Al)  NASICON 2)type  materials  have  been  prepared  by  the Pechini process and solid 2)state reactions and characterized by X 2)ray diffraction, scanning electron micros 2) copy, and impedance spectroscopy. We have identified the factors that determine the rate of ion transport in nanocrystalline and bulk samples at low and high temperatures. The effects of the preparation procedure and heterovalent doping on the ionic conductivity of the materials have been assessed. Heterovalent doping is shown to have a considerably stronger effect on the ionic conductivity in comparison with the microstructure of the materials. DOI: 10.1134/S0020168514030145
+
+INTRODUCTION
+
+The growing need for advanced materials with high ionic conductivity stems from the fact that such mate 2) rials find wide application in alternative energy devel 2) opment,  electronics,  sensors,  and  other  areas.  The most promising materials of this kind include NASI 2) CON 2)type compounds (LiM2(РO4)3, where M = Zr, Ti, Hf, Sn, Ge, and other elements), which offer not only high lithium ion conductivity but also chemical durability, good radiation resistance, thermal stability, small thermal expansion coefficients, and low thermal conductivity  [1,  2].  In  recent  years,  a  great  deal  of attention has been paid to ion 2)conducting nanomate 2) rials  [3–8].  In  a  number  of  instances,  reducing  the particle size down to the nanometer scale allows one to considerably  improve  the  properties  of  the  particles and raise their ionic conductivity owing to the increase in  the  contribution  of  surface  transport.  There  are, however, little such data on the ionic conductivity of the NASICON 2)type materials. For example, as shown by Bykov et al. [9] the conductivity of a lithium iron phosphate can be raised through a transition to nano 2) materials. On the other hand, according to Orliukas et al. [10] the bulk conductivity of Li1.3AlyYx – yTi1.7(PO4)3 (x = 0.3, y = 0.1, 0.2) materials exceeds their total con 2) ductivity. In this context, it is of interest to investigate the effect of particle size on the ionic conductivity of NASICON 2)type  materials  prepared  by  various  pro 2) cesses.
+
+NASICON 2)type  mixed  phosphates  can  be  pre 2) pared  by  a  variety  of  techniques  [11–25].  The  most widespread  process  is  solid 2)state  synthesis,  which includes  high 2)temperature  ( 1000–1200°С)  anneal 2) ing  for  a  long  time  (24  h)  [11–17].  Sol–gel  synthesis
+
+ensures molecular 2)scale mixing and allows NASICON phases  to  be  obtained  at  lower  temperatures  and shorter annealing times [18–21]. There are reports on the  synthesis  of  NASICON 2)type  phosphates  by  the Pechini  process:  preparation  of  metal  citrate  com 2) plexes in ethylene glycol, followed by the polyconden 2) sation  of  ethylene  glycol  and  citric  acid  molecules, resulting in polymer gel formation. Heat treatment of the resultant precursor yields a fine 2)particle, homoge 2) neous powder material [22–25]. The Pechini process offers the possibility of producing smaller particles in comparison  with  solid 2)state  synthesis  owing  to  the homogenization  of  the  precursor  in  the  polymer matrix and the lower final annealing temperature.
+
+Heterovalent  doping  is  widely  used  to  raise  the ionic  conductivity  of  NASICON 2)type  phosphates prepared by solid 2)state reactions [1, 11, 15–17]. Note that  there  is  much  less  information  concerning  the preparation of M3+ 2)doped LiTi2(PO4)3 2)based materi 2) als by the Pechini process and cation mobility in such materials [25].
+
+In connection with this, the objectives of this work were  to  prepare  lithium  titanium  double  phosphates with  the  general  formula  Li1 + xTi2 – xMx(PO4)3  (M  = Cr,  Fe,  Al)  (by  the  Pechini  process  and  solid 2)state reactions)  and  to  assess  the  effects  of  heterovalent doping and particle size on their ionic conductivity.
+
+EXPERIMENTAL
+
+The starting chemicals used were Li2CO3 (99+%, Fluka), (NH4)2HPO4 (97+%, Roth), Cr(NO3)3 ⋅ 9H2O (99%, Acros), Fe(NO3)3 ⋅ 9H2O (98+%, AppliChem), Al(NO3)3  ⋅  9H2O  (98.5+%,  Merck),  (C4H9O)4Ti
+
+Citric acid
+
+Stirring at 60°C, 
+
+formation of citrate complexes
+
+Aqueous  Li2CO3
+
+solution
+
+Aqueous
+
+solution
+
+Aqueous
+
+solution
+
+Etherification, removal of the excess EG
+
+Pyrolysis 350°С, 4 h
+
+NASICON structure formation
+
+Fig. 1. Flow diagram of Li1 + xTi2 – xMx(PO4)3 4)I (M = Cr, Fe, Al) synthesis.
+
+(98+%,  Alfa  Aesar),  citric  acid  (analytical  grade, Khimmed),  and  ethylene  glycol  (analytical  grade, Khimmed).
+
+The Li1 + xTi2 – xMx(PO4)3 (M = Cr, Fe, Al) double phosphates  were  prepared  by  the  Pechini  process, schematically illustrated in Fig. 1.
+
+To  ethylene  glycol  (EG)  were  sequentially  added titanium butoxide, citric acid (to give a citrate com 2) plex), lithium carbonate, ammonium hydrogen phos 2) phate, and (in the case of doped samples) an appropri 2) ate amount of a trivalent metal nitrate. The reaction mixture was held at 150°С for 12 h. The polyconden 2) sation reaction between EG and citric acid molecules yielded a polymer gel. The gel was pyrolyzed at 350°С for  4  h.  The  resultant  black  powder  was  ground  and fired  for  10 h  at  temperatures  from  650  to  850°С  in order to remove the residual polymer matrix and pro 2) duce  a  crystalline  NASICON 2)type  material.  The materials  produced  by  the  Pechini  process  will  be denoted as Li1 + xTi2 – xMx(PO4)3 2)I.
+
+Li1 + xTi2 – xMx(PO4)3  (M  =  Cr,  Fe,  Al)  materials were  also  prepared  by  solid 2)state  reactions  as described previously [17]. The starting chemicals used
+
+were  (NH4)2HPO4  (97+%,  Roth),  TiO2  ⋅  nH2O, Cr(NO3)3  ⋅  9H2O  (99%,  Acros),  Fe(NO3)3  ⋅  9H2O (98+%,  AppliChem),  Al(NO3)3  ⋅  9H2O  (98.5+%, Merck),  and  Li2CO3  (99+%,  Fluka).  Appropriate ratios of the reagents were mixed, thoroughly ground in a mortar, and fired at a temperature of  600°С for 6 h. The mixture was then reground and pressed into pellets  to  improve  interaction  between  the  particles. The pellets were embedded in powder of similar com 2) position,  containing  20%  excess  lithium  carbonate, and annealed at 1000°С for 24 h. The materials pre 2) pared  by  solid 2)state  reactions  will  be  denoted  as Li1 + xTi2 – xMx(PO4)3 2)II.
+
+The  microstructure  of  the  samples  was  examined by scanning electron microscopy on a Carl Zeiss NVi 2) sion 40 operated at an accelerating voltage of 1 kV.
+
+The phase composition of the samples was deter 2) mined by X 2)ray diffraction on a Rigaku D/MAX 2200 diffractometer  (   radiation).  X 2)ray  diffraction data were analyzed using the Rigaku Application Data Processing software package.
+
+Electrical conductivity was measured at tempera 2) tures from 25 to 600°C ( 30°C steps) and frequencies
+
+INORGANIC  MATERIALS   Vol.  50 
+
+MICROSTRUCTURE  AND  ION  TRANSPORT
+
+2θ, deg
+
+2θ, deg
+
+Fig.  2.  X 2)ray  diffraction  patterns  of  LiTi2(PO4)3 4)I obtained at different final annealing temperatures: (1) 650, (2) 750, (3) 850°C; (4) schematic X 2)ray diffraction pattern of LiTi2(PO4)3 (card no. 35 2)0754).
+
+Fig. 3. X 2)ray diffraction patterns of Li1 + xTi2 – xMx(PO4)3 4)I samples: (1) Li1.3Ti1.7Al0.3(PO4)3, (2) Li1.3Ti1.7Fe0.3(PO4)3, (3)  Li1.3Ti1.7Cr0.3(PO4)3;  (4) schematic  X 2)ray  diffraction pattern of LiTi2(PO4)3 (card no. 35 2)0754).
+
+from 10 Hz to 2 MHz using an IPU 2)62 ac bridge. The samples had the form of pressed cylindrical pellets (r = 5 mm, h = 2 mm) with platinum contacts. The con 2) ductivity was determined by extrapolating the semicir 2) cle  representing  the  bulk  component  onto  the  real axis. The uncertainty in our impedance measurements was within 5%.
+
+RESULTS  AND  DISCUSSION
+
+Composition  and  morphology.  According  to X 2)ray  diffraction  data,  all  of  the  synthesized Li1 + xTi2 – xMx(PO4)3 (M = Cr, Fe, Al) materials had a  rhombohedral  NASICON 2)type  structure  (sp.  gr. R c, Z = 6). In the case of solid 2)state reactions, sin 2) gle 2)phase  Li1 + xTi2  –  xMx(PO4)3  materials  were obtained  at  t  ≥  1000°С.  In  the  Pechini  process,  the final  annealing  temperature  was  considerably  lower. According to X 2)ray diffraction data, even the materials annealed  at  650°С  consisted  predominantly  of  a rhombohedral NASICON 2)type phase, but their X 2)ray diffraction patterns contained lines corresponding to titanium  pyrophosphate  and  rutile  (Fig.  2,  scan  1). Raising  the  final  annealing  temperature  reduced  the intensity  of  the  reflections  from  the  impurity  phases (Fig. 2, scan 2). The samples prepared at 850°С were single 2)phase (Fig. 2, scan 3).
+
+Partial Cr3+, Fe3+, and Al3+ substitutions for Ti4+ in the structure of LiTi2(PO4)3 had no effect on the phase composition  of  the  materials  (Fig.  3)  to  a  certain degree  of  substitution,  х,  in  the  case  of  both  the Pechini  process  and  solid 2)state  reactions.  The  chro 2) mium 2)doped materials were single 2)phase for х ≤ 0.7. At  higher  х  values,  the  materials  consisted  of  a
+
+INORGANIC  MATERIALS   Vol.  50 
+
+NASICON 2)type phase and impurity phases, prima 2) rily of chromium phosphates.
+
+Similarly,  single 2)phase  Li1 + xTi2 – xFex(PO4)3  and Li1 + xTi2 – xAlx(PO4)3  samples  with  a  rhombohedral NASICON 2)type  structure  were  obtained  for  х  ≤  0.5 and х ≤ 0.4, respectively.
+
+It is worth pointing out that reducing the particle size down to the nanometer scale often causes a tran 2) sition  to  a  higher  symmetry  polymorph  [26].  In  this context,  the  composition  range  of  single 2)phase  solid solutions might be expected to depend on the prepara 2) tion  procedure.  However,  the  Li1 + xTi2 – xMx(PO4)3 (M = Cr, Fe, Al) samples prepared by the Pechini pro 2) cess  (I)  and  solid 2)state  reactions  (II)  were  found  to have similar solid 2)solution ranges. The lowest degree of  M3+  substitution  for  Ti4+  at  which  a  single 2)phase rhombohedral  NASICON 2)type  structure  persisted was  obtained  for  Al3+  doping  (0  <  х  ≤  0.4,  which  is most likely due to the largest difference in ionic radius between the substituent cation and Ti4+ (rAl = 0.53 Å, rFe = 0.63 Å, rCr = 0.62 Å, rTi = 0.61 Å) [22]. Because of this, we focused on the Li1 + xTi2 – xMx(PO4)3 (M = Cr, Fe, Al; х = 0–0.4) materials.
+
+Partial  Cr3+,  Fe3+,  and  Al3+  substitutions  for Ti4+  led  to  monotonic  variations  in  the  unit 2)cell parameters  of  the  materials  with  increasing  sub 2) stituent content, indicating the formation of solid solutions.  The  calculated  unit 2)cell  parameters  of Li1 + xTi2 – xMx(PO4)3 2)I  (M  =  Cr,  Fe,  Al)  are  given  in Table 1.
+
+Doping with Cr3+ and Fe3+ cations increases the а and с cell parameters of LiTi2(PO4)3. The reason for this  is  that  the  ionic  radius  of  chromium  and  iron exceeds that of titanium and that excess lithium ions
+
+Table  1. Unit 2)cell  parameters  of  Li1 + xTi2 – xMx(PO4)3 2)I solid solutions
+
+occupy  vacant  M2  sites.  By  contrast,  doping  of LiTi2(PO4)3  with  Al3+  cations  reduces  its  unit 2)cell parameters, because the ionic radius of aluminum is smaller than that of titanium.
+
+Similar  variations 
+
+in  unit 2)cell  parameters 
+
+in response to Cr3+, Fe3+, and Al3+ substitutions for Ti4+ were  observed  for  the  Li1 + xTi2 – xMx(PO4)3  samples prepared by procedure II. At the same time, the unit 2) cell parameters of samples II were on average smaller by  0.01–0.02  Å.  Note,  however,  that  this  distinction was within experimental uncertainty.
+
+Using X 2)ray diffraction data and the Scherrer for 2) mula  [27],  the  crystallite  size  of  LiTi2(PO4)3 2)I  was determined  to  be  54  nm.  The  Li1 + xTi2 – xMx(PO4)3 2)I (M  =  Cr,  Fe,  Al)  samples  ranged  in  crystallite  size from  45  to  75  nm.  The  iron 2)doped  samples  had  the smallest crystallite size and the aluminum 2)doped sam 2) ples had the largest one. At the same time, according to scanning electron microscopy data the particle size of Li1 + xTi2 – xMx(PO4)3 2)I was 300–500 nm (Figs. 4a, 4b), which considerably exceeded the crystallite size of these  materials.  Therefore,  they  consisted  of  aggre 2) gates of smaller particles.
+
+We  failed  to  estimate  the  crystallite  size  of  the Li1 + xTi2 – xMx(PO4)3 2)II  samples  from  X 2)ray  diffrac 2) tion  line  broadening  because  the  particle  size  was above the upper applicability limit of the Scherrer for 2) mula.  According  to  scanning  electron  microscopy data (Fig. 4c), those samples had the form of a semid 2)
+
+isperse system consisting of crystallites on the order of 1–15 
+
+Comparison of the X 2)ray diffraction and electron microscopy data leads us to conclude that the particles produced by the Pechini process are markedly smaller. This is due to the lower final annealing temperature in comparison with solid 2)state reactions and to the fact that  the  particles  were  formed  in  a  polymer  matrix resulting from the polycondensation of EG and citric acid, which restricted their growth.
+
+Impedance  spectroscopy.  The  Arrhenius  plots  of conductivity for Li1 + xTi2 – xMx(PO4)3 2)I (M = Cr, Fe, Al) in  the  temperature  range  25–600°С  comprise two  linear  portions.  That  is,  the  temperature dependences  of  conductivity  for  (fine 2)particle) Li1 + xTi2 – xMx(PO4)3 2)II have a break corresponding to a superionic transition [16, 17], just like in the case of the (large 2)particle) Li1 + xTi2 – xMx(PO4)3 2)II materials. Thus,  the  temperature  dependence  of  conductivity can be divided into two portions: low 2)temperature (25 to  250°C)  and  high 2)temperature  ( 250  to  600°C). The electronic contribution to the total conductivity is 2–3%,  that  is,  the  conductivity  is  predominantly ionic.
+
+their 
+
+ionic  conductivity.  For  example, 
+
+The microstructure of the samples has a weak effect on  the LiTi2(PO4)3 and Li1.3Ti1.7Fe0.3(PO4)3 samples prepared by the Pechini process and solid 2)state reactions differ little in ionic conductivity (Fig. 5). In the low 2)temper 2) ature region, the conductivity of the fine 2)particle sam 2) ples of the NASICON 2)type lithium titanium double phosphates prepared by the Pechini process slightly exceeds the conductivity of the samples prepared by solid 2)state  of LiTi2(PO4)3 2)I  exceeds  that  of  LiTi2(PO4)3 2)II  in  the temperature  that  of Li1.3Ti1.7Fe0.3(PO4)3 in the range 25–290°С. An oppo 2) site situation occurs in the high 2)temperature region.
+
+reactions.  The 
+
+conductivity 
+
+range 
+
+and 
+
+The total conductivity σtot of a material can be rep 2) resented as a resistivity ρsurf
+
+ characterizing ion trans 2) port  along  interfaces,  connected  in  parallel  with  a series connected bulk resistivity (ρbulk) of the particles of the material and resistivity characterizing ion trans 2) port across the interfaces, perpendicular to the direc 2) tion of the electric current (ρgb⊥) (Fig. 6) [3, 10, 28]:
+
+(1) At low temperatures, both fine and coarse particles have high bulk resistivity, so ion transport along grain surfaces parallel to the direction of the current (ρsurf
+
+), facilitated by the high defect density in the Debye layer near the particle surface, may markedly increase the total conductivity. In the case of (fine 2)particle) sam 2) ples  I,  this  effect  is  considerably  more  pronounced than  that  in  (large 2)particle)  samples  II.  Because  of this, the low 2)temperature ionic conductivity of (fine 2) particle) samples I of the Li1 + xTi2 – xFex(PO4)3 (x = 0, 0.3)  NASICON 2)type  phosphates  exceeds  that  of (larger particle) samples II of the same composition.
+
+INORGANIC  MATERIALS   Vol.  50 
+
+MICROSTRUCTURE  AND  ION  TRANSPORT
+
+Fig.  5.  Arrhenius  plots  of  for (1) LiTi2(PO4)3 4)I,  LiTi2(PO4)3 4)II, (2)  (3) Li1.3Ti1.7Fe0.3(PO4)3 4)I, and (4) Li1.3Ti1.7Fe0.3(PO4)3 4)II.
+
+ionic  conductivity 
+
+temperatures,  the  ionic  conductivity  of  samples  I  is lower than that of samples II.
+
+It is worth pointing out that in the case of the doped material  Li1.3Ti1.7Fe0.3(PO4)3,  which  has  increased defect density, the bulk conductivity begins to prevail at  a  in  comparison  with LiTi2(PO4)3.
+
+temperature 
+
+lower 
+
+The curves for the large 2) (II) and small 2)particle (I) Li1.3Ti1.7Al0.3(PO4)3  samples  are  similar  to  those  for Li1.3Ti1.7Fe0.3(PO4)3.  of Li1.3Ti1.7Cr0.3(PO4)3 2)II  of Li1.3Ti1.7Cr0.3(PO4)3 2)I,  and  the  difference  increases with increasing temperature for the reasons illustrated above  by  the  examples  of  LiTi2(PO4)3  and Li1.3Ti1.7Fe0.3(PO4)3.
+
+conductivity  that 
+
+exceeds 
+
+The 
+
+The heterovalent doping has a considerably stron 2) ger effect on the conductivity of our samples. Over the entire  temperature  range  studied  (25–600°С),  the conductivity  of  the  Li1 + xTi2 – xMx(PO4)3 2)I  samples markedly exceeds that of LiTi2(PO4)3 2)I (Fig. 7).
+
+The  defect 
+
+in LiTi2(PO4)3 by doping with M3+ cations can be repre 2) sented by the quasi 2)chemical reaction
+
+formation  process 
+
+induced 
+
+III Li M PO 2 *2 Li i
+
+LiTi PO
+
+where the symbols * and ' represent, respectively, pos 2) itive and negative charges on ions relative to the corre 2) sponding  lattice  site.  When  M3+  is  incorporated,  its insufficient positive charge relative to the lattice site of the  Ti4+  ions  is  compensated  by  lithium  interstitials, which leads to a rise in defect density and an increase in  the  conductivity  of  the  material  with  increasing doping level within the single 2)phase region.
+
+Fig.  4.  Electron  micrographs  of  (a)  LiTi2(PO4)3 4)I, (b) Li1.3Ti1.7Fe0.3(PO4)3 4)I, and (c) LiTi2(PO4)3 4)II.
+
+Because of the intrinsic thermal disorder, the high 2) temperature  bulk  resistivity  considerably  decreases and becomes lower than  ρsurf
+
+. At the same time, the fraction of interfaces to be overcome by an ion is con 2) siderably larger in the case of (fine 2)particle) samples I. These interfaces increase the resistivity because of the high defect density and because a region with their ori 2) entation against a gradient of the carrier concentration has to be overcome. It is for this reason that, at elevated
+
+INORGANIC  MATERIALS   Vol.  50 
+
+Table 2. Low 2)temperature (25 to  250°C) and high 2)tem 2) perature ( 250 to 600°C) activation energies for conduc 2) tion in Li1 + xTi2 – xMx(PO4)3
+
+Material
+
+ low temperatures high temperatures
+
+Fig.  6.  Schematic  of  ion  transport  across  particles  of  an inorganic material.
+
+Fig.  7.  Arrhenius  plots  of  ionic  conductivity  for (1) LiTi2(PO4)3 4)I,  Li1.3Ti1.7Al0.3(PO4)3 4)I, (3) Li1.3Ti1.7Fe0.3(PO4)3 4)I, and (4) Li1.3Ti1.7Cr0.3(PO4)3 4)I.
+
+Fig. 8. Composition dependences of ionic conductivity for the Li1 + xTi2 – xAlx(PO4)3 4)I materials.
+
+As the degree of M3+ substitution for Ti4+ increases, the  conductivity  of  both  the  fine 2)  and  large 2)particle samples varies nonmonotonically. Figure 8 shows typ 2) ical  plots  of  ionic  conductivity  versus  the  degree  of M3+ substitution for Ti4+ in the Li1 + xTi2 – xAlx(PO4)3 2)I system.
+
+The  conductivity  increases  most  rapidly  in  the range  x  ≤  0.1.  As  х  increases  further,  and  impurity phases appear in the composition of the material, the conductivity  increases  considerably  more  slowly  or even  decreases  slightly,  owing  to  defect  association processes [16, 17, 29, 30].
+
+Table 2 lists the activation energies for conduction in the materials studied. Within the stability range of the rhombohedral phase, the substitutions on the tita 2) nium site cause the activation energy for conduction in our samples to decrease systematically.
+
+It  is  also  worth  pointing  out  that  the  activation energy  for  conduction  in  (fine 2)particle)  samples  I  is lower than that in (large 2)particle) samples II owing to the smaller contribution of the enthalpy of defect for 2) mation  because  of  the  higher  surface  defect  density [31].
+
+CONCLUSIONS
+
+Li1 + xTi2 – xMx(PO4)3  (M  =  Cr3+,  Fe3+,  Al3+) NASICON 2)type  double  phosphates  have  been  pre 2) pared by the Pechini process and solid 2)state reactions, and  the  effect  of  the  preparation  procedure  on  their particle  size  has  been  examined.  It  has  been  shown that,  at  low  temperatures,  the  surface  conductivity makes a significant contribution to the total conduc 2) tivity of the samples and is higher at a smaller particle size. At high temperatures, above the superionic tran 2) sition,  bulk  conductivity  prevails,  and  ion  transport between particles becomes a limiting factor. This leads to lower conductivity of the fine 2)particle samples. We have  examined  the  effects  of  the  preparation  proce 2) dure and heterovalent doping on the ionic conductiv 2) ity of the materials. Heterovalent doping is shown to have a considerably stronger effect on the ionic con 2) ductivity in comparison with the microstructure of the materials.
+
+INORGANIC  MATERIALS   Vol.  50 
+
+MICROSTRUCTURE  AND  ION  TRANSPORT
+
+ACKNOWLEDGMENTS
+
+This  work  was  supported  by  the  RF  Ministry  of Education and Science (federal targeted program The Scientists and Science Educators of Innovative Russia, 2009–2013, project no. 8573) and the Russian Foun 2) dation for Basic Research (grant no. 12 2)08 2)33144).
+
+REFERENCES
+
+1. Anantharamulu, N., Koteswara Rao, K., Rambabu, G., et al., A wide 2)ranging review on Nasicon type materials, J. Mater. Sci., 2011, vol. 46, p. 2821.
+
+2. Pet’kov, V.I., Mixed phosphates of metal cations in the oxidation  states  I  and  IV,  Usp.  Khim.,  2012,  vol.  81, no. 7, p. 606.
+
+3. Maier, J., Thermodynamic aspects and morphology of nano 2)structured ion conductors aspects of nano 2)ionics Part I, Solid State Ionics, 2002, vols. 154–155, p. 291.
+
+4. Maier, J., Defect chemistry and ion transport in nano 2) structured  materials  Part  II.  Aspects  of  nanoionics, Solid State Ionics, 2003, vol. 157, p. 327.
+
+5. Maier, J., Nanoionics: ion transport and electrochemi 2) cal  storage  in  confined  systems,  Nat.  Mater.,  2005, vol. 4, p. 805.
+
+6. Yaroslavtsev, A.B., Ion conductivity of composite mate 2) rials on the base of solid electrolytes and ion 2)exchange membranes,  Inorg.  Mater,  2012,  vol.  48,  no.  13, p. 1193.
+
+7. Uvarov,  N.F.  and  Boldyrev,  V.V.,  Size  effects  in  the chemistry of heterogeneous systems, Usp. Khim., 2001, vol. 70, no. 4, p. 307.
+
+tverdye  elektrolity (Composite Solid Electrolyte), Novosibirsk: Sib. Otd. Ross. Akad. Nauk, 2008.
+
+9. Bykov,  A.B.,  Chirkin,  A.P.,  Demyanets,  L.N.,  et  al., Superionic conductors Li3M2(PO4)3 (M = Fe, Sc, Cr): Synthesis,  structure  and  electrophysical  properties, Solid State Ionics, 1990, vol. 38, nos. 1–2, p. 31.
+
+10. Orliukas, F., Šalkus, T., Ke ionis, A., et al., Struc 2) ture  and  broadband  impedance  spectroscopy  of Li1.3AlyYx–yTi1.7(PO4)3 (x = 0.3; y =0.1, 0.2) solid elec 2) trolyte  ceramics,  Solid  State  Ionics,  2012,  vol.  225, p. 620.
+
+11. Berry, F.J., Costantini, N., and Smart, L.E., Synthesis and  characterization  of  Cr3+ 2)containing  NASICON 2) related  phases,  Solid  State  Ionics,  2006,  vol.  177, nos. 33–34, p. 2889.
+
+12. Losilla,  E.R.,  Bruque,  S.,  Aranda,  M.A.G.,  et  al., NASICON  to  scandium  wolframate  transition  in Li1 + xMxHf2 – x(PO4)3  (M  =  Cr,  Fe):  structure  and ionic  conductivity,  Solid  State  Ionics,  1998,  vol.  112, nos. 1–2, p. 53.
+
+13. Forsyth, M., Wong, S., Nairn, K.M., et al., NMR studies of  modified  Nasicon 2)like,  lithium  conducting  electro 2) lytes, Solid State Ionics, 1999, vol. 124, nos. 3–4, p. 213.
+
+14. Ruffo, R., Mari, C.M., and Catti, M., Structural and electrical  characterization  of  the  NASICON 2)type Li2FeZr(PO4)3 and Li2FeTi(PO4)3 compounds, Ionics, 2001, vol. 7, nos. 1–2, p. 105.
+
+15. Stenina,  I.A.,  Velikodnyi,  Yu.A.,  Ketsko,  V.A.,  and Yaroslavtsev,  A.B.,  Synthesis  of  NASICON 2)type  lith 2)
+
+INORGANIC  MATERIALS   Vol.  50 
+
+ium zirconium phosphate, Inorg. Mater., 2004, vol. 40, no. 9, p. 967.
+
+16. Pinus, I.Yu., Arkhangel’skii, I.V., Zhuravlev, N.A., and Yaroslavtsev,  A.B.,  Cation  mobility  in  modified Li1 + xTi2 – xGax(PO4)3  Lithium  Titanium  NASICON Phosphates, Russ. J. Inorg. Chem., 2009, vol. 54, no. 8, p. 1173.
+
+17. Svitan’ko, A.I., Novikova, S.A., Safronov, D.V., and Yaro 2) slavtsev,  A.B.,  Cation  mobility  in  Li1 + xTi2 – xCrx(PO4)3 NASICON 2)type  phosphates,  Inorg.  Mater.,  2011, vol. 47, no. 12, p. 1391.
+
+18. Duk 2)Dong  Lee,  Soon 2)Don  Choi,  and  Kwang 2)Woo Lee, Carbon dioxide sensor using NASICON prepared by  the  sol–gel  method  original  research  article,  Sens. Actuators, B, 1995, vol. 25, nos. 1–3, p. 607.
+
+19. Tetsuya  Kida,  Yuji  Miyachi,  Kengo  Shimanoe,  and Noboru  Yamazoe,  NASICON  thick  film 2)cased  CO2 sensor prepared by a sol–gel method original research article, Sensors  Actuators, B, 2001, vol. 80, no. 1, p. 28. 20. Cretin,  M.,  Fabry,  P.,  and  Abello,  L.,  Study  of Li1 + xA1xTi2 ⎯ x(PO4)3 for Li+ potentiometric sensors, J. Eur.. Ceram. Soc., 1995, vol. 15, p. 1149.
+
+21. Cretin, M. and Fabry, P., Comparative study of lithium (PO4)3 with ion conductors in the system  AIV = Ti or Ge and 0 ≤ x ≤ 0.7 for use as Li+ sensitive membranes, J. Eur. Ceram. Soc., 1999, vol. 19, p. 2931. 22. Mariappan, C.R., Galven, C., Crosnier 2)Lopez, M. 2)P., et al., Synthesis of nanostructured LiTi2(PO4)3 powder by a Pechini 2)type polymerizable complex method orig 2) inal  research  article,  J.  Solid  State  Chem.,  2006, vol. 179, no. 2, p. 450.
+
+23. Ejehi, F., Marashi, S.P.H., Ghaani, M.R., and Haghsh 2) enas,  D.F.,  The  synthesis  of  NASICON 2)type ZrNb(PO4)3  structure  by  the  use  of  Pechini  method original  research  article,  Ceram.  Int.,  2012,  vol.  38, no. 8, p. 6857.
+
+24. Il’in, A.B., Novikova, S.A., Sukhanov, M.V., et al., Cat 2) alytic activity of NASICON 2)type phosphates for etha 2) nol  dehydration  and  dehydrogenation,  Inorg.  Mater., 2012, vol. 48, no. 4, p. 397.
+
+25. Salkus, T., Barre, M., Kezionis, A., et al., Ionic con 2) ductivity of Li1.3Al0.3 – xScxTi1.7(PO4)3 (x = 0, 0.1, 0.15, 0.2, 0.3) solid electrolytes prepared by Pechini process, Solid State Ionics, 2012, vol. 225, p. 615.
+
+26. Nanoparticle  Technology  Handbook,  Hosokawa,  M.  et al.,  Eds.,  Amsterdam:  Elsevier,  2012,  2nd  ed.  Trans 2) lated  under  the  title  Spravochnik  po  tekhnologii  nano 2) chastits, Moscow: Nauchnyi Mir, 2013, p. 730.
+
+27. Kovba, L.M., Rentgenografiya v neorganicheskoi khimii (X 2)Ray Diffraction Analysis in Inorganic Chemistry), Moscow: Mosk. Gos. Univ., 1991, p. 254.
+
+28. Yaroslavtsev,  A.B.,  Khimiya  tverdogo  tela  (Solid  State
+
+29. Chadwick,  A.V.,  Corish,  J.,  Catlow,  C.R.A.,  and Cheetham,  A.,  Defects  and  matter  transport  in  solid materials, in New Trends in Materials Chemistry, Dor 2) drecht: Kluwer, 1997, p. 285.
+
+30. Yaroslavtsev, A.B., Ion transport in heterogeneous solid
+
+31. West, A.R., Solid State Chemistry and Its Applications,
+

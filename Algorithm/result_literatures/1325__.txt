@@ -1,0 +1,97 @@
+The  last  years  new  catalysts  family  was  developed  on  the  base of  complex  phosphates  of  NASICON  type,  possessing  the  signiﬁcant acidity  and  high  thermal  and  phase  stability  [2].   These  phosphates  belong  to  framework  materials,  which  zeolite-like  structure is  based  on  three-dimensional  skeleton  of  corner-sharing  PO4tetrahedra  and  ZrO6-octahedra  AM2(PO4)3,  where  A  =  H,  Li,  Na, Cu0.5,  H3O,  NH4;  M  =  Zr,  Fe,  Cr,  Ti,  Hf,  Sn,  Ge  and  others  [3]  and include  two  kinds  of  cavities,  which  are  populated  by  cations  or
+
+The   series   of   new   framework   phosphate   catalysts   was   synthesized   and   their   activity   in  ethanol   conversion to   hydrocarbons   was   studied   for   the   ﬁrst   time.   The   results   were   summarized   for   studies   of   NASICON   (NZP) аt   x   =   0,  0.2)   with type   phosphates   formation   A1±xZr2−xMx(PO4)3 (where   A   =   H3O+,  Li+,   Na+,   Cu0.5 the  desired   structure   and   properties   controllable   by   variation   of  their   chemical   composition   and   synthesis parameters.   The   surface   characteristics   and  catalytic   properties   of   the   resulting   systems   and   the   yields of  the   target   products   formed   by   ethanol   transformations   in   inert   atmosphere   were   analyzed   on  the + formation. basis  of  catalysts   synthesis   conditions.   NaZr2(PO4)3 was   the  most   active   in   hydrocarbons   C3 ≈ On   benzene   yield   the   catalysts   formed   the   row   LiZr2(PO4)3 {II}   Li1.2Zr1.8In0.2(PO4)3 {II}   >  LiZr2(PO4)3 {I}
+
+vacant.  The  fast  ionic  conductivity  of  these  materials  is  due  to migration  out  of  framework  cations  in  the  interconnected  channels.  Thus,  NASICON  structures  can  be  considered  under  certain conditions  as  nanoporous  membranes.  Although  sodium  containing  NASICONs  are  extensively  studied,  their  protonated  forms  are few  reported  despite  their  importance  [4–6].
+
+Wide  variety  of  isomorphic  ion  substitutions  at  all  crystallographic  positions  of  their  structure  causes  the  multiplicity  of  local characteristics  (polarity,  Lewis  acidity  etc.)  of  framework  sites  and cavities.  As  result,  the  framework  phosphates  may   show  the  basic, acidic  and  redox  properties  and  are  applicable  as  the  catalysts  of different  organic  reactions.  NASICONS’s  were  drawn  attention  as active  and  stable  catalysts  of  alcohol’s  dehydration  [7–12],  dehydrogenation  [13],  parafﬁn  isomerization  and  oxidation  [14].  In  our previous  study  [15]  the  conditions  were  found  for  effective  dehydration  of  methanol  and  ethanol  to  respective  ethers,  which  were + and  aromatic  hydrocarbons shown  to  be  the  intermediates  at  C3 formation.
+
+There  was  shown  the  possibility  of  preparation  of  composite membrane  catalysts  (CMC),  in  which  good  qualities  of  traditional heterogeneous  catalysts  are  combined  with  the  separation  capabilities  of  membranes  [16–18],   on  the  base  of  alumosilicates  [19] or  framework  phosphates  of  NASICON  type  [20,21].  The  selective permeability  of  alumosilicate  membrane  for  steam  gave  methanol
+
+conversion  into  dimethyl  ether  in  the  membrane  reactor  82.5%  in comparison  with  68.0%  for  tradition  reactor  [19].  In  paper  [20] NASICON  membrane  with  steam  permeability  about  5  L/h  m2 Bar was  prepared  from  Na3Ti2Si2PO12 by  deposition  to  Moroccan  clay. Fe0.33Zr2(PO4)3 CMC   was  prepared  in  [21]  by  magnetron  sputtering  of  NASICON  on  porous  stainless  steel  sheet  and  tested  in oxidative  dehydrogenation  of  methanol.  CMC   was  more  active  and selective  for  formaldehyde  formation  than  the  powder  sample  of Fe0.33Zr2(PO4)3 in  the  same  conditions.
+
+The  selective  removal  of  hydrogen  through  the  similar  mem+ branes  might  give  the  promising  control  on  the  ethylene  and  C3 hydrocarbons  relation  in  the  products  of  ethanol  transformation. The  aim  of  present  work  was  the  directed  synthesis  of  acid  framework  phosphates  AZr2(PO4)3 of  NASICON  type,  which  might  be  the precursors  of  CMC,  and  their  approval  as  the  catalysts  of  ethanol transformation  into  hydrocarbons  C3
+
+The  samples  of  new  NZP-phosphates  of  general 
+
+formula AZr2(PO4)3 (A  =  H,  Li,  Na,  Cu0.5)  were  prepared  by  solid  phase, hydrothermal  or  sol–gel  methods  and  characterized  using  XRD, IR-spectroscopy  and  microprobe  analysis.
+
+Simple  phosphates  with  NASICON  structure  –  NaZr2(PO4)3, Cu0.5Zr2(PO4)3 and  LiZr2(PO4)3 were  obtained  by  traditional {I}.  Water  solutions  of  ACl,  ZrOCl2 and sol–gel  method,  denoted  as  H3PO4 were  mixed  in  the  stoichiometric  amount.  The  precipitates were  dried  at  80 ◦C  and  thermally  treated  at  250,  600  or  800 ◦C  with intermediate  regrinding.
+
+and  Zr-substituted  Li1.2Zr1.8In0.2(PO4)3 were {II}.  ZrOCl2,  InCl3, obtained  by  Pechini  method  [22]  and  denoted  as  citric  acid,  NH4H2PO4 and  LiCO3 were  dissolved  in  ethylene  glycol at  60 ◦C  with  constant  stirring.  Then  the  mixture  was   dried  at 150 ◦C,  300 ◦C  and  650 ◦C  with  intermediate  regrinding.  As  a  result the  nanodispersed  powders  were  obtained.  The  carbon  content  in the  product  does  not  exceed  2  wt%.
+
+  or  by  ion  exchange  method 
+
+(H3O)Zr2(PO4)3 samples  were  obtained  by  hydrothermal {IV}.  For  (H3O)Zr2(PO4)3 method  {III}   synthesis  1  M  water  solutions  of  NH4H2(PO4)3 and  ZrOCl2 were  mixed  and  heated  in  the  autoclave  at  250 ◦C  during  20  h.  The obtained  precipitate  was  annealed  at  500 ◦C  during  72  h  and  boiled in  puriﬁed  water  36  h.   sample  was  prepared  from  preliminary synthesized  and  annealed  at  800 ◦C  Cu0.5Zr2(PO4)3 by  the  treating by  the  solution  of  0.5  M  HCl  with  following  washing  by  water  and annealing  at  the  temperature  of  400 ◦C.
+
+The  chemical  composition  and  homogeneity  of  samples  of  the phosphates  synthesized  were  monitored  using  a  CamScan  MV2300 (VEGA  TS  5130MM)  scanning  electron  microscope  with  YAG  detectors  of  secondary  and  reﬂected  electrons  and  a  Link  INCA  ENERGY 200C  energy-dispersive  X-ray  microanalyzer  with  a  semiconductor Si(Li)  detector.  The  PAP  correction  method  was  used  to  calculate the  composition.  The  accuracy  of  determination  of  sample  compositions  was  2  at.%.  The  microprobe  analysis  of  the  phosphates  has shown  their  homogeneity  and  correspondence  to  the  theoretical composition.  X-ray  powder  diffraction  experiments  were  carried out  by  means  of  Rigaku  D/MAX  2200  diffractometer  with  Ni-ﬁltered Cu  K␣ radiation,  2␪/␪   geometry  and  using  a  diffracted  beam  curved monochromator.
+
+Fig.  1.  X-ray  diffraction  patterns  of  Li1.2Zr1.8In0.2(PO4)3 (1)  and  LiZr2(PO4)3 (2)  powders.
+
+The  speciﬁc  surface  areas  of  the  samples  were  determined  by BET  method  on  adsorption  of  nitrogen  in  textural  characteristics analysator  ATX-06  Catacon.
+
+Ethanol  transformations  on  the  framework  phosphate  catalysts were  investigated  in  conventional  plug-ﬂow  system  at  atmospheric pressure  and  at  the  temperature  from  220 ◦C  to  550 ◦C  with  on-line gas  chromatography  and  chromatomass-spectrometry.  The  identiﬁcation  of  compounds,  chemisorbed  on  the  catalysts,  was   made  by  a method  of  programmed  mass  spectral  thermodesorption  (PMSTD). The  catalyst  samples  of  mass  0.300  г  was  mixed  with  quartz particles  (average  particle  size  0.5  mm).  Ethanol  vapors  were  fed from  thermostated  bubbler  to  reactor  in  ﬂow  of  argon  (helium) carrier-gas  with  space  velocity  of  1.2  L/h.  The  reaction  products were  analyzed  on  an  LKhM-5  chromatograph  with  a  thermal  conductivity  detector,  columns  packed  with  activated  charcoal  and Porapak  T,  and  computer  processing  of  chromatograms.  From  the results  of  the  analysis,  the  conversion  of  the  alcohol  x,  selectivity S,  and  the  yield  of  target  products  Y(%)  and  A–space  time  yield  of products  (mmol/g  h)  were  calculated  by  the  formulas: = ϕ0 − ϕ0 ϕi ϕ0 − ϕ1 xS100,
+
+ϕ1 are  initial  and  ﬁnal  ethanol  concentrations, 
+
+ϕi is  the Here  part  of  ethanol  consumed  on  reaction  product  i,  F  is  feed  rate  of  the alcohol  vapor  (mmol/h),  and  W  is  the  mass  of  a  catalyst  (g).
+
+The  chemical  composition  and  uniformity  of  the  synthesized phosphates  was  conﬁrmed  according  to  SEM  and  the  EDS  X-ray microanalysis.  The  obtained  compounds  are  homogeneous  and belong  to  the  NASICON  structure  type.  Some  X-ray  diffraction  patterns  are  shown  in  Fig.  1. The  solid  phase  synthesis  method  [LiZr2(PO4)3 {I}]  gave  the materials  of  NASICON  structure,  crystallizing  in  monoclinic  and orthorhombic  syngony  in  relation  1:3.  The  samples  contain  no  more
+
+Table  1 Unit  cell  parameters  and  particle  size  of  framework  phosphate  studied.
+
+NaZr2(PO4)3 I (solid  phase  method) LiZr2(PO4)3 I  (solid  phase  method)  LiZr2(PO4)3 II  (Pecini  method)  Li1.2Zr1.8In0.2(PO4)3 II  (Pecini method) (H3O)Zr2(PO4)3 III  (Hydrothermal method) (H3O)Zr2(PO4)3 IV  (Ion  exchange) 
+
+than  5%  of  Zr2P2O7 admixture.  It  is  explained  by  low  sintering  temperature  that  was  selected  in  order  to  obtain  low  particles  size.  The samples  [(LiZr2(PO4)3 {II}   and  Li1.2Zr1.8In0.2(PO4)3 {II}]  prepared by  Pecini  method  had  the  NASICON  structure  and  were  crystallized in  orthorhombic  syngony  (Fig.  1).
+
+The  samples  (H3O)Zr2(PO4)3 {III}
+
+in Initial  Cu0.5Zr2(PO4)3 for  (H3O)Zr2(PO4)3   preparation  was  prepared  by  sol-gel  method.  Phosphate   contains  up  20%  of  Cu0.5Zr2(PO4)3 due  to
+
+hexagonal  syngony.  {IV} (H3O)Zr2(PO4)3 {IV} incomplete  ion  exchange  during  its  preparation.
+
+The  unit  cell  parameters  of  synthesized  framework  phosphates are  shown  in  Table  1,  as  well  as  the  size  of  particles,  calculated  from the  X-ray  data.  The  particle  size  depends  strongly  on  the  synthesis  method.  Thus,  Pecini  method  application  gives  much  smaller particles  than  that  of  solid  phase  method  owing  to  forming  of  particles  in  rigid  polymer  matrix,  which  limits  their  size,  and  lower temperature  of  treatment.
+
+The  speciﬁc  surface  area  of  the  prepared  samples  depends  both on  the  method  of  preparation  (Table  2)  and  the  temperature  of  samples  synthesis.  Pecini  method  gives  the  higher  speciﬁc  area.  The minimal  surface  area  was  obtained  at  the  synthesis  temperature  of 800 ◦C.  It  can  be  mentioned  that  the  increase  in  synthesis  temperature  from  600 ◦C  to  1000 ◦C  for  NaZr2(PO4)3 results  in  the  speciﬁc surface  area  decrease  from  63  m2/g  to  8  m2/g  [23].
+
+The  synthesized  framework  phosphates  are  shown  to  be  the active  catalysts  of  ethanol  transformations  into  hydrocarbons.  At the  temperatures  below  300 ◦C  the  basic  products  of  ethanol  conversion  are  hydrocarbons  C2 and  diethyl  ether  (DEE).  The  further temperature  increasing  up  to  400 ◦C  causes  the  C3–C6 hydrocarbons  formation  depending  on  the  type  of  cations  in  phosphate structure. The  Fig.  2  presents  the  temperature  dependences  of  ethanol  conversion  on  NaZr2(PO4)3 {I}   and  Li-containing  catalysts,  prepared by  different  methods.  All  samples  gave  practically  the  complete ethanol  conversion.  However,  the  temperature  intervals  of  process depend  strongly  on  the  particle  size  (surface  area)  and  on  catalyst composition.  Thus,  in  the  case  of  NaZr2(PO4)3 {I}   and  LiZr2(PO4)3 {I},  obtained  by  solid  phase  method,  the  temperatures  of  process beginning  were  much  higher  than  that  for  catalysts,  prepared  by Peceni  method  (curves  3  and  4,  Fig.  2).  This  fact  may  be  explained by  above-mentioned  higher  speciﬁc  area  of  samples,  prepared  by
+
+Table  2 Temperature  of  synthesis  and  characteristics  of  materials  studied.
+
+NaZr2(PO4)3 I  600  LiZr2(PO4)3 I  800  LiZr2(PO4)3 II  650  Li1.2Zr1.8In0.2(PO4)3 II  650  (H3O)Zr2(PO4)3 III  400  (H3O)Zr2(PO4)3 IV  600 
+
+Fig.  2.  Ethanol  conversion  vs  temperature  for  the  catalysts  Li1.2Zr1.8In0.2(PO4)3 (1); LiZr2(PO4)3 II  (2);  NaZr2(PO4)3 (3)  and  LiZr2(PO4)3 I  (4).
+
+Peceni  method.  Partial  zirconium  substitution  in  LiZr2(PO4)3 {II}   by indium  has  decrease  the  temperature  of  the  process  beginning  as well  as  the  temperature  of  complete  ethanol  conversion  reaching (ref.  curves  1  and  2,  Fig.  2).
+
+The  distribution  of  reaction  products  is  determined  by  the  particle  size  and  catalyst’s  composition.  The  selectivity  of  NaZr2(PO4)3 {I}   and  LiZr2(PO4)3 {I}   phosphates,  prepared  by  solid  phase method,  are  compared  in  Fig.  3.  In  case  of  NaZr2(PO4)3 the  process  starts  from  DEE  formation  at  250 ◦C  (curve  1,  Fig.  3)  and  the following  ethylene  formation  (curve  3,  Fig.  3).  At  the  temperatures higher  than  350 ◦C  hydrocarbons  C3 + are  appeared.  The  yield  of  C3 + is  shown  in  Table  2.  On  the  LiZr2(PO4)3 {I}   catalyst  DEE  formed only  at  the  temperatures  from  300 ◦C  up  to  320 ◦C  (curve  2  Fig.  3). Then  only  ethylene  is  formed  at  the  temperature  range  330–450 ◦C + hydrocarbons  amounts  are  appeared  after (curve  4  Fig.  3).  Low  C3 450 ◦C  (curve  6  Fig.  3).
+
+Li-containing  samples,  prepared  by  Pecini  method,  have  showed + and  benzene  formation.  As the  high  selectivity  in  relation  of  C3 Fig.  4  shows,  that  the  basic  products  of  the  process  on  LiZr2(PO4)3 {II}   at  the  temperature  range  lower  than  330 ◦C  were  DEE  and
+
+Fig.  3.  The  temperature  dependences  of  catalysts  selectivity  (S)  toward  DEE–curves +–curves  5  and  6  for  the  samples 1   and  2;  ethylene–curves  3  and  4;  hydrocarbons  C3 of   NaZr2(PO4)3 {I}
+
+
+The  more  detail  pattern  of  hydrocarbon  products,  formed temperatures  450–500 ◦C,  studied  by  chromatomassat  the  spectrometric  analysis,  showed  that  NaZr2(PO4)3 {I}   and  Licontaining  NASICONs  are  active,  in  C3–C6 parafﬁns  and  oleﬁns formation.  It  is  found  also  the  alicyclic  hydrocarbons  C5–C6 and aromatics.  Fig.  7  shows  benzene  yield  on  the  different  framework phosphates  studied  in  this  work.  Phosphates,  prepared  by  Pecini method,  are  the  most  selective  toward  aromatics  formation.  This fact  can  be  explained  by  the  lower  catalyst’s  particles  size,  formed at  catalyst  preparation  by  this  method  (Table  1).  On  benzene  yield the  catalysts  formed  the  row LiZr2(PO4)3{II}
+
+It  is  interesting  that  only  Li1.2Zr1.8In0.2(PO4)3 gave  besides aromatics  remarkable  quantities  of  C4–C6 dienic  hydrocarbons, point  out  to  peculiar  process  of  dehydration–dehydrogenation on  this  catalyst.  For  details  of  this  process  is  need  the chromatomass–spectometric  study  in  wide  temperature  interval.   and Li1.2Zr1.8In0.2(PO4)3 {II} +   were  the  most  active  in  hydrocarbons  C3 formation  (last  column  of  Table  2).
+
+Most  probably,  the  phosphates’  activity  in  process  of  ethanol conversion  is  determined  by  Zr+4 cations,  which  are  present  on the  catalyst’s  surface.  They  have  the  highest  charge  and  polarized activity,  and  so  they  can  be  probably  the  sites  for  alcohol  adsorption.  However  the  nature  of  M+ cation  in  the  matrix  as  well  as  their
+
+Fig.  4.  The  temperature  dependences  of  catalysts  selectivity  (S)  toward  DEE–1,  2; ethylene–curves  3  and  4;  hydrocarbons  C3–C6 (curves  5  and  6)  and  acetaldehyde (curve  7)  for  the  catalysts  LiZr2(PO4)3 {II}   (curves  1,3  and  5)  and  Li1.2Zr1.8In0.2(PO4)3 {II}
+
+
+C2H4.  Hydrocarbons  C3 achieving  the  selectivity  about  25  at.%. The  peculiarity  of  indium  doped  catalyst  Li1.2Zr1.8In0.2(PO4)3 {II}   was  the  formation  of  acetaldehyde  already  at  the  temperature of  230 ◦C  simultaneously  with  appearance  of  DEE.  This  fact  may   be assigned  to  improvement  of  LiZr2(PO4)3 II  catalytic  properties  by zirconium  partial  substitution  by  indium.  In  this  case,  the  In  doping cause  the  additional  incorporation  of  lithium  ions  in  M2   position where  their  mobility  is  signiﬁcantly  higher  [24]. The  Fig.  5  presents  the  temperature  dependence  of  ethanol   and  (H3O)Zr2(PO4)3 {IV}.  It  is conversion  on  (H3O)Zr2(PO4)3 {III} evident  that  catalyst  prepared  by  hydrothermal  method  is  more active  than  that  one  prepared  by  ionic  change  (curves  1  and  2, Fig.  5).  Since  the  speciﬁc  surface  area  for  both  (H3O)Zr2(PO4)3 samples  did  not  differ  within  the  error  (Table  2),  this  result  may be  explained  by  incomplete  replacement  of  copper  in  the  sample (H3O)Zr2(PO4)3 {IV}.  In  this  case  the  mobility  of  H3O+ decreases strongly  [25].
+
+It  is  logical  to  assume  that  the  process  of  ethanol  transformation  on  framework  phosphates  takes  place  through  the  mechanism of  acid  catalysis.  Therefore,  the  use  of  materials  with  protoncontaining  groups  could  lead  to  results,  better  than  that  of  Li and Na-containing  catalysts.  However  all  these  catalysts  gave  the  similar  pattern  of  temperature  dependence  of  ethanol  conversion  (refer curves  2–4  of  Fig.  2  and  curves  of  Fig.  5).
+
+The  products  distribution  on  the  (H3O)Zr2(PO4)3 {III}
+
+  catalyst had  some  peculiarities.  It  gave  the  practically  100%  yield  of  ethylene  at  the  temperatures  as  high  as  400 ◦C  (Fig.  6  curve  3),  i.e. this  catalyst,  prepared  by  hydrothermal  method,  shows  only  dehydration  activity.  On  the  (H3O)Zr2(PO4)3 {IV}   sample  up  to  22% + were  formed  besides  ethylene  at  temperaof  hydrocarbons  C3 tures  as  high  as  340 ◦C  (Fig.  6  curves  4  and  5).  This  difference between  (H3O)Zr2(PO4)3 {III}   catalysts
+
+  Fig.  5.  Ethanol  conversion  vs  temperature  for  the  catalysts  H3OZr2(PO4)3 {III} (curve  1)  and  H3OZr2(PO4)3 {IV}
+
+Fig.  7.  Benzene  yields  (Y)  at  the  temperature  500 ◦C  for  the  catalysts  NaZr2(PO4)3 (1),  Li1.2Zr1.8In0.2(PO4)3 (2),  LiZr2(PO4)3 I  (3)  and  LiZr2(PO4)3 II  (4).
+
+mobility  also  essentially  determine  the  rate  and  the  direction  of catalytic  processes.
+
+The  series  of  framework  phosphates  of  NASICON  type  was synthesized  by  different  methods  and  their  activity  in  ethanol  conversion  to  hydrocarbons  was  studied  for  the  ﬁrst  time.  It  was  shown that  these  materials  are  promising  catalyst  of  hydrocarbons  production  from  ethanol.  At  the  temperatures  as  high  as  400 ◦C  the selectivity  to  hydrocarbons  up  to  95%  was  achieved,  the  product distribution  being  depended  on  the  type  of  NASICON-cation  and catalyst’s  synthesis  method.

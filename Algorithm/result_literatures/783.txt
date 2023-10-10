@@ -1,0 +1,9 @@
+Searching the portable, high-energy, and safe storage technologies for lithium-ion batteries (LIBs) remains one of the paramount motivations for material researchers.
+Until now, new cost-effective electrode materials have been used in the largescale rechargeable LIBs.
+As one classic example, the olivinestructured LiFePO4 cathode has risen to prominence as a key material for batteries in many commercial applications.
+The LiFePO4 exhibits specific capacity as high as 140−160 mAh g−1 with excellent cycling performance.
+However, compared to layered oxides, the energy density of LiFePO4 is limited by the low operating voltage due to the low potential of Fe2+/Fe3+ redox couple.
+The reversible redox couple of Fe3+/Fe4+, which can provide a higher operating voltage and subsequently a higher specific energy density, has not been successfully demonstrated in LIBs.
+This is mainly because the +4 oxidation state is not common for iron and a stable Fe4+ state was only found in a few examples such as perovskites and related oxides.
+Furthermore, from a battery manufacturer standpoint, a prime importance is always given to the material abundance, while designing an electrode, i.e., iron, which is an abundant element in nature while lithium is not.
+As a natural course, researchers have started to focus on the iron-based cathode materials for rechargeable sodium-ion batteries (SIBs) because both sodium and iron are some of the most abundant and nontoxic materials found in nature.

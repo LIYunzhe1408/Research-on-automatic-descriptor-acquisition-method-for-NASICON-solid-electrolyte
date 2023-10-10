@@ -1,0 +1,15 @@
+Na-ion conducting Na1+x[SnxGe2-x(PO4)3] (x=0,0.25,0.5 and 0.75 mol%) glass samples with NASICON-type phase were synthesized by melt quenching method and glass-ceramics were formed by heat treating the precursor glasses at their crystallization temperatures.
+XRD traces exhibit formation of most stable crystalline phase NaGe2(PO4)3 (ICSD -164019) with trigonal structure.
+Structural illustration of sodium germanium phosphate [NaGe2(PO4)3] displays that each germanium is surrounded by 6 oxygen atom showing octahedral symmetry (GeO6) and phosphorous with four oxygen atoms showing tetrahedral symmetry (PO4).
+The highest bulk Na+ ion conductivities and lowest activation energy for conduction were achieved to be 8.39x10-05 S/cm and 0.52 eV for the optimum substitution levels (x=0.5 mol%, Na1.5[Sn0.5Ge1.5(PO4)3]) of tetrahedral Ge4+ ions by Sn4+ on Na-Ge-P network.
+CV studies of the best conducting Na1.5[Sn0.5Ge1.5(PO4)3] glass-ceramic electrolyte possesses a wide electrochemical window of 6V.
+The structural and EIS sstudies of these glass-ceramic electrolyte samples were monitored in the light of the substitution of Ge by its larger homologue Sn.
+DTA traces of Na[SnxGe2-x(PO4)3] glass and glass-ceramic samples pointed out that the sample containing x= 0.5 mol% (Na1.5Sn0.5Ge1.5(PO4)3) exhibits the highest chemical stability against crystallization before and after heat treatment ( T= 66 & 60).
+The main parent ion- conducting and most stable crystalline phase well to trigonal NaGe2(PO4)3 (ICSD -164019) with space group (R-3 (148) H) framework, however, the crystalline phase NaSn2(PO4)3 was not present, as suggested by XRD traces.
+The unit cell volume is observed to be highest (1274 Å) for the highly de-polymerized and best conducting glass-ceramic sample (Na1.5Sn0.5Ge1.5(PO4)3) which is ascribed due to the partial substitution of tetrahedral Ge4+ by Sn4+ ions successfully within the NaGe2(PO4)3 (NASICON) structure.
+Structural illustrations revealed that the distance between planar layer of germanium (9.98 Å) show a free void path for migration of Na ions.
+These free wider paths for the transmission of Na+ ions of glass-ceramic electrolyte sample are due to R-3 (148) H space group of the Na2Ge(PO4)3 crystal phase which paves the way to form higher concentration of Na-ion conducting path ways leading to achieve the ionic conductivity significantly.
+The SEM micro structure reveals that the grain size of major conducting crystalline phase in the sample heat treated at 638 K is dense and much more uniform in nature than that of sample heat treated at 800 K.
+The bulk conductivity is achieved to be highest (= 8.39x10-05 S/cm) for the Na1.5[Sn0.5Ge1.5(PO4)3] glass-ceramic sample and slightly increases to 8.42 x10-05 S/cm when it is heat treated to 700 K at 6 hrs without much variation in their activation energies.
+CV studies of the best conducting Na1.5[Sn0.5Ge1.5(PO4)3] glass-ceramic electrolyte possesses a wide electrochemical window of 6V.
+Thus, Na1.5[Sn0.5Ge1.5(PO4)3] glass-ceramic electrolyte composition has a great potential for use in Na- ion batteries as a safer and room temperature electrolyte.

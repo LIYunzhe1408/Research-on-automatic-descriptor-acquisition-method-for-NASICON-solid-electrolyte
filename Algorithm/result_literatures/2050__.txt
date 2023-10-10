@@ -1,0 +1,97 @@
+Journal of Non-Crystalline Solids 293±295 (2001) 709±714
+
+Abstract
+
+ZrO2-de®cient compositions of NASICON Na1xZr2 x=3SixP3 xO12 2x=3 where 0 6 x 6 3) have been prepared in glassy form (sodium superionic conducting glass (NASIGLAS)) using the melt quench method. The corresponding glass-ceramics have also been produced by heat treatment at appropriate temperatures identi®ed from DTA. From 29Si MAS NMR, it is found that [SiO4] tetrahedra are predominantly Q2 species for composition x  3:0, but are mixed Q2±Q3 for x < 3. Crystalline Na2ZrSi2O7 is found in all the corresponding glass-ceramic samples. The complex plane impedance method was used to determine the conductivity of NASIGLAS, which appears to be a complex function of mobility and concentration of Na. 23Na NMR indicates anomalous motion when x  2:5. Low solubility of ZrO2 is noticeable in glasses with low value of x. Ó 2001 Elsevier Science B.V. All rights reserved.
+
+1. Introduction
+
+In 1981, Von Alpen and co-workers [1] reported ZrO2-de®cient compositions Na1xZr2 x=3SixP3 xO12 2x=3 ± NASICON) and high ionic conduction was obtained in the range 1:6 6 x 6 3:0. The amorphous forms of these ZrO2-de®cient compositions were prepared ®rst by Susman et al. in 1983 [2] and generically termed NASIGLAS (sodium superionic conducting glass). It was proposed as an electrolyte material for battery technology since, in common with the related crystalline phase, NASIGLAS exhibited fast-ion conduction. High ionic conduction was also found in NASIGLAS compositions produced using the sol±gel technique [3,4]. Clearly, preparing superionic material in amorphous form may have some advantages such as ease of fabrication, high volume production, good mechanical
+
+strength and low cost. Considering these advantages and its high ionic conduction, NASIGLAS is a promising electrolyte material for a variety of electrochemical devices.
+
+glass
+
+In this work, we have prepared NASIGLAS samples using conventional melt quenching. Four compositions were selected from the Na2O± ZrO2±SiO2±P2O5 forming region, with x  2:25, 2.50, 2.75 and 3.00. To establish greater understanding of NASIGLAS material, which could contribute to the improvement of properties, information on structure has been derived from nuclear magnetic resonance (NMR) and related to ionic conductivity.
+
+2. Experimental
+
+2.1. Glass preparation
+
+* Corresponding author. Tel.: +44-24 7652 3415; fax: +44-24
+
+The glass samples were prepared from 50 g batches containing the appropriate amounts of starting materials NaCO3, ZrO2, SiO2 and Na2HPO4,
+
+0022-3093/01/$ see front matter Ó 2001 Elsevier Science B.V. All rights reserved. PII: S 0 0 2 2 3 0 9 3 ( 0 1 ) 0 0 7 8 1 5
+
+A. Niyompan, D. Holland / Journal of Non-Crystalline Solids 293±295 (2001) 709±714
+
+accurately weighed and mixed to provide the stoichiometries Na1xZr2 x=3SixP3 xO12 2x=3 (x  2:25, 2.50, 2.75, 3.00). These glass batches were melted in a Pt/10% Rh crucible in air using two melting steps; 1600 °C for 2 h, followed by 1650 °C for 40 min. The melts were quenched in cold water, dried for several hours and glass frit produced. After remelting, two sample shapes, sheet and rod, were formed by casting onto a steel plate or quenching into a steel mould, respectively. The glasses were annealed at the appropriate temperature identi®ed from dierential thermal analysis (DTA).
+
+2.2. Glass characterisation
+
+The densities (q) of the glass samples were determined using Archimedes' principle with distilled water as the displacement ¯uid. The glass transition temperatures (Tg) and crystallisation temperatures (Tc) were determined by DTA using a heating rate of 5 K/min. Using the observed Tc, the corresponding glass-ceramics were produced by heat treatment for 4 h at temperature. X-ray diraction (XRD-CuKa1) was used to con®rm the amorphicity of glass samples and to identify crystalline phases formed in the glass-ceramic samples.
+
+29Si MAS NMR was carried out at 7.05 T (Bruker, MSL300) and 29Si resonance frequency m0  59:70 MHz. The single pulse experiment used a 20 ls pulse width and 30 s time delay for p=2 pulses and a spinning speed of 3.7 kHz was applied. The chemical shifts d29Si were referenced to tetramethylsilane (TMS). The 23Na spectra were acquired at 8.45 T (Bruker, MSL360) and 23Na resonance frequency 95.26 MHz. The sample spinning rate was 10 kHz and a p=2 pulse width of 2 ls and repetition time of 1 s were employed. Chemical shifts d23Na were referenced to NaCl solution. 31P spectra were acquired at 8.45 T (m0  145:78 MHz). A pulse width of 2 ls and repetition time of 10 s were employed and (d31P) was referenced to NH4H2PO4 (d31P  0:4±0:9 ppm with respect to H3PO4).
+
+2.3. Electrical conductivity measurement
+
+Ionic conductivity of NASIGLAS was measured on disks cut from rod. Both surfaces were
+
+polished to a 6 lm ®nish and electrodes formed by sputtered Pt. The conductivity of the glass disks (thickness about 3 mm) was analysed from 1 Hz to 1 MHz at temperatures from 100 °C to about 300 °C. A Solartron impedance analyser was used to collect the impedance data and the complex plane impedance method was used to determine the conductivity of the glass samples [5].
+
+3. Results
+
+XRD of the glass samples con®rmed the absence of any crystalline phase, within the detection limit of the equipment, for x  3:00 and 2.75. A few, very small crystal peaks were seen for x  2:50 and 2.25. Glass compositions, density, Tg, Tc and details of crystalline phases formed in the glass-ceramic samples, are summarised in Table 1. It can be seen that density increases and Tg decreases with increasing x. Figs. 1 and 2(a) and (b) show the MAS NMR spectra of 29Si; 31P and 23Na, respectively. The results of Gaussian ®tting of the 29Si and 31P spectra are included in Table 2. The Arrhenius plots of the dc conductivities of the NASIGLAS samples are shown in Fig. 3. The formula r  r0 exp Ea=RT was used to obtain values of Ea, the transport activation energy of Na. The preexponential term r0 is assumed to be non-temperature dependent. Conductivities of NASIGLAS at around 300 °C and activation energies are reported in Table 3.
+
+4. Discussion
+
+4.1. Glass samples and corresponding glass-ceramics
+
+On quenching the glass melt, transparent clear glasses were obtained but trace amounts of crystalline ZrO2 were present for x  2:50 and 2.25. The observation of ZrO2 indicates that the solubility limit of this component is being reached. Densities decrease as SiO2 content decreases. This is despite the fact that SiO2 is being replaced by heavier ZrO2 and P2O5, i.e., the increased mass of
+
+A. Niyompan, D. Holland / Journal of Non-Crystalline Solids 293±295 (2001) 709±714
+
+Table 1 Composition, density (q), glass transition temperature (Tg) and crystallisation temperature (Tc) of NASIGLAS and the crystalline phases formed in the corresponding glass-ceramic samples (P  Na2ZrSi2O7, NC  Na4ZrSi3O10, NS  Na2SiO3, Un  unidenti®ed) Phase formed in x glass-ceramics
+
+Composition (mol%)
+
+Sample
+
+1293) was found to form in all samples although Tc for this phase increased with ZrO2 content. In addition, Na4ZrSi3O10 also formed from G1 and G4. At high SiO2 content (G1 and G2), Na2SiO3 was also found.
+
+4.2. 29Si, 31P and 23Na spectra
+
+The results of peak ®tting the 29Si spectra are summarised in Table 2. By referring to the shift ranges observed in binary alkali±silicate glass systems [6], it can be deduced that the [SiO4] tetrahedral unit is predominantly Q2 in sample G1 but mixed Q2±Q3 in other samples. The intensity ratio for Q3=Q2 for G1, G2, G3 and G4 was observed to be 0, 0.16, 0.60 and 1.55, respectively. Additionally, line widths of 29Si spectra increase slightly when x decreases. In crystalline NASICON, the line width has maximum value at x  1:5 [7].
+
+31P resonances with chemical shifts around 15, 6 and 0 ppm represent the contributions from P0, P1, and P2, respectively. These are summarised in Table 2. At low mol% of P2O5, most [PO4] tetrahedra are orthophosphate (P0) species but when more [PO4] is added, pyrophosphate P1 and metaphosphate P2 increase in concentration [8]. Therefore, as the concentration of P2O5 is increased, there is increasing polymerithe phosphate units P0 ! P1 ! P2. sation of This means that less Na is being removed from the silicate network to associate with phosphate units.
+
+Fig. 3 shows the 23Na MAS spectra of NASIGLAS. The spectra of G1, G2 and G4 are very
+
+Fig. 1. 29Si MAS spectra of NASIGLAS acquired at 7.05 T and sample spinning rate 3.7 kHz. A small chemical shift range has been used to emphasise the dierences in the spectra and the spinning sidebands are therefore not shown.
+
+the components is oset by an increasing number of network units. From XRD of heat-treated samples, crystalline Na2ZrSi3O7 (PDF No. 29-
+
+A. Niyompan, D. Holland / Journal of Non-Crystalline Solids 293±295 (2001) 709±714
+
+Fig. 2. (a) 31P MAS, (b) 23Na MAS spectra of NASIGLAS, acquired at 8.45 T and sample spinning rate  10 kHz. Note that the 31P chemical shift is relative to NH4H2PO4 (d31P  0:4±0.9 ppm w.r.t. H3PO4).
+
+Table 2 Results from Gaussian ®tting of 29Si, 31P; d is chemical shift, W is line width (FWHM), Q2 and Q3 are the [SiO4] units, P0, P1 and P3 are the [PO4] units, PPNa and WNa are the peak position and the line width of 23Na spectra, respectively Sample Q2
+
+similar, but the line width of the 23Na spectrum from G3 is twice that of the others and the chemical shift is about )5 ppm, very dierent from )19 to )16 ppm observed for the other three samples. This spectrum is reproducible for dierent samples of G3 from both the same and different melt preparations. The Lorentzian lineshape of the 23Na resonance from this particular sample indicates that the width is dominated by T2 (the spin±spin relaxation time, which is inversely proportional to spectrum linewidth) rather than dipolar interactions [11]. The implication of this is
+
+that the Na ions are undergoing very dierent motion in sample G3 than in the other compositions.
+
+The environment of Zr atoms in the glass framework was not investigated in this study but has been reported to take the form of ZrO6 octahedral units [10].
+
+4.3. Ionic conductivity
+
+Conductivity is a combination of concentrathese
+
+tion of mobile species and mobility of
+
+A. Niyompan, D. Holland / Journal of Non-Crystalline Solids 293±295 (2001) 709±714
+
+5. Conclusion
+
+The glassy form of ZrO2-de®cient NASIGLAS has been successfully prepared using convention melt-quench. The glasses obtained have Tg values in the range 675±857 °C and Tc in the range 786± 910 °C. All corresponding glass-ceramic samples, prepared by heat treatment, contain crystalline Na2ZrSi2O7 as a major phase. The short-range structure of NASIGLAS is controlled by silicate and phosphate networks combined with intermediate ZrO2 and modi®er Na2O. Anomalous Na motion is detected when x  2:5. In further work, more investigations will be carried out on G3 and some adjacent compositions and high temperature NMR will be employed to study Na motion in all samples.

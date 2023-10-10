@@ -1,0 +1,95 @@
+A novel tube shape CO2 gas sensor based upon interfacing two composite solid electrolytes-Nasicon/glass and Sr–β–Al2O3/YSZ with a BaCO3/Na2CO3 (4:6) auxiliary electrode has been investigated. 
+In the sensor, Nasicon/glass is melted in Sr–β–Al2O3/YSZ tube, BaCO3/Na2CO3 (4:6) placed on top surface of Nasicon/glass as auxiliary electrode and Pt coating on outer surface of Sr–β–Al2O3/YSZ tube as reference electrode. 
+The experimental results have shown that the sensor has excellent sensing performance. 
+The relationship between emf of the sensor and logarithm of partial pressure of CO2 is linear over a concentration range of 12–10,000 ppm at a fixed temperature. 
+The oxygen content in mixture gas does not affect response signals of the sensor. 
+Up to 100 ppm NO2 does not change sensor performance. 
+SO2 is a serious interference gas due to its reaction with electrolyte and carbonates sensing electrode. 
+The tolerable limit of the CO2 sensor to SO2 was 1.7 ppm. 
+
+Over last decades, potentiometric CO2 sensors based on solid electrolyte for continuously detecting CO2 have widely been developed in order to meet human need in production and environmental improvement. 
+In order to solve the problems of long-term stability and O2 interference, one of the methods is to adopt an open reference electrode structure, that is, making sensing electrode and reference electrode exposed to same test gas. 
+In order to realise this design, three different configuration of CO2 sensors has been developed, that is, planar-type CO2 sensors based on a single electrolyte, CO2 sensors with a open reference electrode  and CO2 sensors based on interfacing two electrolytes. 
+Among the bielectrolyte solid state sensors, most of them are based on oxygen ion conductor (YSZ)/ cation (Na+, Li+ Al3+) conductor junction. 
+Two sodium conductors junction is also used for CO2 sensor. 
+Sr–β–Al2O3 is a good Sr2+ conductor and its preparation and properties have been studied. 
+Additive such as YSZ was found to improve the sintered densities of Sr–β–Al2O3. 
+Based on Sr–β–Al2O3 electrolyte, some sensors for SO2 and S have been developed.
+In this study, a new CO2 gas sensor based upon interfacing two composite solid electrolytes-Nasicon/40 wt.% Na2O·Al2O3·4SiO2 glass (Na+ conductor) and Sr–β–Al2O3/YSZ (Sr2+ conductor) with a BaCO3/Na2CO3 (4:6) auxiliary electrode is prepared. 
+Sensing performance of sensors was investigated. 
+Crosssensitivity is vital for a practical application of a CO2 sensor, because an exhaust gas commonly contains various gases. 
+Miura et al. have studied and reported influence of O2, NO2 and SO2 on CO2 sensor and found that a binary carbonate auxiliary electrode, such as Na2CO3/BaCO3 can minimise the effect of the humidity, NO2 and SO2 during operation.
+So, in the paper, cross-sensitivity to O2, NO2 and SO2 of the prepared CO2 sensors was also investigated.
+
+Nasicon [Na3Zr2Si2PO12] electrolyte was prepared by direct solid state reaction. 
+Sodium carbonate, zirconium oxide, silicon dioxide and ammonium dihydrogen phosphate was used as starting materials without further purification. 
+They were weighed according to the required ratio and ground in a ball mill for 24 h. 
+The mixture was calcined at 483 K for 5 h to decompose NH4H2PO4, and then at 1173 K for 6 h to decompose Na2CO3 in air. 
+After calcination, the mixture was milled again for 12 h. 
+Sodium aluminosilicate glass, Na2O–Al2O3–4SiO2, was prepared from sodium carbonate, silicon dioxide and alumina powder. 
+The mixture was ball milled with acetone, and then the dried powder was calcined in air at 1173 K for 4 h. 
+The Nasicon precursor powder and Na2O–Al2O3–4SiO2 (100:40 by weight) was mixed by ball milling for 12 h. 
+The dried powder was used for fabricating sensors. 
+Sr–β–Al2O3/YSZ tubes (14 mm long by 6 mm diameter) were prepared as follows. 
+Strontium carbonate, magnesium oxide and αalumina (molar ratio = 1:0.6:6) were mixed and subjected to calcining, and then mixed with 10 wt.% of the 3 mol% Y2O3 stabilized ZrO2 powder, pressed and sintered at 1923 K. 
+The Nasicon plus glass composite powder was filled inside the Sr–β–Al2O3 thimble-shaped tube containing Pt wire, then heated and melted to form a compact solid plug at 1473 K for 2 h. 
+The Nasicon/glass composite electrolyte formed a tight bond to Sr–β–Al2O3 tubes. 
+Pt electrode lead was attached by Pt ink onto the outer surface of the Sr–β–Al2O3 electrolyte tube and fired at 1123 K for 30 min. 
+The active auxiliary electrode (Na2CO3/BaCO3 (weight ratio 44:56)) on top surface of the Nasicon/glass electrolyte was introduced by painting a saturated solution of Na2CO3/BaCO3 and drying at 373 K.
+
+The CO2 sensors were tested at varying CO2 concentrations in the range of 12 ppm to 10,000 ppm. 
+Synthetic air with a constant O2 concentration of 0.21 vol.% has been used as carrier gas (except for the study of oxygen partial pressure dependence of the sensor emfs where pure Ar was used). 
+Effect of O2, NO2 and SO2 was carried out by introducing different amount into the CO2 gas mixture. 
+Measurements were carried out on a gas-flow apparatus equipped with a heating furnace. 
+The electromotive force (emf) of the sensors was measured with a digital electrometer and transferred to a computer-based data collecting system.
+
+The electrochemical cell may be expressed as follows:The cell can be divided into two halves cells separated by the interface between the two electrolytes. 
+One is a Sr2+ conducting cell, while the other one is a Na+ conducting cell. 
+The cell reactions are given below. 
+At the sensing electrode, CO2 reacts with Na+ and oxygen to form sodium carbonate. The cathodic reaction can be expressed as:
+At the reference electrode, the anodic reaction is.
+At the interface between the two electrolytes, the following ion exchange reaction is presupposed.
+Since the atmosphere is common to both the electrodes, the oxygen partial pressure is identical at both the electrodes. 
+Therefore the overall cell reaction is.
+The following Nernstian equation can describe the emf change as a function of the partial pressure of carbon dioxide.
+Where ΔG0 is the standard free energy of the reaction (4), αNa2O is the activity of Na2O in the Nasicon/glass, PCO2 is the partial pressure, αNa2CO2 is the activity of Na2CO3 in the auxiliary electrode and a constant at fixed temperature, and RT/F has the usual meaning.
+Figs. 1 and 2 show sensor response and relationship between emf and CO2 concentration at 781 K. 
+We can see that CO2 sensor can properly work at gas concentration 12 to 10,000 ppm. 
+The relationship between emf and logarithm of partial pressure of CO2 is linear. 
+The slope of calibration curve is 62.6 mV/decade. 
+The electron transferred number in the above reaction is 2.4, which is close to theoretical value. 
+The emfs were stable and reproducible and the response time for 90% response was approximately 30 s.
+
+The postulated detection mechanism has clearly shown that although oxygen is involved in both electrode reactions, the PO2 pressure term does not appear in the overall reaction, which implies that the sensor emf values should be independent of oxygen partial pressure in the gas phase, because both electrodes were exposed to an identical gas mixture. 
+The emf output variation with the oxygen content in the mixture gas where the CO2 concentrations are fixed at three different values of 75 ppm, 478 ppm and 2514 ppm is presented in Fig. 3. 
+It can be seen that irrespective of the oxygen content, the emf output remains constant at a fixed CO2 concentration, showing that any interference from oxygen is not observed.
+
+
+Fig. 4 shows the results of the emf measurement for a CO2 sensor with different content of NO2 coexistence with CO2 at 781K. 
+According to results one can note that the presence of NO2 up to 112 ppm in the test gas with CO2 had not obvious influence on the emf. 
+With NO2 content increase, emf of the sensor tends to decrease. 
+The emf shift is possibly caused by the formation of NaNO3 on sensing electrode.
+If the reaction of formation of NaNO3 takes place on sensing electrode, the reaction is as follows: 
+If O2 content is fixed at 0.21 atm, the stable conditions of auxiliary electrode in NO2 atmosphere can be evaluated based on the thermodynamic data of compounds involved. 
+When CO2 content is low and NO2 content is high, then NaNO3 formation is thermodynamically favoured.
+Because NaNO3 is relatively unstable at high temperature, it can decompose in the absence of NO2, thus on removal of NO2 the emf values of sensor can return to the original values.
+
+Another important pollutant that frequently appears in the emitted gas is SO2. 
+According to thermodynamic data, Na2SO4 is much more stable than Na2CO3 and sodium sulphate can easily be formed on the surface of auxiliary electrode. 
+The reaction equation can be expressed Na2CO3 þ SO2 þ 1=2O2 ¼ Na2SO4 þ CO2.
+Based on the standard free energies of formation for SO2, CO2, Na2CO3 and Na2SO4, the stable conditions of auxiliary electrode in SO2 atmosphere can be evaluated when O2 is fixed at 0.21 atm. 
+At normally operating temperature (673–873 K) of CO2 sensor Na2SO4 will easily be formed on surface auxiliary electrode even at SO2 concentrations lower than 0.1 ppb. 
+According to calculation results, in order to keep sodium carbonate to be stable phase in a mixture gas containing 0.1 ppb SO2, the CO2 partial pressure has to be higher than 106 atm (PO2 = 0.21 atm).
+In practical application, however, the formation of sodium sulphate also depends on kinetic factors. 
+In order to determine the effect of co-existence of SO2 with CO2 on sensor performance, when SO2 content was fixed at different values, emf variation with CO2 concentrations is presented in Fig. 5. 
+Up to 1.7 ppm SO2 in test gas can be tolerated without interference during CO2 sensing probably due to kinetic factors. 
+The deviation of the measured emf from the original values becomes obvious at SO2 higher than 1.7 ppm. 
+It is noted that although cross-sensitivity effects appear at SO2 content more than 1.7 ppm, for a given SO2 content the relationship between emf and logarithm of CO2 partial pressure is still linear. 
+This continuous and predictable shift can be used to cope with crosssensitivity.
+
+A new CO2 gas sensor based upon interfacing two composite solid electrolytes-Nasicon/40 wt.% Na2O·Al2O3·4SiO2 glass and Sr–β–Al2O3/YSZ with a BaCO3/Na2CO3 (4:6) auxiliary electrode and a Pt/O2 reference electrode has been designed and tested. 
+The results have shown that the measured emf of the sensor varied linearly as a function of logarithm of partial pressure of CO2 over a concentration range of 12–10,000 ppm in the experimental temperature range. 
+The emfs were stable and reproducible and the response time for 90% response was approximately 30 s. 
+The interference test shows that any interference from oxygen is not observed. 
+Because nitrate salt is not stable at high temperature, up to 100 ppm NO2 does not affect sensor performance. 
+The highly stable sulphate salts make SO2 a serious interference gas due to its reaction with carbonates auxiliary electrode. The tolerable limit of the CO2 sensor to SO2 was up to1.7 ppm.

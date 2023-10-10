@@ -1,0 +1,14 @@
+A composition of NASICON (Na3Zr2Si2PO12)was synthesized by the solid-state reaction method using anew compound Na2HPO42H2O.
+The X-ray diffraction patterns of all samples exhibit monoclinic Na3Zr2Si2PO12 asa major phase with a very small amount of monoclinic-ZrO2. The maximum relative density (97 %) and maximumconductivity is obtained in the samples sintered at 1200 ◦C(N3) which is slightly higher than β-Al2O3. The activationenergy is ∼ 0.20 eV for the N3 sample which is lower thanfor β-Al2O3. The dilatometeric study and Arrhenius plotsconfirmed a phase transition of NASICON from monoclinicto rhombohedral.
+The micro-structural study of the samples done by scanning electron microscopy (SEM) indicateda significant influence of the processing conditions on themicrostructures.
+Raman spectroscopy demonstrated that thesample N3 exhibits minor structural changes compared toother samples.
+The X-ray diffraction confirmed the presence of monoclinic-Na3Zr2Si2PO12 phase along with minor secondary phases.
+The crystallite size and volume fraction ofthe m-Na3Zr2Si2PO12 phase increased as the sintering temperatureincreased from 1100 ◦C-1200 ◦C.
+The ICP-AESresults show the loss of P that leads to the high contentof Na in the present samples.
+The sample sintered at 1200◦C (N3) shows a better thermal expansion coefficient andconductivity than other samples.
+The TEC of the N3 sampleis in the same range as required for Na/S batteries.
+Moreover, the observed conductivity of the N3 sample isslightly higher than that of the β-Al2O3 solid electrolytes.
+The presence of a liquid phase in all samples is observedwhich corresponds to well densified grains.
+The faceted morphology observed for samples sintered at 1200 ◦C indicate swell grown crystals.
+Raman analysis demonstratedthat the sample N3 showed less structural change as comparedto other samples.
+The present N3 sample can be usedas a solid electrolyte in Na/S batteries.

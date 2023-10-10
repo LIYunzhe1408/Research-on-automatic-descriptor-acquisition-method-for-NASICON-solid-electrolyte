@@ -1,0 +1,58 @@
+A free-energy model of ionic conductors that are ferroelectric in their low-temperature phase is presented, together with data on systems that meet that description, including cesium dihydrogen phosphate, thallium antimony oxy-germanate, the ‘Nascion’ sodium scandium phosphates, and silver iodide tetratungstate. 1999 Elsevier Science B.V. All rights reserved.
+
+Keywords: Ferroelectric; Ionic conductor; Proton conductor
+
+Fast-ion conduction in the silver salt silver iodide tetratungstate, usually written as Ag I W O to display explicitly its W O ion, was discovered by Takashi et al. in 1973, the ﬁrst material ever found to be ferroelectric and a superionic conductor [1–4]. Its crystallographic structure is shown in the ab-plane projection in Fig. 1 (after Geller et al.), and its silver-ion conduction paths are shown in Fig. 2. Note that the silver conduction is three-dimensional in the laboratory frame of reference but topologically only one-dimensional [5] at each point. As shown in Fig. 3, this material is ferroelectric below 199 K and a silver-ion conductor above 277 K. Between 199 and 277 K there is a transition to a paraelectric phase at 247 K that to CsH PO (ferroelectric below 159 K and superionic above 504 K), or TlSbOGeO (T 5 286 K; T 5 272 K). Ionic conductivity in these materials has received considerable theoretical [9–15] and experimental [16–23] study.
+
+is not conducting, similar
+
+Note the small decrease in electrical conductivity from 250 to 255 K, just above the structural phase
+
+Fig. 1. Structure of silver iodide tetratungstate in the ab-plane.
+
+low-frequency modes that can reasonably be identiﬁed on the basis of their characteristic frequencies well above the transition temperatures, and comparisons with other silver iodides; the identiﬁcation of these modes as Ag-ion vibrations is compatible with earlier work on (C H NH)Ag I [19], RbAg I 4 5 5 6 [20,21], AgI [22], SrAgI ?8H O [23], and other Ag salts.
+
+These modes broaden and disappear as the ferroelectric transition is approached in temperature from below, typical of order–disorder ferroelectric phase transitions.
+
+The temperature range between 199 and 277 K may be regarded as a broad transition region in which disorder increases dramatically and conductivity increases by an order of magnitude. Such transitional regions are well known [9,10] in ﬂuorite and tysonite structures and often termed ‘Faraday transitions’. In such crystals the heat content H is a continuous function of T, but C 5 (dH/dT ) increases in this temperature regime. An essential feature of phase transitions in solid electrolytes is the interaction among mobile ions. The creation of interstitial defects leads to a change in crystal volume, and the interaction of cation interstitials with the strain ﬁeld associated with this volume leads to a state of lower free energy. If the interaction parameter l is larger than the energy E required to move an ion to an interstitial site, the transition is ﬁrst order; this is apparently always the case for protonic conductors, but it is not the case for silver iodide tungstate. If l, E, the transition is second order and rather diffuse. For Ag I W O we measure an entropy change of 0.09 cal/mol K over a lambda-shaped thermal anomaly 10 K wide. This is a perfectly second-order phase transition characterized by a low-frequency Ag vibration that overdamps.
+
+The Landau–Devonshire free energy description of an ordinary ferroelectric–paraelectric phase transition assumes that the free energy F(x,T ) is a function of the displacement from equilibrium x of an ion that is polarizable
+
+phase transition at 250 K. This is reproducible but occurs only for ceramic samples, not single crystals; it is a positive temperature coefﬁcient resistivity (PTCR) probably similar to that in perovskite oxide ceramics and presumably arises from grain-boundary effects.
+
+The dielectric properties at low temperatures are perfectly Curie–Weiss, with a ﬁrst-order phase transition at 199 K, a Curie constant of 1060 K in the paraelectric phase (and an extrapolated Curie temperature of 160 K)
+
+and below 199 K
+
+The fact that the ratio of slopes below and above the transition temperature is much larger than 2:1 has nothing to do with non-mean ﬁeld descriptions; it arises in mean ﬁeld models when higher-order terms including strain are included (Fig. 4).
+
+The fact that it is the silver ions that are responsible for the ferroelectric order–disorder transition is shown by the Raman spectra in Fig. 2. These show
+
+The d-phase below 199 K is ferroelectric with Curie constant 1.06310 K and Curie temperature 160 K; (right) the phase transition is ﬁrst-order with heat of transition 161 cal/ mol and entropy change of 0.80 cal/ mol K.
+
+vided it is the same ion whose displacement causes ferroelectricity as is involved in fast-ion conduction (which is true in silver iodide tetratungstate), we have an interesting free energy potential in which it moves: for small displacements (and small voltages) it will ﬂip back and forth between two potential minima, whereas for large voltages (greater than the height of the barrier between the double well) it will move without bounds. Thus the ionic conduction in this kind of system will occur only above a threshold voltage, typically 1–10 meV (12 to 120 K, the height of the barrier between the double wells). Hence, careful measurements of the current–voltage characteristics should be made in the 0.01 V range; to the author’s knowledge, this has not yet been done.
+
+the phase transition is in directly from ferroelectric to superionic, as Na Sc (PO ) ; whereas if T , T , there is one or more intermediate phase, as in the KDP family or in Ag I W O . 16
+
+Fig. 4. (Left) Raman spectra in this phase are characterized by two low-frequency silver-ion modes at ca. 20 and 30 cm , one of which disappears at T 5 199 K. The other becomes overdamped at exactly 277 K, which is the onset of Ag conductivity; (right) s(v).
+
+The original thermodynamical calculations of Rice et al. [11] and Huberman [12] were extended by Gurevich and Kharkats [13], who distinguished between the number of energetically equivalent interstitial sites N9 and the number of sites N of the disordered lattice. Their expression for the concentration of mobile ions r is given by
+
+Lines predicted in two papers [14,15] a frequency dependence for fast-ion conductors that electrical conductivity in systems like ours with blocking contacts (silver paste electrodes) would be quadratic in frequency. However, our data are linear (Fig. 2b). This is compatible with a model due to Habbal [5] in which the ion paths are physically three-dimensional but (‘pretzellike’).
+
+topologically only one-dimensional
+
+which is not monotonic. Eq. (4) permits the occurrence of two critical temperatures, and upper and lower transition point, with abrupt changes in r(T ) at each.
+
+In silver iodide tungstate the transition at ca. 277 K to superionic conduction is perfectly second order, as demonstrated by careful speciﬁc heat measurements. This disagrees with some theories but seems unambiguous and agrees with the model of Rice.
+
+When a single photon, or several photons, converts Ag to neutral Ag, it does not just remove one 0 conducting ion from the system; rather because Ag is too large to ﬁt through the ion pathway, it blocks a whole path. This gives the effect an enhancement factor of ca. 10 on the ionic conductivity of the system and hence a quantum efﬁciency greater than unity.
+
+For imes longer than 100 days, power versus discharge current in this ionic conductor decreases dramatically, dropping from an initial value of 2.4 mA to less than 1.0 [16,17]. This shelf-life limitation is due to neutral silver plating out onto the specimen surfaces and has prevented commercialization of devices made from this material.
+
+Ag I W O presents a system in which ferroelectric double-well motion of ions (Ag ) gives way to ionic conductivity of the same ions at higher temperatures. That is an interesting paradigm in
+
+which the response of the same ions to an external electric ﬁeld is bistable switching at low T and limitless conduction at high T. The only other ferroelectric–superionic transitions known to the author are in the ‘NASCION’ Na-salts studied in Moscow [6–8] after the present silver compounds were ﬁrst characterized in this regard. The models of Rice et al. and of Gurevich and Kharkats may be pertinent. In particular, Rice et al. show that the ionic conduction transition can be second order. The fact that the ionic conductivity is one-dimensional topologically (‘pretzel-like’) is reminiscent of de Gennes’ repetition model in polymers. It explains the linear frequency dependence of the a.c. conductivity, in violation of Lines’ theory, and it simultaneously accounts for the optical quantum efﬁciencies greater than unity measured experimentally.
+
+Finally, we point out that it would be useful to measure quantitatively the excess thermal conductivity in these ionic conductors (above that due to phonons). This excess thermal conductivity K(T ) at each temperature should be proportional to the (ionic) electrical conductivity s(T ). This is simply a statement of the Wiedemann–Franz law.
+

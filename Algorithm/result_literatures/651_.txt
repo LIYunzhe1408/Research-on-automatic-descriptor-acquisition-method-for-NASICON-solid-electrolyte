@@ -1,0 +1,118 @@
+In  this   paper,   mixed   potential   electrochemical   sensors   based   on   YSZ   and   La2NiO4 sensing   electrode   were fabricated   for   the   sub-ppm   H2S  detection.
+The   sensing   materials   La2NiO4 was  prepared   by   a   sol-gel method.
+The   different   moles   citric   acid   (CA)   were   used   as   complex   agent   to  change   the   micro-structure of   the  La2NiO4.
+In  comparison   with   other   mole   proportions,   the   sensor   based   on  La2NiO4-SE   with −55   mV   to  500   ppb   H2S  at   500 ◦C.
+Moren(CA):n(La3+ +   Ni2+)   =   1:1   performed   the   highest   response   of   over,  a  short   temperature   pulse   of  700 ◦C   was   used   to   decrease   the   recovery   time   and  the   result   shows a   signiﬁcance   decrease   for   the   sensor   to  500   ppb   H2S,   which   is  changed   from   20   min   to   about   150s.
+In addition,   the   sensor   displayed   good   stability   for  H2S   during   the   testing   period   and   excellent   selectivity toward   H2S  in   comparison   to  the   other   interference   gases,   such   as  SO2,   NO2,   NO,   CO,   CH4 and   NH3.
+The sensing   mechanism   related   to  the   mixed   potential   ws   proposed   for   the   sensor   based   on  YSZ   and   oxide electrodes.
+Nowadays,  petroleum,  as  one  of  important  fossil  fuels,  was  used in  many  ﬁelds.
+Hence,  every  country  has  large  oil  pumping  operation.
+However,  in  the  oil  drilling  industry,  high  pressure  and  deep drilling  always  inevitably  encounter  stratum  containing  H2S.
+As  one  of  highly  toxic  gases,  the  virulence  of  H2S  is  just  behind hydrogen  cyanide  (HCN),  and  at  present,  H2S  has  already  become the  second  killer,  just  behind  CO  in  the  occupational  poisoning.
+When  H2S  concentration  is  higher  than  0.05  ppm,  it  would  have a  distinctive  offensive  smell,  similar  to  “rotten  egg”,  The  maximum allowable  concentration  of  hydrogen  sulﬁde  in  the  air  is  6.66  ppm, people  exposed  this  level  of  H2S  with  a  few  time  would  occur  pulmonary  edema,  which  is  harmful  to  health.
+Hence,  it  is  a  serious problem  for  the  accurate  real-time  detection  of  H2S.
+In  the  past  years,  due  to  the  advantages  of  low  cost,  fast  response, real-time  detection  and  wide  detection  range,  mixed  potential  type sensor  based  on  stabilized  zirconia  is  one  of  the  most  potential  can-didates  for  toxic  gas  measurements.
+Recently,  researchers paid  more  attention  to  developing  new  sensing  materials  in  order to  enhance  sensing  properties,  hence,  a  number  of  oxides,  whether single  oxides  or  complex  oxides  were  investigated  to  fabricate  YSZbased  sensor  and  performed  good  sensing  properties  to  various gases.
+Our  group  successfully  developed  NiMn2O4 sensing  material  and  used  to  fabricate  H2S  sensor,  which  performed good  sensing  property.
+Nevertheless,  it  is  also  a  challenge  to decrease  the  recovery  time  and  detection  limit  for  H2S  detection.
+As  a  K2NiF4-type  oxide,  La2NiO4 was  compounded  and  used in  many  ﬁelds,  such  as  solid  oxide  fuel  cell  and  electrolytic  cells,  which  had  performed  good  electrochemical  catalyst  activity.
+However,  it  was  never  reported  about  using  La2NiO4 as  sensing electrode  to  fabricated  mixed  potential  type  sensor  based  on  YSZ.
+Hence,  in  this  paper,  La2NiO4 composite  oxide  material  as  sensing electrode  (SE)  for  YSZ-based  mixed-potential-type  sensor  was  ﬁrst developed,  aiming  at  H2S  detection.
+The  structure  and  phase  stability  of  the  materials  were  characterized  by  X-ray  powder  diffraction  on  a  Rigaku  wide-angle X-ray  diffractometer  (D/max  rA,  using  Cu  K␣   radiation  at  wave   =  20−80◦.
+The  morlength  =  0.1541  nm)   in  the  angular  range  of  2␪ phology  and  micro-structure  of  the  sintered  electrodes  were examined  with  Hitachi  JSM-7500F  FEG-SEM  operating  at  15  kV.
+The speciﬁc  surface  area  was   estimated  by  the  Brunauer-Emmett-Teller (BET)  method.
+The  sensor  was   manufactured  using  YSZ  plate  (8mol%  Y2O3doped,  2mm   thickness,  provided  by Anpeisheng  Corp.China).
+Firstly  of  all,  a  point-shaped  and  a  narrow stripe-shaped  Pt  electrode  (reference  electrode,  RE)  were  formed using  a  commercial  Pt  paste  (Sino-platinum  Metals  Co.Ltd.)  on  two ends  of  the  YSZ  plate  respectively,  and  sintered  at  950 ◦C.
+Next, a  minimum  quantity  of  deionized  water  and  the  various  sensing materials  were  mixed  to  be  sizing  agent  and  applied  on  the  pointshade  Pt  to  form  stripe-shaped  sensing  electrode  (SE).
+Then,  the device  was  annealed  at  800 ◦C  to  make  a  good  contact  between the  sensing  electrode  and  electrolyte.
+Finally,  The  Pt  heater  printed on  Al2O3 substrate  was  the  ﬁxed  to  the  YSZ  plate  by  the  inorganic adhesive  in  order  to  provide  the  required  heating  temperature  for the  sensor.
+Sensors  which  were  based  on  La2NiO4 (LNO-0.5,  LNO-1, −SE  were  successively  abbreviated  to  S1,  S2  and  S3  respecLNO-2)  −SE,  S2:  the  sensor  based tively  (S1:  the  sensor  based  on  LNO-0.5  −SE,  S3:  the  sensor  based  on  La2NiO4 LNO-2-SE.
+Fig.1 on  LNO-1  shows  the  structure  of  the  fabricated  sensors.
+The  gas  sensing  properties  of  the  sensors  we  fabricated  were  tested  by  a  conventional static  method,  and  the  detailed  description  is  shown  in  support information.
+The  electric  potential  difference  (V)  between  the  SE  and  the  RE was  measured  with  a  digital  electrometer  (Rigol. DM3054)  when the  sensor  was   exposed  to  air  or  sample  gas.
+The  results  obtained were  recorded  with  a  computer  connected  to  the  electrometer.
+The  current-voltage  (polarization)  curves  of  the  sensors  were  carried  out  by  means  of  the  potentiodynamic  method  (CHI600C, Instrument  corporation  of  Shanghai,  China)  using  a  two-electrode conﬁguration  in  the  base  gas  (air)  and  the  sample  gas  at  500 ◦C.
+Fig.1. Structure  of  the  fabricated  sensors.
+All  the  chemicals  used  were  analytical  grade  and  purchase  from Sinopharm  Chemical  Reagents  Co.,  China.
+The  sensing  electrode materials  were  prepared  by  sol-gel  method.
+The  synthetic  process was  described  as  following.
+(4  mmol La(NO3)3·6H2O)  were  used  as  lanthanum  precursor  and  dissolved in  20  ml   deionized  water  to  prepare  the  lanthanum  nitrate  solution, 0.581  g  nickel  nitrate  hexahydrate  (2  mmol   Ni(NO3)3·6H2O)  were used  as  nickel  precursor  and  dissolved  in  10  ml   deionized  water to  prepare  nickel  nitrate  solution.
+Secondly,  the  nickel  nitrate solution  was  drop  wise  into  the  lanthanum  nitrate  solution,  the mixed  solution  was  stirring  in  the  water  bath  at  60 ◦C  to  form precursor  solution.
+Thirdly,  citric  acid  (CA)  was  used  as  complex agent  and  drop  into  the  mixed  solution.
+The  mixed  solution  was stirred  at  80 ◦C  for  two  hours  until  a  gel  was  obtained.
+Fourthly, The  resultant  gel  was  maintained  at  80 ◦C  for  24  h  at  a  vacuum drying  oven.
+Finally,  the  precursor  gel  was  introduced  into  a  mufﬂe furnace  and  sintered  at  1000 ◦C  for  2  h  to  get  target  products.
+In  the process  of  synthesis,  the  dosage  of  complexing  agent  could  affect the  micro-structure  of  the  material,  hence,  in  this  paper,  three dosages  of  citric  acid  (CA)  was  used  to  control  the  micro-structure of  the  sensing  material  La2NiO4,  the  mole  proportions  of  citric acid  (n(CA))  and  total  metal  irons  (n(La3+ +  Ni2+))  were  0.5:1,  1:1
+Fig.2.(a)  XRD  patterns  of  La2NiO4 composite  oxide  materials  (LNO-0.5,  LNO-1,  LNO-2)  sintered  at  1000 ◦C. (b)  SEM  images  of  LNO-0.5  (d)   SEM  images  of  LNO-2 −SE;  (c)  SEM  images  of  LNO-1 
+Please  cite  this  article  in  press  as:  X.
+Hao,  et  al.,  YSZ-based  mixed  potential  H2S  sensor  using  La2NiO4 sensing  electrode,  Sens.
+Then,  when  reached  at  TPB  (triple  phase boundary,  the  interface  of  SE/Electrolyte/target  gas),  the  cathodic (2)  and  anodic  reactions  (3)  occurred  at  the  same  time.
+When  a steady  state  had  reached,  the  local  electrochemical  cell  is  established  resulting  into  a  mixed-potential  at  that  electrode,  which  is measured  as  the  sensing  signal.
+Fig.3. BET  surface  area  and  pore  volume  of  the  sensing  materials  La2NiO4 (LNO-0.5, LNO-1,  LNO-2).
+Fig.2(a)  was  the  XRD  pattern  of  the  sensing  materials  La2NiO4 powders.
+It  was  observed  that  La2NiO4 crystallized  in  a  single  phase with  K2NiF4-type  structure,  which  corresponding  well  to  JCPDS File  No. 22-1086.
+There  was  no  new  identiﬁable  peaks  or  shift  of XRD  peak  in  the  pattern,  indicating  that  no  reaction  and/or  interdiffusion  of  elements  occurred.
+This  result  conﬁrmed  that  the  single phases  of  La2NiO4 with  K2NiF4-type  structure  was  formed.
+In  addition,  scanning  electron  micrographs  of  La2NiO4 were  also  shown  in Fig. 2(b),  (c)  and  (d),   the  SEM  images  show  that  all  of  the  sensing materials  La2NiO4 powders  (LNO-0.5,  LNO-1,  LNO-2)  have  porous structure,  this  special  micro-structure  is  very  important  to  the sensing  properties  for  the  sensor.
+As  shown  in  Fig.2,  the  sensing  materials  LNO-1  seem  to  have  the  largest  pore  size  compared to  LNO-0.5  and  LNO-2,  hence,  the  BET  surface  was   investigated, Fig.3  shows  BET  surface  area  and  pore  volume  of  the  LNO-0.5, LNO-1  and  LNO-2,  the  result  exhibits  that  the  BET  surface  area and  pore  volume  of  the  sensing  materials  LNO-1  was   5.0938m2g−1 and  0.
+024728  cm3g−1 respectively,  which  was  the  largest  in  comparison  to  LNO-0.5  and  LNO-2.
+The  result  further  supports  the conclusion  of  SEM  images.
+The  response  of  the  sensor  S1,  S2  and  S3  to  500  ppb  H2S  is  shown in  Fig.4(a),  it  is  obvious  that  the  response  of  the  sensor  S2  was −55  mV,   which  was  the  largest  response  compared  with  the  other sensors.
+This  result  is  attributed  to  several  reasons.
+The  H2S  sensing mechanism  of  the  sensor  utilizing  La2NiO4-SE  is  based  on  mixed potential  and  when  exposed  to  H2S  atmosphere,  the  H2S  went through  the  electrode  layer,  the  reaction  (1)  would  take  place  in  this
+The  sensing  signal  is  related  to  the  degree  of  anodic  reaction, and  several  methods  was  utilizing  to  improve  the  anodic  reaction, such  as:  decreasing  the  consumption  of  reaction  (1),  increasing  the number  of  active  site  of  the  TPB,  and  improving  the  electrochemical  catalytic  ability  of  the  sensing  electrode.
+Figs.2  and  3  show that  the  sensing  material  LNO-1  had  the  largest  pore  size,  larger pore  can  speed  up  the  diffusion  rate  and  decrease  the  consumption reaction  (1)  caused,  As  a  result,  the  number  of  H2S  concentration at  the  TPB  was   increased  and  the  response  was   increased  at  same time.
+Moreover,  the  polarization  curves  of  the  sensors  S1,  S2  and  S3 were  investigated  and  the  result  is  exhibited  in  Fig.4(b).
+As  shown in  Fig.4(b).
+The  slope  of  the  polarization  curve  for  the  sensor  S2  to 500  ppb  H2S  is  the  largest  compared  with  the  other  sensors.
+According  to  the  previous  literature,  larger  slope  of  the  polarization curve  demonstrated  that  the  sensing  material  of  the  sensor  has  the highest  electrochemical  catalytic  activity  to  the  sample  gas,  which reveals  that  the  sensor  has  larger  response  compared  with  others.
+In −SE  (sensor  S2)  has  the  largest this  case,  the  sensor  based  on  LNO-1  response  to  500  ppb  H2S,  hence,  the  next  work  would  mainly  focus −SE.on  the  sensor  utilizing  LNO-1 
+It  is  widely  known  that  almost  all  of  processes  related  to  gas sensing,  for  instance,  adsorption  and  desorption  of  gases  and  surface  reactions,  are  closely  associated  with  operating  temperature.
+Hence,  the  temperature  dependent  behavior  to  H2S  should  be investigated  ﬁrst.
+The  result  and  related  illustration  are  shown  in Fig.S1  in  support  information.
+the  optimal  operating  temperature of  the  present  device  was   conﬁrmed  to  be  500 ◦C.
+The  response  and  recovery  transients  of  the  sensor  based  on −SE  to  different  concentrations  of  H2S  in  the  range  of LNO-1  0.02ppm–2  ppm  were  carried  out,  as  shown  in  Fig.5(a).
+The response  of  the  sensor  ( V)  was  given  by   V  =  VH2S-Vair,  and the  time  of  the  sensor  exposed  to  the  sample  gas  containing  different  H2S  concentration  was  approximately  same,  in  this  case, VH2S  denote  the  ﬁgure  of  the  last  second  in  the  sample  gas  and Vair  denote  the  ﬁgure  of  the  last  second  in  the  air.
+As  can  be  seen,
+Fig.4. (a)  The  cross-sensitivities  for  the  sensor  S1,  S2  and  S3  to  500  ppb  H2S  at  500 ◦C.(b)  Polarization  curves  in  sample  gas  of  air  and  500  ppb  H2S  for  the  sensor  S1,  S2  and S3.
+Fig.5. (a)  Response  and  recovery  transient  curves  for  the  sensor  attached  with  LNO-1  Dependence  of   V  for  the  sensor  attached  with  LNO-1  transient  curves  to  500  ppb  H2S  for  the  sensor  using  LNO-1 −SE  to  different  concentrations  of  H2S  in  the  range  of  0.02–2  ppm  at  500 ◦C.  (b) −SE  on  logarithm  of  H2S  concentration  in  the  range  of  0.02–2  ppm  at  500 ◦C.  (c)  Continuous  response-recovery the  response  of  the  present  device  to  500  ppb  H2S  was  as  large  as −55  mV,   and  the  present  sensor  performed  the  low  detection  limit −8  mV   response.
+Fig. S2  in  support  inforof  0.02  ppm,  which  had  a  mation  shows  that  the  responses  of  the  sensor  to  5  ppm  10  ppm and  20  ppm  had  hardly  change  compared  with  that  to  2  ppm,  which exhibited  that  the  sensor  was  basically  saturated  when  the  H2S  concentration  was  over  2  ppm,  the  reason  of  this  result  was   described in  support  information.
+Hence,  the  high  detection  limit  of  the  sensor was  2  ppm.
+Furthermore,  The  dependence  of   V   on  the  logarithm  of corresponding  H2S  concentration  for  the  sensor  at  500 ◦C  is  shown in  Fig.5(b).
+As  the  results  exhibited,   V  and  the  logarithm  of  H2S concentration  in  the  examined  range  of  0.1–2  ppm  performed  a  linear  relationship,  which  conformed  to  the  mixed  potential  theory −69  mV/decade.
+The  sensitivity  of  the  sensor  to  H2S  was  moreover,   V   and  the  logarithm  of  H2S  concentration  in  the  examined  range  of  0.02-0.1  ppm  also  showed  a  good  linear  relationship −10  mV/decade.
+The  reasons  of  this and  the  sensitivity  changed  to  phenomenon  were  depended  on  the  energy  of  the  electrochemical and  the  diffusion  process,  which  was  investigated  carefully  in  our early  studies.
+In  addition,  Fig.5(a)  depicts  the  response  and recovery  times  of  the  sensor  to  500  ppb  H2S  and  the  result  shows that  the  response  time  was  72s,  which  performed  a  fast  response rate.
+However,  it  is  also  shown  that  the  recovery  time  was   about 20  min,  which  was  so  long  to  a  gas  sensor.
+The  continuous  response and  recovery  transients  of  the  device  to  500  ppb  H2S  are  exhibited  in  Fig.5(c).
+It  was  clearly  seen  that  the  sensor  performed  good repeatability  in  the  examined  four-time  cycles.
+According  to  the  reported  literature,  a  series  of  methods  were used  to  shorten  the  recovery  time  and  had  good  results,  such  as doping  noble  metals  and  controlling  the  morphology  of  materials.
+Considering  the  ease  of  the  technology  and  the  properties  of the  mixed-potential  sensor,  we  ﬁnally  decided  to  add  a  short  temperature  pulse  of  700 ◦C  in  the  process  of  recovery  to  speed  up  the stripping  process  and  shorten  the  recovery  time.
+By  this  method, the  response  and  recovery  transients  to  different  concentration  of H2S  in  the  range  of  0.1ppm–2  ppm  is  exhibited  in  Fig. 6(a).
+In  order to  intuitively  show  the  response  and  recovery  property.
+The  property  of  the  sensor  to  500  ppb  H2S  was   singled  out  in  Fig.6(b).
+The short  temperature  pulse  was   added  on  the  senor  when  exposed  to the  air  after  60  s  and  maintained  as  long  as  60s,  then  the  temperature  was  decreased  to  500 ◦C  immediately,  result  shows  that  the sensor  has  recovered  entirely  and  the  recovery  time  of  the  sensor to  500  ppb  H2S  was   about  150s,  which  had  a  signiﬁcant  reduction.
+In  addition,  the  short  temperature  was  not  used  to  the  detection of  lower  H2S  concentration  (0.02  ppm,  0.05  ppm),  it  was  because that  the  recovery  time  of  the  sensor  to  0.02  ppm  and  0.05  ppm  H2S were  180  s  and  210  s  respectively,  which  were  acceptable  for  a  H2S sensor  and  close  to  the  recovery  time  with  short  temperature  pulse, the  reason  for  the  difference  of  the  recovery  time  between  high  and low  H2S  concentration  is  maybe  followed.
+The  number  of  adsorbed gas  at  low  concentration  was   less  than  that  at  high  concentration,  therefore,  it  was  easier  to  desorb  when  at  low  concentration and  the  recovery  time  would  be  shorter.
+In  conclusion,  The  short temperature  used  to  decrease  the  recovery  time  was   face  to  high H2S  concentration  (0.1ppm–2  ppm).
+Otherwise,  Fig.6(c)  shows  the comparison  of  the  sensitivity  of  the  sensor.
+As  can  be  seen,  in  the examined  range  of  0.1–2  ppm,  the  sensor  also  performed  a  linear −74  mV/decade, relationship  and  the  sensitivity  was  as  large  as  close  to  the  above  result  of  69  mV/decade.
+In  addition,  the  sensor also  performed  acceptable  repeatability  with  temperature  pulse  of 700 ◦C  as  shown  in  Fig. 6(d).
+Hence,  the  short  temperature  pulse of  700 ◦C  we  used  to  decrease  the  recovery  time  is  feasible  to  the present  device  for  detection  of  H2S.
+It  should  be  in  consideration  that  the  working  environment  of gas  sensor  often  accompanied  with  a  number  of  interference  gases.
+In  this  case,  Fig.7(a)  exhibits  the  response  of  the  sensor  to  1  ppm H2S,  2  ppm  H2S  and  other  gases.
+As  seen  from  the  results,  the  sensor  performed  the  highest  response  in  comparison  to  other  gases, which  demonstrate  that  the  present  device  has  a  good  selectivity  to  H2S  as  opposed  to  other  interference  gases.
+Furthermore,  as one  of  important  properties  for  a  successful  sensor,  the  long-term stability  was   investigated  and  the  result  is  exhibited  in  Fig. 7(b).
+Fig.6. (a)  Response  and  recovery  transient  curves  for  the  present  sensor  with  short  temperature  pulse  to  different  concentrations  of  H2S  in  the  range  of  0.2–2  ppm  at  500 ◦C. (b)   Response  and  recovery  transient  curves  for  the  sensor  to  500  ppb  H2S  with  short  temperature  pulse  at  500 ◦C. (c)  Dependence  of   V  for  the  sensor  with  and  without short   temperature  pulse  on  logarithm  of  H2S  concentration  in  the  range  of  0.2–2  ppm  at  500 ◦C. (d)  Continuous  response-recovery  transient  curves  to  500  ppb  H2S  for  the sensor   with  short  temperature  pulse  at  500 ◦C.
+Fig. 7. (a)  The  cross-sensitivities  for  the  sensor  based  on  LNO-1  H2S  at  500 ◦C.−SE  to  various  gases  at  500 ◦C. (b)  Long-term  stability  for  the  sensor  attached  with  LNO-1 −SE  to  500  ppb
+The  change  of  the   V( Vs)  to  the  sensor  was   in  the  form  of  Vs  =  [( Vn- V0)]/ V0 ×   100%,  the  meanings  of   Vn and   V0 respectively  were  the  response  values  of  the  sensor  on  the  n  and initial  day,  respectively.
+The  result  exhibited  that  the  sensor  performed  a  credible  stability  in  the  20  days.
+The  contrast  of  H2S sensing  properties  for  the  sensor  fabricated  and  widely  reported in  literature  was   recorded  in  Table.1,  the  present  device  displayed lower  detection  limit  and  better  sensing  properties  to  H2S  than reported  devices.
+Table  1 Comparison  of  the  sensing  performance  of  the  present  sensor  and  that  of  devices  reported  in  literature.
+In  summary,  a  mixed-potential-type  YSZ-based  gas  sensor  was investigated  for  the  H2S  detection.
+A  new  sensing  electrode  material  La2NiO4 was  compounded  by  the  sol-gel  method,  and  different moles  of  citric  acid  (n(CA):  n(La3+ +  Ni2+)  =  0.5:1,  1:1  and  1:2)  was used  as  complexing  agent  to  adjust  the  micro-structure  of  the  sensing  electrode  material.
+The  results  displayed  that  the  sensor  based on  La2NiO4 (n(CA):  n(La3+ +  Ni2+)  =  1:1)  had  the  largest  response −55  mV  compared  with  the  other  sensors.
+Moreover,  the  low of  detection  limit  of  the  sensor  could  reach  0.02  ppm,  which  had  a −8  mV   response.
+The  present  device  also  showed  good  long-term stability  and  acceptable  repeatability.
+It  was  worth  noting  that  we used  a  short  temperature  pulse  of  700 ◦C  to  signiﬁcantly  shorten the  recovery  time  for  H2S  detection  and  performed  a  good  result, the  recovery  time  had  decreased  from  20  min   to  150  s  and  the properties  of  the  sensor  almost  had  no  change.
+Hence,  because  of these  excellent  sensing  performances,  the  sensor  we   fabricated  has potential  application  value  to  detection  of  H2S.

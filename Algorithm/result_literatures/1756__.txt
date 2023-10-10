@@ -1,0 +1,51 @@
+The fast ionic conductor Li2AlZr[PO4]3 has been prepared by the solid state reaction method.
+The formation of the compound is confirmed byXRD and FTIR analysis.
+The system has been subjected to ac conductivity measurements in the temperature range 523 to 623K with aluminiumas blocking electrodes over a frequency range of 42 Hz to 5 MHz.
+The conductivity is found to be 1×10−5 S cm−1 at 623 K.
+The activation energycalculated from the Arrhenius plot is 0.83 eV.
+The conductance spectrum reveals a d.
+c.
+plateau and a dispersive region that suggest the correlatedhopping motion of ions.
+Thus, the conduction mechanism in Li2AlZr[PO4]3 may be due to the hopping of charge carriers.
+The standard lithium-ion battery has been the leading energystoragedevice since the mid 1990s.
+This is because it has aspecific energy and long cycle life.
+Lithium transition metalphosphates are emerging as cathode materials of interest forrechargeable lithium batteries due to their low material cost,safety, and non-toxicity.
+These compounds have good lithiumion mobility, but suffer from extremely low electron conductivity.
+
+The compound Li2AlZr[PO4]3 has been prepared by thesolid state reaction method.
+The raw materials were Li2CO3,(NH4)2HPO4, ZrO2 and Al2O3. 
+One of the raw materials,namely ZrO2, was prepared by a co-precipitation method .
+The reagents were taken in a stoichiometric ratio and groundwith a mortar and a pestle.
+The homogenized powderwas heatedto 850 ◦C and kept for 2 h at this temperature.
+X-ray diffractionphase analysis were conducted to confirm the formation of sample with the desired phases, by using Philips X-ray diffractometer,Model PW 1830. 
+The IR spectrum was recorded for eachsample in the range of 400 to 2000 cm−1 at room temperatureby means of a SHIMADZU-8000 FTIR Spectro-Photometer.
+The sample was crushed into a fine powder placed in a die, andsubjected to a pressure 4000 kg cm−2. 
+The resulting pellet hada thickness of 1mm and a diameter of 1.0 cm.
+The pellet wassintered at 450 ◦C for 2 h.
+The pellet was mounted between twoaluminium blocking-electrodes and impedence measurementswere conducted over the frequency range 42 Hz to 5MHZ attemperatures from 523 to 623 K.
+The XRD pattern of Li2AlZr[PO4]3 is shown in Fig.1. 
+
+Some tracesof ZrO2, Al2O3 are observed in the XRD pattern.
+A peak at2θ = 13.992◦, which corresponds to the secondary phase, lithiumzirconium phosphate (JCPDF 44 - 0010) is also presented.
+Thus,the pattern reveals the polycrystalline nature of the sample.
+Vibrational spectroscopy is a valuable analytical tool.
+Theappearance or non-appearance of certain vibrational frequenciescan provide important information on the structure of a particular molecule.
+
+In the present study, all the characteristicbands for PO4 vibrations are observed in the expectedregions.
+This indicates that the anion ring has not been distorteddue to its co-ordination with cations of greater electronegativity.
+
+The values are in the range of pF, and indicates that the conductivityis due to the bulk of the material.
+The bulk resistance, Rb,can be determined from the intercept of the low frequency partof the arc with the real Z-axis.
+As the temperature increases,the Rb value shifts towards a lower impedance value.
+The frequency-dependent conductivity spectrum shown in Fig.5 displays a low-frequency d.c.plateau and a high frequencydispersive regions.
+The d.c.conductivity value determined byextrapolating the plateau on the Y-axis is 1×10−5 S cm−1 at623 K.
+The results at all three temperatures are shown in Table 1.
+When the temperature increases, the transition from the d.c.plateau to a.c.conductivity dispersion region shifts towards thehigher frequency range.
+The dispersion region is characterizedby the random hopping of mobile ions .
+Lithium-based, NASICON structured, Li2AlZr[PO4]3 hasbeen prepared by the solid-state reaction method and has beencharacterized by structural and conductivity studies.
+The XRD pattern confirms the formation of a nanocrystalline phase in thesample.
+The FTIR spectrum reveals the identity of the functionalgroups.
+Cole-Cole plots demonstrate the contribution ofmobile ions to the bulk conductivity.
+The compound is foundto obey the Arrhenius law and the activation energy is found tobe 0.83 eV.
+From conductance spectra conductivity parameterssuch as hopping frequencies, the mobile ion concentration andthe activation enthalpy of hopping has been calculated using theAlmond and West formalism.
+The ionic hopping frequency hasbeen found to be thermally activated with an activation energy 0.81 eV, which is close to that found from d.c.conductivity studiesand suggests that the conduction mechanism may involve thehopping of charge carriers.

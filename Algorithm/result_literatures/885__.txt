@@ -1,0 +1,56 @@
+Sintering processes yield a mutual diffusion region at the electrode/solid electrolyte interface, which isconsidered as a crucial problem for developing large-sized all-solid-state rechargeable lithium batterieswith high power density.
+
+This work focuses on the interface between LiNi1/3Co1/3Mn1/3O2 (NMC) andNASICON-structured Liþ conductive glass ceramics solid electrolyte (Li2OeAl2O3eSiO2eP2O5eTiO2eGeO2: LATP sheet (AG-01)), and investigates the effects of sintering temperature on interfacial structureand interfacial resistance at the NMC/LATP sheet.
+
+Thin films of NMC were fabricated on the LATP sheetsat 700 C or 900 C as a model system.
+
+We found that the thickness of the mutual diffusion region wasalmost the same, ca.
+
+30 nm, in these two samples, but the NMC film prepared at 900 C had three ordersof magnitude larger interfacial resistance than the NMC film prepared at 700 C.
+
+Around the interfacebetween the NMC film prepared at 900 C and the LATP sheet, Co in the NMC accumulates as a reducedvalence and lithium-free impurity crystalline phase will be also formed.
+
+These two problems mustcontribute to drastic increasing of interfacial resistance.
+
+Formation of de-lithiated NMC around theinterface and its thermal instability at higher temperature may be considerable reason to induce theseproblems.
+
+All-solid-state rechargeable lithium batteries using oxide solidelectrolytes (Ox-SSBs) will be one of the candidates for nextgeneration rechargeable batteries with high energy density,safety, and long-life performance.
+
+Thin-film Ox-SSBs have beeninvestigated by various researchers [1e3], and their excellent cyclestability (over 10,000 cycles) has been reported.
+
+Although suchthin-film Ox-SSBs generally use a glass electrolyte, typically lithiumphosphorus oxynitride glass electrolyte (LiPON) with lower Liþconductivity (ca. 2  106 S cm1 at R.T.[4]), several kinds of oxidesolid electrolytes with two to three orders of magnitude higher Liþconductivity (103e104 S cm1) than LiPON have been discovered(Li0.34La0.51TiO3 [5], Li7La3Zr2O12 [6], Li2OeAl2O3eSiO2eP2O5eTiO2eGeO2 (NASICON-structured Liþ conductive glass ceramicssolid electrolyte (LATP) [7]).
+
+Now that, it is demanded to developlarge-sized Ox-SSBs using such solid electrolytes with higher Liþconductivity especially for the applications to PHEV and EV.
+
+Large-sized Ox-SSBs will apply an electrode-solid electrolytecomposite as with conventional rechargeable lithium-ion batteries(LIBs) using liquid electrolyte.
+
+In case of the LIBs, liquid electrolytespenetrate into porous electrodes, and an electrode/electrolyteinterface is automatically formed.
+
+On the other hand, in case of theOx-SSBs, both electrode and solid electrolyte are fragile and hardceramics, thus they need a densification process to enlarge theelectrode/solid electrolyte contact area.
+
+Those composites havebeen developed by heating processes such as co-sintering [8], sparkplasma sintering [9,10], fusion bonding using low-melting solidelectrolyte [11], etc.
+
+However, one of the crucial problems to applysuch a heating process is the formation of a mutual diffusion regionat the interface.
+
+While the formation of a mutual diffusion regionworks as a driving force for solid-solid adhesion, this formation canretard interfacial Liþ transfer reaction and then reduce the batterypower density.
+
+Therefore, it is important to examine how mutualdiffusion region formation provides resistive interface in detail.
+
+Among the various kinds of electrodes and solid electrolytes, wefocused on LiNi1/3Co1/3Mn1/3O2 (NMC) as the electrode active material and LATP as the solid electrolyte.
+
+The NMC shows small volume change (less than 1%) during charge-discharge reactions [12],which is an appropriate feature for Ox-SSBs.
+
+Also, LATP is one of thehighest Liþ conductive solid electrolytes as mentioned above.
+
+Here,the NMC films were deposited by pulsed laser deposition (PLD) onmirror-polished LATP sheets at different temperatures, which weremodel systems of the sintered NMC/LATP interface.
+
+Sintering effects of the LiNi1/3Co1/3Mn1/3O2 (NMC) withNASICON-structured Liþ conductive glass ceramics solid electrolyte(LATP) were investigated using model systems, where NMC filmswere deposited on the LATP sheets at 700 C (NMC-700) or 900 C(NMC-900).
+
+ The NMC-900 deposited on the LATP sheet showed ca.three orders of magnitude larger interfacial resistance (Rint) thanthat of the NMC-700 deposited on the LATP sheet, though thethickness of the mutual diffusion region was ca.30 nm in bothcases.
+
+Around the NMC-900/LATP interface, Co in the NMC accumulate as a reduced valence and lithium-free crystalline phase willbe also formed.
+
+These two problems must contribute to drasticincreasing of the Rint.
+
+Formation of de-lithiated NMC from theinterface and its thermal instability at higher temperature may beconsiderable reason to induce these problems.
+

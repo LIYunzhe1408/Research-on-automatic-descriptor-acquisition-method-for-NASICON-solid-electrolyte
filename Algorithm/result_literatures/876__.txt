@@ -1,0 +1,22 @@
+NASICON structured NaTi2(PO4)3 with stable and open framework has become apromising electrode material for sodium-ion batteries.
+
+However, the intrinsic lowelectronic conductivity of NaTi2(PO4)3 leads to inferior rate capability and poor activematerial utilization.
+
+Herein, we first report the synthesis of carbon-coated hierarchicalNaTi2(PO4)3 mesoporous microflowers (NTP/C-F), via a facile and controllablesolvothermal method and subsequent annealing treatment.
+
+The unique structuralfeatures endow the NTP/C-F with excellent structural stability, enhanced charge transferkinetics, and suppressed polarization.
+
+This architecture exhibits superior sodium storageperformance: high initial capacity (125 mA h g-1at 1 C), outstanding rate capability (95mA h g-1at 100 C), and ultra-long cycling stability (capacity retention of 77.3% after 10,000 cycles at 20 C).
+
+Time-resolved in-situ X-ray diffraction study reveals the typicaltwo-phase electrochemical reaction of NTP/C-F with reversible structure change.
+
+Thisnovel design of hierarchical structure provides a new possibility to create nanostructuresfor advanced energy storage applications.
+
+In summary, novel carbon-coated hierarchical NaTi2(PO4)3 mesoporousmicroflowers have been firstly fabricated via a facile and controllable method.
+
+Theunique structural features, such as stable and open NASICON structure, mesoporousnanosheet-constructed hierarchical architecture, and uniform carbon coating, endow theNTP/C-F with outstanding high-rate capability (95 mA h g-1at 100 C) and ultra-longcycling stability (capacity retention of 77.3% after 10, 000 cycles at 20 C).
+
+Timeresolved in-situ XRD study reveals the typical two-phase electrochemical reactions ofNTP/C-F with reversible structure change.
+
+The above results demonstrate that NTP/C-Fis a promising electrode material for high-performance SIBs.
+

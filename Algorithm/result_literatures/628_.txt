@@ -1,0 +1,233 @@
+A wide spectrum of inorganic solid-state electrolytes is presented in terms of their chemical composition, crystal structure, and ion conduction mechanism.
+Furthermore, the advantages and main issues associated with different types of inorganic solid electrolytes, including β-alumina, NASICON and LISICON-type, perovskites, and garnet-type for all-solid-state batteries are presented.
+Among these solid electrolytes, Zr and Ta-based Li-stuffed garnets exhibit high Li-ion conductivity, electrochemical stability window (up to 6 V/Li at room temperature), and chemical stability against reaction with molten elemental Li.
+However, their stability under humidity and carbon dioxide should be improved to decrease the fabrication and operational costs.
+Ionic conductivitiesIntroductionEnergy consumption across the world is increasing daily as a result of population growth and increasing standards of living in developing countries.
+Gross domestic product (GDP) of a country is positively correlated with the energy consumption within the country.
+In order to support the growing energy demand due to industrialization and population growth, there is a need to increase the rate of energy production by 2050.The required increase in energy supply must be achieved without increasing CO2 emissions and by developing advanced renewable energy resources along with improving existing energy sources.
+The worldwide electricity production in 2015 was about 25 TWh.
+The main source of present electrical energy generation is fossil fuels and it accounts for about 68% (coal 42%, natural gas 21%, and oil 5%) of the total electrical energy production.
+Worldwide energy consumption by fuel types, drawn from the BP statistical review of world energy in June 2016 [3]Ionicsas nuclear, hydro, and renewable energy sources contribute 14, 15, and 3%, respectively.
+Coal serves as the dominant source of electricity generation and burning coal produces an average of 1 kg CO2 emission for every kWh of electricity generated.
+It is well known that gaseous emissions from the burning of fossil fuels pollute the air, which leads to global warming.
+The ever-growing energy demand and the environmental concerns over the use of depleting fossil fuels had driven an extensive research for generating cleaner electricity from alternative energy sources such as solar, wind, tidal, and geothermal energy.
+Solar and wind energies are the most abundant alternative energy sources.
+If the solar radiation energy that is received by Earth in 1 h is fully captured, it could be sufficient to meet the energy demand of the world for a year.
+Similarly, the world’s electrical energy requirement could be met by capturing a small percentage of potential wind energy.
+However, solar and wind are not reliable sources of power and they vary from location-to-location, time-to-time, and energy/power demands change from peak time to off-peak time.
+As a result, the electrochemical energy storage (EES) systems are becoming necessary to smooth the intermittency of renewable electricity generation into the grid.
+Based on the energy storage principle, EES systems can be broadly classified as batteries and electrochemical capacitors.
+Batteries convert chemical energy contained in its active materials directly into electrical energy with high conversion efficiency, and no gaseous exhaust unlike fuel cells and electrolytic cells.
+The efficiencies of a battery are not limited by the Carnot cycle.
+Figure 2 shows the application range of some commercial primary and secondary batteries.
+Fundamentals of batteryLike a fuel cell, batteries are electrochemical cells that consist of an anode, an electrolyte, and a cathode.
+Figure 3 shows a schematic representation of all-solid-state electrochemical cell and typical examples of electrolytes and electrodes being used in current fuel cells and batteries.
+The electrolyte is sandwiched between the two electrodes that are connected to current collectors.
+The anode is the negative electrode where oxidation reaction occurs, while the cathode is the positive electrode where reduction reaction takes place.
+During an electrochemical redox reaction, electrons flow from anode to the cathode through an external circuit.
+The electrolyte is typically in the form of a liquid, a gel, or a solid that provides ionic conductivity between two electrodes.
+The direction of the flow of ions and electrons during the charging cycle is opposite to that during the discharging cycle of a battery.
+Also, ions and electrons in an electrolytic cell flow in the opposite direction to that of a battery.
+The former is being considered for converting fuel cell by-products, such as water and CO2 into fuels and other valuable chemicals.
+Depending on their capability of being electrically recharged, batteries are mainly classified into two categories: (i) primary and (ii) secondary cells.
+Primary cells cannot be recharged, and they have to be discarded after they run empty, since the chemical reactions are not easily reversible.
+The chemical structure of original reactants is converted into irreversible phase.
+Hence, the active materials have to be recycled from the used batteries; however, such a process is energy intensive.
+Primary cells are most commonly used in portable devices that have low current applications such as radios, watches, and clocks.
+Secondary cells are constructed in such a way as to allow for a restoration of the original electrodeIonicsFig.
+Specific energy density and capacity of primary and secondary batteries and their application landscapematerials by applying an electricity from an external source.
+The secondary cells are mainly used as energy storage devices and they should exhibit high power density, fast discharge rate, flat charge-discharge curves, and excellent lower temperature performance.
+Currently, secondary batteries are being considered in large-scale (megawatt-hour to gigawatt-hour)stationary energy storage systems, electric vehicles, automotive and aircraft systems, and emergency no-fail and standby power sources.
+Typical examples of well-known primary and secondary batteries, their operating potential, anode and cathode materials, and overall electrochemical reaction are shown in Table 1.
+Anode eNi/YSZGraphiteCathode“The conducƟvity of the electrons is rate-determining for fast ion migraƟon in a solid electrolyte”  FluoriteAluminaPerovskiteFig.
+Schematic representation of an electrochemical cell and crystal structure of solid electrolytesTable 1Examples of primary and secondary batteries (adapted from [4])BatteriesAnodeCathodeNet reactionPotential (V)IonicsPrimary batteries Leclanche´ Magnesium Alkaline MnO2 Mercury Mercad Silver oxide Zinc/O2 Li/SOCl2 Li/SO2 LiMnO2 Li/FeS2 Li/(CF)n Li/I2 Secondary batteries Lead-acid Edison Nickel-cadmium Nickel-zinc Nickel-hydrogen Nickel-metal hydride Silver-zinc Silver-cadmium Zinc/chlorine Zinc/bromine Lithium-ion Lithium/manganese dioxide Lithium/iron disulfide Lithium/iron monosulfide Sodium/sulfur Sodium/nickel chlorideCell voltagePbO2 Ni oxide Ni oxide Ni oxide Ni oxide Ni oxide AgO AgO Cl2 Br2 Li(i–x)CoO2 MnO2 FeS2 FeS S NiCl2Pb + PbO2 + 2H2SO4 → 2PbSO4 + 2H2O Fe + 2NiOOH + 2H2O → 2Ni(OH)2 + Fe(OH)2 Cd + 2NiOOH + 2H2O → 2Ni(OH)2 + Cd(OH)2 Zn + 2NiOOH + 2H2O → 2Ni(OH)2 + Zn(OH)2 H2 + 2NiOOH → 2Ni(OH)2 MH + NiOOH → M + Ni(OH)2 Zn + AgO + H2O → Zn(OH)2 + Ag Cd + AgO + H2O → Cd(OH)2 + Ag Zn + Cl2 → ZnCl2 Zn + Br2 → ZnBr2 LixC6 + Li(i–x)CoO2 → LiCoO2 + C6 Li + MnIVO2 → MnIIIO2(Li+) 2Li(Al) + FeS2 → Li2FeS2 + 2Al 2Li(Al) + FeS → Li2S + Fe + 2Al 2Na + 3S → Na2S3 2Na + NiCl2 → 2NaCl + NiFor an electrochemical cell, the energy storage and power characteristics can be directly related to the thermodynamic and kinetic parameters that influence the overall chemical reaction in that cell.
+Thermodynamic parameters represent the maximum values of potential (voltage, E) that can be achieved under chemical equilibrium.
+The equilibrium voltage (E0) of an electrochemical cell is related to the standard state Gibbs free energy (ΔGo) of the chemical reaction and can be represented as: E0 ¼ − ΔG0 ð1Þ nFhave a negative Gibbs free energy.
+The change in Gibbs free energy is related to the standard state Gibbs free energy of formation and the activities of products (ap) and reactants (ar) by the expression [5]: ΔG ¼ ΔG0 þ RTlnwhere R is the gas constant and T is the absolute temperature.
+Combining Eqs.1 and 2, the Nernst equation can be written as:where n is the number of electrons involved in the stoichiometric chemical reaction, and F is the Faraday’s constant (96,485 C/mol).
+The chemical reactions that are spontaneousThe voltage of an electrochemical cell can be related to the activity of mobile species in the electrode materials.
+The change in the standard Gibbs free energy, ΔG0, of a cellIonicsreaction is the driving force that enables a battery to deliver electrical energy to an external circuit.
+As current flows through the cell, the cell potential is reduced by the influence of various losses due to electrodes, ohmic, and concentration polarizations.
+The operating voltage of a cell during discharge can be written as: E ¼ E0− η ð4Þ ð where E0 is the open circuit potential (thermodynamic voltage) of the cell, ηa is the electrode activation polarization, ηΩ is the ohmic polarization, and ηc is the concentration polarization.
+Activation polarization is generally a result of the slowest rate-limiting step in a series of reactions that occur at the interface between the electrode and electrolyte.
+All chemical reactions generally have an activation energy barrier and it can be overcome either by increasing the temperature and/or by applying an electrical potential.
+Activation polarization, ηa, is the extra voltage that is sacrificed to overcome the activation energy barrier and is related to the current density, i, by the Butler-Volmer equation: i ¼ i0 expwhere io is the exchange current density and α is the charge transfer coefficient.
+The exchange current density is equivalent to the equal forward and reverse electrode reaction rates at the equilibrium potential.
+Concentration polarization, ηc, occurs when mass transport effects slow down the electrochemical reactions, such as slow diffusion of ions through the electrolyte, slow diffusion of the reactant to the reaction site, or slow removal of the reaction products.
+Ionic and electronic conductivity of electrodes play an important role in performances of electrodes.
+The extent of concentration polarization will depend on the operating temperature, concentration, and the physical properties of the electrode.
+The concentration polarization (ηc) produced from the change of concentration across the diffusion layer may be written as :where iL is called the limiting current (current density at which the voltage begins to sharply drop).
+Since concentration polarization is a function of the concentration of the reactants, the degree of polarization increases as the conversion rate of the reactant increases.
+However, by increasing the limiting current, the significance of concentration polarization can be minimized.
+In battery systems, the electrodes are usually composites made of active reactants, binder, and conductive filler.
+In order to minimize the energy loss due to both activation and concentration polarizations at the electrode surface and to increase the electrode efficiency or utilization, it is preferred to have alarge electrode surface area.
+This is accomplished with the use of a porous electrode design.
+A porous electrode can provide higher interfacial area per unit volume than that of a dense structured electrode.
+It is very common to have highly porous electrode design in fuel cells where the reactants and byproducts are gaseous, like in solid oxide fuel cells (SOFCs) and proton conducting SOFCs.
+In battery technology, it is not very common to have porous electrodes since charging and discharging products are in solid state.
+Hence, volume expansion of electrodes during cycling test should be considered, especially in all-solid-state configuration.
+However, currently, porous electrode structure has been considered in the Li-O2 and Li-S batteries which utilize liquid/gel electrolytes.
+Ohmic polarization (ηΩ) arises due to the internal impedance of the electrochemical cell components, including resistance to the ion conduction in the electrolyte, electrical resistivity of the electrodes, and the electrode/electrolyte interface resistance, and is given by: ηΩ ¼ iR where i is the current density and R is the total cell resistance.
+When the stored energy in an ideal battery is completely consumed, the terminal voltage may drop to zero.
+Polarization losses that occur during a discharge (Edischarge) lead to a decreased cell voltage (Eq.4), whereas that which occurs on charge (Echarge) lead to an increased voltage.
+For a secondary battery, the voltage required to charge is generally greater than the discharge voltage, and the difference, Echarge − Edischarge, indicates the degree of voltaic inefficiency of the cell.
+Performance curve of a battery with relevant fundamental equations to understandIonicsdensity.
+Generally, conversion electrodes require higher charging voltage, while intercalation chemistry based electrode materials show rather small difference between the discharging and charging potential.
+This inefficiency is caused due to the different polarization losses that occur in the cell.
+Energy storage efficiency is defined as the ratio of the energy converted to the energy consumed.
+The amount of electricity recovered during discharging of a battery is usually less than that used for charging the battery.
+Battery efficiency can be described as coulometric efficiency (ηC) or the energy efficiency.
+The coulometric efficiency is the ratio of the obtained discharging and the respective charging capacity, i.e., ð11ÞThe overall energy efficiency ηE of a battery can be given as the product of the coulombic efficiency and the voltaic efficiency under the given conditions of operation.
+The cycle life of a secondary electrochemical cell is the number of complete charge/discharge cycles a battery is able to support before its capacity falls below ~ 80–90% of its nominal capacity.
+The shelf life of a battery is the duration for which it can be stored under specific conditions while retaining stability of the available discharge capacity.
+In an electrochemical system, the quantity of active materials that is used determines the maximum energy that the battery can provide.
+The specific energy of a battery reduces if an excessive amount of active material is stoichiometrically unbalanced.
+For a battery, in addition to the active materials, the electrolyte and the non-electroactive materials (current collectors, binders, and separator) contribute to the total weight and volume.
+Therefore, only a fraction of the theoretical energy of the battery is available for use.
+Moreover, the battery does not discharge at the theoretical voltage nor does it get completely charged (Table 2).
+One of the main disadvantages of the current organic electrolyte batteries is flammability.
+Another limitation is the formation of metal dendrites, which penetrate through separator material leading to an electrical short and poor electrochemical stability window (ESW) of the electrolytes, which control the operating voltage of a battery and the power density.
+Solid-state batteries are foreseen as the future battery technology due to their high energy density, high storage capacity, thermal stability at elevated temperature, and high ESW as compared to the present organic electrolyte batteries.
+Solidstate batteries also have several advantages, such as absence of electrolyte leakage and vaporization of liquid electrolytes, ease of miniaturization, and very long cycle life.
+Battery life is reduced when undesired side reactions occur within the cell including decomposition of the electrolyte.
+In an ideal solid (ceramic) electrolyte, only one type of species is mobile andIonicsTable 2 Battery electrodes and their theoretical capacity, experimental capacity and energy densityElectrodeMolecular mass (g/mol)Cell voltage (V)Theoretical capacity (mAh/g)Experimental capacity (mAh/g)Theoretical energy density (Wh/kg)Table 2 (continued)ElectrodeIonicsMolecular mass (g/mol)Cell voltage (V)Theoretical capacity (mAh/g)Experimental capacity (mAh/g)Theoretical energy density (Wh/kg)there are no species that diffuse to the electrode and take part in the side reactions, and thus, solid-state batteries tend to have a longer battery life.
+However, the solid-state batteries have some drawbacks due to poor ionic conduction that leads to low power density.
+Volume change of the electrodes and the formation of undesired products lead to high interfacial resistance, which affect the electrochemical performance of the battery.
+Because of the above-mentioned problems with solid-state batteries, a better understanding of functional properties of solid electrolytes and electrodes is critical to develop robust solid-state energy storage systems for transportation and grid-scale applications.
+This process leads to movement of ions through the solid resulting in conductivity and is called as vacancy migration.
+Frenkel defect is also a stoichiometric defect, which arises when an ion is displaced from its lattice site into an interstitial site.
+This ion can jump into an adjacent vacant interstitial site, resulting in a long-range conduction.
+Figure 5 shows the schematic representation of vacancy and interstitial mechanisms for ionic conduction in solids.
+In solid electrolytes, another mechanism also exists called as knock-on mechanism, where an ion can move to its neighboring site or interstitial only if one or more of its nearby ions move to their adjacent site or interstitial resulting in a cooperative movement of two or more ions.
+The knock-on conduction mechanism has been suggested for Na-β-alumina and AgCl.
+Phenomenology of solid electrolytesIons inside solid electrolytes move randomly and continuously in all directions even without applying an electric field due to thermal energy, and it is known as Brownian motion
+Due to random ion movements, defects are distributed throughout the solid.
+If an electric field is applied on the solid, the ions still continue moving randomly but drift along the direction of the electric field.
+Thus, the basic processes of ionic conduction in crystalline ionic solids consist of diffusion and migration of ions via defects.
+The arrangement of principal ions in an ideal crystal is periodic and close-packed.
+For ionic conductivity to occur in the crystal, it is important to have partial occupancy of energetically equivalent or nearequivalent sites.
+Defects exist at all temperatures (except at absolute 0 K) in solids due to positional disorder from ideal packing.
+Schottky and Frenkel defects are the two types of defects that are most important for ion mobility in solids.
+Schottky defect is a stoichiometric defect, which occurs when a pair of cation and anion is missing in the lattice.
+Solid (ceramic) electrolytes for batteries and other ionic devicesThe discovery of fast silver ion conducting MAg4I5 (M = Rb, K, NH4) and sodium ion conducting Na-β-alumina in 1960s boosted the field of solid-state ionics.
+Since then, there have been investigations on a large number of solids demonstrating fast ion transport comprising a variety of mobile species, including H+, Ag+, Cu+, Li+, Na+, K+, Mg2+, O2− − , and F .
+The following sections briefly describe the status of various solid-state electrolyte systems that are being considered in all-solid-state batteries.
+IonicsCrystalline ionic conductors have been classified into three types based on defect concentrations at room temperature.
+Ionic conductivity σ can be represented as the product of the number of charge carriers per unit volume (n), charge (q), and electrical mobility (μ): σ ¼ nqμThe activation energy (Ea) is the most important factor that influences the ionic conductivity of solids and is defined as the energy required to make the jump from one site to an adjacent vacant site in solids [55].
+The relation between temperature and mobility of ions can be expressed as: μ ¼ μwhere μ0 is a proportionality constant known as preexponential factor.μ0 depends on the jump frequency, (v), which is the number of times per second the ion attempts the move and k is called Boltzmann’s constant.Combining Eqs.
+13 and 14, the variation of ionic conductivity with temperature can also be expressed as: σT ¼ σ0expThe relationship between the ionic conductivity of a solid and the diffusion coefficient of ions is expressed by Nernst– Einstein equation: σ ¼ nq2D kTwhere D is the self-diffusion coefficient of ions and is given by [52]:where z is the number of nearest neighbor sites of density N, c is the concentration of ions, al the distance between the sites, and v is the jump frequency, which is given by [53]: ν ¼ ν0exp −Ea kTThe fact that multiple species could carry charge in solid electrolytes drives the interest to understand the relative conductivities of different species [56].
+The fraction of the electric current carried through the electrolyte by a particular species is known as transference number of that species.
+The transferenceFig.6 Room temperature ionic conductivity of different types of Li ion electrolytes。
+In 1914, Tubandt and Lorenz reported that solid AgI has a greater conductivity at its melting point than in the molten state.
+Below 147 °C, AgI exists as a mixture of the βand γ-phases having hexagonal wurtzite (space group: P63mc) and cubic zinc blende (space group: F43m) structure.
+Both structures have a close-packed array of iodide ions with half of the tetrahedral holes filled.
+Figure 7 shows the ionic conductivity of AgI, KAg4I5, (K3Rb)0.25Ag4I5, and RbAg4I.
+The ionic conductivity of AgI was increased drastically at 147 °C, by four orders of magnitude reaching a value of 1 S/cm, due to β–α-phase transition [69] and is comparable to that of a liquid electrolyte value at room temperature.
+Below 147 °C, in the βphase, the Ag+ ions reside inside the regular tetrahedra of iodine in the hexagonal wurtzite structure, whereas in α-AgI − phase, the Ag+ sub-lattice is highly disordered and the I ions form a body-centered-cubic lattice.
+The unit cell of α-AgI pos− ions (one [8 × 1/8] at the corners and one at the sesses two I body-center), which is equally distributed over 42Fig.
+Ionicscrystallographic sites consisting 12 tetrahedral, 24 trigonal bipyramidal, and six distorted octahedral co-ordinated sites.
+Buhrer and Bruesch suggest that the phase change in AgI is favored by positive entropy change.
+However, the energy required for creating cationic Frenkel defects limits the increase in entropy.
+The phase transition from β-AgI to α-AgI creates many vacant sites where Ag+ ions are statistically distributed.
+In AgI, a high Ag+ ion conductivity at room temperature can be achieved by stabilizing α-AgI phase.
+Doping βAgI structure with foreign anions and cations results in face sharing of iodide polyhedra with at least neighboring polyhedra to form a structure similar to α-AgI.
+A high Ag+ ion −2 S/cm was observed in β-Ag3SI at room conductivity of 10 temperature by introducing sulfide ion into the lattice of AgI.
+The conductivity in γphase is mainly due to the Cu+ ions arranged over half of the − ions.
+tetrahedral sites in face-centered-cubic (FCC) lattice of I The ionic conductivity of CuI increases intermittently when it transforms to β-CuI at 369 °C.
+β-CuI has hexagonal − wurtzite structure in which I ions form a hexagonal closepacked arrangement and Cu+ ions are distributed over two sets of tetrahedral interstices within space group P3m1 [83, 85].
+The β-phase further transforms to the superionic α-phase at 407 °C with a FCC iodine lattice, reaching ionic conductivity of 1 S/cm.
+In contrast to CuI, ionic conductivity of AgI increases four orders of magnitude at the phase transition from βto α-phase.
+In α-CuI structure, Cu+ ions are mainly distributed between the tetrahedral positions within space group Fm3m
+Even though enormous studies have been conducted on Cu+ ion solid electrolytes, only very few have been used in batteries and are mainly because Cu+-based batteries offer low voltages and energy density [53].
+Sodium ion electrolytesLayered alumina structured compounds exhibit fast ion conduction for various species and have been studied in depth for their scientific aspects and application in batteries [86–88].
+The β-alumina contains mainly Na2O and Al2O3 with small amounts of MgO or Li2O.
+The parent compound Na-βalumina exhibits nominal chemical composition of Na2O· 11Al2O3. The crystalline structure of Na-β-alumina withIonicsnominal formula Na2O·11Al2O3 has been determined, which explains the high ionic conductivity of Na+ ions in β-alumina [88].
+The crystal structure of Na-β-alumina comprises of close-packed layers of oxide ions with aluminum ions in both octahedral and tetrahedral interstices (spinel block) and loosely packed layers (conduction planes) in which Na ions are free to move under an electric field.
+However, three quarters of oxygen are missing in every fifth layer and Al3+ ions are filled in both octahedral and tetrahedral holes of the four closepacked layers.
+A rigid Al-O-Al linkage grips apart the groups of four close-packed oxide layers in which the O atom constitutes the fifth oxide layer.
+The Na+ ions in the fifth oxide layers act as mirror planes in the structure.
+The sequence of layers can be represented as … B-(ABCA)-C-(ACBA)-B …, where the four close-packed layers are shown inside the brackets and the fifth oxide layer is shown by the intermediate symbols.
+X-ray and neutron diffraction studies have shown the two distinct crystal structures of alumina; hexagonal β-Al2O3 (P63/mmc; a = 5.5840 Å, c = 22.4500 Å) and rhombohedral β″-Al2O3 (R3m; a = 5.60 Å, c = 33.95 Å) [89].
+β″-Aluminatends to be more Na ion conductive than that of β-alumina.
+Na+ ions can easily move around inside the crystal due to the availability of vacancies.
+β-Alumina does not demonstrate any normal super-ionic transition, and the ionic conductivity in β″-alumina at 300 °C (0.2–0.4 S/cm) is close to that of typical liquid electrolytes at ambient temperature.
+The symmetrical charge and discharge voltage profiles indicate the reversible transport of Na+ ion across the solid electrolyte.
+After three cycles, the cell capacity was decreased significantly and stabilized at 203 mAh (Fig.8c).
+NASICON structured Li-ion conductorsSodium super ionic conductor is abbreviated as NASICON, having a rhombohedral structure with R3C space group.− NASICON has the general framework unit, [M2P3O12] ,Fig.
+This can be avoided by the partial substitution of M4+ with trivalent cations.
+The ionic conductivity of LiM2(PO4)3 systems, especially LiTi2(PO4)3 can be increased by the partial substitution of the tetravalent metal cation Ti4+ with a trivalent dopant Al3+.
+The increase in ionic conductivity cannot be explained based on the change in cell volume since Al3+ has a lower ionic radius (0.53 Å) than the Ti4+ (0.60 Å).
+The partial substitution increases the M─O bond strength and decreases the Li─O bond strength, whichseems to result in the higher ionic conductivity.
+Similarly, P5+ was substituted by Si4+ in Li1 + x + yAlxTi2 − xSiyP3 − yO12 [100], which resulted in a significant increase in the conduc−3 S/cm at room temperature.
+It has been retivity to 3 × 10 ported that the simultaneous doping of B and Al in −3 S/ LiTi2(PO4)3 showed an ionic conductivity of 1.3 × 10 cm at room temperature.
+At low temperatures, the grain-boundary impedance mainly controls the total conductivity of NASICON-type electrolytes.
+In found to be 2.7 × 10 1999, Weppner’s group made the first approach to make a bulk type all-solid-state Li-ion battery, by cold pressing Li1.3Al0.3Ti1.7(PO4)3 as the electrolyte.
+The battery fabrication temperature was lowered and the electrolyte was densified by the addition of 0.44LiBO2 + 0.56LiF.
+Figure 9d shows the performance of all-solid-state battery: Li4Ti5O12/Fig.9 a Bulk conductivity as a function of temperature in NASICON-type lithium conductors (reprinted with permission from.
+The main drawback of NASICON-type Li1.3Al0.3Ti1.7(PO4)3 electrolytes is that they are not stable when in contact with Li metal due to the reduction of Ti4+ to Ti3+ [103], which limits the use of elemental Li as the anode in the development of high energy density batteries.
+Li-ion conducting nitrides, silicates, phosphates, and chloro-aluminatesIn 1977, Huggins conducted a detailed survey on solid Lithium ion conductors based on silicates, phosphates, and nitrides [103].
+Lithium nitride (Li3N) exists in three different forms in which α-Li3N (P6/mmm), is the stable form at room temperature and ambient pressure.
+Each nitrogen atom is surrounded by eight Lithium atoms in hexagonal bi-pyramidal geometry.
+High ionic conductivity in Li3N is due to the presence of Li vacancies in Li2N layer, which seem to be created by the impurities of H and O.
+H-doped Li3N exhibits a high in−3 S/cm at room temperature plane conductivity of 10 −5 S/cm perpendicular and a conductivity of about 1 × 10 to the sheets.
+Li3N decomposes at potentials of 0.44 V versus Li+/Li [106], which makes it unsuitable for high energy density batteries.
+Li4SiO4 shows the highest values of Lithium ion conductivity in the group of Lithium-silicates and alumino-silicates.
+The structure of Li4SiO4 is made up of isolated tetrahedral SiO4 anionic groups, with eight lithium ions distributed over the 18 available cation sites in the stoichiometric composition.
+Li3PO4-Li4SiO4 solid solutions have been investigated for their ionic conductivity (Fig.10a).
+Li3PO4 substitution can greatly improve the conductivity of Li4SiO4. Figure 10b shows the initial charge-discharge curves and voltage profiles of all-solid-state cell: Li/LiSiPO/LiCoO2.
+The initial stage shows a quick drop in voltage due to ohmic polarization.
+While the cell was charged to 4.5 V, a large capacity loss and a significant increase in resistance were observed.
+It was concluded that the internal resistance mainly originates from the electrolyte/LiCoO2 interface and it has to be minimized to improve the cell performance [107].
+Alkali metal chloro-aluminate family has the general formula MAlCl4 and their structure consists of cations lying between tetrahedral groups, which are the AlCl4 anions.
+The ionic conductivity of LISICON-type solid electrolytes can be improved by the replacement of oxide by sulfur in the framework to achieve −4 S/cm at room temperature.
+These sulconductivity over 10 fide solid electrolytes are called as thio-LISICONs.
+As the radius of S2− with S2 − can considerably increase the size of Li+ transport bottlenecks.
+Also, due to the better polarization capability of S2− as compared to O2− , the interaction between the framework and Li+ ions becomes weak.
+Therefore, thio-LISICON materials generally exhibit higher ionic conductivity compared to that of corresponding oxide analog LISICON.
+Subsequently, a total conductivity of 4 mS/cm at room temperature was reported for Li10SnP2S12 by replacing Ge with Sn.
+Thio-LISICON materials are found to be incompatible with graphite anodes and are highly reactive to Li metal, moisture, and CO2.
+A detailed information on chemical composition-ionic conductivity property relationship together with the mechanism of Li-ion conduction of Li-stuffed garnet material is given in a recent review by Thangadurai et al.
+At room temperature, about three orders of magnitude increase in ionic conductivity has been achieved by increasing the number of lithium per chemical formula unit to five, as in Li5La3M2O12 (M = Bi, Sb, Nb, Ta) [120], from ideal garnet Li3Ln3Te2O12 phase.
+If La is replaced by group II elements in Li5La3M2O12, −5 S/ the ionic conductivity was found to be increased to 4 × 10 cm at room temperature.
+The doping of group II elements in Li5La3Ta2O12 increases the Lithium ion content andElsevier), b charge and c discharge curves and voltage profiles of an all-solid-state cell: Li/LiSiPO/LiCoO2 (reprinted from [107] with permission of Springer)the lattice parameter, causing widening of the lattice, and thereby reduces the activation energy for Li-ion conduction.
+Ba is the most suitable group II element for doping at the La site in Li5La3M2O12, among other earth alkali ions.
+This was attrib10 uted to the larger Ga3+, which results in a larger lattice opening, thereby enhancing Li-ion transport compared to corresponding Al-doped LLZO.
+It was observed that the conductivity of LLZO was further improved by partial substitution of zirconium with tantalum.
+Li6.5La3Zr1.75Ta0.25O12 has showed a total ionic conductivity of ~ 1 mS/cm at 30 °C.
+During high-temperature sintering, it has been reported that there is a significant loss of Li, leading to a decreased ionic conductivity, which justifies the varied conductivity of Li-stuffed garnets with preparation conditions [131–133].
+The impedance plots of Li/LLZT/LiFePO4 battery, b charge and discharge voltage profiles of Li/LLZT/LiFePO4 at 80 and c160 μA/cm2, and d capacity retention and cycling efficiency of the LiFePO4/Li cells at 80 and 160 μA/cm2 (reprinted with permission from [124].
+Figure 12a shows the impedance plots and charge-discharge profiles of all-solid-state Li battery: Li/LLZT/LiFePO4. The impedance plot shows a reduction of total resistance value for an all-solid-state Li/polymer/LLZT-2LiF/LiFePO4 battery.
+The charge-discharge voltage profiles (Fig.12b) show a lower over-potential of 0.2 V/Li at 80 μA/cm2 for LLZT-2LiF.
+The charge capacity (Fig.12d) has been stabilized at 120 mAh/g over 100 cycles at 80 μA/cm2 with a high coulombic efficiency of 99.8–100%.
+Perovskite-type solid Li-ion electrolytesThe perovskite structure can be simply represented by a cubic unit cell in which the A ions sit in the center and B ions are at the corners and each of them is bonded to six oxide ions.
+Perovskite structured Li-ion conductors are developed by replacing some of the Li+ ions in the A-site of ABO3 perovskitestructure by other small cations with greater positive charges.
+Li-ion conductivity in the perovskite system is a result of the Li+ movement in the A-site vacancies.
+Li-ion conducting A-site deficient perovskite has a general formula of Li3xLa(2/3) − x□(1/3) − 2xTiO3 (0 < x < 0.16) (LLTO).
+Some of the (La, Li) titanates −3 S/cm at have achieved a high bulk Li-ion conductivity of 10 ambient temperature.
+The two main factors affecting the conductivity of LLTO electrolytes are bottleneck size and Li content in LLTO.
+LLTO consists of a high-temperature phase with cubic Pm3m symmetry (α-LLTO) and a lower temperature β-LLTO phase having tetragonal (P4/mmm) symmetry.
+A decreased about 10 conductivity has been observed when the A-site is doped with rare earth cations such as Pr, Nd, and Sm (Ln).
+This is because of the shortening of the Ln-O bond length, which results in narrowing of the hopping of Li-ions through the bottleneck containing four oxygen atoms.
+Hence, the oxygen position should be controlled in order to form the bottleneck to have facile Li hopping.
+Lithium can be intercalated into LLTO at a potential below ~ 1.7–1.8 V vs.
+Li, which results in the coexistence of Ti4+ and Ti3+ causing an increased electronic conductivity.
+Hang et al. have constructed a non-aqueous Li-O2 battery, in which a bilayer LiPON/Al-LLTO solid electrolyte is employed as a protective layer for a Li metal electrode and MnO2 as cathode catalyst [145].
+As shown in the Fig.11c, the Li-O2 cell was galvanostatically cycled at 0.1 mA/cm2 under the limited capacity mode of 1000 mAh/g within the cut-off potential range between 2.0 and 4.5 V.
+A gradual decay of Li metal electrode was observed within the first 90 cycles and afterward it rapidly faded.
+The discharge cell potential dropped to 2 V from the 129th cycle onward and the capacity observed was only 872 mAh/g.
+Glassy and glass-ceramic electrolytesAmorphous or glassy materials are more promising candidates for solid electrolytes due to their several advantages over the crystalline materials, including isotropic ionic conduction, negligible grain-boundary resistance, and ease to be fabricated into thin films [150, 151].
+The sulfide glassy electrolytes have −5 S/cm) compared to the a higher ionic conductivity (10 −8 S/cm) due to the high polarizoxide electrolytes (10 ability of sulfur ions.
+The conductivity of glassy electrolytes can be improved by mixing two different anion species.
+It can also be improved by the addition of lithium halides and lithium ortho-oxosalts.
+Sulfide solid electrolytes must be handled in an inert atmosphere since they can react with ambient moisture and generate H2S.
+However, this can be suppressed by the partial substitution of sulfur atoms by oxygen atoms.
+Room temperature ionicconductivity of glass-ceramic oxides was found to be in the range of 10ConclusionsIn the past few decades, huge efforts have been invested in the research of all-solid-state batteries to advance their performance.
+One of the main barriers in the development of high power/energy density all-solid-state batteries is the high internal impedance of the electrochemical cell components due to poor ionic conductivity in the electrolyte and electrode/ electrolyte charge transfer resistance.
+This review reports structure, chemical composition, and conductivity relationship in several inorganic solid Li-ion electrolytes, such as AgI, β-alumina, NASICON and LISICON-type, perovskites, and garnet-type metal oxides.
+Ionic conductivities of the solid electrolytes are being improved by chemical doping.
+NASICON, perovskite, and garnet exhibit ionic conductivity −3 S/cm at room temperature.
+Ti-based in the order of 10 NASICON and perovskite structures are chemically unstable with Li metal and this limits the use of these electrolytes in allsolid-state batteries.
+Taand Zr-based Li-stuffed garnet-type electrolytes are stable with Li metal, but they are susceptible to moisture and CO2 and they form Li2CO3, which decreases the ionic conductivity.
+Sulfide materials exhibit very high ionic −2 S/cm) at room temperature but are conductivity (~ 10 hydroscopic and form toxic H2S when in contact with moisture.
+The review also further discusses the performance of allsolid-state batteries based on different types of solid electrolytes.
+Compatibility of different solid electrolyte materials with all-solid-state batteries is also explored in this review considering the fact that the ongoing research in solid-state batteries is rapidly advancing in this direction.

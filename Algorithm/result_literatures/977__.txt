@@ -1,0 +1,66 @@
+Progress in electrochromic lithium ion batteries (LIBs) is reviewed, highlighting advances and possible research directions.
+
+ Methods for using the LIB electrode materials’ magnetic properties are also described, using several examples.
+
+Li4Ti5O12 (LTO) film is discussed as an electrochromic material and insertion compound.
+
+ The opto-electrical properties of the LTO film have been characterized by electrical measurements and UV–Vis spectra.
+
+A prototype bi-functionalelectrochromic LIB, incorporating LTO as both electrochromic layer and anode, has also been characterized by charge–discharge measurements and UV–Vis transmittance.
+
+The results show that the bi-functional electrochromic LIB prototypeworks well.
+
+ Magnetic measurement has proven to be a powerful tool to evaluate the quality of electrode materials.
+
+Weintroduce briefly the magnetism of solids in general, and then discuss the magnetic characteristics of layered oxides, spineloxides, olivine phosphate LiFePO4, and Nasicon-type Li3Fe2(PO4)3.We also discuss what kind of impurities can bedetected, which will guide us to fabricate high quality films and high performance devices.
+
+Lithium ion batteries (LIBs) have attracted a great dealof attention in recent decades due to their promise for hybrid vehicle applications, power supplies for portable equipments, etc.
+
+ Much effort has been expended to improve LIBperformance dimensions such as long term stability and highpower/charge capability, which are both highly dependent onthe quality of the electrode and electrolyte materials.
+
+Theelectrode material of an LIB is usually an insertion compound, which provides pathways for shuttling lithium ions,benefitting both fast ion transport and charge balance.
+
+Insertion electrode materials used for LIBs include layered oxides with α-NaFeO2-type structure, spinel oxides, and olivinephosphates.
+
+Keep in mind, however, that insertion electrodematerials (which include electrochromic metal oxides), LIBs,and conducting polymers[3,4]are developed not only for energy storage applications, but also for electrochromic use.
+
+Very recently, an exciting research report entitled “bifunctional device for self-powered electrochromic windowand self-rechargeable transparent battery applications” waspublished in Nature Communications;[5]it provides the possibility of combining electrochromism and a secondary batteryto realize the dual functions of electrochromism and energystorage on the same device.
+
+Although that work is in an earlystage, scientists are inspired to combine electrochromism andLIBs through finding insertion electrode materials that changecolor at an applied voltage/electric field.
+
+This kind of work islikely to become a new research hotspot in the scientific community in the near future.
+
+The combination of electrochromism and LIBs requiresmatching electrode materials.
+
+For example, both electrodesmust be insertion materials that can intercalate/de-intercalateand store lithium, and at least one electrode exhibits electrochromism; redox on both electrodes should be performedat the same time in order to maintain charge balance in thedevice and circuit; matching the electronic conductivity andlithium ionic conductivity of the electrode materials is anotherimportant issue.
+
+The bi-functional devices combining electrochromismand LIBs require high quality electrode materials to maximize their opto-electrical properties and lifetime.
+
+Magneticexperiments are powerful tools to study the fundamental properties of lithium intercalation compounds and to assess theirquality,[2] because impurities in electrode materials exert significant influence on the magnetic properties.
+
+In addition,observing the effects of temperature and stress on the magnetic properties reveals where the properties originate and howthe electrons are configured.
+
+ Cherneva et al.demonstratedhow the use of magnetic properties can advance the structure, composition, and electrochemical performance of LIBmaterials.
+
+ For instance, the magnetic properties are highlysensitive to structural defects and impurities, often beyondthe sensitivity threshold of x-ray diffraction.
+
+In this review,we introduce the mainstream of progress in researching bifunctional devices that combine electrochromism and LIB energy storage, highlighting the advances and the possible research directions.
+
+We also describe, using several examples,how to use the LIB electrode materials’ magnetic properties.
+
+In this paper, progress on two of the most exciting andpromising research topics in the field of LIB electrode materials electrochromism and magnetism has been reviewed.
+
+Aswe move forward in the design of devices, electrochromic materials and LIB electrode materials must both be insertion materials.
+
+Electrochromic LIBs must consist of five layers forthe purpose of charge balance.
+
+The possibility of bi-functionaldevices that use LTO as the EC layer has already been demonstrated.
+
+A prototype bi-functional electrochromic LIB basedon a liquid electrolyte has been demonstrated.
+
+Thanks to theprogress of solid state electrolyte research, high ionic conductors can be obtained; therefore it may be expected that successful all-solid state bi-functional electrochromic LIBs willbe fabricated in the near future.
+
+The opto-electrical properties and long term stability of bi-functional electrochromicdevices depend heavily on the quality of both electrode filmmaterials and solid state electrolytes.
+
+Measuring changes inthe magnetic parameters of LIB electrode materials is effective in detecting impurities and structural changes in layered oxides, spinel oxides, olivine phosphates, or Nasicontype Li3Fe2(PO4)3.For these reasons, we feel confident thatwith the ongoing improvement of magnetic properties in electrode materials, the quality of films also improves, carryinghigh performance bi-functional electrochromic devices towardwidespread application.
+

@@ -1,0 +1,49 @@
+A planar miniaturized SO2 sensor based upon a thick film of Ca2+ ion conductor-CaOÆ0.6MgOÆ6Al2O3 (CMA) witha Na2SO4 auxiliary electrode and a Pt/O2 reference electrode was fabricated and tested.
+The thick film was fabricatedby screen-printing CMA ink on an alumina substrate and then fired at 1823 K.
+The solid electrolyte wasinterfaced with a sodium sulphate auxiliary phase containing Pt paste and the sensor showed a good SO2 response at873–1073 K.
+The electromotive force (emf) values obtained were linearly dependent upon the logarithm values ofSO2 concentration in a range of 10–500 ppm.
+Both the electrodes were exposed to the same test gas thus eliminatingthe need to separate the electrode chambers.
+Solid state electrochemical sensors for SO2 have beenwidely researched.
+The other two componentswere added slowly and mixed to ensure completedispersion.
+The slurry diluted with additions of acetonewas milled for a further 24 h before being poured into alarge Pyrex basin ready for screen printing.
+Commercially available alumina tiles 5050 mm2 andapproximately 0.5 mm thick were chosen as the substratematerial.
+Each tile was laser scribed to allowseveral individual sensors to be printed on one large tile.
+Screen printing was performed using a DEK 240 tablemounted screen printer.
+The thick film was then fired at1823 K for 1 h in order to densify the electrolyte layerbefore attaching the electrodes.
+For SO2 sensors, the reference and sensing electrodeswere fabricated by painting commercial Pt paste on thedesignated regions and annealed at 1173 K for 30 min.
+A porous film of Pt+Na2SO4 auxiliary electrode wasdeposited on the Pt sensing electrode by painting a pasteof Pt+Na2SO4 followed by melting (at 1173 K) andquenching.
+The structure of the sensor is shown inFigure 1.
+The SO2 sensorswere tested in controlled conditions at different SO2contents and operating temperatures.
+Measurementswere carried out in a conventional gas-flow apparatusequipped with a heating furnace.
+Premixed samplegases, which were prepared by diluting a parent gas(5000 ppm SO2 in air/N2), with synthetic air or Ar usinggas blender and were allowed to flow through the quartztube where the sensor was positioned at a controlledflow rate of typically 200 cm3 min)1. The SO2 concentrationin gas mixture was varied from 10 to 500 ppm.
+Operating temperatures from 873 to 1073 K wereinvestigated.
+The partial pressure of oxygen in the gaswas independently controlled.
+Electromotive forces(emfs) were measured with a high impedance electrometer(>1012 ohm) and the data transferred to a PC baseddata collecting system (Pico ADC-16).
+
+Variation ofthe sensor emf with SO2 concentration in the gasmixture at 961 K is presented in Figure 3. 
+The relationshipbetween emf and the logarithm value of the partialpressure of SO2 at a fixed PO2 value is found to be linearover the whole concentration range tested.
+The slope of the response curve calculated from theexperimental data is 74.5 mV decade)1 at 961 K.
+Fromthe slope, using the Nernst equation, the number ofelectron transferred in the electrochemical reactions iscalculated to be 2.5 rather than the proposed 2.0. 
+Thisdifference may be partially attributed to the lack of emfstabilization, especially at the low concentration end,thus resulting in a higher slope than predicted.
+Figure 4 gives a typical emf response to stepwisedecrease in the O2 concentration from 0.21 atm to about 200 ppm for a planar SO2 sensor at a temperature of 962 K and at PSO2=72 ppm.
+The emf of the celldecreased as PO2 was decreased.
+Figure 5 presents emf changes with variation of O2 concentration in the gas mixture from 200 ppm to0.21 atm with SO2 fixed at 74 ppm.
+The emf linearlyincreased with increased oxygen partial pressure in thefirst part.
+The linear equation can be expressed asE=)34.7+546.2PO2. 
+At high oxygen partial pressure,the emf values begin to plateau to a constant value.
+At agiven SO2 concentration when the oxygen concentrationis low, the conversion rate of SO2 to SO3 is stronglydependent on the oxygen partial pressure.
+When theoxygen partial pressure is high, its effect on conversionbecomes weak, which is in agreement with Equation (8).
+In order to evaluate the effect of the temperature onemf, the sensor was tested at different fixed temperatures.
+
+The emf responseof the sensor was linear, with positive slope, to thelogarithm of SO2 concentration (logPSO2) at each temperature.
+The calculated number of transferred electrons,derived from the Nernstian equation as applied to thebest linear fit, are 2.3, 2.5 and 2.4, at temperatures of937, 961 and 1024 K, respectively.
+The deviation oftransferred electron number from two can be explainedby looking at the scatter of data around the fit line.
+Ifthe scattered data is ignored, the calculated number oftransferred electrons approaches two.
+The scatter maybe related to lack of complete equilibrium between SO2/O2/SO3 on the Pt/Na2SO4 surface and changes in aCaOdue to surface exchange reactions.
+Both the bulk and the thick film SO2 sensors based onthe CMA/Na2SO4 system display similar sensing propertieswith respect to response mechanism, responsetime and the influence of O2 partial pressure.
+However,for a given gas composition the following differenceshave been observed.
+The emf of the thick film sensor islower than those of a bulk sensor; the sensitivity of bulksensor is higher than that of film sensor and the resultswere more scattered with the thick film sensor.
+These may be attributed to variations in a CaO in solidelectrolyte film due to surface exchange reactions andchemical reactions between alumina substrate andelectrolyte film during preparation and also to lack of complete equilibrium between SO2/O2/SO3 on the Pt/Na2SO4 surface in film sensor.
+CaO  0.6MgO  6Al2O3 thick film solid electrolyte isfabricated by screen printing technology on an aluminasubstrate.
+A planar SO2 sensor based on this film with aNa2SO4 auxiliary electrode exhibits a satisfactory performancefor detecting SO2 in the concentration range of10–500 ppm.
+The measured emf of the sensor was foundto be a linear function of logarithm of partial pressure ofSO2 over the whole range of concentration at 873–1073 K, although some deviation from Nernstian slopeexists.

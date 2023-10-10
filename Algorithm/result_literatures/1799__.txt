@@ -1,0 +1,11 @@
+A new SO2 gas sensor based upon interfacing two composite solid electrolytes-NASICON containing up to40 wt.
+% Na2O glass and Sr-b-Al2O3 containing 3 mol % Y2O3–ZrO2 with a Na2SO4 electrode and aPt/O2 reference electrode has been designed and tested.
+In this design, both the electrodes are exposed to the sametest gas thus eliminating the need for a separate reference compartment.
+The experimental results have shown thatthe measured emf of the sensor varied linearly as a function of logarithm of partial pressure of SO2 over aconcentration range of 1–1000 ppm in the temperature range of 873–1073 K.
+The emfs were stable andreproducible and the response time was approximately 1 min.
+In this work, a novel SO2 gas sensor based on interfacing two composite solid electrolytes has beendeveloped.
+Nasicon + Na2O.
+Al2O3.4SiO2 glass in combination with Na2SO4 and Pt/Al2O3 catalysts wasused for providing SO2 sensitivity, while Sr-b-Al2O3 + PSZ with Pt served as the O2 electrode.
+Thesensor exhibited rapid and stable response.
+The measured emf of the sensor was found to be linear withthe logarithm of SO2 partial pressure over a concentration range of 1–1000 ppm and a temperature rangeof 873–1073 K.
+In this mode, both the electrodes are exposed to the same test gas, so separation of thereference compartment from the sensing compartment is not necessary and oxygen effect is greatlymitigated at high PO2values.

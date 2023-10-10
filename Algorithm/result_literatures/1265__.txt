@@ -1,0 +1,53 @@
+The chemical stability and conductivity of nasicon-structured a-Li3Fe2(PO4)3 make it a possible candidate for a cathode material in Li-battery. The x-ray diffraction pattern of Li3Fe2(PO4)3 showed the monoclinic structure with space group of P21/n. In the zero-ﬁeld-cooled (ZFC) curve, the magnetization remained constant while the temperature was increased up to the splitting temperature (TS¼ 11 K) of two sub-lattices, indicating the antiferromagnetic behavior below TS. Magnetization curves of both ZFC and FC from 4.2 to 295 K showed ferrimagnetic behavior below the Neel temperature (TN¼ 29.5 K). We observed the change in the slope of the temperature-dependent Hhf curve at TS. These results suggest that the change in the spin ordering in Li3Fe2(PO4)3 is originated from the difference in hyperﬁne interactions between the localized Fe3þ magnetic ions at each of two sub-lattices. The spectra of Li3Fe2(PO4)3 under applied magnetic ﬁeld of 5 T exhibit the magnetic phase transition around TS, indicating antiferromagnetic behavior below TS and ferrimagnetic behavior between TS and TN. VC 2013 American Institute of Physics. [http://dx.doi.org/10.1063/1.4794188]
+
+The crystal structure of synthesized Li3Fe2(PO4)3 sample was characterized by XRD with Cu-Ka radiation (k¼ 1.5406 A˚ ). Temperature dependence of zero-ﬁeldcooled (ZFC) and ﬁeld-cooled (FC) curves was obtained by VSM under 100 Oe from 4.2 to 295 K. Also, the M€ossbauer spectra were recorded with 57Co source in rhodium matrix under applied magnetic ﬁeld of 5 T, parallel to c-ray direction inside of a superconductor cryostat.
+
+The XRD pattern of Li3Fe2(PO4)3 was analyzed with Rietveld reﬁnement method using FULLPROF program, as shown Fig. 1. The crystal structure of Li3Fe2(PO4)3 was determined to be monoclinic (space group: P21/n). The lattice constants and unit cell volumes (V) are a0¼ 8.570 A˚ ,
+
+Lithium ion battery is highly attractive as a secondary energy storage system. Many of the experimental works have been focused on ﬁnding the suitable cathode materials such as LiFePO4, LiCoO2, Li2FePO4F, and LiFeSO4F for lithium ion battery application.1–5 These materials are required to have the necessary electrochemical properties such as structure stability, high ionic conductivity, large capacity, and long cycle life. The nasicon-structured Li3Fe2(PO4)3 is highly possible as a cathode material due to its high ionic conductivity and structural stability as well as with simple fabrication procedure.6
+
+The understanding of its magnetic properties is very important since its magnetic properties are strongly related to its electrochemical properties. So far, many of research efforts have been only focused on the electrochemical aspects of Li3Fe2(PO4)3.7–9
+
+In this study, we have investigated the crystal structure and magnetic properties of the Li3Fe2(PO4)3 using x-ray diffractometer (XRD), vibrating sample magnetometer (VSM), and M€ossbauer spectrometer, to explore the magnetic characteristics of Li3Fe2(PO4)3, which are essential for the lithium ion battery application.
+
+The Li3Fe2(PO4)3 was prepared by solid state reaction (99.999%), and method. Li2CO3 FeC2O42H2O (99%) were used as starting materials, mixed with appropriate stoichiometric ratio, and then ground in an agate mortar. The mixtures were calcined at 300 C for 4 h under Ar and pressed into a pellet form under 5000 N/m2.
+
+a)Author to whom correspondence should be addressed. Electronic mail: cskim@kookmin.ac.kr. Fax: þ82-2-910-5170.
+
+FIG. 1. The reﬁned x-ray diffraction patterns of Li3Fe2(PO4)3 at 295 K.
+
+VC 2013 American Institute of Physics
+
+Downloaded 14 Apr 2013 to 146.201.208.22. This article is copyrighted as indicated in the abstract. Reuse of AIP content is subject to the terms at: http://jap.aip.org/about/rights_and_permissions
+
+FIG. 2. Temperature dependence of magnetization curves under 100 Oe between 4.2 and 295 K.
+
+FIG. 4. Temperature dependence of the magnetic hyperﬁne ﬁeld (Hhf) of Li3Fe2(PO4)3.
+
+b0¼ 12.014 A˚ , c0¼ 8.616 A˚ , c¼ 90.511, and V¼ 887.116 A˚ 3, respectively. The Fe ions are expected to locate at two crystallographic positions.10,11 Therefore, we have considered that Li3Fe2(PO4)3 has two different sub-lattices of [1,1,1] and [2,2,2] in asymmetric FeO6 octahedral sites.
+
+Figure 2 shows the temperature-dependent ZFC and FC magnetization curves of Li3Fe2(PO4)3 from 4.2 to 295 K with an applied ﬁeld of 100 Oe. The ZFC curve remains constant up to the splitting temperature of sub-lattices (TS¼ 11 K) with increasing temperature. Below the Neel temperature (TN¼ 29.5 K),12 the ZFC and FC curves show the ferrimagnetic behaviors.
+
+In order to investigate the hyperﬁne interaction between two sub-lattices of Fe3þ ions in each FeO6 sites, M€ossbauer spectra of Li3Fe2(PO4)3 were obtained at various temperatures from 4.2 to 295 K, as shown Fig. 3. The isomer shift (d) values of Li3Fe2(PO4)3 are between 0.32 and 0.46 mm/s at all temperatures range, indicating ferric (Fe3þ ) state relative to Fe metal.13 Above TN, the M€ossbauer spectra show two doublets due to the disappearance of magnetic ordering between Fe ions. The M€ossbauer spectra below TS were analyzed by a set of six-line with the resulting values of Hhf¼ 558 kOe, DEQ¼ 0.24 mm/s, and d¼ 0.44 mm/s at 4.2 K. However, the M€ossbauer spectra above TS split into two sextets. The corresponding values of Hhf in each sextet
+
+FIG. 3. M€ossbauer spectra of Li3Fe2(PO4)3 under zero ﬁeld at various temperatures.
+
+FIG. 5. M€ossbauer spectra of Li3Fe2(PO4)3 under external ﬁeld of 5 T at various temperatures.
+
+Downloaded 14 Apr 2013 to 146.201.208.22. This article is copyrighted as indicated in the abstract. Reuse of AIP content is subject to the terms at: http://jap.aip.org/about/rights_and_permissions
+
+TABLE I. M€ossbauer parameters of Li3Fe2(PO4)3 under 0 and 5 T at various temperatures: magnetic hyperﬁne ﬁeld (Hhf), electric quadrupole splitting (DEQ), isomer shift (d), and the area ratio of A2,5/A1,6.
+
+at TS¼ 11 K are Hhf,B1¼ 535.78 and Hhf,B2¼ 526.35 kOe, respectively. The observed set of six-line indicates that each Fe ion is arranged with antiparallel spin direction and has almost identical magnetic ordering below TS. However, the splitting of the spectrum above TS can be explained as Fe ions in each sub-lattice having the different hyperﬁne interaction, leading to the ferrimagnetic structure.
+
+Figure 4 shows the temperature dependence of magnetic hyperﬁne ﬁeld (Hhf) curves of Li3Fe2(PO4)3. The Hhf values decrease with increasing temperature. We have also observed the change in the slope of the temperature-dependent Hhf curves at TS, indicating the change in superexchange interaction with the spin-reorientation of each FeO6 octahedral by the strong crystalline ﬁeld.14 These results suggest that the change in the spin ordering in Li3Fe2(PO4)3 is originated from the different hyperﬁne interactions between localized magnetic Fe3þ ions at each of two sub-lattices, which induces the magnetic phase transition from antiferromagnetic to ferrimagnetic.
+
+The M€ossbauer spectra under applied magnetic ﬁeld of 5 T are shown in Fig. 5 and the resulting M€ossbauer parameters at zero ﬁeld and 5 T are listed in Table I. We observed that the ratio (A2,5/A1,6) of second and ﬁfth area to ﬁrst and sixth area is constant under zero external ﬁeld. However, there was an apparent change in A2,5/A1,6 under the applied ﬁeld of 5 T. We also observed magnetic phase transition at TS¼ 11 K. Below TS, the second and ﬁfth of the six absorption areas (A2,5) are larger than those of the ﬁrst and sixth of the six absorption areas (A1,6). However, the ratio of A2,5/A1,6 decreases with increasing temperature above TS. We expect that Li3Fe2(PO4)3, antiferromagnetic below TS, becomes ferrimagnetic because Li3Fe2(PO4)3 has antiferromagnetic coupling between Fe1-Fe2 below TS, while above TS this coupling is weakened. This is due the fact that above TS the change in spin orientation of Fe1 and Fe2 with increasing temperature enhances ferrimagnetic coupling under magnetic ﬁeld of 5 T.
+
+In summary, the nasicon structured Li3Fe2(PO4)3 has been studied with XRD, VSM, and M€ossbauer spectrometer. We found that Li3Fe2(PO4)3 has two different sub-lattices of
+
+Fe3þ with the different spin ordering and superexchange interaction. In the ZFC magnetization curves, the magnetization was constant below TS¼ 11 K, indicating the magnetic phase transition from antiferromagnetism to ferrimagnetism. Also, we have observed that M€ossbauer spectra above TS split into two sub-lattice sextets with the sudden change in the slope of hyperﬁne ﬁeld curve due to the magnetic phase transition, due to different thermal agitation and spin orientation in each Fe3þ
+
+Under applied magnetic ﬁeld of 5 T, Li3Fe2(PO4)3 shows the magnetic phase transition of antiferromagnetic to ferrimagnetic around TS.
+
+This work was supported by Mid-career Researcher Program through the National Research Foundation of Korea (NRF) grant funded by the Ministry of Education, Science and Technology (MEST) (2012-0000169).

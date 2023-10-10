@@ -1,0 +1,64 @@
+Series of Li1.5Al0.5Ge1.5(PO4)3 glass ceramic samples were prepared in this work through the change of heat treatment temperature from 650 to 1050 °C. The structures of glass ceramic samples were characterized by means of high temperature X-ray diffraction and Field Emission Scanning Electron Microscope. And the lithium ionic conductivity was analyzed through AC impedance spectroscopy. Through heat treatment at 850 °C for 4 h for the base glass sample, we obtained a maximum conductivity of 5.8 × 10−4 S/cm at room temperature. Crown Copyright © 2013 Published by Elsevier Inc. All rights reserved.
+
+Lithium aluminum germanium phosphate glass-ceramics are considered as the potential electrolyte materials used in energy storage devices and electrochemical sensors, owing to their excellent lithium ionic conductivity, high mechanical strength and low atomic mass of lithium [1–3]. These lithium ionic conducting glass-ceramics can be obtained through sol–gel process [4,5], the classical powder sintering route [6,7] and glass-ceramic process [8,9]. The last method is widely used to fabricate lithium ionic conducting glass-ceramics owing to the homogeneous microstructure and high lithium ionic conductivity of obtained materials [10]. Most studies reported so far on Li1.5Al0.5Ge1.5(PO4)3 glass-ceramic show that total roomtemperature Li+ conductivities is in the range of 10−3–10−5 S/cm [11–17]. However, the phase decomposition that occurred during heat treatment is not well understood up to now.
+
+The aim of this work is to investigate the composition, cell parameters and the mass fraction of each crystal phase, which appears during the heat treatment of the original glass.
+
+Then the relationships between average grain size and conductivity were further analyzed.
+
+Stoichiometric amounts of lithium carbonate, aluminum oxide, germanium oxide and ammonium di-hydrogen phosphate were used as the raw materials to prepare Li1.5Al0.5Ge1.5(PO4)3 (LAGP) glass by a traditional melt-quenching method. 10% excess lithium carbonate was employed to compensate loss of lithium during the melting processing. The powders were weighed, mixed and milled in a high energy milling machine for 60 min. Then they were transferred to an electric furnace and heated up to 700 °C in an alumina crucible for 2 h in order to decompose ammonia, carbon dioxide and water vapor out from the raw materials. Platinum crucibles are not suitable since they can be corroded by phosphorus compounds. The powder were melted at 1350 °C for 2 h and poured onto preheated stainless steel plates. The cast glass sheets were annealed at 470 °C for
+
+2 h to release the thermal stresses and then cooled down to room temperature. To obtain the glass-ceramic specimens, the annealed glass sheets were crystallized at 650, 750, 850, 950 and 1050 °C for 4 h at the same heating rate of 5 °C/min, respectively. Later, these glass-ceramic specimens will be labeled as specimens #1, #2, #3, #4 and #5, respectively.
+
+High-temperature X-ray diffraction (HT-XRD) was performed using a SIEMENS D5000 diffract meter with Cu Kα radiation and ANTON PAAR HTK 10 heating stage, suitable for temperatures up to 1000 °C. All the samples were previously ball milled in order to obtain a grain size <75 μm. The samples were heated using a rate of 5 °C/min and kept at various temperatures for 4 h. Then the measurement was started with the step size of 0.02°. Subsequently, the sample was heated to a higher temperature and the next measurement was started. According to the HT-XRD data, cell parameters of crystal phases were determined by Rietveld method by using MAUD (material analysis using diffraction) software [18]. The error in Rietveld refinement was noted as ±0.5%.
+
+The microstructure of the crystalline phases was observed by means of the Field Emission Scanning Electron Microscope (FESEM, JSM-5510LV, Japan) on fractured surfaces. The conductivities were determined using impedance spectroscopy (Solartron 2016 impedance analyzer) in the frequency range of 0.1–106 Hz, with voltage amplitude of 500 mV. After polishing, silver was sputtered onto the two parallel faces of the specimens in order to ensure the necessary electrical contacts. The silver coated specimens were assembled into a cell fixture using stainless steel blocking electrodes.
+
+labeled because of their small quantity. So, Table 1 is designed to guide the interpretation of Fig. 1.
+
+As shown in Table 1, the NASICON-type phase of LiGe2(PO4)3 is the dominant crystal phase in the glass-ceramic system, with side phases such as Li9Al3(P2O7)3(PO4)2, AlPO4, GeO2 and Li4P2O7. The enhancement of heat treatment temperature from 650 °C to 950 °C leads to the decomposition of LiGe2(PO4)3 phase, which is not favorable to the lithium ionic conduction. It is interesting that AlPO4 and GeO2 phases come out when heat treatment temperature rises to 850 °C, which is attributed to the decomposition of LiGe2(PO4)3 phase. The structural refinement data are acceptable, when the Rw < 10% for a medium complex phase, for a high complex phases (monoclinic to triclinic), the value of Rw < 15% and for a highly symmetric material or compound (cubic) with few peaks, the value of Rw < 8% [14]. As an indication of Rietveld refinement quality, the difference plot for observed and calculated patterns of samples #1 and #4 are shown in Fig. 2. The refining agreement factor of Rw (Table 1) is reliable when Rw < 15% [19]. The Rietveld refinement for LAGP samples were performed based on the LiGe2(PO4)3, Li9Al3(P2O7)3(PO4)2, AlPO4, GeO2 and Li4P2O7 phases and their Crystallographic Information File (CIF).
+
+The cell parameters determined by Rietveld calculations were plotted in Fig. 3. The error in cell parameter determined by Rietveld calculation was noted as ±0.002. The cell parameter a is almost a constant, whereas the cell parameter c and cell volume V increase slightly following the increase of heat treatment temperature from 650 to 850 °C, and then decrease gradually with the further enhancement of heat treatment temperature.
+
+To identify the possible crystal phase, HT-XRD was recorded for LAGP glass-ceramics, as shown in Fig. 1. It is evident that LiGe2(PO4)3 phase was the main crystal phase for all samples. In addition, there are some side phases, which could not be
+
+Fig. 1 – Evolution of high temperature XRD of LAGP glass ceramics.
+
+The FESEM micrographs of fractured surfaces of LAGP glassceramic specimens are shown in Fig. 4(a–d). It is noted that a great number of crystal phases firstly separate out from LAGP original glass (Fig. 4(a)). The bright spots in Fig. 4(a) are proved to be small LiGe2(PO4)3 crystal phase according to the atom ratio of Ge:P:O from EDS analysis, which is not shown here. The average grain size of the crystal is only about 0.5 μm because the heat treatment temperature is not high enough. The grains of the specimen crystallized at 750 °C become irregular in shape maybe due to the LAGP glass phase wrapped on the crystals (Fig. 4(b)).
+
+When the heat treatment temperature increases to 850 °C, the grains and grain boundaries become distinct, with complicated microstructures and even grains of LAGP glass-ceramics (Fig. 4(c)). However, when the temperature further enhances to 950 °C, the shape of grains become blurry and new crystal phases are observed clearly in the grain boundaries, which is attributed to the growth of impurity phases such as AlPO4, GeO2, Li9Al3(P2O7)3(PO4)2 and Li4P2O7 (Fig. 4(d)).
+
+The room temperature complex impedance plots and the corresponding equivalent circuits are illustrated in Fig. 5 for the fabricated LAGP glass-ceramic specimens. As shown in Fig. 5, there is only one depressed semicircle following with an oblique line observed for all samples. The depressed semicircle
+
+Table 1 – The mass fraction of crystal phases and the agreement factor of all samples. Sample
+
+The agreement factor Rw (%)
+
+Mass fraction of each crystal phase (%)
+
+represents the resistances of grain and grain boundary. In addition, the appearance of a low frequency oblique line in the case of ionic blocking electrodes is an indication of the ionic nature of the NASICON-type material. Accordingly, the total
+
+resistance Rt of the samples can be obtained from the right intercept of the semicircle with the real axis in the plots, while the total conductivity (σt) of LAGP glass-ceramic is calculated by σt = H/(S·Rt), where H is the sample's thickness and S is its valid
+
+Fig. 2 – Rietveld refinement of the X-ray diffraction patterns of LAGP glass ceramics crystallized at 650 and 950 °C for 4 h.
+
+Fig. 3 – Crystallographic parameters of LAGP from Rietveld analyses.
+
+surface area [20–22]. It is noted that the surface area of the sample is different from each other in the present work. The total resistance Rt of all the LAGP glass-ceramic sample
+
+obviously decreases following the increase of heat treatment temperature from 650 to 850 °C, and then increases gradually with further enhancement of heat treatment temperature. We
+
+Fig. 4 – FESEM micrographs of the fracture surface of LAGP samples crystallized for 4 h at (a) 650 °C, (b) 750 °C, (c) 850 °C, (d) 950 °C, respectively.
+
+Fig. 5 – Complex impedance plots of LAGP specimens crystallized at 650 °C to 950 °C for 4 h, respectively.
+
+measurement was used to investigate the phase evolution during the period of heat treatment. The enhancement of heat treatment temperature from 650 to 950 °C leads to the decomposition of the main phase LiGe2(PO4)3, together with the appearance of other side phases such as AlPO4, GeO2 and Li4P2O7. The average grain size, the cell parameter c and cell volume V increase slightly following the increase of heat treatment temperature from 650 to 850 °C, and then decrease with further enhancement of the temperature. A maximum total conductivity of 5.8 × 10−4 S/cm at room temperature is obtained for the sample heat treated at 850 °C for 4 h.
+
+feel that the change in total resistance Rt should be related to the formation of impurity phases such as Li9Al3(P2O7)3(PO4)2, AlPO4, GeO2 and Li4P2O7 together with the formation of pores in LAGP glass-ceramic. This interpretation is supported by XRD and FESEM results, as shown in Figs. 2 and 4.
+
+The lithium ionic conductivity of the LAGP glass-ceramic is believed to be affected by the average grain size that is related to the heat treatment temperature. Based on the average grain size measured from the SEM micrographs (Fig. 4) and resistance Rt from complex impedance plots (Fig. 5), the variation of electrical conductivity at room temperature and average grain size versus heat treatment temperature are constructed in Fig. 6. The graph clearly indicates that the electrical conductivity and average grain size increase following the enhancement of heat treatment temperature from 650 to 850 °C, and then decrease gradually with further enhancement of the temperature. Maybe this phenomenon can be attributed to the change of volumetric contribution of the grain boundaries following the evolution of the average grain size. The disordered nature of grain boundaries would destroy the conductive paths of the highly conductive NASICON structure. These results agree with the previous explanation obtained from sintered ceramics [23].
+
+
+Li1.5Al0.5Ge1.5(PO4)3 glass-ceramics have been prepared from as-prepared glasses at five different temperatures of 650, 750, 850, 950 and 1050 °C, respectively. High-temperature XRD
+
+Fig. 6 – Variation of crystallite sizes and conductivities with the change of the heat treatment temperature.

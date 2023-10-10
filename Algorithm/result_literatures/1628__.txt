@@ -1,0 +1,44 @@
+Compounds   with  a  NASICON  struc3 4 ture (M is an alkali metal cation and A is a tri-, tetra-, or pentavalent  element)  are  good  ionic  conductors.  In addition, they have useful properties, such as high thermal stability, low heat conductivity, and a low thermal expansion coefﬁcient .
+A  number  of  compounds   ions in the A posi and Sn tion have been studied . 
+The substitution of niobiumfor  a  half  of  the  indium  ions  in  Li   signiﬁIn cantly changes the properties of the material. In partic ular,  NaNbIn   forms  hexagonal  crystals , PO 3 4 whereas the initial structure is monoclinic . 
+Therefore,  we  may  assume  that  the  conductivity  of  LiN) (  at low temperatures can be higher than that of PO  . 
+The conductivity can be further changed 3 4 2 3 by means of aliovalent doping . 
+A speciﬁc feature of this system is that the number of defects in it can be increased  by  varying  the  niobium-to-indium  ratio, without introducing foreign cations.
+In this work, we showed for the ﬁrst time that cationic disorder can be induced by varying the ratio of cations in the Li system. 
+Materials of composition Li Nb In PO  (with 3 4 2 –  3 – 2 x x x  = 0.6, 0.8, 0.9, 0.95, 0.98, a lithium content  x n Li 1.0, 1.02, 1.05, 1.1, 1.2, 1.4, 1.6, 1.8, 2.0, 2.5, or 3.0) were synthesized by annealing a stoichiometric mixture of lithium carbonate, ammonium hydrogen phosphate, and indium and niobium oxides at 1273–1373 K.
+
+X-ray  powder  diffraction  showed  that  the  compounds  with    =  0.6–1.1  have  hexagonal  structures n Li ≥    2 and those with  n Li 7 ( ) Li NMR spectra of LiNbIn The wide-line  PO  at 3 4 different temperatures are shown in Fig. 1.
+ At 118 K, the spectrum is a featureless singlet with a line width of about 2.2 G. An increase in temperature leads to a sharp narrowing of the spectrum (1.0 G at 273 K). 
+However,with a further increase in temperature, the line width increases again. In addition, the spectrum clearly shows ± ∆    3 triplet shoulders at the distance  H  G from the central line.
+ Their intensity and the effective width of the central line increase with temperature.
+It is worth noting that broadening of NMR lines can be caused either by a decrease in ion mobility or by a distribution  of  ions  between  two  structural  positions . 
+It is unlikely that an increase in temperature above 273 K is accompanied by a decrease in cation mobility, which only increased with increasing temperature up to 273 K. 
+Most likely, such changes in the spectrum are caused by the following processes.
+
+The translational mobility of lithium ions gradually increases  with  temperature.  
+However,  they  are  still mainly located in the M1 position (a NASICON structure  has  one  M1  position  per  formula  unit  [7]),  and exchange  between  positions  occurs  by  hopping.
+  At room temperature, the cation mobility is enhanced and the lifetime of cations in the M1 position decreases so that the distribution of lithium ions between the M1 and M2 positions in the lattice (a NASICON structure has three M2 positions per formula unit [7]) becomes more uniform.
+We may assume that this process is accompanied by a  phase  transition.  An  analogous  transition  was observed at low temperatures in materials based on lith. 
+In this phosPO ium zirconium phosphate LiZr 3 4 2 phate, a transition from triclinic to hexagonal structure, accompanied by insigniﬁcant distortion of the lattice, was  observed  near  room  temperature.  
+According  to structural data, an increase in temperature leads to a considerable decrease in the occupancy of the M1 positions and to delocalization of a large portion of lithium ions over the lattice. At the same time, the effective lifetime  of  lithium  ions  in  the  M2  positions  gradually increases.  
+According  to ,  lithium  ions  located  at these  sites  are  characterized  by  a  larger  quadrupole coupling constant as compared to the M1 positions.
+ In addition,  these  positions  should  be  characterized  by another chemical shift. Thus, we suggest that the effective line broadening is due to the redistribution of lithium ions between the M1 and M2 sites.
+
+
+The assumption that a phase transition takes place is σ conﬁrmed by measurements of ionic conductivity  . 
+In particular,  the  temperature  dependence  of  ionic  con) (  shows a bend point at 273 K ductivity for LiNbIn PO 3 4 (Fig. 2).
+
+In our opinion, the dependence of conductivity on the composition of the samples is of greatest interest. 
+Figure  3  shows  that  the  conductivity  of  the  materials in  increases  monotonically  series ( ( ) ) – Li . 
+At the same time, PO LiNbIn PO 3 4 3 4 0.8 when the lithium content in the sample is more than 1.0 per  formula  unit,  the  conductivity  sharply  decreases down to the composition Li.
+The  change  in  the  conductivity  of  the  materials under  consideration  can  be  explained  on  the  basis  of their  structural  features. 
+As  mentioned  above,  at  low temperatures, lithium ions in a NASICON structure are mainly  in  position  M1,  which  can  accommodate  one lithium ion per formula unit. 
+These positions are, as a rule, occupied by small cations, including lithium and sodium ions . 
+It is most likely that, up to the composition LiNbIn PO 3 4 , the conductivity is due to transfer of lithium ions among the M1 positions and increases with an increase in their occupancy.
+A further increase in the lithium content results in complete occupancy of the M1 positions. 
+At the same time, the concentration of vacancies in the M1 positions decreases with an increase in the content of indium and they are gradually excluded from ion transport. 
+The limiting content of lithium in this position is three ions per formula unit; however, even for the composition Li3In2(PO4)3, their occupancy is only 2/3. 
+Therefore, a monotonic increase in conductivity is observed.
+Thus,  based  on  NMR  data,  we  showed  that  the compounds  under  consideration  are  characterized by high cation mobility and assumed the occurrence of a phase transition in the structures with a lithium content of less than 1.4 per formula unit. The conductivity of the materials monotonically increases in the  series  Li0.6Nb1.2In0.8(PO4)3–LiNbIn(PO4)3  and Li1.2Nb0.9In1.1(PO4)3–Li3In2(PO4)3,  which is  explained  by  successive  ﬁlling  of  the  M1  and  M2 positions in the structure of complex phosphates.
+
+

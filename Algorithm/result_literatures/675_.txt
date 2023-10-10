@@ -1,0 +1,14 @@
+The NASICON (Na Super Ionic CONductors)-type materials are good ionic conductors whenserving as solid electrolytes for lithium–ion batteries.
+In this paper, Nb-doped LiTi2(PO4)3 hasbeen synthesized by solid-state reaction method and the structural, vibrational and dielectricstudies are systematically investigated.
+The X-ray diffraction conforms that the Nb-doped LiTi2(PO4)3 compound has NASICON structure, i.e.rhombohedral with space group R-3c.
+Theaverage crystallite size and lattice constant are increased with dopant concentration.
+Thegrain sizes of the synthesized compounds are investigated by scanning electron microscopeand it is found to be in the range of 5 μm.
+From Fourier-transform infrared spectroscopyspectra, stretching vibrations of P-O-P bond are identified in the region of 700–750 cm−1. ACelectrical study is carried out by exploiting the impedance and dielectric spectroscopy.
+Theactivation energy increases with dopant concentration since ion diffusion becomes easy asthe volume fraction of the grain increases.
+Non-Debye behavior of conductivity relaxation isreflected in the modulus analysis.
+LiTi2−xNbx(PO4)3 with (x = 0.05, 0.075, 0.1 and 0.15)has been synthesized by solid-state reaction method at1100°C to obtain single phase.
+XRD pattern conformthe formation of NASICON structure and there is noimpurity phase.
+Both crystallite sizes and lattice parametersincrease with increasing niobium concentration.
+The vibrational properties of NASICON-typeNb-doped LiTi2(PO4)3 are studied by FT-IR and itconforms the dopant exactly occupies Ti site of thecorresponding host lattice.
+The frequency dependentAC conductivity is calculated at different temperaturesand it shows the behavior of ionic material.
+Modulusformalism ensures that the non-Debye-type relaxationpresents in the all prepared compounds.

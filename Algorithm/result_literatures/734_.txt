@@ -1,0 +1,13 @@
+Phosphates Ln1/3Ti2(PO4)3 (Ln = Y, La, Ce, Pr, Eu, Gd, Ho) were synthesized by the citrate sol–gel (Pechini) method.
+Solid-phase reactions were activated using dispersion, pressing, and sintering microadditives.
+Synthesized samples were characterized by X-ray diffraction (Rietveld method), IR spectroscopy,electron microscopy, and microprobe analysis.
+The specific features of their structure formation were studied.
+The studied phosphates were shown to crystallize in the NaZr2(PO4)3 (NZP/NASICON) structural typewith space group R .
+The framework of their structure is built of columns of TiO6 and РО4 polyhedra, andone of the two types of extraframework positions inside columns of polyhedra was occupied by Ln3+ cationsat 2/3. The dependences of the unit cell parameters of Ln1/3Ti2(PO4)3 on the Ln3+ radius was observed tohave a gadolinium kink.
+Complex titanium and rare-earth phosphatesLn1/3Ti2(PO4)3 (Ln = Y, La, Ce, Pr, Eu, Gd, Ho) havebeen synthesized for the first time, and their phase formationand structural features have been studied.
+The structural stability of Ln1/3Ti2(PO4)3 is causedin many respects by the size factor.
+We have managedto synthesize the phosphates incorporating ions withsmall radii (Y, Ho) after pressing of reaction mixtureswith sintering additives.
+The phosphates containinglarge REE ions (beginning with Gd) can be synthesizedby conventional techniques (Pechini method).
+On the other hand, the results of structural studiesshow that the degree of distortion in framework-form-ing polyhedra slightly grows with an increase in Ln3+ion size from 0.94 Å (for Gd3+) to 0.99 Å (for Pr3+),though the NZP-structure remains stable in this case.
+It seems that it is possible to speak about a certain ratiooptimal for the stability of this space group between the radii of extraframework Ln3+ ions and frameworkformingions.
+On the whole, the data obtained earlier and in this work characterize a high structural flexibilityof the NZP framework upon introduction of ions ofdifferent sizes (from lithium to lanthanides) into itscavities.

@@ -1,0 +1,175 @@
+In this work, the inﬂuence of diﬀerent thermal sintering treatments on Li1.3Al0.3Ti1.7(PO4)3 NASICON thick ﬁlms has been investigated.
+The isostatic lamination step performed before the thermal sintering of thick ﬁlms has demonstrated to improve ﬁlm density and grain size, increasing "bulk" and grain boundary Li-conductivities.
+The confocal Raman spectroscopy characterization allowed the observation of the connectivity of the particles present in the ceramic samples and so a deeper understanding of ionic conductivity.
+The dependence of total and "bulk" Li conductivity on the samples microstructure is discussed.
+The ﬁlms sintered by slow heating sintering with a previous lamination step, displayed an overall Liconductivity > 10−4 Ω-1 cm-1, that is superior to that reported in commercial OHARA LiNASICON glass ceramics.
+The tape casting deposition method is scalable for preparation of large area thick supported electrolyte ﬁlms with high conductivity for novel Li ion all solid state batteries (ASSB) architectures.
+Nowadays lithium-ion batteries are widely used for storage power generation and uninterruptible power supply (UPS) systems due to its high energy performance.
+However, using Li-conducting organic liquid or polymer electrolyte prevents the manufacture of completely safe devices.
+Replacement of the organic electrolyte by an inorganic solid will not only signiﬁcantly improve the safety of lithium-ion battery, but extend its life by reducing the degradation processes.
+The rather poor temperature stability of organic electrolyte based Libatteries makes that this storage technology cannot be applied in harsh environments where the temperatures can rise above of 100 °C.
+The use of ionic liquids attenuate this limitation but ionic conductivity decreases, reducing the power of the battery.
+The implementation of all solid state batteries (ASSBs) can be of interest for applications in relative high temperatures and wide range of pressures that current liquid electrolyte based batteries (LEBBs) cannot cover.
+As a result of progressive miniaturization of electronic components there is an increasing demand for micro-sized power sources that incite the research of thin or thick ﬁlms for all-solid-state batteries.
+Smart cards, implanted medical devices, micro electro-mechanical systems,memory blocks, sensors, transducers, and specially military equipment are potential consumers of ASSBs ﬁlm batteries.
+However, there are many drawbacks that limits their implementation, among them the relatively low ionic conductivity of the solid, the diﬃculty in obtaining coherent electrodes/solid electrolyte interfaces and mechanical fatigue produced on interfaces during insertion de-insertion process.
+In ASSBs solid electrode/electrolyte contacts are limited and the interfacial area is lower.
+The diﬀusion paths for the Li insertion and electron collection from the electrodes are much larger than in conventional secondary batteries (composite electrodes).
+One solution was the implementation of ASS thin ﬁlms batteries.
+Many designs have been made in order to increase the interface area.
+The thin ﬁlm concept has reached high speciﬁc numbers and high charge and discharge rates comparable to liquid electrolytes Li batteries but the total energy stored remains poor.
+In order to increase the energy stored, the active mass (electrodes) must be increased, leading to the thick ﬁlms technology with thicknesses in the range 10–100 μm, that provide higher speciﬁc energy and power than thin ﬁlm electrodes.
+The need of reducing the diﬀusion path of the ions and electrons in ASSB and the minimization of the strain eﬀects due to the insertion/de-insertion processes requires important changes in battery designs.
+The electrolyte supported ASSBs can be foreseen in two diﬀerent conﬁgurations with the anode and cathode at diﬀerent sides of the electrolyte or disposed at the same side of the electrolyte.
+The ﬁrst conﬁguration implies a self-supported electrolyte thick-ﬁlm with high enough mechanical strength, the second one allows the use of a supported solid electrolyte layer on a refractory mechanically resistant substrate.
+For both architectures the procurement of planar large area electrolyte thick ﬁlms is of main importance in order to build large area electrolyte supported ASSBs devices with enough energy and power.
+Thethe NASICON structure, is a promising material for producing solid electrolytes because of high lithium conductivity (σbulk ∼ 10−3 Ω−1 cm−1 at RT), chemical resistance and mechanical stability.
+These materials are widely studied in the form of glass ceramics; however, studies on ﬁlms are still scarce.
+The optimal methods to obtain thick ﬁlms with a thickness of more than 10 μm are the "tape casting" or screen printing.
+The presence of pores and cracks have a negative impact on the electrical properties of ﬁlms; therefore, it is necessary to ﬁnd ways to increase the density of thick ﬁlms at preparation.
+By using appropriate heat treatments or by reducing the deformation of the surface (wet ﬁlm lamination), density of ﬁlms can be increased.
+Isostatic lamination is one of the most important processing techniques for improving quality of multilayer ceramic three-dimensional structures.
+It is known that isostatic lamination, when pressure and temperature are applied to green tapes simultaneously, improves the particles packing and density of green tapes, providing uniform ﬁlms with reduced internal stresses, and without cracks in laminated ﬁlms.
+The aim of this work is the preparation of high Li-conducting thick ﬁlms of Li1.3Al0.3Ti1.7(PO4)3 (σoverall ≥10−4 Ω-1 cm-1 at RT) by tape casting on insulator substrates.
+Due to the large area to volume ratio and to the rather large temperatures used in the preparation of the thick ﬁlms, the microstructures of the solid electrolytes diﬀer from that obtained in the “bulk” ceramics.
+The microstructure and phase homogeneity of prepared thick ﬁlms has been investigated with SEM, and confocal micro-Raman techniques.
+This characterization will provide the spatial distribution of phases in prepared electrolytes.
+The connectivity between solid electrolyte particles and the distribution of secondary phases are fundamental to explain ionic conductivity in resulting thick ﬁlms.
+Total and bulk conductivity will be compared with that reported in other samples of similar composition, specially the OHARA LiNASICON (OH-NAS) glass-ceramic, that is the unique commercial large area Li solid electrolyte available.
+Li2CO3 (99,99% Merck), Al (NO3)3•9H2O (99,97%, Sigma-Aldrich), diisopropoxytitanium bis(acetylacetonate) solution (∼75% in isopropanol) (purum, Sigma-Aldrich), titanium diisopropoxide bis(acetylacetonate) C16H28O6Ti, phosphoric acid 85% H3PO4 (all of high purity grade), citric acid C6H8O7 and ethylene glycol C2H6O2 were used as starting reagents.
+To prepare aqueous solutions of salts of lithium nitrate LiNO3 and aluminum nitrate Al(NO3)3, Li2CO3 and Al(NO3)3•9H2O were dissolved in nitric acid.
+Citric acid was dissolved in ethylene glycol at a ratio of 1:4. Both solutions were mixed and stirred at 70 °C for 1 h.
+Then diisopropoxytitanium bis(acetylacetonate) solution with phosphoric acid were added.
+For homogenization and to promote the esteriﬁcation and polymerization between ethylene glycol and citric acid, the solution was stirred for 12 h at 100 °C to produce gels.
+The polymer gel was heated on a sand bath at 350 ± 10 °C (5 h) and calcinated at 700 °C (2 h) to obtain Li-NASICON powder particles.
+Prepared Li1.3Al0.3Ti1.7(PO4)3 nanoparticles were mixed with organic reagents to prepare the slurry for "tape casting" thick ﬁlms deposition.
+For preparing the slurry and to promote homogenization, a planetary mill Fritsch Pulverisette 7 was used for 2 h at a rotational speed of 300 rev/min.
+For deposition of thick ﬁlms slurry mixtures, an Applicator and a Drying Time Recorder Coatmaster 510 (Erichsen, Germany) were used.
+The rate of deposition of the slurry on the substrate (polikor α-Al2O3) was 0.1 mm/s.
+After drying in air, the ﬁlm thickness was 120 μm and the deposited area 15 × 15 mm2. Thick-ﬁlm materials and substrate were subjected to diﬀerent heat treatments, reaching the maximum temperatures of 1000 / 1100 °C.
+In some cases the Li1.3Al0.3Ti1.7(PO4)3 crude ﬁlms were subjected to vacuum degasiﬁcation under a pressure of 0.1 MPa for 60s in a Original HENKELMAN vacuum system (Jumbo 30).
+The evacuated ﬁlms were introduced in a sealed ﬂexible container, and then laminated in a IL4008PC isostatic laminator apparatus.
+Prepared ﬁlms with and without isostatic lamination, were annealed under diﬀerent conditions.
+X-ray diﬀraction patterns of resulting compounds were recorded in a DRON-3M (CuKα-radiation; Ni-ﬁlter) apparatus, with a goniometer rotation speed 0.5 deg/min.
+XRD diﬀraction patterns were recorded in the range 2θ= 10-60°, with 0.01° steps of 1 s/per step.
+The thick ﬁlms compositional homogeneity was tested by using the confocal Raman microscope (Witec alpha-300R, WITec GmbH; Ulm, Germany), using a 532 nm excitation laser and a 100x objective lens (NA = 0.9).
+The optical diffraction resolution in confocal Raman apparatus microscope was limited to ∼200 nm laterally and ∼500 nm vertically.
+Resolution achieved in recorded Raman spectra was 0.02 cm−1. The sample was mounted on a piece-driven scan platform, displaying a 4 nm lateral and 0.5 nm vertical positional accuracy.
+Collected spectra were analyzed by using the Witec Control Plus Software.
+Cross-section and plan-view micrographs of the crystalline oxide ﬁlms were obtained by ﬁeld-emission gun scanning electron microscopy (FEG-SEM, Nova Nanosem 230 FEI Company equipment, Hillsboro, OR).
+In this work digital image analysis of SEM micrographs of oxide ﬁlms plan-view has been used to deduce porosity volume fractions in thick ﬁlms.
+Apart of the intrinsic error due to the image conditions and the calculations, due to its local nature, this method can lead to larger error in the volume fraction estimation in heterogeneous samples.
+As the confocal Raman spectroscopy also gives information about the volume fraction of phases in the thick ﬁlms, aJournal of the European Ceramic Society xxx (xxxx) xxx–xxxgood agreement between both volume fraction and porosity estimations support the deduced values and the micro-structural homogeneity of the samples.
+Electrical properties of thick ﬁlms as a function of temperature (77–575 K) were investigated by Impedance Spectroscopy (IS) in the frequency range 20Hz-1MHz, using an Agilent LCR E4192A apparatus.
+For low frequency measurements (1mHz–10 kHz), a Zhaner IM6ex apparatus was used.
+In-plane measurements were performed to characterize supported electrolyte samples.
+Two stripe electrical contacts were deposited on the surface of electrolytes supported thick ﬁlms by Au sputtering through a shadow mask.
+For OH-NAS sample, a planar capacitor conﬁguration was used for electric measurements.
+Samples of 5 mm x 0.5 mm x 250 μm were cut from a two inch wafer, then 4 mm diameter gold electrodes were deposited by d.
+The thickness of the samples is illustrated as insets in surface micrographs.
+In all cases, ﬁlm thickness are near 30 ± 5 μm except for the TFS1 that presents uneven thickness with an estimated average value of 70 ± 5 μm.
+In micrographs, it was observed an increment on the grain size of the Li-NASICON grains caused by the lamination process.
+The TFS1 presented grain sizes below 1 μm.
+The previous lamination increases the grain size between 1–2 μm and reduces the porosity in TFS3 sample.
+The TSF2 presented a larger grain size compared to the TSF1 and a lower porosity.
+For this sample the grain size was between 1–2 μm.
+The isostatic lamination produced an important increase of the grain size to values between 3–4 μm in the TFS4 sample.
+From the microstructural study it can be concluded that best performances are displayed by the TFS4 sample, submitted to slow heating for sintering after lamination.
+Deduced results are given in pF/m and normalized to the intersection length of stripe electrodes.
+The conductivity of the samples was deduced from the immittance function that is directly related to the conductivity, the real part of the admittance.
+In Fig.3, the frequency variation of the real part of the complex conductivity of four samples is given for diﬀerent temperatures (170, 220, 300 K).
+In the last plot, the frequency dependence of OH-NAS ﬁlm conductivity was included for comparison.
+High conductivity values of Li-NASICON ﬁlms required the sample cooling to detect the "bulk" response in the frequency window used (20 Hz–2 MHz) in electrical measurements.
+The sample TFS4 exhibits the best conductivity, TFS2 and TFS3 displaying lower values, and TFS1 the worst conductivity.
+From collected data, bulk and the grain boundary conductivity were deduced using the derivative criterion.
+Conductivity results are expressed as a function of the inverse temperature in Ahrrenius plots of Fig.
+In all cases, activation energies for grain boundary contributions are larger than the corresponding bulk ones.
+In the case of ﬁlms obtained after "heating with a constant speed" (TFS5) the resulting microstructure was crumbled making this ﬁlm useless as solid electrolyte.
+In order to optimize annealing processes, “thermal shock” and “slow heating” treatments were used.
+The "thermal shock" treatment avoidsevaporation processes and degradation of organic compounds, instantly producing the pyrolysis of organic components.
+Owing to the rapid pyrolysis of organic components the inorganic carcass remain.
+It results into a porous structure of the TFS1 ﬁlm, where particles are far from each other and where the mechanism of inter-bubble coalescence doesn’t work.
+Consequently, size of grains after sintering are between 0.6 – 1 μm (Fig.2a).
+In the case of “slow heating” (20 °C/h to 500 °C) organic solvents (isopropanol and acetylacetone) evaporate gradually, and the polymer matrix degrades progressively, avoiding cracks in the surface of TFS2 ﬁlms.
+The grains size obtained after sintering at 1000 °C increased up to 1.5 μm (Fig.2b), as a result of the shrinkage of the ﬁlm by capillary phenomena and the sintering of inorganic particles by inter-bubble coalescence [28].
+The use of "isostatic lamination" on the microstructure of thick ﬁlms decreased ﬁlms porosity (Fig.2c and d).
+This was the result of the residual compressive stresses applied at outer layers of ﬁlms.
+The heating of the polymer matrix where inorganic particles are incorporated, produces the partial destruction of the matrix and the sintering of inorganic particles.
+The analysis of the microstructure of laminated Li1.3Al0.3Ti1.7(PO4)3 ﬁlms after "slow heating" TFS4 and "thermal shock" TFS3 (Fig.2c and d) showed that the isostatic lamination promoted the increment of the grain size.
+Applying the derivative criterion, the "pseudo-plateau" minima associated to the bulk contribution were deduced for TFS1, TFS2, TFS3, TFS4 samples: 0.64, 0.25, 0.34, 0.20 respectively.
+The minimum value deduced in the ceramic Li1.3Al0.3Ti1.7(PO4)3 sample was close to 0.21 [30], being 0.23 in the OH-NAS sample (this work).
+This value is related to the bulk conductivity partially convoluted with the grain boundary response.
+The closer the conductivity relaxation time of "bulk" and grain boundary responses the higher derivatives result (bad resolution of "bulk" d.
+Following these arguments large slope values detected have been ascribed to poor inter-particle contacts.
+These results are related to changes produced in the volume fraction of the NASICON particles due to diﬀerent preparation conditions.
+For example the eﬀective "bulk" conductivity response for an isotropic ceramic pellet, with a volume fraction of 0.6 is 41% of the single-crystal conductivity value; the same estimation for a ceramic with a volume fraction of 0.8, was 71% of the single crystal conductivity [32].
+In Fig.5, the plot of the normalized "bulk" conductivity as a function of the estimated volume fraction of LiNASICON grains in the thick ﬁlm samples is included.
+The black triangles correspond to ﬁlms studied here with their estimated volume fractions, supposing that the crystallite conductivity is the same despite the thermal annealing used.
+Changes on the conductivity of the samples must be related to those produced in micro-structure of ﬁlms.
+The analysis of conductivity has been performed at two levels: First, information deduced from the "bulk" conductivity response and second, information deduced from the grain boundary response.
+Both responsesJournal of the European Ceramic Society xxx (xxxx) xxx–xxxTable 1 Li conductivity parameters of the thick ﬁlm samples prepared in this work.
+Sample*TFS1 presented large convolution with grain boundary response.
+possible to roughly explain the observed changes with geometrical features; but changes on grain boundary activation energy must be related to changes on the chemical nature of grain boundaries.
+These diﬀerences can be explained by diﬀerent blocking factors produced by defects at grain boundary interfaces, as suggested by M.
+Dessemond et al [34] more interface blocking defects are created the larger activation energy result.
+Obtained results indicate that the TFS4 sample displays a larger conductivity than the OH-NAS sample.
+As conductivity measurements (two co-planar electrodes) can lead to large errors due to approximations made, it is interesting to compare complex a.
+The OH-NAS conductivity is below the conductivity value of other samples.
+The derivative indicates that the TFS4″bulk" plateau is produced at larger frequency than that of the OH-NAS sample, indicating a faster Li dynamics, slightly below that of the LATP ceramic.
+This result is in agreement with the better conductivity reported in Li-NASICONS with Al/Ti rather than Al/(Ti,Ge) substitutions.
+It is worth to stress the quite similar blocking behavior detected in TFS4 and OH-NAS grain boundaries contributions, despite the preparation route.
+In a previous paper, it was demonstrated that thick ﬁlms are more heterogeneous than deduced from X-ray diﬀraction patterns.
+All thick ﬁlms prepared in this work are presumably formed by single LiNASICON phases.
+However, amorphous/glassy secondary phases, not detected by XRD, are also present in analyzed samples.
+As previously commented, changes detected in activation energies of the "bulk" response can be related to compositional deviations and to the presence of secondary phases.
+The confocal RAMAN spectroscopy is a useful tool to study the homogeneity of samples, due to its capability for identifying diﬀerent amorphous or crystalline phases.
+Due to the sweeping procedure used, this technique gives also information, with sub-micrometer resolution, about distribution of phases that is the key to understand Fig.6. A.
+C Conductivity spectroscopic plot for three LiNASICON samples at 175K.
+The line is the calculation made using the Percolation eﬀective medium theory assuming that the particles are spheres and a tridimensional percolation threshold of 0.33. Black triangles, expected eﬀective ‘bulk’ conductivity taking into account porosity.
+White triangles, expected eﬀective ‘bulk’ conductivity taking into account porosity and secondary phases as deduced from the confocal RAMAN spectroscopy.
+Important changes can be expected if the volume fraction change due to the preparation procedure.
+On the other hand, the activation energy of samples should not change signiﬁcantly with the volume fraction, when values are bigger than 0.60, as deduced from the composite model.
+The activation energy of TFS2 and TFS3 samples are almost the same, but the activation energy for the TFS4 sample is lower.
+Changes in activation energy for the "bulk" response are often associated with changes in the grains composition.
+The lowest activation energy deduced for the TFS4 sample can be related to a closer Li/Al stoichiometry to that reported for the best LATP NASICON conductor (lower activation energy).
+However, a large scattering was reported in published works [33], preventing the use of the activation energy alone as a indicator of the sample quality.
+The grain boundary response of prepared thick ﬁlms is often related to the samples microstructure.
+The grain boundary impedance is proportional to the number of grain boundaries and inversely proportional to the grain boundary area, assuming that the nature of contacts does not change with thermal treatments.
+As an approximation, the number of grain boundary interfaces can be deduced from the micrographs choosing a connected path among the grains.
+The approximate grain boundary areas were 0.49, 2.2, 1.6 and 4.8 μm2 in analyzed samples, assuming square contacts between adjacent grains and observed contact lengths.
+With these data a calculation of the grain boundary factor was performed, that after normalization to that of TSF4 sample, yielded the results included as large hollow triangles in Fig.
+The calculation of the volume fraction of Li-NASICON based on the published OH-NAS, SEM micrographs is near 0.8 ± 0.02. The fraction of the minor LiNASICON phase is below 0.02. This phase is evenly distributed and do not contribute much to the Li conductivity.
+The true conductivity of crystals in glass ceramics is 1.4 times the effective "bulk" response of the sample for the volume fraction considered.
+In Fig.5, the position of the OH-NAS sample can be found in the right part of the normalized "bulk" d.c.
+The sample heterogeneity is emphasized in the published report of the company, where diﬀerent compositions of phases are given as well as micrographs illustrating secondary phases.
+For the TFS4 sample, the crystallites conductivity is 2.9 times the measured eﬀective "bulk" one, due to the lower volume fraction of Li-NASICON in the sample investigated here than in the OH-NAS sample.
+The results of this work indicate that the sintering temperature increases the quantity of secondary phases, Fig.1a.
+The appearance ofsecondary phases is already produced at 1000ºC as deduced from the Raman results.
+A possible solution for this problem could be the reduction of the sintering temperature, to get pure Li-NASICON phases.
+However, lowering the sintering temperature produces a reduction of the grain size, worse grain boundary quality and an increment of the ﬁlm porosity and the number of grain boundaries interfaces.
+These effects will lead to a reduction of the total Li conductivity despite the better phase purity.
+From this fact, a compromise between purity and microstructure must be achieved to maximize overall Li-conductivity in thick ﬁlms.
+From these results, it can be inferred that thermal treatments have an important eﬀect on the microstructure and the conductivity of LiNASICON thick ﬁlms.
+The isostatic lamination step, previous to sintering treatments, improves the microstructure by reducing the porosity, increasing the grain size, favoring orientation of crystallite faces and reducing the grain boundary impedance.
+All these eﬀects enhance the total ionic conductivity in prepared thick ﬁlms.
+At 1000 ºC, it is not possible to obtain pure Li-NASICON phases; however, the presence of the usually reported AlPO4 secondary phase was diﬃcult to observe in X-ray diﬀraction patterns.
+In this sample (TFS4) confocal RAMAN spectroscopy reveals the existence of peaks ascribed to rutile and amorphous phases.
+The existence of secondary phases can be related to some decomposition of the NASICON phase.
+The formed amorphous Li titanates can retain Li ion conductivity at the particles surface producing a moderate conductivity blocking eﬀect.
+High values obtained in ionic conductivity of ﬁlms suggest that grain boundary conductivity has been considerably enhanced as a consequence of an improved interface coherence among crystallites.
+In these boundaries, the quantity of blocking defects decreases and ion conductivity is improved.
+Further work in the preparation conditions is on its way to reduce samples porosity and to further increase NASICON phase volume fraction in the thick ﬁlm.
+An ideal full dense thick ﬁlm with the same grain and grain boundaries conductivities of the TSF4 sample, would yield a much higher total Li conductivity than the OH-NAS sample.
+The study of the amorphous phases is also required.
+In this work, confocal RAMAN spectroscopy plays an important role in understanding electrical behavior of thick ﬁlms.5.
+The preparation of Li-NASICON (Li0.3Al0.3Ti1.7(PO4)3) thick ﬁlms on Al2O3 substrates is described, with Li conductivities slightly higher than reported in commercial OHARA glass ceramics (> 10−4 Ω-1 cm-1).
+The presence and distribution of secondary phases has been assessed by the combined use of X-ray, SEM and confocal Raman techniques.
+thermaltreatments, aﬀected microstructure of ﬁlms, changing Li transport properties.
+The variation of the "bulk" and grain boundary activation energy of diﬀerent samples cannot be explained by geometrical factors related to the microstructure, but to variations on NASICON grain compositions induced by thermal treatments.
+The compositional variation can be related to some decomposition of the NASICON phase.
+No AlPO4 phase is present and the presence of Ti rich phases is produced in prepared ﬁlms.
+With the confocal Raman technique the presence of rutile and of amorphous lithium titanate phases was deduced.
+The use of an isostatic lamination step before sintering treatments enhanced density and grain size in thick ﬁlms.
+The slow heating of the sample produced denser samples in comparison with thermal shock treatments.
+The relatively low grain boundary impedance suggest the presence of good inter-grain interfaces, improving electrical properties of prepared ﬁlms.
+The preparation method used here can be scaled to produce large area electrolytes for new Li all-solid state batteries architectures.

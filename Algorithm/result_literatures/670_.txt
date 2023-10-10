@@ -1,0 +1,9 @@
+The local structure of LiFePO4 powders has been investigated using Fe K-edgeExtended X-Ray Absorption Fine Structure (EXAFS) Spectroscopy data.
+The synthesis of LFPpowders was carried out using two different sol-gel methods.
+The raw materials for Fe sourcewere ironstone and commercial precursor of FeCl2·4H2O.
+Synthesis using natural materialsproduced two phases, namely LiFePO4 olivine and Li3Fe2(PO4)3 nasicon, whereas that using acommercial product produced a single phase of LiFePO4 olivine.
+The EXAFS data for bothsamples were collected at Synchrotron Light Research Institute (SLRI), Thailand.
+Fitting of themodel on the experimental curve provided parameters that can be interpreted as the distancebetween Fe as the absorber and the nearest atoms on the LFP materials.
+The EXAFS dataanalysis has shown that synthesis of LFPs using different Fe sources gives slightly differentnearest-neighbor distances, namely Fe-O of 0.21% - 0.23%, Fe-P of 0.14% - 0.16%, Fe-Fe of0.12% for both samples, respectively.
+The result of LFP synthesis using natural materials has two phases namely LiFePO4 olivineand Li3Fe2(PO4)3 nasicon and for LFP synthesis using commercial materials have a single phase that isLiFePO4 olivine.
+Analysis of their local structures using EXAFS data resulted in acceptable fittingswith an R-factor value of less than 0.02. Both materials have almost the same peak shape and intensitywhich implies that their local structures are similar.

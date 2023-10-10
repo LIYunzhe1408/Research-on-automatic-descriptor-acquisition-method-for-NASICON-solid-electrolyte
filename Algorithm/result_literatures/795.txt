@@ -1,0 +1,8 @@
+Dependence of the density of the Li1.3Al0.3Ti1.7(PO4)3 (LATP) ceramic on thermal treatment modes was studied.
+The conditions in which ceramic samples with density exceeding 90% are obtained were determined.
+It was found that the bulk ionic conductivity of LATP upon sintering at 1000°C for 2–6 h is (1.1–1.3) × 10–3 S cm–1 at 20°C, which corresponds to the maximum values for lithium-aluminum titanophosphate.
+The sintering at a temperature of 1000°C of singlephase compacted powders synthesized from liquid phase precursors yielded ceramic LATP samples with density of 92% relative to the theoretical value.
+The electrochemical impedance spectroscopy in the range 1–2 × 106 Hz was used to study the ionic conductivity of LATP.
+The bulk ionic conductivity σbulk of LATP upon sintering at 1000°C for 2–6 h was (1.1–1.3) × 10–3 S cm–1 at 20°C, which corresponds to the maximum values for lithium-aluminum titanophosphate.
+The total conductivity σtotal of LATP was 1 × 10–4 S cm–1. It was shown that, because of the high grain-boundary resistance, σtotal of LATP is an order of magnitude lower than σbulk.
+The practical application requires that the grain-boundary resistance of LATP should be reduced, which is observed when the conductivity of the ceramic is measured at an elevated temperature.

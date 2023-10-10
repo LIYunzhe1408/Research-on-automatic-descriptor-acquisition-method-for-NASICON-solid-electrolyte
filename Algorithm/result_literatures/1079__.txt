@@ -1,0 +1,481 @@
+Sodium  super  ion  conductor  (NASICON)  type  structure  materials  (e.g. 
+
+Na3V2(PO4)3, NaTi2(PO4)3) have been considered as promising electrode materials for 
+
+sodium-ion  batteries  (NIBs).  However,  the  inherent  poor  electronic  conductivity  of 
+
+the NASICON type structure materials owing to their poor electronic conductivity of 
+
+phosphates  lead  to  poor  cyclability  and  rate  capability.  Here,  we  develop  a  general 
+
+strategy  to  achieve  high  rate  capability  and  long  cycle  life  by  preparing  “double 
+
+carbon coating” NASICON NaTi2(PO4)3 using a soft-chemical method. The obtained 
+
+carbon-coated  NaTi2(PO4)3  within 
+
+the  porous  carbon  matrix 
+
+NTP@C@PC) delivers a reversible capability of 103 mAhg-1 at 5 C after 5000 cycles 
+
+and a rate capability of 64 mAhg-1 at 50 C for the sodium storage. The high capacity, 
+
+stable  cyclability  and  excellent  rate  capability  of  the  NTP@C@PC  are  attributed  to 
+
+the advantages of the special structure: the fast Na+/etransfer in the nanocomposites, 
+
+large  surface  area and mesoporous  of the  3D porous carbon  matrix  that facilitate  the 
+
+electrolyte to soak in, intimate interaction between the particles and carbon matrix. In 
+
+addition,  the  3D  porous  carbon  matrix  could  effectively  accommodate  the  volume 
+
+variation during repeated sodiation/desodiation process.   
+
+
+Lithium-ion batteries (LIBs) are considered one of the most popular power sources 
+
+for  portable  electronic  devices  due  to  their  long  lifetime  and  high  energy  density.1-4 
+
+Recently,  there  is  increasing  concern  about  the  cost  and  lithium  resources  for 
+
+large-scale energy storage applications.5-8 Room-temperature Na-ion batteries (NIBs) 
+
+have been  demonstrated as promising alternatives  to  LIBs because  sodium  resources 
+
+are  cheap,  inexhaustible  and  unlimited  everywhere  around  the  world.9, 10  However, 
+
+compare  with  LIBs,  the  practical  application  of  NIBs  is  still  hindered  by  the  poor 
+
+cyclability  and  rate  capability.  The  main  reason  is  that  the  larger  ionic  radius  of  Na 
+
+results  in  lower  diffusion  coefficient  of  Na+  and  huge  volume  change  during  Na+ 
+
+intercalation-extraction  reaction.
+
+For  high  power  application,  the  electrode  materials  in  NIBs 
+
+must possess rapid ionic and electronic diffusion. Unfortunately, the NASICON-type 
+
+material  has  an  inherent  poor  electronic  conductivity  owing  to  the  poor  electronic 
+
+conductivity  of  phosphates,  which  limits  its  application  in  high-performance  NIBs.1, 
+
+Approaches  for  enhancing  ion  and  electron  transport  kinetics  in  batteries  include 
+
+applying  nanostructured  materials,  designing  porous  structure  and  enhancing  the 
+
+electronic  conductivity  with  a  surface  conductive  layer.21,  23,  27-29  Among  them, 
+
+NASICON-type  materials  coated  with  carbon  shells  are  attractive  in  improving  the 
+
+cycling  performance.30-33  Nevertheless,  if  the  carbon  coating  layer  is  too  thick,  the 
+
+migration  of  Na  ions  through  interfaces  between  electroactive  materials  and 
+
+electrolytes  could  be  prevented,  which  is  attributed  to  the  thick  carbon  layer  hinder 
+
+the  electrolyte  penetration  in  the  active  material.34  Another  effective  approach  is  to 
+
+decrease  the  size  of  electroactive  materials  particles  to  the  nanoscale,  which  can 
+
+reduce  the  transport  lengths  of  both  sodium  ions  and  electrons.
+
+In  order  to  combine  all  of  the  advantages  described  above,  one  of  the  most 
+
+promising  strategies  is  to  confine  electroactive  materials  within  uniform  thin  carbon 
+
+shells  and  then  to  embed  them  in  3D  interconnected  porous  carbon  matrix,  thus 
+
+forming  mixed  conducting  3D  networks.32,  33  To  realize  this  double  protection 
+
+strategy  of  NASICON-type  materials,  we  developed  a  simple,  facile,  and  high  yield 
+
+method  to  construct  “double  carbon  coating”  structure,  which  shows  superior  power 
+
+rate  and  ultralong  cycle  life.  The  “double  carbon  coating”  design  possesses  the 
+
+following  merits:  i)  The  first  shell  carbon  coated  on  the  surface  of  NASICON-type 
+
+material  prevents  the  particles  growth  during  the  post-heated  process  and  promotes 
+
+the  migration  of  Na  ions  through  interfaces  to  active  materials  surface.36,  37  ii)  The 
+
+second  shell  of  porous  carbon  matrix  accommodates  the  volume  variation  during 
+
+sodiation/desodiation  process.  iii)  The  porous  carbon  matrix  also  offers  3D  porous 
+
+interconnect  network,  which  improves  the  electrical  contact  as  well  as  sodium  ion 
+
+conduction.3,  5,  38  In  our  proof  of  concept  study,  we  successfully  demonstrated 
+
+carbon-coated NaTi2(PO4)3 nanoparticles uniformly embedded within a porous carbon 
+
+matrix  (denoted  as  NTP@C@PC).  The  obtained  NTP@C@PC  exhibits  an  ultralong 
+
+cycle life (103 mAhg-1 at 5C after 5000 cycles), superior rate capability (64 mAhg-1 at 
+
+50 C) and excellent cycling efficiency. 
+
+The overall synthetic procedure of double carbon coating NTP@C@PC composite 
+
+was  illustrated  in  Scheme  1a.39  First,  Titanium  (IV)  acetylacetonate  with  precursor 
+
+3dissolved in tetraethylene glycol (TEG) that acts as three important roles: 
+
+solvent,  reducing  agent  and  capping.39  Next,  after  the  polyol  process,  an  amorphous 
+
+NTP@C  core-shell  structure  was  obtained.26,  40  Finally,  thermal  treatment  of 
+
+amorphous  NTP@C  encapsulated  within  TEG  leads  to  form  the  double  carbon 
+
+coating  NTP@C@PC  composite.26  As  the  carbon  layer  is  derived  from  the  TEG 
+
+solvent  in  precursor,  undesired  particle  growth  is  effectively  suppressed  during 
+
+annealing  process,  leading  to  smaller  nanocrystalline  NTP  particles  with  a  complete 
+
+and  uniform  carbon  shell.41, 42  The  optimal  core−shell  nanostructure  combined  with 
+
+the  nanoporous  carbon  matrix  ensures  the  effective  diffusion  of  Na+ and  e−  into  and 
+
+out  of  the  NTP  nanocrystalline  structure  (Scheme  1b).  For  comparison,  the  carbon 
+
+free NTP was prepared via a similar method without TEG. Detailed procedures were 
+
+described in the experimental section.   
+
+Figure  1a  shows  the  X-ray  diffraction  (XRD)  patterns  of  the  NTP  and 
+
+NTP@C@PC, demonstrating the formation of a high crystalline phase after annealing. 
+
+All  diffraction  peaks  of  both  samples  could  be  indexed  to  a  high  purity 
+
+NASICON-type  framework  (JCPDS  no.33-1296).  The  Raman  spectrum  of  the 
+
+NTP@C@PC  nanocomposites  was  shown  in  Figure  1b.  Two  obvious  bands  were 
+
+observed  at  1357cm-1  and  1595cm-1  due  to  the  D-band  (disordered  carbon)  and 
+
+G-band (graphitic carbon) of the carbon, respectively. The peak intensity ratio of D to 
+
+G band  (ID/IG)  is about 0.99,  which  shows a  relatively  high  degree  of  graphitization. 
+
+Determined  by  Thermogravimetry  (TG)  analyses  (Figure  S1),  the  carbon  content  of 
+
+NTP@C@PC  was  17.34%.  For  comparison,  the  carbon  content  of  the  NTP  can  be 
+
+ignored  (Figure  S1).  The  Brunauer-Emmet-Teller  (BET)  surface  area  and  the  pore 
+
+size  of  the  NTP@C@PC  were  investigated  by  Nitrogen  adsorption-desorption 
+
+technique. The nitrogen adsorption-desorption isotherms of NTP@C@PC (Figure 2a) 
+
+shows a typical hysteresis as well as  the high surface area (133 m2g−1). The Barrett–
+
+Joyner–Halenda (BJH) method was used to investigate the pore size distributions for 
+
+the  NTP@C@PC  nanocomposites,  presenting  a  pore  size  centered  around  ~5.2  nm 
+
+and  the  pore  volume  of  ~0.27  m2g−1  (Figure  2&Table  S1,  Supporting  Information). 
+
+The pure NTP has a BET surface area of only 4 m2g−1 that is much smaller than that 
+
+of the NTP@C@PC nanocomposites (Figure S2&Table S1).   
+
+Figure 3a shows the SEM image of the pure NTP composite, which consists of the 
+
+uniform  scattered  micro-sized  particles  (size:  ~1  µm).  Figure  S3  reveals  that  no 
+
+carbon layer appears on the surface of the NTP. Compared to NTP, the morphology of 
+
+NTP@C@PC  nanocomposite  is  microsized  clusters  with  agglomerated  nanosized 
+
+grains.  The  grain  sizes  are  around  10-300  nm  (Figure  3b&  inset  of  Figure  3b).  It 
+
+indicates  that  the  carbon  coating  and  the  3D  porous  carbon  matrix  could  effectively 
+
+limit  the  particles  growth  during  the  post-heated  process  at  high  temperature.  The 
+
+morphology  and the  structure  of the  NTP@C@PC  nanocomposites  were 
+
+characterized  by  transmission  electron  microscopy  (TEM)  (Figure  3c)  and  high 
+
+resolution  transmission  electron  microscopy  (HRTEM)  (Figure  3d).  Figure  3c 
+
+confirms that the nanoparticles of the NTP embedded in a porous carbon matrix. The 
+
+HRTEM  image  (Figure  3d)  reveals  that  a  thin  carbon  shell  (~  2nm)  has  formed 
+
+during  the  carbonization  process  and  coated  every  crystallite  to  form  a  NTP@C 
+
+core−shell  structure.  The  porous  carbon  matrix  makes  sure  the  electrical  continuity 
+
+around  the  NTP  crystallites.  Moreover,  Na+  can  easily  pass  through  the  thin  carbon 
+
+shell and react with NTP which is associated with the accepted electrons.   
+
+The electrochemical performances  of both NTP  and NTP@C@PC  nanocomposite 
+
+have been investigated in sodium storage. The reversible capacity of the carbon in the 
+
+composites is negligible because of the discharge voltage of carbonaceous materials is 
+
+below  1.0  V.43-45  Figure  4a  compares  the  1st  charge-discharge  profiles  of  both  NTP 
+
+and  NTP@C@PC  in  a  potential  window  of  1.5-2.8  V  at  the  rate  of  1  C  (1  C  =130 
+
+mAhg-1). NTP@C@PC displays a perfect discharge/charge profiles with flat plateaus 
+
+around 2.1 V, relationship among the redox pair of Ti4+/Ti3+.20 It delivers a capacity of 
+
+127  mAhg-1, corresponding  of  95% theoretical capacity  (theoretical capacity  of NTP 
+
+is  133  mAhg-1).  An  obvious  narrower  gap  between  charge  and  discharge  profiles  of 
+
+the  NVP@C@PC  electrode  was  found  and  the  initial  Coulombic  efficiency  of 
+
+NTP@C@PC  could  reach  95%,  indicating  the  double  carbon  coating  design  could 
+
+realize the high utilization of the active materials as well as the highly reversible Na+ 
+
+insertion/extraction. In case of NTP electrode, the curves of charge and discharge for 
+
+NTP appear slopes, suggesting the high polarization of NTP due to the poor electronic 
+
+conductivity.  The  NTP  only  delivers  an  initial  discharge  capacity  of  93  mAhg-1. 
+
+Figure 4b compares the long cycle life of both NTP and NTP@C@PC electrodes at 
+
+the rate of 1 C. The NTP@C@PC delivers a stable reversible specific capacity of 113 
+
+mAhg-1  after  1000  cycles.  Compare  to  NTP@C@PC,  the  NTP  shows  a  reversible 
+
+capacity of 37 mAhg-1 at the first 20 cycles, and then it drops rapidly to ~20 mAhg-1 
+
+probably due to the disconnection of particles for the NTP. The voltage profiles of the 
+
+NTP@C@PC at the current rates of 0.5−30 C were shown in Figure 4c. At the initial 
+
+lower rate of 0.5C, the NTP@C@PC electrode shows a flat voltage plateau of ~2.1 V 
+
+and exhibits a discharge capacity of 133 mAhg-1. With increasing current density, the 
+
+discharge capacities  of NTP@C@PC are 121, 118, 116, 112, and 104, at 1, 2, 5, 10, 
+
+and 20 C, respectively. It is worth noting that the double carbon coating NTP@C@PC 
+
+delivers the reversible high rate capacities of 94 mAh g-1 at 30 C, resulting from the 
+
+substantial increase in electric conductivity by uniform carbon coating for faster Na+ 
+
+insertion  to  NTP.  Figure  4d  shows  the  discharge  capacities  against  different  current 
+
+rates, each sustained for 10 cycles. It exhibits stable cyclic performance for all rates. 
+
+Even at the current density of 50 C, the electrode can still deliver a reversible capacity 
+
+of  64  mAhg−1.  This  corresponds  to  a  charge  or  discharge  time  of  72  seconds, 
+
+indicating  the  excellent  rate  capability  of  the  cathode.  Remarkably,  even  the  current 
+
+density was tuned back to 0.5 C after 90 cycles at higher rates, a specific capacity of 
+
+122 mAhg-1 was recovered. 
+
+Figure  5a  shows  cyclic  voltammetry  (CV)  curves  of  NTP@C@PC  as  anode  for 
+
+NIBs at a fixed scan rate  of  0.1  mV  s-1.  A couple  of  redox peaks  of  Ti4+ to  Ti3+  was 
+
+found,  which  in  a  good  agreement  with  the  discharge-charge  voltage  plateau  of  the 
+
+NTP@C@PC  at  1  C  (Figure  4a).  In  addition,  the peak  shape  and  potential  position 
+
+were  nearly  unchanged for the first three  cycles, demonstrating  the excellent cycling 
+
+stability of the NTP@C@PC electrode. Considering the super cycling behavior of the 
+
+NTP@C@PC cell, we also investigated the cycling performance of the NTP@C@PC 
+
+anode materials at 5 C as long as 5000 cycles (Figure 5b). In the whole process, the 
+
+super  cycling  performance  is  observed,  showing  high  stable  discharge  capacities  of 
+
+103  mAhg-1  at  5  C  after  5000  cycles,  which  corresponds  to  77%  of  theoretical 
+
+capacity.  In  addition,  the  structure  of  the  NTP@C@PC  was  unchanged  except  the 
+
+carbon  layer  on  the  surface  of  NTP  particles  became  slightly  thicker,  resulting  from 
+
+the  formation  of  the  solid  electrolyte  interphase  (SEI)  films.46  Figure  S5  shows  the 
+
+CV  curves  of  the  pure  carbon  matrix  in  the  potential  window  of  0.005-2.8  V  (vs. 
+
+Na+/Na) at a scan rate of 0.2 mV s-1 for the first three cycles. No oxidation/reduction 
+
+peak was observed in the potential range of 0.005-1.5 V, demonstrating the discharge 
+
+voltage of the pure carbon matrix is below 1.5 V. Therefore the reversible capacity of 
+
+the pure carbon matrix in the composites between 1.5-2.8 V is negligible.7, 44 
+
+Furthermore,  the  long-life  cycling  performance  of  the  NTP@C@PC  anode 
+
+materials at 10 C (Figure 6) and 20 C (Figure S6) were investigated.  At the current 
+
+density of 10 C (Figure 6), the NTP@C@PC exhibits an initial discharge capacity of 
+
+110  mAhg-1  and  displays  a  reversible  capacity  of  76  mAhg-1  after  6000  cycles.  As 
+
+shown  in  Figure  S6,  the  NTP@C@PC  displays  a  stable  reversible  capacity  of  70 
+
+mAhg-1 at 20C after 9000 cycles and the Coulombic efficiency can achieve constant at 
+
+approximately  100%  throughout  the  whole  cycle  process,  demonstrating  that  this 
+
+novel composite could serve as promising anode materials for high-performance NIBs  in a wide range of applications. 
+
+In  order  to  further  study  the  relationship  between  the  porous  structure  of  the 
+
+electrode materials and electrochemical performance, the electrochemical impendance 
+
+spectroscopy  (EIS)  was  investigated.  Figure  7  shows  the  Nyquist  plots  of  the  NTP 
+
+and NTP@C@PC electrodes in fresh cells and the thrice test cells (the cell was tested 
+
+after  the  three  cycles)  with  equivalent  circuit  inset.  A  semicircle  and  a  straight  line 
+
+were found in each the Nyquist plot for the samples.47 The semicircle in high-medium 
+
+frequency  is  related  to  the  charge-transfer  resistance  (Rct),  which  represents  the 
+
+diffusion of the sodium ion between the electrode and electrolyte.48  The straight line 
+
+in  the  low  frequency  represents  the  sodium  ion  diffusion  in  the  active  electrode 
+
+material.  The  fitting  results  were  concluded  in  the  Table  1.  The  Rct  value  of  the 
+
+NTP@C@PC  (959  Ω)  is  much  smaller  than  that  of  the  NTP  (1193  Ω)  in  fresh  cells 
+
+(see in Table 1), which demonstrates that both Na+/ecan easy diffusion between the 
+
+NTP@C@PC  electrode  and  the  electrolyte.20, 49  After  3  cycles  at  1  C,  the  Rct  of  the 
+
+pure NTP decreased to 1019 Ω (decreased by 174 Ω), which may be attributed to the 
+
+destruction  of  the  passivation  layer  on  the  sodium  metal  surface.41, 45, 50  In  addition, 
+
+the Rct of NTP@C@PC electrode decreases by 450 Ω, resulting from the large surface 
+
+area and the porous structure of the NTP@C@PC nanocomposites (see in Table 1).41 
+
+In  addition,  the  Rct  values  of  the  NTP  (1019  Ω)  are  much  larger  than  that  of  the 
+
+NTP@C@PC  (509  Ω)  after  3  cycles  at  1C,  which  indicates  the  electron  can  fast 
+
+transfer between the NTP@C@PC electrode and electrolyte, leading  to the excellent 
+
+electrochemical performance for the NTP@C@PC electrode. 
+
+In  summary,  we  have  demonstrated  a  simple  soft-chemistry  approach  to  prepare 
+
+NASICON  type  materials  with  double  carbon  coating,  where  carbon  coated 
+
+NASICON  type  material  nanoparticles  embedded  in  porous  carbon  matrix.
+
+The  resulting  NTP@C@PC architectures  possess  high  surface  area,  porous  structure  and  high  electrical 
+
+conductivity,  facilitating  the  diffusion  of  both  Na+  and  electrons  during  sodium 
+
+storage.  Moreover,  the  3D  porous  carbon  matrix  structure  can  rapidly  accommodate 
+
+the  volume  variation  during  repeated  Na+  insertion/extraction.  Benefiting  from  the 
+
+specific structure, NTP@C@PC anode delivers extremely high rate performance (64 
+
+mAh g-1 at 50C) and ultra-long cycle life (70 mAhg-1 at 20 C after 9000 cycles). We 
+
+believe  that  such  a  simple  and  efficient  soft-chemistry  process  offers  an  effective 
+
+method  to  prepare  various  materials  with  double  carbon  coating  structure  for  wide 
+
+applications  in  supercapacitors,  lithium  ion  batteries  and  sodium-ion  batteries  with 
+
+high power and energy densities.   
+
+The double carbon-coated NaTi2(PO4)3 composite (NTP@C@PC) was    prepared by 
+
+a  simple  method.  In  a  typical  synthesis  process,  Titanium  (IV)  acetylacetonate 
+
+(0.2mmol,  C10H14O5Ti),  sodium  acetate  (0.1mmol,  CH3COONa)  and  ammonium 
+
+dihydrogen  phosphate  (0.3mmol,  NH4H2PO4)  were  dissolved  in  the  tetraethylene 
+
+glycol  (30mL,TEG)  under  stirring.  After  getting  a  homogenous  solution,  The  mixed 
+
+solution was heated at 300  oC for 3h in a round bottom flask hang onto the refluxing 
+
+condenser under continuously stirring. Then the obtained powders were washed with 
+
+ethanol and acetone for some times and were dried at 60 oC for 12h in a vacuum oven. 
+
+The resulting product was obtained by preheated at 650 oC for 6 hours in Ar/H2 (95:5) 
+
+and  heated  in  Ar  atmosphere  at  800 oC  for  8  hours.  For  comparison,  the  pure  NTP 
+
+composite was prepared without TEG in a similar abovementioned process.   
+
+The structural properties  of  the  samples  were  studied by  X-ray powder diffraction 
+
+(XRD) (Philips X’Pert PRO SUPER X-ray diffractometer with Cu-Kα radiation). The 
+
+Raman  spectroscopy  was  used  to  study  the  degree  of  graphitization.  The  carbon 
+
+contents in the as-prepared samples were determined by Thermogravimetry (TG). The 
+
+Filed-Emission  Scanning  electron  microscopy  (FESEM,  JEOL,  Tokyo,  Japan)  was 
+
+employed  to  characterize  the  morphologies  of  the  samples.  Transmission  electron 
+
+microscopy  (TEM,  JEOL,  Tokyo,  Japan)  and  high-resolution  TEM  (HRTEM)  were 
+
+used to study the microstructural properties. An ASAP 2020 Accelerated Surface Area 
+
+and  Porosimetry instrument  was  used to  measure the  products’  nitrogen 
+
+
+The electrodes were made by putting the mixture of 70 wt% active material, 20 wt% 
+
+carbon  black, and  10  wt%  PVDF  with 
+
+appropriate 
+
+amount  of 
+
+N-methyl-2-pyrrolidone (NMP) as a solvent on a Cu foil. Then the working electrode 
+
+was dried in a vacuum oven for 12 hours at 60 oC. The 2032 coin cells assembled in a 
+
+glove  box  (MBRAUN  LABMASTER  130)  filled  with  pure  argon  gas  where  both 
+
+moisture  and  oxygen  levels  were  kept  below  0.1  ppm.  In  sodium  half  cells,  sodium 
+
+metal  was  used  as  the  counter  electrode,  a  1  M  solution  of  NaClO4  in  ethylene 
+
+carbonate  (EC)  and  dimethyl  carbonate  (DMC)  (WEC:WDMC=1:1)  was  used  as  the 
+
+electrolyte,  and  glass  fiber  (GF/D)  from  Whatman  was  used  as  the  separator.  The 
+
+galvanostatic charge-discharge tests were carried out at a voltage window of 1.5-2.8 V 
+
+on a battery  test  system (Neware  BTS-610).  The specific capacity  was calculated on 
+
+the  basis  of  the  active  anode  material  after  deduction  the  carbon  content.  Cyclic 
+
+voltammetry  measurements  were  conducted  at  a  scan  rate  of  0.1  mVs-1. 
+
+Electrochemical impedance  spectrum  (EIS)  measurements  were performed  on a  CHI 
+
+660D  electrochemical  workstation  (Chenhua  Instrument  Company,  Shanghai,  China) 
+
+in the frequency range from 100 kHz to 0.01 Hz. 

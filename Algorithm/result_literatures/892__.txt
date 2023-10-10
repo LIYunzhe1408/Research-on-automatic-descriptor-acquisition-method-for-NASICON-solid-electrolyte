@@ -1,0 +1,82 @@
+Ti/Ge distribution in rhombohedral LiTi2-xGex(PO4)3 NASICON series has been analyzed by 31P Magic-AngleSpinning Nuclear Magnetic Resonance (MAS-NMR) spectroscopy and first principles Density Functional Theory (DFT)calculations.
+
+Nuclear Magnetic Resonance results an excellent probe to follow Ti/Ge disorder, as it is sensitive to theatomic scale environment without long-range periodicity requirements.
+
+In samples considered here, PO4 units are surrounded by four Ti/Ge octahedra, then, five different components ascribed to P(OTi)4, P(OTi)3(OGe), P(OTi)2(OGe)2,P(OTi)(OGe)3 and P(OGe)4 environments are expected in 31P MAS-NMR spectra of R͞3c NASICON samples.
+
+However, 31PMAS-NMR spectra of analyzed series display a higher number of signals, suggesting that although overall symmetry remains R͞3c, partial substitution causes a local decrement in symmetry.
+
+With the aid of first principles DFT calculations,ten detected 31P NMR signals have been assigned to different Ti4-nGen arrangements in the R3 subgroup symmetry.
+
+In thisassignment, the influence of octahedra of the same or different R2(PO4)3 structural units has been considered.
+
+ The influence of bond distances, angles and atom charges on 31P NMR chemical shieldings has been discussed.
+
+Simulation of theLiTi2-xGex (PO4)3 series suggests that detection of ten P environments is mainly due to the existence of two oxygen types,O1 and O2, whose charges are differently affected by Ge and Ti occupation of octahedra.
+
+From the quantitative analysis ofdetected components, a random Ti/Ge distribution has been deduced in next nearest neighbor (NNN) sites that surroundtetrahedral PO4 units.
+
+ This random distribution was supported by XRD data displaying Vegard’s law.
+
+In the past decades, lithium-ion conducting solids havebeen investigated for potential applications as electrolytesin all-solid state lithium batteries1-4.For that, high lithiummobility and electrochemical stability are required.
+
+Mostof lithium ion conductors, such as Li3N, Li- alumina,lithium lanthanum titanates (Li3xLa(2/3)−xTiO3), LISICON(Li2+2xZn1−xGeO4), LIPON (xLi2O–yP2O5–zPON), lithiumsulphide glasses (Li2S–P2O5–LiI and Li2S–SiS2–Li3PO4)have either high ionic conductivity or high electrochemical stability, but rarely both4-10.In the case of LiR2(PO4)3,Li NASICON compounds have received much attentionbecause their high ionic conductivity and stability againstmoisture.
+
+NASICON LiR2(PO4)3 framework is built up by R2(PO4)3units, where two RO6 octahedra share oxygens with threePO4 tetrahedra.
+
+Tetrahedra and octahedra of contiguousR2(PO4)3 units are bounded to form the three-dimensionalnetwork of NASICON structure (Figure 1).
+
+In this network, each octahedron is connected to six tetrahedra andeach tetrahedron to four octahedra.
+
+Symmetry ofLiR2(PO4)3 compounds is usually rhombohedral R͞3c, although in some cases a triclinic distortion (space group C1̅)was detected14-18.In rhombohedral samples, Li+ions occupy M1 sites surrounded by six oxygen atoms14,15; but intriclinic phases, Li+ions are at intermediate sites M12,coordinated to four oxygen atoms between M1 and M2positions.
+
+ In sodium NaR2(PO4)3 homologues, biggerNa cations only occupy M1 sites at ternary axes.
+
+InLi1+xRIV2-xSxIII(PO4)3 series, with R= Ti, Zr, Hf, Ge, Sn andS= Al, Ga, In, the increment detected in Li conductivityhas been ascribed to the occupation of M3 (located in M2cavities) at expenses of M1 sites.
+
+In order to understand physical and chemical properties of NASICON compounds, a detailed knowledge of thelocal structure and cation order/disorder is required.
+
+Solid-State Nuclear Magnetic Resonance (SS-NMR) canbe used to study local atomic arrangements without longrange order.
+
+Subtle differences in local environment produce changes on chemical shielding, achieving, in somecases, enough resolution to differentiate MAS-NMR components.
+
+In the case of NASICON LiR2(PO4)3 materials,each P tetrahedra is surrounded by four octahedra, whichpermits to follow the main features of octahedral cationdistribution around P atoms.
+
+Density Functional Theory (DFT) calculations can beused to analyze the influence of next nearest neighbor(NNN) sites on the chemical shift of atoms.
+
+The comparison between experimental NMR and DFT-calculatedparameters has previously allowed the assessment ofatomic arrangements, where diffraction data were notconclusive.
+
+Optimization of structural parametersmakes possible a better analysis of electronic arrangement in chemical bonds.
+
+In particular, the influence ofbond angles and lengths on 31P NMR chemical shieldinghas been previously tested with DFT techniques.
+
+The aim of the present work is the analysis of Ti/Ge distribution in the LiTi2-xGex(PO4)3 series using 31P MASNMR spectroscopy.
+
+For a better understanding of deduced parameters, a parallel NMR and DFT study of thisseries has been performed and the assignment of experimental signals to specific environments done.
+
+With theaid of DFT, the sensitivity of NMR chemical shift to atomscharges, bond distances and bond angles has been investigated.
+
+The quantitative analysis of 31P NMR spectra hasbeen used to deduce main characteristics of the Ti/Gedistribution.
+
+The solid solution LiTi2-xGex (PO4)3 was investigated by31P NMR spectroscopy and first principles DFT calculations.
+
+The symmetry deduced from XRD patterns isrhombohedral R͞3c but 31P MAS-NMR spectra suggestlower local symmetries for intermediate compositions.
+
+DFT technique has permitted the study of local disorder in long term ordered systems.
+
+The use of lower symmetry allows the local investigation of different Ti/Gearrangements, but increases the computational cost.
+
+Thestrategy followed here to perform DFT calculations was tosplit the problem into several simple ones, preserving thesymmetry as high as possible taking into account the S.G.obtained in structural refinements.
+
+To allow differentcation substitutions, only some symmetry elements wereeliminated.
+
+Specifically, seven R3 models were used todescribe different Ti/Ge arrangements.
+
+Simulation of the LiTi2-xGex (PO4)3 series suggests thatdetection of ten P environments is mainly due to theexistence of two oxygen types, O1 and O2, whose chargesare differently affected by Ge and Ti occupation of octahedra.
+
+On this basis, detected bands display a multiplicitypattern 1:(2:2):(1:2:2:1):(2:2):1 that differs from 1:4:6:4:1expected for R͞3c symmetry where four octahedral sitesare equivalent.
+
+Mono-substituted models differentiate R1from R2 and di-substitution generates an additional differentiation between R sites of the same type.
+
+The splittedTi4-n Gen components display intensities that agree withthe random occupation of octahedral sites by Ge and Tications.
+

@@ -1,0 +1,44 @@
+A water-stable solid electrolyte is a key material without which aqueous lithium–air batteries could not be operated.
+
+In this study, we have examined the electrical conductivityand mechanical properties of a water-stable lithium-ion-conducting solid electrolyte,Li1+xAlxGeyTi2−x−y(PO4)3 with the NASICON-type structure, as a function of the Al and Gecontent.
+
+Li1+xAlxGeyTi2−x−y(PO4)3 was synthesized by the conventional solid-state reactionmethod.
+
+ The highest lithium-ion conductivity of 1.0  ×  10−3S  cm−1at 25°C and thehighest three-point bending strength of 90 N mm−2at room temperature were observedfor a pellet of Li1.45Al0.45Ge0.2Ti1.35(PO4)3 sintered at 900°C.
+
+In the last half century, many types of lithium-ion-conducting solid electrolytes have beenreported, such as Li3N (Alpen et al., 1977), B2S3–Li2S–LiI glass (Wada et al., 1983), NASICON-typeLi1+xAxTi2−x(PO4)4 (Aono et al., 1990), perovskite-type La2/3−xLixTiO3 (Inaguma et al., 1993), garnet-type Li7La3Zr2O12 (Murugan et al., 2007), and thio-LISICON-type Li10GeP2S12 (Kamaya et al.,2011).
+
+ At present, the highest lithium-ion conductivity of 1.2 × 10−2S cm−1at room temperatureis reported in Li10GeP2S12, which is higher than that of conventional liquid electrolytes, becauseits lithium-ion transport number is unity.
+
+Lithium-ion-conducting solid electrolytes are generallyhygroscopic and so are difficult to handle in the open atmosphere, especially the high conductivity sulfide-based solid electrolytes.
+
+NASICON-type Li1+xAxTi2−x(PO4)3 lithium-conducting solidelectrolytes are less sensitive to moisture and can be prepared in the open air, and are also stablein contact with LiCl-saturated aqueous solution (Shimonishi et al., 2011). Aono et al.(1990) hasreported the electrical conductivity of the Li1+xAxTi2−x(PO4)3 (A = Al, Cr, Ga, Fe, In, La, Sc, and Y)system and found the highest electrical conductivity of 7 × 10−4S cm−1at 25°C for Li1.3Al0.3Ti1.7(PO4)3.Since the report by Aono et al., the NASICON-type lithium-ion-conducting solid electrolyteshave been extensively examined.
+
+ The highest electrical conductivity of 4.62 × 10−3S cm−1at 27°Cwas reported for the Li1.5Al0.5Ge1.5(PO4)3 glass–ceramic by Thokchom and Kumar (2010).
+
+However,Fu (1997) studied the Li1−xAlxGe2−x(PO4)3 glass–ceramics and found the electrical conductivity ofLi1.5Al0.5Ge1.5(PO4)3 was 4.0 × 10−4S cm−1at 25°C, and also Xu et al. (2007) found an electrical conductivity of 7.25 × 10−4S cm−1at room temperature for the Li1.5Al0.5Ge1.5(PO4)3–0.05 Li2O glass–ceramic.
+
+The preparation of glass–ceramics is somewhat complex, and the effect of aging on the electricalconductivity is questionable.
+
+The Li1+x+yAlx(Ge, Ti)2−xSiyP4−yO12glass–ceramics have been commercialized by Ohara, Ltd., Japan.
+
+The glass–ceramic is water-permeation free, and the electrical conductivity is 10−4S  cm−1at room temperature.
+
+Recently,Zhang et  al.(2013) reported that the electrical conductivity ofLi1.4Al0.4Ti1.6(PO4)3 was enhanced by a partial substitution of Gefor Ti.
+
+ The highest electrical conductivity of 1.3 × 10−3S cm−1at25°C was observed in Li1.4Al0.4Ge0.2Ti1.4(PO4)3, where the contentof Al was fixed to 0.4, and the Li1.4Al0.4GexTi1.6−x(PO4)3 powderswere prepared by a sol–gel method using expensive Ti and Gealkoxides.
+
+In this study, we have examined the electrical conductivity and mechanical properties of the Li1+xAlxGeyTi2−x−y(PO4)3system in the range of x = 0.30–0.55 and y = 0.1–0.3 using lessexpensive starting materials.
+
+Water-stable high lithium-ionconducting solid electrolytes have potential applications foraqueous lithium–air batteries (Zhang et  al., 2010; Bruce et  al.,2012) and aqueous lithium batteries with aqueous cathodes (Luet al., 2011; Zhao et al., 2013).
+
+These electrolytes have been usedas a protective layer for the lithium metal electrode to avoid directcontact with the aqueous solution, because lithium metal reactsvigorously with water.
+
+The NASICON-type water-stable lithium-ion-conductingsolid electrolyte of Li1+xAlxGeyTi2−x−y(PO4)3 was prepared usingconventional solid-state reaction at 900°C for 7  h.
+
+The highestlithium-ion conductivity of 10−3S cm−1at 25°C was found for theLi1+xAlxGeyTi2−x−y(PO4)3 composition with x = 0.45 and y = 0.2.The relative density of the sintered pellets was as high as 95.8%,and the three-point bending strength was 90 N mm−2.Tape castfilms of Li1.45Al0.45Ge0.2Ti1.35(PO4)3 were prepared using powderprepared by solid-state reaction.
+
+The total and bulk electrical conductivities of the film were comparable with those of a sinteredplate prepared from a pressed green body.
+
+This water-stable highlithium-ion-conducting solid electrolyte has potential application as the protective layer of lithium metal electrodes in aqueouslithium–air batteries and lithium batteries with aqueous liquidcathodes.
+

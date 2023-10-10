@@ -1,0 +1,170 @@
+In terms of the Voronoi–Dirichlet partition of the crystalspace, definitions are given for such concepts as ‘void’,‘channel’ and ‘migration path’ for inorganic structures withthree-dimensional networks of chemical bonds.
+A number ofcriteria are proposed for selecting significant voids andmigration channels for alkali cations Li+–Cs+ based on theaverage characteristics of the Voronoi–Dirichlet polyhedra foralkali metals in oxygen-containing compounds.
+A generalalgorithm to analyze the voids in crystal structures has beendeveloped and implemented in the computer packageTOPOS.
+This approach was used to predict the positions ofLi+ and Na+ cations and to analyze their possible migrationpaths in the solid superionic materials Li3M2P3O12 (M= Sc, Fe;LIPHOS) and Na1 + xZr2SixP3  xO12 (NASICON), whoseframework structures consist of connected M octahedra andT tetrahedra.
+Using this approach we determine the mostprobable places for charge carriers (coordinates of alkalications) and the dimensionality of their conducting sublatticewith high accuracy.
+The theoretically calculated coordinates ofthe alkali cations in MT frameworks are found to correlate towithin 0.33 A ° with experimental data for various phases ofNASICON and LIPHOS.
+The proposed method of computeranalysis is universal and suitable for investigating fast-ionconductors with other conducting components.
+Traditionally, analysis of the geometry and (to a smallerextent) the topology of atomic three-dimensional nets (Wells,1986) has attracted much attention in inorganic crystalchemistry.
+At present, computer methods allow similarinvestigations for ‘empty’ (containing no atoms) crystal spaceconsidering the geometrical–topological properties of cavitiesand channel networks .
+The properties of the ‘empty’crystal space are important in many crystallochemical tasksand physical applications.
+The equivalent concept of excludedvolume is well known in solid-state physics, enabling themigration paths for mobile ions to be modelled, for instance,in framework fast-ion conductors.
+Analysis of electron-densitydistributions in various superionic conductors shows thatmobile particles easily migrate through the whole crystal,except the volume occupied by the framework ions (excludedvolume).
+In the crystalline matrix a connected conductingspace may be separated that consists of cavities, where ions arelocated for a long period of time, and of migration channelsconnecting the cavities.
+The geometrical properties of the ‘empty’ crystal space allow the study of the energetic peculiaritiesof the material responsible for the anomalously highionic (superionic) conductivity (Hong, 1976):(i) the number of energetically equivalent positions has tobe larger than the number of mobile ions;(ii) the ion-disordering energy and the energy of ion motionhave to be small in comparison with the kT magnitude that,together with the first condition, leads to a random distributionof mobile ions over acceptable Wyckoff positions (voids).
+Topologically the ‘empty’ crystal space has to possess aninfinite network of channels to provide the ion migrationthrough the material.
+The geometrical–topological analysis of the ‘empty’ crystalspace can be performed by various modifications of the ‘grid’methods , by constructing the Voronoi–Dirichlet partitionorthe dual Delaunay partition .
+The mainrestrictions of the ‘grid’ methods are:(i) they ordinarily use the ‘spherical-atom’ model and theatomic radii must be dependent on the nature of the chemicalbonding;(ii) the precision of their results depends on the grid density.
+For instance, this model leads to ‘cusp’ areas appearing aroundthe cavity .
+The Voronoi–Dirichletapproach seems to be more useful because many parametersof the atomic Voronoi–Dirichlet polyhedra (VDP) have aclear physical meaning .
+Also the Voronoi–Dirichlet partition naturally maps onto the system of cavitiesand channels .
+It is the polyhedral representationthat closely conforms to the real shape of an atom in thenon-spherical crystal field.
+Moreover, this representation naturally results in two interpenetratingthree-dimensional graphs; graphs of atomic andvoid nets, whose nodes symbolize atoms and void centres, andwhose edges correspond to the interatomic bonds and possiblechannels, respectively.
+The usefulness of this approach hasbeen known for some time , but ithas only been applied to some simple and high-symmetrystructures.
+Recently it was implemented in the computerpackage TOPOS and successfully used to study microporouscrystal structures of various types.
+However, themain focus was on the analysis ofcavities; the possibility of analyzing theconnecting channels was hardlymentioned.
+In this work we consider in detail thebasic problems of applying the Voronoi–Dirichlet partition to the analysis of solidsuperionic materials, using the exampleof the framework structures ofNa3Zr2Si2PO12 (NASICON) and Li3M2P2O12 (LIPHOS;M= Sc, Fe), which consist of connectedM octahedra and T tetrahedra.
+The main goals were to definethe selection criteria for significant cavities and channels, andto determine the most probable positions of the alkali cationstogether with their migration paths.
+We also intended toevaluate the predictability of the method by comparing thegenerated models of channel systems with the data of X-rayexperiments and conductivity measurements for a number ofsuperionic conductors.
+The basic concepts used to describe the cavities and channelsin terms of the Voronoi–Dirichlet partition are elementaryvoids and elementary channels.
+Recall that the Voronoi–Dirichlet partition is a normal (face-to-face) partition ofcrystal space by VDPs, i.e.by the polyhedra constructedaround atoms in such a way that each internal point of a VDPis closer to the internal atom than to other atoms.
+All the VDPvertices and edges in the Voronoi–Dirichlet partition form athree-dimensional graph: the Voronoi–Dirichlet graph.
+The elementary void is a region of crystal space with itscentre on a vertex of an atom VDP.
+The atoms whose VDPsmeet in the centre of a given elementary void are referred toas atoms determining the elementary void; these atoms areequidistant to the void centre.
+The properties of elementaryvoids are mainly determined by the features of the Voronoi–Dirichlet partition.
+(i) In a two-dimensional net the centre of an elementaryvoid is surrounded by no less than three noncollinear atoms atthe same distances (Fig.1a).
+In the three-dimensional case theelementary void is equidistant to at least four noncoplanaratoms (tetrahedral void) since in a three-dimensionalVoronoi–Dirichlet partition no less than four VDPs meet inthe same vertex (Fig.1b).
+(ii) Besides the atoms determining the elementary void,there are additional atoms at longer distances that canstrongly influence the geometrical parameters of the elementaryvoid, in particular, its size and shape.
+To find theseparameters one should construct the void VDP, taking intoaccount all atoms and other symmetrically equivalentelementary voids (Fig.1c).
+Let us name the atoms and voidsparticipating in the VDP formation environmental.
+Obviously,the atoms determining the elementary void are always environmental.
+Thus, in the crystal structure of NaCl all environmentalions determine the elementary void (Fig.1c).
+Physically, the void VDP reflects the size and shape of an atomthat could occupy the void, which is in contact with all theenvironmental atoms.
+Since other equivalent elementary voidswould also be occupied in this case, they form the void VDPalong with environmental atoms.
+(iii) The radius of the elementary void (Rsd) is the radius ofthe sphere, whose volume is equal to the volume of the voidVDP which is constructed taking into account all the environmentalatoms and voids.
+Physically, the radius of theelementary void corresponds to the radius of an atom that canbe located in the void under the influence of the crystal fielddistorting the spherical shape of the atom.
+Let us emphasizethat this parameter is used only to characterize the voidvolume; it does not mean that the void is considered to bespherical.
+In the Voronoi–Dirichlet approach the voids (andatoms) have polyhedral shape and fill the whole space, whichis in contrast to the model of the spherical atom used in the‘grid’ methods.
+(iv) The shape of the elementary void is determined by thevoid VDP which is constructed with all the environmentalatoms and voids (Fig.
+1c).
+It is estimated to be the dimensionless-normalized second moment of inertia of the VDP(G3).
+The more spherical the elementary void, the lower theG3 value; the sphere has a minimum G3 value of 0.07697. Weassume that an elementary void is essentially distorted if G3 >0.10. 
+The distorted voids are hardly accessible even thoughthey are a reasonable size.
+There are two kinds of elementary void: major, if its centreis located inside the polyhedron, whose vertices coincide withthe atoms determining the elementary void (for instance,inside the tetrahedron for a tetrahedral void, Fig.1b, or insidethe cube in the NaCl crystal structure, Fig.1d); and minor, if itscentre lies outside or on the boundary of the polyhedron (Fig.1e).
+The physical sense of the major elementary voids meansthat they usually correspond to real cavities and cages inframework structures.
+Minor elementary voids often correspondto transition regions between cavities, for instance, tochannel necks.
+The elementary channel is a space belonging to twoelementary voids; the channel connects the voids and correspondsto a VDP edge; the VDP refers to an atom determiningeither of the voids.
+Such an edge is termed a line of theelementary channel.
+Accordingly, the atoms determining theelementary channel are those atoms whose VDPs have acommon edge coinciding with the channel line.
+Theproperties of elementary channels are similar to the propertiesof elementary voids.
+(i) Generally speaking, each elementary channel is determinedby at least three noncollinear atoms, since in theVoronoi–Dirichlet partition each VDP edge is shared by noless than three VDPs.
+The plane passing through these atomsis perpendicular to the line of the elementary channel .
+(ii) The section of the elementary channel is a polygonwhose vertices are the atoms determining the channel; thesection always corresponds to the narrowest part of thechannel.
+The line of the elementary channel is always perpendicular to its section; ordinarily, the channel section andthe channel itself are triangular (Figs.2a and b).
+(iii) The radius of the elementary channel section is estimatedto be the geometric mean for the distances from thebarycentre of the elementary channel section to the atomsdetermining the channel.
+In fact, the radius corresponds to anaverage distance from the centres of the atoms surroundingthe channel to the centre of an atom passing through it.
+Anatom can freely pass through the channel if the sum of itsradius and the average radius of the atoms determining thechannel does not exceed the channel radius.
+(iv) The length of the elementary channel is the distancebetween the elementary voids connected by the channel, i.e.isthe length of the corresponding VDP edge.
+An elementary channel can be of two types: (i) major if itsline intersects its section (Fig.2a) and (ii) minor if the line andsection have no common points, or one of the line ends lies onthe section (Fig.2b).
+With respect to the ion-transport processes in fast-ionconductors, the major elementary channels correspond to themost spacious parts of the real migration channels; the minorelementary channels ordinarily connect the major elementarychannels and relate to the bends of the migration paths.
+The following terms define the properties of the systems ofelementary voids and channels.
+(i) The ‘significant’ elementary void and the ‘significant’elementary channel are accessible voids and channels formobile particles within the scope of a given task.
+In thepresent work the cationic conductors are studied and theelementary voids and channels which are accessible for cationsare assumed to be significant.
+If the superionic conductorswith anionic conductivity, molecular sieves or other substanceswith different mobile particles are under consideration, thenan additional definition of the ‘significance’ is required.
+Onlysignificant voids and channels are important in the analysis ofsuperionic conductors; other elementary voids and channelsshould be ignored.
+Significant voids and channels are referredto as probabilistic if the migration of particles through them isnot forbidden, but is hindered for some reason.
+The criteriafor determining probabilistic voids and channels depend onthe problem to be solved.
+(ii) The migration channel for mobile particles is a set ofsignificant elementary voids and elementary channelsconnecting the voids.
+The passage defined in this way providescharge transport in fast-ion conductors.
+If the migrationchannel contains no probabilistic elementary voids andchannels, the ion transport is not bottle-necked and a highionic conductivity can be expected at the temperature of thestructural experiment; otherwise the conductivity is at a hightemperature.
+(iii) The migration path of mobile particles is a set ofelementary void centres and channel lines which compose themigration channel .
+Thus, the migration pathunambiguously corresponds to a migration channel and is agraph whose vertices and edges correspond to elementaryvoid centres and elementary channel lines.
+To provideconductivity, the migration path has to be infinite (onedimensional,two-dimensional or three-dimensional), otherwisethe mobile ions will be located in finite zero-dimensionalcages.
+Thus, the infinite migration paths are of special interestin the analysis of the electrical properties of superionicconductors.
+Obviously, an infinite migration path has to beformed by the elementary voids being incident to at least twoelementary channels, otherwise the elementary void would bea dead end in the migration path, or even isolated.
+The Voronoi–Dirichlet approach has been implemented inthe program package TOPOS (Blatov, 2004) for multipurposecrystallochemical analysis.
+The program Dirichlet, a part of thepackage, provides the following operations:(i) constructing VDPs for all the independent frameworkatoms, i.e.a Voronoi–Dirichlet partition of the crystal space(interstitial particles including mobile ions are omitted);(ii) determining the coordinates for all the independentvertices of atomic VDPs and, as a result, the coordinates of allthe elementary voids;(iii) determining all the independent VDP edges and, hence,all the elementary channels;(iv) calculating the numerical parameters ofthe elementary voids and channels.
+Information on the resulting conductionpattern is stored as a three-level adjacencymatrix of the Voronoi–Dirichlet graph (Fig.3).
+The first level contains information on areference elementary void.
+A major elementaryvoid is designated as ZA, a minor one is markedas ZB or ZC if it lies on the boundary or outside,respectively, the polyhedron of the atomsdetermining the void.
+The void radius (Rsd, A° )and second moment of inertia of its VDP (G3) are also shown.
+The second level gives information on other elementaryvoids connected to the reference void by channels, and on theenvironmental atoms.
+Every elementary void is characterizedby the length (R, A° ) of the elementary channel connecting itto the reference void, by the number of channel atoms (Chan)and by the channel radius (Rad, A° ).
+If a channel is major, thetext is marked as bold, otherwise a normal font is applied.
+Every environmental atom of the central void is characterizedby the distance to the void centre (R, A° ), and by the solidangle of the corresponding VDP face (SA as a percentage of4 steradian); the greater the SA, the more significant theatom–void contact.
+The third level contains information on the atoms determiningthe channel; the distances between the atoms and thecentre of the channel section are also given.
+A number of factors should be taken into account whendetermining the significant elementary voids and channels insolid electrolytes with cationic conductivity.
+An elementaryvoid is significant if:(i) it is determined only by anions (for instance, by O or Iatoms);(ii) the void radius and G3 value conform to the averagevalues for the cations (Table 1).
+Obviously, if the void radius is greater than the radius of thecation, the void can store the cation.
+Moreover, if the G3 valuefor the void is smaller or slightly greater than the G3 value forthe cation, the void is suitable by shape.
+If the value of G3 islarge (G3 > 0.1), the void can only be a transfer point in amigration channel, i.e.is probabilistic.
+Besides, the environmentalatoms of the void must be considered; the mostsignificant voids have a purely anionic environment.
+If thereare cations with SA > 5% in the environment, such a voidcannot store cations permanently, even if it has a suitablevolume and G3 value.
+However, it can also serve as a transferpoint, i.e.is probabilistic.
+An elementary channel is significant if:(i) it is only determined by anions, and(ii) its radius is similar to a typical cation–anion distance(Rca).
+As in the case for voids, the first condition is unambiguous anddetermines the principal possibility of passing the cationthrough the channel; the channel radius characterizes themigration obstacles and is related to the migration energy.
+If Rca is 10% or more greater than the channel radius, thechannel is probabilistic.
+Below we consider how the method is applied to the study ofionic conductivity in some typical superionic conductors.
+In allthe cases studied the alkali cations were removed from thestructure before constructing the voids and channels.
+The conductivity of the Na3Zr2PSi2O12material was found to be similar to sodium -alumina and is ofgreat interest in the NASICON family.
+The NASICON crystal structure is based on a threedimensional[M2T3O12]1 framework consisting of [MO6]octahedra and [TO4] tetrahedra.
+All the O atoms are bridgesbetween the octahedra and tetrahedra; each octahedronconnects with six tetrahedra and each tetrahedron joins fouroctahedra (Fig.4).
+Sodium ions occupy twoWyckoff positions:the Na1 ions belong to distorted [NaO6] octahedra and theNa2 ions lie in the framework cavities, each formed by ten Oatoms.
+The rhombohedral NASICON phase was first investigatedin detail for terminal representatives of the solid-solutionseries NaZr2P3O12 (x = 0) and Na4Zr2Si3O12 (x = 3).
+In theNaZr2P3O12 crystal structure only Na cations are located inthe octahedral Na1 positions, but in the [Zr2Si3O12]411framework the Na1 and Na2 positions are completely occupied.
+An increase in temperature leads to a significantdecrease in the occupancy of the Na2 positions.
+We used the crystallographic data for NASICON determinedat 298 K .
+The following stepsenabled us to construct the conduction pattern; this algorithmis the same for any fast-cation conductor.
+(i) The Voronoi–Dirichlet partition gives 20 nonequivalentelementary voids in the [Zr2Si3O12]411 framework; eight ofthem are major and 12 are minor (Fig.5a).
+(ii) Insignificant elementary voids are then removed; all ofthem are minor (ZC1, 2, 4, 6, 8, 9, 11 and 12).
+For instance, theminor void ZC12 is insignificant, since there are zirconiumcations among its determining atoms (1Zr + 3O with R =2.092 A ° ; Fig.5b).
+Three of the four elementary channelsmeeting in this void (ZC12—ZC1) are also insignificant,because zirconium cations participate in their formation.
+(iii) The probabilistic voids should be revealed in the nextstep.
+If we consider the migration of Na+ cations at thetemperature of the X-ray experiment (298 K), we shouldignore such voids.
+If we are curious about the principalpossibility of cation migration at an even higher temperature,the Rsd and G3 values for the sodium cation should be takenfrom Table 1. 
+In particular, the ZA8 and ZC1 voids (Fig.5c)are probabilistic since their Rsd values are smaller than thosefor Na+.
+Note that the shapes of all the voids in Fig.
+5(c) arerather spherical (G3 < 0.1).
+(iv) The probabilistic elementary channels should then bedetermined among significant ones.
+Let us assume that thetypical Na+–O2– distance is equal to the sum of their ionic radiiand is estimated as Rca = 2.35 A ° .
+Hence, a channel will beprobabilistic if its radius is smaller than Rca  0.1Rca ’ 2.1 A ° .
+For instance, the ZC1–ZC2 channel is probabilistic (its radiusis too small, 1.875 < 2.1 A ° ; Fig.5d).
+After removing it only one(minor) channel (ZC1–ZA4) ends in ZC1. Thus, the ZC1 voidcannot be part of an infinite migration path and should beignored.
+As a result seven voids (ZA2, 7, 8; ZC1–4) wereremoved; the final list of voids after renumbering (ZA3 !ZA2; ZA4 ! ZA3; ZA5 ! ZA4; ZA6 ! ZA5) is given inTable 2.
+(v) Visualization and analysis ofmigration paths in the program IsoCrystof the TOPOS package shows that theyare infinite and three-dimensional (Fig.4).
+Thus, the results obtained agree withthe three-dimensional conductivityfound in NASICON experimentally.
+Moreover, since probabilistic elementaryvoids and channels do not participatein the migration paths one canexpect a high conductivity at the temperature of the X-rayexperiment, i.e.at room temperature.
+Also, the centres of theelementary voids ZA2 and ZA1 (Table 2) nearly coincide withthe positions of two inequivalent Na cations which weredetermined experimentally (Kohler et al.
+, 1983): (0, 0, 0) and(2/3, 0.9722, 0.5833).
+A detailed analysis of the conductionpattern reveals the key role of the void ZA2 (Fig.6); sixchannels of the length 1.83 A ° and radius 2.11 A ° meet in thisvoid.
+At the same time the voids ZA3 and ZA5 play asecondary role, connecting the close-spaced ZA1 voidsdisordered over the special positions corresponding to Nacations.
+ZA4 voids join the ZA1 and ZA2 voids together, andcan correspond to the temporary location sites of mobile ionswhile passing through the channels.
+Superionic conductors were independently discoveredamong double lithium phosphates (LIPHOS), Li3M2(PO4)3(M = Sc, Cr, Fe, In), by two research groups from Russia and France .
+As inmany other superionic conductors the high conductivity of theLi3M2(PO4)3 materials is determined by the features of thecrystal structure: the framework is formed by the [PO4]tetrahedra and [MO6] octahedra sharing vertices, and has anetwork of cavities.
+As in NASICON each tetrahedron isconnected with four octahedra and each octahedron hascommon vertices with six tetrahedra, but the topology of theframework is not the same.
+The [M2P3O12]311 frameworkscan have monoclinic or rhombohedral symmetry correspondingto low- () or high-temperature () phases.
+An analysis of the space distribution of cations in theLi3Sc2(PO4)3 phases showed that the preferabledirection for ion transport is [001], i.
+e.the X-ray investigationsconfirmed the ionic conduction data.
+However, the questionwhy the maximum conductivity direction is [100], not [001], inisostructural Li3Fe2(PO4)3 and Li3In2(PO4)3 is still unanswered.
+
+
+Probably, real cation distributions in Li–Sc and Li–Fe phosphatesare different since it is difficult to accurately locatelithium ions in high-temperature phases.
+To resolve thisproblem it is necessary to perform further precise investigations of the physical properties of Li3M2(PO4)3 crystalscontrolling composition, structure, and history of samples’.
+Below we present additional data for an interpretation of thiscontradiction.
+We have analyzed in detail the crystal structures ofLi3M2(PO4)3  for NASICON using the algorithm described above.
+Inthe low-temperature form of -Li3Sc2(PO4)3 there are 26significant voids forming a three-dimensional conductionpattern.
+After removing the probabilistic voids and channels(Rca = 2.05 A ° is applied for Li—O contacts) the two-dimensional(110) channel network is separated, where lithium ionspass most easily (Figs.7a and b).
+The result obtained conformsto the experimental conductivity measurements for -Li3Sc2(PO4)3 , according to whichconductivity along [001] is the largest among the three maincrystallographic axes.
+This direction in fact lies inside the (110)plane with the channels most accessible for cation migration.
+At the same time one can also expect a high conductivity along[1110].
+Our calculations have given a similar conduction pattern for-Li3Fe2(PO4)3, but the most accessible migration channels liein the (1110) plane with the fast transport axes [110] and [001](Fig.8).
+Thus, orientations of the conduction patterns inLi3M2(PO4)3 (M = Sc, Fe) are really different and additionalconductivity measurements along the [110] and [1110] directionsare required to elucidate the above-mentioned contradictionin the anisotropy of the conductivity.
+Table 3 lists the coordinates of Li cations, according toBykov et al.
+ and Suzuki et al., compared with thepositions of the calculated void centres.
+It is clear that theproposed method satisfactory fits the experimental data; thediscrepancies do not exceed 0.33 A ° .
+The results obtained show that the Voronoi–Dirichlet partitionallows strict definitions of such characteristics of superionicconductors as ‘void’, ‘channel’ and ‘migration path’, anddetermines their geometrical and topological parameters.
+Inthe proposed method the earlier approach of Fischer isdeveloped and formalized for cation solid electrolytes of anycomplexity.
+The main advantages of the method over traditional‘grid’ approaches  are its independence of the systemof ionic radii, and the application of topological criteria whendetermining the conduction pattern; the network of elementarychannels follows the Voronoi–Dirichlet graph.
+Animportant reasoning for the method’s reliability is its implementationas a computer program working in an automatedmode.
+Let us emphasize that the algorithm and basics of theanalysis are independent of the nature of the superionicmaterial; there are no principal obstacles to applying them inthe investigations of anion conductors or molecular substances.
+A demonstration of these abilities is the objectiveof a further study.

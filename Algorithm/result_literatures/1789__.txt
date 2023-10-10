@@ -1,0 +1,11 @@
+Data on the synthesis and properties of NASICON complex phosphates MxA2(PO4)3are summarized.
+The crystal chemistry and homology of these compounds are surveyed.
+The existence of large channelsand numerous voids in the structure and various occupations of these voids by mobile cations generate manyvaluable physical and chemical properties of the MxA2(PO4)3complex phosphates.
+The details of phase transitions,ionic conductivity, thermal expansion, ion-exchange properties, and sensor properties of the NASICON  materials are considered, as well as the possibility of purposefully changing these properties through partial heterovalentsubstitution for the metal or phosphorus atoms.
+The structural specifics of NASICON double phosphatesendow them with a set of valuable properties that allows their use as proton-conducting solid electrolytesin current sources, sensors, and other devices.
+It isfor this reason that these materials have been a focus of attention of the scientific community for almost threedecades.
+The comparatively high solubilities of severaloxides in NASICON structures at the synthesis temperatures and the ion-exchange properties offer a meansfor modifying NASICONs; in addition, these featurescall for extensive investigations of the homo- and heterovalent doping of NASICONs.
+For several years after the discovery of high ionicconductivity, the researchers concentrated their effortson sodium NASICON-type materials: sodium-containing NASICONs have the maximal ionic conductivities.
+However, in the last years, the focus of research has steadily shifted to lithium double phosphates.
+Rapidprogress in the hydrogen power industry gives us hope that the hydrogen analogues of NASICONs will find application.
+ 

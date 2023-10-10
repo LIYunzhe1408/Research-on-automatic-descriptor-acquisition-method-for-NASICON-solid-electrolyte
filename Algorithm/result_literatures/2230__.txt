@@ -1,0 +1,576 @@
+
+radioactive 
+
+from  high-salt 
+
+An  electrochemical 
+
+selective  ceramic  membranes, 
+
+tank  wastes  in  the  U.S.  Department 
+
+salt-splitting  process,  based  on  sodium-ion 
+
+is  being  developed  to  of  Energy  recover  and  recycle  sodium  hydroxide  are  from  a  family  of  materials  known  as  sodium  (Na),  super-ionic  conductors  complex.  The  ceramic  membranes  and  dysprosium,  and  a  (NaSICON).  Two  membrane  compositions  based  on  the  rare-earth  elements,  neodymium  new  proprietary  material,  NAS-D,  have  been  fabricated  as  disks  and  are  currently  being  tested  with  waste  simulants.  into  commercially  available  The  membranes  have  been  incorporated  in  excess  of  3 M  was  plate-and-frame  produced  from  waste  simulants  with  the  Dy and  Nd-NaSICON  membranes.  This  is  the  nominal  concentration  for  fouling  was  not  observed,  even  though  gibbsite  onsite  recycle  and  higher  concentrations  testing  of  the  NAS-D  material  {AI(O  indicates  90%  is  achievable  over  1000 h  of  operation  with  an  applied  potential  of  4.5 V.  0  1997 Elsevier  Science  B.V. 
+
+that  a  sodium  current  density  of  38 mA/cm’  with  a  sodium  current  efficiency  of  approximately 
+
+cells.  A  purified  caustic  product  with  a  sodium  hydroxide 
+
+in  large  amounts  during  some  of  the  runs.  Preliminary 
+
+scaffold  for  implementation 
+
+are  expected.  Membrane 
+
+into  a  polyethylene 
+
+was  precipitated 
+
+electrochemical 
+
+Keywords:  Sodium  super-ionic  conductors;  High-salt  nuclear  wastes;  Ceramic  menbranes;  Salt-splitting 
+
+1.  Introduction 
+
+Many 
+
+radioactive 
+
+of  Energy 
+
+Department  concentrations  treatment  Sodium  such  as  glass  and  large  disposal  volumes 
+
+can  decrease 
+
+and 
+
+aqueous  wastes 
+
+of  sodium  disposal 
+
+that  operations 
+
+the  durability  is  the  primary 
+
+[ 1,2].  Waste 
+
+the  U.S.  complex  have  high  can  affect  waste  negatively.  of  waste  forms  to  contributor  treatment  pro
+
+* Corresponding author. 
+
+1383-5866/97/$17.00 0  1997 Elsevier Science B.V. All rights reserved  PII S1383-5866(97)00020-8 
+
+cesses  such  as  cesium-ion  and  more  concentrations. 
+
+calcination  expensive 
+
+[3]  are  made  of  because 
+
+sludge  washing  and  sodium 
+
+less  efficient  the 
+
+high 
+
+strategies  as  the  wastes  to  final  waste  from 
+
+sodium 
+
+reduce  volumes, 
+
+Some  disposal 
+
+sodium  conversion  and  recycling  can  waste-disposal  of  waste-treatment  procurement 
+
+potentially 
+
+for  adding  more  for 
+
+call  they  are  prepared  forms[  1,2].  Separating  the  radioactive  wastes  by  reducing  the  efficiency  the  avoiding  This  paper 
+
+the  costs  improving  and 
+
+of  additional 
+
+and  Purijication  Technology  II  (1997)  185-198 
+
+presents  the  initial  results  obtained  for  an  electro chemical  salt-splitting  process  based  on  ceramic  that  separates  sodium  hydroxide  from  membranes  sodium-dominated  subse quent  recycle. 
+
+aqueous  wastes 
+
+for 
+
+2.  Process Description 
+
+to  the  anode  compartment 
+
+Pacific  Northwest  National  Laboratory’ 
+
+and  Ceramatec  Inc.’  are  developing  the  electrochemical  salt-splitting  process  based  on  sodium-ion  selective  ceramic  membranes.  In  this  process,  the  waste  is  of  a  divided  added  electrochemical  cell,  and  an  electrical  potential  is  applied  that  drives  sodium  ions  through  the  mem brane,  but  the  membrane  rejects  most  other  waste  components.  The  charge  balance  in  the  anode  compartment  is maintained  by generating  H+  from  the  electrolysis  of  water.  The  charge  balance  in the  cathode  is  maintained  by  generating  OH-,  either  from  the  electrolysis  of  water  or  from  oxygen  and  water  using  an  oxygen  cathode.  The  normal  gas eous  products  of  the  electrolysis  of  water  are  oxygen  at  the  anode  and  hydrogen  at  the  cathode.  Potentially  flammable  gas  mixtures  can  be  pre vented  by  providing  adequate  volumes  of  a  sweep  gas,  using  an  alternative  reductant,  or  destroying  the  hydrogen  as it is generated.  As H+  is generated  in  the  anode  compartment,  the  pH  drops.  The  process  may  be  operated  with  either  an  alkaline  (pH  >  12) or  an  acidic  (pH  <  1) anolyte.  Operation  at  the  intermediate  is  precluded  by  in  the  waste,  which  would  precipitate  aluminum  as  Al(OH),.  Production  of  OH in  the  cathode  compartment  results  in  a rise  in  pH  as the  sodium  hydroxide  (NaOH)  product 
+
+pH  values 
+
+The  sodium-ion 
+
+selective  ceramic  membranes  in  the  are  from  a  family  of  materials  known  electrical-battery  industry  as  sodium  (Na),  super ionic  conductors  (NaSICON).  An  initial  investiga tion  conducted  by  Ceramatec  in  1990  demon the  feasibility  of  using  membranes  based  strated 
+
+‘Pacific Northwest  National  Laboratory  is operated  for the U.S.  under  Contract  Department  DE-AC06-76RL0  1830.  ‘Ceramatec  Inc.  is located  in  Salt  Lake  City,  Utah. 
+
+of  Energy 
+
+development 
+
+for  salt  split on  the  composition  Na3Zr,SizP0,,  ting  [4].  While  sodium  selectivity  was  found  to  be  high,  the  sodium  conductivity  was  judged  to  be  too  low  for  commercial  application.  Subsequent  materials  cer amics  based  on  the  composition  NaSRESi,0,2  (RE-NaSICON),  where  RE  is Yttrium  or  a  rare earth  element,  had  a  higher  conductivity  and  to  corrosion.  The  most  promising  resistance  to  date  are  RE-NaSICON  materials  developed  based  on  and  neodymium. 
+
+dysprosium 
+
+indicated 
+
+earths 
+
+rare 
+
+that 
+
+the 
+
+for 
+
+ceramics 
+
+The  NaSICON 
+
+ion.  These  materials 
+
+ions  form  the  structure  around 
+
+are  polycrystalline  that  possess  channels  within  the  crystal  materials  The  structure  RE-NaSICON  unit  cell  structure  [5]  is  shown  in  Fig.  1.  Silica  tetrahedra  ‘rings’  and  sodium  and  heavy-metal  these  channels,  which  are  filled  with  highly  mobile  ions.  The  channel  size  is  determined  by  sodium  the  rare-earth  three are  dimensional  the  grain  orientation  does  not  affect  the ionic  transport  rates.  The  ceramics  act  as sodium-selective  membranes  the  passage  of  competing  by  sterically  blocking  ions.  Monovalent  cations  that  exhibit  some  con in  these  materials  are  hydronium,  other  ductivity  protonated  and  silver.  Other  monovalent  cations  are  excluded  from  the  crystal  lattice  by  size.  Multivalent  ions  are  excluded  by  electroneutrality 
+
+ionic  conductors 
+
+ions,  potassium 
+
+so  that 
+
+for 
+
+treating 
+
+Although 
+
+a  number 
+
+ion  exchange  membranes  are  available  for  use  in  salt splitting  processes  [6],  ceramic  membranes  offer  a  number  of  advantages  radioactive  wastes.  Inorganic  materials  are  generally  very  resis tant  to  radiation  damage,  and  the  Dy-NaSICON  materials  have  been  exposed  large  from  a  6oCo  amounts  of  radiation  (lo9  Rads  gamma  source)  with  no  detectable  impact  on  per [7].  Ceramic  membranes  have  superior  formance  resistance  to  fouling  due  to  exclude  di and  tri-valent  cations  that  can  precipi tate  in  organic  membranes  during  salt  splitting.  Ceramic  membranes  also  appear  to  have  a  high  selectivity  for  sodium  relative  to  most  other  waste  in  components 
+
+[7].  This  is  especially 
+
+to  relatively 
+
+important 
+
+tendency 
+
+their 
+
+D.E.  Kurath  et al. 1 Separation  and Purijication  Technology  11  (1997)  185-198 
+
+0  Non-mobile Sodium  ??Mobile Sodium 
+
+crystal 
+
+treating  radioactive  wastes  where  it  is desirable  to  minimize  the  radioactivity  in  the  recycled  sodium. 
+
+3.  Experimental apparatus  and procedure 
+
+Two  different  designs  for  electrochemical 
+
+cells  using  the  ceramic  membranes  have  been  developed  [813. The  design  used  for  this  research  is based  on  into  commercially  ceramic  disks  available  plate-and-frame  cells.  This  design  uses  established  electrochemical  plate and-frame  cell  designs  and  takes  advantage  of  the  existing  fabrication  capability  for  ceramic  disks. 
+
+electrochemical 
+
+incorporated 
+
+available 
+
+fabrication 
+
+fabricating 
+
+is  currently 
+
+the  mem into  commer branes  as  disks  for  incorporation  The  electrochemical  cially  membrane  process,  which  has  been  previously  described  [9],  involves  four  steps:  ( 1)  available  powders;  ball  milling  of  commercially  (2)  forming  green  disks  with  die-pressing;  (3)  isostatic  pressing;  and  (4)  sintering.  Two  mem brane  compositions  and  two  different  disk  sizes  are  currently  being  tested.  The  membrane  composi
+
+design 
+
+‘The  other  Implementation  cant  fabrication  cells  would  be  designed  geometry. 
+
+is  based 
+
+on  closed-end  of  cells  based  on  tubes  would  development  effort.  Custom 
+
+ceramic  tubes.  require  a  signifi electrochemical  based  on  a  cylindrical 
+
+and  fabricated 
+
+are  based  on 
+
+the  (Dy-NaSICON) 
+
+elements  tions  dysprosium  and  neodymium  (Nd-NaSICON)  . The  thickness  of the  disks  ranges  from  1.4  to  1.5 mm  with  diameters  of  2.54  and  3.9 cm.  Disks  as large  as  12.7 cm  in  diameter  have  been  fabricated,  but  larger  sizes are  limited  by  the  available  production  equipment  and  the  need  to  minimize  flexural  and  bending  forces  on  the  some resis what  brittle  ceramics.  Since  the  membrane  tance  to  ionic  conduction  to  the  thickness,  thinner  membranes  allow  higher  current  densities  at  a  given  voltage.  Thinner  disks  have  the  been  fabricated  minimum  is  deter mined  by  the  need  for  structural  strength. 
+
+thickness  of  the  membranes 
+
+tested,  but  ultimately 
+
+is  proportional 
+
+and 
+
+To  use  the  ceramic  membranes 
+
+in  commercially  available  plate-and-frame  electrochemical  cells, the  disks  are  sandwiched  into  a  scaffold  (Fig.  2)  con sisting  of  two  0.635 cm-thick  sheets  of  high  density  [ 81.  The  disks  are  sealed  polyethylene  monomer  with  (EPDM)  o-ring  on  each  side  of  the  disk.  Sealing  pressure  is  applied  with  six  concentric  screws  in  dead-end  holes.  If eight  of  the  small  disks  are  used,  the  total  available  membrane  area  per  scaffold  is  26.3 cm2.  If  four  of  the  larger  disks  are  used,  the  is  total  available  membrane  34.6 cm2.  The  use  of  organic  polymers  in  this  the  advantage  of  design  to  some  extent  reduces 
+
+area  per  scaffold 
+
+D.E.  Kurath  et al. /  Separation  and PuriJication  Technology  II  (1997)  185-198 
+
+Fig.  2.  Scaffold  incorporating  RE-NaSICON  membranes. 
+
+radiation  resistance  offered  by  the  ceramic  mem branes,  although  these  materials  can  accommodate  an  exposure  in  excess  of  lo6 Rads.  This  is sufficient  to  allow  several  years  of  operation  if the  major  gamma  emitters  such  as  137Cs are  first  removed. 
+
+to  radiation 
+
+The  membranes  have  been  tested  in  ‘H’ cells,  small single-disk  electrochemical  cells and  commer cially  available  electrochemical  cells.  The  ‘H’ cell  and  the  single  membrane  cell have  been  previously  [9].  The  commercially  available  plate described  and-frame  electrochemical  cell  currently  in  use  is  an  Electra  MP  model  (ElectroCell  AB)  for  bench scale  testing.  This  is  a  scaled-down  version  of  a  production  unit,  the  Electra  Prod  Cell (ElectroCell  AB),  with  an  electrode  area  of  4000 cm2.  The 
+
+surface  area  of  Electra  MP  cell  has  electrode  tita 100 cm2.  The  electrodes  used  are  platinized  nium.  Separate  flow  channels  are  provided  in  the  cell  for  circulating  water  for  temperature  control.  The  cells  have  been  operated  with  turbulence  pro moters  in  place  to  enhance  solution  mixing  in  the  electrochemical  cell. 
+
+The  electrochemical 
+
+system  dia gramed  in Fig.  3 was set up in a walk-in  fumehood.  Separate  flow  loops  are  provided  for  the  anolyte  and  catholyte  solutions.  Each  loop  consists  of  a  solution  storage  reservoir,  pump,  and  flow  meter.  An  electrochemical  (‘The  BOSS,’  model  730, The  Electrosynthesis  Co.,  East  Amherst,  NY)  provides  power  at  a  constant  volt age,  and  the  current  is allowed  to  float.  The  voltage 
+
+process  control  unit 
+
+D. E.  Kurath  et al. / Separation  and Purification  Technology  11  (1997)  185-198 
+
+air purge 
+
+Fig.  3. Experimental  setup. 
+
+to  prevent 
+
+at  an  elevated 
+
+large  voltages,  which  is  controlled  appear  to  increase  the  corrosion  rate  of  the  mem branes.  The  process  control  unit  also  monitors  various  experimental  parameters,  such  as  temper ature,  voltage  and  solution  flowrates,  and  will  automatically  shut  down  the  system  if the  parame ters  are  exceeded.  The  electrochemical  cell is main tained  (typically  30-40°C)  with  a  small  laboratory  recirculating  heater  the  ionic  conductivity  of  the  solutions  and  membranes.  Cell  voltage,  current  and  temperature  are  recorded  with  an  automatic  data-logger  and  stored  on  a  computer.  An  air  purge  container  flammable  gases  generated  at  the  cathode. 
+
+to  the  catholyte-solution  the  buildup  of  potentially 
+
+line  is  supplied 
+
+to  improve 
+
+temperature 
+
+to  prevent 
+
+The  system  is operated 
+
+in  a  batch  recycle  mode  with  anolyte and  catholyte-solution  volumes  rang ing  from  1.5  to  2 1. The  initial  catholyte  consists  of  1 M  KOH,  which  provides  conductivity  for  ionic  transport,  but  does  not  interfere  with  deter mining  the  sodium  content  of  the  catholyte.  The  flowrate  of  the  recirculating  typically  ranges  from  100  to  125 l/h.  The  anolyte  consists  of  the  various  nonradioactive  waste  simulants.  Samples  are  taken  at  least  daily.  Sample  volumes  were  initially  5 ml,  but  this  has  been  reduced  to  0.5 ml  since  the  larger  sample  volume  removes  a  substantial  amount  of  sodium  from  the  system  over  the  course  of  an  experiment.  To  minimize  the 
+
+solutions 
+
+is  added  periodically 
+
+amount  of  waste  generated,  a  sodium  makeup  solution  of  19 M  NaOH  to  the  anolyte  reservoir.  This  is necessary  to  maintain  a  solution  pH>  12 and  prevents  the  precipitation  of A1(OH)3.  The  samples  are  analyzed  using  induc tively  coupled  plasma-atomic  emission  spectro scopy,  which  determines  the  concentrations  of  the  important  cations.  Sodium  mass  balances  are  per formed  the  consistency  of  the  results  and  to  check  for  sodium  losses  due  the  connections. 
+
+leaks  and  weeping  around 
+
+as  a  check  on 
+
+the  experiment 
+
+for 
+
+for 
+
+each 
+
+The  sodium  current  efficiency  and  the  current  density  were  determined  sampling  interval.  The  sodium  current  efficiency  is  defined  as  the  moles  of  sodium  transported  the  membrane  relative  to  the  total  moles  of  electrons  through  the  cell. The  moles  of electrons  transferred  passed  through  the  cell  are  determined  by  integ rating  the  current  over  the  time  interval  of interest.  The  current  density  is  the  total  current  passing  through  the  cell  divided  by  the  membrane  area  available  for  sodium  conduction. 
+
+through 
+
+Working  with  actual  radioactive  wastes  is  gen erally  very  expensive  and  difficult,  so  waste  simu lants  are  commonly  used  for  process  testing.  Two  tested  to  date  are  shown  in  Table  1  compositions  and  Table  2. The  simple  four-component  simulant  shown  in Table  1 is used  to  obtain  baseline  perfor mance  data  on  sodium  transport  and  current  den
+
+and  PuriJcation  Technology  II  (1997)  185-198 
+
+Table  1  Simple  four-component 
+
+simulant 
+
+Component 
+
+Table  2  Simulant  composition 
+
+Component 
+
+Nat  K+  CS+  Rb+  OH OH (free)  Al(OH);  co: F NO;  NO;  PO: SO: 
+
+results  will  be  compared 
+
+sity.  These  those  obtained  from  testing  more  complex  and  represen tative  simulants  such  as  the  neutralized  current  acid  waste  (NCAW)  shown  in Table  2. This  partic ular  waste  represents  neutralized  high-level  waste  from  the  plutonium uranium  extraction 
+
+reprocessing 
+
+using 
+
+fuel 
+
+4.  Results and Discussion 
+
+4.1.  Single  disk  testing  of Dy-NaSICON 
+
+An  experiment  was  conducted 
+
+in  a  single  mem brane  cell to  predict  membrane  lifetime  and  sodium  current  efficiency.  The  cell  containing  a  single  Dy-NaSICON  in  diameter)  was  in  a  batch  mode  with  fresh  solutions  operated  periodically  the  spent  solutions.  The  experiment  was  conducted  with  an  applied  voltage  of  4.5 V.  For  the  first  740 h,  the  initial  anolyte 
+
+disk  (2.54  cm 
+
+replacing 
+
+solution  was  1 M  NaOH,  and  the  catholyte  was  water.  Aluminum  nitrate  was  added  to  the  1 M  NaOH  in  the  anolyte  at  a ratio  of  5 Na:Al  for  the  remaining  runs.  The  anolyte  sodium  concentration  was  generally  1 M,  except  for  hours  900-1020  ([Naf]=4  M). 
+
+The 
+
+in  Fig.  4,  where 
+
+results  are  shown 
+
+the  sodium  current  efficiency  is indicated  by  the  verti cal  bars  and  referenced  to  the  left  vertical  axis  on  the  graph.  The  initial  sodium  current  efficiency  was nearly  100% and  dropped  down  to  a relatively  steady  level  of  30-40%.  Using  a  higher  anolyte  at  900 h  sodium  the  sodium  current  efficiency  to  48%. 
+
+concentration 
+
+increased 
+
+4.2.  Testing  of Dy-NaSICON,  eight-disk  scaflold 
+
+total  processing 
+
+A number  of tests  were  performed  with  an eight (Table  3).  disk  scaffold  using  different  anolytes  The  this  particular  scaffold  was  500 h.  The  initial  140 h  of  tests  were  part  of  the  acceptance  testing.  A  simple  four component  simulant  followed  by  an  NCAW  simu lant  was  used  for  the  additional 
+
+time 
+
+for 
+
+the  complete 
+
+for  the  current  density  increasing 
+
+Fig.  5 depicts  the  current  density  and  the  sodium  current  efficiency  based  on  anolyte  and  catholyte  set  of  experiments.  samples  is  rather  Initially,  low  and  decreases  before  to  a  maximum  of  85 mA/cm’  near  the  end  of  the  experiment.  The  increase  in  current  density  is  characteristic  of  the  Dy-NaSICON  membranes  and  is  thought  to  be  related  to  hydration  of  the  silicate  backbone  in the  crystalline  RE-NaSICON  structure.  This  hydra tion  causes  the  membranes  to  expand  approxi mately  0.7%  by  volume  relative  to  the  dry  initial  state  and  results  in  a  more  conductive  structure.  Membranes  that  have  been  used  for  salt  splitting  and  subsequently  allowed  to  dry  out  have  been  observed  to  revert  to  the  original  state;  the  current  density  to  be  low  after  electrochemical  is  resumed.  Fouling  of  the  membrane,  processing  which  would  be  indicated  by  a drop  in the  current  density,  was  not  observed. 
+
+is  found 
+
+Table  4  indicates 
+
+the  average  sodium  current  efficiency  for  each  of  the  runs,  with  reasonable  agreement  between  the  results  based  on  the  anolyte  results  and  the  catholyte.  The  sample-to-sample 
+
+D.E.  Kurath  et al. /Separation  and Purljication  Technology  11  (1997)  185-198 
+
+kl.28  mm  Pt electrodes  Average  Voltage  = 4.5  V  0  [Na’]=  1M  ? ?[Na’] = 4M 
+
+Hours  of Operation 
+
+Fig.  4.  Long 
+
+term  testing  of  single  Dy-NaSICON 
+
+scaffold 
+
+Time  (hours) 
+
+sodium 
+
+Anolyte  concentration  Initial-final 
+
+Catholyte  concentration  Initial-final 
+
+sodium 
+
+Average  temperature.“C 
+
+Table  3  Experimental 
+
+Anolyte 
+
+1 M  NaOH  4  component  NCAW 
+
+simulant 
+
+are  measured 
+
+shown  in  Fig.  5  indicate  a  far  greater  variability,  in  the  anolyte  where  small  changes  in  especially  sodium  concentration  in  a  concen trated  sodium  solution.  As  indicated  by  a  sodium  mass  balance  on  the  experiment,  some  sodium  was  apparently  lost  from  the  system  during  each  of  the  experiments.  The  values  given  in  the  last  column  of  Table  4  are  the  amounts  of  sodium  accounted  for  at  the  end  of  the  experiment  to  the  sodium  that  was  initially  present  or  added  during  the  experiment.  This  loss  is  probably  due  to  a  combination  of  experimental  error  and  small  leaks  and  weeps  that  were  observed  around  the  tubing  connections.  The  final  catholyte  sodium  concen tration  at  the  end  of  500 h  was  3.05 M,  which 
+
+relative 
+
+corresponds  for  onsite  recycle. 
+
+to  the  sodium  concentration 
+
+required 
+
+The  test  was terminated  at  500 h when  it became  that  bulk  flow  was  occurring  between  the  Inspection  of  that  they  contained  corrosion 
+
+apparent  anode  and  cathode  compartments.  the  disks  revealed  cracks  that  extended  through 
+
+the  membranes. 
+
+4.3.  Testing  of  Nd-NaSICON,  batch  I 
+
+A  single  test  was  conducted  with  an  eight-disk  scaffold  containing  Nd-NaSICON  membranes  from  Batch  1.  The  anolyte  was  a  simple  four sodium  component 
+
+simulant  with 
+
+initial 
+
+.paAlasqo IOU stz~ ‘&suap lua.r.nID 
+
+ayl.103 hua!Dga  sls!xa luar.uaa&? Jood pue ‘g a1qE-L II! u~oys  s! un.I  llodsuell mtupos ayl uaawaq  uo pasvq sapuapga  61qvqo1d si s!y~ *as6loyw ayl pue a$dIouv ayl  pInoM w.g dool a$bIoyw ayl u10.13 syeal 01 anp  Japun pun alrlloyyw ayl uro.13 uuupos aAotua1  y%no.ryl pal.rodsueq wnrpos 30 lunotue ayl llodal  .aue.rqtuatu ayl  ssew uuupos E Aq pawrpu!  SBM unupos aIuOS ‘luaurpadxa ayl uo aXII?pzq  ayl30 ywa Burlnp ma$sks ayl u1o.13 ISO] &ua.wdd?z  ploy ayl w.Iauyadxa  -ua3uo3 mnrpos aldloyw  Jay%lH ‘w g*O seM unJ ayi 30 pua ayl It! uoptw  suogwua3uo2  papualxa YI~M paaay3e aq ppoa  .uopelado 
+
+OSC  sAnoq ‘ai.u!l 
+
+puoDas I! YJIM pa)aIdtuo3  alaM leyl  qwq  ~~~~aw_u ams ayl y$f~ pa.reda.rd SBM saue.Iquraw30  la%uol B 01 pa$Dafqns aJaM sys!p ayl1nq ‘1 qwe8 SE  ‘uogmuqv3 Ziurmp 2!ug 30 povad  ameldamV  Bugsal Aq paMolIo3 y g 1 z 103 pawnpuo:, SCM %ugsal  ‘(9 a[qtzL) s~uoInr.u!s awM ~I!M  umpos pm &suap ~ua.mm ayl sawD!pu! L %+J  -!u! ayL .sluam!ladxa asayj 103 sapuargga yua.m:,  lllptdw asol $nq ‘MOI a$yb SCM A$!suap luamw ~r?!$  09 &eau 0~  sg  iv  ay$ pw  ay$ ‘lyod  uoydurnsaa ‘A p uey) SsaI 01 UMOP palt?og a%eyoA  luauodruoD-mo3 aldm!s e r.p!~ A s $e 8upsaJ 30  paseamu! Qsuap ~ua.mw ayl leyl s~oys wzpm!s 
+
+law 
+
+.trayl uo $Dr?du.y lea.r% B aaey LIED 
+
+-!pp?? 3yUm D!poi.Iad 30 IDa#a ay$ s~oys  unl ay$ Zlu!mp sp~los 30 uogqydy3a.Id ayl pm suog  lua.m:, ayl u! doJp ayL ‘MV~N YI!M  s! Qsuap 
+
+9 awl  JO hmrum~ 
+
+~uama.mwa~ *amyu 01 Llalaldwoa pazipixo SI aIn  II! Hd aq$ 30  paurryuoD ~uatuyedwo~ apout? ayy  sg,~ *palaldap s! umpos SE sdolp Hd ayy IE~I  ayl 01 speal  a$yM 30 s)unotm a%lel30 uoygdpald  asayL ‘~1 puno.m 01 paddoJp Hd ayl SE spyos  qw {Wo)w}  aorsqq@ SE payguapr a.mi spws  slInsal ~~~sne~ 30 uog!pp~ ayL -uog~wgp AILI-x  se Altsuap luamm aqy uy asoamur almpauuu! ue u!  ayl 01 ymq saqDl!Ms uogDea1 apom ayl  uoyp!xo  30  uaha 
+
+IOU op spgos 
+
+aDuasald ayL yJsn%?3 ssa3xa 30 slunoure a%?1 ~I!M  01 leadde IOU saop spgos 30  aq po3 dpu~~~~u~~s  .auwqwaw ayl JO [Ia3 
+
+unupos-uou  sv ‘8 aIqt?L us UMO~S  IOU aJaM s pue d ‘IV ayl ‘pa$Dadxa  01 payodswg  asay aDu!s palDadxa s! sy~_ wnounz aIqe!ctaldde UC  se alsaM ayl u! luasald blpz~!dlC~ ale sluauoduro3  ay$ UT3 @IO  :SUO!Ul?  -odruoD asay apnl3xa 00 papadxa aq sauelqwaw  suoy~ ayl s)Daqp $ua~p& legualod ayl mq ‘sjuau  6e~r! puE apoue ayl p.nzrno~  u! 3gst-w ayl urog  ayl  y +x 30 ~unoun.2 lue3y~u& 
+
+JON 
+
+01 a8.n?y:, pue azis II! qy.~!s y I! SB pallodsuell  1s leyl $3~3 ayl + qq  u~e~guS~s 1? 01 payodsueq  lo!ld uo paseq ‘palDadxaun s! lualxa  sluauyladxa  ayl 30 h~~~~~a~as u~ouy ayl put2  NO~IS~N-~X  unupos 103  aIq!ssod v TUO! luapz,wp 01 agyal  +z~s B se luasald IOU s! .IS ay$ JB~J y uoyzuydxa  a%.Izq:, a@U!S 
+
+D.E.  Kurath  et al. j Separation  and Purification  Technology  11  (1997)  185-198 
+
+current  efficiency  for  a  new  proprietary  material  denoted  NAS-D.  The  cell  containing  a  single  NAS-D  disk  (2.54  cm  in  diameter,  1.4 mm  thick ness)  was  operated  in  a  batch  mode  with  fresh  solutions  periodically  replacing  the  spent  solutions.  Initial  anolyte  and  catholyte  solutions  consisted  of  1.5 M NaOH.  The  experiment  was conducted  with  an  applied  potential  of  4.5 V  at  a  temperature  of  40°C.  Total  testing  time  was  nearly  1000 h. 
+
+is  compared  sodium 
+
+The  results  are  shown  in  Fig.  9,  in  which  the  to  the  total  sodium  current  density  current  density  density.  The  remains  nearly  constant  during  the  course  of  the  rises  experiment  toward  that  the  membrane  is becoming  conductive  to  another  ionic  species,  which  is unidentified  at  this  time. 
+
+the  end  at  900 h.  This  indicates 
+
+total  current  density 
+
+current 
+
+but 
+
+the 
+
+through 
+
+operating 
+
+transported 
+
+time.  The  energy  cated  experimental  requirement  for  caustic  production  was determined  on  the  basis  of  the  energy  supplied  to  the  system  and  the  sodium  the  mem branes.  The  mass  basis  does  not  include  the  water.  The  sodium-ion  current  density  for  the  Dy and  Nd-NaSICON  materials  was  found  to  be  similar  over  the  life  of  the  experiment.  The  Dy-NaSICON  appears  to  have  a  higher  sodium-ion  current  effi ciency,  although  these  efficiencies  are  generally  low.  The  low  sodium-ion  current  efficiency  is most  likely  due  to  the  transport  of  hydronium  ion  or  the  back  migration  of  hydroxide.  Since  the  waste  of  is  quite  hydronium  to  assume  that  back  migration  of hydroxide  is the  most  likely  cause  of  the  low  sodium-ion  current  efficiency. 
+
+alkaline  ion  is  low,  it  is  reasonable 
+
+concentration 
+
+and 
+
+the 
+
+4.6.  Comparison  of RE-NaSICON  membrane  performance 
+
+A  comparison  of  the  experimental 
+
+results  for  the  Nd and  Dy NaSICON  membranes  is shown  in  Table  9.  The  information  given  is  for  the  indi
+
+required 
+
+The  energy  requirement 
+
+for  caustic  production  to  the  2400 KWh/MT  of  is  rather  high  compared  NaOH  for  electrolysis  of  pure  sodium  chloride  using  a  membrane  cell  in  the  chlor-alkali  the  cell  and  industry  improved  membrane  properties  are  expected  to  to  the  range  of  reduce 
+
+the  energy  requirement 
+
+[lo].  Design  changes 
+
+? ?1 .4  mm  It electrodes  rpplied  Potential  = 4.5  V  rnolyte  =  1.5 M  NaOH 
+
+I  sodium  current  t  Current  Density  1  , 
+
+Overall  Sodium  Current  Efficiency:  90%  70% 
+
+Time,  hours 
+
+Fig.  9.  Long 
+
+term 
+
+testing  of  single  NAS-D  disk. 
+
+D.E.  Kurath  et al. J Separation  and Purification  Technology  11  (1997)  185-198 
+
+Table  9  Comparison 
+
+Membrane 
+
+of  experimental 
+
+results 
+
+for  Nd and  Dy-NaSICON 
+
+membranes 
+
+Operating  (hours) 
+
+time 
+
+Maximum  density  @  5 V  (mA/cm’) 
+
+current 
+
+sodium  current 
+
+Average  efficiency,  % 
+
+Dy:  8 disk  scaffold  Nd:  S-disk  scaffold,  Batch  1  Nd:  4-disk  scaffold,  Batch  2 
+
+is  generally  a  minor  concern 
+
+In  any  case,  the  cost  of  5000-10  000 KWh/ton.  energy  in  treating  radioactive  wastes  as  most  of  the  costs  are  associ ated  with  capital  equipment,  personnel  and  waste disposal  costs. 
+
+Although  the  performance  of  the  Nd-NaSICON 
+
+(Batch  1) scaffold  includes  the  induction  period  in  is  low,  it  is  clear  which  membrane  conductivity  that  this  material  is much  less conductive  than  the  (Batch  2).  Since  the  second  batch  Nd-NaSICON  that  was  fired  longer  than  Batch  1, it  is  apparent  fabrication  important  to  performance. 
+
+conditions 
+
+are  very 
+
+improve 
+
+Development 
+
+and  related  materials, 
+
+the  sodium-ion  conductivity 
+
+the  of  applied  including  Nd-NaSICON  the  sodium-ion  coatings,  continues  and  the  selectivity,  test  results  material’s  lifetime.  The  preliminary  with  the  NAS-D  material  that  sodium  indicate  current  efficiencies  of  90%  may  be  achieved  over  hundreds  of  hours  of  operation.  Thinner  mem branes  and  scaffolds  for  holding  the  membranes  are  being  evaluated  since  this  reduces  the  length  of  the  ionic  conduction  path  and  will  ultimately  reduce  the  energy  requirement 
+
+for  the  system. 

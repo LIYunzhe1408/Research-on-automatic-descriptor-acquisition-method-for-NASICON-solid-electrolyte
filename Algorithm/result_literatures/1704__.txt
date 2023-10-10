@@ -1,0 +1,90 @@
+K2Co2P6O18 crystals were synthesized by hydrothermal processing and characterized by X-ray diffraction method.
+The compound crystallized intriclinic system with space group P1 and having cell parameters a = 7.3210A° , b = 7.4510A° , c = 9.9940A° , α = 67.604◦, β = 68.328◦ and γ = 59.820◦ exhibiting open-framework structure with tunnel type of cavities.
+The DTA/TGA results indicated, the compound posses relatively high thermalstability.
+Magnetic studies revealed, it is a paramagnetic material.
+Phosphate radicals are being extensively investigated in thehope of developing new materials, which are prospective solidelectrolytes, piezoelectric materials, ceramics and lasers.
+However, the study of phosphates has become more popular afterthe development of NASICON and related compounds .
+Allthese compounds have orthophosphate end members and theirstructures are directly related to Na3Sc2P3O12.
+Subsequently,there are also reports on pyrophosphates having stoichiometrywith relatively simple structure and high ionic conductivity values.
+In our recent investigations, we have reported agood number of pyrophosphates synthesized by hydrothermalroute .
+Our current report deals with synthesis and structuralcharacterization of a new condensed pyrophosphate, whichexhibits open-framework structure with tunnel type of cavitiesand it seems to be a prospective paramagnetic material.
+The hydrothermal route synthesized K2Co2P6O18 crystals byadopting earlier reported procedures .
+All the reagents used in the synthesis process are of analar grade with 99.9%purity from Merck and were used without further purification.
+The alkaline component, KOH has taken in the Teflon linerand thoroughly mixed with 85% H3PO4. Desired quantity ofCoCl2 was added to it and again mixed thoroughly till obtaininghomogeneous mixture, which is relatively less viscous andclear solution.
+The measured pH of initial and final productwas of 4.18 and 3.54, respectively.
+The crystallization was carriedout using Morey type autoclaves.
+The nucleation of thecrystals was spontaneous and rate of nucleation was controlledthrough a slow-programmed rate of heating (5 ◦Ch−1).
+Initially,the synthesis of the investigation compound has carried out atthe temperature 200 ◦C and tiny crystals were noticed.
+However,the crystals were dissolved while cleaning with double distilledwater.
+As the experimental temperature increased, the intensityof dissolubility of the crystals gradually decreased (Fig.1a, at240 ◦C) and it is almost zero at 260 ◦C.
+Successful growth of technologically important phosphatecrystals will depend on several growth parameters.
+In thehydrothermal synthesis, the most important growth parameters are selection of starting nutrients, suitable solvents, percent fill,temperature, pressure, solubility data, a suitable autoclaves, etc.
+Among them, the selection of the nutrient materials and solventsis important.
+In the present experiment, 85% H3PO4 andKOHsolutions have been used as solvents and cobalt chloride assolute.
+It is easy to understand the acid–base complex formationin simple systems.
+But it is difficult in a complex system like theones discussed in the present work consisting of more than fourcomponents.
+The synthesis experiments were carried out continuously for8 days and quenched to ambient conditions.
+The resultant producthas thoroughly washed with distilled water.
+The crystalsobtained are of good quality and Stereo microscopic observationsrevealed, the surface of the crystal is smooth.
+However,when it is observed under transmission microscope, the crystalshown some crack like features in the inside of the crystal(Fig.
+1b).
+However, these are subsequent nucleation growth featuresof the secondary crystal over the primary crystal and theauthors would attributed, it is because of the thermal strain dueto the minor temperature fluctuation during long duration ofthe experiments.
+The crystals have shown pinkish red colour,translucent luster and have a size of 0.5–3.5 mm.
+Twinning isalmost absent, but inter growth and growth pits are noticed.
+To understand the thermal properties of the compounds toprovide more information on the technological importance,DTA/TGA analysis of K2Co2P6O18 has recorded using TGA7 Perkin-Elmer, US analyzer in the temperature range of55–700 ◦C under the oxygen atmosphere.
+The heating rate was 10 ◦Cmin−1. 
+The DTA/TGA results yielded two endothermicpeaks at 437 and 582 ◦C (Fig.2).
+The peak at 437 ◦C is due to thephase transition and 582 ◦Cis due to the chemical decompositionof the compound, indicating it has relatively high thermal stabilitycompared to the pyrophosphates reported earlier .
+FTIR spectrum was recorded for K2Co2P6O18 using ahigh resolution Perkin-Elmer Infrared Spectrophotometer inthe range of 4000–400 cm−1. 
+The spectrum of the compoundhas exhibited prominent multiple absorption bands especiallyin the three frequency ranges: ν1 = 2343.3–2144.7 cm−1,ν2 = 1654.8 cm−1 and ν3 = 1236.4–484 cm−1 .
+The vibrationalbands: ν1 and ν2 are due to the presence of K–O andCo–O bonding, respectively.
+The ν3 band is due to the presenceof P–O–P bonding.
+The multiplication and fineness ofthe absorption bands of phosphates lies in the lower range andwhich indicates complexity and polymerization of the internalcrystalline structure of the [PO4] tetrahedron.
+The degree ofcondensation of the anion is directly related to its multiplicityand sharpness of absorption bands.
+The present compoundhas relatively high degree of multiplicity and sharper bands inthe low frequency region when compared to earlier reportedpyrophosphates .
+It is clearly indicating high degree ofcondensation, that is [PO4]3− to [P2O7]4− to [P6O18]6− whichis also confirmed by X-ray studies.
+Single crystal X-ray experiment was performed on aDIPLabo Kappa Imaging Plate Diffractometer equipped withnormal focus, 3 kW sealed X-ray source .
+A good single crystal of K2Co2P6O18 withappropriate size was taken carefully under a polarizing microscopeand glued to a thin glass fiber.
+Using CCD camera, crystalwas made optically centered.
+The crystal to detector distancewas fixed at 120mm with a detector area having 440mm×241 mm.
+X-ray data are collected by oscillation method for 36 frames.
+Successive frames are scanned in steps of 5◦ min−1 with anoscillation range of 5◦.
+Image processing and data reduction hasmade, using Denzo .
+The details of crystal and structurerefinement are given in Table 1. The structure is solved by directmethods SHELXS-97 and expanded by Fourier techniques.
+Initial phase sets map built a model with a minimum combinefigure of merit, which gave all the positions of non-hydrogenatoms in the first map itself.
+The heavy atom Co was identifiedby the same method.
+The model is subjected to full-matrixleast-squares refinement by using SHELXL-97 .
+Based on1891 reflections, the residual R factor converged isotropicallyto 0.1264. Anisotropic refinement is started at this stage andafter eight cycles of refinement residual converged to 0.0675 for1891 reflections, 253 parameters and 3 restraints.
+The statisticalweight factor is also included in the last cycle of refinement.
+ORTEP of the molecule with 50% probability is shown in Fig.4.
+The isotropic temperature factors of all the non-hydrogenatoms are listed in Table 2. 
+The selected bond distances and bondangles are compiled in Table 3.
+The polymerization of cyclic hexaphosphates with Co hasmade us to reveal its coordination and packing mode.
+Theasymmetric unit has two crystallographically distinct atoms,i.e., Co and K at the site.
+Each Co atom has coordinationwith six phosphate oxygen atoms, i.e., from two O-atoms ofone terminal cyclic phosphate group.
+Co acts as a metal centerat the environment.
+This coordination environment resemblesdistorted hexahedron representation or six member ringcolumns.
+For each cobalt atom present in the structure, thereis a free K atom in the tunnel type cavity.
+These types of tunnelcavities are congenial for hopping of ions through them.
+The packing of the molecule down bc plane exhibits threedimensional open-framework structure with tunnel type cavityis shown in Fig.5, which resembles earlier reported pyrophosphatecompound .
+The bond distances and bond anglesagree with the standard values.
+But there is some deviation inbond lengths due to the condensation of phosphates.
+The O–P–O and P–O–P angles lie in the interval of98.0–118.0 °A and 133.2–134.0A° , respectively.
+
+Thus, the average values of P–O distancesand of P–O–P or O–P–O angles agree with the valuescharacteristic for cyclic condensed phosphates .
+Magnetic susceptibility measurements were made usingGouy balance method by applying field strength of 0.5–3.0 kGauss at 300K for the study materials having three differentcobalt concentrations; CoCl2 = 1.5, 2.25 and 2.75 g.
+Magneticmoments (μeff) of the materials at three different cobaltconcentrations; CoCl2 = 1.5, 2.25 and 2.75 g were exhibited3.38–3.94 BM, 3.53–4.18BM and 3.54–4.25 BM, respectively(Fig.6).
+Magnetic moment (μeff) of cobalt derivatives with oneunpaired electron is either low spin octahedral or planar, whereas compound with three unpaired electrons may either high spinoctahedral or tetrahedral.
+The high spin octahedral derivativesof Co(II) are paramagnetic and having magnetic moment valueranging from 4.3 to 5.2 BM.
+Those have large orbital contributionand since the spin only formula for three unpaired electronsis only 3.87BM .
+The μeff of the compound with differentcobalt concentrations are much lower than the high spin octahedralderivatives of Co(II).
+It could be attributed due to the bonding of diamagnetic phosphorus ion with the paramagneticcobalt ion through common oxygen ion (P–O–Co bonding).
+However, theμeff has increased with the increase of initial Co(II)concentration.
+It is also noticed, the compound has shown positivecorrelation with the magnetic field strength that is, as theapplied magnetic field strength increased, theμeff values are alsoincreased indicating it is a frequency dependent paramagneticmaterials.
+Preliminary impedance spectroscopy result of hydrothermallyprepared K2Co2P6O18 compound is encouraging.
+Ionicconductivity value of the compound is 5.8×10−5  −1 cm−1 atambient temperature.
+Detailed impedance spectroscopy studiesare underway.
+K2Co2P6O18 crystals were synthesized by hydrothermalmethod in the form of single crystals.
+X-ray study confirms, it is acyclic condensed hexa-phosphate belongs to the triclinic system(P¯ı) and exhibits three-dimensional open-framework structurewith tunnel type cavities.
+DTA/TGA studies revealed, the compoundhas relatively high thermal stability.
+FTIR results conformedhigh degree of condensation and magnetically, it is aparamagnetic material.

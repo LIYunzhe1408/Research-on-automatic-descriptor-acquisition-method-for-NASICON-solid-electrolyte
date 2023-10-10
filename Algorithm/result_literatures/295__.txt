@@ -1,0 +1,660 @@
+Given the extensive efforts focused on protecting the environment, eco-friendly 
+
+cathode materials are prerequisite for development of Na-ion battery technology. Such 
+
+materials  should  contain  abundant  and  inexpensive  elements.  In  the  paper,  we  present 
+
+NASICON-Na3Fe2-yMny(PO4)3  (y=0,  0.1,  0.2,  0.3,  0.4)  cathode  materials,  which  meet 
+
+these  requirements.  Na3Fe2-yMny(PO4)3  compounds  were  prepared  via  a  solid-state 
+
+reaction  at  600oC,  which  allowed  to  obtain  powders  with  submicron  particles.  The 
+
+presence of manganese in the iron sublattice inhibits phase transitions, which occurs at 
+
+~95oC and ~145oC in Na3Fe2(PO4)3, changing the monoclinic structure to rhombohedral 
+
+and  affecting  the  structural  and  transport  properties.  The  chemical  stability  of  Na3Fe2-
+
+yMny(PO4)3 was thus  higher than that of Na3Fe2(PO4)3, and it also  exhibited enhanced 
+
+structural,  transport  and  electrochemical  properties.  The  observed  correlation  between 
+
+chemical composition and electrochemical properties proved the ability to precisely tune 
+
+the  crystal  structure  of  NASICONs,  allowing  cathode  materials  with  more  desirable 
+
+properties to be designed. 
+
+
+Given  the  continuously  growing  demand  for  Li-ion  batteries  (LiBs)  and  the 
+
+associated depletion contraction of global lithium reserved 1,2, alternative energy storage 
+
+technologies are being urgently sought. As a consequence, intensive research on materials 
+
+that can be used in Na-ion Batteries (NiBs) is being resumed. This type of batteries bears 
+
+a  strong  resemblance  to  LiBs  in    terms  of  physical  and  electrochemical  properties. 
+
+Recently,  along  with  the  broadly  investigated  layered  sodium  oxides  3–7,  three-
+
+dimensional polyanionic structures, such as phosphates 8–29, have been of great interest 
+
+on  account  of  their  properties,  notably  thermal  and  chemical  stability  (a  resulting  of 
+
+covalent  bonding  in  PO43 anion  units).  Due  to  the  contemporary  issues  related  to 
+
+environmental pollution, new energy storage technologies must not only cheap, but also 
+
+environment-friendly. In this regard, iron phosphates are among the safest materials that 
+
+can  be  applied  in  NiBs,  as  they  consist  of  ecologically  inert  and  abundant  elements. 
+
+Numerous  reports  have  recently  been  published  on  sodium  iron  phosphates,  including 
+
+NASICON materials 8,9,18–28, alluaudites 10–13,29, olivines 14–17 , or other three-dimensional 
+
+structures  30–32.  Of  all  such  materials,  NASICON  structures  with  the  general  formula 
+
+Na3M2(PO4)3  (M  =  3d  metal)  seem  to  be  particularly  promising  cathode  materials  for 
+
+NiBs. This is especially true of Na3V2(PO4)3, interestingly, is also considered as an anode 
+
+material 28. Compared to triphylite-NaFePO4 (an electrochemically active type of olivine 
+
+structure),  which  may  be  obtained  via  a  complex  multi-step  process  involving  the chemical  delithiation  of  LiFePO4  and  electrochemical  sodiation  14,33–35,  NASICON-
+
+Na3Fe2(PO4)3 is obtained via a relatively simple solid-state synthesis 20,36.  
+
+NASICON-Na3M2(PO4)3  materials  with  various  3d  metals  in  the  M  sublattice 
+
+were investigated at the end of the 1980s by de la Rochére 8,37 and later by Lyubutin 38 
+
+and  Belkhiria  36.  Two  reversible  phase  transitions  were  discovered  upon  heating  of 
+
+Na3M2(PO4)3:  one  from  the  distorted  C2/c  α-phase  through  to  the  interim  β-phase  at 
+
+~95oC, and the another at ~145oC to the R-3c γ-phase. In the low-temperature monoclinic-
+
+Na3Fe2(PO4)3 structure, sodium Na(1), Na(2) and Na(3) positions are occupied. During 
+
+the phase transition to the high-temperature rhombohedral structure, the sodium from the 
+
+Na(1)  positions  are  gradually  transferred  to  Na(2)  positions,  causing  the  relaxation  of 
+
+monoclinic distortion.8 Research conducted by Masquelier and co-workers 24 revealed the 
+
+presence of a superstructure in Na3Fe2(PO4)3 (and also in isostructural Na3Ti2(PO4)3) at 
+
+room temperature. Several crystal models of the superstructure were proposed including 
+
+unit cells with Cc 39–41 and C2/c 8,9,18,19,38 symmetry, with the latter being larger equivalent 
+
+of the usual C2/c unit cell.  
+
+In this paper, Na3Fe2-yMny(PO4)3 NASICON materials with different content of 
+
+manganese substituted in the iron sublattice were proposed as cathode materials for Na-
+
+ion  batteries.  Manganese  substitution  had  already  been  reported  in  other  three-
+
+dimensional structures, such as alluaudites  42, or triphylites  14,43 but, to the best of our 
+
+knowledge,  only  two  papers  that  confirm  formation  of  NASICON-Na3Fe2-yMny(PO4)3 
+
+have  been  published  thus  far  44,45.  The  present  paper  describes  a  facile  solid-state 
+
+synthesis method used to obtain Na3Fe2-yMny(PO4)3 materials and an investigation of the 
+
+structural, microstructural and thermal properties for y=0, 0.1, 0.2, 0.3, 0.4. The impact of  manganese  substitution  impact  on  the  phase  transitions  and  transport  properties  in 
+
+Na3Fe2-yMny(PO4)3 materials is discussed extensively.  
+
+A solid state reaction was employed for the synthesis of Na3Fe2-yMny(PO4)3 (y=0, 
+
+0.1, 0.2, 0.3, 0.4) samples. The starting materials were CH3COONa (anhydrous, <99%, 
+
+POCH),  FePO4  dihydrate  (Fe  29%,  Sigma-Aldrich),  NH4H2PO4  (99%,  POCH)  and 
+
+MnCO3 (anhydrous, 99.9%, Chempur). The substrates were ball-milled in a high-energy 
+
+Spex SamplePrep 8000M mill in propan-2-ol for 30 min, and then dried for 6h in air at 
+
+80oC. The obtained homogeneous powders were pressed into disk-shaped pellets with a 
+
+diameter of 13mm using uniaxial press, and heated at 600oC for 10 h under a continuous 
+
+flow of synthetic air. 
+
+The crystal structure of the synthesized samples was investigated by means of X-
+
+ray  powder  diffraction  at  ambient  and  high-temperatures  (RT-XRD  and  HT-XRD, 
+
+respectively) using a PANalytical Empyrean diffractometer with Cu Kα monochromatic 
+
+radiation (0.15418 nm) additionally equipped with a HT-XRD Anton Paar HTK 1200N 
+
+oven-chamber. Unit cell parameters were determined according to the Rietveld method 
+
+as implemented in the GSAS software with the EXPGUI interface 46,47. The morphology 
+
+of the Na3Fe2-yMny(PO4)3 samples was examined using an SEM/BSE technique combined 
+
+with EDS analysis using the FEI Nova NanoSEM 200 scanning electron microscope. In 
+
+addition, laser diffraction was employed to determine the particle size distribution, with 
+
+the Mastersizer 3000 analyzer and distilled water as a dispersant.  
+
+X-Ray photoelectron spectroscopy (XPS) measurements were carried out using a 
+
+VSW spectrometer with Al Kα radiation (hν = 1486.6 eV). The XPS data were analyzed using  the  XPSPEAK  4.1  software  provided  by  Raymund  W.M.  Kwok  (Chinese 
+
+The  57Fe  transmission  Mössbauer  spectroscopy  (TMS)  was  applied  in  order  to 
+
+analyze the oxidation state of iron. The TMS spectra were collected using a spectrometer 
+
+equipped with a 57Co-in-Rh standard source with a full width at half maximum (FWHM) 
+
+In order to investigate the thermal properties of the samples, differential scanning 
+
+calorimetry (DSC) and thermogravimetric (TGA) measurements were carried out using 
+
+the NETZSCH Pegasus® 404 F3 and TA Instruments Q5000IR, respectively.  
+
+The total electrical conductivity was measured over the temperature range of in 
+
+30 – 160°C for the disk-shaped pellets, via electrochemical impedance spectroscopy, with 
+
+the  Probostat  holder  (NorECs,  Norway)  used  in  combination  with  the  Solartron  1260 
+
+frequency  response  analyzer.  The  data  were  collected  over  the  range  from  0.1  Hz  to 
+
+1 MHz range and then analyzed with the ZView software 50.  
+
+Na3Fe2-yMny(PO4)3  cathodes  were  composed  of  75wt.%  of  active  material, 
+
+20wt.%  of  conductive  carbon  black  (Alfa  Aesar,  99.99%)  and  5wt.%  polyvinylidene 
+
+fluoride  (PVDF,  Sigma-Aldrich,  99.9%)  as  a  binder.  N-methyl-2-pyrrolidone  (NMP, 
+
+Sigma-Aldrich, 99.5%) was added as a solvent. The slurry was mixed for 12 hours, then 
+
+spread on Al foil and dried in Heraeus® VT6025 vacuum dryer at 70oC. The as-prepared 
+
+cathode  materials  were  used  to  assemble  the  CR2032  coin  cells  with  metallic  sodium 
+
+(sticks,  Alfa  Aesar,  99.9%)  as  an  anode  and  1M  NaPF6  (Sigma-Aldrich,  99.99%)  in ethylene  carbonate  (EC,  Sigma-Aldrich  99%)  with  diethyl  carbonate  (DEC,  Sigma-
+
+Aldrich, 99%) at a 1:1 volume ratio as an electrolyte. The initial electrochemical tests of 
+
+the  assembled  cells  included  cyclic  charging/discharging  under  various  current  loads 
+
+(C/10, C/5, C/2, 1C and 2C), performed using the KEST k32k amperostat/galvanostat. 
+
+The  XRD  measurements  of  the  prepared  NASICON-Na3Fe2-yMny(PO4)3  (y=0, 
+
+0.1, 0.2, 0.3, 0.4) samples were carried out over the 10o-110o range. An initial analysis of 
+
+the obtained patterns (Fig. 1) indicates that all of the materials crystallize in a NASICON-
+
+type structure, however, an unidentified contamination was observed, manifesting itself 
+
+by in the presence of small reflections near the 33o 2θ angle, which had also been reported 
+
+by Rajagopalan et al. 39. Although the available literature reports 36,39,44 show that similar 
+
+materials  form  the  NASICON  group  may  synthesize  in  pure  form,  the  required 
+
+temperatures are higher than 750oC. It should be noted that the discussed materials are 
+
+intended for use as cathodes in Na-ion battery technology and high temperature treatment 
+
+may  cause  unintended  grain  coarsening.  Applying  the  relatively  low  temperature  of 
+
+synthesis  (600oC)  allows  undesirable  grain  size  growth  to  be  avoided,  which  should 
+
+subsequently yield improved electrochemical performance. 
+
+As reported previously 23,24,27,37,38, Na3Fe2-yMny(PO4)3 material is characterized by 
+
+the  following  types  of  unit  cells:  an  α-monoclinic  cell  with  C2/c  symmetry  at  lower 
+
+temperatures, a β-intermediate cell at moderate temperatures, and a γ-rhombohedral with 
+
+R-3c  symmetry  at  high  temperatures.  All  of  the  patterns  collected  in  the  present  work 
+
+were  refined  with  both  C2/c  and  R-3m  type  cells;  however,  only  refinement  with  the 
+
+monoclinic  cell  allowed  for  proper  refinement  of  some  of  the  features  present  in  the 
+
+diffraction patterns. Firstly, the presence of the small (110) reflection at ca. 12.5° 2θ (Fig. 
+
+1a), which relative intensity decays with increasing manganese content, and for y=0.4 it 
+
+can  hardly  be  observed.  Secondly,  substantial  changes  in  the  intensities  that  can  be 
+
+observed at 32° 2θ has been explained only when fractional positions of oxygen ions have 
+
+been refined, indicating rotations of PO4 and Fe(Mn)O6 coordination polyhedrons. It is 
+
+important  that  additional  refinement  of  fractional  positions  and  site  occupancies  for 
+
+sodium ions have not influenced significantly relative intensities of reflections at 2θ≈32°. 
+
+This  indicates  that  all  of  the  obtained  Na3Fe2-yMny(PO4)3  materials  crystallize  in  a 
+
+NASICON  structure  with  monoclinic  symmetry  rather  than  the  rhombohedral  one. 
+
+However,  the  extent  of  monoclinic  distortion  seems  to  decrease  with  increasing 
+
+manganese content. 
+
+The monoclinic unit cell parameters of the discussed materials  are presented in 
+
+Fig. 1b. The obtained values are consistent with those previously reported in the literature 
+
+37. For increased manganese content in the samples (y), an increase in parameters b and c 
+
+is observed. For the a parameter no significant changes are observed, except in the case 
+
+of y=0.4, for which the value is significantly higher than for the rest of the series. For the 
+
+β angle, an initial decrease is observed, but the tendency changes for y=0.3. The decrease 
+
+in  the  β  angle  values  for  y<0.3  indicates  reduced  monoclinic  distortion,  which  is 
+
+consistent with the diminishing low angle reflection (Fig. 1a). A more detailed analysis 
+
+of the monoclinic distortion evolution with sample composition is presented in the next 
+
+section, which concerns high-temperature XRD measurements (HT-XRD). 
+
+In order to investigate the evolution of the crystal structure of NASICON-Na3Fe2-
+
+yMny(PO4)3  with  temperature  as  a  function  of  manganese  content  DSC  and  HT-XRD 
+
+measurements were performed.  
+
+The  results  of    DSC  measurements  (Fig.  2)  indicate  two  phase  transitions 
+
+occurring at ca. 95oC and 145oC for Na3Fe2(PO4)3, which is consistent with prior literature 
+
+38.  Declining  peaks  were  observed  for  the  samples  with  Mn  substitution  in  the  iron 
+
+sublattice.  The  observed  thermal  effects  might  be  attributed  to  polymorphic  phase 
+
+transitions  in  the  studied  materials.  Fig.  S1a  and  Fig.  S2a  present  the  evolution  of  the 
+
+(110)  reflection  discussed  for  room-temperature  XRD  patterns.  The  reflection  is  most 
+
+noticeable for y=0, and its relative intensity diminishes both with increased manganese 
+
+content and the temperature. In Fig. S1b and Fig. S2b, changes that occur in a group of 
+
+reflections located between 19.5 and 21° are shown: (202̅) and (111) at lower 2θ values; 
+
+(311̅) and (020) at higher 2θ values. For y=0, the increase in temperature is accompanied 
+
+by a pronounced splitting of their positions,  with a simultaneous slight decrease of the 
+
+relative intensity of lower angle reflections. A similar tendency is observed for the other 
+
+materials, for which, however, the relative intensity of the higher angle reflections also 
+
+seems to diminish with increasing manganese content at each temperature. 
+
+The performed DSC measurements as well as both RT-XRD and HT-XRD results 
+
+strongly  suggest  that  manganese  addition  tends  to  mitigate  monoclinic  distortion.  To 
+
+validate this hypothesis, a detailed Rietveld analysis was performed. However, to evaluate 
+
+the results, certain numerical criteria for what  constitutes a phase transition need to be 
+
+introduced first. 
+
+As previously mentioned, the analyzed materials might be described as having a 
+
+monoclinic  cell  with  C2/c  symmetry  and  rhombohedral  cell  with  R-3c.  However,  the 
+
+latter can be considered a special case of the first one, which means that the R-3c cell 
+
+might be described as a C2/c cell with specific parameters. The relations between the two 
+
+unit cells for perfect rhombohedral symmetry are as follows: aM = √3 ∙ aR, bM = aR, 3 ∙
+
+cM ∙ sinβM⁡= cR and βM ≈ 124.6°,⁡where aM, bM, cM and βM are the parameters of the 
+
+monoclinic cell, and aR and cR represent the parameters of the rhombohedral one. Given 
+
+these  dependences,  the  criteria  for  the  phase  transition  can  be  are  formulated:  (1)  any 
+
+deviation of the aM/bM ratio from the value of √3 indicates distortion within the aMbM 
+
+planes; (2) any deviation of βM from the value of 124.6 indicates distortion in a direction 
+
+orthogonal to the aMbM planes. Based on these criteria, all HT-XRD patterns were refined 
+
+using the monoclinic cell.
+
+The evolution of the βM parameter of the monoclinic cell is shown in Fig. 3a. For 
+
+all the samples, the βM angle tends to the value of 124.6° at highest temperatures, which 
+
+is the value required for perfect rhombohedral symmetry in the analyzed NASICON-type 
+
+materials. The most pronounced changes are observed for y=0 and y=1 samples. Over the 
+
+same temperature range, a significant drop in the aM/bM ratio is also observed (Fig. 3b) 
+
+for all samples except the one for which y=0.4.  
+
+The horizontal lines indicate the values of the angle and 
+
+the aM/bM ratio required for perfect rhombohedral symmetry. Monoclinic distortion 
+
+decrease both with increase of the temperature and manganese content y, except of the 
+
+y=0.4 sample, which shows different properties from all other of the samples. 
+
+The  observed  changes  in  cell  parameters  indicate  that  all  samples  except 
+
+Na3Fe1.6Mn0.4(PO4)3 undergo a phase transition, resulting in increased cell symmetry. 
+
+The evolution of the crystal structure of the material for which y=0.4 requires a 
+
+separate discussion. The results of the performed analysis show that the properties for this 
+
+material differ substantially from those of the others of samples. Although the absence of 
+
+the (110) reflection  (Fig. S1a and Fig. S2a) may  suggest  rhombohedral  symmetry, the 
+
+high value of the βM angle (Fig. 3a) and the aM/bM ratio (Fig. 3b) shows that monoclinic 
+
+distortion  is  actually  the  most  pronounced  in  the  case  of  this  sample.  The  lack  of  low 
+
+angle reflection results from specific atomic fractional positions within the monoclinic 
+
+cell, and not from the values of cell parameters per se. This result is consistent with the 
+
+Mössbauer studies, which are presented in another section of the text, but it contradicts 
+
+the  findings  presented  in  work  44,  the  authors  of  which  had  suggested  that 
+
+Na3.4Fe1.6Mn0.4(PO4)3  exhibits  rhombohedral  symmetry  (the  γ  phase)  at  room 
+
+temperature. It must be noted that synthesis attempts had been made to obtain materials 
+
+with  manganese  content  higher  than  that  corresponding  to  y=0.4,  but  they  resulted  in 
+
+failure, since multi-phase samples were obtained. Apparently, in the conditions applied during the synthesis, the material with y=0.4 material is near the end of the substitution 
+
+range and this may result in its peculiar properties.  
+
+The described structural phenomena might be correlated with the presented DSC 
+
+results (Fig. 2). The most pronounced DSC peaks were recorded for y=0 and y=0.1, in 
+
+the  case  of  which  the  strongest  deviations  from  the  linear  character  of  βM  angle  was 
+
+observed (Fig. 3a). On the other hand, it seems that there is no relation with the aM/bM 
+
+ratio (Fig. 3b) and the DSC results. Altogether, this suggests that the observed thermal 
+
+effects  are  related  exclusively  to  structural  monoclinic  distortion  in  the  direction 
+
+orthogonal to the aMbM planes. 
+
+The  above-presented  analysis  shows  that  none  of  the  materials  achieves 
+
+rhombohedral symmetry (the γ phase), regardless of the chemical composition and the 
+
+temperature,  and  that  the  low  temperature  phase  transition  is  highly  anisotropic. 
+
+Nevertheless, important conclusions can be drawn with regard to the application of the 
+
+studied  NASICON-Na3Fe2-yMny(PO4)3  materials  as  cathodes in  Na-ion  battery technology.  It  is  generally  accepted  39  that  higher  symmetry  in  NASICON  materials 
+
+results in higher ionic conductivity. Below 75oC, which is the temperature at which the 
+
+observed phase transition starts to occur, the materials for which y=0.2 and y=0.3 exhibit 
+
+almost  perfect  rhombohedral  symmetry  within  aMbM  planes  (Fig.  3b)  and  the  least 
+
+pronounced monoclinic  distortion in  the direction orthogonal  to  the planes (the lowest 
+
+values of βM angle in C2/c, Fig. 3a). Consequently, the highest symmetry in the operating 
+
+temperature  range  of  Na-ion  batteries  and  thus  the  best  transport  properties  might  be 
+
+expected for  y=0.2  and  y=0.3. The statement is  supported by the determined  transport 
+
+properties presented in section 3.4. 
+
+The electrochemical properties of cathode materials for Na-ion batteries are highly 
+
+dependent  on  grain  size  and  their  morphology.  To  investigate  the  morphology  of  the 
+
+synthesized samples SEM/EDS analysis was conducted on Na3FeyMn2-y(PO4)3  powders, 
+
+which were obtained by  grinding of the sintered pellets using a mortar and pestle. The 
+
+resulting images are presented in Fig. 4 and Fig. S5 and the histograms of the grain size 
+
+distributions are shown in Fig. S6. The relatively low temperature of synthesis allowed 
+
+relatively  small  and  uniform  grains  with  a  diameter  between  200  nm  and  2  μm  to  be 
+
+obtained, with the most frequent grain size of ca. 500 nm. The grains were round-shaped 
+
+and had a tendency to agglomerate. The EDS spectra revealed an uniform distribution of 
+
+all expected chemical elements, however, reliable quantitative analysis was not possible 
+
+due to  morphological  effects.  Additionally, presence  of  a small  amount of carbon was 
+
+observed  in  the  EDS  spectra,  which  could  be  explained  as  resulting  from  the  carbon 
+
+adhesive tape used to fix the powder under the samples.
+
+In order to evaluate the tendency to agglomerate observed in the SEM images of 
+
+the prepared powders, particle size distribution in the as-synthesized Na3FeyMn2-y(PO4)3 
+
+powder samples was investigated using laser scattering. The results are presented in Fig. 
+
+5 and Table S1. The observed particle size distributions were composed of two distinct 
+
+regimes:  relatively  narrow  maximum  in  the  0.4  –  1.5  μm  range,  plausibly  linked  with 
+
+primary particles and a much broader feature in the range 1.5 – ca. 100 μm composed of 
+
+several  close  to  each  other  maxima.  The  later  maxima  can  be  coupled  with  secondary 
+
+agglomerates.  It  seems  that  manganese  substitution,  especially  in  the  high  substitution 
+
+level  (y=0.4),  caused  a  reduction  in  the  number  of  larger  particles,  suggesting  that manganese substitution can result in  lower agglomeration, which can be beneficial  for 
+
+functional properties as a cathode material. 
+
+
+For all samples from the Na3Fe2-yMny(PO4)3 (y=0, 0.1, 0.2, 0.3, 0.4) group, 57Fe 
+
+TMS spectra were recorded (Fig. 6) and fitted using one paramagnetic doublet. Table S2. 
+
+lists the Mössbauer parameter values, which indicate the occurrence of ferric iron (Fe3+) 
+
+in an octahedral oxygen surrounding (FeO6) 51. It must be noted that no additional peaks 
+
+in  TMS  spectra  were  observed,  which  confirms  the  successful  substitution  with 
+
+manganese  atoms  in  iron  sublattice.  These  observations  are  in  good  agreement  with 
+
+previously published results 38,52. It can be noticed that the QS (quadrupole splitting) and 
+
+Γ  (spectra  linewidth)  values  increase  with  manganese  content,  which  is  probably associated with the increasing distortion of the FeO6 octahedra stemming from changes 
+
+in interatomic distances. The local distortion in FeO6 octahedra may also be associated 
+
+with the slightly broadened absorption lines observed in the TMS spectra for y>0.1. The 
+
+QS  values  of  Mn-substituted  samples  contribute  to  the  α  phase  (C2/c  space  group)  at  
+
+room temperature, which is also confirmed by the structural analysis. 
+
+Low  intensity manganese peaks were detected in the survey XPS spectra for Mn-substituted samples, 
+
+which was in line with expectations. In the Na 1s spectra (Fig. S8c), there are two peaks 
+
+corresponding to sodium atoms in two different crystallographic positions. Due to spin-
+
+orbit coupling, the Fe 2p spectra (Fig. S8d) were refined with two component lines: 2p3/2 
+
+and 2p1/2, as well as the satellite lines associated with them. As seen in the Fig. S8d, the 
+
+peaks that originate from Fe 2p3/2 occur at ca. 712 eV and are narrower than 2p1/2 peaks 
+
+(occurring at ~725 eV), which was previously studied 53–55. Further analysis indicated that 
+
+the binding energies of the 2p3/2 and 2p1/2 peaks in all of the samples represent the Fe3+ 
+
+valence  state,  which  corresponds  to  the  results  of  the  conducted  Mössbauer 
+
+measurements.  For  the  Mn-doped  samples  two  spectral  lines  are  observed:  an  Mn  2p 
+
+doublet similar to that observed for Fe and a weak Mn 3s photoelectron line (Fig. 7a and 
+
+b). The values of binding energy measured for Mn 2p1/2 and Mn 2p3/2 (ca. 652 eV and 
+
+641  eV,  respectively)  indicate  the  manganese  oxidation  state  of  3+.  Due  to  the  small 
+
+concentration  of  manganese  in  Na3Fe1.8Mn0.2(PO4)3,  the  Mn  3s  photoelectron  line  is 
+
+indistinct, however, it is clearly visible for Na3Fe1.6Mn0.4(PO4)3 sample. In both cases the 
+
+splitting of the Mn 3s peak is observed, due to the coupled 3d valence band. The growth 
+
+of manganese concentration in the structure contributes to an increase in the magnitude 
+
+of  Mn  3s  peak  splitting  (ΔE3s)  56,57.  The  values  of  ΔE3s  are  5.1  and  5.7  for 
+
+Na3Fe1.8Mn0.2(PO4)3 and Na3Fe1.6Mn0.4(PO4)3, respectively. These values could indicate 
+
+that manganese exhibits mixed 2+/3+ valence. Due to the fact that the Mössbauer studies 
+
+revealed only the presence of Fe3+ in all of the samples, the Mn3+ oxidation state was also 
+
+expected.  The  presence  of  Mn2+  might  be  attributed  to  a  charge  compensation  effect resulting  from  the  small  excess  of  sodium,  used  during  the  synthesis  to  prevent 
+
+evaporation,  hence  the  composition  of  the  studied  NASICON  samples  may  be  written 
+
+schematically as Na3+xFe2-y2+(PO4)3, where x is the content of Mn2+, which 
+
+is  equal  to  the  excess  of  sodium.  The  exact  sodium  amount  (3+x)  was  calculated  for 
+
+selected samples based on Mn2+ content determined from iodometric titration method, as 
+
+described in previous papers 49,58–60. The results, listed in Table 1, confirm the hypothesis 
+
+concerning the presence of Mn2+ in studied samples.  
+
+
+The  electrochemical impedance  spectra  of  Na3Fe2-yMny(PO4)3  and the corresponding  equivalent  circuit  are  presented  in  Fig.  8a.  It  must  be  noted  that 
+
+(R1CPE1)CPE2 is  the  basic  model,  which  was  then  modified  depending  on  semi-circle 
+
+shape. The spectrum shape for Na3Fe2(PO4)3 is consistent with that reported in another 
+
+works 61,62 and indicates that transport in NASICON materials is thermally activated and 
+
+mediated  by  bulk  and  grain  boundaries.  Fig.  8b  shows  the  temperature  dependence  of 
+
+total  electrical  conductivity  of  Na3Fe2-yMny(PO4)3  in  an  Arrhenius  plot.  For  y=0  and 
+
+y=0.1,  the  phase  transition  discussed  in  earlier  sections  divides  the  temperature 
+
+dependence into two ranges with two different activation energies (inset): low(LT) and 
+
+high-temperature  (HT)  regions.  However,  the  phase  transition  is  less  noticeable  for 
+
+Na3Fe1.9Mn0.1(PO4)3  and  it  finally  decays  with  higher  manganese  content,  which 
+
+corresponds to the data presented in section 3.1.2 and the structural results. The values of 
+
+electrical conductivity at room temperature and activation energies are presented in Table 
+
+Due  to  potential  application  in  sodium-ion  batteries,  which  operate  at 
+
+temperatures <75oC, the activation energies listed for y=0 and y=0.1 are those specific to 
+
+the  LT  region.  The  highest  total  electrical  conductivity  (9.5·10-7  and  4.3·10-7  S·cm-1, 
+
+respectively)  and    subsequently  the  lowest  activation  energies  (0.36  and  0.44eV, 
+
+respectively)  were  determined  for  y=0.2  and  y=0.3. This  hypothesis  was 
+
+proved by the above-discussed total electrical conductivity studies. 
+
+The  charge/discharge  curves  (Fig.  9b)  for  Na3Fe2-yMny(PO4)3  system  indicate 
+
+high  reversibility  of  deintercalation/intercalation  processes,  which  is  one  of  the  key 
+
+factors for Na-ion application. The combination of discharge capacities as a function of 
+
+the  cycle  number  for  all  cells  is  depicted  in  Fig.  9a.  A  significant  improvement  in 
+
+electrochemical performance is visible for Na3Fe1.8Mn0.2(PO4)3 and Na3Fe1.7Mn0.3(PO4)3 
+
+as compared to Na3Fe2(PO4)3, whereas for other compositions deterioration is observed. 
+
+The presented electrochemical properties clearly correlate with the findings of transport 
+
+analysis and the calculated activation energies, which are the lowest for y=0.2 and y=0.3 and  high  for  y=0,  y=0.1  and  y=0.4.  Moreover,  the  transport  and  the  electrochemical 
+
+analyses are in excellent agreement with the structural analysis presented in section 3.1.2. 
+
+For  y=0.2  and  y=0.3 the  smallest distortion  below 75oC was observed both within the 
+
+aMbM planes, as well as in the orthogonal direction. This is a solid confirmation of the 
+
+stated hypothesis that a reduction in monoclinic distortion should have a positive impact 
+
+on the electrochemical performance of NASICON-Na3Fe2-yMny(PO4)3 materials. 
+
+NASICON-Na3Fe2-yMny(PO4)3  (y=0,  0.1,  0.2,  0.3,  0.4)  materials  were 
+
+successfully synthesized and evaluated as potential cathode materials for Na-ion batteries. 
+
+Due  to  the  relatively  low  synthesis  temperature  (600oC),  the  obtained  materials  are 
+
+composed  of  submicron  grains  with  agglomerates  slightly  exceeding  1μm  in  diameter 
+
+which is desirable for good electrochemical performance. Structural analysis showed that 
+
+all  investigated  materials  crystallize  in  monoclinic  symmetry  (C2/c)  and  undergo  two 
+
+polymorphic  transitions  resulting  in  reduced  monoclinic  distortion.  The  smallest 
+
+distortion  below  75oC  was  observed  for  y=0.2  and  y=0.3,  i.e.  the  samples  that  also 
+
+exhibited the best transport properties of all studied materials. The conducted chemical 
+
+analysis showed that the oxidation state of Fe is  3+ in all samples, whereas the oxidation 
+
+state of Mn ions is mostly 3+, with a small contribution of Mn2+ resulting from a slight 
+
+excess  of  sodium. 
+
+The presented analysis provides strong arguments in favor of the thesis that the 
+
+degree  of  monoclinic  distortion  is  a  crucial  factor  with  regard  to  the  electrochemical 
+
+performance of NASICON-Na3Fe2-yMny(PO4)3 cathode materials. It also shows that the 
+
+precise modification of the chemical  composition  makes it possible to  tune the crystal 
+
+structure  and  subsequently  design  cheap  and  environmentally  friendly  iron-based 
+
+NASICON-type materials that are suitable for future application in Na-ion batteries.  

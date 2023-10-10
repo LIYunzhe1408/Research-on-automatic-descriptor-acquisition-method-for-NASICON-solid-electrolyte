@@ -1,0 +1,110 @@
+Lithium-ion conducting Li1.4Al0.4Ti1.6(PO4)3 glass-ceramics with ultrapure NASICON-type phase were synthesized by a citric acid-assistedsol–gel method and characterized by TGA-DSC, XRD, transmission electron microscopy (TEM), field emission scanning electron microscopy(FESEM) and complex impedance techniques.
+The influence of molar ratio of citric acid to cations as well as pH value on the formation ofLi1.4Al0.4Ti1.6(PO4)3 sol was studied.
+Experimental results indicated that the citric acid-assisted sol–gel method made it possible to obtain wellcrystallized glass-ceramics of Li1.4Al0.4Ti1.6(PO4)3 at a much lower temperature within a shorter synthesis time in comparison to conventionalsolid-state reaction methods.
+The optimized conditions for citrate-based preparation process were at the molar ratio (R) of [H3Cit+glycol] /[Li++Al3++Ti4+]=4 and pH=7, respectively.
+Highly pure and ultrafine powders were obtained by heating the amorphous powders got from thesol–gel process at a temperature between 800 and 1000 °C.
+The highest room temperature bulk and total Li+ conductivities were 2.09×10−3 S/cmand 6.13×10−4 S/cm, respectively.
+And the bulk activation energy as low as 0.29 eV was obtained for the same specimen prepared at 950 °C for6 h.
+The high conductivity, good chemical stability and easy fabrication of the glass-ceramics suggest it to be a promising candidate as solidelectrolyte for all-solid-state Li-ion rechargeable batteries.
+Lithium-ion batteries are now widely used as power sourcesin portable electronic devices because they have the highestenergy density of all the commercialized rechargeable batteries.
+Although they have been on the market for more than10 years, lithium-ion batteries still have a safety issue caused byflammable organic solvents used in their electrolytes.
+Thesolvent-free all-solid-state rechargeable lithium-ion battery isthe safest and the most suitable one for use in large-scale batterysystem .
+Glass-ceramics is a category of materials of greatpotential as solid electrolytes applied in such batteries.
+Hosonoet al.and Chowdari et al. have succeeded in obtainingfast lithium-ion conductive glass-ceramics with ionic conductivityover 10−4 S/cm−1 at room temperature.
+The LiTi2(PO4)3glass-ceramics, where the conducting crystalline phase essentiallyconsists of NASICON-type structure, were reported toexhibit an ionic conductivity of 10− 6 S/cm− 1 at roomtemperature and an enhancement of more than two orders ofmagnitude in conductivity was realized in the Al3+ substitutedLi1+xAlxTi2 − x(PO4)3 system for x=0.4 .
+Due to their highionic conductivity, the glass-ceramics of Li1.4Al0.4Ti1.6(PO4)3are very promising in practical applications and fundamentalinvestigations.
+So far, the Li1.4Al0.4Ti1.6(PO4)3 glass-ceramicshave been prepared by a conventional melt-quenching method.
+One of the most serious problems in this method is that itrequires heat-treatment temperature as high as 1500 °C.
+Themelting and heat-treating process at such as high temperaturegenerally leads to obvious lithium loss.
+Therefore, there is astrong need for a suitable method that can provide theLi1.4Al0.4Ti1.6(PO4)3 glasses at lower temperatures.
+The solgel method is known as an effective technique to synthesizemulticomponent oxides at lower temperatures .
+The sol–gelmethod has been demonstrated promising for the synthesis oflithium-based solid electrolytes .
+The crucial step forobtaining a homogeneous sol of Li1.4Al0.4Ti1.6(PO4)3 is toprepare a highly water-soluble precursor to avoid the use ofalkoxides.
+Some researchers have already reported the preparationof Ti4+ water-soluble precursor by dissolution of Ti metalin hydrogen peroxide and ammonia solution , and usingthe metal alkoxides precursors of (NH4)2TiO(SO4)2·H2O .
+However, the metal alkoxides are expensive and extremelysensitive to moisture.
+Moreover, the dissolution of Ti metalneeds a long period.
+In the present work, we found that it was possible to obtainLi1.4Al0.4Ti1.6(PO4)3 amorphous powders after firing thepowder precursors synthesized by a citric acid-assisted sol–gel method at a temperature much lower than the melting point.
+Furthermore, highly pure powders of nanoscaled Li1.4Al0.4Ti1.6(PO4)3 could be obtained by heat-treating at a temperature muchlower than that in conventional solid-state reaction methods.
+The influence of the sol synthesis parameters such as oxidecomposition, organic compound concentration and pH value,etc.
+on the crystalline phase of the products are systematicallyinvestigated in this work.
+Reagent-grade Ti(OC4H9)4 (AR), LiNO3·H2O (AR), Al(NO3)3·9H2O (AR) and NH4H2PO4 (AR) were used as startingmaterials with citric acid as the polymer precursor and distilledwater as the solvent.
+They were accurately weighted at the samemolar ratio of the components of Li1.4Al0.4Ti1.6(PO4)3. 
+Afterhomogenization of the solution, a certain volume of glycol wasadded to promote polyesterification and polycondensationreactions.
+The concentration of the metal ions was alwayskept at 0.20 mol L−1. 
+R is defined as the molar ratio of “organiccompounds concentration” (Co) [citric acid+glycol] to “initialmetal ions” (Ci) [Li++Al3++Ti4+], and the molar ratio of citricacid:glycol was 1:1. 
+The ratio R may be adjusted by modifyingone of the concentrations of the organic compounds, the secondremaining constant.
+We reported the synthesis of water solution of titaniumcitrate in Ref.
+Using titanium citrate as the Ti4+ watersolubleprecursor, the polymer precursor contains lithium,aluminium, and titanium cations trapped homogeneouslythroughout the polymer matrix was obtained.
+After heating at80 °C for about 8 h, the solutions became very viscous, werethen moved to a drying oven at 150 °C for 4 h to promoteesterification and polymerization between glycol and citric acid.
+Starting from the dry gel, amorphous powders were prepared byheat-treatment at 500 °C for 4 h.
+Fine powders were obtainedby heat-treating the amorphous product at 800 °C in air for 2 h.
+Fig.1 showed the detailed procedure of the synthesis for glassceramicpowders of the Li1.4Al0.4Ti1.6(PO4)3. 
+The pelletizedpowdered glasses were obtained by cold pressing (200 MPa) ofthe as-prepared powders; the diameter and thickness of the glass pellets were 13 mm and about 1.5 mm.
+Dense glassceramicpellets were obtained by sintering the glass pellets at800–1000 °C in air for 6 h.
+Thermal analysis (DSC-TGA) was performed at a heatingrate of 10 K min−1 over the temperature range of 30–1000 °C inair.
+Phase analysis was performed by X-ray diffraction (XRD)(Rigaku RINT-2000) using Cu Kα radiation.
+For the determinationof the lattice constants, the scanning was carried outbetween 2θ=10° and 40° in 0.01° steps with high purity siliconas internal standard.
+The microstructures of the glass-ceramicsafter heat-treating over the temperature range of 800–1000 °Cfor 6 h in air were observed by field emission scanning electronmicroscopy (FESEM) on the fracture surfaces.
+Morphology ofpowders was detected by transmission electron microscopy(TEM) on a JEM-2010 electron microscope operating at200 kV.
+Polished samples were prepared for ionic conductivitymeasurements with gold electrodes sputtered on both sides ofthe samples as blocking electrodes.
+Complex impedancemeasurements for glass and glass-ceramic samples were carriedout on a Solartron 1260 impedance analyzer over the frequencyrange of 10−1–106 Hz.
+Fig.2 shows the DSC-TGA curve of the dry gel prepared bya citric acid-assisted sol–gel method.
+A weight loss of about50% in the temperature range of 148 to 500 °C was found,which was due to the decomposition of the polymer to CO2 andH2O.
+The exothermic peak around 625 °C was ascribed to thechemical reactions between the precursors, which resulted in theformation of a crystalline phase.
+No further weight from 800 to1000 °C was observed.
+Based on the DSC-TGA data, thermaltreatment was carried out to prepare the Li1.4Al0.4Ti1.6(PO4)3crystalline powders: the dried gel was firstly heat-treated at 500 °C for 4 h, and then heat-treated at 800 °C for another 2 h in air.
+Fig.3 shows the X-ray diffraction patterns of the powdersheat-treated at 800 °C for 2 h in air from the precursors synthesizedat various pH values and R=4. 
+Diffraction peaks in allspecimens show the peaks corresponding to the lithiumanalogueof NASICON, viz.
+Li1.4Al0.4Ti1.6(PO4)3. 
+Chowdariet al., Fu and Birke et al. have prepared the samplesin the Li1+xAlxTi2 − x(PO4)3 system.
+However, impurity AlPO4phase was inevitable in all their products.
+Using the citric acidassistedsol–gel method to synthesize the Li1.4Al0.4Ti1.6(PO4)3powders, impurity peaks due to AlPO4 are only evident insamples prepared under acid conditions (pH 1–5).
+Under basicconditions a crystalline LiTi2(PO4)3-type phase appears with noevidence for secondary crystalline phases.
+The hexagonal lattice parameters of the LiTi2(PO4)3-typephase were obtained by a least-squares fit.
+The a- and c-parametersfor the specimen prepared at pH=7 and R=4 weredetermined to be about 8.483±0.002 Å and 20.826±0.005 Å,respectively.
+These values are slightly smaller than those reportedin literature for the sintered LiTi2(PO4)3 (a=8.513 Å andc=20.878Å) .
+This suggests structuralmodifications resultedfrom the replacement of Ti4+ ions by Al3+ ions in LiTi2(PO4)3.
+Another important parameter that influenced the formation ofLi1.4Al0.4Ti1.6(PO4)3 phase is R.
+X-ray diffraction patterns arepresented in Fig.4 for the powders heat-treated at 500 °C for 4 hand at 800 °C for 2 h fromthe sols obtained at different R (R=2, 3,4, 6, 12) and pH=7. 
+It can be seen that the powder after heating at500 °C is amorphous.
+The NASICON-type structure was formedat all R values after heating at 800 °C for 2 h.
+However, pure LiTi2(PO4)3-type phase with strong diffraction intensity was obtainedonly at pH=7 and R=4, the ultrapure based phase was obtainedand no XRD peaks corresponding to the AlPO4 or other impurityphases were found.
+When the R values were under 4, peaks due toAlPO4 phase were observed.
+As the R values increased to over 4,some XRD peaks corresponding to unknown impurity phasesappear.
+There are two basic chemical reactions involved in thecitrate precursor process: the first is the chelation betweencomplex cations and citric acid as reactions (1)–(4) show, thesecond one is polyesterification of excess citric acid withglycol .
+The degree of chelation of metallic ions, bycarboxylic groups (–COOH), in the starting solution isresponsible for the uniformity of metallic constituents in theester precursor after esterification.
+At higher pH valueconditions, more citric acid is ionized, and more carboxylicgroup are therefore available to chelate the metallic ions in thesolution, and metal element in the ester with higher uniformitycan be attained, which promotes the formation of ultrapureLiTi2(PO4)3-type phase.
+The main function of citric acid andglycol is to provide a polymeric network to hinder cationsmobility, which maintains local stoichiometry and minimizesprecipitation of unwanted phase.
+The increasing of the Rvalues results in more carboxylic groups and polymer resins.
+The former improves the uniformity of metal element in thesolution and resin, while the later increases the potential heatof combustion produced during calcination.
+Hence, increasingthe molar ratio of citric acid to total metal cations concentrationenhances the formation of LiTi2(PO4)3-type phase,suggesting that the suitable process parameters of LiTi2(PO4)3-type precursor synthesis are R=4 and pH≥7. 
+It is alsoconsistent with the experimental observations, i.e.the highlyviscous colloid (wet gel) of LiTi2(PO4)3-type precursor andultrapure powders were easily formed at the pH value over 7and R=4 in this investigation.
+(TEM) study was undertaken to highlight the size of thepowders.
+The average particle size of the powder heat-treatedat 800 °C for 2 h is under 100 nm.
+Fig.6 shows the fracturesurfaces observed by FESEM for Li1.4Al0.4Ti1.6(PO4)3 glassceramicstreated at various temperatures for 6 h.
+It can be seenthat increasing treating temperature from 800 °C to 950 °Cresulted in increasing in both density and grain size.
+Theglass-ceramics heated at 950 °C for 6 h was characterized byvery dense structure with very few pores and cracks.
+Whenthe treating temperature was further increased to 1000 °C, thecrystallized grains in the glass-ceramics grew further while thedensity decreased; moreover some cracks occurred along thegrain boundaries.
+The density of the glass-ceramics wasdetermined by the Archimedes method with ethanol as theimmersion medium.
+The relative density of the sample discheat-treated at 950 °C for 6 h is about 97%, which is similarto the samples prepared by melting–crystallization process.
+Fig.7 shows the room temperature complex impedance plotsfor the Li1.4Al0.4Ti1.6(PO4)3 glass-ceramics treated at 800 °C–1000 °C for 6 h.
+Similar to Refs, only one semicirclewas obtained at the measurement temperatures for all samples.
+From the plots, the total resistance (Rb+Rgb) and the bulkresistance (Rb) of the sample were obtained from the right andleft intercepts of the semicircle with the real axis in the plots,respectively.
+Then, the conductivity values of σb (bulkconductivity) and σt (total conductivity) could be calculatedfrom both of the corresponding resistances.
+As shown in Fig.7,the room temperature conductivity increased gradually with theincreased treating temperature from 800 °C to 950 °C, themaximum values of σb and σt, 2.09×10−3 S/cm and6.13×10−4 S/cm, respectively, were obtained for the specimentreated at 950 °C.
+It is noteworthy that the bulk resistanceremained nearly constant for the glass-ceramics treated at950 °C and 1000 °C, whereas grain boundary resistance slightlychanged as a result of the extra growth of crystalline material.
+This phenomenon was consistent with those observed for ionconductivity and diffusion in ultrafine materials because thegrain boundary dominates the electric property due to largerconcentration and higher mobility of ions in the intergranularregion.
+The bulk conductivity data shown in Fig.8, are found to belinear and fit the Arrhenius equation: σT=Aexp(−Ea/kT), whereA is the pre-exponential parameter and k is the gas constant.
+In thetesting range of 20–300 °C, no break is observed on the Arrheniusplot.
+From the line, the Ea value of 0.29 eV is obtained for thespecimen treated at 950 °C for 6 h.
+It was noted that the bulkconductivity of the glass-ceramics was over five orders ofmagnitude greater than that of the pelletized powdered glass.
+Forcomparison, the results reported by Fu for the samecomposition are also shown in the figure.
+The maximum valuesof σb, 2.09×10−3 S/cm, was higher to some extent than thatobtained by Fu [8], who prepared the Li1.4Al0.4Ti1.6(PO4)3 glassceramicsat 950 °C for 12 h with the highest bulk conductivity of1.3×10−3 S/cm at room temperature.
+It should be pointed out thatthe present glass-ceramics could be obtained from the glassesprepared at a much lower temperature.
+The highly pure fast Li+ conductor Li1.4Al0.4Ti1.6(PO4)3glass-ceramics was prepared by a citric acid-assisted sol–gelmethod at a low temperature.
+The process is based on thedissolution of cation precursors in an aqueous citric acidsolution to form metal–chelate complex.
+The formation ofwater-soluble metal ionic complex, instead of alkoxides that areextremely sensitive to moisture, is of great importance for theinexpensive and convenient aqueous synthesis of Li+ conductorsfor commercial applicability.
+
+The maximum room temperature lithium-ion conductivity of2.09×10−3 S/cm with an activation energy as low as 0.29 eVwas obtained for the Li1.4Al0.4Ti1.6(PO4)3 glass-ceramicstreated at 950 °C for 6 h.
+This method makes it possible toreduce considerably the synthesis temperature and synthesistime of Li1.4Al0.4Ti1.6(PO4)3 glass-ceramics in comparison withconventional solid-state reaction methods.
+The high conductivity,good chemical stability and easy fabrication of Li1.4Al0.4-Ti1.6(PO4)3 glass-ceramics suggest that they are promising to beused as solid electrolytes for all-solid-state lithium-ion batteries.

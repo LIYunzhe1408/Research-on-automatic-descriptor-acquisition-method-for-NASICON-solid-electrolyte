@@ -1,0 +1,50 @@
+Recently, rechargeable sodium-ion batteries (SIBs) have  been considered as the up-and-coming candidate for lithiumion batteries (LIBs), by virtue of the extensive distribution  and low cost of sodium resource (against lithium resources).
+As a key component of sodium-ion batteries, anode  material has been comprehensive researched in recent years.
+Compared with conventional hard carbon anode materials,  NASICON-type polyanionic frameworks composites have  gained more and more attention due to their outstanding structural stability, regulable voltage elasticity and lower  preparation temperature.
+NASICON-type compounds formula unit can be expressed as  AxMy(PO4)3, viewing as a  3D framework, in which three  PO4 tetrahedra and two  MO6 Electronic supplementary material  The online version of this  article (https://doi.
+The  AxMy(PO4)3 compounds have various compositions, where “A” can be either  monovalent alkali metal ion or divalent metal ion, and M  can be a transitional metal ion (such as  V5+,  Ti4+,  Fe3+),  in this, metal with low platforms are usually as the anode  materials.
+However, these  materials “A” all the monovalent alkali metal ion, with no  more ion vacancy, leads to lower material theory capacity.
+Thus, the replacement of monovalent alkali metal ion  by divalent metal ion in charge and discharge reaction can  improve the capacity of the materials.
+In this work, we report the synthesis of NASICONstructured compound  Mn0.5Ti2(PO4)3 (denote as MTP) and  application for sodium-ion battery anode for the first time,  its sodium storage performance between 2.0 and 0.01 V.
+Unfortunately, the inherent low electrical conductivity of  the polyanionic compounds leading to low rate performance and further restricted its adhibition in requesting  fields such as electric vehicles
+Therefore, we design  the  Mn0.5Ti2(PO4)3@reduced graphene oxide (marked as  MTP@rGO) composite, which deliver both desirable capacity and glorious rate performance, with discharge specific Journal of Materials Science: Materials in Electronicscapacity of 201.7 and 60 mA h  g− 1 at the voltage range of  2.0 and 0.01 V while the current density is 0.05 and 2 A  g− 1.2   Experimental2.1   Synthesis of MTP and MTP@rGOThe precursor of MTP@rGO composite was manufactured  by a ordinary sol–gel method.
+The graphene oxide (GO)  was prepared using a modified Hummers method.
+First, stoichiometric amounts of manganese (II) acetate tetrahydrate,  ammonium dihydrogen phosphate, and citric acid were dissolved in DI water under constant stirring condition.
+Then,  the titanium tetraisopropanolate was completely dissolved in  anhydrous ethanol under constant stirring, followed by dropwise addition to the above solution.
+Thirdly, well-dispersed  GO solution (8.5 mL, 1.8 mg/mL) was added into the above  solution under continuous stirred at 80 °C.
+After anhydration  and removing ethanol by vaporization, the gel was frozen at  once by ultra-low temperature freezer and then the frozen  gel vacuum freeze drying in a freeze-drying machine for  24 h.
+The achieved xerogel was ground in an agate mortar.
+Then, the xergel thermal was treated at 800 °C under argon  atmosphere to gain the final MTP@rGO composite.
+For  comparison, the bare MTP specimen was prepared by the  same as mentioned above except for the addition of citric  acid and graphene oxide.
+The range of diffraction  angle (2θ) was 10°–80° and the scan rate was 2˚min− 1. The  structure and morphology of two specimens were observed  by field-emission scanning electron microscope (FESEM,  JEOL-6300F) and corresponding energy dispersive spectroscopy (EDS).
+Nitrogen adsorption/desorption measurements were represented by Quadrasorb evo 2QDS-MP-30  (Quantachrome Instruments, USA), which can calculate out  the pore size distribution and figure out the specific surface  area of the specimens.
+Sodium metal piece,  1 M  NaClO4 in diethyl carbonate /ethylene carbonate (DEC/ EC, 50:50 vol%) solution, Celgard 2400 were used as counter electrode, electrolyte, and separator, respectively.
+The  working electrode was manufactured by commixing 70%  active material, 20% carbon black, and 10% polyvinylidene fluoride (PVdF) with N-methylpyrrolidone (NMP) to shape  a homogeneous dispersion electrode slurry, Then the slurry  was coated on an aluminium foil using razor blades, and  dried in a vacuum oven at 120 °C overnight.
+The representative mass loading of pole active material is in the neighborhood of 1.0 mg per electrode.
+Battery was assembled in a  glove box, which filled with argon gas.
+X-ray diffraction pattern of the pure  Mn0.5Ti2(PO4)3  and  Mn0.5Ti2(PO4)3 compound1 3Journal of Materials Science: Materials in Electronics structure,  Mn2+ takes up one of the two sites of the M(1)  site [3a (0,0,0)], the other [3b (0,0,l/2)] is empty.
+From a  structural point of view, MTP is able to accommodate more   Na+, therefore, it possesses a higher theoretical capacity.
+Figure 1c shows the XRD patterns of as-prepared pure   Mn0.5Ti2(PO4)3 and  Mn0.5Ti2(PO4)3 compound specimens,  which are conform to the literature [15], and it can be seen  from the figure that the crystallinity of the samples are very  good.
+Figure 2a and Fig.S1 show the typical FESEM images  of MTP@rGO and MTP at relatively low magnification,  this porous structure and morphology of the graphenecoated MTP@rGO specimen can be clearly observed compared to MTP.
+As seen from the inset image, a high magnification FESEM image of MTP@rGO, the particle size  is in the range of 100–500 nm and the particles are uniform distributed on graphene.
+This special porous structure allows electrolyte penetrate easily and prevents the  aggregation of MTP particles during the charge–discharge  procedure, therefore, it performs the stability and activity of the pole.
+As can be seen in Fig.2b, the accompanying energy dispersive spectrometry (EDS) element  mappings indicate that Mn, Ti, P, and C are homogeneously distributed in MTP@rGO.
+The nitrogen adsorption/ desorption test results in Fig.2c displays that the specific surface areas of MTP and MTP@rGO powders are  5.742 and 107.811 m2  g− 1, respectively.
+The pore diameter  distributions of the manufactured specimens showed in  the inset image reveal that MTP@rGO powder has pore  size of 3–9 nm.
+But MTP powder holds almost no pore,  indicating the former appears better porosity than that of  the latter.
+Hence, presupposed that porous structures are  contributed to the permeation of the electrolyte as well  as augmenting the land area at the range of electrode and  electrolyte, which is conducive to improve the galvanochemistry properties of the pole materials.
+Furthermore, the porous structures can shorten the  Na+ diffusion  paths and increasing specific capacities of the batteries,  particularly at high-current-density charge/discharge cycle  process.
+The peaks  located at 1350 and 1600 cm− 1 represent the D-band  (disorder-induced phonon mode) and G-band (graphite  band), which can be allocated to a heterogeneous intensity  from both amorphous carbon and rGO, and the value of   ID:IG = 0.94 indicates that MTP@rGO has a high degree of graphitization, which resulting in excellent electronic  conductivity.
+One pair of oxidation–reduction peaks corresponds to Na-extraction-insertion,  respectively.
+Figure 3c shows the oxidation peak at 0.52 V  and the corresponding reduction peaks at 0.34 V for MTP@ rGO, respectively.
+The reversible redox couples from the CV  curves observed at 0.34/0.52 V was due to  Ti3+/Ti2+ redox,  which obeyed the following reaction:+) could  impedance.
+In addition, the diffusivity of  Na+  (DNa be figure out in the light of the following equation eqn (1): where R, T, A, F, n and C are representative of gas constant,  absolute temperature, surface area of the work electrode,  Faraday’s constant, number of electrons per molecule during reaction, and  Na+ concentration in the anode material,  respectively.
+In  addition,  two  small  peaks  were  observed  near  0.08/0.1 V which could be attributed to  Na+ insertion/ extraction in the super P conductive additive.
+Figure 4b displays the  reciprocal square root of angular frequency (ω−1/2) rely on  the real impedance (Z’) in the low frequency of MTP and  MTP@rGO.
+On the strength of the linear plot slope of Z′  versus ω−1/2, it is found that the imputed sodium diffusivity  of MTP@rGO ( 1.48 × 10−14cm2 s−1 ) is higher than that of  MTP ( 1.01 × 10−15cm2 s−1 ).
+These results obviously indicate that the kinetics of MTP can be increased by introducing rGO.
+The electroconductivity of pole materials have a  conclusive influence on the galvanochemistry performance, interlinked active material particles formed the efficient  conductive network also significant for guarantee excellent  galvanochemistry performance.
+This result is also confirmed by the electrochemical properties obtained in the test.
+The Nyquist diagrams are showed in Fig.4a, we can  see that the MTP@rGO has smaller galvanochemistry Fig.
+EIS of two kinds of samples after discharge to 0.01 V, b shows the reciprocal square root of angular frequency (ω−1/2) dependence of the  real impedance (Z’) in the low frequency of pure  Mn0.5Ti2(PO4)3 and  Mn0.5Ti2(PO4)3 compound4   ConclusionsIn summary, novel MTP@rGO composite was synthesized  via sol–gel method and applied as anode material for Na-ion  batteries in the first, exhibiting superior rate performance  and more satisfying capacity contrasted with MTP.
+The outstanding galvanochemistry properties are mainly put down  to the porous structure and outstanding electroconductibility  of MTP@rGO composite with obviously enhanced  Na+ diffusivity.

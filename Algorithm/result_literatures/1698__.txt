@@ -1,0 +1,106 @@
+Lithium insertion into various iron vanadates has been investigated.
+Fe2V4O13 and Fe4(V2O7)3 Æ 3H2O have discharge capacitiesapproaching 200 mAh g1 above 2.0 V vs.Li+/Li.
+Although the potential profiles change significantly between the first and subsequentdischarges, capacity retention is unexpectedly good.
+Other phases, structurally related to FeVO4, containing copper and/or sodium ionswere also studied.
+One of these, b-Cu3Fe4(VO4)6, reversibly consumes almost 10 moles of electrons per formula unit (ca.240 mAh g1)between 3.6 and 2.0 V vs.Li+/Li, in a non-classical insertion process.
+It is proposed that both copper and vanadium are electrochemicallyactive, whereas iron(III) reacts to form LiFeIIIO2. The capacity of the Cu3Fe4(VO4)6/Li system is nearly independent of cycling rate,stabilizing after a few cycles at 120–140 mAh g1. 
+Iron vanadates exhibit better capacities than their phosphate analogues, whereasthe latter display more constant discharge potentials.
+As alternatives to the presently used positive electrodematerials for lithium batteries, (mostly layered LiCoO2-type and spinel LiMn2O4), numerous polyanionic compoundshave been studied.
+Covering a very large range ofcompositions, these materials generally benefit from thepolyanion inductive effect that increases the redox potentialof the transition metal compared to that in simple oxides.
+Following the seminal publication of Padhi, polyanionicframeworks associated with different transition metalelements have been considered.
+Among these, LiFePO4presents the most promising electrochemical performance,with safety, stability and cost advantages over the layeredcobalt and nickel oxides .
+Much attention was also givento Nasicon and anti-Nasicon phosphate  and sulfate structures containing iron and vanadium.
+The mostinteresting materials comprise iron(III), titanium(IV),vanadium(V, III), and to a lesser degree, manganese(II,III, IV), niobium(V) and copper(II) .
+Vanadate groups VO34 and V2O47 behave structurally like POx and SOxpolyanions, but vanadium may be electrochemically active,and therefore may contribute to theoretical capacity (Table1).
+In this context, we decided to investigate some iron(III)vanadates.
+
+To our knowledge, insertion of lithium intoFe4(V2O7) Æ 3H2O, b-Cu3Fe4(VO4)6 and NaCuFe2(VO4)3has not previously been reported.
+Here we discuss the lithiuminsertion chemistry of five iron(III)–vanadium(V) complexoxides in the range from 3.6 to 2.0 V vs.Li+/Li, inwhich vanadium is electrochemically active, while iron ispartly or totally inactive.
+FeVO4 and Fe2V4O13 were prepared by mixing stoichiometricamounts of ammonium metavanadate andiron(III) nitrate in water with sufficient hydrochloric acid added to complete dissolution.
+After drying at 90 C, themixtures were fired at 500 C for 60 h in the case of FeVO4,and at 500 C (18 h) and 600 C (60 h) for Fe2V4O13.
+Two batches of b-Cu3Fe4(VO4)6 were prepared, butthe one prepared from a mixture of CuO, Fe2O3, V2O5,heated at 500 C (14 h) and 700 C (60 h), contained minorunidentified impurities.
+The second batch, starting with anaqueous solution of copper sulfate, iron(III) nitrate,ammonium metavanadate and hydrochloric acid, whichallowed a better homogenization of the precursors, thendried and fired at 500 C (72 h) and 600 C (20 h), wasphase pure.
+NaCuFe2(VO4)3 was prepared following thesame procedure but adding sodium nitrate, and firing at500 C (36 h) and 600 C (60 h).
+Iron(III) phosphates were also synthesized for comparisonwith the iron(III) vanadates.
+Fe(PO3)3, Fe3O3PO4,a-FePO4, and Fe4(P2O7)3 were prepared by dissolving stoichiometricamounts of iron(III) nitrate and hydrogenammonium phosphate in water, drying and firing at600 C, 600 C, 800 C and 800 C, respectively.
+Fe1.2PO4X(X = F0.11(OH)0.46(H2O)0.43) was made by hydrothermalsynthesis following Ref, but with a shorter reactiontime (24 h at 200 C).
+FePO4 (heterosite) was synthesizedby chemical extraction of lithium (NO2BF4 in acetonitrile)from synthetic triphylite, LiFePO4 .
+X-ray diffraction (XRD) patterns were collected atambient temperature using a Philips X’Pert diffractometer(h–h geometry, diffracted beam monochromator) with CuKa radiation.
+Lattice parameters were determined by fullpattern fitting using the WinPLOTR/Fullprof suite ;those of the iron vanadates are reported in Table 2.
+Composite electrodes were prepared by first thoroughlymixing the active material (83.3 w/o) with carbon black(16.7 w/o) for 30 min in a planetary ball mill.
+Polyvinylidenedifluoride (Kynar 741) dissolved in N-methyl-pyrrolidonewas then added to the mixture to give 70 w/o of active materialin the final mixture, which was applied to aluminum foilby doctor blade.
+Electrodes (1.8 cm2 discs) with loadings8 mg of AM active material per cm2 were dried for 24 hat room temperature and then for 24 h at 120 C under vacuum.
+Type 2032 coin cells were assembled in a helium filleddry box (<1 ppm O2/H2O) using Li metal foil counter electrodesand Celgard 3401 separators saturated with 1 MLiPF6 in ethylene carbonate/dimethylcarbonate (1:2 w:w).
+Lithium insertion/extraction was monitored with a MacPileII cycling system operating in galvanostatic mode.
+Depending on the synthesis conditions, four allotropicforms of FeVO4 can be prepared .
+The lowest densityform, type I, is the one prepared under atmospheric pressure,and is closely related to b-Cu3Fe4(VO4)6, as discussedlater.
+FeVO4–I was first isolated by Levinson and Wanklyn, and its crystal structure was reported by Robertsonand Kostiner .
+The structure consists of a 3-D packingof VO4 tetrahedra, FeO6 octahedra and FeO5 trigonalbipyramids.
+The three independent iron atoms, two in distorted octahedra and one in a distorted trigonal bipyramid,are joined by VO4 tetrahedra to create a doubly bentchain of six edge-sharing polyhedra.
+The structure ofFe2V4O13, a compound simultaneously prepared by Baudrinet al. and Wang et al., was described by thelatter group.
+It is built up from isolated edge-sharedFe2O10 octahedral dimers and U-shaped tetrapolyvanadateV4O613 anions (comprising four corner-shared tetrahedra).
+Poizot et al.recently published a complete binary phasediagram for the Fe2O3–V2O5 system , which containsthe two well-known definite compositions Fe2V4O13andFeVO4, plus two metastable compounds, Fe4V6O21 [orFe4(V2O7)3] and FeV3O9 [or Fe(VO3)3].
+These authors discussedin detail the preparation, by direct precipitationfrom aqueous solution, of hydrated iron(III) vanadates(V),which become anydrous and crystalline after controlledheating.
+
+
+The two different FeO6 octahedra share an edge.
+Insertion of lithium into FeVO4 and FeVO4 Æ nH2O hasbeen studied recently, particularly its insertion capacity,which depends upon the water content .
+At lowpotential, the host structure collapses and the Fe3+ ionsare reduced to Fe metal.
+Hayashibara et al.also investigatedthe insertion of lithium into FeVO4 by chemicalreduction.
+The electrochemical behavior under GITT conditionsof FeVO4, Fe2V4O13 and Fe4(V2O7)3 Æ 3H2O areshown in Fig.1. 
+All three materials exhibit smooth, slopingdischarge profiles, with some plateau-like features forFe2V4O13. FeVO4, which has the highest Fe/V ratio, hasthe lowest capacity and the poorest capacity retention inthe first cycle (60% of the initial discharge capacity isnot recovered).
+In contrast, the reversibility is good forthe Fe2V4O13/Li and Fe4(V2O7)3 Æ 3H2O/Li systems,although the charge profiles differ significantly from theirinitial discharges.
+
+Thus the theoretical capacities corresponding tothe V5+/V4+ redox couple give the same trend as the experimentalvalues, whereas the Fe3+/Fe2+ redox couple wouldlead to an opposite trend, and both redox couples activetogether would provide an intermediate situation (Table1).
+The amount of lithium inserted into the three materialsapproximately corresponds to the complete reduction ofV(V) to V(IV), with low activity of Fe(III), as we discusslater in the case of b-Cu3Fe4(VO4)6. However, the situation is actually more complex for all three compounds, especiallyfor FeVO4. According to the 57Fe Mo¨ssbauer studyof Denis et al.
+performed on the FeVO4/Li system,only iron would be reduced when the composition ‘‘LiFeVO4’’is reached.
+This is not in agreement with the conclusionsof Hayashibara et al.
+, who proposed a two stepprocess to reach the composition x = 1 in ‘‘LixFeVO4’’:(1) insertion of lithium into LixFeVO4 from x = 0 tox = 1/3, and (2) decomposition into Li1/3FeVO4, LiFeO2and VO2 from x = 1/3 to x = 1. 
+From a practical perspective,Fe2V4O13/Li presents the best capacity retentionamong the three systems, although the original dischargeprofile is never recovered in cycling (Fig.2).
+We looked at the behavior of the structurally relatedcompounds b-Cu3Fe4(VO4)6 and NaCuFe2(VO4)3, bothhaving a Fe/V ratio of 0.67,as in Fe4(V2O7)3 Æ 3H2O.
+Lafontaine et al.discussedthe structural relationships between b-Cu3Fe4(VO4)6 andseveral other vanadates, phosphates and molybdates of generalformula AxBy(VO4)6, e.g.NaCuFe2(VO4)3, FeVO4,ZnMoO4, and Mg3Ti4(PO4)6. b-Cu3Fe4(VO4)6, which is differentfrom the mineral lyonsite (similar composition), crystallizesin the same structure as the mineral howardevansite,NaCuFe2(VO4)3, as does the synthetic form of the latter.
+Their similar polyhedral arrangement is built up by edgesharingFe2V10 entities, corner-linked by VO4 tetrahedrato form sheets, and also chains of Fe2V8 dimers, the wholethus delimiting cavities to host Cu2+ and Na+ ions.
+Fig.3reproduces the framework of these two Fe4(VO)6-type compounds,and the one of Fe6(VO4)6 type (e.g.; FeVO4), whichexhibit the same common basic unit, but differently linked.
+In the latter case, less space is available for guest ions due tothe presence of additional FeOx polyhedra (i.e.; FeO5 trigonalbipyramids).
+Insertion of lithium into b-Cu3Fe4(VO4)6and NaCuFe2(VO4)3 is presented in Fig.4. 
+Both materialsexhibited smooth, sloping profiles in discharge and charge,with good reversibility in the first cycle (excellent in the caseof b-Cu3Fe4(VO4)6/Li), but the internal impedance wasrather high.
+Large capacities in the first discharge down to2 V were obtained, 193 mAh g1 for the sodium compoundand 220-243 mAh g1 for b-Cu3Fe4(VO4)6. 
+Unfortunately,capacity decreased during cycling, as shown in Fig.5 forb-Cu3Fe4(VO4)6/Li.
+Surprisingly, changing the cycling ratehad little effect on the cycling behavior.
+After about twentycycles, the discharge capacities stabilized at 120-130 mAh g1.
+Ex situ X-ray diffraction experiments were performed onCu3Fe4(VO4)6/Li cells.
+Due to the numerous Bragg positionsallowed by the triclinic system, and to decreasedintensity signal as compared with the pristine material,we unable to fully refine the patterns collected during thefirst discharge and the subsequent charge.
+The XRD patternscollected from the fresh electrode, at the end of firstdischarge, at the end of first charge, and after 25 completecycles, are shown in Fig.6. 
+During the first discharge, itappears that either a new phase develops or the originalphase reorganizes.
+Substantial amorphization takes placenear the end of discharge, as all of the peaks correspondingto b-Cu3Fe4(VO4)6 disappeared.
+Surprisingly, partialrecrystallization occurred on the subsequent charge.
+Therepetition of this amorphization/partial recrystallizationprocess became less complete with cycling, and none ofthe initial material or related phases was recovered aftera few cycles.
+The characteristic peaks of Cu metal and a very small amount of LiFeO2  appeared at the end of the first discharge.
+The presence of metallic copper was also indicatedby the red coloration of the electrode.
+These two phasesdisappeared on charging, but reappeared on the next discharge.
+Over 25 cycles, the amount of LiFeO2 substantiallyincreased, while the metallic copper peaks weakened.
+Theformation of LiFeO2 and Cu0 was concurrent with amorphizationof b-Cu3Fe4(VO4)6. Similarly, during the partialrecrystallization of b-Cu3Fe4(VO4)6 , thereflections due to LiFeO2 and Cu vanished.
+Taking accountof these observations, and being aware of the work performedon copper vanadates , iron vanadates andseveral other copper polyanions , we conclude that b-Cu3Fe4(VO4)6 probably first inserts lithium ions via a solidsolution process, with partial reduction of Fe(III) and/orV(V) to Fe(II) and V(IV), respectively.
+Then, the structurecollapses into LiFeO2, Cu0 and amorphous VO2. The overallreaction corresponds to the reduction of Cu2+ to Cu0and V5+ to V4+, with iron formally inactive.
+During thesubsequent charge, this process is partly reversed, similarto the behavior of Cu2.33V4O11/Li , but with less efficientdecomposition and recrystallization of the startingmaterial.
+Note that the concomitant formation of LiFeO2,as reported in the case of FeVO4/Li , supports theprevious observation concerning the minor electrochemicalactivity of Fe3+ in Fe2V4O13 and other iron(III)vanadates.
+As Poizot has shown , parallels exist between thechemistry of vanadates and phosphates.
+Four iron(III)-phosphorus(V) complex oxides, Fe(PO3)3, Fe3O3PO4,FePO4 and Fe4(P2O7)3, are found in the binary Fe2O3–P2O5 .
+Fig.7 shows the voltage-composition profilesfor these compounds, along with the metastableFeIIIPO4-heterosite and FeIII1.2PO4X.
+
+For most phosphates, reductionof Fe3+ into Fe2+ occurs at about 2.8 V vs.Li+/Li.
+TheLiFePO4/FePO4 system is a well-known exception, havinga two-phase process at 3.45 V, due to the structural rigidityof the olivine structure with edge-sharing between PO4 andFeO6 polyhedra.
+For Fe(PO3)3/Li, Fe3O3PO4/Li andFePO4-quartz/Li, the discharge capacity is very low; thatof Fe4(P2O7)3/Li is slightly better, but it is largely irreversible.
+The experimental capacity of FePO4-heterosite/Li isclose to the theoretical value despite some kinetic limitations.
+Fe1.2PO4X/Li has a large capacity and good ratebehavior, but exhibits substantial polarization, especiallyon charging .
+To our knowledge, its vanadium counterpart,Fe1.21VO4X, has not been prepared.
+This hypothetical material might possibly combine the redox activities ofboth V5+/V4+ and Fe3+/Fe2+couples (giving a theoreticalcapacity of about 340 mAh g1).
+The electrochemical properties of several other iron(III)polyanion compounds have been investigated during thepast few years, as reported in Table 1. 
+The capacity of AFe2(MoO4)3 suffers from the high mass of Mo, but thismaterial does have good electronic conductivity, and completereduction/oxidation of Fe3+/Fe2+ is easily obtainedalong a nicely reversible plateau at 3.0 V vs.Li+/Li.
+Bothcrystal types of Fe2(SO4)3 exhibit two-phase process at3.6 V vs.
+Li+/Li, with performance still to be improved,particularly for prolonged cycling.
+The iron(III) borateshave little or no capacity above 2 V vs.Li+/Li .
+In conclusion, iron vanadates generally have smoothsloping voltage profiles and higher experimental capacitiesthan any of the other iron polyanion materials.
+They benefitfrom the electrochemical activity of V5+ in the polyanions,in contrast to phosphates, sulfates, molybdates and borates,in which P5+, S6+, Mo6+ and B3+ are inert.
+On the otherhand, Fe3+ may be expelled from the vanadates in the formof LiFeO2. For b-Cu3Fe4(VO4)6, and probably for NaCu-Fe2(VO4)3, copper is also segregated as the metal.
+Applicationof spectroscopic techniques such as 57Fe Mo¨ssbauerand EXAFS-XANES could give a better understanding ofthese unusual phenomena which seem to be unique to ironand/or copper vanadates.

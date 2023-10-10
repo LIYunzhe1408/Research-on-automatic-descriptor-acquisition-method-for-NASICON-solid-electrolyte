@@ -1,0 +1,13 @@
+NASICON-type materials with general formula AxM2(PO4)3 (A ¼ Li or Na, M ¼ Ti, V, and Fe) are promising candidates for Li- and Na-ion batteries due to their open three-dimensional framework structure.
+Here we report the electrochemical properties of hydrogen titanium phosphate sulfate, H0.4Ti2(PO4)2.4(SO4)0.6 (HTPS), a new mixed polyanion material with NASICON structure.
+Micron-sized HTPS aggregates with crystallite grain size of ca.23 nm are synthesized using a sol-gel synthesis in an acidic medium.
+The properties of the as-synthesized HTPS, ball-milled HTPS, and samples prepared as carbon composites using an in-situ glucose decomposition reaction are investigated.
+A capacity of 148 mAh g1 corresponding to insertion of 2 Liþ per formula unit is observed in the ball-milled HTPS over the potential window of 1.5e3.4 V vs.Li/Liþ.Lithiation at ca.2.8 and 2.5 V is determined to occur through filling of the M1 and M2 sites, respectively.
+Powder X-ray diffraction (PXRD), scanning electron microscopy (SEM) and X-ray photoelectron spectroscopy (XPS) are used characterize the HTPS before and after cycling.
+Evaluation of the HTPS in a Na-ion cell is also performed.
+A discharge capacity of 93 mAh g1 with sodiation at ca.2.9 and 2.2 V vs.Na/Naþ is observed.
+Herein we establish the properties of hydrogen titanium phosphate sulfate, H0.4Ti2(PO4)2.4(SO4)0.6 (HTPS), for electrochemical Liþ and Naþ insertion.
+Ball-milling and preparation with carbon composites using an in-situ reaction with glucose were also performed to decrease the particle size of the aggregates and increase the conductivity, respectively.
+A capacity of 148 mAh g1 was observed in the ball-milled HTPS in the Li half-cell and 103 mAh g1 in the Na half-cell.
+The insertion of cations occurred in two voltage ranges, at 2.83 and 2.53 V vs.Li/Liþ and at 2.87 and 2.20 vs.Na/Naþ, corresponding to the filling of the M1 and M2 sites, respectively.
+Future work on the synthesis of pre-lithiated and pre-sodiated materials, decreasing the particle size, and optimizing the carbon composites to improve the electronic conductivity of the composite would be advantageous for further development of HTPS as a cathode for Liand Na-ion batteries.

@@ -1,0 +1,71 @@
+A NASICON-type structure lithium ion conducting solid electrolyte with the composition of Li1.3Al0.3-Ti1.7(PO4)3 (LATP) has been successfully synthesized via a modified pechini process with ethylene glycolor glucose as dispersant.
+
+The influences of dispersant, calcination temperature for the precursor powders, sintering temperature and holding period for the electrolyte pellets on electrical properties of theLATP electrolytes were investigated.
+
+The produced LATP sample using glucose as dispersant has a higherelectrical conductivity than those samples with ethylene glycol as dispersant or no dispersant.
+
+Thehighest total conductivity of 6.0  104 S/cm at 303 K and the lowest activation energy of 0.31 eV wereobtained for the LATP electrolyte sample sintered in 900 C for 3 h and prepared using the precursorpowders calcined at 850 C for 5 h in air.
+
+Additionally, this electrolyte sample has a negligible electronicconductivity.
+
+These results imply that the LATP electrolytes obtained in this work can be considered ascandidates for solid state electrolytes applied in Lithium ion batteries.
+
+Nowadays, Lithium ion batteries (LIBS), as an advanced electricalenergy storage device, have been extensively applied in mobileelectronics such as cellular phones, digital cameras and laptopcomputers because of their high energy and power density andlong cycle life [1].
+
+However, due to their safety issues caused bypossible leakage and flammability of the organic liquids [2], theapplication of conventional LIBS in emerging technologiesincluding electric vehicles and smart grids is extremely limited.
+
+Toovercome the safety problem, lithium ion conducting solid stateelectrolyte based on inorganic materials, such as Li3N [3,4],perovskite-type Li3xLa2/3xTiO3 [5e8], garnet-type Li7La3Zr2O12[9e11], Li2S-based glass [12,13], NASICON-type LiM2(PO4)3 (M ¼ Ti,Ge, Hf, Zr, Sn) [14e20] etc, have been developed and investigated aspossible electrolyte candidates for all solid state LIBS.
+
+Among as-investigated solid state electrolytes, LiTi2(PO4)3 basedceramic electrolytes are considered as promising solid state electrolytes because of their high ionic conductivity at room temperature and excellent stability in ambient atmosphere.
+
+Therhombohedral LiTi2(PO4)3 crystal structure consists of TiO6 octahedra and PO4 tetrahedra, which are linked by shared oxygenatoms to form the three-dimensional network structure [Ti2(PO4)3]rigid framework that provides two different sites, labeled M1 andM2, for Lithium ion conduction [21].
+
+For pure LiTi2(PO4)3, M1 sitesare fully occupied by lithium ions while M2 are empty because thepotential of M1 is lower than that of M2.For Al doped Li1þxTi2xAlx(PO4)3 compounds [22], besides M1 sites, Li ions partiallyoccupy M3 sites near M2 sites in order to reduce the electrostaticrepulsion between Li ions.
+
+The partial substation of Ti by sometrivalent cations (Al3þ, Cr3þ, Sc3þ, Fe3þ, etc) can greatly enhanceionic conductivity of LiTi2(PO4)3 electrolyte, which has been reported by literature, and the maximum conductivity was obtainedin Li1.3M0.3Ti1.7(PO4)3 (M ¼ Al or Sc) [23] due to the electrolytedensification as well as the increase of lithium content in theelectrolyte.
+
+For a solid state electrolyte adoptable in practical solid stateLIBS, its ionic conductivity is generally required to reach above104 S/cm.
+
+Currently, various synthesis techniques have beenemployed to prepare LATP materials with the aim of obtaining highionic conductivity LATP electrolytes for all solid state LIBS.
+
+Thesepreparation methods include solid state reaction [24,25], meltquenching [26,27], co-precipitation [28,29] and sol-gel techniques[30e32].
+
+Among the above-mentioned methods, solid state reaction and melt-quenching methods can be applied to mass production but require high temperature calcination process to obtainthe desired LATP targets, resulting in high energy consumption andthe formation of harmful minor impurities in the final products.
+
+Conversely, the wet chemical synthesis method can make the rawmaterials react evenly at molecular level and allow us to producepolycrystalline LATP electrolyte materials at a lower temperature aswell as shorter sintering time.
+
+Therefore, wet chemical method hasbeen considered a promising technique for the production of LATPelectrolyte.
+
+However, the LATP materials synthesized by wet chemicalmethod are apt to form agglomeration.
+
+It is difficulty to obtain highdense LATP pellets due to the low sinterability of precursor powders.
+
+This can be avoided by the addition of dispersant, which hasbeen reported by some researchers.
+
+
+obtained the highdispersive LiNi0.5Mn1.5O4 materials using polyvinylpyrrolidone asdispersant and ethylene glycol as size-controlled additive via a solgel method.
+
+
+ synthesized CaCu3Ti4O12 (CCTO)ceramic powders via a sol-gel method with oleic acid (OA) as surfactant.
+
+ The obtained CCTO powders showed a high dispersibility.
+
+
+Results showed that the sample prepared withglucose was more homogeneous than that without glucose.
+
+To our knowledge, the pechini method has been employed tosynthesize the Nasicon-type solid electrolyte [36,37].
+
+However,there were no reports on effects of dispersants on electrochemicalproperties of solid electrolyte.
+
+In this paper, a modified pechiniprocess was adopted to synthesize LATP materials, and the effectsof dispersants on the performance of LATP electrolyte were investigated.
+
+Moreover, the optimum preparation process for high ionicconductivity LATP electrolyte was established.
+
+In this work, high ionic conductivity LATP electrolyte sampleswere successfully synthesized using a modified pechini methodand the effects of preparation conditions on electrical properties ofLATP samples were also discussed.
+
+The optimum preparation conditions for LATP samples were determined as the dispersant ofglucose, the calcination temperature for LATP precursor of 850 C,and the sintering temperature of 900 C with the sintering period of3 h.
+
+The sample obtained under the optimum conditions has thehighest electrical conductivity of 6.0  104 S/cm at 303 K and thelowest activation energy of 0.31 eV as well as a negligible electronicconductivity.
+
+Therefore, the superior properties of the LATP electrolyte sample obtained in this work can be adequate for solid statelithium ion batteries.
+

@@ -1,0 +1,9 @@
+NASICON structured Li1+xAlxTi2-x(PO4)3 (0.1x0.7) powders were prepared byhydrothermal synthesis method and the pressure applied to press the powders into pellets wasinvestigated in this study.
+The conductivity was measured by an impedance analyzer and themicrostructures were examined by SEM.
+The variation trend with Al amount was almostidentical for LATP pressed at high pressure and low pressure.
+Both the total conductivities ofLATP prepared at high pressures and low pressures peaked at x=0.6. The conductivities ofLATP pressed at high pressures were all higher than those at low pressures.
+The reason wasmainly attributed to the denser microstructures achieved at higher pressure.
+NASICON structured Li1+xAlxTi2-x(PO4)3 (0.1<=x<=0.7) powders were prepared by hydrothermalsynthesis method in this study and the pressure applied to press the powders into pellets wasinvestigated.
+The variation trend with Al amount was almost identical for LATP pressed at highpressure and low pressure.
+Both the total conductivities of LATP-H and LATP-L peaked at x=0.6. Theconductivities of LATP pressed at high pressures were all higher than those at low pressures.
+Thereason was mainly attributed to the denser microstructures achieved at higher pressure.

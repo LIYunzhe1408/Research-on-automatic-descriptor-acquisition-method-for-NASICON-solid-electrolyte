@@ -1,0 +1,60 @@
+A new type of sodium–nickel chloride batteries using NaSICON solid electrolytes (Na1+xZr2SixP3 − xO12) wassuccessfully investigated at much lower operation temperature of 195 °C compared with that of conventionalZebra batteries adapting same electrochemistry.
+
+The gradual phase transition in NaSICON from monoclinicto rhombohedral was perceived at 100–180 °C by high temperature XRD investigation.
+
+From symmetricalNa/NaSICON/Na cell test, the abrupt increase of cell resistance was observed at 177–180 °C, which revealsthe change of ionic conduction mechanism in NaSICON solid electrolytes due to phase transformation.
+
+The sintered NaSICON solid electrolytes exhibit full densified morphology but somewhat lower averageflexural strength of ~98 MPa compared with that reported for the β″-Alumina solid electrolytes commercially available.
+
+The low temperature electrochemical performances of sodium–nickel chloride batterieswere compared by using NaSICON and β″-Alumina solid electrolytes at 195 °C.
+
+The lower internal resistancesof the cell using NaSICON were confirmed by impedance spectroscopy and cyclic voltammetry tests.
+
+Alsoproto-type cell tests revealed the clear advantages of NaSICON cell (N-Cell) over β″-Alumina cell (β-Cell) atlow temperature performances below 200 °C due to high Na+ ionic conductivity.
+
+Sodium-metal halide (Zebra) batteries have been regarded as apromising electrical energy storage device for grid and renewable energy applications, along with transportation applications [1–5].
+
+The representative advantages of Zebra battery are the high power density of150 W/kg for electric vehicles [6] and the abundance of cheap elementssuch as Na, Al, Cl and Fe used in the battery.
+
+The Zebra battery uses amolten-sodium anode, metal chloride (NiCl2, FeCl2, etc.) cathode andsodium tetrachloroalluminate (NaAlCl4) as an ancillary molten electrolyte to facilitate the Na+ ion transfer between solid electrolyte andcathodes [7–9].
+
+Essentially β″-Alumina is used as a stable solid electrolyte to transfer Na+ ions between cathode and anode sufficiently at270–350 °C [1,4,10,11].
+
+Although this type of battery is known toshow promising electrochemical performances and durability to withstand at least 1000 cycles [12,13], further improvement is necessary toeliminate cathode degradation related to Ni particle growth and NiCl2dissolution caused by key parameters such as operation temperature,the composition of cathode and molten salt electrolytes, and batterycycling conditions [14–21].
+
+These days, there has been a great deal of interests in developinglow temperature (b200 °C) sodium rechargeable batteries withmerits of the manufacturing & maintenance costs and long life span[15,22].
+
+To be specific, low temperature operation enables the useof low-cost sealant (polymer) instead of high-cost glass sealant andTCB (thermal compression bonding) [23], which eventually leads tothe reduction of manufacturing and maintenance costs.
+
+ Furthermore, low temperature operation is quite beneficial from the viewpoint of better life cycle by suppressing degradation mechanisms.
+
+However, there are thought-provoking obstacles such as limited kinetics of solid state reactions in cathode and insufficient ionic conductivity of β″-Alumina solid electrolytes [17] at lower operationtemperature.
+
+Lower temperature operation also causes poor liquidsodium wetting on β″-Alumina [24].
+
+Recently, Pacific Northwest National Laboratory (PNNL) has reported a promising performance ofthe Zebra cells at 175 °C by applying reinforced thin β″-Alumina/YSZ disks with minimized ohmic resistances [15].
+
+In parallel, anotherencouraging result was reported by Ceramatec Inc which proves thepossibility of low temperature sodium rechargeable batteries usingNa+ Super Ionic Conductor (NaSICON, Na1+xZr2SixP3 − xO12) as anew solid electrolyte [25].
+
+Although NaSICON materials have beenreported as a promising Na+ ionic conductor with high ionic conductivity of 0.15–0.2 S/cm−1 at 200 °C which are comparable to that ofβ″-Alumina at 260 °C [1], there have been no publications to reportthe performances of the Zebra batteries using NaSICON solid electrolytes at below 200 °C.
+
+In this work, we investigated the key material characteristics ofNaSICON to be used as an alternative solid electrolyte for low temperature sodium–nickel chloride batteries.
+
+Furthermore, the electrochemical performance of the battery cells using NaSICON and β″-Aluminasolid electrolytes were compared at 195 °C to verify the uniquenessand reliability of NaSICON batteries at lower temperature.
+
+From thiscomparison study, the new type of sodium–nickel chloride batteriesusing NaSICON solid electrolytes was suggested as a promising batterysystem with the advantage of low temperature operation.
+
+The sintered NaSICON solid electrolytes exhibit full densifiedmorphology but somewhat lower average flexural strength of~98 MPa, which is lower than the commercially available β″-Aluminamanufactured by Ionotec.
+
+From in situ XRD study, NaSICON solid electrolytes were revealed to experience gradual phase transformationfrom monoclinic (C2/c space group) to rhombohedral (R3c spacegroup) at 100–180 °C.
+
+Interestingly, it has been observed that the cellresistance abruptly increases at 180 °C compared with that at 177 °C,which clarifies the sudden change of ionic conductivity mechanismsin NaSICON near at specific transition temperature (177–180 °C).
+
+Low temperature sodium–nickel chloride batteries were successfully evaluated by using NaSICON solid electrolyte at 195 °C.
+
+The highNa+ ionic conductivity of NaSICON was confirmed by the impedancespectroscopy study for the 0.17 Ah cells using NaSICON and β″-Alumina.
+
+From CV test, the favorable Ni/Ni2+ reactions were confirmed for thecell using NaSICON by the sharp rise in current at the same scan rate(5 mV/s) compared with the cell using β″-Alumina.
+
+The full celltests with 9.6 Ah have revealed the clear advantages of NaSICONover β″-Alumina at low temperature operation below 200 °C due tohigh Na+ ionic conductivity.
+

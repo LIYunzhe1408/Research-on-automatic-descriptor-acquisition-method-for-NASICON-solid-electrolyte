@@ -1,0 +1,7 @@
+A high-safety and low-cost route is important in the development of sodium-ionbatteries, especially for large-scale stationary battery systems.
+An aqueoussodium-ion battery is demonstrated using a single NASICON-structuredNa2VTi(PO4)3 material with the redox couples of V4+/V3+ and Ti4+/Ti3+ workingon the cathode and anode, respectively.
+The symmetric full cell fabricated basedon the bi-functional electrode material exhibits a well-defined voltage plateauat ~1.2 V and an impressive cycling stability with capacity retention of 70%exceeding 1,000 cycles at 10C (1C = 62 mA·g–1).
+This study provides a feasiblestrategy for obtaining high-safety and low-cost rechargeable batteries using asingle active material in aqueous media.
+In conclusion, a symmetric aqueous NIB is fabricatedusing a bi-functional electrode material, Na2VTi(PO4)3.The full cell exhibits an energy density of ~30 Wh·kg–1as calculated based on the mass of the cathode andthe anode at 1C, and exhibits 70% capacity retentionover 1,000 cycles at a high charge/discharge rate of10C.
+These results confirm our strategy that high-safety,long-life, and low-cost stationary battery systemscan be obtained using a single active material in anaqueous electrolyte.
+This study is expected to inspirethe battery research community to explore novel bifunctionalelectrode materials for large-scale stationaryenergy storage applications in the near future.

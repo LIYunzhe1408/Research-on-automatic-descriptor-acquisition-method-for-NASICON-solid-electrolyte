@@ -1,0 +1,23 @@
+Sodium magnesium iron sulfate rod-likes were synthesized using the tailing by the precipitation method. The density of the tailing sample was determined as 3.45 g/cm3 and 85% of the particle sizes are b300 μm. In the course of synthesis, the tailing dissolved in the sulfuric acid. The solution was participated using sodium hydroxide. The precipitate was calcinated at 500 °C in the furnace without special atmosphere. X-ray diffraction (XRD) and scanning electron microscopy (SEM) were employed to characterize the prepared product. XRD results showed that sodium magnesium iron sulfate is the desired material. Also, the sample contains a small amount of sodium sulfate. The SEM image proved that the morphology of the sample is rodlike. It was observed that the diameter of the rod-likes was about 100–250 nm.
+
+NASICON (Na+ Super Ionic Conductor) is known to show high ionic conductivity and relatively high chemical stability. This material has been proposed for use as a solid electrolyte in solid-state electrochemical devices such as gas sensors, ion sensors and Na–S batteries [1–3]. In order to decrease electrical resistance, it is better to fabricate these materials as a nanostructure. Our interest is in the fabrication of inorganic ceramic that are thin, dense, contain extremely nano-crystalline grains, and mainly are ionic conductors. Nano-crystalline materials include a superior number of grain boundaries, and thus it is expected that grain boundaries will dominate the material's behavior [4].
+
+It is well known that NASICON has a three-dimensional framework structure and possesses a high Na+ ionic conductivity [5]. The general formula of NASICON could be written as NaxM′(II)xM′′(III)2−X(SO4)3−Y (SeO4)Y (M´=Mg, Zn, Cd, and Mn; M′′=Al, Cr, Fe, In, and Yb; 0≤x≤1.75; 0≤y≤3).
+
+The complicated electronic and crystallographic structures of NASICON, as well as a doping in cationic and anionic sublattices give many possibilities of modiﬁcation of its electrical properties. The doping by transition metals such as Fe, Nb, Ti, V or Cr improves ionic conductivity and generates electronic components. It was supposed that the introduction of Fe2+ and Fe3+ into a lattice, results in a mixed conductivity, thus making possible to use it as the electrode material [6–8].
+
+In this work, the tailing for the production of NaMgFe(SO4)3 rodlikes has been used. We produced NaMgFe(SO4)3 rod-likes by the precipitation method for the ﬁrst time.
+
+First, 20 g tailing sample is dissolved in sulfuric acid. The solution is put on the hot plate and is stirred at 50 °C for 1 h. Then the solution is ﬁltrated by 0.2 μ ﬁlter. The ﬁltrated solution is participated using sodium hydroxide. Sodium hydroxide is added to the solution slowly. When the pH reaches 1.4, a white precipitate appears. The white precipitate is washed with distilled water and is dried at 100 °C. Finally, the sample is calcinated at 500 °C in the furnace without special atmosphere. The sample is characterized by means of scanning electron microscopy (SEM, Philips) and X-ray diffraction (XRD) with Cu Kα radiation, wavelength λ =1.54178 Å(XPERT: model 95).
+
+The density of the tailing sample was determined as 3.45 g/cm3 and 85% of the particle sizes are b300 μm. Table 1 shows the chemical analysis of the two tailing samples.
+
+The XRD analysis of the sample indicates hematite (Fe2O3) and
+
+quartz (SiO2) as the main mineral phases.
+
+The crystal structure of the synthesized sample has been investigated by means of XRD with Cu Kα radiation, wavelength l=1.54178 Å (XPERT: model95) and measurements were performed using a θ–2θ goniometer. Fig. 1 shows the XRD pattern of NaMgFe(SO4)3 rod-likes. All the diffraction peaks of the sample ((JCPDS card No. 82–2351) show that sodium magnesium iron sulfate is the desired material. This material is one group of NAISON family which has NaxM′(II)XM′′(III)2−X(SO4)3−Y(SeO4)Y formula. In this formula, X equals one and Y equals zero. XRD peaks show that the sample contains a small amount of sodium sulfate.
+
+The general morphology of the sample is shown in Fig. 2. It is observed that the diameter of the rod-likes is about 250 nm and the morphology of the samples is rectangular and rod-like.
+
+We produced sodium magnesium iron sulfate rod-likes using the tailing by the precipitation method. The SEM image showed that the morphology of NaMgFe(SO4)3 is rod-like.

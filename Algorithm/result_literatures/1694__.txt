@@ -1,0 +1,122 @@
+Effect the morphology of the surface of the working electrode (PbS) exerts on the sensitivity of alow-temperature potentiometric hydrogen sulfide sensor is studied.
+The sensor, which is based on electrochemicalcell NaxWO3/NASICON/PbS, may be used for fast selective detection of hydrogen sulfide in air in naturalconditions.
+It is demonstrated that the sensors with PbS that are deposited out of solution have a faster responsethan the pressed-to ones.
+The dependence of EMF on the hydrogen sulfide concentration for the former is linearin semilogarithmic coordinates.
+Thus difference is explained by the microstructure of the lead sulfide layer.
+It is shown that the lead sulfide interaction with hydrogen sulfide involves a reversible partial reduction of sulfurand lead at the surface.
+The species that form in so doing contain sulfur atoms in lower oxidation degrees .
+A mechanism of the sensor operation is proposed on the basis of data yielded byexperiment and quantum-chemical simulation.
+The mechanism includes reversible transport of hydrogen fromsulfur atoms to oxygen atoms.
+The development of the ionics of solids during thelast three decades makes it possible to address the solutionof a fundamental problem in this field, i.e.to establishthe mechanism governing electrode reactions at triple-phase boundaries (solid electrolyte/solid electrode/gas) with the aim of search for electrochemicalsystems that would be sensitive to variations in thecomposition of a gas medium.
+The urgency of suchinvestigations is defined by the need to develop highlyselective gas sensors.
+The need to develop sensors fordetermining hydrogen sulfide concentration is due tothe high chemical activity and toxiousness of this gas.
+The major areas of application of such sensors could bein the oil and gas and mining industries (monitoring theextraction and processing of oil, gas, and iron ores) aswell as the reprocessing of household waste.
+Much attention has been paid of late to studyingpossibilities of application in electrochemical sensorsof oxygen-conductive electrolytes in contact with sulfide-or oxide-sensitive (working) electrodes aswell as electrolytes conducting by ions of sodium , hydrogen , and silver  with electrodes ofnoble metals for the production of potentiometric ionicgas sensors that would permit selective detection ofpractically any gas or vapor of volatile compounds.
+Theresults of such investigations served as the basis for thecreation of novel solid-state electrochemical sensors onthe basis of a sodium-conductive electrolyte, in whichchalcogenides of various metals were used in thecapacity of the working electrode.
+Such sensorsoperate in natural conditions and possess a highsensitivity and selectivity toward hydrogen sulfide.
+This work is devoted to studying the mechanism ofprocesses that proceed on the surface of the workingelectrode and at the interface between the working electrodeand a solid electrolyte in solid-state electrochemicalsensors manufactured on the basis of sodium-conductivesolid electrolytes in which lead sulfide is usedin the role of the working electrode and a sodium–tungstenoxide bronze serves as the reference electrode.
+Solid electrolyte NASICON was synthesized with theaid of the procedure that was described in.
+Usedwere two techniques of deposition of WE.
+In the firsttechnique, lead sulfide was deposited onto the NASICONsurface out of solutions of thiourea and sodiumplumbite  andin the second—preliminarily synthesized and dried uplead sulfide was pressed to the surface of a solid electrolyte(further on—“pressed-to WE”).
+The arrangement of the gas system and the measuringcell is presented in Fig.1. 
+The electrochemical cellwas placed into a ventilated vessel, the humidity inwhich was maintained constant with the aid of a hydrostatics—a saturated solution of sodium bichromate, through which all the gases to be used werepassed.
+All the measurements were conducted at roomtemperature.
+To exclude the passing ofcurrents in the system, the cell was connected to apotentiostat with an input resistance of1011ohm.
+Concentrations of gases werespecified by the ratio of flows of pure air, an N2+H2Smixture, and a gas-admixture with the aid of highlyaccurate regulators of gas flow Bronkhost El-flow.
+Thegas mixtures that were obtained in so doing had thehydrogen sulfide content from 1 to 300 ppm and theadmixture content of up to 10 vol %.
+To investigate the reversibility of processes flowingin hydrogen sulfide sensors at the PbS/Na+-SE interface,there were conducted impedance measurementson symmetrical electrochemical cells PbS/NASICON/PbS, (2)which were placed in a hermetically sealed vessel witha specified composition of the gas phase.
+The investigationconcerned with the dependences of the overallresistance of these cells on the frequency of an alternatingcurrent in an atmosphere of air and in a mixture ofair with 300 ppm of hydrogen sulfide.
+Measurementswere conducted with the aid of impedance meter ElinsZ-350m.
+The microstructure of the deposited and pressed-tolead sulfide was investigated with the aid of scanningelectron microscope SUPRA 50 VP (Germany) at magnification50 K (×50000) and the x-ray photoelectronspectra were obtained with the aid of synchrotron radiationof the Berlin Center for Synchrotron Research BESSY II.
+All works were performed in a Russian–German laboratory (RGBL).
+It should be noted that,due to a low cross-section of photoionization of level S2p, reliable identification of various states in sulfurspectra is possible only with the aid of synchrotronradiation.
+The cells were placed into a spectrometer, where therecording of surface spectra was performed with the aidof a hemispherical analyzer with a constant transmittanceenergy of 2.5 eV (lines Pb5dat the exciting-radiationenergy equal to 125 eV) and 10 eV (S2pat theenergy of 205 eV).
+Thereafter the cell was kept inhydrogen sulfide for nearly 15 min at a pressure of8×10–3Pa.
+The spectra recording after the exposure inhydrogen sulfide was conducted in the same conditionsas before the exposure.
+In order to simulate the actionof the sensor, specimens were then kept in oxygen(30 min at a pressure of 50 Pa), after which again spectrawere recorded.
+Altogether there were conducted twocycles of successive exposition in H2S–O2. 
+A mathematicaltreatment of obtained spectra was performedwith use made of the Gauss–Lorentz convolution integral while simultaneously varying the backgroundfunction that was computed with the Shirley method.
+The effect of the technique used for applying leadsulfide (working electrode) on the properties of sensorswas investigated by the method of measuring the relaxationof potentials of cells (1) after a “chemical pulse,”which consisted of a jumpwise alteration of the hydrogensulfide concentration from 0 to values in the intervalextending from 1 to 300 ppm.
+Experiments demonstrated that the dependence of EMF on the hydrogen sulfide concentration is differentin sensors with different techniques used for the lead sulfide application (Fig.2).
+The concentration dependenceof the EMF for the pressed-to WE has an S-likecharacter, whereas the concentration dependence of theEMF for sensors with the deposited WE is linear whenplotted in semilogarithmic coordinates, but this dependencehas a non-Nernstian character (its slope amountsto ~73 mV per decade).
+As was demonstrated in ,such a behavior may be connected with a quasi-equilibriumnature of the occurring processes.
+The relaxation rate increases with the hydrogen sulfideconcentration.
+We calculated initial rates ofrelaxation (from the slope of relaxation curves) as wellas the average values of the relaxation rate (1/τ90, whereτ90is the time it takes to reach the 90% level of a fullresponse) for various concentrations of hydrogen sulfide.
+Dependences of the initial rate of relaxation on thehydrogen sulfide concentration for cells with workingelectrodes of both pressed-to lead sulfide and lead sulfidedeposited out of solution exhibit a linear character(Fig.4).
+Consequently, cells with both types of workingelectrodes may be used for assaying the hydrogen sulfideconcentration within a few first seconds elapsedafter its change.
+The slope of the straight line obtainedfor the deposited working electrodes is substantiallygreater than that for pressed-to WE and that is why theaccuracy of the determination of the hydrogen sulfideconcentration in the former case is considerablygreater.
+To try and understand differences in behavior,it is useful to have data concerning the microstructureof the lead sulfide layers.
+As lead sulfide is a pliableenough material, in the case of pressed-to working electrodes,the porosity and area of the surface of the workingelectrode are substantially smaller.
+Besides, in thecase of application of lead sulfide layers, crystallites have a clearly cubic (100) faceting (Fig.5a).
+The pressingis accompanied by severe deformation and completeloss of the faceting (Fig.5b).
+The integral rate ofthe surface processes depends on both the magnitude ofthe surface area and the degree of deformation of crystallites.
+Good triple-phase contact H2S/PbS/NASICONis realized on the deposited lead sulfide layers due totheir high porosity.
+Thus, the difference in the behaviorof working electrodes applied by different techniques isdefined probably by the kinetics of the surface processesthat are sensitive to the microstructure of specimens.
+To investigate the sensor activity mechanism of theobtained cells and determine the potential-determiningprocesses, we applied a complex approach, whichincluded electrochemical and spectroscopic methods ofanalysis as well as quantum-chemical simulation.
+Asduring the action of hydrogen sulfide in the first placethere occurs adsorption and transport of species on the working-electrode surface, major attention was focusedon the investigation of processes that proceed on thesurface of lead sulfide and the PbS/NASICON interface.
+Experimental results were interpreted with usemade of the results of theoretical calculations.
+To investigate the reversibility of processes proceedingat the PbS/NASICON interface in the hydrogensulfide sensors, impedance investigations were conducted.
+As follows from the impedance spectraobtained for cells (2) and presented in Fig.6, followingthe placement of a cell into an atmosphere containinghydrogen sulfide, there occurs an increase inthe cell’s resistance; however, upon the removal ofhydrogen sulfide, values of resistances return to theirinitial values, which testifies that the processes proceedingat the PbS/NASICON interface in the presenceof hydrogen sulfide are reversible.
+Besides, an investigationof the influence exerted by impurities on theworkability of the hydrogen sulfide sensor showed thatthe presence of such gases as mercaptans and carbonoxides does not influence its sensor characteristics(Fig.7), which testifies to a high selectivity of the sensorunder investigation.
+An analysis of photoemission spectra for the PbSsurface allowed us to determine the following regularities.
+The Pb 5d spectra testify that the lead atoms at thesurface are completely oxidized from the very beginning,for a mathematical treatment allowed us to isolatetwo components, one of which refers to a bulk phase oflead sulfide and the other, which is situated at a highbond energy, testifies to the formation of the Pb–Obond.
+The action of hydrogen sulfide causes lead toundergo reduction, and the share of the oxidized componentdrops.
+A subsequent specimen exposure in oxygenleads to an increase in the intensity of the oxidizedcomponent.
+Similar results were obtained in the courseof a second cycle of successive action H2S O2.
+An analysis of the S 2p spectra gave the results thatare presented in Fig.8. The spectrum for the surface ofWE from the very beginning exhibits four doublets  with a spin-orbital splitting of 1.2 eV.
+The S 2p3/2 line,which corresponds to the bulk phase of lead, is situatedat 160.6 ± 0.1 eV (component I).
+Also present in thespectrum are components with the following values ofthe chemical shift relative to component I: 5.6 ± 0.1 eV(component IV), 7.2 ± 0.1 eV (component V), and 8.3 ±0.1 eV (component VI).
+According to the literature data, component IV refers to sulfo-containing speciesin which sulfur atoms have the oxidation degreeequal to 4+ (presumably, species S ), whereas componentV refers to species of the type of sulfate ions(S ).
+The nature of component VI remains a mystery;presumably, it may correspond to sulfur speciescontaining several sulfur atoms (for example, S2 ).
+Thus, prior to the interaction with hydrogen sulfide, thesurface of crystallites of lead sulfide is completely oxidizedand sulfur atoms are present largely in the formof species S .
+An exposition in hydrogen sulfide (Fig.8b) leads tothe emergence of at least two additional components onthe side of a smaller energy of the bond with the chemicalshifts relative to component I equal to 1.1 ± 0.1 eV(component II) and 2.7 ± 0.1 eV (component III).
+According to the literature data , these componentsarise at the expense of the formation of oligo sulfidesof lead of the type Pb–(S–S)n at the surface, inwhich non-terminal (component II) and terminal (componentIII) sulfur atoms are characterized by differentsurround and, as a consequence, by different magnitudeof the chemical shift relative to lead sulfide.
+The shareof component V, which corresponds to S , substantiallydecreases, whereas the fraction of component I,which corresponds to the Pb–S bond, increases.
+Thus,the process of exposure in hydrogen sulfide leads topartial reduction of the surface with the formation ofO32–O42–O72–O42–O42–various lower oxidation states of sulfur atoms.
+Subsequentexposure of the cell in oxygen results in thereverse process.
+Specifically, the surface oxidizes practicallyto the state it was in before the exposure inhydrogen sulfide (Fig.8c).
+In so doing, components I,II, and III, which correspond to lower sulfur oxidationstate just vanish.
+Curiously, components IV and V arepresent in all the spectra studied, with their share in thespectra hardly varying.
+Who knows, maybe these componentscorrespond to some irreversibly oxidized stateof sulfur atoms at the lead sulfide surface or correspondto some intermediate states.
+The second cycle of exposure of cells in hydrogensulfide (Fig.8d) and oxygen (Fig.8e) produced spectrathat contained the same components that did the spectrafor the first exposition cycle.
+However, there are somedifferences in the intensities of these components.
+Thesecond exposure in hydrogen sulfide leads, for example,to a change in the ratio between terminal and nonterminalsulfur atoms in oligo sulfide.
+Specifically, thefraction of the non-terminal sulfur atoms increases, thustestifying that the number n in the formula Pb–(S–S)nincreases.
+Taking the data we obtained as a whole, we deem itpossible to declare that both the sulfur atoms and thelead atoms experience partial reversible reductionunder the action of hydrogen sulfide.
+Successive interactionwith oxygen allows the lead sulfide surface toreturn into an oxidized state.
+Independent data concerning a possible mechanismof processes that proceed at the lead sulfide surfacewere obtained with the aid of quantum-chemical simulationof the lead sulfide surface with hydrogen sulfide.
+The calculations were conducted with use made of theprogram package Gaussian 98  in the framework ofthe hybrid functional Becke-3 combined with the Lee–Yang–Parr correlation functional (B3LYP), with usemade of the LanL2DZ* basis set and pseudo potentialLanL2 for sulfur and lead atoms and the 6-31G** basisset, for hydrogen and oxygen atoms.
+Lead sulfide wassimulated with the aid of an eight-atom two-layer cluster(PbS)4. The geometry of all structures studied wasfully optimized.
+At points that corresponded to energyminimums and transition states, the vibration frequencieswere analyzed in a harmonic approximation.
+Theenergy of every structure was computed with allowancemade for the energy of zero vibrations.
+The (PbS)4 cluster, which simulated the PbS surface,is a practically ideal cube (Fig.9).
+The Pb–S distanceis equal to 0.272 nm (structure 1).
+This values is0.025 nm short of the experimental value equal to0.297 nm for single-crystal lead sulfide .
+That clustersthat small in size can simulate reactions at the leadsulfide surface we have demonstrated recently in ,when examining an interaction with an oxygen molecule.
+The interaction of a pure lead sulfide surface withoxygen gives a small energy gain (structure 2) and doesnot lead to the formation of the Pb–S bonds, i.e.onlyphysical adsorption of the hydrogen sulfide moleculeoccurs.
+The energy gain that occurs during the adsorptionof hydrogen sulfide on the oxidized lead sulfidesurface (structure 3, whose geometry and a thoroughdescription are given in) is substantially higherthan that on the pure lead sulfide surface.
+The first process to occur as a result of the interactionbetween hydrogen sulfide and structure 3 is thephysical adsorption of the hydrogen sulfide molecule(reaction 3 4).
+Such adsorption is an energeticallyadvantageous process, specifically, by 20.06 kJ mol–1relative to the sum of energies of structure 3 and ahydrogen sulfide molecule removed to infinity.
+Thereafter,the process of the proton transfer from the sulfuratom onto the oxygen atom may occur in the structurethus formed.
+The energy barrier for such a reaction(reaction 4 6) amounts to a mere 6.27 kJ mol–1. 
+Thetransition occurs through transitional state 5. 
+In structure6 that forms in so doing, the sulfur atom out of ahydrogen sulfide molecule kind of adds to the PbSstructure, positioning itself directly above a lead atom(corresponding Pb–S distance is equal to 0.276 nm).
+Reaction 4 6 is endothermic by 4.18 kJ mol–1. Thetransport of a single proton is a reversible reaction (barrierfor the back transfer 6 4 amounts to a mere2.09 kJ mol–1).
+The transport of another proton to anoxygen atom with the formation of a water moleculerequires that a rather high energy barrier (93.21 kJ mol–1for reaction 6 7) be overcome.
+The probability ofthis process occurring at ambient temperature is quitesmall.
+Thus, according to quantum-chemical simulation,the adsorption of a hydrogen sulfide molecule on theoxidized surface of lead sulfide may involve processesof proton transfer and the surface reduction may occurin so doing at the expense of the above-described“embedding” of a sulfur atom out of the hydrogen sulfidemolecule into the lead sulfide structure with theformation of the Pb–S bonds.
+The calculations used arather simplistic model, which included a small clusterand one molecule each of oxygen and hydrogen sulfide.
+Consequently, the obtained simulation results fail toexplain all the components that occur in the photoemissionspectra.
+However, these results may come handy inconstructing a simple model for processes that proceedat the working-electrode surface and make the cell’selectrochemical potential alter.
+A novel low-temperature superionic sensor ofhydrogen sulfide with the composition NaxWO3/NÄSICON/PbS was manufactured.
+Electrochemical investigationsshowed that the said sensor may be used fordetecting hydrogen sulfide in air in natural conditions.
+The sensor possesses high sensitivity and selectivitywith respect to hydrogen sulfide.
+It was discovered that the sensor’s characteristicsdepend on the technique used for applying the workingelectrode (PbS) on the surface of a sodium-conductivesolid electrolyte.
+Sensors with electrodes deposited outof solution have a shorter response time than do sensorswith “pressed-to” electrodes.
+Besides, the dependenceof EMF on the hydrogen sulfide concentration is linearin semilogarithmic coordinates only in the case of sensorswith the deposited working electrodes.
+In the caseof the pressed-to working electrodes, the concentrationdependence of EMF is S-shaped.
+According to data ofscanning electron microscopy, the high sensor characteristicsin the case of sensors with the deposited workingelectrodes may be connected with the presence ofwell oriented crystallites of faceting.
+An investigation of processes that proceed at thelead sulfide surface with the aid of x-ray photoelectronspectroscopy showed the interaction of the surface,which consists mostly of lead sulfide and which hadbeen oxidized from the very beginning, with hydrogensulfide results in the reversible reduction of the surfaceto a sulfide, polysulfides, and a sulfate.
+Successiveexposure of the surface in oxygen leads to the return ofthe surface to the oxidized state.
+The results of quantum-chemical calculations in the framework of a clustermodel showed that reversible migration of the protonmay occur in the course of the interaction between theoxidized lead sulfide surface and a hydrogen sulfidemolecule.
+A possible mechanism for the action of sensorswas proposed on the basis of the obtained data.

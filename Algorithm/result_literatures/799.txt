@@ -1,0 +1,14 @@
+Replacing organic liquid electrolyte with inorganic solid electrolytes (SE) can potentially address the inherent safety problems in conventional rechargeable batteries.
+However, solid-state batteries (SSBs) have been plagued by the relatively low ionic conductivity of SEs and large charge-transfer resistance between electrode and SE.
+Here, a new design strategy is reported for improving the ionic conductivity of SE by self-forming a composite material.
+An optimized Na+ ion conducting composite electrolyte derived from the Na1+nZr2SinP3−nO12 NASICON (Na Super Ionic Conductor) structure is successfully synthesized, yielding ultrahigh ionic conductivity of 3.4 mS cm−1 at 25 °C and 14 mS cm−1 at 80 °C.
+On the other hand, in order to enhance the charge-transfer rate at the electrode/electrolyte interface, an interface modification strategy is demonstrated by utilization of a small amount of nonflammable and nonvolatile ionic liquid (IL) at the cathode side in SSBs.
+The IL acts as a wetting agent, enabling a favorable interface kinetic in SSBs.
+The Na3V2(PO4)3/IL/SE/Na SSB exhibits excellent cycle performance and rate capability.
+A specific capacity of ≈90 mA h g−1 is maintained after 10 000 cycles without capacity decay under 10 C rate at room temperature.
+This provides a new perspective to design fast ion conductors and fabricate long life SSBs.
+In summary, we obtained a NASICON-based composite solid electrolyte with an ultrahigh ionic conductivity of 3.4 mS cm−1 at 25 °C and 14 mS cm−1 at 80 °C.
+The composite electrolyte was self-formed by introducing La3+ ions in the NASICON system, which generates several new phases of Na3La(PO4)2, La2O3, and LaPO4. The co-existence of these phases can not only modify the Na+ ion concentration of the NASICON main phase but also increase the relative density of the ceramics and adjust the chemical composition at the grain boundary, leading to an increase in both the bulk and the grain boundary conductivity.
+This provides a new mechanism for generating solid electrolytes with super ionic conductivity.
+We also demonstrated an interface modification strategy by adding a small amount of nonflammable and nonvolatile ionic liquid between the cathode materials and solid electrolyte, which can effectively improve the electrochemical performance of solid-state batteries in terms of Coulumbic efficiency, rate capability, and cycle stability even at room temperature, without compromising the safety of all-solid-state batteries.
+This strategy is anticipated to be extended to other solid-state battery systems.

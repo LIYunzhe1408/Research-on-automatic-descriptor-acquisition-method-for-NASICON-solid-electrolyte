@@ -1,0 +1,561 @@
+During Li-insertion in some complex transition metal molybdates with a NASICON structure, 
+
+which  serve  as  cathodes  in  Li-ion  rechargeable  cells,  a  formation  of  a  cubic  rock-salt-type  phase was often detected between 1 and 2 V vs. Li+/Li. Detailed information about elemental 
+
+composition and stability of this compound was missing and suggestions were made toward a 
+
+solid solution composed of lithium oxide and two-valence transition metal oxide MO with M 
+
+a 3d element. In the present work, we showed that Li2MoO4 with a phenacite-type structure 
+
+without  any  additional  transition  metal  can  reversibly  accommodate  Li-ions  at  room 
+
+temperature with the formation of the NaCl-type compound. Reversible Li-incorporation into 
+
+the Li2MoO4 structure is accompanied by a reduction of Mo ions and changes in their oxygen 
+
+coordination.  Li-ions  are  shifted  from  a  tetrahedral  to  an  octahedral  site,  resulting  in  the 
+
+formation of a cubic (Li3Mo)O4 framework with a random distribution of Li and Mo on one 
+
+site. This mixed occupancy is remarkable because of significant charge and size differences  between  Li+  and  Mo5+.  The  novel  compound  shows  Li-deficiency  at  least  up  to  xLi  =  0.2,  which  can  be deduced from  charge flow  in  the  galvanostatic  cycling of the  electrochemical  cells  with  a  (Li3Mo)O4  cathode  between  1.5  and  2.75  V  vs.  Li+/Li.  An  increase  in  the  cell  potential above 3 V leads to the oxidation of (Li3Mo)O4 back to Li2MoO4 with phenacite-type 
+
+structure. The reaction of (Li3Mo)O4 to Li2MoO4 also occurs upon a short exposure to air.  
+
+Complex polyanionic molybdates of the general formula Li3M(MoO4)3 or Li2M2(MoO4)3 with 
+
+a 3d transition metal M can be considered as intercalation materials for storage of Li-ions in 
+
+stationary  battery  devices  due  to  the  presence  of  large  channels  in  the  structure,  which  are 
+
+sufficient  for  significant  Li-ion  mobility,  and  due  to  the  ability  of  a  3d  metal  to  change  its  oxidation  state  while  keeping  the  oxygen  coordination  nearly  intact.1  The  NASICON-like 
+
+structure  of  these  molybdates  is  built  on  a  three-dimensional  framework  of  (M,Li)O6-
+
+octahedra  sharing  corners  with  MoO4-tetrahedra.  The  electrochemical  behaviour  of  such 
+
+quaternary molybdenum oxides with 3d transition metals as cathode materials was studied in  numerous  works.1-6  The  oxidation  and  reduction  processes  during  lithium  extraction  and 
+
+insertion are associated with a change in the oxidation state of the 3d transition metal, either  alone  or  with  molybdenum  simultaneously.6  In  oxide  compounds,  molybdenum  typically 
+
+features oxidation states between 3+ and 6+ and adopts different oxygen surroundings such as 
+
+tetrahedra, tetragonal pyramids and octahedra.  
+
+Detailed  structural  studies  of  deep  Li-insertion  into  ternary  molybdenum  oxides  with  3d 
+
+transition metals often registered an unknown phase with a cubic rock-salt type structure with  a lattice parameter of about 4.12 Å.3, 6-9 For example, such a compound was found during Li-
+
+insertion  into  MnMoO4  (Ref.  7)  and  ZnMoO4  (Ref.  8).  A  formation  of  a  defect  LixZn1-xO  rock-salt  structure  was  proposed  by  Leyzerovich  et  al.8  A  cubic  NaCl-type  compound  was 
+
+also  detected  by  in  situ  synchrotron  measurements  during  Li-intercalation  into  isostructural 
+
+Li3V(MoO4)3 (Ref. 6), or Li3+xFe(MoO4)3 with x > 1 (Ref. 4) materials. A compound with a 
+
+similar  cubic  lattice  parameter  was  also  observed  after  chemical  lithiation  of  Fe2(MoO4)3,  where a formation of iron oxide with a small amount of Li was proposed.9  
+
+Up  to  now,  the  compositions  of  these  cubic  compounds,  conditions  of  their  formation  and 
+
+their  electrochemical  activity  remained  unclear.  The  phases  could  consist  of  i)  a  3d  metal 
+
+oxide  MO  with  a  small  amount  of  lithium,  or  ii)  a  mixed  oxide  containing  lithium, 
+
+molybdenum and a 3d element, or iii) a lithium molybdenum oxide. The latter case would be 
+
+most interesting because of the large difference in the ionic radii of Li and Mo cations (for  example,  0.76  Å  of  Li+  and  0.59  Å  of  Mo6+  for  octahedral  oxygen  coordination10).  Several 
+
+Li,Mo-containing  oxides  with  structures  related  to  the  NaCl-type  structure  are  known.  However,  they  all  show  a  cation  ordering.  For  example,  Li4Mo5O17  with  Mo6+  forms  an  ordered triclinic rock-salt-type structure after accommodation of 8 Li atoms per formula unit.  11 The cation ordering in the structure results from very different ionic radii of the cations.11  Other  lithium  molybdates,  LiMoO2  (Ref.  12)  and  Li2MoO3  (Ref.  13)  with  Mo3+  and  Mo4+,  respectively,  adopt  the  α-NaFeO2-type  structure  with  a  cubic  close-packed  arrangement  of 
+
+oxygen  anions  and  alternating  layers  of  LiO6 and  MoO6-octahedra  (LiMoO2)  or  LiO6 and 
+
+(Li,Mo)O6-octahedra  (Li2MoO3),  which  can  also  be  seen  as  a  NaCl-derivative.  Only  Li-
+
+extraction without drastic structural changes is possible for these compounds since the pristine 
+
+crystal structures exhibit no voids suitable for Li-insertion. Recently, carbon-coated Li2MoO4  nanotubes  were  studied  as  a  potential  anode  material  for  Li-ion  batteries.14  The  authors 
+
+reported  that  the  structure  of  Li2MoO4  irreversibly  transforms  into  Li0.98MoO2  and  metallic  Mo upon deep Li+-insertion during cell discharge down to 0.38 V vs. Li+/Li, and only metallic  Mo and Li2O were seen after cell discharge down to 0.1 V vs. Li+/Li.14     
+
+A hypothesis about the formation of rock-salt-type compounds was discussed a short time ago  by  Pralong:15  they  can  be  obtained  after  Li-insertion  into  three-dimensional  (3D),  two-
+
+dimensional (2D) and one-dimensional (1D) hosts, provided that the anionic framework is a 
+
+cubic  close-packed  structure,  and  transition-metal  ions  adopt  a  suitable  oxidation  state. 
+
+However,  the  formation  of  the  rock-salt  structure  after  the  decomposition  of  ternary  molybdates may be hampered by the large difference in the ionic radii of Li+ and Mo5+ and by 
+
+the  proclivity  of  molybdates  to  the  formation  of  a  very  stable  three-dimensional  MoO4-
+
+In contrast, we show in the present work that the rock-salt-type structure with random cation  distribution  is  formed  upon  lithium  insertion  at  1  V  vs.  Li+/Li  into  commercially  available 
+
+Li2MoO4. The parent compound crystallizes in a phenacite-type rhombohedral framework (R-
+
+3  space  group,  a  =  14.330  Å,  c  =  9.548  Å,  Z  =  18),  formed  by  corner-sharing  LiO4 and  MoO4-tetrahedra,16  see  Fig.  1.  Two  types  of  channels  running  along  the  c-axis  are  formed.  Narrow and wide channels feature 4-member rings with an average diameter of 3.49 Å and 6-
+
+member  rings  with  an  average  diameter  of  5.47  Å,  respectively.  These  channels  provide 
+
+sufficient space for the insertion of guest species, either cations or molecules. 
+
+Both electrochemical and chemical lithium insertion into Li2MoO4 were studied. The crystal 
+
+structure of the newly obtained cubic (Li3-xMo)O4 compound was investigated by synchrotron 
+
+and neutron powder diffraction. This new compound was also tested in electrochemical test 
+
+cells with Li as a counter electrode.  
+
+Preparation of cubic (Li3-xMo)O4 by a chemical route  
+
+Chemical  insertion  of  Li-ions  into  the  powdered  Li2MoO4  (Alfa  Aesar,  99.99%)  host 
+
+compound  was  performed  at  room  temperature  in  an  Ar-filled  glove-box  according  to  the 
+
+reaction (1), using double or triple excess of n-butyllithium (n-LiC4H9) in hexane: 
+
+The reaction time was varied between one and four weeks. Attempts to use lithium iodide in 
+
+acetonitrile instead of n-LiC4H9 did not lead to lithium insertion in significant amounts.  
+
+After reaction with n-LiC4H9 the (Li3-xMo)O4 samples were washed with pentane to remove 
+
+traces of unreacted agents and dried under vacuum at room temperature. The amounts of Li 
+
+and  Mo  in  the  samples  were  quantitatively  determined  by  the  ICP-OES  analysis  (IRIS 
+
+Intrepid II XUV, Thermo Fisher) using a 3:1 mixture of HCl (37%, p.a. Fa. Merck) and HNO3 
+
+(65%,  p.a.  Fa.  Merck)  for  dissolving  the  samples.  Thermal  stability  of  (Li3Mo)O4  was 
+
+
+investigated in an STA 449 (Netzsch, Selb, Germany) under Ar-atmosphere during heating in 
+
+alumina crucibles with 10 K/min rate from room temperature up to 1073 K. 
+
+Electrochemical synthesis and characterization  
+
+Electrochemical  studies  on  Li2MoO4  and  (Li3-xMo)O4  as  positive  electrode  (cathode) 
+
+materials  in  Li-ion  cells  were  performed  with  a  multichannel  potentiostatic-galvanostatic 
+
+system VMP3  (Bio-Logic, France) in standard Swagelok-type cells with metallic lithium as 
+
+the  negative  electrode  (anode).  For  the  positive  electrode,  a  mixture  of  Li2MoO4  or  (Li3-
+
+xMo)O4, carbon black and polyvinylidene fluoride (PVdF) as polymer binder in an 80:10:10 
+
+weight ratio was pressed on Al-meshes with 8 mm diameter and dried in vacuum at 373 K for 
+
+Li2MoO4 and at room temperature for (Li3-xMo)O4. A 1 M solution of LiPF6 in a mixture of 
+
+ethylene carbonate (EC) and dimethylcarbonate (DMC) (1:1 v/v) was used as electrolyte. The 
+
+cells were assembled in an Ar-filled glove-box with H2O and O2 contents less than 1 ppm. 
+
+Electrochemical  synthesis  of  cubic  (Li3-xMo)O4  was  performed  in  two-electrode  Swageloktype cells at 1V vs. Li+/Li during 100 h. 
+
+Phase analysis and structure characterization  
+
+Phase  analysis  and  determination  of  (Li3-xMo)O4  cell  parameters  at  room  temperature  after 
+
+electrochemical or chemical lithium insertion were carried out using X-ray powder diffraction 
+
+(XPD)  with  a  STOE  STADI  P  diffractometer  (Cu-Kα1-radiation,  λ  =  1.54059  Å)  in 
+
+transmission  mode.  All  diffraction  experiments  were  performed  without  any  contact  of  the 
+
+sample with air. 
+
+Room-temperature neutron powder diffraction (NPD) studies on (Li3-xMo)O4 were performed 
+
+on  the  high-resolution  powder  diffractometer  SPODI  at  the  research  reactor  FRM-II  (Garching, Germany) with monochromatic neutrons of 1.5481(1) Å wavelength17 in Debye-
+
+Scherrer geometry. The vanadium container for measurements was filled in an Ar-atmosphere 
+
+glove  box  with  the  sample  prepared  through  the  reaction  of  Li2MoO4  and  n-LiC4H9  during 
+
+four weeks.  
+
+High-temperature  structural  investigations  of  the  (Li3-xMo)O4  powdered  sample  in  an  Ar 
+
+atmosphere  were  performed  between  295  K  and  623  K  by  synchrotron  diffraction  at 
+
+HASYLAB/DESY  (Hamburg,  Germany)  at  the  beam-line  B2  (Ref.  18)  in  Debye-Scherrer  mode  using  the  on-site  readable  image-plate  detector  OBI19  and  a  STOE  furnace  equipped 
+
+with  a  EUROTHERM  temperature  controller  and  a  capillary  spinner.  The  wavelength  of 
+
+0.49962(1)  Å  was  selected  by  a  double-crystal  monochromator  and  determined  from  the 
+
+positions of 8 reflections from a LaB6 reference material.  
+
+X-ray photoelectron spectroscopy (XPS) 
+
+X-ray  photoelectron  spectroscopy  was  applied  to  chemically  prepared  Li3-xMoO4  and  the 
+
+products after electrochemical Li-extraction from this compound. A PHI 5600 CI system with 
+
+an  Al  Kα  350  W  monochromatized  X-ray  source  and  a  hemispherical  analyzer  at  a  pass 
+
+energy of 29 eV were used. Two cells with the same cathode mixture consisting of rock-salt 
+
+Li3-xMoO4, carbon black and PVdF with a mass of about 20 mg were charged with a C/10 rate 
+
+to 2.6 V and 3.5 V and immediately disassembled. In order to remove LiPF6 from the surface 
+
+the  samples  were  washed  with  DMC.  During  XPS  measurements,  when  necessary,  surface 
+
+charging  was  minimized  by  means  of  a  low-energy  electron  flood  gun.  The  system  base  pressure  was  about  10-9  mbar.  The  samples  were  transferred  from  the  glove  box  in  Ar  atmosphere with a special transfer chamber.20 
+
+First,  electrochemical  properties  of  rhombohedral  Li2MoO4  were  tested.  Two  reduction 
+
+processes  and  one  oxidation  process  were  registered  during  cyclic  voltammetry  (CV) 
+
+measurements of the electrochemical cell with the Li2MoO4 cathode and metallic Li as anode, 
+
+cycled  with  a  voltage  sweep  rate  of  0.1  mV/s  between  1.0  and  3.8  V  (Fig.  2a).  Different 
+
+electrochemical  behaviour  was  observed  during  the  first  cycle  and  the  following  discharge 
+
+cycles: i) a strong reduction peak at ca. 1.15 V observed in the first cycle shifted to 1.0 V in 
+
+following cycles, and ii) an additional reduction peak appeared in the second and following 
+
+cycles at  2.0  V.  The  corresponding  oxidation peak  appears at  2.2  V.  A  formation  of a  new 
+
+compound  (compounds)  at  about  1.15  V  during  the  first  discharge  of  Li2MoO4  could  be 
+
+envisaged.  This  compound  shows  oxidation/reduction  behaviour  at  about  2.2/2.0  V  in 
+
+subsequent cycles. 
+
+Galvanostatic cycling with potentiostatic limitation (GCPL) between 0.8 and 4 V at constant 
+
+current corresponding  to  the  intercalation or  extraction  of  1Li per  formula unit  during  10  h 
+
+(C/10 rate) showed that about one Li atom can be inserted in Li2MoO4 at about 1.15 V in the 
+
+first  discharge  cycle  (Fig.  2b).  This  voltage  is  lower  than 2.4  V and  1.6  V known  from  the  literature for the redox couples Mo6+/Mo5+ and Mo5+/Mo4+, respectively.11  
+
+A step-like feature in voltage between 1.4 and 1.1 V in the beginning of the first cycle, which 
+
+corresponds to the change of the x value from 2.0 to 2.22, could be due to the solid electrolyte  interphase (SEI) formation on the carbon black from the cathode mixture,21,22 or a reductive 
+
+instability  of  the  electrolyte  components.  For  example,  a  reduction  potential  of  1.32  V  vs.  Li+/Li  for  dimethyl  carbonate  and  1.36  V  vs.  Li+/Li  for  ethylene  carbonate  was  reported  in 
+
+work. In a more recent work, the reduction potential of ethylene carbonate was estimated to  a lower value of 1.07 V vs. Li+/Li.24 
+
+In  the  second  and following  cycles,  a reversible  extraction/insertion  of about  0.25  Li  atoms 
+
+takes place during the cycling between 4 and 1 V. XRD measurements of the cathode material 
+
+after  the  discharge  down  to  1  V,  which  corresponds  to  three  lithium  atoms  in  the  material, 
+
+revealed  two  phases,  a  cubic  phase  with  the  NaCl  structure  type  and  lattice  parameter  a  = 
+
+4.1563(2) Å, and a rhombohedral Li2+xMoO4 with lattice parameters different from these of 
+
+pristine Li2MoO4, see Table 1.  
+
+rhombohedral Li2MoO4
+
+rhombohedral Li2MoO4. Cubic (Li3-xMo)O4: chemical synthesis and characterization  
+
+Only  the  reaction between  Li2MoO4  and  n-LiC4H9 (1:1  in  molar  ratio) in  hexane led  to  the 
+
+formation of a new cubic phase (Li3-xMo)O4, because the low electrochemical potential of nLiC4H9 of about 1 V vs. Li+/Li24 is close to the voltage of the reduction process observed in  the  GCPL  curve  of  Li2MoO4.  After  the  synthesis  during  one  week  the  rhombohedral 
+
+Li2+xMoO4 compound (about 40% w/w) was still observed in the diffraction pattern together 
+
+with cubic (Li3-xMo)O4 (Fig. 3, left). However, lattice parameters of the rhombohedral phase 
+
+differed  from  these  of  pristine  Li2MoO4,  thus  reflecting  a  change  in  the  composition,  see Table 1.  
+
+Preparation conditions 
+
+Space group, lattice parameters a, c, Å 
+
+Pristine rhombohedral Li2MoO4 
+
+Rhombohedral  Li2MoO4  after  discharge down to 1V 
+
+Cubic  (Li3-xMo)O4  after  cycling  between  1.3  and  3.5  V,  stopped  at 2.88 V 
+
+Rhombohedral  Li2MoO4  after  100 h at 1.2 V 
+
+Reaction  between    Li2MoO4 and  n-LiC4H9, one week 
+
+Reaction  between    Li2MoO4 and  n-LiC4H9, four weeks 
+
+Detailed  analysis  of  the  lattice  parameters  and  unit  cell  volumes  for  the  rhombohedral  and 
+
+cubic  phases  revealed  a  huge  difference  in  the  size  of  the  unit  cell  per  formula  unit. 
+
+Additionally,  lattice  parameters  of  each  phase  fluctuate  depending  on  the  preparation 
+
+procedure and  reflect  the  existence  of  solid  solutions.  The lattice  parameters  a  and  c  of  the 
+
+rhombohedral phase decrease with increasing Li-content, as can be seen from the comparison 
+
+of  pristine  Li2MoO4  and  rhombohedral  Li2+xMoO4  compounds  after  the  reaction  with  n-
+
+LiC4H9 during one week (Table 1). The variable lattice parameter of the cubic phase reflects 
+
+different Li/Mo ratios. Therefore, the change in the composition of this NaCl-type compound 
+
+must be also detectable electrochemically.  
+
+Chemical analysis of the product of the one-week synthesis with n-LiC4H9 yields the cation 
+
+composition  Li3.1(3)Mo1.0O4,  which  is  normalized  to  the  molybdenum  content.  After  four 
+
+weeks, only cubic (Li3-xMo)O4 was registered by XRD (Fig. 3, right). However, a somewhat 
+
+higher  background  at  low  angles  in  the XRD  pattern  reflects the  presence of an amorphous 
+
+component  in  the sample.  From  the chemical analysis  of  this  sample,  we  obtained the  ratio 
+
+Li/Mo =3.8(2)/1.0, which is too high for the rocksalt-type structure where only 3 Li atoms per 
+
+one  Mo  atom  can  be  incorporated,  provided  that  the  oxygen  content  does  not  change.  One 
+
+plausible  reason  for  the presence  of  excess  lithium  would  be  the  incorporation  of  n-LiC4H9 
+
+molecules  into  large  channels  of  the  Li2MoO4  structure.  The  ensuing  agglomerate  structure 
+
+should  have  low  thermal  stability  and  may  decompose  already  at  473-523  K.  Indeed,  the 
+
+DTA-TG analysis of Li3.8(2)Mo1.0O4 showed a two-step mass loss in the TG-curve, with about 
+
+0.4% at 523 K, and 0.98% at 973-1073 K, but this mass loss of 1.4% is tiny (data not shown) 
+
+and cannot explain observed Li excess in the sample. An irreversible endothermic peak was 
+
+seen at about  723  K.  Mass-spectrometric analysis  revealed  solely  H2  and CH3 fragments as 
+
+decomposition products with the maximum of decomposition in the temperature range 670-
+
+773 K. No oxygen was detected during heating up to 1073 K. The XRD data of the sample 
+
+after DTA revealed well-crystallized metallic molybdenum and unknown partially crystallized 
+
+products of decomposition. From these results, we cannot distinguish between two processes, 
+
+i) metallic molybdenum is formed during the phase decomposition at elevated temperatures, 
+
+or  ii)  it  was  already  present in  the  sample  in  amorphous  form  and  became  crystalline  upon 
+
+heating.  In  the  last  case,  Li-excess  in  the  sample  could  be  explained  as  a  presence  of 
+
+amorphous lithium oxides.  
+
+All Li2+xMoO4 samples became black after lithium insertion in accordance with an oxidation 
+
+state  of  molybdenum  lower  than  +6.  The  structural  model  of  the  cubic  (Li3-xMo)O4  was 
+
+refined based on the rock-salt structure (Fm-3m) with oxygen atoms on the 4a site, and Li and 
+
+Mo atoms randomly distributed over the 4b site. Note that the exact cation stoichiometry of 
+
+the cubic phase could not be reliably extracted from powder XRD data because of a very low 
+
+form factor of lithium in comparison to the one of molybdenum. Neutron powder diffraction 
+
+performed on another Li2+xMoO4 sample after synthesis during four weeks showed about 90% 
+
+(w/w) cubic (Li3-xMo)O4 and 10% (w/w) rhombohedral Li2+xMoO4 compounds, see Fig. 4 and 
+
+Table  2.  After  constrain  setting  the  total  occupancies  of  the  4a  and  4b  site  to  100%,  the 
+
+(Li3.00(2)Mo1.00(2))O4  composition  was  refined  from  the  NPD  data.  This  composition  is  not 
+
+consistent with the chemical analysis of the same sample yielding Li/Mo = 3.8/1.0. If we fix 
+
+the  “(Li3.2Mo0.8)O4”  stoichiometry  for  the  cubic  compound  in  the  structural  model,  the 
+
+resulting refinement is much worse, see inset in Fig. 4. A presence of an amorphous Li-rich 
+
+oxide,  which  cannot  be  quantified  by  diffraction  methods,  is  a  plausible  reason  for  this 
+
+discrepancy. It is known that the usage of the strong reducing agent n-LiC4H9 often leads to  additional  irreversible  reactions.25  Moreover,  Mo-compounds  are  known  for  their  ability  to  undergo charge disproportionation of Mo ions under reducing conditions. For example, Mo4+containing ethylenediaminetetraacetate complexes produce Mo5+ and Mo3+ upon reduction.26  The amorphization upon Li insertion is a common feature of molybdenum oxides.
+
+Synchrotron  powder  diffraction  experiments  showed  the  stability  of  the  cubic  (Li3Mo)O4 
+
+compound up to at least 620 K, see Fig. 5. Its thermal expansion behavior is non-linear. The 
+
+temperature dependence of the lattice parameter a (Fig. 5 left) can be described between 300  and  620  K  by  the  following  equation:  a(T)  =  4.19687-2.63945*10-4T+4.02251*10-2T2.  The 
+
+thermal expansion coefficient α calculated from the formula α = (1/aT)*(daT/dT), is close to 
+
+zero around room temperature, which may suggest negative expansion at temperatures below 
+
+300  K.  Between  350  and  500  K,  α(T)  can  be  described  as  a  straight  line  and  deviates 
+
+considerably  at  higher  temperatures,  similar  to  the  thermal  expansion  behavior  of  NaCl  studied  by  X-ray  powder  diffraction.29  For  NaCl,  the  onset  of  “excess”  in  the  thermal 
+
+expansion above 800 K matches very well with a kink in the temperature dependence of the 
+
+electrical  conductivity,  which  was  assumed  to  be  due  to  intensive  formation  of  Schottky 
+
+defects.29 The same reason could be suggested for a strong increase of α(T) for isostructural 
+
+(Li3Mo)O4  above 500 K.     
+
+  Figure  4.  Neutron  powder  diffraction  pattern  of  cubic  (Li3-xMo)O4  (main  phase)  and  rhombohedral Li2MoO4 (about 10 % w/w), observed and calculated curves together with their  difference curve. The refined cation composition of the cubic phase revealed the cation ratio  very close to Li/Mo = 3:1. Inset: calculated curve with the Li/Mo ratio fixed to 4:1.     
+
+
+Cyclic voltammetry measurements were performed on the sample prepared chemically in four 
+
+weeks  and  containing  only  cubic  (Li3Mo)O4  as  a  crystalline  phase.  The  measurements 
+
+between 1.3 and 3.5 V revealed an oxidation process at 2.35 V and a reduction process at 2.1 
+
+V in the first cycle, see Fig. 6a. The following cycles showed the oxidation and reduction at 
+
+2.3 and 2.05 V, respectively. An additional oxidation process at ~3.0 V becomes visible after 
+
+several  cycles.  It  may  correspond  to  the  oxidation  of  an  amorphous  impurity  phase,  charge  disproportionation from Mo5+ into Mo4+ and Mo6+ or decomposition of cubic (Li3Mo)O4. In  the  letter  case,  the  formation  of  pristine  phenacite-type  Li2MoO4  cannot  be  excluded. 
+
+Transformation back to cubic (Li3-xMo)O4 should occur below 1.2 V.  
+
+cubic (Li3Mo)O4
+                                          Figure 6. Electrochemical studies of (Li3Mo)O4/Li test cells. (a) Cyclic voltammetry curves at  a voltage sweep rate of 0.1 mV/s between 1.3 and 3.5 V; (b) galvanostatic cycling between  1.3 and 3.5 V; and (c) galvanostatic cycling between 1.5 and 2.75 V with the C/10 rate.  Cubic  (Li3Mo)O4 was obtained via reaction between Li2MoO4 and n-LiC4H9 in an Ar-filled glovebox during four weeks; the starting Li-content was set according to the ICP-OES results.   
+
+According  to  the  current  value  from  GCPL,  about  0.23  Li  atoms  can  be  reversibly 
+
+extracted/inserted from/into cubic (Li3Mo)O4 between 3.5 and 1.3 V.  An additional plateau at 
+
+about  2.9  V  during  charge  appears  upon  cycling  and  becomes  more  pronounced  in  further 
+
+cycles in line with the CV measurements. The XRD pattern of the cubic (Li3Mo)O4 cathode 
+
+cycled 12 times between 1.3 and 3.5 V and stopped at 2.88 V can be interpreted as a mixture 
+
+of cubic (Li3Mo)O4 and rhombohedral Li2MoO4, see Fig. 7. The GCPL measurements in the 
+
+voltage range of 1.5 2.75 V, which is below the oxidation process at 2.9 V, shows a more 
+
+stable  behaviour  during  cycling  (see  Fig.  6c).  A  topotactical  Li  extraction/insertion 
+
+mechanism  can  be  proposed  for  this  voltage  range  since  cubic  (Li3Mo)O4  demonstrates 
+
+change in the lattice parameters depending on the treatment conditions, as it can be seen from 
+
+Table 1, what corresponds to the change in the Li-composition. 
+
+Quasi in situ XPS studies of (Li3-xMo)O4 in different oxidation states    The  changes  in  the  electronic  structure  of  Li3-xMoO4  due  to  Li-extraction  were  studied  by  “quasi  in  situ”  X-ray  photoelectron  spectroscopy  (XPS),20,30  see  Fig.  8.  Although  the  XPS 
+
+method  represents  an  electronic  structure  of  the  surface  region  only  and  is  influenced  by  contaminations  or  surface  effects,  a  presence  of  Mo  in  mixed  valence  states  in  (Li3Mo)O4  according  to  the  Mo3d  peak  positions  can  be  concluded  in  agreement  with  the  reference  data.31  
+
+A  similar  complex  Mo3d  spectrum  with  a  shoulder  at  about  231  eV  was  observed  in 
+
+Li4V(MoO4)3 (Ref. 6), indicating the presence of Mo in an oxidation state lower than +6. A 
+
+shift of the Mo3d peaks toward higher energies for materials discharged to 2.6 V and 3.5 V as 
+
+well as the complete disappearance of the lower-energy Mo3d peak at 231 eV for Li3-xMoO4 
+
+charged to 3.5 V unambiguously correspond to an increase of the average Mo oxidation state 
+
+after  Li  extraction.  The  Mo3d  spectrum  of  the  material  charged  to  3.5  V  is  identical  to  the  Mo3d  spectrum  of  Li2MoO4  reported  in  work.14 Full  oxidation  of  Mo to Mo6+ in  the  3.5V material  is  in  accordance  with  the  appearance  of  phenacite-type  Li2MoO4  with  Mo6+  in  the  XRD pattern of the material. Any charge disproportionation to a lower oxidation state of Mo 
+
+in the material at 3.5 V can be excluded. 
+
+Although  O1s  peaks can  represent a  superposition of  oxygen contributions  from  (Li3Mo)O4 
+
+and traces of DMC, which was used for sample washing after electrochemical experiments, 
+
+they became significantly broader and are shifted to lower energies from pristine (Li3Mo)O4 
+
+to (Li3-xMo)O4 charged to 2.6 V and 3.5 V (Fig. 8 right). The higher O1s binding energy in 
+
+pristine  Li3-xMoO4  could  be  due  to  a  partial  charge  transfer  from  oxygen  to  molybdenum, 
+
+which leads to the formation of peroxide-like species, known from the literature for complex  oxides32 with an O1s binding energy of 532-533 eV. Note that the same shift in the O1s peak 
+
+position to higher binding energy values was observed in Li4V(MoO4)3 with a lower average 
+
+oxidation state of Mo than +6 (Ref. 6). 
+
+
+Reversible  Li-intercalation  into  the  phenacite-type  structure  of  Li2MoO4  demonstrates  how 
+
+new metastable materials that cannot be obtained by a conventional solid-state synthesis are  formed  through  the  chemical  or  electrochemical  intercalation  of  Li+-ions.  The  Li2O-MoO3Mo  phase  diagram  constructed experimentally  at  830  K33 puts forward a more  stable  threephase mixture of Li4MoO5, Li6Mo2O7 and Li2MoO3 compounds with Mo6+, Mo4+ and Mo4+,  respectively, for the composition point “Li3MoO4”. The cubic symmetry, regular geometry of  Mo5+O6-octahedra and Mo,Li-cation disorder in (Li3Mo)O4 are rather surprising in the light of  the significant size and charge difference of Li+ (0.76 Å) and Mo5+ (0.61 Å) for the octahedral  oxygen coordination.10 The case of (Li3Mo)O4 shows that the difference in the ionic radii and  valence  states  of  cations  does  not  necessarily  lead  to  cation  ordering,  as  usually  supposed. 
+
+Another  and  even  more  striking  example  that  counters  the  conventional  criterion  of  cation  ordering,  is  Li4MoO5  with  its  disordered  rock-salt  structure.  This  Mo6+-containing  phase  is  obtained  through  a  reaction  between  Li2O2  and  MoO3  (Ref.  34).  Here,  the  size  and  charge  differences  between  Li+  (0.76  Å)  and  Mo6+  (0.59  Å)  are  even  more  pronounced  than  in 
+
+(Li3Mo)O4. Existence of Li-containing rock-salt-type structures can also be expected for other  4d metal oxides. For example, synthesis of disordered rock-salt Li0.75Nb0.25O with Nb5+ (0.61  Å) was reported by Modeshia.35  
+
+The reconstructive transformation of rhombohedral phenacite-type Li2MoO4 into cubic rock-
+
+salt  (Li3Mo)O4  is  accompanied  by  change  in  the  oxygen  coordination  from  tetrahedral  to 
+
+octahedral  for  both,  Li  and  Mo  cations,  and  by  significant  reduction  of  the  formula  unit  volume from 95 Å3 to 72 Å3 because of elimination of tunnels in the pristine structure. These 
+
+channels may  also  promote  pressure and  temperature-induced  structural changes. Indeed, a 
+
+cubic spinel Li2MoO4 structure with a fcc close oxygen packing and formula unit volume of  75 Å3 can be obtained at 5 kbar in the temperature interval of 500-800 K.36 However, in the 
+
+spinel structure, only Li ions change their oxygen surrounding from tetrahedral to octahedral; 
+
+Mo  cations  keep  their  tetrahedral  oxygen  coordination  unchanged.  Thus,  lithiation  of 
+
+phenacite-type  Li2MoO4  results  in  a  deeper  structural  transformation  than  “conventional” 
+
+methods like temperature and/or pressure.   Liu  et  al.14  did  not  see  the  formation  of  the  cubic  (Li3-xMo)O4  phase  during  in  situ  XRD  measurements of Li2MoO4 nanotubes for the first cell discharge. It could be due to the higher 
+
+current density of 30 mA/g vs. 15 mA/g used in our work. Since the phase transformation is 
+
+reconstructive,  including  cation  diffusion  and  change  in  oxygen  coordination,  it  is  strongly 
+
+Stability  regions  of  the  rhombohedral  Li2+xMoO4  and  cubic  (Li3-xMo)O4  phases  remain 
+
+somewhat  unclear.  The  transformation  of  Li2MoO4  into  (Li3-xMo)O4  represents  a  biphasic 
+
+process that starts immediately in the Li-ion cells after applying current and leads to an abrupt 
+
+decrease in the cell voltage from 3 V to 1.2 V. However, pristine rhombohedral Li2MoO4 with 
+
+its complete cation ordering and the tetrahedral coordination of both Li and Mo is capable of 
+
+accommodating  small amounts of  Li  prior  to  the  transition  into  the  disordered  cubic  phase, 
+
+where Li and Mo are octahedrally coordinated. The Rietveld refinement based on the neutron 
+
+powder data  revealed  the  composition of  Li3.00(2)Mo1.00(2)O4 for  the  crystalline  phase  having 
+
+the (A3B)O4 stoichiometry. Insertion of more than one Li into the structure must lead to the 
+
+formation of a mixture of Li0.98MoO2 and metallic Mo at 0.38 V, and an amorphous mixture  of probably Li2O and metallic Mo at 0.1 V vs. Li+/Li.14 Note that subsequent cell charge did 
+
+not  lead to  the pristine  phenacite-type  Li2MoO4, but  to a crystalline  orthorhombic  LixMoOy  and an unknown phase.14 However, as we showed in the present work, phase transitions in the 
+
+Li-Mo-O system  at  room  temperature are  extremely  time-dependent.  Much  slower  deep  Li-
+
+insertion into Li2MoO4 could lead to other crystalline reaction products, or to amorphization, 
+
+which is common for Mo-containing materials like MoO3 or Fe2(MoO4)3 when more than two 
+
+Li atoms enter the structure and Mo is reduced. The partial amorphization of Li2MoO4 after 
+
+prolonged  chemical  lithiation  (four  weeks)  may  be  inferred  from  the  discrepancy  in  the  Li 
+
+content determined by ICP-OES and from the structure refinement. While the former method 
+
+provides the total Li-content in the sample (the ratio Li/Mo = 3.8:1), the latter method yields 
+
+the  Li-content  in  the crystalline phase  (Li/Mo  =  3.0:1).  Galvanostatic  cycling  of  cubic (Li3-
+
+xMo)O4  obtained  through  the  reaction  with  n-LiC4H9  in Li-cell at  voltages  below  2.8  V  vs.  Li+/Li reflects a change of x = 0.2-0.25 in the Li-composition.  
+
+Note that the cubic rock-salt-type oxide (Li3Mo)O4 can be potentially formed upon discharge 
+
+of  Li-ion  electrochemical  cells  with  other  complex  molybdenum  oxides  as  electrode 
+
+A new disordered cubic molybdenum oxide (Li3Mo)O4 (Fm-3m) with a NaCl-type structure 
+
+can be obtained electrochemically at 1 V using a Li-anode and Li2MoO4 cathode, or through 
+
+the reaction between Li2MoO4 with n-LiC4H9 in hexane. We suggest that this compound can 
+
+be  formed  at  voltages  of  about  1V  in  electrochemical  Li-cells  with  complex  molybdenum 
+
+oxides as cathode materials. It participates in electrochemical processes in the potential range  between 2.0 and 2.5 V. (Li3Mo)O4 is stable in an inert atmosphere up to at least 630 K and  oxidizes  at  room  temperature  toward  crystalline  Li2MoO4  in  electrochemical  cells  at  potentials above 3 V vs. Li+/Li, or in air.  

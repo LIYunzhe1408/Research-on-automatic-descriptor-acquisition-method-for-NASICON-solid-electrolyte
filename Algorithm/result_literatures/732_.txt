@@ -1,0 +1,12 @@
+N-doped graphene (N-graphene) has been a very powerful tool to tailor the property of the pure graphene and ithas been proved to be an excellent conducting matrix for preparing high-rate sodium-ion batteries.
+In this work,we design a facile and rapid route to fabricate the advanced cathode in which the carbon-coated Na3V2(PO4)3nanocrystals are wrapped on the surface of N-graphene (Na3V2(PO4)3/C@N-graphene).
+The highly conductingN-graphene sheets significantly enhance the electrochemical performance of the composite, which presentsexcellent high-rate capability and long-cycle stability.
+The initial specific capacity of the composite can be up to115.2 mAh g−1 at 0.1 C between 2.5 and 3.8 V, which is approximately 97.6% of the theoretical capacity.
+Moreover, the composite shows a long-cycle performance exceeding 1000 cycles at high rate of 15 C and a highcapacity retention ratio.
+These superior electrochemical properties could be ascribed to many reasons, includingthe superior electronic conductivity of N-graphene matrix and the nanosized Na3V2(PO4)3/C particles, which arehelpful for the transport of e− and Na+.
+The results demonstrate that the Na3V2(PO4)3/C@N-graphene is apromising candidate to be used in sodium-ion batteries.
+In a conclusion, we firstly design and prepare the advancedNa3V2(PO4)3/C@N-graphene for energy storage in whichNa3V2(PO4)3/C nanoparticles are wrapped inside the N-graphenesheets.
+The composite has been prepared via the hydrothermal routecombined with sol-gel and followed by a rapid microwave heatingroute.
+The XRD and SEM results indicate that the NASICON structureNa3V2(PO4)3/C with particle size of 120 nm are embedded in the Ngraphenesheets, and the coated carbon and N-graphene built aconductive network which can greatly enhance the conductivity andsodium ion diffusion.
+Thus, this electrode shows excellent batteryperformance, delivering a long-cycle property exceeding 1000 cyclesat 15 C and a high capacity retention ratio.
+This design and syntheticstrategy provides a novel insight into the design of other cathode inadvanced energy storage.

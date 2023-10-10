@@ -1,0 +1,54 @@
+the  sample  gases  containing  varying  concentration  of  NO,  at  200°C. It can be seen that the cathodic current in air is increased  gradually as the sensing electrode potential is polarized cathodi cally. When the  NO,  gas  was  added to  the air  flow, the current  response was increased significantly with increasing NO,  concen tration. In addition, a limiting current was observed in the sample  gas flow containing NO,  when the sensing electrode was polarized  more negatively than ca. -50  mV vs. the reference electrode.This  suggests that the diffusion (supply) of NO,  gas into the interface of  NASICON/sensing electrode may be controlled by the NaNO,  layer  deposited on  the  sensing  Au  electrode. In the  NaN0,-attached  device, the current was small and there was little saturation of the  electric current observed in the NO,  gas flows. 
+
+The  current response to  NO,  for  both devices  was  then  mea sured at a constant sensing electrode potential of  -100  mV, as a  function of NO,  concentration. Since some currents were observed  in the absence of  NO,  (air level) as  mentibned above, the incre ments of  current (A/) from the air  level were correlated with the  NO,  concentration in Fig. 4. An almost linear relationship between  A1 and  NO,  concentration is  seen  only  for  the  NaN0,-attached  device in the range of  0 to 80 ppm. This indicates that the amper ometric  sensing of  NO,  is  possible with  such  a  device,  though  more  effort  is  necessary to  improve the  response  linearity. The  NaN0,-attached  device gave smaller and less linear responses to  NO,.This  difference in sensing behavior may reflect mainly the dif ference in electrochemical reactivity between NaNO,  and NaNO,  at  the electrodes. In addition, the difference in ionic conductivity  between NaNO,  and NaNO,  may be another factor that causes the 
+
+There has been a growing awareness of the need for in situ NO,  (NO  and  NO,)  monitoring in  combustion exhausts  and  environ mental atmospheres, in connection with the conservation of global  environments. In practice, analytical instruments based on chemi cal  luminescence as  well  as  infrared (IR) absorption have  been  used for  the detection of  NO,,  but they  are  expensive and bulky.  Thus,  much attention has been paid to the development of  com pact solid-state NO,  sensors. Several solid-electrolyte NO,  sensors  have  been proposed and  intensively e~arnined.'-'~ These sensor  devices are mostly of the potentiometric type, fabricated by using  a  solid  electrolyte  and  a  nitrate  auxiliary  phase  (NaNO,).  We  reported that an NASICON/nitrite (NaNO,)  couple shows excellent  sensing  characteristics,  especially  with  respect  to  dilute  NO,  However,  there  has  been  little  work  on  solid-state  amperometric NO,  sensors,,  although it is known that amperome try, if properly fabricated, can give more precise concentration data  in a  limited concentration range than  potentiometry can.  In this  study, an attempt was made to demonstrate an amperometric NO,  sensing  device  based  on  NASICON. The  device  coupled  with  NASICON and the nitrite auxiliary layers (NaNO,)  gave good sens ing performances to  NO,  in  amperometric mode,  as  described  below. 
+
+The  structure  of  the  sensing  device  fabricated  is  shown  sample was 
+
+schematically in Fig. 1 .The NASICON (Na,Zr,Si,PO,,)  synthesized by calcining a powder mixture of ZrSiO,  and Na,PO,  at 1125°C for  11 h, followed by sintering at  1220°C for  14 h in air.  The size of the NASICON disk finally obtained was 8 mm in diam  and 0.8  mm thick. A sensing electrode (Au paste) and a counter electrode (Au paste) were attached on the outside and inside sur faces of the disk, respectively.The painted Au pastes were fired at  700°C for  30 min and then both Au  electrodes (ca.  10 pm thick)  formed were covered with an auxiliary layer (ca. 200 pm thick) of  NaNO,  (or  NaNO,).  A  reference  electrode  (Au paste) was  also  placed on the inside of the disk.The NASICON disk (with the elec trodes) was then fixed at one end of  a quartz glass tube with an  inorganic adhesive. 
+
+The counterand reference electrodes were  exposed to  static  atmospheric air, while the sensing electrode was exposed to a flow  (1 00 cm3/min) of  NO,-air  mixtures.The polarization of the sensing  electrode was  kept  fixed  at  a  constant value  by  a  potentiostat  (Hokuto Denko, HA-101), using the Au electrode as the reference,  and then the electrolysis current flowing through the  NASICON  disk was measured as a sensor signal, usually at 200"C.The polar ization curves of the device were measured in air or in the sample  gases containing NO,  at 200°C. 
+
+Figure 2 shows response transients to 10 ppm NO,  at 200°C for  the devices fitted with  NaNO,  (or NaNO,),  where the potential of  the sensing electrode was controlled at -1 00 mV vs. the reference  Au electrode. It is clear from Fig.2, that the NaN0,-attached  device  gives much higher NO,  sensitivity and better recovery characteris tics than the NaN0,-attached  device. Figure 3 shows the polariza tion curves of  the NaN0,-attached  device measured in air  and in 
+
+Fig. 1. Schematic view  of  NASICON-based sensing device  with the auxiliary layers (NaNO, or  NaNO,)  for amperometric  detection of NO,. 
+Fig. 2. Response transients to 10 ppm NO2 at 200°C for the
+
+device using (a) NaNO2 and (b) NaNO3 (nA: 10 pA).
+
+difference in response. The observed conductivity of NaNO2 was about ten times higher than NaNO3 at 200°C.
+
+In the last part of this study, the sensing performances and sensing mechanism were examined only for the NaNO2 device. The current response to NO2 increased with increasing temperature. Since the melting point of NaNO2 is 271°C, the highest operation temperature used here was 225°C. At this temperature, however, the relationship between .l and NO2 concentration did not show good linearity because the current value tended to become saturated in the higher NO2 concentration range. Therefore the optimum temperature for operation of the present device seems to be 200°C. Table I summarizes the sensitivity ( of the device at 200°C to various gases, i.e., 50 ppm NO, 1000 ppm C02, 1 volume percent (yb) CO, 5000 ppm H2, and 1 .38 yb H20, together with that to 50 ppm NO2. It was observed that the sensitivities to these gases except for NO are negligible and even the NO sensitivity is less than one tenth of the NO2 sensitivity. Thus, it is concluded that the selectivity to NO2 is high. In addition, the device could be operated stably for a long period; the sensitivity to 10 ppm NO2 was more or less constant during the test period of about 40 days, while the decrease in sensitivity was observed only in the early stage (the first and second days) of the testing period, as shown in Fig. 5.
+
+Figure 6 shows a schematic diagram of the NO2 sensing model for the NaNO2 device. At the sensing electrode, of which the poten-
+
+-150 -100 Potential / mV
+
+(vs. reference Au electrode)
+
+Fig. 3. Polarization curves of the device using NaNO2 in var-
+
+ious gases at 200°C (ppm: pill).
+
+Fig. 4. Dependence of current response (SI) on NO2 concentration for the device using (a) NaNO2 and (b) NaNO3 at 200°C. (The sensing electrode potential: —100 mV vs. the reference Au electrode.)
+
+tial is polarized negatively in the NO2 gas flow, the following electrochemical reduction 1 of NO2 is suggested to take place producing NaNO2. At the counterelectrode, which is exposed to air only, the decomposition reaction 2 of NaNO2 (the electrochemical oxidation) can proceed yielding Na and NO2. Thus, the sodium ions can migrate through the NASICON disk from the counterelectrode side to the sensing electrode side
+
+Amperometric detection of NO2 diluted with air could be attained by the use of the NASICON-based device attached with NaNO2 auxiliary layers on the sensing and counterelectrodes. Compared to the potentiometric sensor reported before,13 the present amperometric sensor can detect NO2 more precisely in a limited concentration range because of its response linearity, while it is less advantageous with respect to the lowest detection limit of NO2. Further investigations on sensing properties and sensing mechanism are necessary for the actual application.
+
+Table I. Sensitivites (1I) to various gases at 200°C for the
+
+device using NaNO2.
+
+50 ppm NO2 50 ppm NO
+
+1000 ppm CO2
+
+5000 ppm H2 1.38v1o H2O
+
+Downloaded on 2015-06-09 to IP 
+
+ address. Redistribution subject to ECS terms of use (see 
+Fig. 5. Stability test of the NaNO2-attached device at 200°C.
+

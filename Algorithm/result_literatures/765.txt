@@ -1,0 +1,17 @@
+Three series of glasses of the Li2O-FeO-V2O5-P2O5 system were thermally nanocrystallized.
+and their microstructure was studied, at a nanometer resolution by transmission electronmic roscopy (TEM).
+Those observations were complemented by DTA and XRD studies on thesame materials.
+It was shown that appropriate heating of the as-received glasses leads to formation of crystalline nanosize grains embedded in the glassy matrix.
+Average size of thosegrains reached even a few nm, was much smaller than that reported for LiFePO4-basednanostructured materials obtained by other methods.
+The crystal structure of most nanograinswas identified as that of the LiFePO4 olivine, but some grains of the Nasicon-like Li3V2(PO4)3phase were also present.
+The presence of both phases was confirmed independently by XRDpatterns.
+Due to small size of crystalline grains (down to ca 5 nm) the interfacial regionsaround them occupy an important fraction of the total volume of the material and their properties can strongly influence the effective properties of the whole material.
+We havepostulated that the defective nature of interfacial regions leads to an increased concentrationof Fe2+/Fe3+, V4+/V5+ or V3+/V4+ aliovalent pairs, crucial for a small polaron hoppingmechanism of the electronic transport, and to an enhanced electrical conductivity.
+The presence of highly conducting interfacial regions in the system where either the glass matrixand both crystalline phases (LiFePO4 and Li3V2(PO4)3 are very poor conductors is the main.
+In this work we have shown that by an appropriate heating program of the glassyanalogs of LiFePO4 olivines, one can induce formation of a high concentration of very small crystalline grains, even 3-9 nm in size.
+Their crystal structure was identified, independently on a macroscopic level by XRD and on a nanometer scale by TEM.
+Amain crystalline phase was LiFePO4 olivine (present in all materials under study) bursome amount of Nasicon – like Li3V2(PO4)3 was found in materials with higher contents of vanadium (V15 and V20).
+One of the important consequences of thepresence of such small grains is an increased volume fraction of the interfacial regions.
+The increased concentration of point defects in these regions can be compensated by oxidation of some fraction of iron from Fe2+ to Fe3+.
+It should be however underlined that the overall concentration of Fe3+ in the nanocrystallized materials remains low.
+This is indicated by two facts: i) the predominant phase is LiFePO4, containing mostlyFe2+, ii) our very recent Mössbauer studies of analogous nanocrystallized materials have shown that the high fraction of Fe2+ of the initial glasses changes only slightlyafter nanocrystallization.

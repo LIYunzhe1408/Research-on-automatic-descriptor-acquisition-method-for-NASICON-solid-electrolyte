@@ -1,0 +1,145 @@
+The NASICON compound Li0.2Nd0.8/3Zr2(PO4)3, synthesized by a sol–gel process, has been structurally characterized by TEM and powder diffraction (neutron and X-ray).
+It crystallizes in the space group R¯3 (No.148): at room temperature, the Nd3+ ions present an ordered distribution in the [Zr2(PO4)3]− network which leads to a doubling of the classical c parameter (a = 8.7160(3) A˚ , c = 46.105(1) A˚ ).
+This reversible Above 600 cationic diffusion in a preserved 3D [Zr2(PO4)3]− network is followed through thermal X-ray diffraction.
+Ionic conductivity measurements have been undertaken by impedance spectroscopy, while some results concerning the sintering of the NASICON compound are given.
+
+A lot of solid materials exhibit an ionic conductivity comparable to that of liquid electrolytes.
+Among those, the NASICON type phosphates with general formula AxM2(PO4)3 have been extensively studied due to the mobility of the A cation in the [M2(PO4)3]− network.
+This 3D network is formed from MO6 octahedra sharing corners with PO4 tetrahedra creating thus interconnected interstitial sites through which A cations can diffuse.
+The hexagonal resulting structure is especially ﬂexible and allows chemical substitutions giving rise to a large number of NASICON phases.
+Among them, those containing monovalent A ions as Li+ and Na+, are well known for their high ionic conductivity.
+Recently, Imanaka et al.published works on RE1/3Zr2(PO4)3 they found to be trivalent rare earth ionic conductors.
+In search of improving the conduction properties, we synthesized the new mixed monovalent/trivalent series Li1−xNdx/3Zr2(PO4)3 with 0 ≤ x ≤ 1. 
+This paper deals with one member of this continuous solid solution, Li0.2Nd0.8/3Zr2(PO4)3 (x = 0.8), which presents an unexpected Nd3+ distribution giving rise to new crystallographic characteristics.
+After a complete structural characterization by neutron and thermal X-ray diffraction (TXRD) as well as by transmission electron microscopy (TEM), ionic conductivity measurements have been undertaken by impedance spectroscopy.
+Since the total ionic conductivity in such phases is mainly controlled by the grain-boundary conductivity, we present in addition the method used for the sintering of the titled compound.
+The results concerning the other members of this new solid solution will be published in a forthcoming paper.
+
+Li0.2Nd0.8/3Zr2(PO4)3 powder was synthesized using the complex polymerizable method previously described.
+ The starting components, weighed in stoichiometric ratios, were Nd2O3, ZrOCl2.8H2O, NH4H2PO4 and Li2CO3 with 7Li to reduce the absorption cross section for neutron experiments.
+The ◦ C black precursor obtained after calcination of the gel at 350 was ground and two successive annealings were performed, one at C for the same time.
+This way 700 led to pure samples with small particles size (Fig.1a) presenting, unfortunately, a low crystallinity.
+This crystallinity could however be improved by increasing the annealing temperature but in this case, two impurities ZrP2O7 (PDF 49–1079) and Zr2O(PO4)2 (PDF 01-070-0888) were systematically present in large quantities.
+The best compromise was ﬁnally obtained as follows: the powder C was pressed into pellets and introduced directly prepared at 900 C for 5 min, this step being followed in the furnace at 1350 by a room temperature quenching in air.
+With such a method, well crystallized powder with particles approximately ten times larger (Fig.1b) was obtained with however very small quantities of ZrP2O7 and/or Zr2O(PO4)2. 
+After this step, a long annealing at 500C is applied with a slow cooling down to ensure the thermodynamical equilibrium.
+It is this latter sample which was used to make the whole structural analysis, despite the presence of impurities.
+CharacterizationThe X-ray powder diffraction (XRD) patterns were recorded at room temperature in air with a PANalytical X’pert Pro diffractometer equipped with the X’Celerator detector using the monochromated Cu Ka radiation.
+The TXRD were performed C on the same diffractometer equipped with an Anton every 100 Paar HTK 1200 furnace with a delay of 20 min systematically applied before recording diffraction patterns.
+The neutron diffraction data were recorded at ILL on D2B, a high resolution powder diffractometer.
+The details of all the data collections are given in Table 1. 
+The structure reﬁnements were carried out by the Rietveld method, using the Fullprof proﬁle reﬁnement program and the GFOURIER software.
+For each diffraction pattern, the peak shape was described by a pseudo-Voigt function and the background level was determined manually.
+In addition to the atomic and cell parameters, the scale factor, the zero point and the peak asymmetry were reﬁned.
+The TEM study was performed with a JEOL 2010 electron microscope operating at 200 kV and equipped with a side-entry ±30  double tilt specimen holder.
+Small crystals were crushed and ultrasonically dispersed in n-butanol and one drop of this suspension was placed on a holey carbon ﬁlm Cu grid, in order to support a random orientation of the crystallites.
+The electrical conductivity measurements were carried out with ion-blocking sputtered Pt electrodes in a two-probe cell.
+The frequency response Analyser  and the Dielectric Interface were used in the frequency domainfrom 10 MHz to 0.1 Hz.
+The measurements were performed in dehydrated N2 atmosphere, in the temperature range from 25 to C.
+Before any measurement, linearity and stationarity of the 525 electrochemical system were checked.
+An ac voltage of 200 mV was used for every measurement and a waiting time of 25 min was applied to obtain thermal equilibrium of the sample after each C step.
+
+As lithium could have been lost during the ﬁring process, lithium content analysis was performed.
+After centrifugation , the 80 solution was analyzed using ﬂame photometry giving the expected content ± 2%, indicating that lithium ion was completely exchanged out and that no loss of lithium occurs during heating.
+EDX analysis done on more than 30 crystallites with a KEVEX energy-dispersive X-ray spectrometer coupled with a TEM JEOL 2010 has revealed the simultaneous presence of neodymium, zirconium, phosphorus and oxygen and the absence of chlorine.
+The analyses for neodymium and zirconium led to 0.12 ≤ [Nd]/[Zr] ≤.
+0.14 .
+This means that the atomic ratio of our sample exhibits stoichiometric composition within experimental error.
+The room temperature XRD pattern of Li0.2Nd0.8/3Zr2(PO4)3 reveals strong (hkl) lines characteristic of a NASICON-type compound (Fig.2a).
+However, a careful examination indicates
+
+Vertical bars are related to the calculated Bragg reﬂection positions corresponding from top to bottom to NASICON phase, ZrP2O7 and Zr2O(PO4)2. 
+(The inset shows a selected region of the same pattern.
+)that this pattern does not correspond neither to those of the two varieties of a-LiZr2(PO4)3 (R¯3c at high temperature,2 and C ¯1 at low temperature1,13) nor to that of Nd1/3Zr2(PO4)3 (P¯3c1).
+Moreover, it cannot be indexed with the other cells classically encountered in such compounds.
+As no acceptable solution was found by auto-indexing with the program TREOR, we decided to perform a TEM study on several crystallites (Fig.3).
+The reconstitution of their reciprocal space led to a larger hexagonalcell with the following parameters a ≈ 8.7 A˚ and c ≈ 46.1 A˚ corresponding to the doubling of the classical c parameter of the NASICON unit cell.
+These cell parameters values being not far from the ones usually observed in other NASICON-type compounds, it means that in our compound, the [Zr2(PO4)3]− network is probably preserved and that the doubling of the c parameter can then be due to a special ordering of the A cations in this network.
+We also deduced from the systematic absences that the R-as an extinction symbol which is compatible with the centrosymmetric space groups R¯3 (No.148) and R¯3m (No.166) and the corresponding acentric space groups.
+We tested then the new super cell deduced from the TEM study and observed that it indexed all the lines of the XRD patterns.
+The Rietveld calculations, performed in the R¯3 space group, was realized with an atomic model transposed from the one of La1/3Ti2(PO4)3  for the [M2(PO4)3]− network.
+Better convergence of the reﬁnement calculations is reached by using soft-constrained P–O and Zr–O distances.
+In addition and as the sample is contaminated by ZrP2O7 and Zr2O(PO4)2, the reﬁnements are performed with a three phases option, the two impurities being handled by the Le Bail method.
+When [Zr2(PO4)3]− network atomic positions are reﬁned, Fourier-difference calculations are performed and reveal three possible positions for the Nd3+ cations : sites 3a (0, 0, 0), 3b (0, 0, 1/2) and 6c (0, 0, z) with z close to 0.748. These three sites correspond to the M1 positions described in the R¯3c space group of many NASICON-type phases.
+However, further reﬁnements of their occupation factors with global constraint to its nominal value (i.e.3.2 atoms Nd per unit-cell), completely ﬁll the 3a site while the 6c site empties, the remaining Nd3+ ions (0.2) being located in the 3b site.
+As neutron diffraction is more sensitive for the location of light atoms such as P and O while the Nd3+ repartition is more accessible by XRD, we tested at this step a complete structural reﬁnement with both the XRD and the neutron diffraction data.
+In such conditions and without any soft-constrained distances, the reﬁnement converges quickly towards good reliability factors (Table 1).
+Fig.2 shows the corresponding experimental, calculated and difference proﬁles for both X-ray and neutron diffraction patterns.
+We tried then to localize the Li+ cations from neutrons data but no residual negative peaks were found on the Fourier difference map.
+This can be explained by the low lithium content (2.4 Li per unit cell) and/or by the fact that the Li+ ions may be located in the same cavities as Nd3+ ions, cavities which are partially ﬁlled.
+In such case, Nd3+ and Li+ ions are of course not simultaneously present in the same cavity and not located on the same crystallographic site due to their different ionic radii .
+So, we did not try to reﬁne mixed Li+/Nd3+ sites and decided to omit the lithium contribution.
+Table 1 gathers the ﬁnal cell parameters and the reﬁned proﬁle parameters together with the reliability factors for both X-ray and neutron diffraction data.
+The structure of Li0.2Nd0.8/3Zr2(PO4)3, illustrated in Fig.4, can be described from the classical three-dimensional [Zr2(PO4)3]− NASICON-type network.
+The atomic distances and valence sums are classical (Tables 3 and 4) which once again proves the potential of working with both X-ray and neutron diffraction data.
+A precise examination of the atomic positions (Table 2) for all the atoms of the [Zr2(PO4)3]− network conﬁrms that the doubling of the c parameter is mainly driven by a special Nd3+ distribution which cannot be described in the simple hexagonal cell with c parameter close to 23 A˚ .
+As usual, the Nd3+ ions are surrounded by 6 oxygens forming thus antiprism cavities which are created by the framework of the ZrO6 octahedra and PO4 tetrahedra.
+The Nd–O distances observed are larger than the sum of the ionic radii 18 for a 6-fold coordinated cation, leading consequently at the same time to an anomalous high thermal factor and a low bond valence sum .
+If we consider other structural studies on RE1/3Zr2(PO4)3 14,20 we realize that low bond valence (BV) sums and high thermal factors (Biso) for the RE cations are systematically observed.
+
+situation is due to the size of the O6 cavity which is too large to well accommodate all the RE3+ cations whatever their size.
+As usual, the structure obtained by powder diffraction study is an average one which means that these cations can be locally distributed offcenter within this cavity.
+This could be checked by high resolution electron microscopy images as we done for La1/3Zr2(PO4)3.21 Unfortunately, our sample undergoes a structural transition under the electron beam preventing the observation of the RT form.
+XRD patterns were recorded at various temperatures from RT to C in order to follow a possible diffusion of the Nd3+ cations 1000 in the [Zr2(PO4)3]− network, as observed for the La3+ cations in La1/3Zr2(PO4)3 .
+In addition, this will allow us to obtain the thermal expansion coefﬁcients aa and ac.
+Fig.5 presents the TXRD C, only subtle modiﬁcations are patterns evolution: below 600 C, the intensity of (hkl) lines with l odd observed, while above 700 ◦ C, these lines completely disappear strongly decreases.
+At 1000 allowing us to index all the remaining ones in a simple hexagonal cell with a ≈ 8.75 A˚ and c ≈ 23.9 A˚ with a preserved R mode.
+In order to follow the thermal structural evolution of our compound, complete R¯3 structural reﬁnements from XRD data are performed C, we observe a rapid between 600 and 1000 decrease of the 3a site population in favor of the 3b one .
+This leads, at 1000 C, to the same occupation rate of these two sites and then consequently to the loss of the c parameter doubling.
+At C, the reﬁnements, performed in a simple hexagonal cell and 1000 with soft constrained P–O and Zr–O distances, converge quickly to good reliability factors (Table 1), with a good minimization of the difference between the experimental and the calculated XRD patterns (Fig.7).
+Final atomic coordinates, sof and Biso values are gathered in Table 2, while Table 3 presents selected interatomic distances and bond valence sums.
+This study also makes it possible to follow the thermal cell parameters evolution from Rietveld pattern reﬁnements (pattern matching mode).
+On the whole temperature range, an increase of the a parameter is observed, while the c parameter decreases (Fig.8) with a slight deviation from linearity around 600– C for the two curves.
+This deviation can be correlated 700 to the beginning of the Nd3+ movement which starts at this temperature range as seen in Fig.6. 
+The cell parameters variation leads to a small volume expansion between RT and 1000 C, as often encountered for NASICON-type compounds crystallizing C: 2V = in the R¯3 space group.
+From these evolutions, the expansion coefﬁcients can C from the formula ap be calculated between RT and 1000 (with ap = (1/p) C−1 and ac  (for the calculation, the c parameter has been multiplied by 2 for T ≥ 900After the cooling of the sample, a new Rietveld reﬁnement was performed at room temperature and revealed that the transition is completely reversible with a rapid diffusion of the Nd3+ cations in the [Zr2(PO4)3]− network.
+This is in agreement with the observation made on the result of the long annealing performed C: indeed, this step, made to ensure the thermodynamical at 500 equilibrium, brings no modiﬁcation of the XRD pattern revealing that the Nd3+ diffusion process is very fast.
+However, despite the great facility of Nd3+ to diffuse, the hexagonal network slowly relaxes, as shown by the cell parameters values obtained at RT after the TXRD study .
+In La1/3Zr2(PO4)3, we observed also a diffusion of the two La3+ ions in the cell giving rise to a structural transition from P¯3 to P¯3c1 but a large hysteresis phenomenon was observed and a extremely slow cooling must be applied to the sample to obtain the thermodynamical equilibrium state.
+These two different behaviors can be correlated with the size of the RE3+ cation18: the smallest one, Nd3+ (Ri = 0.983 A˚ in a 6-coordinated site) can easily move in the pathways of the [Zr2(PO4)3]− network while the largest La3+ (Ri = 1.032 A˚ in a 6-coordinated site) have more difﬁculty to diffuse.
+Finally and as encountered for La1/3Zr2(PO4)3,21 a structural change induced by the electron beam energy is also evidenced for Li0.2Nd0.8/3Zr2(PO4)3. During the observations in the TEM study (SAED), two different sets of (hkl) spots can be considered (Fig.
+3a): a ﬁrst set with the strong intensity spots corresponding to the classical small cell (c ≈ 23 A˚ ) and a weaker set clearly associated with the double cell (c ≈ 46 A˚ ).
+However, an evolution of the spot intensities can be seen: the spots belonging to the weaker set slowly disappear implying then the progressive loss of the c-parameter doubling.
+In good agreement with the TXRD study, the ﬁnal cell belongs clearly to the R mode.
+As an example, the Fig.9 shows a SAED pattern at the end of the transformation with a [010] zone axis orientation.
+This pattern can be compared to that of the Fig.3a: along the c direction, one spot over two disappeared.
+Fig.9 Typical SAED patterns of Li0.2Nd0.8/3Zr2(PO4)3 at the end of the transformation due to the loss of the double c parameter.
+Sintering and ionic conductivitySince the total ionic conductivity in such phases is mainly controlled by the grain-boundary conductivity, we need well-sintered materials to perform the impedance spectroscopy measurements.
+Unfortunately and due to the low stability of various NASICONtype compounds, a good densiﬁcation is very difﬁcult to obtain.
+This has led researchers to use MgO23, TiO2 , LiNO3.25 or ZnO26 as sintering aids for the densiﬁcation.
+In most of the cases, these sintering aids are introduced during the synthesis.
+We tried then to add these products to our compound but either they were ﬁnally incorporated in the lattice, changing the composition, or the compacity remained too low (65%).
+Finally, we succeeded in reducing the porosity from 35 to 15% thanks to the following method : 0.3 g of Li0.2Nd0.8/3Zr2(PO4)3, previously heated at 900 C, was mixed in ethanol at a rotation speed of 300 rpm for 4 h by a ball milling method in zirconium oxide jars with zirconium oxide balls.
+The resulting powder was uniaxially pressed with polyvinyl alcohol into a pellet of diameter≈ 5 mm and thickness≈ 2 mm and Fig.8 Evolution of the unit cell parameters versus temperature for Li0.2Nd0.8/3Zr2(PO4)3. 
+The pellet was then slowly C min−1) to enable the departure of heated at 500 C) the polyvinyl alcohol, introduced then in a hot furnace (1350 for 5 minutes and rapidly quenched in air.
+To control the eventual decomposition of the phase, an XRD pattern of the two sides of the pellet was systematically recorded to select samples containing the least amount of Zr2O(PO4)2 possible.
+The electrical properties of Li0.2Nd0.8/3Zr2(PO4)3 have been studied by means of impedance spectroscopy in the temperature C in a dehydrated N2 atmosphere.
+Fig.10 range from 25 to 525 shows a typical impedance plot in the Nyquist plane obtained at C.
+As expected, the spike at low frequency can be attributed 75 to the electrode polarization (C = 0.5–5 lF) which increases with temperature, conﬁrming the ionic nature of the conductivity.
+At high frequency, we can observe two semi-circles corresponding to two different overlapping relaxation processes due to the ionic motion through the grain (bulk, C ≈ 9 × 10−12 F) and through the grain boundaries (C ≈ 2.5 × 10−11 F).
+At low C), the data were reﬁned with an equivalent temperature (25–225 electrical model (Fig.10) which represents the two relaxations and the electrode polarization.
+The dipolar part of the sample and the electrode polarization were modelled by a constant phase element (CPE), while the conductive part is represented by a resistance R.
+From 225 to 525 C the two relaxations can not be separately reﬁned and are modelled by only one resistance.
+Fig.11 presents the temperature dependence of the bulk and of the total (bulk + grain boundaries) ion conductivities plotted in an Arrhenius fashion.
+The deduced activation energy for the bulk corresponds to Ea = 0.47 eV and the ionic conductivity C temperature to r = 4.90 × 10−6 S cm−1. This Ea at 75 value is lower than the Ln1/3Zr2(PO4)3 ones already published  and slightly higher than the one observed for LiZr2(PO4)3 (0.42 eV).
+However, it is difﬁcult to discuss these values since the authors do not precise if the data have been deduced from the bulk or from the total (bulk + grain boundaries) ion conductivities.
+Moreover, it has been demonstrated that the way of the synthesis and the thermal history of the sample could inﬂuence the Ea parameter as well as the ionic conductivity values9: the better the crystallinity state is,Fig.10 Complex impedance diagram in the Nyquist plane for Li0.2Nd0.8/3Zr2(PO4)3 recorded in dry N2 at 75 C, with inserted, the equivalent electrical model used for experimental data ﬁtting.
+Fig.11 Logarithmic plot of ionic conductivity as a function of reciprocal temperature for Li0.2Nd0.8/3Zr2(PO4)3.the lower the Ea value is with the same conclusion for the ionic conductivity.
+Since our Li0.2Nd0.8/3Zr2(PO4)3 sample has not been prepared by the same way that Ln1/3Zr2(PO4)3 or LiZr2(PO4)3, it seems difﬁcult to draw some conclusions.
+However, to complete this study and to precise the nature of the ion responsible of the conduction, impedance spectroscopy measurements have been carried out on a Nd1/3Zr2(PO4)3 sample synthesized by us from the same complex polymerizable method.
+The impedance plot, in the Nyquist plane obtained at room temperature, exhibits a spike at low frequency (500 lHz) which can be attributed to the electrode polarization conﬁrming the ability of the Nd3+ ions to move in the [Zr2(PO4)3]− network.
+In order to determine if the ionic conductivity of Li0.2Nd0.8/3Zr2(PO4)3should be ascribed to Li+ and/or to Nd3+ ions, the same experiment was then performed with, at ﬁrst, lithium electrodes (non blocking Li+ ions electrodes) and with platinum electrodes in the second case (blocking ions electrodes).
+The experiments have been undertaken in an Ar atmosphere in a glove box at room temperature.
+With lithium electrodes, no polarization is observed meaning that the Nd3+ ions displacement in the network is negligible at this temperature when Li+ ions are present.
+In the case of platinum electrodes, a polarization is observed below 10 Hz.
+Taking into account all these results, this polarization is probably be due to the Li+ ions movement meaning that the conduction in Li0.2Nd0.8/3Zr2(PO4)3 mainly results from a Li+ ions motion.
+ConclusionsThe NASICON compound Li0.2Nd0.8/3Zr2(PO4)3, which is a member of the solid solution Li1−xNdx/3Zr2(PO4)3 (x = 0.8), is synthesized by a complex polymerizable method.
+The powder neutron and X-ray diffraction data reveal that the compound crystallizes in a rhombohedral cell with the space group R¯3. 
+If the [Zr2(PO4)3]− network remains unchanged compared to classical structure, an unexpected Nd3+ cations distribution is observed at room temperature on the two 3a and 3b sites.
+This distribution leads to a doubling of the NASICON unit cell classical c parameter: a = 8.7160(3) A˚ and c = 46.105(1) A˚ ).
+As the pure neodymium phase Nd1/3Zr2(PO4)3 presents classical cell (P¯3c1, a ≈ 8.75 A˚ and c ≈ 23.05 A˚ ),14 it means that the doubling of the c parameter is induced by the presence of lithium in the ◦ C structure.
+
+In addition to the complete structural characterization, sintering tests have been performed in order to undertake impedance spectroscopy.
+The low decomposition temperature of NASICON compounds, makes difﬁcult to reach a high densiﬁcation of these materials without sintering aids.
+However, we succeeded in reducing the porosity to 15% by heating the compound at high temperature for a short C for 5 minutes) and by rapidly quenching it in time (1350 air.
+The ionic conductivity performed on such a sample is in good agreement with values obtained on NASICON materials: r = 4.21 × 10−7 S cm−1 at room temperature.

@@ -1,0 +1,15 @@
+Several ceramic half-cells with differing electrodecomposite thicknesses but identical formulations were assembledusing the spark plasma sintering (SPS) technique, in orderto conduct comparable investigations of their kinetic limitations.
+The SPS technique was used to assemble the compositeelectrode and the electrolyte together within a few minutes.
+NASICON-type Li1.5Al0.5Ge1.5(PO4)3 (LAGP) ceramicwas used as solid electrolyte, as it offers high ionic conductivity(3 × 10−4 S.cm−1 at 25 °C) with a Li+ transport numberof 1. LiFePO4 active material was used as a model material; itoffers an average flat potential of 3.45 V vs Li+/Li and areasonably high theoretical capacity of 170 mAh.g−1.Surface capacity values (from 0.8 to 3.5 mAh.cm−2), whichare proportional to electrode thickness, remained quite close tothe initial values after more than 20 cycles, even for a 325 μmthick electrode (3.5 mAh.cm−2).
+The overpotential in the flatplateau region was proportional to the current density used,which means that it was dependent only on the cell’s ohmicdrop.
+Performances were not limited by the ion transport intothe solid electrolyte and composite electrode volume - as inclassical Li-ion batteries - since the transport number of LAGPis one.
+Therefore, very thick electrode-enabling batteries withhigh-surface capacity can be considered.capacity,cyclability and polarization is investigated.
+The SPSsintering method enabled us to obtain dense inorganic halfcellswith well-defined and consistent interfaces.
+After morethan 20 cycles, no crack in the ceramics was observed.
+Surface capacity values were proportional to electrode thickness.
+Reversibility was very good after more than 20 cycles, as thecapacities remained similar to those obtained initially, even forthe 325 μm-thick electrode.
+After changing the rate, theoverpotential in the flat plateau region was proportional tothe current density, and dependent on the ohmic drops in thecell.
+Therefore, it was not limited by the transport into theelectrode volume (as in traditional Li-ion batteries) and a verythick electrode may be used.
+This is believed to be due to theuse of a solid electrolyte with a transport number equal to one,as well as to the enhanced kinetics of the electronic charge transfer and lithium ion solid diffusion at 100 °C.
+However,this conclusion is applicable to laboratory cells; many challenges remain in achieving commercially viable, recharge able all-solid-state batteries operating at room temperature.
+ 

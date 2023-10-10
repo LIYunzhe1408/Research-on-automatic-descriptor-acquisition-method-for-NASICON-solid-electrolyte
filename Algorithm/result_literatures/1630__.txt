@@ -1,0 +1,63 @@
+Structural  analogues  of  NASICON  are  known among complex oxides in sulfate, phosphate, arsenate, and molybdate systems.
+The considerable interest in the  preparation  and  characterization  of  NASICON phases  is  due  to  their  nonlinear  optical,  ferroelectric, and  superionic  properties  and  high  thermal  stability.
+Laser and luminescent materials have been prepared on the basis of these phases.
+The base of the crystal structure of the representatives of this family is a rhombohe , which is built of corXO dral framework  M3 3 4 2 ner-sharing MO  octahedra and XO  tetrahedra.
+Low charge  alkali  cations  reside  in  interstices,  which  are connected  into  a  system  of  channels  with  large  and variable cross sections.
+This endows some NASICON phases, namely those having partially vacant alkali cation positions, with superionic conductivity .
+
+NASICON structures have the following characteristic features:  a  high isomorphic  capacity   for extraframework cations and the possibility of isomorphic substitutions in the octahedra and tetrahedra of the framework.
+NASICON phases have a potential for use as solid electrolytes, catalysts, and matrices for immobilization of long-lived isotopes and toxins.
+MoO 3 4 The  possibility  of  varying  the  cationic  composition within one structure type offers a means for the targeted synthesis  of  NASICON  phases;  the  necessary  conditions for the appearance of this structure are the size of octahedral cations equal to  Å (R = Yb, Lu, or Sc; and A = Mg, Mn, Co, or Ni meet this condition) and + .
+the size of the extraframework cation KOne goal in this work is to study the possibility of Yb,  Lu,  Sc,  Mg,  Mn,  Co,  and  Ni  octahedral  cations entering  the  NASICON  structure.
+Another  goal  is  to determine the crystallization regions for triple molyb and their atom-vacancy solid soludates KAR tions K .
+Still another goal is to   study  crystal  characteristics  and  discuss  the  effect  of cation  substitutions  on  the  distortion  of  coordination polyhedra  and  cation  distributions  in  some  phases  of variable composition.
+The study was carried out in two stages.
+First, 3 the phase composition of the samples whose chemical composition corresponded to the meeting points of all sections  in  systems  K   was MoO  studied by X-ray diffraction.
+As a result, the system was triangulated.
+Second, the quasi-binary joins determined at the ﬁrst stage were studied.
+ Samples  with  compositions KAR lying along quasi-binary joins were prepared in 25–5 mol % steps; 
+Samples were annealed at 450, 550, 600, 650, and 700.
+Nickel and cobalt samples were in addition annealed at 750 and 800°ë with intermediate grinding every 20–30 h.
+The annealing time at each temperature was 80–100 h.
+Once annealed, samples were slowly cooled with the furnace.
+Nonequilibrated  samples  were  annealed  additionally.
+Equilibrium was considered acquired if the phase composition of a sample remained unchanged after two sequential anneals.
+Synthesis  products  were  identiﬁed  by  X-ray powder  diffraction  (FR-552  monochromator  camera, CuKα radiation, Ge internal standard).
+Powder patterns were digitized on an IZA-2 comparator.
+The standard program package Rentgen was used to process X-ray diffraction patterns (Table 1).
+Vibration  spectra  were  recorded  from  polycrystalline M1 – xA1 – xR1 + x(MoO4)3 samples (Bruker FT-IR and Specord  M80  spectrometers,  excitation  with  near-IR laser (1.06 nm), reﬂection geometry, 3–5 cm–1 resolution).
+Test samples were Nujol mulls on polyethylene substrates  or  KBr  disks.
+Molybdenum-isotope-substituted  samples  were  prepared  from  92MoO3  and 100MoO3.  
+Vibration  frequencies  are  compiled  in Tables 2 and 3.Differential thermal analysis (DTA) was performed on an MOM OD-103 derivatograph (temperature elevation rate, 10 K/min; sample sizes, 0.3–0.4 g).
+The  interactions  in  systems  K2MoO4–AMoO4– R2(MoO4)3  at  600–650°C  are  slow  and  do  not  go  to completion.
+The annealing temperature was progressively elevated  to  700–800.
+Annealing  at  750–800 for 150−200 h yielded single-phase K1 – xA1 – xR1 + x(MoO4)3 samples, whose homogeneity ranges de-pended on the twoand three-charged cations.
+Scandium phases with A = Mg or Mn have the greatest extent: 0 ≤ x ≤ 0.6. 
+The ﬁgure illustrates phase relations in the system K2MoO4– MgMoO4–Sc2(MoO4)3;  in  the  other  systems,  they  are alike.
+X-ray  diffraction  showed  that  the  compounds K1 − xA1 – xR1 + x(MoO4)3 are isostructural to each other and  the  compound  Na0.625Zn0.625Sc1.375(MoO4)3 ; they crystallize in trigonal space group R c, Z = 6.
+The   structural   compounds K1− xA1 − xR1 + x(MoO4)3  is  the  framework  assembly  of octahedra A(R)O6 and tetrahedra MoO4. 
+This structure is  an  analogue  of  corundum:  atoms  A(R)  reside  onbase Phase relations in the system K2MoO4–MgMoO4–Sc2(MoO4)3 at     750.
+Vacant  octahedral  and  tetrahedral  voids  merge  into  a three-dimensional system of channels, which are ﬁlled by potassium cations.
+
+As  x  increases,  the  octahedral  positions  in  the K1 − xA1 – xR1 + x(MoO4)3 structure, which are randomly occupied by diand tervalent atoms, acquire an excess of the tervalent element and a deﬁcit of the divalent one.
+Potassium, which resides in interstices, is also in a deficit.
+This cation distribution increases the contribution of R–O to the overall electrostatic balance of the structure.
+In  order  for  the  balance  to  be  conserved,  K–O bonds should weaken, which is provided by the deﬁcit of extraframework potassium atoms and the increase in the framework size; the unit cell volume increases with increasing the K1 – xA1 – xR1 + x(MoO4)3 extent (Table 1).
+The        phases       of       variable          composition K1 – xA1 – xR1  +  x(MoO4)3  contain  isolated  distorted 2–, anionic tetrahedral groups   in their structure; MoO4 therefore,  we  can  comparatively  analyze  the  internal vibrations in these groups and the external vibrations of cationic sublattices and tetrahedra MoO4 as a whole.
+The 2– MoO4 bands associated with the vibrations of groups  can experience an isotopic shift upon 92Mo–100Mo substitutions (Tables 2, 3).
+X-ray  crystallography  shows  that  molybdenum atoms lay on twofold axes (c2) and atoms A and R on threefold axes (c3).
+The potassium site symmetry is c3i.
+The comparatively low symmetry of tetrahedra MoO4 implies that degeneracy is released from their doubly and  triply  degenerate  vibrations  and  that  the  components  of  the  full-symmetry  stretching  vibrations  are active in IR spectra.
+The group theory analysis implies the following distribution over irreducible representations for the factor group of space group D3d:Three lines of the vibrations of cations A2+ and R3+ should be observed in the Raman spectrum; in the IR spectrum,  there  are  two  bands  due  to  cations  K+  and three  due  to  A2+  +  R3+.
+Six  lines  associated  with  the vibrations of MoO4 groups should be observed in the Raman spectrum and nines bands in the IR spectrum.
+The  bands  with  frequencies  of  980–760  cm–1 (stretching  vibrations)  and  410–300  cm–1  (bending vibrations) were assigned to the internal vibrations inngroups MoO4; these bands, as a rule, experience shifts upon isotope substitution and lie in the spectral region characteristic of the vibrations in molybdenum–oxygen tetrahedra.
+Three  components  correspond  to  the  degenerate vibration in agreement with the low anion symmetry.
+The full-symmetry stretching vibrations of molybdate groups, which are distributed over two sets of crystallographic positions, are degenerate, probably because of the similar geometry and dynamics of these polyhedra.
+The  stretching  frequencies  along  the  series K1 − xA1 – xR1  +  x(MoO4)3  are  less  strongly  affected  by the nature of the cation but increase considerably withrising x (Tables 2, 3).
+This is likely due to the Mo–O bond energy increasing because of generation of extra cationic vacancies.
+The vibrations of potassium cations are inactive in the  Raman  spectrum;  the  lines  below  300  cm–1  are assigned  to  the  vibrations  of  two and  three-charged cations,  experience  a  shift  upon  cation  substitutions Mn   Sc, and are sensitive  to  molybdenum  isotope  substitutions  (282– 277 cm–1).
+Bands in the IR spectra behave in a similar manner.
+The band at 190 cm–1 is due to the dominant vibration  of  scandium  cations.
+The  low-frequency Raman bands at 124–82 cm–1 experience a shift upon substitution M n  Mg and are assigned to the vibrations of A2+.
+In the IR spectra, the bands below 160  cm–1  are  assigned  to  the  vibrations  of  potassium cations;  the  bands  associated  with  the  librations  of molybdate groups appear in the same region.
+The  above-described  study  implies  that  excess three-charged  cations  are  accommodated  at A2+  sites   R3+  +  ⵧ, upon  aliovalent  substitution  K  +  A2+  whereas the newly generated vacancies are located in the potassium sublattice.

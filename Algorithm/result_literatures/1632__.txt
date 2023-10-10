@@ -1,0 +1,119 @@
+New NASICON type materials of composition, Li3–2xAl2–xSbx(PO4)3 (x = 0⋅6 to 1⋅4), have been prepared and characterized by powder XRD and IR.D.C.conductivities were measured in the temperature range 300–573 K  by  a  two-probe  method.
+Impedance  studies  were  carried  out  in  the  frequency  region  10function  of  temperature  (300–573 K).
+An  Arrhenius  behaviour  is  observed  for  all  compositions  by  d.c.conducti-vity  and  the  Cole–Cole  plots  obtained  from  impedance  data  do  not  show  any  spikes  on  the  lower  frequency side  indicating  negligible  electrode  effects.
+A  maximum  conductivity  of  4⋅5 × 10  at  573 K  was  ob-tained for x = 0⋅8 of the Li3–2xAl2–xSbx(PO4)3 system.
+
+Skeletal materials based on sodium zirconium silico phosphate, popularly known as NASICON and sodium zirconium phosphate 
+abbreviated as NZP, have attracted considerable attention during the last 25 years and are investigated by several groups (Hong 1976).
+ The reasons for such an explosive growth of investigations are not far to seek. 
+The crystal chemistry of such materials is unique and possesses a
+framework structure with fast Na+ transport comparable
+to that of β″-alumina.
+The framework structure is a rigid, three-dimensional network of PO4 (or SiO4) tetrahedra sharing corners with ZrO6 octahedra encapsulating the mobile sodium ion in the interconnected interstitial space. 
+It is observed that majority of materials belonging to NASICON or NZP
+type crystallizes in the hexagonal lattice while a few of them adopt monoclinic lattice. 
+Phosphorous can be partially substituted by silicon. 
+Thus the structure is flexible for substitution at A, M, M′ and P
+sites, giving rise to a large number of isostructural compounds.
+The potential applications of NASICON type materials are well documented.
+At present, there is an intense interest in finding a lithium ion conductor with high conductivity and other properties suitable for utilization in high energy density batteries and other electrochemical devices . 
+The low equivalent weight and the high electropositive nature of Li which gives high cell voltage and high density of advanced electrochemical devices, paved the way for an intense search for a good ionic conductor with the requisite ceramic properties over the past
+several years. 
+Goodenough et al designed new cathode materials for rechargeable lithium batteries with NASICON structure of compositions, Li3Fe2(XO4)3 (X = P, As) and Li2NaV2(PO4)3 . 
+The crystal structures of several materials of composition,
+have been reported . 
+However, the electrical properties have not been reported for many of these materials.
+
+ Recently, for Li3–2xCr2–xTax(PO4)3 system,the maximum conductivity of 8⋅4 × 10–6S cm–1 at 298 K for x = 0⋅8 was obtained and it has been enhanced by about three to five times by the addition of lithium salts like Li2O or Li3PO4 or Li3BO3 (Aono et al 2004). 
+In continuation of our work on NASICON related materials, specially
+Li and Sb containing compositions (Rambabu et al 2006), we report here the preparation, characterization and conductivity studies of NASICON type solid solution of composition, Li3–2xAl2–xSbx(PO4)3 (x = 0⋅6–1⋅4).
+
+The solid solutions of LASP(x) were prepared by sequential heating of stoichiometric mixtures of Li2CO3, Sb2O5, Al2O3 and NH4H2PO4 (all AR grade chemicals) at 500°C (5 h), 700°C (5 h) and finally at 800°C (20 h) in air with intermediate grindings.
+ Attempts to prepare compositions with x < 0⋅6 either resulted in the melt formation or mixture of unknown phases.
+ Heating the reactants at a lower temperature (<800°C) for very long periods was also not successful. 
+Thus the phase formation range in the present LASP(x) series was 0⋅6 ≤ x ≤ 1⋅4 under the present experimental conditions. 
+Powder X-ray diffractograms were recorded using Philips Expert Analytical X-ray diffractometer.
+Nickel filtered Cu-Kα radiation of wavelength, 1⋅5406 Å, was used. XRD patterns were indexed and lattice parameters were calculated from the d-spacing of the powder pattern using a least squares minimization program‘POWD’ developed by Wu (1989).
+ Experimental densities were measured by Archimedes’ principle using
+xylene as an immersion liquid. 
+Calculated densities were obtained from lattice parameters. Infrared spectra were recorded in the form of KBr pellets using JASCO FT/IR-
+5300 Spectrometer. 
+The d.c. conductivities in the temperature range 300–573 K were measured using a twoprobe method on the sintered pellets coated with silver paint.
+ For this a conventional sample holder and Keithley Electrometer 610C were used. 
+A.C. impedance measurements were carried out by using HP4192a impedance analyser. 
+The temperature range of impedance measurements was 300–573 K and the frequency range, 100 Hz–1 MHz.
+
+The powder XRD patterns of LASP(x) are shown in figure1. 
+All the compositions (except for x = 0⋅6 and 0⋅8) are found to be single phase with no detectable impurities or unreacted starting materials. 
+The d-lines observed for x = 1⋅4, 1⋅2 and 1 compositions (i.e. for Li0⋅2Al0⋅6Sb1⋅4 (PO4)3, Li0⋅6Al0⋅8Sb1⋅2(PO4)3 and LiAlSb(PO4)3) clearly
+suggest a hexagonal lattice for these phases. 
+For x = 0⋅8 and 0⋅6 compositions (i.e. for Li1⋅4Al1⋅2Sb0⋅8(PO4)3 and
+Li1⋅8Al1⋅4Sb0⋅6(PO4)3), though majority of observed d-lines correspond to hexagonal NASICON phase, d-lines belonging to monoclinic NASICON phase are noticed.
+ For instance, the two d-lines in the range 2θ ≈ 13–17° corresponding
+to 020 and 111 planes, respectively belong to monoclinic NASICON phase (Aono et al 2004). 
+These two compositions cannot be regarded as pure monoclinic phase due to the following observations: (i) observation of intense peaks at 2θ ≈ 21, 22, 25, 31 and 34° which are due to hexagonal NASICON phase and (ii) absence of low intense d lines at 2θ ≈ 22–24° and 26–30°  corresponding to monoclinic phase.
+ Thus the compositions, Li1⋅4Al1⋅2Sb0⋅8 (PO4)3 and Li1⋅8Al1⋅4Sb0⋅6(PO4)3, can be regarded as predominantly hexagonal with a trace of monoclinic phase.
+It is expected that for x < 0⋅6 compositions the monoclinic phase may be formed with or without trace of hexagonal phase. 
+Similar results were obtained for Li3–2xCr2–x Tax(PO4)3 system (Aono et al 2004). The lattice parameters for all the compositions are derived assuming hexagonal lattice. 
+The lattice parameters thus obtained are presented in table 1 with the calculated and observed densities for all the compositions along with other similar compositions for comparison. 
+The observed and calculated d-spacing and intensities of various hkl reflections for Li1⋅4Al1⋅2Sb0⋅8(PO4)3 are presented in table 2.
+The IR spectra of LASP(x) compositions are recorded in the range 2000–400 cm–1.
+ All the compositions exhibit strong absorptions below 1500 cm
+–1 and the assignments of the bands are presented in table 3.
+ Generally the vibrational modes of NASICON phases can be assigned to PO4 tetrahedra (internal and external modes) and to lattice modes
+of metal octahedra. 
+Of these, the bands corresponding to PO4 unit are intense than metal octahedral bands. 
+The assignments for the observed bands have been made based on the predictions of factor group analysis . 
+The PO4 unit gives nine vibrational modes that are characterized by
+non-degenerate symmetric νs(PO) (ν1), antisymmetric triply degenerate νd(PO) (ν3) of phosphorous non-bridging oxygen stretching and the symmetric doubly degenerate δd(OPO) bending (ν2) and antisymmetric triply degenerate δd(OPO) bending (ν4) . 
+The PO4 external modes corresponding to vibrational and translational motions of these groups are generally observed below 300 cm–1. 
+Due to the instrumental constraints the spectra could not be recorded below 400 cm –1 and hence the corresponding assignments could
+not be made.
+ The absence of any IR bands in the region 740–730 cm –1 proves the absence of pyro phosphate impurity. 
+Similar types of spectra are obtained for sodium and lithium analogues .
+
+The d.c. conductivity values are calculated from the bulk resistance and sample dimensions in the temperature range 300–573 K. 
+Figure 2 shows the variation of log(σT) with 1000/T for all compositions and a linear relationship is obtained. 
+A comparison between (i) the temperature dependence of conductivity and (ii) change in the structure with the value of x is worth mentioning. 
+It is observed that in the system LASP(x), for x ≥ 1, it crystallizes in hexagonal lattice while for x < 1 the monoclinic phase starts crystallizing.
+It is reasonable to expect differences in the temperature dependence of conductivity in these phases.
+However, in the present investigation, the conductivity variation with temperature is similar for all the compositions i.e. for LASP(x). 
+This indicates that the Li3Al2(PO4)3 based system does not have a change in conductivity associated with the structural phase transition as reported for Li3Cr2(PO4)3, Li3In2(PO4)3 and Li3Sc2(PO4)3 .
+ It is observed from the figure that the conductivity increases with increase in temperature. 
+The behaviour of variation of conductivity with temperature is similar to that observed in other NASICON type of compounds. 
+The data were fitted to Arrhenius equation.
+In the present paper, the impedance data of x = 0⋅8 is analysed in detail (similar impedance and modulus spectroscopy data were observed for all remaining compositions).
+The impedance data for LASP (x = 0⋅8) is represented in two different types of figures: (a) Cole–Cole plots of real (Z′) and imaginary (Z″) parts of impedance (figure 3) and (b) frequency explicit plots of imaginary part of impedance (Jonscher 1980). 
+All the frequency dependent graphs of Z″ show a peak in the temperature range 473–573 K.
+In those plots where peaks are observed, the peak frequency is found to be a function of temperature. 
+The inverse of peak frequency as a function of temperature on a semi log scale is plotted as log τ vs 1000/T. 
+The straight line behaviour of this graph indicates Debye like behaviour
+of dipoles responsible for the peak in Z″ vs frequency plots . 
+The relaxation time of dipoles is found to decrease with increase in temperature.
+The calculated activation energy (Ea relax) for relaxation is 0⋅76 eV. The small activation energy for relaxation indicates the presence of associated charged defects. 
+The complex impedance plots does not show semicircles up to 323 K but as the temperature increases the curves attain greater curvature and become perfect semicircles. 
+All these plots terminate at the origin indicating the absence of series resistance in the equivalent circuit model of the sample. 
+The absence of spike at the lower frequency side of Cole–Cole plots indicates negligible electrode effects.
+ All the semicircles start on the real impedance axis at the lowest frequency. 
+This starting point is found to decrease with increase in temperature.
+Low frequency intercepts of these semicircles on real axis give the resistance of the sample at the temperature of the Cole–Cole plots. 
+The conductivity of all the samples is calculated from these intercepts and plotted as a function of inverse of temperature on semi log scale. The activation energy (Ea bulk) of conductivity from these plots is 0⋅77 eV for LASP (x = 0⋅8) composition. 
+It is observed that Ea (bulk) is very close to activation energy for relaxation (Ea relax) for all the compositions (table 4).
+The frequency variation of conductivity shows two slopes at all the temperatures of the present measurements.
+The low frequency and low temperature conductivity could be because of the intrinsic defects and charge agglomerations present in the sample.
+The variation of slope of conductivity plots at lower frequency is an indication of presence of such defects. 
+These graphs can be fit to the equation 
+
+The plots of imaginary parts of the impedance, Z″ and electric modulus, M″, against log frequency show single peak in both Z″ and M″ spectra separated by less than half a decade of frequency. 
+The peak width at half height is about 1⋅22 decades, which is close to 1⋅14 decades expected for Debye peak (Enrique Losilla et al 1998). 
+Since Z″ and M″ peaks are almost coincident and there is no evidence of any additional peaks at lower frequencies in the Z″ spectrum, the observed results represent bulk conductivities.
+The absence of additional peaks in the Z″ spectrum indicates no grain boundary contributions to impedance and the observed results are due to bulk (grain) conductivity only.
+
+New lithium NASICON of composition, Li3–2xAl2–xSbx (PO4)3 (x = 0⋅6 to 1⋅4), is prepared and characterized by IR and powder XRD.
+ LASP(x) compositions in the range 1 ≤ x ≤ 1⋅4 crystallize in hexagonal lattice of NASICON framework while for 0⋅6 ≤ x < 1 compositions a trace of monoclinic phase was observed. 
+These samples show characteristic PO4 vibrations. The activation energies obtained from d.c. conductivities are in the range 1–1⋅4 eV. 
+The activation energies obtained from (i) frequency explicit log(ω)max vs inverse of temperature and (ii) Cole–Cole log fmax vs inverse of temperature plots are of the same order. 
+All the Cole–Cole plots terminate at the origin indicating the absence of series resistance in the equivalent circuit model of the sample. 
+The presence of a single peak in the plots of both log f vs Z″ and log f vs M″ indicates bulk conductivity and absence of any grain boundary contribution to impedance. 
+The height, full width at half maximum of the M″ max peak and near coincidence of the M″ max and Z″ max peaks in these plots suggest the Debye behaviour of this sample.
+

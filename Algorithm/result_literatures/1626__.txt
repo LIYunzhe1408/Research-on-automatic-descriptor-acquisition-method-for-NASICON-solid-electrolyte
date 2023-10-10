@@ -1,0 +1,133 @@
+New Nasicon type of compounds of composition AgSbMP3O12 (M = Al, Ga, Fe and Cr) are synthesized by solid-state method.
+All the compounds crystallize in the hexagonal lattice with space group R3c.
+The infrared spectra of these compounds show characteristic bands due to PO4 group.
+The frequency independent conductivity of these compounds shows Arrhenius type behavior and the activation energy for conduction is in the range 0.40–0.55 eV.
+Frequency independent conductivity (sdc) studies and frequency dependent (sac) impedance measurements correlate well.
+The Cole–Cole plots do not show any spikes on the lower frequency side indicating negligible electrode effects.
+The activation energies obtained from the plots of log sdcT versus 1/T, log sac(0) versus 1/T and log t versus 1/T are approximately the same.
+The peak width at half height for electric modulus (M00) plot is 1.24 decades for all samples, which is close to 1.14 decades observed for Debye solid.
+The height of electric modulus (M00) obtained from the experimental plots are close to that of M00 (max) = C0/2C indicating the Debye nature of the samples.
+Nasicon is an acronym for Sodium (Na) Super Ionic CONductor.
+It represents the composition Na3Zr2PSi2O12, a member of the sodium zirconium silicophosphate series, Na1+xZr2P3 xSixO12 ) possessing a framework structure and fast Na+ transport comparable to that of b00-alumina.
+The high ionic conductivity and the possibility of exchanging the Na+ ion with Li+, Ag+ and K+ reversibly, has stimulated interest in the study of this family of compounds.
+The framework structure is a rigid, three-dimensional network of PO4 (or SiO4) tetrahedra sharing corners with ZrO6 octahedra encapsulating the mobile sodium ion in the interconnected interstitial space.
+The sodium ions can occupy two different sites: the ﬁrst one is an octahedral Na1 (6b) position situated between two ZrO6 octahedra; the second sodium (Na2) with eight-fold coordination (18e) is located between the columns (Fig.1).
+Of these two sites, Na1 is completely occupied in both the end members of the Nasicon series and the occupancy of the Na2 site varies across the series from 0 to 100%.
+Among the framework structures possessing super ionic conduction, the Nasicon family of solid materials forms one of the best choices.
+The potential applications of Nasicon type materials are well documented .
+Alamo has reviewed all the possible Nasicon derivatives obtained by various chemical substitutions.
+Though, studies on sodium and lithium containing Nasicons are extensive, to our knowledge reports on silver containing Nasicon type materials AgMVMIII(PO4)3 are very few .
+We have recently investigated the conductivity of AgTaMP3O12 (M = Al, Ga, Fe, In, Cr and Y) .
+The reasons for undertaking silver containing Nasicons are: (i) the ionic conductivity of Ag+ is comparable to that of Na+ and Li+ and in general silver containing compounds possess fairly high conductivity, (ii) silver ion can be reduced to metallic silver facilitating the formation of proton conductors and (iii) silver containing Nasicons have good catalytic activity.
+This paper deals with preparation, characterization and conductivity studies of AgSbAlP3O12, AgSbGaP3O12, AgSbCrP3O12 and AgSbFeP3O12 (here after ASAP, ASGP, ASFP and ASCP, respectively).
+The compounds of composition AgSbMP3O12 (M = Al, Ga, Fe and Cr) are prepared by reacting stoichiometric mixtures of AgNO3, M2O3 (M = Al, Ga, Cr, Fe), Sb2O5 and NH4H2PO4 (all AR Grade Chemicals) at 500 8C (4 h), 750 8C (4 h) and ﬁnally at 900–950 8C (10 h) in air with intermittent grinding.
+Powder X-ray diffractograms are recorded using Philips X’pert analytical X-ray diffactometer.
+Nickel ﬁltered Cu Ka radiation of wavelength 1.5406 A˚ is used.
+XRD patterns are indexed and lattice parameters are calculated.
+Theoretical and experimental densities are calculated using lattice parameters and physical dimensions, respectively.
+Infrared spectra are recorded in the form of KBr pellets using JASCO FT/IR-5300 Spectrometer.
+The dc conductivities in the temperature range 300–623 K are measured using a two-probe method on the sintered pellets coated with silver paint.
+A conventional sample holder and Kiethley Electrometer 610C are used.
+The complex impedance of the sample between inert electrodes is measured using AutoLab PGSTAT-30 low frequency impedance analyzer in the frequency range of 50 Hz to 5 MHz.
+The low frequency impedance analyzer is interfaced to a computer for automated acquisition of the data at desired frequency and temperature.
+The room temperature powders X-ray diffractograms of all the four compounds are shown in Fig.2.
+ It is observed from these ﬁgures that all compounds forms single phase with no detectable impurity.
+These patterns are similar to that of lithium, sodium and silver analogues of same Nasicon framework reported earlier .
+The unit cell parameters are calculated by using least square reﬁnement method.
+The lattice parameters thus obtained for all the compounds are presented in Table 1, along with other similar silver Nasicon compositions for a comparison.
+All these compositions crystallize in rhombohedral lattice with space group R3c.
+A small variation in the lattice parameters is observed which is attributed to the variation of the size of trivalent metal ion.
+The IR spectra of AgSbMP3O12 (M = Al, Ga, Cr and Fe) are measured in the range 1500–400 cm 1.
+ All the compounds exhibit strong absorptions below 1500 cm.
+ The band positions and the corresponding assignments are presented in Table 2 for all the synthesized compounds.
+Generally the vibrational modes of Nasicon phases can be due to PO4 tetrahedra (internal and external modes) and to lattice modes of metal octahedra.
+The bands corresponding to PO4 unit are more prominent than that of metal octahedra.
+The assignments for the observed bands have been made based on the predictions of factor group analysis.
+The PO4 unit gives nine vibrational modes that are characterized by symmetric ns(PO) and antisymmetric degenerate nd(PO) of phosphorous non-bridging oxygen stretching (n1 and n3) and the symmetric/antisymmetric degenerate dd(OPO) bending (n2/n4).
+These modes are  1 observed in the frequency ranges 1275–1000 cm (n2) for all the compounds.
+Among the internal modes, the changes observed in the n3 mode could be attributed to polarizing nature of the metal ion.
+The more polarizing the ion (small size, large charge), the more localized are the electrons on the P–O (M) bond and therefore the higher will be the force constants and hence the frequencies .
+In the present series of compounds, the charge of the metal ion is same and therefore the polarizing power depends only on the ionic size.
+Since the ionic size of Al3+ and Ga3+ belonging to group III follows the order Al3+ < Ga3+ , the order of n3 is expected to be ASAP > ASGP.
+This is indeed the case as seen from Table 2. A similar trend is observed for the compounds containing Cr3+ and Fe3+ ions.
+The ionic size for these two ions follow the order Cr3+ < Fe3+ and n3 is expected to be in the order ASCP > ASFP.
+The PO4 external modes corresponding to vibrational  1. 
+Due to the instrumental constraints and translational motions of these groups are generally observed below 300 cm  1 and hence the corresponding assignments could not be made.
+the spectra could not be recorded below 400 cm  1 due to P–O–P vibration.
+In the present series, the Pyrophosphates (P2O7)4  is characterized by a band at 725 cm  1 indicates the absence of pyrophosphate impurity.
+Similar types of spectra are obtained for absence of band at 725 cm sodium, lithium and other silver Nasicon analogues.
+The variation of dc conductivity (sdc) with temperature is obtained from the resistance and the sample dimensions of the compounds AgSbMP3O12 (M = Al, Ga, Cr and Fe).
+The dc conductivity (sdc) plots are presented in Fig.3. 
+The temperature variation of conductivity is found to obey the Arrhenius behavior given by expwhere s0 is the conductivity at inﬁnite temperature, T the absolute temperature, Es the activation energy for conduction and k is the Boltzmann’s constant.
+The samples ASGP and ASCP show highest  and lowest conductivity at 350 8C, respectively.
+The conductivity plots of ASAP and ASCP show slight deviation from linearity in the lower temperature region.
+However, the high temperature region has linear dependence.
+The activation energies of conduction for these samples are given in Table 3 along with the conductivities at 150 and 350 8C for all these samples.
+It is observed that the activation energies fall in the narrow range 0.40–0.55 eV.
+These values compare well with the reported activation energies for similar high temperature solid electrolytes, like Nasicons.
+The activation energy of ASGP is found to be lowest (0.42 eV) and the activation energy of ASFP is found to be highest (0.51 eV) among these Nasicons.
+It is observed that the conductivity of the samples increase by an order of 4 when the temperature is increased from 30 to 350 8C.
+Such a temperature gradient of conductivity is suitable for high temperature solid electrolyte applications.
+3.4. Impedance studiesThe impedance measurements for the four samples were carried out in the temperature range 300–623 K and in the frequency range 50 Hz–5 MHz.
+The impedance data of all these compounds are plotted in four different ways: (i) Cole–Cole plots of real (Z0) and imaginary (Z00) parts of impedance, (ii) frequency explicit plots of imaginary part of impedance, (iii) (Z00) and (M00) mod versus log frequency plot and (iv) frequency dependant ac conductivity.
+The Cole–Cole plot of ASFP does not show any semi-circle up to 50 8C but as the temperature is increased a clear semi-circle like behavior is observed and from 200 8C onwards the perfect semi-circles are observed (Fig.4).
+All these semi-circles merge and terminate on the real impedance axis at higher frequency side.
+This indicates the presence of only bulk resistance for these samples and the grain boundary resistance is negligibly small as no second semi-circle is observed.
+The absence of the series resistance in the equivalent circuit model of the sample is also conﬁrmed from the above result.
+It is observed that the low frequency side of semi-circle is shifting towards lower values on real impedance axis with increasing temperature.
+This behavior of Cole–Cole plots is characteristic of conducting nature of the samples and hence it may be concluded that the series capacitance in the equivalent circuit representation of the sample is absent.
+Similar types of the complex impedance plane plots are obtained for the remaining three (ASAP, ASGP and ASCP) samples.
+It is noticed that the radius of semi-circles decreases with increase in temperature indicating decrease in relaxation time of the relaxing species.
+The bulk resistance of the sample at any particular temperature can be obtained from the low frequency intercept of the semi-circle in the Cole–Cole plots.
+This bulk resistance together with sample dimension are used to determine the low frequency (dc) conductivity and plotted as a function of inverse temperature for all the samples (Fig.5).
+From the slopes of the plot the activation energy for mobile ion is calculated for all these samples and listed in Table 3. These activation energy values obtained from ac impedance measurements are comparable with other similar Nasicons.
+These values are observed to be close to the activation energy of relaxation within the experimental errors.
+The data pertaining to the other three compounds are presented in Table 3.
+The frequency dependence of (Z00) for ASFP from 150 to 250 8C is characterized by a peak, which was not observed below 150 8C.
+The peak frequency is found to be dependent on the temperature of measurement.
+The inverse of peak frequency gives the relaxation time (t).
+A plot of log t versus 1000/T is shown in Fig.6. 
+The straight-line nature of these graphs indicates Debye type relaxation of the conducting species.
+The relaxation time of dipoles/charges is found to decrease with increase in temperature.
+The activation energy of relaxation is 0.36 eV.
+The small value of the activation energy of relaxation indicates the presence of activated charged defects.
+The Z00 versus log f plots for other three compounds (ASAP, ASGP and ASCP) also exhibit similar characteristics and the data pertaining to them are also given in Table 3.
+In order to understand electrical microstructure of the pellets and to ﬁnd out the presence of grain boundary or other combinations of resistance to overall bulk resistance of grains, the data are reploted as the imaginary part of impedance, Z00 and electric modulus, M00 against log frequency as shown in Fig.7 for ASFP.
+Only single peaks are observed in both Z00 and M00 spectra separated by around half a decade of frequency.
+This small separation again points to relatively good grain connectivity and absence of grain boundary contributions.
+The peak width at half height is 1.24 decades, which is close to 1.14 decade expected for Debye peak .
+The heights of M00 at different temperatures are found to be in the range of 0.008–0.010.
+ For an ideal Debye solid, M00 is given bywhere C0 = (e0A)/d (A and d are area and thickness of the pellet, e0 is permittivity of the free space), C is the capacitance of the pellet, which is calculated from the relation, vRC = 1 (v = 2pf max, R = the resistance obtained at lower frequency on the Cole–Cole plot).
+The M00 values obtained from the above equation and the observed M00 values are close to each other.
+This close similarity of M00 values conﬁrms the Debye like behavior of the present silver Nasicons.
+Observation of single peaks in M00 and Z00 plots and absence of any additional peaks at lower frequencies in the Z00 spectrum indicate negligible contribution of grain boundary and electrode effects to the total conductivity.
+Thus the observed conductivity is due only to bulk conductivity.
+The data pertaining to these plots are given in Table 4. Similar Z00 and M00 plots and data are obtained for ASAP, ASGP and ASCP samples.
+The frequency dependent conductivity for ASFP is shown in Fig.8. 
+The frequency variation of conductivity shows two slopes at all the temperatures.
+The low frequency conductivity is found to be constant up to 1000 Hz for the ASAP and up to >104 Hz for ASGP.
+Eq.(3) is used to ﬁt the ac conductivity of measured data and the corresponding values (exponents n1 and n2 along with s0, A and B) are calculated.
+This corresponds to the slope (n1), which is a very low value and is attributed to the dc part of the conductivity.
+At higher frequencies the variation of the conductivity is drastic and the slope (n2), is more than n1. 
+The values of n1 and n2 for ASFP are presented in Table 5. 
+The existence of two slopes and the variation of n1 and n2 values give an insight into the disorder present in the sample due to the charged defects.
+The spread in the values of n1 and its temperature dependence indicates the existence of temperature and frequency dependent defects in the sample as observed in the present measurements.
+Similar plots are obtained for ASAP and ASCP.
+It is interesting to note that ASGP is showing a very large range of frequency independent conductivity region compared to other three compounds.
+From the Cole–Cole plot it is clearly observed that ASGP has lowest bulk resistance while ASAP has highest bulk resistance.
+The frequency dependent Z00 plots of all compounds at 250 8C show that ASAP has a peak at low frequency and ASGP has a peak at high frequency.
+This means that the relaxation times for ASAP is highest and for ASGP is least among the Nasicons studied.
+The relaxation times for both Cr and Fe samples are almost the same.
+The difference between M00and Z00 peak positions is around half a decade.
+It is observed that the frequency dependent conductivity (parallel to frequency axis) is high for ASGP and low for ASAP among these four samples.
+At higher frequencies the conductivity is same for both ASGP and ASAP.
+However, the conductivities for ASCP and ASFP at higher frequencies are slightly less and slightly more, respectively when compared to either of ASGP and ASAP.
+New silver Nasicons of composition AgSbMP3O12 (M = Al, Ga, Cr, and Fe) are prepared and characterized by powder X-ray diffraction and infrared spectra.
+All the samples crystallize in rhombohedral lattice of Nasicon framework.
+These samples show characteristic PO4 vibrations.
+The activation energies obtained from frequency independent conductivities are in the range 0.40–0.55 eV.
+The room temperature frequency independent conductivity (sdc) and frequency independent conductivity obtained from impedance (sac(0)) agree well.
+The activation energies of AgSbMP3O12 (M = Al, Ga, Cr, and Fe) obtained from (i) frequency explicit log(v)max versus inverse of temperature and (ii) Cole–Cole log f max versus inverse of temperature plots are of the same order.
+All the Cole–Cole plots terminate at the origin indicating the absence of series resistance in the equivalent circuit model of the sample.
+The presence of a single peak in the plots of both log f versus imaginary part of impedance (Z00) and log f versus electric modulus (M00) indicates bulk conductivity and absence of any grain boundary contribution to impedance.
+The height, full width at half maximum of the electric modulus (M00 max peaks in these plots suggest the Debye behavior of this sample.

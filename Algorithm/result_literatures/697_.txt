@@ -1,0 +1,12 @@
+Nasicon type, Mg0.5+x/2Si2-xAlx(PO4)3 was synthesized using citric acid assisted sol-gel method.
+The X-ray diffraction was applied to investigatethe effect of extra Mg2+ interstitial ion on the phase, unit cell parameters and structure of the samples.
+The Mg0.625Si1.75Al0.25(PO4)3 sample exhibitedhighest bulk conductivity value of 1.54 × 10−4 S cm−1 at ambient temperature.
+The frequency dependence of the σac of these ceramic electrolytesfollows the universal power law variation, σac (ω) = σo + Aωα.
+The conductivity parameters such as hopping frequencies, charge carrier concentrationand mobile ion concentration proved that the increase in conductivity with x was due to the existence of Mg2+ interstitial ions.
+Theexperiment results also revealed that the dielectric constant and dielectric loss decreased with frequency.
+The Mg0.625Si1.75Al0.25(PO4)3 was foundto be electrochemically stable up to 2.51 V at ambient temperature.
+Magnesium batteries have recently attracted great interestdue to their high energy density and environmentally friendlycomponents.
+Theoretically, these Mg batteries can offer highvolumetric specific capacity compared to lithium (3833 mAh/cm3 for Mg vs.2046 mAh/cm3 for Li).
+Considering all theseaspects, it is clear that magnesium battery systems could offera significantly cheaper, safer and better-performing batteryoption in contrast to lithium.
+Despite these attractive attributesof Mg batteries, there are several challenges pertaining tothe use of cathodes, electrolytes and anodes.
+With respect toelectrolytes, the magnesium electrolytes’ compound has toshow high ionic conductivity, large enough interstitial void andhigh structural stability based on 3D framework.

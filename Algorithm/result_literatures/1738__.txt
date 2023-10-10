@@ -1,0 +1,83 @@
+The NASICON-type compound La1/3Zr2(PO4)3 has been studied by thermal X-ray diffraction.
+It wasfound to exhibit, around 1000 °C, a reversible phase transition from P3h to P3hc1 due to a modification ofthe lanthanum distribution in the [Zr2(PO4)3]- network.
+This evolution was confirmed by 31P NMR experimentsperformed on quenched La1/3Zr2(PO4)3 samples (T ) 700 and 1000 °C) and compared to roomtemperatureresults.
+To complete this study, impedance spectroscopy measurements were carried outbetween 330 and 730 °C, confirming the La3+ mobility in the NASICON network.
+La1/3Zr2(PO4)3 belongs to the NASICON family of generalformula AxM2(XO4)3.1 The structure consists of a threedimensionalnetwork built from MO6 octahedra and XO4tetrahedra interconnected by oxygen atoms.
+ The flexibilityin these structures allows chemical substitutions, giving riseto a large number of isostructural phases.
+Among thismaterials family, the RE1/3Zr2(PO4)3 series was first pointedout by Alami Talbi et al. in 1994. 
+More recently, thesecompounds were found to be RE3+ ionic conductors andpotential hosts for actinide immobilization, whereas nostructural study was undertaken until we published the roomtemperaturecrystal structure of La1/3Zr2(PO4)3.
+This compoundcrystallizes in the P3h space group, a new one in theNASICON family.
+In a very recent paper11 Bykov et al.indexed all the other RE1/3Zr2(PO4)3 diffraction patterns inthe P3hc1 space group and confirmed the different behaviorof the lanthanum variety.
+At the same time, a TEM investigationof La1/3Zr2(PO4)3 revealed the ability of La3+ ionsto displace in the [Zr2(PO4)3]- network.
+12 To complete thiswork, we performed thermal X-ray diffraction, 31P NMRspectroscopy, and ionic conductivity measurements onLa1/3Zr2(PO4)3.La1/3Zr2(PO4)3 powder was synthesized from La2O3,ZrOCl2â8H2O, and NH4H2PO4 in stoichiometric ratios using acomplex polymerizable method13 as described in our previouspaper.
+10 The molar ratios employed for citric acid (CA) and ethyleneglycol (EG) were respectively CA/M ) 15/1 (M ) [La] + [Zr])and CA/EG ) 1/4. The precursor obtained after the gel calcinationat 350 °C was ground and a first annealing was performed in afurnace between 800 and 1000 °C.
+The powder obtained was thenpelletized and heated at 1100 °C for 2 h.
+Three kinds of sampleshave been studied hereafter: the first one (A) was slowly cooled(rate of 100 °C/h with steps of 2 h every 50 °C) at 25 °C afterannealing at 1100 °C while the two others were quenched from700 °C (B) and 1000 °C (C) to room temperature in air, to retainthe structures observed by thermal XRD at these temperatures.
+Characterization.
+Thermal powder XRD measurements wererecorded, on the slowly cooled sample (A), from 25 to 1000 °C inair, with Cu KR radiation on a PANalytical X’Pert Pro diffractometerequipped with the X’celerator detector and an Anton PaarHTK 12 furnace.
+The details of data collections are presented inTable 1. Structure refinements were carried out by the Rietveldmethod, using Fullprof profile refinement software.
+ A pseudoVoigt function was applied for approximation of the diffractionprofiles and background correction was made manually.
+31P NMR experiments were carried out at room temperature, onthe three powdered samples.
+NMR spectra were recorded with aBruker Avance (DSX) 300 spectrometer, working at î0 ) 121.44MHz and using a 4 mm Magic Angle Spinning (MAS) probespinning up to 15 kHz.
+The amplitude of the radio frequency fieldfor 31P is î1 ) 70 kHz.
+The experimental parameters are reportedin Table 2. Owing to their long spin lattice relaxation times (up to100 s) and to obtain quantitative results, the acquisition begins witha saturation sequence followed by a long recycle time delay (100 s)in the 1D experiment.
+DMFIT software15 was used to fit the spectraand to obtain the line width, the peaks position, and the percentageof each contribution.
+For electrical conductivity measurements, the sample A powderwas uniaxially pressed into a pellet of diameter 5 mm andthickness 2.9 mm and then isostatically pressed at 400 MPa.
+Thepellet was then sintered at 1000 °C for 4 h.
+The compaction obtainedis only about 70% since the rapid decomposition of the phase doesnot allow sintering at a higher temperature or for a longer periodof time.
+Measurements were carried out with ion-blocking sputteredPt electrodes in a two-probe cell.
+The frequency response Analyser(Solartron 1260) and the Dielectric Interface (Solartron 1296) wereused in the frequency domain from 10 MHz to 1 Hz.
+Themeasurements were performed in air and in dehydrated N2atmosphere, in the temperature range from 330 to 730 °C.
+Beforeany measurement, linearity and stationary of the electrochemicalsystem were checked.
+So an ac voltage of 300 mV was used forevery measurement and a waiting time of 45 min was necessary toobtain thermal equilibrium of the sample after each 50 °C step.
+
+We recently published the room-temperaturecrystal structure of La1/3Zr2(PO4)3.10 This phase crystallizesin P3h space group with cell parameters (a ) 8.7492(2) Å; c) 23.2483(5) Å; Z ) 6) close to those of other NASICONtypecompounds.
+In this study, the sample, synthesized by acomplex polymerizable route, was heated at 1100 °C andnaturally cooled to room temperature in the furnace.
+Rietveld refinements revealed an unusual distribution of the La3+cation in the preserved [Zr2(PO4)3]- NASICON network:1 La3+ in the 1a (0,0,0) site (La1), 0.82(5) La3+ in the 1b(0,0,1/2) site (La2), and the remaining 0.18(3) La3+ in a 2d(1/3,2/3,0.6667) site (La3) (Figure 1a).
+Since this study,thermal X-ray diffraction measurements have been performedand have shown that the natural cooling did not allow theLa1/3Zr2(PO4)3 phase to be obtained in the real thermalequilibrium state.
+Indeed, a XRD pattern recorded at roomtemperature for an extremely slow cooled sample presentssubtle differences concerning the intensity of some peaks(003 and 101, for example) which are relative to the lanthanumrepartition (Figure 2).
+A new Rietveld refinementhas then been performed at room temperature, leading to aslightly different La3+ distribution: 1 La3+ in the La1 site,0.56(1) in the La2 site, and the remaining 0.44(1) in the La3one.
+Consequently, the following results correspond to theLa1/3Zr2(PO4)3 slowly cooled compound (A) which can beconsidered at thermal equilibrium.
+The thermal X-ray diffraction diagram evolution of sampleA is represented in Figure 3. Below 500 °C, no significantmodification is observed while above this temperature aprogressive diminution of the (003) and (101) diffractionpeaks intensity occurs until complete disappearance around1000 °C.
+Since the intensity of these peaks is directly linkedto the La3 site population, we can deduce that temperaturedrives the lanthanum distribution in the [Zr2(PO4)3]- network.
+This has been confirmed by Rietveld refinements (Table 3)at various temperatures which revealed that the La3 siteprogressively empties in favor of the La2 site.
+This phenomenonis clearly observed above 500 °C (Figure 4).
+At1000 °C, this evolution finally leads to only two sites forLa3+ ions, La1 and La2, which are then fully occupied.
+Atthis temperature the X-ray diffraction pattern can be correctlyfitted with the more symmetrical P3hc1 space group; this factindicates the occurrence of a structural phase transition P3hf P3hc1 around 1000 °C .
+This transition isreversible and presents a very large hysteresis.
+The refinementof thermal X-ray diffraction patterns show that, between room temperature and 1000 °C, the a and c parametersincrease from 8.7080 to 8.7290 Å and from 23.1710 to23.2201 Å, respectively.
+These variations lead to the followingexpansion coefficients: Ra ) 2.47  10-6 °C-1 andRc ) 2.17  10-6 °C-1 with a mean expansion coefficientof 2.37  10-6 °C-1, in good agreement with the low thermalexpansion usually encountered for these materials.
+Table 4 presents the final atomic parameters and Biso valuesobtained by Rietveld refinement from both room temperatureand 1000 °C data.
+We can note that atomic positions in P3hc1can directly be transposed from the P3h space group, clearlyindicating that the [Zr2(PO4)3]- skeleton remains unchangedand that the symmetry evolution is only due to the lanthanumdistribution.
+All these results are consistent with those obtainedfrom TEM study we recently published.
+Indeed, inthis work we observed a fast structural transition from P3hto P3hc1 induced by the electron beam energy without anyatomic contents modification.
+This transition is quickly followedby a new one, leading to a R--- extinction symbol.
+Until now, we did not succeed in producing this last R formout of the microscope due to the decomposition of the samplein temperature.
+This two-step transition P3h f P3hc1 f R---has been explained by the ability of La3+ to displace in theNASICON network.
+This is in agreement with the high Bisovalue obtained by X-ray refinements and with the low bondvalence values calculated for La3+ cations.
+The MAS 1D spectra performed at roomtemperature on La1/3Zr2(PO4)3 samples quenched at 700 °C(B) and 1000 °C (C) are presented in Figure 5 with the one obtained at room temperature (A).
+To account for all thesespectra, we need five lines that we attributed to fivechemically different phosphorus sites (Table 5).
+These fiveP sites had already been observed in the previous RMNstudy10 (1D (MAS) and 2D) which evidenced that threephosphorus atoms (P1, P2, P3) were intercorrelated, meaningthat they belong to the same homogeneous phase, while theother atoms (P4 and P5) were uncorrelated.
+This revealedthat the sample was in fact constituted by two kinds ofdomains: one corresponding to the perfect ordering of La3+ions on La1 (1a) and La2 (1b) sites, and the other, with avery small size owing to the lack of correlation, showingsome extra La3+ ions distributed on the La3 (2d) position.
+We can note in Figure 5 a progressive vanishing of the P4and P5 peaks as temperature changes.
+This means that thesecond domain narrows with temperature which is inagreement with thermal XRD results, confirming a La3+displacement from La3 to La2 site.
+For the sample quenchedat 1000 °C, we still observe the P4 and P5 contributions contrary to what has been observed with thermal X-raydiffraction.
+This may be due to the quenching process whichwas not sufficiently efficient.
+To fit the spectra at 25 and700 °C, it was necessary to add two other contributionscorresponding respectively to 13% of P content at 25 °Cand 3% at 700 °C and which disappear at 1000 °C.
+This canbe due to another kind of La3+ ordering in the La1/3Zr2(PO4)3sample which was not visible on thermodiffraction patterns.
+The electrical properties ofLa1/3Zr2(PO4)3 have been investigated by means of impedancespectroscopy in the temperature range from 330 to 730 °Cin air and in dehydrated N2 atmospheres.
+No conductivitychange between the two measurements series was observed,suggesting that the predominant conducting species is onlyion and neither electron nor hole.
+Figure 6 shows a typicalimpedance plot, in the Nyquist plane obtained for La1/3Zr2-(PO4)3 in dried N2 at 730 °C.
+As expected, we observe aline at low frequency due to the electrode polarization (C )10-1000 íF) which increases with temperature, confirmingthus the ionic nature of the conductivity.
+At high frequencya semicircle is visible, the form of which indicates the presenceof two different overlapping relaxation processes.
+Whatever the temperature, the data were refined with an equivalentelectrical model (Figure 6) which represents the tworelaxations and the electrode polarization.
+The dipolar partof our sample and the electrode polarization were modeledby a constant phase element (CPE), while the conductivepart is represented by a resistance R.
+The two relaxationsdue to the ionic motion through the grain (bulk) and throughthe grain boundaries are separately refined but only the bulkconductivity is presented in this paper.
+At 600 °C, the bulkconductivity is  ) 4.5  10-7 S cm-1 in agreement withthe values which were determined for other RE1/3Zr2(PO4)3phases.
+Figure 7 shows the temperature dependence of theLa3+ ion conductivity plotted in an Arrhenius fashion.
+Thededuced activation energy Ea ) 0.72 eV is also very close to those observed for this family compound published byImanaka et al.
+The thermal study reveals that La1/3Zr2(PO4)3 exhibits athigh temperature a structural transition from P3h to P3hc1induced by the La3+ ion ability to move in the [Zr2(PO4)3]-network.
+Indeed, when the temperature is increased, the La3site empties in favor of the La2 one.
+This structural modificationis confirmed by 31P NMR investigations which showthe progressive disappearance of the P4 and P5 contributions.
+These peaks are linked to the presence of domains containingLa3+ ion in the La3 site.
+In addition to these experiments,some conductivity measurements have been performed: theionic conductivity (ó ) 4.5  10-7 S cm-1 at 600 °C) issimilar to the other RE1/3Zr2(PO4)3 published values.

@@ -1,0 +1,41 @@
+NASICON-structured Na3V2(PO4)2F3 is considered as a potentially high-capacitycathode material for Na-ion batteries, however, its poor rate capability andinsufficient cyclability remain a challenge for battery applications.
+
+To address thisissue, we designed and successfully synthesized a core/double-shell structuredNa3V2(PO4)2F3@C nanocomposite (Na3V2(PO4)2F3@CD) by in-situ carbon-coatingand embedding the Na3V2(PO4)2F3 nanoparticles in ordered mesoporous carbonframework.
+
+Benefiting from the sufficient electrochemically available interfaces andabundant electronic/ionic pathways, this Na3V2(PO4)2F3@CD material demonstratedsuperior Na+-storage performance with a high reversible capacity of 120 mA h g-1 at amoderate current of 1 C, a strong high-rate capability with 63 mA h g-1 at anextremely high rate of 100 C and a long-cycle lifespan with 65% capacity retentionover 5000 cycles.
+
+These superior electrochemical performances remained stable whenthe Na3V2(PO4)2F3@CD cathode was used in a full cell, suggesting a promisingapplication of the material for high rate and long lifespan sodium-ion batteries.
+
+Moreover, the architectural design and synthetic method developed in this work mayprovide a new avenue to create high performance Na+-host materials for a wide rangeof electric energy storage applications.
+
+Rapid expansion of lithium-ion batteries (LIBs) into large scale electric storagemarkets such as electric vehicles and renewable power stations has now caused severeconcerns for the rising cost and sustainable use of Li resources.
+
+Therefore, searchfor new alternatives to LIBs has stimulated a great interest in the development ofsodium ion batteries (SIBs) because of the wide availability and low cost of Naresources.
+
+In the past decade, many attempts have been devoted to identify suitablehost materials with acceptable low cost and decent electrochemical performance forNa-insertion reaction and as a result, a large number of different host structures suchas layered and 3D-tunneled metal oxides,11-14 Prussian blue compounds,15,16 andNASICON-type phosphates17,18 have demonstrated considerable Na+-storage capacityand cyclability.
+
+Among the various Na+-insertion cathode materials, sodium-vanadiumfluorophosphates Na3V2O2x(PO4)2F3-2x (0≤x≤1) appear to be an attractive candidatefor energetic SIB cathodes because of their high operating voltage of ﹥3.7 V andhigh theoretical capacity of 128 mA h g-1,19-23 thus enabling them to reach a highenergy density of ﹥475 Wh Kg-1, which is close to the LiFePO4 cathode (530 WhKg-1) currently used in LIBs.
+
+Nevertheless, these fluorophosphates are usuallydifficult to realize their potential high capacities even at a slow rate due to theirintrinsic low electronic conductivity of 10-12 S cm-1.19,26 To solve this problem, aneffective strategy is to encapsulate the fluorophosphates nanoparticles into conductivecarbon matrixes such as carbon nanofibers27 and graphene sheets,19 so as to enhancethe electron transport and the electrochemical utilization of the materials.
+
+Though therate performance was improved to some degree, the effect was limited and worse thantheir sister compound Na3V2(PO4)3@carbon nanocomposite.
+The reason isattributable to the non-uniform size distribution and severe agglomeration of theNVPF nanoparticles led to a poor electrolyte infiltration and an interfacial blockage inthe NVPF@carbon nanocomposite,28-30 thus restricting the high power capability ofthe material.
+
+Therefore, development of a well-designed NVPF@carbonnanostructure still remains a challenge for building practically high performanceSIBs.
+
+In this work, we proposed a new strategy to embed NVPF nanoparticles inordered mesoporous carbon (CMK-3) framework to form a core/double-shellstructured nanocomposite (NVPF@CD), where the high conductivity of the carbonmatrix provides good electronic wiring among the electrode-active nanoparticles,meanwhile the well-defined mesopores offer abundant electrolyte pathways, thuscreating sufficient electrochemically available interfaces for Na+-insertion reaction.
+
+More significantly, the mesoporous carbon framework can not only inhibit the graingrowth and aggregation of the NVPF particles, but also act as a flexible buffer toaccommodate the volume change of the NVPF lattices during Na+-insertion/extractioncycles, ensuring a structural integrity and cycling stability of the electrode.
+
+Asexpected, the NVPF@CD nanocomposite revealed in this work demonstrated a highcapacity of 120 mA h g-1 at a high average voltage of 3.75 V, a strong rate capabilitywith 63 mA h g-1 at 100 C rate and a remarkable long-term cyclability with a capacityretention of 65% over 5000 cycles.
+
+These superior Na+-storage performances of theNVPF@CD cathode remain stable when coupled with NaTi2(PO4)3@C anode toconstruct an all-NASICON full cell, suggesting a practical applicability of thismaterial for high power and long lifespan SIBs.
+
+In summary, a core/double-shell structured NVPF@C nanocomposite wassuccessfully synthesized by in-situ carbon-coating and embedding the NVPFnanoparticles in ordered mesoporous carbon framework.
+
+Benefiting from thesufficient electrochemical interfaces and abundant electronic/ionic pathways, thisNVPF@CD material demonstrated superior Na+-storage performance in terms of ahigh capacity utilization with 120 mA h g-1 at a moderate high-rate of 1 C, a stronghigh-rate capability with 63 mA h g-1 at an extremly high rate of 100 C and a longcycle lifespan with 65% capacity retention over 5000 cycles.
+
+These superiorelectrochemical performances were further evidenced when the NVPF@CD cathodewas used in a full cell, suggesting a practical applicability of the material for high rateand long lifespan SIBs.
+
+More significantly, the nanoarchitectural strategy andsynthetic method developed in this work may provide a new avenue to create highperformance Na+-host materials for a vide range of electric energy storageapplications.
+

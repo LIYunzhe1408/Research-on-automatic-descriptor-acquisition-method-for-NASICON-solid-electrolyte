@@ -1,0 +1,101 @@
+Fast ion conduction in solids forms an active area of scientific research owing to its technological applications in batteries and super capacitors.1 The design and fabrication of green portable energy devices to replace the fossil fuels relies heavily on better understanding of the various factors influencing fast ion transport in solids. Computational methods such as molecular dynamics are attractive as complementary techniques to experimental probes in gaining insight into microscopic details of ionic motion and the factors controlling fast ion transport in solids.2 The present molecular dynamics investigation of NASICON predicts a new structural feature, namely the Si/P ordering in the framework, that influences Na+ conductivity by more than an order of magnitude, with implications for fast ion solids having aliovalent substitutions.
+
+In their pioneering work Hong and Goodenough et al.3 demonstrated feasibility of fast ion conduction in diﬀerent frameworks; solid solutions of the formula, Na1+xZr2SixP3 xO12 where 0 r x r 3, named NASICONs (for Na-superionic conductors) were particularly attractive for their high and three-dimensional conductivity and superior thermal stability.4 The NASICON framework permits a variety of ion substitutions, and serves as a potential template for tailor making of solids for varied technological applications, such as solid electrolytes, low-thermal expansion materials, refractory materials, nuclear waste packaging matrices, sensors, etc.5
+
+The best conductor of the NASICON series, Na3Zr2Si2PO12 (x = 2) consists of three dimensionally linked ZrO6 octahedra
+
+Department of Physics, Indian Institute of Technology Guwahati, Guwahati, Assam 781 039, India. E-mail: padmakumarp@iitg.ernet.in, r.supriya@iitg.ernet.in; Fax: +91-361-2582749; Tel: +91-361-2582718
+
+sharing corners with SiO4 and PO4 tetrahedra. It may be noted that the silicon and phosphorous locations in the rhombohedral cell have been indistinguishable in previous experiments, owing to their similar sizes.3a,6,7 The eighteen Si/P locations in the rhombohedral unit cell can be visualized as distributed across six equidistant ab-planes along the c-axis. There are three sodium sites in the structure   the prominent Na(1) and Na(2) sites (respectively the 6b and 18e sites of R%3c space group), and the mid-Na site (36f) of relatively low per-site occupancy. The Na(2) sites fall in the same basal planes, and are 3-coordinated to the coplanar Si/P sites at a distance of 3.15 Å. The Na(1) sites fall between these basal planes, and are six coordinated to the Si/P sites above and below it, but at a larger distance of 3.76 Å. Previous experimental7,8 and simulation studies9 have proposed that the preferred Na+ conduction channels are those connecting Na(1) and Na(2) sites, through the mid-Na site.
+
+Owing to the diﬀerent oxidation states of silicon and phosphorous the energetics of Na+ along the conduction channel connecting the Na(1) and Na(2) sites will presumably be influenced by their diﬀerential local coordination with Si and P. This prompts the present molecular dynamics simulation of Na+ mobility in NASICON frameworks with diﬀerent Si/P ordering.
+
+In order to investigate the eﬀect of Si/P ordering on Na+ transport three framework structures with diﬀerent Si/P ordering are prepared as below:
+
+1. Each of the six basal planes perpendicular to the c-axis contains two Si and one P in one unit cell (this structure shall be referred to as P1–P1–P1).
+
+ThisjournalisctheOwnerSocieties2013Phys.Chem.Chem.Phys.,2013,15,4965--49694965Citethis:Phys.Chem.Chem.Phys.,2013,15,4965Published on 31 January 2013. Downloaded by UNIVERSITY OF ALABAMA AT BIRMINGHAM on 23/10/2014 15:59:12. View Article OnlineView Journal | View IssuePaper
+
+the anisotropic variations of the lattice parameters and lowthermal expansivity, over a wide range of temperatures.9c
+
+The simulated system consists of 3  3  1 rhombohedral (R %3c) unit cells of Na3Zr2Si2PO12 containing a total of 1080 ions. The unit cell parameters and coordinates of atoms are taken from the single crystal X-ray data of Boilot et al. at 623 K.7 Periodic boundary conditions are employed together with the Ewald summation technique for convergence of long range coulombic interactions. The runs are 6 nanoseconds long at a time step of 2 femtoseconds, and trajectory samples are stored at regular intervals for further analysis.
+
+The gross structural features of the NASICON framework, the polyhedra and their connectivity, are found to be insensitive to the diﬀerent Si/P orders present. The radial distribution functions (RDFs), g(r), between select ion pairs, Zr–O, Si–O, P–O and O–O, for the three frameworks with diﬀerent Si/P orders shown in Fig. 2 are very similar to one another, demonstrating this. Though the starting structures involve average Si/P–O distances for all the tetrahedra, the system quickly relaxes, and SiO4 and
+
+Fig. 1 The two Si/P ordered frameworks of Na3Zr2Si2PO12; (left) P1–P1–P1 and (right) P0–P0–P3 structures. Only one column of ‘lantern units’ of a unit cell along the c-axis, with SiO4 (blue) and PO4 tetrahedra (pink) sharing corners with ZrO6 octahedra (light green) is shown. Na(1) and Na(2) sites are shown as gray and green balls, respectively.
+
+2. Repeating units of two silicon rich planes, parallel to the ab-plane, sandwiching one phosphorous rich layer (shall be referred to as P0–P0–P3) – two such units per unit cell.
+
+3. Silicon and phosphorous are distributed randomly across
+
+the Si/P sites in the simulation cell (referred to as Random).
+
+The two framework structures with ordered Si/P arrange-
+
+ments, P1–P1–P1 and P0–P0–P3, are demonstrated in Fig. 1.
+
+Microcanonical molecular dynamics (NVE-MD) simulations are performed for the above structures at 623 K employing the previously proposed9a interatomic potential, þ Aijðsi þ sjÞnij
+
+where qi is the charge and si is the ionic radii of the ith ion; Aij and Cij are, respectively, the overlap repulsive energy and dispersion constant between the pair of ions. These parameters are listed in Table 1. This interatomic potential has been shown to reproduce a variety of structural properties and conductivity of Na1+xZr2SixP3 xO12, over the entire range of composition, 0 r x r 3.9a,b More recently, the potential has been employed to study the distortions and orientational disorder of the polyhedra in MZr2P3O12, where M = Li, Na, K, Rb and Cs, and their role in
+
+Table 1 The parameters of the interatomic potential employed in the present study
+
+ANa–Na = 5 eV and nNa–Na = 11. All the other parameters not listed above are kept zero.
+
+Fig. 2 The radial distribution functions, g(r), between select ion pairs, Zr–O, Si–O, P–O and O–O, for Na3Zr2Si2PO12 frameworks with diﬀerent Si/P orders at 623 K. The intensities of the first peaks are truncated for optimal view of the function at long range. The vertical bars in brown are for the corresponding X-ray structure7 in arbitrary units. The functions are uniformly displaced along the Y-axis for clarity.
+
+4966Phys.Chem.Chem.Phys.,2013,15,4965--4969ThisjournalisctheOwnerSocieties2013Published on 31 January 2013. Downloaded by UNIVERSITY OF ALABAMA AT BIRMINGHAM on 23/10/2014 15:59:12. View Article OnlinePCCP
+
+Fig. 3 The mean squared displacement of Na+ ions with time in the NASICON frameworks having diﬀerent Si/P ordering from MD simulation at 623 K.
+
+PO4 tetrahedra assume their respective natural dimensions. The bond lengths of covalently bonded ion pairs, Zr–O, Si–O and P–O, are, respectively, 2.07, 1.61 and 1.52 Å, and with sharp coordination numbers of 6, 4 and 4, in agreement with previous X-ray studies.7
+
+The mean squared displacements (MSD) of Na+ ions at 623 K in frameworks with diﬀerent Si/P ordering are shown in Fig. 3. The MSD of Na+ ions in the ordered structure P1–P1–P1 are significantly higher than that in the ordered structure P0–P0–P3 over the same period, and those in the random structure are intermediate. The self diﬀusion coeﬃcient of Na+ ions calculated for the P1–P1–P1 structure (D = 0.11  10 8 m2 s 1; conductivity, sdc = 0.366 S cm 1) is more than an order of magnitude higher than that in the P0–P0–P3 structure (D = 0.31  10 10 m2 s 1; conductivity, sdc = 0.01 S cm 1). This proves unambiguously that the Si/P order plays a very important role in the Na+ transport in the NASICON framework.
+
+It shall be noted that several previous experimental studies have measured the activation energies and conductivities of NASICONs at variance.3,7,8,10 Colomban has examined in detail the conductivity and activation energies of samples sintered at diﬀerent temperatures.11 The study showed that samples heat treated at higher temperatures systematically measured higher conductivities.11 The present simulation results complement their observation proposing that higher sintering temperatures not only improve their X-ray crystallinity but also alter the Si/P ordering in favour of the P1–P1–P1 structure, with an evenly distributed phosphorous arrangement along the c-axis of the unit cell.
+
+In the remainder of the paper we provide microscopic details relating to the energetics, atomic density profiles and percolation pathways of Na+ ions that demonstrate that this eﬀect could be attributed to the stronger coulombic interaction of the Na+ ions with the pentavalent phosphorous than that with the tetravalent silicon.
+
+The radial distribution functions (RDFs) between the Si/P and Na+ ions in the frameworks with diﬀerent Si/P ordering are
+
+Fig. 4 The radial distribution functions for Na+ ions with respect to silicon and phosphorous positions calculated for the framework structures with diﬀerent Si/P ordering from MD simulation at 623 K.
+
+shown in Fig. 4. These functions are calculated with respect to Si and P ions as the origin so that their relative abundance in the system (2 : 1) is not reflected in the intensities. The first peak of the P–Na RDF having significantly lower intensity compared to the Si–Na RDF is observed in all three cases, despite the fact that Si/P shares crystallographically equivalent positions in the structure. Thus the Na+ ions prefer to move away from the phosphorous locations, suggesting a stronger coulombic repulsion between the Na+ and phosphorous ions operates in the system.
+
+Originating dominantly from coulombic interaction this eﬀect was ‘quite natural’ to expect, though it eluded previous studies. It is probably thought to have no significant impact on ion transport as the framework cations are screened away by the oxygen environment from the Na+ conducting channels; neither any quantification of the eﬀects were available nor
+
+Fig. 5 The potential energy of Na+ along the z-axis (green) averaged over the MD trajectory at 623 K, for the two structures P1–P1–P1 and P0–P0–P3. The averaged atomic density profile for the Na+ ions projected on the z-axis is shown in violet. The Si/P and Na(2) locations along the z-axis are shown as vertical blue bars, and the Na(1) locations are shown as black bars.
+
+ThisjournalisctheOwnerSocieties2013Phys.Chem.Chem.Phys.,2013,15,4965--49694967Published on 31 January 2013. Downloaded by UNIVERSITY OF ALABAMA AT BIRMINGHAM on 23/10/2014 15:59:12. View Article OnlinePaper
+
+controlling Si/P locations were amenable to experiments for systematic investigation.
+
+The potential energy of individual Na+ ions due to their interaction with the rest of the system, including other Na+ ions as well as the framework ions, provides the most direct information on the barriers to ion transport. The quantity can be calculated as,
+
+such that the total potential energy utot of the system is written as,
+
+Fig. 6 Three dimensional distributions of Na+ ions (yellow) in the rhombohedral cell for the two framework structures with diﬀerent Si/P orders, P1–P1–P1 (leftpanel) and P0–P0–P3 (right-panel), from MD simulation at 623 K. The ball–stick model shows one configuration of the framework cations, Zr (light grey), Si (blue) and P (red), bridged through oxygens (not shown). The locations of the predominant Na+ sites Na(1) (dark grey) and Na(2) (green) are also shown.
+
+where ui is the potential energy of the ith ion, N is the total number of ions in the system, and rij is the separation between a pair of ions under periodic boundary conditions.
+
+Employing this equation the potential energy profile of Na+ ions along the z-axis of the rhombohedral cell, averaged over all the Na+ ions and over the stored trajectory (after folding it back into a single unit cell), is calculated. As shown in Fig. 5, the energies show significant diﬀerences between the NASICON frameworks having diﬀerent Si/P orders. Evidently, the high conducting P1–P1–P1 structure oﬀers a smoother potential energy profile with relatively low barriers to the Na+ ions. Consequently a smoother distribution of Na+ along the z-axis that is reminiscent of high ion mobility is observed. The low conducting P0–P0–P3 structure, on the other hand, exhibits larger undulations in the potential energy profile, thus greater energy barriers to Na+ transport in the framework. The P0–P0–P3 arrangement results in well resolved peaks in the Na+ distribution suggesting localization of sodium ions. Thus an evenly distribution of Si/P ions along the z-axis, as in the case of the P1–P1–P1 structure, results in a smoother potential energy profile favourable to ion transport.
+
+The three dimensional distribution of Na+ in the rhombohedral cell is demonstrated in Fig. 6 for the two Si/P orders, by collapsing their stored positions into a single unit cell. For the P1–P1–P1 structure a well developed percolation path of Na+ ions connecting the Na(1)–Na(2) channel is evidenced consistent with the high conductivity observed. The P0–P0–P3 structure evidently results in islands of Na+ population with rather poor connectivity across them.
+
+This phenomenon could be one of the major reasons for the significant variations in measurements of conductivity and activation energies of NASICON samples diﬀerently heat treated.11 Further, we note the plausibility that the anomalous variation in the conductivity of Na1+xZr2SixP3 xO12, which peaks around x = 2, is related to a smoothening of the potential energy
+
+Fig. 7 The distribution of Na+ ions (black) in the rhombohedral simulation cell (of 3  3  1 unit cells) on select cross sections of the c-axis for the two framework structures, P1–P1–P1 (top-panel) and P0–P0–P3 (bottom-panel) from MD simulation at 623 K. The in-plane Si and P distributions are shown in blue and red respectively. See the text for details.
+
+4968Phys.Chem.Chem.Phys.,2013,15,4965--4969ThisjournalisctheOwnerSocieties2013Published on 31 January 2013. Downloaded by UNIVERSITY OF ALABAMA AT BIRMINGHAM on 23/10/2014 15:59:12. View Article OnlinePCCP
+
+barrier for Na+ ions due, partially to, diﬀerent Si/P distributions, among other previously proposed factors, such as the opening of bottlenecks8 and Na+–Na+ correlations7,12   a proposal calling for further investigations.
+
+Finally, some insight into the Na+ distributions on basal planes perpendicular to the c-axis for the frameworks with diﬀerent Si/P orders is gained by collecting ions in a thin slab of 0.3 Å around a chosen height, z. In Fig. 7 a qualitative demonstration of Na+ distribution on select basal planes of P1–P1–P1 (top-panel) and P0–P0–P3 structures (bottom-panel) are shown. In Fig. 7(a) the Na+ distribution for one of the basal planes containing Na(1) sites (z = nc/6, where n can be 0, 1, 2,. . .,5), and in Fig. 7(b) that for one of the planes containing the Na(2) sites (z = (2n + 1)c/12, n = 0, 1, 2,. . ., 5) are shown (compare with Fig. 6), along with distributions for the coplanar Si and P ions. Larger thermal amplitudes of Na+ are observed along the basal planes at Na(1) sites consistent with Fig. 6. In Fig. 7(c) Na+ population on one of the basal planes containing Na(1) sites (at z = 0, c/3, c/2 or 5c/6, in Fig. 6) located between Si-rich and P-rich planes of the P0–P0–P3 structure are shown. No appreciable Na+ population is observed on cross sections through Na(1) sites falling between two Si rich planes (at z = c/6 or 2c/3, in Fig. 6), hence not shown in Fig. 7. The in-plane distributions of Na+ at Na(2) sites of the P0–P0–P3 structures are qualitatively similar irrespective of their coplanar neighbours, phosphorous (Fig. 7(d)) or silicon (Fig. 7(e)). However, from Fig. 5, the preference of Na+ ions in favour of Na(2) sites on Si-rich layers, though somewhat oﬀ-centered, is evident. The large occupancies at these Na(2) sites, presumably, result in the low occupancy at Na(1) sites located in between the Si-rich layers owing to Na+–Na+ repulsion. Overall, the Na+ distributions at Na(1) sites suggest larger thermal amplitude along the ab-plane compared to Na(2) sites, while the converse is true along the c-direction.
+
+The results presented here demonstrate, for the first time, that the Si/P order in Na3Zr2Si2PO12 has a profound influence on Na+ conductivity in the system. The Si/P arrangement with one phosphorous and two silicon in each of the six basal planes perpendicular to the c-axis of the rhombohedral cell oﬀers low energy barriers thus promoting the Na+ transport in the system. The origin of this phenomenon is traced back to the stronger coulombic repulsion between Na+ and P5+ relative to that with Si4+. The study thus recognizes a new structural feature that controls fast ion transport in solids.
+
+Originating out of simple coulombic interactions this eﬀect will be omnipresent in all fast ion conductors having aliovalent substitutions, though with varying tenacity. This phenomenon thus bears far-reaching significance, beyond the NASICON family,
+
+in the understanding of fast ion transport in solids and their tailor making.
+
+The authors acknowledge financial support from Indian Institute of Technology Guwahati (Grant No: SG/PHY/P/PKP/1) and Department of Science and Technology, New Delhi (Grant No: SR/S1/PC-24/2011).

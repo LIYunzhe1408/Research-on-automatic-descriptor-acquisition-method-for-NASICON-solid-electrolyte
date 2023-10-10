@@ -1,0 +1,99 @@
+NASICON-type  (lithium  super  ionic  conductor) solid  electrolyte  is  widely  concerned  because  of ionic  conductivity,  electrode  interface,  and  electrochemical  stability.  Firstly,  the  migration its  high  ionic  conductivity,  wide  potential  window,  and  good chemical  stability.  In  this  paper,  the mechanism  of  lithium  ion  was  analyzed  from  the  three-dimensional  structure  of  NASICON-type applications  [1-3].
+
+As an effective  way  to resolve  the environmental pollution and energy shortage the  effective  methods  to  reduce  interface  impedance  and  improve cycle  stability  of  all-solid  state solid  electrolyte,  and  the  research  progress  in  conductivity  and  stability  was  summarized.  Then, lithium  batteries  with  NASICON-type  solid  electrolyte  are  introduced.  Finally,  the  solutions  to improve  the  conductivity  of  electrolytes  and  deal  with  electrode  /  electrolyte  interface  problems are summarized, and the development  prospect of all-solid  state lithium  batteries is prospected. 
+
+In  addition,  uneven  distribution  of  electrode/electrolyte  interface Solid  electrolyte  is  an  important  part  of  ASSLB.  The  main  lithium  ion  solid the  use of solid  electrolyte  can effectively  inhibit  the  formation  of lithium  dendrites. substitution is to stabilize the cubic crystal structure, while Sc is added to increase the garnet  with  the  highest  ionic  conductivity  reported  so  far.  The  purpose  of  Ga demonstrated. The  garnet  type solid electrolyte  is  generally  a  tetragonal phase  and a current  in  liquid electrolyte circulation  leads to the  growth of  lithium dendrites, while cubic phase,  wherein the cubic phase solid electrolyte  has  high  ion conductivity. 
+
+
+It  is a  solid electrolyte of intercrystalline resistance,  so  its overall  io nic conductivity  is  less than 2×10−5 S cm−1 and the ionic conductivity is as high as 1.8×10−3 S cm−1 at 27 °C, thereby overcoming 1.5×10−3 S  cm-1  at  25  °C  [16].  Yuki  et  al.  prepared  a  Li9.54Si1.74P1.44S11.7Cl0.3  solid electrolyte  is  as  high as 2.5×10−3 S cm-1 at  RT, benefiting  from the  rapid diffusion of in  batteries  [19].  Compared  with  LGPS ， NASICON-type  solid  electrolyte  has glass-ceramic  mixture  Li1.5Al0.4Cr0.1Ge1.5  (PO4)3  by  melting  quenching  technology NASICON-type  solid  electrolyte  LiM2(PO4)3  (M=Ti,  Ge,  Zr)  materials  are absorption and  high price of raw  material  Li2S  limit the application of this electrolyte quenching  method,  and  so  on  [22-26].  Illbeigi  and  co-works  obtained lithium  ions  in  the  electrolyte.  
+
+
+However,  its  poor  thermal  stability,  easy  moisture NASICON-type  solid  electrolyte  include  hightemperature  solid  phase  method, sintering  leads  to  lattice  expansion,  and  the  ionic  conductivity  can  be  increased  to three-dimensional  framework  structure.  Currently,  common  methods  for  preparing sol-gel  method,  coprecipitation  method,  discharge  plasma  sintering  method,  melting electrolyte  by  high  temperature  sintering.  The ionic conductivity at RT was up to 6.65×10−3 in  electrical  conductivity  has  attracted  much  attention.  
+
+
+
+Amaral  uses carbonate  plasticizer  to  make  a  gel  polymer  solid  electrolyte  with  a  conductivity  of propyl  acrylate,  product  show  superior  conductivity,  its  ionic  conductivity  was study of polymer solid electrolyte mainly included polymethyl methacrylate (PMMA) polyacrylonitrile  (PAN),  polyvinyl  acetate  (PVA)  and  vinyl  carbonate/dimethyl phones,  wearable devices, and other consumer electronic products towards  flexibility, the  polymer  solid  electrolyte  has  good  flexibility.  With  the  development  of  mobile solubility.  In  recent  years,  the  excellent  performance  of  gel  polymer  electrolyte the  research  on  polymer  solid  electrolyte  has  made  great  progress.  In  the  early,  the polymerization  strategy,  LiClO4/propylene  carbonate  parcel  in  2-hydroxy-3-phenoxy and polyethylene oxide  (PEO), because of  its  high dielectric constant and  strong  Li+ S cm−1, and the activation energy was 0.29 eV. Unlike  the  inorganic solid electrolyte, 2.5×10−4  S  cm−1  at  25  °C  [28].  
+
+
+And  Vidyanand  to  use  UV  auxiliary  in-situ between the  interfaces and seriously affects  the cycling performance of ASSLB. How application  prospects  in  the  development  of  ASSLB.  The  challenges  faced  by electrolytes  in  ASSLB are discussed.  The problems existing  in  ASSLB are analyzed advantages  of  relatively  high  ionic  conductivity,  better  thermal  stability,  and between  the  electrode  and  electrolyte,  which  blocks  the  large-scale  transfer  of  ions mechanical  stability. 
+
+Among  these  solid  electrolytes,  NASICON-type  solid  electrolytes  have  the and the  corresponding  solutions  are proposed. 
+
+NASICON  with  the  composition  of  Na1+xZr2P3-xSixO12  was  reported  by Goodenough et al [85]. This material has an general chemical formula of AM2(PO4)3, for Li+ migration. When the structure of ionic conductor matches the size of migrating framework  [87,  88].  By  comparison,  the  ionic  conductivity  of  lithium-based where Li, Na or K occupy site A, Ge, Zr or Ti  usually occupy site M  [86]. Generally, following  parameter  should  be  considered  for  material  design  with  fast  ionic   in activation energy. The NASICON-type solid electrolyte  is a crystalline  material.  
+
+
+
+
+
+The  ionic conductivity of LTP and  LGP  solid electrolytes  is significantly better  than LZP. The partial  introduction of aluminum can  stabilize  the  ionic conductivity  higher NASICON-type  solid  electrolyte.  Compared  with  the  doping  of  other  elements, elements  at  the  M  site.  Fig.1  shows  the  research  progress  of  ionic  conductivity  of aluminum is most effective in improving the ionic conductivity of the solid electrolyte.  LiTi2 (PO4)3 (LTP), and  LiGe2(PO4)3 (LGP), according to the  composition of differe nt solid  electrolytes  are  mainly  divided  into  three  categories:  LiZr2(PO4)3  (LZP), Li1.5Al0.4Cr0.1Ge1.5(PO4)3. In  the  overall  impedance  of  the  solid  electrolyte,  the  grain NASICON-type  solid  electrolyte  at  RT  is  6.65×10−3 S  cm−1,  and  its  composition  is than  10−3  S  cm−1  at  RT.  At  present,  the  highest  reported  ionic  conductivity  of MO6  octahedron,  and  they  are  8  times  coordinated   [89].
+
+The  crystal  structure  of  NASICON-type  solid  electrolyte  was  established. 
+
+LTP  exhibits  ionic LiMM′(PO4)3,  the  ionic  conductivity  was  up  to  4  orders  of  magnitude.  Secondly, Two strategies  are  summarized to  increase the  conductivity of  lithium  ion [89]. bottleneck  size  between  the  M1  and  M2  sites  supports  the  idea  that  optimizing Firstly,  ionic conductivity  can be  improved by changing the size of  the  network. For example,  using  greater  M  ion  to  substitute  M′  to  increase  the  bottleneck  size  for bottleneck  sizes  for mobile  ions  being  critical  to generate  fast  ion  conduction. density  have  a significant  effect  on the  ionic  conductivity. 
+
+Furthermore, mixed  anion  effect,  which  reduces  the electrostatic  energy  [102]. 
+
+Nitrogenincorporated  lithium−aluminum−titanium  phosphate  based  thin  film electronegativity  scale  can  be  used  to  screen  proper  doped  ions  for  LTP  solid formation of double and triply coordinated  nitrogen  in the phosphate  network and the (Li-AlTi-P-O-N) was prepared by  magnetron sputtering. 
+
+In  contrast,  the  glass-ceramic  Li2O–Al2O3–TiO2–P2O5  is  mainly  composed  of quenched by the  melting of  Li1+xAlxTi2−x(PO4)3 (LATP), exhibiting  an extremely  high [93].  The  ionic  conductivity  of  the  LTP  has  been  considerably  enhanced  by of  1.22×10−6 S  cm−1  was  obtained  at  RT.  The  high  ionic  conductivity  is  due  to  the substitution  of  Sc3+,  Al3+,  Y3+,Ga3+,  Fe3+,  Lu3+,  In3+,  La3+,  and  Cr3+,  for  Ti4+,  and/or ionic conductivity of 1.3×10−3 S cm−1 at RT, which was the highest value before 2013. 
+
+
+
+LTP  was  synthesized  with  LiF maximum  ionic  conductivity  of  3.0×10−4  S  cm−1  was  obtained  at  RT  with  the only  7.181×10−6  S  cm−1,  and  the  activation  energy  was  0.48  eV.  The  high  ionic 2.32×10−4 S  cm−1  under  RT  condition,  and  the  minimum  activation  energy  was  0.28 composition  of  LTP-0.2Li3BO3  [104].  The  ionic  conductivity  of  Li1+xTi2−xBx(PO4)3 dense  structure  with  little  pores  and  cracks  [95, 103].  Selection  of  appropriate B2O3 also helps to sinter dense ceramics  with a  more  uniform particle size. Chemical sintering aids or binders  (Li3PO4 or  Li3BO3)  is another strategy to  improve  the  ionic was improved by substituting of B for Ti when B2O3 was selected as the raw material. conductivity  of  LTP,  because  the  contact  area  between  grains  was  increased  and  the  activation  energy  for  the  lithium  migration  was  reduced  at  the  grain  boundary. 
+
+Therefore, the key to obtain high ionic conductivity lies in the rhombohedral structure polymorphism  of  LZP.  Fig.3  shows  that  LZP  has  four  polymorphic  structures.  β′ rhombohedral (α)  structure occurred at 40  °C. The rhombohedral structure  (α phase) synthetic  preparation  temperature  exceeding  1100  °C.  The  transition  from  (α′)  to than 1100 °C.  The  structure of the orthorhombic system  in the β' phase  is converted into the β phase at 300 °C. The α' phase (P-1space Group) of the triclinic structure is a 1986  [108].
+
+Starting  material  contributes  to  synthesize  LZP  with  different  structures. 
+
+
+
+
+Compared with other NASICON-type solid electrolyte, the ionic conductivity of improvement,  the  ionic  conductivity  of  LGP  solid  electrolyte  has  been  greatly traditional  solution  quenching  method,  which  was  converted  into  glass-ceramics improved.  In  2016,  Illbeigi  prepared  Li1.5Al0.4Cr0.1Ge1.5(PO4)3  solid  electrolyte  by necessary  conditions  for  the  formation of alpha phase  Li1.15Y0.15Zr1.85(PO4)3 are  high [114]. Li1.15Y0.15Zr1.85(PO4)3 with α phase was prepared by spark plasma sintering, the phase  by  heat  treatment.  Al3+  and  Cr3+  partially  replaced  Ge4+  ions,  and  more  Li+ LGP  is  only  ~10-7  S  cm-1.  However,  through  doping  and  preparation  process rhombohedral  form  at  RT,  enhancing  the  total  ionic  conductivity  of  4.9×10−5 S  cm−1 prepared  by  partial  substitution  of  Zr4+ by  Ca2+  in  LZP,  which  could  stabilizes  the relatively  high  density  of  3.06  g  cm−3  (>98%  the  theoretical  density). 
+
+
+
+Ge4+ was partially  replaced by Al3+.  The  maximum conductivity of  lithium  ion at  RT new diffusion path. As shown  in the Fig.4, the  Li+ diffusion  mechanism of  LGP and was 5.32×10−3 S cm−1. Compared with LGP solid electrolyte, the ionic conductivity is Li1+xAlxGe2-x(PO4)3  (LAGP)  at  atomic  scale  was  determined  by  abinitio  molecular model,  such  transfer  cannot  be  realized  even  at  the  temperature  higher  than  LAGP. improved  by  four  orders  of  magnitude  and  the  activation  energy  is  greatly  reduced.  were added, which changed the lattice para meters. 
+
+
+The  ionic  conductivity  of  LGP  solid  electrolyte  was  improved  by  doping  Al. 
+
+
+
+M  =  Ti,  Ta  (LATTP),  and  commercial  Ti  and  Ge  containing  material  (LATGP)  with electrolyte,  which  suppresses  Li  dendrite  formation  and  forms  a  low  resistance dry  pressing  and  post-calcination  process  was  employed  to  fabricate  LATP/LAGP lithium electrodes  were  investigated by Janek et  al.  The  XPS results show  that all of these materials degrade at the lithium/electrolyte interface. This lithiation is explained by the  formation of a  mixed (electronic/ionic) conducting  interphase (MCI), which  is solid  electrolyte and the  lithium  metal should be  investigated deeply, so metimes this layer  is  benefit  to  improve  the  electrochemical  performances  of  battery,  such  as  the double-layer NASICON-type solid electrolyte. This bilayer electrolyte  shows  a  high similar  to  the  formation  of  conducting  passivation  layer  (SEI)  in  liquid  electrolytes composed by  Li3P and  Li8ZrO6. This  layer  is  wet by  Li  metal and  also  wets the LZP [126]. Taking into account of stability of LATP with air and metallic Li, a simple interfacial  layer  for  Li+  transfer.  Therefore,  the  interface  layer  formed  between  the [122].  
+
+
+A  Li+-SEI  was  formed  when  LZP  reacts  with  metallic  lithium,  which  is mol L−1  for a  long time, and the electrolyte decomposed to  form  Li3PO3 heterophase. high Li+ concentration in the solution. Therefore, by using a saturated lithium aqueous solid electrolyte  in distilled  water,  the exchange reaction between H+ and  Li+ and the anode  in  lithium/air  batteries  [128]. 
+
+In  addition,  in  the  alkaline  solution  with  high  pH  value,  high  resistance  phase  was are stable, which  is attributed to  the  lower dissociation rate of  ions  in the presence of formation of  new  grain boundary phase at  grain boundary significantly  increased  the solution  as  the  electrolyte,  LATP  can  act  as  a  protective  layer  for  the  lithium  metal reduced  [128, 130].
+
+For  example,  a  method  of  forming  a  coating  on  a  surface  of  a charge  layers, and electrochemical  instability.  This can  result  in changes  in  interface between the  interfaces, and co mbine the advantages of the organic electrolyte and the microcracks hinder the transport o f ions. These two factors will lead to the increase of solid electrolyte, preparing an organicinorganic blend electrolyte, and constructing a electrode  and  electrolyte,  the  volume  expansion  of  electrode,  and  the  surface single-phase  all-solid  lithium battery to solve an  interface problem [131-141]. PEO-LiClO4  was electronic  conductive  network  (PEO-LFPLiClO4),  and  LiFePO4  was  selected  as  the P2O5  was  coated  on  LAGP  to  form  composite  electrolyte  (CE,  LAGP/SPE), construction  strategy by employing cohesive and  highly conductive  PEO-based solid cathode. 
+
+
+
+This structure of ASSLB improves interfacial contact between the electrolyte on  the  above  solutions,  the  research  ideas  for  these  problems  also  include  surface synthesized  into a composite cathode  having a  three-dimensional continuous  ion and in  the  electrode/electrolyte  interface  resistance,  Xu  et  al  proposed  an  advanced  cell polymer electrolyte  (SPE)  in cathode  layer and  the  interface of the LAGP/anode.  As modification  of  electrode  materials,  nano  electrode  materials,  developing  new  or optimizing  existing  electrode  materials  to reduce volume  effect,  etc [142-148]. 
+
+Consequently,  the  ASSLB  demonstrates  ultralong  cycle  life,  high  capacity,  and penetration test and burning in fire. These excellent electrochemical performances are attributed  to  integrate  the  merits  of  an  inorganic  electrolyte  and  organic  electrolyte  outstanding safety. The  initial discharge capacity  is 153.4  mA  h  g−1 at 0.1C, and  the discharge  capacity  can  be  maintained  at  127.8  mA  h  g−1  with  less  than  4%  capacity electrolyte  protective  layer  [156-158].  Kim  sputtered  and  deposited  LiCoO2  film  on LiCoO2/  electrolyte  interface,  which  was  conducive  to  the  migration  of  Li  ions,  and lithium  by  plasma  treatment  with  a  thin  ﬁlm  of  LiPON.  However,  due  to  the  partial reduction  of  Ti  during  sputtering,  the  ionic  transport  interface  resistance  increased NASICON-type  (Li-AlTi-Si-P-O)  electrolyte  can  be  used  in  contact  with  metallic the  surface  of  NASICON-type  solid  electrolyte,  and  hot  annealing  formed  a  sharp significantly.  
+
+Plasma  technology  is an effective way  for  material synthesis and  modifications, interface  modification  of  ASSLB  [150-155].  Commercial it  can  be  used the  interface  circulation  was more  stable  [159,160]. 
+
+
+
+
+The  organicinorganic  hybrid  membrane  effectively  improves  the  interface polarization  voltage  during  30  cycles.  In  the  designed  microarchitecture,  the  gyro demonstrating  the  acceptable  ionic  conductivity.  This  opens  up  a  pathway  for  the LAGP.  This  is  in  agreement  with  the  good  electrochemical  performances  of  the  cell successfully prepared an asymmetric structural composite  solid electrolyte composed by  using  gyroid  LAGP-epoxy  electrolyte.  In  summary,  the  ordered  ceramic  and LAGP-epoxy  electrolytes  have  the  highest  strain  at  break,  about  28%  higher  than Compared  with  LAGP  pellet,  gyroid  LAGP-epoxy  electrolyte  demonstrates  smaller polymer  hybrid  electrolytes  improve  the  propertie s  of  ceramic  solid  electrolytes, pellet  and  the  annular  LAGP-epoxy  electrolyte  were  measured,  and  the  measured microarchitecture  exhibits  the  most  uniform  stress  spatial  distribution.  Rotating RT.  As  shown  in  Fig.7  (b),  the  cycle  performances  of  the  battery  based  on  LAGP contact  of  the  solid  electrolyte/electrode  to  reduce  the  interface  impedance.  Jian current  density  was  0.7  mA  cm−2,  and  the  cutoff  capacity  was  0.35  mA  h  cm−2. membrane  exhibits  high  ionic  conductivity  of  1.0×10−4  S  cm−1  at  RT  with  greatly excellent  performance  at  RT  [164].  An  easily  scalable  hybrid  inorganic−organic of  Li1.3Al0.3Ti1.7(PO4)3  and  polyvinylidene  fluoride-hexafluoropropylene.  
+
+
+
+The  solid benzyl  nbutyl  phthalate,  polyvinylidene  fluoride,  and  LiBF4.  This  inorganic−organic of  flexible battery. At present,  liquid electrolyte  is generally  used  in  flexible batteries. membrane was prepared by combining the  LAGP as  the  fast  ion-conducting ceramic advantages  of  high  conductivity  and  good  contact.  However,  the  safety  problems  of electrolyte  has  good  flexibility.  An  ASSLB  assembled  with  this  electrolyte  exhibits flexible  lithiumion  batteries. 
+
+In  addition,  it  is  especially  important  to  develop  smaller,  lighter  and  thinner enhanced  stability  [165]. 
+
+The  main problems  in cathode solid electrolyte surface at high temperature. These methods have been widely used in electrode  to  improve  interface  is  to  prepare  composite  electrode  to  impro ve important role in the electrochemical stability and interface resistance of ASSLBs. As reaction  of  electrode/electrolyte  interface  and  the  growth  of  lithium  dendrites.  The membrane  are  the  main  methods  to  solve  the  interface  problems. 
+
+
+
+In  summary,  the  interface  between  electrode  and  solid  electrolyte  plays  an the  preparation  of  ASSLBs.  Great  progress  has  been  made  in  battery  safety,  cycle stability  and  energy  density improvement.  However,  crystallization  and  solid chemistry  are still  needed to improve  the preparation  process. 
+
+The  ASSLB  has  a  broad  prospect  in  the  fields  of  electric  vehicles,  smart  grid, systematically, and the effective ways to  improve the conductivity of solid electrolyte are summarized. Firstly, the optimization of the bottleneck size of  ion flow channel  is ASSLB. From the perspective of conductivity, LATP is better than LAGP system, and for  metal  Li contact  is  uncertain. 
+
+
+Ge  is  more  expensive,  but  Ti4+  is  easy  to  be  reduced  to  Ti3+  at  a  lower  potential. moving  Li+  ions  is  one  effective  way  to  increase  the  ionic  conductivity.  Thirdly, area  and  reduce  activation  energy. 

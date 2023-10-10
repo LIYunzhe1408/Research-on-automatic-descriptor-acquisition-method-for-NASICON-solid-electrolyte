@@ -1,0 +1,12 @@
+The gram-scale preparation of Fe2(WO4)3 by a new solution-based route and detailed characterization of the material are presented.
+The resulting Fe2(WO4)3 undergoes a reversible electrochemical reaction against lithium centered around 3.0 V with capacities near 93% of the theoretical maximum.
+Evolution of the Fe2(WO4)3 structure upon lithium insertion and deinsertion is probed using a battery of characterization techniques, including in situ X-ray diffraction, neutron total scattering, and X-ray absorption spectroscopy (XAS).
+A structural transformation from monoclinic to orthorhombic phases is confirmed during lithium intercalation.
+XAS and neutron total scattering measurements verify that Fe2(WO4)3 consists of trivalent iron and hexavalent tungsten ions.
+As lithium ions are inserted into the framework, iron ions are reduced to the divalent state, while the tungsten ions are electrochemically inactive and remain in the hexavalent state.
+Lithium insertion occurs via a concerted rotation of the rigid polyhedra in the host lattice driven by electrostatic interactions with the Li+ ions; the magnitude of these polyhedral rotations was found to be slightly larger for Fe2(WO4)3 than for the Fe2(MoO4)3 analog.
+We have presented a new solution-based precipitation method for the gram-scale synthesis of anti-NASICON monoclinic Fe2(WO4)3. Using a combination of structural and electrochemical probes, we have demonstrated the reversible (de)insertion of lithium into the Fe2(WO4)3 framework.
+Galvanostatic cycling indicates that Fe2(WO4)3 undergoes a reversible electrochemical reaction centered around ~3.0 V with a remarkable capacity retention of 95% over 25 cycles at a C/10 cycling rate.
+XANES and neutron total scattering studies confirm that the charge compensation upon Li+ (de)insertion is achieved through the Fe3+/Fe2+ redox couple only.
+A two-phase lithium intercalation process was established by in situ XRD, and transformation of the initial monoclinic structure into an orthorhombic lithiated structure was demonstrated by symmetry-mode analysis to proceed through the filling of defined crystallographic positions by inserted lithium atoms via cooperative rotations polyhedral subunits.
+This comprehensive study provides constructive information on the electrochemical performance and structural evolution of NASICON-type materials, which may facilitate further development of insertion cathodes for rechargeable Li-ion batteries.

@@ -1,0 +1,12 @@
+The compound NaFe2(PO4)(SO4)2 is successfully synthesized via a solid state reaction route and its crystal structure is determined using powder X-ray diﬀraction data.
+NaFe2(PO4)(SO4)2 phase is also characterized by cyclic voltammetry, galvanostatic cycling and electrochemical impedance spectroscopy.
+NaFe2(PO4)(SO4)2 crystallizes with the well-known NASICON-type structure.
+SAED and HRTEM experiments conﬁrm the structural −2 polyanions is detected.
+The electrochemical tests indicate model, and no ordering between the PO4 that NaFe2(PO4)(SO4)2 is a 3 V sodium intercalating cathode.
+The electrical conductivity is relatively low (2.2 × 10−6 Scm−1 at 200 °C) and the obtained activation energy is ∼0.60eV.
+The GITT experiments indicate that the diﬀusivity values are in the range of 10−11-10−12 cm2/s within the measured sodium concentrations.
+−3 and SO4Compounds of the NASICON (NAtrium Super Ionic CONductor) family are being reinvestigated as electrode materials for sodium-, lithium-, and magnesium-ion batteries.
+Previously, they were extensively studied for their luminescence and gas sensor-properties [5–7], and as potential hosts for radioactive waste.
+Of signiﬁcance, NASICON compounds possess solid electrolytes properties owing totheir pronounced ionic conductivity.
+The ﬁrst NASICON compound NaZr2(PO4)3, belonging to the family AxM2(XO4)3, was synthesized by Sljukic et al. in 1967, and its crystal structure was solved a year later by Hagman and Kierkegaard.
+The structure has the rhombohedral symmetry space group R-3c and consists of 3D M2(XO4)3 skeleton made of corner sharing MO6∗ Corresponding author.

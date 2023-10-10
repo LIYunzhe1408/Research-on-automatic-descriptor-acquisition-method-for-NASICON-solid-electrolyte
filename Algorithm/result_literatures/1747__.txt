@@ -1,0 +1,80 @@
+We have recently reported our success in identifying a family of new polyanion cathode materials, namely Li2M2(MoO4)3 [M = Ni, Co andMn] and synthesized these polyanion derivatives using soft-combustion based solution synthesize technique.
+It is known that the polyanioncathode materials reported hither to suffer invariably from intrinsic lattice electronic conductivities regardless of their structure.
+The new polyanionmaterials reported by us also suffer from low lattice electronic conductivity.
+Considering its lithium rich phase to be useful for battery application,we attempted to improvise the electronic conductivity of Li2Ni2(MoO4)3 by adding mesoporous (nano-sized) non-graphitized carbon black (NCB)particles as an additional conductive additive together with acetylene black and compared its electrochemical performance with the conventionalcomposite electrode having acetylene black as a conductive additive.
+The test electrode fabricated with NCB as conductive additive has profoundeffect on the discharge properties by enhancing the grain–grain contact much more effectively and establishing much better intimacy between the electrode-active grains and thus improving the overall electronic conductivity of the composite electrode.
+As a result, we found that the conventionalcomposite positive electrode yielded a first discharge capacity of 26 mAh g−1 between 4.9 and 2.0V, whereas the nano-composite electrode yieldeda discharge capacity of 86 mAh g−1 which is approximately a four-fold increase.
+It was also observed that NCB addition facilitated the extendedcycling performance in terms of lithium insertion and structural stability retention of the host cathode material.
+Rechargeable lithium batteries have become inseparablecommodity in a vast array of mobile applications, from micromedical devices to high power automotive.
+Recent innovationsin Li-ion batteries have propelled the technology into a positionin the marketplace to fulfill the portable power requirements inthe first place.
+It is well known that such batteries gain pride asthe advanced power source technology and are classified undersmart power source of the future.
+However, the present day positiveelectrode material, lithium cobalt oxide, is expensive andonly 50% of its theoretical capacity could be utilized in practicalcells, due to chemical and structural instabilities, and safety concernsat deep charge.
+These difficulties have generated immenseinterest in the development of alternative cathode materials.
+Varied research activities are being carried out with a goal to replacethe highly toxic LiCoO2 in commercial lithium-ion cells.
+Currently, high energy density lithium storage systems arethe focus of intense interest and expectation.
+In this perspective,polyanion materials sound very exciting due to their high cellvoltage, structural and electrochemical stability, low cost andnon-toxicity.
+Polyanions cover both the NASICON  andOlivine structured compounds that are expected to playa vital role as electrode-active materials in the next generationlithium-ion batteries.
+The performance and safety of the newcathode materials are the kind of things needed to make a good,low-cost battery.
+In 1997, researchers at the University of Texas proposed a new cathode material, LiFePO4 (theoretical specificcapacity = 170 mAh g−1) with an ordered Olivine structure,which is cheaper and safer than LiCoO2. Although LiFePO4 fulfillsall the required criteria to be a candidate cathode materialfor Li-ion batteries, it has one big problem being its too lowelectronic conductivity .
+Although all the polyanion materials investigated so farexhibit reversible electrochemical lithium extraction/insertion over a considerable number of cycles, they have the low electronicconductivity ordeal, which stems from their insulatingnature .
+Of late, several techniques have been adopted toalleviate this setback, which include the addition of an electronicallyconducting substance such as carbon or dispersed metalpowders during the synthesis itself.
+These attempts were foundto be lucrative if the electronic conductivity of the polyanionmaterials is at a premium.
+Chiang and coworkers  at the Massachusetts Instituteof Technology had spiced lithium iron phosphate with smallamounts of metal ions, such as aluminum, niobium, and zirconiumin doping which enhanced the electronic conductivity10 million times that of pure LiFePO4. Nevertheless, there aresome ambiguities due to the nature of starting materials likemetal alkoxides, etc.
+Huang et al.and Prosini et al. obtained noteworthyimprovements by using nano-composites of LiFePO4 by acombination of intimate mixing with a graphite precursor containingcarbon.
+Specifically, at 5C rate, the capacity increaseson initial cycling to reach a maximum at ∼120 mAh g−1, with∼8% loss over 800 cycles.
+This good rate capability and excellentreversibility was achieved by controlling the particle sizeto nanometer dimensions .
+Hydrothermal/mechanochemicalactivation process was employed to synthesize LiFePO4, byadding carbon (5 wt%) during synthesis, an initial capacity of160 mAh g−1 at room temperature was obtained with a capacityfading of less than 1% on 20th cycle .
+Quite recently,introduction of carbon as a conductive additive was found to bebeneficial in terms of active material utilization and the electricalconductivity of the electrode .
+Carbon gel was used during hydrothermal synthesis at elevatedtemperature and the material retained 80% of the theoreticalcapacity on cycling at room temperature .
+Doeff etal. were able to enhance the electrochemical performanceof LiFePO4 by incorporating small amounts of a polyaromaticadditive during sol–gel synthesis to produce a carbon coating.
+This work was intended to enhance the electrode conductivityof recently identified NASICON type polyanion materialLi2Ni2(MoO4)3 by adding nano-sized (mesoporous), highsurface area activated carbon as conductive additive with a viewto improve the composite electrode conductivity and studied thecycling performance and compared it with earlier report.
+Thepresent study proved that nano carbon (mesoporous) additionindeed effectively improved the overall cycling behaviour ofthis new polyanion cathode material.
+Fine powders of lithiated nickel molybdate, Li2Ni2(MoO4)3were obtained through a simple soft-combustion synthesis routeat temperatures as low as 250 ◦C as described in our previouswork .
+All techniques pertaining to the physical characterizationof the material were already mentioned and explained explicitly.
+Investigation on the electrochemical lithium extraction/insertion properties of Li2Ni2(MoO4)3 were made usingArbin Instruments BT 2000 series battery-testing system.
+Test cells were composed of a composite cathode (working electrode)and a thin lithium foil as both reference and counter electrode.
+
+Nano-composite positive electrode (cathode) consisted of 65%active material, 5% binder (PTFE) and 30% conducting carbonmixture.
+The conducting carbon mixture comprised of anequal proportion of AB and NCB (nano-sized particles exhibitingmesoporosity of 3–10 nm).
+The contents were thoroughlyhand mixed with mortar and pestle.
+Nano-composite positiveelectrodes were fabricated following the procedure given earlier.
+The fabricated cells were allowed to equilibrate for 24 hinside argon filled insert box.
+The results concerning the phase formation temperature,phase purity and structure of the synthesized powders, calculationof unit cell parameters, electronic state of different elementspresent and metal content of the synthesized product werealready reported.
+The redox properties of Li2Ni2(MoO4)3were demonstrated by means of electrochemical techniques suchas slow scan cyclic voltammetry (SSCV) and constant currentgalvanostatic charge/discharge test.
+The results of the first 10charge/discharge cycles were presented along with an appropriateexplanation for different redox couples operating on theoxidation and reduction processes during charge and dischargeof the cell.
+The first two galvanostatic charge/discharge cyclesand the quantitative amount of lithium involved in the reversibleprocess were also reported previously.
+Also, we confirmedthe facile reversible electrochemical characteristics ofLi2Ni2(MoO4)3.
+To investigate the effect of nano-sized carbon blackon the electrochemical behaviour of Li2Ni2(MoO4)3,Li2Ni2(MoO4)3[nano-composite cathode]/Li half-cells weretested under galvanostatic conditions between 4.9 and 2.0V atlow current densities: 2.5mAg−1 (charge) and 1.25mAg−1(discharge).
+Our previous result on the conventional electrodeis also taken for comparison.
+The first charge/discharge curves obtained using the nanocompositepositive electrode (with NCB) are compared to thefirst charge/discharge curves of the conventional electrode (withoutNCB) as shown in Fig.1.
+ Fig.1 shows the clear evidencefor the difference between the two cases in terms of IR drop, theamount of lithium inserted and shape of the discharge profiles.
+The diminished IR (ohmic) drop (4.9–4.73 V) at the beginningof the discharge process after charge in the case of thenano-composite electrode is well seen in Fig.1 (inset).
+But, inthe conventional case, a large IR (ohmic) drop was observed(4.9–4.5 V).
+No obvious changes were observed in terms of Li+extraction (charge) between the nano-composite electrode andconventional composite electrode.
+In both cases, ∼1 Li+ performula unit was extracted up to a potential of 4.9V (charge cut off) versus Li+/Li during the first charge.
+As for the discharge(lithium insertion reaction), the former electrode showsa considerable improvement in the first discharge process, duringwhich ∼2 Li+ was inserted down to 2.0V (discharge cut off)corresponding to a discharge capacity of 86 mAh g−1 which isapproximately a four-fold excess compared to our earlier studieswherein we obtained only 26 mAh g−1 (0.6 Li+ down to 2.0 V).
+Apart from the above changes observed, a smooth dischargeprofile of the nano-composite electrode right from the beginningdownto 2.0V is noteworthy; whereas the conventional electrodeseems to exhibit two-slope feature during the first discharge thatappears distinctly on the discharge plateau.
+These significantchanges observed in the discharge profile clearly demonstratethe role of addition of non-graphitized carbon black (nano-sized)on the electrochemical properties of the host cathode.
+Fig.2 presents the multiple charge/discharge curves (first 20cycles) of Li2Ni2(MoO4)3 [conventional cathode]/Li cell cycled under the same experimental conditions.
+It is seen that after thefirst cycle, there was a change in the shape of the charge anddischarge profiles.
+The distinct potential profile appeared in thefirst cycle disappeared for the rest of the cycles studied.
+It is likelythat the material had undergone a structural phase transition afterthe first cycle.
+In addition, as for the quantity of Li+ insertion, weobserved a sharp decreasing trend as the cycle number increasesas summarized in Table 1.
+Fig. shows the multiple charge/discharge curves (first 20cycles) corresponding to the nano-composite cathode material.
+There was no difference found in the shape of the dischargecurves between the first cycle and the rest of the cycles studiedunlike the conventional one (Fig.2) where the distinct shape ofthe curves was evident.
+The amount of Li+ inserted in the nanocompositecathode during the 5th, 10th, 15th and 20th dischargewas larger than the corresponding values in the conventionalone as indicated in Fig.3. 
+For instance, at the end of 20th cycle,the quantitative amount of Li+ insertion was found to be only0.3 in the conventional composite cathode, whereas, the NCBadded cathode was able to accommodate 0.7 Li+ at the end of20th cycle.
+All such improvements in the electrode activity areattributable to the presence of nano-sized carbon black as conductiveadditive.
+Nano-sized carbon black plays an active role in enhancing the particle–particle contact of the electrode-activematerial thus resulting in increased bulk conductivity of the cathodematerial.
+The variation of discharge capacity with cycle number forboth types of electrode is shown in Fig.4 for the first 20 cycles.
+The discharge capacity delivered by the conventional compositecathode declines tangentially down to 14 mAh g−1 at the endof 20th cycle.
+On the other hand, for the NCB added cathode,although the discharge capacity falls from 86 mAh g−1 (first discharge)to 50 mAh g−1 (second discharge) due to irreversiblecapacity, there is no abrupt decrease in capacity as the cyclenumber increases.
+Table 1 provides the electrochemical propertiesto summarize the improvements made on the NCB addedcathode over the conventional one.
+It is seen that NCB additioncould improve the cycling behaviour of Li2Ni2(MoO4)3.
+It appears that the nano-sized grains accompanied by the presenceof mesoporosity (see Fig.5) in the NCB facilitated the enhanced grain–grain contact between the electrode-active particlesand provided the enhanced intactness between electrodeactivegrains and the conductive additive carbons established viaPTFE upon repeated charge/discharge cycles.
+Obviously suchintimacy is expected to enhance the electronic conductivity ofthe overall composite matrix.
+This may also be the effect of structuralstability of the cathode materials upon repeated cycling.
+We have demonstrated the effect of adding the mesoporous(nano-sized) non-graphiticized carbon black as a conductiveadditive in Li2Ni2(MoO4)3 and compared the cycling performancewith a composite electrode prepared without such anadditive carbon.
+The electrochemical properties of both the conventionalcomposite cathode and nano-composite cathode werestudied to determine the role of mesoporous carbon as conductiveadditive.
+The test electrode fabricated with NCB as conductiveadditive has profound effect on the discharge properties byenhancing the grain–grain contact much more effectively andestablishing much better intimacy between the electrode-activegrains and thus improving the overall electronic conductivityof the composite electrode.
+As a result, a four-fold increase indischarge capacity was confirmed due to NCB addition.

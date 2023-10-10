@@ -1,0 +1,45 @@
+Particles that are heavy compared to the fluid in which they areembedded (inertial particles) tend to cluster in turbulent flow, with the degreeof clustering depending on the particle Stokes number.
+The phenomenon isrelevant to a variety of multiphase flows, including atmospheric clouds; in mostrealistic systems, particles have a continuous distribution of sizes and thereforethe clustering of ‘polydisperse’ particle populations is of special relevance.
+Inthis part of the study, measurements of spatial correlations of particles in high-Reynolds-number turbulence are compared with the results of a direct numericalsimulation of particle-laden turbulence.
+The experimentally derived radialdistribution functions (RDFs) exhibit a pronounced scale break at approximately10–30 times the Kolmogorov scale, with large-scale clustering arising from ‘scalar mixing’ of the droplet field, and smaller-scale clustering depending onthe particle Stokes numbers.
+A procedure is outlined for isolating the RDF dueto inertial clustering from that resulting from large-scale mixing.
+Reasonableagreement between the experiment and the direct numerical simulations (DNS)is obtained for St .0.3 when particle Stokes number distributions in the DNSmatch those existing in the experiments.
+The experimental RDFs are consistentwith the flattening or saturation scale appearing for bidisperse particles, but asin the companion paper, also support the ‘saturation’ effect in the asymmetricresponse of the power-law slope.
+The evidence for a universal scale break, asobserved in both the DNS and the experiments, suggests that the pre-factorin the theoretical expression for the RDF is inherently tied to the power-lawexponent, and an empirical form for this is given.
+Finally, no strong influence ofthe turbulence Reynolds number was observed for the clustering phenomenon.
+The consistency between the carefully analyzed DNS and experiments, in termsof St dependence, dissipation-range scale break and saturation of clustering forpolydisperse particles, provides an indirect confirmation of the diffusion-drifttheory of Chun et al.
+This work is a systematic study of inertial clustering of particles in turbulence, using acomputational and experimental approach.
+Due to the volume of material, it is presented intwo companion papers.
+Part I focuses on a detailed comparison of the results from DNSof particle-laden turbulence with theory.
+Part II (this paper) focuses on comparisons between experiments and DNS.
+Taken together, Parts I and II provide an indirect comparison of theory and experiment using the DNS data as an intermediary.
+In this paper, we have presented wind tunnel measurements of the RDF that were madeusing a PDI.
+We have also discussed the procedure for isolating the RDF due to inertialclustering from that resulting from large-scale mixing .
+We then proceed to study inertial clustering by comparing the experimental results with DNS of particle-laden turbulence,and also indirectly with theory using the DNS data as an intermediary.
+The DNS were performedmatching particle Stokes number distributions found in experiments in order to allow anunambiguous comparison.
+Observations and conclusions that can be drawn from this paper, as well as those from thetwo papers taken together, can be summarized as follows:(i) The RDF, and thus inertial clustering, is found to show dynamical similarity with respectto particle Stokes number (cf section 4.1).
+The RDF is flat (c1 = 0, no clustering) whenSt = 0 and becomes steeper as St increases from zero, for St .
+1.(ii) For non-zero St, the RDF exhibits a clear scale break, exhibiting enhanced clustering atlength scales r < 10 rk to 30 rk (cf section 4.1 and Part I [1]).
+This is found to be truefor all cases (perfectly monodisperse, quasi-monodisperse and quasi-bidisperse for bothDNS and experiment).
+This finding supports the understanding that inertial clustering isdriven by dissipation scale fluid motions and is consistent with turbulent vorticity reachinga maximum around the scales of 10–20 Kolmogorov lengths (rk).
+(iii) Quantitative agreement was found between DNS and the perfectly monodisperse theoryfor St .0.3. 
+Good quantitative agreement was also found (albeit minor deviations at largeSt) between DNS and experiment in the quasi-monodisperse study.
+Taken together, thisimplies that there is consistency between theory and experiment regarding the Stokesnumber scaling of monodisperse RDFs (see section 4.1 for details).
+(iv) When comparing the bidisperse RDFs we found that the theory was able to predict thetrend of the flattening scale rc very well, but it did not account for the saturation effectfound in the trend of c01 (the power-law slope in the range .
+Experimentalresults reported here confirm this finding (section 4.2).
+In view of that, we have proposeda correction for the bidisperse c01 based on the concept that the most weakly correlatedparticles dominate the RDF (Part I).
+(v) DNS and experimental data for all St and over a range of Re showed consistently thatinertial clustering becomes insignificant above a length scale of approximately 10–30times rk.
+This implies that the power-law expression for g(r ) can be written with a singleparameter, c1 (see discussion around equation (7) for details).
+Alternatively, the observationleads to a relationship between the pre-exponential factor of the RDF, c0, and the power-lawexponent, c1. (See section 4.3 for details.
+(vi) In section 4.3 the experimental and DNS data were reviewed to conclude that inertialclustering becomes saturated once the Reynolds number is increased beyond a certain level.
+These results have several implications.
+Firstly, they provide considerable support forthe diffusion-drift theory, and therefore to the underlying concept that particle inertia leadsto slow decoupling of the particles from the fluid motions, resulting in spatial clusteringwithin the dissipation range.
+Secondly, the results underscore the crucial importance ofconsidering detailed experimental conditions when attempting a comparison with computationalor theoretical results.
+Specifically, the shape of the particle Stokes number distribution (e.g.sizedistribution for constant density particles) must be accounted for in such comparisons and, byextension, in the application of theoretical results to practical problems.
+For example, this mayexplain some of the difficulty in measuring strong inertial clustering in transient environmentscontaining relatively broad particle size distributions, such as in atmospheric clouds .
+Only in a carefully controlled and well-characterized wind tunnel environment, inwhich particles could be counted for time periods of the order of hours, has it been possible tomake unambiguous comparisons between theory and experiment.
+Thirdly, evidence is mountingthat the Reynolds number dependence of inertial clustering, if present at all, is quite weak.
+Thisprovides further support for the application of DNS and theory to practical problems, at leastfor mean conditions (we may speculate that fluctuations may have a stronger R dependence).
+Fourthly, several questions are raised that merit further attention.
+The most significant in ouropinion is the saturation effect, or asymmetric dependence of the RDF power-law slope c1 onthe two particle Stokes numbers in a bidisperse population.
+The possible relationship betweenthe power-law slope and the pre-factor (c1 and c0), or alternately the single-parameter c1 powerlaw with a constant cutoff scale rs, is also intriguing and is likely relevant to practical applicationof the theory.

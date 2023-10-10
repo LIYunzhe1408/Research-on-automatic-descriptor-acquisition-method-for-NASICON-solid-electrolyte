@@ -1,0 +1,146 @@
+Electrochemical impedance spectroscopy (EIS) was applied to study the effect of heat treatment conditions (temperature and time ofheating) on electrical properties of electrochemical gas sensors.
+The use of EIS method allowed observing the effect of undesirablechemical reaction in electrochemical cells (sensors) by the detection of change of electrical properties at the very early stage of suchreaction.
+Addition of barium carbonate to lithium carbonate resulted in long-term stabilization of electrical properties of the systemcarbonate phase solid electrolyte.
+It was found that impedance spectra of the cell: carbonate|Au|YSZ|Pt with inner Au electrode providedthe most useful information about reactivity progress between both phases.
+Yttria-stabilized zirconia, YSZ, is a well known solidelectrolyte and has been the subject of numerous studies.
+Itis a strategic functional material which has found extensiveapplication in electrochemical devices such as solid oxidefuel cells, oxygen sensors and pumps.
+Recently, yttriastabilized zirconia or its close analogous calcia- ormagnesia-stabilized zirconia were used in construction ofCO2 or SOx potentiometric sensors .
+The sensing mechanismof the cell (1) was proposed by Miura et al.
+Thecarbonate phase M2CO3 works as M+ conductor (M ¼ K,Na or Li).
+The response time of the cell is usually less than 1 min .
+The cross-sensitivity (in particular to water vapour) of thesensor is sufficiently low .
+However, such sensors maysuffer from long-term instability, observed as a drift ofmeasured signal, EMF, as shown in Fig.1. 
+According tothe detailed studies  the observed instability may becorrelated with the mutual reactivity of contacted phases inthe cell.
+The operating temperature of the sensors shouldbe rather high (above 773 K) due to low electricalconductivity of solid electrolyte used or sluggish electrodereactions at lower temperatures.
+From the other hand themutual reactivity at higher temperatures between sensingphase containing metal alkaline carbonates and solidelectrolyte may lead to the degradation of the cell structureand the following limitation of the long-term stability.
+So far, there are no studies concerning the effect ofreactivity of the cell components on electrical properties ofsuch systems.
+The electrochemical impedance spectroscopy,EIS, seems to be suitable experimental tool forsuch task.
+The purpose of this work was to investigate themodification of electrical properties of electrochemical cells(sensors) during the long-term exploitation at elevatedtemperatures in the range 725–873 K.
+Electrochemicalimpedance spectroscopy (EIS) technique was used as amain experimental tool.
+Also, additional techniques suchas X-ray diffraction (XRD), scanning electron microscopy(SEM) and differential thermal analysis and thermogravimetry(DTA&TG) were used to assist the interpretation ofobtained data of impedance measurements.
+The EIS measurements were performed on constructedcells and on individual phases used for cell manufacturing.
+Also, in the case of cell measurements different electrodegeometries were proposed and tested.
+Such approach gaveus the possibility to correlate the observed modification ofEIS spectra with physico-chemical processes like reactivityand formation of additional phases at the interfaces ormicrostructure changes.
+Lithium carbonate, Li2CO3, (Aldrich, ReagentPlusTM,99.99%), barium carbonate, BaCO3 and ZrO2+8mol% Y2O3 (Tosoh Corp.
+,average grain size of 25 nm) were used as starting materialsfor construction of electrochemical cells.
+Table 1 showschemical composition and some details about electrodearrangements in the studied cells.
+Design of the cells isschematically illustrated in Fig.2. 
+The Ag ink (Leitsilber200, Hans Wolbring GmbH), Au and Pt pastes (Heraeus,C4350 and LP11-4493 type) were used to form theelectrodes (metal contacts).
+Pt was used to form porouselectrodes on YSZ; Au electrodes were used to formcontacts with carbonates (due to reactivity of Pt withcarbonates).
+The Ag ink was used only in the case wherethe high temperature of firing was undesirable beforemeasurement.
+The electrodes were applied using screenprinting, then dried and fired at 100 1C (Ag), 540 1C (Au)and 850 1C (Pt), respectively.
+The impedance measurements were performed using afrequency response analyser (Solartron, model FRA 1260)coupled with Dielectric Interface, (model 1296).
+Frequencyrange was 1 Hz–1 MHz, the amplitude of the sinusoidalvoltage signal was 20mV.
+The values of the equivalentcircuit components were derived using the ZVIEW software(version 2.2, Scribner Associates, Inc.).
+The obtainedvalues of resistances R, conductances S [S ¼ R1] andcapacitances C were normalized taking into account thegeometrical dimensions of measured pellets.
+Such approachallowed us to compare the absolute R, S and Cvalues obtained for different samples.
+(XRD) X-ray diffraction (X’Pert Philips), (SEM) scanningelectron microscopy (JEOL, type JSM–5400) and(DTA&TG) differential thermal analysis and thermogravimetry(TA Instruments, type SDT 2960) techniques werealso used.
+Fig.3 illustrates both DTA and TG results of themixture: YSZ–Li2CO3–BaCO3 (5:2:3 molar ratios).
+Themeasurements were performed in the flow of the artificialair containing 1.5 vol% CO2. The observed decrease ofsample weight starts at temperature about 873 K.
+Thisweight loss is caused by the decomposition of bariumcarbonate accompanied by the reaction of carbonate withzirconium oxide.
+The first endothermic peak observed onDTA curve in the temperature range T ¼ 903–963K maybe attributed to the melting of lithium–barium carbonatecomposition, according to the phase diagram of thiseutectic system .
+The second endothermic peak observedin the temperature range from 1023 to 1098K can bepartially interpreted in terms of g–b phase transition inBaCO3 at 1088K but its complex shape, together withnon-linear shape of TG curve suggest additional process orreaction taking place in this temperature range.
+Moredetails concerning the carbonate—solid electrolyte systemsstudied by DTA and TG can be found in Refs.
+The microstructures of the mixture carbonate (Li andBa) with YSZ after heating at 873K for 48 h is presented inFigs.4A and B.
+The amorphous phase (in the middle ofFig.4B) can be observed.
+Figs.4C and D showmicrostructures of the connected pellets YSZ and carbonate(Li and Ba 2:3 molar ratio) after heating at 873K for48 h.
+The product of the reaction can be easily observed.
+XRD analysis of the material after heat treatment revealedthe formation of BaZrO3 phase.
+The design of measured cell is schematically presented inFig.2A.
+The measurements were done in the temperaturerange 503–683 K.
+Fig.5 shows evolution of the impedanceplots—Z00 vs.
+Z0 (Z00 ¼ Im Z, Z0 ¼ ReZ) of YSZ at 598,623 and 673 K.
+Two parts of semicircles and the spur may be distinguished.
+It is generally accepted that thehigh-frequency part of the spectrum corresponds to thebulk of solid electrolyte, second part (semicircle) is relatedto a partial blocking of oxygen ions at the internal surfacesof the electrolyte such as grain boundaries, insulatinginclusions of impurities and other microstructural defectslike pores and cracks, and the third, if any, characterizeselectrode reactions.
+In order to analyse quantitatively observed spectra wehave to choose an equivalent circuit.
+The appropriateequivalent circuit should agree with both determinedimpedance spectrum and charge transfer model in studiedmaterial.
+We can broadly distinguish two conductionmodels proposed for YSZ; the brick-layer model and thecurrent-constriction model [8–10].
+The impedance spectraof both models can be represented by the same equivalentcircuit composed of resistor R1 and two parallel Ri-CPEi(constant phase angle element) sub-circuits in seriespresented in Fig.2E.
+Similar equivalent circuit was usedby Jiang et al. to analyse impedance spectra of LSM/TZP materials (La0.8Sr0.2MnO3/ZrO2+3mol %Y2O3).
+At lower temperature range (523–673 K) the plots inthe complex impedance plane (Fig.5) provide more information than plots in the complex admittance plane.
+The reverse situation is observed at higher temperatures.
+The resistances R1 and R2 determined by fitting experimentalresults as presented in Fig.5 are presented in Fig.6as log(ST) vs.T1. 
+These resistances may be ascribed toelectrical properties of bulk (R1) and grain boundaries (R2),respectively.
+Below 700 K, electrical conductance of grain boundaries assumes higher activation energy than those ofbulk within.
+On the other hand above 700K bothconductances assume the same values.
+The activation energies determined from the slopes ofstraight lines in Fig.6 are presented in Table 2. As can benoticed the obtained results of activation energies agreewell with the results reported by other authors .
+Due to high reactivity of Pt with carbonates it wasnecessary to replace the Pt electrode with Au contact inconstructed cells.
+Fig.6 shows Arrhenius plots of both SBand SGB determined for the YSZ in the cell illustrated byFig.2A with Au electrodes.
+The comparison of resultspresented in Fig.6 leads to the conclusion that replacementof one Pt electrode by Au does not cause the remarkablechanges of impedance spectra of the cell.
+Fig.7 illustrates temperature dependencies of conductances,S, and capacitances, C, of both types of electrodes(Pt and Au).
+Two temperature regimes for the cell with Ptelectrodes can be observed, low (below 720 K) and high(above 720 K) temperature.
+
+At high-temperature region capacitanceassumes values about 103 F and conductance is between105 and 103O1. The observed differences between CAuand CPt at lower temperatures are negligible at highertemperatures.
+Impedance spectra of Li2CO3 with Au electrodescorrespond to the equivalent circuit illustrated in Fig.2E.
+Fig.8 shows impedance spectra presented in the Z0(Z00)complex plane measured as a function of heating time at873 K.
+Analogous dependencies were observed at othertemperatures.
+A strong effect of heating time on impedancecan be observed.
+Based on general rules, we can ascribe R1to the bulk resistance, R2 and (CPE)2 to the grain boundaryproperties and R3 and (CPE)3 to the electrode phenomena.
+Fig.9 presents changes of both SB, SGB and SE vs.
+heating time at 873K.
+Electrical conductance of bulkremains almost constant, whereas electrical conductance ofthe electrode, SE, increases with time and electricalconductance of grain boundaries, SGB, show abruptchanges with time.
+Changes of the electrical conductanceof grain boundaries can be explained by sintering processesleading to increase of the grain size.
+On the other handchanges of the electrode conductance may result from theformation of Li–Au alloy.
+The weak dependence of SBon temperature for the studied carbonates may result fromthe constant concentration of electrical carriers withinstudied range of temperature.
+The small changes of SB withtemperature result only from the dependence of mobilityterm of the electrical carriers versus T1.The discussed change of the electrical conductancespresented in Fig.9 accompanies changes of the parametersA and n of the CPE elements (Fig.10).
+The parameters Aand n are characterized by the relation: YCPE ¼ A(jo)n.
+Fig.11 illustrates both (SBT) and (SGBT) as a function ofreciprocal temperature.
+Two temperature regimes may bedistinguished.
+Below 840K the bulk conductance surpassesover the grain boundary conductance.
+The reverse effect isobserved above this temperature.
+The determined activationenergies assume 1.70 and 3.77 eV for bulk and grainboundary, respectively.
+The activation energy of the grainboundary conductance is unexpectedly high and should betreated as an apparent activation energy resulting fromlack of an equilibrium state during measurements.
+Anotherexplanation may be the phase transition or partialdecomposition of lithium carbonate.
+It means thataddition of barium carbonate stabilized the electricalproperties of lithium carbonate.
+However, addition ofbarium carbonate increased absolute value of the impedanceby ca.2 orders of the magnitude compared tolithium carbonate.
+The observed changes of electricalproperties of Li2CO3 and the lack of suchchanges in case of Li2CO3–BaCO3 mixture , maybe explained by the microstructure changes, as can be seenin SEM images shown in Fig.13. Considerable graingrowth of Li2CO3 is observed after heat treatment at 910K(Figs.13A and B).
+Such changes are not detected in case ofLi2CO3–BaCO3 mixture (Figs.13C and D).
+The analysis of the results presented in Fig.12 indicates,that the (CPE)2 element reduces to the Debye capacitor(i.e.centres of the semicircles are placed on the axis Z0).
+The determined capacitance assumes independent oftemperature value C ¼ (2.8070.22), nF.
+
+Arrhenius plot of SGBT is presentedin Fig.14, the determined activation energy assumes valueof 1.13 eV.
+The second plot shown in Fig.14 will bediscussed in the next part of this paper.
+The reactivity between phases used for construction ofCO2 gas sensors was studied using different geometries ofsamples and electrodes (shown in Figs.2B–D), the resultsare discussed below.
+The spectra exhibit similar shape, the decrease of absolutevalue of Z with temperature can be noticed.
+The heattreatment (for 50 and 112 h, as shown in Fig.15b) at 773Kdoes not cause the change of impedance spectra of thissystem.
+Two CPE elements (CPE)2 and (CPE)3 should beconsidered in the equivalent circuit of the studied cell.
+Theparameter n of (CPE)2 assumes value n2 ¼ 1 whereas n for(CPE)3 assumes value n3 ¼ 0.5. It means that (CPE)2 and(CPE)3 represents the Debye capacitor and Warburgelement, respectively.
+Arrhenius plots of SB, SGB and SEare presented in Fig.16. 
+
+The comparisonof the absolute values of S, as well as the activationenergies presented in Figs.6 and 14 lead to the conclusionthe addition of the YSZ phase to the Au|Li2CO3–BaCO3|Au (leading to the formation of the Au|Li2CO3–BaCO3|YSZ|Au cell) have almost no influence on electricalproperties of the system.
+It means, that addition of YSZpellet to the cell (5) has only minor effect on the SGB parameter.
+Moreover, the conductance of grain boundariesin Li2CO3–BaCO3 play considerable role in both discussedcells (5 and 6).
+The obtained spectra exhibited similar shape as presentedpreviously in Fig.14 for the cell (6).
+Contrary to theresults obtained for the cell (6) the evolution of spectraduring isothermal measurements was detected.
+The sinteringaccompanied by the considerable size changes ofsample, reactivity between carbonate and YSZ, increaseof grain sizes and modification of grain boundaries, shouldbe taken into account to interpret unequivocally theobtained results.
+We have found that the interpretationof spectra evolution with time was not possible due tocomplexity of the used system (Fig.2B) and this sampleconfiguration was not appropriate to investigate thereactivity of carbonate towards YSZ.
+Fig.17 illustrates the scheme of thermal heatingprocedure.
+The cells were kept at isothermal conditionand the EIS spectra were recorded (measurements indicatedschematically by arrows).
+After certain period oftime the temperature was changed, and the EIS measurementswere continued.
+Such procedure allowed us toobserve both the evolution with time of EIS spectra atconstant temperature and the influence of thermal historyof the cell.
+The admittance spectra measured at 773K after 2.5, 26 hand 120 h are presented in Fig.18.
+ The admittance plot ofthe cell Au|YSZ|Pt (marked as YSZ curve) is also shownfor comparison.
+According to the data presented in Fig.17the cell between successive periods (between 2.5–26 h and26–120 h) was kept at higher temperatures (823, 873 and 823 K, respectively).
+It means that observed changes ofadmittance depend on thermal history and isothermalheating of the cell.
+Nevertheless, the observed evolution ofthe admittance spectra well correspond to the formation ofthe reaction product between carbonate phase and solidelectrolyte, YSZ.
+Similar evolution of the impedancespectra is observed at 823K (Fig.19) shown in compleximpedance plane.
+Taking into consideration the equivalent cell composedfrom R1 and R2 +(CPE)2 connected in series (cf.Fig.2E,i ¼ 2), both S1 and S2 were determined from the datapresented in Fig.19. Fig.20 shows the dependence of S1and S2 vs time (time corresponds to isothermal treatmentof the cell at 823 K).
+
+Hence, we assume that S1corresponds to conductance of YSZ phase.
+On the otherhand S2 changes considerably with time.
+It corresponds toconductance of the reaction product between carbonateand YSZ phases.
+Fig.21 illustrates the evolution of impedance spectra ofLi2CO3|Au|YSZ|Pt at 773K after isothermal heating in theperiods of 0.2–68 h.
+At the beginning of thermal treatmentthe impedance spectra of this cell is similar to theimpedance spectra of the cell Au|YSZ|Pt.
+After 17 h thedifference in EIS spectra can be observed.
+This change iscaused by the reaction between lithium carbonate phaseand YSZ.
+After ca.70 h the reaction reaches a saturationstate.
+In our opinion the presence of metal electrode insidethe specimen composed from two pellets does not affectthe solid-state reaction.
+Moreover such arrangement of theelectrode gives the opportunity to study precisely theprocesses and reactions occurring at the interface.
+One of the main problems with the potentiometricsensors for detection of complex gases (such as CO2, SOxor NOx) is the instability of the measured signal duringlong-term exploitation at elevated temperatures.
+The exactunderstanding of the undesired processes taking place inthe working cell is essential in order to propose the bestsensing structures.
+In this work different types of cells were constructed inorder to study the reactivity of either Li2CO3 or Li2CO3+BaCO3 with YSZ.
+The results obtained from DTA, TG,SEM and XRD measurements allowed interpreting theobserved reaction as leading to the formation of additionalproduct at the carbonate|YSZ interface.
+The obtained EISresults allowed confirming that the mutual reactivity of thematerials used for construction of sensors is responsible forthe continuous change of electrical properties of the cell thusfor long-term drift of sensor signal.
+On comparing thedifferent experimental techniques used commonly for theinvestigation of solid-state reactions (DTA, TG, SEM,XRD) the EIS method was found to be much more sensitivefor the detection of the very early stage of such reaction.
+It must be mentioned that such EIS measurements supplyus with sufficient results under the condition that the properelectrode/materials configuration is used.
+It was found thatthe cell with ‘‘inside’’ electrode geometry is the most suitablesystem for investigation of reactivity processes occurringbetween carbonate and solid electrolyte phases.

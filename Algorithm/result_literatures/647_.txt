@@ -1,0 +1,143 @@
+Since commercialized in 1990s, Li-ion batteries (LIBs) have been  receiving  intensive  exploration  for  high  energy  and  power  density.
+Conventional  LIBs  with  liquid  organic  electrolytes  suffer  from  the  risk  of  combustion,  explosion,  and  internal  shorting.
+Therefore,  replacing  organic  electrolytes  with  inorganic solid electrolytes is an effective way to eliminate the  security  problems  in  LIBs.
+In  general,  solid  electrolytes  could  resist  Li  dendrite  growth  and  provide  wide  electrochemical  window (EW); thus the Li metal anode and high-voltage cathode  could  be  applied  to  achieve  higher  capacity  and  voltage.  
+Currently,  available  solid  electrolytes  are  mainly  divided  into  inorganic  solid  electrolytes  (ISEs),  solid  polymer  electrolytes  (SPEs), and composite solid electrolytes (CSEs).
+Among ISEs, Licontaining  Na  super  ion  conductors,  namely  NASICON-type  compounds,  have  been  widely  explored  for  their  high  ionic  conductivity, good moisture stability, and wide EW.
+In  1976,  Hong  and  Goodenough  group  first  synthesized  a  framework  structure  with  chemical  formula  of  Na1+xZr2P3xSixO12,  named  NASICON,  which  exhibited  high  Na  ionic  conductivity.
+In  broad senses, NASICONs are a class of solid  materials  with  a  general  formula  of  AMMʹ(PO4)3,  where  “A”  could be alkali metal ions, alkaline earth metal ions, hydrions,  ammonium  ions,  transition  metal  cations,  and  vacancies,  “M”  usually stands for transition metals or metalloids, and P could be  partially  substituted  by  Si  or  As.
+In  the  field  of  solid  electrolytes for Li batteries, Li-containing NASICONs are one of  the  most  important  branches,  and  have  been  widely  investigated experimentally and computationally. 
+However, as  the  continuous  development  of  computer  technology,  more  and more novel materials have been found via computational  screening and design, which also happened to NASICONs. 
+It is  an  urgent  task  to  find  and  study  these  new  materials.  Fortunately,  a  comprehensive  database  and  data  query  platform  for  computations,  named  Materials  Project  (MP),8  have been established and could be easily accessed. 
+With the  help of Pymatgen package, we screened the MP database and  obtained  251  Li-containing  NASICONs  with  the  chemical  formula of LixM2(PO4)3. 
+After rescreening according to band gap  criteria,  we  proposed  seven  series  of  LixM2(PO4)3  suitable  for  solid electrolytes.
+Finally, we systematically investigated these  seven  kinds  of  materials,  including  structure  optimization,  electronic structure, EW, and Li ionic conductivity. 
+Based  on  density  computations  were  performed  by  employing  projector  augmented  wave  (PBE)  functional as implemented in Vienna ab initio simulation package  (VASP).
+The kinetic cutoff was set to be 520 eV, and the k-points  grid was generated at the Γ point with the smallest spacing between  k-points of 0.25 Å-1. 
+In order to deal with weak interactions, DFT-D3  method  with  Becke-Jonson  damping  was  used.  
+Spin  polarization  and PBE+U method14 with U value of 4.38  eV were considered  for  Li3Mo2(PO4)3. 
+The k-path in the reciprocal space for band structure  calculations  was  generated  by  Aflow  software.
+Figure 1 The pie chart with the percentages of the crystal system and space group of LixM2(PO4)3, and the distribution of M metals in  LixM2(PO4)3. 
+The  structure screening  on  Materials  Project  was  performed  by  Pymatgen  package9 which could offer an interface to the Materials Project REST  API. 
+Phase diagrams were constructed by the Gibbs free energy (𝑮) of  all  phases  belonging  to  the  given  chemical  system.  The  Gibbs  free  energy could be expressed as where 𝑯, 𝑬, 𝑷, 𝑽, 𝑻, and 𝑺 represent the enthalpy, internal energy,  pressure, volume, and entropy of the system.
+For condensed phases  at  0  K,  the  expression  for 𝑮 could  be  simplified  as 𝑬.
+The  energy  above hull (𝑬𝒉𝒖𝒍𝒍) of a phase in the phase diagram is defined as the  difference  in  𝑬  per  atom  between  this  phase  and  the  linear  combination of the stable equilibrium phases at this composition in  the phase diagram. 
+In general, a thermodynamically stable phase has  𝑬𝒉𝒖𝒍𝒍 of 0, and a positive 𝑬𝒉𝒖𝒍𝒍 indicates a metastable phase at 0 K. 
+The grand potential phase diagrams17 were constructed by the grand  potential of Li that is expressed as where 𝑵𝑳𝒊 is the amount of Li in the system and 𝝁𝑳𝒊 is the chemical  potential  of  Li  in  the  environment.
+In  this  work,  the  chemical  potential of Li is defined as a voltage (𝝋) dependent function: 𝟎  is the chemical potential of Li metal. 
+Based on the Li grand  where 𝝁𝑳𝒊 potential  phase  diagrams,  the  stability  of  LixM2(PO4)3  against  the  voltage (vs Li/Li+) could be clearly illustrated. 
+The phase diagrams and  Li  grand  potential  phase  diagrams  were  constructed  by  Pymatgen  Phasediagram package.
+To estimate the self-diffusion coefficient of Li, we applied ab-initio  molecular dynamics (AIMD) in the canonical (NVT) ensemble under a  Nosé-Hoover thermostat condition with a time step of 2 fs for a total  simulation  time  of  12  ps.
+Under  each  specified  temperature,  we  implemented AIMD three times for the same structure and then got  an  average  Li  ionic  conductivity.  
+The  diffusion  of  Li  ions  could  be  expressed  by  the  mean  square  displacement  (MSD),  which  is  computed by:20  𝐌𝐒𝐃 = 〈[𝒓𝒎(𝒕 + 𝒕𝟎) − 𝒓𝒎(𝒕𝟎)]𝟐〉 = (4) where 𝑵 is  the  total  number  of  Li  ions, 𝒓𝒎(𝒕 + 𝒕𝟎) and 𝒓𝒎(𝒕𝟎) are  the positons of the atom m at the time 𝒕 + 𝒕𝟎 and 𝒕𝟎. 〈 〉 represents  the  average  on  the  time  steps  and  Li  ions.
+The  related  MSD  calculations were conducted through R.I.N.G.S. code21 and periodic  boundary conditions were considered. 
+The self-diffusion coefficient  (𝑫) could be computed by: where 𝒅 is the dimensionality. Based on 𝑫, the Li ionic conductivity  (𝛔) could be estimated by the Nernst-Einstein relationship: where  𝑵, 𝒒, 𝒌𝑩 ,  and 𝑻 represent  the  number  density  of  Li  ions,  charge of Li ions, Boltzmann’s constant, and temperature. According  to the Arrhenius law, the Li ionic conductivity could be treated as a  function of the temperature: where  𝒍  and  𝒗𝟎  represent  the  hopping  distance  between  two  adjacent  diffusion  sites  and  the  attempting  frequency  of  Li  ions.
+Equation 7 could be transformed into: where 𝒍𝒏(𝝈𝑻) is linearly dependent on. 
+The activation energy (𝑬𝒂) could be computed based on the slope of the fitted line of 𝒍𝒏(𝝈𝑻).
+With  matproj  package  of  Pymatgen,  we  found  251  NASICONtype  compounds  with  the  chemical  formula  of  LixM2(PO4)3,  where x could be from 1 to 5 and M is distributed mainly over  Bi, Co, Cr, Fe, Ge, In, Mn, Nb,  Ni, Sb, Sc, Ti, V, and Zr. 
+Several  compounds (where M = Fe, Ge, In, Sc, V, Sn, Ti, and Zr) have ICSD  (Inorganic Crystal Structure Database) numbers, indicating that  these materials have been experimentally achieved.
+However,  besides  the  materials  mentioned  above,  some  compounds  without  ICSD  numbers  are  high-temperature stable  phases  or  the  ones  that  have  been  reported  in  experiments  but  not  included in ICSD yet. 
+As shown in  Figure 1, the crystal structure of LixM2(PO4)3 is  complicated and varied, and the monoclinic structure takes the  greatest  percentage of  62.15%,  followed  by  triclinic  (20.32%),  trigonal  (8.76%),  orthorhombic  (6.37%),  cubic  (1.99%),  and  tetragonal  (0.40%).
+In  terms  of  space  group,  the  number  of  P21/c  (#14)  is  the  largest  (21.91%),  followed  by  C2/c  (#15)  (13.94%) and P-1(#2) (13.55%). In the rest part, R-3 (#148) and  R-3c (#167) belonging to trigonal (also called rhombohedral) are  also important, due to the common phase transition between  monoclinic and rhombohedral observed in  experiments.
+Most  importantly, the NASICON-type compounds of P21/c, R-3, and  R-3c  have  been  extensively  studied  in  experiments;  thus  LixM2(PO4)3 with these three space groups are the main subjects  to be investigated in the following sections. 
+As  solid  electrolytes,  an  adequate  band  gap  for  electronic  insulation  is  necessary.
+According  to  the  band  gap  value  obtained  from  MP,  with  the  band  gap  of  3.50  eV  as  the  rescreening criteria, we found seven compounds that could be  applied  as  the  solid  electrolyte:  Li3Bi2(PO4)3,  LiGe2(PO4)3,  Li3In2(PO4)3,  Li3Mo2(PO4)3,  Li3Sb2(PO4)3,  Li3Sc2(PO4)3,  and  LiZr2(PO4)3. 
+From the MP database, nine Li3Bi2(PO4)3 and five LiBi2(PO4)3  were  obtained. 
+However,  the  positive 𝑬𝒉𝒖𝒍𝒍  indicates  that  all  phases of LixBi2(PO4)3 are thermodynamically metastable at 0 K.
+Li3Bi2(PO4)3  could  decompose  into  BiPO4  and  Li3PO4,  and  LiBi2(PO4)3 has a tendency to form BiPO4, LiPO3 and O2.
+The most  energetically favorable Li3Bi2(PO4)3 (mp-684504) is monoclinic  with  space  group  of  P21/c,  while LiBi2(PO4)3  (mp-504151)  is  a  triclinic phase with space group of P-2.
+A metastable LiBi2(PO4)3  (mp-585241)  shows  the  same  space  group  of  P21/c  as  Li3Bi2(PO4)3  does,  and  the  extraction/insertion  of  a  pair  of  Li  with  Li3Bi2(PO4)3.
+As  the  electrode material, the electrochemical reaction might be regarded  as could  be with a voltage of 4.68 V vs Li/Li+. 
+However, most conventional  organic  electrolytes  cannot  bear  such  a  high  electrode  potential, which lead to serious limitations on the applications  of  Li3Bi2(PO4)3  as  electrode  materials.
+Besides  Li3Bi2(PO4)3  mentioned above, two additional Li3Bi2(PO4)3 isomers show the  same space group of P21/c (mp-27069 and mp-780333).
+These  three isomers exhibit similar atomic structure, thermodynamic  and  electronic  properties.
+The  main  difference  is  the  arrangement  of  Li  ions. 
+At  appropriate  temperatures,  phase  transitions between them are quite expectable. 
+LiGe2(PO4)3 has been widely studied as the electrode material  and solid electrolyte for Li batteries.
+As a conversion electrode  material, LiGe2(PO4)3 exhibits a specific capacity of 460 mAh/g  with  a  Li  ion  conductivity  of  7.2  ×  10-7  S/cm.
+However,  the  application  to  solid  electrolytes  is  more  common  than  to  electrode  materials.
+From  MP,  two  LiGe2(PO4)3  isomers  were  obtained with space groups of R-3c (mp-541272) and R-3 (mp1021510).
+The  isomer  with  space  group  of  R-3c  has  smaller  𝑬𝒉𝒖𝒍𝒍, which indicates that it is more thermodynamically stable.
+By  comparison,  these  two  isomers  are  almost  identical  in  the  atomic  structure.
+They  have  similar  lattice  parameters  and  formation  energies,  and  they  only  exhibit  rather  slight  difference  in  the  angles  of  GeO6  and  PO4  groups.
+Similar  to Li3Bi2(PO4)3,  LiGe2(PO4)3  thermodynamically  metastable  at  0  K  and  tend  to  form  Li4P2O7,  Ge5P6O25  and  GeP2O7.
+Li4P2O7  phase  could  be  observed  from  LiGe2(PO4)3  at  high temperature through X-ray diffraction (XRD).
+The  earliest  investigation  of  Li3In2(PO4)3  began  in  1987.
+According  to  the  annealing  temperature,  Li3In2(PO4)3  would  exhibit mainly two different lattice structures: one is monoclinic  (high temperature phase), and the other is rhombohedral (low  temperature  phase).
+Generally,  the  low  temperature  phase  exhibits better stability than the high temperature phase, which  coincides with the data from MP.
+Two Li3In2(PO4)3 isomers (mp6425  and  mp-14488)  were  obtained.  The  former  has  a  rhombohedral structure with space group of R-3, and 𝑬𝒉𝒖𝒍𝒍 of 0  eV  is  thermodynamically  stable  at  0  K.
+The  latter  is  monoclinic  metastable phase with a rather small 𝑬𝒉𝒖𝒍𝒍 of 0.003 eV and has  been experimentally confirmed to be stable. 
+Although  Li3Mo2(PO4)3  and  LiMo2(PO4)3  were  successfully  prepared  in  1999, there  are  very  few  relative  experimental  studies  on  them.
+At  room  temperature,  Li3Mo2(PO4)3  could  mainly  crystallize  in  two  structural  types:  rhombohedral  (βLi3Mo2(PO4)3)  αLi3Mo2(PO4)3 is of space group of P21/c, and at 558 K, they could  pass  through  a  phase  transition  into  αʹ-Li3Mo2(PO4)3  which  is  isostructural  to  α-Li3Mo2(PO4)3.
+Both  β-Li3Mo2(PO4)3  and  LiMo2(PO4)3  exhibit  space  group  of  R-3c.
+Simulations  could  reproduce similar results.
+From MP, five Li3Mo2(PO4)3 and seven  LiMo2(PO4)3  were  obtained.
+Among  them,  the  most  stable  phases  of  Li3Mo2(PO4)3  (mp-32098)  and  LiMo2(PO4)3  (mp32104) are rhombohedral and monoclinic with space group of  R-3  and  P21/c,  respectively,  and  both  are  thermodynamically  stable at 0 K.
+Although no Li3Mo2(PO4)3 phase with space group  of R-3c could be found, the rhombohedral one obtained from  MP presents similar atomic structure and lattice parameter to  the  experimental  data  of  β-Li3Mo2(PO4)3.
+Besides  the  rhombohedral phase, we also got two monoclinic Li3Mo2(PO4)3  isomers  with  space  group  of  P21/c.
+They  have  the  same  framework  structure  and  similar  formation  energies,  but  the  arrangements  of  Li  ions  in  them  are  different.
+In  terms  of  electrode materials for LIBs, the thermodynamically metastable  P21/c  Li3Mo2(PO4)3  (mp-32111)  and  LiMo2(PO4)3  (mp-32104)  could  be  regarded  as  the  same  electrode  material  under  Li  extraction/insertion  without  regard  to  phase  transition.
+The  electrochemical reaction might be with  a  voltage  of  3.24  V.
+This  voltage,  compared  with  that  of  Li3Bi2(PO4)3, is relatively mild for organic electrolytes.
+However,  considering  the  semiconducting  nature,  it  seems  essential  to  add  additional  conductive  agents  into  Li3Mo2(PO4)3  for  electrode preparation. 
+Nine Li3Sb2(PO4)3 and one LiSb2(PO4)3 were achieved from MP  database.
+The  positive 𝑬𝒉𝒖𝒍𝒍  indicates  that  none  of  them  are  thermodynamically  stable  at  0  K.
+The  most  energetically  favorable phase of Li3Sb2(PO4)3 (mp-684539) is monoclinic with  space group of P21/c and tends to form SbPO4 and Li3PO4 at 0 K,  while LiSb2(PO4)3 (mp-684508) is isostructural with Li3Sb2(PO4)3  and  tends  to  form  LiPO3,  SbPO5,  and  SbPO4.
+Figure 2 The atomic structures of (a) Li3Bi2(PO4)3, (b) Li3Sb2(PO4)3, (c) Li3Sc2(PO4)3, (d) LiZr2(PO4)3, (e) LiGe2(PO4)3, (f) Li3In2(PO4)3, and (g)  Li3Mo2(PO4)3. 
+Besides,  the remaining three Li3Sb2(PO4)3 isomers (mp-761135, mp-761135,  and mp-762044) which belong to space group of R-3 and P21/c  were  also  screened  out.
+In  the  application  as  electrode  materials, the reaction might be and their lattice parameters and atomic structures are almost  the  same,  which  are  consistent  with  the  experimental  results.
+Due to the disordering state of Li ions, no relevant  information of γ phase was obtained from Material Project. 
+As  a  novel  Li  ionic  conductor,  Li3Sc2(PO4)3  has  been  widely  studied in experiments.
+Li3Sc2(PO4)3 has three different phases, and with increasing the temperature, the phase transition from  α  to  β  to  γ  could  be  observed.
+α  and  β  phase  have  similar  lattice  parameters  to  the  same  space  group  of  P21/c  and  the  main  difference  is  the  arrangement  of  Li  ions.
+At  high  temperature,  γ  phase  could  be  obtained  with  space  group  of  Pbcn  and  here  Li  ions  show  a  completely  disordered  state.
+In  experiments, these high temperature (γ) phase is regarded as a  superionic conduction phase which could be stabilized at room  temperature by substitution of Sc with other transition metals,  such  as  Ti,  Zr,  Nb,  and  Ta.
+From  MP  database,  two  Li3Sc2(PO4)3 isomers (mp-6565 and mp-774742) were obtained  and both are monoclinic with space group of P21/c.
+Based  on  the  difference  of  the heating  temperature  during  preparation,  LiZr2(PO4)3  shows  two  main  crystal  types.
+The  high temperature phase, heated at 1200C, exhibits NASICONtype structure with monoclinic system.
+A clear phase transition  occurs  at  ~50C  from  monoclinic  to  rhombohedral.
+The  monoclinic and rhombohedral structures could be found from  MP.
+Among obtained LiZr2(PO4)3 compounds, mp-10499 is the  most thermodynamically stable and exhibits monoclinic system  with  space  group  of  P21/c,  while mp-541661  is  rhombohedral  with space group of R-3c and the phase transition energy from  monoclinic to rhombohedral is about 27 kJ/mol. 
+The most thermodynamically stable phases of each series of  LixM2(PO4)3 compounds, Li3Bi2(PO4)3 (mp-684504), LiGe2(PO4)3  (mp-541272), Li3In2(PO4)3 (mp-6425), Li3Mo2(PO4)3 (mp-32098),  Li3Sb2(PO4)3  (mp-6565),  and  LiZr2(PO4)3  (mp-10499),  are  the  main  objects  in  the  following  sections.
+Table 1 Structural information of the most thermodynamically stable phases of each series of LixM2(PO4)3 compounds. For monoclinic  α = β = 90°, and for rhombohedral α = β = 90°, γ = 120°, and a = b. The stability is measured at 0 K. 
+Figure 3 Density of states of LixM2(PO4)3. The dashed line represents the Fermi level. 
+As illustrated  in  Figure  2  and  Table  1. The  optimized  lattice  parameters  are  in  good  agreement  with  the  experimental  results.
+As  shown  in  Figure  2,  NASICON-type  LixM2(PO4)3  compounds  are  three-dimensional  framework  structures,  where the MO6 octahedrons and PO4 tetrahedrons sharing the  corner O atoms are the basic structural units.
+Obvious distortion  of MO6 octahedrons could be found in some metastable phases,  such  as  Li3Bi2(PO4)3  and  Li3Sb2(PO4)3,  while  in  other  stable  structures the shapes of the octahedrons are relatively regular.
+These results indicate that BiO6 and SbO6 octahedrons are not  very stable and could be easily effected by ambient PO4 groups  and Li ions. The degree of regularity of the structure could more  or less reflect the stability of the structures. 
+After  optimizing  structures,  we  calculated  the  electronic  band  structures  and  density  of  states  (DOS)  of  LixM2(PO4)3  compounds, and the results confirm that all these materials are  wide-band-gap semiconductors with the band gap ranging from  3.55  to  4.88  eV  (the  band  gaps  are  illustrated  in  Figure  4b).
+Considering the intrinsic gap underestimation in GGA method,  the band gaps of these materials should be larger.
+As shown in  Figure  3,  the  VBM  (valence  band  maximum)  of  LixM2(PO4)3  mainly  consists  of  O  orbitals,  while  CBM  (conduction  band  minimum) is mainly composed of O and M orbitals.
+The overlap  of  the  bands  between  O,  P  and  M  could  be  observed,  which  indicates  the  high  degree  of  orbital  hybridization.
+The  contribution of Li to the total DOS is rather small. 
+Figure 4 (a) Plots of Li evolution per formula unit of LixM2(PO4)3 against the voltage vs Li/Li+.
+Some decomposition products are annotated.  (b) Electrochemical windows (purple rectangle) and band gaps (black line) of LixM2(PO4)3 solid electrolytes. Short dashed lines represent  the highest voltage of full delithiation. 
+Table 2 The simulated and experimental results of activation energy (Ea) and Li ionic conductivity. 
+To  further  understand  the  performances  of  LixM2(PO4)3  as  solid  electrolytes  ,  the  EW  and  Li  ionic  conductivity  (σ)  were  estimated by computations.
+The EW is a voltage range where  LixM2(PO4)3 compounds are either lithiated or delithiated, which  is  one  of  the  main  characteristics  for  solid  electrolytes.
+Normalized by the Li chemical potential of Li metal, the plots of  Li evolution per formula of LixM2(PO4)3 against the voltage could  be  obtained  from  Li  grand  potential  phase  diagrams  and  are  shown in Figure 4a.
+In view of the overall point, all LixM2(PO4)3  compounds  exhibit  a  rather  high  reduction  potential,  which  indicate the intrinsic instability of LixM2(PO4)3 against Li metal (0  V)  and  interfacial  coating  layer  materials  are  necessary  to  prevent the reactions between LixM2(PO4)3 and Li metal. Most  LixM2(PO4)3 compounds have a wide EW ranging from ~2 to ~4  V,  except  for  Li3Mo2(PO4)3  and  Li3Sb2(PO4)3.
+The  internal  combination of Li ions with these two kinds of compounds is not  strong, i.e., the chemical potential of Li ions in them is high.
+Thus  with increasing the voltage, it is easier for delithiation oxidation  reactions to occur for Li3Mo2(PO4)3 and Li3Sb2(PO4)3, and these  results are in good agreement with the calculated delithiation  voltage at ~3 V.
+Note that the width of EW is not directly related  to  the  band  gap  of  a  material  and  is  mainly  affected  by  the  chemical  potential  of  Li  ions  in  this  material.
+In  general,  a  material containing fewer Li ions has higher EW, which could be  the  reflected decomposition  products  could  serve  as  good  interfacial  passivation layer, which alleviates the further decomposition of  the solid electrolyte, the actual working EW of LixM2(PO4)3 might  be wider and higher than the computed one. 
+The  diffusion  coefficient  (D)  of  Li  ions  could  be  estimated  from MSD plots (mean-squared displacement), and then based  on  the  Nernst-Einstein  relationship,  we  could  get  the  Li  ionic  conductivity  at  different  temperatures.
+By  the  fitted  line  of  ln(σT)~1000/T, the Li ionic conductivity of LixM2(PO4)3 at room  temperature  (300  K)  could  be  extrapolated.
+The  results  are  summarized in Figure 5.
+In general, materials containing more  Li (Li3M2(PO4)3) exhibit higher ionic conductivity than those with  less  Li  (LiM2(PO4)3).
+However,  more  Li  ions  lead  to  a  lower  oxidation  potential  in  EW.
+Thus,  in  practice  there  would  be  some balance between EW and the ionic conductivity.
+Besides,  it  could  be  observed  from  Figure  5  that  the  structures  with  space group of P21/n show better ionic conductivity than those  with  rhombohedral  symmetry  (Ge,  In,  and  Mo).
+Although  the  thermal stability of Li3Bi2(PO4)3 and Li3Sb2(PO4)3 is not satisfying,  they  possess  room  temperature.
+If  some  modification  methods,  such  as  partial  substitution for Bi or Sb with other transition metals, are used  to  improve  the  stability  of  these  two  materials,  they  would  become  promising  simulated  conductivities agree well with the results from experiments in  orders of magnitude and are illustrated in Table 2. 
+We screened the Materials Project database via Pymatgen and  obtained  251  NASICON-type  compounds  with  the  chemical  formula of LixM2(PO4)3.
+Depending on the band gap and binding  strength  of  Li  ions,  these  compounds  could  be  applied  as  cathode, anode, or solid electrolyte for Li batteries.
+Seven series  of candidate materials (where M = Bi, Ge, In, Mo, Sb, Sc, and Zr)  were further systematically investigated by DFT computation.
+In  terms of stability, electrochemical window, band gap and ionic  conductivity, the performance of Li3Sc2(PO4)3 is the best as the  solid electrolyte.
+Among the  rest, Li3Bi2(PO4)3 and Li3Sb2(PO4)3  also exhibit high Li ionic conductivity but their thermal stability  is  unsatisfactory.
+Improving  their  stability  by  doping  or Figure  5  Temperature  dependence  of  Li  ionic  conductivity  of  LixM2(PO4)3.
+The inset shows the line fitting part. 
+This  high  throughput  method  combining  database  and  computational  studies  can  greatly  improve  the  efficiency  in  material  exploration,  and  lay  a  solid  foundation  for  further  experiments.
+Meanwhile,  our  approaches  could  also  be  extended  to  various  areas,  such  as  the  exploration  for  novel  electrode  materials.
+Our  work  could  offer  some  guidance  for  further  studies  on  NASICON-type  solid  electrolytes  for  Li  batteries. 
+

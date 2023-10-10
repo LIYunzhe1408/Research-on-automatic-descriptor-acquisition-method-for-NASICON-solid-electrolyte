@@ -1,0 +1,8 @@
+The stability of NASICON-type conducting glass–ceramic electrolyte, Li1+x+yAlxTi2−xSiyP3−yO12 (Ohara LICGC)has been characterized after prolonged exposure to deionized water and HCl(aq) solutions supported with LiCl.
+X-ray diffraction shows that the bulk crystallographic structure of the LICGC membranes remains unchangedwhen exposed to these solutions.
+Electrochemical impedance spectroscopy (EIS) shows that the conductivity ofLICGC membranes immersed in deionized water remains stable over a one month period, while there is a significantincrease in resistance when exposed to the acidic solutions.
+When exposed to pH 4 and 2 solutions forjust 24 h, the resistances of the LICGC membrane increase by a factor of 8.5 and 23.5, respectively.
+EIS coupledwith morphological characterization by scanning electron microscopy, shows that this resistance growth is dueto the development of a surface layer on the LICGC membrane.
+However, this substantial increase in resistancecan be mitigated by adding LiCl to the HCl solutions.
+For a pH 4 solution supported with 6.75 M LiCl, the impedance spectrum and surface morphology are qualitatively comparable to pristine, dry LICGC material,suggesting that surface layer formation was suppressed.
+This was also confirmed via cyclic voltammetry measurementsin four-electrode electrochemical cells.

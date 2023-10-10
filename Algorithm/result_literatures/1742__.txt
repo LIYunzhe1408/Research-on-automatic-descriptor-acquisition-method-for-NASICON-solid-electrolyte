@@ -1,0 +1,73 @@
+Two types of nanostructured phosphorus–oxide-containing composite membrane catalysts were prepared by the methods of molecular layeringand magnetron sputtering.
+The structural properties of prepared catalytic layers were measured by XRD, IR and AFM methods.
+The catalyticactivity of composite membranes was studied in oxidative dehydrogenation of methanol in two types of membrane reactors.
+It was shown thatapplication of non-permselective composite membrane catalysts could give noticeable advantages at the proper operating mode of the reactor.
+For the last decade catalytic partial oxidation of alcohols andhydrocarbons has become of scientific and practical interest dueto the possible application of these reactions in power sourcedevices.
+Some transition metal phosphates (Cr, Mo, V, etc.) arewidely known as catalysts of partial oxidation reactions .
+Inorder to improve the selectivity of oxidation reactions,membrane reactors have been designed, providing a new,more efficient organization of reactant streams.
+The numerousstudies on this issue were directed both to proper membrane andcatalyst materials, as well as to the feed mode of reagents tothem (e.g.).
+One of the most promising methods of membranemodification on the atomic level is that of molecular layering(ML) .
+The ML method is based on the irreversibleinteraction of low-molecular reagents and functional groups ofa solid substrate surface under the conditions of continuousreagent feed and removal of the formed gaseous products.
+Forthe realization of reactions in the ML process some structuralconformity between the initial solid matrix surface and thereagent is necessary.
+There are many publications on thepreparation of nanostructured catalytic systems by the MLmethod.
+Recently, we have successfully applied this method,for the first time, to the preparation of a composite membranecatalyst by the deposition of chromium–phosphorus oxidestructures on the surface of a porous stainless steel sheet .
+This membrane catalyst was used for the selective oxidation ofmethane to formaldehyde.
+Other metal–phosphorus oxide structures which may beuseful in catalytic membrane preparation are frameworkphosphates with NaZr2(PO4)3, NASICON (Na SuperIonicCONductors, NZP) type construction.
+The crystal structure ofNaZr2(PO4)3 is based on a three-dimensional framework ofcorner-sharing PO4-tetrahedra and ZrO6-octahedra and can bebest described in terms of [Zr2(PO4)3] structural unitscomposed of two ZrO6-octahedra linked to each other throughthree PO4-tetrahedra .
+A framework of NZP-type structureincludes two kinds of cavities, called M1 and M2 (Fig.1).
+These cavities can be populated by some cations or be vacant,and NZP structures can be considered under certain conditionsas nanoporous membranes.
+The possibility of substitution ofall the crystallographic positions of NZP structure for thewhole series of ions allows their catalytic and other properties (acidic–basic properties, conversion, selectivity, etc.
+)  to bemodified.
+This provides a wide variety of possibilities tocombine various properties of a membrane and catalystintended for partial oxidation.
+Thus, the system of palladiummembrane and Fe-containing NZP powder catalyst wasstudied earlier and was found to be effective in the methanepartial oxidation to formaldehyde .
+However, till now theformation of composite membranes with NZP structure as anactive part of membrane composition is the unsolved problemof membrane catalyst preparation .
+The purpose of this research was to develop applicationmethods of metal–phosphorus oxide nanostructures on thesurface of an inert membrane and to study the catalyticproperties of such composite membranes in relation tomethanol oxidative transformations.
+This aim was achievedfirst of all by using the ML method for the inorganic synthesisof vanadium–phosphorus oxide structures on the surface of anasymmetric zirconia membrane.
+Furthermore, for the firsttime we used magnetron sputtering of Fe-containing frameworkphosphate of the NZP type for the preparation of acomposite membrane catalyst for methanol oxidative dehydrogenation.
+Vanadium–phosphorus-oxide layers were synthesized on thesurface of an asymmetric tubular membrane of zirconia(Schumacher, Germany).
+The average diameter of the widepores of the tube was 100 nm, and that of the narrow pores was40 nm.
+The synthesis was carried out in situ in the membranereactor (Fig.
+2) by the ML method at the temperature of 180 8Cwith alternate processing of the support by VOCl3 (or PCl3) vapours and water by pumping them through the pores of azirconia membrane.
+The powder of Fe-containing phosphate of an NZP type offormula Fe0.33Zr2(PO4)3 (N1) was synthesized by the sol–gelmethod and the formation of an NZP type structure wasconfirmed by methods of XRD analysis, IR-spectroscopy.
+The prepared powder was pressed into a disk at pressure3 MPa and annealed at 800 8C.
+The disk was used as a target forthe high frequency magnetron sputtering of phosphate on asheet (20 mm  119 mm) of porous stainless steel with anaverage pore diameter of 0.1 mm.
+The NASICON filmthickness was 1.1 mm.
+Fig.3 shows the AFM pattern of theNZP membrane.
+The XRD analysis of the formed depositshowed its structural coincidence with that of the initial NZPpowder.
+Thus prepared composite membrane catalyst wastested in methanol oxidative transformations in the conventionalflow membrane reactor described in .
+The main characteristics of the studied composite membranecatalysts are shown in Table 1.
+Catalytic experiments on methanol oxidative dehydrogenationwere carried out with both types of composite membrane.
+The temperature control of the reactor was accomplished by achromel–copel thermocouple and registered by TPM temperaturecontroller.
+All the composite membranes were non-permselective.
+Theoutlet of one of the reactor zones was permanently closed.
+Methanol vapors in an argon flow (from a thermostat-controlledbubbler) and air were supplied separately from different sidesof the membrane and the product mixture came out from oneoutlet tube.
+There were two modes of reagent introduction intothe reactors: by diffusion of oxygen through the membrane tothe catalyst layer (MR-O) or by diffusion of methanol throughthe membrane to the catalyst layer (MR-M).
+The initialactivation procedure consisting of processing of the membranecatalyst with the reaction mixture (5% oxygen, 20% nitrogen,5% methanol, balance nitrogen) at 50 sccm was carried out at260 8C for 8 h.
+The reaction product concentrations were measured using aChrom Series 4 (TCD detector, Zeolite 5A column, ambienttemperature, carrier gas—argon)) and LChM Series GC (TCDdetectors, Porapak T and Carbon columns, 160 8C, carriergas—helium), with the results of the analyses calculated bycomputer.
+The main products of methanol oxidative dehydrogenationwere formaldehyde, hydrogen, CO and CO2. No dimethyl etherwas found in the reaction products.
+The influence of O/CH3OHratio in the overall feed of the reagents is shown in Fig.4 for themembrane catalyst M1 at oxygen diffusion through themembrane tube to the catalytic layer (MR-O).
+It can be seenthat the maximal formaldehyde yield was achieved at the O/CH3OH ratio between 0.5 and 1.5. It means that an excess ofoxygen over stoichiometry is required for selective formaldehydeformation.
+The temperature dependence of a formaldehydeyield on this membrane is shown as curve 1 in Fig.5.
+Curve 2 in Fig.5 shows the influence of temperature on theformaldehyde yield on the membrane M6 by the same feedmode of reagents.
+It can be seen that the activity of this catalyst is approximately twice that of catalyst M1 under other equalconditions.
+The change in the methanol introduction mode onto thediffusion through the membrane to the catalytic layer (MR-M) increases the methanol conversion, as can be seen from acomparison of curves 1 and 2 of Fig.6. 
+These results differ fromthose of earlier published work for methanol oxidativedehydrogenation over an Fe-Mo oxide catalyst in a catalyticpacked-bed membrane reactor (PBMR), where the relativereactor performance was in series PBMR-O > PBMR-M.
+It canbe attributed to the different variation of the residence time ofmethanol in the catalytic layer at the change of modes inreactors with the catalyst layer in the membrane pores or with apacked-bed catalyst.
+The complex effect of the feed mode ofreactants intoMR on its performance is confirmed by the resultsof ethylene epoxidation in a similar PBMR , where theethylene oxide productivity series was PBMR-E > PBMR-O.
+In the latter case, as in our article, the diffusion of the reagentthrough the membrane is more preferable for the high yield ofproduct of selective oxidation than oxygen diffusion throughthe membrane.
+These results clearly show the possibility ofcontrolling the selectivity of the partial oxidation of thehydrocarbons and alcohols by changing the reactor configuration.
+However, for a deep analysis of vanadium–phosphorusoxide composite membrane work, it is necessary to study thereaction kinetics in a wider variation of conditions.
+The methanol oxidative dehydrogenation products onNASICON composite membrane N1 were hydrogen, formaldehyde,CO, CO2 and water.
+Membrane N1 was shown to be much more active atMR-M feed mode (compare the conversioncurves in Fig.7).
+The main products under these conditionswere carbon dioxide and water, as can be seen from the lowselectivity on formaldehyde in curve 2 of Fig.7. 
+This behaviourof the composite membrane can be attributed to the longer thanoptimal contact time of the methanol and reaction products withthe catalyst at methanol diffusion.
+The formaldehyde formedcan undergo further undesirable oxidation.
+Fig.8 shows the comparison of temperature dependences of a formaldehyde yield over the composite membrane catalystsN1 and M6 at different feed modes of methanol to the catalystlayer.
+The membrane catalyst M6 provides the highestproductivity by formaldehyde at the feed mode MR-M.
+Thevanadium–phosphorus-oxide layers are much more active andselective in the conversion of methanol to formaldehyde than anFe-containing NZP structure at similar loading of the activecomponents in the two membranes.
+As a result of this work nanostructured metal–phosphoruscontainingcomposite membrane catalysts for reactions ofpartial oxidation have been prepared for the first time.
+By the example of methanol oxidative dehydrogenation, it has beenshown that the application of non-permselective compositemembrane catalysts can give advantages at the selection of theproper operating mode of the reactor.
+The ML method is a simple and flexible way to modify solidsupports and it is rather a promising deposition method of activecomponents during the preparation of composite membranecatalysts.
+The increase of the number of ML cycles of inertmembrane treatment from one to six gives a significant increasein the formaldehyde yield.
+The highest formaldehyde yield wasobtained on the membrane synthesized for six ML cycles, andat the methanol feed to the catalytic layer by diffusion throughthe membrane.
+Preliminary experiments on the composite membranecatalyst containing an Fe-NZP phosphate as the active layershow the prospects of this membrane use in the oxidativedehydrogenation of methanol.

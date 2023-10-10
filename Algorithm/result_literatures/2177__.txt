@@ -1,0 +1,63 @@
+NASICON powders having the Na3Zr2Si2PO12 composition were prepared using a sol–gel method. All the reagents used were alkoxides. The precursor solution was rapidly hydrolized in order to get a precipitate, or slowly gelated under exposure to low atmospheric humidity. The slow hydrolysis process was studied using nuclear magnetic resonance (NMR) spectroscopy in liquid phase. 1H, 13C, and 31P NMR spectra were performed. NMR allowed us to identify the advancement of the reaction and the degree of polymerization. NASICON powders were prepared by heating both precursors at various temperatures in the range 800–1200 14)C for 1 h. The phase evolution as a function of the decomposition temperature was investigated by X-ray diraction (XRD) analysis. The NASICON prepared from the rapid hydrolysis contained larger amounts of zirconia, while the samples prepared from the slow hydrolysis were almost pure, showing monoclinic structure. # 1999 Elsevier Science Limited. All rights reserved
+
+Keywords: NASICON, sol–gel processes, precursors organic, E. sensors.
+
+The development of solid electrolytes has been given a strong improvement by the discovery of the NASICON structure. Hong1 demonstrated that range Na1+xZr2 solids SixP3 255)xO12, with 0<x<3, crystallize in the NASICON structure when heated to 1200 14)C. This structure has a rhombohedral symmetry, except in the interval 1.8<x<2.2, where a small distortion to monoclinic symmetry takes place. Compounds
+
+in this composition range have a structure made by a three-dimensional framework of SiO4 and PO4 tetrahedra corners shared with ZrO6 octahedra, in which Na ions occupy the interstices.1 Therefore, these compounds show a very high Na+ ionic conductivity, higher than that of  12)-alumina which has two-dimensional ionic mobility, which make them suitable for use in electrochemical gas sensors.2–4
+
+It has been reported that the synthesis of NASICON ceramics as pure phases is very di 129)cult, especially when performed by solid state reaction;5–8 the NASICON phase can be accompanied by a glassy phase and dissolved zirconia.9,10 Alternative synthetic procedures have been explored in order to obtain NASICON ceramics as pure phases: wet chemical syntheses and sol–gel procedures.11–20
+
+Nuclear magnetic resonance (NMR) is one of the most powerful tools accessible to obtain information on the structure and physico-chemical properties of molecules. Three of the magnetically active nuclei present in the NASICON precursor solution (1H, 13C, 31P) are routinely observed making feasible the study of its structure by means of heteronuclear NMR.
+
+Since differences observed in the characterization and properties of NASICON prepared under different conditions are certainly related to the characteristics of the polymeric backbone generated in the sol–gel process, the understanding of such polymeric structure in solution may lead to improvements in the synthetic strategies to develop in order to achieve the optimal performance of the ﬁnal material.
+
+We have then undertaken a multinuclear NMR study of a NASICON precursor (from now on indicated as NaP), in form of a clear gel obtained by slow reaction with atmospheric moisture. Some of the alkoxides used as starting materials are extremely reactive with water and thus ﬁne powders can be precipitated from the sols when water is added. The dierent preparation procedures lead to NASICON ceramics having dierent properties.21 The NMR study was carried out on the gel in
+
+order to characterize the nature of the species formed in solution. Then, we compared the properties of the NASICON materials derived from such procedure with those of a sample prepared by rapid hydrolysis of the alkoxides.
+
+The NASICON precursors were prepared starting from Zr(OPr)4, Si(OEt)4, OP(OBu)3 and Na(OtBu). All reagents (Aldrich) were reagent grade and were used without further puriﬁcation. Na(Ot-Bu), which is solid, was dissolved in butanol under nitrogen and in dried (P2O5) atmosphere. Then, stoichiometric amounts of the other reactants were added, always in dry atmosphere. This solution was added drop by drop to a butanol/water mixture in order to have an overall butanol/H2O ratio of 2:1. A milky precipitate is rapidly formed in this way. The precipitate was dried at 105 14)C and then at 250 14)C for 2 h. These precipitates will be called the rapid hydrolysis precursor.
+
+A solution of Si(OEt)4, Zr(OPr)4, OP(OBu)3, and Na(Ot-Bu) in butanol was prepared in air in a similar way, and kept in a closed bottle at T=4 14)C.
+
+Fractions for NMR measurements were evaporated in vacuum at T=40 14)C and dissolved in CD2Cl2. This will be called the slow hydrolysis precursor. NMR spectra were recorded on a Bruker AM 400 spectrometer as CD2Cl2 solutions.
+
+NASICON powders were prepared by heating both precursors at various temperatures in the range 800–1200 14)C for 1 h. The phase evolution as a function of the decomposition temperature was investigated by X-ray diraction (XRD) analysis, using a Cu k 11) radiation.
+
+One of the simplest approaches to sol–gel preparation of multicomponent oxides is the hydrolysis and condensation of dierent alkoxides.19 The precursor solution studied in the present work has been prepared by an all-alkoxide route exposing to atmospheric moisture a butanolic solution of Zr(OPr)4, Si(OEt)4, OP(OBu)3 and Na(Ot-Bu).
+
+The precursor alcoholic solution has been concentrated under vacuum in order to eliminate in the NMR spectra the intense solvent resonances that might have obscured the spectral features of
+
+Fig. 1. 1H NMR spectra in CD2Cl2 of (a) Zr(OPr)4, (b) Zr(OPr)4+Si(OEt)4, (c) Zr(OPr)4+Si(OEt)4+OP(OBu)3, (d) Zr(OPr)4+-
+
+NaP. The residue has then been redissolved in dichloromethane and analyzed. A non coordinating solvent has been chosen in order to avoid exchange processes.
+
+Figure 1 [traces (a)–(d)] shows the 1H NMR spectra obtained by sequential addition of the sinin CD2Cl2. The addition of gle components Si(OEt)4 to a solution of Zr(OPr)4 causes a sharpening of the resonances due to the latter that can be ascribed to the dissociation of oligomers or aggregates originally present.22 Adding OP(OBu)3 generates a spectrum that is the sum of those of the individual components. When Na(O-tBu) is added (as a solid) some resolution is lost because of the presence of partially undissolved sodium alkoxide and a new resonance appears at 3.58 ppm.
+
+Trace (e) shows the spectrum of NaP in CD2Cl2. By comparison with traces (a)–(d) it is evident that the variations of chemical shifts are very small. A predominant feature of the spectrum is the lack of the resonance due to the methyl group of the ethoxide at 1.24 ppm and to the methyl group of the tbutoxide at 1.27 ppm. This indicates that both Si(OEt)4 and Na(O-tBu) have been completely reacted during the sol preparation and that the resulting alcohols have been distilled by vacuum evaporating the sample. The relative intensity of the resonances observed (total intensity A–B=3, C–E=2, F–H=2, the numerous peaks observed in the 1H NMR spectrum of NaP arise by butoxide groups in dierent chemical and/or magnetic environments.
+
+suggests that The presence of different environments is even more evident in the proton decoupled 13C spectrum
+
+of NaP. The expansion of the chemical shift range in the 13C spectrum allows to distinguish more easily the dierent forms present. Figure 2(a) shows the 13C spectrum of a dichloromethane solution of the four reagents, while traces (b) and (c) show the spectra of NaP obtained after 1 and 5 months of exposure to atmospheric moisture. Beside the resonances that can be attributed to the individual components, new resonances (beside that of t-BuO at 31.0 and 69.0 ppm) are generated by the addition of Na(Ot-Bu) indicating that some reaction occurs even in the absence of water. In the 13C spectrum of NaP no resonances are observed at the chemical shift values of ethoxide, propoxide and t-butoxide groups conﬁrming that the original Si, Zr and Na alkoxides are not present anymore.
+
+The presence only of butoxide groups can be explained either with the complete reactions of the original Na, Si and Zr alkoxides and the presence only of phosphorous bound butoxide groups in the structure of NaP or with the occurrence of alkoxide exchange reactions with butyl alcohol used as reaction solvent. The 31P NMR spectrum of NaP shows however a single resonance at  255)0.96 ppm (septet, J 31P-1H =5.8 Hz) and also the observation of a single resonance splitted by 13C–31P coupling in the 13C spectrum indicating that the P atoms exist in a single unreacted OP(OBu)3.
+
+In order to verify that ligand exchange reactions have indeed occurred the 1H and 13C spectra of Si(OBu)4 and Zr(OBu)4 have been compared with
+
+Fig. 2. 13C NMR spectra in CD2Cl2 of (a) Zr(OPr)4+Si(OEt)4+OP(OBu)3+NaOt-Bu, (b) NaP aged for 1 month, (c) NaP aged for 5 months. Resonances due to dierent alkoxides are labeled: Si(OuBu)4.
+
+that of NaP allowing the assignments of resonances due to Si(OBu)4 and excluding the presence of Zr(OBu)4. The t-BuO 255) ion deriving from sodium alkoxide acts as a strong base towards the solvent generating butoxide ions that initiate the ligand exchange reaction on the other alkoxides. Such reaction has been observed also in a sample of NaP exposed for only one hour to the atmosphere.
+
+The -OCH2 resonance of OP(OBu)3 can be used as an internal standard to evaluate the advancement of the reaction. After one month 50% of the Si(OBu)4 formed is still present and it is reduced to 15% after 5 months. The broadening of the resonances observed in the spectrum 2c indicates an advanced degree of polymerization. the precursors at 800 14)C showed the presence of the main peaks of the NASICON structure. Increasing the decomposition temperature induced a further crystallization of structure. Figures 3 and 4 show the XRD patterns of the precursor prepared by rapid hydrolysis, and of the precursor prepared by slow hydrolysis after 5 months of exposure to atmospheric moisture, respectively, both decomposed at 1200 14)C. One can observe that the NASICON prepared by fast hydrolysis contained also zirconia phases, both monoclinic and tetragonal, while the powder prepared by slow hydrolysis contained only a small
+
+in the monoclinic
+
+Fig. 3. XRD pattern of the NASICON precursor prepared by rapid hydrolysis, decomposed at 1200 14)C (M=monoclinic zir-
+
+Fig. 4. XRD pattern of the NASICON precursor prepared by slow hydrolysis after 5 months of exposure to atmospheric moisture, decomposed at 1200 14)C (T=tetragonal zirconia).
+
+amount of tetragonal zirconia. The slow hydrolysis process probably allowed a better polymerization of the precursors, resulting in a more intimate mixing and reduced separation of phases other than NASICON.
+
+The gelation process of an all-alkoxide NASICON precursor was investigated by NMR spectroscopy. NMR of the precursors in liquid phase can be an important tool for the study of the sol–gel processing of heterometallic oxides. The information about the structure and reactivity of the NASICON precursor can be used in order to modify the sol–gel synthesis in order to improve the purity of the phase obtained. The slow hydrolysis process of the NASICON precursor solution led to the obtainment of a purer product, when the precursor was calcined at 1200 14)C.
+
+

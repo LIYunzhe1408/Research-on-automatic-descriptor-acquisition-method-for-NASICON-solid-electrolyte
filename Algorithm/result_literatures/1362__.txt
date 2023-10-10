@@ -1,0 +1,63 @@
+We have studied general trends of phosphate crystallization from Na2O–P2O5–Fe2O3–MIIO (MII = Mg, Ni) high 2)temperature solutions at Na/P = 1.0–1.4, MІІ/Fe = 1.0, and Fe/P = 0.15 or 0.3, and identified  the  stability  regions  of  the  phosphates  Na4MIIFe(PO4)3  (MII  =  Mg,  Ni),  NaFeP2O7,  and Na2NiP2O7. The synthesized compounds have been characterized by X 2)ray powder diffraction and infra 2) red spectroscopy. The structure of Na4MgFe(PO4)3 (sp. gr.   a = 8.83954(13) Å, c = 21.4683(4) Å) has been determined by Rietveld powder diffraction analysis. DOI: 10.1134/S0020168512040176
+
+There  is  great  interest  in  NASICON 2)type  phos 2) phates  (NZP,  NaZr2(PO4)3),  motivated  by  their attractive  physicochemical  properties,  such  as  high ionic  conductivity,  small  thermal  expansion  coeffi 2) cients, good catalytic and luminescent properties, and chemical and thermal stability [1–5], which is essen 2) tial  for  designing  novel  functional  materials.  NASI 2) CON 2)type  compounds  with  the  general  formula (PO4)3, (A' = Na+, Ag+, Mn2+, Co2+, Ni2+, A A A Cu2+, A'', A''' = tri 2), tetra 2), or pentavalent metals) have a considerable number of compositions and crystallize in a trigonal or monoclinic structure [6, 7].
+
+In this paper, we report a study of chemical interac 2) tions of Fe2O3 + МІІO (МІІ = Ni, Mg) oxide mixtures with sodium phosphate melts and identify conditions for  phosphate  formation,  including  new  NZP 2)type compounds. The synthesized phosphates were charac 2) terized by X 2)ray powder diffraction and infrared spec 2) troscopy.  The  structure  of  the  new  phosphate Na4MgFe(PO4)3 was determined by Rietveld powder diffraction analysis.
+
+from  Na2O–P2O5– Fe2O3–MIIO  (MII  =  Mg,  Ni)  melts  was  studied  at Na/P atomic ratios from 1.0 to 1.4 and fixed МІІ/Fe (1.0)  and  Fe/P  (0.15  and  0.3)  ratios.  The  starting chemicals  used  were  analytical 2)grade  NaPO3, Na2CO3, Fe2O3, MgO, and NiO.
+
+Appropriate  ratios  of  the  starting  reagents  were ground in an agate mortar, placed in a platinum cruci 2) ble, heated to 1000°С, and homogenized at this tem 2)
+
+perature for 2 h. Crystallization was initiated by cool 2) ing the homogenized melt to 870–650°С (depending on  melt  composition)  at  a  rate  of  25–50°C/h.  To check the completion of oxide dissolution and deter 2) mine the crystallization onset temperature, melt sam 2) ples  were  taken  at  intervals  and  examined  by  optical microscopy. The reaction products were boiled in dis 2) tilled water in order to remove the residual flux.
+
+The  synthesized  compounds  were  identified  by chemical  analysis,  X 2)ray  fluorescence  analysis,  and X 2)ray diffraction (XRD). XRD patterns were collected on  a  Shimadzu  XRD 2)6000  powder  diffractometer  in reflection geometry (CuKα radiation, λ = 1.54178 Å, bent graphite monochromator) in a continuous θ–2θ scan mode at a rate of 1.0°/min in the range 2θ 5.0°– 110.0°. Intensity data for structure analysis were also collected  on  the  XRD 2)6000:  step 2)scan  mode  with  a step of 0.02° and a counting time per data point of 8 s. The  crystal  structure  of  Na4MgFe(PO4)3  was  refined by  the  Rietveld  method  with  FullProf  2011  [8].  The peak profile function was modeled using the pseudo 2) Voigt function with an anisotropic Thompson–Cox– Hastings divergence [9]. As the input model, we used the  atomic  position  coordinates  in  the  structure  of Na4NiFe(PO4)3.  The  raw  powder  XRD  data,  calcu 2) lated  profile,  and  difference  plot  are  presented  in Fig. 1.  The  intensity  data  collection  conditions  are summarized in Table 1. Table 2 lists the atomic posi 2) tional  parameters,  and  the  main  bond  distances  in oxygen  coordination  polyhedra  are  presented  in Table 3. More detailed structural data can be obtained from  the  ICSD  database:  Fachinformationszentrum Karlsruhe, D 2)76344 Eggenstein 2)Leopoldshafen, Ger 2) many; depository number CSD 2)423 538.
+
+Fig. 1. Raw powder XRD data, calculated profile, and difference plot for Na4MgFe(PO4)3.
+
+Infrared spectra were measured on a Nicolet Nexus 470 FTIR spectrophotometer in the frequency range 400–4000 cm–1 using KBr pellets.
+
+Phase relations.  Our results for the Na2O–P2O5– Fe2O3–MIIO  (MII  =  Mg,  Ni)  systems  demonstrate that, under isothermal conditions (1000°С), a mixture of polyvalent metal oxides dissolves in sodium phos 2) phate melts in 1–2 h at Fe/P = 0.15 and in 2–4 h at Fe/P  =  0.3.  During  subsequent  cooling  of  homoge 2) neous  high 2)temperature  solutions,  we  identified  the crystallization regions of compounds and mixtures of crystalline  phases,  whose  composition  depended  on the initial Na/P and Fe/P ratios (Table 4).
+
+a Fe2O3 +  MgO  mixture  is  dissolved  in  a  melt  with Na/P = 1.0 (Fe/P = 0.15, Fe/Mg = 1.0), homogeni 2) zation takes about 1 h. Subsequent cooling to 770°С at a rate of 25°C leads to melt vitrification, without for 2) mation of crystalline phases. From melts with Na/P = 1.2–1.3 below 800°С, we obtained two types of crys 2) tals. XRD examination showed that the mixture con 2) sisted of Na4MgFe(PO4)3 and NaFeP2O7 (PDF2, no. 00 2)036 2)1454). At Na/P = 1.4, the high 2)temperature solution experienced vitrification at 700°С. Increasing the concentration of oxides (Fe/P = 0.3, Fe/Mg = 1.0) in the melt extends the phase field of Na4MgFe(PO4)3, which  forms  as  phase 2)pure  material  in  the  range Na/P = 1.2–1.4. At the same time, we observe crystal 2) lization of two compounds in the metaphosphate sec 2)
+
+tion:  Na4MgFe(PO4)3  and  NaFeP2O7.  The  composi 2) tion  of  the  synthesized  ternary  orthophosphate Na4MgFe(PO4)3 was determined by elemental analysis (found: Na, 20.17 wt % (calculated, 20.12 wt %); Mg, 5.28 wt % (5.32 wt %); Fe, 12.28 wt % (12.22 wt %); P,
+
+Table  1. Intensity  data  collection  conditions  and  crystal data for Na4MgFe(PO4)3
+
+Unit 2)cell parameters a, Å c, Å V, Å3 Z Diffractometer Wavelength, Å Temperature, K 2θmin; 2θmax, deg  Measured reflections Rp  RB RI  wR  wRexp 
+
+20.41  wt  %  (20.33  wt  %).  The  XRD  pattern  of  the mixed  orthophosphate  could  be  indexed  in  trigonal symmetry,  sp.  gr.  .  This  compound  has  the NASICON  structure,  which  was  refined  by  pow 2) der XRD.
+
+System  Na2O–P2O5–Fe2O3–NiO.  Crystallization from high 2)temperature solutions in this system yields
+
+mixed ortho 2) and diphosphates. At Na/P = 1.0 and 1.4 (Fe/P  =  0.15,  Fe/Ni  =  1.0)  and  temperatures  from 1000 to 700°С, we observed glass formation, without crystallization.  At  Na/P  from  1.2  to  1.3,  cooling  to 780°С led to crystallization of a phase mixture. In con 2) trast to the above system, three phases were concur 2) rently  orthophosphate Na4NiFe(PO4)3  and  binary  diphosphates  NaFeP2O7 (PDF2,  no.  00 2)036 2)1454)  and  Na2NiP2O7  (PDF2, no. 00 2)052 2)1256)  [10].  Increasing  the  concentration of  oxides  (Fe/P  =  0.3,  Fe/Ni  =  1.0),  we  obtained phase 2)pure Na4NiFe(PO4)3 in the range Na/P = 1.2– 1.4. This compound precipitates below 950°С, and the melt  solidifies  even  at  900°С.  According  to  powder XRD data, Na4NiFe(PO4)3 also has a trigonal struc 2) ture (sp. gr.   a = 8.801(1) Å, c = 21.623(5) Å), in agreement with previous data [11]. At Na/P = 1.0 and temperatures from 1000 and 880°С, we observed the formation of Na4NiFe(PO4)3 and NaFeP2O7.
+
+Table 3. Bond distances (Å) and angles (deg) in the oxygen coordination polyhedra in the structure of Na4MgFe(PO4)3
+
+Note: Coordinates of equivalent positions  (i) –x + y, –x, z; (ii) –1/3 + x – y, –2/3 + x, 1/3 – z; (iii) –1/3 – x + y, –2/3 + y, –1/6 + z ; (iv) –2/3 + x – y, –1/3 – y, 1/6 – z; (v) –x, –y, –z, 1/3 – z; (vi) x – y, x, –z; (vii) –y, x – y, z; (viii) –1/3 + x, 2/3 + x – y, 1/6 + z.
+
+Table 4. Crystallization of mixed phosphates from Na2O–P2O5–Fe2O3–MIIO (MII = Mg, Ni) high 2)temperature solutions in the temperature range 1000–670°C
+
+Na4MgFe(PO4)3 + NaFeP2O7 Glass formation Na4MgFe(PO4)3
+
+Fig.  2.  Infrared  spectra  of  the  ternary  orthophosphates (1) Na4MgFe(PO4)3 and (2) Na4NiFe(PO4)3.
+
+Infrared spectra of the synthesized compounds. The spectra  orthophosphates Na4MIIFe(PO4)3  (MII  =  Mg,  Ni)  contain  absorption bands  that  confirm  the  presence  of  the  orthophos 2) phate  anion  (Fig.  2):  asymmetric  and  symmetric bending  modes  of  the  phosphate  tetrahedra  (δas  and δs(РО4))  in  the  range  500–640  cm–1  and  the  corre 2) sponding  stretching  modes  (νs  and  νas(РО4))  in  the range  950–1200  cm–1.  Such  spectra  are  typical  of framework  phosphates  with  an  [М2(PO4)3]∞  anion sublattice.
+
+orthophosphate Na4MgFe(PO4)3. Analysis of the structure of the syn 2) thesized ternary phosphate shows that this compound is isostructural with the Na4MIIMIII(PO4)3 (MII = Ni, Fe,  Mg,  MIII  =  Fe,  Cr)  phosphates  [11–14],  which have the NASICON structure. These compounds have a  three 2)dimensional  framework  made  up  of  corner 2) sharing АО6 polyhedra and PO4 tetrahedra and con 2)
+
+tain two crystallographic sites, M1 and M2, for cations that compensate for the charge of the anion sublattice, which  formula М(1)xM(2)yAn(PO4)3.
+
+The  anion  sublattice  [MgFe(PO4)3]4–  of  the Na4MgFe(PO4)3  orthophosphate  is  made  up  of  iso 2) lated (Mg/Fe)O6 polyhedra and PO4 tetrahedra, and its charge is neutralized by two types of sodium cations (Fig. 3).
+
+The magnesium and iron atoms reside in the same crystallographic  position  (12с)  and  are  surrounded each by six oxygens, with bond distances d((Mg/Fe)– O) = 1.926 and 2.037 Å (Table 3). Three O2 oxygens, 2.037 Å from the Mg/Fe atoms, also form the coordi 2) nation  of  Na1  (Fig.  4).  The  O1  oxygens,  with d((Mg/Fe)−O)  = 1.926 Å, belong to “bridging”  РО4 tetrahedra,  which  reside  between  neighboring (Mg/Fe)O6 polyhedra (Fig. 4). This seems to be evi 2) dence that the Na1 atoms have a significant effect on the coordination of the Mg/Fe atoms.
+
+The P–O bond lengths in the РО4 tetrahedra lie in the range 1.554–1.570 Å and slightly exceed those in the  analogous  phosphates  Na4Fe2+Fe3+(PO4)3  (d  = 1.533(6)–1.538(6)  Å  [12])  and  Na4NiFe(PO4)3  (d  = 1.533(6)–1.538(6) Å [11]). The O–P–O bond angles lie in the range 106.051° to 113.772°, typical of NASI 2) in CON 2)type  phosphates  Na4Fe2+Fe3+(PO4)3  and  106.11(8)°–112.11(8)°  in Na4NiFe(PO4)3).
+
+The sodium atoms reside in two independent crys 2) tallographic sites: Na1 and Na2 (Fig. 3). In the former site,  Na  is  in  a  regular  octahedral  oxygen  coordina 2) tion, with d(Na1−O) = 2.492(5) Å. The Na(1)O6 octa 2) hedron shares faces with two neighboring (Mg/Fe)O6 polyhedra  (Fig.  4).  The  other  type  of  sodium  atom resides in voids of the three 2)dimensional anion frame 2) work  and  is  coordinated  by  eight  oxygens,  with d(Na2−O) = 2.366(6)–2.825(8) Å (Table 3).
+
+Fig. 3. Structure of Na4MgFe(PO4)3 projected onto the bc plane.
+
+Fig. 4. Coordination of the Mg/Fe atoms and linkage between the (Mg/Fe)O6 polyhedron and Na(1)O6 octahedron. 
+
+We have studied crystallization of phosphates from Na2O–P2O5–Fe2O3–MIIO (MII = Mg, Ni) high 2)tem 2) perature solutions at Na/P = 1.0–1.4, Fe/P = 0.15 or 0.3, and Fe/МII = 1.0, and established conditions for the  phosphates Na4MIIFe(PO4)3  (MII  =  Mg,  Ni),  NaFeP2O7,  and Na2NiP2O7. The structure of the new ternary ortho 2) phosphate  Na4MgFe(PO4)3  has  been  determined  by X 2)ray powder diffraction.

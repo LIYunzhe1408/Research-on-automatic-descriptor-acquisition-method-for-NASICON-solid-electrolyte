@@ -1,0 +1,13 @@
+The Na+ super-ionic conductor Na3Zr2(SiO4)2(PO4), known as the original NASICON material, is a promisingsolid-state electrolyte that can be used for sodium batteries.
+A solution-assisted solid state reaction (SA-SSR)method has been developed for its synthesis.
+The method is convenient, low-cost, and has potential for largescale production.
+The total conductivity of the sample synthesized by SA-SSR is 1 × 10−3 S cm−1 at 25 °C,which is one of the highest reported data of this composition after conventional processing of the ceramic powder.
+To rationalize the advantages of themethod, a comparison of powders and ceramics prepared by the Pechiniand SA-SSR methods was carried out.
+Scanning electron microscopy, X-ray diffraction and impedance spectroscopywereused to investigate the products of both synthesis routes and the possible reasons of the high quality ofSA-SSR samples are discussed.
+The impact of the storage condition of NASICON-type samples ontheir conductivitywas studied.
+23Na, 29Si, 31P, and 45ScMAS NMRresultsreveal that the bulk of the material is not affected by the storage conditions.
+The reactionwithmoisture and CO2 fromambient airwas verifiedvia TG/DSC and 1H MAS NMR.
+Obviously only the sample surface is affectedleading to a significant conductivity loss caused by a deteriorationof the electrode/sample interface already around 300 °C.
+After heattreatments in air, NASICON samples should be stored in an Ar-filledglove box to prevent the uptake of moisture and CO2 from the air.
+In the case ofwater and/or CO2 uptake, the material can be restoredwith aheat treatment above 600 °C.
+These recommendations should also befollowed for other NASICON-type solid electrolytes.

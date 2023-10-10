@@ -1,0 +1,58 @@
+Li1.3Al0.3xScxTi1.7(PO4)3 (LASTP) (for concentrations x¼0.01, 0.03, 0.05 and 0.07) system was preparedusing solid state reaction.
+
+These ceramic samples were characterized using X-ray diffraction, EDX, SEM,density and DTA–TGA measurements.
+
+The electrical properties were studied in the frequency range of20 MHz to 1 Hz and in the temperature range 303–423 K, using the impedance spectroscopy.
+
+The effectof systematic variation of scandium in the LATP lattice has been investigated.
+
+The formation of impurityphases has been discussed and found to be detrimental for Liþ conductivity.
+
+The non Debye behaviorobserved in modulus spectra is attributed to local inhomogeneities and impurity phases.
+
+Among Lithium conducting NASICON (Na like Super IonicConductors) materials LiTi2(PO4)3 (LTP) is one of the most widelystudied materials [1–5].
+
+ It has a rhombohedral (R3̅c) structure.
+
+Liþions are transported in a rigid 3-D network which is formed byalternate arrangement of mutually facing TiO6 octahedra.
+
+This arrangement forms long ribbons which are internally joined by PO4tetrahedra corner sharing oxygen.
+
+Hence the corner oxygen of PO4tetrahedra not only connects the mutually facing TiO6 octahedra,but also join the parallel ribbons.
+
+Lithium ions populate the cationvacancy sites formed in the 3-D rhombohedral network of the LTPNASICON compound.
+
+The M1 vacancies are formed between twofacing octahedra (that is along c-axis and within the ribbon) whileM2 vacancies are formed between two tetrahedra which join theribbons [6–8].
+
+Owing to the favorable conditions like optimizedlattice size, the broadening of bottlenecks connecting the M1 andM2 sites, the aluminum doped Li1.3Al0.3Ti1.7(PO4)3 (LATP) system[8] has a high conductivity (103 S/cm).
+
+Recent studies [13,32]have found presence of intermediate vacancy sites M3 and M3′ inthe bottleneck.
+
+ The propensity of Liþ populating these intermediate sites increases with doping in the LTP lattice.
+
+In general,synthesis of LATP like system using solid state reaction methodcreates approximately 10% of impurity phases like AlPO4, TiP2O7[12].
+
+Some groups [10,11,29] have studied the effect of dopingscandium in an optimized system like Li1.3Al0.3Ti1.7(PO4)3 (LATP).
+
+Although such a ternary system of the general form Li1.3Al0.3xScxTi1.7 (PO4)3 (LASTP) are good Liþ ion conductors, the formation ofimpurity phases like AlPO4, ScPO4 and secondary phases likeLi3Sc2(PO4)3 is a common hazard which compromises the Liþconductivity.
+
+All the same, if the dopant concentrations in suchternary systems are optimized (and impurity phases minimized)they can prove to be good candidates as electrolytes in lithiumbatteries because of their robust nature, and high Liþ conductivity(104 S/cm).
+
+In this report, scandium doped in small steps(x¼0.01, 0.03, 0.05, 0.07) to form Li1.3Al0.3xScxTi1.7 (PO4)3 (LASTP)system (to avoid formation of a large number of impurities) isstudied for its conductivity relaxation properties and non-Arrhenius behavior in the grain region.
+
+The Liþ ion conductivity ofthe order of 104 S/cm which is comparable with the similarstudies for LASTP compound [10,11] has been reported herewith.
+
+Therefore, this system can prove to be a good prospect as Liþconducting electrolyte in lithium batteries.
+
+Effect of doping scandium in a low concentration range x¼0.01,0.03, 0.05, 0.07 in Li1.3Al0.3xScxTi1.7(PO4)3 (LASTP) system wasstudied and compared with parent LATP system.
+
+The Sc-dopedsamples showed decrease of Liþ conductivity.
+
+It was concludedthat scandium could replace titanium which resulted in enlargement of LTP lattice.
+
+The formation of local inhomogeneities likeSc′Ti and formation of impurity phases like AlPO4, ScPO4 and theirgradual segregation towards grain boundary was also discussed.
+
+The effect of local inhomogeneities like Sc′Ti and other impuritieson conductivity relaxation of Liþ in grain region and the resultingnon-Arrhenius behavior are explained in light of newer results.
+
+The dense and robust NASICON structure which supports a Liþ ionconductivity of 104 S/cm can pave way for creating optimizedLiþ ion conducting electrolyte material in Lithium batteries.
+

@@ -1,0 +1,46 @@
+Sodium-ion batteries potentially provide the opportunities to realize the energy storage system beyond the stateof-the-art lithium-ion batteries, though at present their performance is limited partly due to lack of suitable positiveelectrode materials.
+
+NASICON-type Na3V2(PO4)3 is a promising candidate for the positive electrode materialsbecause of its high capacity and high operating potential, however, the electrode reaction of Na1+2xV2(PO4)3(0 : x : 1) including a biphasic region is not yet fully understood.
+
+Here, in order to clarify the microscopicmechanism of the biphasic reaction, the reaction entropy of the electrochemical cell including the Na1+2xV2(PO4)3positive electrode was measured using the potentiometric method.
+
+ The temperature-dependent open-circuitvoltage reveals that the reaction entropy is almost constant for 0.1 : x : 0.9.The constant reaction entropy ofthe electrochemical cell suggests that the electrode reaction proceeds through the boundary migration between theNa-rich and -poor phases without substantial change in the configurational entropy.
+
+Sodium-ion batteries have been recognized as potential candidates for large-scale energy storage devices in smart grid, becausethey potentially outperform the state-of-the-art lithium-ion batteries:the cost may be reduced provided scarce lithium is replaced byabundant sodium, and highly-polarizable sodium ion can realizerapid charge/discharge.
+
+However, the performance of present sodium-ion batteries islimited in part by the lack of suitable positive electrode materials.
+
+For example, layered transition metal oxides, NaxMO2 (M: transitionmetal), generally undergo large structural changes upon cycling,leading to poor cycle stability.
+
+Another important class of thepositive electrode materials is polyanionic compounds such asNaFePO4, Na2FeP2O7, and Na2Fe2(SO4)3.11–16 The polyanionicframeworks offer considerable variety to the host structures, redoxcouples, and ionic diffusion of the positive electrode materials.
+
+In particular, NASICON-type Na3V2(PO4)3 is promising because ofthe high redox potential at 3.37 V and the high theoretical capacity of118 mAh/g for V4+/V3+ in Na1+2xV2(PO4)3 (0 ¯ x ¯ 1).
+
+Na3V2(PO4)3 consists of [V2(PO4)3] units interconnected by PO4,wherein three-dimensional open channel is formed for Na-iondiffusion.
+
+A notable feature of the Na1+2xV2(PO4)3 electrode is that(de)sodiation (Na1V2(PO4)3 § Na3V2(PO4)3) involves a biphasicprocess between Na-rich and -poor phases, and hence the electrodeperformance is largely affected by various thermodynamic andkinetic factors such as the solid solution limit, nucleation andboundary migration.
+
+However, the reaction mechanism ofNa3V2(PO4)3 is not yet fully understood in comparison withLiFePO4, one of the most important and best-studied biphasicelectrodes.
+
+Considering the differences in the structural andelectronic states, the electrochemical biphasic reaction ofNa1+2xV2(PO4)3 should differ significantly from that in LixFePO4.For example, in part due to the difference in the guest ion size, thevolume change in the case of Na1+2xV2(PO4)3 (0 ¯ x ¯ 1) (8.1%)23is larger than those of LixFePO4 (0 ¯ x ¯ 1) (6.8%),35 which maylargely affect the reaction mechanism including the solid solutionlimits and nucleation rate.
+
+The difference in the ionic diffusion path(three-dimensional path in Na1+2xV2(PO4)3 and one-dimensionalpath in LixFePO4) may also influence the reaction mechanismsuch as boundary migration.
+
+Therefore, microscopic understandingof the biphasic reaction using various probes is crucial if theNa1+2xV2(PO4)3 electrode is to be applied to the practical sodiumion batteries.
+
+In order to unravel the microscopic reaction mechanism ofthe electrode materials, the reaction entropy, ¦Sr, is a sensitiveindicator.
+
+Sr of solid solution electrode materials is influencedby the parabolic configurational entropy of ion distribution,while ¦Sr of ideal biphasic electrode materials is constant duringthe entire reaction.
+
+In this work, we employ a potentiometricmethod to evaluate ¦Sr of the electrochemical cell including theNa1+2xV2(PO4)3 electrode: the open circuit voltage (OCV), E, as afunction of the temperature, T, provides ¦Sr (= F dEdT , F: Faradayconstant).
+
+In summary, we have demonstrated that Na1+2xV2(PO4)3 exhibitsthe biphasic state between the Na-rich and -poor phases on(de)sodiation using the temperature-dependent potentiometry.
+
+Theobtained ¦Sr for the cell including the Na1+2xV2(PO4)3 electrode isalmost constant over the wide composition range (0.1 ¯ x ¯ 0.9),suggesting no substantial change in the configurational entropy ofthe electrode material.
+
+Therefore, the Na1+2xV2(PO4)3 electrodereaction in the range of 0.1 ¯ x ¯ 0.9 proceeds through theboundary migration between the Na-rich and -poor phases.
+
+Thenegative ¦Sr suggests the asymmetric solid solution limits ofNa1+2xV2(PO4)3, although the other contributions from the phononentropy of Na1+2xV2(PO4)3 as well as the standard molar entropy ofthe reference sodium metal should also be taken into account formore quantitative/microscopic understanding.
+
+This work complements understanding of the reaction mechanism of Na1+2xV2(PO4)3,the biphasic electrode for advanced sodium-ion batteries.
+

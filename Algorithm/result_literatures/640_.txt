@@ -1,0 +1,60 @@
+Microwave-assisted reactive sintering and lithium ion conductivity of Li1.3Al0.3Ti1.7(PO4)3 solid electrolyte Leopold Hallopeaua, Damien Bregirouxa,∗, Gwenaëlle Rousseb, David Portehaulta, Philippe Stevensc, Gwenaëlle Toussaintc, Christel Laberty-Roberta a Sorbonne Universités, UPMC Univ Paris 06, CNRS, Collège de France, Laboratoire de Chimie de la Matière Condensée de Paris, 4 place Jussieu, 75005 Paris, France b Sorbonne Universités, UPMC Univ Paris 06, CNRS, Collège de France, UMR 8260 “Chimie du Solide et Energie”, Collège de France, 11 Place Marcelin Berthelot, 75231 Paris Cedex 05, France c EDF R&D, 77818 Moret Sur Loing Cedex, Francemicrowave-assisted reactive sintering.
+LATP ceramics were prepared by a  129) Pure, crystalline LATP ceramics were  129) The RT ionic conductivity is among the best reported so far (3.15 × 10−4 S cm−1).obtained in only 10 min at 850 °C.
+Ionic conductivity Li-ion mechanismLi1.3Al0.3Ti1.7(PO4)3 (LATP) materials are made of a three−dimensional framework of TiO6 octahedra and PO4 tetrahedra, which provides several positions for Li+ ions.
+The resulting high ionic conductivity is promising to yield electrolytes for all-solid-state Li-ion batteries.
+In order to elaborate dense ceramics, conventional sintering methods often use high temperature (≥1000 °C) with long dwelling times (several hours) to achieve high relative density (∼90%).
+A fast and easy processing technique called microwave-assisted reactive sintering is used to both synthesize and sinter LATP ceramics with suitable properties in one single step.
+Pure and crystalline LATP ceramics can be achieved in only 10 min at 890 °C starting from amorphous, compacted LATP's precursors powders.
+Despite a relative density of 88%, the ionic conductivity measured at ambient temperature (3.15 × 10−4 S cm−1) is among the best reported so far.
+The study of the activation energy for Li+ conduction conﬁrms the high quality of the ceramic (purity and crystallinity) achieved by using this new approach, thus emphasizing its interest for making ionconducting ceramics in a simple and fast way.
+Solid state electrolytes are a cornerstone of solid oxide fuel cells, but ionalso batteries and other various sensors (e.g.oxygen sensors,selective electrodes).
+Among them, lithium ion conductors have attracted much attention, especially in the ﬁeld of batteries.
+Compared to organic electrolytes, inorganic lithium solid electrolytes exhibit higher electrochemical stability and lower ﬂammability.
+However, it is very challenging to reach Li+ conductivity comparable to that achieved with organic electrolytes.
+Thus, in order to improve ionic conductivity, large eﬀorts have been devoted to the development of new conductive materials and the optimization of their chemical composition.
+Several compounds have been identiﬁed as interesting inorganic solid state electrolytes for lithium ion conduction .
+Among them, perovskite-type lithium lanthanum titanates (LLTO), garnet-related oxides, lithium phosphorus oxynitride (LiPON), sulphides ceramics and glass-ceramics [9,10], as well as NASICON-type aluminium-doped lithium titanium phosphate (LATP) [11–13], have been the subject of much research in recent years.
+The latter, with an optimized composition of Li1.3Al0.3Ti1.7(PO4)3, is water stable and exhibits a conductivity of 7 × 10−4 S cm−1 at ambient temperature and a theoretical Ohmic resistance of 14 Ω cm2 for a 100 μm−thick electrolyte [11].
+The ionic conductivity of LATP ceramic electrolytes is strongly inﬂuenced by their microstructures (porosity, grain size, secondary phases …), which are controlled by the processing step.
+For instance, because of the strong thermal expansion anisotropy of LATP, numerous microcracks are generated when the grain size is higher than a critical value, estimated to be around 1.6 μm.
+Therefore, sintering processes should be chosen to keep grain sizes below this value.
+Spark plasma sintering was successfully used in the elaboration of fully dense LATP ceramics with limited grain growth.
+Moreover, the high heating rates that can be reached by MW sintering generally lead to ﬁner and less defectives microstructures than those obtained by conventional sintering.
+The objective of the present work is to perform the synthesis and sintering of Li1.3Al0.3Ti1.7(PO4)3 powder in one single step by using a monomode microwave furnace.
+Samples are characterized in terms of crystal structure, microstructure and Li ion conductivity.
+The advantages and drawbacks of the microwave technique for the elaboration of LATP solid electrolytes are then discussed in comparison with the other methods reported in the literature.
+After evaporation of the solvent, the mixture was heated in a muﬄe furnace at 500 °C in air for 1 h in an alumina crucible in order to evacuate the volatile compounds (CO2, H2O and NH3).
+The mixture was dry-milled in air with a mixer ball-mill Retsch MM 400 in 25 mL zirconia jars (4 g per jar) with one 20 mm zirconia ball in each jar.
+To achieve homogeneous mixture, milling was repeated 7 times for 4 min at 20 Hz.
+The milled powder was then compacted in a 13-mm cylinder die under a 150 MPa compressive load.
+The as-synthesized pellet was then heated in air in a 2.45 GHz monomode micro-wave cavity (Sairem) at diﬀerent powers and dwelling times.
+The temperature was measured with a pyrometer located at around 20 cm of the surface of the pellet.
+Powder X-ray diﬀraction (XRD) patterns were recorded using a Bruker D8-Advance diﬀractometer with Cu-Kα radiation source (λ1 = 1.54056 Å, λ2 = 1.54439 Å) equipped with a LynxEye detector.
+Temperature-dependent XRD data were collected using an Anton-Paar HTK 1200 N furnace, both on heating and cooling between room temperature and 200 °C in 2θ range of 10–65°.
+Speciﬁc surface area of the powder was measured by the BET method in N2 with a BelsorpMax apparatus.
+The bulk density of the sintered pellets was determined by geometrical measurements whilst considering a theoretical density of 2.95 g cm−3. FE-SEM microscopy with a S-3400 N Hitachi apparatus was used to characterize the microstructures of the sintered pellets upon thermally etched surfaces.
+The ionic conductivity was measured (thickness = 1000 μm and diaon ∼88% as-made ceramics meter = 13 mm) using impedance spectroscopy.
+Prior to analysis, a gold thin layer was sputtered on the polished sides of the pellet to improve the electrical electrode/ceramic contacts.
+The measurements were performed at ambient temperature in air and at various temperatures (from 22 to 200 °C) to estimate the activation energy.
+The frequency range varied between 1 and 5.106 Hz with amplitude of 200 mVrms.
+The equivalent electrical circuit used to extract the electrical parameters was Rohm-drop in series with Rct//CPEct in series with a Warburg element.
+Zview software was used to analyze the spectra achieved at various temperatures.
+In this equivalent circuit, Rohm-drop represents the resistance of the Li-ion conducting ceramics whilst RcT// CPEct elements are related to the ceramic/gold interfaces and the gold electrodes.
+During MW sintering, no shrinkage was observed and millimeter-sized pores were generated in the sample during heating.
+One can make the assumption that these pores originate from inhomogeneities present in the starting mixture.
+Phosphorus rich zones in the sample melt and decompose and therefore inhibit the densiﬁcation of the pellet by generating porosity, as already observed on other phosphate ceramics.
+In order to prevent this eﬀect, the precursor mixture was milled prior to MW sintering (see Experimental section).
+Under these conditions, no large pores are formed and densiﬁcation takes place.
+After milling, the starting mixture exhibits a speciﬁc surface area of 11 m2 g−1. SEM micrographs of the mixture pre-calcined at 500 °C, before and after milling are shown in Fig.1 a and b, respectively.
+Agglomerates observed before milling are largely broken during the milling step.
+It can be noted that the mixture still contains some large agglomerates after milling, suggesting that this step still needs to be optimized, in particular by using more eﬃcient milling techniques, e.g.planetary or attrition milling.The mixture pre-calcined at 500 °C in air was then pelletized and the pellet was ﬁnally sintered in the microwave furnace.
+XRD experiments were carried out on powders obtained from the precursor mixtures calcined at diﬀerent temperatures (Fig.S1 in the SI).
+Between 500 °C and 800 °C, the materials mainly consist of a mixture of weakly crystallized LATP and TiP2O7. Above 900 °C, the high temperature structural form of AlPO4 (trydimite C2221) appears, as a consequence of the beginning of the decomposition of the LATP phase, according to the following reaction:x LiTi POFig.
+Its cell parameters are consistent with those observed in the literature for the same composition
+Therefore, LATP is obtained as a pellet with very high purity.
+In the literature, AlPO4 is very commonly observed, even as traces, in the XRD patterns.
+Its action as a resistive layer is well-known and deleterious to ionic conductivity.
+The corresponding activation energy, calculated from data obtained by the maximum-entropy method (MEM), is 0.30 eV (maximum entropy method), which is equal to the value obtained in this work below 135 °C.
+At higher temperature, the increase in the activation energy without structural modiﬁcation indicates a change in the conduction mechanism.
+In the LATP NASICON structure, increasing temperature leads to a decrease of the M1 occupancy at the beneﬁt of the M3 site.
+As the occupancies of M1 sites are reduced, a decoupled mechanism of diﬀusion of Li occurs, promoting Fig.4.

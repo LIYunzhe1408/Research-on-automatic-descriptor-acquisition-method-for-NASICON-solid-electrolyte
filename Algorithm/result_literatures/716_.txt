@@ -1,0 +1,13 @@
+NASICON-type materials are one of the most promising cathodes for sodium-ion batteries (SIBs) due to their stable structure and the three-dimensional framework for the migration of Na+.
+During its usage, battery should hold the abilityto endure sudden changes in temperature and current density, which have profoundimpact on battery life.
+However, few researches focused on the reaction mechanismunder above situations.
+Here, the phase transformation processes of NASICON-typematerial, Na3V2(PO4)3, are investigated by applying high-resolution in-situ X-raydiffraction, Raman coupled with electrochemical tests under different temperatures(273 and 293 K) and scan rates (0.5, 2, 5 mV s-1).
+The results demonstrate that thephase evolution process is one-phase solid solution during desodiation process ratherthan the traditionally two-phase reaction with high scan rate or low temperature.
+Anelectrochemical phase diagram is also drawn based on the in situ results, which can beused to explain the asymmetric result.
+This work can help understanding the phase evolution process of NASICON-type cathodes, as well as guiding the application ofSIBs in various working conditions.
+The phase transition processes of sodium ion cathode material, Na3V2(PO4)3, areinvestigated at different CV scan rates (0.5, 2 and 5 mV s-1) and temperatures (273 Kand 293 K) under operando conditions, where the asymmetric reaction routes areobserved.
+The nonlinear decline trend of the calculated sodium ion diffusioncoefficients confirm the existence of the asymmetric reaction.
+In-situ XRD result atdifferent current densities (3 and 5 C) and temperatures (273, 293 and 333 K) andfurther in-situ Raman result are in consistence with the assumption.
+The experimentresult shows that the solid solution reaction can accelerate the phase transformationprocess.
+The electrochemical phase diagram of Na3V2(PO4)3 is drawn to understandthe property of the asymmetric reaction in NASICON-type material at differenttemperatures.
+These observation and analysis can help understanding and developingthe next generation SIBs with enhanced rate capability and better temperatureadaptability.

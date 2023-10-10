@@ -1,0 +1,53 @@
+Na3V2(PO4)3/C nanocomposites are synthesized by an oleic acid-basedsurfactant assisted method.
+
+XRD patterns reveal high purity samples, while Ramanspectroscopy evidences the highly disordered character of the carbon phase.
+
+Electronmicrographs show submicron agglomerates with a sea-urchin like morphologyconsisting of primary nanorods coated by a carbon phase.
+
+The electrode material wastested in half and full sodium cells.
+
+The electrochemical performance is clearlyimproved by this optimized morphology, particularly at high C rates.
+
+ Thus, 76.6mA h g-1 was reached at 40 C for Na3V2(PO4)3/C nanorods.
+
+ In addition, 105.3 and 96.7mA h g−1 are kept after 100 cycles at rates as high as 5 and 10C.
+
+This exceptionalcoulombic efficiency can be ascribed to the good mechanical stability and the lowinternal impedance at the electrode-electrolyte interphase.
+
+Sodium is an environmentally harmless element whose abundance allows a costeffective manufacturing of compounds.
+
+It has contributed to envisage Na-ion batteriesas serious competitors of Li-ion counterparts as long as an increasingly demand oflithium may provoke a non-sustainable increase of prices.
+Despite this fact, it iscommonly assumed that Na-ion batteries will deliver lower energy densities thanlithium ones due to the less-reducing potential.
+
+Also, the large ionic radius of sodiummay hinder ion diffusion and provokes undesirable structural changes upon cycling.
+
+These limitations led to a less intensive research several decades ago.
+
+Notwithstanding,a renewed attention is being recently paid on the research on this kind of batteriesbatteries.
+Particularly, the study of sodium containing phosphates with NASICONstructure has demonstrated that their rigid and open framework is highly suitable toensure the ionic conductivity for a long number of cycles.
+
+This three-dimensionalframework is based on [V2(PO4)3]-repeating units consisting of VO6 octahedra and PO4tetrahedra, while Na+cations occupy six-fold and eight-fold vacancies, which ensure afast ionic diffusion.
+
+The nature of the transition element introduced in the stoichiometry of thesecompounds is responsible for the eventual operating voltage of the sodium cell.
+
+Thus,the presence of titanium in Li1-xNaxTi2(PO4)3 leads to a cell voltage close to 2.0 V.
+
+16Anyway, these working voltages are still low for reaching high energy densities.
+
+However, the use of vanadium boosts the operating voltage to values close to 3.5 V, atwhich the V4+/V3+ redox couple is active, thus favoring the design of sodium batterieswith acceptable energy densities.
+
+Nevertheless, initial reports on this compositionrevealed moderated performances at high C rates.
+
+This was probably due to the use ofsolid state preparative methods needing for high temperature and/or long annealingtime, which result in large particles hindering sodium ion diffusion and performing lowelectrical conductivities.
+ Contrarily, we have recently reported that the sol-gelmethod is a valuable preparation route for preparing partially substituted Na3V2(PO4)3/Cwith optimal electrochemical behavior of as cathode for Na-ion batteries.
+
+Similarlyother authors have proposed interesting approaches to prepare new morphologiescontributing exceptionally to a superior electrochemical performance at high C rates.
+
+An oleic based surfactant assisted method has been used to prepareNa3V2(PO4)3/C with a nanorod-like morphology.
+
+Their morphology and structurecharacterization was performed by electron microscopy and X-ray diffraction.
+
+Theelectrochemical behavior was analysed in sodium half and full cells galvanostaticallycycled.
+
+Also, the determination of the kinetic response by impedance spectroscopyallowed to unveil the optimized performance for a particular content of oleic acid.
+

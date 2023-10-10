@@ -1,0 +1,114 @@
+A new nanostructured framework-type polyanion material, LixCo2(MoO4)3 [0≤x <3], was studied as a positive electrode for use in 3-Volt class lithium-ion cells for the first time. 
+The new material was synthesized in a lithium-free composition and examined its structure, morphology, and electrochemical characteristics. 
+Co2(MoO4)3 was found to crystallize in a monoclinic structure with lattice parameters: a=14.280(9) Ǻ, b=3.382(8) Ǻ, c= 10.557(1) Ǻ, and β=117.9728° (space group P2/m). 
+The redox behavior of this new material was demonstrated in lithium-containing test cells. 
+The material offered a dis−1 between 3.5 charge capacity of approximately 110 mAh g and 1.5 V during the first cycle and retained 50% capacity at the end of the 20th cycle. 
+The poor capacity retention is obviously attributed to the poor electronic conductivity of Co2(MoO4)3 owing to its open framework structure. 
+To overcome the intrinsic low electronic conductivity of polyanion materials, we have adapted a nanocomposite approach by way of adding nanoporous carbon matrix (particle size approximately 10 nm) together with the conventional conductive additive (acetylene black) and demonstrated that the overall electronic conductivity could be improved significantly, yielding an initial discharge −1 using nanocomposite electrode in capacity of 121 mAh g the potential range 3.5 V down to 2.0 V.
+
+In recent years, considerable interest has been shown toward the so-called polyanion structures as lithium storage electrodes in rechargeable lithium-ion batteries due to their interesting structural and electrochemical characteristics. 
+Both NASICON-type and Olivine-type “polyanion” materials were reported quite recently, demonstrating their superior electrochemical properties as positive electrodes in lithium batteries with acceptable discharge capacity. 
+In NASICON-related “polyanion” materials, the structure is made up of corner-shared MO6 [M=transition metal] octahedra and (XO4)n− tetrahedra providing an open framework for the easy insertion/ extraction of lithium-ions. 
+Molybdates of trivalent metal ions M2(XO4)3 [M=Fe] were found to accommodate lithium both chemically and electrochemically.
+Lithiated phases such as Li3Fe2(PO4)3, Li3V2(PO4)3, and Li2FeM′(PO4)3 (M′–Ti, V) were also reported in the context of reversible lithium intercalation. 
+All these materials were shown to exhibit reversible electrochemical lithium insertion/extraction characteristics in the 3-V potential region vs Li+/Li.
+Looking at the current trend in the new materials for advanced lithium-ion technology for the future, polyanion materials would be the viable choice both in terms of cost and versatility. 
+Recently, Prabaharan et al. reported a couple of NASICON family of new polyanions, namely, Li2Ni2 (MoO4)3 and Li2Co2(MoO4)3 , which showed Li+ removal/insertion kinetics at high voltage (>4 V) redox potential. 
+Our group also identified, for the first time, nonlithiated phase of Ni2(MoO4)3, which exhibited electrochemical reversible features in the 3-V Li+ regime . 
+In this context, we report for the first time in this paper, the synthesis, nanostructure morphology, Li+ insertion/extraction redox properties, and a simple approach to improve the electronic conductivity and cycling characteristics of Co2(MoO4)3 as 3 V class cathode material for lithium batteries.
+
+A low-temperature soft-combustion protocol was employed to synthesize Co2(MoO4)3 using glycine as a mild combustion fuel, the details of which were previously reported by us. 
+The lattice parameters of the annealed powders were refined using a refinement program (FullProof Suite WinPLOTR, 2004) and the grain size and morphology features were analyzed using a JEOL JEM2010F instrument (JEOL, Field Emission TEM, Japan) operating at 200 kV accelerating voltage.
+The electrode active behavior of the new material, Co2(MoO4)3, was examined using potentiostatic (SSCV) and galvanostatic (discharge/charge test) electrochemical techniques. 
+Teflon-made two-electrode cell was used to perform the electrochemical test. 
+Slow-scan cyclic voltammetry experiment was conducted using a basic electrochemical system (BES, Perkin Elmer, PARC model, USA) equipped with PowerCV® software. 
+Constant current discharge/charge tests were performed with the help of a multichannel Arbin batterytesting unit (Arbin instruments BT2000, USA) equipped with MITSPRO software.
+Positive electrodes were prepared with active material [Co2(MoO4)3 powders], acetylene black (AB), and PTFE binder in the proportion 80:15:5, respectively. 
+Test cells were composed of a positive electrode (working electrode), a thin lithium foil (FMC, USA) as counter and reference electrode, respectively, and a microporous membrane (Celgard® 3501 polypropylene) as a separator. 
+Nonaqueous 1 M LiPF6 in EC/DMC (Merck LP 32) solution was used as the electrolyte. 
+The test cells were fabricated inside a glove box filled with high-purity argon (99.999%) following the procedure previously described.
+
+To enhance the surface electrode conductivity of the new material, LixCo2(MoO4)3 was mixed with a highly conducting (mesoporous) nanosized carbon black (NCB) [Monarch −1, grain 1400, Cabot, USA; BET surface area=469 m2 g −1] and AB. 
+The test electrode size=13 nm, σe=19.7 S cm [Co2(MoO4)3] was fabricated by mixing 65% of the active material with 5% binder and 30% conductive carbon additives. 
+The carbon additives consisted of an equal proportion of conventional AB and NCB particles.
+The X-ray diffraction peaks of Co2(MoO4)3 powders annealed at 600 °C for 4 h were indexed for the first time using a least-squares refinement method. 
+Co2(MoO4)3 was indexed in monoclinic structure with space group P2/m. 
+The lattice parameters were refined using a refinement program (FullProof Suite WinPLOTR, 2004) and calculated to be: a=14.280(9) Ǻ, b=3.382(8) Ǻ, c=10.5571 Ǻ, and β=117.9728°.
+The nanostructure morphology of Co2(MoO4)3 annealed at 600 °C is shown in Fig. 1. 
+It is observed that Co2(MoO4)3 powders contain uniform spherical grains of nanometer size (20 nm). 
+This synthesis method offered a single-step process to obtain nanograins of uniform morphology and nearly uniform particles.
+The electrochemical lithium insertion/extraction properties of Co2(MoO4)3 were analyzed both on qualitative and quantitative basis under potentiostatic (constant voltage) and galvanostatic (constant current) conditions. 
+The assembled test cells were allowed to equilibrate inside the glove box filled with argon until a stable value of open circuit voltage (OCV) was obtained.
+
+The slow-scan cyclic voltammogram of the new material − LixCo2(MoO4)3 for 0≤x<3 vs Li /Li is shown in Fig. 2 −1, discharge cutoff=1.5 V, charge (scan rate=0.1 mV s cutoff=3.5 V). 
+The excellent electrochemical reversibility of the material is evident from the CV profiles. 
+The profiles clearly exhibit sharp redox peaks corresponding to two transition metal ions, namely, cobalt (3+) and molybdenum (6+).
+During the initial cathodic scan from the OCV (3.4 V), the first reduction peak observed at approximately 2.6 V corresponds to Co3+/Co2+ transition. 
+The second reduction process occurred at about 2.2 V is due to Mo6+/Mo4+ activity that represents two-electron transfer. 
+These two observations are consistent with the first discharge plateaus obtained in the galvanostatic discharge/charge test (inset in Fig. 3).
+The first plateau represents Co3+ reduction and the second one might correspond to Mo6+ to Mo4+ change. 
+During the first anodic scan from 1.5 V (minimum cut off voltage), oxidation of Mo4+ back to the 6+ state appeared in the form of a weak current profile at about 2.65 V. 
+Co2+ to Co3+ change was clearly visible as a sharp oxidation peak at about 2.8 V.
+In the subsequent cathodic scan, the profile showed a reduction process at approximately 2.8 V as defined by the onset of reduction current, while the transition of Co3+ to Co2+ was centered around 2.3 V. 
+A weak reduction current profile observed at approximately 1.9 V defines the transition of Mo6+ to its lower oxidation states. Furthermore, when the cell was charged from 1.5 to 3.5 V, the oxidation of Mo4+ and Co2+ overlapped with each other and appeared as one broadened peak centered at approximately 2.65 V. 
+No further significant changes were noticed in the shape of the CV profile. However, a slight change in the peak height (reduction) was observed in addition to a small shift in the position of the oxidation peak for the rest of the cycles studied. 
+We have reported earlier that the presence of polyanion (MoO4)2− in LixNi2(MoO4)3 shifts the redox potential of the Ni cation. 
+Similar studies were performed by Nanjundasamy et al. on NASICON-related framework compounds such as M2(SO4)3 and LixM2(PO4)3 and they reported that the redox potentials of the M cations are shifted due to the change in the polyanion group. 
+Based on the aforementioned reports, it may be presumed in this case that the presence of molybdate polyanion, (MoO4)2− , in the host framework structure is the possible origin for the distinct feature of the voltammetry curves from the first to the subsequent cycles. 
+These findings are further strengthened by the changes noticed in the shape of discharge/charge curves obtained through galvanostatic cycling test.
+The constant current (galvanostatic) discharge/charge curves of LixCo2(MoO4)3/Li half-cell [0≤x<3] between −1 (discharge) 1.5 and 3.5 V at current densities 2.5 mAh g −1 (charge) are shown in Fig. 3.
+The first and 10 mAh g discharge process of Li+ insertion began at 3.4 V (OCV) and only a negligible amount of Li+ was inserted into the new polyanion material until the potential decreased to 2.7 V from where the discharge curve exhibited two plateaus centered at approximately 2.6 and 2.2 V, respectively (inset in Fig. 3).
+These observations are in good agreement with the reduction peaks found in the CV studies. 
+During the first discharge, approximately 2.4 Li+ per formula unit could be inserted down to 1.5 V leading to Li2.4Co2(MoO4)3. 
+This corresponds to a discharge capacity −1. During the first charge after of approximately 110 mAh g discharge, 1.7 Li+ could be extracted up to 3.5 V with a −1. 
+Based on charge capacity of approximately 75 mAh g the amount of charge extraction, the practical stoichiometry of the material in the charged state could be written as Li0.7Co2(MoO4)3.
+In the subsequent discharge, 2 Li+ could be inserted with a discharge capacity of 90 mAh g−1, and in the following  charge, the practical capacity was 73 mSh g-1 with an extraction of 1.6 Li+. 
+The extended cycling characteristics are clearly presented in Fig. 3 for the 1st, 5th, 10th, 15th, and 20th cycles. 
+It is clear from Fig. 3 that the discharge/charge behavior is similar and that the same trend is reproduced without any noticeable change. 
+It is also observed that the material delivered 72 mAh g−1 discharge capacity in the fifth  cycle, which is 65% of the first discharge capacity. 
+The obtained capacity decreased to 59 mAh g−1 in the 10th cycle  corresponds to 54% of the initial value. 
+The material delivered approximately 50 mAh g−1 capacity at the end of the 20th cycle that is roughly 50% of the discharge capacity obtained in the first cycle.
+Figure 4 presents the discharge capacity vs cycle number for the first 20 cycles. 
+The first reversible discharge capacity for  was approximately 110 mAh g −1. 
+At the beginning, there is a continuous decreasing trend in the amount of Li+ insertion as the cycle number increases. 
+After a few cycles, capacity decline narrows down, and at the end of the 20th cycle, the capacity falls to approximately 50 mAh g-1. 
+Even though LixCo2(MoO4)3 reveals reversible electrochemical Li+ insertion/extraction features, it possesses fundamentally low electronic conductivity resembling the other polyanion materials explored so for owing to the open framework structure. 
+This is considered to be the main limitation in using these materials as lithium-ion storage electrodes for rechargeable batteries.
+To improve the electronic conductivity of LixCo2 (MoO4)3, Li half-cells (nanocomposite cathode/Li) were fabricated and tested under galvanostatic conditions in the potential window 3.5–2.0 V.
+Accordingly, Fig. 5 shows the first discharge/charge curves for the half-cell with the nanocomposite LixCo2 (MoO4)3 positive electrode (with NCB) compared to the first discharge/charge curves for the half-cell with the conventional LixCo2(MoO4)3 positive electrode (without
+NCB) maintaining the same current density values as in the previous case.
+It is noticeable from Fig. 5 that there is dissimilarity between the two cases in terms of IR (ohmic) drop even though the discharge/charge profiles look alike. 
+In the usual case, IR drop at the beginning of the discharge process was large enough and the discharge profile was found to proceed vertically down to 2.7 V from OCV (3.5 V) without any quantitative lithium insertion reaction. 
+This is due to a very low electronic conductivity of polyanion materials, which is a common intricacy preventing the polyanions from practical use. 
+On the other hand, much minimized IR drop in the case of the nanocomposite electrode is well evident in Fig. 5 (inset) and the discharge profile was observed to exhibit an exponential decay with a progressive insertion of lithium in the electrode. 
+It is apparent that the role of NCB is significant in modifying the discharge/charge profiles with much improvement. 
+Furthermore, there is a difference between the two cases in the amount of lithium insertion during discharge. 
+About 2.7 Li+ was inserted in the nanocomposite electrode corresponding to the first discharge capacity of 121 mAh g −1. 
+This value is  larger than the capacity obtained from the conventional −1 for 1.95 composite electrode added with AB (87 mAh g Li+ down to 2.0 V).
+Besides the changes explained above, multiple discharge/charge curves also show such changes for Li+ insertion. 
+As for the shape of the discharge/charge profiles, not much change was noticed between the two cases. 
+Nevertheless, it was observed that the discharge behavior of nanocomposite LixCo2(MoO4)3 is unlike that of usual LixCo2(MoO4)3 with regard to the quantitative amount of Li+ insertion during discharge. 
+The amount of Li+ inserted into nanocomposite cathode during discharge was larger than that in the usual case for all the 20 cycles studied. 
+Figure 6 exemplifies the difference in the quantity of Li+ insertion during the 20th discharge/charge curves corresponding to the conventional and nanocomposite electrodes. 
+In addition, there is a considerable improvement in the charge process, which would help inserting more Li+ in the subsequent discharge.
+The vital role of nanosized high-surface area activated carbon in improving the electrochemical properties of the positive electrode is implicit through these prominent variations monitored in the discharge profile.
+Figure 7 shows the variation in discharge capacity with cycle number corresponding to the usual and nanocomposite LixCo2(MoO4)3 electrodes for the first 20 cycles. 
+The discharge capacity offered by the usual LixCo2(MoO4)3 cathode decreases from 87 mAh g −1  (first discharge) down to 37 mAh g −1 during the 20th cycle. 
+However, nanocomposite electrode retained 66 mAh g-1 discharge capacity at the end of the 20th cycle, which is as high as 55% of the first discharge capacity (121 mAh g  −1). 
+This significant improvement in the discharge capacity retention is certainly the effect of mesoporous carbon besides nanometer-sized grains being present between electrode active grains.
+Although discharge capacity values are significantly higher in the nanocomposite, the capacity was found to fade slowly during repeated cycling similar to the electrode prepared by the conventional method.
+This may be due to the reason that the material loses its structural integrity. 
+Molybdenum has tetrahedral coordination in the NASICON structure, and it is not easy to maintain the reduced oxidation state of Mo4+ or Mo5+ in the tetrahedral coordination. 
+The large size Mo4+ or Mo5+ generally does not adopt tetrahedral geometry. 
+This could perhaps lead to slow structural disruption beyond the insertion of two lithium-ions and thus results in the observed capacity loss.
+More work is in progress to elucidate a suitable mechanism to sustain the capacity of this new material over several cycles by preserving the structural integrity and will be reported elsewhere.
+
+The soft-combustion-derived nanostructured Co2(MoO4)3 is reported for the first time as 3 V class electrode active material for lithium-ion cells. 
+TEM analysis confirmed nanometer-sized spherical grains. 
+SSCV demonstrated the electrochemical reversible insertion/extraction of Li+ over the potential range of 3.5–1.5 V. 
+Galvanostatic cycle test provided quantitative information in terms of Li+ insertion/ removal and capacity. 
+The new nanomaterial delivered a first discharge capacity of 110 mAh g−1 between 3.5 and  1.5 V. 
+The electrode conductivity of LixCo2(MoO4)3 was enhanced by including NCB as a conductive additive in addition to AB. 
+NCB incorporation in the electrode increased the electronic conductivity by enhancing the intactness between the active grains. Consequently, LixCo2(MoO4)3 exhibited improved cycling properties. 
+Despite improvements in cycling characteristics, the discharge capacity was still found to be declining owing to the structural disintegrity of the material upon cycling.
+

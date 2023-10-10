@@ -1,0 +1,4 @@
+We demonstrated a new facile approach to the surface modification of LiCoO2 electrodes by coating with highlyionically conductive NASICON-type ceramic materials.
+The coated electrodes exhibit better electrochemical performance,as quantified by high discharge capacities, largerate capabilities, good cycling performances, and lowcharge transfer resistances when compared with those ofbare electrode materials.
+It is suggested that the ceramic coatings inhibit an increase in charge transfer resistanceand reduce the activation energy for the charge transferto LiCoO2. Ceramic materials, possessing high lithiumion conductivities, are promising candidates for use inthe surface modification of high-energy-density electrodematerials that require high-charge voltages.
+Furthermore,this coating method can be used to improve the electrochemicalperformance of LiCoO2 electrodes with similarcharge/discharge mechanisms.

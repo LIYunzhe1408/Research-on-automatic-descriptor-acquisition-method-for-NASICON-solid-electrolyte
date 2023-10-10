@@ -1,0 +1,330 @@
+
+All-solid-state sodium batteries (Na-ASSBs) are regarded as an ecologic and economical  alternative to their Li congeners for stationary applications. Ceramic-based Na-ASSBs  benefit from the high conductivity of the oxide Na-ion conductors used as electrolyte, as well  as from their good mechanical, chemical and thermodynamic stability. However, so far NaASSBs suffer from severe contact problems in the positive electrodes and subsequently  unsatisfactory cell performance. In this report, the inter-ceramic contact problems are solved  by combining the infiltration of a porous electrolyte scaffold by precursor solution with in  situ synthesis of electrode active material (chemical infiltration) to fabricate model cells using  Na3V2P3O12 (NVP), Na3.4Zr2Si2.4P0.6O12 (NZSP) and Na as the positive electrode, electrolyte  and negative electrode materials, respectively. Optimized interface between NVP nano layer  and NZSP backbone was formed, providing effective ion transfer and minimizing the stress  caused by volume change of electrode active material during charging and discharging  processes. The interface resulted in a highly stable battery performance at 25 °C. The  performances, achieved without using any liquid or polymer phase as an accommodation  medium, suggest a promising future for chemical infiltration as fabrication process for  ceramic-based ASSBs.   
+
+
+
+Fluctuating energy sources, such as solar and wind power, usually need to be combined with 
+
+stationary energy storage systems to guarantee permanent power supply [1-3]. Unlike mobile 
+
+applications, e.g., in cell phones and electric vehicles, systems for stationary applications 
+
+have lower requirements in terms of weight and volume, while they are more sensitive to cost 
+
+and should be scalable up to MW units. These characteristics offer ample scope for sodium-
+
+based batteries, which are less mature than their lithium-based counterparts, but have 
+
+advantages in terms of higher elemental abundance and lower cost of raw materials [2-7]. 
+
+One type of sodium-based batteries, ceramic based all-solid-state sodium batteries (Na-
+
+ASSBs) shows, like other solid-state batteries, advantages with respect to no-leaking 
+
+electrolyte, better adaptation to temperature changes, and a higher volumetric energy density 
+
+than those using liquid electrolyte [8-11]. In addition, ceramic ion conducting oxides, as 
+
+electrolyte materials, offer further benefit from their high conductivity, as well as good 
+
+mechanical, chemical, and thermodynamic stability [8, 12, 13]. Compared with state-of-the-
+
+art high-temperature sodium batteries, the Na-ASSBs do not need temperature control and 
+
+complex protection systems, which are necessary when using molten sodium metal, as in the 
+
+case for the commercialized Na-NiCl2 and Na-S batteries, operating at 300 °C [14, 15]. 
+
+According to the previous reports, ceramic based Na-ASSBs suffer from severe degradation 
+
+after just few cycles [16-18]. In the positive electrodes, contacts between randomly-arranged 
+
+grains of Na-ion conductors and electrode active materials are not efficient for both ion 
+
+conduction and electrochemical reaction [11, 18]. These rigid contacts are further damaged 
+
+by the volume change of electrode active materials during electrochemical cycling [11, 18]. 
+
+The contact problems also occur in Li-based ASSBs, but are reported to be more serious in 
+
+Na-ASSBs due to the larger ionic radium of Na+ compared to Li+, and strongly limit the 
+
+practical application of Na-ASSBs [16-20]. Advanced thin film fabrication has been applied 
+
+to improve the situation by depositing a thin layer of electrode active material on the 
+
+electrolyte surface, but this approach is unfavorable for large-scale applications due to the 
+
+limited mass loading of the active electrode materials [21-23]. Another alternative, the 
+
+application of polymers, in the electrode composites results in flexible interfaces at the cost 
+
+of lower stability, and a higher operation temperature is required due to the lower 
+
+conductivity of polymers. 
+
+In order to solve this problem, we combine the ideas of infiltration with in situ synthesis of 
+
+the electrode material, named here as chemical infiltration. In situ synthesis of the electrode 
+
+material is performed to further improve the interface, which is realized by infiltrating a 
+
+precursor solution and forming the active electrode phase by a chemical reaction on the pore 
+
+walls of the electrolyte. A few former reports in battery research have considered similar 
+
+concepts for the electrode design, but none of them have demonstrated stable cycling 
+
+behavior, since certain required prerequisites with respect to the connecting of phases were 
+
+lacking [28-30]. 
+
+
+We achieved this design with a model system, namely Na3V2P3O12 (NVP), 
+
+Na3.4Zr2Si2.4P0.6O12 (NZSP)[31] and Na as the positive electrode, electrolyte and negative 
+
+electrode materials, respectively. Na-ASSBs using similar materials but based on co-sintered 
+
+mixed electrode have been previously reported and suffer from severe degradation after just a 
+
+few cycles [16-18]. Thanks to chemical infiltration, the batteries fabricated here have 
+
+excellent microstructure and contacts between the electrode material and solid-state 
+
+electrolyte, resulting in effective ion transfer and minimized stress caused by volume changes 
+
+on the active electrode materials during charging and discharging. Full cells prepared using 
+
+this approach show highly stable performance at 25°C with less than 10% capacity fading 
+
+after 100 cycles applying C-rates of 0.1 C and 0.6 C. (n C means the battery is fully charged 
+
+ hours.) This is the first successful example showing that contact problems 
+
+between rigid electrolyte and electrode materials can be solved without using any soft phase 
+
+(liquid, polymers, ionic liquids etc.) as an accommodation or wetting medium. The present 
+
+results confirm the importance of chemical infiltration towards the practical application of 
+
+
+
+
+NZSP powder was synthesized by a solution-assisted solid-state reaction[31, 32], by solving 
+
+NaNO3 (VWR), ZrO(NO3)2 (Aldrich), Si(OCH2CH3)4 (Merck), and NH4H2PO4 (Merck) in 
+
+de-ionized H2O. The mixture was dried at 85 °C and then calcined at 800 °C for 3 h. The 
+
+calcined powder was milled in ethanol with zirconia balls on a milling bench for 48 h and 
+
+then dried at 70 °C for 12 h.  
+
+Part of the NZSP powder was mixed with 10 wt. % rice starch (BENEO-Remy) by ball-
+
+milling in ethanol for 24 h. 0.3-0.4 g NZSP powder and 20-50 mg of the mixture made above 
+
+were put into a cylindrical pressing mold (diameter 13 mm) layer by layer, and then pressed 
+
+into pellets using a uniaxial press with a pressure of 90 MPa. The pressed pellets were 
+
+sintered in air at 1280 °C for 6 h to produce the dense-porous bi-layered NZSP pellets. After 
+
+sintering, the porous layer is about 150-250 µm thick, and the dense layer is about 600-800 
+
+NVP precursor solution was made by mixing ethanolamine (Merck), de-ionized H2O, 
+
+NaH2PO4 (Sigma-Aldrich) and NH4VO3 (Merck) (weight ratio 1:2:0.71:0.46). Drop of the 
+
+solution was deposited onto the surface of the porous layer for infiltration and propagated by 
+
+capillary force. 
+
+The pellets were then heat treated at 740 °C in Ar-4 %H2 for 4 h to form the NVP crystalline 
+
+phase. The infiltration and heating process was repeated 3 times to obtain the desired loading 
+
+of active material and establish continuous electronic pathways. In an infiltrated electrode, 
+
+the volume ratio of NZSP, NVP and residual porosity is approximately 80:15.5:4.5. Au was 
+
+then sputtered on the positive electrodes to serve as current collector. The half cells have 
+
+diameters varying from 9 to 11 mm. Sodium (Sigma-Aldrich) was attached as a foil manually 
+
+to the surface of the dense layer of NZSP in an Ar-filled glove-box. The cells were sealed in 
+
+Swagelok cells after assembling.  
+
+
+
+The charge-discharge behaviors of the batteries were measured using an electrochemical 
+
+testing system (Biologic VMP-300) at the constant temperature of 25 °C in a climate 
+
+chamber (Vötsch, VT4002). In some tests, the voltages were maintained at 3.8 V and 2.8 V 
+
+for 20 minutes after each step of charge/discharge. 
+
+
+
+The amount of active positive electrode material (NVP) was measured after the 
+
+electrochemical testing of the cells. After breaking the cell perpendicular to the electrode 
+
+layer, the concentration of vanadium in pieces was measured by inductively coupled plasma 
+
+optical emission spectrometry (ICP-OES). The specific capacities were calculated based on 
+
+the mass of NVP in the cathode. 
+
+XRD patterns of the co-sintered NVP-NZSP powder mixture were measured using a Bruker 
+
+D8 DISCOVER diffractometer with Cu Kα radiation at room temperature. The powder was 
+
+prepared by mixing NZSP powder (sintered at 1280°C for 6h, then crushed and ball-milled in ethanol with zirconia balls on a milling bench for 24 h) with NVP precursor solution, and 
+
+then the paste-like mixture was heat treated at 740 °C in Ar-4 %H2 for 8 h. In situ XRD 
+
+measurements were performed using the same diffractometer equipped with an in situ cell 
+
+with a Kapton window for X-ray penetration. The crystal structures were analyzed by the 
+
+Rietveld method using FullProf-suite software [33]. Schematic crystal structures (Fig. 1c) 
+
+were illustrated by VESTA software [34]. 
+
+The microstructure of the positive electrodes was investigated by scanning electron 
+
+microscopy (SEM) (ZEISS Merlin) on the cross section polished by an Ar cross-section 
+
+polisher (JEOL, SM-09010). In order to estimate the porosity of the electrode layer, the 
+
+software Analysis pro was used to measure the size of pore area in SEM images. Focused ion 
+
+beam (FEI Helios NanoLab 400S) was used to cut thin lamella from the positive electrode 
+
+part. The lamellae specimens before and after the electrochemical tests were then investigated 
+
+by scanning transmission electron microscopy (STEM) (FEI Titan 80-200 Chemi-STEM), 
+
+which is equipped with a Super-X energy-dispersive X-ray spectroscopy (EDS) system. 
+
+NZSP is sensitive to electron-beam irradiation, making it difficult to carry out high-resolution 
+
+STEM studies of the interface structure. 
+
+
+
+The positive electrode of ceramic based ASSBs is usually prepared by powder mixing of 
+
+electrode and electrolyte materials followed by a co-sintering step [17-19, 35, 36]. Electrodes 
+
+prepared by this method often have a random, dense microstructure with grain and interface 
+
+boundaries originating from the high temperature thermal treatment (as shown schematically 
+
+in Fig. 1a). This leads to non-optimized Na-ion transfer and contact damage caused by 
+
+volume changes of the electrode material during charging and discharging. In addition, the 
+
+co-sintering process frequently leads to incompatible sintering conditions: either the contacts 
+
+are poorly formed at low temperatures or there are chemical reactions of the two materials at 
+
+elevated temperatures, leading to the formation of new, undesired phases. 
+
+A new electrode design (Fig. 1b) can be achieved by adopting chemical infiltration. 
+
+Chemical infiltration is a combination of infiltration and in situ synthesis of the electrode 
+
+material. The method is inspired by the manufacture of solid oxide cells (SOCs), whose 
+
+electrochemical performance also depends strongly on the contact between two ceramic 
+
+materials [37-40]. In the new electrode design, a skeleton of the electrolyte material with 
+
+open porosity is first pre-sintered as a backbone; afterwards, the precursor solution of the 
+
+electrode material is infiltrated and the targeted phase formed by in situ synthesis on the 
+
+accessed pore walls as nano layers. The use of a pre-sintered backbone of electrolyte material 
+
+ensures effective ion transport. Meanwhile, the thin-film design of the positive electrode 
+
+materials and remaining porosity after infiltration can minimize and accommodate the strain 
+
+induced by volume change of the electrode material. In terms of contact between materials, 
+
+the obtained structure combines the benefits of thin-film electrodes and bulk electrodes, by 
+
+enabling a high effectiveness of the electrochemical reaction and reducing the influence of 
+
+volume change during operation, while maintaining scalability. 
+
+
+
+The relationship between current and polarization was investigated for this battery, and gives 
+
+a better indication of the internal resistance than the impedance, because of the complex 
+
+structure of the electrode. The polarization of each cycle was measured by calculating the 
+
+potential difference between the charge and discharge plateaus at a fixed capacity of 30 µAh. 
+
+The potential differences of cycles in stage II were about 22 mV, and comparable to sodium 
+
+batteries using NVP and liquid electrolytes [45]. The currents and potential differences 
+
+showed a strongly linear relation with a slope of 1.1408 (kΩ), corresponding to an internal 
+
+resistance of the battery of about 570 Ω (396 Ω cm2). Hence, the internal resistance was 
+
+much smaller than typical solid-state batteries [36]. Details of this calculation are given in 
+
+
+In principle, the present electrode has comparable energy density to co-sintered mixed 
+
+electrodes and is compatible with commercially available batteries after optimization (see 
+
+calculations in Fig. S7). Although the model cells published here showed excellent 
+
+performance with a robust material contact, they can be further optimized by tailoring the 
+
+amount and morphology of the porosity. An optimum between porosity necessary for 
+
+infiltration and ionic conduction and maximum energy density (related to the amount of active 
+
+electrode material formed) is yet to be found. The chemical infiltration method has the 
+
+potential to be scaled up to larger areas to achieve a faster throughput and can be further 
+
+improved by designing the microstructure of the scaffold, as well as reducing the thickness of 
+
+the electrolyte layer, using previously developed techniques [29, 53, 54]. 
+
+
+By employing an infiltration method of porous electrolyte scaffold with precursor solution, 
+
+bulk-type NVP-NZSP-Na ASSBs have been realized for the first time showing excellent 
+
+cycling performance at room temperature. The resulting Na-ASSBs have good specific 
+
+capacity of the active positive electrode material (>95 mAh g-1) and high Coulombic 
+
+efficiency (>99 %). The design and fabrication of positive electrodes optimize the NZSP-
+
+NVP interface structures, providing effective ion exchange and minimizing the stress caused 
+
+by volume change of electrode active materials. As a result of the ideal interface structures, 
+
+the batteries have low internal resistance and possess stable performance with slow capacity 
+
+fading (<10 % after 100 cycles). Our results are an important step towards the practical 
+
+application of Na-ASSBs, demonstrating an excellent strategy for designing ideal solid-solid 
+
+interfaces and providing a breakthrough for the fabrication of ceramic-based ASSBs including 
+
+the lithium analogues. 

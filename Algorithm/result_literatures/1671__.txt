@@ -1,0 +1,65 @@
+In these potentiometric sensors, a mixed binary carbonate sensing material consisting of 90 mol% Li2CO3 and 10 mol% BaCO3 wasmodified by adding ceramic oxide materials such as SiO2, B2O3, La2O3, Bi2O3, CeO2 and In2O3 in different mol% concentrations.
+Varioussensors mixed with these external oxides have shown good performance at operating temperatures below 300 C.
+Scanning electronmicroscopy reveals that a glassy sensing phase is formed in the sensing bi-carbonate by the addition of ceramic oxides and sinteredat 600 C for 1 h.
+The sensor mixed with SiO2:B2O3:Bi2O3 in 1:2:1 mol% showed an excellent response and recovery characteristicsand followed a fair Nernstian behavior with a DEMF/dec value of 48.18 at as low as 150 C.
+The decrease in operating temperatureis attributed to the enhanced lithium ion migration through the glassy sensing phase of the sensing electrode.
+There has been a lot of demand for the detection andcontrol of air pollution arising from various fields likeindustrial, automobile etc.
+, and causing adverse effects onglobal environment.
+Semiconducting type gas sensors arevery prominent to detect various pollutants of atmospherelike CO, NOx and SOx.
+However, for CO2 gas detection,solid state potentiometric sensors have been greatly investigateddue to their high performance and simple structure.
+Potentiometric devices combining a solid electrolytewith an auxiliary phase of carbonate are eminently suitedfor practical applications .
+Lithium electrolyte based sensorsare known to be promising due to their faster and less water reactive nature of the lithium ion than any otheralkali metal.
+It has been reported that the enhancedsensing properties of the sensor may be achieved by replacingthe single carbonate sensing electrode with a binary carbonatesystem.
+However, there is still much need fordeveloping new sensing materials and patterns that areconsistent to work at low operating temperatures.
+In order to suppress the drift phenomena and improvethe stability of the electrolyte in synthetic air as well as100% CO2, a melt of Na2O–Al2O3–4SiO2 was mixed inYSZ electrolyte by Okamoto et al.
+Similarly, Obataet al. improved the CO2 sensing properties of NASICONand In2O3 potentiometric CO2 sensor againsthumidity disturbance by introducing Na3PO4, NaHCO3and Na2CO3 as single components or combinations thereof.
+Recently, composite type NASICON potentiometricsensors combined with foreign metal oxides have attainedgreat importance in view of room temperature operation.
+The feasibility under various practical conditionswas obtained in case of a NASICON thick film CO2 sensormixed with a glass (SiO2:Na2O:B2O3:Al2O3 = 44:20:31:5,in molar ratio) coated Na0.6CoO2 reference electrode .
+In this paper, we present the characteristics of Lithiumion based potentiometric CO2 sensor mixed with SiO2,B2O3 ceramic oxides and metal oxides like Bi2O3, La2O3,In2O3, and CeO2 to the sensing electrode with a view toreduce the operating temperature drastically.
+
+Li3PO4 mixed with SiO2 was used as electrolytematerial and Li2TiO3 mixed with TiO2 was used asreference material.
+An electrolyte pellet of 12 mm diameterand 1 mm thickness was prepared by isostatically pressingat 200MPa pressure and sintered at 800 C for 8 h.
+Auelectrodes were fixed both sides of the pellet on the homogenouslyapplied Au paste and annealed at 700 C for 1 h.
+Reference and sensing material pastes were applied oneither side of the pellet and sintered at 700 and 600 C,respectively for 1 h.
+The sensor experiments were carried out in typical conventionalgas flow apparatus as shown in Fig.1. 
+Differentconcentrations of CO2 in the range from 500 to 5000 ppmat the sensing electrode were obtained by using CO2 andsynthetic air mixture combined together in different ratiosby mass flow controllers regulated by a computer.
+The flowrate of the out going gas after mixing air was always maintainedat 200 sccm (RH 7.7%).
+The electromotive force,EMF, of the sensor was measured by a two probeHP34401A multimeter of high impedance (above 10 GX)connected to a computer via HP 34812 A Benchlink software for data acquisition.
+Scanning electron microscopy(FE-SEM, Hitachi S-4700) was used to observe the surfaceand morphology of sensing electrode after the addition offoreign oxides.
+The surfaces of the sensing electrode of various sensorswere modified by the introduction of glassy ceramic oxidessuch as SiO2 and B2O3 in combination with various metaloxides like Bi2O3, La2O3, In2O3 and CeO2 in 1:2:1 mol%.
+Itis observed that the addition of foreign ceramic oxides inthe sensing material drastically decreased the operatingtemperature of the CO2 sensors.
+Fig.2 shows the EMFas a function of CO2 concentration for various oxidesadded sensors at 300 C.
+All the sensors followed a goodNernstian behavior.
+The EMF is linearly dependent tothe logarithm of CO2 concentration in the test range from500 to 5000 ppm.
+It can be observed from the figure thatthe sensor mixed with bismuth oxide has shown the highestabsolute EMF value of 161 mV, while the indium oxideadded sensor has shown the lowest EMF value of79.5 mV at 500 ppm CO2 concentration.
+The sensors responsebehavior to CO2 was observed with decreasingoperating temperature.
+Fig.3 shows the over all tendencyin terms of n value as a function of operating temperaturefor Bi2O3, La2O3, CeO2, and In2O3 added (Li2–Ba)CO3sensors between 150 and 300 C.
+It is observed that Bismuthoxide added sensor has shown a very consistentbehavior between the low operating temperatures from200 to 300 C.
+Further, it has shown an excellent performanceeven at a lower temperature of 150 C than anyother sensor.
+It is worth noting that In and La, Ce oxideadded sensors did not show any response to CO2 below250 and 200 C operating temperatures, respectively.
+Similarly, the observed n value for Bi, La, Ce and Inoxide sensors at 300 C are 2.58, 3.58, 4.57 and 2.75,respectively.
+Of the above, Bi and In have shown n valuenear to the theoretical value of 2 at 300 C.
+The observedn values of the respective sensors at 250 C are 2.66, 2.94,4.15 and 4.76. 
+At this temperature though the performanceof the Ce oxide sensor was improved, La and In oxide sensorshave shown lower sensitivity than Bi oxide added sensor.
+Moreover, the performance of the Bi and La oxidesensors was similar at 200 C with a corresponding n valueof 2.62 and 2.39, even though the performance of the Cesensor was deteriorated with an n value of 3.47.
+Fig.4 shows the response and recovery characteristics ofthe 10 mol% SiO2:B2O3:Bi2O3 added (Li2–Ba)CO3 potentiometricCO2 sensor at 150 C operating temperature.
+The sensor has shown an excellent response and recovery at150 C contrary to La and Ce sensors.
+The sensor EMFvariation as a function of CO2 concentration is shown inFig.5. 
+The measured EMF of the sensor is linear withthe logarithm of CO2 partial pressure between 500 and5000 ppm test range.
+It has shown a fair Nernstian behaviorwith an DEMF/dec value of 43.18 than that oftheoretical value 41.91 at 150 C.
+The experimentallyobtained n value of the sensor is 1.94 which is very closeto the theoretically calculated value of 2. 
+The time takenby the sensor to reach a change in 90% CO2 concentrationis about 3 min.
+Moreover, the sensor has also shown goodrepeatability of the response and recovery characteristicsthough the variation in signal noise is about 3%.
+Hence,the sensitivity and recovery characteristics of the Bi addedCO2 sensor are fair for practical applications and the sensoris more suitable for ease of mass production due toits low operating temperature (150 C), which eliminates the heater circuit problems that evolve in the process ofthin film micro sensor fabrication.
+The operating temperature of these sensors was remarkablydecreased below 300 C by the addition of foreignceramic oxides to the sensing bi-carbonate .
+However,the reason why only Bi added sensor has shown an excellentbehavior at operating temperature as low as 150 Ccould be explained.
+The addition of 10 mol% SiO2:B2O3:Bi2O3 mixed oxide (1:2:1 mol%) to the (Ba–Li2)CO3 sensingbi-carbonate lead to the formation of a glassy sensingphase with a low glass transition temperature (Tg) inthe sensing electrode.
+The SEM image depicting the glassysensing phase formation in the sensing electrode of SiO2:B2O3:Bi2O3 added Li2CO3–BaCO3 CO2 sensor is shownin Fig.6. 
+The glassy sensing phase is the combination ofSiO2:B2O3:Bi2O3–Bismuth borosilicate glass and (Li2–Ba)CO3 carbonates.
+Due to the low Tg nature of the glassyphase, it facilitates the electron/ion migration easilythrough the glass network even at low operating temperatures.
+Moreover, Bi ion being more polarizable than boron,it also facilitates Li+ migration in ionic networks.
+And thepresence of B2O3 and Bi2O3 exhibit higher conductivity dueto mixed-glass former effect by modifying the glass networkand makes it more favorable for lithium ion mobility .
+This effect may be responsible for the improved electrochemicalstability of the Bi added sensor at low operatingtemperatures.
+A low temperature Lithium based potentiometric CO2sensor has been developed by modifying the surface of the Li2CO3–BaCO3 sensing electrode with various externalceramic and metal oxides.
+The sensors mixed with SiO2,B2O3, and Bi2O3, La2O3, In2O3, CeO2 in 1:2:1 mol% tothe sensing bicarbonate have shown excellent performancebelow 300 C.
+However, it is observed that the SiO2:B2O3:Bi2O3 modified sensor has shown a fair Nernstian behaviorand good response and recovery characteristics at operating temperature as low as 150 C, which may be due tothe enhanced ion migration through the formed glassy phase in the sensing electrode.

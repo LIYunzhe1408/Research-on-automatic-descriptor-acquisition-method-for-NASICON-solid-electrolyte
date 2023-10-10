@@ -1,0 +1,72 @@
+This study describes the assembly of a rechargeable seawater battery using hard carbon as the anode,seawater as the cathode, and a fast Na ion-conducting ceramic as the solid electrolyte.
+
+Two different Naion-conducting ceramics, b00-Al2O3 and Na3Zr2Si2PO12 (NASICON), are used as the solid electrolytes inthis study.
+
+The discharge capacity of the seawater battery with the NASICON solid electrolyte is120 mAh g1 after the first cycle and over 91% coulombic efficiency after twenty cycles.
+
+However, underthe same experimental conditions, the discharge capacity of the seawater battery with a b"-Al2O3electrolyte significantly drops to 10 mAh g1 after one cycle.
+
+It is observed that the stability of NASICON inseawater is superior to that of b"-Al2O3 and impedance results of NASICON are not changed significantlycompared to that of b"-Al2O3 after cycling tests.
+
+The stability of Na ion-conducting ceramics in seawaterand their effects on the electrochemical performance of seawater batteries are presented and discussed.
+
+Environmental concerns over the use of fossil fuels and theirresource constraints have motivated the development of electricand renewable energy systems for portable electronic devices,electric vehicles (EVs), and energy storage system (ESS).
+
+Rechargeable lithium-ion batteries (LIBs) have been successfully commercialized for mobile electronic devices and EVs, but have foundlimited use in ESSs due to their high cost.
+
+Moreover, the increasingdemand for LIBs combined with possible lithium resourcerestrictions might lead to a prohibitive price for these batteries[1–3].
+
+Thus, many scientists are exploring alternative batterytechnologies in which lithium is replaced by sodium becausesodium is naturally abundant, easily accessible, and low cost [4–6].
+
+Rechargeable seawater batteries have been recently introducedas a result of requests for new ESSs that use sodium [7–9].
+
+Thesebatteries are built using a fast Na ion-conducting ceramic as thesolid electrolyte.
+
+A solid ceramic electrolyte is one of the keycomponents in a seawater battery system because the sodiummetal electrode can be protected from direct exposure to seawater.
+
+The feasibility of a rechargeable battery system using seawater asan electrode material has been demonstrated [9].
+
+However, it isexpected that the capacity, reliability, and coulombic efficiency ofseawater batteries will depend on the stability of the solidelectrolyte in seawater.
+
+Two Na ion-conducting ceramics, b00-Al2O3and Na3Zr2Si2PO12 (NASICON), have been considered as solidelectrolyte materials.
+
+b00-Al2O3 possesses a two-dimensional(2D)structure, and exhibits Na ion conductivity up to 2.0 103Scm1 at room temperature [10].
+
+NASICON has demonstrated anionic conductivity of 2.5 103 Scm1 [11] in a three-dimensional(3D) structure [12–14].
+
+ b00-Al2O3 is known to be moisturesensitive.
+
+Will [15] reported that there is a rapid exothermicocclusion of water in the surface micropores of b00-Al2O3, whichcaused saturation of these pores in less than 1 h.
+
+This was followedby slow diffusion of H3O+ ions into the b00-Al2O3 lattice leading toion exchange with sodium.
+
+ Water absorption caused changes in lattice parameters a and c of b"-Al2O3 [16].
+
+In contrast, NASICON-type materialsare known to be stable in a moist environment.
+
+However, it waslater found that the formation of hydronium NASICON [17]occurred on the surface of NASICON by ion exchange betweenH3O+ and Na+ [18] during the reaction of NASICON in hot water.
+
+Itwas also reported that NASICON's instability in water could be dueto the dissolution of a secondary amorphous phase, Na3PO4, inNASICON [19].
+
+However, most of these studies were conductedusing NASICON powders at a high temperature of 80 C toaccelerate its reaction with water so that comparative results couldbe collected in a short time.
+
+For seawater batteries operating atroom temperature, dense ceramic plates are required for theelectrolyte and separator, but their stability in contact withseawater and its effect on seawater battery performance have notbeen reported.
+
+In this study, we used two different solid electrolytes, b00-Al2O3and NASICON, in seawater batteries at room temperature.
+
+Theceramic electrolytes exposed to seawater during cycling werecollected after testing, and their stability in seawater and its relatedseawater battery performance were compared to understand theirinfluence on the seawater battery system.
+
+A seawater battery was assembled, and two different fast Naion-conducting ceramics, b"-Al2O3 and NASICON-type, wereinvestigated as the solid electrolyte for a seawater battery.
+
+Theirstability in seawater is crucial for the electrochemical performanceof the seawater battery.
+
+Since b"-Al2O3 allows protonated speciesof H3O+ to move through its conduction plane into the anode sideof the seawater battery, a reasonable electrochemical performancehas not been observed in the seawater battery containing ab"-Al2O3 solid electrolyte.
+
+On the other hand, the efficiency of aseawater cell using NASICON was over 91% after 20 cycles, becausethe NASICON electrolyte has been shown to be more stable inseawater without a big change compared to b"-Al2O3 electrolyte.
+
+Itwas found that the performance of the seawater battery criticallydepends on the chemical stability of the solid electrolyte inseawater.
+
+Therefore, a solid electrolyte with better chemicalstability and Na-ion conductivity will be required for furtherdevelopment of the seawater battery.
+
+Although long-term cycleperformance of seawater battery cells can be still problematic, thepreliminary results of this work shows that, with furtherdevelopment of solid electrolytes, the seawater battery is a newand attractive concept for large-scale stationary EESs.
+

@@ -1,0 +1,294 @@
+The  all-solid-state  Li-air  battery  has  been  fabricated,  which  is  constructed  by  a 
+
+lithium  foil  anode,  a  NASICON-type  solid  state  electrolyte  Li1+xAlyGe2-y(PO4)3  (LAGP)  and 
+
+single-walled  carbon  nanotubes  (SWCNTs)/LAGP  nanoparticles  composite  as  air  electrode. Its 
+
+electrochemical  performance  was  investigated  in  air  atmosphere.  Particularly,  this  battery 
+
+exhibited a larger capacity about 2800 mAh g-1 for the first cycle while comparatively the battery 
+
+with multi-walled carbon nanotubes (MWCNTs)/LAGP as cathode had a capacity of only about 
+
+1700  mAh  g-1.  Also,  the  battery  with  SWCNTs/LAGP  showed  improved  cycling  performance 
+
+with  a  reversible  capacity  of  1000  mAh  g-1  at  a  current  density  of  200  mA  g-1.  Our  result 
+
+demonstrated that the all-solid-state Li-air battery with SWCNTs/LAGP as cathode catalyst has a 
+
+considerable potential for practical application. 
+
+The Li-air battery has attracted worldwide attention due to its extremely high 
+
+theoretical  energy  density,  according  to  the  reactions  of  lithium  peroxide’s  forming  and  de-
+
+forming (2Li + O2 ↔ Li2O2). After the pioneering work of the Li-air battery  in 1996, intensive 
+
+works are mainly focused on the research of non-aqueous Li-air batteries with a typical structure 
+
+of  Li  anode|organic  electrolyte|air  electrode.1  However,  there  remain  many  problems  related to 
+
+non-aqueous  Li-air  batteries,  among  which  some  arise  from  the  application  of  organic  liquid 
+
+electrolytes.2-5 For example, the decomposition of alkyl carbonate electrolyte during discharging 
+
+resulted  in  the  formation  of  undesirable  reactants,  which  accumulated  on  the  surface  of  the 
+
+cathode  and  finally  resulted  in  the  deterioration  of  battery  performance.3  Besides,  this  kind  of 
+
+battery  has  safety  hazards  owing  to  the  flammable  and  toxic  properties  of  liquid  organic 
+
+electrolyte.  In order to  solve  this  problem,  inorganic  solid  state  electrolytes  are  introduced  into 
+
+the structure of Li-air batteries.6-11 Substituting inorganic electrolyte for organic solid electrolytes 
+
+can  avoid  side  reactions  caused  by  organic  electrolytes  during  electrochemical  process. 
+
+Moreover, inorganic solid electrolytes can effectively protect Li metal anode from CO2 and H2O 
+
+in  ambient  air,  and  non-volatile  solid  electrolytes  seems  more  applicable  to  long-term  use  than 
+
+liquid electrolyte. 
+
+Our previous work reported an all-solid-state Li-air battery with the structure of Li metal anode, 
+
+
+a double-layer electrolyte containing a polymer electrolyte and an inorganic solid electrolyte, and 
+
+an  air  electrode  composed  of  MWCNTs  and  solid  electrolyte  particles.10  In  this  work,  the 
+
+polymer membrane was used to avoid LATP directly contacting with Li metal, in order to protect 
+
+Ti4+  from  being  reduced  to  Ti2+  by  lithium.  However,  the  additional  polymer  electrolyte 
+
+introduced  interfacial  resistances  between  Li/polymer  and  polymer/LATP  and  it  also  increased 
+
+the  total  resistance  of  the  cell.  Thus,  further  optimized  designs  for  the  all-solid-state  Li-air 
+
+battery  abandon  the  buffering  polymer  membrane,  and,  instead,  an  inorganic  solid  state 
+
+electrolyte  is  directly  attached  to  Li  metal.11  Here,  the  inorganic  solid  state  electrolyte  is 
+
+supposed  to  be  chemically  stable  against  the  reaction  with  Li  metal.  NASICON-type  material 
+
+lithium  aluminium  germanium  phosphate 
+
+(Li1+xAlyGe2-y(PO4)3,  LAGP)  has 
+
+received 
+
+considerable attention as  solid state electrolytes for secondary lithium batteries.12-14 In the LAGP 
+
+ceramics, Al3+ substitution  for Ge4+ introduces additional  lithium  in the structure and  improves 
+
+the  total  lithium  ion  conductivities.  In  addition,  the  LAGP  ceramics  exhibit  good  and  relative 
+
+stability  in  air  atmosphere  and  in  contact  with  Li  metal,  respectively.  Moreover,  LAGP  has  an 
+
+electrochemical window as high as 6 V (vs. Li/Li+).14 Based on the high lithium ion conductivity, 
+
+wide  electrochemical  window,  good  chemical  stability  in  air  and  relative  chemical  stability 
+
+against lithium, LAGP  ceramics are very applicable to  fabricating all-solid-state Li-air batteries 
+
+with superior electrochemical performance. From this point of view, another all-solid-state Li-air 
+
+battery  with  the  structure  of  Li  anode,  LAGP  solid  state  electrolyte  and  composite  cathode 
+
+consisting  of  MWCNTs  and  LAGP  nanoparticles  was  fabricated.  This  battery  showed  relative 
+
+small  resistance  and  much 
+
+improved  electrochemical  performance  compared  with  the 
+
+aforementioned  battery.  In  this  paper,  we  constructed  a  composite  air  electrode  composed  of 
+
+single-walled  carbon  nanotubes  and  LAGP  nanoparticles.  SWCNTs  are  known  as  good 
+
+
+electronic conductors with  large surface area (See Supporting Information  Figure S1) and have 
+
+been  investigated  as  cathode  catalysts  in  non-aqueous  Li-air  batteries.15-19  Besides,  it  has  been 
+
+reported that SWCNTs are prone to adsorb oxygen and hence have higher electrical conductance, 
+
+which  may  improve the electrochemical performance of the cell.16 Moreover, SWCNTs  have  a 
+
+better  crystallinity  and  less  defects  compared  with  MWCNTs,  which  can  reduce  side  reactions 
+
+during electrochemical processes. As a result, SWCNTs are supposed to be properly mixed with 
+
+LAGP nanoparticles, in order to provide mixing channels for electrons and lithium ions.7-11  
+
+
+
+The  all-solid-state  Li-air  battery  was  assembled  by  following  procedures.  The  NASICON-type 
+
+lithium  ion  conductor  Li1.5Al0.5Ge1.5(PO4)3  was  synthesized  by  a  conventional  solid-state 
+
+reaction.11  The  powder  of  LAGP  was  pressed  into  a  pellet  with  a  diameter  of  19  mm  and  a 
+
+thickness of about 1.0 mm. This pellet was sintered at 900 ℃ for 6 h. The calculated total lithium 
+
+ionic  conductivity  of  the  sintered  LAGP  ceramic  was  about  2×10-4  S/cm  (See  Supporting 
+
+Information  Figure  S2).  The  air  electrode  was  constructed on one  side  of  the  pellet  as  follows. 
+
+SWCNTs and LAGP nanoparticles with a weight ratio of 10 to 100 were high-energy ball milled 
+
+at  a rate of  700  rpm  for  2  h,  and  then  dispersed  into  solution  composed  of  5%  polyvinylidene 
+
+fluoride  and  95%  N-methyl-2-pyrrolidone.  The  solution  was  uniformly  painted  on  one  side  of 
+
+LAGP  pellet  and  heated  at  700  ℃  for  10  min  in  Ar  atmosphere.  The  mass  of the  air  electrode 
+
+was about  0.5 mg. An Al  mesh was used as the current  collector. The lithium  metal was  firstly 
+
+melted  and  then  thermally  adhered  with  a  Cu  current  collector  to  the  other  side  of  the  LAGP 
+
+ceramic  pellet  as  the  anode.  Scheme  1  presents  a  schematic  diagram  of  the  proposed  all-solid-
+
+state  Li-air  battery.  In  the  battery,  the  composite  electrode  is  exposed  to  air  atmosphere,  while 
+
+other parts of the battery are actually sealed by a plastic film to avoid the influence of air. In this 
+
+work, the electrochemical performance of the all-solid-state Li-air battery was all investigated in air.
+
+
+Figure 1 shows the TEM pattern of SWCNTs incorporated with LAGP nanoparticles in the range 
+
+of  100   200  nm.  It  is  revealed  that  the  SWCNTs  are  distributed  closely  on  the  LAGP  particle 
+
+surface. The solid electrolyte LAGP  was confirmed  by the Rietveld refinement of XRD pattern 
+
+in  Figure  S3.  The  diffraction  peaks  corresponding  to  LiGe2(PO4)3  phase  were  observed,  which 
+
+can be attributed to the similar ionic radii of Ge4+ and Al3+. The LAGP nanoparticles were used 
+
+as lithium ion conduction paths incorporated with SWCNTs, which provide channels for electron 
+
+Figure  2.  The 
+
+first  discharge-charge  curves  of  all-solid-state  Li-air  batteries  with 
+
+SWCNTs/LAGP  and  MWCNTs/LAGP  as  air  electrodes  at  a  current  density  of  200  mA  g-1 
+
+according  to  weight  of  SWCNTs  or  MWCNTs,  and  the  cutoff  voltages  were  set  as  2  V  for 
+
+discharging and 5 V for charging.  
+
+As  shown  in  Figure  2,  it  can  be  clearly  seen  that  the  all-solid-state  Li-air  battery  with 
+
+SWCNTs/LAGP  has  got  a  larger  specific  capacity  about  2800  mAh  g-1  compared  with  that 
+
+containing MWCNTs/LAGP, which may be attributed to the good electronic properties and large 
+
+surface  area  of  SWCNTs.  Moreover,  on  discharging,  the  battery  with  SWCNTs/LAGP  had  a 
+
+plateau  about  2.7  V,  and  its  discharging  overpotential  was  obviously  smaller  than  that  with 
+
+MWCNTs/LAGP, which seems to be related to the good ORR catalytic behaviour of SWCNTs. 
+
+On charging, the curves can be cut into three parts. The  first part had a plateau at 3.45 V below 
+
+500 mAh g-1, and then it slowly increased to 4.9 V when at the same time the capacity reached 
+
+about 2000 mAh g-1. Correspondingly, the two parts were believed to be related to the oxidation 
+
+of  the  LiOH  (hydration)  and  Li2O2.18,19  Since  the  air  electrode  was  exposed  to  ambient  air,  it 
+
+cannot be avoided that the LiOH and Li2O2 reacted with CO2 to form Li2CO3. Therefore, for the 
+
+third  part  with  a  platform  at  about  4.9  V,  it  was  considered  to  be  related  to  the  oxidation  of 
+
+The  first  discharge  and  charge  curves  with  a  specific  capacity  of  1000  mAh  g-1  at  a  current 
+
+density of 400 mA g-1 (according to the mass of SWCNTs) were presented in Figure 3(a), where 
+
+the discharge curve had a plateau of about 2.65 V. The charge curve firstly increased from 3.2 V 
+
+to  3.5  V,  and  then  slowly  charged  to  about  4.5  V.  On  contrast,  two  obvious  plateaus  were 
+
+observed  when  LAGP  and  MWCNTs  were  used  as  components  of  the  air  electrode  in  our 
+
+previous work.11 It is suggested that SWCNTs with better crystallinity and less defects may have 
+
+less  side  reactions  compared  with  MWCNTs  and,  as  a  result,  no  obvious  two  plateaus  were 
+
+noticed.  Besides,  the  electrochemical  impedance  spectra  (EIS)  were  investigated  when  the  cell 
+
+was  discharged  to  two  depths  (B)  and  (C),  500  mAh  g-1  and  1000  mAh  g-1,  respectively.  In 
+
+Figure  3(b),  the  impedance  spectra  showed  that  only  one  semicircle  was  observed  in  high 
+
+frequency  and  by  fitting  the  data  with  an  equivalent  circuit,  where  Rct  represented  the  charge 
+
+transfer resistance and  it slightly  increased the cell resistance during discharge.  The  fitting data 
+
+of Rct was presented  in Table S1.  Then, the cell  was  recharged to two depths (D) and (E), 500 
+
+mAh g-1 and 1000 mAh g-1, respectively. When charged to 500 mAh g-1, there was little change 
+
+in  the  cell  resistance  and  only  one  semicircle  was  observed.  Similar  behaviour  was  also 
+
+presented  in Point (E). This suggested that the air electrode was relatively stable, which can  be 
+
+attributed to the better crystallinity and good catalytic property of SWCNTs.  
+
+
+In order to investigate the cycling performance of the all-solid-state Li-air battery. The cell was 
+
+discharged  and  charged  between  2.0  and  5.0  V  under  a  current  density  of  400  mA  g-1,  and  the 
+
+capacity  was  limited  to  1000  mAh  g-1.  Figure  4(a)  depicts  the  cycle  profiles  of  the  cell,  which 
+
+was recharged over 10 cycles.  The superior cycling performance of the cell may be related to the 
+
+good electronic properties and large surface area of the SWNTs.15,16 Besides, the well-intergrated 
+
+tunnels  for  both  electrons  and  ions  of  the  composite  air  electrode  were  also  important  for  the 
+
+improved performance.7-11 Last but  not the least, the  presence of H2O  in air atmosphere, which 
+
+enhanced  the  electronic  conductance  and  contributed  to  the  improved  electrochemical 
+
+process.20,21  Moreover,  it  is  exhibited  in  figure  4(b)  that  the  discharge  curves  had  a  plateau  at 
+
+about  2.65 V for the first cycle, which had an average charging voltage of about 3.97 V. Then, 
+
+with  the  cell  cycling,  the  discharging  voltage  decreased  gradually  from  2.65  V  to  2.32  V.  
+
+Interestingly,  the  terminal  of  charge  curves  firstly  increased  and  reached  a  maximum  value  of 
+
+about 4.8 V at the fourth cycle. Later it decreased to only 4.65 V at the tenth cycle. However, the 
+
+overpotentials of discharge and charge processes both slowly increased, which may be attributed 
+
+to accumulation of Li2CO3 on the surface of the cathode due to the exposure to air.   
+
+CONCLUSION:  In  summary,  we  proposed  an  all-solid-state  Li-air  battery  composed  of  a  Li 
+
+metal foil anode, a NASICON-type solid electrolyte LAGP, and SWCNTs/LAGP as air electrode. 
+
+The good electronic properties, large surface area and better crystallinity of SWNTs benefit the 
+
+electrochemical process. This all-solid-state Li-air battery showed a larger capacity of 2800 mAh g-1 
+
+for  the  first  cycle  discharge  than  that  with  MWCNTs/LAGP.  The  cell  exhibited  a  good  cycling 
+
+performance  with  a  limited  capacity  of  1000  mAh  g-1  at  a  current  density  of  400  mA  g-1. 
+
+However,  because  of  the  influence  of  CO2  and  H2O,  the  electrochemical  process  in  air 
+
+atmosphere  may  be  largely  different  with  that  in  pure  oxygen  atmosphere.  Obviously,  the  air 
+
+electrode  also  needs  to  be  further  optimized  in  order  to  construct  a  three  dimensional  network 
+
+and more effective catalysts suitable for all-solid-state Li-air batteries are equally required.  
+
+The nitrogen adsorption-desorption isotherm of SWCNTs 
+
+and MWCNTs. Electrochemical impedance spectra of the LAGP pellet. Rietveld refinement of 
+
+XRD pattern of LAGP. This material is available free of charge via the Internet at 
+

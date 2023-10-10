@@ -1,0 +1,128 @@
+The leaching of Na  27) ions from NASICON of composition Na3Zr2Si2PO12 to the aqueous solution was evidenced. The origin of the Na 27) leaching was studied using Na 27) concentration and pH measurements as well as solution and X-ray analyses. The Na  27) released was mainly attributed to the dissolution of a second phase, predominantly amorphous. The rate of Na  27) release was found to be dependent on the inverse of the square of the particle size. It is proposed that it is controlled by diffusion within the particle. An effective diffusion coefﬁcient was deduced to be of the order of 5 29)10 28) 10 cm2 s  28) 1. The nature of the detection limit of the NASICON based Na  27) ion selective electrodes is discussed. © 1999 Elsevier Science B.V. All rights reserved.
+
+Keywords: NASICON; Ion selective electrode; Detection limit
+
+Since the work of Hong and Goodenough [1,2], a NASICON of formula Na3Zr2Si2PO12, has been proposed for many electrochemical devices, e.g. batteries and electrochemical sensors. NASICON stands for ‘Na Super Ionic Conductor’. It consists of ZrO6 octaedra linked by corners to (Si,P)O4 tetrahedra. This rigid oxide network forms a three
+
+lattice of dimensional intersecting conduction channels in which are localized the Na 27) ions. For migration, the Na 27) ions must pass through ‘bottlenecks’ well adjusted to the size of the Na  27) ions. This material was proposed as the sensitive membrane for the analysis of Na  27) ions in solutions [3–5]. Compared to commercially available glass electrodes, the main advantages of NASICON based ion selective electrodes (ISE) are low impedance, robustness and better selectivity with regard of H 27), Li 27) and K 27) ions, due to the well calibrated size of the conduction sites [6]. However, the detection limit is only of the order of 10 28) 4 M, that is almost ten times higher than that of glass membranes at pH 8. It is generally ac-
+
+cepted that the detection limit of ISEs is governed by the solubility of the membrane or leaching out of the active ion originating from ionic exchange or dissolution. It can also be due to proton interference, as seen in silica glass membranes. Recently, the detection limit of carrier-based ISEs was related to the extraction of the inner electrolyte leading to a net ﬂux of ions from the inner ﬁlling solution to the sample solution [7]. In the case of NASICON, the proton interference is lower than in glass electrodes and transmembrane electrolyte diffusion cannot occur. The origin of the detection limit is still not well understood.
+
+In the 1980s, NASICON was reported to be insensitive to degradation by moisture and stable in water, contrary to b alumina [8,9]. About 10 years ago, Ahmad et al. [10] had revised this point and showed that all NASICON, irrespective of their mode of preparation, react with water to some extent. According to these authors, the materials prepared by a ball-milling process were found to react faster than those prepared by gel processing. An exchange of sodium for hydronium ions in acid aqueous solutions was also shown on NASICON, at room temperature [11]. The results from these authors indicate that NASICON strongly prefers Na 27) ions relative to H3O 27) ions. Impedance studies performed on NASICON demonstrate the NASICON– aqueous NaCl interface changes as a function of time [12], whereas the interface between NASICON and polyethylene oxide based ionic polymer is very stable [12,13]. This would suggest that NASICON reacts with water. Previous studies of the stability of such material in water [5] have shown that Na  27) ions were released from the NASICON. Two phenomena were proposed: (i) a solubility product effect, and:or (ii) sodium exchange by the proton.
+
+The purpose of this study was to examine further the behavior of NASICON in contact with water in order to identify the origin of the Na 27) leaching and to interpret the detection limit in NASICON based ISE. Solutions of suspended NASICON powder were studied as a function of the purity of the sample. The kinetics of Na  27) leaching was evaluated as a function of the size of the particle. The results are discussed in terms of
+
+ionic exchange or dissolution. They were analysed with respect to the detection limits previously determined [5].
+
+NASICON of composition Na3Zr2Si2PO12 was prepared by the sol-gel process as previously destarting materials were scribed (VENSi(OC2H5)4 TRON), NaOH (R.P. and NH4H2PO4 (R.P. NORMAPUR). The sol-gel powder was calcined at 1000°C in air. It is well known that sintered NASICON may show the presence of second phases. The purity of the samples was checked by X-ray diffraction (XRD). Single phase NASICON powders as determined from XRD were tested. NASICON powders containing different amounts of monoclinic zirconia as second phase were also tested for comparison.
+
+The diameter of the particles was measured with a particle size analyzer (Cilas 1064) based on light scattering. Scanning electron microscopy was also performed to conﬁrm the particle size and to determine the morphology of the particle. A typical example of the particle size distribution of the NASICON powder suspension is given in Fig. 1. The average diameter of the particles and the S.D. were deduced from this histogram. Three mean sizes of particle were tested i.e. 10, 30 and 160 mm. A weighed amount of NASICON powder was suspended in distilled water and placed in a thermostated cell. Argon (U) was bubbled through the suspension to minimize the effects due to CO2. The experiments were performed in pure distilled water or with 0.1 M BaCl2 as the supporting electrolyte. The solution was stirred magnetically. The Na  27) concentration and pH of the suspension were measured as a function of time. At the end of the experiment, the solution was separated from the powder by ﬁltration for ICP-AES analyses. The NASICON residual powder was analysed by X-ray diffraction.
+
+Fig. 1. Particle size distribution of a typical NASICON suspension.
+
+2.2. Na 27) concentration and pH measurements
+
+The pH measurements were performed at 25°C with a pH glass electrode (Radiometer Analytical). Contamination by CO2 was clearly evident in some experimental results, after 1 h of equilibration time. To clarify this point, the pH of a solution of 10  28) 3 M KOH was measured under argon as a function of time. It was found to be constant and it began to decrease after 1 h. For this reason, only the results obtained at a time less than 1 h have been taken into account.
+
+The change with time of the sodium activity of the suspension was measured with a Na 27) ion selective electrode (Ingold or Radiometer Analytical). The electrode was calibrated in aqueous solutions sodium chloride, for different pH over the range 9–11, corresponding to the pH measured in this study. Over this range, the proton interference of the glass electrode is very low [5].
+
+containing ﬁxed amounts of
+
+2.3. Solution and X-ray analyses
+
+The ICP-AES analyses were performed by the Science and Surface Company (Charbonnieres, France). The Na and P concentrations in the solution were determined with a precision of 5%.
+
+X-ray diffraction were carried out at room temperature, with a Siemens D500 diffractometer u: 2u using Cu Ka radiation, step scanning at 0.02° intervals of 2u.
+
+2.4. Calibration cur6e
+
+The Na 27) ISE was assembled as depicted in Ref. [5]. A liquid internal reference system was used. It can be represented by the following electrochemical chain:
+
+The internal solution was made from Tris 8 electrolyte purchased from Radiometer Analytical. The sample solutions were also made from Tris 8 electrolyte. A saturated calomel electrode (SCE) was used as the external reference electrode. To avoid any K  27) contamination from SCE, a double junction was used.
+
+3. Results and discussion
+
+3.1. Reacti6ity with water
+
+The pH of a solution of suspended NASICON
+
+Fig. 2. (A) pH vs. the amount of NASICON powder suspended in distilled water (linear scale). The pH was measured after 15 min. (B) pH versus the amount of NASICON powder suspended in distilled water (logarithmic scale in the basic domain). The pH was measured after 15 min.
+
+powder as a function of the amount of NASICON powder is shown in Fig. 2. As shown by Ahmad et al. [10], the pH of water increases in contact with NASICON. For small amounts of
+
+NASICON in the suspension, the pH increases as a function of NASICON concentration. For NASICON concentrations higher than 1 g l 28) 1, the pH increases slightly. As seen from the pH versus
+
+log CNa plot, the variation of OH 28) concentration is proportional to the amount of NASICON powder. This may indicate that the reaction between NASICON and water is total. The pH for 1 g of powder is higher than that reported by Ahmad et al. [10] for NASICON of the same composition. The pH 7 reported by these authors could be due to stronger contamination by CO2 because their experiments were not performed under argon.
+
+Typical variations as a function of time of the sodium concentration and pH of a solution of (1 g l 28) 1) are suspended NASICON powder shown in Fig. 3 and Fig. 4, respectively. As seen from Fig. 3, Na 27) ions are leached from the NASICON when in contact with water. The amount of Na 27) ions released into the solution and the pH vary in the same way and reach steady state values. Table 1 summarizes the Na 27) concentration and pH values reached in the steady state, for NASICON powder of composition Na3Zr2Si2PO12 in pure water and with a supporting electrolyte. No signiﬁcant inﬂuence due to the presence of BaCl2 as the supporting electrolyte is observed. Three experiments performed on the same powder in distilled water show that there is some dispersion of the Na 27) concentration in the steady state. The pH is almost equal to 10.8. As proposed for glass [14–17], it was ﬁrst suggested that NASICON reacts with water by ion exchange between the hydronium ions from the water and sodium ions in NASICON [5]. The results in Table 1 would indicate that 10% of the sodium contained in NASICON should be exchanged and that the exchange constant should be high. A rough estimation from the concentration of Na 27) and H3O  27) in the solution and molar fraction in the solid would lead to a value of 106 for the exchange constant. This does not agree with the results of Komorowski et al. [18] who found that NASICON strongly prefers Na 27) ions relative to H3O 27): the proton exchange is partial in 0.2 M HCl, indicating a low value for the exchange constant. Moreover, the pH resulting from the Na 27) –H3O  27) exchange should be one unit higher than that obtained experimentally. To conﬁrm this result, NASICON powder was separated from the solution and suspended again in distilled water. The Na 27) concentration and pH
+
+of the suspension are shown in Fig. 3Fig. Fig. 4. The amount of Na 27) released in the solution decreases signiﬁcantly (about 5–10 times). This conﬁrms that the Na 27) released during the ﬁrst stage cannot be attributed to ionic exchange equilibrium. It also indicates that Na 27) leaching does not result from a solubility product.
+
+The amount of Na 27) released was studied as a function of the NASICON material. Three types of NASICON powders from three different samples of identical basic composition were tested. The corresponding XRD patterns are shown in Fig. 5. The powder, P1 showed the presence of the NASICON phase. It was indexed on a rhomboedral cell with a 30)9.06 A˚ and c 30)22.97 A˚ . It was free of zirconia. The second one, P2, showed small amount of monoclinic zirconia in addition to NASICON. The last one, P3, showed large amount of monoclinic zirconia and the presence of a third phase which was identiﬁed as Na3PO4 from the diffraction peak at 2u 30)20.7 which is one of the most intense peaks expected for this compound.
+
+The Na 27) concentration and pH measured for these three types of NASICON powders are summarized in Table 2. The amount of Na 27) released is highly dependent on the presence of secondary phases in the sample. The Na 27) concentration increases as the amount of zirconia in the sample increases. This result agrees with the difference of reactivity observed by Ahmad et al. [10] as a function of the mode of preparation of NASICON. Their NASICON was prepared by a ballmilling process and contained zirconia in addition to NASICON which is more reactive than those prepared by a gel route which is free of zirconia. The XRD patterns of the powder after reaction with water were also measured. No change in the patterns was observed for the powder containing a small amount of zirconia. The cell parameters remained the same. On the powder P3, the peak attributed to Na3PO4 was found to disappear completly after reaction with water.
+
+Analyses of
+
+the solution demonstrated that there was a signiﬁcant loss of phosphorus from the NASICON powder (Fig. 6). The phosphorus concentration in the solution was found to be of
+
+Fig. 3. Plot of CNa vs. time for suspended NASICON in distilled water: (A) fresh NASICON powder, (B) NASICON powder separated from the solution and suspended again (1 g of NASICON powder was suspended in 100 ml of solution).
+
+Fig. 4. Plot of pH vs. time for suspended NASICON in distilled water: (A) fresh NASICON powder, (B) NASICON powder separated from the solution and suspended again (1 g of NASICON powder was suspended in 100 ml of solution).
+
+the order of 6 29)10  28) 3 M and almost three times lower than the Na 27) concentration. This is the same ratio as the stoichiometry in NASICON or Na3PO4. Komorowski et al. [18] have also shown
+
+by ICP analyses that there is a loss of phosphorus and no loss of zirconium in the ﬁrst stage of their ion exchange experiments in 0.2 M HCl solutions. The P concentration for 1 g of NASICON in 100
+
+Table 1 Na 27) concentration and pH at steady state for a solution of suspended NASICON of composition Na3Zr2Si2PO12
+
+Table 2 Na 27) concentration and pH at steady state for solutions of suspended NASICON
+
+M (g) of NASICON powder in 100 ml of solution. The NASICON powder contained different amounts of zirconia.
+
+ml of solution, deduced from their experiments is equal to 6 29)10  28) 4 M. This value is in agreement with the concentration of Na 27) released by NASICON powder free of zirconia (Table 2).
+
+It can therefore be proposed that the Na  27) released is mainly due to the dissolution of a phase rich in phosphorus which is not easily seen by XRD. This phase would always be present, to some extent, in the sample and be predominantly amorphous. It was identiﬁed in samples containing large amounts of impurities as Na3PO4. From the results in Table 2, it can be deduced that there is almost 1.2 wt.% Na3PO4 in sintered NASICON which appears as a pure NASICON phase by
+
+XRD. To conﬁrm this point, the pH expected from the dissolution of this Na3PO4 has been calculated. The values of Na 27) concentrations in Table 2 allows the calculation of the phosphate concentrations. From these last values, if it is 3 28) is a strong base (pKa 30)12.4) assumed that PO4 the pH deduced are, respectively, equal to 11, 11.1 and 11.7 and of the order of what we measured.
+
+The kinetics of Na 27) released was studied as a function of the size of the particle. As seen from Fig. 7, the rate of Na 27) release was found to increase with decreasing particle size. The fraction of Na  27) released into the solution at time t, F(t),
+
+Fig. 5. XRD patterns of the three types of NASICON powders. P1, NASICON; P2, NASICON with monoclinic ZrO2; P3, NASICON with monoclinic ZrO2 and Na3PO4. The stars indicate monoclinic ZrO2.
+
+Fig. 6. XRD patterns of the NASICON powder P3 before (A) and after (B) reaction with distilled water.
+
+Fig. 7. Plot of CNa vs. time for NASICON suspension as a function of the particle size: (a) 160, (b) 30, and (c) 10 mm.
+
+where CNa( 12)) is the Na  27) amount released after inﬁnite time and CNa(t) is the amount released at time t. It was identiﬁed by the classical equation:
+
+
+which describes the radial diffusion in a homogeneous sphere for a uniform initial distribution of a diffusing substance and with a concentration constant at the surface [19]. The results are reported
+
+Table 3 B values and interdiffusion coefﬁcients D deduced from ﬁtting to Eq. (2)
+
+in Table 3. Good correlations were obtained indicating that Eq. (2) can be used to describe the process of release. This may suggest that the dissolution reaction is a diffusion-controlled process. The transport of cations in the intergranular region of the NASICON sample may be proposed. The mathematical description of this problem is complex because of the real geometry. However our results indicate that the Na  27) leaching seems to behave as if it was ﬁxed by the diffusion in a hypothetical homogeneous medium, and that the amorphous soluble phase is dispersed homogeneously in the NASICON membrane. An effective diffusion coefﬁcient Deff which takes into account the complexity of the geometry can be deduced from the coefﬁcient B according to the equation:
+
+where Deff is the effective diffusion coefﬁcient and r the radius of the particle. The results are reported in Table 3. A Deff 30)5 29)10 28) 10 cm2 s  28) 1 is so obtained.
+
+3.2. Interpretation of the detection limit
+
+A typical calibration curve for a Na 27) ISE based on NASICON is shown in Fig. 8. As expected the potentiometric response follows the Nernst equation at high Na  27) concentration and a plateau at a low Na  27) level is observed. According to the I.U.P.A.C. recommendations [20], the detection limit is deﬁned as the concentration at the point of intersection of the extrapolated linear midrange and ﬁnal low concentration level segments of the calibration plot. The detection limit of the NASICON based ISE has been measured previously [5,21] in Tris buffered solution (pH 8), for different
+
+sintering temperatures and membrane porosities. The results are summarized in Table 4. For high density samples (\90%), the detection limit is constant and always of the order of 10  28) 4 M. For samples of lower density (85%), the detection limit increases. This point was also observed for screen printed layers of low density for which the detection limit is around 5 29)10 28) 3 M [22]. It was also obtained with other compositions of NASICON. For example with the Li1.3Al0.3Ti1.7(PO4)3 membrane [21], the Li 27) detection limit is about 10  28) 4 M for a 93% densiﬁed membrane and this value increases to 10 28) 3 M when the membrane is only 85% densiﬁed.
+
+The study of the Na  27) released in solution versus time has shown that this amount is not governed by a solubility product. As a result the detection limit cannot be explained by the solubility of the membrane as is the case for silver halide electrodes [23]. The detection limit is also not ﬁxed by the proton interference as proposed in Na 27) sensitive glass electrodes [24]. In fact, if we assume that the detection limit corresponds to the H3O 27) response, it depends on the potentiometric selectivity coefﬁcient, K Na,H
+
+POT , according to the equation:
+
+where aNa and aH are the activities of the sodium and hydronium ions in solution. R, T and F have their classical meaning. The results reported in Ref. POT depends on the sintering [5] show that K Na,H POT  30)5 for a membrane sintered at temperature: K Na,H 1200°C and in the range 50–80 for a membrane sintered at 1000°C. As the pH of the sample solution is around 8 and the detection limit is nearly the same for the NASICON membrane sintered at 1000 and 1200°C (Table 4), we can conclude that
+
+Fig. 8. Example of a calibration curve. The detection limit is 10  28) 4 M.
+
+the detection limit is not ﬁxed by the proton interference.
+
+From the present results for NASICON powder, we propose that the detection limit may be linked to the Na 27) amount released in aqueous solution, originating from the dissolution of a second phase dispersed in the sample and identiﬁed as Na3PO4. From the weight of the NASICON pellet (:0.5 g) in the ISE and the values of Table 2, it shows that the expected amount of Na 27) in solution is about 10 28) 3 M. Such a value is about ten times higher than the detection limit. To explain this difference, it could be proposed that the steady state concentration is not reached because the surface area of exchange exposed to the solution is much less important for the NASI-
+
+Table 4 Detection limit relative density
+
+in mol

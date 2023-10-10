@@ -1,0 +1,58 @@
+NASCION-type NaTi2(PO4)3 (denoted as NTP) has been established well as a promising anode materialfor Na-ion batteries (NIBs) in view of striking structure advantages.
+
+Unfortunately, the excellent ratecapability of NTP is seriously limited by its intrinsic modest electrical conductivity.
+
+In this work, anefficient solvothermal strategy combined with following calcination is purposefully developed to synthesize morphology-controlled one-dimensional(1D) coaxial nanocables consisting of highly conductingmulti-walled carbon nanotubes (MWNTs) cores and well-crystalline NTP sheath (afterwards designed asMWNTs@NTP).
+
+When evaluated as an anode for non-aqueous NIBs, the unique MWNTs@NTP coaxialnanocables exhibit excellent Na-storage performance with high charge–discharge capacities, rate performance and long cycle life, much better than those for MWNTs/NTP mixture, originating from theoptimum design and synergetic effect of rapid electron delivery, convenient Na+ transport and largeelectrode/electrolyte contacting sur-/interfaces provided by the three-dimensional entangling coaxialnanonetworks.
+
+Lithium-ion batteries (LIBs), as the most widespread energystorage system (ESS), have been very successful in portable electronic devices and electric vehicles (EVs) owing to its high energyand power density over the last two decades [1–4].
+
+However,for large-scale applications, the limited reserves and increasingcost of the lithium itself strongly restrict their extensive application in large-scale ESS.
+
+This has led to worldwide efforts tobuild better batteries, where resource optimization, tailor-madefor specific applications and the design parameters (electrochemical performance, cost, operational safety, sustainable usage andrecyclability) should be considered well[5–7].
+
+ The situationis especially pronounced for the case of NIBs.
+
+As well established, NIBs arepromising alternatives to LIBs for such large-scale applications inboth scientific and technological aspects in virtue of the abundanceof sodium resources in earth’s crust and potential low cost as wellas the similar “rocking-chair” mechanism of Na-ion storage deviceto those of LIBs, which triggers the intensive studies on advancedmaterials in recent years after 2010.Currently, the development of NIBs is hampered greatly dueto the lack of high-performance electroactive materials, in particular anodes, since graphite-based anodes cannot accommodateNa+ at low potential in a sodium salt electrolyte [10,11].
+
+It turnsout to be greatly urgent searching for the proper anode materials for next-generation NIBs.
+
+Parallel to those for LIBs, researcheson anode materials for NIBs have been generally developed on thefour different categories:(1) carbonaceousmaterials,(2) oxides andpolyanionic compounds (such as phosphates) as topotactic insertion materials for sodium, (3) p-block elements (metals, alloys,phosphorus/phosphide) showing reversible sodiation/desodiation,and (4) oxides and sulfides with conversion reaction [5–11].
+
+Amongthem, the insertion-type anodes in several titanium-based compounds have been considered as an attractive anode material forNIBs.
+
+The rhombohedral NASCION-type NTP, polyanion-typetitanium-based compound has been widely studied as a anodematerials for NIBs benefiting from its NASICON framework withlarge interstitial channels [12–14].
+
+As shown in the inset ofFig.1, the well-known NASICON skeleton is formed from cornersharing XO4 (X= Si4+, P5+, S6+, Mo6+, etc.) tetrahedra and MO6(M = transition metal) octahedra that create the so-called “lantern”units, which are assembled into an open three-dimensionalM2(XO4)3 framework that defines M(1) (one position per formulaunit) and M(2) (three positions per formula unit) interstitial sitesin the rhombohedral form that are usually filled (fully or partially)by mobile alkali ions (A= Li, Na) [15–18].
+
+The intriguing structuralfeature ensures high ionic conductivity, chemical stability, andattracts great interest for application in electrochemical devicesaccordingly.
+
+Moreover, the NTP-based anode can deliver a hightheoretical specific capacity of 132.8 mAh g−1 at ∼2.1V(vs.Na+/Na)related to the redox couples Ti4+/Ti3+ [18,19].
+
+Unfortunately, thepoor intrinsic electrical conductivity of the NTP itself caused by theseparated TiO6 octahedra, is a major aspect seriously limiting itsextensive application in advanced NIBs, particularly for the case ofthe rate stability at high current density.
+
+To well addressthe drawbacks and improve Na-storage behaviors of the NTP, themost effective strategies have been focused on: (I) downsizingof the NTP particles to nanoscale level [17,22,23], (II) coating theNTP with conductive materials [24–30], and (III) doping with alienions [31,32].
+
+Therefore, nanoconfinement of hybrid electrodescomposed of conductive additives and nanosized NTP is idealmethodology to enhance the electronic and ionic transport, andthe large electrode/electrolyte sur-/interfaces, which is favorablefor the superior Na-storage performance, particularly at high rates.
+
+Compared to other conductive additives, one-dimensional (1D)multi-walled carbon nanotubes (MWNTs) would be an excellentcandidate to support electroactive NTP, thanks to their unique 1Dtubular structure, high electrical conductivity, narrow mesoporesize distribution, and large surface area as well as the ability toform a three-dimensional (3D) conducting matrix [33–37].
+
+Herein,we extended this concept to the Na-storage anode of NASCIONstructured NTP.
+
+In this work, a simple yet efficient solvothermalmethod along with post-annealing has been elegantly designed andsuccessfully developed to fabricate MWNTs@NTP coaxial nanocables with well-crystalline ∼25 nm of NTP nanoparticles uniformlycoating on the core of MWNTs.
+
+The unique coaxial nanocablesdelivered excellent electrochemical Na-storage performance whenevaluated as promising anodematerials forhigh-performance NIBs.
+
+In summary, we have initially utilized an efficient solvothermal strategy coupled with following calcination to prepare of 1DMWNTs@NTP coaxial nanocables, where NASICON-type NTP NPswere uniformly coated on the surface of MWNTs, forming a 1Dcore–shell architecture.
+
+When evaluated as a promising anodefor NIBs, the novel MWNTs@NTP coaxial nanocables exhibitedexcellent rate capability and cycling stability.
+
+The superior electrochemical Na-storage performance should be rationally ascribedto synergetic effect of the conductive core and electroactive shell.
+
+The nanosized NTP sheath could significantly shorten the transport paths for Na+ and increased sur-/interface between electrolyteand electroactive NTP NPs.
+
+And the inner interconnected conductive MWNTs core effectively induced fast Na+ and electrontransfer.
+
+Of great significance, the design we developed here couldbe highly generalto other promising materials for the developmentof advanced next-generation NIBs toward the high-performanceEVs, hybrid EVs, smart grids, and so on.
+

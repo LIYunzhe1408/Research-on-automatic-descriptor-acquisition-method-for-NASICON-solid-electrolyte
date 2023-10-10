@@ -1,0 +1,7 @@
+LiTi2(PO4)3 solid electrolytes are synthesized by a simply LiF assisted solid state reaction.
+The electrolytesprepared with LiF assist exhibit much larger particle size, less voids and higher crystallinity than that of the sample without LiF assist.
+The LiTi2(PO4)3 sample synthesized with LiF additive (the molar ratio ofLiTi2(PO4)3:LiF =1:0.5) delivers lithium ion conductivity of 2.318 × 10−4 S cm−1 at room temperature withan activation energy as low as 0.28 eV; while the electrolyte prepared without LiF assist exhibits conductivity of7.181 ×10−6 S cm−1 and activation energy of 0.48 eV.
+The significantly enlarged conductivity and reduced activation energy suggest LiF assist is an effective and simple method to improve the performance of LiTi2(PO4)3solid electrolytes for all solid state lithium batteries.
+In this study, high lithium ionic conductivity of NASICON-typeLiTi2(PO4)3 solid state electrolyte is successfully synthesized by LiFassisted solid state reaction.
+The additive LiF in the synthetic processcould enlarge the particle size, improve the crystallinity and reduce the voids of LiTi2(PO4)3. The F5 sample with LiF assist delivers conductivity2.318 S cm−1, which is much higher than that of the sample withoutLiF assist.
+The greatly improved performance is mainly due to the enhanceddensity and reduced grain boundaries of the LiTi2(PO4)3 solidelectrolyte.

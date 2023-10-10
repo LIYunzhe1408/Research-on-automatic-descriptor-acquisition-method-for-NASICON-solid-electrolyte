@@ -1,0 +1,80 @@
+The samples were prepared by mixing SrCO3 Ž BaCO and Ta O Nb O powders 99.99% purity in the desired molar ratio, followed by thermal treatment: 8008C—10 h, followed by 10008C—10 h and then 1200–13008C—24 h. Prior to preparation, the starting powders were annealed to remove water. the intermediate products were After each stage, ground in ethanol in an agate mortar. The final powder was pressed into pellets, 10 mm in diameter and 2–3 mm thick. The pellets were sintered in air at 14008C for 24 h in alumina crucibles. The products were analyzed by X-ray diffraction. Single-phase cubic perovskite-related structures were systematically observed.
+
+Room temperature RT Raman spectra were recorded with the 457.94 and 647.1 nm exciting wavelengths under 5 and 75 mW illumination power, respectively of an Ar–Kr ion laser Innova 70 from Coherent, USA . We used the 90 macroconfigura. tion of an ‘XY’ spectrograph Dilor, Lille, France equipped with a double monochromator as a filter and a back-illuminated, N -cooled 2000=800 pixels CCD detector Spex Division from Jobin-Yvon, y1 Longjummeau, France . Resolution is ca. 2 cm . Spectra were recorded as a function of the temperature with the 514.5 nm 500 mW exciting wavelength of an Ar ion laser Serie 2000, Spectra Physics, USA , using the 90 macroconfiguration of an RTI 30 Dilor Triple monochromator equipped with a Ž cooled AsGa photomultiplier resolution is close to 0.5 cm . Temperatures between liquid helium Ž ;10 K and 5008C were obtained by using an SMC-Air Liquide France cryostat and a homemade furnace. For low and high temperature analyses, spectra were recorded through powder-filled, lowscattering thin-wall glass tubes Buchi, CH . Both sealed and unsealed tubes were used for high temperature measurements.
+
+Powdered materials were mixed with CsI in an agate mortar, dried at 508C and compacted at ;500 MPa. The IR spectra of the resulting pellets were recorded at room temperature on a 983 double beam Perkin-Elmer UK spectrometer in the 4000–180 cmy1 range.
+
+For electrochemical measurements, both sides of the pellet were polished and painted with platinum paste, then dried and fired in air for 3 h at 11008C. The conductivity was measured using AC-bridge R-5083 and an impedance analyser Solartron Frequency Response Analyser FRA-1174 and Electrochemical Interface over a frequency range of 100 Hz–100 kHz at temperatures between 1100 and 300 8C. Each cell was equilibrated in the desired atmosphere dry or wet before measurements. Water pressure was obtained by bubbling air through a saturated water solution of KBr at room temperature a s10 Ž . In order to prevent any carbonation, H O2 air was first bubbled through concentrated aqueous KOH. Dry air was obtained by passing the air through concentrated H SO and then P O powder a s 10
+
+y5. . Thermogravimetry TG was performed in the 100–10008C temperature range in wet and dry atmospheres; the heating cooling rate was 38Crmin.
+
+Spectroscopic examination of the structure and short-range order
+
+Fig. 1 compares the room temperature RT Raman spectra of tantalates xs0, 0.04 and 0.27 and niobate Ba and mixed Ba–Ca compounds powders. Both series exhibit a strong Raman band near 800 cmy1, characteristic of the symmetrical stretching mode n of TarNb O octahedron vibrational unit 6–10 . This mode does not change very much with TarNb substitution because only oxygen atoms are moving. On the other hand, this mode should be very sensitive to any distortion e.g. different bond lengths and disorder in the oxygen atom sublattice. The large full width at half height FWHH;30–60 cm of the different spectra indicates a strong short-range disorder, in agreement with the presence
+
+Fig. 1. Room temperature Raman spectra a of tantalates: compound 1, Sr Ta O ; 2 , Sr Ta nobiates: compound 4, Ba Nb O ; 5 , Ba Ca Nb O . Low wave number regions are inserted.
+
+of oxygen vacancies andror related to the ArB substitutional disorder, as usually observed in Raman spectra of perovskites 11,12 . Narrow bands are
+
+only observed for Ba Nb O compounds, indicating a defect-free, well-ordered, sublattice of heavy cations. Bands at ca. 850 cmy1 characteristic of
+
+Fig. 2. Comparison between 793 K, RT and liquid helium temperature Raman spectra for Ba Nb O compounds.
+
+Ž . a and Sr
+
+Ph. Colomban et al.rSolid State Ionics 145 2001 339–347
+
+Fig. 3. Hypothetical perovskite-related structure with structural oxygen vacancies.
+
+. collinear Nb–O–Nb Ta–O–Ta stretching vibra. tions 10 are observed in Ba Nb O compound 4 Ž and Sr Ta O compound 2 . This indicates that at least two kinds of arrangement are present, Ž one of them being a chain-based structure comy1 pounds 4 and 2 . Bands near 300–400 cm arise from the octahedral bending mode n , more or less coupled with other modes, the Raman activity of which is induced by the oxygen andror metal ion
+
+y1. disorder. Low wave number modes 90–120 cm may correspond to octahedron modes with a strong librational character, more or less coupled to Ba or Sr translations, as observed in perovskite structure calculations 11 . In Ba Ca Nb O , the band assigned to octahedron libration remains strong, but at lower wave number. Cation translational modes are expected in the very low wave number region. Because we considered in our description that the
+
+Fig. 4. Comparison between 793 K, 573 K, RT and liquid helium temperature Raman spectra of Ba Ca Nb O a , Sr and Sr Ta O c compounds.
+
+dominant at high temperatures, associated with some band broadening. Spectra corrected from the level population change using the Maxwell–Boltzmann law I sIr n v q1 , n v being the population of the energy level are given in Fig. 5a. Plots of the FWHH of the Ta–O stretching modes for compounds 1 and 2 are given in Fig. 5b. The ‘narrow’ librational mode of niobates compound 5 does not
+
+NbrTa octahedra, the units with the more covalent bonds, to be the vibrational unit, no internal modes could exist for the non-distorted alkali-earth cationoxygen cage. The very broad pattern observed below 200 cmy1 is directly related to the thermally induced disorder. A correction using the Boltzmann law is mandatory to consider intensity changes below 100 cm 13,14 . This region can be examined only in the ‘ordered’ Ba Nb O compound where a mode at ca. 24 cmy1 is clearly observed, protruding from a broad band.
+
+. O , was pre3w viously studied by Raman spectroscopy 15 and IR reflection 16 . These studies demonstrated a transverse TO rlongitudinal LO splitting arising from ferroelectric properties. By comparison, the 310r430 and 550r777 doublets of compound 4 could be assigned to ferroelectric-induced splitting. Examination of the spectrum recorded at helium temperature of the Ba Nb O compound Fig. 2a confirms that this composition may be considered as the reference structure. The stretching massif appears to be constituted of two rather narrow modes assigned to Nb–O and collinear Nb –Nb–O bonds superimposed on a broad bump. This could indicate that localized highly disordered regions remain. A strong lowering of the FWHH is observed. This effect is drastic for bending and librational modes of the octahedron, their FWHH being only limited by the instrument resolution ; 0.5 cm at 10 K . Because these modes incorporate some collective coupling, their very small FWHH reflects the high order of the chainsrsheets Fig. 3 . . On the contrary, the narrowing of internal stretching modes is not so spectacular, rather comparable with Ž see, e.g. the effect observed for other compounds . Fig. 2b, : some short-range disorder remains within the oxygen sublattice, according to the proposed formula with vacancies.
+
+Fig. 4a–c compares the evolution of the spectra with temperature between 10 and 793 K. The same trend is observed for all compositions: the relative intensity of the stretching, bending and librational massif changes, the intensity of the last becoming
+
+Fig. 5. a Raman spectra of compounds 1, 2 and 3, corrected Ž . from the population change using the Maxwell–Boltzman law; b plots of the FWHH stretching modes vs. inverse temperature for . compounds 1 black dots and 2 black triangles .
+
+Ph. Colomban et al.rSolid State Ionics 145 2001 339–347
+
+Table 1 Conductivity and water uptake for convenience, the quantity of intercalated water was calculated in moles per mole of formulae unit . The intensities of 1445 cmy1 IR absorption, normalized vs. skeletal bands, are given Samples
+
+IR intensity
+
+s rs dry wet 600 K
+
+s rs dry wet 1000 K
+
+Water uptake at 600 K a s10 H O2 0.9 0.43 0.05
+
+seem to be affected by thermal heating. The broadening of the octahedron stretching mode above RT is consistent with a large thermal motion andror with a fast diffusion of oxygen atoms. The increase of the low wave number scattering is very similar to that x observed for superionic conductors e.g. zirconia 17 and NASICON 18,19 . The decrease of the relative intensity of the librational massif with cooling is observed for all tantalates. This could be associated to some change in the symmetry or in the polarizability of the vibrational unit. Modes of the whole Brillouin zone are rendered Raman active by the increasing disorder breaking the translational order. Comparison of spectra recorded for the same materials heated in sealed glass tubes which maintain the water pressure or in open tubes which promotes
+
+drying shows no significant spectral differences in the 50–1100 cmy1 range. 3.3. Water uptakerloss and effect of gaseous water actiÕity on conductiÕity
+
+For compounds 1 and 5,
+
+the water uptake is maximal and corresponds to ;1 mol of water per mole of substrate. Composition 4 has zero water uptake. The quantity of incorporated water diminishes from samples 1 to 3 Table 1 . The relationship between short-range disorder and water uptake is clear: only compounds having a strong oxygen lattice disorder exhibit water uptake. During the . heating, we observe two-stage water losses Fig. 6 , and for phases 1 and 5, the first stage corresponds to . approximately 75% of total water loss Table 1 .
+
+Fig. 6. Thermogravimetry data of some compositions heating in wet air, 38Crmin . .
+Ph. Colomban et al.rSolid State Ionics 145 2001 339–347
+
+For most of the samples at 500 K, the conductivity in wet air a s10 exceeds that in dry air H O2 a s10 Ž by at least one order of magnitude— H O2 samples 1 , 2 and 5 . There is no difference in the conductivities for phase 4 treated in wet and dry air . Ž Fig. 7, Table 1 .
+
+3.4. Some remarks on water uptake and hydrogen transfer mechanism
+
+In order to understand the mechanism of water incorporation, it is necessary to know the state of an oxygen sublattice and the means of accommodation of non-stoichiometry by the complex oxide structure. From a structural point of view, the formation of oxygen vacancies is accompanied by a reduction of the coordination number of B-atoms. Thus, B-atoms . must exist in two different coordinations Fig. 3 . Metal atoms in phases with oxygen vacancies can be x in tetrahedral or square pyramid coordination 20 . This means that B-metals, Ca–Sr–Ba and Ta Nb , in our case, are present in different environments and tend to restore their coordination polyhedra by incorporation of H O with its possible partial dissociation to hydroxyl groups. If structural oxygen vacancies are not ordered, then their concentration will correspond to the structural formula and the amount of water incorporated into such oxygen-deficient oxides can be predicted from the nominal formula. For Ba 4 Ž Ba Nb O V , no weight loss was observed even after water saturation at 200–4008C. It is obvious that the reduction of the coordination number for such a large cation as Ba is not typical, so it leads to oxygen vacancies ordering. The water incorporation process in phases with structural vacancies can be expressed by the following reactions, written using ionic instead of effective charges: H Oq V qO m OH q OH , Ž H Oq V m H O .
+
+Fig. 8 compares the IR transmission spectra of the different compounds dispersed in CsI. The most striking feature is the absorption peak at ca. 1450 cmy1, the other bands being consistent with the expected structure proposed above. The 1450 cmy1 band is not observed for compound 4, which does
+
+Fig. 7. The temperature dependencies of total conductivity; B— wet air, v —dry air.
+
+Ph. Colomban et al.rSolid State Ionics 145 2001 339–347
+
+temperature rises. So, this band correlates with lowtemperature TG effect. A first assumption is that the nature of the protonic species has been changed and, although further studies are still necessary, the data presented here reflect a specific ‘water’ state in oxides and, possibly, a conversion of some OHy sites to H O Eq. 2 or other species. The work is still in progress.

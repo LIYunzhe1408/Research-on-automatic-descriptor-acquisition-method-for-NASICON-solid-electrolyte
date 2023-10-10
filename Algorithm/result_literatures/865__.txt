@@ -1,0 +1,74 @@
+Magnesium-based Nasicon-type compounds withformula Mg0.9?0.5yZn0.4AlyZr1.6-y(PO4)3, (0.0 B y B 0.4)were prepared by the nitrate sol–gel method and characterizedby X-ray diffraction, particle size analyser, scanning electronmicroscopy, energy-dispersive X-ray spectroscopy andimpedance spectroscopy.
+
+The substitution of Zr4? by asmaller Zn2? and Al3? cations reduced the unit cell dimensions of the parent compound’s structure to form a morestable framework and enhanced its conductivity by aboutthree orders of magnitude.
+
+X-ray diffraction spectra clearlyindicated the formation of single-phase compounds withoutany impurity.
+
+The compounds belong to the monoclinicstructure with P21/n space group.
+
+The substitution of Al3? andZn2? in zirconium sites did not affect the formation of thesingle phase, and this probably due to the concentration ofboth Al3? and Zn2? was too low to induce structural changes.
+
+The AC conductivity analysis demonstrated that the increasein conductivity was mainly due to an increase in the number ofmobile ions.
+
+ The Mg1.05Zn0.4Al0.3Zr1.3(PO4)3 exhibited thehighest conductivity in the order of 10-4 S cm-1.The main issues identified for the development of safebattery are about the risks with electrolyte leakage andwhether the organic solvents used in the battery could beharmful for battery users in anyway.
+
+This has stimulatedthe search for Mg-ion solid electrolytes having a roomtemperature conductivity of [10-4 S cm-1.Divalentcation species such as Mg2? [11, 13, 21, 22], Ca2?[5, 8, 24, 25], Sr2? [7, 8, 24], and Ba2? [7, 8, 24] arereported to be mobile in solids.
+
+However, for these cations,a relatively high temperature is also necessary for therealization of their ionic migration and the divalent cationconductivity is low.
+
+From the viewpoint of the ionic size,the most reasonable size of the smooth divalent cationmigration in solids is expected for Mg2? ion.
+
+Nasicon (Natrium Superionic Conductor)-type compounds are potential candidates to be used for developmentof solid electrolytes for magnesium batteries.
+
+This isbecause Nasicon structure has large enough interstitial voidto uptake guest species, high structural stability based on3D framework and is a promising host for conductingmultivalent ion species [4].
+
+However, the studies on thedevelopment of magnesium battery electrolytes usingNasicon-type compounds are limited in number.
+
+This maydue to difficulty for the divalent Mg-ion to diffuse in thelattice site and narrow electrical window for Mg-ion electrochemical activity [27].
+
+
+have performed asystematic investigation on the framework structure, phasetransition and electrical conductivity of magnesium zirconium phosphates, MgZr4(PO4)6.Their studies showed thatthe MgZrP compound belongs to monoclinic P21/n typewhich is same as that of MgZrP reported in [14] and theauthor’s earlier paper [2].
+
+[20] found thatoptimum sintering temperature using sol–gel method(*1100 C) was 100 or 250 C lower than that for samplesobtained by the solid-state reaction method(1200–1400 C) [9, 11].
+
+The conductivities were independent of atmosphere, and the apparent densities were[95 %.
+
+
+ successfully synthesizedmagnesium electrode using Nasicon-type compound,Mg0.5Ti2(PO4)3 and a few modified compounds such asMg0.5?y(FeyTi1-y)2(PO4)3 and Mg0.5?y(CryTi1-y)2(PO4)3.They found that the unit cell volumes of Fe- or Cr-substituted compound were smaller than that of Mg0.5Ti2(PO4)3. The modified Mg0.5Ti2(PO4)3 compounds showedrelatively a high theoretical capacity of 130–140 Ah kg-1and small change in unit cell volume for Mg-ion insertionwhich is advantageous in terms of durability.
+
+The main property for a material for potential use as anelectrolyte is high ionic conductivity which is the resultsfrom large enough interstitial void, high structure stabilityand capability of charge carrier transport in the compound.
+
+High ionic conductivity is important so that the ohmicpolarization across the electrolyte layer of the cell does notlower the operating cell voltage appreciably.
+
+Furthermore,the activation energy should also be low in order tomaintain a steady output performance even when changesin environmental temperatures take place.
+
+In contrast, theelectronic conductivity of the electrolyte should be as lowas possible in order to avoid self-discharge or short circuit.
+
+The total conductivity of parent NASICON structured isbasically around 10-6 S cm-1 [23].
+
+The value of10-4 S cm-1 or higher is basically obtain for modifiedNASICON compound through partial or double partialsubstitution technique.
+
+The authors have earlier succeed insynthesizing magnesium electrolytes Nasicon-type compound of Mg0.5Zr2(PO4)3 using nitrate sol–gel method [2].
+
+However, the ionic conductivity of this material has beenregarded to be too low for practical applications.
+
+In order toovercome this problem, the authors modified theMg0.5Zr2(PO4)3 compound by implementing double partialsubstitution using Zn2? and Al3? ions into the Mg0.5Zr2(PO4)3 structure leading to the formation of compoundswith general formula of Mg0.5?x?0.5yZnxAlyZr2-x-y(PO4)3.The substitution of Zr4? by a smaller Zn2? and Al3?cations is expected to reduce the unit cell dimensions of theNasicon framework producing a more stable structure.
+
+Inaddition, the substitution of ions of lower charges in theparent compound could induce greater concentrations ofMg2? interstitial ions.
+
+In this paper, the structural andelectrical properties of the novel double partial substitutedcompounds prepared using the same method are reported.
+
+To the best of the authors’ knowledge, no study has beencarried out using Zn2? and Al3? as the property enhancingagent for the Mg0.5Zr2(PO4)3 compound.
+
+Hence, this maybe the first report of its type explaining detailed structuraland electrical properties of the Mg0.5?x?0.5yZnxAlyZr2-x-y(PO4)3 with x = 0.4; 0.0 B y B 0.3.The Mg0.9?0.5yZn0.4AlyZr1.6-y(PO4)3 (0.0 B y B 0.3) electrolyte compounds were successfully synthesized by nitratesol–gel method.
+
+The XRD analysis indicated that substitutions of Zr4? by Zn2? and Al3? affected the structure of theparent compound as evidenced by the decrease in unit cellvolume of the sublattices.
+
+Temperature dependencies of thetotal conductivity illustrated that the electrolytes obeyed theArrhenius law.
+
+ The effect of double substitutions was significant on the electrical properties of the Mg0.5Zr2(PO4)3compound.
+
+ The Mg0.9?0.5yZn0.4AlyZr1.6-y(PO4)3, y = 0.3exhibited conductivity of two orders of magnitude higherthan the unsubstituted Mg0.5Zr2(PO4)3 compound.
+
+Theincrease in the conductivity was due to optimization of thebottleneck for Mg-ion conduction as well as increase in ionconcentration in the substituted compounds.
+

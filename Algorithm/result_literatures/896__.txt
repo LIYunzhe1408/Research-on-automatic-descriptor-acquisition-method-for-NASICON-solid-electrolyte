@@ -1,0 +1,32 @@
+The catalytic activity of framework phosphates of the general formula LiZr2(VO4)x(PO4)3–x withdifferent degrees of phosphorus replacement (x = 0, 0.1, 0.3, 0.4, 0.6, and 0.8) was studied in methanol transformations in an inert atmosphere.
+
+It was shown that the ratio between the activity and selectivity of the catalysts in dehydration and dehydrogenation reactions is determined by their vanadium content and the processtemperature.
+
+Materials of the structures NaZr2(PO4)3(NZP/NASICON) and Sc2(WO4)3 (SW) are describedby the general formula AxE2(TO4)3, where A is generally an alkali or alkaline-earth element, E is a polyvalent element (Zr, Ti, Fe, and others), and T is phosphorus or silicon [1, 2].
+
+They have a framework structure consisting of EO6 octahedra and TO4 tetrahedra,which share vertices so that cavities forming betweenthem combine to form channels constituting anordered three-dimensional network.
+
+Some of thesecavities are occupied by cations A.
+
+Iso- and heterovalent substitution at positions A, E, and T, leading tothe formation of solid solutions, allows one to varywidely their properties: ionic conductivity, thermalexpansion, and catalytic activity and selectivity [3–6].
+
+Owing to the presence of groups responsible for theredox properties of the surface in such phosphatematerials and to the possibility of the occupation ofcrystallographic positions by elements with multipleoxidation states, which are capable of redox interactions, such materials can be used in catalysis: in dehydration and dehydrogenation of alcohols [7, 8], isomerization and oxidation of paraffins [9], and ethanoltransformation into hydrocarbons C4 and higherincluding aromatics [10].
+
+Investigation of the effect of the composition ofiso- and heterosubstituted analogs of NaZr2(PO4)3 onthe ratio between the selectivities of dehydration anddehydrogenation of aliphatic alcohols [7, 8, 10–14]showed that the complete replacement of sodium cations by alkali and alkaline-earth element cationschanges the activity of framework phosphates inmethanol transformations while preserving almost100% selectivity in the dehydration reaction [11].
+
+Inthe dimethyl ether synthesis, the activity of a catalystdecreases with increasing the size of an alkali or alkaline-earth element cation in the cavities of the structure and correlates with the specific acidity of the catalyst.
+
+Phosphates AZr2(PO4)3 in which the positions Aare occupied by ions Ag+, Cu+, Cu2+, Co2+, and Ni2+can be active both in dehydration of alcohols and intheir dehydrogenation [7, 8, 12, 13].
+
+Replacement ofsome zirconium ions in the phosphate framework byelements with multiple oxidation states makes the catalysts Na3ZrM(PO4)3 (M = Cu2+, Zn2+, and Co2+)active in dehydrogenation reactions.
+
+The 2-butanoldehydrogenation selectivity increases linearly withincreasing standard reduction potential of ion M [14].
+
+For example, at 300°C, the selectivity of the formationof methyl ethyl ketone on Na3ZrCu(PO4)3 reached0.97.Studies of the effect of the replacement of somephosphate groups by molybdate ones in NaZr2(PO4)3and LiZr2(PO4)3 on the selectivity of transformationsof methanol on Na1 – xZr2(MoO4)x(PO4)3 – x [15] andethanol on Li1 – xZr2(MoO4)x(PO4)3 – x [16] showedthat, at x > 0, molybdate phosphates are active in bothdehydration and dehydrogenation.
+
+It was of interest to explore the effect of thereplacement of phosphorus in the anionic part offramework phosphates on the ratio between theiracid–base and redox properties.
+
+For this purpose, inthis work, we studied the effect of the isovalentreplacement of phosphorus by vanadium inLiZr2(PO4)3 materials on the catalytic activity andselectivity of methanol transformation.
+
+Vanadium andphosphorus differ significantly in electronegativity(∆ = 0.56), which enabled one to expect strengtheningof the dehydrogenation properties of the catalystsLiZr2(VO4)x(PO4)3 – x, and the fact that vanadium hasmultiple oxidation states suggested an increase in theactivity in dehydrogenation reactions.
+

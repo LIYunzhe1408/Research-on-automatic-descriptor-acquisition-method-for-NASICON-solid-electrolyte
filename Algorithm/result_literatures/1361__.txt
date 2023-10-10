@@ -1,0 +1,91 @@
+A1 ± xZr2 – xMx(PO4)3 (A = H3O+, Li+; M = In, Nb; x = 0, 0.1, 0.2) NASICON 2)type materials have been prepared and characterized by X 2)ray diffraction, specific surface measurements (capillary conden 2) sation of nitrogen), and impedance spectroscopy. We have assessed their catalytic performance for ethanol dehydration and dehydrogenation. The results demonstrate that, when prepared with a large specific surface area, these materials are active catalysts for ethanol conversion to hydrocarbons. DOI: 10.1134/S002016851204005X
+
+NASICON 2)type double phosphates have the gen 2) eral formula AB2(PO4)3 with A = H, Li, Na, Cu(0.5), H3O,  or  NH4  and  B  =  Zr,  Ti,  Hf,  Sn,  Ge,  etc.  [1]. Their structure is made up of corner 2)shared PO4 tetra 2) hedra and BO6 octahedra and has two types of intersti 2) tial  sites.  The  interstices  alternate  along  conductive channels  to  form  a  three 2)dimensional  (3D)  network for  fast  ion  transport.  In  addition,  these  compounds offer  high  hydrolytic  and  thermal  stability  and  may possess  acid,  base,  or  redox  properties.  This  allows them  to  be  used  as  catalysts  for  inorganic  synthesis reactions.
+
+[2–8],  CuZr2(PO4)3, Cu0.5B2(PO4)3 (B = Ti, Zr, Sn), AgB2(PO4)3 (B = Zr, Hf),  Na1 – xCuxZr2(PO4)3,  and  Na1 + xFexZr2 – x(PO4)3 are active catalysts for butanol and isopropanol con 2) version, and NbTi0.75V0.25(PO4)3 and A0.5Zr2(PO4)3 (A = Mn, Co, Cu) are capable of catalyzing the isomeriza 2) tion and selective oxidation of alkanes.
+
+Heterovalent  doping  allows  one  to  tune  many properties  of  double  phosphates  [1,  9–12],  but  the effects of heterovalent doping and synthesis conditions on the catalytic performance of NASICON 2)type dou 2) ble phosphates have not yet been studied in sufficient detail.
+
+The purpose of this work was to investigate the cat 2) alytic  activity  of  NASICON 2)type  compounds  pre 2) pared  by  solid 2)state  reactions,  hydrothermal  synthe 2) sis,  and  the  Pechini  process  and  their  heterovalently
+
+substituted  derivatives  for  ethanol  dehydration  and dehydrogenation.
+
+Li1  ±  xZr2  –  xMx(PO4)3  (M  =  In,  Nb;  x  =  0,  0.1) materials  were  prepared  by  solid 2)state  reactions.  To   ⋅ this  end,  appropriate  ratios  of  Li2CO3,  Zr(HPO4)2 H2O,  ZrO2  ⋅  nH2O,  and  M2Oy  (M  =  In,  Nb)  were mixed,  thoroughly  ground  in  a  mortar,  and  fired  at 600°C for 4 h in platinum crucibles. The mixture was then  reground  and  pressed  into  pellets  to  improve interaction  between  the  particles.  The  pellets  were embedded in powder of similar composition, contain 2) ing 20 mol % excess lithium, in order to prevent lith 2) ium vaporization, and fired at 800°C for 8 h.
+
+The Li1 + xZr2 – xMx(PO4)3 (M = In; x = 0, 0.1, 0.2) lithium  zirconium  double  phosphates  were  prepared by  the  Pechini  (sol–gel)  process  [13].  To  this  end, appropriate amounts of ZrOCl2 ⋅ 8H2O, InCl3, citric acid, NH4H2PO4, and Li2CO3 were sequentially added to excess ethylene glycol with constant stirring, while maintaining  the  mixture  at  60°C.  Each  reagent  was added only after complete dissolution of the preceding one. The polycondensation reaction between ethylene glycol and citric acid molecules yielded a polymer gel. The gel was held at 150°C for 24 h. The resultant mix 2) ture was pyrolyzed at 300°C for 4 h, ground, and fired at 650°C for 10 h in order to remove the residual poly 2) mer  matrix  and  produce  crystalline  material.  In  this way, we obtained gray powder containing no more than 2% carbon.
+
+Fig. 1. XRD patterns of compounds prepared by the Pechini process:  (2)  Li1.1Zr1.9In0.1(PO4)3, (3) Li1.2Zr1.8In0.2(PO4)3;  (4)  schematic  XRD  pattern  of LiZr2(PO4)3 (orthorhombic structure, card 70 2)5820).
+
+The hydrogen form of the lithium zirconium phos 2) phate,  from NH4Zr2(PO4)3 ⋅ nH2O, which was, in turn, synthesized by a hydrothermal process. To prepare NH4Zr2(PO4)3 ⋅ nH2O, we mixed a 1 M ZrOCl2 and a 1 M NH4H2PO4 solution  in  an  autoclave.  The  autoclave  was  then placed in a furnace and maintained at 250°С for 20 h. The  resultant  NH4Zr2(PO4)3  precipitate  was  washed with  water  and  heat 2)treated  at  500°С  for  72  h.  The acid  phosphate  HZr2(PO4)3  thus  obtained  was hydrated  by  boiling  in  water  for  36  h  to  give (H3O)Zr2(PO4)3.
+
+The starting chemicals used were Li2CO3 (Merck, >99%),  NH4H2PO4  (Roth,  >97%),  ZrOCl2  ⋅  8H2O (reagent grade, Vekton), citric acid (analytical grade, Khimmed),  ethylene  glycol  (analytical  grade, Khimmed), Zr(HPO4)2 ⋅ H2O (99.9%, Aldrich), ZrO2 ⋅ nH2O, and M2Oy (M = In, Nb).
+
+The phase composition of the synthesized materi 2) als was determined by X 2)ray diffraction (XRD) on a Rigaku D/MAX 2200 diffractometer with CuKα1 radi 2) ation. XRD data were analyzed using Rigaku Applica 2) tion Data Processing software.
+
+The  specific  surface  area  of  the  phosphates  was determined  by  BET  analysis  of  liquid 2)nitrogen adsorption–desorption  isotherms  obtained  with  a Katakon  Model  ATKh 2)06  texture  analyzer.  Prior  to measurements, the samples were outgassed at 200°C for 30 min.
+
+The  catalytic  performance  of  the  phosphates  for ethanol  conversion  reactions  was  studied  in  a  flow reactor under argon at atmospheric pressure and tem 2) peratures  from  200  to  450°C.  The  reaction  products were  analyzed  chromatographically.  A  weighed
+
+amount (0.300 g) of a catalyst was mixed with quartz (particle size, 1 mm). Saturated ethanol vapor from a thermostated bubbler was delivered to the reactor by a carrier gas at a net flow rate of 1.2 L/h. The reaction products  were  analyzed  on  an  LKhM 2)5  chromato 2) graph equipped with a thermal conductivity detector and activated carbon and Porapak 2)T columns. Chro 2) matograms were analyzed using application software. The results were used to determine the degree of etha 2) nol  conversion  (x),  selectivity  (S),  and  the  product yield (A, mol/(h g)) using the relations
+
+(2) where ϕ0 and ϕ1 are the initial and final volume frac 2) tions of ethanol and ϕi is the fraction of ethanol con 2) sumed in the intended reaction.
+
+According  to  XRD  data,  all  of  the  synthesized phosphates had a 3D network (NASICON structure). The  LiZr2(PO4)3  material  prepared  by  solid 2)state reaction consisted of the monoclinic and orthorhom 2) bic polymorphs of the NASICON 2)type double phos 2) phate in the ratio 1 : 3. Indium 2) and niobium 2)doped double  phosphates  crystallize  in  orthorhombic  sym 2) metry. All of the samples prepared by solid 2)state reac 2) tion  contained  a  small  amount  of  zirconium  pyro 2) phosphate.  The  presence  of  the  impurity  phase  was due  to  the  fact  that  the  final  annealing  temperature was  rather  low  for  solid 2)state  reactions  in  order  to obtain small particles and, accordingly, a large surface area.
+
+The NASICON 2)type phosphates prepared by the Pechini  process  had  an  orthorhombic  structure (Fig. 1).  The  compound  (H3O)Zr2(PO4)3  prepared from NH4Zr2(PO4)3   nH2O by a hydrothermal process had a hexagonal structure.
+
+The unit 2)cell parameters, particle size (broadening of  XRD  peaks),  and  specific  surface  area  (capillary condensation of nitrogen) of the phosphates are given in Table 1.
+
+It  can  be  seen  from  Table  1  that  doping  has  little effect  on  the  unit 2)cell  parameters  of  LiZr2(PO4)3, which is the result of the low degree of substitution and the small difference in ionic radius between Zr4+, In3+, and Nb5+. At the same time, the a and b cell parame 2) ters  of  the  samples  prepared  by  the  Pechini  process tend  to  decrease  with  increasing  indium  content,  as would be expected. The decrease is comparable to that reported  by  Stenina  et  al.  [14]  for  macrocrystalline materials [14]. At the same time, the unit 2)cell param 2) eters  of  the  fine 2)particle  materials  were  found  to  be slightly greater.
+
+The particle size of the phosphates depends signif 2) icantly  on  the  synthesis  technique.  As  would  be expected, the Pechini process ensures a smaller parti 2)
+
+cle size in comparison with solid 2)state reaction owing to the microscopic scale mixing, the formation of par 2) ticles  in  a  rigid  polymer  matrix  which  restricts  their growth,  and  reduced  synthesis  temperature.  With decreasing particle size, the surface area of the com 2) pounds increases, as expected. The materials prepared by solid 2)state reaction had the smallest specific surface area.  The  largest  specific  surface  was  offered  by  the NASICON  material  Li1.2Zr1.8In0.2(PO4)3  (Pechini process).
+
+As seen in Table 2, the low 2)temperature conductiv 2) ity  of  the  samples  prepared  by  the  Pechini  process exceeds  that  of  the  samples  prepared  by  solid 2)state reaction, which is due to the larger contribution of sur 2) face defects to the total conductivity. Raising the tem 2) perature  to  400°C  increases  the  conductivity  of  the samples prepared by solid 2)state reaction and ensures a more uniform lithium distribution over positions M1 and  M2  [15].  The  conductivity  of  the  indium 2)  and niobium 2)doped lithium zirconium double phosphates prepared  by  solid 2)state  reaction  exceeds  that  of LiZr2(PO4)3. The observed increase in conductivity is due to defect formation processes, which can be rep 2) resented by the quasi 2)chemical reactions
+
+where the symbols “*” and “'” denote a positive and a negative charge of the ion relative to that of the normal lattice  site.  The  insufficient  positive  charge  of  the incorporated  indium  relative  to  the  Zr4+  position  is compensated for by the formation of extra interstitial lithium ions. The excess positive charge of the incor 2) porated niobium relative to the Zr4+ position is com 2) pensated for by the formation of lithium vacancies.
+
+It is of interest to note that doping of the materials based on the lithium zirconium double phosphate pre 2) pared  by  the  Pechini  process  causes  no  increase  in
+
+their  conductivity  (Table  2).  This  is  probably  due  to poor  interparticle  contacts  in  the  pellets  for  imped 2) ance  measurements.  To  verify  this  assumption,  we measured  the  conductivity  of  two  groups  of  pellets, annealed at 650 and 1000°C, respectively (Fig. 2).
+
+The conductivity of the unannealed materials pre 2) pared  by  the  Pechini  process  differs  little  from  that after annealing at 650°C, which is attributable to the high degree of surface disorder. Surface ions are more mobile  than  ions  in  the  bulk  of  the  material  and, hence, make a major contribution to its total conduc 2) tivity.  For  this  reason,  heterovalent  doping  has  no effect  on  the  conductivity  of  the  phosphates  under investigation, even though it increases the ion mobility in the bulk of the samples.
+
+In contrast, partial substitution has a marked effect on the conductivity of the materials prepared by the Pechini  process  and  annealed  at  1000°C.  Sintering increases their surface area and improves the interpar 2) ticle  contacts,  so  the  bulk  contribution  to  the  total conductivity  becomes  significant.  For  this  reason, doping  markedly  increases  the  conductivity  of  the
+
+Table  2. Ionic  conductivity  of  lithium  zirconium  double phosphates prepared by different procedures
+
+Fig.  2.  Arrhenius  plots  of  conductivity  for  LiZr2(PO4)3 annealed  at  for Li1.1Zr1.9In0.1(PO4)3 annealed at (3) 650 and (4) 1000°C.
+
+temperatures  below  350°C  (Fig.  3),  whereas  with LiZr2(PO4)3 (Pechini process) this occurs at 450°C.
+
+The ethanol conversion products are diethyl ether, ethylene,  acetaldehyde,  and  С3–С6  hydrocarbons. Their  relative  amounts  depend  on  the  reaction  tem 2) perature and catalyst composition.
+
+Figure 4 shows the temperature dependences of the product  yields  obtained  with  LiZr2(PO4)3  (Pechini process) and Li1.2Zr1.8In0.2(PO4)3 (Pechini process) as catalysts. In the case of LiZr2(PO4)3 (Pechini process), the  major  reaction  products  at  temperatures  below 330°C are diethyl ether and ethylene. At temperatures above  400°C,  the  reaction  products  include  up  to ~25% C3–С6 hydrocarbons.
+
+catalyst Li1.2Zr1.8In0.2(PO4)3 leads to the formation of acetal 2) dehyde  and  diethyl  ether  at  a  temperature  as  low  as 230°C. The reaction direction reversal may be associ 2) ated with both the doping effect and the influence of particle size on the acidity of the catalyst (Table 1). At temperature  above  300°C,  the  reaction  products  are ethylene and C3–С6 hydrocarbons, like with the other catalysts.
+
+materials,  raising  the  ion  mobility  in  the  bulk  of  the samples.
+
+Figure 3 shows the temperature dependences of the degree  of  ethanol  conversion  with  the  phosphates under  investigation  used  as  catalysts.  As  seen,  the materials prepared by the Pechini process and hydro 2) thermal  synthesis  ensure  almost  complete  ethanol conversion. With the material prepared by solid 2)state synthesis, the reaction occurs at higher temperatures. The  indium 2)doped  catalyst  Li1.2Zr1.8In0.2(PO4)3 (Pechini  process)  ensures  full  ethanol  conversion  at
+
+The use of (H3O)Zr2(PO4)3 (hydrothermal synthe 2) sis) as a catalyst leads to ethylene formation (Fig. 5).
+
+Summarizing the present results, we conclude that the best catalytic performance is offered by the mate 2) rials with a large specific surface area, prepared by the Pechini  process.  According  to  our  data,  there  is  no correlation  between  the  ionic  conductivity  (Table  2) and catalytic activity (Fig. 3) of the materials. In par 2) ticular,  all  of  the  materials  prepared  by  solid 2)state reaction have a lower catalytic performance for etha 2) nol conversion in comparison with the materials pre 2) pared  by  the  Pechini  process.  At  the  same  time,  the
+
+Fig. 3. Temperature dependences of the degree of ethanol conversion  with  (1)  Li1.2Zr1.8In0.2(PO4)3  (Pechini  pro 2) cess),  (2)  (H3O)Zr2(PO4)3  (hydrothermal  synthesis), (3) LiZr2(PO4)3  (Pechini  process),  and  (4)  LiZr2(PO4)3 (solid 2)state reaction) as catalysts.
+
+Fig.  4.  Temperature  dependences  of  the  (1,  2)  diethyl ether, (3, 4) ethylene, (5, 6) C3–С6, and (7) acetaldehyde yields  for  ethanol  conversion  with  (1,  3,  5)  LiZr2(PO4)3 (Pechini  process)  and  (2,  4,  6,  7)  Li1.2Zr1.8In0.2(PO4)3 (Pechini process) as catalysts.
+
+Fig. 5. Temperature dependences of the (1) diethyl ether and  (2)  ethylene  yields  for  ethanol  conversion  with (H3O)Zr2(PO4)3 (hydrothermal synthesis) as a catalyst.
+
+conductivity of the former materials may exceed that of the latter (Table 2).
+
+It cannot be ruled out that the catalytic activity of the NASICON 2)type double phosphates and the com 2) position of the ethanol conversion products are gov 2) erned by Lewis acid centers (e.g., zirconium cations) that are located on the surface of catalyst particles and can  act  as  ethanol  adsorption  centers.  The  doping 2) induced electron density redistribution may have a sig 2) nificant effect on the activity of such centers.
+
+We  have   studied   the  catalytic  activity  of A1 ± xZr2 – x Mx(PO4)3 (A = H3O+, Li+; M = In, Nb; x = 0, 0.1, 0.2) NASICON 2)type materials for ethanol dehydration and dehydrogenation.
+
+The results demonstrate that these compounds are active  catalysts  for  ethanol  conversion  to  hydrocar 2) bons.  The  composition  of  the  reaction  products depends on temperature and catalyst composition.
+
+This  work  was  supported  by  the  RF  Ministry  of Education  and  Science  through  the  federal  targeted program  Scientists  and  Teachers  of  Innovative  Russia 2009–2013,  state  contract  nos.  P  992  and 14.740.12.0862.

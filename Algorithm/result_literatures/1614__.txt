@@ -1,0 +1,107 @@
+Spark plasma sintering (SPS) technique has been attempted to prepare dense lithium ion conductors composed of nanostructured Li1.4Al0.4Ti1.6(PO4)3 with the NASICON-type structure. 
+Typical 100% of theoretical density in the pellets was achieved for the sample by SPS at 650 8C, a much lower temperature compared to the solid-state sintering process. 
+The ionic conductivity of 1.12  10 3 S/cm, the highest one for inorganic Li+-ion conductors as reported up to date was obtained at 25 8C with an activation energy (Ea) of 0.25 eV. 
+The enhancement in ionic conductivity of the SPS pellets was supposed mainly due to the decrease in the particle size as well as the extremely high density of the samples. 
+
+The development of new lithium ion battery systems has, in recent years, gained momentum from the need of highenergy density secondary batteries for many mobile electronic applications.
+Application of Li-ion batteries with liquid electrolytes at elevated temperatures (>60 8C) is limited due to the decomposition of the electrolyte. 
+The use of polymeric and inorganic electrolytes can be expected to remove the safety hazards of leakage and inﬂammability. 
+Solid polymer electrolytes do solve a signiﬁcant part of the safety and stability issues, but the basic problems still exist with regard to battery miniaturization, high-temperature operation and thermal shock resistance . 
+Such problems can be overcome completely by using solid inorganic electrolytes such as ceramics and glass–ceramics.
+Ceramics and glass–ceramics based on lithium titanium phosphate have drawn much attention due to their relatively high Li+-ion conductivities at low temperatures, for example the Li1.4Al0.4Ti1.6(PO4)3 (LATP) glass– ceramics displays bulk and total conductivity of 2.09  10 3 S/cm and 6.13  10 4 S/cm at room temperature, respectively . 
+In addition, LATP shows excellent behavior at elevated temperatures, where liquid and polymerbased electrolytes cannot be adopted.
+However, ceramics and glass–ceramics of LATP are predominant bulk conductors. 
+Their bulk conductivities are much higher than that of the grain boundary, which restricts the application of LATP electrolyte materials.
+Spark plasma sintering (SPS) technique is an expeditious and effective heat treating method, which could sinter ceramic powders quickly to its full density at a relatively lower temperature within a much shorter time compared to conventional sintering methods . 
+SPS is deemed as an effective post-spray process for preparing dense nanostructured ceramics.
+It was indicated previously that the ionic conductivity of solid electrolytes can be improved substantially by decreasing the grain size to nanoscale . 
+In this study, we tried to obtain nanostructured LATP ceramics with high density by SPS technique from the nanosized LATP powders at a temperature lower than that by conventional solid-state sintering. 
+And their characteristics have been systematically evaluated.
+
+Ti(OC4H9)4, LiNO3H2O, Al(NO3)39H2O and NH4H2PO4 were used as starting materials with citric acid as the polymer agent. 
+After the homogenization in the aqueous solution of the above starting materials, a certain volume of ethylene glycol was added to prevent the formation of hard agglomerates. 
+The metal ion concentration was adjusted to 0.20 mol L 1. 
+The molar ratio of ‘‘citric acid + ethylene glycol’’ to ‘‘Li+ + Al3+ + Ti4+’’ was ﬁxed to 4 and the value of pH was to 7, respectively. 
+The molar ratio of citric acid:glycol was 1:1. The process to synthesize LATP dry gel will be reported. 
+LATP powders were obtained by heat-treating the dry gel at 800 8C for 2 h.
+The calcined ultraﬁne LATP powders were subsequently sintered in the form of disks using SPS furnace (Dr. Sinter2040, Japan). 
+The powders were placed into a graphite die (15 mm in diameter), and the SPS system was evacuated to 5 Pa, then an electric current of 300 A was applied through the graphite die. 
+A pressure of 45 MPa and a heating rate of 100 8C/min were set for the sintering process. 
+The sintering temperatures were selected to be 650 8C and 700 8C with a holding time from 0 min to 8 min. 
+The as-sintered pellets were annealed in oxygen at 650 8C for 6 h (designated as ‘‘SPS650 + A’’ and ‘‘SPS700 + A’’) to eliminate the graphite permeated into the pellets during the SPS process. 
+The conventional solid-state sintering ceramic disc of LATP (designated ‘‘CSSS850’’) was obtained by isostatic pressing the powders at 200 MPa and sintering at 850 8C in air for 6 h.
+Crystalline phases were identiﬁed by X-ray diffraction (XRD) analysis (Rigaku RINT-2000) at room temperature using Cu Ka radiation with l = 1.5418 Å, 108 < 2u < 808. 
+Chemical analysis of the synthesized sample was performed with an inductively coupled plasma atomic emission spectrometry (ICP-AES). 
+27Al MAS NMR spectrum was acquired using a Bruker VANCE DSX-300 spectrometer at room temperature. 
+The spectrum was recorded at 78.2 MHz. 
+The samples were enclosed in a 4 mm zirconia rotor spinning at a maximum speed of 14 kHz. 
+Typical radio frequency width of 0.6 ms was used with a 5 s recovery delay. 
+Chemical shifts were externally referenced to [Al(H2O)6]3+ in aqueous Al(NO3)3 and 85% H3PO4.
+The microstructures of the crystalline phases were observed by ﬁeld emission scanning electron microscopy (FESEM, JEM-6700F JEOL) on the fracture surfaces. 
+Transmission electron microscopy (TEM) for powders was carried out on a JEM-2010 electron microscope operating at 200 kV. 
+Polished LATP pellets were served for ionic conductivity measurements with gold electrodes sputtered on both sides of the samples as blocking electrodes. 
+Measurements were carried out on a Solartron 1260 impedance analyzer covering the frequency range of 10 1 Hz to 106 Hz between room temperature and 300 8C.
+
+The X-ray diffraction (XRD) patterns are presented in Fig. 1 for LATP samples via various processes, which show the peaks corresponding to the lithium-analogue of NASICON, viz. Li1.4Al0.4Ti1.6(PO4)3. 
+It was noticed, in the previous reports, the impurity crystalline AlPO4 phase was usually inevitable. 
+In this work, pure Li1.4Al0.4Ti1.6(PO4)3 having the LiTi2(PO4)3 structure has been obtained as seen in Fig. 1(a), (b), (d) and (f). 
+However, peaks indexed to AlPO4 are detected for LATP ceramics by annealing at 650 8C for 6 h after SPS at 700 8C and the specimen prepared by SPS at 700 8C. 
+After annealing at 650 8C for 6 h, the intensity of the peaks due to Li1.4Al0.4Ti1.6(PO4)3 increases for both SPS650 + A and SPS700 + A samples, indicating gradual growth of Li1.4Al0.4Ti1.6(PO4)3 phase accompanying oxidation of the graphite. 
+The hexagonal lattice parameters of the Li1.4Al0.4Ti1.6(PO4)3 crystalline phase were obtained by the least squares (LSQ) ﬁtting of the high-angle diffraction peak positions. 
+The a-and c-parameters for SPS650 + A sample are determined to be about 8.503 Å and 20.847 Å, respectively. 
+These values are smaller than those reported in literature for the sintered LiTi2(PO4)3 (a = 8.512 Å and c = 20.858 Å) inferring that the added Al3+ ions are incorporated into the LiTi2(PO4)3 structure by replacing Ti4+ ions.
+The chemical analysis was done to conﬁrm the stoichiometry of the SPS650 + A sample. 
+The chemical formula was Li1.38Al0.4Ti1.6(PO4)2.98 from the ICP-AES result, which agrees well with the targeted composition. 
+The slight loss in lithium content from the initial stoichiometry represents the lithium evaporation during the SPS process.
+
+27Al MAS NMR spectrum for LATP powders is shown in Fig. 2. 
+Two distinct resonances were indicated. 
+The strong peak at  14.3 ppm corresponds to aluminium in an octahedral site, while the weak peak at 40.2 ppm corresponds to aluminium in a tetrahedral site. 
+As known, the structure of LATP is based on that of LiTi2(PO4)3 which contains a rhombohedral (space group: R¯3c) structure with a three-dimensional open framework of TiO6 octahedra sharing all corners with PO4 tetrahedra. 
+Therefore, the octahedral peak is attributed to Al within the LATP structure, while the tetrahedral peak is due to the impurity phase AlPO4. 
+The very low intensity of the peak at 40.2 ppm indicated the higher sensitivity of NMR than XRD, which is the reason that no peaks attributable to the AlPO4 phase in X-ray diffractions were shown for as-prepared LATP powder by citrate sol–gel process. 
+Anyway, the NMR data indicates that the polycrystalline sample is nearly a pure LiTi2(PO4)3-based structured material.
+The TEM morphology of the as-prepared LATP powder is characterized as shown in Fig. 3. 
+The average particle size of the powder obtained at 800 8C for 2 h is about 60 nm. 
+No obvious agglomeration is observed in the powder. 
+Microstructure of LATP ceramics prepared under different conditions is examined. 
+An interesting microstructure is observed in SPS650 + A sample as shown in Fig. 4(a). 
+The ceramics is so dense and the contact between grains is so tight that the grain boundary cannot be distinguished clearly. 
+The crystallized grains are uniform with average size under 100 nm, suggesting that SPS makes it possible to obtain nanostructured dense ceramics at very low temperature. 
+Fig. 4(b) shows that increasing sintering temperature from 650 8C to 700 8C results in obvious increase in grain size and decrease in density, probably resulted from some cracks occurred along the grain boundary.
+As shown in Fig. 4(c), obvious pores are observed at the grain boundaries in the conventionally sintered specimen, indicating that the specimen is not really dense, and the average grain size is found about 600 nm. 
+Density of the LATP ceramics is determined by the Archimedes method with ethanol as the medium. 
+The relative density of the samples is summarized in Table 1. 
+As listed, the ceramics with full density is obtained at a relatively lower temperature by SPS. 
+The relative density for the CSSS850 sample is as low as 95%, leading to a brittle feature of the specimen.
+Ionic conductivity of solid electrolytes is one of the most important factors to inﬂuence the properties of all-solidstate lithium batteries. 
+Nanostructured materials are distinguished from conventional polycrystalline materials in the large fraction of grain boundaries in bulk materials. 
+In nanostructured materials with ionic conductivity, the increase in mobile ionic defects in space-charge regions can account for substantial increase in conductivity as has been shown for nanostructured calcium ﬂuoride .
+In order to examine the electrical performance of LATP ceramics, complex impedance plots are measured as shown in Fig. 5(a). 
+Only one semicircle is observed at the measuring temperature for every sample. 
+From the plots, the total resistances (Rb + Rgb) and the bulk resistances (Rb) of the samples are obtained from the right and left intercepts of the semicircle with the real axis, respectively. 
+Then, the conductivity values of sb (bulk conductivity) and st (total conductivity) can be calculated with s = d/AR, where d is the sample thickness, A, the area of the electrolyte and R, resistance of the corresponding Rb and (Rb + Rgb). 
+It is noteworthy that the bulk resistance remains constant for the three samples, while their grain boundary resistances change obviously. 
+This phenomenon is consistent with those observed for ion conductivity and diffusion in nanostructured materials because the grain boundary dominates due to larger concentration and higher mobility of ions in the intergranular region . 
+Fig. 5(b) shows the complex impedance plots tested at different temperatures for SPS650 + A sample. 
+A semicircle is observed at 24 8C for highfrequency range with a spike in low-frequency range, caused by an electrode contribution. 
+The semicircle is interpreted as the parallel combination of a resistance and a capacitance. 
+At higher temperatures viz. 62 8C and 105 8C, the semicircle disappears gradually and only a spike caused by the electrode contribution is observed. 
+The impedance plots are characteristics of a pure ionic conductor composed of bulk, grain boundary and electrode contributions. 
+The plots of log(stT) against 1000/T in Fig. 6 are found to be linear and well ﬁt the Arrhenius equation, stT = A exp( Ea/kT), where A is the pre-exponential factor, Ea is the activation energy for conduction and k is the gas constant, demonstrating that there is no structure and phase change for all samples in the testing temperature range. 
+The maximum values of sb and st at room temperature, 3.25 10 3 S/cm and 1.12 10 3 S/cm, respectively which are the highest values for an inorganic Li+-ion conductor ever reported are much higher than the data of Li1+xAlxTi2 x(PO4)3 previously reported. 
+As seen from the Arrhenius plots, the slopes gradually increase from SPS650 + A sample to SPS700 + A sample. 
+The activation energies (Ea) are calculated from the rates of slope as listed in Table 1, and the minimum Ea of 0.25 eV is obtained for SPS650 + A sample.
+As the total ionic conductivity comprises the bulk and the grain boundary conductivity, it could be supposed that the grain boundary is the main conduction mechanism for nanostructured electrolyte materials. 
+Combining the FESEM and ac impedance results in order to understand the mechanism of the conductivity enhancement, a trend between the primary grain size and the ionic conductivity is apparent. 
+The grain boundary conductivity obviously increases with decrease of the particle size to the nanoscale, and hence the total ionic conductivity. 
+It was reasonable to suggest that a decrease in grain size even to nanoscale and high bulk density are imperative to the high conductivity of inorganic lithium ion conductors.
+
+Inorganic solid-state electrolytes are promising for the solution to the safety issue of lithium ion batteries. 
+Spark plasma sintering (SPS) technique has been attempted to prepare dense lithium ion conductors composed of the crystalline conductive phase of Li1.4Al0.4Ti1.6(PO4)3 with NASICON-type structure. 
+Pellet densities are greatly high, and 100% of the theoretical density is obtained by annealing at 650 8C for 6 h after SPS at 650 8C, a relatively lower temperature compared to conventional solid-state sintering methods. 
+The maximum room temperature conductivity, 3.25  10 3 S/cm and 1.12  10 3 S/cm of sb and st, respectively are obtained for the fully dense specimen, which are the highest values for inorganic Li+-ion conductors as reported. 
+The enhancement for ion conductivity of the SPS pellets is mainly due to the decrease in the length scale of particle size to the nanoscale and hence the increase in the pellet density and mobile ionic defects in grain boundary regions. 
+We consider that the simplicity of the process should make it useful for detailed explorations of dense nanostructured materials with smaller grain size, in order to take advantage of their grain-size-dependent physical properties.
+
+

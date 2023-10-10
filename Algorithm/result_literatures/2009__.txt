@@ -1,0 +1,68 @@
+Journal of Electroceramics, 8, 49–55, 2002 C 2) 2002 Kluwer Academic Publishers. Manufactured in The Netherlands.
+
+Impedance spectra of the solid electrolyte (Nasicon) were investigated by means of complex impedance in the frequency range 0.1 Hz–1 MHz at temperatures between 298 and 873 K. A plausible equivalent circuit consisting of resistor and constant phase element in series was proposed. Pronounced effect of electrode structure on impedance spectra has been observed. The equivalent circuit for the sample with Pt blocking electrodes in the temperature range 298 K–773 K is composed mostly of the CPE element, representing electrode-material interface (Warburg impedance). On the other hand, the Nasicon sample with porous Pt electrodes may be simulated by the circuit formed from the resistance R and the CPE element in series. At 573 K and above the CPE element is reduced to the simple Debye capacitor. The determined electrical conductivity and activation energy of conductivity are in general agreement with those for bulk of Nasicon reported in the literature.
+
+impedance spectroscopy, electrochemical gas sensors, solid electrolytes, Nasicon
+
+The Nasicon, Na1+x Zr2Six P3−x O12 (with 1 ≤ x ≤ 3), has been proposed by Hong et al. [1, 2] for many electrochemical devices such as batteries, ion selective membranes and electrochemical sensors. It is one + of the best Na ion conducting solid electrolytes. It consists of ZrO6 octahedrons linked by corners to (Si, P)O4 tetrahedra [2]. Sodium ions are located in three-dimensional lattice channels. The conductivity mechanism of Na containing Nasicon is similar to that of β-aluminas. However, contrary to β-alumina, Nasicon is less sensitive to degradation by moisture [3].
+
+Taking into account the properties mentioned above, this ionic conductor seems to be the most promising solid electrolyte for constructing an electrochemical gas sensors. Many types of electrochemical sensors that employ Nasicon as a solid electrolyte have been tested for monitoring CO2, SOx and NOx gases [4–12], but no respectable characteristics for practical use has been achieved so far. The main disadvantage of many proposed sensors is a long-time instability of the sensor signal. The elucidation of processes occurring in the sensor is essential for the improvement of the sensor characteristics.
+
+The purpose of our study, reported in the present and the following paper [13], is to ﬁnd the mechanism of charge transfer inside the solid electrochemical cells
+
+used as gas sensors. This understanding is fundamental for processing of both solid electrolyte and electrode materials with controlled properties for high performance and reliable electrochemical gas sensors. This paper presents the obtained data of the charge transfer in the solid electrolyte (Nasicon) determined on the basis of the impedance spectroscopy measurements. The observed electrical properties and effects are discussed from the points of view of electrode, bulk and interface properties.
+
+The Na3Zr2Si2PO12 (Nasicon) samples were prepared by a solid-state reaction method. The appropriate amounts of ZrSiO4 and Na3PO4·12 H2O powders (ACS grade 99+%, Sigma-Aldrich) were crushed and mixed in a vibrational mill with ZrO2 balls in ethyl alcohol suspension to form a ﬁne powder mixture. After drying at 373 K the powder was pressed in a pellet die and the samples obtained were calcined at 1373 K for 48 hours. The pellets were again crushed in an agate mortar, once more milled, uniaxially pressed into pellets at 70 MPa, isostatically pressed at 200 MPa, then sintered at 1523 K for 20 hours. Subsequently, the sintered pellets were polished using diamond paste to the approx. diameter of 10.7 mm and thickness of 1.8 mm, cleaned in alcohol using an ultrasonic cleaner, dried at 373 K and stored in a desiccator until used for preparation of samples or further experiments.
+
+The X-ray diffraction measurements have shown that the material has the structure of monoclinic Na3Zr2Si2PO12 with a very slight admixture of ZrO2 phase. The measured density of the samples was about 95% of the theoretical density (3.16 g/cm3).
+
+Two types of platinum electrodes were applied at the both sides of Nasicon pellets for the impedance measurements: (1) platinum solid plates (sample labelled as “N1”), or (2) porous platinum electrodes prepared by screen
+
+printing method (sample labelled as “N2”). The porous platinum electrodes at the Nasicon pellets were fabricated by subsequent screen printing
+
+of platinum paste (prod. Demetron, Germany), then dried at the room temperature and ﬁred at 1173 K for 30 minutes.
+
+Impedance Measurements
+
+The impedance measurements were performed using an IM5d Impedance Spectrum Analyser (Zahner Electrik) in the frequency range 0.1 Hz–1 MHz. The amplitude of sinusoidal voltage signal was 20 mV. All the measurements were carried out in air in the temperature range 298–873 K. Prior to any measurement each sample was kept for at least 30 minutes at the experimental conditions (after temperature change) in order to allow the sample to reach the equilibrium.
+
+Figures 1–5 illustrate typical experimental results for the samples N1 and N2 presented in either complex impedance (Figs. 1–3) or complex admittance coordican nates (Figs. 4 and 5). The dependences of Z be estimated by one (Figs. 2 and 3) or two straight lines (Fig. 1). At the lower temperatures (298 K and 573 K) the plots cross the initial point of the coordinates (0, 0). At the higher temperatures (623 K and above) the intersects of the plots with Z
+
+axes are positive.
+
+On the other hand, in the case of the sample N2 at 573 K and higher temperatures the admittance plots may be approximated by circles (Fig. 5). The centers of the circles are located below of the Y axis. Only at the room temperature the admittance plot for the sample N2 has a different shape, as presented in Fig. 4.
+
+In order to explain the observed dependencies we have analysed several equivalent circuits consisting of a set of resistors, capacitors and inductances with constant parameters (so called Debye elements) or non-Debye elements such as a Constant Phase Element, CPE [14]. The impedance behavior of the equivalent circuit has to be identical with the behavior found for the sample. Moreover, the elements proposed in the equivalent circuit must have a physical meaning.
+
+The circuit proposed in Fig. 6(a) is the most simplest equivalent circuit that approximated the impedance of the studied samples with a good accuracy. The impedance of the CPE element, ZCPE is deﬁned by [14]
+
+where A and n are constants, j is the imaginary unit and ω is an angular frequency. In particular, for n = 2 the CPE element is termed a Warburg impedance, while for n = 1 the CPE is reduced to the Debye capacitor with capacitance 1/A and, ﬁnally for the parameter n approaching the inﬁnity the element CPE represents a resistor with resistance A.
+
+Considering the equivalent circuit composed of a resistance R and a CPE element connected in series, as shown in Fig. 6(a), we obtain for the impedance  8) 8) = R + ZCPE = R + A( j ω)
+
+Figure 7 illustrates an example of the dependencies given by Eqs. (3) and (4) obtained for the sample N1 at 573 K. The performed error estimation analysis indicates that the n parameter values can be determined from Eqs. (3) or (4) more precisely than from Eq. (5). Figure 8 shows the dependences of parameter n obtained from Eqs. (3)–(5) on the temperature. According to Fig. 8 in the temperature range 573 K–873 K the parameter n assumes values close to 2, corresponding to the Warburg impedance.
+
+In the lower temperature range, up to 573 K (Fig. 1), the plot can be approximated by two straight lines with the interesection at the point (0, 0). In this temperature range the total impedance is mostly controlled by the component ZCPE, rather than R. The absence of the other elements in the equivalent circuit may be explained by the predominance of the Warburg impedance [14] in this case.
+
+For the higher temperatures, 623 K and above only one straight line is observed and the intersection with Z axis yields positive values. Hence, the parameter n can be determined from the slope and
+Electrochemical Gas Sensor semicircle and the ‘spur’. Similar relations have been observed for CdF2 at 336 K [15], for β-alumina at 169 K [16]. These results may be described by the circuit presented in Fig. 6(a) modiﬁed by addition of a second CPE element parallel to the resistor R. Such circuits were analysed by Bauerle [17] for the ideal case, where both the CPE elements were replaced by the Debye capacitors. Under this conditions the “spur” is perpendicular to the Y axis. The angle between the “spur” and  8) ). Y This corresponds to the value of parameter n for the second CPE element n2 = 1.348 ± 0.030.
+
+axis in Fig. 4 is equal to 1.165± 0.003 rad 
+
+The typical impedance spectra of the sample N2 obtained at higher temperatures (573 K and above) are illustrated in Figs. 3 and 5, in the complex impedance and admittance coordinates, respectively. For the positive values of Y the experimental points may be repreaxis in the points sented by a semicircle, crossing the Y (0, 0) and (1/R, 0). The ﬁtted parameters of the sample N2 in the complex admittance coordinates are shown in the Table 1. As can be seen, the parameter ni assumes values close to 1 in the temperature range 573 K–873 K. It means, that the CPE element illustrated in Fig. 6(a) is reduced to the simple Debye capacitor. Moreover, at higher frequencies the experimental points represent negative values of Y (Fig. 5). The presence of such points indicates the inductance effects from the connecting wires.
+
+Considering the R-L-C circuit represented by resistance R, inductance L and capacitance C connected in series, we shall get the following relationship:
+
+ω tan θ = − L R ω2 + 1 RC where θ is the phase angle (tan = Z ). Figure 9 illustrates the dependence ω tan θ vs. ω2 for the sample
+
+The replacement of Pt plates by porous Pt layers results in the reduction of CPE participation in the total impedance within the whole temperature range. In this case we are able to determine the resistance R and CPE components from the complex plots of impedances and admittances. Typical experimental results obtained for the sample N2 at room temperature are presented in Fig. 4 (in the coordinates Y ). The experimental points may be approximated by the arc-part of the
+
+Fig. 10. Inductance L and capacitance C as a function of reciprocal temperature for the sample N2.
+
+N2 at various temperatures. The data from Table 1 and the parameters of the straight line from Fig. 9 allow us to determine both L and C. Figure 10 illustrates the temperature dependences of L and C. −6 F The capacitance values are of the order 10 and increase with temperature. On the other hand, the inductance L is independent of temperature and equal to 0.609± 0.019 µH. This value is typical for the inductance of lead connections.
+
+The dependencies of log(σ T ) vs. 1/T for N1 and N2 samples are presented in Fig. 11. The sample N2 shows an electrical conductivity that is several times higher
+sample N1 may be explained by poor electrical contacts between the electrodes and electrolyte.
+
+the solid electrolyte The impedance spectra of (Nasicon) were investigated by analysis of the complex impedance spectra at the frequencies ranging from 0.1 Hz to 1 MHz and temperatures 298 K to 873 K. The distinct effect of the type of electrode on the impedance spectra was observed. The equivalent circuit for the sample with Pt blocking electrodes (N1 sample) in the temperature range 298 K–773 K is composed mostly of the CPE element, representing electrode-material interface (Warburg impedance). On the other hand, the Nasicon sample with porous Pt electrodes (N2 sample) may be simulated by the circuit formed from the resistance R and the CPE element in series. At 573 K and above the CPE element is reduced to the simple Debye capacitor. The determined electrical conductivity and activation energy of conductivity are in general agreement with those for bulk of Nasicon reported in the literature.
+

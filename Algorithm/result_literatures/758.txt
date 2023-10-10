@@ -1,0 +1,10 @@
+Off-stoichiometric Na3+3xV2-x(PO4)3 samples have beenprepared by a sol-gel route.
+X-ray diffraction and XPS will reveal theflexibility of the NASICON framework to accommodate these deviations of the stochiometry at least for low x values.
+X-rayphotoelectron spectra evidence the presence of Na4P2O7 impurities.
+The synergic combination of the structural deviations and thepresence of Na4P2O7 impurities induce a significant improvement of the electrochemical performance and cycling stability at high rates,as compared to the stoichiometric Na3V2(PO4)3 sample.
+The fastkinetic response provided by the induced off-stoichiometry involves adecrease of the cell resistance.
+Off-stoichiometric Na3+3xV2-x(PO4)3 samples were synthesized by solgel method in which a controlled excess of sodium was introduced in the range between 0 and 0.15. The X-raydiffraction patterns revealed the progressive appearance ofcrystalline Na4P2O7, which is clearly evidenced in samples withx=0.1 and 0.15. Otherwise, increasingly contributions ofcomponents ascribable to Na4P2O7 are visible in the O1s andNa1s core levels spectra of Na3+3xV2-x(PO4)3 samples.
+The electrochemical tests disclosed a better rate performance of off-stoichiometric Na3+3xV2-x(PO4)3 samples ascompared to Na3V2(PO4)3. Thus, NVP-0.05 reached values 67mA h g−1 after 400 cycles at 20C (6 minutes for a full charge)and a coulombic efficiency of 89%.
+This behavior is correlated toa low internal resistance at the electrode-electrolyte interphaseand enhanced sodium diffusion through the off-stoichiometric compound.
+This optimal electrode configuration is mainly associated to a flexible NASICON structure and the presence ofNa4P2O7. A Na3.15V1.95(PO4)3//Graphite full cell delivered anenergy density of 244 W h kg−1 at an operating voltage of 2.7 V,referred to the mass of active cathode material.
+This performance confirms the feasibility of the concept of sodium-ionbatteries.

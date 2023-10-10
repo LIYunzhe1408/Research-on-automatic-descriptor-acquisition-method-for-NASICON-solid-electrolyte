@@ -1,0 +1,59 @@
+With the increasing enlargement of renewable energy consumption and the fast development ofenergy storage devices such as plug-in hybrids and portable power source, large-scale electricalenergy storage systems are attracting considerable interest.
+
+Because of the wide availability andabundant mineral reserves of sodium resources, rechargeable sodium-ion batteries have beenwidely studied as promising alternatives to lithium-ion batteries.
+
+To reveal the practicability andcommercial value of the materials, full-cells have high research value and broad applications inenergy storage devices.
+
+ However, bits of work on full sodium-ion batteries such asNa1.25V3O8//carbon nanofiber, Na3V2(PO4)3//Fe3S4 and NaCrO2//hard carbon have beenreported,7-10 which are restricted by low capacity of the cathode and poor cycling performance ofthe anode.
+
+Hence, it still faces a tremendous challenge and pressing needs to find the appropriateanode and cathode materials for advanced full sodium-ion batteries.
+
+Numerous carbon materials and their derivatives have attracted great attention in the feed ofsodium-ion batteries with the theoretical capacity of 279 mA h g-1, due to the low-cost andnaturally-abundant of the sodium where environmentally friendliness is an eternal topic aroundthe world.
+It is unfortunate that large size of sodium ion may induce a larger volume changeupon intercalation into graphitic anodes, which hinders the practical use.
+
+It is urgent to prepareexcellent materials with high special capacity, long-cycle stability and excellent rate performance.
+
+In the recent researches, materials derived from waste biomass resources into chemicals and fuelshave been studied extensively due to the consensus of the urgent needs for an eco-friendlyalternative to fossil fuels and products.
+
+Biomass and organic waste products, such as peanutshell, lignocellulose, wheat bran, pomelo peel and so on, have been used in the field of energystorage systems, which are seldom seen as available anodes for sodium rechargeable batteries.
+On the other hand, full sodium-ion batteries don’t employ elemental sodium as the cathode, wheremetal oxide and their derivatives such as Na3PSe4, Na4Fe(CN)6, and NaV1−xCrxPO4F, NaV6O15 areused as cathode instead in sodium-ion battery.
+
+ As a framework structure which provides asuitable tunnel size for Na+ migration during cycling process, NASICON (Na+superionicconductor)-type structure materials with their facile sodium ion conductivity, low thermalexpansion behavior, ability to accommodate ions and large surface area have won the broadinvestigation in sodium-ion batteries.
+
+Recently, NASICON-type Na3V2(PO4)3 has been furtherinvestigated as a prospective cathode material due to the low potential plateau in electrochemicalresponse and impressive theoretical energy density.
+
+In this work, lamellar structured carbon anodes derived from biomass byproduct maize husks(LCMH) and suited NASICON structured Na3V2(PO4)3 cathodes are fabricated to assemble a fullsodium-ion battery, which exhibits extremely long cycle life of 1000 cycles at 300 mA g-1.Electrochemical performance gives a clear demonstration of ultra-long cycling stability and highcapacity in both the cathode and anode sides.
+
+The carbonized maize husks with lamellar structure(LCMH) reveal a high capacity of ~255.1 mA h g-1and superior cycling performance for morethan 5000 cycles.
+
+Unique oxidation exfoliation process can expand the interlayers of materials andendow the LCMH higher effective surface area, which provides a stable framework for sodiumstorage.
+
+Significantly, in-situ X-ray diffraction (XRD) measurements are used to monitor theprocess of Na+insertion and extraction, which reveal tiny lattice variation and confirm thereduction of volume change of anode materials due to the stationary lamellar structure.
+
+Hence, ouroutstanding strategy to turn the waste biomass into treasure is attracting a great degree of interestdue to their new avenues for fabricating high performance sodium-ion battery materials for energystorage.
+
+The strategy to prepare LCMH is shown in Figure 1A, and the details are presented in theExperimental Section.
+
+Initially, the washed and dried maize husks are disposed by carbonizedprocess.
+
+ After that, the following exfoliation is used to obtain lamellar structure.
+
+The increaseddefect composed of oxygen-containing functional group are successfully obtained afterexfoliated, which the graphite is falling off and the volume is substantially expanded.
+
+The surfacearea of as-prepared LCMH is enlarged, which is demonstrated by BET and effective surface areameasurement.
+
+Scanning electron microscopy (SEM) and transmission electron microscopy (TEM)confirm the morphology as well as lamellar-like structure of LCMH (Figure 1A and Figure 1B),which endows the product higher surface area.
+
+Anode materials in most of the current sodium-ionbatteries have focused on disordered carbon and their derivatives, because the disorderedstructure and relatively large interlayer distance can effectively facilitate the insertion andextraction of sodium ions.
+
+High-resolution transmission electron microscopy (HRTEM)image from Figure 1C illustrates that the LCMH is composed of amorphous carbon,corresponding to selected area electron diffraction image as the feature of amorphous materialswith turbostratic microstructure.
+
+Figure S1A shows the Raman spectra of the carbonized maize husks (CMH) and LCMH, all ofwhich display two strong bands of D-band and G-band located at 1329.3 cm-1and 1586.9 cm-1,respectively.
+
+The D-band assigns to the disordered sp3-C atoms which is caused by the structuralimperfections from hydroxyl and epoxide groups on carbon sheet, and G-band ascribes to the sp2carbon-bonded graphitic structure.
+
+The LCMH exhibits the higher intensity ratio of D-bandto G-band due to the structural distortion and increased defect after exfoliation, which canenhance the electrical conductivity of materials and improve the cycling performance ofsodium-ion batteries.
+Moreover, the effective surface area plays a crucial part in enhancing the adsorption of ion andimproving electrochemical performance in the field of sodium-ion battery.
+
+To estimate theeffective surface area of the LCMH, cyclic voltammetry (CV) measurements of the materials areintroduced in a three electrode system containing 0.01 M K3Fe(CN)6 and 0.1 M KClsolution.
+

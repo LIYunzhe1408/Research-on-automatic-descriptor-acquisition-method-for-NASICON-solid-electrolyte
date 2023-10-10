@@ -1,0 +1,10 @@
+Sodium-ion batteries are potential low-cost alternatives to current lithium-ion technology,yet their performances still fall short of expectation due to the lack of suitable electrode materialswith large capacity, long-term cycling stability and high-rate performance.
+In this work, wedemonstrated that ultrasmall (~5 nm) iron selenide (FeSe2) nanoparticles exhibited a remarkableactivity for sodium-ion storage.
+They were prepared from a high-temperature solution method with anarrow size distribution and high yield, and could be readily redispersed in non-polar organicsolvents.
+In ether-based electrolyte, FeSe2 nanoparticles exhibited a large specific capacity of ~500mAh/g (close to the theoretical limit), high rate capability with ~250 mAh/g retained at 10 A/g, andexcellent cycling stability at both low and high current rates by virtue of their advantageousnanosizing effect.
+Full sodium-ion batteries were also constructed from coupling FeSe2 withNASICON-type Na3V2(PO4)3 cathode, and demonstrated impressive capacity and cycle ability.
+In summary, we developed a high-temperature solution method to prepare FeSe2 NPs with anarrow size distribution and high yield.
+When assessed as the anode material of sodium-ion batteries,it exhibited a large specific capacity close to the theoretical value, high rate capability with ~250mAh/g retained even at 10 A/g, and excellent cycling stability at both low and high current rates.
+Thesuperior performance of FeSe2 NPs was attributed to the large surface area, short ionic diffusionlength and better stress accommodation associated with the ultra-small size.
+In addition, wedemonstrated that FeSe2 NPs could be coupled with NVP to form full sodium-ion batteries with anaverage working voltage of ~2 V and large reversible capacity of ~500 mAh/g when normalized tothe mass of anode.
+Our study here suggested the great potential of nanosized FeSe2 towardhigh-performance Na+ ion storage.

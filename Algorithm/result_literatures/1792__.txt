@@ -1,0 +1,7 @@
+The room-temperature crystal structure of La1/3Zr2(PO4)3, synthesized by the Pechini sol-gel process,has been determined from X-ray powder and neutron diffraction data [space group P3h, Z ) 6, a )8.7378(2) Å, c ) 23.2156(7) Å].
+It derives from the NASICON-structural type (space group R3hc); if the[Zr2(PO4)3]- network is preserved, the two La3+ ions are found quasiordered along the c axis: 1 on the1a (0, 0, 0), 0.82 on the 1b (0, 0, 1/2) sites, and the remaining 0.18 La3+ ions occupying partially a 2d site(1/3, 2/3, 0.667(5)).
+One and two dimensional 31P nuclear magnetic resonance (1D and 2D, respectively)investigations confirm this distribution.
+La1/3Zr2(PO4)3 crystallizes at room temperature in P3h, anew space group in the NASICON materials family.
+It isdemonstrated by X-ray and neutron powder diffraction andconfirmed precisely by 31P NMR experiments.
+The [Zr2-(PO4)3]- classical network is preserved and the major partof the La3+ ions preferentially occupies the sites 1a (0, 0, 0)and 1b (0, 0, 1/2), the remaining being located dissymmetricallyon one site 2d (1/3, 2/3, z, with z  2/3).
+This situationof quasiperfect ordering of the two La3+ ions on the c axisof the unit cell, in one-third of the six usual M1 positions ofthe NASICON network, differs from that observed in theparent compound La1/3Ti2(PO4)3, where the two La3+ ionsare distributed on the site 3a (0, 0, 0) of the R3h space group.

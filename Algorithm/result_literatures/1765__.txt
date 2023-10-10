@@ -1,0 +1,36 @@
+2(LiZnHP2O7) single crystals were synthesized by the hydrothermal technique and characterized by X-ray diffraction method.
+The compoundcrystallizes in the orthorhombic space group Pca21 with cell parameters a=13.422(2)Å, b=5.023(9)Å, c=16.053(1)Å, and has a open-frameworklayered polymeric structure.
+DTA study indicates that this compound is fairly stable.
+NASICON and LISICON were extensively studied owing totheir wide applications as solid electrolytes.
+The heating rate used for theanalysis was 10 °C/min.
+FTIR-Spectrum was recorded using ahigh resolution Perkin Elmer Infrared Spectrophotometer in thefrequency range 4000–400 cm−1. Elemental analysis for hydrogenwere done by using Elementar, Vario II, Germany.
+Crystal structure of 2(LiZnHP2O7) was determined by X-ray diffraction method.
+A good single crystal of appropriate size was chosencarefully using polarizing microscope and glued to a thinglass capillary.
+Using CCD camera, the crystal was opticallycentered and the experiment was performed on a DIPLaboKappa Image Plate Diffractometer equipped with normalfocus, 3 Kw sealed X-ray source .
+The crystal to detector distance was fixed at120 mm with a detector of area 441×240 mm2. 
+Thirty sixframes of data were collected by the oscillation method.
+Successive frames were scanned in steps of 3°/min with anoscillation range of 5°.
+Image processing and data reductionwere done by using Denzo [18].
+The details of crystal andstructure refinement are give in Table 1. The structure wassolved by direct methods and expanded by Fourier techniques.
+Initial phase sets yielded a model with a minimumcombined figure of merit, which gave the positions of allthe non-hydrogen atoms in the first map itself.
+
+Anisotropic refinement was started at thisstage and after eight cycles of refinement the residual converged to 0.0754 for 2001 reflections, 199 parameters andone restraint.
+
+Theywere placed at geometrically calculated positions and wererefined with isotropic temperature factors.
+The statisticalweight factor was also included in the last cycle of refinement.
+The weight loss at 120 °C is due tothe liberation of adsorbed water molecules and at 200 °C is due to theliberation of structural-OH groups.
+The sharp weight loss observed at  415–565 °C, is due to the endothermic irreversible phase transition.
+Elemental analysis for 2(LiZnHP2O7); Calculated H: 0.41% and FoundH: 0.56%.
+
+The vibrations atν1 indicate the presence of bonding hydroxyl groups in the structure.
+
+This coordinationenvironment has independent four membered (Zn–O–P–O) andsix membered (Z–O–P–O–P–O) ring columns, respectively.
+Theyare slightly distorted and Zn acts as a metal center to the [P2O7]2linear chain pyrophosphate units.
+Zinc has a distorted trigonal bipyramidalcoordination.
+The 3-dimensional representation of the moleculesshows a open- framework layered polymeric structure with fourmembered,six-membered and fourteen- membered apertures (Fig.5).
+The fourteen-membered aperture has Li atom at the centre.
+Thestability and formation of framework structure depends, in additionto the hydrothermal synthesis conditions, on the hydrogen bondinteraction also.
+In the layered structure, due to the proximity of theOH molecule to the framework oxygen atoms, short hydrogen bond The free Li present in the structure may have mobility as like inNASICON-type structures .
+The average values of P–O distancesand O–P–O or P–O–P angles agree well with those reported forchain pyrophosphates.
+The prelimnary impedance spectroscopyresults are promising and showed ionic conductivity values in the orderof 10−5 to 10−4 S cm−1 at 573 K.
+Detailed impedance spectroscopyresults will be published elsewhere.

@@ -1,0 +1,130 @@
+The values obtained for activation energy of crystallization (Ea) are compared and used for determination of crystallization index, n and m.
+The Ea value obtained for LAGP1 is 375 ± 17 kJ mol-1 which is higher as compared to the Ea value of LAGP2, 199 ± 22 kJ mol-1. LAGP2 with higher amount of Si(0.5) causes signiﬁcant structural modiﬁcation in the phosphate network and an early phase separation in the silico-phosphate glass.
+Thus, LAGP2 shows lower activation energy value as compared to LAGP1. The kinetic parameter, n, related to crystal nucleation, was evaluated from crystallized volume fraction (x) at a ﬁxed temperature using predetermined Ea value, and other parameter ‘m’ related to the crystal growth was determined using the modiﬁed Kissinger equation.
+The model-free kinetics was used to evaluate the variation of Ea, m and n with temperature and suggests a dynamic nucleation and crystallization process with progressive change in kinetic parameters.
+In LAGP1 sample, an unusual increase in Ea value was observed at x value [ 0.2 and can be correlated with the existing ‘self-feeding’ process, which is observed in DTA plots.
+In both of these systems, the values of n and m are found to be equal and more than 3 which suggests three-dimensional growths of Li1.5Ge1.5Al0.5(PO4) crystals on a constant number of already grown nuclei.
+XRD and micro-Raman spectroscopy were used to identify the crystalline phase formed and various structural units present in the glass and glass–ceramics samples.
+Minor amount of LiAlPO4 was conﬁrmed from XRD and Raman spectroscopy along with major Li1.5Ge1.5Al0.5(PO4) phase.
+In addition, using advanced kinetics and technology solution software non-isothermal data were simulated and the isothermal conversion data were extracted for various temperatures which are found to be very close to experimental isothermal data.
+erms of their superior mechanical, thermal and electrical properties and can be tailor made for different applications.
+Glass–ceramics are prepared by either sintering route through surface nucleation or glass1 Glass and Advanced Materials Division, Bhabha AtomicResearch Centre, Trombay, Mumbai, Indiaroute, through bulk nucleation.
+In case of glass route, heat schedule for nucleation and crystallization in parent glass needs to be optimized, for acquiring desired crystalline phase and their appropriate concentration with correct microstructure.
+Many glass–ceramics are reported for potential applications in the ﬁeld of optical, electrical, biomedical, nuclear, energy, consumer/domestics, etc.
+Among others, glass–ceramics with NASICON (acronym of Na Super Ionic Conductor) structure have potential application in the ﬁeld of energy storage device specially in the form of Li–solid-state electrolyte in Li metal/Li-ion battery.
+In these systems, NASICON phase with andesiredcrystallinephase withtechniques to ﬁnd outopen structure and large number of Li vacancy sites are responsible for high Li-ionic conductivity.
+In the literature, the glass ceramic systems based on Li2O–Al2O3–GeO2– P2O5 and Li2O–Al2O3–TiO2–P2O5 with NASICON phases are already reported for possible use as electrolyte in Li-ion battery.
+As right microstructure is needed for achieving optimum electrical conductivity, chemical and thermal stability, thereby optimization of the process parameters is very much essential.
+Thus for developing new functional glass–ceramics materials, understanding the kinetics of nucleation/growth of glass system is considered as one of the most important step to control the desired properties during ceramization.
+Differential thermal analysis (DTA) technique is one of the vital the kinetics of nucleation/growth.
+Although DSC technique is more accurate in measurements of heat of reaction as compared to DTA technique, many crystallization kinetics studies are reported using DTA technique with proper calibration.
+This is easy and comparatively reliable process to study on crystallization kinetics.
+The glass system needs better understanding due to complexity involved with multi-component system.
+Many times it is difﬁcult to explicit the correct mechanism and employ a correct model to evaluate the kinetics parameters in the glass systems.
+These methods encounter with an error in activation energy calculation and give no information about the nucleation and growth mechanism.
+Although many studies related to kinetics of different glass systems are reported, these always included error because of the many approximations.
+In addition to non-isothermal kinetics, many authors used isothermal crystallization kinetics to evaluate Ea and kinetics parameters.
+John–Mehl–Avrami (JMA) equation is primarily based on isothermal crystallization, but many authors also used JMA equation for non-isothermal crystallization kinetics studyis much more difﬁcultA.This method is found more suitable for glass and glass–ceramic systems.
+For Avrami exponent determination, some authors used FWHM of the DTA peak employing Ozawa equation.
+Nowadays, the model-free kinetics, based on iso-conversional methods, became much popular because these are found to be more accurate .
+The calculation of activation energy based on iso-conversional method does not require knowledge of growth mechanism and has less number of approximations.
+In a recent communication uses of linear iso-conversional methods, Kissinger–Akahira–Sunose (KAS) method, Starink method and Tang method to calculate the activation energy of crystallization are reported.
+Few studies on the crystallization kinetics of similar Li2O–Al2O3–GeO2–P2O5 system are also reported where calculation of activation energy of crystallization using various methods is carried ou.
+In the present work, we aim to carry out a comparative crystallization kinetics study in two different Li2O–Al2O3–GeO2–P2O5 (LAGP) glass–ceramics systems with effect of different P2O5/SiO2 contents.
+As these systems have potential application in the ﬁeld of energy storage device, this need right amount of NASICON phase with desired microstructure for optimum performance.
+In this study, SiO2 was substituted in place of P2O to see the improvement in the chemical stability of the system.
+Various methods are used to evaluate the kinetic parameters and understand the growth and kinetics in these systems.
+Ea obtained from model-free kinetics is used to evaluate the kinetics parameters (m and n).
+Isothermal data were simulated from non-isothermal data, using AKTS (advanced kinetics and technology solution software).
+X-ray diffractometer (XRD) and micro-Raman spectroscopy were used to identify the nature of phases and different structural units present in the glass and glass– ceramics samples.
+ExperimentalTwo different glass systems with compositions (a) Li1.5Al0.5Ge1.5P2.9Si0.1O12 (LAGP1) and (b) Li1.5Al0.5Ge1.5P2.5Si0.5O12 (LAGP2) were prepared by standard meltquenched technique.
+Each 100 g of batches was prepared by taking initial constituents, in the form of carbonate and diammonium hydrogen proportionatephosphateCrystallization kinetics of Li2O–Al2O3–GeO2–P2O5 glass–ceramics systemamount.
+Initial batch was calcined at their corresponding decomposition temperatures and held for sufﬁcient time to convert into their corresponding oxide form.
+The calcinations process was repeated to ensure complete decomposition after through mixing and grinding.
+After calcination, the charge was mixed and grounded properly and melted in a Pt–Rh crucible at around 1450–1550 °C.
+The melt was held at the melting temperature for 1–2 h for homogenization and poured on a metal plate.
+The glass was annealed at around 450–550 °C for 4–6 h and cool down to room temperature slowly.
+The annealed glasses were powdered, and differential thermal analysis measurements were carried out using a TGA/DTA instrument, Model Labsys 1600, M/s Setaram, France.
+Pt crucible was used as both sample and reference.
+Solid glass samples were taken for the DTA scan to avoid the dependency of crystallization on the particle size distribution.
+The measurements were carried out using air as carrier gas with a ﬂow rate of 70 L min-1. For kinetics measurements, DTA scans were recorded at the heating rates of 5, 10, 15, 20 and 25 K min-1. The samples were scanned up to maximum 900 °C.
+Area under the DTA curve was calculated after proper baseline correction.
+AKTS (advanced kinetics and technology solution) software was used for simulation of non-isothermal data and model-free kinetics prediction.
+Powder X-ray diffraction (XRD) technique was used to identify the nature of crystalline phases present in these glass–ceramics (GC) samples using a Bruker D8 Discover instrument with collimated CuKa radiation source.
+Micro-Raman spectroscopy was studied using a micro-Raman instrument model: Invia-Reﬂex (M/s Renishaw, UK) with 532-nm laser source.
+Theoretical considerationIsothermal crystallizationIsothermal kinetics was mainly introduced by John, Mehl and Avrami (JMA), and the equation used for kinetic analysis is xðtÞ ¼ 1   expð ktÞnwhere x is crystallized volume fraction at a ﬁxed temperature in time t, n is Avrami parameter and k is reaction rate.
+After taking logarithm on both sides, the above expression can be rewritten as, ln½  lnð1   xÞ ¼ n ln t þ n ln kEquation (2) will give line by plotting ln   ln 1   x ½ Þ  versus lnt.
+But the n value can also vary from 1.0 to 4.0 depending upon the dimensionality of growth.
+Non-isothermal crystallizationThis is the most common method used for determination of the activation energy of crystallization.
+The peak crystallization temperatures, which increase with increasing rate of heating, are considered to determine the value Ea using Kissinger’s or Ozawa’s equation.
+Augis and Bennett reported the non-isothermal kinetics study of amorphous material based on crystal nucleation and growth.
+For the glass samples containing large number of nuclei, N can be taken as constant, whereas N will be inversely proportional to b, if before the DTA run there are no nuclei.
+In general, for non-isothermal crystallization, the crystallized volume fraction (x) is related to the heating rate (b) by the following equation which can be derived using Doyle’s p-function [29] ln½  lnð1   xÞ ¼ ln A1 þ 2n ln T   n ln b   mEa RTwhere m represents the dimensionality of crystal growth and its value changes from 1 to 3. For N varies with temperature, the n = m ?
+1 and n = m when N is constant.
+The second term in the right-hand side of Eq.
+(3) can be taken as constant because natural logarithm of T, at higher values, does not change signiﬁcantly.
+Using a better approximation the above equation can be rewritten as ln½  lnð1   xÞ ¼ ln A2   n ln b   1:052 ð4ÞmEa nRTThe above expression also known as modiﬁed Ozawa equation.
+Theoretically, the parameter, n, related to crystal nucleation, can be calculated from the slope of ln½  lnð1   xÞ versus ln b plot at a speciﬁc temperature.
+At peak crystallization temperature, the value of x is independent of rate of heating.
+Value of m can be calculated from the slope of ln bn T 2 Pplot after knowing the values of n and Eaversus 1 TPaccurately is known as modiﬁed Kissinger plot.
+Model-free kineticsModel-free iso-conversional methods are most reliable for determination of apparent Ea of a thermally simulated complex kinetics process.
+Generally, iso-conversional methods can be classiﬁed into two categories, integral and differential.
+These methods can be used to simulate isothermal data from non-isothermal data and help to compute conversion-time curve at a ﬁxed temperature.
+In this study, integral iso-conversional method is followed to determine the apparent activation energy Ea.
+Integral iso-conversional methodThis method is also called as Ozawa–Flynn–Wall method.
+Various thermal parameters obtained from DTA measurements for LAGP1 and LAGP2 are summarized in Table 1.Crystallization kineticsFrom Table 1, the preliminary information about the stability of these glass systems are evaluated.
+Further crystallization kinetics in detail is carried out using different DTA scans.
+Non-isothermal kinetics has been used to evaluate the activation energy in these glass systems prior to determination of kinetics parameters m and n.
+Although many equations/models are used to estimate Ea values, it is a challenge to ﬁnd out appropriate kinetics applicable to individual systems which helps to predict correctly all kinetics parameters.
+Figures 1 and 2 show the DTA scans recorded at different heating rates for LAGP1 and LAGP2, respectively.
+The ﬁgures show onset of a broad endotherm at around 550 °C indicating glass transition temperature for LAGP1, which is observed to be higher compared to glass transition temperature (* 500 °C) of LAGP2. This endotherm is followed by one very sharp and intense exothermic peak, indicating crystallization temperature (Tp) at around 675 and 575 °C for LAGP1 and LAGP2, respectively.
+With increase in scan rate from 5 to 20 K min-1, the Tc shifted to higher temperature, from 596 to 614 °C for LAGP1 and from 578 to 613 °C for LAGP2. In addition, a small loop was observed at the middle of the exothermic peak in the DTA scan of LAGP1 which suggests existing of certain ‘self-feeding’ reaction, in this system.
+It is seen that the activation energy calculated at different crystallized fractions has an associated error and this error is usually higher at low crystalline fraction.
+This is because of the difﬁculty in measurement of small area under the peak for determining the crystallization volume fraction, x at initial stage of crystallization [28].
+The value further well coincides with the value obtained from integral iso-conversional method for x * 0.5. The Ea value obtained from all different plots is compared in Table 2 and used for calculation of ‘m’ as given below.
+Determination of the kinetic parameters (n and m)For different heating rates, fraction of conversion (x) is different at a ﬁxed temperature, and for the ln   ln 1   x Þ  versus lnb plot, the x versus temperature plots should beFig.
+ln b versus 1 TPplot to evaluate Ea for LAGP1 and LAGP2Crystallization kinetics of Li2O–Al2O3–GeO2–P2O5 glass–ceramics systemTable 2 Values of activation energies of crystallization obtained from different plotsSample nameActivation energy of crystallization (E)/kJ mol-1Kinetics parametersAugis and Bennett plot ln b versus 1 TP TPModiﬁed Ozawa-type plot ln b versus 1 TPModel-free kinetics (integral isoconversional method) (x = 0.2–0.8)closed enough with respect to temperature axis so that at a ﬁxed temperature, different values of x can be extracted.
+For this, we have used AKTS software to simulate the crystallized volume fraction data (x) with respect to temperature at the heating rates of 10, 11, 12 and 13 K min-1 which is shown in Figs.
+Similarly, the ‘m’ value is calculated from modiﬁed Kissinger plots as shown in Figs.13 and 14. These ﬁgures show the values of ‘m’ for LAGP1 and LAGP2 at two different temperatures, and it is observed that the value changes with temperature similar to ‘n.’ To calculate ‘m’ value from the slope, Ea value was taken as (375 ± 17) and (199 ± 22) kJ mol-1 for LAGP1 and LAGP2, respectively, which is obtained from modelfree analysis.
+Values of n and m obtained for differentLAGP1 Dash: 10 K min–1 Dot: 11 K min–1 Dash dot: 12 K min–1 Dash dot dot: 13 K min–1Fig.
+Simulated crystallized volume fraction (x) versus temperature plots at different rates of heating for LAGP1LAGP2 Dash: 10 K min–1 Dot: 11 K min–1 Dash dot: 12 K min–1 Dash dot dot: 13 K min–1Fig.
+Simulated crystallized volume fraction (x) versus temperature plots at different rates of heating for LAGP2Þ  versus ln b plots for LAGP1 at 599 °C andA.
+Simulated and experimental plot of x versus time (t) for LAGP2temperatures for both LAGP1 and LAGP2 are summarized in Table 2.Simulation of isothermal data from nonisothermal dataAKTS software is used to simulate isothermal conversion fraction (x) with respect to time with non-isothermal data input.
+Formation of LiGe2(PO4)3 phase in both LAGP1 and LAGP2 GC sample is conﬁrmed from the ﬁgures.
+In addition, the ﬁgure shows the presence of minor impurity phase of LiAlPO4 along with major NASICON phase [LiGe2(PO4)3] phase in LAGP2 sample.
+Structural studies using micro-Raman spectroscopyFigures 17 and 18 show the Raman spectra of LAGP1 and LAGP2 glass and glass–ceramics, respectively.
+Figure 16Crystallization kinetics of Li2O–Al2O3–GeO2–P2O5 glass–ceramics systemFig.
+XRD plots of LAGP1 and LAGP2 glass–ceramicsa-LAGP1 glass b-LAGP2 glassFig.
+Raman spectra LAGP1 and LAGP2 glassesshows prominent signature of SiO2 bands in the region of 440 and 100–1200 cm-1 for LAGP2 glass sample.
+One additional band at 1350 cm-1 is seen in LAGP1 glass sample which indicates the presence of P=O terminal of P(3) units.
+One broad band in the region of 1200–1350 cm-1 in LAGP2 glass is because of the presence phospho-silicate (-P–O–Si–) structural units, which are almost absent in LAGP1 glass.
+The presence of stretching vibration of Ge–O in GeO6 structural units is conﬁrmed from the band positioned in the region of 650 cm-1 in case of both the samples.
+Bands shown at 723 and 1042 cm-1 are for P–O–Si band which are more prominent in LAGP2 sample.
+Raman spectra of LAGP1 and LAGP2 glass–ceramicsDiscussionthe strength ofLAGP2 with higher amount of SiO2 has higher glass stability factor as compared to LAGP1 (Table 1), which indicates lesser tendency toward crystallization.
+With the addition of SiO2, the glass network increases and glass transition/viscosity increases for the system because of formation of Si(6) structural units .
+It is also observed that the glass stability factor increases with increase in rate of heating.
+The higher shift in glass transition and crystallization temperature is because the system does not get sufﬁcient temperature with increase in rate of heating and get delayed in the initiation of glass transformation or onset of crystallization process.
+The Ea values obtained are (391 ± 20) and (211 ± 24) kJ mol-1 for LAGP1 and LAGP2, respectively.
+Similar values are also obtained by pure LAGP system.
+In case of LAGP2, the presence of large amount of SiO2 in P2O5 network causes possible phase separation at early stage of heating and reduces the barrier for growth and thus has lower Ea.
+The value obtained from Augis and Bennett plot and modiﬁed Ozawa plot is a ﬁxed value for entire range of the temperature, whereas the Ea value, obtained from model-free kinetics analysis, is much more accurate and the value is taken here for the calculation of crystallization index m and n.
+The Ea values obtained from model-free method are calculated from the average Ea obtained in the region of x = 0.2–0.8.It is also observed that the value of ‘n’ calculated from the slope of Figs.
+At low temperature (* 580 °C), the value of n is nearly 2.0, and at higher temperature (* 598 °C) the value of n is 3.0. The n value can be maximum 3.0 or 4.0 depending on whether the glass is quenched or preannealed for a constant number of nuclei.
+The value 3.0 and more also indicate a bulk nucleation/crystallization in the glass.
+In both the systems, the values of n and m found to be same.
+This implies that large number of nucleus are already exist before the DTA scan and the value do not change much with respect to temperature during DTA measurement.
+The reason behind the variation of ‘m’ values with temperature is because of the progressive growth of the nuclei with different morphologies at different temperature spans.
+Initially, the crystal particles start to grow in like a rod shape in one dimension and then become spherical shape, and after that, they interconnect to each other and individual particle shape could not be distinguished.
+Raman spectra also show increase in strength in glass network in LAGP2 samples because of higher SiO2 content and also formation of different crystalline phases in glass ceramic sample.
+Because of double bond in phosphate network, there is a strain in the structure of the phosphor-silicate glass network and causes the phase separation at the early stage of heating.
+For LAGP1 sample, the crystallization temperature is much higher which indicates the processing temperature of LAGP1 is high, whereas for LAGP2, NASICON phase grows at lower temperature and additional impurity phases were seen to formed at higher temperature.
+The formation of LiGe2(PO4)3 along with minor LiAlPO4 is conﬁrmed from XRD and Raman spectroscopy.
+ConclusionsTwo LAGP (lithium aluminum germanium phosphate) system with compositions (a) Li1.5Al0.5Ge1.5P2.9Si0.1O12 and (b) Li1.5Al0.5Ge1.5P2.5Si0.5O12 are studied for comparative crystallization kinetics using DTA technique.
+Nonisothermal kinetics was studied using different equations and model-free kinetics for determination of activation energy.
+The activation energy (Ea) values obtained from various methods are comparable.
+Higher value of Ea (375 ± 17 kJ mol-1) for LAGP1 was obtained as compared to LAGP2 (199 ± 22 kJ mol-1).
+This is because higher SiO2 content in LAGP2 causes more asymmetry in network structure and initiates phase separation at low temperature.
+On the other hand, n and m of value C 3.0 clearly indicate the three-dimensional growth of LAGP phase followed by growth due to interdiffusion process atA.
+The Ea values varied signiﬁcantly at low fraction of conversion factor (x) and remain almost constant at higher value of x.
+For LAGP1, the value of Ea varies signiﬁcantly as compared to LAGP2. This suggests some inherent chemical reaction/rearrangement causing an increase in the barrier for crystallization of NASICON phase in LAGP1 sample.
+

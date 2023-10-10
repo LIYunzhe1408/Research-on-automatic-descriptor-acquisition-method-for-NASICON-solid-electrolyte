@@ -1,0 +1,12 @@
+Electrical materials incorporating lanthanide ions have great potential as electro-opticalmultifunctional systems.
+Polycrystalline NASICON (sodium silicon conductor) fast-ion conductors (Na5LnSi4O12, Ln = Eu, Tb) have been prepared via solid-state synthesis.
+Thesematerials have been characterized by photoluminescence spectroscopy, including steady-stateemission and excitation spectra, and measurement of the lifetimes of the excited states.
+Two Eu3+sites have been detected: (i) in regular framework positions, and (ii) replacing Na+ ions in thetunnels.
+Samples containing only Eu3+ or Tb3+ emit mainly from one transition, respectively,5D0 A 7F2 (610 nm, red) and 5D4 A 7F5 (550 nm, green).
+Mixed lanthanide samples,Na5Eu0.75Tb0.25Si4O12 and Na5Eu0.25Tb0.75Si4O12, have also been prepared and efficient TbAEuenergy transfer has been observed for the latter.
+Na5LnSi4O12, Ln = Eu or Tb, compounds were prepared viasolid-state synthesis.
+The emission spectrum of the Eu3+ sample and the bi-exponential fit of the 5D0 lifetime decayshow the presence of two lanthanide sites.
+The combination ofmeasurements at several wavelengths and at high and lowtemperature allowed the assignment of each of the two sites(and respective lifetimes) to the Eu3+ in the regular crystallographicposition, and as a substitutional defect, replacingNa+ cations in the channels.
+The single cation compositionsshow red (Eu3+) and green (Tb3+) emission with colourcoordinates close to those of standards used in industry.
+In addition, the Tb3+-NASICON compound shows a radianceclose to that of the green standard phosphor Gd2O2S:Tb3+.
+This system shows promising energy transfer propertiessince both mixed cation samples show emission dominated bythe Eu3+ ion, while there is clear evidence of excitation to theTb3+ ion when monitoring the Eu3+ emission.

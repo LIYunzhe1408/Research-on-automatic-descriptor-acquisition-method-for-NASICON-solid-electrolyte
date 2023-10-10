@@ -1,0 +1,168 @@
+Although rechargeable aluminium-ion batteries could be very promising, there are only a few materials described  in  the  literature  that  can  insert  aluminium.
+NASICON-type  Na3V2(PO4)3  (NVP)  is  here investigated  as  a  new  positive  electrode,  using  aluminium  chloride  dissolved  in  O2-free  water  as electrolyte  solution.
+The  reversible  capacity  is  around  60-100  mAh  g-1,  depending  on  the  cycling conditions.
+The  electrochemical,  analytical,  NMR,  XPS  and  XRD  results  all  together  corroborate  that sodium is deinserted during first charge and then aluminium is inserted during the discharge.
+Both bulk insertion and surface capacitance can contribute to the specific capacity.
+This is the first report about true insertion  of  a  trivalent  cation  into  a  NASICON-type  structure.
+In  addition,  this  material  is  also electrochemicaly active vs. Al metal in non-aqueous cell, using ionic liquid as electrolyte solution, with a revesible capacity about 60-70  mAh g-1 at ca. 1.25 V vs. Al.
+However, in the case of using ionic liquid, sodium    (and  not  aluminium)  is  reversibly  (de)inserted.
+The  results  demonstrate  that  NVP  is promising  as  electrode  for  rechargeable  aluminium  batteries,  and  that  the  electrolyte  solution  strongly influence on the electrochemical reaction.
+Lithium rechargeable battery has been commercialized since the 1990s and is one of the most successful technologies for energy storage, though a post-lithium era is being envisaged.
+Thus, multivalent  metals  as  aluminium  can  deliver  higher  volumetric  capacity  than  Li  and  are advantageous for large-scale energy storage.
+The high natural abundance, low cost and high volumetric  capacity  (8040  mAh  cm-3)  are  the  main  advantages  of  aluminium.
+However,  to  find suitable  electrode  materials  and  electrolyte  solutions  is  a  great  challenge,  and  the  rechargeable aluminium battery is still in its infancy.
+The main electrode materials proposed in the literature forrechargeable  aluminium  batteries  are  vanadium  oxides,  titanium  dioxide, sulphides , organic polymers ., Prussian blue analogues .and graphite .
+The  NASICON-type  structure  is  very  useful  for  providing  a  stable  and  open  framework  that can  serve  as  a  host  for  the  insertion  of  cations.
+Thus,  A3V2(PO4)3  (with  A=Li,  Na)  have  been extensively  tested  as  electrode  materials  for  diverse  types  of  rechargeable  batteries,  particularly lithium,  sodium  and  zinc  batteries.
+Very  recently,  a  hybrid  Na-Al  cell  using  an  ionic liquid  containing  NaAlCl4  as  electrolyte  was  reported,  in  which  sodium  (not  aluminium)  was reversibly  (de)inserted  in  Na3V2(PO4)3  (NVP).
+Nevertheless,  the  choice  of  the  electrolyte solution can have a strong influence on the (de)insertion process and electrochemical behaviour.
+Aqueous  ion  batteries  can  be  safe,  low-cost  and  environment-friendly.
+In  addition, aqueous  electrolytes  can  exhibit  high  ionic  conductivity  and,  consequently,  deliver  high-charge/discharge rates.
+Nevertheless, the stability of the electrode active material in water limits their development.
+Besides, aqueous cells can serve as a proof of ion insertion in the  meantime that  other  non-aqueous  electrolyte  compatible  with  Al  are  developed.
+Sodium  vanadium phosphates  have  been  widely  investigated  as  positive  electrode  in  aqueous  sodium-ion  batteries, although it has been suggested that NVP degrades upon cycling in aqueous batteries.
+In comparison  with  lithium  and  potassium,  it  seems  that  the  insertion  of  sodium  in  NVP  is  easier .
+The use of NVP/C nanocomposites improves the cycling stability because the carbon phase enhances  the  electrical  conductivity  and  slows  down  the  dissolution  of  NVP.
+Zhou  et  al. suggested  that,  on  the  contrary  to  Li-Mn-O  spinels,  NVP  cannot  support  physical  adsorption  of water through its channels and water cannot interfere with sodium insertion/deintercalation during electrochemical  cycling  .
+An  aqueous  rechargeable  battery  based  on  NVP  vs. Zn  has  also been reported .
+In this work, the electrochemical insertion of aluminium ions into NVP from aqueous solution is studied, and the mechanism is explored by using XRD, SEM-EDS, XPS and NMR.
+In addition, the  electrochemical  behaviour  in  non  aqueous  batteries  is  also  studied  using  ionic  liquid  as electrolyte solution.
+NVP containing carbon to improve the conductivity was prepared by using a wet ball-milling method, as described elsewhere.
+For this purpose, firstly ammonium metavanadate (Panreac, 98  %; 1.2 g), sodium  dihydrogen  phosphate  (Aldrich,  98–102  %,  2.1  g),  and  citric  acid  (Aldrich,  99  %;  2.9  g)  at Na:V:P=2:3:3  molar  ratios  were  added  to  an  agate  vessel.
+Then,  10  mL  of  ethanol  were  added  to  the mixture and the resulting slurry was ball-milled at 300 rpm for 24 h in air.
+After drying the slurry in an oven at 70°C overnight, a solid precursor was obtained.
+The final product was prepared by annealing the precursor at 800 °C for 8 h in an argon atmosphere.
+The presence of the carbon residue (7.3 % wt.) was determined precisely with an Elemental CHNS Eurovector EA 3000 analyzer.
+The crystal structure was studied by X-ray diffraction (XRD) using a Bruker D8 instrument with Cu Kα  radiation.
+Rietveld  refinement  was  performed  with  the  TOPAS  4.2  program.
+The  crystal  structures were drawn with the VESTA 3.4.0 program.
+FE-SEM images were obtained using a JSM-7800F Prime instrument.
+The chemical  composition of the  electrodes  was  analyzed  by  Electron  Probe  Microanalysis  (EPMA)  with  Energy  Dispersive 
+Spectrometer (EDS) detector coupled to FE-SEM.27Al  MAS  NMR  spectra  were  acquired  at  room  temperature  in  a  Bruker  Avance  III  HD  400  WB instrument  at  12  kHz  of  spin  rate.
+The  chemical  shifts  were  referenced  to  1  M  aluminium  chloride solution  (0  ppm).
+The  chemical  state  of  the  surface  was  studied  by  X-ray  Photoelectron  Spectrocopy (XPS) in a SPECS Phobios 150 MCD provided with Mg Kα source.
+All  the  electrochemical  tests  were  performed  in  three-electrode  cell  and  using  a  VMP  Biologic instrument.
+For  aqueous  batteries,  flooded  beaker  cells  were  used.
+The  electrolyte  solution  was  0.1  M AlCl3  in  deionized  water,  the  reference  electrode  was  Ag/AgCl  and  the  counterelectrode  was  Pt.
+For control  experiments,  aqueous  solutions  of  HCl  and  0.1  M  NaCl/HCl  at  the  same  pH  value  (3.0).
+The working  electrode  was  prepared  by  mixing  the  active  material  (80  %)  with  carbon  black  (10  %)  and PVDF (10 %) as binder.
+The aqueous solution was outgassed to remove dissolved oxygen by flowing Ar before carrying out, and during, the electrochemical experiment.
+For non-aqueous cell, chloroaluminate ionic liquid was used as electrolyte.
+This ionic liquid was prepared  in  the  dry  box  under  Ar  atmosphere  by  dissolving  anhydrous  AlCl3  (99.999%  purity,  Sigma Aldrich)  in  1-ethyl-3-methylimidazolium  chloride  (EMIC)  in  molar  ratio  AlCl3:EMIC=1.1:1.0.
+The Swagelok-type  electrochemical  cells  comprise  three  glassy  carbon  rods  (Goodfellow)  as  current-collectors,  a  disc  of    high-purity  Al  (Aldrich)  as  reference  electrode,  another  piece  of  Al  as counterelectrode and a working electrode.
+To prepare the working electrode, the active material (NVP) was mixed with PFTE (binder) and carbon black, and the mixture was pasted on a Pt disc.
+The use of metals and steel corrodible in ionic liquid was avoided.
+Whatman glass fiber filter papers were used as separators.
+The cells were assembled in an M-Braun glove-box filled with Ar.
+The cyclic voltammograms (CV) performed at 1 mV/s are displayed in  Fig.1a.
+The cut-off voltage was  imposed  to  study  the  main  redox  reaction,  to  achieve  approximately  the  same  charge/discharge capacity in all the experiments and to avoid side-reactions, and so it was not fixed.
+The operating voltage is within the stability window of water.
+A redox peak is observed at ca. +0.6 for the anodic scan and at ca.+0.2  V  for  the  cathodic  scan,  although  the  exact  position  changes  with  the  cycle  number  and  other experimental  conditions.
+This  peak  is  ascribed  to  the  V3+/V4+  redox  couple  and  reversible  insertion.
+In contrast with the observed faradic peak, a pure capacitor behaviour would exhibit intensity-voltage curves with typical rectangular  shape, as was found for  example in the case of  V2O5 in KCl aqueous solution.
+Song et al.proposed that the surface capacitance plays a key role for NVP in aqueous sodium-ion batteries and that the electrochemical reaction is diffusion-controlled.
+On the other hand, larger size ions as K+ are preferentially adsorbed on the surface of NVP, rather than inserted into the lattice.
+Figure 1b  shows  the  CV  profiles  using  0.1  M  NaCl/HCl  or  HCl  as  electrolyte  solutions  at  pH  3.0.  
+By comparison, it can be concluded that the CV in AlCl3 solution cannot be ascribed exclusively to sodium and/or protons (de)insertion.
+In fact, the faradic electrochemical behaviour is better in AlCl3 solution.
+We can conclude that aluminium is playing a main role in the electrochemistry of NVP.
+The separation between  the anodic  and cathodic  peaks is larger  at higher rates  and the peak  current becomes smaller when the scan rate decreases (Fig. 1c).
+The dependence of the CV with the scan rates (Fig.  1c,d)  can  be  understood  on  the  basis  of  diffusion  and/or  capacitive  processes.
+According  to  the Randles-Sevcik equation, a linear relationship between the intensity of the peak current and the square root of the scan rate is followed when the redox reaction is controlled by diffusion.
+In contrast, a capacitive behaviour normally follows a linear dependence between the current and the scan rate.
+Thus, in general,  the  relationship  between  the  peak  current  (i)  and  the  scan  rate  (v)  is  given  by  the  power  law where  a  and  b  are  adjustable  parameters.
+The  value  of  b  can  be  obtained  from  the  slope  of  the  linear fitting  of  the  experimental  results  on  a  log-log  scale  (Figure  1d),  and  one  can  expect  the  current  to  be dominated by capacitive behaviour at b=1.0, while the current would be dominated by diffusion at b=0.5.
+This  procedure  must  be  taken  with  caution  because  capacitive  currents  can  arise  from  the  unavoidable reorganization of the Helmholtz layer at the electrode surface when the potential is swept linearly.
+Thus, the result is valid within the range of scan rate that is taken (between 5 and 0.3 mV s-1 in Figure 1d).
+The value calculated from the slope of the plot obtained from the oxidation process of the first sweep is b=0.67, and in the reduction process of the first sweep b=0.70.
+These b-values are intermediate between a purely capacitive behaviour and a diffusion-controlled process.
+This result implies that at high rate the particle surface would be used for charge storage rather than insertion/deinsertion into the bulk.
+At high rate, the slow diffusion of the ions limits the insertion/deinsertion process to the outer surface of the NVP particles.
+Li et al found a value of b=0.58 for zinc in NVP, indicating a diffusion-dominated process (not pseudocapacitive).
+These results compared to the literature suggest that aluminium diffusion in NVP is  slower  than  that  of  zinc.
+It  is  worth  to  note  here  that  He  et  al. found  that  both  bulk  insertion (slower  process)  and  surface  storage  (faster  process)  contribute  to  aluminium  storage  in  black  anatase TiO2,  although  the  b-value  was  not  reported  in  that  case  .
+In  fact,  the  coexistence  of  the  two mechanisms (bulk insertion and surface capacitance) in the same electrode material can be beneficial forits electrochemical performance.
+In the galvanostatic experiment (Fig. 2) the results agree well with the CV.
+The profile and capacity of the first charge are different compared with the second and successive charges, in good agreement with irreversible  sodium  deinsertion.
+The  reversible  capacity  values  in  aluminium-ion  aqueous  batteries  are around 60-100 mAh g-1, depending on the cycling conditions.
+These capacity values are comparable with the results reported for NVP in non-aqueous sodium-ion batteries ., and better than the results reported for  aqueous  sodium-ion  batteries  (typically  around  50-80  mAh  g-1)  .
+The  capacity  fade  upon further  cycling,  particularly  at  slow  kinetics,  can  be  due  to  partial  cathode  dissolution  in  the  acidic electrolyte as was found in other aqueous batteries, or to structure degradation due to the electrochemical insertion.
+Perhaps,  in  future  works  the  resistance  of  NVP  against  corrosion  could  be  improved  for example by using additives.
+During  the  first  charge,  sodium  is  removed  from  NVP.
+Consequently,  some  sodium  ions  are incorporated  to  the  electrolyte  solution  and  a  sodium-aluminium  hybrid  electrolyte  is  in-situ  formed, though  the  relative  amount  of  aluminium  ions  must  be  much  higher  than  for  sodium  ions  taking  into account the large volume of the flooded cell.
+The removal of 2 Na per formula is equivalent to 117 mAh g-1, which is the theoretical maximum charge capacity that can be reported in non-aqueous sodium cell and it corresponds to the following reaction: 
+According  to  previous  studies  in  non-aqueous  sodium  cell,  it  is  expected  that  one  sodium  ion  of NaV2(PO4)3 remains immobilized at the 6b site and two sodium ions at the 18e site could be extracted.
+Other authors suggested that sodium can be removed from both sites.
+The sodium that remains inactive serves as structure Stabilizer.
+Other reports remarked that water decomposition and O2 evolution can  take  place  when  up  to  two  sodium  ions  per  NVP  formula  are  utilized  in  aqueous  electrolyte  .
+Consequently,  we limited the maximum charge  capacity up to the nominal composition Na1.1V2(PO4)3, irrespectively  of  the  voltage  limit.
+The  experimental  results  of  the  semiquantitative  microanalysis (EPMA-type)  coupled  to  SEM  agree  quite  well  with  this  theoretical  composition  (Table  1),  although traces of electrolyte are detected at the electrode surface.
+During the subsequent reduction process, aluminium ions are inserted into partially desodiated NVP, and an aluminated (ANVP) material is formed according to the following reversible reaction: 
+According  to  the  microanalysis  results,  the  composition  of  ANVP  electrode  retrieved  from  the  cell after the  first  charge-discharge  cycle,  and  washing the  electrode  with  deionized  water, Al0.25Na0.81V2(PO4)2.6  (Table  1).
+Taking  into  account  the  theoretical  composition  (Al0.3Na1.1V2(PO4)3) obtained by assuming that all the electrons that flow through the circuit in the reduction process are used for  aluminium  insertion,  the  experimental  result  is  in  good  agreement  with  aluminium  insertion  (or surface  accommodation).
+The  intrinsic  error  in  the  technique  (typically  higher  than  5%),  side  reactions and traces of electrolyte can contribute to the slight difference between the theoretical and experimental compositions.
+Besides, the mapping of composition shows that the distribution of aluminium in NVP is homogeneous (Fig. 3).
+Nevertheless, we cannot completely discard some protons cointercalation together 
+The  27Al  NMR  spectrum  of  the  electrode  after  one  charge-discharge  cycle  (Fig.  4a)  is  in  excellent agreement with both insertion and surface accommodation of aluminium.
+It is worth recalling here that Zhou et al. pointed out that the cross section of the channel in NVP is smaller than the diameter of the water  molecule,  and  inserted  aluminium  must  not  be  hydrated,  and  we  agree  with  that  find  .
+The spectrum of Al0.3Na1.2V2(PO4)3  was fitted with two Gaussian/Lorentzian peaks centered at +37 and – 7 ppm, respectively.
+The broadening of the peaks can be due to the low mobility of aluminium.
+The peak at -7 ppm (44% contribution) can be due to aluminium near the surface of NVP particles, while the peak shift due to +37 ppm (56% contribution) can be ascribed to aluminium inserted into the NASICON-type framework.
+He  et  al.  found  smaller  shifts  for  aluminium  inserted  into  anatase,  irrespectively  of  their finding of aluminium accommodation near the surface of anatase particles.
+For the sake of comparison in a reference measurement, the spectrum of a non-cycled electrode NVP which was simply impregnated overnight  with  the  electrolyte  solution  (Fig.  4b)  only  shows  an  asymmetric  peak  at  -1.4  ppm  and  the corresponding  spinning  side  bands.
+This  shift  to  +37  ppm  of  the  electrode  with  nominal  composition Al0.3Na1.2V2(PO4)3 must be due to the effect of the vanadium 3d electrons (Fig. 4a).
+Thus, this result is a very strong proof of veritable insertion of aluminium ion (peak at + 37 ppm), together with aluminium placed near the particle surface (peak at -7 ppm).
+Similarly, other authors also used 27Al NMR results as a main proof of aluminium intercalation in other materials . 
+Although XPS only delivers information about the surface of the particles, it can be useful to follow the  electrochemical  reactions.
+The  V  2p  spectra  of  raw  NVP  show  two  bands  at  523.2  and  516.9  eV, which can be attributed to the V 2p3/2 and V 2p1/2 transitions, respectively (Fig. 5).
+These binding energy values are ascribed to V3+ .
+The minor contribution at ca. 520.5 eV corresponds to the O 1s satellite peak.
+After the charge, the shift of the V 2p bands to higher energies unambiguously demonstrates the partial oxidation of vanadium.
+During subsequent discharge, the bands are shifted back to values close to those  of  raw  NVP.
+Irrespectively  of  the  fact  that  the  surface  of  the  charged  electrode  unavoidably  can contain traces of aluminium from the electrolyte, it is evident that in the discharged electrode the relative intensity of the Al 2p band at ca. 75 eV grows, in good agreement with aluminium insertion into NVP.
+From  the  relative  intensity  of  the  Na  1s  band  in  the  spectra,  it  is  deduced  that  part  of  sodium  is irreversibly  removed  from  NVP.
+The  broadening  of  the  Na  1s  band  could  be  due  to  the  presence  of sodium in sites with different ionic character and/or near defects.
+In addition, the ionic character of the sodium-oxygen  bond  could  be  affected  by  the  intercalation  of  aluminium.
+Thus,  the  stronger  bond aluminium-oxygen can weaker the sodium-oxygen bond.
+To  study  the  structural  changes  occurring  in  the  electrode  material  during  the  charge/discharge reaction, we carried out ex-situ XRD experiments of NVP in aqueous aluminium cells (Fig. 6).
+The XRD pattern  of  the  as-prepared  NVP  sample  (Fig.  6)  can  be  indexed  on  the  space  group  R-3c  group.
+From Rietveld refinement, the resulting lattice parameters are: a=8.735(5) Å, c=21.82(1) Å and V= 1442(2) Å3.
+It  is  worth  to  remember  that  partial  deintercalation  of  sodium  from  NVP  does  not  drive  to  any  drastic change of its structure, and that there is little contrast between sodium and aluminium.
+Nevertheless, if one takes into account the results of electrochemistry, XPS, microanalyis and NMR, it seems reasonable to  deal  the  XRD  results  considering  aluminium  intercalation.
+After  the  first  partial  charge  in  aqueous solution up to the nominal composition Na1.4V2(PO4)3 the observed reflections can be also indexed in the same space group.
+At the end of the first charge up to the nominal composition Na1.1V2(PO4)3, the XRD pattern can be indexed using the same space group, but the shrinkage of the unit cell is more significant (a=8.401(1) Å, c=21.444(7) Å, vol.=1310.8(6) Å3), as expected after regarding the shift of the reflections to  higher  angles.
+Also,  the  splitting  of  the  (104)/(110)  peak  is  observed.
+Thus,  the  coexistence  of  two phases with compositions Na3V2(PO4)3 and ca. Na1.1V2(PO4)3 can be the reason of the charge plateau, in good  agreement  with  the  literature  on  sodium  batteries.
+When  Na3V2(PO4)3  is  oxidized,  sodium  is partially removed from the 18e sites, and then only 6b sites would be occupied in the phase NaV2(PO4)3, although  some  sodium  atoms  initially  placed  at  18e  sites  may  migrate  to  6b  sites.
+Rietveld refinement results, most of sodium is placed at 6b sites while only  a small amount of sodium remains at 18e sites.
+After the first charge (up to NaV2(PO4)3) and then full discharge down to -0.5 V, thereflections tend to become more broadened due to the lattice strain, and the cell is slightly expanded in the a-axis (a=8.51(1) Å, c=21.81(3) Å, vol.=1368(4) Å3) as compared to the charged material.
+In comparison with  pristine  NVP  before  electrochemical  cycling,  the  unit  cell  after  the  first  charge-discharge  cycle  is contracted particularly in the a-b plane, in good agreement with the replacement of sodium by smaller and more  polarizing  aluminium.
+Due  to  the  large  charge/radius  ratio  of  Al3+  and  to  the  attraction  between aluminium and oxygen, the diameter of the channel is decreased from 2.723 to 2.676 Å (oxygen-oxygen distance measured in the a-direction).
+To compensate this contraction, the distance Na1-O2 in the 6b site is expanded from 2.51 to 2.67 Å.
+This implies that the formation of Al-O bonds weakens the Na-O bonds.
+The  strain  of  the  NASICON-type  structure  can  be  the  reason  of  capacity  loss  upon  electrochemical cycling.
+The  Rietveld  refinement,    in  which  the  occupancy  factor  of  sodium  and  aluminium  sites  was independently liberated,  is in good agreement with the occupancy of the  18e sites by  both sodium and aluminium atoms (Table 2).
+The resulting site occupancy would involve an average oxidation state V+1.98.
+It  has  been  reported  that  the  sodiation  capacity  of  NVP  can  be  up  to  Na5V2(PO4)3  .
+The crystallographic structure of ANVP is drawn in Fig. 6.
+In contrast to the preservation of the NASICON-type structure, Wu et al. found very recently that the intercalation of Al3+ into V2O5 nanowires leads to the irreversible formation of an amorphous layer on the edge  of  nanowires  and  formation  of  a  new  crystalline  phase  .
+Compared  to  V2O5  and  other  non-carbonaceous host materials, it seems that the structure of NVP is more stable and suitable for aluminium insertion, although it is a slow process and the electrolyte solution should be optimized.3.3.
+Electrochemistry in non-aqueous cell.
+The  selected  electrochemical  result  using  NVP  in  Al  cell  with  ionic  liquid  as  electrolyte  solution (Fig.8) show a flat and reversible plateau at ca. 1.25 V vs. Al, and the reversible capacity is about 60-70 mAh  g-1.
+This  plateau  could  be  particularly  suitable  for  developing  Al  batteries  with  a  stable  output voltage.
+These electrochemical results are very similar to those reported by Sun et al., who proposed using NaAlCl4 dissolved in EMIC.
+The mechanism of (de)intercalation could involve Al3+, AlCl4Na+.
+In our case, the solution initially is sodium-free, but it is expected that after the first charge, a hybrid aluminium-sodium electrolyte be in-situ formed.
+Taking into account the size of the channels in NVP and the size of AlCl4, intercalation of chloroaluminate ion is not expected.
+Our results agree well with those of Sun et al, and sodium would be reversibly inserted in the case of using EMIC ionic liquid.
+However,  having  in  mind  our  results  using  aqueous  electrolyte,  it  could  be  possible  to  develop electrolytes compatible with both Al metal and aluminium ion insertion.
+An advantage could be a more rapid diffusion of smaller Al3+ compared to larger ions, such as sodium and lithium.
+Similarly, we have recently shown that the electrolyte also influences on the (de)insertion of magnesium in NVP .
+Although  Al-ion  batteries  are  not  yet  competitive  against  lithium  batteries,  new  possibilities have been studied here.
+We have proposed Na3V2(PO4)3 with NASICON-type structure as a new material  for  rechargeable  aluminium  batteries.
+Looking  at  the  whole  of  all  the  results,  it  can  be concluded that aluminium ions are effectively inserted in the framework of  NVP using aqueous electrolyte,  although  some  contribution  of  proton  insertion  cannot  be  completely  excluded.
+A drawback would be the slow kinetics of the true insertion process, and at high charge/discharge rate the reaction is rather a pseudocapacitive process in the surface of NVP.
+Further efforts should be made to improve the cycling stability of this system.
+These finds suggest that after improving non-aqueous  electrolyte  that  be  compatible  with  both  Al  and  NVP,  new  rechargeable  batteries could  be  developed.
+This  electrode  material  also  can  be  used  in  non-aqueous  cell  vs. Al  metal, with ionic liquid as electrolyte solution, in good agreement with the results of Sun et al.
+

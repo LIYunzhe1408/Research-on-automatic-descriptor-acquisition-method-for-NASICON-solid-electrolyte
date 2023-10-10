@@ -1,0 +1,98 @@
+On the basis of its favourable redox properties, good ionic conductivity, and low cost, rhombohedral Li3Fe2(PO4)3 (NASICON-type compound) is seen as a potential insertionin lithium–polymer batteries.1 The comelectrode material pound is obtained by ion exchange from solid-state synthesized Na3Fe2(PO4)3.1,2
+
+Na3Fe2(PO4)3 has monoclinic symmetry (space group: C2/c) with the cell parameters a~15.127(3), b~8.722(2) and c~8.793(1) A˚ , b~125.14(1)‡ at room temperature (denoted the a-phase).2 The framework structure consists of FeO6 tetrahedra linked through common octahedra and PO4 corners. Within this framework, the sodium atoms can occupy three different sites. Small peaks are found in both X-ray single-crystal and powder data, which are not indexable within this cell; these can be attributed to a superstructure, related to the ordering of the sodium atoms.2–4 The monoclinic subcell can also be described within the pseudo-hexagonal c’~120.07(2)‡.2 a’~b’~8.731(2), cell: Na3Fe2(PO4)3 exhibits two reversible polymorphic phase transitions: at 95 ‡C (aAb) and at 145 ‡C (bAc), respectively.2 The c-phase has rhombohedral symmetry and can be described within the hexagonal cell: a~8.733(1) A˚ , c~21.798(2) A˚ . The relative occupancies of the three sodium sites differ for the three polymorphs.2,3
+
+Magnetic susceptibility measurements of Na3Fe2(PO4)3 show a parato antiferromagnetic transition at a Ne´el temperature (TN) of 47 K5–9 with a weak ferromagnetic
+the sample was pressed into pellets (w~12 mm, P~3 ton), annealed at 920 ‡C for another 24 h, and then allowed to cool slowly to room temperature. The last step was repeated to ensure the completeness of the reaction.
+
+Rhombohedral Li3Fe2(PO4)3 was obtained by ion-exchanging the Na3Fe2(PO4)3 powder in a concentrated aqueous solution of LiNO3 at slightly elevated temperature (35–40 ‡C), for at least 14 h. This ion exchange procedure was performed three times.
+
+The phase purity of the synthesized material was checked by X-ray powder diffraction. The material prepared by Synthesis I contained very small amounts of some unidentiﬁed impurity. These few extra peaks were very small (relative intensities less than 1%) compared to the peaks from the majority phase.
+
+Inductively Coupled Plasma atomic emission spectrometry (ICP) was used to determine the elemental composition of the synthesized material.
+
+Magnetization and susceptibility measurements were performed on a Quantum Design MPMS 5.5T SQUID magnetometer. The zero-ﬁeld-cooled (ZFC) magnetization was obtained by cooling the sample without an applied magnetic ﬁeld, applying a ﬁeld at the lowest temperature, and recording the magnetization as a function of temperature on heating. The ﬁeld-cooled (FC) magnetization was measured during heating, having cooled the sample in the applied ﬁeld.
+
+Mo¨ ssbauer spectroscopy measurements were carried out on a spectrometer with a constant-acceleration type vibrator with a 7 mCi 57CoRh source radiating in two opposite directions. The calibration spectra were recorded simultaneously at room temperature on one side, using natural iron foil as a reference absorber. Powder samples for low temperature studies were mixed with boron nitride and pressed into absorber discs. Low temperature spectra were recorded using a liquid-helium ﬂow cryostat. The spectra obtained were folded and analysed using the commercial least-squares Mo¨ ssbauer ﬁtting program NORMOS.
+
+The neutron diffraction measurements were performed at the R2 medium-ﬂux steady-state research reactor in Studsvik, Sweden. A vanadium tube (9 mm in diameter) was ﬁlled with the powder sample and placed in a closed-cycle refrigerator cooled with helium. The data were collected with an array of 35 detectors, each separated by 4‡ in 2h. A monochromatised neutron beam (l~1.470 A˚ ) was obtained with a double monochromator comprising two parallel copper crystals (Cu220).
+
+The ICP results for Li3Fe2(PO4)3 synthesized according to Syntheses I and II are shown in Table 1.
+
+Magnetic susceptibility
+
+The magnetic susceptibility curves plotted as a function of temperature at low magnetic ﬁelds for Na3Fe2(PO4)3 (NFP) and Li3Fe2(PO4)3 (R-LFP) are shown in Fig. 2. The corresponding inverse susceptibility curves are shown in Fig. 3. The magnetic behaviour of R-LFP is rather similar to that of NFP, both compounds exhibiting a phase transition at low temperature from paramagnetic to weakly ferrimagnetic. This transition occurs at a somewhat lower temperature for R-LFP (TN~27(1) K) than for NFP (TN~47(1) K). At temperatures above the transition temperature (100–300 K),
+
+Table 1 Results of ICP analyses for rhombohedral Li3Fe2(PO4)3
+
+Synthesis I Synthesis II
+
+Molecular formula
+
+To our knowledge, the magnetic properties of rhombohedral Li3Fe2(PO4)3 have not yet been investigated. In this paper, we present the results of magnetic susceptibility measurements, Mo¨ ssbauer spectroscopy and neutron powder diffraction studies.
+
+Experimental
+
+The Na3Fe(PO4)3 compound was synthesised according to two procedures.
+
+The sample used for the neutron diffraction studies was synthesised as follows: Na3Fe2(PO4)3 was prepared by the reaction of NaH2PO4?H2O, Na4P2O7?10H2O (¢99%, Merck) and Fe2O3 (¢99%, Merck) in the molar ratio 1 : 3.6 : 2.2.2,4 The mixture was heated above the melting point (960 ‡C) for 5 h and cooled to room temperature for y15 h. The resulting product was dissolved and thoroughly washed in water to remove excess sodium phosphates.
+
+The sample for the magnetic susceptibility measurements and for the Mo¨ ssbauer spectroscopy study was synthesized as follows: Na3Fe2(PO4)3 was prepared by the solid-state reaction of NaH2PO4?H2O (¢99%, Merck) and Fe2O3 (¢99%, Merck).1 The synthesis was performed in consecutive steps; before each step, the material was ground and mixed thoroughly. The starting materials were ﬁrst heated to 300 ‡C for a couple of hours, the temperature was then raised to 500 ‡C overnight to decompose the phosphate. The mixture was then heated to 920 ‡C for y24 h. After grinding and homogenizing,
+
+Published on 19 September 2000. Downloaded by Laurentian University on 04/06/2013 10:33:41. View Article OnlineFig. 2 Magnetic susceptibility curves as a function of temperature for monoclinic Na3Fe2(PO4)3 and rhombohedral Li3Fe2(PO4)3. Both zeroﬁeld cooled (ZFC) and ﬁeld cooled (FC) curves are shown. The applied ﬁeld (H) was 50 Oe (~5 mT).
+
+the susceptibility obeys the Curie–Weiss law for antiferromag2/3kB is the netic exchange: x~C/(TzhN), where C~m0Nmeff Curie constant and hN is the Weiss temperature. The effective magnetic moment, meff, carried by the Fe3z ions derived from the Curie constant is 5.95(5) mB for NFP and 5.94(3) mB for RLFP; the Weiss temperature is hN~281(4) K for NFP and hN~251(3) K for R-LFP (see Fig. 3). That the low-temperature phase is weakly ferrimagnetic can be seen from the difference between the ZFC and FC low-ﬁeld susceptibilities, which is typical for ferrimagnetic materials. The magnetization vs. applied ﬁeld (H) curve for R-LFP at 20 K is shown in Fig. 4. The spontaneous magnetic moment per Fe3z ion is 0.027(5) mB at 20 K and 0.017(5) mB at 10 K for R-LFP (for NFP the spontaneous magnetic moment is 0.015(5) mB at 10 K).
+
+Fig. 3 The inverse magnetic susceptibility curves (ZFC and FC) as a function of temperature for (a) monoclinic Na3Fe2(PO4)3 and (b) rhombohedral Li3Fe2(PO4)3. H~50 Oe (~5 mT).
+
+Fig. 4 Magnetization curves vs. the applied ﬁeld (H) at 20 K for rhombohedral Li3Fe2(PO4)3.
+
+magnetic and non-magnetic regions, similar to the transition that NFP exhibits at TN~47 K.5,7 The hyperﬁne interaction parameters are presented in Table 2. Both Fe sites have a 3-fold rotational symmetry (about the c-axis), so that the principal z-
+
+Table 2 Results from the ﬁtting of the Mo¨ ssbauer spectra for rhombohedral Li3Fe2(PO4)3 at low temperatures. The isomer shift, d, (given vs. natural a-Fe at 295 K) is kept equal for all sub-spectra in the temperature range 16–28 K. Estimated errors on isomer shift, d, electric quadrupole splitting, DEQ, and absorber linewidth, w: ¡0.01 mm s21; on magnetic hyperﬁne ﬁeld, B: ¡0.1 T; and on spectral intensity, I: ¡2%. The bold row marks the temperature region in which both magnetic and non-magnetic components are observed
+
+Fig. 5 Mo¨ ssbauer spectra recorded between 11 K and 29 K for rhombohedral Li3Fe2(PO4)3.
+
+axis of the electric ﬁeld gradient (EFG) tensor is along this axis, and the asymmetry parameter (g) of the EFG is zero. This tells us that the paramagnetic electric quadrupole splitting (DEQ) is eQVzz/2, where Vzz is the principal component of the EFG. In ﬁrst-order perturbation theory, the magnetic electric quadrupole splitting (DEQ) is given by:
+
+for g~0. Using the values for DEQ just above TN and at 11 K (Table 2), we arrive at an angle h#56‡ for the magnetic ﬁeld vector with respect to the c-axis at 11 K (for both Fe atoms). The saturation magnetic hyperﬁne ﬁeld of 54 T is representative for Fe3z ions in high-spin conﬁguration.
+
+The neutron powder diffractograms for R-LFP recorded at 295 K and 10 K are shown in Fig. 6. The small inset in Fig. 6(b) shows the difference between the observed intensities at 10 K and 30 K, i.e., the purely magnetic part of the scattering. The diffraction data were reﬁned using the Rietveld program FULLPROF,13 where the crystal and magnetic structures are treated as a coupled two-phase system. The room-temperature data-set was ﬁrst reﬁned to check the structural parameters (starting parameters were those given by Masquelier et al.4). In all, 42 parameters were varied: 1 scale factor, the 2h zero-point, 5 background coefﬁcients, 2 cell parameters, 3 half-width parameters, 1 proﬁle-shape parameter, 1 asymmetry parameter, 20 atomic coordinates and 8 isotropic temperature factors (one for each atom). The parameters thus obtained were used in the reﬁnement of the 30 K data-set, and these parameters were, in turn, used for the reﬁnement of the 10 K data-set. The temperature factors for the two Fe atoms were in this case constrained to be equal. A simple collinear antiferromagnetic model (Model A) was ﬁrst assumed, with sheets of Fe atoms ferromagnetically aligned within the sheet, but antiferromagnetically coupled to adjacent sheets, i.e. all Fe(1) atoms have spins in one direction, and all Fe(2) atoms in the opposite direction. The absolute value of the magnetic moment was constrained to be the same for all Fe atoms. At an early stage in the reﬁnement, it became clear that the Mx/ My component was the largest contributor to the magnetic scattering. The moment found on the Fe atoms after reﬁning
+
+Fig. 6 Rietveld reﬁnement ﬁt for neutron diffraction proﬁle of rhombohedral Li3Fe2(PO4)3 at (a) 295 K and (b) 10 K. The small inset in (b) shows the difference between the observed diffractograms at 10 K and 30 K, i.e., the magnetic scattering contribution.
+
+the Mx component is: 4.19(4) mB in the ab plane. After reﬁning all the structural parameters, the Mz components were also reﬁned, either with the same sign for Fe(1) and Fe(2) (Model A’) or with opposite signs (Model A@). Model A’ gave a slightly better ﬁt (than Model A), with a magnetic moment of 0.7(2) mB in the c-direction on each atom, corresponding to a total moment of 4.25(5) on the Fe atoms, directed at an angle of y9‡ out of the ab plane. The results from these reﬁnements are given in Table 3, and the atomic coordinates obtained at 10 K in Table 4. It can be noted that a constrained reﬁnement with an angle of 35‡ out of the ab plane (as suggested by the Mo¨ ssbauer data) gave an R value of 13.9 for the magnetic phase, as compared to 3.5 for the unconstrained reﬁnement. A comparison is made between some selected bond lengths obtained at room temperature and 10 K in Table 5.
+
+Table 3 Overall parameters and Rietveld reﬁnement agreement factors from neutron powder diffraction (l~1.470 A˚ ) for rhombohedral Li3Fe2(PO4)3 at 295, 30 and 10 K. The listed reliability factors (except RBragg) are based on all non-excluded points, prior to background correction
+
+Space group a/A˚ c/A˚ V/A˚ 3 No. reﬁned parameters Rp (%) Rwp (%) Rexp (%) x2 RBragg (%) Rmagn (%)
+
+Published on 19 September 2000. Downloaded by Laurentian University on 04/06/2013 10:33:41. View Article OnlineTable 4 Final atomic coordinates and isotropic temperature factors for rhombohedral Li3Fe2(PO4)3 at 10 K
+
+Table 5 Selected bond lengths (in A˚ ) for rhombohedral Li3Fe2(PO4)3 at room temperature (RT) and 10 K
+
+for R-LFP. If the directions of the spins on the Fe atoms are the same in both structures, this would mean that the spins lie parallel to the a-axis in R-LFP.
+
+It would appear that the antiferromagnetic arrangement of spins is such that the magnetic unit cell is commensurate with the structural unit cell, and no superlattice peaks appear. This was also observed by Fanjat et al.8
+
+The Mo¨ ssbauer data suggest an angle of 30–35‡ for the magnetic vector with respect to the ab plane; this is not in agreement with the ND results. The reason for this signiﬁcant discrepancy is unclear at time. Some temperature dependence of the magnetic-spin orientation has been observed in several systems; however, the neutron diffraction and Mo¨ ssbauer spectroscopy data were collected at the same temperature (10–11 K), which would exclude any such effect here.
+
+The magnetic behaviour is probably also highly sensitive to the synthesis method used, the thermal history of the sample and the local ordering in the material. As for R-LFP, another factor must also be considered; namely, the degree of Li/Na exchange. Chemical analysis shows that the Na/Li molar ratio is less than 1 : 50, but even this small amount could well inﬂuence the effective local symmetry. It should be noted, however, that a neutron diffraction measurement made on a Synthesis II material at 10 K gave the same results (within two standard deviations) as a similar measurement on a Synthesis I material.
+
+The observed effective magnetic moment, 5.94(3) mB, compares well with a high-spin state with a quenched orbital momentum for the Fe3z ions, i.e. J~5/2 and gJ~2. Thus the Fe3z magnetic moment, deﬁned as m~gJmBJ would be 5.0 mB, a value higher than the moment found by neutron diffraction.
+
+It would appear that the structures of NFP and R-LFP are similar enough to suggest that the effect of the ion exchange on the magnetic structure is small. However, the strength of the exchange interaction, J, between the Fe atoms is lowered going from NFP to R-LFP since J is proportional to TN.
+
+Also, both modiﬁcations of LFP show similar magnetic behaviour; i.e. both have a transition to a magnetically ordered state around 27–29 K. Both compounds exhibit a weak ferrimagnetic component according to the magnetic susceptibility measurements.
+
+It is also interesting to note the similarity between the magnetic behaviour of LFP and NaFeP2O7.14 Both are antiferromagnetic, with transition temperature around 29 K and similar Mo¨ ssbauer parameters at both room and low temperatures.
+
+The neutron diffraction data suggest
+
+the Fe ion moments are oriented almost in the ab plane (the contribution in the c-direction must be small). All Fe atoms in a given sheet, perpendicular to the c-axis, are ferromagnetically aligned but coupled antiferromagnetically to adjacent Fe sheets (Fig. 7(a)). This model, with the spins lying mainly in the ab plane, agrees better with the results of Fanjat et al.8 for NFP than with the results of the later study by Greaves et al.9 Since the a and b axes are equivalent in the hexagonal setting, it is not possible to say anything about the spin direction within the ab plane from powder data. However, since both these structures are very similar (the major differences involve the occupation of alkalication sites), we can assume that the directions of the spins also coincide. In Fig. 7(b), the results from Fanjat et al.8 for monoclinic NFP have been transferred to our hexagonal cell
+
+Fig. 7 The magnetic structure of rhombohedral Li3Fe2(PO4)3 (a) viewed along the b-axis and (b) viewed along the c-axis. The arrows symbolize the orientation of the Fe3z magnetic moments in the cell. The white arrows pointing to the left are situated on Fe(1); the black arrows pointing to the right are situated on Fe(2). The area enclosed by the dotted rectangle in (a) contains the two layers (perpendicular to the c-axis) drawn in (b). The numbers given in the ﬁgure are the corresponding z-coordinates. Note: The directions of the magnetic moments in the ab plane are based on the assumption that the orientations of the spins within the ab plane are the same for monoclinic Na3Fe2(PO4)3 and rhombohedral Li3Fe2(PO4)3; the results from Fanjat et al.8 have been transferred to a hexagonal cell.
+
+Published on 19 September 2000. Downloaded by Laurentian University on 04/06/2013 10:33:41. View Article OnlineAs discussed in the Introduction, this material—along with other iron-containing compounds—is interesting as a lithium insertion material in battery applications. At present, the lithium insertion mechanism is unclear. Results so far indicate that the framework structure remains intact,15,16 even though the insertion mechanism would seem to be more complex than was ﬁrst believed. In earlier work, we have used in situ Mo¨ ssbauer spectroscopy (among other techniques) to follow lithium insertion into R-LFP.16 It remains unclear, however, where the extra lithium is inserted into the structure.
+
+Interesting future work would therefore be to study the effect on the magnetic properties (transition temperature, magnetic ordering, etc.) of lithium insertion. There are examples in the literature where magnetic susceptibility and Mo¨ ssbauer measurements states) have been used to characterize the compounds formed on lithium insertion, e.g. in spinel ferrites17 and, more recently, in LixV6O13,18 the spinel 19 and in the ordered rock-salt type phase Li1zxMn22xO42d structure Li12xNi1zxO2.19

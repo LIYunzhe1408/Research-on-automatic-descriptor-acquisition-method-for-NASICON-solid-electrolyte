@@ -1,0 +1,101 @@
+Solid  electrolyte  gas  sensors  using  ion-conducting  solid  electrolyte  materials  have  been  widely  investigated  because  of  their high  selectivity,  low  cost,  ease  of  operation,  simple  construction and  scope  for  miniaturization  [1,2].
+Different  types  of  solid  electrolyte  gas  sensors  have  been  developed  and  a  variety  of  solid electrolyte  materials  have  been  employed  to  satisfy  the  requirements  for  high  selectivity  and  sensitivity  [2–5].
+However,  most of  the  solid  electrolyte  sensors  are  discrete  devices,  which  usually  have  a  typical  electrochemical  cell  structure  with  two  or  three electrodes.
+It  is  quite  difﬁcult  to  integrate  them  with  silicon  CMOS process  technology  because  the  ions  contained  in  a  solid  electrolyte easily  diffuse  into  the  substrate  and  increase  the  leakage  current.
+Recently,  FET  type  gas  sensors  have  attracted  much  attention  due to  the  smaller  size  and  low  power  consumption,  which  can  be easily  incorporated  with  CMOS  technology  [6–9].
+Therefore,  some groups  formed  sodium  salts,  which  can  be  considered  as  solid  electrolyte  materials,  on  the  surface  of  the  MOSFETs  to  detect  different target  gases  [10,11].
+These  MOSFET  sensors  require  an  effective ion-blocking  layer  to  prevent  the  sodium  ions  from  diffusing  into∗ Corresponding  author.
+So  an  additional  Ta2O5 insulator  layer was  adopted  to  prevent  such  diffusion  of  Na+ ions  from  the  sensing material  [10,11].
+The  authors  also  pointed  out  that  the  high  input impedance  and  elimination  of  the  counter  electrode  make  the  FET type  sensors  superior  to  others  [10].
+However,  the  formation  of  the insulator  layer  and  the  melting-and-quenching  method  for  forming the  sensing  material  complicate  the  fabrication  process.
+In  this  work,  a  pMOSFET  sensor  platform  with  horizontal  FG  and CG  [12]  is  adopted  to  detect  CO2 gas.
+The  FG  is  encapsulated  by stacked  SiO2-Si3N4-SiO2 (ONO)  insulator  layers.
+Both  the  FG  and the  CG  are  formed  in  an  interdigitated  form  in  a  horizontal  direction  to  increase  the  capacitive  coupling  ratio  between  them.
+The composite  of  NaNO2 and  Na2CO3 is  deposited  as  the  sensing  material  on  the  interdigitated  FG  and  CG  by  inkjet  printing  process.
+A monolayer  of  (3-aminopropyl)  triethoxysilane  (APTES)  is  formed to  serve  as  an  ion-blocking  layer  by  simple  dipping  method  before forming  the  sensing  material.
+Because  the  thickness  of  the  APTES layer  is  about  1  nm  [13–16],  it  has  no  effect  on  the  coupling  ratio between  CG  and  FG.
+The  APTES  monolayer  assembled  itself  on  the surface  of  oxide  layer  of  the  ONO  stack  can  effectively  prevent Na+ ions  from  diffusing  through  insulators.
+The  CO2 sensing  performance  of  the  sensor  is  measured  at  160 ◦C.
+In  this  paper,  the sensor  is  programed  to  shift  the  threshold  voltage  of  the  FET  platform  owing  to  the  FG,  and  the  sensing  performance  of  programed sensor  is  tested.
+SEM  image  of  the  porous  sensing  material  circled  in  (d). can  be  ﬂexibly  incorporated  with  the  operation  scheme  of  a  sensor system  circuit.
+Furthermore,  the  sensing  principle  is  explained  and modeled  based  on  electrochemical  theory.
+In  this  paper,  a  pMOSFET  platform  is adopted  because  pMOSFETs  produce  less  1/f  noise  than  nMOSFETs.
+The  length  and  width  of  the  channel  of  the  MOSFET  are  2  ␮m,   respectively.
+Main  fabrication  steps  of  the  pMOSFET and  1  platform  are  described  as  follows.
+A  layer  of  Si3N4 is  deposited and  patterned  on  an  n-type  Si  substrate  covered  by  SiO2 to  deﬁne active  regions  of  the  MOSFET.
+Next,  550-nm-thick  isolation  oxide  is grown  by  local  oxidation  of  silicon  (LOCOS)  technique,  followed  by removing  the  Si3N4 layer.
+After  growing  10-nm-thick  gate  oxide, an  n+-doped  poly-silicon  layer  is  formed  and  patterned  to  serve as  the  FG.
+Heavily  doped  p+ source  and  drain  regions  are  created by  ion  implantation  process.
+Then,  stacked  ONO  insulator  layers consisting  of  SiO2 (10  nm)/Si3N4 (20  nm)/SiO2 (10  nm)   cover  the whole  substrate  to  prevent  any  contamination  of  the  platform  from the  ﬁnal  deposition  step  of  the  sensing  material  and  penetration of  moisture  after  fabricating  the  device.
+After  deﬁning  the  contact  holes,  stacked  layers  of  Ti  (20  nm)/TiN  (30  nm)/Au  (30  nm)   are formed  consecutively  to  serve  as  the  CG,  source,  and  drain  electrodes.
+Finally,  an  SU-8  passivation  layer  is  formed  and  patterned on  top  of  the  platform  by  spin  coating  and  lithography  process  to protect  active  regions  of  the  MOSFET.
+Meanwhile,  the  patterned SU-8  layer  exposes  the  interdigitated  FG  and  CG  area,  shown  as  the rectangle  area  depicted  by  a  dashed  box  in  Fig.1(a),  to  the  sensing material.
+Fig.1(e)  is  a  magniﬁed  image  of  the  exposed  interdigitated FG  and  CG  region,  which  is  circled  in  Fig.1(c).
+Before  the  deposition  of  the  sensing  layer,  an  APTES  selfassembled  monolayer  (SAM)  is  formed  on  the  exposed  interdigitated  FG  and  CG  region  by  using  dipping  method.
+It  can  prevent  the Na+ ions  in  the  sensing  material  from  diffusing  through  the  insulator  stack  and  even  the  thick  isolation  oxide.
+Before  forming  the SAM,  the  platform  is  ﬁrstly  illuminated  by  UV  to  create  OH  on the  oxide  in  the  exposed  interdigitated  FG  and  CG  region  and  then immersed  in  1%  APETS  solution  (dissolved  in  Ethanol)  for  30  min.
+After  baking  at  120 ◦C  for  10  min,  the  APTES  monolayer  will  assemble  itself  on  the  oxide  surface  of  the  ONO  stack  as  shown  in  the dashed  box  in  Fig.1(a).
+The  inkjet  printing  process  was   adopted to  deposit  the  sensing  material  as  it  is  easier  to  operate  and  less expensive  than  conventional  methods.
+The  powder  of  Na2CO3 and NaNO2 with  molar  ratio  of  1:3  were  dissolved  in  deionized  water (D.I.water)  to  serve  as  the  ink.
+After  printing  (Omni  Jet  100),  a 2-h  annealing  process  at  170 ◦C  under  vacuum  condition  was   conducted  to  fully  evaporate  the  water  and  form  the  porous  Na2CO3 and  NaNO2 sensing  layer  (an  average  pore  size  of  about  500  nm).
+All chemicals  used  in  this  paper  were  purchased  from  Sigma-Aldrich (USA)  without  further  puriﬁcation.
+The  CO2 sample  gas  is  prepared by  mixing  2000  ppm  CO2 diluted  in  N2 with  dry  synthetic  air  (20 vol.%  of  O2 and  80  vol.%  of  N2).
+As  discussed  in  literature  [18,19], ambient  water  vapor  may   affect  the  detection  of  CO2 by  forming −.
+In  this  paper,  we  just  focus  on  the additional  CO3 fundamental  study  of  dry  CO2 sensing  by  using  the  proposed  sensor.
+The  sensing  characteristics  are  tested  by  switching  between the  sample  target  gas  and  reference  gas  (dry  air  or  pure  N2)  at 160 ◦C.
+Electrical  measurements  are  carried  out  by  using  an  Agilent B1500A.
+APTES  SAM  was   formed  on  the  oxide  surface of  the  ONO  stack  on  the  exposed  interdigitated  FG  and  CG  region to  prevent  the  penetration  of  Na+ ions.
+Figures  (a)  and  (b)  show  the  ID-VGS curves  of  the  sensors  with  and  without  the  APTES ion-blocking  layer,  respectively,  as  a  parameter  of  measurement  temperature  (20 ◦C  and  160 ◦C).
+The  insets  show  the  control-gate  leakage  current  in  the  IG-VCGS curves.characteristic  between  the  devices  with  and  without  APTES  SAM  is carried  out  to  demonstrate  the  ion-blocking  capability  of  the  APTES.
+Fig.2(a)  and  (b)  show  the  ID-VCGS curves  of  the  sensors  with  and without  the  APTES  ion-blocking  layer,  respectively,  as  a  parameter  of  temperature  (20 ◦C  and  160 ◦C).
+The  insets  in  both  ﬁgures show  the  CG  leakage  current  (IG).
+When  the  sensing  layer  directly contacts  with  the  ONO  passivation  layer  covering  the  FG,  the  Na+ ions  contained  in  the  sensing  material  penetrate  through  the  passivation  layer  during  annealing  process.
+It  seems  that  the  diffusion of  the  Na+ ions  makes  many  leakage  paths  through  the  insulator layers.
+The  inset  in  Fig.2(a)  shows  very  high  CG  leakage  current (∼10  nA)  even  at  20 ◦C.
+The  drain  current  exhibits  signiﬁcant  ﬂuctuation  and  quite  poor  modulation  with  the  change  of  the  CG bias.
+Conversely,  the  APTES  SAM  formed  on  top  of  the  passivation layer  can  block  effectively  the  diffusion  of  the  Na+ ions  so  that  the gate  leakage  is  negligible  (less  than  10−13 A)  and  reasonable  IDVCGS curves  are  obtained  as  shown  in  Fig.2(b).
+An  APTES  molecule consists  of  a  head  group,  a  tail  and  a  functional  group  [20].
+The “head  group”  assemble  itself  on  the  surface  of  the  ONO  stack  by chemisorption,  while  the  tail  and  functional  group  are  located  farfrom  the  stack.
+In  this  way,  the  mono  APTES  layer  prevented  Na+ ions  away  from  the  ONO  stack.
+Fig.3  shows  the  ID-VCGS curves  of three  FET  sensor  platforms  having  three  different  materials  on  the exposed  interdigitated  FG  and  CG:  nothing  (air),  APTES  only,  and both  APTES  and  sensing  materials.
+Note  the  three  sensor  platforms have  the  same  geometry  and  structure,  and  were  fabricated  on  the same  substrate.
+The  device  having  both  APTES  and  sensing  material  is  working  properly  as  a  normal  pMOSFET  with  negligible  gate leakage  current  at  both  20 ◦C  and  160 ◦C.
+However,  the  FET  plat−6  V  of  CG form  with  air  or  APTES  only  cannot  be  turned  on  even  at  bias  no  matter  at  20 ◦C  or  160 ◦C,  because  the  capacitive  coupling between  the  CG  and  the  FG  is  too  low  compared  to  that  between the  FG  and  the  channel.
+The  results  in  Figs.2  and  3  conclude  that the  sensing  layer  enhances  the  capacitive  coupling  ratio  between CG  and  FG.
+In  addition,  the  APTES  layer  effectively  inhibits  leakage  current  by  preventing  Na+ ion  diffusion,  but  it  does  not  affect the  electrical  characteristics  of  the  pMOSFET  sensor  because  its thickness  is  about  1  nm  [13–16].
+ID-VCGS curves  of  three  FET  platforms  having  different  materials  (nothing  (air),  APTES  SAM  only,  both  APTES  SAM  and  sensing  material)  on  the  exposed  interdigitated FG   and  CG  at  measurement  temperatures  of  20 ◦C  (a)  and  160 ◦C  (b).
+The  insets  show  the  IG-VCGS curves. ion  blocking  properties,  the  Na-ion-conducting  solid  electrolyte  is compatible  with  the  FET-type  sensors.The  operating  temperature  here is  ﬁxed  at  160 ◦C  for  good  stability  of  the  sensor,  relative  low  heat power  consumption,  and  relative  high  ionic  conductivity  [10].
+Constant  biases  are  applied  to  the  CG  and  drain  electrodes  to  keep  a certain  absolute  drain  current  level  (|ID|).
+The  |ID|  is  changed  and recorded  as  the  sensing  signal  by  changing  the  ambient  gas.
+First, the  sensor  is  held  in  a  test  chamber  ﬁlled  with  N2.  When  the  |ID| of  the  sensor  saturates  after  a-few-minute  drift,  a  target  gas  consisting  of  180  ppm  of  CO2 and  dry  synthetic  air  is  provided  to  the chamber.
+The  |ID|  is  increased  by  the  target  gas.
+The  response  of  the sensor  to  CO2 gas  is  deﬁned  asresponse where  ID  B and  ID  G represent  the  drain  currents  of  the  sensor exposed  to  the  reference  gas  and  the  target  gas  mixture,  respectively.
+We   deﬁne  response  time  (tRES)  as  the  rise  time  of  |ID|  to  90%  of its  maximum  value,  and  recovery  time  (tREC)  as  the  fall  time  to  10% of  the  difference  between  the  maximum  and  reference  currents.
+A  ﬂuctuation  in  the  |ID|  is  observed  when the  response  of  the  sensor  starts  to  saturate  in  a  mixed  ambient  of CO2 and  air.
+It  may   result  from  the  physical  and  chemical  processes taking  place  at  the  gas/electrode/electrolyte  three-phase-boundary (TPB)  [21].
+The  |ID|  nonlinearly  increases  with  the  concentration of  CO2 when  the  concentration  is  lower  than  around  500  ppm, and  starts  to  linearly  increase  after  the  concentration  exceeding 500  ppm.
+CO2 sensing  performance  of  the  proposed  sensor  with  N2 as  the  reference  gas  at  160 ◦C.
+ID B and  ID  G represent  the  drain  currents  of  the  sensor  exposed  to  the  reference gas   and  the  target  gas  mixture,  respectively.
+Fig.5.  (a)  The  I–V  curves  of  the  sensor  before  and  after  programing.
+The  ID-VCGS curves  of  the  sensor  before  and  after  programing are  plotted  in  Fig.5(a).
+The  |ID|  transient  curve  of  the  sensor  in  N2 ambient  after  programing  is  shown  in  Fig.5  (b),  which  indicates stability  of  the  sensor.Fig.5(c)  shows  the  sensing  performance  ofM.
+Note  that  VCGS=0  V  during  the  measurement,  and  the  MOSFET  works  in  the  linear  region  according  to  the  ID-VCGS curve  in −   |ID  B|)  as  the  function  of Fig.5.  Fig.
+Here,  the  reference  gas  is  synthetic  air  in  place  of  N2.  To  remove  the  inﬂuence  of O2 on  the  sensing  performance,  we  keep  a  constant  proportion  of the  O2 in  both  the  reference  gas  and  the  target  gas  sample  by  balancing  the  concentration  of  CO2 with  N2.  The  ID increases  with the  increase  of  CO2 concentration.  of  NaNO2 is  relatively  high  [10],  so  that  it  can  serve  as  a kind  of  solid  electrolyte  to  provide  enough  Na+ ions.
+Na2CO3 in  the sensing  layer  acts  as  an  auxiliary  phase.
+As  sensing  material  directly contact  to  the  CG,  a  three-phase-boundary  (TPB)  [22]  will  be  created  when  gas  molecules  penetrate  through  the  sensing  layer  and reach  to  the  interface  between  the  sensing  layer  and  the  CG  electrode.
+In  the  case  of  CO2 detection,  CO2 and  O2 molecules  will  react with  Na+ ions  at  the  TPB.
+The  chemical  reaction  can  be  written  as (2)  [10,23,24].
+VS1 is  the  potential  difference  between the  CG  metal  and  the  sensing  layer.
+The  change  of  VS1,  which  is determined  by  the  reaction  between  gas  molecules  and  sensing material  [10,11],  tunes  the  |ID|  of  the  MOSFET.
+According  to  electrochemical  theory,  when  chemical  reaction (2)  reaches  to  an  equilibrium,  it  can  be  expressed  as  eq.(3), e− are  the  electrochemical  potentials  of  Na+ in where  ˜ 3)Na+ and  ˜ 3)Au the  sensing  layer  and  electrons  in  the  CG  metal,  respectively.
+While 3)CO2 ,   3)O2 ,  and   3)Na2CO3 are  the  chemical  potentials  of  CO2,  O2 and  Na2CO3,  respectively.
+Then  eq.(4)  can  be  obtained  by  replacing  ˜ 3)Na+ and  ˜ 3)Au e− with  the  corresponding  chemical  potentials  ( 3)) and  electric  potentials  (F˚)  for  the  component  [11,27].
+Here,  F is  the  Faraday  constant  and  ˚  is  the  local  electrostatic  potential.
+Therefore,  VS1 can  be  derived  from  (4),  and  represented  as  the  eq.(5).
+For  a  certain  gas,  the  chemical  potential  can  be  expressed  as eq.(6),  where   3)o is  the  standard  chemical  potential  at  a  pressure  of  1  atmosphere,  P  is  the  partial  pressure  of  the  gas,  R  is the  gas  constant,  and  T  is  the  operating  temperature.
+By  rearranging  terms  in  (7),  eq.(8) with  three  constants,  K0,  K1,  and  K2,  can  be  obtained  if  we  set/4F,  K1=RT/2F,   andReferencesM.
+In  summary,  we  investigated  an  FET-type  gas  sensor,  which  has horizontal  FG  and  CG,  using  the  composite  of  Na2CO3 and  NaNO2 as the  sensing  material.
+The  inkjet-printed  Na+ ion  conducting  sensing  layer  can  detect  CO2 at  an  operating  temperature  of  160 ◦C.
+The APTES  ion-blocking  layer  effectively  prevents  the  Na+ ion  leakage, so  that  the  sensing  layer  acts  as  a  reliable  CG  and  produces  a  reasonable  capacitive  coupling  ratio  between  the  FG  and  the  CG.
+The FG  of  the  sensor  allows  the  programming  of  the  device  and  the shift  of  Vth, so  that  the  sensor  can  be  easily  calibrated.
+The  results conﬁrm  that  the  proposed  FET-type  gas  sensor  using  a  sodium  ion conducting  solid  electrolyte  material  could  be  useful  in  the  ﬁeld  of CO2 detection.

@@ -1,0 +1,112 @@
+A compact, solid-state, amperometric NO2 sensor was fabricated using a small Na 27) conductor (NASICON) plate and an NaNO2 layer deposited on the counter electrode. With the sensing electrode polarized at a constant potential relative to the reference Au electrode coated with an inorganic adhesive, electric current ﬂowing through the device under exposure to NO2 was measured as a sensing signal. The current response was almost linear with NO2 concentration in the range 10 ppb–1 ppm at 150°C. The 90% response time to even 20 ppb NO2 was ca. 60 s. The NO2 sensitivity was hardly affected by the coexistence of CO2, H2O and O2. Furthermore, the device could be operated rather stably during the test period of ca. 30 days except for several days in the early stage. A sensing mechanism is proposed on the basis of the sensing characteristics obtained. © 1998 Elsevier Science S.A. All rights reserved.
+
+Keywords: NO2 sensor; Amperometric sensor; Solid electrolyte; NASICON; NaNO2
+
+more precise concentration data than potentiometric sensors. However, there has been little work [13] on solid-state amperometric NO2 sensors.
+
+Recently, we have proposed and reported [14,15] an amperometric NO2 sensor using a NASICON and sodium nitrite. The current response of this sensor varied linearly with NO2 concentration, but its lowest limit of NO2 detection was several-hundred ppb. In
+
+Nitrogen dioxide (NO2) is highly toxic and put under control of a strict safety standard (less than 40–60 ppb in Japan) as an environmental pollutant which causes photochemical smog and acid rain. Analytical instruments based on chemical luminescence as well as IR absorption have been used for the practical detection of NO2, but are rather expensive and large. So, much attention has been paid lately to the development of compact, low-priced, solid-state sensors which can directly monitor the concentration of NO2 in the environmental atmosphere in real-time. Several potentiometric solid-electrolyte NO2 sensors [1–9] have been proposed and examined so far. We have also reported that a NASICON (Na  27)-super-ionic-conductor):nitrite (NaNO2) couple shows excellent sensing characteristics, especially to dilute NO2 gases [10–12]. Some of them can detect sub-ppm NO2 in air, but the accuracy of concentration data obtained is not usually high because of the potentiometric signal which varies logarithmically with gas concentration. Generally speaking, amif properly fabricated, can give perometric sensors,
+
+Fig. 1. Conﬁguration of the compact NASICON-based device using the NaNO2 layer for amperometric detection of NO2.
+
+Fig. 2. SEM images of the cross-section of the counter electrode of the device; (a) wide area; (b) narrow area.
+
+addition, the original sensor needs the ﬂow of air to the reference electrode side as a reference gas, so the simpliﬁcation and miniaturization of sensor structure are not easy. In order to overcome these drawbacks, we designed a relatively small and compact NO2 sensor which required no reference-gas ﬂow. This modiﬁed amperometric sensor was found to give excellent NO2 sensing properties: its lowest detection limit of NO2 is as low as 10 ppb, as described below. This paper deals with the sensing characteristics as well as sensing mechanism of the obtained compact amperometric NO2 sensor.
+
+electrochemical sensing device fabricated using a small plate (5 29)8 29)0.7 mm) of NASICON (Na3Zr2Si2PO12). The NASICON sample was synthesized by calcining the powder mixture of ZrSiO4 and Na3PO4 at 1125°C for 11 h, followed by milling in a zirconia-ball-mill for 24 h, pressing into a disc at 100 MPa, and sintering at 1220°C for 14 h in air. A commercial gold paste was applied on both sides of the plate, as a sensing, counter, and reference electrode, respectively, followed by annealing at 700°C for 30 min. The counter Au electrode was then covered with a layer of NaNO2. Fig. 2 shows SEM (Hitachi, S-510) images of the cross-section of the counter electrode side. It is seen that the thicknesses of the NaNO2 layer and the Au layer are about 200 mm and about 10 mm, respectively, and these layers are rather porous. The reference Au electrode was coated with an inorganic adhesive, in order to avoid direct contact with the sample gas.
+
+The NO2 sensing experiments were carried out in a conventional gas ﬂow apparatus equipped with a heating facility. Sample gases containing various concentrations of NO2 under a constant oxygen concentration of 21 vol.% were prepared by diluting a parent gas (100 ppm or 1 ppm NO2 in air) with dry synthetic air. The whole sensor device was exposed to the ﬂow of a NO2–air mixture (100 cm3:min). The potential of the sensing electrode was polarized at a constant value by means of a potentiostat (Hokuto Denko, HA-101), by referring to the reference Au electrode. On switching the gas ﬂow between air and the sample gas, the electrolysis current ﬂowing through the NASICON plate was measured as a sensor signal at 150 and 200°C. The polarization curves of the device were also measured in air or in the sample gases at 150 and 200°C.
+
+First, the polarization curves of the present device were measured in air and in the sample gases containing varying concentration of NO2 at 200°C. It is seen from Fig. 3 that the cathodic current increases with increasing NO2 concentration and a limiting-like current is observed in the sample gases when the sensing electrode is polarized at around  28)180 2)  28)280 mV vs. the reference electrode. These results indicate that the potential of the reference Au electrode coated with the inorganic adhesive layer remains constant even in the sample gas and thus this electrode can work as a relatively stable reference electrode.
+
+Fig. 4. Structure of the potentiometric device using the Au electrode and the reference Pt electrode.
+
+In order to conﬁrm this, a potentiometric device was fabricated by using a NASICON disc, as shown in Fig. 4. In this case, an Au layer coated with the inorganic adhesive and a Pt layer were formed on the upper and lower side of disc, respectively. Then, the disc was ﬁxed at one end of a quartz glass tube with the inorganic adhesive. The inner Pt layer was always exposed to atmospheric air so that it could work as a reference electrode. The change in potential of the Au electrode versus the reference Pt electrode (emf of the device) was measured in the ﬂow of NO2 containing air at 200°C. As a result, the potential of the Au electrode was found to be hardly affected by the presence of NO2 in the concentration range 0.01–2 ppm, as shown in Fig. 5. This assures that the Au electrode is functioning as a rather stable reference electrode under such conditions, as expected. Furthermore, the appearance of limitinglike current suggests that the diffusion of NO2 gas into the interface of NASICON:sensing Au electrode might be controlled by the Au layer which was conﬁrmed to be rather porous (Fig. 2).
+
+The current response to NO2 of the device was then measured at a constant sensing-electrode potential of  28)250 mV at 200°C. Fig. 6 depicts the dependence of the NO2 sensitivity on NO2 concentration in air. Since some cathodic currents were observed in the polariza-
+
+Fig. 3. Polarization curves of the compact NASICON-based device in air and in the sample gases containing varying concentration of NO2 at 200°C.
+
+Fig. 5. Dependence of EMF on NO2 concentration for the potentiometric device at 200°C.
+
+Fig. 6. Dependence of sensitivity (DI) on NO2 concentration in air for the compact amperometric sensor at 200°C. (The sensing electrode potential:  28)250 mV vs. the reference Au electrode.)
+
+tion curves (Fig. 3) even in the absence of NO2 (air level), the increment of current (DI) from the air level was used here as an NO2 sensitivity. An almost linear relationship between the logarithm of DI and the logarithm of NO2 concentration is seen in the wide range from 10 ppb to 1 ppm. The inset in Fig. 6 also shows that DI is just proportional to the NO2 concentration in the range 0–1 ppm. Anyhow, it is quite notable that the present compact device can detect amperometrically even such a very small amount of NO2 in air.
+
+the present sensor responded rather signiﬁcantly to CO2 and water vapor coexisting in air. As shown in Fig. 7, the current responses of the device to both gases were relatively large and increased with increasing gas con-
+
+Fig. 7. Dependence of sensitivity (DI) on concentration of CO2 and H2O (in air) for the compact amperometric sensor at 200°C. (The sensing electrode potential:  28)250 mV vs. the reference Au electrode.)
+
+Fig. 8. Polarization curves of the compact device in various gases at (a) 200°C and (b) 150°C.
+
+centration in the examined range of 400–1000 ppm for CO2 or 0.45–1.84 vol.% for H2O under the present condition. Such behavior would cause serious problems if the present sensor was applied to monitoring of NO2 in actual atmospheric air which usually contains a lot of CO2 and water vapor. It is supposed that the above responses are attributable to some kinds of cathodic reactions involving CO2 or water vapor under the present sensor-operation condition (250°C,  28)250 mV). Actually, as shown in Fig. 8(a), the polarization curve shifted upward from that in dry air when 1000 ppm CO2 or 1.84 vol.% H2O was added to the dry air ﬂow at 200°C. This brings about a rather large response (change in current value) to CO2 or H2O at the sensoroperating potential of  28)250 mV vs. the reference Au electrode.
+
+In order to reduce the sensitivities to CO2 and H2O, milder conditions for the present device were examined below. First, the operating temperature was lowered to 150°C from 200°C. As shown in Fig. 9, the limitingcurrent region appeared more clearly in the polarization curves in the NO2-containing sample gases at this temperature, compared with that observed at 200°C (Fig.
+
+Fig. 9. Polarization curves of the compact device in air and in the sample gases containing varying concentration of NO2 at 150°C.
+
+3). It is seen that the limiting current starts at ca.  28)130 mV and ends at ca.  28)250 mV, while the current value in air is close to zero in this potential range. Thus the sensing electrode potential of the device was shifted to  28)150 mV (vs. the reference electrode) which will be a milder condition for the electrochemical reduction of the gases, compared with the previous potential ( 28)250 mV).
+
+Fig. 10 depicts the dependence of current value on NO2 concentration for the device operating at the milder condition (at 150°C, at the sensing electrode potential of  28)150 mV). Since air level was almost zero as mentioned above, the current value itself could be used here as gas sensitivity. The current value was found to vary linearly with NO2 concentration in the wide range of 10 ppb–1 ppm even under such milder conditions, although the NO2 sensitivity decreased to some extent, compared with that under the previous condition (200°C,  28)250 mV). The inset in this ﬁgure
+
+Fig. 11. Response transients of the compact amperometric device to the sample gases (NO2 27)air) at 150°C. (The sensing electrode potential:  28)150 mV vs. the reference Au electrode.)
+
+also gives the excellent linear relationship between the current response and NO2 concentration in the range 0–1 ppm. The response transients of the device to the sample gas ﬂows containing dry air and the varying concentrations of NO2 are shown in Fig. 11. It is seen that the device responds well to the dilute NO2-containing air and gives a reversible response to each sample gas. The 90% response and the 90% recovery times to even 20 ppb NO2 were ca. 1 min and ca. 2 min, respectively. In addition, the compact device was subjected to the six-times repeated runs in 50 ppb NO2 at 150°C. As shown in Fig. 12, it is clear that the reproducibility of current response of the device is rather good.
+
+Under the present milder conditions, the current responses to CO2 and water vapor were found to be almost zero in the concentration range examined, as shown in Fig. 13(a). Such a result can be expected from the polarization curves (Fig. 8(b)) in air containing 1000 ppm CO2 or 1.84 vol.% H2O at 150°C. If one compares both results in Fig. 8(a,b), it is clear that the polarization curves at 150°C are in a closer position to each other than those at 200°C, especially in the potential range around  28)150 mV, causing large decrease in current responses to CO2 and H2O. And the sensitivity to 100 ppb NO2 was hardly affected by the coexistence of CO2 (400–1000 ppm) and water vapor (0.45–1.84 vol.%), as shown in Fig. 13(b). In addition, it was
+
+Fig. 10. Dependence of current value on NO2 concentration in air for the compact amperometric sensor at 150°C. (The sensing electrode potential:  28)150 mV vs. the reference Au electrode.)
+
+Fig. 12. Successive responses to 50 ppb NO2 at 150°C for the amperometric device. (The sensing electrode potential:  28)150 mV vs. the reference Au electrode.)
+
+N. Miura et al. :Sensors and Actuators B 49 (1998) 101–109 N. Miura et al. :Sensors and Actuators B 49 (1998) 101–109
+
+Fig. 15. Dependence of sensitivity (DI) to 100 ppb NO2 on concentration of coexistent O2 for the compact amperometric device at 150°C. (The sensing electrode potential:  28)150 mV vs. the reference Au electrode.)
+
+where the polarization curves in dry air and in dry N2 are almost the same in the potential range  28)100 to  28)250 mV. Thus, these results indicate that the present device, if operated under the milder condition, can give a relatively high NO2 sensitivity.
+
+Fig. 16 shows the dependence of the sensitivity (DI) to 100 ppb NO2 on the ﬂow rate of sample gas for the compact device operating at 150°C. It is seen that the NO2 sensitivity is hardly affected by the ﬂow rate in the tested range 10 2)225 cm3:min. This result is also advantageous for its actual application. Fig. 17 gives the result of the long-term stability test of the present device. The current values to 50 ppb and 100 ppb NO2 as well as air level were found to decrease largely in the early stage of test, but after that the currents were quite stable for the test period of about 30 days. The initial decreases in currents seem to be due to the change in proﬁle of sodium ion concentration in the NASICON
+
+Fig. 13. (a) Dependence of sensitivity (DI) on concentration of CO2 and H2O and (b) dependence of sensitivity (DI) to 100 ppb NO2 on concentration of coexistent CO2 and H2O concentration for the compact amperometric sensor at 150°C. (The sensing electrode potential:  28)150 mV vs. the reference Au electrode.)
+
+conﬁrmed that the cross-sensitivities to other gases, such as 0.1 ppm NO, 100 ppm H2 and 100 ppm CO, were much lower than that to 0.1 ppm NO2, as shown in Fig. 14. Besides, it was found that the current value to 100 ppb NO2 as well as the base current value were completely independent of the oxygen concentration in the tested range 0–31 vol.%, as shown in Fig. 15. Such behavior can be explained by the results of Fig. 8(b)
+
+Fig. 14. Cross-sensitivities (DI) to various gases at 150°C for the compact amperometric device. (The sensing electrode potential:  28) 150 mV vs. the reference Au electrode.)
+
+Fig. 16. Dependence of sensitivity (DI) to 100 ppb NO2 on ﬂow rate of sample gas for the compact amperometric device at 150°C. (The sensing electrode potential:  28)150 mV vs. the reference Au electrode.)
+
+N. Miura et al. :Sensors and Actuators B 49 (1998) 101–109 N. Miura et al. :Sensors and Actuators B 49 (1998) 101–109
+
+Fig. 17. Long-term stability of current responses to NO2 and air level for the compact amperometric device at 150°C. (The sensing electrode potential:  28)150 mV vs. the reference Au electrode.)
+
+disc, although further investigation has yet to be done on this point.
+
+3.3. Actual application test
+
+The present compact NO2 sensor was used in an actual application test, together with a commercial NO2 monitoring instrument based on chemical luminescence (Shimadzu, CLAD-1000). The NO2 sensor and the NO2 monitoring instrument were put in a laboratory room (area: 50 m2) where a commercial kerosene heater was also placed. The results for the sensor and the monitoring instrument are given in Fig. 18(a) and Fig. 18(b), respectively. It is seen from Fig. 18(a) that the NO2 concentration in the room was around 10 ppb at the beginning of test. When the kerosene heater was switched on (step 1), the NO2 concentration in the room increased rather quickly and reached the almost constant value of about 40 ppb after 20 min. After a while, when a ventilating fan in the room was operated (step 2) and the heater was switched off (step 3), the NO2 concentration decreased slowly and then decreased rather quickly to the initial value. As shown in Fig. 18(b), almost the same variation pattern of NO2 concentration was obtained when the large and expensive NO2 monitoring instrument was used for the test.
+
+With such excellent sensing performances mentioned above, the present compact device appears to be quite promising as an NO2 sensor operating in actual atmospheric air which usually contains a lot of CO2 and water vapor.
+
+3.4. NO2 sensing mechanism
+
+Fig. 19 shows the schematic NO2 sensing model for the present compact device. At the sensing electrode whose potential is polarized cathodically in the sample
+
+Fig. 18. Time course of NO2 concentration in atmospheric air measured by using (a) the compact amperometric sensor (150°C,  28)150 mV) and (b) a commercial NO2 monitoring instrument. (Step 1: switched on a kerosene heater, step 2: switched on a ventilating fan, step 3: switched off a kerosene heater.)
+
+gas ﬂow, NO2 gas can react with sodium ion coming from NASICON to form NaNO2 in accordance with the following cathodic reaction (1). At the counter electrode, on the other side, the anodic reaction (2) of NaNO2 (decomposition reaction) can proceed giving Na 27) and NO2. Na  27)  27)NO2 27)e  28)  147)NaNO2 NaNO2 147)Na 27)  27)NO2 27)e 28)
+
+Fig. 19. Schematic NO2 sensing model for the compact amperometric device using NaNO2.
+
+N. Miura et al. :Sensors and Actuators B 49 (1998) 101–109 N. Miura et al. :Sensors and Actuators B 49 (1998) 101–109
+
+Thus, the sodium ions produced here can migrate through the NASICON plate from the counter electrode side to the sensing electrode one. This is accompanied by an electric current ﬂow in an external electric circuit as a sensing response. Since the sensing Au electrode is porous and may work as a diffusion barrier to NO2 gas, the limiting-current response can be observed in the polarization curves. Furthermore, the above electrochemical reactions (1 and 2) concerning NO2 will proceed very selectively under the present milder operating condition (150°C,  28)150 mV), so the NO2 sensitivity seems to be hardly affected by the other gases.
+
+Under the harsher operating condition (200°C,  28) 250mV), on the other hand, the following cathodic reactions might proceed at the sensing electrode in the sample gas containing CO2 or H2O. 2Na 27)  27)CO2 27)1:2O2 27)2e 28)  147)Na2CO3 2Na 27)  27)H2O 27)1:2O2 27)2e 28)  147)2NaOH This causes rather high cross-sensitivities to CO2 and H2O under these condition, as shown in Fig. 7.
+
+4. Conclusions
+
+Excellent amperometric detection of NO2 (10 ppb– 1 ppm) diluted with air could be attained by the use of the NASICON-based compact device without the use of a reference gas. The cross-sensitivities of the device to CO2, water vapor, NO, H2 and CO were found to be negligible, the operating conditions (temperature and the sensing potential) were properly set. It was proposed that the NO2 sensing mechanism involved the formation and decomposition of NaNO2 at respectively. However, more detailed investigations on the sensing properties and the sensing mechanism are necessary for realizing the actual application of the present device.
+
+the sensingand counter-electrode,
+

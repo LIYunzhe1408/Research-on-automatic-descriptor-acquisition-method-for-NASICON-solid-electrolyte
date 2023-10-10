@@ -1,0 +1,81 @@
+Li1 + xHf2 – xScx(PO4)3 (x = 0–0.3) NASICON 2)type mixed phosphates have been synthesized and characterized by X 2)ray diffraction, nuclear magnetic resonance, and impedance spectroscopy. The results demonstrate that the materials with 0 ≤ x ≤ 0.1 have a hexagonal structure, whereas in the range 0.1 < x ≤ 0.2 the materials consist of a mixture of hexagonal and orthorhombic phases. The x = 0.3 material has an orthor 2) hombic NASICON structure. Doping with scandium leads to an increase in ionic conductivity in the range 0 < x ≤ 0.1. DOI: 10.1134/S0020168513030096
+
+Ever more stringent environmental safety require 2) ments  and  alternative  energy  development  have resulted  in  a  fast 2)growing  need  for  advanced  ionic conductors. Of particular interest are lithium, hydro 2) gen, and oxygen ion conductors.
+
+Polyvalent 2)cation phosphates are among the most promising lithium ion conductors. Important materi 2) als of this family are LiM2(РO4)3 (M = Zr, Ti, Hf, Sn, Ge,  and  other  elements)  NASICON 2)type  double phosphates [1–7].
+
+Detailed  studies  of  lithium  titanium  and  lithium zirconium  phosphates  have  demonstrated  that  the electrical  conductivity  of  these  materials  can  be increased  substantially  through  heterovalent  doping [1,  9–13].  An  important  point  is  that  materials  that possess  a  hexagonal  structure  at  high  temperatures have  a  higher  degree  of  cation  disorder  and  higher ionic mobility. Therefore, an important issue in such studies is to investigate phase transformations.
+
+At the same time, there is considerably less infor 2) mation  about  the  electrical  conductivity  of  lithium hafnium  phosphates.  The  preparation  of  a  lithium hafnium  phosphate  by  solid 2)state  reactions  was described in Refs. [14, 15]. As shown in those studies, heat treatment at 1270 K or higher temperatures leads to  the  formation  of  a  NASICON 2)type  lithium hafnium  phosphate  with  a  hexagonal  structure  [14]. Below 273 K, the lithium hafnium phosphate has a tri 2) clinic  structure.  Above  273  K,  it  undergoes  a  phase transition to the high 2)temperature (hexagonal) phase. The  conductivity  of LiHf2(PO4)3  (~10–5 S/cm)  is  higher  than  that  of  the other NASICON 2)type LiM2(PO4)3 (M = Zr, Ti) com 2) pounds (~10–6 S/cm) [13, 15–17]. In this context, it is of interest to synthesize lithium hafnium phosphates
+
+with  and  without  heterovalent  doping  and  to  study cation mobility in such materials.
+
+The  objectives  of  this  study  were  to  synthesize Li1  +  xHf2  –  xScx(PO4)3  double  phosphates,  measure their ionic conductivity, and assess the effect of dop 2) ing level on their phase composition.
+
+Li1  +  xHf2  –  xScx(PO4)3 (x  =  0–0.3)  materials  were prepared by solid 2)state reactions according to the fol 2) lowing scheme:
+
+The  starting  chemicals  used  were  (NH4)2HPO4 (Roth, >97%), HfO2 (Aldrich, 98%), Sc2O3 (Aldrich, 99.9%), and Li2CO3 (Merck, >99%). Stoichiometric amounts  of  the  starting  reagents  were  mixed,  thor 2) oughly ground in a mortar, and fired at 870 K for 6 h in platinum  crucibles.  The  mixture  was  then  reground and pressed into pellets to improve interaction between the particles. The pellets were embedded in powder of similar  composition,  containing  20%  excess  lithium carbonate, in order to prevent lithium volatilization at high temperatures, and fired at 1270 K for 24 h.
+
+The  microstructure  of  the  resultant  materials  was examined by scanning electron microscopy (SEM) on a  Carl  Zeiss  NVision  40  operated  at  an  accelerating voltage of 1 kV.
+
+The phase composition of the samples was deter 2) mined  by  X 2)ray  diffraction  (XRD)  on  a  Rigaku D/MAX 2200 diffractometer (CuKα1 radiation). XRD data were analyzed using the Rigaku Application Data Processing software package.
+
+60 2θ, deg Fig.  (1)  LiHf2(PO4)3, (2) Li1.02Hf1.98Sc0.02(PO4)3,  (3)  Li1.05Hf1.95Sc0.05(PO4)3, (4) Li1.1Hf1.9Sc0.1(PO4)3, (5) Li1.2Hf1. 8Sc0. 2(PO4)3, and (6) Li1.3Hf1.7Sc0.3(PO4)3.
+
+When the doping level was increased to х = 0.2, addi 2) tional  peaks  emerged,  which  corresponded  to  an orthorhombic  card no. 70 2)5820), while the reflections from the hexagonal phase became weaker. Using the relative intensities of characteristic  reflections  from  the  hexagonal  and orthorhombic phases, we estimated their percentages. For example, the lithium hafnium phosphate with the composition Li1.2Hf1.8Sc0.2(PO4)3 was found to consist of a 40 : 60 mixture of the hexagonal and orthorhom 2) bic phases (Fig. 2, scan 5). Further increasing the dop 2) ing level (x = 0.3) led to the formation of an orthor 2) hombic substituted lithium hafnium phosphate phase (Fig. 2, scan 6).
+
+Scandium doping changes the unit 2)cell parameters of the hexagonal phase insignificantly, within the error of determination (Table 1). The likely reason for the weak variation in unit 2)cell parameters is that Hf4+ and Sc3+ differ in ionic radius by as little as 0.04 Å.
+
+At low doping levels (х = 0.02–0.1), the low 2)tem 2) perature  ionic  conductivity  of  Li1 + xHf2  –  xScx(PO4)3 increases  with  increasing  scandium  content.  The highest  the Li1.1Hf1.9Sc0.1(PO4)3  material.  The  high 2)temperature ionic conductivity of the phosphates is insensitive to doping  (Fig.  3).  One  possible  reason  for  this  is  that point defects in their structure hinder motion of high 2) mobility ions [18].
+
+Conductivity  is  known  to  be  determined  by  the product  of  carrier  mobility  and  concentration  [19]. Substitution  of  trivalent  scandium  for  tetravalent hafnium  can  be  represented  by  the  following  quasi 2) chemical reaction:
+
+Fig.  1.  Electron  micrographs  of  (a)  LiHf2(PO4)3  and (b) Li1.1Hf1.9Sc0.1(PO4)3.
+
+Wide line 7Li nuclear magnetic resonance (NMR) spectra were taken at 34 MHz on a Bruker Avance 2)600 spectrometer.
+
+Electrical conductivity was measured at tempera 2) tures from 298 to 873 K (30 2)K steps) and frequencies from 10 Hz to 2 MHz using an IPU 2)62 ac bridge. The samples  had  the  form  of  pressed  cylindrical  pellets (R = 5 mm, h = 2 mm) with platinum contacts. The bulk conductivity was determined by extrapolating the semicircle onto the real axis.
+
+According  to  electron  microscopy  data,  the  sam 2) ples had the form of polydisperse crystalline materials consisting of crystallites on the order of 1 to 20 µm in size (Fig. 1). Scandium doping was found to increase the average particle size from 5 to 12 µm.
+
+XRD  examination  showed  that  the  synthesized lithium hafnium phosphate, LiHf2(PO4)3, was phase 2) pure  and  had  a  hexagonal  structure  (PDF 2)2,  card no. 53 2)0569).  The  XRD  patterns  of  the  materials doped with small amounts of scandium (x = 0.02–0.1) also showed only reflections from a hexagonal phase, which  were  shifted  only  slightly  (Fig.  2,  scans  1–4).
+
+where * and ' signify, respectively, a positive and a neg 2) ative charge of ions relative to the lattice site, and the subscript i refers to interstitial ions. Scandium occu 2) pies some of the hafnium sites, and the excess lithium is incorporated into interstitial sites ( ). As a result of this artificial increase in carrier concentration, the ionic conductivity increases, as observed at x = 0.02–0.1.
+
+Further increasing the degree of scandium substi 2) tution for hafnium (x = 0.3) reduces the conductivity, in spite of the increase in carrier concentration. The reason  for  this  is  that  these  compositions  fall  in  the orthorhombic phase field, which leads to changes in the  structure  of  the  conducting  channels  and  a decrease in lithium ion mobility. A significant role in these  processes  is  probably  played  by  defect  associa 2) tion, which intensifies at high defect densities, reduces the  ionic  mobility,  and  often  results  in  structural changes in solid electrolytes [18].
+
+The temperature dependences of conductivity for hexagonal Li1 + xHf2 – xScx(PO4)3 (x = 0–0.1) are linear over the entire temperature range studied (300–870 K). This  is  not  surprising  because  the  materials  have  the high 2)temperature  (hexagonal)  structure  throughout this temperature range.
+
+The  activation  energy  for  lithium  ion  conduction (Ea) in the compounds studied was evaluated using the Frenkel equation [19]:
+
+(3) The results are presented in Table 2. As seen, increas 2) ing  the  degree  of  scandium  substitution  for  hafnium reduces the activation energy in the materials with the hexagonal  structure  owing  to  the  increase  in  cation disorder  upon  doping.  This  is  accompanied  by  an increase  in  point  defect  density  (carrier  concentra 2) tion) and, as a result, by a decrease in the contribution of the enthalpy of defect formation to the activation energy for conduction.
+
+The  activation  energy  in  the  samples  with  the orthorhombic  structure  in LiHf2(PO4)3  and  the  samples  with  0  <  x  ≤  0.1.  This indicates that the transition from the more symmetric, hexagonal phase to the less symmetric, orthorhombic phase inhibits ion transport. As a result, the conduc 2) tivity  of  these  samples  is  lower  even  at  an  increased carrier concentration.
+
+It is also worth pointing out that the temperature dependence  the Li1.3Hf1.7Sc0.3(PO4)3 sample has a break at 520 K, due to  the  thermal  activation  of  defects.  With  increasing temperature,  the  lithium  ion  mobility  increases, resulting  in  a  more  uniform  lithium  ion  distribution over the M1 and M2 sites. This reduces the contribution of the enthalpy of defect formation and decreases the activation energy from 53.4 ± 0.7 to 42.1 ± 0.8 kJ/mol. Important  information  about  the  lithium  ion mobility and distribution in the structure of the phos 2) phates can be gained from 7Li NMR spectra (Fig. 4). The room 2)temperature wide line 7Li NMR spectra of
+
+the hexagonal Li1 + xHf2 – xScx(PO4)3 samples (x = 0– 0.1) have the form of well 2)resolved triplets. The qua 2) drupole  splitting  constant  of  LiHf2(PO4)3  is  СQ  = 60 kHz.  With  an  increase  in  the  degree  of  scandium substitution  for  hafnium,  the  quadrupole  splitting constant of the Li1 + xHf2 – xScx(PO4)3 samples with the hexagonal structure (x = 0–0.1) varies little, whereas the width of the central line (ΔH1/2) decreases slightly (Table  3).  This  is  the  consequence  of  the  high  Li+ mobility in the interstices of the hexagonal structure of LiHf2(PO4)3 and the presence of a considerable frac 2) tion of lithium on the M2 site.
+
+In  going  to  Li1.3Hf1.7Sc0.3(PO4)3,  which  has  the orthorhombic structure, the satellites of the main peak
+
+Fig. 3. Arrhenius plots of ionic conductivity for the com 2) pounds  (1)  LiHf2(PO4)3,  (2)  Li1.1Hf1.9Sc0.1(PO4)3,  and (3) Li1.3Hf1.7Sc0.3(PO4)3.
+
+Fig. 4. 7Li NMR spectra of (1) LiHf2(PO4)3, (2) Li1.05Hf1.95Sc0.05(PO4)3, and (3) Li1.3Hf1.7Sc0.3(PO4)3.
+
+decrease and the width of the central peak increases markedly (Fig. 4, Table 3). This indicates that the lith 2) ium ion mobility in the structure under consideration decreases, as does the effective lifetime of lithium on the M2 site [9].
+
+According  to  the  present  results,  the  lithium hafnium phosphate LiHf2(PO4)3 has a relatively high ionic conductivity at low temperatures (300–470 K). For example, the 370 2)K conductivity of LiHf2(PO4)3 exceeds that of LiTi2(PO4)3 by an order of magnitude (~10–5 and ~10–6 S/cm, respectively). It is also worth pointing out that the activation energy for conduction
+
+Table  3. Quadrupole  splitting  constant  (CQ)  and  width  of the central line (ΔH1/2) for Li1 + xHf2 – xScx(PO4)3 samples
+
+in  LiHf2(PO4)3  (Table  2)  is  lower  than  that  in LiTi2(PO4)3. According to previous data [13, 16], the activation  energy  for  low 2)temperature  (300–470  K) conduction in LiTi2(PO4)3 is 58.0  ± 0.5 kJ/mol. With increasing  temperature,  the  activation  energy  in LiTi2(PO4)3 decreases and the logσ versus 1/T behav 2) ior deviates from linearity because of the increase in lithium ion mobility in the structure and the decrease in  the  contribution  of  defect  formation  processes  to the  activation  energy  for  conduction.  As  a  result,  a break emerges in the temperature dependence of con 2) ductivity  for  LiTi2(PO4)3,  whereas  the  temperature dependences of conductivity for Li1 + xHf2 – xScx(PO4)3 with x = 0–0.1 have the form of straight lines.
+
+It is also worth noting that the quadrupole splitting constant of LiHf2(PO4)3 (60 kHz, Table 3) far exceeds that  of  LiTi2(PO4)3  at  room  temperature  (~22  kHz) [13]. Lithium ions on the M2 site are known to have a considerably  larger  quadrupole  splitting  constant  in comparison with those on the M1 site [9]. Thus, we are led to conclude that the lithium ions in LiHf2(PO4)3 are significantly delocalized between the M1 and M2 centers  even  at  room  temperature,  which  indicates that they have high mobility. This accounts for the fact that  the  conductivity  of  LiHf2(PO4)3  is  (an  order  of magnitude)  higher  than  those  of  LiTi2(PO4)3  and LiZr2(PO4)3  [9,  20].  Above  the  phase  transition  of
+
+LiZr2(PO4)3  to  its  hexagonal  polymorph,  accompa 2) nied  by  thermal  activation  of  defects,  the  high 2)tem 2) perature conductivity of LiZr2(PO4)3 is nearly identi 2) cal  to  that  of  LiHf2(PO4)3  [20].  The  conductivity  of hexagonal  LiTi2(PO4)3  that  of LiHf2(PO4)3 throughout the temperature range stud 2) ied (300–870 K) [9]. The likely reason for this is that the ionic radius of Ti4+ is smaller than those of Hf4+ and Zr4+ (0.61, 0.71, and 0.72 Å, respectively, in octa 2) hedral coordination), which leads to a smaller size of the conducting channels in LiTi2(PO4)3.
+
+It is the high lithium ion mobility even in the struc 2) ture  of  the  parent  material  LiHf2(PO4)3,  due  to  the large size of the conduction channels, which seems to be  responsible  for  the  fact  that  the  doping 2)induced increase  in  defect  density  leads  to  a  relatively  small increase in ionic conductivity. For example, the 370 2)K conductivity  of  Li1.1Hf1.9Sc0.1(PO4)3  exceeds  that  of LiHf2(PO4)3  by  only  a  factor  of  2.5,  whereas  an increase in defect density by the same value in the case of LiTi2(PO4)3 is accompanied by an increase in con 2) ductivity by two orders of magnitude [16].
+
+We have prepared Li1 + xHf2 – xScx(PO4)3 (х = 0–0.3) NASICON 2)type double phosphates, which are poten 2) tially attractive as lithium ion conducting solid elec 2) trolytes.
+
+Using  impedance  spectroscopy  and  7Li  NMR spectroscopy, we assessed the cation mobility in these materials. Doping with trivalent scandium was shown to increase the ionic conductivity of the parent phos 2) phate in the range 0 < х ≤ 0.1.

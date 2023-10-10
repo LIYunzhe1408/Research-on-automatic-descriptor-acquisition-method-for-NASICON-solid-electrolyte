@@ -1,0 +1,16 @@
+The NASICON series, with formula Bax/2Li1-xTi2(PO4)3 (0.4 ≤ x ≤ 1), has been prepared by solid-state reaction and characterized by X-ray diffraction (XRD),Fourier transform infrared (FTIR), Raman, nuclear magneticresonance (NMR) and impedance spectroscopy (IS).
+XRD patterns of samples indicated the formation of single phases with rhombohedral structure (space group R-3c).
+The Rietveld analysis of XRD patterns was performed to deduce location ofLi and Ba ions.
+FTIR, Raman, and NMR techniques showed the only presence of isolated PO4 groups in analyzed phosphates.
+31P MAS-NMR spectra were used to investigate Liand Ba distribution and 7Li MAS-NMR spectra to discriminatedLi ions with different mobility in conduction paths.
+Amaximum total conductivity of 2.5 × 10−7 S cm−1 and a minimum activation energy of 0.47 eV were obtained at room temperature for Ba0.3Li0.4Ti2(PO4)3 (x = 0.6).
+Bax/2Li1-xTi2(PO4)3 (0.4 ≤ x ≤ 1) samples have been preparedby solid-state reaction and characterized by XRD, FT-IR,Raman, NMR, and IS techniques.
+All samples display therhombohedral R-3c space group.
+The vibration modes of isolatedphosphate tetrahedra have been studied by IR andRaman spectroscopies.
+31P and 7Li MAS-NMR spectra ofsamples show, in agreement with structural Rietveld refinements,that Li and Ba are located at M1 positions.
+In the caseof Li ions, however, they shift toward triangular windows thatrelates M1 and M2 positions (M1′ sites) and decreases Li–Odistances from 2.7 to 2.1 Å.
+Structural refinements performed have been used to investigateLi coordination, bottleneck geometry and arrangementof vacancies in the NASICON Bax/2Li1-xTi2(PO4)3 series.
+Liconductivity is the consequence of the lithium hopping betweenadjacent M1 sites, whose probability increases withlithium and M1 vacancy concentrations.
+The incorporationof Ba increases M1 vacancy, enhancing Li mobility; however,increasing amounts of Ba reduce the charge carrier concentration,blocking conduction paths.
+As a result of both facts,lithium displays a maximum of mobility at intermediatecompositions.
+From electric impedance study, activation energies decreasedand conductivity increased with the Li content up tox = 0.6. A maximum total conductivity of 2.5 × 10−7 S cm−1and a minimum activation energy of 0.47 eV have been measuredin Ba0.3Li0.4Ti2(PO4)3 (x = 0.6) sample at 298 K.

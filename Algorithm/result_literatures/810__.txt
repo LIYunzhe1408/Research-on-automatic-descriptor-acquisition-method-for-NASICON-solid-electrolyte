@@ -1,0 +1,145 @@
+The  successful  analysis  on  the  microstructure  of  Hong-type  Na  superionic  conducting (NASICON)  ceramics  revealed that  it consists  of  several  heterogeneous  phases:  NASICON grains  with  rectangular  shapes,  monoclinic  round  ZrO2  particles,  grain  boundaries,  a  SiO2-rich  vitrified  phase,  Na-rich  amorphous  particles,  and  pores. 
+
+A  dramatic  microstructural evolution  of  NASICON  ceramics  was  demonstrated  via  an  in-situ  analysis,  which  showed that NASICON grains sequentially lost their original morphology and were transformed into comminuted  particles  (as  indicated  by  the  immersion  of  bulk  NASICON  samples  into seawater at a temperature of 80 °C). 
+
+The consecutive X-ray diffraction analysis represented that  the  significant  shear  stress  inside  NASICON  ceramics  caused  their  structural decomposition, during which H3O+ ions occupied ceramic Na+ sites (predominantly along the (111) and (133) planes), while the original Na+ cations    came out in the (020) plane of the NASICON  ceramic  crystalline  structure. 
+
+The  results  of  time-of-flight  secondary-ion  mass spectrometry  analysis  confirmed  that  large  concentrations  of  Cl and  Na+  ions  were           distributed  across  the  surface  of  NASICON  ceramics,  leading  to  local  densification  of  a 20 µm thick surface layer after treatment within seawater solution at a temperature of 80 °C. 
+
+NASICON  or sodium  (Na)  super (S)  ionic  (I) conductor  (CON) compounds  have  been considered  strong  candidates  for  solid  electrolyte  membranes,  which  can  be  used  in  Na/S secondary batteries1, 2 and various gas sensors (including CO2 ones). 3-6 Owing to the three-dimensional  pathway  of  ionic  migration,  NASICON  demonstrates  a  relatively  high  ionic conductivity of around 10-3 S/cm, which is equivalent to that of β-Al2O3 at room temperature (25  °C), with the corresponding activation energies of 0.2 eV and 0.15 eV, respectively. 
+
+In  general,  NASICON  is  categorized  greatly  into  Hong  type  (Na1+xZr2SixP3-xO12)  and  von Alpen  type  (Na1+xZr2-x/3SixP3-xO12-x/3)  NASICONs,  which  have  different  composition  ratios. Hong type NASICON has the advantage of being manufactured at a low temperature of 1250 °C (in contrast to β-Al2O3 and von Alpen type NASICON which have to be sintered at ≥ 1600, ≥ 1300 °C, respectively, in order to reach a sufficient degree of densification).
+
+Many efforts have focused on enhancing the properties of NASICON ceramics and thus converting  them  into  superior  superionic  conductors  by  modifying  the  utilized  synthesis methods via additional heat treatment, compositional ratio variations, and dopant usage. 
+
+The  Hong  type  NASICON  ceramic  has  complex  crystalline  structure  with  a  rigid  three-dimensional  network  of  (PO4)3 or  (SiO4)4 tetrahedron  sharing  corners  with  (ZrO6)8 octahedron.  Each  (ZrO6)8 octahedron  is  connected  to  four  (SiO4)4 and  tow  (PO4)3-,  while each tetrahedron is connected to four (ZrO6)8octahedron. Na+ cation occupies the interstitial site of network structure. In addition, Hong type NASICON varies between the rhombohedral (≥ 200 °C) and monoclinic (≤ 200 °C) ones within the compositional range of 1.8 ≤ x ≤ 2.2 in 
+
+The  successful  synthesis  of  homogenous  and  intact  NASICON  species  is  a  significant technical  challenge  because  Na  and  P elements  tend  to  evaporate  from  the  ceramic  surface during sintering at ≥ 1200 °C, resulting in the precipitation of monoclinic ZrO2 particles. 13-17, 21, 22  Moreover,  Fuents  et  al.  reported  the  implausibility  of  producing  a  uniform  crystalline structure of NASICON ceramics due to thermodynamic instability; hence, it could only exist as  a  metastable  state  between  the  crystalline  and  amorphous  phases,  making  the  detailed analysis of the NASICON ceramic microstructure very difficult. 
+
+The limited analytical approach to the NASICON microstructure impedes its progressive reinforcement  against  structural  decomposition  under  corrosive  solution  conditions. 14, 26  A series of intensive studies on the corrosion mechanism of NASICON ceramics have recently been conducted. Auborn et al. suggested that the replacement of Na+ ions with H3O+ plays a critical role in the NASICON structural degradation in acidic solutions. 
+
+In particular, when Hong type NASICONs were utilized as solid-state electrolytes for new aqueous battery system operated at a current density of 0.025 mA⋅cm-2, they demonstrated superior durability as  compared  to  that  of β–Al2O3,  corresponding  to  a  high  efficiency  of  up  to  91%  after  20 cycles  (a  significant  increase  in impedance was observed for β–Al2O3  only after 10  cycles) (Figure  S1).28 The system  lasted for a long  period  of exceeding 600  h  of  operation time at room  temperature  (25  °C)  without  breakout  (Figure  S2).  
+
+Thus,  in  order  to  develop  a 
+
+NASICON-type  solid  electrolyte  with  enhanced  properties,  the  stability  of  NASICON ceramics in natural and modified seawater solution must be investigated. 
+
+Therefore,  a  systematic  investigation  of  the  NASICON  microstructure  would  allow  a realistic understanding of its corrosion process (which occurs due to the chemical reaction of H3O+  or  Cl ions  with  Na+  NASICON  species)  and  the  related  microstructural  evolution observed during seawater treatment.
+
+In  this  work,  we  successfully  executed  a  detailed  transmission  electron  microscopy (TEM) analysis on the typical Hong-type NASICON ceramic structure with the composition of  Na1+xZr2SixP3-xO12  (x  =  2)  and  then  observed  the  unprecedented  phenomena  during  the dynamic  corrosion  trend  of  NASICON  ceramics  under  different  seawater  conditions (corresponding to different kinds of bases). 
+
+During immersion testing in seawater at 80 °C, a noticeable  amount  of  NaCl(s)  precipitate  was  formed,  indicating  severe  permeation  of  Clanions  and  their  possible  reaction  with  Na+  cations  inside  the  NASICON  ceramic  lattice while  H3O+  cations  occupy  empty  Na+  sites. 
+
+As  a  result,  the  following  planes  of  stress loading were obtained for NASICON ceramics: expansion along the (111) and (133) planes for the hydronium NASICON phase (H3O+− NASICON) and contraction in the (020) plane for  the  main  NASICON  phase  (Na+−  NASICON),  which  play  a  significant  role  in  the degradation of NASICON ceramics due to the large amount of loaded shear stress. 
+
+Synthesis Hong-type  NASICON  ceramic  powder  with  the  composition  of  Na3Zr2Si2PO12  was prepared  by  solid-state  mixing.  The  starting  materials  consisted  of  ZrO2  (Daejung,  99%,  5 µm), SiO2 (Junsei, 99%, 0.5−10 µm), and Na3PO412H2O (Daejung, 99%). In order to obtain the  stoichiometry  of  Na3Zr2Si2PO11,  0.2  mol  of  ZrO2,  0.2  mol  of  SiO2  and  0.1  mol  of Na3PO412H2O were mixed for 30 min using a pestle and a mortar, and the resulting mixture was dried at 120 °C for 12 h in a drying oven. After that, it was calcined in air in two steps: first  at  400  °C  for  5  h  and  then  at  1100  °C  for  12  h  followed  by  grinding. 
+
+The  calcined mixture  was  ball-milled  in  ethanol  at  a  rotation  speed  of  250  rpm  for  30  min  inside  a planetary mixer and then subsequently dried at 80 °C for 3 h in the drying oven, resulting in Hong-type  NASICON  ceramics  powder  (the  detailed  synthesis  procedure  for  this  material has been reported elsewhere).28 1.25 g of the synthesized powder was weighed and pressed into disk shapes with diameters of 20 mm and thicknesses of 1.5 mm inside steel mold at 2 tons of uniaxial pressure. 
+
+The obtained samples were sintered inside an electrical furnace at 1280 °C for 10 h in air at a heating rate of 2 °C/min (in order to prevent the reaction between the  samples  and  an  Al2O3  plate,  the  former  were  placed  on  the  top  of  a  0.01  inch  thick  Pt sheet). Finally, the sintered samples were sequentially polished with 120, 320, 600, 1000, and 2000  grit  SiC  abrasives  to  produce  0.7  mm  thick  pieces  and  then  finalized  in  the  aqueous solution  containing  Al2O3  particles  with  diameters  of  0.5  µm.  The  relative  density  of  each sample was measured by utilizing Permeameter-Porosimeter (AccuPyc Ι Ι 1340). 
+
+Crystal structures of the synthesized materials were analyzed by X-ray diffraction (XRD; D/Max−2200, Rigaku) using Cu-Ka radiation in the scan range of 10°–40° at a step size of 0.02°  and  counting  time  of  5  s. 
+
+The  material  morphology  and  structure  were  analyzed  using  a  scanning  electron microscopy (SEM) apparatus (Helios, FEI) (operated at an applied voltage of 10 kV) and a TEM  instrument  (JEM−ARM200F,  JEOL)  operated  at  a  voltage  of  80  kV.  Cross-sectional TEM  particle  samples  were  prepared  by  a  focused  ion  beam  (FIB)  technique  (Verios  460, FEI). Before  the FIB  cutting  procedure,  the  entire powder  surface  was preliminarily coated with  sputtered  C  species  to  avoid  surface  contamination  and  prevent  it  from  the  damage caused by a Ga ion beam (utilized in the FIB process).
+
+An  electrochemical  cell was fabricated using a  positive electrode,  a  negative electrode, and  a  hybrid  electrolyte  (Figure  S1).  The  positive  and  negative  electrode  corresponded  to seawater  and  Na  metal  (Sigma−Aldrich,  USA),  respectively.30  while  the  hybrid  multilayer electrolyte  contained  1.0  M  solution  of  NaCF3SO4  (Sigma−Aldrich,  USA;  organic  liquid electrolyte)  dissolved  within  the  solvent  of  triethylene  glycol  dimethyl  ether  (TEGDME) (Sigma−Aldrich,  USA)  in  and  Hong-type  NASICON  ceramic  (Na3Zr2Si2PO12;  solid electrolyte). C felt (Fuel Cell Store Inc.) attached to the NASICON ceramic surface was used as current collector.
+
+Each cell part was fabricated inside an Ar-filled glove box; the resulting cell  assembly  was  subsequently  connected  to  a  testing  station  during  seawater  exposure.  A WBCS3000  battery  testing  apparatus  was  used  to  characterize  charge  and  discharge  cycles for  the  produced  cell.  Charge  and  discharge  cycles  test  was  performed  at  0.025  mA⋅cm-2 current density for 10h, respectively. 
+
+
+After  polishing  the  surfaces  of  the  obtained  NASICON  ceramic  pellets  with  SiC abrasives,  corrosion  tests  were  conducted  by  immersing  NASICON  samples  into  different seawater solutions at a temperature of 80 °C for periods ranging from 1 d to 15 d followed by treatment  with a  leather  cloth  soaked  in the  aqueous  suspension  of  0.5  µm  Al2O3  particles. 
+
+The modified seawater solutions were prepared by adding 10 vol.% of the following reagents into  the  natural seawater  (seawater)  with a  pH of  8.17:  HCl (l)  (pH  = 0.13),  CH3COOH  (l) (pH = 1.92), and NaOH (l) (pH = 9.69). 
+
+Depth  profiling  was  performed  for  each  constituent  element  of  the  NASICON  ceramic surface by using a time-of-flight secondary ion mass spectrometry (TOF−SIMS 5, ION TOF) instrument equipped  with a  pulsed Bi cluster  primary  ion  source.  The  primary ion  gun  was operated at an energy  of  25 keV and target current  of 1.1  pA  (the analysis area  of  50  × 50 µm2 was utilized in all experiments).
+
+O2+ and Cs+ ion guns were operated at an energy of 2 keV and a target current of 620 nA was used on the sputter area of 200 × 200 µm2 to obtain positive and negative depth profiles, respectively. 
+
+The Hong-type NASICON ceramic discs prepared according to the procedure described in  the  previous  reports28,  30  were  characterized  by  the  relative  density  of  94.2%  and  ionic conductivity  of  7.5  ×  10-4  S/cm. 
+
+The  microstructure  of  the  sintered  Hong-type  NASICON ceramics  was  examined  by  the  SEM  and  TEM  methods.28-30  Figures  1a  and  b  display  the overall  microstructures  of  the  Hong-type  NASICON  ceramics,  which  were  analyzed  by studying  the  fractured  surfaces  depicted  in  the  SEM  and  cross-sectional  TEM  images.  The SEM  image  shown  in  Figure  1a  indicates  that  the  morphology  of  the  main  Hong-type NASICON ceramic grains contains faceted cubes and rectangles.
+
+It is composed of multiple heterogeneous  phases  represented  by  NASICON  grains,  grain  boundaries,  monoclinic  ZrO2 particles  (ZrO2,m),  a  SiO2-rich  vitrified  phase,  Na-rich  amorphous  particles,  and  pores. According to the TEM image presented in Figure 1b, the grain sizes of NASICON ceramics and ZrO2,m are equal to 3.8 ± 2.4  µm and 0.3 ± 0.2  µm, respectively (the ZrO2,m grains are randomly distributed among the NASICON grains). 
+
+The previous results of the XRD analysis confirm the existence of the ZrO2,m crystalline phase in the sintered NASCION ceramics.13, 15, 
+
+The  TEM  area  measurements  reveal  that  the  sintered  NASICON  ceramics  consist  of 84.7vol.% of NASICON grains, 7.7 vol.% of ZrO2,m grains, 6.1vol.% of SiO2, and 1.5vol.% of pores (the siliceous phase and pores are located in the cornered and faceted areas between the  interlocked NASICON  grains). 
+
+The  TEM image  of the inner  part  of a NASICON  grain (depicted  in  Figure  1c)  demonstrates  that  the  crystalline  micro-domain  phases  with  sizes ranging from a few nm to 10 nm are randomly distributed among the main amorphous phase, which  is  consistent  with  the  previous  results  stating  that  NASICON  ceramics  are characterized  by  the  thermodynamically  metastable  equilibrium  between the crystalline and amorphous  phases. 
+
+The  round-shaped  ZrO2,m  grains  contain  around  1  at.%  of  P  and exhibit stacking faults, as shown in Figure 1d and Figure S3. According to the fast Fourier transform analysis of the image depicted in Figure 1d, it contains the (100)and {100}-type twin  crystals  of  ZrO2,m,  embedded  inside  the  NASICON  ceramics.31,  32  Other  precipitated species  (corresponding  to  the  Na-rich  amorphous  particles  with  diameters  of  50  nm)  are distributed randomly between the NASICON ceramic grains (see Figure 1e and Figure S4). 
+
+In general, in order to eliminate such residual elements or dissolve each component inside the NASICON  ceramic  structure,  either  the  heating  temperature  or  heating  time  must  be increased. As a result, Na and P elements easily evaporate, while the ZrO2,m particle grains precipitate, leading to undesirable compositions of NASICON ceramics (Figure S5).
+
+On the other hand, a higher fraction of Si would result in more homogeneous SiO2-rich von Alpen NASICON  ceramics.24, 33  The  successful  removal  of  the  Na-rich  amorphous  particles  from the  NASICON  microstructure  is  another  critical  issue,  which  must  be  resolved  while developing  advanced  Hong-type  NASICON  ceramics.  
+
+The  image  of  the  grain  boundary phase depicted in Figure 1f shows that the average width of a grain boundary is around 3.4 nm, which is 10 times bigger than the thickness of the ideal bilayer grain boundary (0.35 nm). 34,  35  The  energy  dispersive  spectroscopy  (EDS)  analysis  of  the  areas  near  the  grain boundaries  reveal  that  Na is  likely  to  be  segregated as a main element  (see  Figure  S6;  the detailed understanding of the grain boundary structure requires additional studies). 
+
+However, a  proper  analysis  of  the  microstructure  of  Hong-type  NASICON  ceramics  cannot  be accomplished without differentiated analysis skills and operational conditions (in addition to the top-notch level of TEM functionality), and the obtained results are comparable with the previously reported data.13, 15, 17, 21, 24, 28-30, 33 Thus, the robust understanding of the NASICON ceramic  microstructure  is  important  for  the  systematic  investigation  of  the  corrosion mechanism of NASICON ceramics. 
+
+When a Hong-type NASICON ceramic disc is used as a solid electrolyte during seawater battery cell testing (Figure S1), its grain particles become comminuted after repeated cycles of  operation,  leading  to  structural  disintegration  (Figure  S2).  While  both  the  electrical potential and chemical processes simultaneously affect the structural durability of NASICON ceramics in seawater, a detailed investigation of the chemical reaction between seawater and NASICON  ceramics  must  be  conducted;  in  particular,  the  microstructural  evolution  of  the entire  NASICON  ceramic  discs  has  to  be  examined  since  they  were  immersed  in  various seawater solutions with different temperatures and pH values. 
+
+When  the  experiment  was  performed  at  25  °C,  no  noticeable  structural  changes  were detected (Figure S7). Thus, additional experiments had to be conducted at 80 °C in order to increase the reaction rate between NASICON ceramics and aqueous solutions (Table  S2).36 
+
+The  durability  of  Hong-type  NASICON  ceramics  was  evaluated  by  immersing  the NASICON ceramic disks in seawater at 80  °C for different periods to simulate the realistic experimental  conditions  (instead  of  treating  powder  ceramics  with  water  or  diluted  acid solutions).26, 27, 37 Figures 2a, b, and c describe the sequential morphology changes observed for  the  identical  surface  areas  of  NASICON  ceramics  after  0,  5,  and  10  d  of  treatment, respectively.  
+
+After  5  d,  the  ceramic  grains  begin  to  lose  their  original  morphology  and become  distorted;  after  10  d,  the  NASICON  phase  is  ultimately  decomposed  into  small granular particles with sizes below 0.3 µm. The observed gradual microstructural degradation matches very well the systematic changes of the XRD peak patterns depicted in  Figure  2d, which  shows  that  H3O+−NASICON  species  (detected  at  2θ  of  30.46°  and corresponding  to the (133) plane denoted as ★) begin to form after 2 d of seawater treatment (Table  S1).
+
+In order to achieve a better understanding of the XRD analysis results, the NASICON ceramic disc samples were ultrasonicated with ethanol for 30 min after immersion testing in order to remove  any  surface  by-products.  The  obtained  data  suggest  that  the  formation  of H3O+−NASICON plays a critical role in the degradation of Hong-type NASICON ceramics. 
+
+Identical  experiments  were  conducted  using  the different  seawater  solutions  previously described  in  the  Experimental  section  (Figure  3).  The  H3O+−NASICON  phase  (I)  was  the most  distinct  one,  and  its  Io(020)  peak  corresponding  to  the  monoclinic  NASICON  structure shifted  considerably  after  2  d  and  5  d  of  treatment  with  HCl and  CH3COOH-modified seawater  solutions,  respectively.  The  peak  height  ratios  (I/Io)  measured  after  5  d  (the magnitudes of I obtained for peaks ★ at 2θ = 30.46° (133) were equal to 33.1, 18.9, 17.40, and  17.28  for  the  HCl-modified,  CH3COOH-modified,  seawater,  and  NaOH-modified seawater solutions, respectively) are summarized in  Table  S1. 
+
+They reveal that the severity of the NASICON ceramic structural degradation decreases in the order of HCl (l)-modified > CH3OOH  (l) modified  >>  seawater  >  NaOH  (l)-modified  seawater  solution.  The  obtained results  are  consistent  with  the  previous  studies,  indicating  that  NASICON  ceramics deteriorate severely at low pH since H3O+ ions with high concentrations tend to occupy Na+ sites; on the other hand, the ions originating from the NaOH dissociation (either Na+ or OHones) at low pH would rather inhibit the structural degradation at low pH.
+
+The observed structural degradation trend can also be explained by taking into account the  time-dependent  peak  location  shifts  ∆θ  (mostly  at  low  pH),  which  are  summarized  in Table S1. As shown in detail in Figure S8 and Figures 3a and b, the H3O+−NASICON peaks at 19.71° (111) and 31.04° (133) shift to the left by ∆θ = −0.36° and ∆θ = −0.58° after 4 d of treatment, respectively, in both HCland CH3OOH-modified seawater solutions and level off afterwards  (indicating  the  structural  expansion  due  to  the  substitutional  replacement  of  Na+ with  H3O+  within  5  d  of  treatment  with  HCl and  CH3OOH-modified  seawater).  
+
+The  main NASICON peaks at 20.21° (020) shift incrementally to the right by ∆θ = +0.69° and +0.70° after  15  d  of  treatment  with  the  HCl and  CH3OOH-modified  seawater  solutions.  The obtained results suggest that severe shear stress is developed inside NASICON ceramics after the  immersion  into  the  seawater  solutions  with  low  pH,  which  corresponds  to  different stresses, tension in the (111) and (133) planes, and incremental compressive stress in the (020) plane. 
+
+This phenomenon differs from the overall chemical volume expansion, which occurs when  H3O+  ions  with  a  large  radius  of  0.15  nm  are  inserted  into  the  NASICON  crystal 
+
+Another  noticeable  issue  is  the  formation  of  NaCl(s)  precipitates  during  seawater treatment, which is shown in Figures. 3a and c. According to the XRD analysis (Figure S9), when  NASICON  ceramic  is  immersed  into  deionized  (DI)  water  (pH  =  7),  the H3O+−NASICON  phase  is  more  intensively  formed  with  a  time  delay  greater  than  that observed  for  seawater  (pH  =  8.17). 
+
+While  it  is  consistent  with  the  previous  argument  that lower  pH  values  accelerate  corrosion,  the  microstructure  analysis  demonstrates  little structural  degradation  of  NASICON  ceramics  in  DI  water  as  compared  with  the  seawater treatment  (Figure  S9),  suggesting  that  different  corrosion  mechanisms  of  NASICON ceramics  exist  in  different  solutions.  
+
+In  particular,  the  corrosion  of  NASICON  ceramics  in seawater  must  be  investigated  from  different  perspectives,  including  the  reaction  of  Clanions with Na+ species of NASICON ceramics (which leads to the formation of NaCl(s) and the reentrance of Na+ ions from seawater into available Na+ NASICON sites).
+
+In  order  to  conduct  a  more  detailed  investigation,  Cl-,  Na+,  and  H3O+  element distributions  were  analyzed  and  profiled  for  each  sample  via  TOF−SIMS  after  various treatment  periods  (see  Figure  4).  As  compared  with  other  ions  (Figure  S10),  Cl ions  are found  to  be  the  most  prevalent  ones  on  the  surfaces  with  depths  below  1  µm  (followed  by Na+ and H3O+). 
+
+These Clions (either diffused or infiltrated inside NASICON ceramics) can easily  react  with  Na+  ions  producing  NaCl(s)  precipitates.  On  the  other  hand,  the  cross-sectional  microstructure  was  analyzed  by  daily  monitoring  the  microstructural  evolution  of Hong-type  NASICON  ceramics  immersed  in  seawater  at  80  °C  (see  Figure  5).
+
+It  was prepared by cutting the immersed sample in half from the top to the bottom (here the top side was open to the seawater, while the bottom one was in contact with the container). Instead of the  significant  structural  degradation,  gradual  densification  was  locally  observed  on  the surface of the samples, the porosity of which decreased from 11.2% in the beginning of the process  to  6.5% after 5 d  of  treatment.  
+
+
+This  suggests  that  the  precipitated  NaCl(s)  particles are  located  in  the  middle  of  the  NASICON  structures,  leading  to  the  accumulation  of compressive stress on the sample surface accompanied by local densification. 
+
+These  simultaneous  phenomena  (the  severe  precipitation  of  NaCl(s)  particles  and significant  structural  degradation)  point  to  the  possibility  that  vacant  Na+  sites  (produced during the reaction of Na+ ions with Clions described by equations (1) and (2) below) can provide available sites for H3O+ species to occupy. 
+
+Thus, high concentrations of Clindirectly 
+
+contribute to the structural decomposition of NASICON ceramics. 
+
+On  the  other  hand, it  is hard  to expect that  H3O+ ions  will  directly  occupy all the available Na+  sites  (which  amount  to  about  one  third  of  all  Na+  sites  in  the  NASICON  ceramic structure)19 − not only because of the large H3O+ ionic radius of 0.15 nm, but also due to the pre-existent  charge  balance  around  the  network  of  Na+  sites. 
+
+Hence,  the  formation  of H3O+−NASICON  most  likely  results  from  the  substitutional  replacement  of  Na+  ions  in Na+−NASICON  with  H3O+  species  from  solution9,  26,  27,  41  (the  plausible  reactions  of NASICON  ceramics  are summarized  in  Figure  6). While  the  observed correlation  between the  precipitation  of  NaCl(s)  crystals and  the ceramic  structural  degradation  requires a  more detailed  investigation,  the  severe  structural  degradation  of  NASICON  ceramics  due  to  the occupation  of  Na+  sites  with  H3O+  species  after  seawater  treatment  was  confirmed  in  this work (see Figure S10). 
+
+In  this  study,  typical  Hong-type  NASICON  ceramic  structures  with  the  composition Na1+xZr2SixP3-xO12  (x=2)  were  investigated  via  functional  TEM  analysis.  
+
+No  apparent selective  corrosion  was  observed  around  fragile  areas  such  as  vitrified  zones  and  structural defects,  while  the  formation  of  the  H3O+−NASICON  phase  was  accompanied  by  structural degradation.  
+
+When  the  immersion  experiment  was  conducted  under  various  seawater conditions, both the obtained XRD peak height ratios (I/Io) and peak shift change values (∆θ) demonstrated  that  structural  degradation  decreases  in  the  order  of  HCl  (l)-modified  > CH3OOH  (l) modified  >>  seawater  >  NaOH  (l)-modified  seawater  solution.  
+
+During  the structural degradation process, different stresses were formed inside the NASICON ceramics, corresponding to constant tension in the (111) and (133) planes and incremental compressive stress  in  the  (020)  plane.  Local  densification  (as  well  as  the  precipitation  of  NaCl(s))  was observed  for  the  surface  of  NASICON  ceramics,  as  indicated  by  the  obtained  SEM  and TOF−SIMS  results.  
+
+It  can  be  assumed  by  the  reaction  of  Cl ions  from  solution  with  Na+ species from Na+−NASICON followed by the occupation of vacant Na+ sites with H3O+ ions, which  leads  to  shrinkage  and  expansion  as  well  as  the  severe  precipitation  of  NaCl(s) particles  inside  the  NASICON  ceramic  structure.  However,  further  in-depth  studies  are required  to  explain  the  observed  reactivity  of  Cl ions  with  NASICON  ceramics  and  its correlation with possible corrosion mechanisms. 
+
+Figure 1. (a) An SEM image of the fractured NASICON ceramic surface. (b) A TEM image of the entire ceramic sample. High-resolution TEM (HRTEM) images of the (c) internal part of a NASICON grain, (d) internal part of a ZrO2,m grain, (e) Na-rich amorphous area and (f) grain boundary area for Hong-type NASICON ceramics. 
+
+Figure 2. SEM images of the identical Hong-type NASICON ceramic surfaces immersed in seawater at 80 °C for (a) 0 d, (b) 5 d, and (c) 10 d. (d) The XRD patterns corresponding to the images depicted in panels a−c. 
+
+Figure 3. XRD patterns recorded for the Hong-type NASICON ceramic samples, which were immersed in the (a) HCl-modified, (b) CH3COOH-modified (c) intrinsic, and (d) NaOH-modified seawater solutions for 0, 2, 5, 10, and 15 d at 80 °C. 
+
+Figure 4. TOF−SIMS depth profiles for (a) Cl-, (b) Na+, and (c) H3O+ ions, which were obtained for the Hong-type NASICON ceramic samples immersed in seawater at 80 °C for 0,  5, and 15 d. (d) TOF−SIMS depth profiles obtained for Cl-, Na+, and H3O+ ions after 15 d of seawater treatment. 
+
+Figure 5. SEM images of the polished surfaces of the Hong-type NASICON ceramic samples immersed in seawater at 80 °C for (a) 0 d, (b) 2 d, (c) 5 d, and (d) 15 d. 
+
+Figure 6. A schematic diagram summarizing the reactions between NASICON ceramics and seawater solution. 

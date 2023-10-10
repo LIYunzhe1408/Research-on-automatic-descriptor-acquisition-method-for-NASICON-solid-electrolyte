@@ -1,0 +1,89 @@
+The increasing need for reliable and continuous monitoring of CO2 levels in the atmosphere has promoted the development of potentiometric sensors using a cation conducting solid electrolyte and an auxiliary phase on the measuring electrode [1]. Potentiometric CO2 sensors with a carbonate layer as an auxiliary electrode and β-alumina [2], Y. Zhu : J. Zhang Faculty of Applied Chemistry, Harbin Institute of Technology (Weihai), Wenhua West Road 2, 264209, Weihai, China Y. Zhu : W. Weppner Christian-Albrechts University, Institute of Inorganic Chemistry, Max-Eyth-Str. 2, 24118, Kiel, Germany
+
+NASICON [3, 4], and stabilized zirconia [5] as the solid electrolyte show satisfactory performance with a fast response behavior, significant sensitivity, and gas selectivity. However, poor reproducibility and poor long-term stability are observed [6–8]. The solid electrolyte based on lithium-ion conductor [9–16] attracted much attention as a new kind of electrolyte material due to its higher ionic conductivity and perfect electrochemical stability. To fabricate reproducible and durable CO2 sensors, maintenance of a stable and reversible ionic activity in the sensing and reference electrodes is the most important technique. Among the various known Li-ion conductors, LiSiPO (Li3PO4 and Li4SiO4), can achieve these requirements as a candidate, which exhibits stable electrochemical property and total (bulk + grain boundary) ionic conductivity σtotal=2.5×10
+
+In the present work, a solid-state potentiometric CO2 sensor was fabricated using the fast lithium ion conductor LiSiPO as the solid electrolyte. Li2CO3 and Au paste were employed as the sensing electrode, because pure Li2CO3 phase has a low ionic conductivity in general working temperature range of electrochemical CO2 sensor [13, 16]. Thus, Li2CO3 was tried to mix with proper Au paste to get a sufficient electronic conductivity. In order to give stable reference potential, Li1-δMn2O4/MnO2 were used as the reference electrode.
+
+LiSiPO is the solid solution of Li3PO4 with 50 mol% Li4SiO4, which was used as lithium ion solid electrolyte. Appropriate amounts of the starting materials Li4SiO4 (Aldrich-Chemie) and Li3PO4 (ChemPur, 99+%) were mixed and ball-milled in isopropanol using zirconia balls for 2 h, then sintered at 1,000 °C in air for 2 h. After that, the
+
+powder mixture was ball-milled for 2 h again, and isostatically pressed at 120 kN for 20 min and calcined at 1,000 °C in air for 2 h once more and cut into a shape of disk 8 mm in diameter and 1 mm thick. The cut pellets were polished for both sides on the 1 μm diamond plate until flat.
+
+LiMn2O4 (Aldrich, 99 %) was pressed into pellet (radius is 8 mm, thickness is 1 mm), then sintered at 800 °C for 10 h to form a dense pellet. As following, the pellets were also polished for one face, attaching to the electrolyte face, on the 1 μm diamond plate until flat. Then, the prepared solid electrolyte and LiMn2O4 were pressed together, and the assembly was sealed on the side surface with high temperature ceramic adhesive (940 Cotronics Corp., N.Y.) to keep the good interconnectivity. Layer of Li2CO3 (Merck, 99 %) and nano Au particles (Product No.C5755A, Heraeus Inc.) (Li2CO3/Au=3:2 in wt.%) were screen-printed on the top side of the electrolyte, on the reference side nano Au particles were screen-printed on. Two Au wires were attached on both sides by using the Au paste, and the assembly was heat treated at 600 °C for 2 h to remove the organic components. After that, ceramic adhesive was used to seal reference side. The schematic structure was depicted in Fig. 1.
+
+The samples were characterized through a SEM (Philips, XL30FEG) and using an X-ray diffract meter (Seifert, XRD 3000TT, using Cu Kα radiation at wavelength λ = 0.1541 nm). The ionic conductivity was measured by AC impedance method using a frequency impedance analyzer (Hewlett Packard, model 4192A) in the frequency range of 5 Hz–13 MHz at 25–500 °C.
+
+USA) with an input resistance of >10 GΩ and adapted data collection software. CO2 concentrations were adjusted using different mass flow controllers (Tylan 2900 Series) varying the flows of dry synthetic air (21 % O2 in N2), 1 % CO2 (1 % CO2 in synthetic air) and 10 % CO2 (10 % CO2 in synthetic air) through the quartz tube while keeping the overall flow rate constant at 70 ml/min. The sample holder needs 14.1 min to get a new CO2 gas concentration under this flow rate.
+
+The cell assembly can be presented as follows:
+
+The behavior of the electrochemical cell was defined by
+
+ð2Þ Where E is the EMF, E° the EMF for a given p(CO2) at standard conditions, n the number of cell reaction electrons, and F the faraday constant.
+
+The reaction at the reference electrode (I) is given by
+
+Measurement of CO2 sensing properties
+
+Combining the equilibrium between lithium ions and
+
+Sensor characteristics were measured using a testing chamber (Kiel Cell KC 2.0, Ionic Systems Inc.), consisting of a ceramic sensor-mounting inside a quartz-glass tube (with diameter of inside glass tube 35 mm and length of glass tube 350 mm). The testing chamber was placed into a split tube laboratory furnace (TF 2.0, Ionic Systems Inc.), provided with a gas inlet and outlet. The sensors were heated externally through the furnace during measurement. The EMF was recorded in different CO2 concentrations ranging from 1,000 ppm (0.1 %) up to 100,000 ppm (10 %), using a Keithley 2000 digital multimeter (Keithley Instruments Inc.,
+
+Fig. 1 Schematic diagram of electrochemical CO2 sensor
+
+with Eq. 3 results in the following overall cell reaction.
+
+During sensing CO2 gas, lithium ions partially released from LiMn2O4 to Li1-δMn2O4 and transferred through the solid electrolyte. Afterwards, lithium ions react with carbon dioxides and oxygen into lithium carbonates on the surface of the sensing electrode (triple phase region). The variation of lithium content in Li1-δMn2O4 would lead to a variation in the reference potential. However, once the solubility limit in Li1-δMn2O4 is reached, a second phase (most likely manganese oxide) would form and lead to a fixed potential [17]. The equilibrium between CO2 and lithium ions described by Eq. 4 allows Li2CO3 to be used as an auxiliary
+
+Fig. 3 XRD patterns of a mixed LiSiPO and Li2CO3 powders as prepared and b sintering 10 h at 600 °C in air
+
+ions which evidencing that LiSiPO is an ionic conductor and its diffusion impedance, which is consistent with the application of porous Au electrodes [20, 21]. Generally, the impedance arcs in high-frequency region represent bulk properties of the material. At 106 °C, the bulk ionic con−4S/cm. Figure 6 shows the ductivities of LiSiPO is 2.5×10 experimental results of AC conductivity measurements of LiSiPO which activation energy is 0.43 eV. The data agree well with the results reported in the literature for monolithic samples [22]. The curvature in the Arrhenius plot at high temperature is attributed to experimental difficulty when the lead resistance becomes comparable in magnitude with the electrolyte resistance [23].
+
+electrode with a lithium-ion conducting electrolyte. The activity of Li2CO3 in the auxiliary electrode can be less than one, but as long as the activity is constant, the reference potential will also be constant.
+
+Characterization of electrolyte and auxiliary layer
+
+From powder X-ray diffraction pattern (Fig. 2), it can be seen that when the sintering temperature reaches 800 °C, the material shows LiSiPO phase predominantly, but Li2SiO3 phase will appear in it due to low sintering temperature. When the temperature is 1,000 °C, a single LiSiPO phase can be obtained. LiSiPO is the most stable Li+-ion conductor, but the reactivity with Li2CO3 has not been studied. Figure 3 shows the XRD pattern for a LiSiPO–Li2CO3 mixture (LiSiPO/Li2CO3=1:1 in mol%) before and after sintering. It is found that LiSiPO and Li2CO3 exist individually as the main phases as prepared and sintering 10 h at 600 °C in air. XRD pattern confirmed there is no new compound to be formed after sintering the mixture for 10 h at 600 °C in air. These observed results suggested that there is no additional phase to be formed between LiSiPO and Li2CO3 at the operating temperature and also no loss of the auxiliary phase.
+
+The SEM picture shown in Fig. 4 gives evidence of a high degree of porosity for the sensing electrode of porous Li2CO3 and Au layer. Typical AC impedance plot for LiSiPO is shown in Fig. 5, which both sides covered with Au ion blocking electrodes (cf. for the meaning of the quantities used in this plot, see for example [18] and [19]). The contributions due to bulk (b) and grain-boundary (gb) effects were observed at high and low frequencies, respectively. In the high-frequency range, an ill-defined semicircle is obtained for the bulk contribution in ceramics due to ionic conductivity. In the low-frequency range, a straight line on the real axis indicates blocking nature for mobile lithium
+
+Fig. 2 XRD pattern of LiSiPO produced in air at 1,000 and 800 °C for 2 h. Asterisks represents Li2SiO3 phase
+
+Fig. 4 SEM view of the composite sensing electrode surface morphology
+
+Fig. 7 Transient responses of the sensor upon changes to the CO2 partial pressure at 450 °C
+
+Fig. 5 Typical complex impedance spectra of LiSiPO at 106 °C using a lithium ion blocking Au electrode
+
+The EMF measurements were performed at 450 °C by changing the CO2 concentration from 1,000 to 100,000 ppm with the oxygen partial pressure remaining the same at both the reference electrode and the sensing electrode. The results are shown in Fig. 7. Upon introducing CO2 gas into the cell, the Li activity of the sensing electrode decrease leading to an EMF decrease. Concerning the gas exchange time (14.1 min), the sensor shows reproducible response with response time (response time is defined as time taken to reach 90 % of the final signal) less than 1 min upon changing the CO2 concentration from 1,000 ppm to 100,000 ppm and back to 10,000 ppm as shown in Fig. 7.
+
+The sensitivities of the CO2 electrochemical cells were measured and the results are shown in Fig. 8. The slopes of EMF with respect to logarithmic concentration of CO2 are 65.5 mV/decade at 400 °C (calculated sensitivity is 67 mV/decade); 72 mV/decade at 450 °C (calculated sensitivity is 72 mV/decade); and 76 mV/decade at 500 °C (calculated sensitivity is 76 mV/decade). The sensitivities of cells agree with the calculated ones from Nernst’s equation for a two-electron process within the experimental error, which predicted by Eq. 4. The nearly no deviation from the theoretical slope indicates that there is no electronic conduction is present in the LiSiPO electrolyte during the EMF measurement.
+
+The sensing electrode reaction (Eq. 4) requires the reaction of lithium ions from the electrolyte, electrons from the electronic lead, carbon dioxide from the gas phase, an
+
+Fig. 6 Arrhenius plot of LiSiPO electrolyte
+
+Fig. 8 Sensitivities of CO2 sensors with LiSiPO electrolyte and Li2CO3, Au auxiliary electrode between 400 and 500 °C
+
+oxygen from a dissociated oxygen molecule in the gas phase, in a single reaction step. At lower temperatures this reaction is not kinetically favorable and intermediate products with less negative Gibbs energies of formation may be formed. Only the reaction step that involved electrons from the metallic conductor contributes to the cell voltage, and purely chemical reactions at the interface occurring electrolyte–gas do not contribute. This may cause the sluggish response, especially at lower temperatures, where the formation of lithium carbonate is impeded by slow electrode kinetics. The discrepancy of 1.5 mV/decade at 400 °C is due to this reason. The sensitivity to carbon dioxide increased gradually with temperature suggests that the formation of lithium carbonate is kinetically favorable only at high temperature whereas at intermediate or low temperatures the intermediate compound lithium oxide is formed at the measuring side (Eq. 6):   þ 1 2O2
+
+Li2O reacts further with CO2 to form Li2CO3 without
+
+involving electrons as shown in Eq. 7: Li2O þ CO2 ! Li2CO3
+
+ð7Þ At 450 °C, the calculated open circuit voltage of Li2CO3 versus elemental Li from Barin’s literature data [24] is −3 3,087, 3,015, and 2,943 mV under 10 atm CO2 in air, respectively. An open circuit voltage of LiMn2O4 versus elemental Li was measured to be 3,325 mV at 450 °C. An open circuit voltage for the formation of Li2O versus elemental Li was calculated to be 2,590 mV at 450 °C. This is shown in Fig. 9. If we compare the measured open circuit voltage of the sensor at 450 °C with the calculated values in Fig. 9, we can conclude the
+
+Fig. 10 Comparison of the values from Fig. 10. A represents the calculated EMF of Li2CO3 versus LiMn2O4, B represents the measured EMF of the sensor and C represents the calculated EMF of Li2O versus LiMn2O4
+
+reaction of CO2 and O2 occurs in one step at 450 °C and no intermediate compound Li2O is being formed, as shown in Fig. 10.
+
+Figure 11 demonstrates the high stability of the cell response to 1 % CO2 in dry synthetic air over elapsed periods of time. The measured cell voltage is the sum of all voltages contributing to the total redox reaction. This behavior should also explain the problems of the sensors in the long-term operation. During the aging time, EMF of the sensor always keeps on 320 mV, only shows 10 mV deterioration. This behavior is well known for this kind of sensor and is assumed to be caused by a loss of Li2CO3 at the triple phase boundaries. For the sensor with sole Li2CO3 as an auxiliary phase, the EMF responded to the changes of the CO2 concentration but the level of the EMF decreased with
+
+Fig. 9 At 450 °C, the open circuit voltage of a LiMn2O4, b Li2CO3 calculated according to [24], and c Li2O calculated according to [24] versus elemental lithium
+
+Fig. 11 Long-term stability of the response to 1 % CO2 at 450 °C for the sensor
+
+time and any steady state could not be observed in the experimental period [25]. It is known that the reforming of the auxiliary phase by adding Au results in the recover of the sensing performances.
+
+The performance of a CO2 sensor based on the LiSiPO solid electrolyte and Li1-δMn2O4/MnO2 reference electrode operating at 400–500 °C has been investigated. The sensor is long-term stable and the signals are reproducible with high accuracy. The miniature CO2 sensor with 450 °C heating temperature shows high CO2 sensitivity (72 mV/decade), short response and recovery time, and acceptable long-term stability. With the realization of miniature structure and lower heating temperature, the power consumption was effectively decreased in comparison with the traditional tube-type sensors.
+
+Acknowledgment The financial support of Scientific Research Foundation for the Returned Overseas Chinese Scholars, State Education Ministry (2010-149), Natural Scientific Research Innovation Foundation in Harbin Institute of Technology (HIT.NSRIF.2011099), and China Postdoctoral Science Foundation (2012 M520717) is gratefully acknowledged.

@@ -1,0 +1,10 @@
+Sodium-ion batteries (NIBs) are an emerging technology, which can meet increasing demands for large-scale energy storage.
+One of the most promising cathode material candidates for sodium-ion batteries is Na3V2(PO4)3 due to its high capacity, thermal stability, and sodium (Na) Superionic Conductor 3D (NASICON)-type framework.
+In this work, the authors have significantly improved electrochemical performance and cycling stability of Na3V2(PO4)3 by introducing a 3D interconnected conductive network in the form of carbon fiber derived from ordinary paper towel.
+The freestanding Na3V2(PO4)3-carbon paper (Na3V2(PO4)3@CP) hybrid electrodes do not require a metallic current collector, polymeric binder, or conducting additives to function as a cathode material in an NIB system.
+The Na3V2(PO4)3@CP cathode demonstrates extraordinary long term cycling stability for 30 000 deep charge– discharge cycles at a current density of 2.5 mA cm−2. Such outstanding cycling stability can meet the stringent requirements for renewable energy storage.
+Renewable energy production and energy storage have become the most essential technologies for the transition from fossil fuels to a sustainable energy supply.
+The key issue with most renewable energy sources is the deficiency between availability and demand due to uncontrollable natural occurrences, which generates unacceptable energy quality fluctuations within the electricity grid.
+In conclusion, we have successfully demonstrated excellent cycling performance of a novel, free-standing Na3V2(PO4)3@CP hybrid electrode in a sodium-ion battery system.
+It was shown that Na3V2(PO4)3 nanoparticles decorated on 3D interconnected conducting carbon fibers can achieve outstanding long term cycling stability (more than 30 000 cycles) without the need of any conducting additives, polymeric binders, or additional current collectors.
+By using a simple proof-of-concept battery assembly, we have demonstrated the ease and efficiency of the stand-alone carbon paper electrode design, which leads the way toward imminent consideration of alternative free-standing electrode designs in various battery architectures.

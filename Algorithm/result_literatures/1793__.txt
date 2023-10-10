@@ -1,0 +1,20 @@
+Preparation, characterization and electrical properties of new silver nasicons of composition AgTaMP3O12 (M=Al, Ga, In, Cr, Fe and Y)have been investigated.
+All compositions crystallize in the rhombohedral nasicon structure and are found to be isomorphous with NbTiP3O12.
+The space group of all compositions is R3¯ c except AgTaYP3O12, which crystallizes in R3¯ space group.
+All the compounds showcharacteristic PO4 vibrational bands.
+DC conductivity studies (by two-probe method) and AC impedance measurements correlate well.
+The Cole–Cole plots do not show any spikes on the lower frequency side indicating negligible electrode effects.
+The isothermal conductivityobtained from DC (rdc) and AC (r(0)) agrees well.
+The activation energies obtained from the plots of log rdc versus 1/T, log r(0) versus 1/T and log s versus 1/T are approximately the same suggesting conducting species to be mobile silver ions.
+The peak width at half height for MVV modulus plot is ¨1.34 decades for all samples, which is close to 1.14 decades observed for Debye solid.
+The height of MVV obtained fromthe experimental plots are close to that of MVV (max)=C0/2C indicating the Debye nature of the samples.
+The room temperature Mo¨ssbauerspectrum of AgTaFeP3O12 suggests paramagnetic nature of this sample.
+New silver nasicons of composition AgTaMP3O12(M=Al, Ga, In, Cr, Fe and Y) are prepared and characterizedby IR, powder XRD.
+All the samples crystallize inrhombohedral lattice of nasicon framework with R3¯ c spacegroup, while AgTaYP3O12 crystallizes in R3¯ space group.
+These samples show characteristic PO4 vibrations.
+Theactivation energies obtained from DC conductivities are inthe range 0.4–0.8 eV.
+The room temeperature DC conductivity(rdc) and DC conductivity obtained from impedance agree well.
+The activation energies of ATAPobtained from (i) frequency explicit log (x)max versusinverse of temperature and (ii) Cole–Cole log fmax versusinverse of temperature plots are of the same order.
+All theCole–Cole plots terminate at the origin indicating theabsence of series resistance in the equivalent circuit modelof the sample.
+The presence of a single peak in the plots ofboth log f versus ZVV and log f versus MVV indicates bulkconductivity and absence of any grain boundary contributionto impedance.
+The height, full width at half maximumof the MVVmax peak and near coincidence of the MVVmax andZVVmax peaks in these plots suggest the Debye behavior ofthis sample.

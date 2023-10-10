@@ -1,0 +1,32 @@
+Triple molybdates AgA3R(MoO4)5 (A¼Mg, R¼Cr, Fe; A¼Mn, R¼Al, Cr, Fe, Sc, In) of the NaMg3In(MoO4)5type were synthesized and single crystals of AgMg3R(MoO4)5 (R¼Cr, Fe) were grown.
+
+In their structures,the MoO4 tetrahedra, pairs and trimers of edge-shared (Mg, R)O6 octahedra are connected by commonvertices to form a 3D framework.
+
+Large framework cavities involve Agþ cations disordered on threenearby positions with CN¼3þ1 or 4þ1.Alternating (Mg, R)O6 octahedra and MoO4 tetrahedra in theframework form quadrangular windows penetrable for Agþ at elevated temperatures.
+
+Above 653–673 K,the newly obtained molybdates demonstrate abrupt reduction of the activation energy to 0.4–0.6 eV.
+
+At773 K, AgMg3Al(MoO4)5 shows electric conductivity 2.5  102 S/cm and Ea¼0.39 eV compatible withcharacteristics of the best ionic conductors of the NASICON type.
+
+In the systems containing molybdates of sodium, di- andtrivalent metals, there are two groups of triple molybdates,Na1xA1xR1þx(MoO4)3 and NaA3R(MoO4)5, crystallizing in thestructure types of NASICON [1] and NaMg3In(MoO4)5 [2–6], respectively.
+
+ Both structures do exist in the ternary molybdate systems involving cations of trivalent metals with r(R3þ)o1 Å.
+
+In view of close ionic radii of Naþ and Agþ, the formation ofanalogous phases in similar silver containing systems is ratherprobable.
+
+Indeed, studying the systems Ag2MoO4–AMoO4–R2(MoO4)3(A¼Mg, Co, R¼Al; A¼Mg, R¼In), we have observed the formation ofrhombohedral phases Ag1xA1xR1þx(MoO4)3 of the NASICON typewith wide homogeneity ranges, as well as triclinic triple molybdatesAgA3R(MoO4)5 of the NaMg3In(MoO4)5 type [7–9].
+
+The phase formation features of those triple molybdates may be illustrated with anexample of Ag2MoO4–MgMoO4–Al2(MoO4)3 system studied byus at 773 K [8].
+
+Because of a partial nonquasibinarity of theboundary system Ag2MoO4–Al2(MoO4)3, the limited area Ag2Mg2(MoO4)3–MgMoO4–Al2(MoO4)3–AgAl(MoO4)2 was investigated(Fig.
+
+1) where formation of triple molybdates AgMgAl(MoO4)3 of theNASICON type and AgMg3Al(MoO4)5 (S2) of the NaMg3In(MoO4)5type has been established.
+
+ As seen in Fig.1, the S2 compound has nonoticeable homogeneity range along the AgAl(MoO4)2–MgMoO4 join.
+
+On the contrary, the phase of variable composition Ag1xMg1xAl1þx(MoO4)3 with x up to 0.4 (S1) is formed as a solid solution extending along the join AgMgAl(MoO4)3–Al2(MoO4)3.Silver-containing Ag1xA1xR1þx(MoO4)3 phases [10] withrhombohedral NASICON-like structures demonstrated high ionicconductivity typical for many representatives of this structuralfamily.
+
+In the family of NaMg3In(MoO4)5, the structure – propertycorrelations were not earlier examined, and the present paper isthe first step in this direction.
+
+Thus, the subject of the paper ispreparation, structure determination and characterization ofelectro-conductive properties of triclinic triple molybdatesAgA3R(MoO4)5 (A¼Mg, R¼Cr, Fe; A¼Mn, R¼Al, Cr, Fe, Sc, In)crystallizing in the NaMg3In(MoO4)5 structure.
+

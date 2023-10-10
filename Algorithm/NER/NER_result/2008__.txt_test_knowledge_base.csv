@@ -1,0 +1,881 @@
+melting,We also ensured that the melting point of the solid is high by suitable scaling of all parameters . .,4485
+scaling of all,We also ensured that the melting point of the solid is high by suitable scaling of all parameters . .,4486
+slow relaxation .,The difference is again attributable to the slow relaxation .,4487
+averaging over the MD,Note that the curve in Figure has been obtained by averaging over the MD trajectories and include framework relaxations .,4488
+Naj,"B , , - Structure , Conductivity , and Ionic Motion in Naj + , Zr ; Si , P - , O ; ; : A Simulation StudyP .",4489
+"+ ,","B , , - Structure , Conductivity , and Ionic Motion in Naj + , Zr ; Si , P - , O ; ; : A Simulation StudyP .",4490
+Zr ;,"B , , - Structure , Conductivity , and Ionic Motion in Naj + , Zr ; Si , P - , O ; ; : A Simulation StudyP .",4491
+"Si ,","B , , - Structure , Conductivity , and Ionic Motion in Naj + , Zr ; Si , P - , O ; ; : A Simulation StudyP .",4492
+"Si ,","A particularly interesting aspect of Na + Zr - Si , P - , O is that as the composition , x , increases the conductivity initially increases , by many orders of magnitude , up to an x ~ .",4493
+"Si ,","Here i and j refer to Na , Zr , Si , P , and .",4494
+P,"B , , - Structure , Conductivity , and Ionic Motion in Naj + , Zr ; Si , P - , O ; ; : A Simulation StudyP .",4495
+P,"Variation of lattice parameters , c . as a function of x for Nai + + ZraSi , P - .",4496
+P,"P - , O could be static and dynamic changes of the framework from its ideally stacked polyhedra .",4497
+"- ,","B , , - Structure , Conductivity , and Ionic Motion in Naj + , Zr ; Si , P - , O ; ; : A Simulation StudyP .",4498
+"- ,","P - , O could be static and dynamic changes of the framework from its ideally stacked polyhedra .",4499
+O ; ; : A Simulation StudyP .,"B , , - Structure , Conductivity , and Ionic Motion in Naj + , Zr ; Si , P - , O ; ; : A Simulation StudyP .",4500
+Sum of the sodium,Sum of the sodium occupancies at Na and mid - Na sites adds up to a constant value of one which supports the conclusion of Boilot et al ' based on X - ray diffraction .,4501
+"sodium , depicting this conduction","Density contours for sodium , depicting this conduction channel , are reported .",4502
+Nai,"In his pioneering work Hong showed that it is possible to synthesize a series of materials of the general formula Nai + ZmSi , P - . with = x = and that the material NasZr - SipPO , ; is an excellent ionic conductor .",4503
+Nai,"Variation of lattice parameters , c . as a function of x for Nai + + ZraSi , P - .",4504
++,"In his pioneering work Hong showed that it is possible to synthesize a series of materials of the general formula Nai + ZmSi , P - . with = x = and that the material NasZr - SipPO , ; is an excellent ionic conductor .",4505
++,"It may be seen that the majority of hops are between Na and Na , for all the compositions where Na + t mobility is observed .",4506
+"ZmSi ,","In his pioneering work Hong showed that it is possible to synthesize a series of materials of the general formula Nai + ZmSi , P - . with = x = and that the material NasZr - SipPO , ; is an excellent ionic conductor .",4507
+P - . with = x = and that the material,"In his pioneering work Hong showed that it is possible to synthesize a series of materials of the general formula Nai + ZmSi , P - . with = x = and that the material NasZr - SipPO , ; is an excellent ionic conductor .",4508
+NasZr,"In his pioneering work Hong showed that it is possible to synthesize a series of materials of the general formula Nai + ZmSi , P - . with = x = and that the material NasZr - SipPO , ; is an excellent ionic conductor .",4509
+-,"In his pioneering work Hong showed that it is possible to synthesize a series of materials of the general formula Nai + ZmSi , P - . with = x = and that the material NasZr - SipPO , ; is an excellent ionic conductor .",4510
+-,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4511
+-,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4512
+-,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4513
+-,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4514
+-,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4515
+-,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4516
+-,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4517
+-,"In the present study we have analyzed all the possible Na + hops to obtain the number of Na - Na , Na - Na , and Na - Na hops , and the results are given in Table .",4518
+-,"In the present study we have analyzed all the possible Na + hops to obtain the number of Na - Na , Na - Na , and Na - Na hops , and the results are given in Table .",4519
+-,"In the present study we have analyzed all the possible Na + hops to obtain the number of Na - Na , Na - Na , and Na - Na hops , and the results are given in Table .",4520
+"SipPO , ; is an excellent","In his pioneering work Hong showed that it is possible to synthesize a series of materials of the general formula Nai + ZmSi , P - . with = x = and that the material NasZr - SipPO , ; is an excellent ionic conductor .",4521
+NasZr -,"The conductivity of NasZr - SizPOyabove K was found to be comparable to that of Na - B - alumina , with many an advantage in practical applications as a fast ion conductor . """,4522
+"SizPOyabove K was found to be comparable to that of Na - B - alumina , with many an advantage in practical applications as a","The conductivity of NasZr - SizPOyabove K was found to be comparable to that of Na - B - alumina , with many an advantage in practical applications as a fast ion conductor . """,4523
+"NasZrSizPO ; are referred to as Nasicons , irrespective of whether they classify as","Henceforth , materials with topology and structure similar to those of NasZrSizPO ; are referred to as Nasicons , irrespective of whether they classify as superionic conductors or not and whether other alkali ions replace Na .",4524
+Na .,"Henceforth , materials with topology and structure similar to those of NasZrSizPO ; are referred to as Nasicons , irrespective of whether they classify as superionic conductors or not and whether other alkali ions replace Na .",4525
+Na .,The typical separation between the mid - Na site and Na .,4526
+Na .,"n ~ Figure . which is the component , along the ab plane , of the vector joining a given Na .",4527
+Na .,"For x = . , again the profile shows larger variations and Na appears to be higher in energy than Na .",4528
+Na .,"The free energies have been calculated from the populations of Na ions , P , over the entire pathway connecting Na and Na .",4529
+Na .,It can be seen that for x = . the population of Na is larger than that of Na while for x = . the population in Na is higher than that in Na .,4530
+Na .,"Cherkaoui et al "" found in their NMR studies evidence for the presence of mid - Na site between Na and Na .",4531
+Na .,The fact that we do not shift the site positions with compositions gives rise to this apparent anomaly where the mid - Na site has a larger population than Na .,4532
+Na .,"These bottlenecks are formed by triangular arrangement of oxygens , with their centers roughly at a distance of / and / of the Na - Na separation , from Na .",4533
+Na +,"A particularly interesting aspect of Na + Zr - Si , P - , O is that as the composition , x , increases the conductivity initially increases , by many orders of magnitude , up to an x ~ .",4534
+Zr -,"A particularly interesting aspect of Na + Zr - Si , P - , O is that as the composition , x , increases the conductivity initially increases , by many orders of magnitude , up to an x ~ .",4535
+"P - , O is that as the","A particularly interesting aspect of Na + Zr - Si , P - , O is that as the composition , x , increases the conductivity initially increases , by many orders of magnitude , up to an x ~ .",4536
+"composition ,","A particularly interesting aspect of Na + Zr - Si , P - , O is that as the composition , x , increases the conductivity initially increases , by many orders of magnitude , up to an x ~ .",4537
+"x , increases the","A particularly interesting aspect of Na + Zr - Si , P - , O is that as the composition , x , increases the conductivity initially increases , by many orders of magnitude , up to an x ~ .",4538
+x ~ .,"A particularly interesting aspect of Na + Zr - Si , P - , O is that as the composition , x , increases the conductivity initially increases , by many orders of magnitude , up to an x ~ .",4539
+"B ,","B , Vol , No , M , M ' = Ge , Ti , Sn , Hf .",4540
+"B ,","B , Vol , No , asaa wor a o as is s sComposition , xFigure .",4541
+"Vol ,","B , Vol , No , M , M ' = Ge , Ti , Sn , Hf .",4542
+"Vol ,","B , Vol , No , aFigure .",4543
+"Vol ,","B , Vol , No , asaa wor a o as is s sComposition , xFigure .",4544
+"No ,","B , Vol , No , M , M ' = Ge , Ti , Sn , Hf .",4545
+"M ,","B , Vol , No , M , M ' = Ge , Ti , Sn , Hf .",4546
+M,"B , Vol , No , M , M ' = Ge , Ti , Sn , Hf .",4547
+M,"vyon Alpen , U . ; Bell , M . F . ; Wichelhaus , W . Mater .",4548
+' =,"B , Vol , No , M , M ' = Ge , Ti , Sn , Hf .",4549
+"Ge ,","B , Vol , No , M , M ' = Ge , Ti , Sn , Hf .",4550
+"Ti ,","B , Vol , No , M , M ' = Ge , Ti , Sn , Hf .",4551
+"Sn ,","B , Vol , No , M , M ' = Ge , Ti , Sn , Hf .",4552
+Hf .,"B , Vol , No , M , M ' = Ge , Ti , Sn , Hf .",4553
+""" % ;","Intermolecular Potential An interionic pair potential proposed recently , "" "" ; "" % ; A , = where q ; is the charge and ; is the ionic radii of the ith ion , has been employed in the present study .",4554
+"A , = where","Intermolecular Potential An interionic pair potential proposed recently , "" "" ; "" % ; A , = where q ; is the charge and ; is the ionic radii of the ith ion , has been employed in the present study .",4555
+q ; is the,"Intermolecular Potential An interionic pair potential proposed recently , "" "" ; "" % ; A , = where q ; is the charge and ; is the ionic radii of the ith ion , has been employed in the present study .",4556
+charge and ; is the,"Intermolecular Potential An interionic pair potential proposed recently , "" "" ; "" % ; A , = where q ; is the charge and ; is the ionic radii of the ith ion , has been employed in the present study .",4557
+"ith ion , has been employed in the present study .","Intermolecular Potential An interionic pair potential proposed recently , "" "" ; "" % ; A , = where q ; is the charge and ; is the ionic radii of the ith ion , has been employed in the present study .",4558
+ion pairs i and j .,"A ; and C ; are , respectively , the overlap - repulsive energy and dispersion energy of ion pairs i and j .",4559
+"Na ,","Here i and j refer to Na , Zr , Si , P , and .",4560
+"Na ,","In the present study we have analyzed all the possible Na + hops to obtain the number of Na - Na , Na - Na , and Na - Na hops , and the results are given in Table .",4561
+"Na ,","The first bottleneck , nearer to Na , BN , is formed by one triangular face of the NaOs .",4562
+"Zr ,","Here i and j refer to Na , Zr , Si , P , and .",4563
+"Zr ,","The coordination numbers for Zr , Si and P are seen to be , and oxygens at all compositions as expected .",4564
+"P , and .","Here i and j refer to Na , Zr , Si , P , and .",4565
+"NasZrSizPOy - , at just one single","The parameters of the potential have been determined by fitting to the structure and conductivity of just one single composition , viz . , NasZrSizPOy - , at just one single temperature , T ~ K in the following way .",4566
+"A ; , and","A set of initial values were chosen to start with for the parameters q ; , A ; , and C ; .",4567
+C ; .,"A set of initial values were chosen to start with for the parameters q ; , A ; , and C ; .",4568
+MD are compared with experiments and further adjustments in,"Every time , the resulting structure and conductivity from MD are compared with experiments and further adjustments in parameters are made based on the criteria discussed above .",4569
+IIL Simulation DetailsWe have chosen to carry out constant - temperature and constant -,IIL Simulation DetailsWe have chosen to carry out constant - temperature and constant - pressure Monte Carlo calculations with variable - shape simulation cell > to obtain the lattice parameters .,4570
+K and atm,Variable - shape NPT - MC simulations at K and atm pressure were carried out initially .,4571
+Nar +,"Each Nar + ZnSi , P - OMC move consists of an attempt to move all the particles within the simulation cell once , chosen sequentially .",4572
+Nar +,"This is in good qualitative agreement Nar + ZnSi , P - O Figure .",4573
+"ZnSi , P - OMC move consists of an attempt to move all the particles within the simulation","Each Nar + ZnSi , P - OMC move consists of an attempt to move all the particles within the simulation cell once , chosen sequentially .",4574
+"compositions ,","Simulations have been carried out for eight different compositions , x = , . , . , . , , . , . , and .",4575
+"x = , . , . , . , , . , . , and .","Simulations have been carried out for eight different compositions , x = , . , . , . , , . , . , and .",4576
+x x unit,Size of the simulated system is x x unit cells .,4577
+"x = ,","At x = , N = ions which progressively increases to for x = .",4578
+N = ions which progressively increases to for,"At x = , N = ions which progressively increases to for x = .",4579
+x = .,"At x = , N = ions which progressively increases to for x = .",4580
+x = .,"It is seen that the NaOs increases initially , as x increases , shows a maximum around x = and then falls off anomalously when x = .",4581
+x . A at x,The simulation cell is of size . x . x . A at x = .,4582
+ions for the,The initial configuration of ions for the NVE - MD simulations were the final configurations from NPT - MC simulations .,4583
+K . The,Initial velocities were chosen from a Maxwellian velocity distribution for K . The velocity form of the Verlet algorithm with an integration time step Ar = . fs is found to yield good energy conservation .,4584
+Ar = . fs is found to yield good,Initial velocities were chosen from a Maxwellian velocity distribution for K . The velocity form of the Verlet algorithm with an integration time step Ar = . fs is found to yield good energy conservation .,4585
+ps was followed by a production run of,An equilibration of over ps was followed by a production run of ns .,4586
+ns .,An equilibration of over ps was followed by a production run of ns .,4587
+coordination oxygen,The average bond lengths for bonded pairs have been obtained by averaging over all first coordination oxygen shells of the corresponding atom and over all MD steps .,4588
+corresponding atom and over all MD steps .,The average bond lengths for bonded pairs have been obtained by averaging over all first coordination oxygen shells of the corresponding atom and over all MD steps .,4589
+Si and,"The coordination numbers for Zr , Si and P are seen to be , and oxygens at all compositions as expected .",4590
+"P are seen to be , and","The coordination numbers for Zr , Si and P are seen to be , and oxygens at all compositions as expected .",4591
+oxygens at all,"The coordination numbers for Zr , Si and P are seen to be , and oxygens at all compositions as expected .",4592
+compositions as expected .,"The coordination numbers for Zr , Si and P are seen to be , and oxygens at all compositions as expected .",4593
+J .,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",4594
+"No , aFigure .","B , Vol , No , aFigure .",4595
+NasZraSizPO ; > .,"The radial distribution functions , from NVE - MD at K , are compared with those from the experimental structure of NasZraSizPO ; > .",4596
+NVE - MD are displaced along the Y -,The rdf ' s from NVE - MD are displaced along the Y - axis for clarity .,4597
+MDx,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4598
+O,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4599
+O,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4600
+O,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4601
+Zr,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4602
+Zr,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4603
+Zr,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4604
+_,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4605
+_,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4606
+Si,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4607
+O -,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4608
+O -,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4609
+O -,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4610
+P -,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4611
+O _,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4612
+Si _,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4613
+"No , asaa wor a o as is s sComposition , xFigure .","B , Vol , No , asaa wor a o as is s sComposition , xFigure .",4614
++ +,"Variation of lattice parameters , c . as a function of x for Nai + + ZraSi , P - .",4615
+ZraSi,"Variation of lattice parameters , c . as a function of x for Nai + + ZraSi , P - .",4616
+",","Variation of lattice parameters , c . as a function of x for Nai + + ZraSi , P - .",4617
+- .,"Variation of lattice parameters , c . as a function of x for Nai + + ZraSi , P - .",4618
+"compositions , it is seen that the value of the","At low compositions , it is seen that the value of the lattice parameter a obtained from NPT - MC is slightly higher than the experimental value .",4619
+composition range = x = .,More detailed variation of a and c with x obtained in this study suggests that the lattice parameters are successfully reproduced over the whole composition range = x = .,4620
+Nay +,"conductivity , ; as a function of x , for Nay + Zr $ i , P - .",4621
+"Zr $ i ,","conductivity , ; as a function of x , for Nay + Zr $ i , P - .",4622
+P - .,"conductivity , ; as a function of x , for Nay + Zr $ i , P - .",4623
+"ions , easier synthetic roots , lower","Ofrom NVE - MD is shown . such as near isotropic mobility of ions , easier synthetic roots , lower sintering temperature , low thermal expansivities , etc . , over $ - alumina .",4624
+x ~ +,= . x ~ + Q ~ ' em ~ ' at K .,4625
+Q ~ ' em ~ ' at,= . x ~ + Q ~ ' em ~ ' at K .,4626
+K .,= . x ~ + Q ~ ' em ~ ' at K .,4627
+K and therefore qualifies as a,The members of the series with composition in the range of . < x < . have high conductivities above K and therefore qualifies as a superionic conductor .,4628
+Na,"Figure a shows the evolution of mean square displacement of Na + ions with time for compositions x = . , . , . , . , . , and . .",4629
+Na,The diffusion coefficient of the Na + ions for each of these compositions is calculated from the slope of the respective MSD .,4630
+Na,"The Nasicon - framework , , is one which offers a large number of sites for Na + to occupy .",4631
+Na,Here we assign a Na + ion to a given site if that ion is within a distance of . A from the site position .,4632
+Na,The pathway of Na + ions has been the subject of much discussion in many of the earlier investigations on Nasicon .,4633
+Na,"There are two possible hop paths from which Na + ions can choose , the Na - Na and the Na - Na .",4634
+Na,"In the present study we have analyzed all the possible Na + hops to obtain the number of Na - Na , Na - Na , and Na - Na hops , and the results are given in Table .",4635
+Na,"In the present study we have analyzed all the possible Na + hops to obtain the number of Na - Na , Na - Na , and Na - Na hops , and the results are given in Table .",4636
+Na,"In the present study we have analyzed all the possible Na + hops to obtain the number of Na - Na , Na - Na , and Na - Na hops , and the results are given in Table .",4637
+Na,"In the present study we have analyzed all the possible Na + hops to obtain the number of Na - Na , Na - Na , and Na - Na hops , and the results are given in Table .",4638
+Na,"It may be seen that the majority of hops are between Na and Na , for all the compositions where Na + t mobility is observed .",4639
+Na,The density has been obtained by counting all Na + within a thickness of . A of this plane over the entire run length of the NVE - MD .,4640
+Na,Figure shows an MD trajectory of Na + ion traversing from the Na to Na site .,4641
+Na,This expansion of NaOs near x = causes widening of bottlenecks and could be thus offering a lower free energy barrier for the Na + hops for compositions near x = .,4642
++ ions with time for,"Figure a shows the evolution of mean square displacement of Na + ions with time for compositions x = . , . , . , . , . , and . .",4643
+compositions x,"Figure a shows the evolution of mean square displacement of Na + ions with time for compositions x = . , . , . , . , . , and . .",4644
+ps at . and,"For the two end members , x = and x = , the MSD reaches a plateau within ps at . and . A ? , respectively .",4645
+". A ? , respectively .","For the two end members , x = and x = , the MSD reaches a plateau within ps at . and . A ? , respectively .",4646
++ ions for each of these,The diffusion coefficient of the Na + ions for each of these compositions is calculated from the slope of the respective MSD .,4647
+compositions is calculated from the slope of the respective MSD .,The diffusion coefficient of the Na + ions for each of these compositions is calculated from the slope of the respective MSD .,4648
+compositions is plotted in Figure b .,The conductivity calculated from the above expression for the various compositions is plotted in Figure b .,4649
+compositions .,"Alternative ways , such as those suggested by Chandler and co - workers , > "" "" may need to be employed at these compositions .",4650
+compositions .,The sum of the occupancies in Na and mid - Na is also shown . at K by Boilot et al ' The over the whole range of compositions .,4651
+"composition , x , obtained from","The variation of Na - O distances for Na sites as a function of composition , x , obtained from NVE - MD simulations . the conductivity is still not very high , MD results are higher than reported by experiments .",4652
++ to occupy .,"The Nasicon - framework , , is one which offers a large number of sites for Na + to occupy .",4653
+Zrs along the c,The Na site is at the center of a distorted oxygen octahedra which is sandwiched between two Zrs along the c axis .,4654
+Zrs along the c,Considering the fact that the NaOs lies between two rigid Zrs along the c axis the anomalous expansion of the NaOs with x seems to be associated with a similar change in the c axis .,4655
+oxygens forming a NaO,"The Na site , on the other hand , is irregularly eight - coordinated with oxygens forming a NaO polyhedra which is located between the ribbons forming the framework .",4656
+"oxygen , out of the five","The mid - Na site is five - coordinated with oxygen , out of the five oxygens three are part of the NaOs while the other two belong to the NaOs .",4657
+oxygens three are part of the,"The mid - Na site is five - coordinated with oxygen , out of the five oxygens three are part of the NaOs while the other two belong to the NaOs .",4658
+NaOs while the other two belong to the,"The mid - Na site is five - coordinated with oxygen , out of the five oxygens three are part of the NaOs while the other two belong to the NaOs .",4659
+NaOs .,"The mid - Na site is five - coordinated with oxygen , out of the five oxygens three are part of the NaOs while the other two belong to the NaOs .",4660
+NaOs .,"The first bottleneck , nearer to Na , BN , is formed by one triangular face of the NaOs .",4661
+NaOs .,"The other bottleneck , BN , shares two oxygens with BN while the third oxygen belongs to the NaOs .",4662
+composition x .,Figure shows the variation of the Na - O distance at the three sites as a function of composition x .,4663
+composition x .,Additional work is required to clarify the role of framework and role of rotation of the polyhedra in giving the observed behavior of conductivity with composition x .,4664
+"NaOs increases initially , as x increases , shows a maximum around","It is seen that the NaOs increases initially , as x increases , shows a maximum around x = and then falls off anomalously when x = .",4665
+x,"It is seen that the NaOs increases initially , as x increases , shows a maximum around x = and then falls off anomalously when x = .",4666
+NaOs shows a slight expansion as x increases .,The NaOs shows a slight expansion as x increases .,4667
+K by Boilot et al ' The over the whole range of,The sum of the occupancies in Na and mid - Na is also shown . at K by Boilot et al ' The over the whole range of compositions .,4668
+NaOs lies between two rigid,Considering the fact that the NaOs lies between two rigid Zrs along the c axis the anomalous expansion of the NaOs with x seems to be associated with a similar change in the c axis .,4669
+NaOs with x seems to be associated with a similar change in the c,Considering the fact that the NaOs lies between two rigid Zrs along the c axis the anomalous expansion of the NaOs with x seems to be associated with a similar change in the c axis .,4670
+NaOs with,The slight expansion of the NaOs with x is probably related to the a parameter expansion .,4671
+x is probably related to the,The slight expansion of the NaOs with x is probably related to the a parameter expansion .,4672
+"Na decreases initially , from one , until it reaches a minimum at x","It is found that as x increases from the occupancy of Na decreases initially , from one , until it reaches a minimum at x = and then increases to its original value of one when x = .",4673
++ ion to a given site if that,Here we assign a Na + ion to a given site if that ion is within a distance of . A from the site position .,4674
+ion is within a,Here we assign a Na + ion to a given site if that ion is within a distance of . A from the site position .,4675
+composition .,"It appears that the anomalous increase in the mid - Na occupancy is at the expense of Na occupancy since the sum of the two appears to maintain a constant of one , over the entire range of composition .",4676
+composition .,"For the compositions with low conductance x = . and . , the free energy barriers for the Na to Na hop is higher compared to that of the high conducting x = composition .",4677
+Na -,"B , Vol , No , Na - Na / \ gFigure .",4678
+Na / \ gFigure .,"B , Vol , No , Na - Na / \ gFigure .",4679
+Na with respect to another Na,These distances correspond to first and second nearest neighbor distances of Na with respect to another Na site .,4680
++ ions has been the subject of much discussion in many of the earlier investigations on Nasicon .,The pathway of Na + ions has been the subject of much discussion in many of the earlier investigations on Nasicon .,4681
+"+ ions can choose , the Na - Na and the Na - Na .","There are two possible hop paths from which Na + ions can choose , the Na - Na and the Na - Na .",4682
++ hops to obtain the number of,"In the present study we have analyzed all the possible Na + hops to obtain the number of Na - Na , Na - Na , and Na - Na hops , and the results are given in Table .",4683
+"Na , and","In the present study we have analyzed all the possible Na + hops to obtain the number of Na - Na , Na - Na , and Na - Na hops , and the results are given in Table .",4684
+"Na hops , and the results are given in Table .","In the present study we have analyzed all the possible Na + hops to obtain the number of Na - Na , Na - Na , and Na - Na hops , and the results are given in Table .",4685
+Na and,"It may be seen that the majority of hops are between Na and Na , for all the compositions where Na + t mobility is observed .",4686
+Na and,"The free energies have been calculated from the populations of Na ions , P , over the entire pathway connecting Na and Na .",4687
+Na and,"Cherkaoui et al "" found in their NMR studies evidence for the presence of mid - Na site between Na and Na .",4688
+"Na , for all the","It may be seen that the majority of hops are between Na and Na , for all the compositions where Na + t mobility is observed .",4689
+compositions where,"It may be seen that the majority of hops are between Na and Na , for all the compositions where Na + t mobility is observed .",4690
++ within a thickness of . A of this plane over the entire run length of the,The density has been obtained by counting all Na + within a thickness of . A of this plane over the entire run length of the NVE - MD .,4691
+"ZnSi ,","This is in good qualitative agreement Nar + ZnSi , P - O Figure .",4692
+K and,The trajectory generated corresponds to K and x = composition .,4693
+x = composition .,The trajectory generated corresponds to K and x = composition .,4694
+Na to,The actual trajectory of the hop from Na to Na is rather complex .,4695
+Na to,The position vector of the Na site from which this ion is hopping is then subtracted from ; and the dot product with the vector from Na to Na is taken to get d ; as mentioned above and uny ; .,4696
+Na is rather complex .,The actual trajectory of the hop from Na to Na is rather complex .,4697
++ ion traversing from the Na to Na,Figure shows an MD trajectory of Na + ion traversing from the Na to Na site .,4698
+ion is,The position vector of the Na site from which this ion is hopping is then subtracted from ; and the dot product with the vector from Na to Na is taken to get d ; as mentioned above and uny ; .,4699
+Na is taken to get d ; as mentioned above and uny ; .,The position vector of the Na site from which this ion is hopping is then subtracted from ; and the dot product with the vector from Na to Na is taken to get d ; as mentioned above and uny ; .,4700
+"compositions , x = . , , and . are shown in Figure .","The potential energy profiles for three compositions , x = . , , and . are shown in Figure .",4701
+Na is higher .,It is seen that for the x = . the energies of Na and mid - Na sites are lower while that of Na is higher .,4702
+Na are comparable and the,"For x = the energies of Na , mid - Na , and Na are comparable and the energy profile shows smaller energy barriers for hops between sites .",4703
+Na appears to be higher in,"For x = . , again the profile shows larger variations and Na appears to be higher in energy than Na .",4704
+"Na ions ,","The free energies have been calculated from the populations of Na ions , P , over the entire pathway connecting Na and Na .",4705
+"P , over the entire pathway connecting","The free energies have been calculated from the populations of Na ions , P , over the entire pathway connecting Na and Na .",4706
+T is the temperature in Kelvin and,The free energy where T is the temperature in Kelvin and X is the Boltzmann constant .,4707
+X is the,The free energy where T is the temperature in Kelvin and X is the Boltzmann constant .,4708
+Na is larger than that of,It can be seen that for x = . the population of Na is larger than that of Na while for x = . the population in Na is higher than that in Na .,4709
+Na while for x,It can be seen that for x = . the population of Na is larger than that of Na while for x = . the population in Na is higher than that in Na .,4710
+Na is higher than that in,It can be seen that for x = . the population of Na is larger than that of Na while for x = . the population in Na is higher than that in Na .,4711
+Na to Na,"For the compositions with low conductance x = . and . , the free energy barriers for the Na to Na hop is higher compared to that of the high conducting x = composition .",4712
+Na fons at the mid - Na,Note that the deficiency in their density matches well with the density of Na fons at the mid - Na site obtained by us .,4713
+compositions gives rise to this apparent anomaly where the mid - Na,The fact that we do not shift the site positions with compositions gives rise to this apparent anomaly where the mid - Na site has a larger population than Na .,4714
+"oxygens , with their centers roughly at a","These bottlenecks are formed by triangular arrangement of oxygens , with their centers roughly at a distance of / and / of the Na - Na separation , from Na .",4715
+"Na - Na separation , from","These bottlenecks are formed by triangular arrangement of oxygens , with their centers roughly at a distance of / and / of the Na - Na separation , from Na .",4716
+"BN , is formed by one triangular face of the","The first bottleneck , nearer to Na , BN , is formed by one triangular face of the NaOs .",4717
+"BN , shares two","The other bottleneck , BN , shares two oxygens with BN while the third oxygen belongs to the NaOs .",4718
+oxygens with,"The other bottleneck , BN , shares two oxygens with BN while the third oxygen belongs to the NaOs .",4719
+BN while the third oxygen belongs to the,"The other bottleneck , BN , shares two oxygens with BN while the third oxygen belongs to the NaOs .",4720
+BN and,"The reason for the disappearance of the barriers at BN and BN in Naj + ZnSi , .",4721
+BN in,"The reason for the disappearance of the barriers at BN and BN in Naj + ZnSi , .",4722
+Naj +,"The reason for the disappearance of the barriers at BN and BN in Naj + ZnSi , .",4723
+"ZnSi , .","The reason for the disappearance of the barriers at BN and BN in Naj + ZnSi , .",4724
+O could be static and dynamic changes of the framework from its ideally stacked polyhedra .,"P - , O could be static and dynamic changes of the framework from its ideally stacked polyhedra .",4725
+"NaOs , shown in Figure .","Of the static changes in the framework , the predominant one in the present context is the anomalous expansion of the NaOs , shown in Figure .",4726
+NaOs near x,This expansion of NaOs near x = causes widening of bottlenecks and could be thus offering a lower free energy barrier for the Na + hops for compositions near x = .,4727
++ hops for,This expansion of NaOs near x = causes widening of bottlenecks and could be thus offering a lower free energy barrier for the Na + hops for compositions near x = .,4728
+compositions near x,This expansion of NaOs near x = causes widening of bottlenecks and could be thus offering a lower free energy barrier for the Na + hops for compositions near x = .,4729
+"G . E . ; McKinstry , H . A . ; Limaye ,","Lenain , G . E . ; McKinstry , H . A . ; Limaye , S . Y . ; Woodward , A . Mater .",4730
+"S . Y . ; Woodward , A . Mater .","Lenain , G . E . ; McKinstry , H . A . ; Limaye , S . Y . ; Woodward , A . Mater .",4731
+"vyon Alpen ,","vyon Alpen , U . ; Bell , M . F . ; Wichelhaus , W . Mater .",4732
+U . ;,"vyon Alpen , U . ; Bell , M . F . ; Wichelhaus , W . Mater .",4733
+"Bell ,","vyon Alpen , U . ; Bell , M . F . ; Wichelhaus , W . Mater .",4734
+.,"vyon Alpen , U . ; Bell , M . F . ; Wichelhaus , W . Mater .",4735
+"F . ; Wichelhaus , W . Mater .","vyon Alpen , U . ; Bell , M . F . ; Wichelhaus , W . Mater .",4736
+"Walker , J . R . ; Catlow , C . R . A . J Phys .","Walker , J . R . ; Catlow , C . R . A . J Phys .",4737
+"G . E . ; McKinstry , H . A . ; Alamo , J . ;","Lenain , G . E . ; McKinstry , H . A . ; Alamo , J . ; Agrawal , D . K . J . Mater .",4738
+conductor .,"In his pioneering work Hong showed that it is possible to synthesize a series of materials of the general formula Nai + ZmSi , P - . with = x = and that the material NasZr - SipPO , ; is an excellent ionic conductor .",4739
+conductor .,The members of the series with composition in the range of . < x < . have high conductivities above K and therefore qualifies as a superionic conductor .,4740
+conductor .,It is well - known that framework structures with a large number of partially occupied sites with good connectivity across them are good candidates for superionic conductor .,4741
+"conductor . ""","The conductivity of NasZr - SizPOyabove K was found to be comparable to that of Na - B - alumina , with many an advantage in practical applications as a fast ion conductor . """,4742
+conductors or not and whether other alkali ions replace,"Henceforth , materials with topology and structure similar to those of NasZrSizPO ; are referred to as Nasicons , irrespective of whether they classify as superionic conductors or not and whether other alkali ions replace Na .",4743
+conductors in the last three decades .,"Classical molecular dynamics techniques have been extensively used , as complementary to experimental probes , in elucidating the nature of the ionic motion and related aspects of superionic conductors in the last three decades .",4744
+"path , site","Changes in structure , conductivity , hop path , site occupancies , bond lengths of framework atoms with composition are discussed .",4745
+"occupancies ,","Changes in structure , conductivity , hop path , site occupancies , bond lengths of framework atoms with composition are discussed .",4746
+occupancies at Na and mid - Na,Sum of the sodium occupancies at Na and mid - Na sites adds up to a constant value of one which supports the conclusion of Boilot et al ' based on X - ray diffraction .,4747
+sites adds up to a constant value of one which supports the conclusion of Boilot et al ' based on,Sum of the sodium occupancies at Na and mid - Na sites adds up to a constant value of one which supports the conclusion of Boilot et al ' based on X - ray diffraction .,4748
+site attains a minimum at x,Occupancy of Na site attains a minimum at x = .,4749
+channel is found to be the one connecting Na - mid - Na - Na .,The predominant conduction channel is found to be the one connecting Na - mid - Na - Na .,4750
+"channel , are reported .","Density contours for sodium , depicting this conduction channel , are reported .",4751
+channel suggests that,Free energy profile along the conduction channel suggests that entropy contribution cannot be neglected .,4752
+site is not associated with a,The mid - Na site is not associated with a free energy minimum .,4753
+-,"They have an open framework structure , consisting of corner - linked ZrOs - octahedra and O - tetrahedra .",4754
+-,""" The high - temperature thombohedral Rc - phase is the one of particular interest here , due to its high ionic conductivity .",4755
+-,O from variable - size variable - shape NPTMC simulation at K . The a and c from NPT - MC are compared with those from X - ray diffraction performed either at or at K . that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials .,4756
+-,"The Nasicon - framework , , is one which offers a large number of sites for Na + to occupy .",4757
+-,"These are aspects that require further , moredetailed analysis of the NVE - MD trajectories .",4758
+octahedra and O -,"They have an open framework structure , consisting of corner - linked ZrOs - octahedra and O - tetrahedra .",4759
+tetrahedra .,"They have an open framework structure , consisting of corner - linked ZrOs - octahedra and O - tetrahedra .",4760
+bonded,The resulting covalently bonded framework is highly stable and at the same time flexible .,4761
+framework is highly stable and at the same time flexible .,The resulting covalently bonded framework is highly stable and at the same time flexible .,4762
+order,This transition is suggested to be a second - order transition .,4763
+transition .,This transition is suggested to be a second - order transition .,4764
+phase . >,The transition is also accompanied by an increase in conductivity and over the transition region the activation energy gradually reduces to half its value in the monoclinie phase . > !,4765
+Rc,""" The high - temperature thombohedral Rc - phase is the one of particular interest here , due to its high ionic conductivity .",4766
+"phase is the one of particular interest here , due to its",""" The high - temperature thombohedral Rc - phase is the one of particular interest here , due to its high ionic conductivity .",4767
+pathway for conduction .,degree who has investigated the variation in activation energy with composition as well as the preferred ionic pathway for conduction .,4768
+"polyhedra , enhances the","An interesting observation of the study is that distortion of the structure , from the ideally stacked polyhedra , enhances the conductivity .",4769
+"sites , hop","Analysis of MD trajectories is carried out to derive insight into structure , conductivity , ion occupancy at various sites , hop path from one site to another , and free energy .",4770
+path from one,"Analysis of MD trajectories is carried out to derive insight into structure , conductivity , ion occupancy at various sites , hop path from one site to another , and free energy .",4771
+"site to another , and","Analysis of MD trajectories is carried out to derive insight into structure , conductivity , ion occupancy at various sites , hop path from one site to another , and free energy .",4772
+pair,"Intermolecular Potential An interionic pair potential proposed recently , "" "" ; "" % ; A , = where q ; is the charge and ; is the ionic radii of the ith ion , has been employed in the present study .",4773
+"potential proposed recently , "" "" ;","Intermolecular Potential An interionic pair potential proposed recently , "" "" ; "" % ; A , = where q ; is the charge and ; is the ionic radii of the ith ion , has been employed in the present study .",4774
+parameter can alter several properties and adjustment in more than one parameter is required to get agreement in a single property .,It may be noted that a change in a single parameter can alter several properties and adjustment in more than one parameter is required to get agreement in a single property .,4775
+/,Their positions were therefore fixed such that they are evenly distributed in the Si / P site across the unit cell at the beginning of the simulation .,4776
+P,Their positions were therefore fixed such that they are evenly distributed in the Si / P site across the unit cell at the beginning of the simulation .,4777
+site across the unit,Their positions were therefore fixed such that they are evenly distributed in the Si / P site across the unit cell at the beginning of the simulation .,4778
+cell at the beginning of the simulation .,Their positions were therefore fixed such that they are evenly distributed in the Si / P site across the unit cell at the beginning of the simulation .,4779
+cell are attempted every four MC,Displacements to alter the size and shape of the simulation cell are attempted every four MC moves .,4780
+moves .,Displacements to alter the size and shape of the simulation cell are attempted every four MC moves .,4781
+"cell once , chosen sequentially .","Each Nar + ZnSi , P - OMC move consists of an attempt to move all the particles within the simulation cell once , chosen sequentially .",4782
+positions under a given set of external conditions .,These simulations yield the volume and cell parameters as well as the atomic positions under a given set of external conditions .,4783
+cells .,Size of the simulated system is x x unit cells .,4784
+cell is of,The simulation cell is of size . x . x . A at x = .,4785
+simulation,"The NVE - MD simulations were performed , at the desired temperature of K , in a thombohedral simulation cell with cell parameters obtained from variable - shape NPT - MC simulations .",4786
+cell with,"The NVE - MD simulations were performed , at the desired temperature of K , in a thombohedral simulation cell with cell parameters obtained from variable - shape NPT - MC simulations .",4787
+/ SiOq,The structure of Nasicons may be described as consisting of corner - sharing POY / SiOq tetrahedra and Zr octahedra interconnected to give rise to a three - dimensional network through which the alkali ions can move .,4788
+tetrahedra and Zr,The structure of Nasicons may be described as consisting of corner - sharing POY / SiOq tetrahedra and Zr octahedra interconnected to give rise to a three - dimensional network through which the alkali ions can move .,4789
+octahedra interconnected to give rise to a three -,The structure of Nasicons may be described as consisting of corner - sharing POY / SiOq tetrahedra and Zr octahedra interconnected to give rise to a three - dimensional network through which the alkali ions can move .,4790
+dimensional,The structure of Nasicons may be described as consisting of corner - sharing POY / SiOq tetrahedra and Zr octahedra interconnected to give rise to a three - dimensional network through which the alkali ions can move .,4791
+network through which the alkali ions can move .,The structure of Nasicons may be described as consisting of corner - sharing POY / SiOq tetrahedra and Zr octahedra interconnected to give rise to a three - dimensional network through which the alkali ions can move .,4792
+temperature,"Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",4793
+"structure ,","Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",4794
+shells of the,The average bond lengths for bonded pairs have been obtained by averaging over all first coordination oxygen shells of the corresponding atom and over all MD steps .,4795
+numbers for,"The coordination numbers for Zr , Si and P are seen to be , and oxygens at all compositions as expected .",4796
+structure of,"The radial distribution functions , from NVE - MD at K , are compared with those from the experimental structure of NasZraSizPO ; > .",4797
+axis for clarity .,The rdf ' s from NVE - MD are displaced along the Y - axis for clarity .,4798
+shape,O from variable - size variable - shape NPTMC simulation at K . The a and c from NPT - MC are compared with those from X - ray diffraction performed either at or at K . that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials .,4799
+units are reproduced well .,Overall it is seen that the geometry of the polyhedra as well as the angles between the polyhedral units are reproduced well .,4800
+sites as a function of,"The variation of Na - O distances for Na sites as a function of composition , x , obtained from NVE - MD simulations . the conductivity is still not very high , MD results are higher than reported by experiments .",4801
+sites as a function of,Figure shows the variation of the Na - O distance at the three sites as a function of composition x .,4802
+"framework , , is one which offers a large number of sites for","The Nasicon - framework , , is one which offers a large number of sites for Na + to occupy .",4803
+site is at the center of a distorted oxygen,The Na site is at the center of a distorted oxygen octahedra which is sandwiched between two Zrs along the c axis .,4804
+octahedra which is sandwiched between two,The Na site is at the center of a distorted oxygen octahedra which is sandwiched between two Zrs along the c axis .,4805
+axis .,The Na site is at the center of a distorted oxygen octahedra which is sandwiched between two Zrs along the c axis .,4806
+axis .,Considering the fact that the NaOs lies between two rigid Zrs along the c axis the anomalous expansion of the NaOs with x seems to be associated with a similar change in the c axis .,4807
+axis .,It is evident from Figure that Na thermal ellipsoid is elongated along the ab plane and contracted along the c axis .,4808
+"site , on the other hand , is irregularly eight -","The Na site , on the other hand , is irregularly eight - coordinated with oxygens forming a NaO polyhedra which is located between the ribbons forming the framework .",4809
+coordinated with,"The Na site , on the other hand , is irregularly eight - coordinated with oxygens forming a NaO polyhedra which is located between the ribbons forming the framework .",4810
+polyhedra which is located between the ribbons forming the framework .,"The Na site , on the other hand , is irregularly eight - coordinated with oxygens forming a NaO polyhedra which is located between the ribbons forming the framework .",4811
+site is five - coordinated with,"The mid - Na site is five - coordinated with oxygen , out of the five oxygens three are part of the NaOs while the other two belong to the NaOs .",4812
+polyhedra .,The Na - O distance at the various sites also serves as a good measure of the sizes of the corresponding Na - O polyhedra .,4813
+axis the anomalous,Considering the fact that the NaOs lies between two rigid Zrs along the c axis the anomalous expansion of the NaOs with x seems to be associated with a similar change in the c axis .,4814
+"site shows an anomalous maximum , again , around x","On the contrary the occupancy of the mid - Na site shows an anomalous maximum , again , around x = .",4815
+position .,Here we assign a Na + ion to a given site if that ion is within a distance of . A from the site position .,4816
+position .,"It is seen in Figure b that there is no local minimum in the free - energy profile at d ; = . - . A , that corresponds to the mid - Na position .",4817
+occupancies vary with composition .,"However , it provides an idea of how site occupancies vary with composition .",4818
+site is found to be monotonically increasing with x from a value of zero at x,The occupancy of the Na site is found to be monotonically increasing with x from a value of zero at x = to the maximum possible value of at x = .,4819
+site .,These distances correspond to first and second nearest neighbor distances of Na with respect to another Na site .,4820
+site .,Figure shows an MD trajectory of Na + ion traversing from the Na to Na site .,4821
+site .,"From Figure b it is seen that in the intermediate composition , the free energy of Na site is almost comparable with those of mid - Na site .",4822
+site and,The typical separation between the mid - Na site and Na .,4823
+paths from which,"There are two possible hop paths from which Na + ions can choose , the Na - Na and the Na - Na .",4824
+hops are more probable than Na - Na,analyzing the size of the bottlenecks for ionic motion along these two paths concluded that Na - Na hops are more probable than Na - Na hops as the bottleneck for the Na - Na was found to be wider .,4825
+hops as the bottleneck for the Na - Na was found to be wider .,analyzing the size of the bottlenecks for ionic motion along these two paths concluded that Na - Na hops are more probable than Na - Na hops as the bottleneck for the Na - Na was found to be wider .,4826
+site is chosen as the origin . hops are more probable than Na - Na,An Na site is chosen as the origin . hops are more probable than Na - Na hops .,4827
+hops .,An Na site is chosen as the origin . hops are more probable than Na - Na hops .,4828
+hops .,The fact that the Na - O distances at the various sites depend on the composition emphasizes the role of entropy on the site occupancies as well as in deciding the free energy barrier for site to site hops .,4829
+hops that are more probable .,"Mazza , ' degree on the basis of bond valence equations also suggested that it is Na - Na hops that are more probable .",4830
+path has not been observed .,The other possible hop path has not been observed .,4831
+site provides additional evidence in support of this since the mid - Na,The considerable occupancy of the mid - Na site provides additional evidence in support of this since the mid - Na site is located in the Na - Na hop path .,4832
+site is located in the Na - Na,The considerable occupancy of the mid - Na site provides additional evidence in support of this since the mid - Na site is located in the Na - Na hop path .,4833
+hop,The considerable occupancy of the mid - Na site provides additional evidence in support of this since the mid - Na site is located in the Na - Na hop path .,4834
+hop,"It has been suggested by Kohler and Shulz that there are two bottlenecks , in the Na - Na hop path . ' '",4835
+hop,It may be noticed that the free energy profiles along the NaNa hop path where the bottlenecks BN and BN are located .,4836
+path .,The considerable occupancy of the mid - Na site provides additional evidence in support of this since the mid - Na site is located in the Na - Na hop path .,4837
+path .,Below we discuss the variation in potential energy and free energy along the hop path .,4838
+path .,"This is because the appropriate quantity to be considered here is the free energy which will account for the entropy variations as well as the variations in energy , along the hop path .",4839
+"diagram in Figure appears similar to those given by Kohler and Shulz ' > "" in their","The contour diagram in Figure appears similar to those given by Kohler and Shulz ' > "" in their X - ray diffraction studies .",4840
+thermal,It is evident from Figure that Na thermal ellipsoid is elongated along the ab plane and contracted along the c axis .,4841
+thermal,On the contrary the Na thermal ellipsoid is much longer along the c axis while shorter on the ab plane .,4842
+ellipsoid is elongated along the ab plane and contracted along the c,It is evident from Figure that Na thermal ellipsoid is elongated along the ab plane and contracted along the c axis .,4843
+ellipsoid is much longer along the c,On the contrary the Na thermal ellipsoid is much longer along the c axis while shorter on the ab plane .,4844
+axis while shorter on the ab plane .,On the contrary the Na thermal ellipsoid is much longer along the c axis while shorter on the ab plane .,4845
+sites is evident .,"Instead , a rather smooth density distribution between Na and Na sites is evident .",4846
+trajectory but is one of the hop,This is taken from a run at K . Note that this is not the average trajectory but is one of the hop trajectories .,4847
+trajectories .,This is taken from a run at K . Note that this is not the average trajectory but is one of the hop trajectories .,4848
+site will be helpful in understanding the nature of potential,A simplification of this trajectory in terms of a single scalar quantitiy indicating the progress of the hop from Na to Na site will be helpful in understanding the nature of potential energy and other changes along the trajectory .,4849
+site from which this,The position vector of the Na site from which this ion is hopping is then subtracted from ; and the dot product with the vector from Na to Na is taken to get d ; as mentioned above and uny ; .,4850
+trajectories and include framework relaxations .,Note that the curve in Figure has been obtained by averaging over the MD trajectories and include framework relaxations .,4851
+sites are lower while that of,It is seen that for the x = . the energies of Na and mid - Na sites are lower while that of Na is higher .,4852
+energy,These findings suggest that ions mobility or conductivity is highest when the potential energy landscape has only moderate or low intensity undulations .,4853
+landscape has only,These findings suggest that ions mobility or conductivity is highest when the potential energy landscape has only moderate or low intensity undulations .,4854
+occupancies as well as in deciding the,The fact that the Na - O distances at the various sites depend on the composition emphasizes the role of entropy on the site occupancies as well as in deciding the free energy barrier for site to site hops .,4855
+coordinate akin to a reaction,"Here d ; , is treated as the diffusion coordinate akin to a reaction coordinate .",4856
+coordinate .,"Here d ; , is treated as the diffusion coordinate akin to a reaction coordinate .",4857
+ensemble .,The above expression is valid within the canonical ensemble .,4858
+hop is higher compared to that of the high conducting x =,"For the compositions with low conductance x = . and . , the free energy barriers for the Na to Na hop is higher compared to that of the high conducting x = composition .",4859
+region corresponds neither to a minimum nor a maximum but is rather flat .,"In fact , the mid - Na region corresponds neither to a minimum nor a maximum but is rather flat .",4860
+population at x,We see that at x = there is considerable population but nonzero population at x = . and . .,4861
+site is a rather spatially extended one .,This suggests that mid - Na site is a rather spatially extended one .,4862
+site between,"Cherkaoui et al "" found in their NMR studies evidence for the presence of mid - Na site between Na and Na .",4863
+site obtained by us .,Note that the deficiency in their density matches well with the density of Na fons at the mid - Na site obtained by us .,4864
+occupancies .,It is evident that the site occupancies .,4865
+site is almost comparable with those of mid - Na,"From Figure b it is seen that in the intermediate composition , the free energy of Na site is almost comparable with those of mid - Na site .",4866
+positions with,The fact that we do not shift the site positions with compositions gives rise to this apparent anomaly where the mid - Na site has a larger population than Na .,4867
+site has a larger population than,The fact that we do not shift the site positions with compositions gives rise to this apparent anomaly where the mid - Na site has a larger population than Na .,4868
+path . ' ',"It has been suggested by Kohler and Shulz that there are two bottlenecks , in the Na - Na hop path . ' '",4869
+path where the bottlenecks BN and BN are located .,It may be noticed that the free energy profiles along the NaNa hop path where the bottlenecks BN and BN are located .,4870
+MD trajectories .,"These are aspects that require further , moredetailed analysis of the NVE - MD trajectories .",4871
+site add up to unity .,"Many of the results are in excellent agreement with the X - ray diffraction results of Boilot et al ' For example , the sum of the sodium occupaney at the Na and mid - Na site add up to unity .",4872
+channel is found to be the one connecting Na and Na,The preferred conduction channel is found to be the one connecting Na and Na sites .,4873
+sites .,The preferred conduction channel is found to be the one connecting Na and Na sites .,4874
+"structure and properties and Professor K . Boilot , J . P . ; Collin , G . ; Colomban , Ph .","We are thankful to Professor A . Umarji for useful discussions regarding Nasicon structure and properties and Professor K . Boilot , J . P . ; Collin , G . ; Colomban , Ph .",4875
+Motion in,"B , , - Structure , Conductivity , and Ionic Motion in Naj + , Zr ; Si , P - , O ; ; : A Simulation StudyP .",4876
+lengths of framework atoms with composition are discussed .,"Changes in structure , conductivity , hop path , site occupancies , bond lengths of framework atoms with composition are discussed .",4877
+distance shows a peak at x,"Average Na - O distance shows a peak at x = , while Na - O distance shows a monotonic increase .",4878
+distance shows a monotonic increase .,"Average Na - O distance shows a peak at x = , while Na - O distance shows a monotonic increase .",4879
+energy,Free energy profile along the conduction channel suggests that entropy contribution cannot be neglected .,4880
+energy,The mid - Na site is not associated with a free energy minimum .,4881
+energy,"The potential energy profiles for three compositions , x = . , , and . are shown in Figure .",4882
+energy,The fact that the Na - O distances at the various sites depend on the composition emphasizes the role of entropy on the site occupancies as well as in deciding the free energy barrier for site to site hops .,4883
+energy,"For the compositions with low conductance x = . and . , the free energy barriers for the Na to Na hop is higher compared to that of the high conducting x = composition .",4884
+energy,It may be noticed that the free energy profiles along the NaNa hop path where the bottlenecks BN and BN are located .,4885
+energy,This expansion of NaOs near x = causes widening of bottlenecks and could be thus offering a lower free energy barrier for the Na + hops for compositions near x = .,4886
+energy,Free energy profiles obtained point to the importance of entropy .,4887
+profile along the conduction,Free energy profile along the conduction channel suggests that entropy contribution cannot be neglected .,4888
+contribution cannot be neglected .,Free energy profile along the conduction channel suggests that entropy contribution cannot be neglected .,4889
+minimum .,The mid - Na site is not associated with a free energy minimum .,4890
+energy gradually reduces to half its value in the monoclinie,The transition is also accompanied by an increase in conductivity and over the transition region the activation energy gradually reduces to half its value in the monoclinie phase . > !,4891
+ionic,""" The high - temperature thombohedral Rc - phase is the one of particular interest here , due to its high ionic conductivity .",4892
+ionic,One of the most interesting and technologically important aspect of Nasicons is their high ionic conductivity .,4893
+conductivity .,""" The high - temperature thombohedral Rc - phase is the one of particular interest here , due to its high ionic conductivity .",4894
+conductivity .,One of the most interesting and technologically important aspect of Nasicons is their high ionic conductivity .,4895
+migration .,Different groups have suggested different pathways for Nat migration .,4896
+motion in these materials remain poorly understood .,"' ~ ' > Even after numerous experimental investigations , in the past three decades , many aspects of the ionic motion in these materials remain poorly understood .",4897
+motion in Nasicontype solids .,Recently a few theoretical efforts have also been made to understand some of these aspects of ionic motion in Nasicontype solids .,4898
+energy with composition as well as the preferred ionic,degree who has investigated the variation in activation energy with composition as well as the preferred ionic pathway for conduction .,4899
+valence,"The study makes use of a bond valence equation and suffers from some limitations as it is based on a rigid framework model - neglecting the framework motions - and long - range Coulombic interactions are not accounted for . ' """,4900
+equation and suffers from some limitations as it is based on a rigid framework model - neglecting the framework motions - and long - range,"The study makes use of a bond valence equation and suffers from some limitations as it is based on a rigid framework model - neglecting the framework motions - and long - range Coulombic interactions are not accounted for . ' """,4901
+"interactions are not accounted for . ' ""","The study makes use of a bond valence equation and suffers from some limitations as it is based on a rigid framework model - neglecting the framework motions - and long - range Coulombic interactions are not accounted for . ' """,4902
+dynamics .,These methods also have the inherent drawback of not being able to probe ion dynamics .,4903
+motion and related aspects of,"Classical molecular dynamics techniques have been extensively used , as complementary to experimental probes , in elucidating the nature of the ionic motion and related aspects of superionic conductors in the last three decades .",4904
+potential that can reproduce the well - established experimental results .,These simulation techniques make use of a model interionic potential that can reproduce the well - established experimental results .,4905
+"potentials are quite tedious , particularly in the case of relatively complex materials such as Nasicons .","The development of interionic potentials are quite tedious , particularly in the case of relatively complex materials such as Nasicons .",4906
+occupancy at various,"Analysis of MD trajectories is carried out to derive insight into structure , conductivity , ion occupancy at various sites , hop path from one site to another , and free energy .",4907
+energy .,"Analysis of MD trajectories is carried out to derive insight into structure , conductivity , ion occupancy at various sites , hop path from one site to another , and free energy .",4908
+conduction in these materials .,These provide fresh insights into ion conduction in these materials .,4909
+radii of the,"Intermolecular Potential An interionic pair potential proposed recently , "" "" ; "" % ; A , = where q ; is the charge and ; is the ionic radii of the ith ion , has been employed in the present study .",4910
+energy and,"A ; and C ; are , respectively , the overlap - repulsive energy and dispersion energy of ion pairs i and j .",4911
+energy and,Below we discuss the variation in potential energy and free energy along the hop path .,4912
+energy and,This is the case with x = which leads to lower activation energy and high mobility .,4913
+energy of,"A ; and C ; are , respectively , the overlap - repulsive energy and dispersion energy of ion pairs i and j .",4914
+"q ; ,","A set of initial values were chosen to start with for the parameters q ; , A ; , and C ; .",4915
+point of the solid is high by suitable,We also ensured that the melting point of the solid is high by suitable scaling of all parameters . .,4916
+interaction also influence the properties .,Parameters associated with Na - Na interaction also influence the properties .,4917
+parameters .,IIL Simulation DetailsWe have chosen to carry out constant - temperature and constant - pressure Monte Carlo calculations with variable - shape simulation cell > to obtain the lattice parameters .,4918
+parameters .,Figure shows the variation of the a and c parameters .,4919
+parameters for the,The lattice parameters for the latter simulation were those obtained from NPT - MC simulations .,4920
+parameters as well as the atomic,These simulations yield the volume and cell parameters as well as the atomic positions under a given set of external conditions .,4921
+parameters obtained from variable - shape,"The NVE - MD simulations were performed , at the desired temperature of K , in a thombohedral simulation cell with cell parameters obtained from variable - shape NPT - MC simulations .",4922
+conservation .,Initial velocities were chosen from a Maxwellian velocity distribution for K . The velocity form of the Verlet algorithm with an integration time step Ar = . fs is found to yield good energy conservation .,4923
+distribution functions for the low -,"Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",4924
+bond,The average bond lengths for bonded pairs have been obtained by averaging over all first coordination oxygen shells of the corresponding atom and over all MD steps .,4925
+lengths for bonded pairs have been obtained by averaging over all first,The average bond lengths for bonded pairs have been obtained by averaging over all first coordination oxygen shells of the corresponding atom and over all MD steps .,4926
+lengths of,"Changes in the bond lengths of Zr - O , Si - O and P - O with composition may be seen .",4927
+distances are listed in Table .,"In addition , average Na - O , Na - O and mid Na - O distances are listed in Table .",4928
+angles in Nasicons may play an important role in the changes observed in both structure and,Bond angles in Nasicons may play an important role in the changes observed in both structure and conductivity with composition .,4929
+-,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",4930
+-,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",4931
+-,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",4932
+-,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",4933
+-,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",4934
+-,"It is seen in Figure b that there is no local minimum in the free - energy profile at d ; = . - . A , that corresponds to the mid - Na position .",4935
+-,Role of ion - ion repulsion in the resulting increase in conductivity and structural change also needs to be investigated .,4936
+"O , and","The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",4937
+O are the,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",4938
+Si and,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",4939
+angles are close to,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",4940
+Angles fromNVE,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",4941
+angles are generally found to be larger than,The Zr - O - P angles are generally found to be larger than Zr - O - Si by about - degree .,4942
+"parameters , c . as a function of x for","Variation of lattice parameters , c . as a function of x for Nai + + ZraSi , P - .",4943
+size variable,O from variable - size variable - shape NPTMC simulation at K . The a and c from NPT - MC are compared with those from X - ray diffraction performed either at or at K . that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials .,4944
+parameter is observed coincides with the maximum in the,O from variable - size variable - shape NPTMC simulation at K . The a and c from NPT - MC are compared with those from X - ray diffraction performed either at or at K . that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials .,4945
+parameter are correctly reproduced by the,"It is seen that the anomalous maximum , near x = , of the c parameter are correctly reproduced by the interionic potential .",4946
+potential .,"It is seen that the anomalous maximum , near x = , of the c parameter are correctly reproduced by the interionic potential .",4947
+"parameters , a , / , and y , are found to be within . degree of the expected values , a = / = degree and y = degree .","The other lattice parameters , a , / , and y , are found to be within . degree of the expected values , a = / = degree and y = degree .",4948
+parameter a obtained from NPT - MC is slightly higher than the,"At low compositions , it is seen that the value of the lattice parameter a obtained from NPT - MC is slightly higher than the experimental value .",4949
+value .,"At low compositions , it is seen that the value of the lattice parameter a obtained from NPT - MC is slightly higher than the experimental value .",4950
+parameters are successfully reproduced over the whole,More detailed variation of a and c with x obtained in this study suggests that the lattice parameters are successfully reproduced over the whole composition range = x = .,4951
+parameters and their variation with composition are also in agreement with the,The lattice parameters and their variation with composition are also in agreement with the X - ray diffraction results available in the literature suggesting that the potential is able to successfully reproduce the structure .,4952
+mobility of,"Ofrom NVE - MD is shown . such as near isotropic mobility of ions , easier synthetic roots , lower sintering temperature , low thermal expansivities , etc . , over $ - alumina .",4953
+"expansivities , etc . , over $ - alumina .","Ofrom NVE - MD is shown . such as near isotropic mobility of ions , easier synthetic roots , lower sintering temperature , low thermal expansivities , etc . , over $ - alumina .",4954
+displacement of,"Figure a shows the evolution of mean square displacement of Na + ions with time for compositions x = . , . , . , . , . , and . .",4955
+coefficient of the,The diffusion coefficient of the Na + ions for each of these compositions is calculated from the slope of the respective MSD .,4956
+coefficient and hence the,"For the two end members x = and , the diffusion coefficient and hence the conductivity is too low and MD is unable to estimate the values correctly .",4957
+distances for Na,"The variation of Na - O distances for Na sites as a function of composition , x , obtained from NVE - MD simulations . the conductivity is still not very high , MD results are higher than reported by experiments .",4958
+coefficients and provide more accurate estimates . .,"Further , the reduced slope toward the tail suggests that longer runs might yield lower values of diffusion coefficients and provide more accurate estimates . .",4959
+distance at the three,Figure shows the variation of the Na - O distance at the three sites as a function of composition x .,4960
+distance at the various sites also serves as a good measure of the sizes of the corresponding Na - O,The Na - O distance at the various sites also serves as a good measure of the sizes of the corresponding Na - O polyhedra .,4961
+parameter,The slight expansion of the NaOs with x is probably related to the a parameter expansion .,4962
+expansion .,The slight expansion of the NaOs with x is probably related to the a parameter expansion .,4963
+occupancy is at the expense of,"It appears that the anomalous increase in the mid - Na occupancy is at the expense of Na occupancy since the sum of the two appears to maintain a constant of one , over the entire range of composition .",4964
+"occupancy since the sum of the two appears to maintain a constant of one , over the entire range of","It appears that the anomalous increase in the mid - Na occupancy is at the expense of Na occupancy since the sum of the two appears to maintain a constant of one , over the entire range of composition .",4965
+distances of,These distances correspond to first and second nearest neighbor distances of Na with respect to another Na site .,4966
+"distances , respectively .","These peaks occur at . , . , . , and . A which corresponds to the nearest neighbor Na - Na , Na - Na , Na - Na and next nearest neighbor Na - Na distances , respectively .",4967
+motion along these two paths concluded that Na - Na,analyzing the size of the bottlenecks for ionic motion along these two paths concluded that Na - Na hops are more probable than Na - Na hops as the bottleneck for the Na - Na was found to be wider .,4968
+mobility is observed .,"It may be seen that the majority of hops are between Na and Na , for all the compositions where Na + t mobility is observed .",4969
+MD .,The density has been obtained by counting all Na + within a thickness of . A of this plane over the entire run length of the NVE - MD .,4970
+energy along the hop,Below we discuss the variation in potential energy and free energy along the hop path .,4971
+profiles for three,"The potential energy profiles for three compositions , x = . , , and . are shown in Figure .",4972
+profile shows smaller,"For x = the energies of Na , mid - Na , and Na are comparable and the energy profile shows smaller energy barriers for hops between sites .",4973
+barriers for hops between sites .,"For x = the energies of Na , mid - Na , and Na are comparable and the energy profile shows smaller energy barriers for hops between sites .",4974
+mobility or,These findings suggest that ions mobility or conductivity is highest when the potential energy landscape has only moderate or low intensity undulations .,4975
+intensity,These findings suggest that ions mobility or conductivity is highest when the potential energy landscape has only moderate or low intensity undulations .,4976
+undulations .,These findings suggest that ions mobility or conductivity is highest when the potential energy landscape has only moderate or low intensity undulations .,4977
+activation,This is the case with x = which leads to lower activation energy and high mobility .,4978
+mobility .,This is the case with x = which leads to lower activation energy and high mobility .,4979
+energy which will account for the,"This is because the appropriate quantity to be considered here is the free energy which will account for the entropy variations as well as the variations in energy , along the hop path .",4980
+variations as well as the,"This is because the appropriate quantity to be considered here is the free energy which will account for the entropy variations as well as the variations in energy , along the hop path .",4981
+distances at the various sites depend on the composition emphasizes the role of,The fact that the Na - O distances at the various sites depend on the composition emphasizes the role of entropy on the site occupancies as well as in deciding the free energy barrier for site to site hops .,4982
+barrier for site to site,The fact that the Na - O distances at the various sites depend on the composition emphasizes the role of entropy on the site occupancies as well as in deciding the free energy barrier for site to site hops .,4983
+energies have been calculated from the populations of,"The free energies have been calculated from the populations of Na ions , P , over the entire pathway connecting Na and Na .",4984
+energy where,The free energy where T is the temperature in Kelvin and X is the Boltzmann constant .,4985
+barriers for the,"For the compositions with low conductance x = . and . , the free energy barriers for the Na to Na hop is higher compared to that of the high conducting x = composition .",4986
+"energy profile at d ; = . - . A , that corresponds to the mid - Na","It is seen in Figure b that there is no local minimum in the free - energy profile at d ; = . - . A , that corresponds to the mid - Na position .",4987
+energy of Na,"From Figure b it is seen that in the intermediate composition , the free energy of Na site is almost comparable with those of mid - Na site .",4988
+profiles along the NaNa,It may be noticed that the free energy profiles along the NaNa hop path where the bottlenecks BN and BN are located .,4989
+"changes in the framework , the predominant one in the present context is the anomalous expansion of the","Of the static changes in the framework , the predominant one in the present context is the anomalous expansion of the NaOs , shown in Figure .",4990
+barrier for the,This expansion of NaOs near x = causes widening of bottlenecks and could be thus offering a lower free energy barrier for the Na + hops for compositions near x = .,4991
+"potential has been found to predict known quantities relating to structure ,","ConclusionsThe recently proposed interionic potential has been found to predict known quantities relating to structure , conductivity , and other properties in good agreement with experiments .",4992
+occupaney at the Na and mid - Na,"Many of the results are in excellent agreement with the X - ray diffraction results of Boilot et al ' For example , the sum of the sodium occupaney at the Na and mid - Na site add up to unity .",4993
+parameter may arise from the anomalous behavior of,Present study suggests that the anomalous behavior in the c parameter may arise from the anomalous behavior of Na - O distance .,4994
+distance .,Present study suggests that the anomalous behavior in the c parameter may arise from the anomalous behavior of Na - O distance .,4995
+distance .,Variation in the a parameter probably arises from similar variation in the Na - O distance .,4996
+parameter probably arises from similar variation in the,Variation in the a parameter probably arises from similar variation in the Na - O distance .,4997
+profiles obtained point to the importance of entropy .,Free energy profiles obtained point to the importance of entropy .,4998
+ion,Role of ion - ion repulsion in the resulting increase in conductivity and structural change also needs to be investigated .,4999
+repulsion in the resulting increase in,Role of ion - ion repulsion in the resulting increase in conductivity and structural change also needs to be investigated .,5000
+"= , while","Average Na - O distance shows a peak at x = , while Na - O distance shows a monotonic increase .",5001
+= .,Occupancy of Na site attains a minimum at x = .,5002
+= .,"Beyond this it decreases showing "" an anomalous peak near x = .",5003
+= .,The simulation cell is of size . x . x . A at x = .,5004
+= .,"It is found that as x increases from the occupancy of Na decreases initially , from one , until it reaches a minimum at x = and then increases to its original value of one when x = .",5005
+= .,"On the contrary the occupancy of the mid - Na site shows an anomalous maximum , again , around x = .",5006
+= .,The occupancy of the Na site is found to be monotonically increasing with x from a value of zero at x = to the maximum possible value of at x = .,5007
+= .,This expansion of NaOs near x = causes widening of bottlenecks and could be thus offering a lower free energy barrier for the Na + hops for compositions near x = .,5008
+!,The transition is also accompanied by an increase in conductivity and over the transition region the activation energy gradually reduces to half its value in the monoclinie phase . > !,5009
+-,""" The high - temperature thombohedral Rc - phase is the one of particular interest here , due to its high ionic conductivity .",5010
+-,"This procedure will yield results identical to those obtained from constant - pressure , constant - temperature MD simulations .",5011
+temperature thombohedral,""" The high - temperature thombohedral Rc - phase is the one of particular interest here , due to its high ionic conductivity .",5012
+"temperature , T","The parameters of the potential have been determined by fitting to the structure and conductivity of just one single composition , viz . , NasZrSizPOy - , at just one single temperature , T ~ K in the following way .",5013
+~,"The parameters of the potential have been determined by fitting to the structure and conductivity of just one single composition , viz . , NasZrSizPOy - , at just one single temperature , T ~ K in the following way .",5014
+K in the following way .,"The parameters of the potential have been determined by fitting to the structure and conductivity of just one single composition , viz . , NasZrSizPOy - , at just one single temperature , T ~ K in the following way .",5015
+pressure by adjusting the charges and C ; ; values . .,The pressures again obtained from MD simulations were adjusted to yield as close a value as possible to the atmospheric pressure by adjusting the charges and C ; ; values . .,5016
+pressure,IIL Simulation DetailsWe have chosen to carry out constant - temperature and constant - pressure Monte Carlo calculations with variable - shape simulation cell > to obtain the lattice parameters .,5017
+"pressure , constant","This procedure will yield results identical to those obtained from constant - pressure , constant - temperature MD simulations .",5018
+temperature,"This procedure will yield results identical to those obtained from constant - pressure , constant - temperature MD simulations .",5019
+MD simulations .,"This procedure will yield results identical to those obtained from constant - pressure , constant - temperature MD simulations .",5020
+pressure were carried out initially .,Variable - shape NPT - MC simulations at K and atm pressure were carried out initially .,5021
+degree steps for proper equilibration of the system .,Properties are calculated for x degree MC steps after devoting x degree steps for proper equilibration of the system .,5022
+step,Initial velocities were chosen from a Maxwellian velocity distribution for K . The velocity form of the Verlet algorithm with an integration time step Ar = . fs is found to yield good energy conservation .,5023
+"= , , , and .","Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5024
+"MD at K , are compared with those from the experimental","The radial distribution functions , from NVE - MD at K , are compared with those from the experimental structure of NasZraSizPO ; > .",5025
+"= , of the","It is seen that the anomalous maximum , near x = , of the c parameter are correctly reproduced by the interionic potential .",5026
+sintering,"Ofrom NVE - MD is shown . such as near isotropic mobility of ions , easier synthetic roots , lower sintering temperature , low thermal expansivities , etc . , over $ - alumina .",5027
+"temperature , low","Ofrom NVE - MD is shown . such as near isotropic mobility of ions , easier synthetic roots , lower sintering temperature , low thermal expansivities , etc . , over $ - alumina .",5028
+<,The members of the series with composition in the range of . < x < . have high conductivities above K and therefore qualifies as a superionic conductor .,5029
+x,The members of the series with composition in the range of . < x < . have high conductivities above K and therefore qualifies as a superionic conductor .,5030
+< . have,The members of the series with composition in the range of . < x < . have high conductivities above K and therefore qualifies as a superionic conductor .,5031
+"= . , . , . , . , . , and . .","Figure a shows the evolution of mean square displacement of Na + ions with time for compositions x = . , . , . , . , . , and . .",5032
+= and x,"For the two end members , x = and x = , the MSD reaches a plateau within ps at . and . A ? , respectively .",5033
+"= , the MSD reaches a plateau within","For the two end members , x = and x = , the MSD reaches a plateau within ps at . and . A ? , respectively .",5034
+= is correctly reproduced .,Also shown are the experimental values from Boilot et al ' It may be seen that the variation of a ; with x including the anomalous maximum near x = is correctly reproduced .,5035
+= and then falls off anomalously when,"It is seen that the NaOs increases initially , as x increases , shows a maximum around x = and then falls off anomalously when x = .",5036
+= and then increases to its original value of one when x,"It is found that as x increases from the occupancy of Na decreases initially , from one , until it reaches a minimum at x = and then increases to its original value of one when x = .",5037
+= to the maximum possible value of at x,The occupancy of the Na site is found to be monotonically increasing with x from a value of zero at x = to the maximum possible value of at x = .,5038
+"= . , again the profile shows larger variations and","For x = . , again the profile shows larger variations and Na appears to be higher in energy than Na .",5039
+= which leads to,This is the case with x = which leads to lower activation energy and high mobility .,5040
+= . the population of,It can be seen that for x = . the population of Na is larger than that of Na while for x = . the population in Na is higher than that in Na .,5041
+= . the population in,It can be seen that for x = . the population of Na is larger than that of Na while for x = . the population in Na is higher than that in Na .,5042
+= there is considerable population but nonzero,We see that at x = there is considerable population but nonzero population at x = . and . .,5043
+= . and . .,We see that at x = there is considerable population but nonzero population at x = . and . .,5044
+= causes widening of bottlenecks and could be thus offering a,This expansion of NaOs near x = causes widening of bottlenecks and could be thus offering a lower free energy barrier for the Na + hops for compositions near x = .,5045
+"Conductivity , and","B , , - Structure , Conductivity , and Ionic Motion in Naj + , Zr ; Si , P - , O ; ; : A Simulation StudyP .",5046
+Ionic,"B , , - Structure , Conductivity , and Ionic Motion in Naj + , Zr ; Si , P - , O ; ; : A Simulation StudyP .",5047
+"conductivity , hop","Changes in structure , conductivity , hop path , site occupancies , bond lengths of framework atoms with composition are discussed .",5048
+bond,"Changes in structure , conductivity , hop path , site occupancies , bond lengths of framework atoms with composition are discussed .",5049
+bond,"The study makes use of a bond valence equation and suffers from some limitations as it is based on a rigid framework model - neglecting the framework motions - and long - range Coulombic interactions are not accounted for . ' """,5050
+bond,"Changes in the bond lengths of Zr - O , Si - O and P - O with composition may be seen .",5051
+Na,"Average Na - O distance shows a peak at x = , while Na - O distance shows a monotonic increase .",5052
+Na,"Average Na - O distance shows a peak at x = , while Na - O distance shows a monotonic increase .",5053
+Na,Parameters associated with Na - Na interaction also influence the properties .,5054
+Na,Parameters associated with Na - Na interaction also influence the properties .,5055
+Na,"In addition , average Na - O , Na - O and mid Na - O distances are listed in Table .",5056
+Na,"In addition , average Na - O , Na - O and mid Na - O distances are listed in Table .",5057
+Na,"In addition , average Na - O , Na - O and mid Na - O distances are listed in Table .",5058
+Na,"The variation of Na - O distances for Na sites as a function of composition , x , obtained from NVE - MD simulations . the conductivity is still not very high , MD results are higher than reported by experiments .",5059
+Na,Figure shows the variation of the Na - O distance at the three sites as a function of composition x .,5060
+Na,The Na - O distance at the various sites also serves as a good measure of the sizes of the corresponding Na - O polyhedra .,5061
+Na,"It appears that the anomalous increase in the mid - Na occupancy is at the expense of Na occupancy since the sum of the two appears to maintain a constant of one , over the entire range of composition .",5062
+Na,"It appears that the anomalous increase in the mid - Na occupancy is at the expense of Na occupancy since the sum of the two appears to maintain a constant of one , over the entire range of composition .",5063
+Na,"These peaks occur at . , . , . , and . A which corresponds to the nearest neighbor Na - Na , Na - Na , Na - Na and next nearest neighbor Na - Na distances , respectively .",5064
+Na,"These peaks occur at . , . , . , and . A which corresponds to the nearest neighbor Na - Na , Na - Na , Na - Na and next nearest neighbor Na - Na distances , respectively .",5065
+Na,On the contrary the Na thermal ellipsoid is much longer along the c axis while shorter on the ab plane .,5066
+Na,The fact that the Na - O distances at the various sites depend on the composition emphasizes the role of entropy on the site occupancies as well as in deciding the free energy barrier for site to site hops .,5067
+Na,Present study suggests that the anomalous behavior in the c parameter may arise from the anomalous behavior of Na - O distance .,5068
+Na,Variation in the a parameter probably arises from similar variation in the Na - O distance .,5069
+-,"Average Na - O distance shows a peak at x = , while Na - O distance shows a monotonic increase .",5070
+-,"Average Na - O distance shows a peak at x = , while Na - O distance shows a monotonic increase .",5071
+-,Parameters associated with Na - Na interaction also influence the properties .,5072
+-,"Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5073
+-,"Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5074
+-,"Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5075
+-,"Changes in the bond lengths of Zr - O , Si - O and P - O with composition may be seen .",5076
+-,"Changes in the bond lengths of Zr - O , Si - O and P - O with composition may be seen .",5077
+-,"Changes in the bond lengths of Zr - O , Si - O and P - O with composition may be seen .",5078
+-,"In addition , average Na - O , Na - O and mid Na - O distances are listed in Table .",5079
+-,"In addition , average Na - O , Na - O and mid Na - O distances are listed in Table .",5080
+-,"In addition , average Na - O , Na - O and mid Na - O distances are listed in Table .",5081
+-,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5082
+-,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5083
+-,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5084
+-,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5085
+-,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5086
+-,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5087
+-,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5088
+-,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5089
+-,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5090
+-,The Zr - O - P angles are generally found to be larger than Zr - O - Si by about - degree .,5091
+-,The Zr - O - P angles are generally found to be larger than Zr - O - Si by about - degree .,5092
+-,The Zr - O - P angles are generally found to be larger than Zr - O - Si by about - degree .,5093
+-,The Zr - O - P angles are generally found to be larger than Zr - O - Si by about - degree .,5094
+-,"The variation of Na - O distances for Na sites as a function of composition , x , obtained from NVE - MD simulations . the conductivity is still not very high , MD results are higher than reported by experiments .",5095
+-,Figure shows the variation of the Na - O distance at the three sites as a function of composition x .,5096
+-,The Na - O distance at the various sites also serves as a good measure of the sizes of the corresponding Na - O polyhedra .,5097
+-,"It appears that the anomalous increase in the mid - Na occupancy is at the expense of Na occupancy since the sum of the two appears to maintain a constant of one , over the entire range of composition .",5098
+-,"These peaks occur at . , . , . , and . A which corresponds to the nearest neighbor Na - Na , Na - Na , Na - Na and next nearest neighbor Na - Na distances , respectively .",5099
+-,The density has been obtained by counting all Na + within a thickness of . A of this plane over the entire run length of the NVE - MD .,5100
+-,"This is in good qualitative agreement Nar + ZnSi , P - O Figure .",5101
+-,The fact that the Na - O distances at the various sites depend on the composition emphasizes the role of entropy on the site occupancies as well as in deciding the free energy barrier for site to site hops .,5102
+-,Present study suggests that the anomalous behavior in the c parameter may arise from the anomalous behavior of Na - O distance .,5103
+-,Variation in the a parameter probably arises from similar variation in the Na - O distance .,5104
+O,"Average Na - O distance shows a peak at x = , while Na - O distance shows a monotonic increase .",5105
+O,"Average Na - O distance shows a peak at x = , while Na - O distance shows a monotonic increase .",5106
+O,"Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5107
+O,"In addition , average Na - O , Na - O and mid Na - O distances are listed in Table .",5108
+O,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5109
+O,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5110
+O,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5111
+O,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5112
+O,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5113
+O,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5114
+O,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5115
+O,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5116
+O,The Zr - O - P angles are generally found to be larger than Zr - O - Si by about - degree .,5117
+O,The Zr - O - P angles are generally found to be larger than Zr - O - Si by about - degree .,5118
+O,"The variation of Na - O distances for Na sites as a function of composition , x , obtained from NVE - MD simulations . the conductivity is still not very high , MD results are higher than reported by experiments .",5119
+O,Figure shows the variation of the Na - O distance at the three sites as a function of composition x .,5120
+O,The Na - O distance at the various sites also serves as a good measure of the sizes of the corresponding Na - O polyhedra .,5121
+O,The fact that the Na - O distances at the various sites depend on the composition emphasizes the role of entropy on the site occupancies as well as in deciding the free energy barrier for site to site hops .,5122
+O,Present study suggests that the anomalous behavior in the c parameter may arise from the anomalous behavior of Na - O distance .,5123
+O,Variation in the a parameter probably arises from similar variation in the Na - O distance .,5124
+Occupancy of Na,Occupancy of Na site attains a minimum at x = .,5125
+Density contours for,"Density contours for sodium , depicting this conduction channel , are reported .",5126
+Free,Free energy profile along the conduction channel suggests that entropy contribution cannot be neglected .,5127
+Free,Free energy profiles obtained point to the importance of entropy .,5128
+entropy,Free energy profile along the conduction channel suggests that entropy contribution cannot be neglected .,5129
+entropy,"This is because the appropriate quantity to be considered here is the free energy which will account for the entropy variations as well as the variations in energy , along the hop path .",5130
+free,The mid - Na site is not associated with a free energy minimum .,5131
+free,"Analysis of MD trajectories is carried out to derive insight into structure , conductivity , ion occupancy at various sites , hop path from one site to another , and free energy .",5132
+free,Below we discuss the variation in potential energy and free energy along the hop path .,5133
+free,"This is because the appropriate quantity to be considered here is the free energy which will account for the entropy variations as well as the variations in energy , along the hop path .",5134
+free,The fact that the Na - O distances at the various sites depend on the composition emphasizes the role of entropy on the site occupancies as well as in deciding the free energy barrier for site to site hops .,5135
+free,"The free energies have been calculated from the populations of Na ions , P , over the entire pathway connecting Na and Na .",5136
+free,The free energy where T is the temperature in Kelvin and X is the Boltzmann constant .,5137
+free,"For the compositions with low conductance x = . and . , the free energy barriers for the Na to Na hop is higher compared to that of the high conducting x = composition .",5138
+free,"It is seen in Figure b that there is no local minimum in the free - energy profile at d ; = . - . A , that corresponds to the mid - Na position .",5139
+free,"From Figure b it is seen that in the intermediate composition , the free energy of Na site is almost comparable with those of mid - Na site .",5140
+free,It may be noticed that the free energy profiles along the NaNa hop path where the bottlenecks BN and BN are located .,5141
+free,This expansion of NaOs near x = causes widening of bottlenecks and could be thus offering a lower free energy barrier for the Na + hops for compositions near x = .,5142
+conductivity of,"The conductivity of NasZr - SizPOyabove K was found to be comparable to that of Na - B - alumina , with many an advantage in practical applications as a fast ion conductor . """,5143
+transition is suggested to be a second -,This transition is suggested to be a second - order transition .,5144
+transition is also accompanied by an increase in,The transition is also accompanied by an increase in conductivity and over the transition region the activation energy gradually reduces to half its value in the monoclinie phase . > !,5145
+conductivity and over the transition region the,The transition is also accompanied by an increase in conductivity and over the transition region the activation energy gradually reduces to half its value in the monoclinie phase . > !,5146
+activation,The transition is also accompanied by an increase in conductivity and over the transition region the activation energy gradually reduces to half its value in the monoclinie phase . > !,5147
+activation,degree who has investigated the variation in activation energy with composition as well as the preferred ionic pathway for conduction .,5148
+high,""" The high - temperature thombohedral Rc - phase is the one of particular interest here , due to its high ionic conductivity .",5149
+high,One of the most interesting and technologically important aspect of Nasicons is their high ionic conductivity .,5150
+high,The members of the series with composition in the range of . < x < . have high conductivities above K and therefore qualifies as a superionic conductor .,5151
+high,This is the case with x = which leads to lower activation energy and high mobility .,5152
+"conductivity initially increases , by many orders of magnitude , up to an","A particularly interesting aspect of Na + Zr - Si , P - , O is that as the composition , x , increases the conductivity initially increases , by many orders of magnitude , up to an x ~ .",5153
+Nat,Different groups have suggested different pathways for Nat migration .,5154
+ionic,"' ~ ' > Even after numerous experimental investigations , in the past three decades , many aspects of the ionic motion in these materials remain poorly understood .",5155
+ionic,Recently a few theoretical efforts have also been made to understand some of these aspects of ionic motion in Nasicontype solids .,5156
+ionic,"Classical molecular dynamics techniques have been extensively used , as complementary to experimental probes , in elucidating the nature of the ionic motion and related aspects of superionic conductors in the last three decades .",5157
+ionic,"Intermolecular Potential An interionic pair potential proposed recently , "" "" ; "" % ; A , = where q ; is the charge and ; is the ionic radii of the ith ion , has been employed in the present study .",5158
+ionic,analyzing the size of the bottlenecks for ionic motion along these two paths concluded that Na - Na hops are more probable than Na - Na hops as the bottleneck for the Na - Na was found to be wider .,5159
+"distortion of the structure , from the ideally stacked","An interesting observation of the study is that distortion of the structure , from the ideally stacked polyhedra , enhances the conductivity .",5160
+conductivity .,"An interesting observation of the study is that distortion of the structure , from the ideally stacked polyhedra , enhances the conductivity .",5161
+Coulombic,"The study makes use of a bond valence equation and suffers from some limitations as it is based on a rigid framework model - neglecting the framework motions - and long - range Coulombic interactions are not accounted for . ' """,5162
+ion,These methods also have the inherent drawback of not being able to probe ion dynamics .,5163
+ion,"Analysis of MD trajectories is carried out to derive insight into structure , conductivity , ion occupancy at various sites , hop path from one site to another , and free energy .",5164
+ion,These provide fresh insights into ion conduction in these materials .,5165
+ion,Role of ion - ion repulsion in the resulting increase in conductivity and structural change also needs to be investigated .,5166
+interionic,These simulation techniques make use of a model interionic potential that can reproduce the well - established experimental results .,5167
+interionic,"The development of interionic potentials are quite tedious , particularly in the case of relatively complex materials such as Nasicons .",5168
+interionic,"It is seen that the anomalous maximum , near x = , of the c parameter are correctly reproduced by the interionic potential .",5169
+interionic,"ConclusionsThe recently proposed interionic potential has been found to predict known quantities relating to structure , conductivity , and other properties in good agreement with experiments .",5170
+"conductivity ,","Analysis of MD trajectories is carried out to derive insight into structure , conductivity , ion occupancy at various sites , hop path from one site to another , and free energy .",5171
+repulsive,"A ; and C ; are , respectively , the overlap - repulsive energy and dispersion energy of ion pairs i and j .",5172
+dispersion,"A ; and C ; are , respectively , the overlap - repulsive energy and dispersion energy of ion pairs i and j .",5173
+parameters of the potential have been determined by fitting to the structure and,"The parameters of the potential have been determined by fitting to the structure and conductivity of just one single composition , viz . , NasZrSizPOy - , at just one single temperature , T ~ K in the following way .",5174
+"conductivity of just one single composition , viz . ,","The parameters of the potential have been determined by fitting to the structure and conductivity of just one single composition , viz . , NasZrSizPOy - , at just one single temperature , T ~ K in the following way .",5175
+parameters,"A set of initial values were chosen to start with for the parameters q ; , A ; , and C ; .",5176
+pressures again obtained from,The pressures again obtained from MD simulations were adjusted to yield as close a value as possible to the atmospheric pressure by adjusting the charges and C ; ; values . .,5177
+parameters . .,We also ensured that the melting point of the solid is high by suitable scaling of all parameters . .,5178
+parameters .,MD is carried out iteratively after every refined set of parameters .,5179
+parameters .,The above - discussed procedure is one of the many ways of achieving an optimized set of parameters .,5180
+conductivity from,"Every time , the resulting structure and conductivity from MD are compared with experiments and further adjustments in parameters are made based on the criteria discussed above .",5181
+parameters are made based on the criteria discussed above .,"Every time , the resulting structure and conductivity from MD are compared with experiments and further adjustments in parameters are made based on the criteria discussed above .",5182
+lattice,IIL Simulation DetailsWe have chosen to carry out constant - temperature and constant - pressure Monte Carlo calculations with variable - shape simulation cell > to obtain the lattice parameters .,5183
+lattice,The lattice parameters for the latter simulation were those obtained from NPT - MC simulations .,5184
+lattice,"Variation of lattice parameters , c . as a function of x for Nai + + ZraSi , P - .",5185
+lattice,"The other lattice parameters , a , / , and y , are found to be within . degree of the expected values , a = / = degree and y = degree .",5186
+lattice,"At low compositions , it is seen that the value of the lattice parameter a obtained from NPT - MC is slightly higher than the experimental value .",5187
+lattice,More detailed variation of a and c with x obtained in this study suggests that the lattice parameters are successfully reproduced over the whole composition range = x = .,5188
+lattice,The lattice parameters and their variation with composition are also in agreement with the X - ray diffraction results available in the literature suggesting that the potential is able to successfully reproduce the structure .,5189
+volume and,These simulations yield the volume and cell parameters as well as the atomic positions under a given set of external conditions .,5190
+cell,These simulations yield the volume and cell parameters as well as the atomic positions under a given set of external conditions .,5191
+cell,"The NVE - MD simulations were performed , at the desired temperature of K , in a thombohedral simulation cell with cell parameters obtained from variable - shape NPT - MC simulations .",5192
+size . x .,The simulation cell is of size . x . x . A at x = .,5193
+velocities were chosen from a,Initial velocities were chosen from a Maxwellian velocity distribution for K . The velocity form of the Verlet algorithm with an integration time step Ar = . fs is found to yield good energy conservation .,5194
+velocity form of the,Initial velocities were chosen from a Maxwellian velocity distribution for K . The velocity form of the Verlet algorithm with an integration time step Ar = . fs is found to yield good energy conservation .,5195
+energy,Initial velocities were chosen from a Maxwellian velocity distribution for K . The velocity form of the Verlet algorithm with an integration time step Ar = . fs is found to yield good energy conservation .,5196
+energy,"For x = the energies of Na , mid - Na , and Na are comparable and the energy profile shows smaller energy barriers for hops between sites .",5197
+energy,"For x = the energies of Na , mid - Na , and Na are comparable and the energy profile shows smaller energy barriers for hops between sites .",5198
+Zr,"Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5199
+Zr,"Changes in the bond lengths of Zr - O , Si - O and P - O with composition may be seen .",5200
+Zr,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5201
+Zr,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5202
+Zr,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5203
+Zr,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5204
+Zr,The Zr - O - P angles are generally found to be larger than Zr - O - Si by about - degree .,5205
+Zr,The Zr - O - P angles are generally found to be larger than Zr - O - Si by about - degree .,5206
+"O ,","Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5207
+"O ,","Changes in the bond lengths of Zr - O , Si - O and P - O with composition may be seen .",5208
+"O ,","In addition , average Na - O , Na - O and mid Na - O distances are listed in Table .",5209
+"O ,","The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5210
+Si,"Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5211
+Si,"Changes in the bond lengths of Zr - O , Si - O and P - O with composition may be seen .",5212
+Si,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5213
+"O , and","Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5214
+P,"Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5215
+P,"Changes in the bond lengths of Zr - O , Si - O and P - O with composition may be seen .",5216
+P,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5217
+P,The Zr - O - P angles are generally found to be larger than Zr - O - Si by about - degree .,5218
+P,"This is in good qualitative agreement Nar + ZnSi , P - O Figure .",5219
+radial,"Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5220
+"R¢ , at x","Zr - O , Si - O , and P - O radial distribution functions for the low - temperature structure , R¢ , at x = , , , and .",5221
+average,The average bond lengths for bonded pairs have been obtained by averaging over all first coordination oxygen shells of the corresponding atom and over all MD steps .,5222
+O and,"Changes in the bond lengths of Zr - O , Si - O and P - O with composition may be seen .",5223
+O and,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5224
+O with composition may be seen .,"Changes in the bond lengths of Zr - O , Si - O and P - O with composition may be seen .",5225
+O and mid,"In addition , average Na - O , Na - O and mid Na - O distances are listed in Table .",5226
+Bond,Bond angles in Nasicons may play an important role in the changes observed in both structure and conductivity with composition .,5227
+conductivity with composition .,Bond angles in Nasicons may play an important role in the changes observed in both structure and conductivity with composition .,5228
+"angles within the polyhedra and are expected to be more stiff , while","The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5229
+P are the,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5230
+angles between,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5231
+polyhedra whose flexibility is important for,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5232
+rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .,"The O - Zr - O , O - Si - O , and O - P - O are the angles within the polyhedra and are expected to be more stiff , while Zr - O - Si and Zr - O - P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition .",5233
+degree and,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5234
+.,"Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5235
+"% , respectively , suggesting the presence of ideal","Note that the O - Zr - O and O - - O angles are close to degree and . % , respectively , suggesting the presence of ideal J .",5236
+"P . . . ns . . . . . . . . . . . . . . . w n oo "" From","TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",5237
+Si by about - degree .,The Zr - O - P angles are generally found to be larger than Zr - O - Si by about - degree .,5238
+variable -,O from variable - size variable - shape NPTMC simulation at K . The a and c from NPT - MC are compared with those from X - ray diffraction performed either at or at K . that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials .,5239
+c,O from variable - size variable - shape NPTMC simulation at K . The a and c from NPT - MC are compared with those from X - ray diffraction performed either at or at K . that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials .,5240
+c,Figure shows the variation of the a and c parameters .,5241
+c,"It is seen that the anomalous maximum , near x = , of the c parameter are correctly reproduced by the interionic potential .",5242
+c,Present study suggests that the anomalous behavior in the c parameter may arise from the anomalous behavior of Na - O distance .,5243
+conductivity in these materials .,O from variable - size variable - shape NPTMC simulation at K . The a and c from NPT - MC are compared with those from X - ray diffraction performed either at or at K . that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials .,5244
+a and,Figure shows the variation of the a and c parameters .,5245
+experimental,"At low compositions , it is seen that the value of the lattice parameter a obtained from NPT - MC is slightly higher than the experimental value .",5246
+"duration of these runs , as we shall see in the next section .","The difference is probably due to the limited duration of these runs , as we shall see in the next section .",5247
+angles between the polyhedral,Overall it is seen that the geometry of the polyhedra as well as the angles between the polyhedral units are reproduced well .,5248
+"conductivity , ; as a function of x , for","conductivity , ; as a function of x , for Nay + Zr $ i , P - .",5249
+isotropic,"Ofrom NVE - MD is shown . such as near isotropic mobility of ions , easier synthetic roots , lower sintering temperature , low thermal expansivities , etc . , over $ - alumina .",5250
+thermal,"Ofrom NVE - MD is shown . such as near isotropic mobility of ions , easier synthetic roots , lower sintering temperature , low thermal expansivities , etc . , over $ - alumina .",5251
+conductivities above,The members of the series with composition in the range of . < x < . have high conductivities above K and therefore qualifies as a superionic conductor .,5252
+mean,"Figure a shows the evolution of mean square displacement of Na + ions with time for compositions x = . , . , . , . , . , and . .",5253
+square,"Figure a shows the evolution of mean square displacement of Na + ions with time for compositions x = . , . , . , . , . , and . .",5254
+diffusion,The diffusion coefficient of the Na + ions for each of these compositions is calculated from the slope of the respective MSD .,5255
+diffusion,"For the two end members x = and , the diffusion coefficient and hence the conductivity is too low and MD is unable to estimate the values correctly .",5256
+diffusion,"Further , the reduced slope toward the tail suggests that longer runs might yield lower values of diffusion coefficients and provide more accurate estimates . .",5257
+conductivity calculated from the above expression for the various,The conductivity calculated from the above expression for the various compositions is plotted in Figure b .,5258
+conductivity is too low and MD is unable to estimate the values correctly .,"For the two end members x = and , the diffusion coefficient and hence the conductivity is too low and MD is unable to estimate the values correctly .",5259
+"conductivity is still not very high , MD results are higher than reported by experiments .","The variation of Na - O distances for Na sites as a function of composition , x , obtained from NVE - MD simulations . the conductivity is still not very high , MD results are higher than reported by experiments .",5260
+connectivity across them are good candidates for,It is well - known that framework structures with a large number of partially occupied sites with good connectivity across them are good candidates for superionic conductor .,5261
+expansion of the,Considering the fact that the NaOs lies between two rigid Zrs along the c axis the anomalous expansion of the NaOs with x seems to be associated with a similar change in the c axis .,5262
+expansion of the,The slight expansion of the NaOs with x is probably related to the a parameter expansion .,5263
+a,The slight expansion of the NaOs with x is probably related to the a parameter expansion .,5264
+a,Variation in the a parameter probably arises from similar variation in the Na - O distance .,5265
+distance of . A from the site,Here we assign a Na + ion to a given site if that ion is within a distance of . A from the site position .,5266
+mid,"It appears that the anomalous increase in the mid - Na occupancy is at the expense of Na occupancy since the sum of the two appears to maintain a constant of one , over the entire range of composition .",5267
+occupancy of the Na,The occupancy of the Na site is found to be monotonically increasing with x from a value of zero at x = to the maximum possible value of at x = .,5268
+distances correspond to first and second nearest,These distances correspond to first and second nearest neighbor distances of Na with respect to another Na site .,5269
+neighbor,These distances correspond to first and second nearest neighbor distances of Na with respect to another Na site .,5270
+t,"It may be seen that the majority of hops are between Na and Na , for all the compositions where Na + t mobility is observed .",5271
+density has been obtained by counting all,The density has been obtained by counting all Na + within a thickness of . A of this plane over the entire run length of the NVE - MD .,5272
+NVE,The density has been obtained by counting all Na + within a thickness of . A of this plane over the entire run length of the NVE - MD .,5273
+O Figure .,"This is in good qualitative agreement Nar + ZnSi , P - O Figure .",5274
+density is seen in the,But in this region no island corresponding to a local maximum in density is seen in the contour plot .,5275
+density distribution between Na and Na,"Instead , a rather smooth density distribution between Na and Na sites is evident .",5276
+energy and other changes along the trajectory .,A simplification of this trajectory in terms of a single scalar quantitiy indicating the progress of the hop from Na to Na site will be helpful in understanding the nature of potential energy and other changes along the trajectory .,5277
+hopping is then subtracted from ; and the dot product with the vector from,The position vector of the Na site from which this ion is hopping is then subtracted from ; and the dot product with the vector from Na to Na is taken to get d ; as mentioned above and uny ; .,5278
+energies of Na and mid - Na,It is seen that for the x = . the energies of Na and mid - Na sites are lower while that of Na is higher .,5279
+"energies of Na , mid - Na , and","For x = the energies of Na , mid - Na , and Na are comparable and the energy profile shows smaller energy barriers for hops between sites .",5280
+energy than,"For x = . , again the profile shows larger variations and Na appears to be higher in energy than Na .",5281
+ions,These findings suggest that ions mobility or conductivity is highest when the potential energy landscape has only moderate or low intensity undulations .,5282
+conductivity is highest when the potential,These findings suggest that ions mobility or conductivity is highest when the potential energy landscape has only moderate or low intensity undulations .,5283
+moderate or,These findings suggest that ions mobility or conductivity is highest when the potential energy landscape has only moderate or low intensity undulations .,5284
+low,These findings suggest that ions mobility or conductivity is highest when the potential energy landscape has only moderate or low intensity undulations .,5285
+lower,This is the case with x = which leads to lower activation energy and high mobility .,5286
+lower,This expansion of NaOs near x = causes widening of bottlenecks and could be thus offering a lower free energy barrier for the Na + hops for compositions near x = .,5287
+variations,"This is because the appropriate quantity to be considered here is the free energy which will account for the entropy variations as well as the variations in energy , along the hop path .",5288
+in,"This is because the appropriate quantity to be considered here is the free energy which will account for the entropy variations as well as the variations in energy , along the hop path .",5289
+"energy , along the hop","This is because the appropriate quantity to be considered here is the free energy which will account for the entropy variations as well as the variations in energy , along the hop path .",5290
+entropy on the site,The fact that the Na - O distances at the various sites depend on the composition emphasizes the role of entropy on the site occupancies as well as in deciding the free energy barrier for site to site hops .,5291
+"conductance x = . and . , the","For the compositions with low conductance x = . and . , the free energy barriers for the Na to Na hop is higher compared to that of the high conducting x = composition .",5292
+density matches well with the,Note that the deficiency in their density matches well with the density of Na fons at the mid - Na site obtained by us .,5293
+density of,Note that the deficiency in their density matches well with the density of Na fons at the mid - Na site obtained by us .,5294
+distance of / and / of the,"These bottlenecks are formed by triangular arrangement of oxygens , with their centers roughly at a distance of / and / of the Na - Na separation , from Na .",5295
+static,"Of the static changes in the framework , the predominant one in the present context is the anomalous expansion of the NaOs , shown in Figure .",5296
+expansion of,This expansion of NaOs near x = causes widening of bottlenecks and could be thus offering a lower free energy barrier for the Na + hops for compositions near x = .,5297
+"conductivity , and other properties in good agreement with experiments .","ConclusionsThe recently proposed interionic potential has been found to predict known quantities relating to structure , conductivity , and other properties in good agreement with experiments .",5298
+sodium,"Many of the results are in excellent agreement with the X - ray diffraction results of Boilot et al ' For example , the sum of the sodium occupaney at the Na and mid - Na site add up to unity .",5299
+rotation of the polyhedra in giving the observed,Additional work is required to clarify the role of framework and role of rotation of the polyhedra in giving the observed behavior of conductivity with composition x .,5300
+behavior of,Additional work is required to clarify the role of framework and role of rotation of the polyhedra in giving the observed behavior of conductivity with composition x .,5301
+conductivity with,Additional work is required to clarify the role of framework and role of rotation of the polyhedra in giving the observed behavior of conductivity with composition x .,5302
+conductivity and structural change also needs to be investigated .,Role of ion - ion repulsion in the resulting increase in conductivity and structural change also needs to be investigated .,5303
+"Structure andReactivity , rd ed .","Huheey , J . E . Inorganic Chemistry : Principles of Structure andReactivity , rd ed .",5304
+X,Sum of the sodium occupancies at Na and mid - Na sites adds up to a constant value of one which supports the conclusion of Boilot et al ' based on X - ray diffraction .,5305
+X,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",5306
+X,O from variable - size variable - shape NPTMC simulation at K . The a and c from NPT - MC are compared with those from X - ray diffraction performed either at or at K . that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials .,5307
+X,The lattice parameters and their variation with composition are also in agreement with the X - ray diffraction results available in the literature suggesting that the potential is able to successfully reproduce the structure .,5308
+X,These observations are in good qualitative agreement with the X - ray diffraction resultsJ .,5309
+X,"The contour diagram in Figure appears similar to those given by Kohler and Shulz ' > "" in their X - ray diffraction studies .",5310
+X,"However , none of the X - ray diffraction studies prior to those by Boilot et al . """,5311
+X,"Many of the results are in excellent agreement with the X - ray diffraction results of Boilot et al ' For example , the sum of the sodium occupaney at the Na and mid - Na site add up to unity .",5312
+-,Sum of the sodium occupancies at Na and mid - Na sites adds up to a constant value of one which supports the conclusion of Boilot et al ' based on X - ray diffraction .,5313
+-,Variable - shape NPT - MC simulations at K and atm pressure were carried out initially .,5314
+-,"The NVE - MD simulations were performed , at the desired temperature of K , in a thombohedral simulation cell with cell parameters obtained from variable - shape NPT - MC simulations .",5315
+-,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",5316
+-,O from variable - size variable - shape NPTMC simulation at K . The a and c from NPT - MC are compared with those from X - ray diffraction performed either at or at K . that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials .,5317
+-,The lattice parameters and their variation with composition are also in agreement with the X - ray diffraction results available in the literature suggesting that the potential is able to successfully reproduce the structure .,5318
+-,These observations are in good qualitative agreement with the X - ray diffraction resultsJ .,5319
+-,"The contour diagram in Figure appears similar to those given by Kohler and Shulz ' > "" in their X - ray diffraction studies .",5320
+-,"However , none of the X - ray diffraction studies prior to those by Boilot et al . """,5321
+-,"Many of the results are in excellent agreement with the X - ray diffraction results of Boilot et al ' For example , the sum of the sodium occupaney at the Na and mid - Na site add up to unity .",5322
+ray diffraction .,Sum of the sodium occupancies at Na and mid - Na sites adds up to a constant value of one which supports the conclusion of Boilot et al ' based on X - ray diffraction .,5323
+ray diffraction .,"TABLE : Some Select Bond Angles fromNVE - MDx O - Zr - _ O - Si - O _ O - P - O _ Zr - O - Si _ Zr - O - P . . . ns . . . . . . . . . . . . . . . w n oo "" From X - ray diffraction .",5324
+Distance Least,They employ a Distance Least Square method to substantiate their experimental findings .,5325
+Square method to substantiate their experimental findings .,They employ a Distance Least Square method to substantiate their experimental findings .,5326
+"molecular dynamics techniques have been extensively used , as complementary to experimental probes , in elucidating the nature of the","Classical molecular dynamics techniques have been extensively used , as complementary to experimental probes , in elucidating the nature of the ionic motion and related aspects of superionic conductors in the last three decades .",5327
+These simulation techniques make use of a model,These simulation techniques make use of a model interionic potential that can reproduce the well - established experimental results .,5328
+MD simulations were adjusted to yield as close a value as possible to the atmospheric,The pressures again obtained from MD simulations were adjusted to yield as close a value as possible to the atmospheric pressure by adjusting the charges and C ; ; values . .,5329
+experimental data .,The procedure is repeated until MD results are close to the experimental data .,5330
+Monte Carlo calculations with variable - shape simulation cell > to obtain the,IIL Simulation DetailsWe have chosen to carry out constant - temperature and constant - pressure Monte Carlo calculations with variable - shape simulation cell > to obtain the lattice parameters .,5331
+latter simulation were those obtained from,The lattice parameters for the latter simulation were those obtained from NPT - MC simulations .,5332
+NPT -,The lattice parameters for the latter simulation were those obtained from NPT - MC simulations .,5333
+NPT -,The initial configuration of ions for the NVE - MD simulations were the final configurations from NPT - MC simulations .,5334
+MC simulations .,The lattice parameters for the latter simulation were those obtained from NPT - MC simulations .,5335
+MC simulations .,The initial configuration of ions for the NVE - MD simulations were the final configurations from NPT - MC simulations .,5336
+NPT,Variable - shape NPT - MC simulations at K and atm pressure were carried out initially .,5337
+MC simulations at,Variable - shape NPT - MC simulations at K and atm pressure were carried out initially .,5338
+simulations yield the,These simulations yield the volume and cell parameters as well as the atomic positions under a given set of external conditions .,5339
+NVE,"The NVE - MD simulations were performed , at the desired temperature of K , in a thombohedral simulation cell with cell parameters obtained from variable - shape NPT - MC simulations .",5340
+"MD simulations were performed , at the desired temperature of K , in a thombohedral","The NVE - MD simulations were performed , at the desired temperature of K , in a thombohedral simulation cell with cell parameters obtained from variable - shape NPT - MC simulations .",5341
+NPT - MC simulations .,"The NVE - MD simulations were performed , at the desired temperature of K , in a thombohedral simulation cell with cell parameters obtained from variable - shape NPT - MC simulations .",5342
+NVE -,The initial configuration of ions for the NVE - MD simulations were the final configurations from NPT - MC simulations .,5343
+NVE -,"The variation of Na - O distances for Na sites as a function of composition , x , obtained from NVE - MD simulations . the conductivity is still not very high , MD results are higher than reported by experiments .",5344
+MD simulations were the final configurations from,The initial configuration of ions for the NVE - MD simulations were the final configurations from NPT - MC simulations .,5345
+Maxwellian velocity distribution for,Initial velocities were chosen from a Maxwellian velocity distribution for K . The velocity form of the Verlet algorithm with an integration time step Ar = . fs is found to yield good energy conservation .,5346
+Verlet algorithm with an,Initial velocities were chosen from a Maxwellian velocity distribution for K . The velocity form of the Verlet algorithm with an integration time step Ar = . fs is found to yield good energy conservation .,5347
+integration time,Initial velocities were chosen from a Maxwellian velocity distribution for K . The velocity form of the Verlet algorithm with an integration time step Ar = . fs is found to yield good energy conservation .,5348
+"radial distribution functions , from NVE -","The radial distribution functions , from NVE - MD at K , are compared with those from the experimental structure of NasZraSizPO ; > .",5349
+NPTMC simulation at K . The a and c from NPT - MC are compared with those from,O from variable - size variable - shape NPTMC simulation at K . The a and c from NPT - MC are compared with those from X - ray diffraction performed either at or at K . that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials .,5350
+ray diffraction performed either at or at K . that the composition where the maximum of the,O from variable - size variable - shape NPTMC simulation at K . The a and c from NPT - MC are compared with those from X - ray diffraction performed either at or at K . that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials .,5351
+ray diffraction results available in the literature suggesting that the potential is able to successfully reproduce the structure .,The lattice parameters and their variation with composition are also in agreement with the X - ray diffraction results available in the literature suggesting that the potential is able to successfully reproduce the structure .,5352
+MD simulations . the,"The variation of Na - O distances for Na sites as a function of composition , x , obtained from NVE - MD simulations . the conductivity is still not very high , MD results are higher than reported by experiments .",5353
+ray diffraction resultsJ .,These observations are in good qualitative agreement with the X - ray diffraction resultsJ .,5354
+bond valence equations also suggested that it is Na - Na,"Mazza , ' degree on the basis of bond valence equations also suggested that it is Na - Na hops that are more probable .",5355
+contour,"The contour diagram in Figure appears similar to those given by Kohler and Shulz ' > "" in their X - ray diffraction studies .",5356
+ray diffraction studies .,"The contour diagram in Figure appears similar to those given by Kohler and Shulz ' > "" in their X - ray diffraction studies .",5357
+contour plot .,But in this region no island corresponding to a local maximum in density is seen in the contour plot .,5358
+MD trajectory of,Figure shows an MD trajectory of Na + ion traversing from the Na to Na site .,5359
+Boltzmann constant .,The free energy where T is the temperature in Kelvin and X is the Boltzmann constant .,5360
+NMR studies evidence for the presence of mid - Na,"Cherkaoui et al "" found in their NMR studies evidence for the presence of mid - Na site between Na and Na .",5361
+"ray diffraction studies prior to those by Boilot et al . ""","However , none of the X - ray diffraction studies prior to those by Boilot et al . """,5362
+"ray diffraction results of Boilot et al ' For example , the sum of the","Many of the results are in excellent agreement with the X - ray diffraction results of Boilot et al ' For example , the sum of the sodium occupaney at the Na and mid - Na site add up to unity .",5363
+"Agrawal , D . K . ; McKinstry , H . A . ; Perrotta , A . J . J .","Hazen , R . M . ; Finger , L . W . ; Agrawal , D . K . ; McKinstry , H . A . ; Perrotta , A . J . J .",5364
+"Agrawal , D . K . J . Mater .","Lenain , G . E . ; McKinstry , H . A . ; Alamo , J . ; Agrawal , D . K . J . Mater .",5365

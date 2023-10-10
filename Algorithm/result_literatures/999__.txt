@@ -1,0 +1,80 @@
+The NASICON (sodium super ionic conductor) based Na3V2(PO43/Ag + graphene (NVP/Ag + G)was successfully synthesized through a sol–gel route using a silver nitrate and graphene as araw material.
+
+The effects of the physical and electrochemical properties of the NVP/Ag + G composites have been evaluated with X-ray diffraction (XRD), scanning electron microscopy (SEM),Raman spectroscopy, and electrochemical measurements.
+
+ The graphene and Ag significantly influenced the morphology, structure and electrochemical performance of the Na3V2(PO43 material.
+
+Inthe electrochemical measurement, the (NVP/Ag + G) electrode showed the discharge capacity of102 mAh g−1 at 0.1 C rate, which was higher than the pristine Na3V2(PO43.At a current rate of5 C, it still exhibits the discharge capacity of 73 mAh g−1 and the capacity retention of 71.6%.
+
+Theresults of higher electrochemical performance of the NVP/Ag+G composites are mainly attributedto the synergetic effect of the graphene and the silver particles.
+
+Lithium ion batteries (LIBs) have been widely used formany application such as mobile electronics and electricalvehicles.
+
+ Many efforts have been focusing on developing the new cathode material for the LIBs, in order to alternate the cobalt-based oxide materials, because the highcost and toxicity of cobalt hinder the use in large scaleapplications.
+
+In an effort to search for alternative cathodematerials for LIBs, the lithium metal phosphate has beenregarded as good candidate because of the high capacity,electrochemical stability, low-cost, and high-safety for thecathode materials.
+
+However, these materials still contain the lithium ions as an ion conductor.
+
+Therefore, ifthe lithium reserves reduce, it’s hard to lower the priceof the LIBs further.
+
+If the non-lithium containing composite could be commercialized as a cathode material,a large-format battery easily penetrates to the market.
+
+Alternatively, the sodium ion batteries (SIBs) have beenregarded as another power source because of the abundance and low cost of sodium reverses.
+
+ Up to now,the NASICON (sodium super ion conductor) structureswhich is composed of corner-shared MO6 (M = transitionmetal) octahedral and XO4 (x = P, Si, and etc.) tetrahedral have been considered as the promising cathodematerials for the SIBs due to the high ion mobility andstructural stability.
+
+Among the cathode materials, theNa3V2(PO43 (NVP) has shown great potential for SIBsdue to the open framework with highest ionic mobility.
+
+The rhombohedral NVP shows the two voltage plateaus at3.4 V and 1.6 V versus Na+/Na, related to the redox couple of V3+/V4+ and V3+/V2+, which give the theoreticalcapacity of 117 and 50 mAh g−1, respectively.
+
+The existence of two voltage plateaus can be allowed to use bothanode and cathode in symmetric cell depending on thevoltage window used.
+
+Lim et al.has reported two crystallographic Na sites in the NVP, of which the Na-1 siteremains totally occupied with one Na ion while Na-2 siteis active when the sodium content goes from Na3V2(PO43to NaV2(PO43.17 Recently, the carbon coated NVPs withLi metal as an anode for a hybrid-ion battery system wasreported.
+
+And its specific capacity was about 114 mAhg−1in the voltage range of 2.5–4.6 V with voltage plateauat 3.7 V.
+
+The only two-thirds of the Na+ (or Li+can be inserted/extracted from the NASICON frameworkbecause the extraction of the third Na+ (or Li+ ions arekinetically difficult due to the end-member of V2(PO43and the consumption of higher energies associated withthe V4+/V5+ redox couple.
+
+In addition, because of theintrinsic low electrical conductivity of NVP, many effortshave been reported to overcome this problem.
+
+ Conductive coating (e.g., carbon) and composite with metalparticle have been employed to improve the electrical conductivity of the NVP and thus improving the electrochemical performance.
+
+The graphene, which is a single sheet of carbon atomspacked in a hexagonal lattice has a lot of advantages asan additive because of the outstanding electrical conductivity, ultra high surface area, good mechanical strengthand chemical stability.
+
+Graphene has been used as theconducting support for olivine-based such as LiFePO4 orLi3V2(PO43 batteries with negligible capacity fading evenafter several hundreds of charge/discharge cycles.
+
+TheNVP/graphene composite was also reported as cathodematerials for the SIBs.
+
+However, no research is reportedon the cathode materials using the graphene and Ag particles for a Li/Na hybrid-ion battery.
+
+In our previous study,the LVP with only LVP showed poor improved electrochemical performance.
+
+So, we concluded that graphenewas agglomerated in LVP during sintering process.
+
+Thus,we have tried to prohibit the agglomeration of graphenematerials during the sintering process by using the Agnanoparticles.
+
+In this study, we firstly presented a facile synthesis ofNVP/Ag+G electrode as the cathode materials for hybridion battery system to improve the electrochemical performance of the pristine NVP.
+
+The NVP/Ag+G compositeswere applied as cathode material for Li/Na hybrid-ion battery with lithium anode and lithium containing electrolyte.
+
+The theoretical capacity of NVP was 118 mAh g−1, whichtwo Na+ ions can be reversibly extracted/inserted from theNASICON framework.
+
+The graphene and Ag have significantly influenced their morphology and electrochemicalperformance.
+
+The NVP/Ag+G composites led to the highspecific capacity, rate capability and cycle performancecompared with the pristine NVP.
+
+We have successfully synthesized the pristine NVP andNVP/Ag+G composites with smaller particle size througha sol–gel route.
+
+The graphene and Ag have significantlyinfluenced the morphology, structure and electrochemicalperformance.
+
+The NVP/Ag + G composites was used ascathode material for a Li/Na hybrid-ion battery and delivered the high specific capacity, rate capability and cyclingstability, which is attributed to the improved electronicconductivity through the synergetic effect of the grapheneand Ag.
+
+ The discharge capacity of the NVP/Ag+G delivered 102 mAh g−1 at 0.1 C in the potential range of 2.5–4.6 V, which is higher than that of the pristine NVP.
+
+TheCV and EIS measurements also showed that the electricalkinetic behavior was improved, which was leading to theenhanced electrochemical performances of the NVP/Ag+G composites.
+
+The facile route may provide the newproduction method for a large scale of the high power, safeand long cycle life cathode materials for hybrid lithiumion batteries.
+
+The non-Li containing of NVP/Ag +G composite can be considered as a promising cathode materialsfor a Li/Na hybrid-ion battery system.
+

@@ -1,0 +1,129 @@
+Elimination of active species crossover in a room temperature, neutral pH, aqueous ﬂow battery using a ceramic NaSICON membrane Eric Allcorn∗, Ganesan Nagasubramanian, Harry D.
+Flow batteries are an attractive technology for energy storage of grid-scale renewables.
+However, performance issues related to ion-exchange membrane (IEM) fouling and crossover of species have limited the success of ﬂow batteries.
+In this work we propose the use of the solid-state sodium-ion conductor NaSICON as an IEM to fully eliminate active species crossover in room temperature, aqueous, neutral pH ﬂow batteries.
+We measure the room temperature conductivity of NaSICON at 2.83–4.67 mS cm−1 and demonstrate stability of NaSICON in an aqueous electrolyte with conductivity values remaining near 2.5 mS cm−1 after 66 days of exposure.
+Charge and discharge of a full H-cell battery as well as symmetric cycling in a ﬂow battery conﬁguration using NaSICON as an IEM in both cases demonstrates the capability of the solid-state IEM.
+Extensive analysis of aged cells through electrochemical impedance spectroscopy (EIS) and UV–vis spectroscopy show no contaminant species having crossed over the NaSICON membrane after 83 days of exposure, yielding an upper limit to the permeability of NaSICON of 4 × 10−10 cm2 min−1. The demonstration of NaSICON as an IEM enables a wide new range of chemistries for application to ﬂow batteries that would previously be impeded by species crossover and associated degradation.
+The growth of renewable energy sources such as wind and solar has led to a need for large scale energy storage to accommodate the incorporation of these intermittent energy sources into the grid in a meaningful way.
+Flow batteries are an attractive and versatile technology to meet grid energy management needs due to their uniquecapability to decouple power and energy considerations in design, their enhanced safety relative to other battery systems, and their extremely long cycle life that reduces the amortized cost of storage on such systems [1–4].
+Flow batteries rely on active species that are in a liquid phase or are dissolved in a supporting liquid electrolyte, allowing storage of the active materials in external tanks where they can be pumped through∗ Corresponding author.
+This imbalance requires maintenance in the form of electrolyte re-balancing and if left unaddressed can result in a reduction of deliverable capacity from the cell and osmotic pressure diﬀerence across the IEM that can cause pumping issues or damage to the membrane [12–14].
+In addition to these performance and maintenance issues, VRB's also suﬀer shortcomings through the use of toxic V2O5 active material, corrosive sulfuric acid electrolytes, expensive functionalized IEMs, and expensive vanadium raw materials [5,6,10,15].
+Schematic of a traditional ﬂow battery in which liquid catholyte and anolyte are pumped from external storage containers through the electrochemical conversion cell.
+It's this external storage of active species that enables the decoupling of power delivery and energy storage capability of ﬂow batteries, oﬀering greater ﬂexibility in system design and easy scalability to very large formats.
+These liquid-based active materials also mean that materials stresses and resulting degradation eﬀects that build up over time and often shorten the life of solid state electrode materials are not present in ﬂow battery active materials.
+As such, the theoretical cycle life of many ﬂow batteries is extremely long [1–3].
+The liquid anolyte and catholyte in ﬂow batteries are composed of redox active species which, when pumped through the battery cell stack, can be oxidized or reduced to facilitate the charge or discharge of the battery.
+During discharge, for example, the redox-active anolyte species will be oxidized while the catholyte is reduced, with electron transfer occurring through the external circuit, delivering electrical power.
+To balance this transfer of electrical charge from the anolyte to the catholyte, a charge compensating ion will ﬂow between the anolyte and catholyte through an ion-exchange membrane (IEM).
+This membrane must serve the dual role of selectively allowing transport of counter-ion across the cell interface while also physically separating the diﬀerent redox active species of the catholyte and anolyte [5–7].
+One of the biggest factors restricting the wide scale application of ﬂow batteries – active species crossover – is heavily related to the IEM.
+Many investigated chemistries for ﬂow batteries suﬀer from a deﬁciency in IEMs that can selectively allow for counter-ion ﬂow without active species crossover [5–8].
+When an active species crosses over the IEM, the contamination leads to both a loss of eﬃciency and a gradual degradation of the active solution with continued cycling, signiﬁcantly shortening the eﬀective battery life [5,8] The iron-chromium system, for example, was one of the earliest developed and most heavily studied redox ﬂow battery chemistries and though it paved the way for much future work in the ﬁeld, iron-chromium technology never realized much success due to persistent issues with species crossover and membrane fouling [5,8,9].
+The current state-of-the-art and most widely employed redox ﬂow battery chemistry is the vanadium redox ﬂow battery (VRB), which overcomes the species crossover issue by utilizing the same electroactive vanadium compound in both the catholyte and anolyte solutions [8,10,11].
+This is enabled by the four stable oxidation states of vanadium, allowing for an anolyte of V2+/3+ and a catholyte of V4+/5+.
+Whenever these active species crossover the IEM, which they inevitably do, it simply causes a reduction in the battery eﬃciency and state-of-charge balance issues but not degradation of the active material because it is chemically indistinguishable.
+Despite thisIEMs as currently employed in ﬂow batteries are typically microporous polymer membranes with hydrophobic backbones for mechanical durability and hydrophilic side chains or termination groups that are functionalized to allow for selectivity in the charge and/or size of the species that can pass through them [5,7].
+Functionalized IEMs can be either cation or anion exchange membranes to facilitate the ﬂow of, respectively, positively charged or negatively charged ions.
+Most IEMs in ﬂow batteries are cationic proton conductors that allow for the ﬂow of small, positively charged H+ ions as the charge compensating ion.
+However, many active species are also positively charged and as such are more likely to penetrate cation conducting IEMs.
+One of the more widely employed polymer IEMs, and the one utilized in VRBs, is DuPont's commercially available Naﬁon.
+Naﬁon is a perﬂuorosulfonic acid polymer membrane composed of a Teﬂon backbone with sulfonic acid functional groups to allow for the transport of H+ ions.
+Naﬁon has several attractive qualities that have led to its widespread adoption, including high proton conductivity and chemical stability.
+However, it is also selectively permeable to water, suﬀers from high crossover contamination at 1.94 × 10−4 cm2 min−1), and is costly.
+measuredIt seems imperative that in order to enable new ﬂow battery chemistries other than vanadium, eﬀort must be focused to eliminate the crossover of active species through the IEM in ﬂow batteries.
+As such, we propose the use of the solid-state sodium super ionic conductor (NaSICON) as a zero crossover IEM for a room temperature, neutral pH, aqueous ﬂow battery.
+With the use of a solid-state conductor as an IEM the method of ion conduction involves the solid IEM uptake of the counter ion, in this case Na+, from solution into the solid conduction framework where it is transported across the membrane and then released into the solution on the other side.
+This is fundamentally different from the porous polymer mechanism of ion-conduction – which relies on liquid electrolyte for transport of the counter ion through membrane pores – and serves to realize the previously elusive goal of a crossover free IEM.
+The utilization of solid state conduction also isolates the solvent on each side of the ﬂow battery such that diﬀerent supporting electrolytes can be utilized for catholyte and anolyte solutions.
+This eﬀective isolation is demonstrated in a study by Senthilkumar et al. in which two highly incompatible electrolytes in the form of metallic sodium and an aqueous catholyte are eﬀectively separated and cycled using a NaSICON separator.
+Among solid-state ion conductors NaSICON, with nominal formulation Na3Zr2Si2PO12, is uniquely suited for this application due to its very high room temperature conductivity and stability in a nearneutral water environment, both of which are also conﬁrmed experimentally in this study [18,19].
+A hybrid ﬂow battery utilizing a solid state IEM of β’’ alumina was recently published in a system employing an aqueous catholyte.
+In that case the solid-state conductor demonstrated of ∼1 × 10−4 mS cm−1, which degraded severely under exposure to the aqueous catholyte to ∼ 1 × 10−6 mS cm−1 after two months.
+Comparatively, our work here shows that NaSICON retains a conductivity of ∼1 × 10−3 mS cm−1 after two months of aqueous electrolyteroom temperatureconductivityinitialJournal of Power Sources 378 (2018) 353–361exposure.
+As such, the use of NaSICON should yield improvements in both conductivity and stability, though a neutral pH was adhered to in both catholyte and anolyte solutions to minimize corrosion.
+Because of the signiﬁcance of species crossover in ﬂow batteries, there is a dearth of viable active species that ﬁt the needs of the crossover-free system: near-neutral pH, high solubility, long term stability, and high reversibility.
+As such, our crossover-free system is tested using two known, but non-ideal redox active iron coordination complexes as active species: iron bipyridyl (Fe-bpy) as the catholyte and iron ethylenediaminetetraacetic acid (Fe-EDTA) as the anolyte.
+These two couples were selected for their commercial availability, low toxicity, moderate stability, near-neutral pH, and redox potentials that would deliver a full cell of approximately 1.0 V.
+The discharge reactions of our proposed full cell are shown in Equation (1) through (3) below.
+Cathode Fe bpyAnode Na Fe EDTAOverall Fe bpyThis proposed battery underwent electrochemical evaluation to determine the capability of NaSICON to operate as an IEM.
+The cell constituents were also subjected to electrochemical and spectroscopic evaluation to measure for the presence of the opposing complex, testing whether a solid-state conductor like NaSICON could truly eliminate active species crossover.
+In addition to demonstrating electrochemical performance in a full H-cell, NaSICON was assembled into a symmetric cell ﬂow battery conﬁguration to evaluate the electrochemical cycling behavior of the NaSICON-enabled cell.
+Because redox couple stability was of more importance than redox potential for the symmetric cell, a well-known redox couple of ferrocyanide/ferricyanide was selected for the ﬂow cell assembly.
+The reactions of the symmetric cell components are shown in Equation (4) below.
+Symmetric Cell Fe CNThe ﬂow cell shows that the NaSICON can function in a ﬂow conﬁguration with high solution concentration and high current density while retaining performance over several cycles.
+While solid-state conductors have been employed in hybrid ﬂow systems and high temperature battery conﬁgurations like sodium-sulfur or sodium-NiCl2 (zebra batteries), this is the ﬁrst time a room temperature, fully aqueous ﬂow battery system has been demonstrated utilizing a non-porous ceramic as the IEM.
+This not only oﬀers a viable path to eliminate a persistent shortcoming in ﬂow batteries but opens the door for a wide range of new chemistries that could oﬀer advantages in cost, safety, and performance and enable legitimate penetration of ﬂow batteries into the large scale energy storage market.
+Sintered ceramics were measured to have a > 99.5% theoretical density with 0% open porosity.
+The IEMs utilized in this publication are cylindrical discs of thickness 1.1 mm and diameter 2.54 cm.
+Scanning electron microscopy images were obtained on a Zeiss Supra 55VP scanning electron microscope (SEM) in secondary electron imaging mode at 20 kV.
+The conductivity of the purchased NaSICON ceramic was measuredusing electrochemical impedance spectroscopy (EIS) with a Solartron Instruments 1287 potentiostat and 1260 impedance analyzer.
+The material was tested in two separate and complimentary conﬁgurations.
+In the ﬁrst conﬁguration the surface of a NaSICON disc was clad with gold to enable eﬀective electrical contact with the testing electrodes and analyzed with a 10 mV amplitude and frequency range from 0.5 Hz to 500 kHz.
+A blank test was also conducted to account for impedance contribution from system hardware and this value was subtracted from the experimental results.
+In the second conﬁguration an H-cell was assembled in which two platinum foil electrodes were separated by an aqueous electrolyte of 0.4 M Na2SO4 and a NaSICON membrane.
+In this conﬁguration the AC amplitude was 10 mV and the frequency range was from 1 Hz to 100 kHz.
+The contribution of NaSICON to the system resistance was obtained by comparison to a similar H-cell with no NaSICON membrane and known geometric features, which enabled the calculation of the ceramic conductivity.
+Ferrous bipyridyl (Fe-bpy) catholyte is prepared by ﬁrst dissolving 10 mM of FeSO4 (Fisher Chemical) in 18.2 MΩ de-ionized water.
+The complexing ligand of 2,2′ bipyridyl (Sigma Aldrich, > 99%) is then added to the solution at a ratio of Fe:L of 1:3 and the solution is stirred at room temperature for 1 h to ensure all the materials are fully dissolved and the iron is fully complexed.
+The resulting [Fe(bpy)3]2+ complex has a dark, vibrant red color.
+Ferric ethylenediaminetetraacetic acid (Fe-EDTA) anolyte is prepared similarly by ﬁrst dissolving 10 mM of FeCl3 (Alfa Aesar, 98%) in de-ionized water then adding the disodium salt of EDTA (Alfa Aesar, 99%) as the complexing ligand at a Fe:L ratio of 1:1 followed by mixing at room temperature for 1 h.
+The resulting Fe-EDTA complex has a light yellow color.
+After dissolution and complexation of the diﬀerent iron-ligand complexes, the active metal species is diluted with the addition of de-ionized water down to a concentration of 4 mM and Na2SO4 is added to a concentration of 0.4 M to act as solution.
+Ferrocyanide and ferricyanide solutions were prepared, respectively, by dissolving 100 mM of the salts Na4Fe(CN)6 and K3Fe(CN)6 in 18.2 MΩ de-ionized water along with 0.4 M Na2SO4 as the supporting electrolyte.
+Cyclic voltammetry (CV) was performed on the synthesized electrolyte samples as well as aged samples from assembled full cells using Solartron Modulab XM potentiostat.
+The voltage range was dependent upon the sample tested but ranged from +1.5 V to −1.0 V versus a reference electrode of Ag/AgCl in 3 M NaCl with working and counter electrodes of glassy carbon.
+Scan rates were varied from 10 to 200 mV s−1. Static full cell testing was carried out by assembling Hcells in which the catholyte and anolyte were separated by an ion conducting sheet of NaSICON with an interfacial surface area of 1.13 cm2 in the assembled conﬁguration.
+Testing was carried out using electrodes of both platinum and carbon foam and a Solartron Instruments 1287 potentiostat.
+The cells were assembled in the discharged state, with iron in the catholyte at the 2 + oxidation state and iron in the anolyte at the 3 + oxidation state.
+A charging current of 100 μA and a discharge current of 20 μA were used during cell cycling and a scan rate of 5 mV s−1 was used for full cell CV.
+Baseline spectrum were gathered from prepared electrolytes of 4 mM Fe-bpy or Fe-EDTA, both in 0.4 M Na2SO4, with dilutions down to 4 μM of the respective iron complex for sensitivity analysis.
+Aged electrolyte samples from full H-cell assemblies were also tested in a similar fashion to detect crossover of opposing active species.
+A laboratory scale redox ﬂow battery (RFB) was operated as a symmetric cell with a ferrocyanide catholyte and ferricyanide anolyte at room temperature, and two peristaltic pumps (Masterﬂex L/S) were used to pump the anolyte and catholyte at 2.5 mL/min from polypropylene reservoirs through Viton tubing and into a 2.9 cm2 active area 3D printed cell.
+A Solartron 1287 potentiostat/galvanostat was used to apply a 25 mA charge/discharge current across two carbon felt electrodes (Alfa Aesar, 0.25 in nominal thickness) situated on opposing sides of the NASICON, and compressed to 80% of their original thickness.
+This image reveals a dense crystal structure comprising NaSICON grains approximately 1 μm across.
+Also visible is a glassy inter-grain phase, evident as dark gray features in the microstructure (these are not pores) and zirconia, visible as white particles.
+These features are consistent with previously characterized NaSICON materials.
+A small closed pore is visible as a black depression in the top right corner of the image.
+We measured the ionic conductivity of NaSICON through EIS impedance measurements in two separate conﬁgurations, discussed in detail in our experimental procedure.
+The measured impedance curves for the solid-state conﬁguration are shown in Fig.2b along with a linear ﬁt, the x-intercept of which yields the ohmic resistance encountered by Na+ ions ﬂowing through the NaSICON.
+The results of this measurement show a room temperature conductivityof 2.83 mS cm−1, increasing to 9.11 mS cm−1 at an elevated temperature of 60 °C.
+However, in an actual ﬂow battery the Na+ ions will not simply be ﬂowing through the NaSICON, they must ﬁrst diﬀuse through the liquid Na2SO4 electrolyte to the surface of the NaSICON, where they must cross the solid/liquid interface before ﬂowing through the NaSICON and eventually cross the interface on the opposite side back into the liquid electrolyte.
+This solid/liquid interfacial ion-transfer process can contribute a signiﬁcant resistance to ion ﬂow.
+In order to account for any interfacial resistance the conductivity of NaSICON was also measured in a liquid H-cell conﬁguration.
+The impedance curve for this test conﬁguration can be seen in Fig.2c, where the resistance contribution of NaSICON is determined to be 18.95 Ω, which converts to a conductivity of 4.67 mS cm−1. This value agrees relatively well with that measured in the solid-state conﬁguration and demonstrates that interfacial resistance is not signiﬁcant in this system.
+This apparently negligible interfacial resistance is quite interesting and the mechanism of Na+ uptake from a liquid electrolyte into the NaSICON crystal structure is an intriguing area of investigation we are looking into for future studies.
+While the ionic conductivity values for NaSICON are electrolyte (∼40 mS cm−1) they are quite impressive when compared to other solid-state ion conductors like β’’ alumina.
+In addition, while these values mean the NaSICON membranes will have issues supporting high current loads, they are on par with the organic electrolytes of lithiumion batteries, systems that have been proven capable of delivering signiﬁcant power levels.
+low in comparison to theaqueous Na2SO4Another key requirement for the feasibility of applying NaSICON is its stability in the aqueous media of the ﬂow battery.
+The elimination of crossover could enable greatly extended cycle life in the active species of a ﬂow battery, but if the IEM itself is not stable then the life of the system as a whole is compromised.
+As a measure of stability, the conductivity of a NaSICON disc was tested after submersion in 0.4 MFig.
+The testing was carried out in the same liquid H-cell conﬁguration used above and the resulting conductivity of the ceramic ﬁlm is shown in Fig.
+After a period of 18 days of exposure, the conductivity has further degraded to 2.52 mS cm−1. However, this appears to be a stabilized value as after an additional 48 days of electrolyte exposure, for a total time of 66 days, the conductivity is essentially unchanged at a value of 2.81 mS cm−1. The ﬁtted line in Fig.
+In order to determine the expected operation of a battery composed of the two active species, the individual electrochemical performance of the active material solutions had to be measured.
+CV analysis was carried out on both species at concentrations of 4 mM in solutions with 0.4 M Na2SO4 as the supporting electrolyte and versus a reference electrode of Ag/AgCl in 3 M NaCl.
+In Fig.4a Fe-bpy is shown to have a current peak at +0.86 V under anodic sweep, corresponding to the oxidation of iron from Fe2+ to Fe3+, a change in the Fe-bpy complex from [Fe(bpy)3]2+ to [Fe (bpy)3]3+.
+This peak is shown to be reversible under cathodic sweep with a current peak at +0.80 V.
+The peak separation for Fe-bpy is measured as 59.7 mV at a sweep rate of 10 mV s−1. This is very near the theoretical value of 59 mV for a fully reversible one electron reaction and is measured to be independent of sweep rate.
+In addition, Fig.4b shows the anodic and cathodic peak currents to be linearly dependent to the square root of the sweep rate.
+These observations combine to conﬁrm the reversible nature of the Fe2+/Fe3+ couple in the iron bipyridyl complex.
+Ag/AgCl and a reduction peak atJournal of Power Sources 378 (2018) 353–361−0.1 V, the peak separation for Fe-EDTA is roughly 100 mV, higher than the theoretical for a fully reversible one electron reaction.
+In addition, the peak separation can be seen to increase dependent upon sweep rate, suggesting that the Fe-EDTA couple is only quasi-reversible.
+Fig.4d shows the structures the two tested complexes as well as th visual appearance of the prepared solutions.
+The open circuit potential (OCV) of a full cell composed of a Fe-bpy catholyte and a Fe-EDTA anolyte can be estimated to be 0.86 V based on the measured E1/2 potentials obtained via CV.
+When assembled in the discharged state, the catholyte is in its reduced form of [Fe(bpy)3]2+ while the anolyte is in its oxidized form of [Fe(EDTA)]−1. Upon charging the Fe-bpy is oxidized in concurrence with the reduction of the anolyte while during discharge the redox reactions are reversed.
+A stationary H-cell was assembled to perform proof of concept to the use of NaSICON ceramic as an ion-exchange membrane (IEM) in a model ﬂow battery cell and compared to predicted performance.
+After assembly in the discharged state the cell was galvanostatically charged at a current of 100 μA to a voltage of 1.2 V and subsequently galvanostatically discharged at 20 μA to a voltage of 0.5 V.
+The charging plateau for the full cell is at approximately 0.98 V while the discharge plateau is at approximately 0.84 V.
+These values agree with the predicted OCV of the full cell, with polarization from current ﬂow resulting in a relatively low voltage hysteresis of 140 mV and a calculated voltage eﬃciency of 85.5%.
+CV can conﬁrm the charge and discharge potentials in the full cell and observe any additional current peaks associated with the introduction of the NaSICON material to the cell.
+The peak potentials observed under CV for charging and discharging are, respectively, 0.98 V and 0.84 V, matching exactly to the values determined from galvanostatic cycling of the cell.
+These are the only two current peaks observed, suggesting there are no side reactions occurring in the cell between the introduced NaSICON ceramic and either of the active couples or supporting electrolyte over the measured voltage range of 0.4 V–1.2 V.
+These measurements verify the validity of the NaSICON IEM as the cell is able to be eﬀectively charged and discharged with minimal polarization and no detrimental reactions with the NaSICON membrane.
+This is a signiﬁcant observation because the solid state Na+ ion ﬂow through the NaSICON is suﬃciently fast and easy to support charge and discharge of the liquid cell without impacting the delivered voltage from the cell.
+To provide further electrochemical demonstration of the capability of NaSICON as an IEM, a laboratory scale RFB was assembled in a symmetric conﬁguration cycling ferro/ferricyanide on each side of the NaSICON membrane.
+Most ﬂow battery cell assemblies are designed for operation with polymer IEMs so a custom cell was 3D printed to conduct this test.
+In our symmetric conﬁguration, this ineﬃciency is observed on both sides of the cell, leading to our observed charge eﬃciency value of ∼98%.
+Therefore the capacity loss is attributed to the active material and not the IEM.
+

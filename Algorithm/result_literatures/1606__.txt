@@ -1,0 +1,77 @@
+A compact tubular sensor based on NASICON (sodium super ionic conductor) and CaMg3(SiO3)4 (Asbestos, acid washed A.R)-doped CdS sensing electrode was prepared for the detection of chlorine. 
+The sensing properties strongly depended on the sintered temperature of the sensing electrode materials. 
+The sensor using CaMg3(SiO3)4-doped CdS sintered at 600 °C gave excellent sensing properties to 1–10 ppm chlorine in air at 100–250 °C. 
+The sensitivity (slope) was 392 mV/decade at 200 °C. 
+And it showed a good selectivity to Cl2 against H2S, SO2, NO2, NH3, CH4 and CO. 
+Also it had speedy response kinetics to chlorine, the 90% response or 90% recovery time to 5 ppm chlorine was 20 s or 37 s, respectively. 
+The phase compositions and grain size of NASICON and CaMg3(SiO3)4-doped CdS were examined by means of X-ray diffraction (XRD). 
+On the basis of XPS analysis for Cl2-absorbed sensing electrode, a sensing mechanism involved the mixed potential at the sensing electrode was proposed.
+
+Chlorine is a kind of toxic gas, so that it is very important to exactly detect chlorine in the environment.
+At present, chlorine gas sensors with semiconductors, organic thin film and solid electrolytes type have been proposed. 
+Among these, a sensor fabricated from a solid electrolyte element has a evident advantage, because it provides highly selective sensitivity with a rapid and reproducible response. 
+For example, PbCl2, BaCl2, β-alumina, chlorine anion-and scandium(III) cation-conducting have been reported as candidates for the solid electrolyte.
+At the present work, we tried to construct a compact solid electrolyte chlorine sensor by combining NASICON prepared by sol–gel process with CaMg3(SiO3)4-doped CdS electrode.
+The sensing mechanism was also suggested by investigating the catalytic behavior of chlorine on CaMg3(SiO3)4-doped CdS.
+
+The NASICON material was prepared from ZrO(NO3)2, NaNO3, (NH4)2HPO4 and Si(C2H5O)4 by sol–gel process. 
+A sensor device was fabricated by using a small alumina tube. 
+A thick film of NASICON was formed on the outer surface of the alumina tube by dipping NASICON precursor paste prepared by sol–gel process many times and sintering at 900 °C for 6 h. 
+A couple of Au electrodes with mesh-shape were made on the two ends of the thick film of NASICON. 
+For forming the sensing electrode of the Cl2 sensor, CaMg3(SiO3)4-doped CdS paste was applied on an Au electrode, followed by sintering at 500, 600, 700 and 800 °C for 3 h, respectively. 
+The formation of single-phase NASICON and CaMg3(SiO3)4-doped CdS was confirmed by X-ray diffraction (a Rigaku wide-angle X-ray diffraction D/max rA, using Cu Ka radiation at wavelength λ = 0.1541 nm) analysis.
+
+Gas sensing properties of the sensor were measured by a conventional static mounting method. 
+The sample gases containing different concentration of Cl2 were obtained by diluting pure Cl2 with O2 (21%) and N2 (79%).
+When the Cl2 sensor was exposed to air or a sample gas at 100–250 °C, the electromotive force (EMF) was measured with a digital electrometer (Advanced, TR 8652).
+For investigating of the sensing mechanism of the Cl2 sensor, XPS (VG ESCA LAB MK II, Mg Kα, 10− 7 Pa) was utilized to analyze the absorbed ingredient on surface of CaMg3(SiO3)4-doped CdS before and after exposing to 100 ppm Cl2 at 200 °C for 15 h.
+
+XRD analysis was used to measure the grain size and phase compositions of NASICON nano-powder. 
+As shown in Fig. 1, NASICON was confirmed to have single phase of rhombohedral. 
+In addition, The crystallite size D was calculated according to the Debye–Scherrer's equation, provided in Eq. (1). 
+where B is the full width at half-maximum intensity (in radians) of a peak at an angle θ, K is a constant, depending on the line shape profile, λ is the wavelength of the X-ray source and D is the crystallite size. 
+The mean grain size of NASICON calculated with Debye–Scherrer equation was about 22 nm.
+
+XRD patterns of CaMg3(SiO3)4-doped CdS sintered at 500, 600, 700 and 800 °C were shown in Fig. 2 marked A, B, C and D respectively.
+XRD pattern, presented on Fig. 2A was confirmed to have mixed orthorhombic phase of Cd3O2SO4 and CdS. 
+For XRD pattern, presented on Fig. 2B, Cd3O2SO4 of single orthorhombic phase was observed. 
+However XRD pattern, presented on Fig. 2C and D. were observed to have the orthorhombic phase of Cd3O2SO4 and tetragonal phase of Cd3SiO5. 
+The mean grain size of CaMg3(SiO3)4-doped CdS calculated with Debye–Scherrer equation was about 16, 23, 25 and 34 nm for A, B, C and D, respectively. 
+It became larger with increasing calcination temperature.
+
+The dependence of EMF on the Cl2 concentration for the sensing device attached with A, B, C and D was shown in Fig. 3. 
+For all devices, the EMFs were almost proportional to the logarithm of chlorine concentration, but the device sintered at 600 °C gave the largest sensitivity (slope) to Cl2. 
+The EMF of the device attached with B was perfectly linear to the logarithm of Cl2 concentration, shown in Fig. 4, and the slopes were −59, −208, −392, and −303 mV/decade at 100, 150, 200, and 250 °C, respectively. 
+With the increasing operating temperature, the slope tended to increase. 
+At 200 °C, the largest value of the slopes occurred, but above 200 °C the slope tended to decline. 
+This could arise from the consumption of Cl2 when it diffused through the CaMg3(SiO3)4-doped CdS electrode layer at high temperatures.
+The cross-sensitivities of the device attached with B to other various gases, i.e. SO2, H2S, NO2, NH3, CH4 and CO each 100 ppm in air, were measured at 200 °C and the results obtained are shown in Fig. 5. 
+The cross-sensitivities were rather small or almost none, indicating its excellent Cl2 selectivity.
+The device attached with B, gave speedy response kinetics to dilute Cl2 too. 
+Fig. 6 showed the 90% response and recovery transients to 5 ppm chlorine were 20 s and 37 s, respectively.
+
+For explaining the sensing behavior of the device, XPS was applied for measuring the chemical shift of the related elements (e.g., Cd3d, O1 s, S2p and Cl2p) on the surface of B, before (sample 1) and after (sample 2) exposure to 100 ppm Cl2 at 200 °C for 15 h, as shown in Fig. 7. 
+As a result, before exposure to Cl2, the chemical binding energies of Cd3d, O1 s, and S2p were 405.15, 531.65 and 168.6 eV respectively.
+And Cd3d, O1 s, and S2p belonged to Cd3O2SO4 based on the XPS and XRD patterns. 
+However, the chemical binding energy of Cd3d was 405.65 eVafter exposure to Cl2, Cd3d belonged to CdCl2 or CdSO4, and the chemical binding energy of O1 s was 532.15 eV. 
+The chemical binding energy of S2p was . 
+And the strongest 168.8 eV, so that S2p belonged to SO4 peak of Cl2p of sample 2 appeared at 198.9 eV which accorded with that of Cl− 1, here Cl− 1 belonged to CdCl2.
+the device using NASICON and CaMg3 (SiO3)4-doped CdS electrode gave a good linear relationship between EMF and the logarithm of the concentration of Cl2 as switching on dilute Cl2. 
+G.Lu et al. have established a sensing mechanism involving mixed potentials for a group of sensors combining stabilized zirconia with oxide electrodes, such as NOx, H2, CO sensors. 
+Therefore, a similar sensing mechanism would be attempted to apply for the present devices.
+The device could be expressed with the following electrochemical cell:
+Cl2 in air; Cd3O2SO4; AujNASICONjAu; Cl2 in air.
+According to the result of XPS analysis, we considered that a couple of electrochemical reactions (3) and (4) happened at the sensing electrode simultaneously. 
+These two electrochemical reactions constructed a local cell at the sensing electrode and arrived at a dynamic equilibrium when the rates of the reactions were equal to each other, and the electrode potential at the sensing electrode was the mixed potential. 
+By treating Eqs. (3) and (4) with the same process described in, we could obtain the following equation. 
+Here CO2 and CCl2 are the concentrations of O2 and Cl2, and E0, m and n are the constants, F the Faraday constant, R the gas constant and T the temperature, α represent transfer coefficient for reactions (3) or (4), respectively. 
+EM is the potential of the sensing electrode at the equilibrium state called a mixed potential. 
+When the concentration of oxygen is fixed, the mixed potential changes linearly with the logarithm of the concentration of Cl2, as described in Eq. (5). 
+Eq. (6) could explain the experimental result very well.
+
+A compact solid electrolyte sensor using a thick film of NASICON and a thin layer of CaMg3(SiO3)4-doped CdS electrode had been examined to show good sensing properties to dilute Cl2. 
+The sensitivity (slope) was −392 mV/decade, and the 90% response and recovery transients to 5 ppm chlorine was 20 s and 37 s, respectively. 
+In addition, the sensor also showed excellent selectivity to Cl2 against the disturbing gases. 
+XPS analysis of the CaMg3(SiO3)4-doped CdS sintered at 600 °C exposed to Cl2 at 200 °C testified the existence of Cl− 1 on the CaMg3(SiO3)4-doped CdS. 
+The sensing mechanism related to mixed potential could explain the sensing behavior of the sensor.
+

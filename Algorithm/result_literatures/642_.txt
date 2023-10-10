@@ -1,0 +1,133 @@
+Preventing structural degradation from Na3V2(PO4)3 to V2(PO4)3: F-doped Na3V2(PO4)3/C cathode composite with stable lifetime for sodium ion batteries Yanjun Chena,b, Youlong Xua,b,∗, Xiaofei Suna,b,∗∗, Baofeng Zhanga,b, Shengnan Hea,b, Long Lia,b, Chao Wanga,b a Electronic Materials Research Laboratory, Key Laboratory of the Ministry of Education & International Center for Dielectric Research, Xi'an Jiaotong University, Xi'an, China b Shaanxi Engineering Research Center of Advanced Energy Materials & Devices, Xi'an Jiaotong University, Xi'an, ChinaH I G H L I G H T S  129) F-doped Na3V2(PO4)3-xFx/C samples are synthesized by solid-state reaction method.
+NASICON-type F-doped Na3V2(PO4)2.93F0.07/C (F-0.07-NVP/C) composite is synthesized by a solid-state reaction method.
+F-doping can restrain the structural degradation from Na3V2(PO4)3 to V2(PO4)3 and enhance the structural stability.
+Meanwhile, it can decrease the particle size to diminish the pathway of Na+ diﬀusion, which can increase ionic conductivity eﬃciently.
+The kinetic behavior is signiﬁcantly improved and it is beneﬁcial to reinforcing the electrochemical performance of F-doping composites.
+Compared with UndopedNVP/C sample, F-0.07-NVP/C composite delivers a 113 mAh g−1 discharge capacity at 10 mA g−1, which is very close to the theoretical capacity (117 mAh g−1).
+As for cycle performance, a reversible capacity of 97.8 mAh g−1 can be obtained and it retains 86% capacity after 1000 cycles at 200 mA g−1. F-0.07-NVP/C composite presents + (2.62 × 10−15 cm2s−1), two orders of magnitude higher than the undoped sample the highest DNa (4.8 × 10−17 cm2s−1).
+This outstanding electrochemical performance is ascribed to the synergetic eﬀect from improved kinetic behavior and enhanced structural stability due to F-doping.
+Hence, the F-doped composite would be a promising cathode material in SIB for energy storage and conversion.
+Over the past few decades, there has been increased attention to the renewable energy devices based on electrochemical energy storage (EES) technology due to their high round-trip eﬃciency, and outstanding energy characteristics to meet the energy shortage challenge.
+With the signiﬁcant development of lithium-ion battery (LIB)technologies, they have been playing important roles in various ﬁelds such as electric vehicles, portable computers and so on all over the world.
+However, the inhomogeneous geographical distribution, extraordinarily limited storage content and rough recycling of lithium resources are obstacles for further large-scale production of LIB.
+Therefore, it is of great signiﬁcance to employ other energy storage systems as alternatives to LIB.
+However, there are still many challenges for the development of SIB because of the fundamental diﬀerences between sodium and lithium.
+The larger ionic radius of Na+ (0.98 Å vs.Li+ 0.69 Å) will lead to slower ion diﬀusion and larger unit cell volume change upon Na+ deintercalation, which usually generates poor kinetic properties.
+Fourier transform infrared (FT-IR) absorption spectra were analyzed by an FTIR-spectrometer (Nicolet iS10, Thermo Scientiﬁc) at room temperature.
+The particle sizes were measured by a zeta size analyzer (Nano-ZS90, Malvern).
+Thermogravimetric Analysis (TGA, Mettler-Toledo) were employed to analyze the weight percentages of carbon in every sample, respectively.
+Recently, sodium super ionic conductors (NASICON) cathode materials have been investigated for SIB due to their unique crystal structure sodium vanadium phosphate (Na3V2(PO4)3) is one of the most prospective cathode materials for SIB.
+It has been proved that Na3V2(PO4)3 can exhibit two voltage platforms at 1.6 V and 3.4 V vs.Na+/Na, related to V3+/V2+ and V4+/V3+ redox couples with theoretical speciﬁc capacities of 58.8 and 117.6 mAh g−1
+However, poor electrical conductivity and Na-ion diﬀusion mobility impede the improvement of electrochemical performance.
+Moreover, the moving disadvantage of large-size Na+ cannot be neglected when the intercalation/deintercalation of Na+ proceeds through the structure.
+Many studies have found that the signiﬁcant volume change because of the accommodation of Na+ usually leads to structural degradation of Na3V2(PO4)3 and subsequent capacity loss, resulting in poor rate and cyclic performance.
+To cover the shortages, nano-crystallization, conductive layers-coating and dopants introduction can promote the kinetic performance in both LIB and SIB tremendously.
+Anion-doping is a feasible method to enhance the kinetics and cyclic stability, which is widely used in LIB .
+However, the eﬀects of anion substituting on the structure stability and electrochemical performance of Na3V2(PO4)3 composite have been rarely explored.
+Fluorine doping is a signiﬁcant approach to improve the electrochemical performance in various cathode materials in LIB ﬁeld.
+In this work, we demonstrate that F-doped Na3V2(PO4)3-xFx/C composites can be promising cathode materials due to the advantages of favourable eﬀects on electrochemical properties related to LIB.
+Compared to undoped Na3V2(PO4)3/C sample, the F-doped Na3V2(PO4)3-xFx/C composites show outstanding rate and cyclic performance, which results from superior structure stability and enhanced electrochemical properties.
+Moreover, the discovery of structural variation during intercalation/ deintercalation for Na3V2(PO4)3 cathode material has been thoroughly investigated for the ﬁrst time.
+Material preparationWe adopted a convenient carbon-thermal reduction method to synthesize the Na3V2(PO4) 3-xFx/C samples, where x = 0,0.01,0.04 and 0.07. Analytical purity Na2CO3, NH4H2PO4, V2O5, NaF and C6H12O6 · H2O were used as starting materials.5 wt% excess C6H12O6 · H2O was added to ensure that the reducer was enough for the V3+/V5+ reaction in order to keep the stoichiometric ratio.
+These materials were mixed together and ball-milled in pure ethanol in stoichiometric proportion for 12 h.
+Then the mixed slurry were dried oﬀ at 80°Cfor 12 h, followed by preheated treatment at 450 °C for 4 h in an argon furnace.
+Subsequently, the mixture was heated at 700 °C for 6 h in argon atmosphere.
+The prepared pristine and doped samples containing 1%, 4%, and 7% ﬂuorine are abbreviated as Undoped-NVP/C, F-0.01NVP/ C, F-0.04NVP/C and F-0.07NVP/C.
+The working electrodes including 70 wt% active material, 20 wt% acetylene black and 10 wt% binder (PVDF) were dissolved in N-Methyl-2-Pyrrolidone (NMP) solvent and then mixed uniformly in a ball mill.
+A clean aluminum foil was acted as a substrate and the ﬁnal electrodes were vacuum dried at 120°Cfor 12 h.
+The loading mass of active species during the electrochemical evaluation is typically about 1.5–2.0 mg cm−2, and the electrode footprint area is 2.01 cm−1. The electrochemical performance of cells were tested on a LAND CT2001A battery test system (Wuhan, China)in the voltage ranges of 2.3–4.2 V vs.Na/Na+ at room temperature.
+Electrochemical impedance spectroscopy (EIS) and cyclic voltammetry (CV) were conducted by using a Versatile Multichannel Galvanostat 2/Z (VMP2, Princeton Applied Research).
+The amplitude is 5 mV and the frequency ranges between 10−2 and 105 Hz for the EIS.
+The scan rate was 0.1 mV s−1 and the voltage ranged between 2.3 V and 4.2 V for the CV.
+The electronic conductivity measurements were performed on a RTS-9 linear four-point probe system.
+All the XRD patterns of Na3V2(PO4)3-xFx/C (x = 0, 0.01, 0.04 and 0.07) samples can be indexed to R-3c space group and are in good agreement with the framework of a rhombohedral NASICON structure.
+The sharp peaks correspond to the high crystallinity for all samples.
+It is noteworthy that NaVP2O7 is detected as impurity phase in all samples but NaVO2 is existed only in F-doping samples.
+Moreover, the existence of NaVO2 in the F-doping samples is facilitated to the intercalation/deintercalation of Na+ because it has the layer structure for rapid migration of Na+.
+Our work indicates that the lattice parameters of samples decrease gradually with the content of F-doping, consistent with Zhong et al.
+The enlarged part indicates that the position of peak (024) shifts slightly to the larger angle gradually with the increase of F-doping content, which suggests that the Fdoping samples have less lattice parameter and interplanar spacing.
+Table 1 shows the unit cell parameters calculated from the indexed patterns.
+With the increasing content of F-doping, the volume of Na3V2(PO4)3-xFx samples declines slightly, which indicates that F-Table 1 Unit cell parameters in the R-3c space group for Na3V2(PO4)3-xFx samples.
+The lattice fringes correspongds to the well-crystallized structure.
+In addtion, the interplanar spacing of 0.371, 0.312, 0.463 nm coincide with the (113), (024), (110) planes in NASICON Na3V2(PO4)3. The carbon layer coated on the surface of Na3V2(PO4)2.93F0.07 particle is uniform and the thickness of the layer is around 3 nm, which is beneﬁcial for electron transport.
+Fig.4a shows the CV curves of all samples in the potential window of 2.3–4.2 V with a scanning rate of 10 mV s−1. All peaks can be attributed to the V3+/V4+ redox reaction, which causes the Na+ extraction and insertion during charging and discharging in the NASICON structure.
+The oxidation peak located at 3.55 V for all samples corresponds to the phase transformation from Na3V2(PO4)3 to NaV2(PO4)3. However, the peak which is supposed to be located at 3.4 V splits into two peaks in the reduction process.
+This may be due to the structural rearrangements arising from Na+ transport from Na1 site to Na2 site.
+Notably, the integral area and peak intensity of F-doped samples are larger and stronger than those of Undoped-NVP/C sample, which indicates that F-doping generates more capacities and better reversibility of Na+ diﬀusion.
+As seen in Fig.4b, CV curves of F-doped composites are slightly diﬀerent from that of Undoped-NVP/C sample after 100 cycles at 70 mA g−1. Compared to Fig.4a, the two reduction peaks become a syncretic one for all F-doped samples, suggesting that structural rearrangements are completed during the electrochemical process and the structures are under the stabilized condition.
+However, the Undoped-NVP/C sample still keeps in rearrangement after 100 cycles and this non-stabilized structure is unfavourable to Na+ diﬀusion.
+The electrochemical properties of Na3V2 (PO4)3-xFx/C (x = 0, 0.01, 0.04 and 0.07) are displayed in Fig.5. The electronic conductivities of all samples are measured by a RTS-4 linear four-point probe system.
+We observed a signiﬁcant improvement of electronic conductivities from Undoped-NVP/C to F-0.07-NVP/C, as shown in Fig.5a.
+This eﬀect may results from the decreased particle size by ﬂuorine substitution, which is beneﬁcial to the homogeneity of coated carbon layers.
+F-0.07-NVP/C composite exhibits the highest conductivity among the samples and the value is 4.53 × 10−3 S cm−1, considerably higher than that of Undoped-NVP/C sample (8.32 × 10−4 S cm−1).
+The exterior coated carbon layer and interior enhanced electron transport can facilitate the process of charging and discharging.
+Fig.5b reveals the initial galvanostatic (10 mA g−1) voltage proﬁles of all samples.
+The initial discharge capacity and coulombic eﬃciency of Na3V2 (PO4)3-xFx/C (x = 0, 0.01, 0.04 and 0.07) are 98.4, 109.5, 106.1, 113 mAh g−1 at 10 mA g−1 and 93.01%, 93.83%, 90.14%, 94.80% respectively.
+The speciﬁc capacity has been improved signiﬁcantly by F-doping.
+More importantly, the F-0.07-NVP/C composite exhibits a 113 mAh g−1 discharge capacity, which is close to the theoretical capacity (117 mAh g−1).
+This veriﬁes that F-doping can facilitate the insertion of Na+ from the beginning.
+The comparison of cycling performance of all samples at 70 mA g−1is displayed in Fig.5c.
+The ﬁrst ﬁve cycles are tested at 10 mA g−1 to activate the electrode materials.
+The F-0.07-NVP/C composite delivers a reversible capacity 107.6 mAh g−1 and retains 90.7% after 100 cycles.
+But for Undoped-NVP/C sample, it only presents a discharge capacity of 81.6 mAh g−1 with a relatively lower capacity retention of 90.4%.
+The insert of Fig.5c is the 100th voltage proﬁle of all samples.
+F-0.07-NVP/C sample has a prolonged platform at 3.4 V which indicates a suﬃcient V3+/V4 redox reaction.
+The peaks at 1185, 1051, 580 cm−1 represent the existence of P-O in PO4 tetrahedra and the vibration of chemical bonds V3+-O2is observed at 632 and 521 cm−1.
+In addition, it is notable that F-0.07-NVP/C sample has the sharpest peaks compared to other samples, suggesting the improved crystallinity of F-0.07-NVP/C composite.
+Moreover, The carbon content of all samples are 3.92 wt%, 4.46 wt%, 3.94 wt% and 2.69 wt% shown in Fig.S3. The excess carbon can serve as a favourable electron conductor to improve the electrochemical performance during charging and discharging process.
+SEM measurements were used to investigate the eﬀects of F-doping on the mophology of Na3V2(PO4)3/C, and the results are displayed in Fig.2. Comparison of the four pictures (a,b,c and d) indicates that the agglomerated and uneven mophology of undoped-NVP/C can be changed by F-doping.
+The particle sizes are smaller and the distribution is more unifom with the increase of ﬂuorine content.
+To obtain more speciﬁc values of particle size, the zeta size analyzer is used and the results are shown in Fig.2g.
+The average particle sizes of Na3V2 (PO4)3xFx/C (x = 0, 0.01, 0.04 and 0.07) composites are 757.5, 711.7, 608 and 409.9 nm respectively, which is consistent with the SEM results.
+The smaller particle size is, the shorter path Na+ will pass by.
+Shortening the distance of Na+ diﬀusion is an eﬃcient way to improve the electrochemical performance according to many studies in LIB ﬁeld.
+We can conclude that F-doping is favourable to improve the kinetics due to the reduced pathway of Na+ diﬀusion.
+Furthermore, EDX and mapping were conducted to conﬁrm the existence of ﬂuorine in F-doping samples.
+According to the EDX in Fig.2e and mapping images of F, C, Na, V, O and P elements shown in Fig.2f, ﬂuorine is successfully doped andY.
+Moreover, the F0.07-NVP/C sample still delivers a discharge capacity as high as 97.8 mAh g−1 and a capacity retention of 86% after 1000 cycles.
+In contrast, Only 65.2 mA g−1 could be obtained with a lower retention of 69.3% after 1000 cycles for Undoped-NVP/C sample.
+The cycle performance of F-0.07-NVP/C composite is compared with those of previously reported Na3V2(PO4)3/C-based electrodes as shown in Table 2. 1000th charging and discharging curves of all samples are displayed in Fig.5e, indicating the excellent cycle stability of F-0.07-NVP/C sample.
+Even after 1000 cycles at high rate, F-0.07-NVP/C sample still delivers ﬂat voltage curves and the polarization voltage is much smaller than any other composites.
+The partial enlarged view reveals the speciﬁc polarization conditions of F-0.07-NVP/C and Undoped-NVP/C.
+The value of polarization voltage for F-0.07-NVP/C composite is 162.8 mV, which is relatively lower than that of Undoped-NVP/C sample (222.4 mV).
+This corresponds to excellent kinetic behavior of F-0.07NVP/C composite.
+The rate performance at diﬀerent rates from 10 mA g−1 to 200 mA g−1 of all samples is shown in Fig.5f.
+The Fdoped composites deliver better rate performance than the undoped one.
+The F-0.07-NVP/C composite presents the highest dischargecapacities during the increased current densities.
+The values of discharge capacities of F-0.07-NVP/C are 109.9, 106.5, 104.2, 103.1, 100.6, 96.9, 107.1 mAh g−1 at 10, 20, 50, 70, 120, 200 and 10 mA g−1, respectively.
+With an increase of rate from 10 to 200 mA g−1, a remarkable capacity retention of 88.17% is obtained for F-0.07-NVP/C sample.
+Such impressive improvement of rate performance is due to the enhanced structure stability and fast kinetics produced by F-doping.
+Furthermore, the Nyquist plots of the various Na3V2 (PO4)3-xFx/C (x = 0, 0.01, 0.04 and 0.07) electrodes charged to 3.4 V after 100 cycles at 70 mA g−1 rate are depicted in Fig.5g.
+All impendence spectrums contain a depressed semicircle in high frequency region, and a straight line at the low frequency range, which indicates that charge transfer and diﬀusion of Na+ into the bulk of the electrodes are two key points to control the electrochemical process.
+The equivalent circuit used to ﬁt the EIS facilitates the further analysis of the impendence spectra, as shown in Fig.5g.
+In this circuit, RS is the electrolyte resistance, and CPE represents the double layer capacitance.
+Rct is the charge transfer resistance, and Wo represents the Warburg impedance expounding the diﬀusion behavior at low frequencies.
+The values of σ and the calculated +) of Na3V2 (PO4)3-xFx/C diﬀusion coeﬃcients of the sodium ions (DNa (x = 0, 0.01, 0.04 and 0.07) samples are displayed in Table 3. Ob+ viously, (2.62 × 10−15 cm2s−1), two orders of magnitude higher than the undoped sample (4.8 × 10−17 cm2s−1).
+F-0.07-NVP/C compositethe highest DNapresentsIn order to further investigate the eﬀects of F-doping on the structure stability, SEM, TEM, and XRD measurements are carried out after 1000 cycles at 200 mA g−1 rate.
+This indicates that F-0.07-NVP/C composite is much more stable than other samples.
+Moreover, the mapping images of F-0.07-NVP/C present the homogeneous distribution of F and C elements in Fig.6e even after 1000 cycles.
+TEM images of Undoped-NVP/C and F-0.07-NVP/C samples after 1000 cycles at 200 mA g−1rate are displayed in Fig.7. The lattice fringes are vague and complicated in Fig.6a, which suggests a poorcrystallinity of Undoped-NVP/C sample after the prolonged cycles.
+We can obtain some slight lattice fringes corresponding to (104), (2110) planes in the Na3V2(PO4)3 NASICON structure.It is worth noting that considerable lattice fringes related to V2(PO4)3 are obtained in Fig.7a.
+To the best of our knowledge, this is discovered for the ﬁrst time in the Na3V2(PO4)3 system.
+We can conclude that Na3V2(PO4)3 material will translate to V2(PO4)3 gradually with the cyclic process of charging and discharging.
+Compared with undoped-NVP/C sample, F-0.07-NVP/C composite exhibits relatively high crystallinity in Fig.7b and the clear interplanar spacing of 0.279 nm coincides with the (116) plane.
+Moreover, the carbon coated layer around F-0.07-NVP/C sample is still uniform and the thickness is approximately 3 nm, which is consistent with the results in Fig.3. The unbroken crystal structure of F-0.07-NVP/ C composite can signiﬁcantly facilitate the rate and cycle performance.
+The XRD patterns of Na3V2(PO4)3-xFx/C (x = 0, 0.01, 0.04 and 0.07) samples after 1000 cycles at 200 mA g−1 rate are displayed in Fig.8a.
+All the peaks in Undoped-NVP/C sample have gradually broadened and the one corresponding to (012) plane has almost disappeared, suggesting the decomposed structure of Undoped-NVP/C after 1000 cycles at high-rate.
+However, all the diﬀraction peaks can be well indexed to R-3c space group in the F-doped composites, indicating that F-doping can signiﬁcantly enhance the structure stability during the electrochemical reaction.
+To investigate more internal factor, we calculate the unit cell parameters after cycles based on the indexed patterns shown in Table 4. Then we obtain the unit cell volume shrinkages of all samples in Fig.
+8b calculated from Tables 1 and 4 After 1000 cycles at high discharge rate, the lattice volume shrinkage of the Undoped-NVP/C sample is as high as 24.21‰.
+However, all F-doped samples have less lattice volume shrinkage and better structure stability.
+Notably, the lattice volume of F-0.07-NVP/C composite is 1437.31 Å3, only 1.44‰ shrinkage.
+The largest volume facilitates Na+ movement without structural degradation during the charge-discharge process.
+Moreover, some characteristic peaks corresponding to V2(PO4)3 impurity are found in Undoped-NVP/C sample.
+This discovery conﬁrms the generation of V2(PO4)3 and coincides with the TEM results shown in Fig.7a.
+The structural degradation from Na3V2(PO4)3 to V2(PO4)3 is detrimental to Na+ migration due to the serious volume shrinkage from 1433.19 Å3(PDF-00-053-0018) 1384.29 Å3(PDF-00-048-1067).
+Therefore, we propose a brand new structural degradation mechanism for Na3V2(PO4)3 system shown in Fig.8c.
+First, Na3V2(PO4)3 can convert to Na1V2(PO4)3 reversibly by the de-intercalation of Na+ at M2 site during the charging and discharging process as many articles reported before.
+Subsequently, Na1V2(PO4)3 loss the Na+ at M1 site when it charges, which is irreversible.
+Honestly, only a fraction of Na1V2(PO4)3 can convert to V2(PO4)3 because the extraction of third Na+ is comparatively diﬃcult.
+The reason why the third Na+ can extract from Na1V2(PO4)3 is not clear at present and this issue deserves fervent concern.
+The V2(PO4)3 structure is inactive to transfer Na+ resulting from its less volume.
+Obviously, F-doping can eﬃciently prevent the structural degradation and keep the large channels for Na+ diﬀusion, and the enhanced structure can contribute to the superior electrochemical performance signiﬁcantly.4. ConclusionsIn summary, we have synthesized NASICON-type F-doped Na3V2 (PO4)3-xFx/C (x = 0, 0.01, 0.04 and 0.07) samples by a solid-state reaction method.
+The structural degradation from Na3V2(PO4)3 to V2(PO4)3 during the charging/discharging process is discovered for the ﬁrst time.

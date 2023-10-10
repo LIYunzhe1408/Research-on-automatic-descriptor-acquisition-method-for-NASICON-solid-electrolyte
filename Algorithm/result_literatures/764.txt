@@ -1,0 +1,20 @@
+Sodium ion batteries (SIBs) have been considered as a promising alternative for the next generation of electric storage systems due to their similar electrochemistryto Li-ion batteries and the low cost of sodium resources.
+Exploringappropriate electrode materials with decent electrochemical performance is thekey issue for development of sodium ion batteries.
+Due to the high structural stability, facile reaction mechanism and rich structural diversity, phosphateframework materials have attracted increasing attention as promising electrodematerials for sodium ion batteries.
+Herein, we review the latest advancesand progresses in the exploration of phosphate framework materials especiallyrelated to single-phosphates, pyrophosphates and mixed-phosphates.
+We providethe detailed and comprehensive understanding of structure–composition–performance relationship of materials and try to show the advantages and disadvantages of the materials for use in SIBs.
+In addition, some new perspectives about phosphate framework materials for SIBs are also discussed.
+Phosphate framework materials will be a competitive and attractive choice foruse as electrodes in the next-generation of energy storage devices.to the wide availability and low cost of sodium resources.
+Exploring electrodes with higher structural and thermal stabilityis the key to promote electrochemical performance (long term cyclability and rate capability) of the SIBs for large scaleenergy storage application.
+From the structural point of view,phosphate materials possess the robust framework and exhibitlow structure expansion or distortion, the potentially high operatingv oltages due to the inductive effect of phosphate groupsor fluorophosphates groups, and high rate capability and longcycling life for high-performance SIBs.
+The phosphates withproper reduction reaction potential should be the promisingcandidate for future energy storage application.
+Phosphate framework materials are full of variety, exhibitingversatile and adjustable structure and electrochemicalperformance.
+Such as the phosphates, pyrophosphates,mixed-anions, and optional redox centers (Fe, Mn, Co, V, Ni,et al.).
+The voltages and capacities (practical and theoretical)of representative phosphate framework materials for SIBs are summarized in Figure 15. It’s worth noting that someof the materials have shown high energy density (vs.
+metalNa anode) around 500 Wh kg–1, namely the Na1.5VPO4.8F0.7and Na3V2O2x(PO4)2F3–2x, which exceed that of Li/LiMn2O4(429 Wh kg–1) and are very close to those of Li/LiFePO4(510 Wh kg–1) and Li/LiCoO2 (530 Wh kg–1), showing potentialapplication for high energy density SIBs.
+Additionally,it can be seen that the exhibited capacities of some materials have been very close to their theoretical values, for examplethe NaTi2(PO4)3, Na3V2(PO4)3, and Na3V2O2x(PO4)2F3–2x.
+Therefore,most of the materials deliver capacities far lower than the theoretical capacities, for example the olivine NaFePO4,NaVOPO4, Na3MnPO4CO3, Na4Mn3(PO4)2(P2O7) and so on.
+Particularly, some systems such as Na/Na3MnPO4CO3 and Na/Na4Mn3(PO4)2(P2O7) might reach the theoretical energy densityof 600 Wh kg–1. Thus, there will be a lot of work to do toimprove the capacities of these materials in the future.
+On the other hand, due to the intrinsic poor electron conductivityof phosphate materials, it is important and effectiveto improve the electrochemical performance of phosphate materials by carbon decoration.
+Enhancing the potential andcapacity of electrode materials is also the important strategy toobtain SIBs with a high energy density.
+In addition, full cellsbased on phosphate materials should also be paid attention toaccelerate the application of SIBs.

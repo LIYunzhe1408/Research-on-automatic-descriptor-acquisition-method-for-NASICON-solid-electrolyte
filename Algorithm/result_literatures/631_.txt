@@ -1,0 +1,50 @@
+In this work, we synthesize the porous NaTi2(PO4)3@C nanocubes by hydrothermal method and a subsequent coating process with using oleic acid as the carbon source.
+When utilized as the anode for sodium-ion battery in the voltage range between 0.01 V and 3.0 V, The as-synthesized porous NaTi2(PO4)3@C nanocubes deliver a discharge capacity of 201 mAh·g−1 at the current density of 100 mA g−1 after 100 cycles.
+Additionally, the reserved capacity of 140 mAh·g−1 could be achieved at the current density of 1 A g−1 after 1000 cycles.
+Sodium-ion batteries (SIBs) have received some attention as the next-generation batteries due to the advantages of sodium abundance in the abundance, eﬀective cost and safety of Na resources, except for the chemical properties of sodium ions similar with lithium ions.
+Nevertheless, the available of electrode materials is challenging.
+This is because that the larger radius of sodium ion has an adverse eﬀect on deintercalation of Na+ in the anode material.
+It would cause the volume expansion and structural collapse.
+In the past few years, various electrode materials have been researched, such as metal oxides, metal sulﬁdes, metal alloys, carbon materials and phosphides.
+However, it is still unsatisﬁable to solve the enormous volume change problem during repetitive sodiation/desodiation processes.
+Recently, Na super ion conductors (NASICONs) have been widely regarded as a promising kind of electrode materials owing to their open three-dimensional framework structure, excellent sodium ion conductivity and nearly unchanged volume in the charge and discharge process.
+As one of typical NASICONs, the study on NaTi2(PO4)3 (NTP) has intensively been carried out, because the stable structure beneﬁts the sodium ion transport well.
+However, its relatively high redox platform at a voltage of about 2.1 V sacriﬁce its energy density, and leads to its low theoretical speciﬁc capacity of 133 mAh·g−1through the conversion between Ti3+and Ti4+.
+Additionally, NaTi2(PO4)3 has also been considered to store sodium within the broaden working potential for SIBs.
+Thus, it is of great value to study the sodium storage performance of NaTi2(PO4)3 at the widening working voltage.
+For NaTi2(PO4)3, there exists the poor intrinsic electronic conductivity, which makes NaTi2(PO4)3 exhibit the low speciﬁc capacity and rate performance.
+Several approaches to improve the electrical conductivity of NASICON material have been explored, such as nanostructuring NaTi2(PO4)3 to shorten the path of Na ions diﬀusion and provide more active site [29,30], fabricating porous NaTi2(PO4)3 to facilitate electrolytes to diﬀuse into the electrode well, and coating NaTi2(PO4)3 to enhance the electrical conductivity of the active material.
+In this paper, we combined the three strategies to synthesize the porous NaTi2(PO4)3@C nanocubes by hydrothermal/coating methods.
+Hydrothermal synthesis of NaTi2(PO4)3 nanocubesThe NaTi2(PO4)3 nanocubes were carried out according to the previous reports.
+Firstly, 0.16 g sodium acetate was added to the homogeneous solution containing 0.7 ml glacial acetic acid, 4 ml phosphoric acid and 25 ml ethylene glycol.
+Then, 1.36 g tetrabutyl titanate was sequentially poured into the above solution and stirred for 1 h.
+After that, the solution was transferred to a 50 ml Teﬂon-lined autoclave and reacted at 180 °C for 12 h.
+Finally, the white powders were collected, and washed several times with deionized water and absolute ethanol.
+After being dried at 60 °C for one night to obtain the precursor NaTi2(PO4)3 cubes.
+After centrifuging without any other solvent, the resultant sample was placed into the tube furnace.
+After annealing at 700 °C for 2 h with the heating rate of 2 °C/min in Ar, the porous NaTi2(PO4)3@C nanocubes were received.
+For comparison, the pure NaTi2(PO4)3 nanocubes were obtained without the annealing of oleic acid.
+The morphology and structural characterizations were observed by scanning electron microscopy (SEM, Hitachi S4800) and transmission electron microscopy (TEM; JEOL 2010 with an accelerating voltage of 200 kV).
+Raman spectra of the samples were conducted by using Micro Raman Spectrometer (LabRAM HR Evolution, HORIBA).
+The surface element composition of the composite material was measured by X-ray photoelectron spectroscopy (XPS).
+The thermo-gravimetric and diﬀerential thermal analysis of the powder sample were performed with a WCT-1D instrument (BOIF, China) with a heating rate of 10 °C min−1 in air atmosphere from 30 °C to 700 °C.
+The 2θ values of main peaks are 14.525, 20.270, 20.921, 24.272, 29.291 and 32.416, corresponding to the lattice planes (012), (104), (110), (113), (024) and (116), respectively.
+It can be found the crystallinitywere conducted in the glove box using CR-2025 type coin cells.
+And the glass microﬁber ﬁlter membranes (Whatman, grade GF/A) were used as a separator of Na-ion batteries and metallic sodium plates were acted as the counter electrodes.
+The electrolyte of Na-ion batteries contains 1.0 M of NaClO4 in a mixture of an ethylene carbonate (EC) and diethylcarbonate (DMC) solution (a volume ratio of 1:1), and 5% ﬂuoroethylene carbonate (FEC) was acted as the additive.
+The electrochemical tests of the assembled cells were carried out by Neware Battery Testing System.
+Cyclic voltammetry (CV) tests (the ranging of voltage was 0.01-3.0 V) and impedance measurement were performed with a CHI 660C Electrochemical Workstation.
+Additionally, H3PO4, TBOT and CH3COONa were utilized as the raw materials in the synthetic process.
+Here, we took advantage of the liquidity and invasive of oleic acid as the precursor of carbon, and the amorphous carbon layers were in situ formed in the porous NaTi2(PO4)3 nanocubes during the annealing process (Fig.1).
+Therefore, we can acquire that porous structures of NaTi2(PO4)3 are taken shape by annealing process.
+From the result of the above image, the porous NaTi2(PO4)3 nanocubes are coated with the carbon layer which is in situ formed with the liquidity and invasive of oleic acid after immersing and annealing, and the morphology features of the NaTi2(PO4)3@C maintain nanocubes invariably.
+Besides, the nanocubes of NaTi2(PO4)3@C samples are slightly larger than the dimension of the annealed-NaTi2(PO4)3 sampleand the agglomeration of the nanocomposites is clearly absent, which may be caused by oleic acid immersing the porous structure of the precursor NaTi2(PO4)3 samples, and the presence of carbon layer are coated on the surface of NaTi2(PO4)3.surfaceinformation of NaTi2(PO4)3@C and annealedNaTi2(PO4)3 were determined by the Brunauer-Emmett-Teller (BET).
+Fig.4a and b shows the nitrogen adsorption-desorption isotherms of NaTi2(PO4)3@C and annealed-NaTi2(PO4)3, which have a surface area of 36.7 cm3 g−1 and 40.1 cm3 g−1, respectively.
+We could observe the broad peak of 0.8 V ∼ 1.3 V just emerge in the ﬁrst CV discharge curve probably due to theformation of SEI and consumption of Na+ in the electrolyte.
+There are two obvious reduction peaks and a small peak tending to a stable status for the initial ﬁve cycles.
+A peak appear at about 2.1 V, corresponding to Ti4+ reduced to Ti3+, and another peak and a small peak appear at about 0.35 V and 0.65 V, corresponding to Ti3+ reduced to Ti2+
+The relevant oxidation peaks occur at about 0.47 V, 1.7 V and 2.2 V.
+The multi-peaks of the NaTi2(PO4)3@C indicate that NaTi2(PO4)3 reacts with Na+ by multi-step process at the work voltage of 0.01–3.0 V, which are described as follows: NaTi2(PO4)3 + 2Na ↔ Na3Ti2(PO4)3 (at ∼ 2.0 V) Na3Ti2(PO4)3 + Na ↔ Na4Ti2(PO4)3 (at ∼ 0.5 V)To compare, we studied the cycling performances of both NaTi2(PO4)3@C and NaTi2(PO4)3. As shown in Fig.6, we could ﬁnd that the discharge capacity of NaTi2(PO4)3@C reaches up to about 201 mAh g−1 at 100 mA g−1 after 100 cycles, while the discharge capacity of about 20 mAh g−1 is only reserved for NaTi2(PO4)3. Additionally, the rate capabilities of NaTi2(PO4)3@C (Fig.6c) are found to be 225, 203, 190, 180, 170, 166, 158, 149 and 135 mAh g−1 at the diﬀerent current density of 0.05, 0.1, 0.2, 0.4, 0.8, 1, 2, 4 and 8 A g−1, respectively.
+The as-synthesized NaTi2(PO4)3@C nanocubes have higher capacity and better rate performance than NaTi2(PO4)3@C nanocomposites reported in the literature at 0.01–3.0 V
+For comparison, the performances of other NaTi2(PO4)3-carbon composites in literatures are exhibited in Table S1. It indicates that our NaTi2(PO4)3@C provides higher capacity and better cycle performance.
+The excellent performances of NaTi2(PO4)3@C might be attributed to the porous structure and theeﬀective coating of carbon layer, which are contributive to the inﬁltration of electrolyte, shortening ion diﬀusion path, providing more active site, accelerating transmission of electric charge and improving electronic conductivity.

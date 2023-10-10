@@ -1,0 +1,44 @@
+A new layered metal phosphate, Li2Sr2Al(PO4)3, was synthesized in the form of either asingle-crystal or polycrystalline powder using the molten hydroxide flux method or a solidstate reaction, respectively.
+
+Li2Sr2Al(PO4)3 crystallizes to the P21/n (Z = 4) monoclinic spacegroup with lattice parameters a ≈ 4.95 Å, b ≈ 22.06 Å, c ≈ 8.63 Å, and β ≈ 91.5°.
+
+Thestructure is composed of stacked [LiSrAl(PO4)2] layers alternating regularly with [LiSrPO4]layers.
+
+In the [LiSrAl(PO4)2] sublattice, the AlO6 octahedra and PO4 tetrahedra are tiltedcooperatively to form an anionic, corrugated, two-dimensional [Al(PO4)2]3-framework thatcan be regarded as a “distorted-glaserite” structure.
+
+The [LiSrPO4] sublattice is that of alayered block containing a six-membered ring formed from alternating linkages of LiO4 andPO4 tetrahedra.
+
+The six-membered rings show a boat-type arrangement with the up(U) ordown(D) pointing sequence, UUDUUD.
+
+The interspace between the two sublattices generatesa two-dimensional pathway for Li+ion conduction.
+
+The impedance measurement indicatedthat Li2Sr2Al(PO4)3 had a moderate ion conductivity (σ ≈ 1.30 × 10-4S cm-1at 667 K), with anactivation energy Ea ≈ 1.02 eV.
+
+The tetrahedral phosphate group (PO43-) has a remarkable ability to combine withvarious structural units to generate a large number of phosphate derivatives with distinctproperties [1-4].
+
+Metal phosphates have attracted great interest in materials science due totheir structural variety and use in a wide range of applications.
+
+Recently, there has been agrowing interest in lithium metal phosphates due to the demand of new materials forapplications in display devices and secondary batteries.
+
+For example, LiMPO4 (M = alkalineearth metal ion) compounds were reported as effective host materials for blue-emittingphosphor with an excellent thermal stability [5-9].
+
+The transition metal-containing phosphates,LiMPO4 (M = Mn2+, Fe2+, Co2+, Ni2+), have also attracted particular attention as electrodematerials for lithium ion batteries due to their high energy density, low cost, and goodenvironmental compatibility [10-15].
+
+The crystal structure of LiMPO4 depends on the size ofthe M atom.
+
+ The phosphates containing large M ions (e.g., Ca2+, Sr2+, and Ba2+) adopt theKLiSiO4-related structure [16], while the olivine structure is preferable for small M ions (e.g.,Mg2+, Mn2+, Fe2+, Co2+, Ni2+) [17,18].
+
+The phosphate group can combine with the trivalent Al3+ ion to form secondary buildingunits with diverse stoichiometries, including [Al(PO4)2]3-, [Al2(PO4)3]3-, [Al3(PO4)4]3-, and[Al4(PO4)5]3-[19-21].
+
+These aluminophosphate groups deduce a variety of anionicframeworks with a 3-dimensional (3-D) framework, 2-D layer, and 1-D chain.
+
+There weremany attempts to use these anionic frameworks in the design of new solid-state structuraltopologies [22-24].
+
+Considering the rich variation in the structure of lithium metal phosphates, we haveundertaken an exploratory synthesis for the Li–Sr-Al–P–O system.
+
+We employed the moltenlithium hydroxide flux method, in which lithium hydroxide is melted at elevated temperaturesand acts as the flux for crystallization, to grow new complex metal phosphate crystals.
+
+Wereport the synthesis, crystal structure, and ion conductivity of a new complex metal phosphate,Li2Sr2Al(PO4)3.The crystal structure of Li2Sr2Al(PO4)3 consists of a layered structurecomprising two alternating sublattices: [LiSrPO4] and [LiSrAl(PO4)2].
+
+This is a novelexample of a 2-D phosphate that contains a lithium metal orthophosphate between thealuminophosphate layers.
+

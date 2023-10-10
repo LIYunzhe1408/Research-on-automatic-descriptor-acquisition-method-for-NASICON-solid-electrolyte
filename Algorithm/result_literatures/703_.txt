@@ -1,0 +1,21 @@
+Na3V2(PO4)3, with a NASICON-type structure, is one ofthe promising cathode materials for use in sodium-ion batteriesbased on a two-electron reaction and operating at 3.4 V.
+Herein, wereport the synthesis of Na3+xV2-xMgx(PO4)3 (x = 0.1 to 0.7) for use asa cathode material in sodium-ion batteries.
+In this work,Na3.2V1.8Mg0.2(PO4)3 was found to exhibit a larger reversible capacitythan the theoretical capacity of undoped Na3V2(PO4)3 as a result ofthe larger number of Na+ in the initial composition, as well as accessto the V4+/V5+ redox couple.
+In contrast, although Mg-rich samplessuch as Na3.5V1.5Mg0.5(PO4)3 showed a relatively clear plateau for theV4+/V5+ redox couple, the total discharge capacities were lower thanthat of the undoped Na3V2(PO4)3 because of the irreversibility in theV4+/V5+ redox region.
+ICP data clearly indicated that Mg2+ are stablewithin the NASICON structure during redox cycling and that Na+ isthe charge carriers in this cathode.
+Mg-substituted samples having the formula Na3+xV2-xMgx(PO4)3were prepared by the sol-gel method.
+In this process, anaqueous mixture containing stoichiometric amounts of NaH2PO4(Kanto Chemical Co., Inc., NaOH (Wako Pure ChemicalIndustries, Ltd.), V2O3 (Rare Metallic Co., Ltd.) andMg(CH3COO)2 (Wako Pure Chemical Industries, Ltd.) wasprepared, after which the water was removed byevaporation.
+The solid residue was dried overnight at 393 K andthen heated at 773 K for 2 h under Ar at a flow rate of 200ml/min.
+The resulting powder was calcined at 1023 K for 15 hunder 5% H2 in Ar at a flow rate of 200 ml/min.
+Electrochemicaltests were performed using mixtures composed of 75% byweight of the active material and 25% by weight of acetyleneblack (DENKA Co., Ltd.).
+In addition, PTFE was added at anextra 5% by weight of the activematerial/acetylene black mass,serving as a binder to assist in fabricating electrode pellets.
+Pressed pellets (approximately 10 mm in diameter) wereproduced from these mixtures, weighing approximately 20 mg.
+The test cell was fabricated using a 2032 coin-type cell inconjunction with an organic electrolyte (1 M NaPF6/EC-DEC)and a portion of glass fiber acting as a separator.
+Galvanostaticcharge-discharge measurements were conducted at acurrentdensity of 0.05 mA/cm2 over the potential range between 2.7and 4.3 V.
+All tests were performed at 298 K.
+X-ray powderdiffraction (XRD) patterns were collected with a Rigaku TTR-III(Rigaku Corp.).
+Lattice parameteres were determined by usingPDXL program (Rigaku Corp.).
+In preparation for ex-situanalyses of the electrodes following charge-dischargemeasurements with different cut-off voltages, the electrodeswere carefully removed from the cell inside an Ar-filled glove boxand immersed in PCfor 12 h to remove the residual EC-DECelectrolyte.
+Inductively coupled plasma (ICP) analyses wereperformed with an Optima8300 (PerkinElmer Inc.).
+Inpreparation for the analysis of each electrode after chargedischargemeasurement, the electrode was dissolved in dilutehydrochloric acid.
+X-ray Photoelectron Spectroscopy (XPS)measurement was carried out using JEOL JPS-9010MC(Mg Kα).

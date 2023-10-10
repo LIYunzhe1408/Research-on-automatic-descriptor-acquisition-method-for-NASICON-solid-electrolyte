@@ -1,0 +1,17 @@
+Rhombohedral NASICON compounds with general formula Li1+xTi2−xScx(PO4)3 (0 ≤ x ≤ 0.5) have been prepared using a conventional solid-state reaction and characterized by X-ray diffraction (XRD), nuclear magnetic resonance (NMR), and impedance spectroscopy.
+The partial substitution of Ti4+ by Sc3+ and Li+ in pristine LiTi2(PO4)3 increases unit-cell dimensions and the number of charge carriers.
+In Sc-rich samples, the analysis of XRD data and 6Li/7Li, 31P, and 45Sc MAS NMR spectra confirms the presence of secondary LiScO2 and LiScP2O7 phases that reduce the amount of lithium incorporated in the NASICON phase.
+In samples with x < 0.3, electrostatic repulsions between Li ions located at M1 and M3 sites increase Li mobility.
+For x ≥ 0.3, ionic conductivity decreases because of secondary nonconducting phases formed at grain boundaries of the NASICON particles (core−shell structures).
+For x = 0.2, high bulk conductivity (2.5 × 10−3 S· cm−1) and low activation energy (Ea = 0.25 eV) measured at room temperature make Li1.2Ti1.8Sc0.2(PO4)3 one of the best lithium ionic conductors reported in the literature.
+In this material, the vacancy arrangement enhances Li conductivity.
+The Li1+xTi2−xScx(PO4)3 (0 ≤ x ≤ 0.5) series has been prepared by solid-state reaction and characterized with XRD, NMR, and IS techniques.
+In Sc-poor samples, XRD patterns display only NASICON phases with rhombohedral symmetry (space group R3̅c).
+In Sc-rich samples, secondary, LiScO2, LiScP2O7, and TiO2 phases coexist with the NASICON phase.
+In x < 0.3 samples, the substitution of Ti4+ by Sc3+ increases the Li content, enhancing electrostatic Li−Li repulsions, favoring the creation of vacant M1 sites.
+This arrangement of vacancy increases Li conductivity; however, the formation of the secondary LiScO2 and LiScP2O7 phases decreases the amount of Li and Sc incorporated in the NASICON phase.
+In parallel to the phases segregation, the formation of core−shell structures reduces the total conductivity of x > 0.3 samples.
+From this fact, the determination of cation miscibility in the NASICON Li1+xTi2−xScx(PO4)3 series was of major importance in optimization of transport properties.
+This miscibility seems to be related to the preparation method used.
+High conductivity values found in the Li1+xTi2−xScx(PO4)3 series open new perspectives for preparing NASICON-based electrolytes for all-solid-state lithium batteries.
+At present, electrical properties of Li1.2Ti1.8Sc0.2(PO4)3 make this material one of the best reported ion conductors at room temperature (σb ≈ 2.5 × 10−3 S·cm−1), displaying one of the lowest activation energies reported in NASICON compounds (0.25 eV).

@@ -1,0 +1,11 @@
+The nanostructured NASICON-type LiTi2(PO4)3 (LTP) material has been synthesized by Pechini-type polymerizable complexmethod.
+The use of water-soluble ammonium citratoperoxotitanate (IV) metal complex instead of alkoxides as precursor allows toprepare monophase material.
+Thermal analyses have been carried out on the powder precursor to check the weight loss and synthesistemperature.
+X-ray powder diffraction analysis (XRD) has been performed on the LTP powder obtained after heating the powderprecursor over a temperature range from 550 to 1050 1C for 2 h.
+By varying the molar ratio of citric acid to metal ion (CA/Ti) and citricacid to ethylene glycol (CA/EG), the grain size of the LTP powder could be modified.
+The formation of small and well-crystalline grains in the order of 50–125nm in size, has been determined from the XRD patterns and confirmed by transmission electron microscopy.
+The NASICON-type, LTP nanostructured material wassuccessfully prepared by a Pechini-type polymerizablecomplex method.
+The method described herein is basedon the formation of highly water-soluble precursors toavoid the use of alkoxides.
+A pure phase of LTP powderwas obtained when EG/CA ¼ 1, with a calcination of thepowder precursor in the temperature range from 650 to1050 1C.
+Both XRD and TEM showed that nanostructuredparticles of 50 nm size are formed at 650 1C.
+This methodallowed us to reduce considerably the synthesis temperatureand synthesis time of this oxide in comparison to theconventional solid-state reaction method and to obtainnanosized powder.

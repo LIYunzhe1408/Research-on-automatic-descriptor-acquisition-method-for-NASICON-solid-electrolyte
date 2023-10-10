@@ -1,0 +1,74 @@
+Phase formation in ternary system of complex Sc, Na and Li phosphates was studied at 950 8C and synthesis of new phases ofdefinite composition was carried out.
+Obtained specimens were investigated with X-ray powder diffraction and infrared spectroscopy.
+Compositions of fields of homogeneity with NASICON-like structure were discovered.
+There is a challenge of finding new solid-state electrolytes having high values of ionic conductivity at low workingtemperatures.
+Solid-state electrolytes are materials that have high ion mobility due to their unique crystal structurewhere ions can move easily through interstitials.
+High values of ionic conductivity are achieved by migration ofalkaline cations.
+Such compounds as b-alumina, a-AgI and their derivatives with high values of ionic conductivity arewell known.
+One of the promising materials for solid electrolytes, phosphosilicate of sodium and zirconiumNa1+xZr2SixP3xO12, 0  x  3, was discovered by Hong and co-workers .
+The best electrical properties arefound for Na3Zr2Si2PO12 called NASICON (NAtrium Super Ionic CONductor), that exhibits a higher conductivitythan b-alumina above 300 8C (s = 0.25 V1 cm1).
+These materials lend themselves to a wide range of applications,for example in solid-state batteries, fuel cells and gas sensors.
+A number of NASICON-like compounds have beenintensively studied .
+Later, it was found that the binary system of ScPO4–Na3PO4 also includes NASICON-like compounds:Na3Sc2(PO4)3 and Na6Sc3(PO4)5 .
+They possess relatively high values of ionic conductivity which can beunderstood by their three-dimensional structure .
+Its framework consists of (PO4)-tetrahedra sharing corners with(ScO6)-octahedra with interstitial space occupied by Na+-cations.
+Significant ionic conductivity of Na3Sc2(PO4)3s = 101 V1 cm1 is achieved only at high temperature of 300 8C that limits its practical application.
+Properties ofNASICON-like compounds are characterized by the statistical nature of the filling A- and B-type cavities by smallNa+-cations and their mobility in the system of channels .
+These compounds have complex polymorphism, forexample Na3Sc2(PO4)3 has three polymorphous modifications: a ! b (50 8C), b ! g (168 8C) .
+High values of ionic conductivity can be also achieved by Li cations.
+Li3Sc2(PO4)3 has three-dimensional structurewith Li+-cation conductivity s = 103 to 102 V1 cm1 at 300 8C .
+Li cations fill their crystallographic positionsstatistically.
+They have a small size and can easily migrate via interstitials.
+
+Polymorphous transitions and ionic properties of Li3Sc2(PO4)3 aresimilar to that of A3M2(PO4)3 compounds (A = Li, Na, Ag, K; M = Cr, Fe, In) .
+The above-mentioned complex polymorphism makes it difficult to obtain NASICON-like compounds of highphase homogeneity and with good working characteristics at low temperature.
+It should be also noted here that thehigh price of scandium compound would be an impediment to the wide application of NASICON-like compounds.
+The present work studies the subsolidical intersection of the quasiternary system of ScPO4–Na3PO4–Li3PO4 at950 8C in order to understand how the introduction of a third component might improve phase stability of NASICON like compounds.
+ 
+As initial substances for complex phosphate synthesis, commercially available Na3PO4 and Li3PO4 (3N purity)were used.
+ScPO4 was synthesized using Sc2O3 (3N purity).
+During this process Sc2O3 was dissolved in concentratedHCl by heating, next sedimentation of scandium hydroxide by adding NH4OH was conducted at pH 9 and depositswere dissolved in 30% H3PO4. The solution obtained was left for 48 h at room temperature (RT) for ripening,condensation and evaporation.
+Finally, the as-obtained deposits were washed out in hot water and dried at 200 8Cfollowed by calcinations 950 8C for 24 h.
+Complex phosphates were obtained by a ceramic method usingstoichiometric amounts of simple phosphates.
+They were mixed and ground in a mortar with ethanol, then pressed intopellets (d = 10 mm) and sintered in a furnace at 950 8C for 100–200 h.
+After that samples were tempered in liquidnitrogen.
+Identification of the intermediate and final products of thermal processing was carried out by X-ray powderdiffraction (XRD) using a Shimadzu XRD-6000 diffractometer with Cu Ka-radiation at RT.
+To determine unit cellparameters, the angle interval of 108  2u  808 with a scanning step of 0.028 and recording time 70 min, dependingon the quality of reflections, was used.
+After indexing unit cell parameters were calculated and analyzed using theRietveld method.
+The deformation of phosphate anion PO43 caused by adding of 3d component (Li3PO4) was estimated by infrared(IR)-spectroscopy.
+IR-spectra of single-phase specimens were registered with spectrometer Bruker EQ-55 in the rangeof wavenumber 400–3600 cm1. Samples were pressed into pellets with KBr.
+Ternary system of Sc, Na and Li phosphates was investigated by cross-section.
+
+Diffraction patterns of these areas are shown in Fig.2.
+ First, a small single-phase area (Fig.2a) with a structure ofLiNa5(PO4)2 exists up to 8 mol% ScPO4 with the structure of the mineral olympite.
+An extensive area of homogeneityon the basis of high-temperature cubic sodium phosphate stabilized by scandium cation Na3xScx/3PO4,0.25  x  0.3, exists from 12 to 35 mol% ScPO4 (Fig.
+2b).
+A third area of homogeneity with the structure ofthe complex phosphate Na6Sc3(PO4)5 stretches from 60 to 72 mol% ScPO4 (Fig.2c).
+Its structure is similar to that ofthe NASICON-like compound Na4.5Yb1.5(PO4)3 (Fig.3).
+Lastly, we found a small area of solid solution (78–80 mol%of ScPO4) that has a structure of the complex phosphate Na3Sc2(PO4)3 which is also a NASICON-like structure(Fig.2d).
+Other performed cross-sections confirm the existence of a relatively large area of solid solution on the basis ofNa6Sc3(PO4)5. Cross-section Li3Sc2(PO4)3–Na6Sc3(PO4)5 cuts into two areas: a single-phase area with theNa6Sc3(PO4)5 structure ranges from 0 to 50 mol% of Li3Sc2(PO4)3 followed by two-phase area up to 100 mol% ofLi3Sc2(PO4)3. 
+Diffraction patterns of two-phase areas contain reflections of both initial compounds.
+Cross-section Li2Na(PO4)–Na6Sc3(PO4)5 cuts also into two areas.
+These are a single-phase area with Na6Sc3(PO4)5 structure in therange of 0–70 mol% of Li2Na(PO4) and a two-phase area up to 70–100 mol% of Li2Na(PO4).
+The cross-sectionLi3PO4–Na6Sc3(PO4)5 cuts into single-phase area, which stretches from 0 to 60 mol% of Li3PO4, and the abovementionedarea of homogeneity with a structure of Na6Sc3(PO4)5. 
+It lasts from 60 to 100 mol% of Li3PO4. CrosssectionLi3Sc2(PO4)3–Na3Sc2(PO4)3 has only a two-phase area.
+Finally, no homogeneity area was found forLi3Sc2(PO4)3–LiNa5(PO4)2 cross-section.
+All samples obtained contain two phases, at least.
+Their diffraction patternsare rather complicated and contain a lot of undetermined reflections.
+All the obtained single-phase areas are not newcompounds.
+They are analogs of compounds existing in the system of double phosphates ScPO4–Na3PO4.Lattice parameters of samples from two large areas of homogeneity were calculated.
+On Fig.4(a and b) one can seethe lattice parameters dependencies on ScPO4 content in the cross-section ScPO4–LiNa5(PO4)2. 
+The linear characterof dependencies of a and c is observed in all ranges of solid solutions.
+Registered IR-spectra show a strong distortion of phosphate anion PO43 caused by introduction of Li cations intothe crystal structure of complex Na–Sc phosphates.
+Distortion of the phosphate anion results in a lowering of the symmetry of PO4-groups and a resultant change of selection rules.
+Such a picture is observed in the spectra ofNASICON-like phases with the Na6Sc3(PO4)5 structure.
+As a result of experimental work performed here a quasi-ternary diagram can be constructed as shown in Fig.1.
+ It demonstrates phase correlations in the system at 950 8C.
+One can see single-, two- and three-phase regions.
+The redcoloredarea (II) corresponds to a cubic phase with the structure of Na3xScx/3PO4, 0.25  x  0.3, while the singlephasearea with NASICON-like structure of Na6Sc3(PO4)5 is marked by blue (III).
+Small single-phase areas with NASICON-like structure of Na3Sc2(PO4)3 (IV) and with mineral olympite structure (I) are indicated by green anddark-blue, respectively.
+Phase formation in ternary system ScPO4–Na3PO4–Li3PO4 was investigated for the first time.
+Introduction of Li+-cations in the crystal structure of NASICON-like compounds does not lead to any new compounds but it significantlyaffects the dimension and stability of solid solution regions.
+Four relatively large single-phase areas, analogs ofcompounds existing in forming binary systems, were found.
+Compositions of high phase stability which allows theformation of ceramics with the NASICON-like structure with desirable electro-chemical properties were discovered.
+These would enable one to decrease the expensive scandium content in NASICON-like compounds and then makesthem very interesting from an economic point of view.

@@ -1,0 +1,96 @@
+ISSN 1070-4272, Russian Journal of Applied Chemistry, 2008, Vol.
+81, No.
+1, pp.
+17!22. + Pleiades Publishing, Ltd.
+, 2008. Original Russian Text + M.
+V.
+Sukhanov, I.
+A.
+Shchelokov, M.
+M.
+Ermilova, N.
+V.
+Molybdate phosphates Na1 having the NaZr2(PO4)3 structure were prepared by the sol!gel method.
+The catalytic properties of the molybdate phosphates in dehydration and dehydrogenation of methanolin inert and oxidizing atmospheres were studied.
+Framework phosphates that are structural analogs of sodium dizirconium orthophosphate NaZr2(PO4)3 (NZP) have a flexible structure allowing isoand heterovalent substitutions in both cationic and anionic positions without significant changes in the crystallographic characteristics of the basis lattice.
+Wide isomorphism of various types of cations leads to disbalance of charges in the structure, caused by geometric features of the arrangement of the adjacent polyhedra, and to appearance of local and cooperative distortions.
+Thus it becomes possible to control the concentration and strength of both Brønsted and Lewis acid centers.
+Therefore, such phosphates show promise as heterogeneous catalysts for many acid!base (isomerization, dehydration) and redox (selective oxidation of paraffins, dehydrogenation) processes.
+They are also convenient model objects for studying the correlations between the activity and chemical composition of a catalyst, structural characteristics, ionic charges and radii, surface area, acidity, etc.
+Previously  we considered crystal-chemical features of the incorporation of Mo into various crystallographic positions of the NZP structure depending on the synthesis conditions.
+We noted that Mo(IV) occupies octahedral positions of the NZP framework, and Mo(VI), tetrahedral positions.
+In the latter case, molybdate phosphates are formed under the conditions of relatively low temperatures (873 K), and they are chemically stable.
+The results of computer simulation of the structure were confirmed experimentally.
+In this study we examined the possibility of using molybdate phosphates Na1 ! yZr2(MoO4)y(PO4)3 as convenient objects for model studies of their catalytic properties in methanol transformations in inert (Ar) and oxidizing (air) atmospheres.
+The dehydration and dehydrogenation of methanol can yield dimethyl ether (promising additive to diesel formaldehyde, hydrogen, carbon oxides, and other products.
+Our goal was to prepare the molybdate phosphates Na1 yZr2  (MoO4)y(PO4)3 , characterize their surface properties, and examine their catalytic activity in methanol transformations in the inert and oxidizing atmospheres.
+EXPERIMENTALThe molybdate phosphates N were prepared from the following chemically pure grade chemicals: zirconium oxochloride ZrOCl2  8H2O, phosphoric acid H3PO4, sodium chloride NaCl, and ammonium paramolybdate (NH4)6 .
+Weighed portions of ammonium paramolybdate were dissolved in a small amount of water, and 1 M solutions of sodium chloride and zirconium oxochloride were added in stoichiometricTable 1. 
+Then a stoichiometric amount of 1 M H3PO4 was added with continuous stirring at 343 K.
+The resulting gel was dried at 363 and 473 K and then heat-treated with free access of air at 873 and 923 K for no less than 24 h in each step, with intermediate grindings to ensure homogenization of the mixtures.
+The optimal mode of the heat treatment was chosen in accordance with the previous data .
+The chemical composition and homogeneity of the molybdate phosphate samples were monitored with a CamScan MV-2300 scanning electron microscope (VEGA TS 5130MM), equipped with YAG detectors of secondary and reflected electrons and a Link INCA ENERGY 200C energy-dispersive X-ray microanalyzer with a Si(Li) semiconductor detector.
+When calculating the composition, we used the PAP correction method.
+The results of the microprobe analysis confirmed the homogeneity of the samples and were consistent with the theoretical composition (Table 1).
+
+The phase composition of the samples was determined by X-ray phase analysis (XPA) with a DRON 3M diffractometer using Ni-filtered CuK= radiation in the angle range 2G .
+The patterns were recorded at a rate of 2 deg min!1. X-ray diffraction data for the synthesized Na1y samples show that the positions and intensities of the diffraction maxima are close to those given in and that the samples belong to the NZP structural type.
+The calculated unit cell parameters of the molybdate phosphates are given in Table 2.
+The specific surface area of the molybdate phosphates was calculated from the adsorption!desorption isotherms obtained with a Micrometritics ASAP 2020 installation by the method of capillary condensation of nitrogen at 77 K.
+The acidity of the samples was calculated from the curves of temperature-programmed desorption of ammonia.
+The calculation results are given in Table 1. 
+An increase in the molybdenum content of the samples led to their sintering in the course of the synthesis and to a decrease in the surface area and acidity.
+The catalytic properties of the molybdate phosphates in methanol transformations were studied in a flow-through reactor in argon or air flow at atmospheric pressure in the temperature range 450 700 K.
+A 0.300-g portion of molybdate phosphate was mixed with quartz (mean particle size 1 mm).
+Saturated methanol vapor from a temperature-controlled bubbler was fed into the reactor in a flow of a carrier gas (Ar or air) at a total rate of 1.2 l h1. 
+The ratio of the space velocities of methanol and oxygen was 1 : 4.6. The reaction products were analyzed with an LKhM-5 chromatograph equipped with a thermal conductivity detector and with columns packed with activated carbon and Porapak T.
+The chromatograms were processed with a computer.
+From the results of the analysis, we calculated the methanol conversion x (%), selectivity S (%), and yields of target products A (mmol h!1 g!1) by the formulaswhere 0 and 1 are the initial and running volume fractions of methanol; 
+The calculated amounts of methanol consumed and products formed in all the catalytic experiments agree with the material balance within the measurement error .
+
+The phosphate NaZr2 (PO4)3 well competes as methanol dehydration catalyst with other phosphates AZr2 (PO4)3 (A = K, Rb, Cs, Mg0.5, Ca0.5, Ba0.5, Zr0.25) , synthetic aluminosilicates, aluminophosphates, composites based on oxides of aluminum and titanium or titanium and zirconium, and commercially produced DMEFCAT catalyst (Haldor Topsoe).
+It shows higher productivity and ensures almost equilibrium conversion at 25 times higher loads (Table 3).
+The activity of catalysts in methanol dehydration is associated with their acid properties, which are determined by Brønsted acid centers (!OH) present on the surface of the compounds and by coordination-unsaturated cations having high charge, exerting a strong polarizing effect, and thus acting as electron density acceptors (Lewis acid centers) .
+It was shown [5] that on the surface of the phosphate Zr0.25 Zr2 (PO4)3 (NZP structural type) there are strong (Zr!OH) and weak (P!OH) Brønsted acids centers and Lewis acid senters (Zr4+).
+The schemes of formation of the adsorption complexes of methanol with acid centers of zirconiumcontaining phosphates are, presumably, as follows:Apparently, higher activity (with respect to converted methanol) of zirconium-containing phosphates in the dehydration of methanol, compared to known alcohol dehydration catalysts, is due to higher concentration and optimal strength of acid centers on the surface.
+The methanol conversion on molybdate!phosphate catalysts in an Ar atmosphere reached 93% (Fig.1).
+This value is higher than the equilibrium conversionFig.1.
+temperatures above 620 K,of methanol in the dehydration (8890%) in the examined temperature range, which is due to parallel occurrence of the dehydration (selectivity 66 100%), dehydrogenation to formaldehyde, and decomposition to carbon oxides.
+At the selectivity of methanol dehydrogenation and decomposition reached 3 and 30%, respectively (Fig.1).
+With respect to the methanol conversion on molybdate phosphates at the same temperature, the most active catalyst was Na0.75 Zr2(MoO)0.25(PO4)2.75 (y = 0.25), and Na0.5Zr2(MoO)0.5(PO4)2.5 (y = 0.5) was less active.
+The difference in the alcohol conversion was 20 25%.
+The molybdate phosphate with y = 0.25 is more active than that with y = 0.5 in methanol dehydration but less active in methanol dehydrogenation.
+For the sample with y = 0.25, the maximal amount of methanol converted along the dehydration pathway at 593 K was 6.5 mmol h1 g!1, and the dehydrogenation selectivity was 1%; for the sample with y = 0.5, the respective quantities were 4.9 mmol h1 g1 and 3% at the same temperature.
+This difference is attributable to larger specific surface area and acidity of the former sample and its lower molybdenum content, as the methanol dehydration is a typical acid-catalyzed reaction, whereas the components responsible for dehydrogenation are transition metal (Mo) atoms.
+In all the experiments, the hydrogen yield was 210 times lower than the value corresponding to the amounts of the dehydrogenation and decomposition products.
+Furthermore, the hydrogen yield decreased with an increase in the molybdenum content of the catalyst.
+These facts are apparently due to the reduction of the Mo(VI) ions in the molybdate phosphates with the formation of water.
+This assumption also accounts for the observed decrease with time of the activity of the molybdate phosphates in the methanol dehydrogenation and an increase in the dehydration selectivity in the course of catalytic experiments, and also for the fact that the amount of water formed exceeds (by  6%) the quantity corresponding to the amount of dimethyl ether formed.
+When the catalytic experiments with the molybdate phosphates (y = 0.25 and 0.5) were performed in an oxidizing atmosphere, among methanol transformation products we also detected formaldehyde and carbon oxides, along with dimethyl ether and water.
+The temperature dependence of the selectivity of the methanol dehydration [reaction (1)] on NaZr2(PO4)3 passes through a maximum (97%) at 570 K and gradually decreases to 5% at 670 K (Fig.2a).
+Simultaneously with a decrease in the selectivity of the methanol dehydration, the yield of water and selectivity of formation of carbon oxides increase (the latter, to 92%).
+The maximal conversion of methanol reached 96%, at the catalyst activity with respect to converted methanol of 7.2 mmol h1 g1. We believe that the observed trend is due to the occurrence of exhaustive oxidation of both methanol [Eq.(2)] and its dehydration product, dimethyl ether [Eq.(3)]:Reactions (2) and (3) are characterized by a definite ratio of the amounts of the converted reactants and formed products; therefore, to determine the temperature ranges of the occurrence of reactions (2) and (3), we plotted the ratios of the methanol consumption and product formation.
+Below 550 K, according to the experimental data, the H2O/CO2 ratio is less than 1.5, which contradicts Eqs.(2) and (3) and suggests the occurrence of an additional pathway of the formation of carbon oxides.
+Apparently, such a pathway is conversion of methanol with water vapor:with water formed by dehydration of methanol [reaction (1)].
+Simultaneous occurrence of reactions (3) and (4) can lead to the H2O/CO2 ratio less than 1.5. 
+When calculating the amount of methanol consumed for the formation of dimethyl ether that burnt out in reaction (3), we took into account the amounts of methanol consumed in reactions (2) and (4) and of water released in these reactions.
+In so doing, we took into account the molar ratios of the participants of reaction (1): CH3OH/CH3OCH3 = 2, CH3OCH3/H2O = 1. 
+The maximum of the formation of dimethyl ether (560 !580 K) corresponds to the ratio H2O/CO2 = 1.5, suggesting the occurrence of reaction (3).
+With a further increase in the temperature, this ratio increased to 2, and the CH3OH/CO2 and CH3OH/H2O ratios simultaneously approached 1 and 0.5, respectively, suggesting the occurrence of reaction (2).
+The selectivity of NaZr2(PO4)3 with respectto formaldehyde formation in an oxidizing atmosphere was virtually constant, about 6%.
+As this phosphate contains no metals that can change the oxidation state and thus act as possible active centers of methanol dehydrogenation, the formation of formaldehyde can be accounted for as follows.
+On the surface of zirconium-containing phosphates there are Lewis acid centers Zr4+.
+The Zr4+ ion is coordination-unsaturated and has vacant 4d orbitals owing to which it can adsorb oxygen having free 2p electrons.
+The reaction of such adsorbed complex with a methanol molecule apparently yields formaldehyde with the regeneration of the Zr4+ ion:The low yield of the dehydrogenation products is due to the low capability of the Zr4+ ion for oxygen adsorption.
+On molybdate phosphates with y = 0.25 and 0.5 in an oxidizing medium, the rate of methanol dehydrogenation increases.
+The complete conversion of meth-anol occurs at temperatures 100 K lower than in an inert atmosphere.
+Na0.5Zr2(MoO4)0.5(PO4)2.5 is the most active (3.6 mmol h!1 g!1 of formaldehyde) and selective (56 ! 60%) in methanol dehydrogenation, with the dehydration selectivity being less than 16% (Fig.
+2b).
+the dehydrogenation products on molybdate phosphates in an oxidizing atmosphere is due to permanent regeneration of active centers, Mo(VI), whereas in an inert atmosphere, as shown above, their amount and the catalyst activity decrease with time.
+Molybdate phosphates were studied in methanol transformations in inert (Ar) and oxidizing (air) atmospheres.
+The main products formed in an inert atmosphere are dimethyl ether and water.
+In the process, NaZr2(PO4)3 well competes with the known catalysts of methanol dehydration.
+Oxidative dehydrogenation of methanol in the presence of air yielded formaldehyde with up to 60% selectivity.
+The activity of molybdate phosphates in the dehydration and dehydrogenation of methanol depends on the surface properties and concentration of molybdenum ions in the phosphate structure.
+
+

@@ -1,0 +1,77 @@
+The admittance spectra of NASICON samples, Na Zr Si P O (0 , x , 3), were investigated for compositions 1.2 x , 2.2 in the frequency range from 1 Hz to 150 kHz. It was found that the spectra consist of three regions of dispersion independent of the composition of the sample. The low frequency semicircle of the admittance spectra is attributed to the dispersion on electrode double layers connected in series to the total dc electric resistance of the sample. The high frequency semicircle-like part of the spectra is composed of two dispersions. One is attributed to the partial blocking of ion carriers on grain-boundary phases and the other to dispersion on a glassy phase present in inter-grain regions ofNASICON samples. The plausibility of such an assumption is conﬁrmed by the results of an additional investigation of admittance spectra of Co-doped NASICON samples in which the glassy phase was found to be extremely strong and endurable. Although the investigated samples differ greatly in their composition (from x 5 1.2 to x 5 2.2) the electric conductivity of their glassy phase obeys the Meyer–Neldel rule. This seems to indicate that the composition of the glassy phase is quite homogeneous over a range of NASICON-like compounds. 1999 Elsevier Science B.V. All rights reserved.
+
+The solid solution system Na
+
+12 (0 , x , 3), called NASICON, is one of the best solid sodium ion conductors – in the composition range 1.8 , x , 2.4 its conductivity exceeds 0.3 S / cm at 3008C [1,3,4]. Its high ionic conductivity is similar to that of b-aluminas, but much less sensitive to moisture. A serious drawback of NASICON ceramic is its low stability in contact with molten sodium and molten sodium salts. This does not exclude sensor applications of NASICON, but is a
+
+* Corresponding author. E-mail address: wbogusz@mp.pw.edu.pl (W. Bogusz)
+
+Zr Si P O ; Phase transformation
+
+strong limitation of its application in sodium–sulfur batteries. It may be expected that stability improvement could be obtained by modifying the chemical composition of the outer surface layer of the ceramic which is in immediate contact with molten sodium metal or sodium salts. This idea is based on the formation of a conductive sample with a kind of composition gradient on its surface. In this study the feasibility of
+
+fabrication of NASICON ceramic samples with a large unidirectional variation of composition was investigated. The physical properties of the ‘gradient’ samples were studied and compared with the properties of singlecomposition, ‘non-gradient’ or ‘homogeneous’ samples, with the aim of better understanding the nature
+
+the samples were investigated by means of impedance spectroscopy. The impedance of the samples was measured by means of a computerized system consisting of a Solartron 1255 (FRA) and Solartron 1286 (Electrochemical Interface) in the frequency range from 1 Hz to 200 kHz and in the temperature range from RT to 5008C. Samples for impedance measurements were cut in the shape of rectangular bars of approx. 2 3 3 3 6 mm. Platinum blocking electrodes were deposited on the smallest polished faces in cathodic discharge.
+
+The admittance diagrams (Im Y vs. Re Y) for two single-composition samples are shown in Fig. 1. The admittance diagrams for a composite sample for three selected temperatures are shown in Fig. 2. Both sets of diagrams exhibit similar features. The lefthand semicircle is related to admittance dispersion
+
+of NASICON ceramic and to search for a possible improvement.
+
+Three compound precursors were initially chosen for investigation, corresponding to x 5 1.2, 1.5 and 2.0. The compounds were synthesized in a solid state reaction with thoroughly mechanically mixed powders of Na CO , ZrO , SiO and NH H PO (reagent grade) at 10508C [3]. The reaction was followed by wet milling of the product to an average grain size of 1 mm (polyethylene glycol was added as a binder). After drying, two kinds of samples were prepared from powders: samples with a gradient of composition (composite samples) and single-composition samples. The composite samples were ﬁrst prepared in two consecutive uniaxial pressings: a layer of around 1 mm thick was pressed from one precursor and, later, a layer of another composition was pressed onto the ﬁrst. After removal from the die the composite sample was additionally hydrostatically pressed to 300 MPa. The single-composition samples were prepared from one one-precursor powder and were used as a reference for comparison with the composite samples. Both kinds of samples were sintered at 1220–12508C in air covered by powder of the same composition to reduce loss of sodium and phosphorus by evaporation.
+
+The density of the sintered composite samples measured by immersion in isobutyl alcohol attained values of 91–94% of the theoretical value for x 5 2.0 (3.27 g/ cm ). The sintered single-composition samples had a density in the same range (90% for x 5 1.2, 91% for x 5 1.5 and 93.4% for x 5 2.0). It is worth adding that the use of precursor powder synthesized at lower temperature (9408C) leads to worse densiﬁcation of the sintered sample. The maximum value of the sample density in this case does not exceed 83%. It may be concluded that in the case of the presence of a sharp boundary between two different compositions, such non-homogeneity inﬂuences the densiﬁcation only slightly, whereas in the case of powder, which during synthesis does not reach the state of full volume homogeneity, the densiﬁcation process consisting of the elimination of inter-grain porosity is difﬁcult.
+
+Fig. 1. Admittance diagrams for single-composition NASICON samples and the equivalent electrical circuit of a sample (admittance in 1/ V).
+
+Fig. 2. Admittance diagrams for composite NASICON samples (admittance in 1/ V).
+
+on an electrode electrical double-layer connected in series with the total dc resistance of the sample (blocking effect of Naions at Pt electrodes).
+
+The arcs visible in the right-hand part of the admittance diagrams (for higher frequencies) are composed of two dispersions visually non-separable at any temperature within the temperature range under study. The spur at high frequencies observed only at low temperatures is attributed to the geometric capacitance of the sample connected in parallel to all other elements of the electric equivalent circuit of the sample.
+
+This shape of the admittance diagrams is common both for single-composition and for composite samples. The best ﬁtting result for the equivalent circuit admittance function to experimental admittance data was obtained for the circuit shown in the inset of Fig. 1. The elements shown there as capacitors are in
+
+fact constant phase angle (CPA) elements [2]. The circuit is composed of a series connection of CPA representing electric double layers on Pt electrodes (P ), intra-grain bulk resistance (R ) and two R-CPA loops. One of the R-CPA loops may be attributed to grain boundary parameters of the ceramic sample (P , R ). Such an attribution is consistent with the fact that, below 1008C, the parameter values of this loop, measured during heating, depend strongly on the moisture of the ambient atmosphere [3]. The conductivity derived from the value of R decreases with increasing temperature and exhibits non-Arrhenius behavior until the temperature becomes . 1008C, when the sample becomes dry.
+
+The attribution of the second R-CPA loop is more ambiguous. It will be shown below that it could be attributed to a glassy phase existing in NASICON ceramic. It is well known that NASICON ceramic is
+
+not homogeneous and in addition to the true NASICON crystalline phase it also contains a glassy phase and a small amount of free zirconia. The amount of glassy phase depends on the sintering conditions and in some extreme cases can reach 20–30 vol% [5]. Such a large proportion of amorphous phase should manifest itself in the admittance spectra of the sample as a separate dispersion arc.
+
+The parameters of the equivalent circuit were derived from spectra by a ﬁtting procedure of the non-linear complex admittance function to experimental admittance data by means of a least squares method. The values of individual electric resistances recalculated to values of conductivity are represented by coordinates corresponding to the Arrhenius-type dependence, i.e. log(sT ) vs. 1/T. The thermally activated conductivity should then be represented by a segment of a straight line.
+
+The thermal dependence of the bulk conductivity of NASICON for all investigated samples consists of two linear segments. The conductivity of the sample composed of x 5 1.2 and x 5 2.0 materials sintered together (henceforth denoted the 1.2/2.0 composite sample) is compared with the conductivity of the single-composition samples in Fig. 3. A similar comparison for the sample with x 5 1.5/2.0 is shown in Fig. 4. The values of the activation energies of the bulk conductivity in temperature ranges corresponding to both segments of the straight line of the
+
+Fig. 4. Temperature dependence of the bulk conductivity – a composite NASICON sample with x 5 1.5/2.0 (description in text).
+
+Arrhenius plot (E for high temperature and E for lower temperature) and the bulk conductivity s at 3008C are listed in Table 1. It is worth noting that the activation energy of both composite samples in the high temperature range is quite large. The value of the effective conductivity for the 1.2/2.0 and 1.5/2.0 samples is located between the values of the corresponding constituent single-composition samples. For equal thicknesses of both parts of the composite sample the value of the effective conductivity is much closer to the conductivity value of the better conducting single-composition sample (that with x 5 2.0). This indicates that the sintering process involves the creation of an enriched intermediate layer in the part of the sample with a lower concentration of sodium (smaller x). The dependence of the conductivity on composition is very steep below x 5 1.7 (cf. Ref. [4] and the results shown in
+
+Table 1 of this work). This explains why the effective conductivity increase induced by the sodium-rich layer in materials with smaller x increases the effective conductivity much stronger than the decrease caused by the layer of reduced sodium on the other side of the composite sample. Both modiﬁed layers do not seem to be too thin since they lead to a signiﬁcant increase in the effective conductivity of the composite sample in comparison with the sum of a simple series connection of two single-composition samples.
+
+this temperature range the precision of estimation of s becomes very poor (Fig. 5).
+
+gb The second R-CPA loop of the equivalent circuit is characterized by the smallest value of the time constant. The temperature dependence of the conductivity corresponding to this dispersion is shown in Fig. 6 for the composite sample and in Fig. 7 for the single-composition samples. The characteristic feature of these dependencies is the existence of a
+
+factor of the grain boundaries but
+
+In the calculation of the grain boundary conductivity from the value of the electrical resistance R derived by ﬁtting of the admittance function, not the real the apparent geometric factor of the sample was used throughout this work. This simpliﬁcation makes the obtained value of s good only for comparison purposes. The dependence of the conductivity on temperature for two samples is presented in Fig. 5. Below around 1008C the grain boundary properties of the samples measured in air are not reproducible. During initial heating, along with losing the absorbed water, the conductivity s decreases. Then for temperatures exceeding | 1008C the dependence becomes that of the Arrhenius-type with the activation energy exceeding 1 eV. For temperatures above 3008C the resistance of the grain boundary becomes very small in comparison with that of the grains. In
+
+Fig. 6. Temperature dependence of the glassy phase conductivity for two composite NASICON samples compared with a singlecomposition sample of x 5 2.0.
+
+Fig. 5. Temperature dependence of the grain boundary conductivity for two single-composition samples.
+
+Fig. 7. Temperature dependence of the glassy phase conductivity for two single-composition NASICON samples.
+
+breakdown in conductivity at around 2008C. For temperatures exceeding this value the conductivity of the x 5 2.0 sample decreases by about two orders of magnitude. For the samples with smaller x the breakdown is not so deep (Fig. 7). It is believed that the conductivity observed here, s , characterizes a glassy phase present in NASICON ceramics. The reason for the breakdown of the conductivity around 2008C seems to be related to the phase transformation occurring in this range of temperature for NASICON [6] and to mechanical stresses accompanying the phase transformation. The phase transformation occurs in NASICON compounds with 1.7 , x , 2.4 which, at room temperature, have monoclinic symmetry. The breakdown of conductivity s for the x 5 1.5 compound is, in fact, much less pronounced (Figs. 6 and 7).
+
+It was reported that, for the x 5 2.0 compound, a multiple ‘thermal cycling’ around the temperature range of the phase transformation in which the anomaly of the thermal expansion of NASICON is also observed, can induce a signiﬁcant decrease in the microhardness of the samples [7]. It was also found that doping of the NASICON ceramic with cobalt oxide prevents any change in microhardness during the thermal cycling and makes NASICON samples much harder [8]. There is evidence that 21Co goes mainly to the glassy phase and does not enter the true NASICON crystalline phase. We therefore examined in this work if such doping can prevent the breakdown of the s conductivity. The x 5 2.0 material doped with 0.5 wt% CoO was prepared and investigated. It was found that for the doped material there also exists dispersion corresponding to the second R-CPA loop corresponding to the glassy phase. However, the dramatic change in s in the vicinity of 2008C was clearly demonstrated for the doped material (Fig. 8). We also examined whether the derived conductivities (bulk s , grain boundary s and the glassy phase s ) fulﬁl the Meyer–Neldel rule [9,10]. The rule is fulﬁlled by the conductivity of a group of samples only in the case when the concentration of current carriers is the same in all samples. In the case of the glassy phase of NASICON the rule is fulﬁlled quite well for all investigated samples (homogeneous and composite) (Fig. 9). This leads to the conclusion that the variation of the chemical composition of the
+
+Fig. 8. Temperature dependence of the glassy phase conductivity for a Co-doped x 5 2.0 NASICON sample.
+
+Fig. 9. The Meyer–Neldel rule diagram for the glassy phase of all investigated NASICON samples.
+
+glassy phase is not large in the investigated samples. In contrast, the Meyer–Neldel rule is not fulﬁlled by the bulk conductivity s for the investigated samples – this is not surprising since their composition differs greatly.
+
+The feasibility of the fabrication of mechanically homogeneous composite samples by sintering of NASICON powders differing greatly in chemical composition was conﬁrmed. The admittance dia-
+
+

@@ -1,0 +1,70 @@
+Compared to LAGP, LATP has higher bulk conductivity around 10−3 S/cm at room temperature; however, the apparent grain boundary conductivity is almost two orders of magnitude lower than the bulk, while LAGP has similar bulk and grain boundary conductivity around the order of 10−4 S/cm.
+To make full use of the advantages of the two electrolytes, pure phase Li1.5Al0.5Ge1.5(PO4)3 and Li1.4Al0.4Ti1.6(PO4)3 were synthesized through solid state reaction, a series of composite electrolytes consisting of LAGP and LATP with different weight ratios were designed.
+XRD and variable temperature AC impedance spectra were carried out to clarify the crystal structure and the ion transport properties of the composite electrolytes.
+The results indicate that the composite electrolyte with the LATP/LAGP weight ratio of 80:20 achieved the highest bulk conductivity which shall be due to the formation of solid solution phase Li1.42Al0.42Ge0.3Ti1.28(PO4)3, while the highest grain boundary conductivity appeared at the LATP/LAGP weight ratio of 20:80 which may be due to the excellent interfacial phase between Li1+xAlxGeyTi2−x−y(PO4)3/LATP.
+All the composite electrolytes demonstrated higher total conductivity than the pure LAGP and LATP, which highlights the importance of heterogeneous interface on regulating the ion transport properties.
+Keywords: solid electrolyte, composite, heterogeneous interface, enhanced conductivity PACS: 82.47.Aa, 66.30.–h1. IntroductionLithium ion batteries have been widely used.
+All kinds of applications require high safety and high energy density.
+The electrolytes used in current commercial lithium ion batteries are ﬂammable organic liquid electrolytes, which leads to thermal runaway.
+To enhance the safety and further improve the energy density of lithium batteries, researchers have paid wide attention to develop the solid state electrolyte which could be inﬂammable and compatible with the Li-contained high capacity anode.conductivity than the oxide electrolyte, however, most sulﬁde electrolytes are not stable in the air and the chemical stability is relatively poorCompared to the sulﬁde electrolyte, the solid oxide electrolyte has better chemical and electrochemical stability.
+Some of them have acceptable room temperature ionic conductivity.
+The most interesting materials are garnet structure Li7La3Zr2O12 (LLZO),(LLTO),LISICON perovskite structure Li0.5La0.5TiO3 (LZGO),[8] NASICON strucstructure Li14Zn(GeO4)4 ture Li1.5Al0.5Ge1.5(PO4)3 (LAGP),[9] Li1.4Al0.4Ti1.6(PO4)3 (LATP), and so on.
+Generally, the solid state electrolytes are divided into two types.
+One is the polymer electrolyte, which uses the polymer molecular like polyethylene oxide (PEO), polyvinyliene ﬂuoride (PVDF), polymethyl methacrylate (PMMA), polyacrylonitrile (PAN), polysiloxane, and so on, as the skeleton materials to cooperate with the lithium salt forming the dry polymer electrolyte.
+These polymer electrolytes usually have low room temperature ionic conductivity in the vicinity of 10−6 S/cm, which is nearly three orders of magnitude lower than that of the liquid electrolytes and could not satisfy the kinetic demands of real applications in ambient In order to improve the grain boundary ion transport surroundings.
+The other is the inorganic solid state electrolyte, mainly including sulﬁde and oxide compounds.
+The LISICON type LZGO has very low room temperature ionic conductivity around 10−7 S/cm.
+LAGP and LATP possess acceptable ionic conductivity.
+The bulk conductivity of LATP can be as high as 10−3 S/cm at room temperature.
+However, the grain boundary conductivity of LATP is nearly two orders of magnitude lower than the grain conductivity, generally of the order of 10−5 S/cm.
+The heat treatment processes have been investigated, including cold sintering, dry pressing, low temperature pressing, and varying calcination conditions.
+Doping has also been widely studied.
+Most of the above methods have improved the total conductivity to some extent and can enhance the grain boundary ionic conductivity.
+However, the improvement is not very signiﬁcant.
+Another route is to introduce the second phase into the pure LATP to modify the boundary, such as the ion insulator AlPO4, Al2O3, B2O3, MgO, Li2O,[25–29] or high dielectric constant materials like BaTiO3, SrTiO3,[28] and some poor lithium ion conductors with relative low melting point like Li2CO3, Li3PO4 as the sintering agent.
+These modiﬁcations do improve the grain boundary conductivity and increase the total conductivity, which could be caused by high compactness or high carrier concentration in the grain boundary.
+It is found that the LATP/LAGP bi-layer electrolyte or LLTO/LATP composite electrolyte received signiﬁcant effect on improving the total conductivity,[31,32] but the enhancement mechanism is not very clear and requires further investigation by using impedance spectra at a wide temperature range.
+Inspired by the previous efforts, in this paper, a similar but not well studied strategy is introduced.
+The LAGP is chosen as the second phase for the LATP due to its high grain boundary conductivity of 10−4 S/cm.
+It is almost one order of magnitude higher than that of the LATP.
+The main contents in this paper include: 1) solid state synthesis of the pure phase LAGP and LATP, 2) solid state synthesis of a series of composite electrolytes with LATP and LAGP by adjusting the weight ratio of the two electrolytes, 3) preparation and optimization of the ceramic sheets, 4) measurements of variable temperature AC impedance spectroscopy, 5) detailed data analysis and quantitative conclusion.
+The aluminum doped Li1.5Al0.5Ge1.5(PO4)3 (LAGP) was prepared through solid state reaction.
+The stoichiometric mixtures of GeO2, (NH4)2HPO4, Li2CO3, and Al2O3 were mixed for 1 hour in an agate mortar.
+The mixtures were then heated at 400 ◦C for 2 hours with a heating rate of 2 ◦C/min in air to release the volatile products.
+The heated mixtures were ballmilled for 8 hours and then pressed into pellets in a stainless steel die and sintered at 900 ◦C for 3 hours with a heating rate of 2 ◦C/min in air.
+The aluminum doped Li1.4Al0.4Ti1.6(PO4)3 (LATP) was prepared similarly like preparing the LAGP.
+The differenceslie in the original materials and the sintering process.
+The stoichiometric mixtures of TiO2, NH4H2PO4, Li2CO3, and Al2O3 were mixed for 1 hour in an agate mortar.
+The mixtures were then heated at 90 ◦C with a heating rate of 1 ◦C/min, then heated to 200 ◦C with a heating rate of 0.5 ◦C/min, ﬁnally heated to 400 ◦C with a heating rate of 0.5 ◦C/min to release the volatile products.
+The heated mixtures were ball-milled for 8 hours and then pressed into pellets in a stainless steel die and sintered at 900 ◦C for 5 hours with a heating rate of 2 ◦C/min in air.
+After synthesizing the pure phase LAGP and LATP, the powders of LAGP and LATP and a series of composite electrolytes with different LATP/LAGP weight ratios (labeled as pure LATP, 80:20, 50:50, 20:80, and pure LAGP) were pressed into sheets with a diameter of 10 mm and sintered at different temperatures from 750 ◦C to 950 ◦C with a 50 ◦C interval for 3 hours under a heating rate of 2 ◦C/min in air.
+The phase purity of the LAGP and LATP powders as well as the composite electrolytes that were sintered at 900 ◦C was examined at room temperature using a Bruker D8 Advance diffractometer with Cu-Kα radiation and a LYNXEYE detector.
+Data was taken in the range of 10◦–60◦ with 0.02◦ per step and a count time of 0.2 s at each step.
+The testing frequency range was from 1 Hz to 10 MHz and the temperature range was from 233 K to 293 K with a step of 10 K.
+The temperature was held for 30 min before each measurement.
+Both of the LAGP and LATP are pure phase and can be indexed to the R-3C space group, which is similar to the previous work.
+A slight peak shift toward the high angle direction is noticed in the LATP patterns compared to the LiTi2(PO4)3 pattern, which is due to the smaller ion radius of Al3+ (∼ 0.535 ˚A) compared with that of Ti4+ (∼ 0.605 ˚A).
+No signiﬁcant peak shift is found in the LAGP pattern compared with the LiGe2(PO4)3 pattern due to the similar ion radius of Al3+ (∼ 0.535 ˚A) and Ge4+ (∼ 0.530 ˚A).
+According to the previous literature results, the high frequency semicircle corresponds to the bulk impedance with the capacitance around 10−11 F and the middle frequency semicircle corresponds to the grain boundary impedance with the capacitance aroundFig.
+XRD patterns of (a) Li1.5Al0.5Ge1.5(PO4)3 and (c) Li1.4Al0.4Ti1.6(PO4)3, PDF cards for (b) LiGe2(PO4)3 and (d) PDF card LiTi2(PO4)3.10−9 F.
+Besides, it is easy to see that LAGP has similar apparent resistivity for the bulk and the grain boundary, while LATP has about two orders of magnitude difference in the resistivity between the bulk and the grain boundary, which is similar to the previous results.
+Therefore, the existence of large grain boundary resistance of LATP signiﬁcantly lowers the total conductivity.
+Figure 3 shows the relationship of the compactness and grain boundary conductivity with the sintering temperature for the LAGP ceramic sheet.
+The compactness displayed in Fig.3 is calculated according to the mass and geometry parameters of the ceramic sheet and the apparent grain boundary conductivity is calculated according to the following equation:where R is the grain boundary response impedance, d is the thickness of the ceramic sheet, and A represents the area of the ceramic sheet.
+From Fig.4(a), it can be inferred that pure LATP has an enormous difference in the conductivity between the bulk and the grain boundary under varying temperature, while the pure LAGP has similar bulk and grain boundary conductivity.
+However, with the increasing weight ratio of LAGP to LATP, the difference between the bulk and the grain boundary becomes smaller, which can be inferred from Figs.4(b)–4(d) and this result indicates that the composite electrolytes 80:20, 50:50,Fig.
+The hollow dot in Fig.4(f) represents the experiment data while the dashed line is the simulation results, which is calculated according to the following equation:where EaCal stands for the calculated activation energy, EaLATP is the activation energy of pure LATP, and EaLAGP represents the activation energy of pure LAGP, x is the volume ratio of LATP in the composite electrolytes, which can be roughly calculated according to the mass ratio and density of LATP in thecomposite electrolytes.
+According to the previous literature results,[33] the bulk response appears at the high frequency region and the grain boundary response occurs at the middle frequency region.
+The inner relationship can be explained by the following equation:[33]Cbulk.
+Figures 7(a)–7(c) indicate that the bulk response capacitance Cbulk changes slightly with a typical value around 4.5× 10−11 F under the varying sintering temperature, while the grain boundary response capacitance changes about three times from 8.7× 10−10 F to 2.7× 10−9 F.
+Both the bulk and the grain boundary capacitances can be calculated according to the following equation:where R is the response impedance, C is the capacitance, ω is the circular frequency that equals to 2π f , and τ is the characteristic relaxation time constant, which is closely related to the ion transport properties.
+The electrolyte 80:20 possesses the highest bulk response frequency as illuminated in Fig.6(a), while the electrolyte 20:80 has the highest grain boundary response frequency, which corresponds to the minimum characteristic relaxation time constant.
+These results are consistent with the enhanced bulk and grain boundary conductivity in electrolytes 80:20 and 20:80 as illustrated in Figs.5(b) and 5(c).
+Sample LATP 80–20 50–50 20–80 LAGPthe bulk conductivity enhancement mechanism, which has been discussed in the above paragraph, the compactness has very little impact on the accurate measuring of the bulk conductivity, as illustrated in Fig.7(d).
+However, the electrolyte 80:20 has higher bulk conductivity than the pure LATP, which could not be interpreted with Eq.(3).
+As the bulk conductivity is an intrinsic variable and mainly inﬂuenced by the crystal structure, this means that the crystal structure of the electrolyte 80:20 should be different from that of pure LATP and LAGP, such as the lattice parameters or the carrier concentration.
+To further discuss the enhancement of the ionic conductivity, detailed structure information of the composite electrolytes is necessary.
+From Fig.9(b), it can be clearly seen that with the increased LAGP weight ratio in the composite electrolytes, the peak around 21.2◦ shifts toward the high angle direction continuously, which is due to the larger lattice parameters of LATP than those of LAGP.
+Figure 9(c) shows that only the electrolyte 80:20 is pure phase with similar crystal structure as the original LATP.
+The chemical formula of electrolyte 80:20 can be expressed as Li1.42Al0.42Ge0.3Ti1.28(PO4)3, with small lattice parameters and large lithium ion concentration come wide lithium ion pathway and carrier concentration, which ﬁnally induce higher bulk conductivity.
+The electrolytes 50:50 and 20:80 are not single phase which consist of little LATP phase and some Li1+xAlxGeyTi2−x−y(PO4)3 solid solution phase that may have very high grain boundary conductivity.

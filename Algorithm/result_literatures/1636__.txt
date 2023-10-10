@@ -1,0 +1,128 @@
+NASICON (Na3Zr2Si2PO12)-based potentiometric NO2 devices, such as Au-attached, (ITO, NaNO2)-attached and (ITO, NaNO2–Li2CO3)attached types, were fabricated and their NO2 sensing properties were investigated in the range of 2–7 ppm NO2 under 1–50% relative humidity (RH) between 30 C.
+The Au-attached device had a NO2 sensing capability under wet condition (30% RH) without an auxiliary phase, although it showed no EMF response under dry condition (below 1% RH).
+This result suggests that NO2 sensing reaction of the device is closely related with water vapor.
+To enlarge the NO2 sensitivity at room temperature, a (metal, nitrite)-attached device was fabricated by combining ITO with NaNO2. 
+The EMF change of the (ITO, NaNO2)-attached device was estimated to be 43.6 mV under 30% RH in the range of 2–7 ppm NO2 and enlarged remarkably in comparison with 17.7 mV of the Au-attached device.
+However, the NO2 sensitivity of the (ITO, NaNO2)-attached device was not only ﬂuctuated by the change of relative humidity, but the EMF values shifted upward with increasing humidity at a ﬁxed NO2 concentration.
+It is considered that this originates from the fact that a nitrite auxiliary phase is easy to dissolve in water.
+Therefore, Li2CO3 with durability to water vapor was melted together with NaNO2 and used as the auxiliary phase of the (ITO, NaNO2)-attached device.
+As the result, it was found that the EMF change of the (ITO, NaNO2–Li2CO3)-attached device was constant almost without depending on humidity.
+The EMF values of the device were also proportional to the logarithm of NO2 concentration and well consistent with theoretical values obtained from the Nernstian equation.
+
+The NOx (NO and NO2) concentration in the atmosphere has been generally measured by spectroscopic instruments based on chemical luminescence and infrared absorption.
+These apparatuses, however, are not only expensive, but also inapplicable to determination of the NOx concentration because of its maintenance and time-consuming sampling.
+In contrast, gas sensors using ceramics surpass them in gas sensing properties such as gas sensitivity, response time and long-term stability, in addition to maintenance and commercial price.
+Especially, potentiometric NOx devices using solid-state electrolyte attached with a nitrate or a nitrite compound (NaNO3, NaNO2–Li2CO3 and so on) have been attracted a great deal of attention from viewpoint of their practical use.
+This type device has a high selectivity, because it detects an objective gas from the electrochemical reaction.
+Usually, the potentiometric NOx device must be operated at elevated temperature (above 150 C) to advance the electrochemical reaction smoothly.
+This means that the potentiometric NOx device contains a weak point should be improved in consumption electric power.
+Also the devices combined with a heating element have difﬁculties in downsizing.
+If the NO2 sensing at room temperature becomes available, the heater can be eliminated from the sensor system, so that the sensor can be manufactured much smaller and simpler, and operated easily with an electric cell.
+Recently, it has been reported that the solid-state electrolyte devices attached with a metal oxide (Sb-doped SnO2, In2O3, ITO: indium tin oxide) and a metal carbonate (Na2CO3 and Li2CO3–BaCO3) exhibit CO2 sensing capability even at room temperature.
+The large advantage of the solid-state electrolyte device is to be able to detect target gas by choosing a metallic salt as an auxiliary phase .
+Accordingly, it is conceivable that a solid-state electrolyte device attached with a metal oxide and a nitrite can detect NO2 gas even at room temperature in ambient atmosphere.
+In the present study, we have studied the NO2 sensing properties of a NASICON (Na3Zr2Si2PO12: Na+ super ionic conductor)-based potentiometric device using ITO and nitrite compounds (NaNO2, NaNO2–Li2CO3) in detail and proposed the NO2 sensing mechanism of the device based on experimental informations.
+NASICON (Na3Zr2Si2PO12: Na+ super ionic conductor) as a solid electrolyte were prepared by a sol–gel technique using Si(OC2H5)4, Zr(OC4H9)4, PO(OC4H9)3 and NaOC2H5. These alkoxides were stoichiometrically dissolved in an ethanol solvent containing HNO3 and allowed to stand about 20 h under stirring.
+This operation was carried out in a dry N2 atmosphere and the ethanol solvent was kept at 60 C.
+Then, the distilled water was added to the ethanol solution for the hydrolysis.
+The resulting precipitates were dried at 120 C in air for 24 h.
+After calcined at 750 C in air for 1 h, the precursor powders were compacted into a disk (9 mm in diameter and 1.2 mm thick).
+The disk was sintered at 1200 C in air for 5 h and polished with a sand paper.
+As previously reported, ITO (Sn-doped In2O3) was chosen as a metal oxide because the CO2 device using ITO as a sensing material showed excellent sensing capabilities even at room temperature.
+Ten atomic percent Sn-doped In2O3 powders were conventionally prepared from an aqueous mixed solution of InCl3 and SnCl4. 
+Then, the powders were calcined at 1000 C in air for 5 h.
+A nitrite compound was synthesized by calcining a mixture of NaNO2 and Li2CO3 powders (9:1 in molar ratio) at 360C in air for 10 min.
+Two types of devices were fabricated by combining NASICON disks with sensing electrode materials, such as Au, ITO and an auxiliary phase (NaNO2 or NaNO2–Li2CO3), as schematically drawn in Fig.1.
+ To fabricate Au-attached type device (type-A), both of the counter and the sensing electrodes were constructed by using a gold paste, followed by calcination at 800 C in air for 2 h (Fig.1(a)).
+A device of type-A without an auxiliary phase was called type-A1, while a NaNO2-attached one called type-A2. 
+For an (Au, NaNO2)-attached device (typeA2), a NaNO2 paste mixed with ethyleneglycol was applied on the top of the sensing electrode (Au).
+For an ITO-attached type device (type-B), the counter electrode (Au) was prepared in the same manner, while the sensing electrode of the device was formed by applying ITO powders assisted with a nitrite compound as the auxiliary phase (Fig.1(b)).
+For a type B, ITOattached device without an auxiliary phase was called type-B1. 
+Furthermore, ITO-attached devices were constructed by using nitrite compounds, such as NaNO2 and NaNO2–Li2CO3, which were called type-B2 or type-B3, respectively.
+The attachment of sensing electrode was carried out by calcining the whole assembly at 320 C in air for 5 min.
+The counter electrode was covered with a protective layer (an inorganic adhesive) to isolate from water vapor and NO2 in atmosphere.
+Gas sensing properties of the NASICON-based device were measured in a conventional gas-ﬂow apparatus equipped with a heating facility in the temperature range of 30–150 C.
+Sample gases consisting of air, NO2 and H2O were prepared by diluting a parent NO2 gas (10 ppm NO2 in dry synthetic air) with wet and/or dry synthetic air.
+The wet air was prepared by allowing the dry air to bubble through water.
+The concentration of NO2 and relative humidity (RH) in the sample gas were varied in the range of 2–7 ppm NO2 and of 1–50% RH, respectively.
+The sample gases let to ﬂow over the sensing electrode at a rate of 0.1 dm3/min.
+The electromotive force (EMF) of the sensing device was measured with a digital electrometer.
+In potentiometric NO2 devices using a solid-state electrolyte, an auxiliary phase, such as a nitrite or a nitrate, is inevitable to form an NO2 sensing interface in combination with a sensing electrode.
+The Au-attached device (type-A1) was ﬁrstly fabricated without an auxiliary phase and the gas sensing properties to NO2 were examined.
+Fig.2(a) shows the EMF response transients of type-A1 to variations in NO2 concentration under 30% RH at 30 C.
+When NO2 concentration was changed from 2 ppm  4) to 3 ppm in a measuring chamber, the EMF change (EMF )  4) NO2 stands for the increments in EMF was 4.3 mV.
+Here EMF NO2 on increasing the NO2 concentration from 2 ppm to 3 ppm.
+The EMF change became large as the NO2 concentration increased from 2 ppm to 7 ppm and ﬁnally reached up to 17.7 mV.
+Each 90% response time to stepwise changing NO2 concentration wasestimated to be about 10 min.
+This result indicates that type-A1 can detect NO2 gas without an auxiliary phase.
+Thus, type-A1 using NASICON cannot be simply classiﬁed to Type III sensor, according to the classiﬁcation by Weppner.
+This is confusing, because it is impossible to set-up NO2 sensing electrochemical theoretically.
+The gap between practice and theory can be buried if the auxiliary phase is assumed to be formed spontaneously.
+It is well known that upon exposure of a NASICON disk to humid atmosphere at low temperature, trace impurities of NASICON are soaked out at the surface .
+For example, it is suspected that Na2O in NASICON reacts with NO2 gas and auxiliary phases such as NaNO2 and NaNO3 are spontaneously formed on the NASICON surface, as given in Eq.(1). The transients of type-A2 were somewhat larger and sharper than those of type-A1 as shown in Fig.2(b).
+The EMF change was estimated to be 21.6 mV to the change of NO2 concentration from 2 ppm to 7 ppm.
+Furthermore, the EMF response transients of type-A1 and type-A2 were measured in the range of 1–50% RH at 30 C, the gas sensitivities of type-A1 became gradually small with decreasing relative humidity and ultimately disappeared below 1% RH, as seen in Fig.3(a).
+At 150 C, type-A1 had high sensitivities even under low relative humidity, although it showed no EMF response transients between 60 C.
+These results suggest that the NO2 sensing reaction of the device relates closely with water vapor.
+On the other hand, NO2 sensitivities of type-A2 were obviously improved between 60 C as seen in Fig.3(b), in comparison with those of type-A1 without an auxiliary phase.
+This means that a NaNO2 auxiliary phase raises the gas sensitivities of the device.
+In addition, it is pointed out above 100 C that type-A1 and type-A2 show the gas sensitivities through the means of direct reaction between NO2 and an auxiliary phase.
+C and 100C and 1003.1.2. ITO-attached type device (type-B)As already reported, the solid-state electrolyte CO2 device attached with a metal oxide and a metal carbonate has an excellent CO2 sensing capability in wet atmosphere at room temperature .
+It is considered that the roles of the metal oxide are to maintain the physisorbed water on the surface and to supply moisture to the sensing electrode.
+Such the effect of metal oxide may turn up in the present NO2 device.
+Therefore, an improvement of sensing properties of the device at room temperature was planned by using a metal oxide and type-B2 was fabricated by combining ITO with NaNO2. 
+As shown in Fig.4(a), the EMF response transients of type-B2 are fairly sharper and larger than those of type-A1 and type-A2 due to assistance of metal oxide.
+The EMF change of type-B2 was improved more remarkably in comparison with the results of the ITO-unattached device and estimated to be 43.6 mV under 30% RH in the range of 2 ppm to 7 ppm NO2. 
+Fig.4(b) shows the relationships between the EMF values and NO2 concentrations under 30% RH at 30 C.
+The EMF values were proportional to the logarithm of NO2 concentration.
+In general, when the EMF is proportional to the logarithm of activity or partial pressure, the EMF change is analyzed by using Nernstian equation.
+Here, the n is the number of electrons associated with the electrode reaction of NO2, P the partial pressure, R the gas constant, T the absolute temperature and F is the Faraday constant.
+According to Nernstian equation, the slope of type-B2 was evaluated to be n = 0.75.
+Furthermore, the ITO-attached device (type-B1) was fabricated without an auxiliary phase and the NO2 sensing properties were measured to examine a necessity of the auxiliary phase in type-B2.
+Here EMF stands for the increments in EMF on NO2 increasing the NO2 concentration from 2 ppm to 7 ppm.
+It was found that type-B1 was insensitive to NO2 concentrations below C.
+In contrast, type-B2 combined ITO with nitrite com100 pound exhibited high NO2 sensitivities at each temperature.
+For the both devices, NO2 sensitivities at 60 C decreased than those at 30 C.
+It is conceivable that this originates from desorption of physisorbed water in the vicinity of sensing electrode with temperature increment, as pointed out for a NASICON-based CO2 device.
+From the aforementioned results, we tentatively propose the following NO2 sensing reactions.
+The results for type-A1 and type-A2 indicate that NASICON-based NO2 device attached with ITO and NaNO2 may be belonged to Type III sensor.
+It is also obvious from the results for type-B1 and type-B2 that NaNO2 as an auxiliary phase enhances the NO2 gas sensitivities and metal oxide as a sensing electrode material plays an important role in NO2 sensing electrode reaction.
+Thus, a cell structure of this electrochemical device is expressed as the followings: air, Au| NASICON(Na3Zr2Si2PO12)| NaNO2, ITO, Au, air + NO2 The gas sensing mechanism of type-B2 attached with ITO and NaNO2 may be distinguished in the low temperature region (below 60 C).
+The existence of physisorbed water on ITO seems to be anC) and the high temperature region (above 100 4) 
+There is the possibility that the physisorbed water behaves just like a solvent and transports chemical species (NO2) involved in the electrode reaction, as written in Eq.(3).
+Furthermore, the electrochemical reaction between NO2 ion and NaNO2 in equilibrium may be given by Eq.
+In this case, the total reaction is given by+ + NO2 + e On the other hand, the NO2 detection at a temperature above ◦ C can be explained by direct reaction between NO2 and 100 an auxiliary phase.
+In other word, the electrochemical reaction between NO2 gaseous and NaNO2 in equilibrium is promoted as written in the following equation:+ + NO2 + e  4) As written in Eqs.
+The electrode potentials in the reaction (5) or (5) and (6) are respectively expressed as Eqs.
+The observed EMF is given as a potential difference between the sensing and the counter electrodes.
+In the present condition, PO2, aNaNO2 and aNa2O are kept constant,)) and aNa+ is assumed n is equal to 1 in the reaction ((5) or (5 to remain unchanged through the measurement.
+
+These n values are close to n = 1 in the range of 60–100 C and are consistent with above assumption as described in Eq.(5)  
+However, the n value of the measurement at 303.3.1. NO2 sensitivities of type-B attached with NaNO2Subsequently, the EMF response transients of type-B2 to NO2 were examined under various humidity conditions at 30 C.
+The NO2 concentration was changed between 2 ppm and 3 ppm.
+The EMF change became gradually larger with increasing relative humidity below 30% RH, while it decreased above 40% RH, as shown in Fig.6(a).
+The dependence of EMF change to relative humidity was also studied in the temperature range of 30–100 C.
+As shown in Fig.6(b), the NO2 sensitivities of type-B2 were ﬂuctuated by the change of the humidity condition at each temperature.
+It is, of course, difﬁcult to detect NO2 gas concentration in the atmosphere exactly by the device under such the situation.
+The gas sensitivities of type-B2 tend to be degenerated in higher relative humidity and the results are different from those of type-A1 and type-A2. 
+This suggests that the Na+ electrochemical potential is varied by the change of relative humidity.
+In the case of the NO2 device using the NASICON (sensing electrode)/NaNO2 (auxiliary phase) combination, the electrochemical chain is attained with the common mobile ions
+In the vicinity of the sensing or counter electrode, these functions change with a change in atmosphere due to electrode reactions, leading to a change in the EMF of the device.
+In other word, the deliquescence of the auxiliary phase causes the change of electrochemical potential of Na+, leading to the instability of EMF responses on increasing humidity change.
+As mentioned above, water vapor exerts a serious inﬂuence to the characteristic of the NASICON-based NO2 device attached with NaNO2 as the auxiliary phase.
+This originates from that nitrite is easy to dissolve in water.
+Therefore, the improvement of NO2 sensing properties under wet atmosphere at room tem-perature was attempted to combine ITO with NaNO2–Li2CO3 (9:1 in molar ratio) as the auxiliary phase (type-B3), as reported in Ref.
+Fig.7(a) shows the EMF response transients of type-B3 to NO2 concentration between 2 ppm and 3 ppm NO2 under various humidity conditions at 30 C.
+The EMF responses were fairly stabilized even under higher humidity conditions, in comparison with the results of type-B2. 
+Fig.7(b) shows the EMF change of type-B3 in the range of 1–50% RH at various operation temperatures.
+At each temperature, the EMF change is constant almost without depending on humidity.
+These results are indicating the importance to use an auxiliary phase material with water-resisting property on the development of the device operative under wet condition at room temperature.
+Fig.8(a) shows the EMF values versus NO2 concentrations of type-B3. The measurement was carried out in the range of 2–7 ppm NO2 at 30 C under 30% RH.
+Type-B3 showed sharp EMF response transients and reversible EMF responses to stepwise changing the NO2 concentrations.
+The EMF values were also proportional to the logarithm of NO2 concentration with n = 1.02, as shown in Fig.8(b).
+The value of n was fairly close to 1.
+Furthermore, the relationship between the EMF at a ﬁxed NO2 concentration and relative humidity was investigated for type-B2 and type-B3. 
+However, the NO2 sensitivity of the (ITO, NaNO2)-attached device was not only ﬂuctuated by the change of the humidity condition, but the EMF values shifted upward with increasing humidity.
+The EMF change of(9:1 in molarthe ITO-attached device with NaNO2–Li2CO3 ratio) as an auxiliary phase was constant almost without depending on humidity.
+The EMF values of the device were also proportional to the logarithm of NO2 concentration and well consistent with theoretical values obtained from the Nernstian equation.
+

@@ -1,0 +1,217 @@
+A  phase  transition  between  295  and  473  K  from monoclinic  C2/c  to  rhombohedral  R-3c  is  observed  for  the  N3  compositions,  while  N2  compositions crystallize  in  a  rhombohedral  R-3c  unit  cell  in  this  temperature  range.
+Alternating  current  (AC) impedance  spectroscopy,  molecular  dynamics  (MD)  and  high  temperature  23Na  NMR  studies  are  in good agreement, showing that with a higher Sc3+ concentration, the ionic conductivity (about 10-4 S/cm at  473  K)  decreases  and  the  activation  energy  for  ion  diffusion  increases.
+23Na  NMR  experiments indicate  that  the  nature  of  the  Na+-ion  motion  is  two-dimensional  on  the  local  atomic  scale  of  NMR although  the  long-range  diffusion  pathways  are  three-dimensional.
+In  addition,  a  combination  of  MD, bond  valence,  maximum  entropy/Rietveld  and  van  Hove  correlation  methods  has  been  used  to  reveal that  the  Na+-ion  diffusion  in  these  NASICON  materials  is  three-dimensional  and  that  there  is  a continuous exchange of sodium ions between Na(1) and Na(2) sites.
+ACS Paragon Plus EnvironmentPage 3 of 43Chemistry of Materials1. Introduction Rechargeable  lithium  ion  batteries  (LIBs)  have  come  to  dominate  portable  electronics  over  the  past two decades, primarily due to their light weight and high energy density.
+However, there are concerns over the safety of LIBs and the abundance and cost of lithium.
+Sodium ion batteries (NIBs) are being actively investigated as an alternative, since sodium is more abundant and lower in cost whilst offering a similar  intercalation  chemistry  to  lithium.
+Nevertheless,  safety  issues  related  to  flammable  liquid electrolytes  remain  a  serious  concern.
+In  contrast,  all  solid-state  batteries  (ASSBs),  which  use  non-flammable ion-conducting solid electrolytes, have been considered as potential candidates for alternative energy  storage  devices.
+One  such  family  of  candidate  solid  electrolytes  is  the  NASICON  (sodium (NA) SuperIonic CONductor) class of materials, which offer both high chemical stability and high Na+ mobility within a three-dimensional (3D) framework.
+NASICON-type crystal structures have been widely investigated and debated since the 1980s.
+The challenges associated with structure determination arise from two main factors: first, the difficulty in  obtaining  stoichiometric  compositions  due  to  possible  sodium  sublimation  at  high  temperature  and corresponding formation of ZrO2 during synthesis;25 second, the crystal structure varies according to the synthesis procedure and also to the thermal history of the sample.
+Three models are generally used to describe the possible crystal structures for NASICON materials: 1) α–NASICON: C2/c, a ≈ 15.1 Å, b ≈ 8.7  Å,  c  ≈  21.6  Å  and  β  ≈  90.2o,  which  appears  usually  at  low  temperature  close  to  300  K;12,28  2) β–NASICON: C2/c, a ≈ 15.1 Å, b ≈ 8.7 Å, c ≈ 8.8 Å and β ≈ 124o, which crystalizes at intermediate temperature  between  300  K  and  450  K.γ–NASICON:  R-3c,  a  ≈  8.7  Å  and  c  ≈  21.9  Å,  is  the structure with the highest symmetry in the NASICON materials and can be obtained above 450 K.18,30 ACS Paragon Plus EnvironmentChemistry of MaterialsPage 4 of 43One interesting feature of the NASICON framework is the variety of accessible compositions within the general formula NaxM2(SiO4)z(PO4)3-z,31,32 in which x can vary between 0 and 4, and M can be di-,  tri-,  tetra and  penta-valent  transition  metal  cations.
+By  substituting  on  the  M  site,  one  can  tune  the electrochemical and ion conduction properties for specific applications.
+NASICON materials have been used simultaneously as both an  electrode  (Na3V2(PO4)3)  and  an  electrolyte  (Na3Zr2(SiO4)2(PO4)),  to  form  an  all  solid-state  battery that presents homogeneous interfaces between the electrodes and the electrolyte.
+Na3Zr2(SiO4)2(PO4)  is  the  first  reported  NASICON  composition  with  a  high  ionic  conductivity  (0.2 S/cm at 573 K).
+Among the different possible M3+ cations, scandium Sc3+ is the most similar to Zr4+ since both ions have empty  d orbitals and an essentially identical ionic radius.
+Na3Sc2(PO4)3 has been reported to have a high ionic conductivity (10-2 S/cm at 573 K).
+In addition, as recently reported by Ma et al,36 Sc3+-containing NASICON compositions are promising electrolyte candidates since scandium is not redox active which results in a wide chemical stability window.
+In this work, we investigate the crystal structures and Na+ ion transport properties of Sc3+-substituted NASICON  materials  Na3ScxZr2-x(SiO4)2-x(PO4)1+x  (referred  to  as  N3,  x  =  0,  0.25,  0.50,  0.75,  1.0)  and Na2ScyZr2-y(SiO4)1-y(PO4)2+y  (referred  to  as  N2,  y  =  0,  0.25,  0.50,  0.75,  1.0)  which  are  intermediate phases  in  the  NaZr2(PO4)3  –  Na4Zr2(SiO4)3  –  Na3Sc2(PO4)3  system  (Figure  1).
+We  synthesized  these samples using solid-state methods and performed neutron powder diffraction (NPD) and synchrotron X-ray  diffraction  (SXRD)  measurements  to  investigate  their  crystal  structures.
+Solid-state  23Na,  31P,  and 29Si  magic  angle  spinning  (MAS)  nuclear  magnetic  resonance  (NMR)  spectroscopy  investigations together with ab initio magnetic calculations provide insights into both the local structure and Na+ ion dynamics.
+The Na+ ion transport properties are then investigated by combined experimental (NMR and alternating current (AC) impedance) and atomistic molecular dynamics (MD) techniques.
+ACS Paragon Plus EnvironmentPage 5 of 43Chemistry of MaterialsFigure 1. The relation between the end members NaZr2(PO4)3—Na4Zr2(SiO4)3—Na3Sc2(PO4)3  and the investigated samples of Na3ScxZr2-x(SiO4)2-x(PO4)1+x (N3, blue) and  2. Methods Synthesis.
+Na2CO3, Sc2O3, ZrOCl2·8H2O, SiO2 (fumed, dried at 773 K for 3 hours) and NH4H2PO4 were used  as  raw  materials  for  the  synthesis  of  the  target  compositions.
+Na2CO3,  ZrOCl2·8H2O  and NH4H2PO4 were first mixed in mortar and cold pressed into pellets.
+The pellets were heated at 443 K for 2  hours  and  then  at  673  K  for  3  hours  to  evaporate  water  and  decompose  NH4H2PO4.  After  cooling down to room temperature, the pellets were ground, mixed with Sc2O3 and SiO2, and finally ball milled (zirconia beads/powder = 3/1 in mass ratio, 400 rpm, 2 hours) to yield a homogeneous fine powder.
+The pristine mixture was cold pressed, fired at 1473 K for 12 hours, and pulverized after being cooled down to ambient temperature.
+ACS Paragon Plus EnvironmentChemistry of MaterialsPage 6 of 43Diffraction.
+NPD  patterns  were  collected  using  the  high-resolution  D1B  diffractometer  at  Institute Laue-Langevin (Grenoble, France).
+High quality diffraction patterns were recorded between 2θ ranges of 0 to 130°, with a step size of 0.1°, accumulated over 2 hours.
+SXRD experiments at 295 and 473 K were  performed  at  the  11BM  beam  line  (APS,  Argonne  National  Lab,  US)  using  a  wavelength  of 0.414209 Å.
+Rietveld refinements of the crystal structure including lattice parameters, atomic positions, occupancy and atomic displacement parameters (ADPs), were performed using the Fullprof package.
+Using the ‘Bond_Str’ interface in the same package, bond valence energy landscape calculations have been performed.
+In this method, the Rietveld refined structural model is used as input.
+The unit cell is then considered as a grid containing small units with size of a/10 x b/10 x c/10. The energy of locating a Na+  ion  in  each  unit  is  calculated  using  the  bond  valence  parameters.
+The  bond  valence  energy landscape  map  is  then  obtained  by  setting  an  energy  threshold  (1eV  in  our  case).
+Furthermore,  the Maximum Entropy Method (MEM)/Rietveld analysis was carried out using the RIETAN-FP software.
+DSC measurements were performed using a Netzsch DSC 204F1 apparatus operating at heating/cooling rates of 10 K min-1 between 238 K and 623 K.
+During the measurement, samples were heated from 298 K to 623 K, cooled down to 238 K, heated to 623 K and then back to 298 K.AC impedance.
+The ionic conductivity was measured using pellet samples, which had been sintered in a FCT Spark Plasma Sintering apparatus at 100 K min-1 up to 973 K for 30 minutes under an applied pressure of 100 MPa and under vacuum.
+The sintered pellets (of 90% compactness) were polished and then metalized on each face by gold sputtering using a Bal-Tec SCD 050. AC impedance measurements were  performed  under  argon  atmosphere  to  avoid  any sample  contact  with  oxygen  and/or  moisture  at various stabilized temperatures ranging from 298 to 573 K (upon heating and cooling in steps of 25 K) using  a  Bio-Logic  MTZ-35  Impedance  Analyzer.
+A  frequency  range  of  30  MHz  to  0.1  Hz  and  an ACS Paragon Plus EnvironmentPage 7 of 43Chemistry of Materialsexcitation  voltage  of  0.1  V  were  applied  during  the  measurements.
+Using  a  Nyquist  plot  of  the experimental data, the ionic conductivity σ was then calculated using the equation (1): in which h is the thickness of the solid electrolyte pellet, S the pellet surface and R the total resistance obtained from the measurement.
+Powder  samples  were  packed  into  2.5,  4.0,  or  7.0  mm  ZrO2  rotors (Bruker)  and  closed  with  Kel-F  or  BN  caps  for  ambient  temperature  (RT)  and  high  temperature  (HT) NMR  experiments,  respectively.
+HT  (320  to  875  K)  23Na  MAS  NMR  (4  kHz  MAS  frequency) measurements  were  performed  at  9.4  T  (Avance  I  console)  using  a  Bruker  double  resonance  7.0  mm MAS probe with laser heating of the sample.
+A temperature calibration using KBr was done prior to the measurements.23Na  NMR  signal  line  shapes  were  determined  by  one-pulse  experiments  with  high power pulses of 2.15 µs and a repetition time of 0.1 s.
+A saturation recovery pulse sequence was applied to  determine  23Na  spin-lattice  relaxation  time  constants  (T1)  at  variable  temperatures.
+The  23Na  NMR shifts were referenced to a 1 M NaCl solution in D2O.
+RT 31P MAS NMR (30 kHz MAS frequency) experiments were performed at 9.4 T using a Bruker 2.5 mm triple resonance MAS probe on an Avance I console.
+P signals were referenced to ammonium dihydrogen phosphate.
+A one-pulse sequence with high power 0.75 µs pulses and a recycle delay of 1.0 s was applied to acquire the spectra.
+RT 29Si MAS NMR (14 kHz MAS frequency) measurements were performed at 11.7 T (Avance III console) using a triple  resonance  4.0 mm  MAS  probehead.
+Signal  shifts  have  been  referenced trimethylsilylpropanoic  acid  at  0  ppm.
+The  spectra  were  acquired  by  applying  a  one-pulse  sequence with the pulse length of 1.30 µs and a recycle delay of 60 s.
+NMR data acquisition, processing, and raw ACS Paragon Plus EnvironmentChemistry of MaterialsPage 8 of 43data handling were done using the Bruker Topspin 3.2 package.
+Activation energies (Ea) were derived by fits of the temperature dependent 23Na T1 values applying both a Bloembergen−Purcell−Pound (BPP, 3D  diffusion)  and  a  2D  diffusion  model47,48  using  in-house  Mathematica  scripts.
+Details  on  the  BPP equation and 2D diffusion model are given in the SI.
+Density functional theory calculations of NMR tensors.
+Ab initio calculations of local structure and NMR  tensors  were  performed  with  the  CASTEP  8.0  plane  wave  code.
+The  electron  exchange-correlation  energy  was  treated  with  the  Perdew–Burke–Ernzerhof  (PBE)52  generalized  gradient approximation  (GGA)  functional.
+Valence  electrons  were  described  with  “on-the-fly”  ultrasoft pseudopotentials53 and Koelling–Harmon scalar relativistic effects were included.
+Reconstruction of the all-electron wave function with the gauge-including projector augmented-wave (GIPAW) method54 was carried out to compute NMR tensors in the periodic systems.
+For all calculations, the Brillouin zone was sampled using a Monkhorst–Pack55 grid with a k-point spacing of 0.05 × 2π Å–1 and the maximum plane wave kinetic energy cut-off was 700 eV.
+Convergence was verified with respect to total energy (1 × 10–3  eV·atom–1), 31P magnetic shielding (±0.1 ppm) and 29Si magnetic shielding (±0.05 ppm).
+Chemical shift (δiso) and calculated shielding (σiso) are related via the linear expression: In principle, if the slope of this line is assumed to be –1, a single comparison between calculation and experiment of a known structure will yield the reference shielding.
+In practice, when possible, it is more reliable if multiple sites are compared between theory and experiment and linear regression employed to determine  the  slope  and  reference  shielding.
+The  latter  strategy  was  employed  in  this  work  and  the relations for both 31P and 29Si are taken from the literature; δiso(31P) = –0.8618 × σiso(31P) + 237.7 ppm ACS Paragon Plus EnvironmentPage 9 of 43Chemistry of Materialsfrom Diez-Gómez et al. and δiso(29Si) = –0.9958 × σiso(29Si) + 327.3 ppm from a recent work by some of  the  authors.
+58  Starting  structures  were  taken  from  the  refined  structural  models  using  synchrotron data.
+The structures were geometry optimized using DFT forces until the change in energy, maximum atomic force,  and maximum atomic displacement were less than 2 × 10–5and 1 × 10–3 Å, respectively.
+Ion diffusion at finite temperature was modelled using interatomic potential  based  molecular  dynamics  (MD),  which  has  been  applied  successfully  to  other  battery materials.
+The parameters of the interatomic potentials were taken  from the  extensive library  of potentials developed by Pedone et al.
+Prior  to  the  MD  simulations,  these  parameters  have  been  used  to  perform  energy  minimization calculations.
+The simulated unit cell parameters and bond lengths are close to experimental values with a deviation  less  than  2%.
+For  each  composition,  based  on  the  crystal  structure  determined  from  the diffraction techniques, a supercell containing about 8,000 atoms (1296 and 864 Na+ ions in N3 and N2 type  compositions,  respectively)  was  first  energy  minimised  and  then  MD  was  applied  for  15 nanoseconds  with  a  time  step  of  0.002  picoseconds.
+Several  simulation  runs  at  various  temperatures (373K, 473K, 573K, 673K, 773K) were performed using the NPT ensemble.
+To monitor the diffusion, after  the  system  had  reached  equilibrium,  the  mean  squared  displacement  (MSD)  of  Na+  ions  was resolved as: ACS Paragon Plus EnvironmentChemistry of MaterialsPage 10 of 43with N equals the number of Na+ ions in the simulation cell, ݎ௜ሺݐሻ and ݎ௜ሺ0ሻ are the positions of Na+ ion  number  i  at  time  t  and  time  0,  respectively.
+The  chemical  diffusion  coefficients  (Dc)  were  then calculated from the relation: The  tracer  diffusion  coefficients  (Dt)  were  derived  in  a  similar  way  using  the  mean  displacement squared  (MDS).
+The  MSD  plots  for  the  sample  Na3Sc0.25Zr1.75(SiO4)1.75(PO4)1.25  at  various  simulation temperatures  are  presented  in  the  Supporting  Information.
+The  ionic  conductivities  were  calculated according to the Nernst-Einstein equation: in which f is the correlation factor defined as the ratio of Dc over Dt, n is the density of charge carrier (number  of  Na+  ions  per  volume  unit),  q  the  charge,  k  the  Boltzmann  constant  and  T  the  system temperature.
+Calculations  of  Van  Hove  correlations  were  calculated  and  plotted  according  to  the procedure given in SI.
+The  crystal  structures  of  Na3ScxZr2-x(SiO4)2-x(PO4)1+x  and  Na2ScyZr2-y(SiO4)1-y(PO4)2+y (x,  y  =  0,  0.25,  0.50,  0.75  and  1)  have  been  investigated  first  using  diffraction  techniques.
+For  each ACS Paragon Plus EnvironmentPage 11 of 43Chemistry of Materialscomposition,  the  synchrotron  X-ray  diffraction  data  have  been  collected  at  295  K  and  473  K.
+For  N3 compositions (Na3ScxZr2-x(SiO4)2-x(PO4)1+x) at 295 K, the diffraction patterns can be indexed using the β–NASICON model (C2/c, Supporting  Information Table S1).
+To illustrate, in Figure 2, we present a typical synchrotron XRD pattern of Na3Sc0.25Zr1.75(SiO4)1.75(PO4)1.25 and the Rietveld refinement results.
+Notably, the pattern cannot be indexed in the higher symmetry γ-NASICON structure (R-3c) at 295 K.
+The reflection at around 2θ=3.69o is asymmetric and a much more reliable fit is obtained if more than one Bragg reflection is used.
+The reflection at about 2θ=7.36 o is not present in the γ model but can be fitted using the β model.
+A  reversible thermal  phenomenon  can  be  detected  in  our  DSC  analysis  at  about  435  K  (Figure  2),  confirming  the  β– to γ– phase transition.
+For N2 compositions (Na2ScyZr2-y(SiO4)1-y(PO4)2+y) both the low temperature (295  K)  and  the  high  temperature  (473  K)  diffraction  patterns  can  be  indexed  using  the  γ–NASICON The Rietveld refined cell parameters for all the compositions investigated in this work are summarized in Figure 3 (the cell parameters,  GoF, Rp and Rwp values of the refinements are listed in Supporting Information  Table  S1  and  S2).
+When  more  Zr4+  is  substituted  by  Sc3+  (higher  x  values  in  N3  and  y values in N2), a decrease of cell parameters a, b and c can be observed, along with a decrease of the cell volume  V/Z as a result of smaller ScO6 (vs.
+ZrO6) and PO4 (vs.SiO4) groups.
+This is in line with the average bond lengths of Zr-O (2.099 Å), Sc-O (2.081 Å), Si-O (1.556 Å) and P-O (1.528 Å) found in ACS Paragon Plus EnvironmentPage 13 of 43Chemistry of Materials69 and Na3Zr2(SiO4)2(PO4).
+Figure 3 Evolution of the cell parameters as a function of y in Na2ScyZr2-y(SiO4)1-y(PO4)2+y at 298 K (dark cyan) and 473 K (red).
+One interesting feature of the NASICON type compositions is their anisotropic thermal expansion of the  unit  cell.
+This  can  also  be  observed  from  the  cell  parameters  listed  in  Figure  3.  When  the temperature  is  increased,  minor  contraction  along  the  a and  b-directions  of  the  hexagonal  cell  is observed while the c-axis undergoes significant expansion.
+The net result is that the value of V/Z does not change much with temperature.
+In the most significant case, a 1.2% increase is observed from 295 K to  473  K.
+Such  a  small  volume  expansion  is  an  important  criterion  for  all-solid-state  batteries,  since large  changes  in  volume  across  the  solid-solid  interfaces  can  lead  to  delamination  which  breaks  the sodium ion pathways.
+ACS Paragon Plus EnvironmentChemistry of MaterialsPage 14 of 43Figure 4. Schematic representations of the rhombohedral NASICON.
+Na1 and Na2 are shown as displacement ellipsoids with a probability value of 95%.
+In the NASICON crystal structure, Sc3+ and Zr4+ share the same crystallographic site and form MO6 octahedra,  Si4+  and  P5+  share  the  same  crystallographic  site  and  form  XO4  tetrahedra.
+Two  MO6 octahedra are corner-connected to three XO4 tetrahedra, forming the well-known ‘lantern units’ (Figure 4).
+In  the  β-NASICON  crystal  structure,  three  crystallographically  different  Na  sites  are  present.
+In contrast, in the γ-NASICON phase, because of the symmetry there are only two types of Na sites, Na(1) and  Na(2).
+In  our  refinement  of  the  high  temperature  (473  K)  structure,  when  the  ADPs  are  refined anisotropically, the Na(1) site forms a flat disc in the ab-plane while Na(2) site forms a long ellipsoid along  the  c-direction.
+Their  equivalent  isotropic  ADP  values  are  listed  in  Figure  5  and  in  Supporting Information Table S3. As x or y increases, a decrease in the ADP values is observed, indicating that Na+ ions are less mobile.
+ACS Paragon Plus EnvironmentPage 15 of 43Chemistry of MaterialsFigure 5 Equivalent isotropic ADPs Uiso for N2 (Na2ScyZr2-y(SiO4)1-y(PO4)2+y).
+Values are obtained from Rietveld refinement of synchrotron XRD patterns.
+Room  temperature  (RT)  23Na  MAS  NMR  spectra  show  one  symmetrical  signal  at approximately  –28  ppm  with  a  number  of  rotational  sidebands  (RSBs)  (Figure  6).
+The  Na  local environments are too chemically similar to be resolved at the applied MAS speed of 4 kHz and under the moderate magnetic field strength of 9.4 T.
+The residual line broadening coming at least in part from the second-order  quadrupolar  interaction  is  not  completely  removed  by  MAS.
+The  23Na  NMR  signal  line shape, shift, and full width at half maximum (FWHM) change significantly with increasing temperature (Figure  7).
+When  the  temperature  is  increased  above  374  K,  the  RSBs  are  no  longer  observed.
+The FWHM reaches a maximum at 374 K, dropping steadily thereafter until it reaches a plateau above 500 K.
+The  average  chemical  shift  shifts  steadily  to  lower  frequencies  until  a  temperature  of  500K  is reached; thereafter the shift remains essentially constant.
+ACS Paragon Plus EnvironmentChemistry of MaterialsPage 16 of 43Figure 6. High temperature (HT) 23Na MAS NMR signals (MAS frequency 4 kHz, 9.4 T) of Na3Zr2(SiO4)2(PO4).
+Rotational sidebands are marked with asterisks.
+The  high  temperature  (HT)  23Na  NMR  line  shape  development  indicates  a  strong  influence  of  the temperature  on  the  Na+  ion  diffusion.
+The  increase  of  FWHM  between  RT  and  374  K  is  ascribed  to either a change in the Na local environments of sites occupied by Na with increasing temperature, or to an interference between motion and magic angle spinning motion on the MAS timescale.
+This prevents the method from removing sources of line broadening such as the quadrupolar interaction and dipolar coupling.
+The steady decrease in FWHM above 374 K indicates increased motion.
+The narrowing limit (or fast-regime) is reached above 500K where ionic motion is occurring on a timescale that effectively averages  any  shift  distribution,  dipolar  coupling,  and  quadrupolar  coupling  interactions,  i.e.
+Room  temperature  31P  MAS  NMR  reveals  two  signals  for  Na2Zr2(SiO4)(PO4)2  and Na3Zr2(SiO4)2(PO4) (Figure 6) of which the minor intensity resonance peaks are due to the formation of a zirconium-deficient impurity phase that has been reported previously.
+Only one asymmetric 31P signal is present for all other compositions (Figure 8).
+One might expect the asymmetry of these signals to be caused by the random distribution of Zr/Sc on the second coordination spheres with respect to the P site, as recently shown in the NASICON structure Li(Ti/Ge)2(PO4)3 solid ACS Paragon Plus EnvironmentChemistry of MaterialsPage 18 of 43solution.
+This  Zr/Sc  disorder  leads  to  various  local  chemical  environments:  P(OZr)4,  P(OZr)3(OSc), P(OZr)2(OSc)2,  P(OZr)(OSc)3  and  P(OSc)4.  Ab  initio  calculations  were  undertaken  to  understand  the local structure and NMR results, which revealed that the 31P chemical shift is more strongly affected by the  next-nearest  neighbor  (NNN)  sodium  occupancy  than  the  NNN  metal  distribution  (Supporting Information Figure S4).
+Several spectral features may be understood in this context.
+First, the FWHM of the 31P NMR resonances of Zr end-members (x, y = 0.00) Na2Zr2(SiO4)(PO4)2 and Na3Zr2(SiO4)2(PO4) were  5.5  and  3.5  ppm,  respectively,  significantly  larger  than  the  FWHM  of  ≤  0.5  ppm  observed  for LiTi2(PO4)3  and  LiGe2(PO4)3  in  the  fully  lithium-ordered  NASICON  phases  in  prior  studies.
+Furthermore, these 31P resonances are asymmetric and contain shoulders, which cannot be explained by Zr/Sc disorder since Sc is not present at x, y = 0.00 but can be rationalised by the Na disorder.
+The ab initio NMR calculations from relaxed structures  yielded  a range of  31P shifts from –11 to –25 ppm in Na2ScyZr2-y(SiO4)1-y(PO4)2+y and –7 to –19 ppm for Na3ScxZr2-x(SiO4)2-x(PO4)1+x, in excellent agreement with  experimental  results.
+The  slight  positive  shift  from  N2  to  N3  is  also  explained  by  the  average increase in Na NNN coordination in N3; qualitatively, for both series, each sodium NNN (defined by a 4.5 Å radius) shifts the 31P resonance by approximately +4 ppm.
+Room temperature 29Si MAS NMR reveals two signals at –94 and –111 ppm (Supporting Information  Figure  S5).
+The  resonance  at  –111  ppm  is  due  to  SiO2  impurity,  which  could  not  be detected  in  the  diffraction  experiments  due  to  its  amorphous  nature.
+The  –94  ppm  signal  intensity continuously  decreases  with  higher  x  values  for  Na3ScxZr2–x(SiO4)2–x(PO4)1+x  and  y  values  for  Na2ScyZr2–y(SiO4)1–y(PO4)2+y, respectively, which is in agreement with the substitution of the SiO4/PO4 units.
+Ab  initio  magnetic  shielding  calculations  suggest  a  range  of  –93  to  –101  ppm  in  Na2ScyZr2–y(SiO4)1–y(PO4)2+y and –85 to –97 ppm for Na3ScxZr2–x(SiO4)2–x(PO4)1+x for the 29Si NMR spectra, which supports  the  experimental  assignment  and  observed  range.
+These  calculations  confirm  a  silicon  shift ACS Paragon Plus EnvironmentPage 19 of 43Chemistry of Materialsdependence analogous to that of phosphorus; each sodium NNN results in a shift of the 29Si resonance by approximately +4 ppm.
+Thus, unlike the lithium-ordered Li(Ti/Ge)2(PO4)3 solid solution,57 the cation distribution  may  be  a  contributing  factor  to  the  chemical  shift;  however,  it  is  relatively  modest  in  our samples and cannot be distinguished in the sodium disorder-dominated NMR spectra.
+R1 stands for the systematic resistance coming from the apparatus.
+Na+  diffusion  rates  and  conductivities  are  important  properties  for  the  effective  operation  of  a  solid state  battery,  which  we  investigate  here  using  AC  impedance,  MD  simulations  and  23Na  NMR  spin–ACS Paragon Plus EnvironmentPage 21 of 43Chemistry of Materialslattice  relaxation  time  measurements.
+The  ionic  conductivity  has  been  measured  using  AC  impedance for three  different and Na2ScZr(PO4)3.  Figure  7  shows  typical  Nyquist  plots  obtained  for  Na3Sc0.25Zr1.75(SiO4)1.75(PO4)1.25  at various temperatures.
+An elongated semi-circle is observed at high frequencies of less than 1 kHz, which can be attributed to Na-ion conduction, and an oblique line at lower frequency due to the ionic blocking (gold) electrode.
+The spectra were fitted using the equivalent circuit inserted in Figure 9a.
+Figure 10. Arrhenius plot from AC impedance measurements for Na3Sc0.25Zr1.75(SiO4)1.75(PO4)1.25 (red), Na2Zr2(SiO4)(PO4)2 (blue) and Na2ScZr(PO4)3 (green).
+At low temperatures and high frequencies, the contribution from the bulk of the material and the grain boundary can be separated (corresponding to R2//CPE2 and R3//CPE3 respectively).
+This separation can be observed up to 373 K.
+A fast reduction of the semi-circle diameter is noticed upon heating, revealing ACS Paragon Plus EnvironmentChemistry of MaterialsPage 22 of 43the enhancement of the ionic conductivity with temperature.
+The measured capacitance gives values of between 10-10 and 10-9 F, in agreement with the value suggested by Irvine et al.
+The evolution of the ionic conductivity at various temperatures is plotted in Figure 9b (sum of bulk and  grain  boundaries  contributions)  for  Na3Sc0.25Zr1.75(SiO4)1.75(PO4)1.25. We  note  the  superposition  of ionic conductivity values between heating and cooling steps, consistent with a process that is reversible with temperature, and that there are no additional detrimental reactions during the measurements.
+From  these  conductivity  values,  activation  energies  for  Na+-ion  diffusion  can  be  obtained  using  an Arrhenius plot (log (σT) vs.
+1/T), which is shown in Figure 10. An inflection point can be observed in the  Arrhenius  plot  around  448  K  for  Na3Sc0.25Zr1.75(SiO4)1.75(PO4)1.25  (Figure  10,  red),  indicating  a modification of the activation energy.
+This can be linked to the phase transition from monoclinic C2/c to rhombohedral  R-3c,  previously  observed  for  this  type  of  compound  in  which  the  phase  transition induces a modification of ionic transport properties.
+No inflection point in the Arrhenius plot is observed for N2 compounds (Figure 10, blue and green), which is in agreement with the results from diffraction.
+For N2 compounds, the  addition of Sc3+ increases the activation energy  from 0.35 eV to 0.50 eV and decreases the ionic conductivity.
+The influence of Sc3+-substitution on the ionic conductivity is further revealed by the MD simulated ionic conductivities at 473 K, summarized in Table 1. ACS Paragon Plus EnvironmentPage 23 of 43Chemistry of MaterialsTable 1. Calculated Na+-ion conductivity at 473 K for N3 (Na3ScxZr2-x(SiO4)2-x(PO4)1+x) and N2  (Na2ScyZr2-y(SiO4)1-y(PO4)2+y) from MD simulations.
+From these ionic conductivity values, two key features appear.
+First, with the same Sc3+ content per formula unit (x = y), N3 has a higher ionic conductivity than N2 (except for the case of x = y = 1, where the  two  conductivity  values  are  very  close  to  each  other);  this  result  is  probably  due  to  the  increased number of ionic charge carriers in the N3 system.
+Second, the ionic conductivity decreases as more Sc3+ is  substituted  on  the  Zr4+  site,  in  agreement  with  the  AC  impedance  measurements.
+The  maximum conductivity is achieved in the composition Na3Zr2(SiO4)2(PO4) (N3 x = 0, with a Si/P ratio of 2/1).
+The trend is in line with that of the isotropic ADP values discussed in section 3.1. With a higher x or y value there are two key features: 1) the decrease of the lattice parameters leads to a more compact unit cell, leaving less free volume for sodium-ion diffusion; 2) the crystal structure is more disordered due to the random distribution of Sc/Zr on M(O6) sites and of Si/P on X(O4) sites.
+This indicates that the crystal structural disorder impedes sodium-ion diffusivity.
+Roy  et al.have shown in their MD simulations that  the  ordering  of  XO4  groups  significantly  influences  the  Na+  conductivity:  depending  on  the distribution of XO4 groups, the ionic conductivity can vary by up to a factor of 40. ACS Paragon Plus EnvironmentChemistry of MaterialsPage 24 of 43Figure 11. Inverse spin-lattice relaxation times of Na3Zr2(SiO4)2(PO4) (top) and Na2Zr2(SiO4)(PO4)2 (bottom).
+On  the  other  hand,  the  application  of  a  2D diffusion model results in a very good agreement of NMR data and fit.
+This indicates that the nature of the Na+ motion – giving rise to the T1 temperature dependence with a timescale of 10-8s at approx.416 K (T1 minimum47)) is 2D on the local atomic scale of NMR although the long-range diffusion pathways are 3D.
+This finding is in agreement with the rapid in-plane motion of Na+ ions at the Na1 sites, as revealed by the disc-shaped ADP (Figure 4).
+A detailed discussion of the dimensionality of Na+ diffusion can be found in the Supporting Information.
+ACS Paragon Plus EnvironmentPage 25 of 43Chemistry of MaterialsFigure 12. Diffusion coefficient DT obtained from NMR (red) and the chemical diffusion coefficient Dc calculated from MD simulations (black) (at 473 K).
+The  activation  energies  (Ea)  have  been  derived  from  NMR,  AC  impedance  and  MD  simulations, which are summarized in Supporting Information Table S7 and figure S8. All Ea values are between 0.2 and 0.5 eV, which are typical values for solid electrolyte materials.
+In general, the results from all the  techniques  demonstrate  the  same  trends  across  the  composition  range:  higher  activation  energy values are obtained for larger x (or y) values (lower Si/P ratios).
+This agrees well with the trends in the ionic  conductivity  and  confirms  the  good  agreement  between  experiments  and  simulations.
+In   recent work of Samiee et al., DFT calculations confirmed that Na+-motion activation barriers increase with a decrease in Si/P ratio in the monoclinic NASICON structure 76 ACS Paragon Plus EnvironmentChemistry of MaterialsPage 26 of 43The  diffusion  coefficients  DT  obtained  from  NMR  and  the  chemical  diffusion  coefficients  Dc calculated from the MD simulations have similar trends and values as a function of composition.
+For all compositions,  the  diffusion  coefficient  has  a  value  of  the  order  of  10-8  cm2/s  at  473  K,  as  shown  in Figure 12. The diffusion coefficient decreases with a higher concentration of Sc3+-substitution, showing the same trends with that of the ionic conductivity data.3.3 Na+ ion diffusion mechanism Diffusion  pathways.
+The  Na+  diffusion  mechanism  has  been  studied  by  both  experimental  and computational  techniques  to  investigate  the  Na+  diffusion  pathways.
+In  Figure  13,  we  plot  the conduction  pathways  of  Na+  ions  in  Na3Sc0.25Zr1.75(SiO4)1.75(PO4)1.25  using  three  different  approaches: (i)  MD  density  plots  of  the  accumulated  sodium  ion  trajectories  over  the  simulated  time  scale  which reveal  the  migration  pathways  and  the  regions  in  the  lattice  that  are  most  frequently  traversed  by  the mobile Na+ ions; (ii) Bond valence energy landscapes (BVEL) using the bond valence sum method,77,78 which  has  been  applied  to  a  range  of  ionic  conductors.
+This  method  requires  only  the  crystal structure as an input and can probe likely ion diffusion pathways with minimal computational cost, but lattice  relaxation  effects  or  cooperative  mechanisms  are  not  taken  into  account.
+(iii)  The  maximum-entropy method (MEM)/Rietveld analysis uses the scattering densities by giving the maximum variance of  calculated  structure  factors  within  standard  deviations  of  observed  ones.
+In  this  way,  structural information  can  be  extracted  effectively  from  the  diffraction  data  and  shown  as  three-dimensional distributions of scattering densities.
+ACS Paragon Plus EnvironmentPage 27 of 43Chemistry of MaterialsFigure 13. Na+ ion diffusion pathways obtained from different techniques: 1) Left: MD density plot of  Na+ ions (473 K) accumulated for 1 ns with a step of 1 ps; 2) Centre: BVEL methods with an iso-energy surface values of 1.0 eV.
+3) Right: MEM/Rietveld method with an iso-surface level of 0.05 fm Å-3 It is revealing that the diffusion pathways derived from the three techniques show very similar results and  indicate  a  well-connected  3D  network  (Figure  13).
+Such  3D  diffusion  behavior  of  sodium  ions allows access to all possible pathways and helps to enhance the ionic conductivity.
+Furthermore, the Na+ density  plot  forms  flat  discs  on  the  Na(1)  crystallographic  sites  and  thin  long  ellipsoids  on  the  Na(2) crystallographic sites, which is exactly the same feature that is present in the Rietveld refined anisotropic atomic displacement parameters.
+As mentioned in section 3.1, the rhombohedral NASICON form has two crystallographically different Na sites.
+The local Na-Na environment is shown in Figure 14, where each Na(1) site is surrounded by six Na(2) sites and each Na(2) site is surrounded by two Na(1) sites.
+The approximate distances between different sites are indicated.
+ACS Paragon Plus EnvironmentChemistry of MaterialsPage 28 of 43Figure 14. Two views of the local Na-Na environment.
+Na(1) (yellow) and Na(2) (blue) sites are shown as displacement ellipsoids with a probability value of 95%.
+The distances between Na site pairs are indicated.
+Figure 15. Na+-ion density from molecular dynamics simulation of Na3Sc0.25Zr1.75(SiO4)1.75(PO4)1.25 at  473 K for Na+ ions initially on Na(1) sites (yellow, left) and Na(2) sites (blue, right).
+The lower figure overlays the upper figures.
+Given that the Na(1) sites have a large separation (6.48 Å) and the Na(2) sites are also far apart (4.98 Å), it is reasonable to consider that most Na migration occurs between Na(1) and Na(2) sites where the ACS Paragon Plus EnvironmentPage 29 of 43Chemistry of Materialsdistance is 3.46 Å.
+To verify such site exchange we re-examined the MD density plots.
+In Figure 13 the atomistic trajectory has been recorded separately for Na+-ions according to their initial site: the density plots of Na+ ions initially  located  at Na(1)  and  Na(2) sites at the beginning of the MD simulation are presented  on  the  left  and  right  of  Figure  15  respectively.
+As  shown,  when  the  two  density  plots  are overlaid on top of each other, they are very similar, and form well connected 3D pathways between the Na(1) and Na(2) sites.
+Furthermore, the zig-zag pathways are in good agreement with the result reported by Kabbour et al. using probability density function calculations.
+Local vibrationFigure 16. Na+-ion dynamics in Na3Sc0.25Zr1.75(SiO4)1.75(PO4)1.25 simulated at 773 K using a timescale  of 500ps.
+Vertical axis is the transformed self-part of the van Hove correlation function r2Gs(r,t) which  is a measure of probability of moving a distance r.
+Different Na+ dynamical process are indicated and the colors of these correspond to the site exchange process indicated in Figure 12. Na+-ion  intersite  hopping.
+The  typical  timescales  of  sodium  intersite  hoppinghave  not  been extensively investigated previously for NASICON materials.
+To extract this information from the MD ACS Paragon Plus EnvironmentChemistry of MaterialsPage 30 of 43results we have calculated the van Hove correlation functions of which the transformed version of the self-part r2Gs(r,t) is related to the probability of an atom travelling a distance r after a time interval of t.
+In Figure 16 we show an example of the r2Gs(r,t) of Na3Sc0.25Zr1.75(SiO4)1.75(PO4)1.25 simulated at 773 Four main local maxima can be observed, from low to high r values: (i) A first sharp and intense peak appears at r = 0.5 Å which is related to local on-site vibrations of the Na+ ions.
+A slight right shift of this peak  is  observed  as  the  temperature  of  the  simulation  system  increases,  in  line  with  the  increased vibrational amplitudes as the kinetic energy of the Na+ ions is raised; (ii) The second peak appearing at about r = 3.5 Å corresponds to the distance between the Na(1) site and the Na(2) site as shown in Figure 13. This peak is indicative of hopping between neighbouring Na(1) and Na(2) sites in accord with the NMR results; (iii) The third peak at about r = 5 Å, is the distance between two neighboring Na(2) sites.
+As there is an oxygen atom located directly between two Na(2) sites, direct migration of Na+ between Na(2) sites is unfavorable.
+We observe instead that the Na+ ion goes through a two-step process: starting from an Na(2) site, it moves to a Na(1) and then continues to another Na(2) site; (iv) The next peak at r = 6.5 Å is the distance between two Na(1) sites.
+Similar to the previous case, the peak can be considered as a two-step migration process following sites Na(1)-Na(2)-Na(1).
+By  plotting  the  self-part  of  the  van  Hove  correlation  functions  with  different  time  interval  values (Figure 17) we can obtain insights into the time dependence of the Na+ ion diffusion process.
+The van Hove  correlation  function  starts  to  form  the  peak  at  3.5  Å  in  the  first  10  ps,  indicating  that  the  site exchange  between  Na(1)  and  Na(2)  sites  can  occur  within  a  very  short  time  scale.
+This  peak  has  its highest intensity on timescales of t = 250 ps.
+As the time interval value increases, Na+ ions are able to accomplish  the  two-step  migration  process  (Na(1)  →  Na(2)  →  Na(1)  or  Na(2)  →  Na(1)  →  Na(2)), resulting a decrease of intensity of the peak at 3.5 Å but an increase of intensity of the peaks at 5 Å and ACS Paragon Plus EnvironmentPage 31 of 43Chemistry of Materials6.5 Å.
+The overall picture is of short-range hopping between Na(1) and Na(2) sites on a timescale of a few hundred picoseconds (where some of this is hopping back to the initial site) and long-range hopping Figure 17. Na+-ion dynamics in Na3Sc0.25Zr1.75(SiO4)1.75(PO4)1.25 simulated at 773 K on different timescales.
+Vertical axis is the transformed self-part of the van Hove correlation function r2Gs(r,t) which is a measure of probability of moving a distance r.
+First,  the  bulk  crystal  and  local  structures  of  these  compositions  have  been  determined  using  a combination of diffraction and solid-state NMR techniques.
+A phase transition between 295 and 473 K from  monoclinic  C2/c  to  rhombohedral  R-3c  is  observed  for  the  Na3ScxZr2-x(SiO4)2-x(PO4)1+x compositions, while Na2ScyZr2-y(SiO4)1-y(PO4)2+y materials crystallize in a rhombohedral R-3c unit cell ACS Paragon Plus EnvironmentChemistry of MaterialsPage 32 of 43in  the  same  temperature  range.
+Second,  both  AC  impedance  measurements  and  molecular  dynamics (MD) simulations show ionic conductivity values of 10-5 S/cm at 298 K and 10-3 S/cm at 473 K for these Sc3+-substituted  NASICON  materials.
+Finally,  the  3D  diffusion  pathways  of  sodium  ions  in  the NASICON  structure  have  been  revealed,  for  the  first  time,  by  three  different  approaches:  MD,  bond valence and maximum entropy methods.
+23Na NMR measurements reveal that the  3D diffusion pathway consists  of  several  2D  local  hops  between  Na(1)  and  Na(2)  sites.
+A  key  feature  is  that  ion  diffusion proceeds  by  site  exchange  between  Na(1)  and  Na(2)  sites  with  long  range  diffusion  occurring  on timescales of less than a nanosecond (at 773 K).
+This systematic study provides important insights into the wider family of NASICON-type materials and will be valuable in identifying next-generation solid electrolytes.

@@ -1,0 +1,144 @@
+The recent discovery of reversible plating and alloying of calcium has invoked considerable interest in calcium-based rechargeable batteries toward overcoming the limitations of conventional Li-ion batteries. 
+However, only a few cathode materials have been tested thus far, and these exhibit low energy-storage capability and poor cyclability. 
+Herein, the highly reversible Ca-intercalation capability of NASICON-type NaV2(PO4)3, making it potential cathode material for nonaqueous Ca-ion batteries, with high capacity  and voltage, and good cyclability (90 mAh g−1 and ~3.4 V at 11.7 mA g−1 and 75 degree C; 70 mAh g−1 and ~3.2 V at 5.85 mA g−1 and 25 degree C). 
+Although this work shows only the capability of the cathode, not a full-cell performance, it does demonstrate experimentally that a poly-oxyanionic material can provide an outstanding host structure for Ca diffusion at room temperature with high energy-storage capability.
+Li-ion batteries (LIBs) have been the most prevalent rechargeable batteries for the last three decades. 
+However, the present LIBs have energy densities close to the theoretical limits and the Li resources are scarce. 
+Ca-ion batteries (CIBs) are emerging as one of the potential candidates to overcome such limitations of LIBs.
+The divalency of calcium as a charge carrier ion can increase the capacity of the host material owing to its ability to transfer two electrons per carrier ion. 
+Additionally the earth-abundance of calcium reserves provides potential cost-effectiveness to the final product.
+Calcium has a low redox potential (Ca/Ca2+ = −2.87 V vs. SHE) close to that of Li, allowing for a high cell voltage. 
+Ca2+ ions also have a relatively low effective intercalant-ion charge density (0.49 e/Å3), compared to other multivalent ions such as Mg2+ (1.28 e/Å3), Zn2+ (1.18 e/Å3), and Al3+ (4.55 e/Å3), thus enabling fast diffusion kinetics in solids as well as in electrolytes.
+Despite the potential benefits of CIBs, no significant progress has been made over the decades, as earlier investigations did not show any encouraging characteristics for either anode or cathode materials.
+Only very recently, breakthroughs were achieved for anodes in the electrolytes with very particular formulations, which enabled reversible plating and stripping of calcium, first only at elevated temperature (75–100 degree C) and soon thereafter at room temperature, followed by the discovery of reversible calcium alloying with a tin anode and solvated Ca-ion intercalation into graphite.
+These studies, however, did not provide sufficient solutions for the anode to be applicable in a full-cell operation of CIBs, due to low Coulombic efficiencies or undesired side reactions. Nevertheless, they did make the development of CIBs feasible, and have triggered active searches for reversible Ca-intercalating materials as cathode candidates during the last few years.
+It has been previously noted that the intercalation chemistry of Ca ions is so different from that of Li, Na, and Mg that designing an Ca cathode using the analogies and parallelism between them is not possible, despite the prediction of some high-energy Ca cathode materials by theoretical calculations.
+However, these materials suffer from low capacities, low Coulombic efficiency, or poor cyclability. 
+Particularly for the first three compounds, the significant amount of water in the organic electrolytes seems to play an important role in obtaining enhanced capacities; however, this is not desirable in a practical cell because of H+/H3O+ intercalation or water reduction/oxidation. 
+CIBs being the early stage of development, it would be vital to discover new cathode materials with high capacity, high operating voltage, and reversibility toward the realization of CIB technology. 
+In this work, we identified that the highly reversible insertion of Ca ions into NASICON-type NaV2(PO4)3 makes it a potential nonaqueous Ca cathode material with a high energy density. 
+We also revealed its intercalation mechanism.
+NASICON-type Na3V2(PO4)3 (designated as Na3VP) has an open three-dimensional framework structure composed of corner-shared PO4 tetrahedra and VO6 octahedra, as shown in Figure 1a.
+Owing to its unique network structure with large interstitial vacancy sites and diffusion channels, Na3VP has been extensively investigated as a host material not only for Na ions but also for other charge carrier ions such as Li, Zn, Al, and Mg. 
+However, it has not been studied for Ca yet. 
+Except for the case of Na, the material is oxidized (chemically or electrochemically) first to form a Na-extracted phase Na3-xV2(PO4)3, or in most cases, NaV2(PO4)3, before being used as the host material.
+We identified NaV2(PO4)3 as a viable high-energy cathode candidate for CIBs owing to its distinct crystal structure as discussed above, the similarity in ionic radii between Ca2+ (100 pm) and Na+ (102 pm),38 the relatively high operation voltage (due to the inductive effect of the poly-oxyanionic structure), and the plausible three-dimensional Ca diffusion pathway networks in the structure suggested by the bond-valence-sum difference maps (BVS-DMs). 
+BVS-DM calculations are generally used to identify probable locations for intercalated ions and to probe ion conduction pathways in inorganic materials. 
+For comparison, the isosurfaces for Na ions were also calculated. 
+Not surprisingly, possible three-dimensional calcium-ion diffusion pathways were very similar to those for Na ions. 
+The suitability of the BVS methods has been validated particularly for Li and Na host materials, but not for the Ca materials yet. 
+This work may become one of the studies that support the validity of the BVS methods applied to Ca materials, as we demonstrated an excellent Ca intercalation capability and high rate performance for the material.  
+First, Na2CO3 (0.318 g, 99.5%, Sigma-Aldrich), V2O5 (0.361 g, 99.6%, Alfa Aesar), (NH4)2HPO4 (0.792 g, 99%, Kanto Chemical), and oxalic acid (0.54 g, 98%, Sigma-Aldrich) were dissolved completely in deionized water along with stirring in a beaker (100 ml) on top of a hot-plate at ~70 degree C. 
+This hot-plate temperature was elevated to 100 degree C with continued stirring for several hours to slowly evaporate all the water. 
+The resulting precipitate was ground in an agate mortar and annealed at 850 degree C for 8 h in a tube furnace under flowing H2 atmosphere and cooled naturally.
+Material characterization. Morphological and elemental analyses were carried out by high-resolution field-emission scanning electron microscopy (HR FE-SEM, Hitachi SU-8020) with an energy-dispersive X-ray spectroscopy (EDS) attachment, and inductively coupled plasma (ICP, Varian 700-ES) analysis.
+The mixture was stirred for 30 min in an argon-filled glove box containing less than 1 ppm H2O and O2. 
+The desodiated NaV2(PO4)3 (Na1VP) powder was washed with AN and dried for an hour at 80 degree C in a vacuum oven to remove the solvent and then stored in an argon-filled glove box.
+Five milliliters of this solution were transferred into a glass beaker (50 mL). 
+The Na1VP powder (0.3 g) was added to the beaker that was soaked in a 150 degree C oil bath and stirred for an hour in an argon-filled glove box: a longer reaction time (3–10 hours) resulted in the destruction of the material as observed in its XRD pattern. 
+The calciated Ca0.8Na1VP powder was washed with acetone (99.7%, Samchun, Korea) and dried for an hour at 80 degree C in a vacuum oven to remove the acetone that was dried over molecular sieves before use: dimethyl carbonate (DMC, 99%, Alfa Aesar), as a washing solvent, did not make any apparent differences, but acetone was preferred because of its lower boiling point and thus more effective removal after washing. 
+In-situ XRD measurements were carried out using a temperature-controllable homemade cell (Figures S10 and S11) at 90 degree C.
+A similar cell was assembled for the in-situ electrochemical measurements as well as for the chemical calciation reaction. 
+In case of the latter, only open circuit voltages were measured during the reaction without any applied currents to monitor the reduction process. 
+The working electrode consisted of the Na1VP powder, conductive carbon (Super C carbon black, Timcal Graphite & Carbon), and a polyacrylonitrile (PAN) binder (Sigma-Aldrich, average Mw 150,000) in an 8:1:1 weight ratio. 
+These were then mixed and dispersed in dried N-methyl-2-pyrrolidone (NMP) using a planetary centrifugal mixer (THINKY mixer, ARE-310), coated on a beryllium disc, and dried at 60 degree C in an oven for 12 h to remove the NMP. 
+A glass fiber (GF/A, Whatman) membrane was used as a separator and a thick AC pellet (0.8 g, thickness = 5 mm, ϕ = 1.8 mm) was used as the counter electrode. 
+The AC pellet consisted of AC (Daejung Chemical, Korea) and PAN binder in a 7:3 weight ratio. 
+Finally, the solution of 0.5 M CaI2 in ethylene glycol (5 mL) was injected into the cell for the chemical calciation of Na1VP. 
+The evolution of the structure during chemical calciation was monitored for a week until the reaction was terminated.
+In-Situ XRD measurement during electrochemical desodiation. In-situ XRD measurements were carried out using a homemade cell (Figures S10 and S11) at 25 degree C. 
+Na3VP was charged at a current density of 11.7 mA g−1 up to 0.8 V vs AC. 
+The evolution of the structure during electrochemical desodiation was monitored.
+A homemade cell was employed for all the electrochemical measurements (Figure S12). 
+The working electrodes consisted of Na3VP powder, conductive carbon, and a PAN binder in a 8:1:1 weight ratio, mixed, and dispersed in NMP using a planetary centrifugal mixer, coated on aluminum foil or stainless-steel foil (SUS-304L, Wellcos Co., Korea) followed by drying in a vacuum oven at 120  degree C to remove NMP,and finally stored in an argon-filled glove box. 
+AC can be used as a reference electrode because of its stability in nonaqueous electrolytes.
+The Ag/Ag+ electrode was calibrated using a ferrocene/ferrocenium (Fc/Fc+) redox couple (Figure S13). 
+The AC-pellet voltage versus calcium was estimated as 3.12 V vs. Ca/Ca2+. A glass fiber (GF/A, Whatman) membrane was used as a separator. 
+The electrolytes used in this work were 0.5 M Ca(BF4)2 (Alfa Aesar) in ethylene carbonate/propylene carbonate (PC, Samchun, 99.5%) by 1:1 volume ratio, 0.5 M Ca(ClO4)2 (anhydrate, Alfa Aesar, reagent grade) in AN, 0.5 M Ca(ClO4)2 in PC, and 0.5 M Ca(ClO4)2 in EC/PC by 1:1 volume ratio. 
+The water content in the dried electrolytes was ~30 ppm according to water analysis. 
+The aluminum current collector was used for the experiments with the Ca(BF4)2-based electrolytes, while the stainless-steel was used with the other electrolytes. 
+All cells were assembled in an argon-filled glove box containing less than 1 ppm H2O and O2. 
+Potentiostatic cyclic voltammetry (CV) and galvanostatic discharge–charge measurements were performed using EC-Lab software on a Biologic VMP3 multichannel potentiostat (BioLogic Science Instruments SAS).
+Several voltage windows were applied depending upon the temperatures and electrolytes. 
+In case of 0.5 M Ca(BF4)2 in the EC/PC electrolyte, the window was −0.1 V to 0.6 V vs AC for the 25 degree C cycling experiments and for the initial cycles until the activation at 75 degree C. 
+Once activated at 75 degree C, a wider window (−0.5 V to 0.7 V) was used due to higher polarization. 
+For the window between -0.5 V and 0.8 V vs AC, the aluminum foil was stable at the 25 degree C (Figure S14). 
+For the Ca(ClO4)2-based electrolytes, the window was −0.1 V to 0.7 V at 25 degree C.  
+At higher temperature (75 degree C), the window was −0.1 V to 0.6 V for AN solvent, −0.1 V to 0.7 V for PC solvent, and −0.1 V to 0.5 V for the EC/PC solvent.
+The crystal structures for Na3VP, Na1VP, and Ca0.8Na1VP were confirmed by Rietveld refinement using the powder profile refinement program GSAS,44 where initial structural models were adopted from previous reports for Na3VP. 
+The electron density map calculations were performed using a combination of the powder profile refinement program GSAS and the single-crystal structure refinement program CRYSTALS45 in a similar manner as described in the previous work.
+For a 3D view of the Fourier density maps, MCE49 was used. 
+Le Bail fitting was carried out for each of the three phases. 
+The structure factors were extracted and used as input data for CRYSTALS. 
+Finally, Rietveld refinement was applied.
+Interestingly, the 6b-site density was found to be much higher than that for a fully-occupied Na atom (Figure 2d). 
+Rietveld refinement suggests that the 6b site is occupied by Ca atoms and the 18e site by Na atoms, with occupancies of 0.81 and 0.33, respectively (Figure S3 and Table S1c). 
+According to these results, the most probable insertion mechanism is that upon calciation, 0.8 Ca ions are inserted into the 6b site while all Na ions in the 6b site migrate to the 18e site.
+Structural evolution during the chemical Ca insertion was monitored by in-situ XRD measurements as shown in Figure 3. 
+As calcium was inserted, the initial peak intensities progressively weakened, while the new peaks emerged at lower angles and gradually increased in intensity. 
+Such observation was evident around at 20 degree , 24 degree , 29 degree , 32 degree , and 36 degree . 
+At the end of the insertion, the pristine peaks disappeared completely, keeping the new peaks only. 
+The observation suggests that Na1VP undergoes a two-phase reaction upon Ca insertion, similar to the Na insertion reaction,54 and the Ca-inserted phase has a larger unit cell volume than Na1VP.
+The evidence of Ca insertion into Na1VP by means of the chemical reduction does not provide enough proof for the reversibility of the Ca insertion, which can be verified more evidently via electrochemical cycling. 
+For all the electrochemical experiments, an activated-carbon (AC) pellet was used instead of calcium metal as the counter electrode, not as the anode, to enable us to focus on reliably characterizing the calcium intercalation chemistry into Na1VP, as the low Coulombic efficiency and side reactions of calcium metal are known to hinder the characterization of cathode materials.
+On discharge, the anions in the electrolyte are adsorbed on the surface of the AC counter electrode and calcium ions are inserted into the cathode. 
+Na1VP was prepared electrochemically by charging Na3VP (Figures S5 and S6). 
+The theoretical capacity for two electron charges per formula unit of Na1VP is 130.8 mAh g−1. 
+The galvanostatic discharge-charge performance for Na1VP is presented in Figure 4a, with an electrolyte of 0.5 M Ca(BF4)2 in EC/PC (1:1 volume ratio) at a current density of 5.85 mA g−1 and at room temperature. 
+The discharge capacity is 12 mAh g−1 initially, and gradually increases upon cycling, reaching 40 mAh g−1 at the 30th cycle. 
+The overpotential also increases with cycles, probably due to the side-reaction product (CaF2) deposited on the surface of the electrode, as evidenced in the XRD analysis (vide infra). 
+The first few cycles of discharge-charge plateau voltages are lower than those of the following cycles, indicating that the electrochemical reactions for Ca storage may change during the cycles. 
+ICP elemental analysis revealed the Na in Na1VP is irreversibly exchanged with Ca during the initial discharge-charge cycles, the detailed evidence of which will be discussed later.
+The gradual increase in capacity confirms that the existence of an activation process for the calcium intercalation reaction, albeit rather slowly. 
+To accelerate the activation process, we elevated the operation temperature to 75 degree C (Figure 4b). 
+Remarkably, a much higher initial discharge capacity (42 mAh g−1) was observed, and the capacity rapidly reached 90 mAh g−1 with an average discharge potential of 3.45 V (vs Ca/Ca2+) at the 5th cycle. 
+After five and half cycles (at discharged state), the cell was cooled to 25 degree C and the cycling was continued (Figure 4c). 
+The initial charge capacity was 90 mAh g−1, which matched the last discharge capacity at 75 degree C. 
+However, in the subsequent cycle, the capacity was reduced to 60 mAh g−1, with increased polarization.
+The capacity decreased slowly for several subsequent cycles, but gradually increased back to ~70 mAh g−1 and was maintained (Figure 4d) with a minor fluctuation during 30 cycles (Figure S7). 
+The notable difference in the reversible capacity between the two temperatures might imply the large energy barrier for Ca insertion/extraction in this structure. 
+Nevertheless, these results clearly demonstrate the reversible Ca insertion capability of Na1VP and its feasibility as a cathode material for CIBs at room temperature. 
+The CV profiles are presented in Figure 4e-f at 75 degree C and 25 degree C, respectively. 
+The redox peaks clearly indicate reversible Ca insertion/extraction, in good agreement with the dQ/dV plots in Figure S15. 
+Rate performances at 75 degree C and 25 degree C are presented in Figure 4g-h, respectively. 
+The capacity retention at 117 mA g−1 was 83.5% of that at 11.7 mA g−1 at 75 degree C. 
+Interestingly, despite the significant capacity reduction from 90 to 70 mAh g−1 at 25 degree C, the capacity reduction ratio was almost the same (82.4%). 
+The capacity was relatively well maintained at high C rates and recovered when it returned to a low C rate. 
+This characteristics of Na1VP is similar to the Na intercalation case.
+For the energy density of a cathode material to be defined, the anode potential should be specified first. 
+The operation of the battery cell with the Na1VP cathode and calcium anode was not confirmed yet. 
+However, only for comparison purposes with other materials, the energy density was estimated based on the Ca anode potential. 
+The energy density of Na1VP is about 300 Wh kg−1 (~3.4 V * 90 mAh g−1) at 75 degree C and about 220 Wh kg-1 (~3.2V * 70 mAh g−1) at room-temperature after five and half cycle at 75 degree C, which are among the high reversible energy densities of the reported non-aqueous cathode materials for CIBs (e.g., ~220 Wh kg−1 for Mg0.25V2O5∙H2O and ~210 Wh kg−1 for NaFePO4F).
+It is still less than that of the state-of-the-art Li-ion cathode material LiCoO2 (~570 Wh kg−1). 
+Nevertheless, our results signify a possibility of the further discovery of intercalation-type materials, hopefully with much higher energy density as anticipated by the divalency of calcium.
+Electrochemical reversibility of the Ca intercalation was also confirmed by the XRD pattern changes (Figure 5).
+After discharge, peaks were shifted to a lower angle, indicating an increase of the cell parameters due to the Ca insertion, as in the chemical calciation case Ca0.8Na1VP (Table S1c). 
+Upon charging, peaks were returned to the original positions for Na1VP. 
+Such changes were also observed at the 5th cycle, demonstrating excellent Ca insertion-extraction reversibility. 
+However, in contrast to chemical calciation, an impurity phase was observed for the cycled electrode due to the formation of CaF2 byproduct, as previously reported for other cathode materials using Ca(BF4)2-based electrolyte.
+It should be emphasized that the formation of CaF2 might contribute to the total capacity, however its portion should be insignificant, considering the high reversibility of the discharge/charge reaction. 
+Hence, only the total amount of Ca (i.e., intercalated Ca plus CaF2) could be determined from the elemental analysis (Table S3). 
+The Ca content (0.93 per formula unit) was found to be much greater than the estimated value based on the discharge capacity (0.33). 
+On the other hand, the Na content could still be determined reliably. 
+Notably, the Na content for the charged electrode significantly decreased (from 0.99 to 0.37 per formula unit), while the Ca content decreased only slightly from 0.93 to 0.88. 
+The results suggest that Na ions are preferentially extracted from the CaxNa1VP phase, implying that an exchange reaction between Na and Ca ions occurs during the cycle.
+The additional Na extraction from Na1VP (or the exchange reaction) may be rationally understood considering the chemical extraction/insertion mechanisms discussed earlier (Figure 2): (1) when Na3VP is oxidized to Na1VP, Na ions are preferentially extracted from the 18e site while the residual Na ions migrate to the 6b site, and (2) when Na1VP is reduced to Ca0.8Na1VP, Na ions in the 6b site migrate back to the 18e site and Ca ions are preferentially inserted into the 6b site. 
+This mechanism matches well with the three-dimensional diffusion pathways in Figure 1b, which indicated that each of the 6b sites is connected to six 18e sites, playing a role as the hub of the carrier ions. 
+If a similar oxidation mechanism is applied to CaxNa1VP, Na ions in the 18e site are likely to be extracted preferentially. 
+The elemental analyses showed that such an additional Na extraction seemed irreversible; thus, the subsequent Ca insertion resulted in the effect of exchange between Na and Ca ions, which reasonably explains the exchange mechanism.
+The exchange reaction also seems to be strongly related to the activation process observed during the initial cycles. 
+The existence of the activation cycles suggests that the exchange between Na and Ca ions cannot be completed in the first cycle but needs several cycles even at high temperature. 
+The Na content continuously decreased during the initial cycles (Table S3) and the capacity was converged to the maximum at the 5th cycle.
+To avoid the formation of the byproduct (CaF2), we tested Ca(ClO4)2-based electrolytes in different solvents such as acetonitrile, propylene carbonate, and ethylene/propylene carbonate (1:1 volume ratio); however, these exhibited much inferior performance compared to the Ca(BF4)2-based electrolyte in terms of capacity and cycling (Figures S8, S9, and Table S4). 
+It clearly indicated that the performance of the cathode material was significantly influenced by the electrolyte. 
+Thus, a more systematic and in-depth investigation, which is beyond the scope of this work, is necessary to fully understand the effects of the electrolytes on the performance of the cathode as a further study.
+In summary, the chemical, electrochemical, and structural investigations corroborated the capability of reversible Ca insertion into NASICON-type NaV2(PO4)3, which can be a potential cathode material for CIBs with a high energy density: ~300 Wh kg−1 and about ~220 Wh kg−1 are estimated at 75 degree C and 25 degree C, respectively, if Ca metal anode can be used. 
+At 75 degree C, the discharge capacity was 90 mAh g−1 at 11.7 mA g−1 with an average discharge voltage of ~3.4 V after initial activation. 
+Once activated, the reversibility was maintained at 25 degree C with a minor fluctuation albeit the reduction in the capacity (70 mAh g−1 at 5.85 mA g−1). 
+Structural investigations suggested that Na ions are preferentially extracted from the 18e site, Ca ions are preferentially inserted into the 6b site of the NASICON structure, and that the Na ions in the structure can migrate between the two sites during a cycle. 
+This intercalation mechanism may also explain how the exchange reaction takes place between Na and Ca ions during the initial activation cycles.
+These results demonstrate the feasibility of Na1VP as a highly reversible intercalation-type cathode material for CIBs, and unveil the underlying intercalation mechanism, thereby opening up possibilities to discover new electrode materials, with higher energy density as anticipated by divalency of calcium. 
+Nevertheless, further studies are required to understand the strong dependency of the intercalation abilities on the electrolyte composition, the effect of the byproduct (CaF2) formation, and hence, how better cathode performances can be achieved by optimization of the electrolyte systems.
+
+
+

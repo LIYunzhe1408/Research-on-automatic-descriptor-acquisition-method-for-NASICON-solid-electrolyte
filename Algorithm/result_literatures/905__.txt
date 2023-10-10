@@ -1,0 +1,66 @@
+The sample of Mg0. 5+y (Zr1-y Fey) 2 (PO4) 3 (0.0 ≤y≤0.5) was synthesized using the sol-gel method.
+
+The structuresof the samples were investigated using X-ray diffraction andFourier transform infrared spectroscopy measurement.
+
+XRDstudies showed that samples had a monoclinic structure whichwas iso-structured with the parent compound, Mg0.5Zr (PO4) 3.The complex impedance spectroscopy was carried out in thefrequency range 1–6 MHz and temperature range 303 to 773 Kto study the electrical properties of the electrolytes.
+
+ The substitutions of Fe3+ with Zr4+ in the Mg0.5Zr (PO4) 3 structure wasintroduced as an extrainterstitial Mg2+ ion in the modified structured.
+
+ The compound of Mg0.5+y (Zr1-y Fey)2(PO4)3 with y= 0.4gives a maximum conductivity value of 1.25 × 10−5 S cm−1 atroom temperature and 7.18 × 10−5 S cm−1 at 773 K.
+
+Chargecarrier concentration, mobile ion concentration, and ion hopping rate are calculated by fitting the conductance spectra topower law variation, σac (ω) =σo+ Aωα.
+
+The charge carrierconcentration and mobile ion concentration increases with increase of Fe3+ inclusion.
+
+ This implies the increase in conductivity of the compounds was due to extra interstitial Mg2+ ions.
+
+The demand for lithium-ion batteries has increased in recentyears due to their wide applicability as power storages forportable electronic devices and electric vehicles.
+
+ Lithiuminserted compounds, however, are relatively costly and hazardous.
+
+As a result, alternatives to lithium-ion batteries areneeded to satisfy the increasing demands in the near future.
+
+Particularly, recent interest is expanding for magnesium batteries, which may be a candidate of high-energy density cellscompatible with lithium, because the raw material costs maybe lower and magnesium is less dangerous than lithium [1].
+
+Generally, the efforts to improve magnesium battery performance depend on the development of materials for the variousbattery components (anode, cathode, and electrolyte).
+
+However, the focus of this research is on an electrolyte.
+
+Therole of the electrolyte is to provide an ionic conduction pathbetween the anode and cathode in electrochemical devices.
+
+Assuch, the prime concern in electrolyte research is to enhanceionic conductivity which is the main challenge faced by researchers in this field [2].
+
+In search of new electrolyte materials for magnesium batteries, a compound which has NASICON structure is one ofthe promising candidates.
+
+This is because the compound haslarge enough interstitial voids to uptake guest species, relatively high voltage, large theoretic capacity, and high structural stability based on three-dimensional framework and is apromising host for Mg2+ transport [3, 4].
+
+The research onthe NASICON structure in magnesium batteries has been reported in the literature.
+
+Makino et al.successfully synthesizedmagnesium electrode using NASICON-type compound,Mg0.5Ti2 (PO4) 3, and make a few modifications that havebeen done such as Mg0. 5+y (FeyTi1-y) 2 (PO4) 3 and Mg0.5+y(CryTi1-y) 2 (PO4) 3] [5].
+
+ Meanwhile, the Mg0.5Zr2 (PO4) 3compound also was successfully synthesized and has beenreported previously by the authors [6].
+
+ However, the compound Mg0.5Zr2 (PO4) 3 obtained has low conductivity atroom temperature (1.06 × 10−6 S cm−1).
+
+In order to improvethe conductivity of the compound, the modification of thelattice structure is needed.
+
+The substitution of Fe3+ with Zr4+is expected to reduce the lattice size of the structurewhich provides more suitable tunnel size for Mg2+ migration [7].
+
+Furthermore, the substitutions also introducean extrainterstitial Mg2+ ion in the NASICON structurewhich expected to enhance the concentration of Mg2+ ionin the compound.
+
+The scope of the present work is to study the structural andelectrical properties of novel partial substituting using dopantsFe3+ in the Zr4+ site of Mg0.5Zr2 (PO4) 3 using the citrate solgel method.
+
+To the best of our knowledge, limited studies havebeen carried out using Fe3+ as the property-enhancing agent inthe Mg0.5Zr2 (PO4) 3 structure.
+
+So, for the first time, detailstructure and electrical properties of Mg0.5+y (Zr1-y Fey) 2(PO4) 3 are reported.
+
+The effects of Fe3+ substitution with Zr4+ on the structural andelectrical properties of Mg0.5Zr2 (PO4) 3 compound were investigated by XRD, FTIR, EDX, particle size analysis, impedance spectroscopy, and magnesium transference number measurement.
+
+The XRD and FTIR analyses confirmed that Zr4+was successfully substituted with Fe3+ in the Mg0.5Zr2 (PO4) 3structure.
+
+ The conductivity of the Mg0.9 (Zr0.6Fe0.4) 2 (PO4)increases a magnitude order compared to the parent compound.
+
+The conductivity and magnesium transference numberof the substituted compounds increased with the increment ofFe3+ inclusion.
+
+This was due to the increase in charge carrierconcentration as a result of increase in Mg2+ interstitial ion inthe structure.
+

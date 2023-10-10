@@ -1,0 +1,111 @@
+Precursor powders of nasicon solid electrolytes were synthesized by both the colloidal method (CM) and sol–gel method (SGM) and characterized.
+The phase evolution of the sensor materials and sintered microstructures was analyzed by X-ray diffraction technique (XRD) andscanning electron microscopy (SEM).
+Zirconia-free nasicon phase was formed at relatively low temperature from the sol–gel precursor powder.
+Sintered pellets produced from calcined sol–gel powder exhibited single-phase (homogenous) microstructure while a silica-rich glass phase waspresent at the grain boundaries in the pellets sintered from calcined colloidal powders.
+Disc-shaped sensor elements were fabricated via uniaxialpressing of the calcined powders and subsequently sintered at 1150 ◦C for the CM powders and 1200 ◦C for the SGM powders, respectively.
+Platinum electrode was applied to the sensor elements to produce potentiometric/electrochemical carbon dioxide gas sensors.
+The electricalresponse of the sensors to CO2 was investigated at various operating temperatures and CO2 concentrations.
+Sensors made from sol–gelderived materials displayed better sensing response to CO2 gas at higher testing temperature as compared to sensors made from the colloidalpowders.
+In recent years, growing interest in environmental problemshas resulted in a need for monitoring sensors for controllingindustrial process of discharging carbon dioxide gasinto the atmosphere.
+Among the materials used for CO2 sensorssuch as solid electrolytes , mixed oxide capacitors and polymers with carbonate solution , solid electrolytetypeCO2 sensors are of particular interest because of theirlow-cost, high-sensitivity and simple element structure.
+Nasicon(Na1+xZr2SixP3−xO12, 0≤x≤3) seems to be one of themost promising sensor materials because of its high ionic conductivityat a relatively low temperature and high chemicalstability due to its microstructure .
+As first reportedby Goodenough et al., nasicon (x = 2) consists of athree-dimensional skeletal network of PO4 tetrahedra cornersharingZrO6 octahedra with the Na+ ions occupying a large octahedral site in the interstitial space.
+Each ZrO6 octahedrais connected to six PO4 tetrahedra, while each tetrahedron islinked to four octahedra .
+This three-dimensional networkis stabilized by electrons from mobile alkali ions in a threedimensionallylinked interstitial space.
+As indicated by Hongand co-workers , H2O and Na2O may occupy the interstitialspace and block alkali-ion transport, which reduces the ionconductivity.
+In order to minimize this plaguing effect, someeffort  has been made to obtain homogeneous nasiconprecursor powder with different components mixed at ananometer even molecular scale, thereby allowing further processingto yield a uniform microstructure with well-definedgrains of small amount of defects as well as less grain boundaryphases.
+Extensive studies have also been conducted on variouselectrode materials such as binary carbonate electrode, Na2 SnO3/SnO2 and Na2Ti6O13/TiO2, and other perovskite-type oxides  for CO2nasicon sensors, aiming to improve the sensitivity and stability.
+For Li2CO3–BaCO3 binary carbonate electrode system, thenasicon electrochemical sensor may be outlined as follows.
+In the presentwork, a sol–gel method (SGM)was used to synthesizeprecursor powders of nasicon solid electrolyte, whichwas compared with nasicon prepared by a colloidal method(CM) .
+The phase evolution of the synthesized precursorpowders under thermal treatments was investigated.
+Sinteredpellets from the green bodies formed by uniaxial pressing wereused to fabricateCO2 sensors.
+The electrical response of the sensorsto CO2 was investigated at various temperatures and CO2concentrations.
+The influence of microstructure and electrodematerials on the CO2 sensing characteristics of the sensors wasinvestigated.
+Detailed information concerning the synthesis, sintering andmicrostructure of nasicons prepared by theCMhas been reportedpreviously .
+The results show zirconia-free Hong-typenasicon powder can be synthesized by the CM below 1000 ◦Cin the composition range of x = 1.5–2.2. 
+The colloidal methoddeveloped in this lab before was used to prepare the nasiconprecursor powder with x = 2 for studying its CO2 gas sensingcharacteristics in the present work.
+The precursor powder of NASICON was prepared by sol–gel method as shown in Fig.1. 
+The mixture sol waskept at 70 ◦C under stirring.
+The NaNO3 and NH4H2PO4 were,respectively, dissolved in ethanol and were subsequently mixed.
+This mixture solution of the NaNO3 and NH4H2PO4 was addedslowly with rapid stirring into the hot mixture sol (70 ◦C) ofsilica and zirconia.
+Gelation and precipitation took place and relativelyconcentrated cream-like slurry was obtained.
+The heaterwas turned off, the slurry was kept inside the fume hood andthe stirring was maintained until it was too concentrated to bestirred.
+After 12-h drying, the obtained cake-like material wasground and dried in an oven at 80 ◦C for 4 h.
+The resulting nasiconprecursor powder was ready for further experiments.
+Phase evolution studies were conducted on the SGM precursorpowders calcined at temperatures of 700, 900, 1000, 1100and 1200 ◦C for 2 h.
+An X-ray diffractometer (XRD, RigakuMiniflex Model 1GC2) was used to identify the phase compositions of the calcined powders.
+Sintering studies were conductedusing precursor powders calcined at 900 ◦C for 2 h, then milledfor 24 h in iso-propanol using zirconia balls in a Teflon jar.
+Greendiscs of the milled SGM powders were formed using a uniaxialpress.
+The sintering was carried out at 1200 ◦C for 2 h with aheating rate of 3 ◦C/min.
+Some of the discs (S1) were buried incoarse nasicon powders while the others (S2) were exposed toair during the sintering.
+Phase evolution studies were also conducted on the calcinedCMprecursor powders.
+The sintering of theCMgreen discs wascarried out at 1150 ◦C for 2 h with a heating rate of 3 ◦C/min.
+Differential thermal analysis (DTA) and thermogravimetricanalysis (TGA) (Netzsch STA 449 C, Jupiter) were used to characterizethe behavior of the CM and SGM precursor powdersunder thermal treatment.
+XRD analyses were also performed on three sintered samplesurfaces; the first is raw surface of S1 sample; the second is rawsurface of S2 sample and the third is polished surface of S2 sample(using abrasive papers, the depth of the surface layer polishedis about 0.1 mm).
+The sintered SGM sample for microstructureanalysis by scanning electron microscopy (SEM, Philips ZL-30with a LaB6 filament) via energy dispersive spectrometry (EDS)were first polished with various grades of sand papers (400 meshdown to 1200 mesh) and then polished with diamond paste (6down to 1m).
+The polished sample was thermally etched for30 min at a temperature 5–10% lower than the sintering temperaturebefore carbon film was deposited on the sample prior toSEM and EDS analyses.
+The sintered pellets prepared from both CM powders andSGMpowders were first polished on both sides into discs 10mmin diameter and 1mm in thickness.
+Then platinum electrodeswere applied initially as a paste brushed onto both sides of thepellets and then thermally treated at 950 ◦C for 30 min.
+Platinummesh and auxiliary phase were attached as follows: a small piece of platinum mesh with a thin layer of auxiliary phase,Li2CO3–BaCO3 (1:2 molar ratio) paste was attached on oneside of the disc.
+The whole assembly was put into a furnace,which was preheated to 750 ◦C, for 3 min.
+The resultingsensorwas put into a quartz tube, whichwas then installed insidea split tube furnace.
+The test gas was introduced into the tubewith a constant flow for each of several CO2 concentrations.
+Platinum needle electrodes were applied to both sides of thetesting pellet with pressure to ensure good electrical contact(with the platinum mesh on one side of the pellet and the platinumfilm on the other side).
+The electrodes of the sensor wereconnected to a Keithley 2000 multimeter and the correspondingopen circuit voltage (OCV) at a given temperature and CO2 concentrationwas recorded (approximately 5–10 min was given tofill the chamber with a new CO2 concentration in order to let thesystem reach equilibrium).
+A schematic drawing of the testingdevice is illustrated in Fig.2.
+DTAandTGAcurves of theCMprecursor powders with x=2are shown in Fig.3. 
+The endothermic peaks at 90 and 140 ◦Care ascribed to the loss of both physically and chemically associatedwater.
+The third endothermic peak at 350 ◦C is attributedto the decomposition of hydrated phase in the precursor powders.
+The broad endothermic peak between 650 and 800 ◦C maybe associated with the decomposition of the carbon residue andcrystallization of some components in the powders .
+Theweight loss shown in the TGA curve at ∼760 ◦C may be associatedwith the decomposition of the residue carbon.
+Fig.4 displays both DTA and TGA of SGM precursor powders.
+The first endothermic peak at 120 ◦C is ascribed to theevaporation of physically associated water while the secondendothermic peak at 540 ◦C is attributed to the decomposition ofpolymerized precursors and the condensation of the remainingmaterial.
+The broad diffusive peak extending from approximately700 to 900 ◦C may be associated with the crystallizationof the precursor powders.
+TheTGAdata indicates there is almostno weight loss beyond 600 ◦C.
+Fig.5(a) shows the XRD patterns of nasicon precursor powdersprepared by the colloidal method and calcined at temperaturesbetween 700 and 1100 ◦C for 2 h; the XRD pattern of thesample sintered at 1150 ◦C for 2 h is also displayed in Fig.5(a).
+It can be seen that crystallized phases (ZrO2, sodium zirconiumphosphate, cristobalite) were formed at temperatures aslow as 700 ◦C and nasicon phase starts to appear at 1000 ◦C,however, the non-nasicon phases are dominant at this temperature.
+After calcination at 1100 ◦Cfor 2 h, nasicon phase becomesthe dominant phase with a weak trace of ZrO2, sodium zirconiumphosphate and cristobalite.
+The XRD patterns displayed inFig.5(a) also show nasicon to be the only detected crystallizedphase present in the sintered pellet (at 1150 ◦C).
+The formationof crystallized non-nasicon phases before the nasicon phase wasformed at 1000 ◦C indicates that relatively strong phase segregationexists in the initial precursor powder whereas differentcomponents were mixed at or over nanometer scale.
+Therefore,the formation of nasicon phase might mainly result fromsolid reactions among the crystallized phases (ZrO2, sodiumzirconium phosphate, cristobalite) followed by grain growth viashort-range diffusion at a temperature as high as 1000 ◦C.
+Thisprocess is similar to the mullitization in a diphasic aluminosilicategel as found in a previous study .
+XRD patterns of calcined SGM precursor powders are shownin Fig.5(b).
+The broad peaks in theXRDpattern of the precursorpowders calcined at 700 ◦C indicate that small crystallites startto appear at this calcination temperature.
+Nasicon phase witha low crystallinity appears in the precursor calcined at 900 ◦C.
+No other crystalline phases were detected before the formationof nasicon phase, which suggests that the initial precursor hasa relatively homogenous microstructure, possibly with differentcomponents mixed at a molecular scale, instead of at or overnanometer scale mixing for the precursor prepared via the colloidalmethod.
+The initial formation of nasicon phase might bedominated by local nucleation and short-range diffusion similarto the mullitization process in single-phase aluminosilicate gelas reported earlier .
+A well-developed nasicon phase can beobtained when the precursor powder was calcined at temperaturesaround 1000 ◦C for 2 h.
+XRD patterns of sintered SGM samples with different surfacetreatment conditions are shown in Fig.6. 
+It can be seenthat nasicon phase in the surface layers of the samples both coveredand not covered by nasicon powders decomposed duringsintering, similar phenomena was observed by Kida et al.
+whensol–gel derived nasicon films were thermal treated at elevatedtemperatures .
+Monoclinic zirconia, cubic (or tetragonal)zirconia and cristobalite phases were found along with nasiconphase in the raw surface of the samples.
+When the surface layerof the sintered sample is polished away, the XRD pattern showsa single nasicon phase.
+The phase composition change from thesurface layer to the inner part of the sintered sample could berelated to the increase loss of Na+ and P3+ from the surface asa result of high temperature used for sample sintering.
+Furtherwork needs to be done to determine how much Na+ vaporizedduring the sintering.
+The sintered microstructure of the nasicon precursor powder(CM) is shown in Fig.7 (backscattering image).
+As XRDpatterns in Fig.5(a) show that the only crystallized phasespresent in the sintered sample are nasicon, no free-zirconia phaseappears in the sintered body.
+However,SEMmicrograph in Fig.7shows that there are dark areas surrounding nasicon grains.
+EDSanalyses indicate a glass phase rich in silica and phosphorusoxide exists in those dark areas, which originates from the nonhomogeneousnasicon precursor.
+SEM micrograph and EDS maps of Na, Si and Zr in thesinteredSGMsample are shown in Fig.8.
+ It can be seen that relativelyuniform microstructure with lowporosity and fine nasicongrains was obtained.
+The EDS maps show relatively uniformdistribution of the three elements—Na, Zr, Si; no obvious grain boundary phase with high concentration of Si4+ is observed inthe elemental maps, although a high concentration of zirconiaexists in some grains.
+Fig.9 shows the response characteristic of CM-nasicon sensorat differentCO2 concentrations at 500 ◦C.
+TheEMFresponseat different CO2 concentrations was reproducible at this temperature.
+However, the reproducibility and stability were not goodwhen the temperature was raised to 600 ◦C, especially at lowconcentrations of CO2. 
+A better sensibility and stability wereobtained with SGM-nasicon sensor at both 500 and 600 ◦C.
+Fig.10 shows the EMF response at different CO2 concentrations(from 125 to 5000 ppm) at 600 ◦C.
+The EMF response ofthe CM sensor was linear to the logarithm of CO2 concentrationwhen tested at 500 ◦C; as temperature was raised to 600 ◦C, theEMF response did not show good linearity to the logarithm ofCO2 concentrations as shown in Fig.11(a).
+Fig.11(b) shows theEMF response of SGM sensor cell was linear to the logarithmof CO2 concentrations at both 500 and 600 ◦C.
+The improvement in the sensing response for theSGMsensorcell can be partly attributed to the homogeneous microstructurewithout a glass phase, which has an increasing adverse effecton the sensing response at high temperatures, as for the CMsensor cell.
+Meanwhile, the CM nasicon becomes more reactivewith the auxiliary electrode (carbonates) at the interfacedue to the existing glass phase in the CM nasicon material atthe testing temperature; The resulting interface layer leads to aworse charge exchange due to the glass phase, therefore causingan adverse effect on the sensing response, reproducibilityas well as stability .
+Fig.12 shows SEM micrographs of thetwo interface-microstructures.
+The EDS analysis of the auxiliaryelectrode–nasicon interface of the CM sensor cell indicates aninter-diffusion, reaction occurs between the carbonates and thenasicon, while the auxiliary electrode–nasicon interface reactionis not obvious in the SGM sensor cell due to the better-definednasicon microstructure.
+Nasicon precursor powders were synthesized by the sol–gelmethod.
+Good chemical homogeneity was obtained and thesol–gel derived nasicon precursor powders were transformedinto phase pure nasicon at 900 ◦C without forming other crystallizedphases.
+Precursor powders prepared by the colloidalmethod only evolved the nasicon phase at 1000 ◦C by the reactionsamong the crystalline phases formed at low temperatures.
+The sintered pellets from sol–gel powders show relatively uniformmicrostructure with good chemical homogeneity and welldefinednasicon grains, while glass phase rich in silica andphosphorus oxide distributed along nasicon grain boundaries.
+No free zirconia was detected by XRD in the nasicon pelletsprepared by both methods.
+The EMF response of the SGM-nasicon sensors at both 500and 600 ◦C is linear to the logarithm of CO2 concentration withrelatively good fit to the Nernstian equation.
+The EMF responseof the CM-sensor is linear to the logarithm of CO2 concentrationwhen tested at 500 ◦C.
+The EMF value is, however, smaller thanthat of the SGM-nasicon sensor, which may be caused by thepresence of glass phase rich in silica and phosphorus oxide andthe interface layer between the carbonate electrode and nasiconmaterials.
+This factor may also result in the EMF response ofthe CM-nasicon sensor at 600 ◦C not appearing to be linear tothe logarithm of CO2 concentration, and the EMF value beinglower than the SGM-sensors.

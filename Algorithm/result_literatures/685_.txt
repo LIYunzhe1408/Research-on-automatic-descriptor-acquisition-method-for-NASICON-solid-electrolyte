@@ -1,0 +1,10 @@
+Solid electrolytes with high ionic conductivity and excellent electrochemical stability are of prime significance toenable the application of solid-state batteries in energy storage and conversion.
+In this study, solid compositepolymer electrolytes (CPEs) based on sodium bis(trifluorosulfonyl) imide (NaTFSI) and poly (ethylene oxide)(PEO) incorporated with active ceramic filler (NASICON) are reported for the first time.
+With the addition ofNASICON fillers, the thermal stability and electrochemical stability of the CPEs are improved.
+A high conductivityof 2.8 mS/cm (at 80 °C) is readily achieved when the content of the NASICON filler in the compositepolymer reaches 50 wt%.
+Furthermore, Na3V2(PO4)3/CPE/Na solid-state batteries using this composite electrolytedisplay good rate and excellent cycle performance.
+In summary, a flexible composite polymer electrolyte composed ofNASICON and NaTFSI-PEO14 has been obtained via solution castmethod.
+A high ionic conductivity of 2.8 mS/cm can be achieved at80 °C.
+The composite polymer electrolytes are also found to exhibitgood thermal stability and electrochemical stability.
+The NVP/CPE/Nasolid-state cells assembled with the composite polymer electrolytesdeliver high reversible capacity and maintain good capacity retention at80 °C.
+This verifies the promising prospect of using composite polymerelectrolytes in developing high safe and high energy density batteries.

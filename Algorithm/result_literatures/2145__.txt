@@ -1,0 +1,186 @@
+Over the past years, much work has been done on different directions of chemistry of solids to move away from the high temperatures of classical solid synthesis to the lower temperature methods which provide new tailor-made elaboration of complex solids with controlled properties. Among the most commonly used techniques are sol-gel and organic-inorganic solvo(hydro)thermal syntheses, whereas flux reactions are less commonly applied.
+
+Molten salts can be considered as completely ionized nonaqueous solvents having an original and rich chemistry, where the traditional aqueous concepts of acidbase chemistry have no more than very limited value.1 For this reason molten salt (MS) reactions provide new techniques for preparation of different solids. Sometimes they give the alternative ways to preparation of known compounds possessing different morphology,2,3 in other cases new solids are prepared. Reactions in molten CaCl2 and BaCl2 fluxes were used for the preparation of anisotropic crystals of ternary oxides such as CaFe2O4 or BaWO4.4,5 New mixed salts such as RbMn4(AsO4)3 have been prepared in chloride fluxes.6 Recent examples include low-temperature preparations of commercially 8 using important perovskites LiNbO3
+
+Among the ionic fluxes molten nitrates as a reaction medium possess high reactivity toward different inorganic species and relatively low melting points, allowing their reactions to be considered as a soft chemistry route, compared to solid-solid reactions. Indeed, solidstate syntheses of oxide materials are usually carried out above 1000 K, whereas molten nitrate preparations of the same compounds are usually done at 500-800 K. For that reason these reactions often lead to finely divided solids with high surface area. Molten nitrates have been utilized for the preparation of highly dispersed oxides (Zr, Al, or Ti) suitable for applications in ceramics or catalysis.11-14 In such preparations, nitrate melts react as oxobases (Lux-Flood bases), i.e., they donate an oxide ion to any appropriate electrophilic species, leading to precipitation of oxides (eq 1), or to
+
+
+Preparation of Solids. The mixtures containing a metal precursor salt, a source of phosphorus (usually ammonium hydrophosphate NH4HPO4), and an alkali metal nitrate (all Aldrich ACS reagents) were placed in a glass reactor under a nitrogen flow. Dehydration at 423 K and reaction at 523-823 K were subsequently carried out. After the reaction, the insoluble product was extracted at room temperature from the solidified melt by distilled water, and then dried in air at 373 K for 24 h.
+
+Distilled water was applied for separation of water-soluble reaction products from the excess of nitrates and other watersoluble salts formed during the reaction. We believe that most mixed phosphates of polyvalent metals are insoluble and not affected by water washing.
+
+Since the properties of the product of molten salt reaction depend on the number of conditions such as the nature and the amount of precursor(s), that of alkali metal cation, and the temperature and duration of reaction, the choice of reaction conditions applied in this work requires some comment.
+
+From previous experience,25,26 the reaction duration was found to be less important. Usually the reactions in the nitrate melt, which are studied here, were mostly achieved in the first several hours (though Ostvald ripening of precipitates, or some secondary processes can last much longer, as for example corrosion of glass reactor, becoming noticeable after several uses). For that reason the reaction time was fixed at 2 h unless otherwise stated.
+
+Relative amounts of precursors and alkali metal nitrates are very important.25 It was found, for Zr,25 that starting P/Zr atomic ratios necessary to obtain pure mixed phosphate phases must be sufficiently high, i.e., it should be above the known stoichiometries of zirconium phosphates. Therefore the ratio P:M ) 4:1 was applied in all syntheses. The amount of nitrate plays a less important role provided it is present in a large excess. The molar ratio nitrate to metal 10:1 was applied. Therefore all the syntheses were carried out at the molar ratio M:P:ANO3 ) 1:4:10.
+
+The nature of the source of phosphorus can also be important (see the results and discussion). However, if the precursor is well-soluble in the melt, the product was determined rather by the amount of phosphorus in the reaction mixture than by the exact composition of the precursor. For example, monobasic and dibasic ammonium phosphates gave exactly the same products in all studied preparations. Unless otherwise stated, ammonium dihydrogen phosphate NH4H2PO4 was applied as a phosphate source, since it gave the best reproducibility of the results and contains no alkali metal cations, thus allowing it to be applied as a common phosphorus source in the combination with all alkali metal nitrates.
+
+The reaction temperature has the obvious lower limit of the melting point of the corresponding nitrate (543 K for NaNO3, 603 K for KNO3, and 691 K for CsNO3). However below 673 K the products are often amorphous and contain considerable amount of residual nitrates so that the temperature of preparations was rarely below 673 K. The upper temperature limit is imposed by the beginning of nitrate decomposition observed in the range 823-873 K. Moreover, noticeable
+
+softening of glass reactors began above 823 K. By these reasons the reaction temperatures were mostly chosen between 673 and 823 K.
+
+Analysis of the Reaction Products. X-ray diffraction (XRD) patterns were recorded on a SIEMENS D500 diffractometer using Ni-filtered Cu KR radiation. Standard JCPDS files were employed to identify the phases. Indexing of unknown phases was made using TREOR,27 DIVCOL,28 and VISSER29 programs. Indexing was considered successful if all three programs gave the same result together with satisfactory figures of merit.
+
+Surface areas and pore radii distributions were measured by nitrogen adsorption. NMR spectra of 31P and 1H were obtained on a BRUKER MSL 300 device. MAS spectra (rotation frequency  24)3.5 kHz) were registered with the proton decoupling of the 31P signal. Chemical analyses of phosphorus, zirconium, and alkali metals were carried out using atomic emission method with a spectroflame ICPD device. Scanning electron microscopy (SEM) images were obtained on a Hitachi S800 device, at the center of electronic microscopy of Claude Bernard University (Lyon).
+
+Results and Discussion
+
+Products of Reactions of Different Metals and Phosphate Species in Molten Nitrate Media. Reactions of several elements for which formation of mixed phosphates could be expected, have been carried out in Li, Na, K, and Cs nitrates at 673, 773, or 823 K. The elements studied include p and d metals of II, III, IV, V, and VIII group, those which if reacted alone in molten nitrate, precipitate the corresponding oxides, similar to reaction 1 of Mg.
+
+Transition metals from V to Os form in MS reactions soluble oxoanions similar to reaction 2 of Mo. They were not studied since in this case formation of mixed phosphates is not probable. Thus, the reaction mixture containing Cr(III) nitrate yields an alkali metal chromate(VI) rather than any Cr(III) phosphates.
+
+Other elements which have not been tried include Ag, Au, Be, Hg, Sc, Ga, In, Tl, most of the lanthanides, and all the actinides.
+
+Table 1 summarizes the results of successful preparations, i.e., those in which single phases have been obtained as was found by XRD, and confirmed by chemical analysis and 31P NMR. In some cases, although the JCPDS identification failed, the corresponding XRD patterns were indexed as new individual phases, and cell parameters have been determined. Those new phases are also listed in Table 1.
+
+Although the details on the unsuccessful syntheses are not discussed, it might be worth noting that the elements which were tried but gave always some mixtures of different phases or nonidentified compounds include Sr, Cd, Y, Mn, Nb, Sn, Sb, Ce, and Th. It does not mean that their mixed phosphates cannot be prepared in MS reactions, but either they are not sufficiently pure (Sn, Sr, Mn), or their XRD patterns are of inappropriate quality to determine the cell parameters of the new solids, which however seem to be obtained (Al, Nb, Y, Th, Ce). These nonidentified products present probably particular interest and are going to be the subject of further study, but they are
+
+Na a Mass of precursor loaded in the reaction mixture, with 4.4 g of ammonium dihydrogen phosphate and 10 g of alkali metal nitrate. not a consideration of this paper, focused rather on the general description of the preparative technique.
+
+It can be seen from the data of Table 1, that several classes of important phosphates can be obtained in molten nitrate fluxes: the ABPO4 phases (A ) Na, K; B ) Ca, Zn, Sr, Cd, Ba, Pb) which are ferroelectric materials;30 KTiOPO4 being one of the most important solids for nonlinear optics;21 and AB2(PO4)3 phosphates with NASICON-type crystal structure, used as materials of high ionic conductivity.18 Lamellar A2B(PO4)2 compounds (A ) Ti, Zr, Hf) are known as ion exchangers, intercalation hosts and catalysts.17
+
+Morphology of Solid Products. As follows from specific surface areas listed in the Table 1, the solids were often obtained in the dispersed state, most phases having submicrometer size of crystallites. High specific surface areas of several phases obtained, may open a way to some new potential applications, particularly in catalysis, since surface area is of primary importance there. For several phosphates listed in Table 1 such fine dispersions were never obtained before. For instance, KTiOPO4 is a well-known optics material, but it also possesses ion exchanger properties,31 and its preparation with a high surface area might lead to a new catalytic material.
+
+The morphology of the phases obtained shows often very strong anisotropy. The crystals of the solids have
+
+Figure 1. SEM picture of Na2Zr(PO4)2 phase obtained in molten NaNO3 at 773 K.
+
+Figure 2. SEM image of NaBaPO4 crystals obtained in molten NaNO3 at 773 K.
+
+the shape of thin sheets (Na2Zr(PO4)2, Figure 1), needles (K2Ni4(PO4)2P2O7), or rodlike particles (NaPbPO4). The reason of anisotropy seems obviously to be in the strong difference of the growth rates of differently charged planes of the solids. In completely ionized solvents, which molten nitrates are, this difference is obviously so strong that anisotropy of solids obtained was sometimes so strong as to cause disappearance of certain peaks in the XRD patterns.
+
+At the time being it cannot be predicted which type of facets for a given solid is to be preferentially grown in the reactive melts. Evidently, a relationship must exist between the rates of growth of different planes and the intimate features of the reaction mechanism. While the limiting step of that mechanism is not established, the prediction cannot be made. However the insight based on the experimental data can be proposed, predicting whether strongly anisotropic morphology of a given solid structure is going to be produced in the molten nitrate reaction. The empirical rule, summarizing the observations made, postulates that if the structure of the solid contains any low-index dense planes populated entirely by the alkali metal cations, then these planes will be the most exposed in the MS preparation. By contrast, for the solids which have no such planes in the structure, isotropic particles were often observed. For example, chemically similar NaBaPO4 and NaCaPO4 have different structures. That of NaBaPO4 contains all-Na planes, normal to the (001) direction,32 whereas no such planes can be found in NaCaPO4.33 Crystals of MS preparation of Na-Ba phosphate were found so strongly anisotropic that (h k 0) reflections virtually disappeared in its XRD
+
+(32) Calvo, C.; Faggiani, R. C. Can J. Chem. 1975, 53, 1849. (33) Bredig, M. A. J. Phys. Chem. 1942, 46, 747.
+
+Figure 3. SEM image of NaCaPO4 crystals obtained in molten NaNO3 at 773 K. pattern. At the same time, in the XRD pattern of NaCaPO4 the intensities corresponded fairly well to the JCPDS library values. Striking difference of morphology can be seen also on their SEM images (Figures 2 and 3).
+
+Similar effects were observed in mixed phosphates of IV group metals: channel KTiOPO4 and three-dimensional NASICON structures formed nearly isotropic
+Preparation of Mixed Phosphates
+
+particles, whereas lamellar Na2Zr(PO4)2 yielded thin sheets.
+
+Influence of Precursor Nature. Both the reacting metal precursor and the source of phosphorus should obviously be introduced in a form well soluble in the nitrate melt and/or easily reacting in it. If these conditions are fulfilled, the product does not depend on the nature of precursor ligands, provided the latter are not strongly complexing species (such as fluoride ions). For example, the hydrated ZrOCl2 precursor could be in all cases replaced with oxonitrate without considerable change of reaction products. Moreover ammonium dihydrogen phosphate could be replaced with the corresponding alkali metal dihydrogen phosphates. No difference in the composition of products was observed also in the reactions of Pb(II), introduced as nitrate, chloride, or acetate salts.
+
+Influence of Alkali Metal Cation. The nature of alkali metal cation is very important since alkali metal from the melt is often incorporated in the solid product. Also it determines the melting point of the corresponding nitrate, its reactivity12 (which changes in the sequence Li > Na > K > Cs), and the solubility of the eventual products. We compare below reactions in the individual alkali metal nitrates.
+
+Lithium. Any ammonium or alkali metal monophosphates easily react with molten LiNO3 giving insoluble Li3PO4 (JCPDS 15-0760). Therefore molten LiNO3 cannot be used as a solvent for preparation of phosphates of other elements.
+
+Cesium. Molten CsNO3 seems to be a less convenient reaction medium than Na and K salts, not only owing to its high price but also because its melting temperature (691 K) is so high, that most precursors listed in Table 1, if heated with CsNO3 undergo considerable decomposition. Therefore the products of simple thermal decomposition of the precursors are often present as impurities in the solids obtained. At the same time, the lower reactivity of CsNO3 requires high temperatures for the reactions to be completed. For example, in the case of Zr precursor, dispersed CsZr2(PO4)3 was obtained only at 773 K (the corresponding Na and K NASICONs are available at 623-673 K), whereas lamellar Cs2Zr(PO4)2 compound could never be prepared. However, even the NASICON phase obtained was never sufficiently pure, since it contained a considerable amount of crystalline ZrO2 impurity, which was obviously formed as a thermal decomposition product. (It is known that when heated in air, ZrOCl2 decomposes, giving crystalline ZrO2 already at 623 K.12)
+
+Moreover, lower reactivity of CsNO3, combined with bad water solubility of Cs4P2O7 and higher polymerized Cs phosphates lead to the presence of important amounts of the latter in the solid products, difficult to remove, thus presenting also a disadvantage for the preparative technique.
+
+Sodium and Potassium. Low melting NaNO3-KNO3 mixtures applied in the earlier work26 yields the solids containing both alkali metal cations in various proportions, complicating the analysis of solid products. In the further experiments, mostly individual nitrates were applied as a reaction media.
+
+Although sometimes similar, the products from the reactions of NaNO3 and KNO3 are generally not the
+
+same, presumably because of different reactivity of the corresponding nitrates and/or coordination numbers of the alkali metal cations. The morphology also significantly depends on the nature of alkali metal cations. As a rule, sodium nitrate provides well-shaped micrometer-size crystals, whereas potassium salt yields more fine dispersions. The difference can be clearly seen in cases where K and Na salts give isostructural compounds, such as lamellar Zr phosphates. It can be suggested that higher basicity of NaNO3 leads to better solubility of products and thus to the increased redissolution-precipitation of products compared to KNO3 reaction medium.
+
+Different stability of monoand diphosphate can be observed as a function of alkali metal cation. In the case of Ni, diphosphate groups in the products were preserved in the solid, apparently due to the low solubility of the corresponding Ni complexes. The extent of the depolymerization reaction (eq 4) was different in Na and K nitrates, being higher in the most reactive NaNO3 , as expected.
+
+At elevated temperatures, additional Na2O may be incorporated into the solid products. For instance, increase of reaction time from 2 to 24 h at 573 K lead to the change of product from Na2Zr(PO4)2 to the solid of composition Na4ZrP2O9 due to the reaction Na2Zr(PO4)2 + 2NaNO3 f
+
+Na4ZrP2O9 + 2NO2 + 1/2 O2 (5) No such reaction was observed in less reactive KNO3 even at 550 °C.
+
+To understand the difference of products obtained in K and Na nitrates, two kinds of interactions should be considered.
+
+The first is a Lux-Flood acid base interaction between the nitrate and the precursor species which can be realized as donation of oxygen anion O2-, or if sodium is incorporated into the product, as addition of Na2O moiety. Reactions 1-5 are the examples of such interactions.The second kind of interaction is due to the complexing properties of phosphate and consists of 2-, Na2PO4-, or addition of phosphate moiety as NaPO4 Na3PO4 (see also ref 25):
+
+We emphasize that eq 6 describes just the general stoichiometry of reaction, without any mechanistic meaning.
+
+As a result of superposition of these two kinds of processes, different solids can be obtained depending on the conditions. On the sketch (7), possible products for the most studied case of Zr(IV) in NaNO3 reactions are shown. Transformations of products shown as vertical arrows, correspond to the Lux Flood interactions, whereas the horizontal direction represents phosphate addition.
+
+A temperature increase obviously raises both oxobasicity of the melt and the phosphate activity. Depending
+
+on the nature of reacting species and the stability of the corresponding solids, either one of these interactions can dominate, thus making possible preparation of pure single phases reported in Table 1. If the reacting species are similar, comparison of reactivity is quite straightforward. Thus, still for Zr reactions, the lower basicity of KNO3 makes Lux-Flood reaction more difficult. Indeed, the potassium-rich K4ZrP2O9 compound was never obtained in KNO3.
+
+Besides temperature changes, chemical modification of the melts can promote or inhibit the interactions discussed above, thus influencing the nature of the product. Note that in fact Lux-Flood and phosphate complexing reactions are not independent but related by an equilibrium, as illustrated below for reactions of a divalent metal M(II) species (M ) Ba, Cd, Zn, etc.). If an oxide MO is put in the nitrate melt, its solubility
+
+is described by an equilibrium
+
+K1 is defined in analogy to the aqueous solubility product.
+
+If then an anion NaPO4
+
+2is simultaneously present in the melt, there is also an equilibrium for the solubility of a mixed phosphate:
+
+However the same phosphate NaMPO4 can react as an oxoacid with the nitrate melt. Stability of the ternary phosphate toward the Lux-Flood reaction with the melt is described by the equilibrium with the constant K3.
+
+The brackets imply that we mean just effective values of activities, not making any suppositions about the exact structure of the species present in the melt. The last can be some nitrato complexes, ion associates, etc. It is evident that K3 ) K2 /K1, i.e., decomposition of phosphate, is favored by poor solubility of an oxide and low stability constant (high solubility) of the NaMPO4 compound. Therefore any chemical admixtures modifying activities of phosphate species, M2+ or O2-, may change the products composition, as described below. Influence of Alkali Metal Nitrites. Alkali metal nitrites were used earlier as admixtures to nitrates to enhance the reactivity of the melts, since nitrite anion is a stronger oxobase than nitrate. Moreover, it has been supposed that nitrite impurities always present in the commercial alkali metal nitrates may play a crucial role in the reactivity of the latter.34,35 Similar to nitrates, nitrite melts have been used to prepare fine oxide powders at moderated temperatures. The higher basicity of nitrite was used to transform titanium sulfate precursor to the titanate oxoanions, which cannot be done in nitrate fluxes.36
+
+(34) Eweka, E. I.; Kerridge, D. H. Thermochim. Acta 1995, 262, 100. (35) Eweka, E. I.; Kerridge, D. H. Thermochim. Acta 1996, 290, 133. (36) Aboujalil, A.; Deloume, J. P., Chassagneux, F.; Scharff, J. P.;
+
+Table 2. Products of Reactions of Ti and Zr Precursors in
+
+NaNO3 Doped with 10 % NaNO2 precursor TiOSO4 TiOSO4 ZrOCl2 ZrOCl2
+
+phase composition of products Na4TiO(PO4)2 TiO2 Na2Zr(PO4)2, Na4ZrO(PO4)2 ZrO2
+
+In this work the consequences of the higher basicity of nitrite ion were studied in preparations of Zr and Ti phosphates. The results are summarized in Table 2.
+
+Reactions in the nitrate with 10 mass % or more of nitrite were found to produce at 773 K mostly the corresponding transition metal oxides and sodium orthophosphate.
+
+Apparently the strong basicity of nitrite leads to destruction of phosphate complexes according to the “oxolysis” reaction 11 similar to hydrolysis of phosphates with aqueous bases.37 Na2M(PO4)2 + 4NaNO2 f
+
+Lowering the temperature to 673 K results in products similar to those from the nitrate reactions. However, the lower phosphate activity at 673 K seems to favor decomposition reactions, thus reducing the number of phases available. Influence of Fluoride Admixtures. Small amounts of ammonium fluoride ( 24)0.1-1 wt %) added to molten nitrates may strongly influence the composition and the structure of the reaction products similar to the effect of fluoride in hydrothermal syntheses38 of zeolites or that in the polyphosphate fluxes.39 If the amounts of fluoride are considerable, mixed phosphate fluorides of zirconium can be obtained under hydrothermal conditions.40
+
+It was observed earlier41 that fluoride admixtures to molten nitrates act as efficient mass transfer agents, accelerating recrystallization and growth of the thermodynamically stable monoclinic zirconia particles. Solubilization of Zr species in the nitrate melt occurs in the form of one of the several stable fluoride complexes of zirconium(IV)-.
+
+In the phosphate preparations, discussed here, fluoride admixtures can modify not only the morphology but also the chemical composition of the solid products. Doping of the reaction mixture with 0.5-1 mass % of ammonium fluoride leads in some cases to the similar effect as increasing reaction temperature.
+
+Reactions of ZrOCl2 in NaNO3 either without Fat 823 K or with addition of 1 mass % of Fat 723 K gave the same Na5-4xZr1+x(PO4)3 phase. Potassium nitrate and zirconium precursor led also to the NASICON structure, having the composition K5-4xZr1+x(PO4)3 x) 0.8 which was never obtained without fluoride doping. 31P MAS NMR of this solid showed three peaks ( 228) -24.6,
+
+(40) Wloka, M.; Troyanov, S. I.; Kemnitz, E. J. Solid State Chem.
+
+Preparation of Mixed Phosphates 23.7, and -22.6) close to the chemical shift of the single peak of KZr2(PO4)3 NASICON ( 228) -24.5). The peak multiplicity is probably due to nonequivalent P atoms produced by disordered arrangements of K+ cations in the voids of the Zr-P-O host.
+
+In other cases (e.g., for Ni and Zn precursors), fluoride addition provoked complete change of the products composition, but the new phases were not identified.
+
+For the time being the information on these processes with fluoride participation is insufficient to discuss properly the influence of small amounts of fluoride on the reaction mechanisms. In seems although, that the complexing properties of Fare of primary importance, influencing both reaction kinetics and solubility equilibria. Due to complexing, solubilization of precursor species can accelerate the reactions. On the other hand, complexing with Fmay save precursor species from some precipitation reactions. The present study shows that small admixtures of Fcan serve as a tool to extend the preparative possibilities of molten nitrates for the preparation of mixed phosphates.
+
+Preparation of Substituted Mixed Phosphates. Whether the applications envisaged for the mixed phosphates are in catalysis, electronics, or ceramics, the possibility of tailor-made preparations of partially substituted structures is essential to control the redox and acidobasic properties of materials as well as their electric conductivity. Variously doped NASICONs, KTP, or layered phosphates are extensively studied.21
+
+The mixed phosphates discussed here, either lamellar or three-dimensional, consist all of three structural building elements: PO4 tetrahedra, MO6 octahedra (or sometimes MOn units with other coordination numbers), and the alkali metal cations, occupying the voids of the structure. Three types of possible substitution in these solids can thus be suggested. Alkali metal ions can be replaced with M(I) or M(II) cations of main or transition group metals; phosphate anions may be substituted with other polyvalent tetrahedral species such as sulfate, molybdate, or vanadate, whereas MOx species could be replaced with chemically similar oxide moieties. The molten salt technique seems to be well-suitable for such substitutions, as illustrated below with selected examples
+
+(i) Alkali Metal Cations. Alkali metals in the mixed phosphates can be replaced by other alkali metals or by monovalent or divalent cations42 from other groups of periodic system. Such substitutions can be used to control their properties, ion conductivity, or catalytic or bacteriostatic43 activity. Fused nitrates were used earlier for ion exchange in mixed phosphates; molten Tl and Rb nitrates, for exchange of potassium in K2Zr(PO4)2 lamellar phosphate;44 and molten LiNO3, for exchange of potassium in the KTiOPO4 crystals.45
+
+We observed that preparation of structures containing different alkali metal in a given host material is possible by carrying out the syntheses in the molten mixtures of the corresponding alkali metal nitrates. An example
+
+Alkaline earth elements can be incorporated within NASICON or layered Zr phosphates without formation of any new phases. Ca and Ba nitrates introduced in the reaction mixtures of Zr in the atomic ratios M(II): Zr ) 1:10 do not form individual Ca or Ba phosphates, or NaMPO4. Only slight variation of line intensities of XRD lines and d spacings in the host Zr phosphate phases was observed.
+
+In the nitrate melts, simple oxoanions such as mo3-) are stable. If any lybdate (MoO4 polyoxoanions of those elements are present in the melts, their Lux-Flood depolymerization occurs. In this study an attempt was made to replace phosphate groups, with the corresponding molybdate or vanadate species, adding to the reaction medium ammonium heptamolybdate and monovanadate, in the molar ratios Mo:P ) 1 or 3 and V:P ) 1 or 3, using reaction temperatures 673 or 773 K. The results of XRD and surface area measurements are presented in Table 3. It follows from the data of XRD that the transition metal oxoanions strongly influence the composition and crystal structure of the reaction products. If too much of oxoanion is added to the reaction mixture, dispersed ZrO2 instead of any mixed salts was formed at 773 K. The oxoanions of Mo, W, and V have been shown to hinder the Lux-Flood reactions and increase the dispersion of solids obtained.48 In the present study these
+
+Figure 4. 31P MAS NMR spectra of pure (a) and molybdatedoped (b) Na2Zr(PO4)2.
+
+oxoanions play apparently the same rolesthey disturb the reaction, hinder the growth, and make the elaboration of single phase products more difficult. At the same time their presence leads to enhanced dispersion of the solids obtained. For example vanadium-doped NASICON had a surface area of 115 m2/g which is to our knowledge the most finely dispersed NASICON phase ever obtained, much more dispersed than for instance the same NASICON powders synthesized hydrothermally.49
+
+Chemical analyses of Moand V-doped phosphates showed that the degree of transition metals substitution was relatively low compared with the composition of the reaction mixtures. This can be expected, since the oxoanions of V and VI group transition metals are less strongly complexing than phosphate ion.
+
+Substitution of phosphate with molybdate changes the shape of 31P MAS NMR spectra, reflecting local distribution of chemical shift due to both molybdate and charge compensating Na+ cations. NMR results indicate structural disordering in these single-phase materials (Figure 4).
+
+Here again the difference between Na and K nitrates can be seensreaction in Na salt which is more reactive, leads easily to ZrO2, whereas in K salt some new nonidentified compound resisted decomposition.
+
+The behavior of Mo and V anionic species in MS reactions might be worth comparing with that of sulfate. The less complexing sulfate is almost completely pushed away from the solid by much stronger phosphate base, remaining only as an impurity, probably rather at the surface of the product, than in the bulk. As a consequence, sulfates are appropriate precursors for preparation of relatively pure phosphates (chemical analysis of Ti compounds from Table 1 showed less than 0.5% of S in the solids). As for Mo and V anions, their bonding within the solids is possible, but still much less favorable than that of phosphate itself.
+
+Figure 5. XRD patterns of K2Zr(PO4)2 (a), K2+xZr1-xNix (PO4)2 (x ) 0.07), (b) and K2+xZr1-xFex(PO4)2 (x ) 0.09), and (c) prepared in molten KNO3 at 773 K. All peaks correspond to the lamellar K2Zr(PO4)2 (JCPDS card 42-0232).
+
+(iii) MOx Units. This kind of substitution is the most studied for the solids of NASICON and KTP structures, within efforts to achieve efficient control of their physical properties. To be easily introduced, substituting species should possess relevant ion size and electronegativity, not too far from those of the host species. Thus, Zr in NASICON can be easily replaced with Nb with elimination of one sodium ion50 or by couples of metals: 2Zr(IV) f M(III) + M(V).51
+
+In this work, the syntheses of phases in which the MOx units of the host are partially replaced with some chemically similar moieties have been done for mixed NASICON, where 10 atom % Zr was replaced with Ti; mixed Na9-xCo3-xAlx (PO4)5 phosphates with x ) 0.2 and 0.5; and lamellar K2+xZr1-xFex (PO4)2 and K2+xZr1-xNix (PO4)2 with x ) 0.1. No doubt this list can be greatly extended. In all cases the structure of the solid obtained corresponded to that of the pure host (see Table 1). However introduction of species of other metals can drastically affect the product morphology; changing sometimes by an order of magnitude the intensity of the XRD peaks (Figure 5).
+
+Conclusions
+
+While sometimes only illustrating different aspects of the technique used, this work shows rich possibilities of such nonaqueous reactions for the preparation of complex solids. Reactions in molten nitrates provide a new soft chemistry preparation technique for different mixed phosphates, being either an alternative way to known compounds or leading to novel solids. Molten mixtures of Na or K nitrates with ammonium phosphates seem to be the most appropriate media, in the temperature range of  24)673-823 K, to obtain singlephase products. The proper selection of reaction conditions, i.e., reaction temperature, phosphorus compounds used, and eventual admixtures, is the key processing factor to the syntheses of single-phase solids. We also believe that more effort may be fruitful in the prepara-
+
+Preparation of Mixed Phosphates
+
+tion of mixed phosphates of elements, not included in this study.
+
+Due to the relatively low preparation temperatures, the solids are often obtained in a highly dispersed state, possessing high specific surface areas, making them interesting for potential applications in catalysis, ion exchange, and sinterable ceramics. Besides their direct utilization, the alkali metal forms of mixed phosphates could be used as the starting materials for further transformations, for example after their ion exchange with protons as it has been done in many works for the lamellar alkali metal titanates.52,53
+
+The advantage of high dispersion of the solids obtained can turn into a drawback when some novel compounds are concerned. In that case too small crystallites do not allow the appropriate crystallographic study to be carried out, making impossible Rietveld structure refinement, and sometimes even correct indexing of the unit cell parameters. However, as soon as proper characterization is achieved, we are looking forward to report on the MS syntheses of several new mixed phosphate compounds.
+
+Work is in progress also to extend the described MS preparation technique not only to other phosphates, but also the solids based on other oxoanions, such as vanadate, molybdate, or tungstate.
+

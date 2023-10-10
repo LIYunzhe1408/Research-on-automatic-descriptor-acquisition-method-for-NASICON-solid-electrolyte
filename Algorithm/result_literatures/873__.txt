@@ -1,0 +1,58 @@
+In present work, CuZr4(PO4)6, which is acomplex phosphate of NASICON family, has been characterised as ceramic pigment.
+
+To this purpose, its thermalstability, colour properties and some other important pigment characteristics were studied.
+
+In order to obtain purephase ceramic powder of CuZr4(PO4)6, several synthesisapproaches were attempted.
+
+The thermal transformations inthe reaction mixtures were investigated by DTA-TG andXRD analysis.
+
+Thermal stability of the obtained productswas studied using heating microscopy, DTA-TG and XRDanalysis.
+
+Colouring performance and lightfastness ofCuZr4(PO4)6 were tested within commercial ceramic glazes, and its colour in powder and glaze is described bymeans of CIELAB and CIELCh systems.
+
+It is shown thatCuZr4(PO4)6 ceramic powder has sufficient thermal stability and attractive colouring properties to be used asceramic pigment.
+
+CuZr4(PO4)6 represents an important member of NASICONfamily—an extensively studied group of phosphates withclosely related framework structure [1].
+
+Nowadays, theNASICON phosphates form the basis for the development ofhigh-performance materials for a wide range of applicationincluding low thermal expansion ceramic [2], solid electrolytes [3], host materials for radioactive waste immobilization [4], catalysts [5–7] and pigments [8–11].
+
+Useful andimportant properties such as thermal stability, structuralflexibility, ionic conductivity, low thermal expansion andhigh leaching resistance are the basic characteristics of theNASICON phosphates, where several hundred of compositions including numerous solid solutions have been alreadydiscovered and characterised.
+
+The most peculiar property that emphasises CuZr4(PO4)6among the other compounds of NASICON family is its stability in redox reactions.
+
+In particular, because copper canexist in NASICON structure with either oxidation state ?1 or?2, e.g.
+
+with formulations CuZr4(PO4)6 or CuZr2(PO4)3,NASICON skeleton is not destroyed by the reversible redoxreaction in solid state [12].
+
+This characteristic allows application of CuZr4(PO4)6 as an efficient catalyst in conversion,dehydrating and dehydrogenating of different organics [5–7].
+
+At the same time, similar to other Cu(II) phosphates,CuZr4(PO4)6 has a nice cyan–blue colouration, which incombination with intrinsic thermal stability of NASICONsmakes it a potential candidate for application as ceramicpigment.
+
+Furthermore, some of the copper phosphates havebeen already characterised as attractive inorganic colourants[11, 13, 14] and, more importantly, such compounds representa potential replacement of the blue-shade Co-pigments, theapplication of which may face restrictions in future due toecological considerations.
+
+However, despite the high attention to CuZr4(PO4)6 with regard to its catalytic application,thermal stability and colour properties of this phosphate havenot been studied before.
+
+It is worth also to note that the preparation method ofCuZr4(PO4)6 highly affects some of its properties such as,Cu2? site-distribution in the crystal structure [15] which isanticipated to affect the resulting colour of this compoundas well.
+
+In this view, estimation of the correlations betweenthe synthesis conditions and the colour properties of thisphosphate also represents a particular interest.
+
+This subjectbecame the main focus of the present research, where wediscuss the possibility of the formation of CuZr4(PO4)6ceramic powder using several synthesis approaches as wellas the colour properties, thermal stability and some otherpigment characteristics of the obtained powders.
+
+In this study, several synthesis approaches were attemptedto obtain ceramic powder of CuZr4(PO4)6 with purpose tocharacterise its thermal stability and colour properties inview of potential pigment application of this phosphate.
+
+The formation of the single-phase product of CuZr4(PO4)6has been achieved only via sol–gel method with calcinationat comparatively low temperature (700 C).
+
+Increase of thecalcination temperature leads to partial and very slowdecomposition of this phosphate leading to the formationof additional phases (ZrP2O7 and Zr2O(PO4)2).
+
+At the sametime, CuZr4(PO4)6 undergoes unsubstantial sintering during heating (7B%) and its melting point is above 1400 C,which makes possible its application in glazes as ceramicpigments.
+
+Considering the colour properties of CuZr4(PO4)6, thepowdered samples have a light cyan colouration and thecalculated value of the colour hue indicates its pure cyanshade.
+
+The enamelled samples have bright cyan–greencolouration of much higher saturation.
+
+In general, thesynthesis conditions, i.e.utilised phosphate reagents, do notaffect significantly the final colouration of the samples.
+
+Theglaze surface of all samples appears smooth and shiny,while the provided colour is homogeneous and stable atsunlight.
+
+Generally, CuZr4(PO4)6 ceramic powder has sufficientthermal stability and attractive colouring properties forpigment application.
+

@@ -1,0 +1,65 @@
+A planar type Li+ ion based potentiometric CO2 micro gas sensor of size 2×3 mm has been fabricated on alumina substrate by combining thin and thick film technology. 
+The heater, electrodes and electrolyte were deposited by thin film deposition technique and the sensing and reference electrodes were printed by silk screen printing technology. 
+The optimal thickness and sintering temperature of electrolyte are 1.2 m and 775 C. 
+The sensor with Li2CO3 and 20 mol% BaCO3 not only exhibits a good Nernstian behavior but also consistent results over a long time at 450 C in dry as well as 70% RH humidity condition between 160–5000 ppm CO2 concentrations. 
+The spreading effect of the sensing and reference materials was controlled by the addition of Al2O3:B2O3 (1:2 mol%) glass.
+
+As air contamination due to rapid industrial development became an issue with serious environment problems, environment
+management countermeasures that perceive and control noxious gases such as NOx, SOx, HC, CO2 and particles from automobiles and factories have been highly demanded.
+Recently , various CO2 gas sensing methods have been extensively researched in order to cope with control and restriction of CO2 gas exhausts.
+W eppner et al. classified solid electrolyte sensors for CO2 gas into three types.
+ Among, type III consists of solid state electrolyte and sensing material with carbonate auxiliary phase.
+Gas sensors using Na+ ion conducting materials such as -Al2O3, NASICON in which Na+ ion2–5 is possible to move and diffuse through 3-dimmensional empty spaces.
+Recently, thin film solid-state electrolytes6 such as Na+ ion conducting -Al2O3 thin films on sapphire crystal and NASICON thin films were reported.
+However, the research on Li-ion conducting thin film electrolytes has been reported rarely and deficiently.
+In this study, planartype CO2 gas sensors were fabricated using thin film Li3PO4 electrolyte, Pt thin film heater, Au thin film electrodes, thick film Li2TiO3 +TiO2 reference and Li2CO3+BaCO3 sensing electrodes.
+Effects of electrolyte thin film thickness and sintering conditions were investigated.
+The characteristics of CO2 gas sensor with binary carbonate sensing electrode in dry as well as humid conditions and other sensitivity improvement methods were also evaluated.
+
+Pt thin film with thickness 400 nm was deposited as thin film heater on Al2O3 substrate using e-beam evaporator.
+It was patterned in order to have the optimized resistance for the sensor operation.Li-ion conductor (Li3PO4), patterned
+to our own design, was coated on the other side by thermal evaporation varying thickness 650 nm and 1.2∼2.4 m.
+The as-deposited samples were annealed at 700∼800 C for 2 h in air, respectively.
+Au electrodes were deposited on the annealed samples using e-beam evaporator followed by heat treatment at 700 C for 1 h.The reference electrode was fabricated using 10 mol% TiO2 mixed Li2TiO3 paste by screen printing method about 10 m thickness and annealed at 700 C for 1 h. 
+The surface microstructures of thin films were observed using Field Emission Scanning Electron Microscopy (FESEM).
+The phase structure of the electrolyte was analyzed by X-ray diffractometer (XRD), Rigaku, D/Max-3C,
+CuK = 15405 Å in 2 range from 10 to 60 in steps of 0.05.
+The electromotive force (EMF) was measured in air atmosphere mixed with CO2 concentrations ranging from 165 to 5000 ppm controlled by mass flow controllers (MFC) using HP-34401A multi-meter with an internal impedance of >10 G .
+
+Figure 1 shows the XRD patterns of Li3PO4 thin film electrolytes as-deposited and annealed at 700 and 800 C,
+respectively.
+The thickness of Li3PO4 thin film electrolytes was 1.2 m.While no peaks were observed in the case of as-deposited film except the peaks of Al2O3 substrate, typical peaks of Li3PO4 were observed after annealing at 700 C.The crystallanity of Li3PO4 thin films were intensified after annealing at 800 C.
+Figure 2 shows the surface microstructure of Li3PO4 thin film electrolytes with increasing thickness and annealing temperature.
+The grain size was increased due to grain growth with increasing thickness from 650 nm to 2.4 m and annealing at 800 C for 2 h, respectively.
+At 800 C grain growth became more rapid and cracks were observed above 1.5 m thickness.
+Hence, the thickness of Li3PO4 thin films must have to be controlled below 2.4 m thickness and 800 C since the cracks play a vital role as an obstacle of ion conduction.
+Figure 3 shows the variation of sensitivity (EMF) with CO2 concentration in samples of different electrolyte thickness and different working temperatures.
+The sensitivity was improved with increasing working temperature up to 500 C and was better in samples with 1.2 m electrolyte
+thickness.
+Inset shows the sensitivity variation in samples sintered at an interval of 25 C from 700 to 800 C and measured at 500 C for different electrolyte thickness.
+It is observed that the sensitivity of 1.2 m thickness Li3PO4 electrolyte thin films was close to the theoretical value (76.71 mV/dec) when electrolyte sintered above 775 C and whereas in the case of 1.9 m electrolyte the sensitivity was deteriorated with increasing electrolyte sintering temperature.
+This result is in agreement with SEM morphology results.Considering the surface morphology it could be explained that grain growth and densification of electrolyte layers improved the sensitivity after sintering but the formation of cracks in electrolyte layers caused a decrease in sensitivity above the optimal thickness and sintering temperature.
+Hence, the optimal thickness and sintering temperature of electrolyte layers were fixed to be 1.2 m and 775 C respectively.
+Higher ion-conductive electrolyte is required in order to realize low temperature sensor operation.
+Previous researchers have studied the improvement of ion conductivity of electrolyte by controlling grain boundary
+resistance using various additives.
+In this study, we have investigated the methods to decrease the operation temperature of sensors through the stabilization of Li-ion activity in the interface between sensing electrode and electrolyte.
+Figure 4(a) shows the sensitivity characteristics of alkaline earth metal carbonate (BaCO3) added sensors varying the mixed content from 5 to 70 mol% with Li2CO3.
+In case of 20 mol% BaCO3 mixing, the sensor exhibited near theoretical behavior than the other sensors between 450–500 C.
+This might result from stable Li-ion activity due to forming of optimal quantity of eutectic mixture, considering that the eutectic composition of Li2CO3 and BaCO3 was near 50Li2CO3-50BaCO3.
+It is assumed that in the case of mixing of above 20 mol% of BaCO3, the sensitivity characteristics deteriorated since Ba-ion has a more dominant effect on sensitivity rather than Li-ion.
+It has been reported that the sensitivity characteristics were better when the quantity of auxiliary phase material is mixed from 60 to 70 mol% in CO2 sensors with NASICON electrolyte but in CO2 sensors with Li3PO4 electrolyte the best characteristics of sensitivity were obtained when BaCO3 was mixed from 10 to 20 mol% with Li2CO3.
+Inset shows the dependence of EMF for Li2CO3 20 mol% BaCO3 sensor.
+The sensor has followed a fair Nernstian behavior with n value (the number of reaction electrons per CO2 molecule) equal to 2 between 450–500 C working temperature and 160–5000 ppm CO2 concentrations.
+Figure 4(b) shows response and recovery behavior and reproducibility of the CO2 gas sensor at 450 C working temperature.
+The sensor showed excellent characteristics of reaction reproducibility with CO2 gas between 500–5000 ppm.
+Inset shows that the reaction stabilization with CO2 gas to reach a 90% change and then recovery to initial state is less than 30 seconds in each case.Moreo ver, the sensor has also shown consistent results with 70% RH humidity condition.
+Finally, the crucial problem that was encountered is spreading of sensing material at 580 C.
+It is controlled by incorporation of 10 mol% of Al2O3:B2O3 (1:2 mol%) glass in to the sensing material.
+The addition of the glassy material has not only increased the mechanical strength but also controlled the spreading of the sensing material.
+2×3 mm size planar type CO2 micro sensor has been fabricated on alumina substrate.
+It is observed that the optimal thickness and sintering temperature of electrolyte thin film are 1.2 m and 775 C in the patterned Li3PO4 solid electrolyte CO2 sensor.
+The best sensitivity with CO2 concentration was observed at 450 C between 160–5000 ppmCO2.
+The sensitivity of CO2 gas sensor was close to theoretical value when sensing electrode was mixed with
+20 mol% BaCO3.
+Fast response time and reproducibility were obtained in dry as well as 70% RH humidity and the spreading effect of the sensing material is controlled by the addition of Al2O3:B2O3 (1:2 mol%) glass.

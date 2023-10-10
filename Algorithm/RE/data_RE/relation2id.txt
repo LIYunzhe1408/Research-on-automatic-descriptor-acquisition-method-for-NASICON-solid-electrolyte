@@ -1,0 +1,16 @@
+<pad> 0
+Cause-Effect(e1,e2) 1
+Cause-Effect(e2,e1) 2
+Component-Whole(e1,e2) 3
+Component-Whole(e2,e1) 4
+Condition-On(e1,e2) 5
+Condition-On(e2,e1) 6
+Feature-Of(e1,e2) 7
+Feature-Of(e2,e1) 8
+Instance-Of(e1,e2) 9
+Instance-Of(e2,e1) 10
+Located-Of(e1,e2) 11
+Located-Of(e2,e1) 12
+Method-Of(e1,e2) 13
+Method-Of(e2,e1) 14 
+Other 15

@@ -1,0 +1,68 @@
+LiZr2(PO4)3 (LZP) belongs to NASICON family of compounds whose ionic conductivity can betuned by substitution of different cations or by increasing temperature or pressure.
+
+Besides itsconductivity, thermal and electrochemical stability makes it useful as a cathode material forlithium-ion energy storage devices.
+
+Temperature dependent Raman spectroscopic studies werecarried out on the monoclinic (β') phase of LZP in the temperature range 298 – 853K.
+
+Areversible structural phase transition driven by disorder in lithium sites is observed at 603 K.
+
+Thespectral data enable an understanding of dynamics of the mobile Li ion and PO4 internal modesacross the orthorhombic structural phase transition.
+
+On the basis of these studies, a reportedchange in the conductivity around 600 K is explained.
+
+High pressure Raman spectroscopicmeasurements on β'- LiZr2(PO4)3 reveal onset of a structural phase transformation at 3.8 GPa andamorphization above 10 GPa.
+
+On decompression from 26 GPa, the amorphous phase remainsunchanged indicating irreversible nature of pressure induced amorphization.
+
+Three lowfrequency Raman modes at 100, 124 and 144 cm-1 which soften with increase in pressure couldbe the driving force for the phase transition at 3.8 GPa.
+
+Pressure induced phase transition prior toamorphization in β'-LiZr2(PO4)3 could be due to collapse of Zr-O-P bond angles.
+
+Pressureinduced amorphization in this compound might be due to kinetic hindrance of equilibriumdecomposition.
+
+The great demand for solid electrolytes and batteries with high power and energy densitiespromotes the need for advanced lithium superionic conductors and lithium air batterytechnologies.
+
+Among lithium compounds, lithium nitride has the highest ionic conductivity(6×10-3 S cm-1 at room temperature) of potential solid electrolytes.
+
+Despite its high ionicconductivity, its low electrochemical decomposition potential prevents it from being used forpractical applications.
+
+ Within the large family of ionic conductors, NASICON-relatedLiZr2(PO4)3 is known to exhibit a complex polymorphic behavior at ambient conditions andsuperionic conductivity at high temperature.
+
+ Due to its thermal stability, low cost andcompetitive energy densities, it is considered to be an alternative to the commercially dominatingLiCoO2 cathode.
+
+It exhibits anisotropic low thermal expansion by contraction along the a-axisand expansion along the c-axis.
+
+LiZr2(PO4)3 could either be in a monoclinic (β')3 or a triclinic (α')6 crystal structure at roomtemperature, depending on sintering temperatures.
+
+In the β' structure, a complex framework isformed by corner sharing PO4 tetrahedra and ZrO6 octahedra with interstitial lithium atom in afully ordered tetrahedral surrounding.
+
+Temperature variation of conductivity for β'- LiZr2(PO4)3was reported by Sudreau et al.
+
+ The ionic conductivity for the β' phase at ambient temperature isfound to be 10-10 S cm-1.7 Monoclinic LiZr2(PO4)3(β') shows a lower conductivity at roomtemperature and a gain of activation energy above 573 K.
+
+Lower conductivity in β'-LiZr2(PO4)3 is due to low mobility of Li+ion, as there are no empty neighboring sites availablefor hopping.
+
+Conductivity significantly increases with a huge jump of activation energy aboveorthorhombic structural (β) phase transition temperature of 573 K.
+
+The conductivity for βLiZr2(PO4)3 is observed to be 5×10-4 S cm-1.Higher conductivity in disordered β phase isexplained to be due to partially occupied Li sites which produce a low energy barrier for Li+ionsjumping between two independent Li1 and Li2 sites.
+
+To understand the relationship betweenconductivity and LZP structure, a detailed microscopic investigation on ionic conductivity andphase transformation is required.
+
+Structural characterization of lithium transition metal phosphates has been studied throughvarious techniques such as Mossbauer spectroscopy, Li7magic angle spinning nuclear magneticresonance, and optical spectroscopy.
+
+ High pressure resistivity measurements on LISICONcompounds like Li16-2xZnx(GeO4)4 (x=1,2) and Li3+yGeyV1-yO4 (y=0.25, 0.6 and 0.72) showedresistivity maxima at pressures between 2 to 3 GPa and decrease with further rise in pressures.
+
+The decrease in resistivity at high pressures is speculated to be due to the occurrence of a phasetransition but phase transition was not established in these studies.
+
+A systematic study of phasetransformations including amorphization if any, as a function of pressure both on compressionand decompression for prototypic β'- LiZr2(PO4)3 is thus warranted.
+
+If the transition isreversible, there is a need to modify the structure through chemical methods to mimic highpressure behavior resulting in the much desired higher conductivity near room temperature.
+
+Diffraction methods identify materials only with long range order, whereas Raman spectroscopyallows for the investigation of local phase inhomogeneities, structural order/disorder andamorphous materials.
+
+To probe structural changes at the level of chemical bonds, anunderstanding of vibrational modes of β'- LiZr2(PO4)3 through Raman spectroscopy is required.
+
+In present study, Raman spectroscopic studies in the temperature range 80-850 K are carried outto probe the dynamics of the PO4 tetrahedra around the phase transition by studying the internalmodes of PO4 tetrahedra and their line shapes.
+
+High pressure Raman measurements on β'-LiZr2(PO4)3 are carried out up to 20 GPa in both increasing and decreasing pressure cycles toinvestigate the structural stability at high pressures.
+

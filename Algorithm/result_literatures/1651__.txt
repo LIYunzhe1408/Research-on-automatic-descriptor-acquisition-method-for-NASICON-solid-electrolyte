@@ -1,0 +1,166 @@
+Porous, highly crystalline Nasicon-type phase LiTi2(PO4)3 has been prepared by a novel poly(vinyl alcohol)-assisted sol–gel route and coated by a uniform and continuous nanometers-thick carbon thin film using chemical vapor deposition technology.
+The as-prepared LiTi2(PO4)3 exhibits excellent electrochemical performance both in organic and aqueous electrolytes, and especially shows good cycling stability in aqueous electrolytes.
+An aqueous lithium-ion battery consisting of a combination of LiMn2O4 cathode, LiTi2(PO4)3 anode, and a 1 M Li2SO4 electrolyte has been constructed.
+The cell delivers a capacity of 40 mA h g–1 and a specific energy of 60 W h kg–1 with an output voltage of 1.5 V based on the total weight of the active electrode materials.
+It also exhibits an excellent cycling stability with a capacity retention of 82 % over 200 charge/discharge cycles, which is much better than any aqueous lithium-ion battery reported.
+Rechargeable batteries are becoming more and more important in everyday life, especially in consumer electronic devices such as cellular telephones, notebook computers, compact camcorders, and electronic vehicles (EVs).
+The Pb–acid, Ni–Cd, Ni–MH, and Li-ion batteries are popular examples of rechargeable battery systems that are already widely used in numerous technical applications.
+Although great effort has been expended on the relative research to optimize the technical characteristics of these batteries, the intrinsic dissatisfying properties of these systems still make them hard to meet all the requirements for EVs.
+In particular, the Pb–acid and the Ni–Cd batteries are often challenged for their low energy density, and the use of environmentally damaging electrode materials: lead and cadmium.
+The Ni–MH battery has a poor lowtemperature capability and a large self-discharge, for instance, 30 % of its rechargeable capability will be lost within a month.
+On the other hand, lithium ion batteries, with significantly higher energy density and lighter weight, are criticized for increasing the risk of a safety incident because of the flammability of the organic electrolyte, and the reactivity of the electrode materials with the organic electrolytes in the case of improper use such as overcharging or short-circuiting.
+The ion conductivities of the organic electrolyte are generally much lower than the aqueous electrolyte, so batteries should be designed with thin electrodes in order to increase power.
+Furthermore, the special cell assembly technology, the necessity of a perfectly dry environment during some manufacturing steps, and the costly organic electrolyte make the Li-ion batteries comparatively expensive.
+Overall, the economic and environmental problems with which the above-mentioned battery systems are concerned unceasingly intrigue the further development of less expensive and ‘green’ battery systems that would be suitable for EV application.
+Such application requires safe, inexpensive, high power, rechargeable batteries.
+In the mid 1990s, Dahn and co-workers proposed an alternative lithium-ion battery that uses aqueous electrolyte and incorporates VO2 (B) (a specific crystallographic form of VO2) as the anode and LiMn2O4 as the cathode.
+By this combination, the safety problem of the organic electrolyte is fundamentally resolved, the ion conductivity of the electrolyte is enhanced by several magnitudes, and the rigorous assembly conditions are avoided so the cost is reduced greatly, compared with the nonaqueous lithium-ion battery.
+Even though the energy density has been deceased for the limited stable operational potential window of an aqueous electrolyte, compared to the corresponding value of the non-aqueous lithium-ion battery, it is competitive with that of Pb–acid and Ni–Cd batteries.
+However, the cycling life of the VO2 (B)/LiMn2O4 aqueous lithiumion battery was poor.
+Following their work, LiV3O8/ LiNi0.81Co0.19O2, LiV3O8/LiCoO2, TiP2O7/LiMn2O4, and LiTi2(PO4)3/ LiMn2O4 aqueous lithium-ion batteries have also recently been reported, but all these systems also display a poor cycling stability similar to the VO2 (B)/LiMn2O4 system.
+Dahn has suggested that the capacity fading mechanism of the aqueous lithium-ion battery is related to the decomposition of H2O, material dissolution in aqueous electrolyte, and structural changes of the electrode materials, and demonstrated that the main cause for the capacity loss of the VO2 (B) electrode was the dissolution of VO2 (B) into the bulk electrolyte.
+More recently, we have reported that LiMn2O4 exhibits an excellent cycling stability and rate capability when combined with an activated carbon negative electrode in mild aqueous electrolyte.
+This intrigued us to find an alternative negative material with appropriate redox potential and stable cycling life.
+The Nasicon-type LiTi2(PO4)3, which has a relatively satisfying capacity, excellent operating potential in aqueous electrolyte (about 2.5 V versus Li+/Li, –0.5V versus hydrogen electrode (NHE)), and a flat voltage plateau, is generally considered to be limited for application because of its low electronic conductivity.
+Here, macroporous, highly crystalline LiTi2(PO4)3 is prepared by a one-step synthesis route from an aqueous precursor of Li2CO3, (NH)4H2PO4, and TiO2 using poly(vinyl alcohol) (PVA) as a synthetic agent, and is coated with a uniform and continuous nanometers-thick carbon film using chemical vapor deposition (CVD) technology to enhance it electronic conductivity.
+The electrochemical profile is evaluated in both a Li-ion battery containing organic and aqueous electrolyte.
+The aqueous lithium-ion battery consisting of a combination of LiMn2O4 as cathode material, LiTi2(PO4)3 as anode material, and a 1 M Li2SO4 aqueous solution as electrolyte is presented.
+Figure 1 shows the X-ray diffraction (XRD) patterns of the Nasicon LiTi2(PO4)3. Both the LiTi2(PO4)3 samples, prepared either by the sol–gel or the solid state reaction, were phasepure according to their XRD patterns.
+The XRD peaks for the sol–gel LiTi2(PO4)3 can be indexed in the rhombohedral crystal group R3c) with cell parameters: ahex = 8.508 Å and chex = 20.833 Å.
+These results agree reasonably well with previous crystallographic data for this com-system (spaceFigure 1. XRD patterns of LiTi2(PO4)3 prepared by the sol–gel (macroporous) or the solid-state reaction.
+pound.
+ Furthermore, it is noticed that the relative intensity of the reflections of the sol-gel prepared LiTi2(PO4)3 were lower than that of the solid state reaction samples, which indicates the smaller crystal grain size.
+Figure 2 compares the morphology of the sol–gel sample formed by the PVA-assisted route with the product of the solid-state reaction in N2. Although the agglomerate size is similar in both cases, the crystal size is much smaller in the sol–gelFigure 2. SEM images of: a,b) the macroporous LiTi2(PO4)3 and c,d) the LiTi2(PO4)3 prepared by the solid-state reaction.
+This may be taken as evidence that the resident carbon from PVA can stabilize small crystals that would otherwise enlarge at high temperatures by diffusional sintering.
+Moreover, the disordered macroporous morphology was composed of individual particles with narrow size distribution in the range of 200–300 nm, and the macropores within particles ranged in size from around 100 to 400 nm, which is essential for the electrochemical activity of LiTi2(PO4)3. The pores, where filled with the liquid electrolyte, serve as a source of Li+ ions.
+In such a configuration, it is actually the average distances between the pores that determine the length of the diffusion paths within the solid skeleton of LiTi2(PO4)3, which affects the polarization and the power of the insertion electrode.
+Brunauer–Emmett–Teller (BET) surface-area measurement of the macroporous LiTi2(PO4)3 yields a value of 0.7 m2 g–1, which indicates that the macropores do not sacrifice the volumetric energy density.
+The transmission electron microscopy (TEM) images in Figure 3 illustrate the presence of a thin carbon layer about 3– 6 nm thick on the surface of the macroporous LiTi2(PO4)3 particles.
+Inspection of Figure 3c indicates that the thickness of the carbon layer is not uniform along the whole surface.
+It can also be seen that the lattice fringes within the particle stop at the interface between the particle and surface layer, which indicates that the surface is the amorphous carbon rather than the same material as the substrate.
+Figure 3d shows the corresponding selected-area electrode diffraction (SAED) pattern from the LiTi2(PO4)3 particle, in which the spots (marked with white spots) with strong intensity from the remaining matrix reflection indices can be indexed to a Nasicon phase, which indicates the single-crystal and high crystallinity of the whole particle, although the synthetic temperature is apparently lower and the sintering time shorter in the present study than those in previous results.
+Thus it is concluded that the additional PVA can combine all the precursor in one step, with intimate mixing at the atomic level, thus reduce elemental segregation and facilitate the formation of the Nasicon structure.
+The thermogravimetric analysis (TGA) curve for the macroporous LiTi2(PO4)3 recorded in air is shown in Figure 4. 
+It was assumed that the carbon content was proportional to the weight loss between 300 and 800 °C.
+The amount of carbon coated on the macroporous LiTi2(PO4)3 was calculated to be around 3 wt % based on the curve of the TGA weight loss.
+Assuming the majority of the crystal is encased in carbon formed from PVA, a much better performance of the macroporous LiTi2(PO4)3 in terms of lithium-ion insertion may be expected because of a permeation of electrons closer to the active redox sites.
+Typicalcharge/discharge curvesthe macroporous LiTi2(PO4)3 composite are shown in Figure 5. 
+The cell was cycled between 1.5 and 3.5 V at a specific current density of 140 mA g–1 (1 C) at room temperature.
+The electrode delivered a discharge capacity of 121.7 mA h g–1 with a voltage plateau of 2.45 V, which indicated a two-phase mechanism for lithium insertion.
+Considering there is 3 wt % carbon in the material, the capacity calculated from the macroporous LiTi2(PO4)3 weight is 125.5 mA h g–1. When the charge/discharge rates were decreased to 0.1 C, the macroporous LiTi2(PO4)3 active material could present a discharge capacity of ca.
+134 mA h g–1, approximating the theoretical value of 138 mA h g–1.The further importance of high-power application encourages investigation of the high rate capability of the macroporous LiTi2(PO4)3. Figure 6 shows the voltage profiles for macroporous LiTi2(PO4)3 as a function of the specific capacity for charge/discharge rates ranging from 0.1 C (14 mA g–1) to 20 C (2800 mA g–1) at room temperature.
+Our material delivered a discharge capacity of 130 mA h g–1 at 0.1 C and 103 mA h g–1 at the 10 C rate.
+Few studies have induced a cycling test at such high rates.
+The best literature result is 100 mA h g–1 at 2 C for the material prepared by mechanical ball-milling with carbon reported by the group of Masquelier.
+The high-rate discharge performance indicates that the synthesized macroporous LiTi2(PO4)3 composite would be well suited for electrode materials of high-power lithium batteries.
+The large capacity performance in the high-rate condition could be attributed to the high phase purity, small particle distribution, macropores, and improved conductivity through carbon coating.
+
+As is well known, Nasicon LiTi2(PO4)3 materials are characterized by limited lithium-ion diffusion and poor electronic conductivity.
+The macroporous structure ensures the effective ingress of the electrolyte, and the small particle character reduces the diffusion length of the lithium ion inside, which results in fast reaction and diffusion kinetics.
+ Moreover, it should be noted that the electron-conducting behavior by surface coating of the electrode material does not function the same as the mixing of an electrode-conductive material with the active electrode materials.
+The electron-conductive coating helps to create a close-to-optimal wiring situation.
+While for the added electrode conductor, although the average conductivity of such a composite may be very high, the electrochemical reaction is very fast only at a selected places on the particle surface, where the electrode conductor is in electronic contact with the substrate particles.
+On the other hand, a nanostructured electrode material with high surface area and small particle size can increase the rate capability for lithium ion batteries.
+However, such an improvement is often considered to be achieved at the expense of high volumetric energy density.
+Moreover, it would be difficult for nanosized particles (typically smaller than 100 nm) to prepare a composite electrode.
+In the present case, we have increased the macropores to ensure the effective ingress of the electrolyte but not at the expense of the surface area (the BET surface area is only 0.7 m2 g–1).
+So this particular macroporous morphology with an electron-conducting surface coating can support high capacities at high rate and with volumetric energy density.
+The cycling performance of the macroporous LiTi2(PO4)3 electrodes is shown in Figure 7. 
+A preliminary test of 200 cycles at 100 % depth of charge/discharge showed about 17 % capacity fading, namely, an average capacity loss of 0.085 % per cycle, and from cycle 10 to 200 this loss is even lower at 0.055 %.
+Moreover the charge/discharge coulombic efficiency continually close to 100 % during the cycles.
+The cyclic voltammograms of the as-prepared macroporous LiTi2(PO4)3 in 1 M Li2SO4 aqueous electrolyte for the first 20 cycles are shown in Figure 8a.
+From the results in Figure 8a, one pair of redox peaks located at about –0.80 (red) and –0.65 V (ox) versus the saturated calomel electrode (SCE) was observed for macroporous LiTi2(PO4)3, which agrees with the Li-ion de-intercalation/intercalation process in an organic elec-Figure 6. 
+Voltage profiles of the synthesized macroporous LiTi2(PO4)3 at various charge/discharge rates in an organic electrolyte.
+
+But the capacity fades drastically, which is extensively found for the negative electrode materials of aqueous lithium ion batteries.
+It has been suggested that the capacity fading is related to transition metal ion dissolution, phase transformation of electrode material, decomposition of water, and so on.
+ We speculate that the capacity fading mechanism of LiTi2(PO4)3 is most likely ascribed to the changes in the composition and/or phase structure because of a side reaction with water in the aqueous electrolyte.
+Nonetheless, the mechanism of capacity fading on cycling is very complicated, and much more work should be done.
+In order to improve the cycling stability of the LiTi2(PO4)3, we used the CVD process to prepare the carbon-coated LiTi2(PO4)3 by thermal decomposition of toluene to bring an overlay film of carbon on the surface and into the pores of the asprepared, nanostructured LiTi2(PO4)3. 
+Scanning electron microscopy (SEM) images of the CVD carbon-coated LiTi2(PO4)3 are shown in Figures 9a and 9b.
+It can be seen that the morphology remains almost the same, and the average particle size does not change greatly.
+In this case, the average particle size and morphology of the material are dictated by the process of making the initial LiTi2(PO4)3 rather that by the coating process.
+Further surface texture of the particles can be seen in the TEM images of Figure 9c.
+In general, this coating was deposited uniformly and continually, the thickness of the coating film varies over a range from approximately 15 to 25 nm.
+Furthermore, the layer structure of the coated carbon can be seen in the HR-TEM image in Figure 9d, which indicates that the carbon has been transformed to graphite to a certain extent.
+The TGA curve in Figure 10 shows that the carbon content of the carbon-coated sample is about 12 wt % (including both the carbon resident in the as-prepared nanostructured LiTi2(PO4)3 and CVD-coated carbon).
+Figure 8b shows the cyclic voltammograms of the carboncoated LiTi2(PO4)3 electrode in 1 M Li2SO4 aqueous electrolyte for the first 20 cycles.
+This behavior is quite distinctive from the electrochemical profile of the macroporous LiTi2(PO4)3 without CVD carbon coating shown in Figure 8a.
+The profile of the first cycle presents an obvious polarization with a potential separation of 0.17 V between the anode and cathode peaks, while after the ‘activation’ of the first cycle reaction; the potential separation of the second cycle is only 0.15 V.
+The good overlap of the anodic and cathodic peaks at the subsequent cycles represents a good reversibility of the carbon-coated LiTi2(PO4)3 electrode, which indicates that the carbon-coated LiTi2(PO4)3 is very stable in the aqueous electrolyte and can be used as a negative electrode material with good cycling performance.
+However, as demonstrated above in Figure 9, the carbon coated by the CVD process spreads over the entire particle surface to form a nanometer-thick film, which is different from the conventional coating method that uses metal oxide, polymer, and a carbon material, in which some cracks or pores exist in the layer to provide the ion accessibility pathway.
+This raised an interesting issue as to how the Li ion can reach the LiTi2(PO4)3 particle surface.
+Apparently, it is different from the case of carbon-coated graphite, where the Li ion can first intercalate into the coated carbon, and then diffuse to the bulk graphite.
+In the current case, Li-ion intercalation can not occur at the examined potential.
+Presently, the mechanism responsible for ionic transport in the coatings still remains unclear.
+Recently, Suzuki reported that the lithium ion can diffuse through a copper thin film.
+This was further confirmed by an ab initio density-functional calculation contributed by Chen et al.
+They demonstrated that the ion can pass through the film by some crystal defect or vacancy in the bulk substance under the ion concentration difference between two phases.
+As shown by TEM, the coated layer is low crystalline carbon, rather than a perfect graphite carbon.
+There are many defects present in the coated-carbon layer.
+It is speculated that these defects allow the Li ions to pass through the carbon layer to provide enough effective reaction areas.
+Therefore, the side reaction between LiTi2(PO4)3 and the aqueous solution, which we speculate is the cause for the quick capacity fading of bared macroporous LiTi2(PO4)3 in aqueous electrolyte as opposed to the organic electrolyte, could be effectively inhibited by the nanometers-thick carbon layer of the carbon-coated LiTi2(PO4)3, which leads to significant improvement in the cycling stability.
+On the other hand, we have confirmed that LiMn2O4 can have very a long cycle life and excellent rate capability in a mild aqueous electrolyte.
+Thus, a novel aqueous lithium-ion battery LiTi2(PO4)3/LiMn2O4 with high energy density, fast power capability, and a long cycle life would be expected.
+The typical cyclic voltagramms of LiMn2O4 and LiTi2(PO4)3 are given in Figure 11. 
+From the result of cyclic voltammetry, two pairs of redox peaks, located at 0.84 and 0.98 V (oxidation potential vs.SCE) are observed for LiMn2O4, which agree well with the insertion/extraction reaction of LiMn2O4 in an organic electrolyte.
+It also shows that it is possible to extract Li ions from the host before the evolution of O2. LiTi2(PO4)3 exhibits one pair of Li-ion insertion/extraction peaks at –0.81 and –0.66 V (redox potential vs.
+SCE), with the insertion of Li ions to the LiTi2(PO4)3 before H2 evolution.
+In the aqueous electrolyte, we must consider that, for example, the oxygen evolution occurs on the positive electrode after complete Li extraction and hydrogen is evolved on the negative electrode after full lithiation during the charge process.
+The evolution potentials critically depend on the pH of the aqueous solution.
+From all the above results, the charge/dis-charge voltage of the LiTi2(PO4)3/LiMn2O4 aqueous lithiumion battery was controlled between 0 and 1.85 V in the 1 M Li2SO4 solution.
+Figure 12 shows typical charge/discharge curves of the individual electrode vs.
+SCE reference and the voltage profile of the aqueous lithium-ion battery cycled between 0 and 1.85 V at a current rate of 4 mA cm–2. The balancing mass ratio of anode and cathode materials was designed to be 1 : 1 by using the specific capacity of 80 mA h g–1 of both electrodes.
+The aqueous lithium-ion battery shows excellent reversibility with a flat voltage profile centered at 1.5 V, and delivers a capacity of 40 mA h g–1 and a specific energy of 60 W h kg–1 based on the total weight of the active electrode materials (including both the positive and negative electrodes).
+The average operational voltage of 1.5 V is higher than that of the Ni–MH or Ni–Cd battery (1.2 V), which is a critical parameter for practical battery application with a flat charge/discharge curve.
+Ragone plots, which are used to relate the power density to the energy density, were calculated by using the total weight of the active materials, the cell voltage, and the capacity based on the charge/discharge curves at various current densities from 1 to 10 mA cm–2. The data in Figure 13 clearly demonstrate that the LiTi2(PO4)3/LiMn2O4 aqueous lithium-ion battery has a good specific energy and power density.
+For example, the specific energy was 60 W h kg–1 at a power density of 100 W kg–1, and still keeps 40 W h kg–1 at a power density of 800 W kg–1. Typically, the active electrode weights are about 50 % of the total weight of the practical cell, if a Sony Li-ion product is used as an example.
+Thus the practical energy density of nearly 30 W h kg–1 is expected for this aqueous lithium-ion battery, which is competitive with Pb–acid technology, but with a much higher power density, and using low cost, environmentally benign materials.
+Furthermore, the theoretical energy density for this aqueous lithium-ion battery is 107 W h kg–1, assuming that the theoretical capacities of LiMn2O4 (148 mA h g–1) and LiTi2(PO4)3 (138 mA h g–1) can be fully used, and that the average battery voltage is 1.5 V.
+These assumptions would give about 54 W h kg–1 in a practical battery, which can compete with Ni–Cd (about 50 W h kg–1) technology.
+Figure 14 shows the cycling profile of the aqueous lithiumion battery at a current of 10 mA cm–2 between 0 and 1.85 V.
+The battery exhibits 200 cycles with about 20 % capacity loss at an extreme cycling condition without relaxation between cycles.
+As can also be seen in Figure 14, the coulombic efficiency remains about 95–99 %, which suggests that no significant gas evolution occurs in the cycling voltage region.
+Obviously, the good cycling stability of the macroporous carbon-coated LiTi2(PO4)3 electrodes utilized in the battery complements the intrinsic cycling stability of the LiMn2O4 electrode.
+For the first time, the combination of a LiMn2O4 cathode and a macroporous carbon-coated LiTi2(PO4)3 has been proven to be suitable for high-performance aqueous lithium-ion battery application; this result can be reasonably ascribed to the interesting synergistic effects of nanotechnology and coating technology of the LiTi2(PO4)3 anode material.
+In this paper, macroporous, well crystalline carbon-coated Nasicon-type phase LiTi2(PO4)3 is prepared by one-step synthesis from an aqueous precursor of Li2CO3, (NH)4H2PO4, and TiO2 using PVA as a synthetic agent and coated by a uniform and continual carbon thin film using CVD technology.
+The as-prepared LiTi2(PO4)3 exhibits excellent electrochemical performance both in organic and aqueous electrolyte.
+In particular it shows good cycling stability in aqueous electrolyte.
+It is speculated that the good rate capability could be attributed to the high phase purity, small particle distribution, macropores, as well as the improved conductivity through the carbon coating.
+The significant improvement in the cycling stability of carbon-coated LiTi2(PO4)3 compared to bare LiTi2(PO4)3 in an aqueous electrolyte is an indication that the nanometers-thick carbon layer allows the lithium ions to pass through but prevents water from attacking the bulk phase.
+By optimizing the mass ratio of anode and cathode materials, an aqueous lithium-ion battery that consists of a combination of a LiMn2O4 cathode, a LiTi2(PO4)3 anode, and a 1 M Li2SO4 aqueous electrolyte solution shows excellent reversibility with a flat voltage profile centered at 1.5 V, and delivers a capacity of 40 mA h g–1 and a specific energy of 60 W h kg–1 based on the total weight of the active electrode materials, which can be compete with Ni–Cd and Pb–acid batteries.
+Furthermore, the aqueous lithium-ion battery exhibits excellent cycling performance, and maintains about 82 % of the reversible capacity after 200 charge/discharge cycles, which is much better than any aqueous lithium-ion battery reported.
+It is hoped that the results presented in this study might renew interest in the design and surface modification of electrode materials that are applicable not only to aqueous lithium-ion batteries, but also to energy conversion and storage applications of the future.
+Moreover, the LiTi2(PO4)3/LiMn2O4 aqueous lithium-ion battery described here provides real ‘green’ energy storage with high energy density, high power, a long cycling stability, low cost, environmental friendliness, and high safety, which will make great progress in large-scale energy storage devices, especially for E/HEV (electric/hybrid electric vehicles).
+
+The macroporous LiTi2(PO4)3 was prepared by a sol–gel method.
+An aqueous precursor that contained Li2CO3, (NH)4H2PO4, and TiO2 was blended with 100 mL of a 2 wt % PVA solution.
+The mixture was stirred at a constant temperature of 80 °C until the water was evaporated and a white solid formed.
+The product was place in a porcelain boat and heated at 900 °C for 12 h at a rate of 10 °C min–1 under N2 flow in a tube furnace.
+For comparison, conventional LiTi2(PO4)3 was synthesized using a conventional solid-state reaction.
+Stoichiometric amounts of Li2CO3, (NH)4H2PO4, and TiO2 were mixed and homogenized in a mortar and calcined (10 °C min–1) at 900 °C for 12 h in N2 flow or air.
+For the carbon-coated LiTi2(PO4)3, the as prepared LiTi2(PO4)3 powder was transferred into a reaction tube to make a fluid-bed layer for reaction where a toluene vapor was carried by nitrogen gas through the reaction tube at a flow rate of 1 L min–1. The reaction temperature was maintained at 800 °C for 12 h.
+The lithium-doped Li1.1Mn2O4 (hereafter written as LiMn2O4) was obtained by reacting Li2CO3 with MnO2 (0.55 Li/Mn ratio) at 530 °C for 5 h, follow by heating at 800 °C for 24 h, and was then cooled over a 3 h period.
+Powder XRD measurements were performed on a Rigaku D/MAXIIA X-ray diffractometer using CuKa radiation.
+TGA was carried on a Perkin–Elmer TGA 7 thermal analyzer.
+SEM images were obtained on Philip XL30 operated at 25 kV.
+TEM was performed using a JOEL JEM-2010 electron microscope.
+Nitrogen adsorption–desorption measurements were performed on a Micromeritics Tristar 3000 system at 77 K.
+The charge/discharge test in organic electrolyte was characterized in a CR2016-type coin cell.
+Metallic lithium was used as the negative electrode.
+The working electrode was fabricated by compressing a mixture of the active materials (carbon-coated LiTi2(PO4)3), conductive material (acetylene black, AB), and binder (polytetrafluoroethylene) in a weight ratio of carbon-coated LiTi2(PO4)3/AB/PTFE of 16 : 3 : 1 onto an aluminum grid at 10 MPa.
+The electrodes were punched in the form of disks typically with a diameter of 12 mm.
+The typical mass load of the active material is about 10 mg cm–2. The electrode was dried at 120 °C for 12 h before assembly.
+The cell was assembled in a glovebox filled with pure argon.
+The electrolyte solution was 1 M LiPF6/ethylene carbonate (EC)/dimethyl carbonate (DMC)/ethyl methyl carbonate (EMC) (1 : 1 : 1 by volume).
+The cell was galvanostatically cycled between 1.5 and 3.5 V vs.
+Li/Li+ at various current densities at 25 °C.
+Lithium insertion into LiTi2(PO4)3 electrodes was referred to as discharge and extraction as charge.
+The cell capacity was determined by only the weight of the active material.
+Cyclic voltammograms were characterized using a three-electrode cell; the metallic lithium was used as a counter and reference electrodes.
+For the electrochemical test of both LiTi2(PO4)3 and LiMn2O4 in the aqueous electrolyte, the composition of each sample was the same as that studied in the organic electrolyte.
+The stainless steel grid was used in aqueous electrolyte as the current collector instead of aluminum mesh.
+Each electrode was characterized using a three-electrode cell, in which a platinum and saturated calomel electrode (SCE, 0.242 V vs.
+NHE) were used as counter and reference electrodes, respectively, and it was performed using a Solarton Instrument Model 1287 electrochemical interface controlled by a computer.
+Battery testing used a two-electrode glass cell, which consisted of LiMn2O4 positive and LiTi2(PO4)3 negative electrodes.
+

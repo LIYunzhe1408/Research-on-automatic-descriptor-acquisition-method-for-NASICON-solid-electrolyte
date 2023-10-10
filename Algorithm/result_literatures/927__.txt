@@ -1,0 +1,46 @@
+A vanadium phosphate insertion-electrode system withPO4 tetrahedra and=or P2O7 group in rechargeable lithiumbatteries has been gaining interest because of its tunableoxidation state ranging from V5+ to V2+.
+
+Li3V2(PO4)3 andLi9V3(P2O7)3(PO4)2 with V3+ may be a candidate for nextgeneration insertion-electrode systems, since they exhibita multielectron reaction.
+
+LiVFPO4 with V3+ is also acandidate due to its relatively low molecular weight in spiteof a single-electron reaction.
+
+The tunable oxidation state, as well as the characteristicspin network in the vanadium phosphate system, mayprovide an intriguing field of investigation for quantumphysics such as antiferromagnetic spin systems on lowdimensional lattices.
+
+LiVFPO4 and the triclinic LiVOPO4with V4+ have the spin S ¼ 1 and 12 quasi-linear chainsformed by corner-sharing VO4F2 and VO6 octahedra,respectively.
+
+ LiVFPO4 exhibits the one-dimensional paramagnetism above the antiferromagnetic transition temperature TN ¼ 10 K, at around which the 7Li spin–latticerelaxation rate shows the critical behavior, while at lowertemperature, it has the exponential dependence attributed tothe ground singlet state with an energy gap.
+
+ LiVOPO4indicates a one-dimensional paramagnetism above Tc1 ’15 K, and it has a long-range order to spin-singlet statesat Tc2 ’ 10 K due to the alternating-exchange couplings,accompanied by spin-dimer fluctuations between Tc1 andTc2.2)Even the vanadium phosphate system without the V–O–Vlinkage sometimes shows the long-range order of spinsoriginated from the axial magnetic anisotropy as well as thesuperexchange interaction through the V–O–P–O–V pathways.
+
+Li9V3(P2O7)3(PO4)2 forms an approximate kagomelattice with only such a pathway, and the delithiated phaseleads to a ferromagnetic state basically with uniaxialmagnetocrystalline anisotropy due to the single-ion anisotropy of V3+.
+
+This work is performed to clarify the magnetic propertiesand spin dynamics of Na3V2(PO4)3 with V3+ throughmeasurements of x-ray diffraction, magnetic susceptibility,and nuclear magnetic resonance (NMR) for the 23Na nuclei.
+
+This compound belongs to the family of Na-ion superiorionic conductor (NASICON) structures as shown inFigs.1(a)–1(c), where the crystal system is trigonal withthe space group R3c and the lattice constants are a ¼ 8:7288and c ¼ 21:8042 Å in the hexagonal basis.
+
+It is built up fromisolated VO6 octahedra and PO4 tetrahedra interlinked viacorners to form the framework anion [V2(PO4)3]3− havingtwo inequivalent Na1 and Na2 ions with respectiveoccupancy probabilities being 0.805 and 0.731.6) Despitethe long history of NASICON compounds as fast ionconductors or solid electrolytes,7) they have also beeninvestigated from the viewpoint of the electrode materialsin lithium ion batteries.
+
+Figure 1(c) shows the V–V network via the V–O–P–O–Vsuperexchange pathways of Na3V2(PO4)3, which is deemedto be three-dimensionally coupled honeycomb lattices.
+
+Here,note that competitive interactions in quantum magneticsystems for the honeycomb lattice have recently been ofmuch interest.
+
+For the ab-plane, all of the V–V distances areequally 5.111 Å and the V–O–P–O–V angles are describedas V­O1­P ¼ 146:0°, O1­P­O2 ¼ 112:2°, and P­O2­V ¼151:4°.
+
+On the other hand, for the c-axis, V­V ¼ 4:484 Å,V­O2­P ¼ 151:4°, O2­P­O2 ¼ 111:7°, and P­O2­V ¼151:4°.
+
+Thus, the superexchange coupling along the c-axisis expected to be larger than that in the ab-plane.
+
+There is noreport regarding the physical properties.
+
+In this work, themagnetic properties of newly synthesized Ag3V2(PO4)3 arealso presented.
+
+The phase transition and spin dynamics of the NASICONtype Na3V2(PO4)3 with the three-dimensionally coupledhoneycomb lattices of S ¼ 1 are explored and the isomorphous compound Ag3V2(PO4)3 is newly synthesized.
+
+Both Na3V2(PO4)3 and Ag3V2(PO4)3 exhibit the maximumof magnetic susceptibility at Tm ¼ 9 K, which is approximately explained in terms of the coupled dimers with theuniaxial magnetic anisotropy, where the exchange couplingconstants of the dimer and the interdimers, and the parameterof uniaxial magnetic anisotropy are estimated.
+
+Judging fromthe change in NMR spectra for Na3V2(PO4)3 as a function oftemperature, they are found to undergo the antiferromagnetictransition at around TN ¼ 4 K.
+
+The spin dynamics at hightemperatures for Na3V2(PO4)3 is understood with therelaxation mechanism for antiferromagnetically correlatedparamagnetic insulators, and that at low temperatures may becharacterized by a crossover from the critical slowing downof spin fluctuations above TN to the thermally excitedbehavior with the gap originated from the uniaxial magneticanisotropy.
+
+Finally, it may be worthwhile to point out that the newcompound Ag3V2(PO4)3 would become a candidate ofelectrode-active materials for rechargeable solid-state batteries with an electrolyte such as AgI-related materials,considering the significant ionic oscillation of Ag.
+

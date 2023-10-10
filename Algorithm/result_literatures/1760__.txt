@@ -1,0 +1,79 @@
+High-resolution solid-state 7Li NMR was used to characterize the structure and dynamics of lithium ion transportin monoclinic Li3V2(PO4)3. Under fast magic-angle spinning (MAS) conditions (25 kHz), three resonancesare clearly resolved and assigned to the three unique crystallographic sites.
+This assignment is based on theFermi-contact delocalization interaction between the unpaired d-electrons at the vanadium centers and thelithium ions.
+One-dimensional variable-temperature NMR and two-dimensional exchange spectroscopy (EXSY)are used to probe Li mobility between the three sites.
+Very fast exchange, on the microsecond time scale,was observed for the Li hopping processes.
+Activation energies are determined and correlated to structuralproperties including interatomic Li distances and Li-O bottleneck sizes.
+The high energy density and long lifetime of lithium ionbatteries are responsible for their dominance in the field ofportable energy sources.
+Currently, much research is focusedon the basic components of the lithium ion cell to obtainenhanced performance.
+Investigations of the cathode materialstrive to improve upon the current standard, LiCoO2, whichsuffers from slow cycling and the high cost and toxicity ofcobalt.
+A material that has recently attracted interest as apotential cathode material is lithium vanadium phosphate,Li3V2(PO4)3. 
+It crystallizes in a structure similar to the openframework NASICON (a family of Na superionic conductors)with corner-shared VO6 octahedra and PO42- tetrahedra.
+Lithium metal phosphates have high, but operative, redoxpotentials coupled with good electrochemical and thermalstability.
+They also have exceptional ionic conductivity resultingfrom the large interstitial space created by the PO42- units,allowing for fast ion migration in three dimensions.
+Li3V2(PO4)3exhibits a theoretical capacity of 197 (mA h)/g, the highest ofthe phosphates.
+Recently, it has been shown that all threelithium sites can be reversibly extracted from the lattice,resulting in a capacity approaching the theoretical value.
+Coating the particles with a conductive carbon matrix hasaddressed the concerns about electronic conductivity and hasallowed full access to this capacity.
+Li3V2(PO4)3 exists in two different forms: a rhombohedralphase and the thermodynamically stable monoclinic phase,R-Li3V2(PO4)3, with symmetry P21/n.
+The latter has a closerpacking but has been shown to possess better electrochemicalproperties.
+Monoclinic Li3V2(PO4)3 undergoes several twophasetransitions between 3.0 and 4.7 V versus Li+/Li but retainselectrochemical reversibility, forming a solid solution uponlithium reinsertion.
+ Despite all of the phase changes, it hasbeen shown by neutron diffraction to avoid undergoing largestructural changes upon cycling.
+The ability of lithium ionsto be transported is crucial to achieving high cell performanceand reversible capacity and depends on the electronic andstructural properties of the material.
+An understanding of themicroscopic mobility of the lithium ions, both preferred pathsand hopping rates, is essential to explaining the macroscopicelectrochemical behavior as well as for improving the performanceof these promising cathode materials.
+Solid-state nuclear magnetic resonance (NMR) is a powerfultool for elucidation of local structure and dynamics.
+
+
+This resonance is present as a slight shoulder atlower temperatures but is not clearly visible because the lineshape of the resonance at the lowest frequency is too broad.
+It is clear that sites A and B coalesce first at and above 316K, meaning that at this temperature these two sites areexchanging at a rate of ðV/x2 comparable to the separation inHz, V, between the two resonances.
+Resonances A and B shift towardeach other, as identified by the initial shift of resonance B tolower chemical shift while A moves to higher chemical shift.
+
+Beyond this temperature, theAB resonance moves to higher frequency, coalescing withresonance C, which trends to lower frequency throughout thevariable-temperature experiment.
+At 364 K, all three sites areexchanging faster than the NMR time scale and only one averageresonance is observed.
+A summary of the jump frequencies andcorrelation times is given in Table 2. 
+The correlation timesprovide a measure of the time scale for Li ion motion.
+Thetemperature for coalescence of sites AC and BC cannot bedetermined directly from the 1D variable-temperature studybecause the resonances corresponding to site A and B havealready coalesced.
+It is clear, however, that all three sitesexperience motional averaging and that 2D experiments arenecessary to study the exchange among the multiple sites.
+The2D EXSY spectra were collected at low temperatures because at room temperature ion exchange happens ata rate which causes substantial overlap of resonances A and B.
+The direct exchange of multiple lithium sites can be observedas cross peaks in the 2D EXSY spectra.
+The rate of the exchangeprocess is studied through the evolution of the cross peakintensity as a function of the mixing time, ômix.
+There are only individual signalspresent along the diagonal, indicating that no exchange is takingplace at this time scale.
+As the mixing time is increased to 50ís (Figure 5b), clear cross peaks become evident between theB and C sites and are weakly evident between A and B.
+This result is mirrored in the variable-temperature study which alsopredicts a microsecond time scale for Li hopping.
+Figure 5c, ata mixing time of 500 ís, shows that cross peaks between allthree sites are observed.
+A microsecond time scale for lithiumhopping at room temperature in Li3V2(PO4)3 is determined bythis qualitative analysis and by quantitative integrations of thecross peak intensities as a function of temperature .
+This is much faster than the millisecond range seen for the Liion jump rate in LiMn2O4.
+The transfer of magnetization between two sets of spinscommonly occurs by two mechanisms: chemical exchange andspin diffusion.
+The latter process is a magnetization transferthrough dipolar coupled spins, and its contribution to theexchange data was examined.
+To distinguish between chemicalexchange and spin diffusion, the synthesis was performed witha mixture of 50% Li-6 enriched Li2CO3. This varied the extent of the homonuclear dipolar coupling between the 7Li nuclei,but because no change in the cross peak intensity was observed,the contributions from spin diffusion can be considered negligible.
+
+This ismuch smaller than the typical values seen for 1H where, forexample, a CH2 group has a dipolar coupling of 20 kHz.
+A smaller magnetogyric ratio and longer interatomic distancesaccount for the smaller 7Li dipolar interactions.
+These dipolarcouplings can be assumed to be removed with the fast MASspeeds used in this study.
+These factors confirm that the 2DEXSY approach is giving evidence for direct hopping of Li ionsbetween different sites.
+
+Increasing the mixing timeresults in increased cross peak intensity, reaching a saturationof the cross peaks at around 6 ms, consistent with the measuredT1 spin-lattice relaxation time.
+After this point, the cross peakintensity decreases due to violation of the linear approximation,as described earlier.
+Determination of the jump rate, k, betweensites is done by fitting the buildup curves with a first-orderexponential.
+The multiple iterations were performed on differentspectra having the same experimental conditions and bychanging the volume integrated on the same spectrum.
+
+This finding is consistent with the activation energiesdetermined by solid-state NMR since the further apart the sitesare, the more energy required to jump between them.
+Thisrelationship shows the ability of NMR as a local probe to berelated to information obtained from long-range techniques suchas X-ray diffraction.
+These activation energies directly identifymolecular-level processes that may be necessary to facilitatelong-range Li transport through the bulk cathode material.
+The other factor which contributes to the ability of Li ionsto hop from one site to another is the channel size.
+The presenceof a bottleneck to diffusion, the narrowest point along thechannels, has been investigated in several NASICON materials.
+Aranda et al.have correlated the activation energies determinedby impedance analysis with the bottleneck size in severalrhombohedral NASICON conductors where there are only twointerstitial voids.
+The bottleneck for the NASICON rhombohedralphase is determined from the hexagon formed by threeMO6 octahedral edges and three PO4 tetrahedral edges.
+Thearrangement of the polyhedra in the monoclinic form is notoriented in a parallel fashion, so it is not possible to define thebottleneck area as a hexagonal surface.
+Using known atomiccoordinates,it is possible to model the monoclinic systemusing the Bruker SHELXTL program to visualize the environmentsalong the channels in three dimensions.
+The Li ions havebeen shown to be distributed as sheets along the (a,c) plane.
+The assumption is that conduction takes place in a straight linefrom Li site to Li site.
+A series of oxygen contacts along thepathway were determined as represented for hopping betweensites B and C in Figure 8. 
+The closest Li-O contact was usedas a measure of the bottleneck.
+Summarized in Table 3,increasing activation energies are correlated to decreasing sizeof the bottleneck created by the closest oxygen ions, decreasingthe ability of Li ions to jump readily.
+This validates the resultsand emphasizes the role of the channel size in Li ion diffusion.
+Thus, both interatomic Li distances and bottleneck sizes areimportant factors to consider for understanding ionic conductivitywithin metal phosphates and can be correlated to NMRobservables.
+2D 7Li solid-state EXSY studies provide the first study oflithium dynamics in the monoclinic Li3V2(PO4)3 material.
+Themobility of the three lithium sites was found to occur on themicrosecond time scale.
+The temperature dependence of thelithium ion hopping processes was determined in order toestablish activation energies.
+These activation energies, rangingfrom 0.73 to 0.83 eV, were correlated directly to the interatomicLi-Li distances and to constraints or bottlenecks along the ionconduction pathways.
+Li3V2(PO4)3 has been shown to havecommercial viability as a cathode material in lithium ionbatteries, making it valuable to understand transport processeson the microscopic scale with regards to lithium ion hopping.
+The application of 2D EXSY NMR to characterize lithiumdynamics in electrode materials can be extended to bothelectrochemically cycled materials and to other members of thelithium metal phosphate family.

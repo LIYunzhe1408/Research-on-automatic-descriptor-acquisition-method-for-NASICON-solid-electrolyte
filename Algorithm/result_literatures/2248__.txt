@@ -1,0 +1,173 @@
+This article was downloaded by: [Istanbul Universitesi Kutuphane ve Dok] On: 23 December 2014, At: 18:46 Publisher: Taylor & Francis Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+
+Separation Science and Technology Publication details, including instructions for authors and subscription information: http://www.tandfonline.com/loi/lsst20 Salt Splitting Using Ceramic Membranes Dean E. Kurath a , Glenn W. Hollenberg a , JanFong Jue b , James Smith b , Anil V. Virkar b , Shekar Balagopal c & Davor P. Sutija c a Pacific Northwest National Laboratory , Battelle Boulevard P.O Box 999, MS P7-20, Richland, WA, 99352 b University of Utah , Salt Lake City, UT, 84112 c Ceramatec Inc. , Salt Lake City, UT, 84119 Published online: 22 Nov 2011.
+
+To cite this article: Dean E. Kurath , Glenn W. Hollenberg , Jan-Fong Jue , James Smith , Anil V. Virkar , Shekar Balagopal & Davor P. Sutija (1997) Salt Splitting Using Ceramic Membranes, Separation Science and Technology, 32:1-4, 557-572, DOI: 10.1080/01496399708003215
+independently verified with primary sources of information. Taylor and Francis shall not be liable for any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoever or howsoever caused arising directly or indirectly in connection with, in relation to or arising out of the use of the Content.
+
+This article may be used for research, teaching, and private study purposes. Any substantial or systematic reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any form to anyone is expressly forbidden. Terms & Conditions of access and use can be found at http://www.tandfonline.com/page/terms-andconditions
+
+Inorganic ceramic membranes for salt splitting of radioactively contaminated  sodium salt solutions are being developed for treating U.S. Department of Energy  tank wastes. The process consists of electrochemical separation of sodium ions  from the salt solution using sodium(Na) Super Ion Conductors (NaSICON)  membranes. In contrast to conventional organic-based bipolar or ion exchange  membranes used in salt splitting, NaSICON membranes are resistant to  radiation and are highly selective for sodium ions.  Potential  g-ta  applications include 1) caustic recycle for sludge leaching, regeneration of ion  exchange resins, inhibition of corrosion in carbon steel tanks, or retrieval of tank  wastes; 2) pH adjustment and reduction of competing cations to enhance cesium  ion exchange processes; 3) sodium reduction in high-level waste sludges; and 4)  sodium removal from acidic wastes to facilitate calcining. Initial experiments with  dysprosium-based NaSICON membranes have demonstrated the feasibility of the  process. 
+
+Nuclear materials production processes within the U.S. Department of  Energy (DOE) complex produced acidic waste streams that were made highly  alkaline by adding sodium hydroxide to the streams to permit their storage in  carbon steel tanks.  Many of the wastes have high concentrations of sodium, an  element that can negatively affect separations processes such as cesium ion  exchange.  The sodium also conmbutes to large disposal volumes and can decrease  the durability of glass, the leading candidate for the final waste form.  Besides the  large amounts of sodium already present in the wastes, many existing disposal  strategies (1,2)  call for adding more sodium to the wastes as the wastes are  prepared for conversion to the final waste forms. 
+
+One promising approach for mitigating the impact of sodium is to separate  the nonradioactive sodium from the waste using an electrochemical salt-splitting  process based on inorganic ceramic membranes, as shown in Figure 1.  In this  process, the waste is added to the anode compartment of an electrochemical cell  and an electrical potential is applied to the cell, subsequently driving sodium ions  through the membrane while most other cations (e.g., K',Cs')  are rejected by the  membrane. The generation of H'  from the electrolysis of water maintains the  charge balance in the anode compartment.  The generation of OH, either from  electrolysis of  water or from oxygen and water using a gas diffusion electrode,  maintains the charge balance in the cathode. The normal gas products from the  waste electrolysis are oxygen gas at the anode and hydrogen gas at the cathode.  The formation of potentially flammable gas mixtures can be prevented by providing  adequate volumes of a sweep gas or by using an oxygen and a gas diffusion  electrode.  As H'  is generated in the anode compartment, the pH drops.  production of OHin the cathode compartment raises the pH as the sodium  hydroxide product is recovered. 
+
+The membranes under development are from a family of materials known in 
+
+the electrical battery industry as sodium (Na), super fast ionic conductors 
+
+Downloaded by [Istanbul Universitesi Kutuphane ve Dok] at 18:46 23 December 2014 SALT SPLITTING USING  CERAMIC MEMBRANES 
+
+FIGURE 1.  Schematic of an electrochemical process using the NaSICON membrane 
+
+(NaSICON). The unusual characteristic of NaSICON ceramics is that they  possess channels within the crystal structure for fast ion conduction, as shown in  Figure 2 (3).  "Rings" of  silica tetrahedra, which include sodium and heavy metal  ions, form the structure around these channels.  The channels are filled with highly  mobile sodium ions. 
+
+NaSICON represents a family of materials based upon the crystal structure 
+
+(4,5,6).  This structure is known to 
+
+of compositions such as Na,+xZr2SixP~x0,2  accommodate a host of other elements in place of the Zr and P while still  preserving the unique crystal structure, albeit with very small dimensional changes  that can be very important in determining transport properties.  The NaSICON  compositions investigated were based upon rare earth (RE) ions (i.e.,  Na,RESi,O,,)  where RE is dysprosium @y), gadolinium (Gd), and samarium  (W. 
+
+In contrast to conventional organic-based bipolar or ion exchange 
+
+membranes used in salt splitting, ceramic-based membranes are attractive because
+
+FIGURE 2.  NaSICON structure controls sodium transport 
+
+they are much more resistant to gammabeta radiation and are highly selective for  sodium ions. High selectivity for sodium ions is useful for minimizing the transport  of fission products (e.g., '"Cs),  minimizing the transport of  nonradioactive (e.g.,  K+) components, minimizing parasitic hydronium conduction, and reducing  membrane fouling by multi-valent metal ions (e.g., Ca",  Fe+"3, Al+% which  precipitate at intermediate pH values that may be encountered during salt splitting.  In addition, the radiation effects on the organic membranes could lead to rapid  failure of the membranes and high maintenance costs. 
+
+The initial goals of this work have been to develop an acceptable material 
+
+composition and to demonstrate the feasibility of  the membrane-based, salt splitting process. First, the potential applications in the DOE complex were  reviewed and several important selection criteria were developed. RE-based  NaSICON membrane samples were fabricated using conventional methods and  tested in an electrochemical "H' cell to provide information relative to the  selection criteria.  The data from these experiments were evaluated to select a 
+
+Downloaded by [Istanbul Universitesi Kutuphane ve Dok] at 18:46 23 December 2014 SALT SPLITTING USING CERAMIC MEMBRANES 
+
+material composition.  The feasibility of the process was demonstrated with a flow through recirculating plate cell using a Hanford tank waste simulant. 
+
+To select a NaSICON composition, it was necessary to develop functional  requirements based upon the potential applications at the Hanford Site, the Idaho  National Engineering Laboratory (INEL), and the Savannah River Site (SRS).  The potential applications and relevant functional requirements are discussed  below. 
+
+The Hanford Site and the SRS have large inventories of radioactively 
+
+contaminated sludge, salt cake, and aqueous liquids. The salt cake and aqueous  liquids consist primarily of sodium salts (nitrate, nitrite, hydroxide, aluminate).  The primary goal of waste treatment prior to disposal (1.2) is to separate the waste  into a low-volume fraction containing most of the radioactivity and a relatively  large volume fraction containing most of the nonradioactive chemicals, referred to  as high-level waste (HLW) and low-level waste (LLW), respectively.  At both  sites, the HLW will be converted into a borosilicate glass.  At Hanford, the LLW  will be converted into a high-sodium LLW glass and at SRS, into a saltstone.  Because of its predominance, sodium is the component that controls the volume of  the LLW.  In sufficient amounts, the residual sodium in the HLW could also  impact the volume or the quality of the HLW glass.  Significant amounts of caustic  are required for proposed waste treatment operations and other ongoing  operations.  Separation and recycle of the caustic from the tank wastes have the  potential to reduce the waste disposal volume and avoid the need to purchase fresh  caustic.  Potential uses for the caustic include sludge leaching, regeneration of ion  exchange resins, inhibition of corrosion in carbon steel storage tanks, and retrieval  of tank wastes. 
+
+Downloaded by [Istanbul Universitesi Kutuphane ve Dok] at 18:46 23 December 2014 562 
+
+Three operational configurations are available for recovering caustic from 
+
+the aqueous tank wastes:  (1) anolyte pW12, which would prevent the  precipitation of Al(OH),; (2) anolyte pH in the range of 3 to 12, in which Al(OH),  would precipitate; and (3) operation with an acidic anolyte in which aluminum  would be soluble as Al+3. In all three modes, the catholyte would remain highly  alkaline. Configuration 3 would allow the recovery of the greatest amount of  caustic, while configuration 1 would recover caustic present only in excess  quantities. Preliminary material balances indicate that sufficient caustic is available  without using configuration 3, so membrane compatibility with acidic solutions  may not be required for this application. 
+
+At Hanford, it is currently planned to remove
+using an ion exchange 
+
+process.  The efficiency and chemical stability of some ion exchange materials are  decreased by  the high pH of the waste.  For example, the distribution coefficient  (Kd) for a powder form of crystalline silico-titanate (TAM51 1) was reported (7)  to increase from about 150 mL/g in 1.3 M NaOH to about 1600 mL/g at pH 12.  This difference would result in a tenfold reduction in the required amount of  exchanger. The reduction in pH would also allow the use of granular potassium  cobalt hexacyanoferrate(I1). This material has extremely high cesium Kds (8), but  it has not been considered for application at Hanford because it is unstable in  solutions having a pH >12.  Since this application would be used before the cesium  is removed, radiation resistance of  the membrane is of paramount importance. 
+
+Many of the stored sludges at Hanford and SRS are anticipated to possess  interstitial liquid containing sodium concentrations as high as 5 M.  Sodium carry over with the sludge is undesirable because of  the limited levels of sodium the  HLW glass composition can accommodate.  Current plans are to remove the  sodium by diluting the interstitial liquid with 0.01 M sodium hydroxide and sodium  nimte with subsequent soliuiquid separation via settle/decant. Electrochemical 
+
+Downloaded by [Istanbul Universitesi Kutuphane ve Dok] at 18:46 23 December 2014 SALT SPLITTING USING CERAMIC MEMBRANES 
+
+sodium separation offers the potential for directly removing sodium from the  sludge, thereby reducing water usage and solids carry-over during solifliquid  separation. 
+
+Sodium removal may also prove beneficial for treating 5.7 million liters of 
+
+sodium-bearing waste (SBW) at the Idaho Chemical Processing Plant (ICPP) (9).  Calcination is an established process at the ICPP and uses high temperatures to  convert nonsodium-bearing liquid waste into a granular solid.  The presence of  sodium tends to cause bed agglomeration, anion volatilization, and alpha aluminum  formation. Current mitigation strategies include adding aluminum nitrate, calcium  nitrate, and boric acid or modifying the calciner equipment. The addition of  chemicals slows processing rates and increases the waste volume, while equipment  modifications are expected to be expensive. Removing the sodium before  calcining the waste would allow direct calcination of the waste.  In contrast to the  wastes described under the other applications, the SBW is acidic, so the membrane  must be compatible with acidic solutions. 
+
+Several criteria were considered for membrane material selection. The 
+
+criteria are considered below, along with experimental results. 
+
+For ceramic membranes, fabricability, strength, and hermetic qualities are 
+
+somewhat related.  Fabricability means that the membranes must be manufactured  using a conventional fabrication process that has a wide range of acceptable  process conditions and is readily scalable to commercialization.  Strength and  hermetic qualities refer to the ability of the membranes to provide acceptable  separations during operation. Fabrication under the proper conditions is crucial to  the performance of the membranes.  Second-phase formation at the grain 
+
+boundaries and other crystallographic imperfections can degrade the ionic  conductivity of the membrane.  Adequate densities must be achieved since greater  than 6% to 8%  porosity may compromise the hemetic quality of the membrane,  thereby reducing separation performance. The theoretical density of the RE-based  NaSICON is about 3.26 g/cm’. 
+
+RE-based NaSICON disk samples, 2-4 cm in diameter and 1-3 mm thick,  were prepared using the following steps: powder mixing, pressing, and sintering  (10). The samples were characterized by density measurements and x-ray  diffraction (XRD) using CuKa radiation prior to electrochemical testing.  The RE based NaSICON samples were found to exhibit adequate densification with  densities generally greater than 3.01 glcm’.  These densities are greater than 92%  of  theoretical and indicate a porosity 4%. The XRD traces indicated that no  phases other than the desired crystal structure were present in the Dy-based  NaSICON samples. The Gdand Sm-based samples were found to contain  multiple unknown phases.  Although the fabrication conditions for these samples  were not optimum, the process seemed sensitive to the fabrication conditions.  It  was concluded that the Dy-based NaSICON appeared to have a greater tolerance  to fabrication parameters than the other compositions. 
+
+All applications require that the NaSICON membranes be compatible with 
+
+alkaline solutions, and some process configurations require compatibility with  acidic solutions. Chemical stability was demonstrated by exposing the RE-based  NaSICON membranes to alkaline solutions at pH >13 for as long as lo00 hours  with no observable corrosion, as determined by mass measurements and scanning  electron microscopy (SEM).  Subsequent operation in an electrochemical cell also  demonstrated no mass loss when operating with alkaline solutions up to 2.7 M  NaOH.  Exposure of the membrane samples to a solution with a pH of 2.19  resulted in the formation of visible cracks and corrosion as revealed by SEM.  Other compositions that are stable in acidic solutions are under development. 
+
+Downloaded by [Istanbul Universitesi Kutuphane ve Dok] at 18:46 23 December 2014 SALT SPLITTING USING CERAMIC MEMBRANES 
+
+Sufficient ionic conductivity to achieve a current density of >2500 Nm2 with  6-8 volts is necessary.  Current density is normally limited by either excess ohmic  heating or parasitic water-splitting reactions.  A low ionic conductivity would  require larger cells and greater power consumption. 
+
+Experiments were conducted in an H cell to measure the current passed as a  function of the applied potential (Figure 3). The area of the membrane disks was  1.76 cm2 and the thickness  1.8 mm.  The operating temperature was 80°C using a  simplified Hanford waste simulant (1.5 M NaNO,,  1.5 M NaNO,,  0.3 M Al(NO,),,  2.0 M NaOH) as the anolyte.  The catholyte was 0.1 M NaOH.  At 8 volts, the  current density of the Dy-based NaSICON was about 5000 Nm',  the current  density of the Gd-based NaSICON was about 1100 Nm',  and the Sm-based  NaSICON appeared to pass no measurable current. 
+
+
+Selectivity for sodium is important for three reasons: 1) separation of the  radionuclides from the recycled caustic to minimize shielding requirements, 2)  elimination of fouling by multi-valent cations, and 3) reduction of any parasitic ion  conduction that increases power requirements.  Experiments were conducted in an  "H" cell to assess the selectivity of Dy-based NaSICON membranes for sodium  relative to Al+,, Sf2, Cs'  in neutral to slightly acidic solutions.  The initial catholyte  composition was 0.1 M KNO,  and none of the anolyte components were present.  To assess the transport of Al',,  an " H  cell with  an initial anolyte composition of 1 M NaNO, + 0.1 M Al(NO,),  was operated at  60°C and 4.5 volts.  During the experiment, the anolyte pH decreased from 2.93  to 2.25, so the aluminum ions were present as Al+, rather than the A10;  ion found  in alkaline solutions.  Transport of aluminum in an alkaline anolyte is expected to  be minimal since the NO2 ion would migrate to the anode and away from the  cathode.  After the experiment, the composition of the catholyte was determined to  contain 650 mg/L of Na and 2 mg/L of aluminum. The aluminum level was at the 
+
+Downloaded by [Istanbul Universitesi Kutuphane ve Dok] at 18:46 23 December 2014 566 
+
+NaSlCON Disks: Area = 1.76 em2, Thickness = 1.8 mrn  Temperature: 8OoC 
+
+FIGURE 3.  Current as a function of  applied potential 
+
+detection limit of the analytical method.  Thus, it can be concluded that the Dy based NaSICON has good selectivity for sodium relative to AP3. 
+
+To assess the transport of  Cs+, an “ H  cell with an  initial anolyte composition of 0.1M CsNO, was operated at 65°C and 4.5 volts.  At the completion of the experiment, the catholyte contained 22 mg/L of sodium  and less than the detection limit for cesium(4 m a ) .  The cesium transport was  anticipated to be very low because of its large ionic radius (1.67 A) relative to the  ionic radius of sodium (0.97 A).  The presence of sodium in the catholyte probably  resulted from electrochemical flushing of the mobile sodium initially present in the  membrane.  It is proposed that hydronium ions replaced the sodium ions in the  conduction channels of the Dy-based NaSICON.  EDAX measurements on the 
+
+surface of the Dy-based NaSICON indicated a depletion of sodium and no cesium  in the crystal structure. If all of the sodium in the center of the NaSICON disk had  been displaced into the anolyte, the concentration of  sodium would have been 26  mg/L.  This amount is in agreement with the measured concentration. Thus, it can  be concluded that the Dy-based NaSICON has excellent selectivity for sodium  relative to Cs'.  .
+
+To assess the transport of Sr",  an "H' cell with 
+
+an initial anolyte composition of 0.1 M Sr(NO,),  was operated at 60°C and 4.5  volts with the pH of the anolyte changing from 7 to 2.81.  The current decreased  from 40-45 mA during the experiment to 30 mA.  After the experiment, the  catholyte contained 6.3 mg/L of  strontium and 220 mg/L of sodium.  As with the  cesium nitrate anolyte, the sodium in the catholyte is assumed to be that which was  displaced from the sodium originally in the NaSICON disk. The divalent strontium  ion (1.12A) is somewhat larger than the monovalent sodium ions (0.97A). The  difference in charge between the strontium and sodium may inhibit the movement  of strontium down the sodium ion channels in the NaSICON crystal structure. In  any case, the Dy-based NaSICON appears to have good selectivity for sodium  relative to Sr".  .
+
+In a similar " H  cell experiment using a Hanford  simulant (1.5M NaNO,,  1.5M NaNO,, 0.2M A1(N03),, 1M NaOH) as the anolyte,  9800 coulombs were passed at a cell temperature of 60°C with an applied  potential of 4.5 volts.  During the experiment, the pH of the anolyte fell from 12.1  to 10.  Within the experimental error, all of the current was carried by the  transport of  sodium. Parasitic conduction by  hydronium ion was negligible, which  is not surprising since H'  is present in such low concentrations in alkaline  solutions. 
+
+Membrane tolerance to damage by radiation is required since the 
+
+applications are expected to be in a radioactive environment.  Six Dy-based 
+
+NaSICON disks were irradiated to a dose of  1E+09 rads with a 6oCo gamma  source.  This dose is approximately 100 times that expected in actual operation  over 15 years, even if cesium is not removed before caustic recycle. Following the  irradiation, the disks were placed in an "H" cell and the current was measured as a  function of time for applied potentials of 6 and 8 volts.  The initial anolyte solution  was 1.5 M NaNO,,  1.5 M NaNO,, 0.3 M Al(NO,),,  and 2 M NaOH.  The initial  catholyte solution was 0.1 M NaOH.  The cell temperature was maintained at  80°C. 
+
+No physical changes could be observed after irradiation, except for a slight  change in color.  Figure 4 shows a plot of current versus time for the sample after  irradiation to lo9 R.  Note that the initial current is approximately 50% of that  expected for nonirradiated Dy-NaSICON at 6 volts (approximately 500 mA).  As  current flowed through the NaSICON, the current recovered almost completely.  As the voltage was increased to 8 volts, the current recovered to the level  anticipated for the nonirradiated material.  It is anticipated that if the current was  being passed at the same time as the irradiation, no gamma irradiation effect would  be present. 
+
+Recirculating cell experiments were also conducted with an advanced RE
+
+NaSICON membrane to demonstrate the potential of sodium removal from  Hanford tank waste using a simplified Hanford waste simulant as the anolyte (1.5  M NaNO,, 1.5 M NaNO,,  0.2M A1(N03),, 1 M NaOH).  The actual Hanford tank  waste contains a number of other ions and has a pH which is generally greater than  14.  The initial catholyte solution was 1 M NaOH and the cell temperature was  maintained at 70°C.  Figure 5 plots the total amount of sodium transported and the  pH of the anolyte as a function of time for one test in the recirculating cell.  The  pH of  the anolyte decreased from approximately 12.6 to almost 7 as 60 g of  sodium were removed through the advanced RE-NaSICON membrane.  At pH  levels of less than 9, precipitation of  aluminum-hydroxide (or salts) occurred in the 
+
+Downloaded by [Istanbul Universitesi Kutuphane ve Dok] at 18:46 23 December 2014 SALT SPLITTING USING CERAMIC MEMBRANES 
+
+FIGURE 4.  Performance of Dy-based NaSICON disk after irradiation to  lo9 rads with 6oCo gamma rays 
+
+40  lime (hours) 
+
+FIGURE 5.  Bench-scale process demonstration with Hanford waste simulant 
+
+Downloaded by [Istanbul Universitesi Kutuphane ve Dok] at 18:46 23 December 2014 570 
+
+TABLE 1.  PROPERTIES OF NaSICON MATERIALS TESTED 
+
+Dy-based  NaSICON  Good 
+
+Excellent  Fair  Excellent 
+
+Gd-based  NaSICON  Poor 
+
+Excellent  Poor  Moderate 
+
+Sm-based  NaSICON  Poor 
+
+Excellent  Poor  Poor 
+
+Parameter 
+
+Fabricability  Compatibility  -Basic  -Acid  Current Density/  Conductivity  Selectivity  -Cesium  -Aluminum  -Strontium 
+
+Excellent  Excellent  Excellent 
+
+Inadiation Stability 
+
+Excellent 
+
+anolyte.  However, the throughput of the cell appeared to fall only slightly.  The  voltage was increased to 10 volts in this particular cell to achieve a current density  of 2600 A/rnz. 
+
+Additional testing was conducted with a sodium-bearing acidic anolyte with  an initial pH of  1.5.  The intent was to investigate the operation of the cell under  acidic conditions.  After 400 additional hours of operation at 3000 Nm’, a total of  200 g of sodium had been transported through a NaSICON disk weighing 1.2 g.  The final pH of the solution was 0.6. As might be expected from the “H’ cell  corrosion testing described above, the disk thinned in the acidic environment. 
+
+Table 1 summarizes the experimental evaluation.  Because of difficulties in 
+
+fabricating Gdand Srn-based NaSICON and their associated poor ionic  conductivity, extensive testing of these compositions was not pursued.  Instead,  the testing program evaluated other properties of Dy-based NaSICON that could 
+
+be readily fabricated into membranes with a single crystalline phase type.  Experiments conducted in an H cell achieved a current density of 5000 A/m2 with  an applied potential of 8 volts, indicating the Dy-based NaSICON has a good ionic  conductivity. The lower ionic conductivity of the Smand Gd-based NaSICON  probably is due to the presence of multiple phases.  The selectivity of the Dy-based  NaSICON for sodium relative to Al+3, W2, and Cs'  is very high.  Parasitic loss in  current efficiency resulting from transport of hydronium ion in neutral to alkaline  solutions is low.  The Dy-based NaSICON demonstrated good chemical stability in  solutions ranging from neutral to alkaline, and demonstrated good radiation  stability even at doses much greater than those anticipated for actual operation,  Based on the experimental results, an advanced RE-based NaSICON material such  as Dy-based NaSICON is the preferred material for use in electrochemical  processing of tank wastes in which neutral to alkaline solutions will be  encountered. 
+

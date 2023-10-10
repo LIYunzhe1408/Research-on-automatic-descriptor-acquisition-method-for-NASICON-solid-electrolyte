@@ -1,0 +1,70 @@
+We compare ionic conductivity in zirconium hydrogen phosphate samples with NASICON structure prepared by various methods. 
+Hydrothermal and hydrothermal/ultrasonic treatment reduces the crystallite size and increases ionic conductivity in HZrHO samples at low temperatures. 
+At high temperatures, the conductivity of the anhydrous phase HZr PO  is higher in the material prepared by ion exchange. 
+Ultra sonication does not considerably improve the properties of hydrothermally prepared samples. 
+
+Double phosphates with NASICON structure attract researchers for their high ion conductivity and thermostability. 
+Hydrogen phosphates with the same structure can be considered as promising solid electrolytes with proton conductivity at elevated temperatures.
+Clearﬁeld  at  al. described  the  hydrothermal synthesis  and  structure  of  zirconium  hydrogen  phosphate HZ.We prepared HZr  with NASICON structure using ion exchange from the relevant lithium phosphate LiZr  and studied its  phase transitions and ion conductivity. 
+The material had a high percentage of the crystalline phase and parµ ticle sizes on the order of 10–20  m. 
+However, ion conductivity data on compounds prepared by ion exchange and hydrothermal synthesis are at variance.
+Ultrasonic/hydrothermal  synthesis  can  be  considered as promising for synthesis of this type of material. 
+Ultrasonication during hydrothermal synthesis can be accompanied by a considerable increase in the rate of crystallization  of  amorphous  gels  into  ultraﬁne  powders.
+In  HzO  synthesis,  however, ultrasonication has not been used.
+This work studies the effect of ultrasonication during hydrothermal synthesis on the properties of the resulting  zirconium hydrogen phosphate HZr O with PO H n 3 4 2 2 NASICON structure.
+
+
+To prepare  Zr PO H O, 1 M ZrOCl  solution (5 mL) and 1 M  NH  solution (10 mL) PO H 3 4 2 4 were mixed in a titanium autoclave. 
+Ultrasonic/hydrothermal treatment was carried out at   for 1 h on a
+setup whose details are described in , as follows. A sample  of  an  air-dried  precipitate  (0.50  g)  was  transferred  to  a  cell,  and  distilled  water  (14.0  mL)  was added. 
+The  cell  ﬁllage  was  75%. 
+The  oscillation  frequency of the waveguide system was maintained at the resonance value within   kHz. 
+The heating rate used  to  bring  suspensions  to  the  isothermal  exposure temperature was 10 K/min. 
+The temperature schedule of the resistor furnace was maintained by means of a KT  0203  temperature  controller  (accurate  to  K). 
+References  were  prepared  by  hydrothermal  treatment of precursor powders under the same conditions without ultrasonication.
+Thus  synthesized  NH 3 4 2 4n H O   samples  were washed with water and annealed at   for 3 days.  
+The  resulting  zirconium  hydrogen  phosphate HZr  was hydrated by boiling with water for 36 h.
+Hereafter, samples prepared by hydrothermal treatment are  denoted  as  h-ZrP,  those  prepared  by  ultrasonic/hydrothermal treatment as u-ZrP, and those prepared by ion exchange as e-ZrP.
+X-ray powder diffraction analysis was performed on a  Rigaku  D/MAX  2200  diffractometer  using  Cu K α 1 radiation. 
+In calculations of the coherence length (mean crystallite size), the line proﬁle was ﬁtted by Gaussians. 
+NaCl was used as the reference to calculate the instrumental  broadening.  
+Line  broadening  was  calculated from
+where B is an experimentally determined quantity and b is the reference line width. 
+Powder morphology was studied using a Leo Supra 50 VP scanning electron microscope; the accelerating voltage was 5 kV.
+Conductivity was measured on an Agilent 4285A ac bridge in the frequency range from 75 kHz to 2 MHz and a 2B-1 ac bridge in the frequency range from 10 Hz to 2 MHz at  .
+Conductivity was calculated by extrapolation of the bulk conductivity semicircle to the resistance axis.
+
+
+Electron micrographs demonstrate that HZr samples are ultrafine powders built of aggregates n 2 with sizes up to 250–300 nm (Fig. 1).
+Figure 2 displays fragments of X-ray diffraction patand  terns for h-ZrP and u-ZrP (curves  b , respectively).  
+ All compounds crystallize in hexagonal crystal system in agreement with. 
+Broad halos contained in the Xray diffraction patterns of our samples signify the presence of an X-ray amorphous phase. 
+However, the crystalline phase proportion in h-ZrP is slightly higher than in u-ZrP (Fig. 2, curve  ). 
+In addition, u-ZrP lines are broader because of the decrease in the crystallite size induced by ultrasonication. 
+For h-ZrP, the mean crystallite size (coherence scattering length) is 100 nm; for uZrP, 40 nm. 
+The particle sizes derived from spectral line widths are noticeably smaller than those derived from electron micrographs. 
+This is especially distinct in uZrP. 
+This distinction arises from consderablei aggregation of individual particles in powders.
+We  should  note  that,  in  addition  to  the  hexagonal (PO4)3 · H2O phase, the u-ZrP spectrum contains HZr 2 lines associated with titanium pyrophosphate generated during autoclave synthesis (these lines are marked with asterisks).
+Two weight-loss ranges are recognized in the DTA traces of test samples (Fig. 3): one is due to elimination of water adsorbed on ﬁne phosphate particles and dehydration of HZr2(PO4)3 · nH2O to HZr2(PO4)3;the other is due to decomposition of HZr2(PO4)3.
+ h-ZrP experiences a greater weight loss.
+ h-ZrP and u-ZrP at the ﬁrst stage (up to 250°ë), respectively, lose 1.7 and 1.1 water molecule per formula unit. 
+The decomposition temperatures of both anhydrous HZr2(PO4)3 samples are lower than  the  decomposition  temperature  of  anhydrous e-ZrP. 
+Most likely, the decrease in thermostability arises from the far ﬁner particle sizes of hydrothermal samples.
+Figure 4 displays ion conductivity versus temperature  plots  for  zirconium  hydrogen  phosphates.  
+These plots are each a combination of three segments. 
+The rise in conductivity at low temperatures is due to the thermal  activation  of  proton  mobility.  
+Above  60–110°, conductivity decreases because of loss of crystal water during heating and the transition from the hexagonal to triclinic phase . 
+For a sample prepared with ultrasonication, this effect is manifested at lower temperatures in correlation with the smaller particle size of this material.  
+Above  150–200,  ion  conductivity  of  samples, which are now anhydrous, again rises obeying the Frenkel equation.
+Low-temperature  conductivity  in  u-ZrP  noticeably exceeds that in e-ZrP. 
+The reason for this is the considerably smaller particle size of u-ZrP. 
+Its conductivity is, however, lower than that of h-ZrP (Fig. 4). 
+At the same time, conductivity in u-ZrP is lower than in h-ZrP (Fig. 4). This effect is caused by the lower degree of hydration and the existence of impurity phases in u-ZrP. 
+The decrease in the ion-exchange rate and, as a result, in conductivity is due to decreasing crystal water percentage.
+Conductivity in anhydrous e-ZrP at high temperatures noticeably exceeds that in h-ZrP and u-ZrP. 
+This is likely due to the blocking role of the surface in anhydrous samples. 
+The activation energy of conductivity in hydrothermal  samples  is  noticeably  lower,  probably, because of defect formation effects at particle surfaces. 
+To  summarize,  the  use  of  hydrothermal  and  ultrasonic/hydrothermal treatment in synthesis of zirconium hydrogen  phosphate  with  NASICON  structure decreases the mean crystallite size, increases low-temperature ion conductivity, and decreases conductivity in the anhydrous phase relative to that in e-ZrP. 
+However, ultrasonication does not noticeably improve the properties of hydrothermal samples.
+

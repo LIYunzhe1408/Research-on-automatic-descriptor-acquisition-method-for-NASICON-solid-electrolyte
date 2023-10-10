@@ -1,0 +1,80 @@
+The synthesized materials have been characterized by X-ray powder diffraction and impedance spectroscopy.
+The formation of crystalline Li1 + xAlxGe2 – x(PO4)3 products with a NASICON structure is observed at 750–1000°C depending on the degree of substitution of germanium by aluminum.
+The effect of final powder annealing temperature and ceramics sintering temperature on the phase composition,  density,  and  conductivity  of  resulting  materials  has  been  studied.
+The  material  of  composition Li1.6Al0.6Ge1.4(PO4)3 produced by sintering the synthesized powder at 900°C exhibits the highest conductivity (3.8 × 10–4 S/cm at a ceramics density of 86%) and the lowest conductivity activation energy (30.5 ± 0.4 kJ/mol in the temperature range 25–250°C).
+Lithium-ion  batteries  (LIBs)  are  widely  used  as portable power sources.
+In this context, much attention is paid to the development of solid-state storage batteries, since replacing the liquid electrolyte with a nonflammable  solid  electrolyte  will  significantly improve their safety, reduce the degradation of electrode materials, and minimize the dissolution of the transition metal in the electrolyte.
+An intensive study of this type of battery have stimulated advances in the field of lithium transport research in lithium– polymer electrolytes, polysulfides, lithiated phosphorus oxynitride (LiPON), and in oxides with a garnet structure  and  double  phosphates  with  a  NASICON structur.
+The main difference between these classes is their mechanical properties.
+Inorganic ceramics is characterized by higher thermal stability, a wide range of operating  temperatures,  and  resistance  to  aggressive media.
+In addition, its modification through aliovalent substitution in the framework makes it possible to increase the conductivity without deterioration of mechanical properties.
+Materials  of  composition  Li1 + xAlxGe2 – x(PO4)3 are among the most conductive compositions of lithium conductors with a NASICON structure described in  the  literature.
+The  partial  replacement  of tetravalent germanium by trivalent aluminum leads to the formation of charged point defects in the structure and, as a result, to an increase in the conductivity.
+The  volume  conductivity  of  Li1.5Al0.5Ge1.5(PO4)3 (LAGP)  is  as  high  as  10–3–10–4  S/cm, which is an acceptable value for use as an electrolyte, although it is somewhat inferior to the conductivity of  liquid  electrolytes  most  frequently  used  in  LIBs (~10–2 S/cm).
+At the same time, Li1.5Al0.5Ge1.5(PO4)3 is  characterized  by  a  substantially  wider  window  of electrochemical  stability  (1–7  V  relative  to  Li/Li+, according  to)  as  compared  with  liquid  electrolytes,  the  stability  of  which  is  limited  by  the  upper potential value of 5 V.
+It should also be noted that the data given by different authors do not coincide, which is due to the fact that the conductivity of the electrolyte is also determined by the conditions of synthesis and formation of ceramics.
+Along with the modification  of  the  electrolyte,  the  problem  of  low conductivity  can  be  partly  solved  by  reducing  the thickness of the electrolyte.
+A number of methods for the synthesis of LAGP have been described in the literature, including solidstate  method,  quenching  from  a  melt , and  sol–gel  method.
+One  of  the advantages of liquid-phase processes is the mixing of the  reagents  at  the  molecular  level  and  lower  final annealing  temperature  and  duration.
+However,  the liquid  phase  methods  described  in  the  literature  in most cases include the use of germanium and aluminum alkoxides, which are expensive and subject to hydrolysis upon contact with moisture.
+It has been established that, after sintering  as-synthesized  amorphous  powders  at  650°C,  a single-phase  Li1.5Al0.5Ge1.5(PO4)3  is  formed.
+The  ion conductivity of the electrolyte produced by sintering at 900°C was 4.2 × 10–4 S/cm .
+The drawbacks of this technique include the difficulty of dissolving germanium oxide in oxalic acid.
+simpler  method  of the study It is of interest to search for simple methods of synthesis  and  ionic  conductivity  of Li1 + xAlxGe2 – x(PO4)3 materials, especially with high degrees of substitution of aluminum for germanium, since, in addition to increasing conductivity, the substitution  of  aluminum  for  germanium  significantly reduces the cost of the material.
+This work was aimed at developing a simple liquid-phase method for synthesis  of  Li1 + xAlxGe2 – x(PO4)3  with  a  NASICON structure and studying the conductivity of the materials obtained.
+Double phosphates Li1 + xAlxGe2 – x(PO4)3 (x = 0, 0.1, 0.3, 0.5, 0.6, 0.65) were synthesized by the sol–gel method.
+The  following  reagents  were  used:  LiNO3 (≥99%, (>98%,  Sigma-Aldrich),  Aldrich), GeO2 (≥99.99%, Aldrich), Al(NO3)3 ⋅ 9H2O (>98.5%,  Merck),  NH4OHconc  (pure  for  analysis, Khimmed).
+Germanium  oxide  (hexagonal  modification)  was dissolved in aqueous ammonia with a concentration of 1.2 wt % at which the solubility of GeO2 in NH4OH reaches  maximum.
+An  aqueous  solution  of LiNO3, Al(NO3)3 ⋅ 9H2O, and (NH4)2HPO4 was prepared to which HNO3 was added to pH ~ 3. Pouring the  solutions  together  led  to  the  formation  of  a  sol (рН ~ 7).
+The resulting mixture was kept under constant stirring at 80°С until gel formation and annealed at  300°С  for  4  h.
+The  resulting  powder  was  ground, annealed at 600–850°С for 12 h, and then pressed into pellets  and  annealed  850–1000°С  for  12  h  under “coating” from a powder of similar composition with a lithium nitrate excess to prevent elimination of lithium compounds at elevated temperature.
+Spectra processing and qualitative analysis were  performed  using  the  Rigaku  Application  Data Processing program package.
+Ionic  conductivity  was  measured  using  a  2B-1 alternate current bridge in the frequency range 10 Hz– 2 MHz on cylindrical pellets pressed at 500 MPa and then annealed at 850–1000°С (R = 6 mm, h = 1 mm) with  silver  electrodes  in  the  temperature  range  25– 250°C with a step of ~10°C.
+The error of impedance measurement was no more than 5%.
+The geometric-to-X-ray density ratio was used as the criterion for evaluation of the density of the resulting ceramics.
+The geometric density was calculated by dividing the weight of the sintered sample by its volume estimated  from  geometric  dimensions.
+The  size  of  the preliminarily polished sample were measured with an accuracy of ±0.01 mm.
+The theoretical (X-ray) density was calculated bythe equationwhere M is the molecular weight of the formula unit of a substance, z is the number of formula units, and V is the unit cell volume.
+The precursor obtained after preliminary annealing at 300°С, which is accompanied by elimination of gaseous products, is X-ray amorphous and is a mixture of partially reacted initial components.
+The crystalline product  Li1 + xAlxGe2 – x(PO4)3  with  a  NASICON structure starts forming at 700°С (Fig.1).
+However, the X-ray diffraction patterns of samples produced at this temperature show also the lines corresponding to impurity phases of germanium oxide and lithium and germanium pyrophosphates.
+With increasing annealing  temperature,  the  amount  of  impurity  phases decreases; the final annealing temperature depends on the  degree  of  substitution  of  aluminum  for  germanium.
+With increasing aluminum content x = 0–0.6, the temperature of synthesis of Li1 + xAlxGe2 – x(PO4)3 with a NASICON structure giving rise only to a weak reflection of the germanium oxide impurity decreases from 1000 to 850°С (Fig.1).
+With increasing annealing temperature of Li1.5Al0.5Ge1.5(PO4)3 to 950°С, the intensity of germanium oxide impurities increases and lithium  pyrophosphate  impurities  appear;  at  1000°С the failure of the crystal lattice begins.
+According all Li1 + xAlxGe2 ‒ x(PO4)3 materials  crystallize  in  rhombohedral  modification  of  the  NASICON  structure (space group R3c, Z = 6).
+As distinct from the solidstate synthesis [29], a liquid-phase method affords the incorporation  of  Al3+  into  the  crystal  structure  of Li1 + xAlxGe2 – x(PO4)3 at x > 0.5.RUSSIAN JOURNAL OF INORGANIC CHEMISTRY SYNTHESIS AND CONDUCTIVITY STUDY25 2θ, degFig.
+Fragments of X-ray powder diffraction patterns of Li1.5Al0.5Ge1.5(PO4)3  samples  prepared  at  different annealing  temperatures.
+The  annealing  temperature  and Miller indices for the reflections of Li1.5Al0.5Ge1.5(PO4)3 are given.
+The unit cell parameters of Li1 + xAlxGe2 – x(PO4)3 (x = 0–0.6) are summarized in Table 1. An increase in the degree of doping leads to a decrease in parameter a and  an  increase  in  parameter  c,  which  is  consistent with  data.
+The  unit  cell  volume  somewhat increases, which is explained by the larger ionic radius of Al as compared to Ge (0.535 and 0.530 Å, respectively).
+For the Li1.65Al0.65Ge1.35(PO4)3 composition, a reflection at 2θ ~21.8° appears corresponding to aluminum phosphate; in addition, weak reflections are observed corresponding to tetragonal germanium oxide and lithium pyrophosphate.
+The с parameter of the unit cell ceases to increase, which is evidence that the  solubility  of  aluminum  in  LiGe2(PO4)3  achieves the limiting value.
+The conductivity was measured for polycrystalline samples  (compacted  pellets  subjected  to  annealing).
+Nyquist plots of impedance of a polycrystalline solid electrolyte contain, as a rule two successive semicircles in  the  high and  medium-frequency  range,  corresponding  to  the  bulk  resistance  of  separate  grains (Rbulk) and grain-boundary resistance (Rgb), and a linear portion in the low-frequency range, correspondingFig.
+The total resistance of the materials were determined and their conductivities (σ) were calculated from the intercept point of the linear tail with the real axis.
+The temperature dependences of the Li1 + xAlxGe2 – x(PO4)3 conductivity in Arrhenius coordinates are linear in the temperature range studied (25–250°С).
+At near-ambient temperatures,  there  are  slight  deviations  from  linearity.
+It is worth noting  that  increasing  sintering  temperature  of Li1.5Al0.5Ge1.5(PO4)3  from  850  to  900°С  leads  to  an increase in conductivity by a factor of ~2.5.The observed effect is due to the difference in the density of ceramics, which increases with increasing sintering temperature due to the better contact between the particles.
+For  example,  for  Li1.5Al0.5Ge1.5(PO4)3,  the ceramics density increases from 62 to 88% as the sintering temperature is increased from 800 to 950°С.
+For the sample sintered at 950°С, the conductivity turned out  to  be  lower  than  that  of  the  material  sintered  at 900°С.
+This is explained by the appearance of nonconductive  aluminum-richimpurities Table 1. Unit cell parameters and volume for Li1 + xAlxGe2 – x(PO4)3 (x = 0–0.6)SampleRUSSIAN JOURNAL OF INORGANIC CHEMISTRY ions in the interstices.
+This leads to an increase in the concentration of defects and improves the conductivity  of  the  samples  with  an  increase  in  the  degree  of doping  within  the  single-phase  boundary.
+However, with a further increase in the dopant content (0.1 < x < 0.6), the conductivity increases at a much slower rate.
+The reason for this is the processes of association of defects, which intensively occur at high degrees of substitution and reduce the efficiency of aliovalent doping.
+Negatively  charged  aluminum  ions  with respect to their position in the lattice form weakly dissociating ion pairs with positively charged lithium ions located in interstices:Fig.
+The  process  of  defect  formation  that  occurs  when doping  LiGe2(PO4)3  with  Al3+  cations  can  be described by a quasi-chemical reaction: Li Al (PO ) LiGe (PO ) 4 3 3PO Liwhere “*” and “'” denote, respectively, the positive and negative charge of ions with respect to the appropriate  site  in  the  lattice.
+When  aluminum  is  introduced,  its  lower  (as  compared  with  Ge4+)  charge  is compensated  by  the  formation  of  additional  lithiumTable  2. Conductivity  of  Li1 + xAlxGe2 – x(PO4)3  at  25°С and conductivity activation energyMaterial(3) Nevertheless, the tendency toward an increase in conductivity with an increase in the aluminum content persists at x ≤ 0.6 up to the appearance of nonconductive impurity phases in the composition of the material.
+The  maximum  conductivity  values  were obtained for the Li1.6Al0.6Ge1.4(PO4)3 material, characterized by the maximum dopant content within the single-phase boundary (density 86%).
+It  should  be  noted  that,  for  LiGe2(PO4)3,  it  is impossible to interpret the Nyquist plots at room temperature  because  of  high  resistance  values.
+For  the other samples, it is somewhat overestimated owing to water  sorption  on  the  surface.
+Therefore,  the  roomtemperature conductivity was determined by extrapolation of temperature dependences of conductivity to room temperature (Table 2).
+The  conductivity  activation  energy  for  undoped lithium  germanium  phosphate  is  70.1  ±  0.3  kJ/mol (Table 2).
+The decrease in activation energy at the low-temperature  segment  for  Li1 + xAlxGe2 – x(PO4)3 samples (х = 0.1–0.6) is explained by the fact that an increase in the degree of substitution of germanium by aluminum leads to an increase in the lithium ion concentration  in  interstices  (position  M2),  which  is responsible for a gradual decrease in the contribution of  enthalpy  of  defect  formation  to  the  conductivity activation energy.
+These data are consistent well with the earlier results on doping LiM2(PO4)3 (M = Hf, Ti, Zr).
+In this context, the conductivity of doped  LiGe2(PO4)3-based  samples  is  noticeably for 10–4  higher,  Li1.6Al0.6Ge1.4(PO4)3.  The  suggested  procedure  can be  synthesis  of Li1 + xAlxGe2 – x(PO4)3 materials with high ionic conductivity.
+considered  promising being for CONCLUSIONSA  new  liquid-phase  method  of  synthesis  of  solid electrolytes with lithium conductivity of composition Li1 + xAlxGe2 – x(PO4)3 (x = 0, 0.1, 0.3, 0.5, 0.6, 0.65)RUSSIAN JOURNAL OF INORGANIC CHEMISTRY SYNTHESIS AND CONDUCTIVITY STUDYwith a NASICON structure has been suggested.
+The method is based on the use of an alkaline solution of GeO2  and  water-soluble  Al(NO3)3  ⋅  9H2O,  LiNO3, and (NH4)2HPO4 salts.
+The formation of the NASICON rhombohedral crystal structure of Li1 + xAlxGe2 – x(PO4)3 begins at at 750°C.
+The temperature of formation of Li1 + xAlxGe2 – x(PO4)3 samples depends on the degree of  substitution  of  germanium  by  aluminum,  being 1000°С (х = 0), 950°С (х = 0.1), and 850–900°С (x = 0.3–0.6).
+The effect of ceramics sintering temperature on the density and conductivity of the resulting materials  has  been  studied  as  a  function  of  the  degree  of substitution of germanium by aluminum.
+The material of composition Li1.6Al0.6Ge1.4(PO4)3 produced by sintering  the  synthesized  powder  at  900°C  exhibits  the highest conductivity (3.8 × 10–4 S/cm at a ceramics density of 86%) at 25°C and the lowest conductivity activation energy (30.5 ± 0.4 kJ/mol in the range 25– 250°C).

@@ -1,0 +1,151 @@
+Nine novel phosphates, based upon a combination of caesium, zirconium and lanthanide ions, were obtained from ﬂuoridecontaining ﬂuxes using high-temperature crystallization.
+
+All compounds are isostructural to the mineral langbeinite (cubic system, space group P213).
+Their framework structures originate from the crosslinking of metal octahedra [MO6] (M = Zr, Ln) by phosphate tetrahedra.
+Cs+ cations are located in the closed cavities of the framework and preferentially occupy one of the two available sites.
+The principles of crystallization of the equilibrium langbeinite-related phosphates in the ﬂuxes of the system Cs2O–P2O5–LnF3–ZrF4 (Ln = La–Nd, Sm–Lu) are discussed based on their crystal structures.
+A wide variety of langbeinite-related compounds are known.
+Besides the mineral langbeinite K2Mg2(SO4)3, which is found in nature, a number of synthetic compounds belonging to this large family are known, including sulfates, phosphates and vanadates.
+The preparation of phosphates with the langbeinite structure is associated with the synthesis of compounds related to NaZr2(PO4)3  during which langbeinites are often formed.
+The latter compounds can be explained by the relations between the two structural types.
+The compounds have similar framework features and involve common building units, but with different spatial packing.
+Generally, the structure consists of small network cations in an octahedral oxygen environment connected to each other via the tetrahedral anion units.
+The rigid frameworks form large closed cavities in the case of langbeinite or inﬁnite open tunnels in the case of NASICON (‘Na+-ion superionic conductor’), both of which incorporate alkali metal monocations, and this difference leads to some subtle differences within these structural types.
+Thus, compounds containing lithium cations , lithium langbeinites are unknown.
+In addition, a number of alkali-ion-free NZP have been obtained, while langbeinite-related compounds with empty cavities are unknown.
+Complex phosphates of langbeinite structure are represented by a diversity of compounds, prepared by employing various network cations and with the utilization of different synthetic techniques, such as the methods of ﬂux growth as well as solid state and hydrothermal reactions.
+A number of large monoor polyvalent cations have been tested for their ability to serve as cavity cations.
+For sodium, Na2MTi(PO4)3 (M = Fe, Cr) were obtained and characterized by Isasi & Daidouh (2000), while the group of potassium-containing langbeinites is the largest.
+
+Phosphates with the langbeinite structure containing only barium or only lead cations  are also relatively rare.
+Another interesting group of phosphate langbeinites are compounds containing multiple cations: KBaFe2(PO4)3).
+Herein, we report the synthesis and structural characterization of a new subgroup of phosphates with the langbeinite structure that is based on a combination of zirconium and lanthanide cations with caesium cations incorporated in the cavities.
+Their follows: Cs1 + xLnxZr2   x(PO4)3, where Ln = Sm–Lu.
+Principles of the crystallization of equilibrium langbeinite-related phosphates in the ﬂuxes of the system Cs2O–P2O5–LnF3–ZrF4 (Ln = La– Nd, Sm–Lu) will be discussed on the basis of the crystal structure.
+compositiongeneral2. Experimental2.1. Synthetic procedureA new technique for crystal growth from ﬂuxes was utilized in the preparation of the titled langbeinites beginning with ﬂuoride precursors containing zirconium (ZrF4) and lanthanide (LnF3, where Ln = La–Nd, Sm–Lu).
+The solubility of ZrO2 in phosphate ﬂuxes is very low and the main phaseswhich are often obtained in such cases are NZP-related MIZr2(PO4)3  or MI 2Zr(PO4)2 .
+The well shaped crystals of NZP grow during the dissolving of zirconium dioxide even when the temperature is above 1500 K.
+Therefore, it is difﬁcult to synthesize compounds other than NZP or MI 2Zr(PO4)2 zirconium phosphates using ﬂux crystallization of pure phosphate systems by the usual techniques.
+In contrast, ZrF4 melts when injected into the phosphate ﬂux and yields a true solution.
+As the latter process is accompanied by the thermohydrolysis of the ﬂuoride, it is necessary to perform the high-temperature synthesis as quickly as possible.
+This is the reason why the as LnF3 has a higher reactivity than the corresponding oxide.
+also a metal ﬂuoride,second precursorCalculated amounts of ZrF4 and LnF3 were added to the homogenous melt of CsPO3 with constant stirring using a platinum stirrer.
+The ﬂux was then cooled to crystallize the compound.
+This technique was examined in the synthesis of K4CeZr(PO4)4.
+CsPO3 was prepared in two steps.
+The ﬁrst step was the neutralization of a water solution of CsOH by a calculated amount of H3PO4. 
+The CsH2PO4 solution was then boiled to evaporate the remaining water; after evaporation it was cooled to 273 K.
+In the next step crystals of CsH2PO4 were separated from the mother liquor and decomposed at 900 K for 6 h to obtain CsPO3. 
+The completeness of the CsH2PO4 decomposition was examined using powder XRD and FTIR spectroscopy.
+To investigate the interactions in the system CsPO3–ZrF4– LnF3 melts, the following procedures were then performed.
+CsPO3 (8 g, 37.75 mmol) was placed into a platinum crucible and heated to 1273 K to obtain the ﬂux.
+The temperature was then decreased to 1223 K and a ground mixture of ZrF4 (0.567 g, 3.39 mmol) and LnF3 (Ln = La–Lu; 0.655–0.788 g, 3.39 mmol) was added to the ﬂux with stirring.
+
+At this temperature the cooled to 833 K at a rate of 25 K h liquid glass containing the crystals was poured from the crucible onto a copper sheet to freeze the crystallization processes.
+The glass was washed with hot deionized water to separate the crystals.
+The total yield of the crystalline products was ca 1–1.5 g.
+Phase analyses for all obtained samples were performed using powder XRD.
+The experiment was carried out using a Siemens D500 automated diffractometer .
+Single crystals possessing the tetrahedral langbeinite habit were manually separated from the reaction product mixtures.
+Their chemical composition was veriﬁed by energydispersive spectroscopy using a Link Isis analyzer mounted on a Philips XL 30 FEG scanning electron microscope.
+The established atomic ratios were close to those calculated during the crystal structure reﬁnement.
+The single-crystal X-ray diffraction experiments were performed on the same crystals used for elemental analysis.
+The dimensions of the cylinder are close to the dimensions of the M2P3O18 group where three phosphate tetrahedra are omitted.
+
+The three groups of cylinders are differently colored for the best visualization of the cavity.
+Two red cylinders are top and bottom; three green (one layer) and three blue (another layer) are the sides of the cavity.
+All data were collected with an Oxford Diffraction XCalibur 3 CCD diffractometer.
+An empirical multi-scan absorption correction of the obtained data was applied.
+Symmetry-equivalent reﬂections were averaged while keeping the Friedel pairs separated.
+The structures were solved by direct methods using SHELXS97  for the location of the primary sites for Cs, Ln and P atoms, while the positions of the four O atoms were found from Fourier synthesis performed during full-matrix reﬁnement.
+It was assumed that the Zr atoms occupy the same sites as the Ln atoms.
+Their coordinates and ADPs (atomic displacement parameters) were constrained and their occupancies were reﬁned using the linear combination of free variable restraints (SUMP) for both positions (site occupancy = 1.00) of the octahedrally coordinated metal.
+At the same time the occupancies of the Cs atoms were freely reﬁned in the initial phase of the reﬁnement.
+As a result, the compositions obtained were close to those reported.
+For a better agreement between the charge of the cationic and anionic components, the total cationic charge was restrained (charge = 9.00).
+An extinction correction was applied for all the compounds investigated, but as its value was found to be negligible (compared with its standard error) it was removed from the ﬁnal cycles of the reﬁnement in several of the structures.
+Experimental parameters are listed in Table 1,1 and the occupancies of Cs, Zr and Ln positions, and selected geometric parameters are gathered in Table 2.3. Results and discussion3.1. Structure descriptionComplex compounds, which belong to the langbeinite family (sulfates, phosphates, vanadates etc.) are well described in the literature.
+Several alternative descriptions of their framework have been proposed.
+One of them describes the structure on the basis of [M2X3O18] units, which are formed from two octahedra interconnected using three phosphate bridges.
+The second approach considers the larger [M5X6O39] units that provide a possibility for the description of the cavities .
+The term packed h111i rods was used by O’Keeffe & Andersson (1977) to describe the packing symmetry in these structures.
+Combining these representations of the crystal structure results in the following description.
+The simplest building elements are isolated octahedra and tetrahedra.
+A pair of the nearest metal octahedra is interlinked via three phosphate tetrahedra forming the [M2P3O18] blocks.
+In the reported compounds, they stack along the [111] direction at a distance of ca 10.8 A˚ .
+Services for accessing these data are described at the back of the journal.
+
+Lanthanide atoms are mainly located in the M2 position, while zirconium atoms are preferentially located at M1. 
+The occupancies of the M2 positions for the lanthanide atoms are close to 1 2 and the remaining quantities of lanthanide occupy the M1 site (less than one third).
+In both the [M1O6] and the [M2O6] octahedra the metal atoms appear slightly displaced from the polyhedron center (Table 2).
+At the same time the [M2O6] octahedra are compresed along the threefold axis, as indicated by the values of the O3—M2—O3 (I) and O4—M2—O4 (II) angle sum (I + II > 180, with the exception of the Yb compound).
+It should be noted that the degree of compression decreases in the CsEuZrP–CsLuZrP row.
+The {O1—O1—O1} and {O2— O2—O2} faces of the [M1O6] octahedron, and the {O3—O3— O3} and {O4—O4—O4} faces of the [M2O6] octahedron are coparallel (Fig.
+3).
+The distances between these pairs of planes can be used for the characterization of the metal-ion octahedral coordination.
+These values show the same behaviour with the degree of compression decreasing as the value of the ionic radii (Shannon, 1976) of the elements decreases (Fig.4).
+Awide spread in the octahedral thickness values for [M1O6] can be explained by the dispersion of the occupancies of the lanthanide ions in the M1 position.
+Bond-valence sums (BVSs) for the metals (Table 3) in their octahedral oxygen environments were calculated using the parameters from Brese & O’Keeffe .
+The values for zirconium are lower than 4 and for the lanthanide they are much higher than 3. 
+Such behaviour of the BVS values is related to the fact that both types of atoms are located in the same positions, while their bonding parameters differ signiﬁcantly.
+In these structures, calculated during the structure reﬁnement, values of M—O bonds could be presented as the linear sum of Zr—O and Ln—O bonds, taking into account the fraction of each bond which corresponds (is equal) to the occupancies of Zr and Ln.
+Two cases are possible for this pair of atoms.
+The ﬁrst can be observed, for example, in K4CeZr(PO4)4 , where Ce and Zr atoms are located in the same position.
+Two different oxygen environments for Ce and Zr were proposed on the basis of BVS calculations and the structural investigations.
+The calculated values of the BVS values were found to be 4.00 for ZrIV (sixcoordinated, octahedron) and 4.09 for CeIV (eight-coordinated, dodecahedron).
+
+
+
+†The octahedron center was calculated as the geometrical mean of the distance betweenthe environment of two different ions situated in the same position is the same.
+In this case the BVS values differ appreciably from the chemical valences.
+
+Dispersion of the corresponding BVS values in these compounds can be explained by the dispersion of the occupancies of Zr and Ln inresearch papersthe corresponding positions.
+To compare the environments of the two metal sites, M1 and M2, we modiﬁed the equationusing values of R0 calculated from the equation ;where R0(Zr) and R0(Ln) are bond-valence parameters and Oc(Zr) and Oc(Ln) are the crystallographic occupancies.
+The mean-calculated effective BVS value for the M1 position is 4.03  0.08 and for the M2 position is 3.79  0.07 in the compounds reported.
+The geometry of the tetrahedral [PO4] group is similar in the nine structures.
+P—O bond lengths are characteristic of the orthophosphate group and O—P—O angles are close to tetrahedral.
+The BVS for the P atom approaches 5.Cs1 is nine-coordinated, while Cs2 is 12-coordinated.
+A recently proposed description assumes that the cations in the cavity are surrounded by [MO6] octahedral units.
+According to this point of view the atom in the Cs1 position is linked to six neighboring octahedra and adopts an octahedral arrangement, while the atom in the Cs2 position is coordinated by only four octahedra in a tetrahedral arrangement.
+Cs—O distances which describe the oxygen environment of the Cs atoms are spread over the range [3.036 (3)–3.338 (3) A˚ ] the compounds investigated.
+Generally, the Cs—O interatomic distances become shorter in the Eu–Lu row.
+For the 12-coordinated Cs2 atom the Cs—O bond length range is wider [3.036 (3)–3.338 (4) A˚ ] than for the nine-coordinated Cs1 atom [3.108 (4)–3.338 (3) A˚ ].
+Some general points shouldfor allFigure 3 Parallel faces of the [M1O6] and [M2O6] octahedra.
+Figure 4 Graphical dependence of the dimensions of the octahedra (distances between parallel sides of the octahedra) along the [111] direction from the ionic radii of the corresponding the occupancy values ofbe noted about the metal positions.
+The Cs1 site is fully (or close to fully) occupied, while the 12-coordinated Cs2 site is only partially ﬁlled.
+We have calculated the BVS values to compare the coordination environment of the Cs atoms (Table 3) and have examined the bonding parameters from (a) Brown & Altermatt (1985) and (c) Adams (2001).
+For all the reported structures, the corresponding values of the BVS are similar, but they differ signiﬁcantly for the two Cs atoms.
+The values calculated on the basis of parameters from (a) are signiﬁcantly lower than those taken from (c).
+Comparing the BVS for Rb in the previous work (Gustafsson et al.
+, 2005) and the BVS for Cs in the current work it should be noted that the values of BVS for Rb are equal to 0.82 and 1.06 for the nineand 12-coordinated Rb atoms, respectively [Rb2YbTi(PO4)3 at 293 K], while the value for the nine-coordinated Cs1 atom is close to 1 and is signiﬁcantly higher (1.27–1.59) for the 12coordinated Cs2 atom.
+Thus, the general trend of BVS values of the alkaline metal atoms is retained, but the values for caesium are unreasonable.
+This may be attributed to signiﬁcant differences in the ionic radii of the Rb and Cs cations populating the same crystal cavities in Rb2YbTi(PO4)3 [the values of the Rb—O bonds are in the range 2.966 (5)– 3.306 (6) A˚ for the 12-coordinated atom and 2.990 (5)– 3.305 (6) A˚ for the nine coordinated atom] and in the compounds investigated.
+Taking into account the BVS for the Cs atoms the nine-coordinated Cs1 position is more favourable for Cs insertion than the 12-coordinated Cs2 position, which conﬁrms the experimental values of the distribution of Cs atoms over the two sites in the whole series of reported compounds.
+The sum of the valences of the negatively charged O atoms is equal to  24 per formula unit.
+The sums of the calculated values of BVS for the positively charged phosphorus and metal atoms (employing effective BVS values for the M1 and M2 positions) is insigniﬁcantly higher, near +25. 
+The high BVS values for the Cs atoms and decreasing Cs—O interatomic distances with decreasing ionic radii of the network cations mitigate against langbeinite-related phosphates containing Cs in the cavities and cations with radii less than that of Lu in the framework.
+On the other hand, the insertion of Cs cations could be facilitated by the expansion of the cavity size.
+A suitable cavity size could be supported by langbeinites containing octahedrally coordinated lanthanide elements with ionic radii larger than that of Sm.
+However, in our experiments we did not obtain langbeinite-related phosphates with the lanthanides Ln = La–Nd.
+This can be explained by the fact that langbeinite frameworks containing large lanthanides are unstable.
+Since the geometry of the [PO4] group is rigid, as the dimensions of the [MO6] increase the phosphate group becomes rather small for linking the large octahedra into the three-dimensional framework.
+The preparation of langbeinite-related compounds containing caesium and large lanthanides (Ln = La–Nd) should be possible if the phosphate group were to be completely or partially substituted by a larger building block, for example [AsO4], [MoO4] or [WO4].
+
+The differences which are observed are related to their ionic radii and valence forms.
+We investigated the Cs2O–P2O5–LnF3–ZrF4 (Ln = La– Nd, Sm–Lu) system over wide ranges of Cs:P molar ratios (1.0–1.4) and at different concentrations of the metal ﬂuorides (4.5–13% mol.
+for each ﬂuoride component).
+The synthetic conditions reported in x2 were selected to be those which optimize the crystal growth of the langbeinite-related phases.
+The general composition of the equilibrium langbeinite-like compounds as Cs1 + xLnxZr2   x(PO4)3, where Ln = Sm–Lu.
+When the concentration of the ZrF4 is much higher than that of LnF3, then NASICON-related phases were additionally obtained.
+Further, when the concentration of the lanthanide ﬂuoride is higher, then the additional phases are monazite (LnPO4, Ln = La–Gd) or CsLnP2O7 (Ln = Dy–Lu) or both (in the case where Ln = Tb).
+Needle-like CsLnP2O7 grows isostructurally to CsYbP2O7.
+At higher Cs:P molar ratios the amount of CsLnP2O7 increases in the mixtures obtained.
+This observation could be explained by the depolymerization of fraction of CsLnP2O7 was observed in the system containing ytterbium (the fraction is near 30%).
+The smaller amount of Yb in the corresponding langbeinite could possibly be explained by the precipitation of the less-soluble caesium ytterbium diphosphate CsYbP2O7 from the equilibrium melt.
+In the system where Ln = La–Nd, we could not obtain phosphates isostructural with langbeinite, and the only crystalline products were monazites LnPO4. For the system containing Sm, the formation of langbeinite-shaped crystals was detected, but only in addition to the main product, the monazite SmPO4. The fraction of samarium-containing langbeinite is less than 10% (molar).
+We could not perform the single-crystal X-ray diffraction experiment.
+All of the selected crystals were well shaped, but cloudy and Debye rings were observed in the diffraction images.
+It can be assumed that the samarium is the element with the largest ionic radius that can form langbeinites from the equilibrium ﬂuxes and pair with caesium as the large monovalent cation bound in the cavities.
+
+
+

@@ -1,0 +1,42 @@
+Applied Energy Materials A High-Voltage Cr4+/Cr3+ Redox Couple in Polyanion Compounds Kosuke Kawai,† Wenwen Zhao,† Shin-ichi Nishimura,†, ‡, and Atsuo Yamada†, ‡,* †Department of Chemical System Engineering, School of Engineering, The University of Tokyo, Hongo 7-3-1, Bunkyo-ku, Tokyo 113-8656, Japan ‡Elemental Strategy Initiative for Catalysts & Batteries (ESICB), Kyoto University, Nishikyo-ku, Kyoto 615-8510, Japan ACS Paragon Plus EnvironmentACS Applied Energy MaterialsPage 2 of 15KEYWORDS ABSTRACT Higher-voltage operation is crucial to increase energy density of rechargeable batteries.
+Here we explored  Cr4+/Cr3+  redox  couple  in  polyanion  framework  for  high-voltage  sodium  battery cathode.
+ACS Paragon Plus EnvironmentPage 3 of 15ACS Applied Energy MaterialsFor the past three decades, lithium-ion batteries (LIBs) have dominated the portable electronics market  and  nowadays  its  application  is  extending  to  larger-scale  energy  storage  systems  for electric  vehicles  and  stationary  use  for  leveling  renewable  energy.
+As  the  market  expands, sodium-ion batteries (SIBs) can be a possible alternative due to the abundance of sodium in the earth crust and the sea.
+To overcome this disadvantage, high-potential cathode materials for SIBs are required.
+Use of inductive effect in polyanionic framework is a major strategy to raise up the redox potential of a transition  metal  while  increasing  structural  integrity  and  safety.
+Sulfate  ion  (SO4)  2demonstrates  the  highest  electronegativity  and  hence  the  strongest  inductive  effect  among  all polyanions,  while  compounds  containing  (SO4)2 are  apt  to  decompose  above  ~  400  ℃ (generating  SO2  gas)  and  highly  hygroscopic.
+Phosphate  compounds,  being  chemically  much more stable but less electronegative, forms practical candidates.
+Among them, NASICON-type compounds AxM2(PO4)3 (A = Li, Na; M = transition metal) have been widely studied because of their high sodium-ion conductivity and robust structures, incorporating various transition metals (M = Ti, V, Mn, Fe, Co, Ni) as redox centers.
+In  addition  to  the  selection  of  anionic  species,  transition  metal  has  a  critical  influence  on operating  potential.
+So  far,  some  cobalt and  nickel-based  materials  are  known  as  4  V  class cathodes, for example Na2-2xCo1+xP2O7 (~ 4.0 V vs.
+More  abundant  options  containing vanadium  or  iron,  such  as  Na3V2(PO4)2F3-xOx,  Na7V3(P2O7)4  and  Na2+2xFe2-x(SO4)3,  have  been identified  while  their  average  operating  potentials  lies  around  4.0  V  vs.
+On  the further development of high-voltage class cathode materials, utilizing other transition metal is of ACS Paragon Plus EnvironmentACS Applied Energy MaterialsPage 4 of 15significant challenge.
+Therefore, demonstrating an active Cr4+/Cr3+ redox reaction in phosphate matrix is an urgent task before further exploration.
+Herein,  we  investigated  the  electrochemical  properties  of  NASICON-type  compound Na3Cr2(PO4)3 to demonstrate the Cr4+/Cr3+ redox couple operating around 4.5 V vs.
+Then, the pelletized mixture was heated in a tubular furnace under Ar flow for 22 hours at 1123 K and 12 hours at 1173 K with two intermediate grindings.
+The obtained powders  were  observed  by  field-emission  scanning  electron  microscopy  (FE-SEM)  (S-4800, HITACHI) with an acceleration voltage of 1 kV.
+Synchrotron  X-ray  powder  diffraction  patterns  was  obtained  at  the  beam  line  8B  of  Photon Factory (PF), High Energy Accelerator Research Organization (KEK) Tsukuba, Japan.
+The wave length was calibrated to be 1.10901 Å using a diffraction pattern of standard reference material, (SRM640d, NIST).
+For all XRD measurements, borosilicate glass capillaries (Hilgenberg GmbH or Müller GmbH) were adopted as sample holders.
+The collected data was analyzed by Rietveld refinement program, TOPAS-Academic Ver.
+ACS Paragon Plus EnvironmentPage 5 of 15ACS Applied Energy MaterialsThe working electrode was fabricated by a wet slurry process: mixing 80 wt% Na3Cr2(PO4)3 / AB,  10  wt%  AB  and  poly(vinylidene  difluoride)  (KUREHA)  in  N-methyl  pyrrolidone  (Kanto Chemical  Co.The  counter  electrode  was  Na  metal  (Wako).
+Electrochemical  tests  were  conducted  by  using  2032-type coin cells assembled in an Ar-filled grove box.
+Cyclic voltammetry was measured at a constant rate of 1.0 mV s–1 in a potential region between the rest potential and 5.2 V vs.Na/Na+.
+For all galvanostatic charge/discharge measurement, the C-rates were calculated by defining 1 C as the current density of 117 mA g–1 and the potential region was between 2.5 V and 4.7 V vs.Na/Na+.
+Coin cells at the various charging and discharging states were disassembled in a grove box filled with Ar, then the working electrodes were washed with dimethyl ether and dried at 353 K under a vacuum condition.
+Powder  peeled  from  the  working  electrodes  were  enclosed  in  the  same  glass capillaries mentioned above.
+The oxidation state of chromium during charging and discharging process was measured by X-ray absorption near edge structure (XANES) spectroscopy at room temperature in a transmission mode at the BL-9A of PF, KEK, Japan.
+The Cr4+/Cr3+ redox potential is positioned at 4.45 V vs.Na/Na+, which is competitive to Co3+/Co2+ and Ni3+/Ni2+ in polyanion matrix.
+Galvanostatic charge/discharge curves in Figure 2b indicated that an initial charge capacity at a current rate of 0.5 C was ~ 98 mAh g–1 being equal to 84 % of the theoretical capacity (117 mAh g–1 for 2 Na per formula unit) with single voltage plateau, and the reversible discharge capacity was  ~  79  mAh  g–1  exhibiting  a  small  potential  difference  of  ca.0.2  V  between  charging  and discharging curves.
+Figure 2c shows galvanostatic discharge curves after maintaining the cell at 4.70  V  (vs.Na/Na+)  for  the  various  time  durations.
+Continuous  increase  in  overvoltage  with ACS Paragon Plus EnvironmentPage 7 of 15ACS Applied Energy Materialsevident initial voltage vumps indicates the time-dependent degradation in this system could be initiated at the partial surface prohibiting the smooth nucleation of the discharged phase.
+These  typical  features  for "nucleation-growth-type"  mechanism  is  consistent  with  the  flat  charge/discharge  profile  at  the specific generating voltage at 4.5 V vs.Na/Na+.
+The 1st charge/discharge curve at which each XRD pattern was collected; 0.5 C for charging  and  1  C  for  discharging,  (b)  Ex  situ  XRD  patterns  at  various  charge/discharge  states during 1st cycle.
+Each alphabet from A to E corresponds the state at which XRD pattern was collected indicated in (a).
+Their  contributions become evident at high valence states due to the less 3d electron and the local structural change around  Cr.
+The  reversible  shift  of  main  edge  also  indicates  the  redox  activity  of  the  Cr4+/Cr3+ Figure  4.  Cr  K-edge  XANES  spectrums  of  Na3Cr2(PO4)3  /  AB  electrode  in  (a)  1st  charging process  and  (b)  1st  discharging  process.
+ACS Paragon Plus EnvironmentACS Applied Energy MaterialsPage 10 of 15The Cr4+/Cr3+ redox couple in polyanion framework was demonstrated to generate extremely high-potential  in  sodium  cell.
+Na/Na+ with an initial charging capacity of 98 mAh g–1 comparable to 84 % of theoretical capacity (117 mAh g–1) for 2 Na per formula unit.
+In addition to the well known high-potential with Ni3+/Ni2+ and Co3+/Co2+ redox couples shown in Figure  5,  Cr4+/Cr3+  redox  couple  in  several  polyanion  framework  systems  are  now  warrant exploration  toward  new  high-voltage  cathode  materials.
+However,  excessive  oxidation  or spontaneous disproportionation could produce highly toxic Cr6+ and should be recognized as a possible important risk.
+Positions  of  the  Mn+  redox  couples  with  various  polyanions  (M  =  transition ASSOCIATED CONTENT Supporting Information The Supporting Information is available free of charge on the ACS Publication website at DOI: ACS Paragon Plus EnvironmentPage 11 of 15ACS Applied Energy MaterialsDetails  of  the  Rietveld  refinement  results  of  synchrotron  X-ray  powder  diffraction, electrochemical  performance  and  synchrotron  X-ray  powder  diffraction  pattern  of  full  charged phase with miller indices and lattice constants (PDF) AUTHOR INFORMATION Corresponding Author Notes The authors declare no competing financial interest.

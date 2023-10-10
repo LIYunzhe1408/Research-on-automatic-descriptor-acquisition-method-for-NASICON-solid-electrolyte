@@ -1,0 +1,41 @@
+Sodium-ion batteries (NIBs) are attracting considerable interestas a promising alternative to lithium-ion batteries (LIBs) forportable electronics, electric vehicles and large-scale grid, dueto the abundant resource and low cost of sodium.
+
+Moreover,sodium (Na) and lithium (Li) share close similarity in manychemical properties, which has advanced rapid developmentof NIB technologies.
+
+Thus early research on NIB electrodematerials was inspired by structures and composition thathad proved to operate well for Li intercalation/de-intercalation.
+
+ For the cathode side, many oxides (e.g., Na x CoO 2 ,[ 2 ]Na x MnO 2 ,[ 3 ] Na x VO 2 ,[ 4 ] and Na x CrO 2[ 5 ] ) and polyanion-based(e.g., NaFePO 4 ,[ 6 ] Na 2 FePO 4 F, [ 7 ] NaVOPO 4 ,[ 8 ] and Na 2 MnP 2 O 7[ 9 ] )compounds were studied.
+
+Compared to oxides, polyanionbased cathodes exhibit stable 3D host frameworks due to strongcovalent bonding of oxygen atom in the polyanion polyhedra,resulting in their better thermal stability and safety and longercycle life.
+
+ Within the family of polyanion compounds, Nasuper-ionic conductor (NASICON)-type Na 3 V 2 (PO 4 ) 3 (NVP) isof particular interest.
+
+The crystal structure of NVP, as revealed by experimentaland theoretical studies, [ 12 ] is composed of [VO 6 ] octahedra and[PO 4 ] tetrahedra interlinked via common apical oxygens toform [V 2 (PO 4 ) 3 ] “lantern” units; Na ions occupy Na1 (M1, sixfold coordination) and Na2 (M2, eightfold coordination) sites( Figure 1 a, upper right corner).
+
+This NASICON-type framework provides 3D open diffusion pathways for Na + transport,resulting in rapid Na + diffusivities exceeding 10 −11 cm 2s −1,[ 13 ]which are many orders of magnitude larger than that for manyother NIB cathodes (e.g., around 10 −14 cm 2s −1for NaMn 3 O 5[ 14 ]and ≈10 −17 cm 2s −1 for NaFePO 4[ 6 ] ).
+
+More importantly, with thehelp of the connected interstices, Na ions can be extracted/intercalated reversibly from/into NVP structure over a widerange of Na compositions (up to two Na per unit formula ofNVP) at high potential of 3.4 V versus Na + /Na, giving rise to animpressive theoretical capacity of 118 mA h g −1 (energy densityas high as 401 W h kg −1).
+
+Inspired by these approaches,improved performance has been achieved for NVP cathodes,such as delivering 104 (0.5 C) and 95 mA h g −1(5 C) for NVP@Ccore-shell nanocomposites, [ 17 ] 118 (0.5 C) and 100 mA h g −1(5 C) for NVP/acetylene carbon, [ 11a ] and 114 (1 C), 91 (20 C),and 61 mA h g −1(40 C) for porous NVP/C.
+ Despite thesesuccesses, the realization of advanced NVP cathode combiningsupercapacitor-like rate performance (e.g., less than 60 s to fullcharge/discharge) and battery-like capacity (e.g., keeping >60%of theoretical capacity) to meet PHEV and EV applications isdiffi cult to achieve.
+
+It is because the traditional technologyfor the preparation of carbon-coated NVP is mainly based onthe thermal decomposition of ball-milled carbon-containingprecursors, [ 18b ] which often produces micrometer-sized NVPparticles with insuffi cient carbon coating, leading to a largepolarization of the electrode since this structure is not benefi -cial for electron transfer (Supporting Information, Figure S1).
+
+Moreover, these traditional NVP architectures have small electrolyte-accessible surface areas, slowing Na ion mass transportin the whole electrode.
+
+Herein, to create effi cient charge transfer, we propose a3D hierarchical meso- and macroporous NVP-based hybridcathode concept with connected Na ion/electron pathways forultrafast charge and discharge NIBs, schematically illustratedin Figure 1 a, consisting of NVP nanocrystals coated with amorphous carbon and then wrapped by reduced graphene oxidenanosheets (abbreviated as NVP@C@rGO).
+
+thesmall nanograins shorten the lengths of solid-state Na ion diffusion; ii) the macro/mesopore network enables rapid iontransport and buffers the strain during repeated Na + extraction/insertion to maintain the structural integrity; iii) highly conductive amorphous coating carbon and rGO nanosheets facilitatfast electron transfer within the electrode and to the currentcollector.
+
+The designed NVP@C@rGO cathode is shown toachieve excellent rate capability (86 mA h g −1 at 100 C) and outstanding cycling stability (64% retention after 10 000 cycles at100 C), indicating its superiority in practical applications.
+
+The NVP@C@rGO nanocomposite was synthesized by afeasible freeze-drying-assisted method as outlined in Figure 1 b.
+
+Briefl y, the aqueous NVP precursor solution was mixed thoroughly with a neutral polymer poly(vinylpyrrolidone) (PVP) andgraphene oxide (GO) nanosheets at the atomic level.
+
+Then themixture was freeze-dried, and further heat treated at 750 °C inAr/H 2 atmosphere to obtain NVP@C@rGO.
+
+In this case, PVPwas employed as not only a chelating agent, but also a carbonsource to generate a nanoporous carbon matrix for hosting thecrystallized NVP nanoparticles (NPs).
+
+Moreover, the carbonmatrix combined with GO nanosheets effectively inhibited thegrowth of primary NVP grains during the high-temperaturesintering process.
+

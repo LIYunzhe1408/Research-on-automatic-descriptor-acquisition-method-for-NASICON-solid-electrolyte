@@ -1,0 +1,193 @@
+Li1+xAlxGe2−x(PO4)3 (LAGP) is a solid lithium ion conductor belonging to the NASICON  family,  representing  the  solid  solution  of  LiGe2(PO4)3  and AlPO4. The  typical  syntheses of  LAGP either involve high temperature melt-quenching, which is complicated and expensive, or a sol-gel process requiring costly organic germanium precursors.
+In this work, we report a simple  method  based  on  aqueous  solutions  without  the  need  of  ethoxide  precursos.
+Using synchrotron and neutron diffraction, the crystal structure, the occupancies for Al and Ge, as well as the distribution of lithium were determined.
+Substitution of germanium by aluminum  allows  for  an  increased  Li+  incorporation  in  the  material  and  the  actual  Li+  content  in  the  sample  increases  with  the nominal Li+ content  and a solubility limit  is  observed for  higher  aluminum  content.
+By  means  of  impedance  spectroscopy,  an  increase  of  the  ionic conductivity with increasing lithium content is observed.
+While the lithium ionic conductivity improves,  due  to  the  increasing  carrier  density,  the  bulk  activation  energy  increases.
+This correlation suggests that changes in the transport mechanism and correlated motion may be at play in the Li1+xAlxGe2−x(PO4)3 solid solution.
+ACS Paragon Plus EnvironmentACS Applied Materials & InterfacesPage 2 of 251. Introduction Energy storage systems are very important for many applications such as portable electronic devices,  resilient  storage  for  renewable  energy  sources  and  electric  vehicles  that  will  be  of  even greater importance in the future.
+As currently available battery systems are unsable to  fulfill  the  needs  for  higher  energy  and  power  density,  prolonged  cycle  life  and  increased safety,  solid  electrolytes  are  sought  after  for  the  alternative  all-solid  state  batteries  (ASSBs).
+Among  the  numerous  types  of  solid  lithium  ion  conductors  –  LISICONs,  NASICONs,  garnets,  (anti-)perovskites  and  sulfide-based  systems5–15  –  NASICON  materials  are  widely  investigated.
+Apart  from  different  sodium-containing  compounds,26–30  there  exist  also  stable  lithium  ion  conductors  within  this  structure  type.
+The  general  formula of lithium-conducting NASICON materials is based on LiM(PO4)3 with  M being a  tetravalent  metal  ion.
+The  basic  structure  consists  of  LiO6  units  in  trigonal  antiprismatic  coordination,  MO6 octahedra and PO4 tetrahedra.
+Li+ occupies the Wyckoff site 6b, referred  4+ the Wyckoff position 12c, as shown in Figure 1a.
+The  to as Li(1) in the following, and M tetravalent metal ions can be substituted by various trivalent ions such as Al, Ga, Cr, Sc, Y, Fe  and  La,31,32,35–37  which  leads  to  the simultaneous incorporation  of  an  additional  lithium  ion  per  formula  unit for  charge  compensation.
+Thus,  the ionic  conductivity  is  increased  due  to  higher charge carrier concentration.
+The additional lithium is suggested to be located on an  18e position,27,39–41 hereafter denoted as Li(2), or split along the direction of the conduction  channels  around  this  18e  position  on  a  36f  Wyckoff  site,34,42–44  named  Li(3)  (Figure 1a).
+During ionic transport, Li+ moves from the Li(1) position to the Li(2) position and from here  to  the  next  Li(1)  position  –  or  across  the  two  Li(3)  sites  from  one  Li(1)  to  the  other  –  as depicted in Figure 1b.
+For the jump, it has to cross two triangle areas, T1 and T2, spanned  between  three  oxygen  atoms,  each.
+It  was  suggested  that  these  triangles  act  as  a  bottleneck for ion transport, where the activation energy decreases with increasing area of the  smaller triangle.
+ACS Paragon Plus EnvironmentPage 3 of 25ACS Applied Materials & InterfacesFigure  1:  (a)  Polyhedral  representation  of  the  crystal  structure  of  Li1+xAlxGe2−x(PO4)3  (M  =  Al/Ge).
+The Wyckoff 6b position for Li(1) is shown in green and the 18e position for Li(2) is  depicted  in yellow.
+The split pair  site  around  the Li(2)  position  (a 36f position) is shown  as  smaller  green  spheres  and  referred  to  as  Li(3).
+Visualization  of  the  hopping  path  of  Li+  through the two triangle areas T1 and T2 according to Tietz and coworkers.
+Li1+xAlxTi2−x(PO4)3 and Li1+xAlxGe2−x(PO4)3, abbreviated as LATP and LAGP, respectively,  are two of the most widely studied Li-conducting NASICON materials.
+These materials  are  relatively  stable  against  water  and  air33,53,54  and  offer  bulk  conductivities  of  up  to  3 mS cm−1 at room temperature.
+The ionic radii of Ge4+ and Al3+ in octahedral coordination  are nearly identical, with that of Ti4+ being higher.
+Thus, in order to analyze the changes in the  structure  without  convoluting  the  results  with  a  size  effect  of  the  M  ion,  LAGP  is  the more  suitable  material.
+Typically,  LAGP  is  prepared  in  a  costly  and  complicated  meltquenching process involving temperatures of over 1300 °C.
+Another method is the  Pechini-type60  sol-gel  process  using  germanium(IV)  ethoxide,  Ge(OC2H5)4,  as  the  germanium  source.
+This  precursor,  however,  is  significantly  more  expensive  than  GeO2, commonly used in the melt-quenching process.
+For a systematic aliovalent substitution  study  with  a  multitude  of  samples,  a  facile  and  reasonably  priced  method  is  therefore In  this  contribution,  a  new  procedure  employing  the  more  affordable  precursor  GeO2  at  temperatures below 900 °C out of an aqueous solution, is developed.
+In addition, we analyze ACS Paragon Plus EnvironmentACS Applied Materials & InterfacesPage 4 of 25the  structure  of  the  resulting  samples  using  synchrotron  and  neutron  diffraction,  which reveals a solubility limit for aluminum at x = 0.5 that is closely related to structural changes.
+Electrochemical  impedance  spectroscopy  shows  an  increase  of  the  ionic  conductivity  with  higher Li+ content while the activation energy turns out to increase with increasing bottleneck  size,  contrary  to  previous  reports.
+Instead,  the  activation  energy  increases  with  increasing lithium  content,  suggesting  a  more  complicated  correlated  diffusion  behavior  for  the  ion transport.
+This work shows that less costly synthesis routes for LAGP can be developed and that  the  mechanism  of  Li ion transport  is  still not fully  understood and needs to  be further theoretically investigated.
+LiOH (98 %, Acros), Al(OH)3 (reagent grade, Sigma-Aldrich), GeO2 (99.999 %,  ChemPur)  and  NH4H2PO4  (99.9 %,  Acros)  were  used.
+For  precise  taring,  Al(OH)3  and  NH4H2PO4  were  dried  at  120 °C  under  vacuum  to  remove  any  residual  water.
+LiOH  was  dissolved in de-ionized water.
+The exact Li+ concentration was determined by titration with  0.1 M HCl  (Grüssing).
+For  the  syntheses  of  Li1+xAlxGe2−x(PO4)3, stoichiometric amounts of  the  LiOH  solution,  Al(OH)3,  GeO2,  and  NH4H2PO4  were  dissolved  in  de-ionized  water,  including  a  5  mol%  excess  of  LiOH  to  compensate  for  evaporation.
+Then,  ammonium hydroxide solution (ACS reagent, Sigma-Aldrich) was added to retain a basic pH above 12. The solution was heated under constant stirring in a sand bath to evaporate the water.
+After that, the  mixture  was dried  subsequently at  200 °C and  300 °C  for  6 h,  each.
+The resulting powder  was  ground  in  an  agate  mortar  and  uniaxially  pressed  (226  MPa)  into  pellets  of 13 mm  diameter.
+The  pellets  were  placed  on  platinum  foil  in  corundum  crucibles,  covered with  a  small  amount  of  sacrificial  powder  and  sintered  at  different  temperatures  (750 °C, 800 °C and 850 °C) with a heating rate of 200 °C/h for 8 h
+X-ray  diffraction  measurements  of  the  Li1+xAlxGe2−x(PO4)3  pellets  were  carried  out  on  a  PANalytical  Empyrean  powder  diffractometer  in  BraggBrentano  θ-θ  geometry  with  Cu  Kα  radiation  (λ1  =  1.5405980 Å,  λ2  =  1.5444260 Å)  and  a  PIXcel  detector.
+The  X-ray  tube  was  operated  at  40 kV  and  40 mA.
+Measurements  were carried out in the 2θ-range between 10° and 90° with a step size of 0.013°.
+The  FullProf  Suite  (version  June  2015)  program  package  was  utilized  for  Rietveld refinement65 of the laboratory X-ray diffraction data.
+A pseudo-Voigt function was ACS Paragon Plus EnvironmentPage 5 of 25ACS Applied Materials & Interfacesused to describe the peak profiles and a linear interpolation between manually set points with  refinable heights was used for the background.
+The atomic displacement parameters Biso of Li  atoms  were  fixed  at  2.5 Å2.  The  second  Li  atom  (18e)  was  placed  at  x  =  0.55,  i.at  the  position (0.55, 0, ¼), which corresponds to the center of the respective polyhedron and was kept fixed.
+For the refinement against the laboratory X-ray diffraction data, the occupancies of  Li,  Al  and  Ge  were  constrained  to  each  other  in  order  to  preserve  charge  neutrality.
+Approximately 3 cm3 of the Li1+xAlxGe2−x(PO4)3 powder was  filled  into  vanadium  vials  (diameter  1  cm)  under  argon  atmosphere.
+The  vials were  sealed using indium wire.
+Neutron diffraction data were recorded in Debye-Scherrer geometry in the 2θ-range between 1° and 152° with a step size of 0.05° on the high-resolution diffractometer  SPODI at Heinz Maier-Leibniz Zentrum (Garching near Munich, Germany).
+A wavelength  of 1.548171 Å was achieved by using a Ge(551) monochromator crystal with 155° take-off  angle.
+For detection, 80  3He detector tubes (vertically sensitive, 300 mm height) were used.
+During  refinement in the 2θ-range between 10° and 152°  with TOPAS-Academic V6,68 the  peak  profiles  were  described  by  a Thompson-Cox-Hastings  pseudo-Voigt  function.
+The  instrumental  resolution  function  was obtained from a measurement of Na2Ca3Al2F14. Afterwards, the Thompson-Cox-Hastings  peak shape parameters for the LAGP refinements were fixed to the values received from the standard.
+Size and strain formulations were used to account for sample peak broadening.
+At first, the structure model was refined with only the Li(1) (6b) Wyckoff site occupied.
+In the difference  Fourier  map,  a  peak  with  negative  nuclear  density  was  detected  on  a  36f  site at about  (0,  ¼,  0.05).
+This  position  is  quite  similar  to  the  one  found  for  LATP  using  neutron  diffraction.
+Hereafter,  it  was  used  as  a  starting  point  for  refinements  with  both  lithium  sites 6b and 36f occupied.
+The (fractional) site occupation factors N of both, the 6b and 36f, Li positions were thereby constrained to each other and to those of Al and Ge following the equations  1 = NLi(1) +  6 · NLi(2)  –  2 · NAl  and  NAl  =  1  −  NGe,  respectively,  in  order  to  retain  overall charge compensation.
+Atomic displacement parameters of both Li sites were refined isotropically  and  kept  identical,  while  those  of  the  other  atoms  were  refined  in  anisotropic approximation using a second order tensor
+High-resolution synchrotron powder diffraction data were collected  in  Debye-Scherrer  geometry  at  beamline 11-BM  at  the Advanced Photon  Source, Argonne  National  Laboratory,  Lemont,  IL,  USA.
+The  samples  were  filled  into  Kapton ACS Paragon Plus EnvironmentACS Applied Materials & InterfacesPage 6 of 25capillaries (inner diameter of 0.80 mm) and sealed using modeling clay.
+Diffraction patterns were  obtained  in  the  2θ-range  between  0.5°  and  50°  (step  size  0.001°)  with  a  calibrated wavelength  of  0.414534 Å  (Si(111)  double  crystal  monochromator).
+For  detection,  12 independent Si(111) analyzer  crystals  spaced  2°  from  each  other were used in  combination  with  LaCl3  scintillation  detectors.
+Rietveld  refinements  were  carried  out  in  the  2θ-range  between  2°  and  40°,  using  FullProf  Suite65  (version  June  2015).
+The  peak  profiles  were  described  by  the  convolution  of  a  Thompson-Cox-Hastings  pseudo-Voigt  function69  and  a  function  for  axial  divergence  asymmetry.
+For  the  background,  a  linear  interpolation  between  manually  set  points  with  refinable  heights  was  used.
+Due  to  the  low  X-ray  scattering  form  factor  of  lithium,  positions  and  atomic  displacement  parameters  for  the  lithium  atoms  were  not  refined.
+While  the  atomic  displacement parameters Biso of the Li atoms were fixed to 1.5 Å2, those for the other atoms  were refined anisotropically.
+The second lithium atom was placed at (0, ¼, 0.05),  the  Li(3) site obtained from the neutron refinements.
+The occupancy for Li(3) was fixed to the values obtained from neutron refinements of samples with the same nominal composition.
+For the refinement against synchrotron X-ray data, the occupancies of Li, Al and Ge were constrained  to  each  other  in  order  to  preserve  charge  neutrality.
+In  order  to  predict  the  preferential  lithium  diffusion pathways,  the  bond  valence  sum  method  (BVS)  was  used.
+It  has  already  been  employed  successfully for various lithium ion conductors.
+This method assumes that ion diffusion  within a solid from one Li site to an adjacent one occurs along a path, on which the valence mismatch ∆V calculated by  between the bond valence V and the nominal valence Vnom of the ion is minimal.
+Hereby, the bond valence sum for a cation A is given as   with  SA–X  being  the  bond  valence  between  A  and  the  anions  X,  which  in  turn  can  be  calculated from the bond lengths RA–X according to using  the  empirical  parameters  R0  and  b.
+Calculations  were  performed  using  tabulated ACS Paragon Plus EnvironmentPage 7 of 25ACS Applied Materials & Interfacesvalues for R0 and b as well as the positions of Ge, P and O43,73.   Electrical  conductivity  measurements.
+Gold  electrodes  (99.99 %,  ChemPur)  with  a diameter of 8 mm were vapor deposited (Sputter Coater, tectra GmbH) on both sides of the  Li1+xAlxGe2−x(PO4)3  pellets.
+Electrochemical impedance spectroscopy was performed using an Alpha-A high performance frequency analyzer with a ZG4 impedance test interface (Novocontrol) operating in 2-point mode.
+The AC amplitude was 10 mV, 20 MHz to 100 mHz was chosen as frequency range.
+As an  initial step, the sintering  temperature for  the  new  synthesis  method  was  optimized  for  three  different  compositions  in Li1+xAlxGe2−x(PO4)3  (LAGP)  with  x  =  0.3,  0.5  and  0.7,  respectively.
+Figure 2a  shows  the  refined additional Li+ in the structure and the LAGP phase fraction of the samples as function  of the nominal composition for different sintering temperatures between 750 °C and 850 °C, as determined from Rietveld refinements of laboratory X-ray diffraction measurements.
+Two  exemplary  refinements  are  depicted  in  Figure S1.  The  overall  Li+  that  is  incorporated  was  obtained from the refined occupancy  of Al3+ in the structure, as an increase in Al3+ content  must lead to direct charge compensation with an increase in the Li+ content, which can indeed  be  observed.
+However, at  higher  nominal Al3+ contents, the  detectable content of Al3+  (and  hence  Li+)  incorporated  in  the  structure  decreases,  suggesting  some  solubility  limit  to  be  reached.
+Beyond  this  point,  additional  lithium  and  aluminum  are  not  incorporated  into  the structure  and  form  side  phases,  leading  to  a  decrease  of  the  LAGP  mass  fraction  and  an increasing mass fraction of impurity phases (see Figure 2a).
+Comparing the different sintering temperatures, it can be observed that the samples sintered at 800 °C provide both the highest  Al3+  content  and  the  highest  purity.
+At  750 °C,  the  phase  purity  is  lower  because  of  the  preferred  formation  of  Li9Al3(P2O7)3(PO4)2,  which  is  known  to  already  form  at  lower  temperatures.
+At 850 °C, however, the evaporation of lithium is likely promoting a reduced  lithium content in LAGP, as well as higher fraction of side phases due to the resulting lack of stoichiometry.
+Previous studies also showed a higher fraction of impurity phases for sintering  temperatures above 800 °C in the case of LAGP glass-ceramics.
+The samples sintered at 800 °C provide the  best  combination  of  high  purity  and  high  Li+  concentration,  which  results  in  the  highest  conductivity and lowest observed activation energy.
+In addition to the phase and structural analysis, Figure 2b shows the ionic conductivity and total  activation  energy  obtained  from  impedance  spectroscopy  of  the  LAGP  samples  that were  prepared  at  different  temperatures.
+Because  of  the  highest  lithium  content  in  the structure  and  highest  phase  purity,  the  samples  sintered  at  800 °C  exhibit  the  highest conductivities and lowest activation energies.
+The samples sintered at 850 °C are very similar because  of  a  slightly  higher  density,  which  seems  to  compensate  for  the  lower  lithium content.
+For the samples sintered at the lower temperature of 750 °C the density is severely decreased  (not  shown)  and,  thus,  the  total  activation  energy  is  higher  and  the  resulting conductivity lower.
+All data points shown in Figure 2 represent the mean values of multiple samples  measured  per  data  point  and  the  uncertainty  values  given  are  their  standard ACS Paragon Plus EnvironmentPage 9 of 25ACS Applied Materials & Interfacesdeviations, showing the high reproducibility of the newly developed synthesis method.
+In conclusion, a sintering/reaction temperature of 800 °C turns out to be optimal for high phase purity and best ionic conductivity.
+For a more detailed analysis of the crystal structure  and transport in Li1+xAlxGe2−x(PO4)3, samples with a smaller variation of the Al3+ content in  the  nominal  compositions  were  sintered  at  800 °C  consequently,  and  are  analyzed  in  the Composition-dependent  structural  evolution.
+Li1+xAlxGe2−x(PO4)3 was  synthesized with  x  = 0.0, 0.2, … 0.8, and a sintering temperature of 800 °C to obtain samples with the highest LAGP phase fraction possible.
+Synchrotron and neutron diffraction data were collected for all nominal  compositions.
+Representative  diffraction  data  and  refinements  for  samples  with  xnominal  =  0.4  are  shown  in  Figure 3. All  results  shown  are  obtained  from  synchrotron  and  neutron diffraction measurements of one sample of each composition.
+From the Rietveld refinements against synchrotron and neutron diffraction data, xRietveld as  a measure for the apparent lithium composition and the mass fraction of LAGP (wLAGP, Rietveld)  are obtained.
+The evolution of these parameters with changing nominal lithium composition  is  shown  in  Figure 4a.
+At  first,  xRietveld  increases  almost  linearly  with  a  slope  of  unity  with  increasing  nominal  composition  (xnominal),  showing  that  all  added  aluminum  is  indeed  incorporated into the structure.
+In this initial x-range, the phase fractions remain constant with  a mass fraction of LAGP close to 100 %.
+However, starting at xnominal  ≈ 0.5, the determined  Al3+ occupancy begins to saturate and cannot be increased any further.
+This saturation of Al3+  in the structure suggests a solubility limit of xnominal ≈ 0.5 and higher Al3+ contents lead to a  strong decrease in the LAGP phase fraction.
+The observed side phases include GeO2 (P3121),  AlPO4  (C2221),  Li4P2O7  (P1ത)  and  Li9Al3(P2O7)3(PO4)2  (P3തc1).
+The  latter  is  preferably  formed at higher aluminum contents, as also shown by Francisco et al.
+ACS Paragon Plus EnvironmentACS Applied Materials & InterfacesPage 10 of 25Figure  3:  Representative  synchrotron  (a)  and  neutron  (b)  diffraction  data (open circles)  for  two  LAGP  samples  with  nominal  composition  Li1.4Al0.4Ge1.6(PO4)3  (x = 0.4),  sintered  at  800 °C.
+The  calculated  pattern  obtained  from  the  refinement  is  shown  as  a  black  line,  the  violet line depicts the profile difference.
+The calculated Bragg positions of the refined phases  are marked with vertical ticks: (a) Refined mass fractions: 99.6(2) % Li1.43Al0.43Ge1.57(PO4)3,  0.31(1) %  GeO2,  0.11(1) %  AlPO4;  goodness  of  fit  S = 1.73,  Rp = 4.96 %,  Rwp = 6.95 %,  Rexp = 4.01 %;  (b)  refined  mass  fractions:  98.5(3) %  Li1.40Al0.40Ge1.60(PO4)3,  1.5(3) %  Li4P2O7; goodness of fit S = 4.17, Rp = 4.61 %, Rwp = 5.95 %, Rexp = 1.42 %.
+Comparing the evolution of the lattice constants and cell volume (Figure 4c) to that of the  lithium content, one can notice a similar behavior.
+As reported before,61 the lattice parameter  a  seems  to  remain  constant  within  the  resolution  limits,  because  the  ionic  radii  of  Al3+  (0.535 Å) and Ge4+ (0.530 Å) in an octahedral coordination are nearly the same.The lattice  parameter c, and with it the lattice volume V, increase for lithium contents up to x = 0.5. For even  higher  nominal  lithium  contents,  c  and  V  exhibit  the  same  saturation  behavior  as  the lithium content, which suggests that the added lithium is directly responsible for the unit cell  expansion.
+The  observable  Li+  content  increases  with  the  nominal  value  of  x,  but  reaches  a  solubility  limit at xRietveld ≈ 0.5. The increase in unit cell volume correlates with the increase of xRietveld  and reaches saturation  at  the same nominal lithium  content.
+This  increase  can also be seen  for  the  volume  of  the  Li(1)O6  octahedra  (b),  whereas  the  volume  of  the  other  polyhedra  remains mostly constant (d).
+As an explanation for the expanding unit cell, Figure 4b and 4d show the dependence of the LiO6 and MO6 octahedra volumes as well as the PO4 tetrahedra volumes as a function of the  nominal  lithium  content.
+The increase of the c-axis  and  the  unit  cell  volume  directly  seem  to  correlate  with  the  increase  of  the  Li(1)O6  octahedral  volumes,  as  these  directly  point  in the  z-direction  (see  Figure 1).
+Substitution  of germanium by aluminum does not lead to a significant change in the MO6 octahedra volume.
+Interestingly, the addition of Li, which has to be placed on the 18e or 36f position (the 6a site is  already  fully  occupied  for  x  =  0)  does  not  affect  the  Li(2)O6  volume  much,  but  only ACS Paragon Plus EnvironmentACS Applied Materials & InterfacesPage 12 of 25increases  the  Li(1)O6  volume.
+This  behavior  may  possibly  be  explained  by  the  reduced  charge  on  the  adjacent  Wyckoff  12c  site  due  to  the  substitution  of  Ge4+  by  Al3+,  in  combination with the additional charge localized on or around the 18e Li(2) site.
+The Li(1)  site  shares  a  face  with  the  (Ge/Al)O6  octahedra  along  the  z-direction  and  now  lithium  can  move further in c-direction as a result of weaker Coulombic repulsion in this direction.
+While this alone will not result in larger volume, an increasing occupancy of the adjacent Li(2) or Li(3)  positions,  resulting  in  an  increase  of  the  Coulombic  repulsion  might  explain  the  increasing  Li(1)O6  polyhedra  volumes,  as  this  behavior  will  minimize  the  Coulombic  repulsion.
+In order to further analyze the Li+ distribution on the different Li sites (6b, 18e and 36f),  the  collected  neutron  diffraction  data  are  helpful.
+In  the  difference  Fourier  maps  of refinements with only the Li(1) site occupied (see Figure S2), high negative nuclear density (corresponding to scattering lithium) was found on a 36f Wyckoff site at about (0, ¼, 0.05).
+This Li(3) position is close to the 18e Li(2) site, but splits along the Li+ conduction pathway  between an Li(1) and an Li(2) site.
+Thus, for further analyses with x > 0, Li was refined on the Li(1) and Li(3) positions.
+The occupancies of both lithium sites were refined, while their sum was constrained  to  those  of  Al  and  Ge  on  the  M  site  for  charge  compensation.
+The  obtained lithium  occupancies  are  shown  in  Figure 5a.
+It  can  be  seen  that,  as  soon  as  any  additional lithium is added  to LiGe2(PO4)3, redistribution from the Li(1) to the Li(3) site occurs.
+In this work, we arrive at the same conclusion using neutron diffraction data, which is better suited for the analysis of the Li occupancy in materials.
+The redistribution of lithium from the Li(1) to the Li(3) site is said to reduce the newly created Li–Li repulsions due to the inclusion  of  additional  Li,  which  cannot  be  placed  on  an  Li(1)  site  anymore.
+However,  with  a  reduction of the repulsion, the increasing polyhedral volume remains puzzling.
+In  addition  to  the  occupation  analysis,  bond  valence  mismatch  calculations  were  performed  in  order  to  visualize  the  Li+  conduction  pathways.
+According  to  this  method,  conduction in solids happens along channels on which the difference between bond valence  and  nominal  valence  is  minimized.
+The  resulting  bond  valence  isosurface  for  a  sample  with  nominal  composition  Li1.5Al0.5Ge1.5(PO4)3  is  shown  in  Figure 5b.
+Conduction  occurs  along  zigzag  channels,  which  contain  the  Li(1)  and  Li(2)  sites,  similar  to  the  situation  in ACS Paragon Plus EnvironmentPage 13 of 25ACS Applied Materials & InterfacesLATP.
+The  Li(3)  site  is  located  at  the  bends  of  the  channels,  which  confirms  the  position  found  using  difference  Fourier  maps.
+Pellets of the materials with different compositions were analyzed  by  impedance  spectroscopy  in  order  to  examine  the  ionic  transport  properties.
+Figure 6  shows  representative  impedance  data  for  a  sample  with  nominal  composition Li1.6Al0.6Ge1.4(PO4)3. Apart from the obtained conductivity values, the impedance responses are similar along the series of solid solutions.
+A series of two RQ elements (a resistance R and a  constant  phase  element  Q  in  parallel)  and  a  constant  phase  element  are  used  to  fit  the obtained  spectra  consisting  of  two  semicircles  and  a  tail  at  low  frequencies.
+Because  the  gold  electrodes are unable to deliver lithium a polarization feature is visible at low frequencies.
+Data of the temperature-dependent  impedance  measurements  are  used  to  create  the  Arrhenius  plots  in Figure 6a.
+Here, the reciprocal resistance for the bulk and grain boundary contribution as well as the reciprocal of the sum of those resistances was used instead of the conductivity.
+This is due to the fact that the thickness of the grain boundaries, which is necessary to calculate the  grain  boundary  conductivity,54  is  unknown.
+As seen above, at higher Al3+ contents a solubility limit is reached and  no additional Li+ or Al3+ are incorporated into the structure.
+While the stagnant concentration of  charge  carriers  should  lead  to  a  plateau  of  the  conductivity,  a  decrease  is  observed  for  higher Al3+ contents.
+This decrease in conductivity  stems from the decreased  phase fraction  of LAGP and the formation of non-conducting side phases, as shown in Figure 4a.
+However, the activation energy of the total conductivity decreases for increasing lithium content due to an  increase  in  density  (see  Supporting  Information  Figure  S3),  which  leads  to  a  decreased fraction of grain boundaries that have the higher activation energy in comparison to the bulk contribution.
+At  x  >  0.5,  the  activation  energy  of  the  total  conductivity  remains  constant, possibly because of a compensation effect of increasing density and decreasing LAGP phase Figure 7: Room-temperature conductivity σRT (filled circles) and activation energy EA (open  circles) as a function of nominal Li+/Al3+ content (xnominal) in Li1+xAlxGe2−x(PO4)3. Values for ACS Paragon Plus EnvironmentACS Applied Materials & InterfacesPage 16 of 25bulk  conduction  are  shown  in  green,  the  total  conductivity  and  total  activation  energy  is  displayed  in  violet.
+All  data  points  are  calculated  as  average  values  from  multiple  samples  with  identical  nominal  composition,  and  the  uncertainties  reflect  the  standard  deviation.
+The conductivity increases with increasing Li+ content  until a saturation is reached at xnominal ≈ 0.5. This correlates with the saturation of the actual  Li+  content  (see  Figure 4a).
+At  even  higher  nominal  contents,  the  conductivity  decreases  again  because  of  a  severe  decrease  in  LAGP  phase  fraction  (see  Figure 4a).
+The  total  activation energy decreases with increasing x, because of increasing density and thus reduced  grain boundary resistance.
+In  contrast  to  the  total  conductivity  that  includes  grain  boundary  effects,  the  bulk activation  energy  exhibits a  different  behavior.
+At first, it  decreases,  but only  until  x  =  0.3.  With  further  increasing  lithium  content,  the  EA,Bulk  increases  again.
+These data show that it is  important  to  distinguish  between  bulk  and  grain  boundary  transport  as  both  can  follow completely different trends.
+In  order  to  understand  the  transport properties  reported above,  the  occurring  structural changes  need to  be considered.
+This may be  because of the increasing width of the diffusion pathways for the lithium ions, as well as the increasing  nominal  carrier  concentration  that  leads  to  the  increasing  polyhedral  volumes  in the  first  place.
+The  activation  energy,  however,  also  increases  with  increasing  octahedral  volumes.
+Calculations  for  different  compounds  derived  from  LiTi2(PO4)3  predicted  an  opposing trend: a decrease of activation energy with increasing polyhedron volume is usually  expected.
+Furthermore,  in  contrast  to  previous  reports  for  sodium-based  NASICONs27  as  well as LAGP,21 the activation energy also increases with the area of the triangles the Li+ ions  are moving through (Figure 8c).
+However, the here-observed trend of bulk activation energy versus nominal lithium concentration closely resembles the one reported by Francisco et  al.
+In the work by Francisco et al., the authors suggest that the activation energy is  the sum of the energy difference between the Li(1) and Li(2) site as well as the actual jump barrier height that has to be overcome, with the energy difference  decreasing exponentially with  higher  lithium  content  due  to  redistribution  between  the  two  lithium  sites.
+The increasing  barrier  height  was  attributed  to  an  increase  in  bottleneck  area,  which  itself  was ACS Paragon Plus EnvironmentPage 17 of 25ACS Applied Materials & Interfacesobtained from peak broadening via Raman spectroscopy.
+Unfortunately, it was not possible to differentiate  between  the  influence  of  bottleneck  size  and  lithium  distribution  on  the  peak  width,  which  suggested  a  mixture  of  both  effects.
+In  this  work,  the  bottleneck  area  is  determined by synchrotron as well as neutron diffraction data, both of which are methods that are  able  to  determine  atomic  positions,  and  thus  the  triangle  area,  accurately.
+The  here-presented  data suggest that  the  increase of the  bottleneck area is  not  the  determining factor for  the  activation  energy  in  Li1+xAlxGe2−x(PO4)3.  Instead,  a  higher  activation  energy  is measured  for  samples  with  larger  bottleneck  area  and  changes  in  the  diffusion  mechanism may have to be considered as possible explanation.
+The  conductivity  and  bulk  activation  energy  increases  with  increasing  octahedral  volume,  likely  due  to  the  increasing  Li+  concentration.
+In  contrast to the typical understanding, the activation energy increases with an increasing area  of the bottleneck triangle.
+Indeed, the diffusion mechanism in the material may need to be questioned.
+According to the classical diffusion model, individual ions jump uncorrelated from one site to another.
+In the case of superionic conduction, a concerted ion migration mechanism has  to  be  considered.
+Using  molecular  dynamics  simulations,  the  authors  predicted  that  two  neighboring  lithium  ions  migrate  as  a  pair  in  Li1.3Al0.3Ti1.7(PO4)3.  During  that  process,  a  lithium  ion  from  the  high-energy  Li(2)  site  moves  to  a  Li(1)  site  at  lower  energy.
+This correlated motional process partly eliminates the energy barrier for the uphill migrating ion, resulting in a lower activation energy than that dictated by the crystal structure.
+In particular,  a Li sublattice ordering enables this process,80 thus explaining the Li redistribution shown in  Figure 5a.
+A similar concerted migration process was also reported for LiZr2(PO4)3, lately.
+If  the  aforementioned  model  can  be  transferred  to  our  experimental  data  for  LAGP,  it suggests that for x = 0.3 the optimum sublattice ordering might be achieved, because this is the  composition  with  the  lowest  measured  bulk  activation  energy.
+For  higher  lithium concentrations, the Li(1) site occupancy is lower and that of the Li(3) site higher, and thus the migration  of  the  Li(1)  ion  to  the  Li(3)  site  may  be  more  hindered.
+This  correlates  with  the  hereobserved  occupied  Li(3)  site  as  determined  from  the  neutron  diffraction  data,  which represents a split site around the Li(2) position.
+These structural and transport data show that  80 and LiZr2(PO4)3,81 but  correlated motion may be prevalent not only in Li1.3Al0.3Ti1.7(PO4)3 also in LAGP.
+In order to  corroborate  our findings, extensive ab-initio molecular dynamics simulations need to be performed.
+ACS Paragon Plus EnvironmentPage 19 of 25ACS Applied Materials & Interfaces4. Conclusions In this work, a novel synthesis for Li1+xAlxGe2−x(PO4)3 has been explored and the changing  structure  due  to  Al3+  incorporation,  as  well  as  its  effect  on  the  ionic  transport  has  been  examined.
+Neutron  and  synchrotron  diffraction  data  show  an  increase  in  the  unit  cell dimensions with increasing lithium content up to a solubility limit for aluminum at x = 0.5. Up  to  this  point,  the  additional  lithium  was  found  to  be  incorporated  on  the  36f  site  that becomes increasingly populated during a concurrent depopulation of the 6b site.
+Using  impedance  spectroscopy,  the  structural  data  can  be  linked  to  the  material’s  ionic  conductivity.
+An  increase  in  ionic  conductivity  with  increasing  Li+  content  was  observed  while the total activation energy decreased.
+However, this work shows that it is necessary to distinguish  between  bulk  and  grain  boundary  contributions,  as  these  exhibit  opposite behavior.
+While the activation energy for ion transport across grain boundaries – and with it the total activation energy – decreases for higher lithium contents, the bulk activation barrier increases with increasing x, due to occupancy changes between the two lithium positions.

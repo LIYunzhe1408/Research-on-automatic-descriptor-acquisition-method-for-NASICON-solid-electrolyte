@@ -1,0 +1,108 @@
+In this work, thick films of Perovskite La0.57Li0.33TiO3 (LLTO) and Li-NASICON Li1.3Al0.3Ti1.7(PO4)3 (LATP) Li-conductorshave been prepared by tape casting and their microstructure and homogeneity assessed by SEM and confocal Raman spectroscopy.
+
+Electrical properties of thick films have been investigated by Impedance spectroscopy.
+
+In particular, bulk, grain-boundary andelectrode contributions to conductivity have been differentiated as a function of frequency.
+
+ However, modifications on the grainboundary chemistry affects considerably ion conductivity of films.
+
+The confocal Raman spectroscopy results allowed the observationof the resulting phases particles connectivity in thick films and a better understanding of ionic conductivity results in relation withthe samples heterogeneity.
+
+In LLTO films, the reactivity of the film particles against water leads to formation of hydroxyl groups thatdecreases the Li mobility at the particles surface after sintering.
+
+In LTAP films the formation of a high conducting grain-boundaryphase leads to improve total conductivity values making thick films promising candidates for application in all solid state Li secondarybatteries.
+
+Electronic devices play an increasing role in our daily lives, increasing rapidly the number of wireless devices.
+
+Power and sustainable applications require devices capable to supply high peak currentsand store important amounts of energy.
+
+The most extended devicesthat guarantee high energy storage are batteries.
+
+Although lithium ionbattery technology is now well developed1–3 safety concerns persistdue to potential fire hazards resulting from flammable liquid organicelectrolytes.
+
+ This problem pushes the search for safer electrolytes.
+
+Inthe case of battery, internal shorts can be produced by excessive heat,5resulting in a dangerous thermal runaway of the battery.
+
+ In the caseof high volume batteries for electric vehicles, this thermal runawaycan produce bigger battery fails than produced in portable electronicdevices.
+
+Therefore there is a real need to develop batteries that can overcome the safety drawbacks of Li batteries with liquid electrolyte.
+
+Inthis context the fabrication of an all solid state battery (ASSB) canbe a solution if enough energy and power is preserved.
+
+These ASSBsbeside their use in harsh environments can contribute to the miniaturization and flexibility of autonomous devices, in particular thoseused in medicine (batteries for implants).
+
+In order to fabricate acompetitive Li-ASSBs, new architectures can be envisaged differentfrom those actually based on embedded liquid electrolytes.
+
+For the development of new architectures the preparation of improved lithiumconducting electrolyte films becomes of special importance.
+
+In literature, intrinsic electrical properties of high Li conductivity materials have extensively studied in “bulk” ceramics; however,studies on films are readily scarce.
+
+Thin films are characterized bythickness lower than 4 μm and can be prepared by physical methodslike RF magnetron sputtering (RFMS), pulsed laser deposition (PLD),chemical methods like chemical vapor deposition (CVD) and chemicalsolution deposition (CSD) among others.
+
+Thin films technologyis usually related to the development of integrated micro-batteries.
+
+In order to increase the energy stored, the active mass (electrodes)must be increased, leading to the thick films technology with thicknesses in the range 10–100 μm instead of thin film electrodes, thatprovide high specific energy and power but not high energy and powerin absolute values.
+
+The need of reducing the diffusion path of the ionsand electrons in ASSB and the minimization of the strain effects dueto the insertion de-insertion processes important changes are requiredin battery designs.
+
+Electrolyte supported ASSBs allow specific electrode configurations to balance the electrode mass between the anodeand cathode, minimize the strain effects and maintain the diffusionpath short enough.
+
+The electrolyte supported ASSBs can be seen intwo different configurations with the anode and cathode at differentsides of the electrolyte or disposed at the same side of the electrolyte.
+
+The first configuration imply a self-supported electrolyte thick-filmwith high enough mechanical strength, the second one allowed the useof a supported solid electrolyte on a refractory mechanically resistantsubstrate.
+
+For both architectures the procurement of planar large areaelectrolyte thick films is of main importance in order to build large areaelectrolyte supported ASSBs devices with enough energy and power.
+
+The large area to volume ration of these new ASSBs architectures willallow a better heat dissipation during high power operation.
+
+The well-known methods for preparing thick films are screen printing technology, laser patterning, photosensitive pastes and type casting method.
+
+The production of thick-film solid electrolytes willstrongly reduce the voltage drop in the battery, approaching the conductivity values of embedded liquid electrolytes.
+
+However, the number of papers on the preparation of thick film Li-electrolyte is stillscarce.
+
+17 An advantage of producing substrate supported thick filmselectrolytes, is the possibility of producing large area samples with better scalability of the process in comparison with thick self-supportedelectrolyte films.
+
+A large number of Li-conducting solid electrolytes are known,but much of them display low values of ionic conductivity at roomtemperature (σ ∼ 10−5-10−7 S cm−1), which limits their practicalapplication.
+
+ Among Li conducting solid electrolytes, La0.57Li0.33TiO3(LLTO) perovskites, and Li1.3Al0.3Ti1.7(PO4)3 (LATP) with NASICON structure have received special attention, because its high lithium“bulk” conductivity at room temperature (σ ∼ 10−3 S cm−1).
+
+Recently Li7P3S11 belonging to the Li2S-P2S5 system was an importantbreakthrough for Li-S batteries, reaching the 17 mS cm−1 total Liconductivity value at room temperature.
+
+The aim of this work is the preparation of high Li-conductingthick films of La0.57Li0.33TiO3 and Li1.3Al0.3Ti1.7(PO4)3 (σbulk_RT ∼10−3 S cm−1) solid electrolytes by tape casting on insulator substratesand their characterization.
+
+The materials selection was based on theionic conductivity values, despite these compounds do no presentenough electrochemical stability to give high operation voltage batteries.
+
+Due to the large area to volume ratio, joined to the rather largetemperatures used in the preparation of the thick films, the resultingproducts and microstructures differ from those obtained in the preparation of “bulk” ceramics.
+
+The microstructure and phase homogeneitycharacterization of the prepared powders and thick films has been performed by TEM, SEM, and confocal micro-Raman spectroscopy.
+
+Thelater characterization will provide the spatial distribution of phasesproduced during electrolytes preparation.
+
+The connectivity betweenthe crystalline solid electrolyte particles and the distribution of secondary phases is fundamental to explain ionic conductivity in resultingthick films.
+
+Total and bulk conductivity will be compared with thatreported in ceramics of the same composition.
+
+In this work, La0.57Li0.33TiO3 and Li1.3Al0.3Ti1.7(PO4)3 thick-filmshave been prepared by tape casting from sol-gel produced powders,and their micro-structure and phase homogeneity assessed by SEM.
+
+The use of the Confocal Raman spectroscopy allowed the observationof the microstructure features of thick films (distribution and connectivity of phases).
+
+ This is essential for understanding transport properties of prepared thick films electrolytes.
+
+Electrical properties of thickfilms have been investigated by Impedance spectroscopy using anin-plane electrodes configuration.
+
+In particular, bulk, grain-boundaryand electrode contributions to conductivity have been resolved as afunction of frequency.
+
+In both films, grain-boundary contribution strongly affects the totalion conductivity of films.
+
+In LLTO films, high reactivity of the LLTOparticles against water leads to the formation of hydroxyl groups andcarbonates at the particles surface.
+
+On sintering treatments, Li is notfully reincorporated to the bulk and the grain boundary is much lessconducting, decreasing considerably Li conductivity of films.
+
+In orderto get better LLTO thick film, dry atmosphere should be used duringthick films preparation.
+
+In LATP films prepared at 1000◦C, the formation of NASICONcrystallites with appropriated grain boundaries stoichiometry maintainhigh Li bulk conductivity despite its porosity and secondary phasesdetected.
+
+The fairly high total conductivity of LATP-1000 films makesthem very promising electrolyte candidates for all-solid secondary Libattery applications.
+

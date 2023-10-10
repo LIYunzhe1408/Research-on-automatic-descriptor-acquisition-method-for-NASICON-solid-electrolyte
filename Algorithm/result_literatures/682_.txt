@@ -1,0 +1,10 @@
+NASICON-type NaTi2(PO4)3 material has been extensively studied as a promising anode for sodium-ion batteriesdue to the open 3D framework with the large interstitial spaces, high theoretical capacity and small volumechange during cycling process.
+However, the practical application of NaTi2(PO4)3 is hampered because of its lowelectronic conductivity.
+Herein, a simple approach along with post-annealing has been designed and adopted toprepare the carbon-coated NaTi2(PO4)3 (NaTi2(PO4)3@C) composite.
+The as-prepared anode material is characterizedby XRD, SEM, TEM and Raman spectrum.
+The electrochemical measurements reveal thatNaTi2(PO4)3@C has excellent Na-storage performances including high reversible capacity (112.6 mAh g−1 at0.2 C) and good rate capability (87.1 mAh g−1 at 5 C).
+The superior electrochemical performance can be resultedfrom the synergistic effects of the nanosized NaTi2(PO4)3 particles and conductive carbon layer.
+Herein, uniform composite of NaTi2(PO4)3@C was fabricated byusing a simple approach along with post-annealing technology.
+Thisresearch revealed that the thin carbon coating could enhance thestructural stability and improve the electronic conductivity ofNaTi2(PO4)3. Therefore, the as-prepared NaTi2(PO4)3@C compositeexhibited outstanding electrochemical performances, such as high reversiblecapacity, good rate property and stable cycle life.
+It could deliveran initial discharge capacity of 112.6 mAh g−1 at 0.2 C and a highrate capability of 87.1 mAh g−1 at 5 C with capacity retention of 98.1%after 20 cycles.
+The results indicated that the nanosized NaTi2(PO4)3@Ccomposite would be a promising anode material for high performancesodium-ion batteries.

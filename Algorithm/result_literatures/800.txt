@@ -1,0 +1,13 @@
+We successfully prepared NASICON-type Na3V2(PO4)2F3 (NVPF) and a Na3V2(PO4)2F3 / carbon nanotubes (CNT) composite by spray-drying followed by heat treatment in argon for 2 hours at 600°C.
+The addition of CNT in the spray-drying solution creates a CNT network within the NVPF particles.
+After grinding, the smaller NVPF particles remain linked by CNT.
+Thanks to this conducting network, the composite powder displays competitive electrochemical performance when cycled against lithium in hybrid-ion batteries (2-4.6 V vs.
+Li+/Li) with specific capacities of 125 mAh.g-1 at C/10, 103 mAh.g-1 at 1C and 91 mAh.g-1 at 4C, together with 97.5% capacity retention at 1C over 100 cycles with coulombic efficiency of 99.4%.
+These results demonstrate that sodium vanadium (III) fluorophosphate electrode material can be obtained in a time-efficient way using the easily up-scalable spray-drying method.
+Na3V2(PO4)2F3 and Na3V2(PO4)2F3 /CNT were obtained by spray-drying followed by a 2- hour heat treatment in argon.
+The addition of carbon nanotubes (CNT) in the spray-drying solution created a composite where CNT were dispersed within the irregularly shaped NVPF particles.
+After grinding, the smaller NVPF particles remained linked by CNT.
+Thanks to this conducting network, NVPF/CNT displayed good electrochemical performance at increasing cycling rates in hybrid-ion batteries (2-4.6 V vs.Li+/Li).
+Specific capacities of 125 mAh.g-1 at C/10 and 103 mAh.g-1 at 1C with an average working voltage of 4 V were obtained for NVPF/CNT, which demonstrated 97.5% capacity retention at 1C over 100 cycles with coulombic efficiency of 99.4%.
+These results show that the easily up scalable spray-drying method can be used to prepare competitive NVPF/CNT through a time-efficient route.
+Further improvement might be possible if using a spray-dryer designed to produce smallersized particles, in order to minimize polarization during electrochemical cycling.

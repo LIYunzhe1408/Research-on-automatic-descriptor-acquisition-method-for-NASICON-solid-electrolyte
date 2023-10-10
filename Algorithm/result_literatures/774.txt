@@ -1,0 +1,11 @@
+In this study, Li2O-TiO2-P2O5-x(Fe2O3) (x = 0, 2.5, 5 and 7.5 weight part) glass and glassceramicswere synthesized through conventional melt-quenching method and subsequentlyheat treatment.
+Glass samples were studied by UV-visible spectroscopy and crystallizedsamples were characterized by differential thermal analysis, X-ray diffractometry and fieldemission scanning electron microscopy.
+Besides, electrical properties were examinedaccording to the electrochemical impedance spectroscopy techniques.
+Experimental optical spectra of the Fe2O3-doped glasses revealed strong UV absorption bandin the range of 330-370 nm, which were attributed to the presence of Fe3+ ions.
+The majorcrystalline phase of the fabricated glass-ceramics was LiTi2(PO4)3. However, Li3PO4 was alsoidentified as the minor one.
+Considering the impedance spectroscopy studies, ionicconductivity of Fe2O3 containing glasses was higher than that of the base glass.
+Additionally, the maximum bulk ionic conductivity of 1.38×10-3 S/cm was achieved as well as activationenergy as low as 0.26 eV at room temperature for x=5.The present work was conducted on the structural and ionic conductivity of phosphate-basedglasses and glass-ceramics bearing different amount of Fe2O3. The introduction of Fe2O3 inglasses opens up the structure and forms better glasses in terms of crystallization and ionicconductivity.
+Ultraviolet-visible measurements of the Li2O-TiO2-P2O5-x(Fe2O3) glasses showstrong UV absorption in 330-370 nm, which is attributed to the presence of Fe3+ ions in theglass structure.
+The crystallization temperature of Li2O-TiO2-P2O5-x(Fe2O3) glasses wasdecreased from 636 °C to 606 °C by increase of Fe2O3. The conventional melting andsecondary heat treatment techniques led to formation of dense microstructures of NASICONphase.
+Fe2O3 favored the ionic conductivity of the optimized glass-ceramics by promotingcrystallization behavior as well as partial substitution in the structure of NASICON phase.
+The most bulk and total ionic conductivity of 1.38×10-3 and 3.75×10-7 S/cm, were achieved at25 °C for the glass-ceramic GC5. The activation energy for total ionic conductivity for Fe2O3 -free glass-ceramic was slightly higher than one who contains 5 weight parts Fe2O3, i.e.

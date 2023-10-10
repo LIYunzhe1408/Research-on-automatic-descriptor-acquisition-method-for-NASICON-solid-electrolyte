@@ -1,0 +1,74 @@
+Li1þxMxTi2x(PO4)3 powders with x ¼ 0 and 0.3 and M ¼ Al, Cr and Fe have been sintered by conventionalsintering (CS) and Spark Plasma Sintering (SPS), and the electrical properties have been compared.
+
+Theuse of SPS allows preparing samples with higher density at lower temperature and shorter time than theCS, avoiding segregation of secondary phases and with reduced crystallite size.
+
+The introduction ofaluminum, chromium and iron in the LiTi2(PO4)3 (LTP) clearly enhances ionic conductivity even if thesamples have similar densities.
+
+Despite the different level of density reached with CS and SPS, theactivation energies of dc and grain boundary contributions are very similar and the differences in ionicconductivity are determined by pre-exponential factors.
+
+ The samples produced by SPS showed a welldefined grain boundary meaning a more homogenous electrical contact.
+
+Solid lithium conductors have been attracting a great interestduring the last decades due to their potential applications inlithium batteries, sensors and fuel cells [1e9].
+
+Nasicon-type materials were first discovered as three-dimensional ionic conductorsand since then many studies have focused on the development ofNasicon materials with optimized properties.
+
+LiTi2(PO4)3 (LTP) andits derivatives are among the best candidates [10e19].
+
+As it hasbeen repeatedly described, the electrical properties of LTP arehighly improved by the substitution of Ti4þ with a trivalent metalgiving rise to compounds of formula Li1þxMxTi2x(PO4)3[10,20e22].
+
+There are two reasons for the improvement of the ionicconductivity: the increase in the concentration of carriers (Liþ) andthe enhanced density of the powders.
+
+In a previous work, we havedemonstrated that the concentration of carriers is stronglyaffecting the ionic conductivity in the way that the displacement ofions from the M1 position to the M20, gives rise to a higher disorderof ions within the structure [23].
+
+However, apart from thecomposition, the ionic conductivity of Nasicon materials has also astrong dependence on their density [13,24].
+
+Traditionally, twomethods have been used to increase the density of materials: thecold sintering and the melting of the material with a subsequentquenching.
+
+As it has been proved, none of these methods succeededin the fully densification of LTP phases [25,26].
+
+Nasicon compoundsare well known to be difficult to densify by the traditional techniques (conventional sintering or hot press) [27].
+
+The Spark Plasma Sintering (SPS) is a pressure assisted sinteringmethod consisting in the application of a pulsed DC current alongwith uniaxial pressure.
+
+SPS allows a faster densification than theconventional sintering methods at lower temperature, giving riseto higher density, smaller grain size, clearer grain boundaries aswell as other attractive properties [28].
+
+The critical temperatureabove which the grain growth rate becomes appreciable is largelydetermined by the properties of the powder precursors, e. g.theirparticle size, reactivity, degree of agglomeration, etc., but also bythe applied heating rate and pressure [29].
+
+In order to preparedense samples with a very limited grain growth, it is necessary tomap up the sintering parameters [30].
+
+SPS is nowadays attractingthe attention of many researches with the aim to obtain all-solidstate-batteries [31e34].
+
+However, until now only a few papersreporting the SPS of Nasicon materials have been published [35].
+
+LiTi2(PO4)3 obtained by hydrothermal synthesis was sintered bySPS at 1200 C, but only the 81% of the theoretical density wasachieved [36].
+
+Later on, the SPS of the same compound obtained bysolid state reaction was reported and, on the same sintering conditions, the 95% of the theoretical density was achieved [37].
+
+ Alsubstituted LTP has been sintered by SPS and fully dense materials were obtained [38e40].
+
+Other Nasicon materials, such asLiHf2(PO4)3 and Na1þxZr2SixP3xO12, have been successfully sintered using SPS [41,42].
+
+Nevertheless, to the best of our knowledge,there is no paper reporting the systematically study of M3þsubstituted LTP materials sintered by SPS.
+
+In this work, Spark Plasma Sintering has been used in order toobtain full dense pellets with composition Li1þxMxTi2x(PO4)3.Thesintering parameters were optimized to obtain the highest densityand avoid grain growth.
+
+Four different materials were densified:LiTi2(PO4)3 (LTP), Li1.3Al0.3Ti1.7(PO4)3 (LATP), Li1.3Cr0.3Ti1.7(PO4)3(LCTP) and Li1.3Fe0.3Ti1.7(PO4)3 (LFTP).
+
+With the aim of studying thedifferences in the sintering behaviour of LiTi2(PO4)3 when addingAl, Cr and Fe, the substitution degree in LTP was fixed.
+
+The electricalproperties of the fully dense materials are compared with sampleswith low density produced by conventional sintering that werealready reported by us [23], in order to determine the effect of thedensity on the ionic conductivity of these compounds.
+
+In this work Spark Plasma Sintering was optimized to fabricatefull dense pellets with composition Li1þxMxTi2x(PO4)3, M ¼ Al, Fe,Cr reducing grain growth.
+
+As compared to conventional sintering,samples, prepared at lower temperatures and shorter times,avoiding segregation of secondary phases and with reduced crystallite size, have higher density.
+
+The densification process showssome differences depending on the composition.
+
+ The Fesubstituted sample sinters at lower temperature than the rest.
+
+Onthe other hand, when inserting Al to LTP, a bimodal microstructureis developed by both sintering methods as a consequence ofcompositional heterogeneities in the initial powder.
+
+In spite of the almost perfect densification of the pellets, theactivation energies of dc and grain boundary contributions are verysimilar to the cold sintered samples, with a slight tendency todecrease in SPS samples.
+
+However the values of the dc conductivityincrease with the densification, and the reported values are similarto the best found in literature, showing the SPS as a valuable tool toget fully densified ceramic samples with materials that are difficultto prepare by conventional methods.
+

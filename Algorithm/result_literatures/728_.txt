@@ -1,0 +1,11 @@
+To realize an ideal interface between electrode and electrolyte,a single-phase all-solid-state lithium-ion battery is studied usingLi3V2(PO4)3-based NASICON-type material as the cathode,anode, and electrolyte.
+A dense Li3-xV2-xAlx(PO4)3 pellet with thePt current collectors on both the front and back surfacessuccessfully demonstrates charge-discharge reactions based onthe V3+/V2+ (anode) and V3+/V4+ (cathode) redox systems at373 K.
+Al substitutional doping for V brings the suppression ofthe electronic conductivity and increase in the ionic conductivity.
+As a result, Al-doped material (Li3V1.6Al0.4(PO4)3) exhibites thebest charge-discharge performance in the Li3V2-xAlx(PO4)3system (x=0 - 0.6) because of its high ionic conductivity andlow electronic conductivity.
+The concept of a single-phasebattery with a single material offers a new approach to avoidside reactions during cell fabrication of oxide-based all-solidstatelithium-ion batteries.
+In summury, a single-phase all-solid-state lithium-ion batterywas fabricated with Li3V2-xAlx(PO4)3 used as the anode, cathode,and electrolyte.
+Al-doped Li3V2(PO4)3 (especially, Li3V1.6Al0.4(PO4)3)exhibited much higher electrical conductivity than undoped Li3V2(PO4)3 and underwent charge-discharge reactions based onthe redox reactions of the V3+/V2+ (anode) and V3+/V4+(cathode) pairs at 373 K.
+A Pt/Li3V1.6Al0.4(PO4)3/Pt cell exhibitedbetter charge-discharge performance than a Pt/Li3V2(PO4)3 /Ptcell because of its higher ionic conductivity and lowerelectronic conductivity.
+The concept of a single-phase batterywith a single material offers a new approach to avoid sidereactions during cell fabrication.
+However, the ionic conductivityof the Li3V2(PO4)3-based material is still low at roomtemperature compared with typical oxide-based lithium-ionicconductors.
+The discovery of new materials with 2 kind ofredox pair and high ionic conductivity are expected for allsolid-state single-phase battery with high-rate capability.

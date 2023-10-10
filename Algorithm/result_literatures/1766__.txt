@@ -1,0 +1,33 @@
+Crystallographic structures of two new orthophosphates Ca0.50SbFePO43 and CaSb0.50Fe1.50PO43obtained by conventional solid state reaction techniques at 900 °C, were determined at roomtemperature from X-ray powder diffraction using Rietveld analysis.
+
+Ca2+ andvacancies in Ca0.503a0.503bM1SbFePO43 are ordered within the two positions, 3a and 3b, ofM1 sites.
+Structure refinements show also a quasi-ordered distribution of Sb5+ and Fe3+ ions withinthe Nasicon framework.
+Thus, in Ca0.503a0.503bM1SbFePO43, each Ca3aO6 octahedronshares two faces with two Fe3+O6 octahedra and each vacancy 3bO6 site is located between twoSb5+O6 octahedra.
+In CaM1Sb0.50Fe1.50PO43 compound R3¯c space group, all M1 sites areoccupied by Ca2+ and the Sb5+ and Fe3+ ions are randomly distributed within the Nasiconframework.
+Phosphates within the Nasicon-type family have gainedsome attention in the last decade because of their potentialapplications as a solid electrolyte, electrode material, lowthermal, expansion ceramics, and as storage materials fornuclear waste .
+Particularly, thediscovery of Nasicon materials was an important developmentin the solid electrolytes field as it provided a threedimensionalnetwork that encloses channels where superionicconductivity may occur  octahedra surroundedby six PO4 tetrahedra and of PO4 tetrahedra surroundedby four .
+This framework results in channels where theadequate amount of compensating cations, A, are located.
+
+In the second step of refinement, the Ca atoms wereallowed to occupy the two possible positions of M1 sites 3aand 3b instead of only 3a in the previously refinement.
+Thetotal calcium content was constrained to 0.5.
+ In this refinement0.041 Ca2+ ions are found in 3b position of M1 site.
+The final reliability factors for Ca0.50SbFePO43 obtained inthe last refinement RB=3.4%; RWP=10.5% are slightly betterthan those obtained for only one of the 3a sites occupiedby Ca2+ ions.
+The final reliability factors and atomic parametersfor Ca0.50SbFePO43 are summarized in Table III.
+A comparison of the experimental and calculated XRD profileis shown in Figure 3. 
+The structure of Ca0.50SbFePO43 isrepresented in Figure 4. 
+In order to facilitate the structuredescription, we use in the following Ca3aO6 to define thesite occupied to 96% by Ca2+ and 3bO6 for the site whichcontains 4% of Ca2+ ions.
+The presence of a quasi-orderedvacancy-calcium distribution leads to two inequivalent SbO6and FeO6 octahedra.
+Each Ca3aO6 octahedron shares twofaces with two FeO6 octahedra and each weakly occupied3bO6 site is located between two SbO6 octahedra.
+XRDspectra, realized in the 10–35° 2 range with a constantcounting time of 1 s by step of 0.05°, of five compositions x=0.10, 0.20, 0.25, 0.30, 0.40 of theCa0.50+xSb1−xFe1+xPO43 system are gathered in Figure 5.
+In the XRD diagrams, significant amounts of the competitiveFePO4 phase PDF number 77-94 were observed.
+A carefulanalysis of the XRD patterns shows, as was not expected, thepresence of diffraction peaks corresponding to both end,Ca0.50SbFePO43 and CaSb0.50Fe1.50PO43, type-phases.
+Inorder to clarify this assumption, a structural analysisusing the Rietveld method of the selected compositionx=0.25 was undertaken.
+
+With regard to the respectiveion size and charge of Ti4+, Cr3+, Sb5+, and Fe3−, theexact reason behind the absence of a continuous solid solutionwithin the Ca0.5+xSb1−xFe1+xPO43 system is notclear.
+Comparison between ah and ch hexagonal parameters ofCa0.50SbFePO43 and CaSb0.50Fe1.50PO43 phosphatesshows a decrease of ch from 22.2762 to 21.8712 Å andan increase of ah from 8.2571 to 8.5141 Å with calciumcontents.
+Note that the rule governing the variation of theNasicon-type phosphate parameters has already been reportedCherkaoui et al.
+, 1986.
+Since the ionic radii valuesof Sb5+ and Fe3+ cations are relatively comparable, in ourcase, the evolution of ch parameters results from the Coulombicattraction between Ca2+ in M1 sites and the surroundingoxygens and also from the O2−-O2− repulsions Figure 4occurring when M1 sites are empty.
+The Ca-O interatomic distances, ah andch parameters of CaSb0.50Fe1.50PO43 are given in Figure 7for comparison.
+The linear increase of M13b-O2 distance,versus rA, is accompanied with a regular increase of ch hexagonalparameters Figure 7a.
+Thus, an increaseof the ch parameters is generally accompanied by a decreaseof the ah one.

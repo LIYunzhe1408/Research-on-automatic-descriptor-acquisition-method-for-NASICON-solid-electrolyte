@@ -1,0 +1,11 @@
+The framework is built up from M1O6 (M1 = Cr/Al) octahedra and M2O4 (M2 = Mo/Al) tetrahedra interconnected by corners.
+The three-dimensional framework contains cavities in which sodium cations are located.
+Two validation models (BVS and CHARDI) were used to conﬁrm the proposed structural model.
+The mobility of Na+ ions in the structure has been investigated by theoretical means.
+The search for new and better solid electrolyte materials has grown considerably in recent years because of their amazing properties and their diverse applications in the ﬁeld of solidstate chemistry.
+Indeed, many new molybdate phases with high ionic conductivity have been synthesized and structurally characterized by X-ray diffraction.
+The NASICON family groups together a set of phases of the same structural type with the general formula AM2(XO4)3 (A = alkali, M = Ti, Fe, V, Co, Ni and X = P, As, Mo, W, S; Prabaharan et al., 2004).
+Apart from their a number of NASICON compounds have considerable potential for use in laser engineering, optics and electronics owing to their non-linear optical, electrical, magnetic and luminescent properties.
+It is in this context that we chose to explore A–Cr–Mo–O systems (A ion).
+We present here its crystal structure and its validation by the CHARDI (charge distribution) and BVS (bond-valence-sum) methods.
+The charge compensation is provided by Na+ cations (Fig.1).

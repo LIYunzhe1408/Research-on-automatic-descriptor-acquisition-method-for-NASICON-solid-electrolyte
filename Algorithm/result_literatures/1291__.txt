@@ -1,0 +1,268 @@
+Comprehensive Study of the Inﬂuence of Diﬀerent Aging Scenarios on the Fire Protective Behavior of an Epoxy Based Intumescent Coating M. Jimenez,*,† † Unité des Matériaux et Transformations, équipe Ingénierie des Systèmes Polymères, CNRS-UMR 8207, ENSCL, Université Lille Nord de France, 59652 Villeneuve d’Ascq cedex, France ‡ Service microsonde électronique, ENSCL, Université Lille Nord de France, 59652 Villeneuve d’Ascq cedex, France §Centre commun de mesures RMN, Unité de Catalyse et Chimie du Solide, Université Lille Nord de France, 59562 Villeneuve d’Ascq Cedex, France
+
+Passive ﬁre protection systems are widely used by the oil, gas, and chemical industries to protect steel against ﬁre. However, there are concerns that the performance of these systems in a ﬁre may be deteriorated because of weathering. Diﬀerent weathering causes can modify ﬁre performances of coatings, such as UV exposure, moisture, temperature, and immersion in a corrosive environment such as seawater. In this study, an intumescent ﬁre retardant epoxy based coating containing ammonium polyphosphate (APP), melamine, and titanium dioxide was chosen as a model system. Primed steel plates covered with a 1500 μm thickness coating were exposed to diﬀerent accelerated aging conditions: 80% moisture atmosphere at 70 °C for 2 months and a static immersion bath with and without NaCl (5 g/L) at 20 °C for 1 month. The formulations were then tested under hydrocarbon ﬁre conditions using a small scale furnace test developed in our lab. Immersion in distilled water for 1 month shows a slight decrease of the protective properties: On coating extreme surface, APP turns into polyphosphoric acid, which, combined with the mechanical erosion eﬀect of water, is dissolved/detached in water. The coatings immersed for 1 month in the salted water bath show very poor protection of the steel plate, and no intumescence is observed. Sodium and chloride migrate very rapidly into the matrix. The sodium reacts with the polyphosphates to substitute ammonium species, preventing the release of ammonia during burning and thus the char swelling. As the sodium polyphosphate created is much more soluble than the ammonium polyphosphate, it dissolves rapidly inside the matrix and reduces the quantity of phosphorus. Melamine corrosion is also accelerated by the presence of chlorides. The chemical structure of the char is as a consequence diﬀerent: NASICON (Na− O−P−Ti species) are created during burning, whereas only titanium pyrophosphate is created when the reference coating is burnt.
+
+An intumescent coating is a reactive chemical material, which is used as the main ﬁre protection material for steel structures. When an intumescent coating is exposed to ﬁre and heated beyond a critical temperature, the degradation products of the intumescent coating main components react together and release gases, allowing the coating to swell and to form a lightweight ﬂame-retardant char which protects the steel substrate from the action of the heat ﬂux or the ﬂame.1,2
+
+However, exposure to long-term environmental conditions can cause the intumescent coating to lose some of its reactive materials, thus reducing its eﬀectiveness over time. Because ﬁre safety requirement is throughout the entire life of a building structure, which may last many tens of years, it is important to investigate the long-term protection performance of intumescent coatings under exposure to environmental conditions.1
+
+Degradation occurs as the result of environment-dependent chemical or physical attacks, often caused by a combination of degradation agents, and may involve several chemical and physical mechanisms.3,4 It is generally accepted that the coating eﬃciency is dependent on the barrier properties, the adhesion properties of coating/substrate interface, and the degree of environment aggressiveness.5
+
+Examples in the literature report the inﬂuence of diﬀerent aging conditions on the ﬁre protective behavior of some polymer blends or coatings. For example, Almeras et al.6 simulated accelerated weathering on an intumescent ﬂameretarded ammonium polyphosphate (APP)/polyamide-6 (PA6)/polypropylene (PP) blend under a xenon lamp exposure, with rain and temperature cycling. The chemical modiﬁcations of the blends after aging were investigated by solid state 31P nuclear magnetic resonance (NMR) and scanning electron microscopy (SEM). It was shown that APP is degraded into orthoand pyrophosphate and short chain polyphosphates. These modiﬁcations lead to the loss of the ammonium contents which could explain the decrease of ﬁre performance and mechanical properties.
+
+For applications on buildings made of steel, solar radiation (particularly UV radiation), temperature, water, moisture, and corrosive middles such as seawater are the main factors inducing degradation that can reduce its ﬁre-resistance
+
+Received: August 8, 2012 Revised: November 24, 2012 Accepted: December 19, 2012 Published: December 19, 2012
+
+Figure 1. Small furnace test developed to mimic the UL1709 large scale furnace test.
+
+Figure 2. Comparison between the standard UL1709 curve and the experimental one.
+
+eﬀectiveness. Studies on the ﬁre resistance of passive ﬁre protection coatings after long-term weathering (15 years) have been recently carried out7,8 on diﬀerent commercial intumescent coatings. These ones were then tested in industrial furnaces. The results were discussed in relation to alterations in physical form, corrosion of the substrate, and changes in ﬁre resistance. The results have shown that the bulk intumescent materials are susceptible to weathering and should be protected by an adequate and compatible topcoat system.
+
+In this paper, we chose to investigate a passive ﬁre protective system for steel structures, based on an epoxy resin containing ammonium polyphosphate (APP), melamine, and titanium dioxide (TiO2). With epoxy resins being well-known to resist in humid and corrosive environments,9 it was decided to test the system in three diﬀerent environments: a humid environment (80% humidity) coupled with heating (70 °C) was ﬁrst chosen, then an immersion in a static bath of distilled water, and ﬁnally an immersion in a static bath of salted water at 5 g/L NaCl. In the ﬁrst part of the paper, the diﬀerent coatings (reference and
+
+treated coatings) were tested to ﬁre using a small furnace test mimicking the UL1709 standard curve. As the coatings after aging treatments show lower ﬁre protective eﬃciency than the reference coating, it was decided to investigate the mechanism of action of those aging tests on the coating before ﬁre tests: in the second part of the paper, the reference coating and the treated coatings were thus characterized and compared in terms of morphology and chemistry. In the third part, the residues of each coating after the ﬁre test were also characterized and compared in order to look at the inﬂuence of the aging treatments during burning. Finally, the last part consists of a discussion of all results previously obtained, in order to try to better understand the mechanism of action of the aging conditions on the intumescent coating and to correlate this mechanism with the loss of ﬁre protective eﬃciency.
+
+Figure 3. Time/temperature curve for the coated plate during the furnace test compared to the virgin steel plate.
+
+Chemicals) cured with a polyaminoamide, and ﬁlled with ammonium polyphosphate (APP) Exolit AP422 (soluble −rutile (Sigma fraction in water <0.5 wt %, Clariant), TiO2 Aldrich), and melamine (99% purity, Sigma-Aldrich). The amounts of the diﬀerent ﬁllers inside the coating are kept conﬁdential in the paper. The coating is applied using a bar coater on a primed steel plate (10 × 10 cm2) with a constant thickness of about 1500 μm and dried at room temperature during a minimum of 3 days.
+
+
+Environmental test chamber (MEMMERT) with controlled moisture and temperature. The samples were exposed to a humid (80% moisture) and hot (70 °C) atmosphere for 2 months. Some coating powder was also directly put inside the chamber for further characterization.
+
+Immersion test in distilled water and in NaCl-containing water (5 g/L). The coated samples were immersed in Teﬂon-protected baths containing 2 L of water or saltwater without stirring. The temperature was kept constant at 20 °C and controlled with a K-thermocouple. To obtain powder for the diﬀerent characterizations, coating was also put as a plate in the water, dried at 90 °C for 1 h, and ground in liquid nitrogen in an ultracentrifuge mill to produce a ﬁne powder (<500 μm). Fire Test. The coated samples were submitted to a UL1709like ﬁre curve in a small furnace test (Figure 1), which is characteristic of hydrocarbon ﬁre conditions. We developed in the lab this small scale test10 mimicking the large furnace tests that can be found in diﬀerent industries. The test is presented in Figure 1.
+
+There is a burner of 35 kW fed with propane. The sample is put into the furnace door, with the coated side inside the furnace. An infrared pyrometer the temperature at the backside of the steel plate. The backside of the plate is covered with a black heat resistant coating (Jelt-
+
+Noir mat 700 °C-ITW Spraytec) allowing a constant emissivity (0.92) to be maintained. The experimental UL1709 curve ﬁts quite well the standard curve11 (Figure 2). ■ CHARACTERIZATIONS Gas Phase Analysis (TGA-FTIR). Gases released during the degradation of some samples were analyzed using a thermo gravimetric analysis (TGA Q5000, TA Instrument) connected to a Fourier transformed infrared (FTIR) spectrometer (ThermoScientiﬁc) Nicolet iS10. The IR spectra were recorded between 400 and 4000 cm−1 (spectra recorded every 5 s). For each experiment, samples of 10 mg of material (powder) were positioned in alumina open pans. All the analyses have been carried out in nitrogen ﬂow, Air Liquide grade (100 mL/min). Electron Probe Micro Analysis (EPMA). To analyze the chemical composition of samples (surfaces or cross sections), electron probe microscopy analyses (EPMA) were carried out on a CAMECA SX100. The samples were mainly analyzed in cross sections: they were embedded into an epoxy resin (hereafter called “virgin epoxy resin”), polished (up to 1/4 μm), and carbon coated by means of a Bal-Tec SCD005 sputter coater. Back scattered electron (BSE) images of the cross sections were obtained at 15 kV and 15 nA. On BSE pictures, the darkest parts correspond to the “lightest” elements. Low and high magniﬁcation images were taken in various parts of the samples in order to have a representative picture. P, Na, Cl, and Ti X-ray mappings and proﬁles were carried out at 15 kV and 40 nA.
+
+Scanning Electron Microscopy (SEM). Some samples were observed using a Hitachi S-4700 SEM, at 6 kV and ×300, ×1000, or ×2000 magniﬁcations.
+
+Solid State NMR. 31P solid-state NMR measurements were performed using a Bruker Avance 400 spectrometer with and without 1H dipolar decoupling. Bruker probe heads equipped with a 4 mm MAS (magic angle spinning) assembly were used, and the spinning rate of the rotor was 12.5 kHz.
+
+The experiments were carried out at 162 MHz following these parameters: number of scans of 16, relaxation (recycling) delay of 120 s, pulse length of 2.5 μs, and spinning rate of 12.5 kHz.
+
+H3PO4 in aqueous solution (85%) was used as a reference. X-ray Diﬀraction. The coatings (powder form) and the residual chars were analyzed by X-ray diﬀraction. Measurements were performed on a Bruker AXS D8 Advance diﬀractometer using Cu Kα radiation and a nickel ﬁlter in the range (10 < 2θ < 80). ■ RESULTS AND DISCUSSION Furnace Tests. The aim of the paper is to compare the eﬀects of diﬀerent aging treatments on a coating applied on steel in terms of ﬁre resistance.
+
+The coatings submitted to aging treatments (coating after 2 months of exposure to moisture, coating immersed for 1 month in distilled water at 20 °C, and coating immersed for 1 month in salted water at 20 °C) were ﬁrst of all tested using the small furnace test presented earlier and compared to a virgin steel plate exposed in the same conditions and to the reference coating without any aging treatments. Figure 3 shows the time−temperature curves obtained.
+
+400 °C was chosen as the failure temperature,
+
+i.e., the temperature corresponding to the beginning of loss of the mechanical properties of steel.12 The virgin steel plate reaches this temperature in 250 s, whereas the reference coated steel plate reaches 400 °C in 730 s, which shows a good protective eﬀect. The time−temperature curves of the coated plate exposed to moisture and of the reference coating are similar. Only slight diﬀerences can be observed. The failure temperature is reached after around 730 s in both cases.
+
+A diﬀerence appears between the reference coating curve and the curve of the coating immersed in distilled water. The failure temperature (400 °C) is reached after 600 s for the coating immersed in water against 730 s for the reference coating, which means that part of the eﬃciency of the protective coating is lost.
+
+Looking at the curve of the coating immersed for 1 month in salted water, the failure temperature is reached in that case after only 285 s, compared to 730 s for the reference coating. The ﬁre protective eﬀect of the coating is dramatically decreased when the sample is immersed in the presence of salt.
+
+The digital pictures of the chars of the reference coating and of the coating immersed in distilled and salted water are presented, respectively, in Figures 4, 5, and 6. Since the char of the coating exposed to moisture and heating is similar to the char of the reference coating, it is not shown.
+
+Figure 5. Digital picture of the char of the coating which has been immersed for 1 month in distilled water.
+
+Figure 6. Digital pictures of the char of the coating which has been immersed for 1 month in salted water (5 g/L NaCl).
+
+The char of the reference coating is a compact intumescent char, well adhesive to the steel plate, which turns into white color during furnace burning. It shows an expansion of about 8 times its original thickness (12 mm after the furnace test against 1.5 mm before).
+
+It can be observed that a white char similar to the char of the reference coating char is observed for the coating immersed for 1 month in distilled water (Figure 5); however, the swelling is only about 6 times the initial thickness, whereas it was about 8 times for the reference coating.
+
+The char of the coating immersed for 1 month in salted water is completely diﬀerent from the others: there is still a white hard residue on top of the plate, well adhesive to the plate; however, no more swelling is observed: it seems the intumescence phenomenon does not occur anymore.
+
+An increasing loss in ﬁre resistance eﬃciency is observed when the samples are exposed to severe aging tests: the sample exposed only to a humid atmosphere for 2 months behaves like the reference coating, the sample immersed for 1 month in distilled water shows a slight decrease of eﬃciency, and the sample immersed for 1 month in salted water (5 g/L NaCl) shows a dramatic loss of its protective eﬀect.
+
+To try to understand these diﬀerent behaviors, the coatings were ﬁrst characterized after the aging test and before burning, and compared to the reference coating.
+
+Characterizations of the Coatings before Burning. The samples in powder form were ﬁrst analyzed by SEM. Figure 7 shows SEM pictures of the reference coating, Figure 8
+
+Figure 4. Digital pictures of the intumescent chars obtained after 1200 s of small scale furnace test for the reference coating.
+
+Figure 7. SEM images of the reference coating powder before any treatment at magniﬁcations of ×300 (a) and ×1000 (b).
+
+Figure 8. SEM analysis of coating powder at magniﬁcations of ×300 (a) and ×2000 (b) after exposure to moisture and heat.
+
+the pictures of the coating exposed to moisture and heating, Figure 9 the pictures of the coating immersed in distilled water, and Figure 10 the pictures of the coating immersed in salted water.
+
+Figure 9. SEM images of the powder coating after 1 month of immersion in distilled water.
+
+Figure 10. EPMA images in back scattering electrons of the coating powder after 1 month of immersion in salted water (5 g/L NaCl).
+
+The reference coating is homogeneous, the ﬁllers are well
+
+dispersed into the epoxy matrix, and no pores are observed.
+
+It can be observed in Figure 8 that the coating exposed to moisture and heating is a little bit less homogeneous than the reference coating: APP particles can be distinguished on the surface and some pores are appearing, corresponding to the size of APP particles. However, no eﬀect on ﬁre resistance of the coating is visible (Figure 3): it seems that, after 2 months of exposure to moisture, only microscopic surface modiﬁcations are observed, which does not impact the ﬁre properties of the coating which is thick enough.
+
+The coating immersed in distilled water is less compact than the reference coating; in some places, the APP particles seem to be partly dissolved or “detached” from the epoxy matrix.
+
+Looking at Figure 10, corresponding to the pictures of a coating immersed in salted water, it is obvious that the coating shows high porosity. The pores have the same size and shape as the APP particles, and we thus assume that these particles were
+
+detached from the coating and/or that they were dissolved into the water.
+
+As the coating exposed to moisture and heating shows no diﬀerences in terms of ﬁre resistance and only little diﬀerences in terms of microscopic aspect compared to the reference coating, thus decided to investigate mainly the modiﬁcations on the immersed coatings in the following part of the paper.
+
+SEM analyses of the coating powder give an idea of the aspect of the coatings after immersion. To investigate the dispersion of the ﬁllers inside the epoxy matrix, we then carried out EPMA cross section pictures and X-ray mappings in phosphorus, titanium, sodium, and chloride (nitrogen being more diﬃcult to observe with this technique when other elements are present in important amounts). The mappings are color coded from black to red, with black characterizing the absence of the searched element and red the highest concentration detected.
+
+Figure 11 presents the cross section picture of the reference
+
+Figure 11. Cross section image of the coating (embedded into a virgin epoxy resin for analysis).
+
+seem well dispersed and the coating is homogeneous and compact, which conﬁrms the SEM analysis of the powder. To better investigate the dispersion of the diﬀerent ﬁllers into the epoxy matrix, an X-ray mapping (Figure 12) of phosphorus and titanium was carried out by EPMA.
+
+Results show that phosphorus, i.e., APP, and titanium, i.e.,
+
+TiO2, are homogeneously dispersed into the whole matrix.
+
+Figure 13 presents the picture of the cross section (BSE) of
+
+the coating after 1 month of immersion in distilled water.
+
+Some fractures can be seen in the cross section; they might come from microcracks present in the coating and ampliﬁed by the cutting. Some holes without particles can be observed in the “analyzed coating” section, which have been ﬁlled with the virgin epoxy resin used for the sample preparation. The ﬁllers however seem quite homogeneously dispersed. To better distinguish the APP particles, X-ray mappings of phosphorus and titanium were carried out by EPMA (Figure 14).
+
+they contain no phosphorus and no titanium. As they correspond to the size of the APP particles, it can be assumed that these APP particles have been partly dissolved and then detached from the surface. The SEM image of Figure 9 conﬁrms this hypothesis.
+
+Figure 12. X-ray mappings of phosphorus and titanium of the cross section of the coating.
+
+ﬁre protective eﬀect of the coating. This point will be studied in a further part of the paper from a chemical point of view.
+
+The coating immersed in salted water was then investigated
+
+both in surface and in cross section.
+
+A pellet surface analysis was carried out by EPMA (Figure
+
+Figure 13. Cross section image (back scattering electrons) of the coating after immersion in distilled water.
+
+Moreover, on the sample surface (next to the “virgin epoxy resin” part), less APP particles are visible, as if they have been completely removed on a certain sample thickness (about 100 μm in our case). The lower ﬁre retardant protective eﬀect could be due in that case to a lower proportion of APP in the sample, with the APP being partly dissolved by water and escaping, leading to holes in the coating matrix and thus decreasing the
+
+Figure 15. EPMA surface analysis of a pellet immersed for 1 month in salted water (5 g/L NaCl).
+
+Figure 14. X-ray mappings of phosphorus and titanium of the cross section of the coating immersed in distilled water.
+
+Figure 16. X-ray mappings of Na, Cl, P, and Ti of the pellet surface after 1 month of immersion in salted water (5 g/L NaCl).
+
+Some cracks and pores are visible, and the disappearing of phosphorus from the surface is observed by X-ray mapping of phosphorus (Figure 16) of the pellet surface: only a few zones with a high concentration in phosphorus can be observed.
+
+The X-ray mappings of titanium, chloride, and sodium were
+
+also carried out (Figure 16).
+
+The titanium is still clearly visible, and what is surprising is that the sodium is not dispersed everywhere in the matrix; it is in fact concentrated inside the phosphorus particles, i.e., APP. A hypothesis is that the ammonium ions of the APP might be partly substituted by the Na+ cations, by cationic exchange, as shown in a paper about the eﬀect of sea salts on sediments.13 + might form ion pairs with Cl−, or they can also The free NH4 be released in the water under ammonium or ammonia form. To conﬁrm these hypotheses, an EPMA cross section analysis (Figure 17) was carried out on the coating immersed in the salt water to look at the dispersion of ﬁllers inside the matrix after immersion.
+
+It can be observed that
+
+the analyzed coating is not homogeneous anymore. Two parts are noticeable: one part with big-size particles on the upper side of the picture and the other part containing smaller particles.
+
+This is why X-ray mappings of titanium, phosphorus, sodium, and chloride (Figure 18) were again carried out on a part of this cross section (black rectangle in Figure 17).
+
+the sodium and chloride have penetrated deeply inside the epoxy matrix, with the sodium migrating more rapidly (migration on a thickness of about 800 μm) than the chloride (migration on a thickness of about 500 μm). Cl− ions are however highly concentrated on the extreme surface of the coating, whereas sodium is not present anymore in the extreme surface of the coating. And looking at the phosphorus, only a low amount of phosphorus is detectable on the whole zone where sodium appears. When no sodium is
+
+Figure 17. EPMA picture in back scattering electrons of the cross section of the coating after 1 month of immersion in salted water (5 g/ L NaCl).
+
+visible, the APP particles are retrieved (this is visible on the upper side of the X-ray mapping in phosphorus with red-orange colors). It means that the presence of these ions in water completely modiﬁes the system. Na+ and Cl− ions migrate into the coating, leading to the dissolution/detachment of APP particles and maybe of melamine as well.
+
+To investigate the eﬀect of salt ions on melamine, a sample containing only cured epoxy resin and melamine was put in the immersion bath for 10 days. A cross section was then analyzed by EPMA and X-ray mappings in nitrogen, sodium, and chloride.
+
+On the cross section picture (BSE), melamine particles are clearly visible (see Figure 19). They are quite well dispersed in
+
+
+Figure 18. X-ray mappings of Na, Cl, P, and Ti of the coating cross section after 1 month of immersion in salted water (5 g/L NaCl).
+
+them are ﬁlled in with sodium (in a lower amount). Chlorides, combined with the water erosion mechanical eﬀect, might have a catalyzing eﬀect on the melamine corrosion. The pores left by the disappearing of melamine will then allow the salted water to penetrate deeper into the matrix.
+
+Figure 19. Cross section of an epoxy−melamine mixture after immersion in a salted bath.
+
+the epoxy matrix. On the surface of the coating, some pores can however be observed, ﬁlled in with the virgin epoxy resin used for the preparation of the EPMA samples. These pores were not present on the epoxy resin/melamine mixture without immersion and immersed in distilled water (not shown in the paper), so they might be due to the immersion process in a corrosive environment.
+
+The melamine is clearly visible (“green” parts in the nitrogen X-ray mapping), and it is likely that the pores on the surface correspond to melamine particles which have left the surface. Looking at the chloride and sodium migration into the epoxy matrix, it is possible to see that all the pores are perfectly surrounded with chloride in a high amount and that some of
+
+As observed by EPMA, sodium and chloride penetrate inside the matrix and accelerate the dissolution/detachment of APP and melamine. Concerning the APP, the hypothesis is that the sodium cations replace the ammonium cations of the APP, which means that it should be possible to ﬁnd some sodium polyphosphates remaining in the bulk. Moreover, some of the +Cl− might NH4 then migrate back into water, which could explain the high amount of chloride ions on the sample surface (Figure 18). + are also probably released in water as ammonium Some NH4 +(aq) + H2O = and ammonia following the equation NH4 NH3(aq) + H3O+(aq).
+
+Chemical Analyses before Burning. To try to investigate further the chemistry modiﬁcations of the system, the coatings were analyzed in terms of chemical composition using solid state 31P NMR and DRX.
+
+Solid state 31P NMR analyses were carried out on the diﬀerent samples. The spectra obtained are presented in Figure 21. The two peaks of the reference coating obtained at −21 and −23 ppm are typical of a well crystallized structure with Q2 phosphorus units14 contained in polyphosphate chains.
+
+The spectrum of the coating immersed for 1 month in distilled water is slightly diﬀerent: the two peaks characteristic of Q2 phosphorus units in a well crystallized structure are still visible; however, additional peaks appear between −25 and −27
+
+Figure 20. X-ray mappings in Na, Cl, and N of the cross section of the mixture cured epoxy resin + melamine after immersion in salted water.
+
+Figure 21. 31P solid state NMR of the diﬀerent coatings before burning.
+
+ppm, which are assigned to less crystallized Q2 units of polyphosphoric acid (H+ substituting NH4 +). With this polyphosphoric acid being more soluble in water than ammonium polyphosphates, it can be concluded from this part that some of the APP partially turn into polyphosphoric acid, which is then partially dissolved by the water and, combined with the mechanical erosion eﬀect of water, is detached from the coating matrix extreme surface. Thus, the phosphorus content of the coating decreases, and as a consequence, the ﬁre protective eﬀect decreases as well. The
+
++ amount is also reduced, leading to a lower swelling of the
+
+NH4 intumescent char.
+
+The spectrum of the coating immersed for 1 month in salted water is completely diﬀerent. A peak characteristic of orthophosphates appears at 3 ppm,15 probably corresponding to sodium orthophosphates. Moreover, instead of the two peaks characteristic of the crystalline phase of APP, a large massif of low-resolution peaks is observed between −15 and −30 ppm. This massif is assigned to low crystallized sodium polyphosphates.16
+
+Figure 22. X-ray diﬀractogram of the coating after 1 month of immersion in salted water (5 g/L NaCl).
+
+Figure 23. Comparison of NH3 evolvement during TGA-FTIR analysis; spectra taken both after 41 min of heating.
+
+To conﬁrm this assumption, XRD was carried out on the
+
+sample and the diﬀractogram is presented in Figure 22.
+
+On the diﬀractogram, TiO2 rutile is retrieved, which is correlated with the X-ray mapping of titanium (Figure 18), which shows the constant homogeneous presence of titanium. Two other peaks at 17 and 27° appear, which are assigned to sodium polyphosphate (NaPO3)4. One of our hypotheses is thus conﬁrmed, that the ammonium polyphosphate turns into
+
+sodium polyphosphate. It is also interesting to look at the water solubility of the sodium polyphosphate formed: APP has a solubility in water of 0.5 wt %,17 whereas sodium polyphosphate has a solubility in water of about 14 wt %.18 This diﬀerence of solubility explains the disappearing of phosphorus in the whole zone where sodium migrates. When the ammonium polyphosphate turns into sodium polyphosphate, the sodium polyphosphate is then more easily dissolved than
+
+Figure 24. Solid state 31P NMR spectra of the chars of the reference coating and of the coatings immersed in distilled and salted water.
+
+Figure 25. Diﬀractogram of the char of the coating after the furnace test.
+
+ammonium polyphosphate and then detaches from the matrix surface. The pores created through this loss of particles allow deeper penetration in the matrix of the salted water.
+
+The loss of some NH4
+
++ can also be indicated by TGA-FTIR analyses. Two coatings were tested using this technique: the reference coating and the coating after immersion in salted water. TG curves are not presented here, because our major interest concerns the FTIR spectra (Figure 23) and particularly some of the peaks characteristic of the release of ammonia.
+
+The reference coating presents two well-deﬁned and thin peaks at 930 and 965 cm−1. These peaks correspond to the −NH out-of-plane bending vibrations,19 and thus to the release of ammonia from ammonium polyphosphate during burning.
+
+the broader peak observed for
+
+The coating immersed in salted water also shows two peaks at the same wavenumbers but of lower intensity. Moreover, their proﬁles are diﬀerent; the immersed sample suggests that maybe not only ammonia is these wavenumbers could formed during heating. − vibrations, correspond, according to the literature,20 to ClO4 i.e., to the release of chlorate ions, which could possibly occur as chlorides are trapped inside the matrix (Figure 18). They also could ﬁt with the ClO3 spectrum as well as the spectrum of the mixture (NH4
+
+This means that two phenomena contribute to the absence of the intumescence phenomenon: ﬁrst of all, the ammonium ions of the APP, which are necessary for the release of ammonia
+
+Figure 26. XRD analysis of the char of the coating immersed for 1 month in salted water (5 g/L NaCl).
+
+during heating and thus the swelling of the char, are replaced by the sodium cations and released into the water on diﬀerent +Cl−, NH3). Second, the sodium polyphosphates forms (NH4 formed have high water solubility and are partly dissolved more rapidly in the water. The dissolution process might be catalyzed by the presence of chlorides.21 As a consequence, the phosphorus content is decreased and hence the ﬁre resistant properties of the coating as well.
+
+The chars of the coatings obtained after burning were then analyzed in order to determine if the species formed during burning are the same in all cases, or if the intumescent mechanism is modiﬁed by the immersion processes.
+
+Characterizations after Burning. The diﬀerent chars were analyzed after furnace tests, using 31P solid state NMR. Figure 24 compares the NMR spectra of the reference coating, the coating immersed for 1 month in distilled water, and the coating immersed for 1 month in salted water. As reported in the literature,22−24 the product of degradation of APP (polyphosphoric acid) can easily react during burning with diﬀerent oxides to yield P−O−X species (X = Ti, B, Mg ...). We assumed in this system that the same kind of in situ reaction occurs between the titanium oxide and the polyphosphoric acid created during burning to yield Ti−O−P based structures. To conﬁrm this, the 31P NMR of the reference coating char shows a massif of well-deﬁned peaks between −38 and −53 ppm which can be attributed to a crystallized structure corresponding to titanium pyrophosphate.24 The XRD analysis (Figure 25) conﬁrms the presence of titanium pyrophosphate (TiP2O7).
+
+No remaining titanium dioxide in rutile form is visible, meaning that all of the titanium reacted with phosphorus. Assuming that the chemical environment of most of the P atoms is the same, i.e., P(OP)(OTi)3, the existence of peaks at −38.3, −40.2, −42.7, −44.2, −46.0, −48.7 −49.5, −51.6, and
+
+−52.4 ppm in the 31P NMR spectrum should thus be associated with the presence of several crystallographic sites for P atoms in the unit cell of this compound.25
+
+Looking at the NMR and XRD spectra, it is however not possible to say that all phosphorus has reacted with titanium to yield titanium pyrophosphates: even if no phosphoric acid, which is the ﬁnal product of degradation of APP, is detected at 0 ppm, it is however likely for some amorphous polyphosphoric acid (not visible by XRD as amorphous) to remain in the char. In fact, the NMR peak characteristics of amorphous polyphosphoric acid appear in the same range as the peaks characteristic of titanium pyrophosphate, and they might be as a consequence hindered in the spectrum. Moreover, we know that the % of phosphorus in the coating is in excess compared to the % of titanium.
+
+Looking at the 31P NMR spectrum of the coating immersed in distilled water, the same massif of peaks is observed as in the case of the reference coating, also corresponding to titanium pyrophosphate, which was conﬁrmed by XRD (not shown here). The distilled water as a consequence only slightly modiﬁes the chemistry of the char, and thus the chemistry of the intumescent system. The loss of ﬁre resistance mainly comes from the loss of ammonium polyphosphate of the surface of the samples.
+
+Looking now at the 31P NMR spectrum of the coating immersed in salted water, the char also contains titanium pyrophosphates (TiP2O7), corresponding to the massif of peaks between −40 and −60 ppm. However, an additional peak appears at −28 ppm, well-deﬁned, corresponding to a well crystallized species, which could be an oxide containing P, Ti, and Na. These kinds of oxides are known under the name of NASICON.26 To conﬁrm this hypothesis, a XRD analysis was carried out on the char of the coating immersed in salted water (Figure 26).
+
+Figure 27. Summarizing scheme of the aging of the coating in salted water at diﬀerent aging times.
+
+The diﬀractogram shows the previously observed titanium pyrophosphate (TiP2O7). However, this time, it is also possible to distinguish the characteristic peaks of TiO2 (rutile form) and some peaks characteristic of a NASICON, the sodium titanium phosphate (NaTi2(PO4)3). In the char of the reference coating, the TiO2 is not found, proving that all the Ti has reacted during burning with the phosphorus. However, when the coating is immersed in salted water, we proved earlier that the ammonium polyphosphate turns into sodium polyphosphate and that the amount of phosphorus is highly decreased by the dissolution of these sodium polyphosphates in water. The formation of the NaTi2(PO4)3 can be explained by the reaction between the remaining sodium polyphosphates with the titanium dioxide during burning. The formation of TiP2O7 is explainedexactly like in the char of the reference coatingby the reaction between the remaining ammonium polyphosphates and the TiO2 as well. The presence of TiO2 in the char can be explained by the lower amount of phosphorus remaining in the coating under ammonium and sodium polyphosphate forms: the titanium is now in excess compared to phosphorus, whereas it was the contrary in the reference coating.
+
+General Discussion. The reference intumescent coating in this study is composed of an epoxy resin (carbon source of the intumescent system), ammonium polyphosphate (acid source as it dehydrates into polyphosphoric acid but also swelling agent as it releases ammonia during burning), and TiO2. SEM analyses show a compact structure, and EPMA cross section analysis coupled with X-ray mappings show that the APP and the TiO2 are well dispersed. This coating has a good protective eﬃciency during the small furnace test, leading to a “time of failure” of about 730 s compared to about 250 s for a virgin steel plate. During this study, we observed that the white char producedthus decreasing the char emissivity and increasing the ﬁre resistanceis mainly composed of titanium pyrophosphate, which comes from the stabilizing reaction between the polyphosphoric acid and the titanium dioxide during burning, and probably of amorphous polyphosphoric acid as well, as the phosphorus is in excess compared to titanium.
+
+The aim of this paper was to investigate the eﬀect of diﬀerent aging treatments on the ﬁre resistance eﬃciency of the coating. Three diﬀerent aging treatments were investigated, one consisting of an exposure to humidity and heating, the second to immersion in distilled water, and the last one to immersion in salted water.
+
+The two-month exposure to humidity (80%) and heating (70 °C) shows no inﬂuence on the ﬁre resistance of the coating. The time−temperature proﬁles and the times of failure are similar. The coating powder exposed to moisture/heating is slightly less homogeneous than the reference coating. The APP particles are more visible; however, these microscopic diﬀerences do not seem to play a role on the ﬁre resistance of the coating.
+
+The 1 month immersion in distilled water shows a slight loss of eﬃciency on the ﬁre resistance of the coating (time of failure of 600 s against 730 s for the reference coating). SEM images show that the coating is less compact after immersion and some APP particles seem to begin to be “dissolved” or “detached” from the matrix. When the samples are immersed for 1 month in distilled water, however, the extreme surface of the coating shows a loss in APP particles. This might come from an erosion process due to water (mechanical eﬀect) combined with a chemical reaction between APP and water: hypotheses could be the exchange of some ammonium cations by hydrogen cations, to form some polyphosphoric acid (proven by NMR), and maybe the easier dissolution of this component into water. The lack of ammonium cations as well as the loss of some phosphorus can explain the decrease of swelling observed during burning. Concerning the melamine, no direct observation could be made on the coating by SEM or EPMA because nitrogen is diﬃcult to observe in the presence of phosphorus and titanium. This is why we carried out some immersion tests on a mixture of cured epoxy resin only containing only melamine. EPMA and X-ray mappings observations after 10 days of immersion (not presented in the paper) show no diﬀerence in the melamine presence after immersion, proving that it has not been hydrolyzed by the distilled water. The char analyzed after burning shows the presence of the same components as in the reference coating, i.e., TiP2O7 and probably amorphous polyphosphoric acid as well. It can be concluded from these analyses that the same intumescent mechanism as in the reference coating is occurring. The change in the expansion development and time of failure + cations are comes from the fact that less phosphorus and NH4 present in the ﬁnal formulation.
+
+The coating immersed for 1 month in salted water (5 g/L NaCl added in distilled water at 20 °C) shows a drastic loss of eﬃciency in terms of ﬁre resistance: the time of failure reaches only 285 s against 730 s for the reference coating. The introduction of salt completely modiﬁes the coating composi-
+
+
+tion and morphology, thus inducing a diﬀerent degradation mechanism in ﬁre. SEM and EPMA analyses show that, after this immersion, the coating is full of pores and clearly contains less phosphorus than the reference coating. Sodium and chloride have migrated deeply into the epoxy matrix, and sodium is clearly present at the same places as the remaining phosphorus. The chloride ions have migrated less deep than the sodium ions, maybe as their diﬀusion kinetics is lower than the one of sodium ions and they are more concentrated on the surface sample than the sodium. NMR and XRD analyses show that some ammonium cations are partly replaced by the sodium, yielding to sodium polyphosphates. The eﬀect of salt + are probably water is summarized in Figure 27. The NH4 combined in ion pairs with Cl− and/or released in water as ammonium or ammonia, decreasing the amount of ammonia released during burning, and thus limiting the expansion. Moreover, with the sodium polyphosphate being more soluble in water than the APP, these species are partly dissolved and lead to a lack of phosphorus in the matrix, preventing the ﬁre protective eﬀect of the coating. Melamine is also partly dissolved and detached from the matrix, with the chloride ions accelerating the corrosion process, thus reducing the amount of swelling agent in the formulation. Moreover, it is well-known that to obtain the intumescent phenomenon it is essential the diﬀerent components incorporated show suitable matching thermal behavior. As the sodium polyphosphate might not have the same thermal stability as the APP, the polyphosphoric acid must be created too late to favor char formation.
+
+and melamine) are in a lower thus amount, preventing the protection of the steel plate in the furnace. As a consequence, no swelling is observed. Even if TiP2O7 is still formed during burning, due to the presence of sodium polyphosphates in the matrix, a Ti−P−Na oxide is formed, which is the NaTi2(PO4)3. Due to the high loss of phosphorus, some TiO2 is also retrieved at the end of burning. During burning, a low amount of NH3 is created, and maybe chlorate ions are released, coming from all the chloride ions trapped in the epoxy structure.
+
+This paper has investigated the eﬀects of three diﬀerent aging treatments on the ﬁre resistance of a passive ﬁre protective coating. Exposure to moisture (80% humidity) and heating (70 °C) does not aﬀect the ﬁre resistance properties of the coating. Only slight microscopic eﬀects are observed, which do not aﬀect the macroscopic properties. When the coated steel plates are immersed in distilled water for 1 month, the ﬁre resistance is a little bit decreased, with the failure temperature being reached after 600 s instead of 730 s. SEM analyses showed a slight modiﬁcation of the coating morphology, and cross section X-ray mappings showed that some APP is missing on the extreme surface of the coating, whereas melamine is not modiﬁed. A peak characteristic of polyphosphoric acid appears immersion. With these on the NMR spectrum after components being more soluble in water than APP, the explanation for the loss in phosphorus is that a part of the APP on the sample surface turns into polyphosphoric acid, thus leading to a release of ammonium and the dissolution in water of the polyphosphates mainly due to the mechanical erosion eﬀect of water. However, this phenomenon mainly occurs on the extreme surface, and thus, the ﬁre resistant eﬀect of the
+
+the ﬁre resistant eﬀect
+
+coating is not too much aﬀected. When the steel plates however are immersed in salted water, is drastically lost, with a failure time of about 285 s. The intumescence phenomenon does not occur anymore, even if the ﬁnal residue is still stuck to the steel plate. The SEM and EPMA analyses show that there is a lack of phosphorus after immersion, and that sodium and chloride deeply penetrate the matrix. The sodium is present at the same location as phosphorus, meaning that the sodium has substituted the ammonium, thus reducing the swelling eﬀect of the char. NMR and XRD conﬁrm the formation of sodium polyphosphates, and TGA-FTIR shows that little or no ammonia is created during heating. Chlorate ions are probably released during heating. With sodium polyphosphates being more soluble than APP, leading to a decrease in phosphorus content. Melamine is attacked by chloride ions, which favor its dissolution or detachment from the matrix. The conditions to develop an intumescent system are not present anymore, and obviously no char is formed during burning, only a residue containing mainly TiO2, TiP2O7, and a NASICON (NaTi2(PO4)3). This study points to the risks for steel structures exposed to possible seawater immersion of a complete loss of their properties after a few months if no additional protection is provided to the coating. It is thus necessary to ﬁnd a way to avoid the replacement of the ammonium by sodium cations, both to prevent the release of ammonium and to avoid a too rapid dissolution.

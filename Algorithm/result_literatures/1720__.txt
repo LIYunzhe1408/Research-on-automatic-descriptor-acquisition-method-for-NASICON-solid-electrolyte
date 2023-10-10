@@ -1,0 +1,73 @@
+Titanium-based Nasicon-type compounds with formula Li1+xTi2−xAlx(PO4)3 and LiTi2−xZrx(PO4)3, have been prepared and studied with X-rayDiffraction (XRD), Nuclear Magnetic Resonance (NMR) and Electric Impedance (EI) techniques.
+From the analysis of the 7Li and 31P NMRspectra, cation distribution and Li mobility have been deduced.
+The substitution of Ti4+ by a large Zr4+ cation expands the unit cell but the graininterior conductivity remains near that of the parent LiTi2(PO4)3 compound.
+However, substitution of Ti4+ by a smaller Al3+ cation reduces the unitcell dimensions of the Nasicon framework, but enhances about three orders of magnitude the conductivity.
+In Zr doped samples, the expansion ofthe unit cell destabilizes Li coordination atM1 sites; however, in Al doped samples, the increment of Li amount enhances Li–Li repulsions.
+In bothcases, creation of vacancies at M1 sites increases Li mobility.
+NASICON-type materials with formula LM2(PO4)3, L = Li,Na and M= Ge, Ti, Sn, Hf, Zr, are of increasing interest becauseof their possible application as solid electrolytes in lithium batteries,sensors and others electrochemical devices.
+The idealstructure of these compounds is rhombohedral (space groupR¯3c) but in some of them a low-temperature phase of lower symmetry,has been found.
+ In both phases, the framework is builtup by M2(PO4)3 units in which two MO6 octahedra and threePO4 tetrahedra share oxygen atoms.
+In rhombohedral sodiumphases, Na+ cations are placed at two structural sites: (i)M1 sitessurrounded by six oxygen atoms and located at inversion centers,and (ii)M2 sites, with an irregular ten-fold oxygen co-ordinationand disposed symmetrically around ternary axes.
+Both sites arearranged in an alternating way along the conducting channels.
+In rhombohedral lithium phases, such as LiGe2(PO4)3and LiTi2(PO4)3, the preferential occupancy of M1 sites bylithium has been deduced out from neutron diffraction (ND)experiments.
+ When the size of the tetravalent cation increases(e.g.M= Sn, Hf, Zr), a triclinic phase has been detected.
+In thisphase, Li+ ions are placed at mid-way M1/2 positions betweenM1 and M2 sites in a four-fold oxygen coordination.
+ Intitanium-based NASICON-type materials, the Li+ ion conductivityis greatly enhanced when Ti4+ is partially replaced bytrivalent cations (Al, Ga, Sc, In, Y).
+The maximum conductivity(10−3 −1 cm−1 at 300 K) was achieved at x≈0.3 inthe Li1+xTi2−xAlx(PO4)3 series.
+In samples with x > 0.3, thedecrease on the overall conductivity was attributed to the formationof secondary non-conducting phases.
+In this work, the structure of Li1+xTi2−xAlx(PO4)3(0≤x≤0.7) and LiTi2−x Zrx(PO4)3 (0≤x < 2) series has beenassessed by X-ray diffraction technique.
+Distribution of octahedralcations has been followed by 31P MAS-NMR spectroscopysites and mobility of lithium have been investigated by 7LiMASNMRtechnique.
+Electric impedance technique has been used toanalyze Li conductivity in prepared samples.
+Li1+xTi2−xAlx(PO4)3 and LiTi2−xZrx(PO4)3 series, wereprepared following the method described elsewhere.
+7 X-ray diffraction patterns were recorded at room temperature with CuK radiation (λ = 1.5405981A° ) in a PW-1710 Phillips diffractometer.
+Data were taken in the 10≤2θ ≤70◦ range with 0.02◦per step, counting for 0.5 s at each step.
+Impedance measurements were carried out on cylindricalpellets of 13mm diameter and approximately 1.4mm thick.
+Pellets were first compacted by cold pressing at 3MPa, thensintered at 950–1000 ◦C for 24 h.
+For electric measurements,platinum electrodes were deposited by sputtering on the twofaces of the pellet.
+The impedance measurements performedover the frequency range 10−1 to 1.8×109 Hz at increasingtemperatures (150–500 K) allowed us to separate grain interiorand grain boundary contributions.
+From 10−1 to 106 Hz aSolartron SI 1260 was used; however, for the high frequencyrange (106–1.8×109 Hz) an HP 4291A rf impedance analyzerwas taken.
+In this case, the sample was located at theend of a coaxial line and the impedance was deduced fromthe analysis of the complex reflection factor.
+In both cases,the sample temperature was measured with accuracies betterthan ±1K.
+31P and 7Li MAS-NMR spectra were recorded at roomtemperature in a MSL-400 Bruker spectrometer (9.4 T).
+Thefrequencies used for 31P an 7Li signals were 161.97 and155.50 MHz, respectively.
+Samples were spun at 4 kHz duringsignal recording.
+Spectra were obtained after single pulse irradiationwith a recycling time of 10 s.
+In the temperature range100–450 K, quadrupole interactions deduced from 7Li spectraremains small (CQ < 180 kHz), making the irradiation of the centraland satellite transitions non-selective.
+The number of scanswas in the range of 100–800. 7Li and 31P chemical shift valueswere given relative to 1M LiCl and 85% H3PO4 aqueous solutions.
+The fitting of the NMR spectra was done with the BrukerWINFIT software package.
+This program allows the position,line width and intensity of components to be determined; however,quadrupole CQ and η values have to be deduced with a trialand error procedure.
+XRDpatterns of Li1+xTi2−xAlx(PO4)3 and LiTi2−xZrx(PO4)3samples, recorded at room temperature, display peaks of therhombohedral (R¯3c space group) phase.
+The substitution of Ti (0.60A° )9 by a larger Zr4+ cation (r = 0.72A° ) produces the progressiveenlargement of the rhombohedral unit cell.
+However,the progressive substitution for Ti4+ by Al3+ (0.53A° ) reducesslightly the parameters of the hexagonal unit cell.
+The decreaseobserved on a and c parameters is lower in samples with x > 0.3,suggesting that only part of Alwas incorporated into the Nasiconstructure (Table 1).
+In LiTi2(PO4)3, the 31P MAS-NMR spectrum is formed bya single line at −27.5 ppm.
+In Ti-based series, the substitutionof Ti by Zr or Al produces the broadening and the shift of 31PNMR line towards more positive values, indicating the creationof new P environments.
+In 31P NMR spectra (Fig.1), the shiftproduced by substitution of Ti by Al (or Zr) was assumed tobe additive, allowing the detection of components associatedwith P(OTi)4, P(OTi)3(OM)1, P(OTi)2(OM)2, P(OTi)1(OM)3and P(OM)4 environments (lines labeled 0, 1, 2, 3 and 4).
+Thequantitative analysis of the 31P NMR spectra allowed an estimationof the Al (or Zr) content in NASICON phases.
+From the analysis of 31P MAS-NMR spectra, it has beendeduced that most part of Zr was incorporated in the Nasiconstructure, but that the substitution of Ti by Al at octahedral sitesremains always partial.
+In agreement with unit cell data of theLi1+xTi2−xAlx(PO4)3 series, a significant part of Al must beplaced outside of the Nasicon structure.
+In samples with x > 0.3,a new NMR line was detected at −30 ppm in 31P MAS-NMRspectra (line A of Fig.
+1a), that increases with the Al content,indicating in agreement with XRD data, the formation of theAlPO4 phosphate.
+Moreover, XRD patterns of these samples(not shown) showed the presence of another crystalline phase,identified as Li4P2O7. The formation of this phase producedthe detection of new components at ∼0 ppm in the 7Li MASNMRspectra(not shown) and at−19 ppm in the 31PMAS-NMRspectra (line B of Fig.1a).
+In LiTi2−xZrx(PO4)3 series, the substitution of Ti by Zrexpands the unit cell, increasing triangular windows that relateM1 and M1/2 sites.
+This fact favors lithium mobility, decreasingactivation energy values along the series.
+In parallel withthis observation, the quadrupole CQ constant deduced from 7LiNMR spectra increase from 40 to 120 kHz, indicating that Liions occupy not only M1 sites (CQ = 40 kHz) sites but also M1/2sites (CQ = 180 kHz).
+The increment of lithium mobility favorsfast exchange processes betweenM1 andM1/2 sites, giving intermediateCQ values (Fig.2a).
+In samples with x > 1.5, quadrupoleconstants measured at room temperature are near those measuredin the rhombohedral LiZr2(PO4)3 phase, obtained by heatingthe triclinic phase above the phase transition temperature3(Fig.2b).
+The stabilization of the rhombohedral phase in Zrdoped samples eliminates problems derived from stresses produced at the triclinic–rhombohedral transition and enlarges theelectrochemical window(lower reducibility of Zr).
+In this series,activation energy decreases from 0.45 to 0.3 eV as the Zr contentincreases; but, ionic conductivity does not increase appreciablywith respect to that measured in LiTi2(PO4)3 (Fig.3).
+In Li1+xTi2−xAlx(PO4)3 series, the incorporation of an additionalamount of Li increases Li–Li repulsions and destabilizesthe occupation of M1 sites.
+This makes that Li ions occupybesides M1 sites other more distorted M1/2 sites in conductingpaths.
+According to this study, exchange processes betweenM1 and M1/2 sites explains the small increment detected on thequadrupole constant CQ at increasing temperatures (Table 1).
+As the Li content increases, the ionic conductivity increases toreach a maximum at xAl = 0.2 (σb ≈5×10−3 S cm−1 at 298 K)and then decreases slightly.
+In this series, activation energydecreases from 0.45 to 0.29 eV as the Al content increases.
+In the best ion conductor of the Li1+xTi2−xAlx(PO4)3 series(x = 0.2), a non-Arrhenius behavior was observed on the graininterior dc-conductivity11,12 and the activation energy, Em,decreased from 0.29 eV for low temperatures regime to 0.18 eVfor the high temperature regime (Fig.3).
+The latter value coincideswith microscopic activation energy deduced from NMR data, Em = 0.20 eV.
+This observation was explained by assumingthe presence of correlation effects in the Li motion, thatdisappear as temperature increases11.Cation solution has been analysed in rhombohedralLi1+xTi2−xAlx(PO4)3 and LiTi2−xZrx (PO4)3 series with NMRandXRDtechniques.
+In the first case, the solution rangewas partial(0 < x < 0.7); but in the second case, the solution range wasalmost complete (0 < x < 1.8).
+In the case of LiTi2−xZrx(PO4)3series, the substitution of Ti by Zr enlarges the unit cell andproduces the delocalization of lithium on M1 and M1/2 sites.
+The stabilization of the rhombohedral phase in Zr doped sampleseliminates problems derived from stresses produced atthe triclinic-rhombohedral transition and enlarges the electrochemicalwindow of samples.
+However, conductivity valuesdeduced in this series remains near those measured in the parentLiTi2(PO4)3.Substitution of Ti4+ by Al3+ in Li1+xTi2−xAlx(PO4)3 seriesreduces unit cell dimensions but increases Li conductivity threeorders of magnitude with respect to that of LiTi2(PO4)3 sample.
+For xAl = 0.2, activation energy decreases from 0.29 to 0.18as temperature increases, producing a clear deviation of conductivityfrom the Arrhenius behaviour.
+The improvement ofconductivity has been ascribed to the progressive cancellationof correlation effects, produced by the creation of vacantM1 sitesin the Nasicon structure.
+For x > 0.3 samples, ionic conductivitydecreases as a consequence the formation of secondary AlPO4and Li4P2O7 phases at the surface of Nasicon phase particles.

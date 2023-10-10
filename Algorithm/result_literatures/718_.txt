@@ -1,0 +1,20 @@
+The lithium-sulfur cell is a highly promising novel battery type because of its high theoreticalspecific capacity of 1675 mAh/gS, which is up to seven times higher than the specific energy ofcommonly used lithium-ion batteries.
+However, in cell tests the theoretical values are notreached, caused by the unfavorable behavior of the polysulfides formed during the cathodereaction.
+In contrast to common lithium-ion cells the energy in the Li-S system is generatedby a chemical conversion reaction.
+During the discharge reaction, elemental sulfur is reduced to form polysulfides (Li2Sx).
+Themonosulfide Li2S, whose formation is given in eq.1, is the farthest reduced species.
+During thefollowing charging process the reaction should be completely reversed, forming sulfur byoxidation of the polysulfides.
+However, the good solubility of most of the polysulfide species inthe liquid electrolyte creates several problems.
+During discharge soluble polysulfideintermediates are leached out of the cathode.
+Moreover, they even can migrate to the anodesurface, where further reduction to Li2S2 and Li2S occurs by the contact with the non-noblemetallic lithium.
+Lithium mono- and disulfide are less soluble in organic electrolytes, and thuscan form a passivating layer onto the anode surface that hinders the lithium ion transport andalters the anode surface by chemical reaction.
+Additionally, during charging the migration ofthe dissolved polysulfide ions back to the cathode is incomplete, causing a depletion of activematerial in the cathode and, thus, capacity loss.
+This process of polysulfide species diffusing between the electrodes is called the polysulfide shuttle.
+In this paper we presented a polymer/ceramic composite membrane as novel separator materialfor the lithium-sulfur cell.
+Preparation was done with a simple solution-procedure.
+The combination of a polymer matrix (PVdF-HFP) with intrinsic conductive particles (LATP) resultsin stable, free standing membranes.
+By addition of high amounts of ceramic particles the ionicconductivity of the membrane increases significantly.
+Using the membrane with highest ceramiccontent results in an initial discharge capacity very close to the theoretical value (1614 incomparison to 1675 mAh/gS).
+Also the cycling stability is increased as compared to thecommercial Celgard2325 separator as well as to a pure PVdF-HFP membrane.
+Using the combination of a swellable polymer and intrinsic ionic particles is a promising candidate asstarting point for separator materials in the lithium-sulfur cell.
+This is in particular true for singleuse cells where the capacity of this lithium-sulfur cell is outstandingly high.

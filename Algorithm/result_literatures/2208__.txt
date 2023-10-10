@@ -1,0 +1,32 @@
+  Nevertheless,  the  divalent  ones can  also  occupy  these sites as shown  by  PERRET  et  al. who  (A  =  Mg,  Mn,  Co, Ni,  Zn,  Cd, Pb, Ca, Sr)  series (4).  All  these materials  are isostructural  (5).  Up  to  now  only  the  cell  parameters  of  these materials  have  been  determined.  In  our  labs we  have 
+
+conductivity  properties,  materials  with  alkali  numerous  cations  and  more  particularly  have prepared  the  ATiCr(PO&  to  NaZrr(PO&  undertaken  a general  study of the  Mn-Nasicon  type materials;  therefore  the structure determination  of the  MnTiCr(PO&  phase  was considered.  We  have  recently  reported  the  structure  and  intercalation  properties  of  m.SOTi2(P04)s  phases  (6,i’).  Our  work  has  been  therefore  extended  to  the  study  of  the  LiMn,.sOTiCr(PO&  phase  which  is  expected  to  be  strongly  related  to both  previous  phases. 
+
+Several  years  ago, we  have  shown  that  the  lithium  intercalation 
+
+in  Nasicon-type  materials  can  give  interesting  insight  about  the  available  sites within  the  6amework  (8,9).  Therefore,  in  this  study, we  have  used  simultaneously  the  Rietveld  refinement  of  the X-ray  diffraction  patterns and  lithium  intercalation  in  order  to  have  a general  overview  of the  cationic  site distribution  within  the Nasicon  framework. 
+
+All  syntheses were  carried  out  using  conventional  solid-state  reaction  techniques.  Powder  crystalline  samples  were prepared  from  mixtures  of  (MnCOs,  t&O),  Ti02,  Crz03, NHdH2P04  and  L&CO3  in  stoichiometric  proportions  and  heated  progressively  between  200  and  1OOO’C. The  X-ray  difbaction  data  were  collected  at room  temperature  with  a  Philips  PW  1820  difiactometer  (CuKo).  The  Rietveld  refinement  was  performed  using  the  Fullprof  program  (IO).  Electrochemical  intercalation  was carried  out  in  lithium  cells with  the  following  electrochemical  chain  : 
+
+Cells  were  galvanostatically  discharged  (j  = 40  @/cm’)  at  room  temperature,  thanks  to  a  home  made, cycling  system  managed  by  an  HP  1000  computer.  For  the  OCV  experiments,  the  relaxation  was  interrupted  when  the  slope  of  the  V  =  f(t)  curve was equal  to  1 mV/h. 
+
+crystallise  in  the  rhombohedral  system (S.G.  : R 3 c).  Their  hexagonal  cell  parameters are  : a =  8.489(l)  A, c =  20.955(2)  A and a =  8.511(l)  A, c  =  20.961(2)  A,  respectively.  The  manganese  distribution 
+
+in these materials  has been  studied by  Rietveld  refinement  of  the X-ray  diffraction  patterns. 
+
+In  all  cases we have  assumed that the  trivalent  chromium  and  tetravalent  titanium  ions  were  distributed  within  the  framework  sites,  while  the  manganese  and  lithium  ions  were  in  the  Ml  and  M2  interstitial  sites.  The  Rietveld  refinement  does  not  allow  to  distinguish  between  Ti,  Cr  and  Mn.  Nevertheless,  from  the  cation-anion  distance  found  after the structure determination,  this  hypothesis  can be  validated. 
+
+the  Mn  ions  are  ordered  in  half  of  the  Ml  sites along  the  c-axis  (7).  This  in this  study, the existence of  the ‘R 3 c space group  shows  that  in  the  case of  the  LiM%.sOTiCr(PO&  phase, where  an  order  could  be  expected  from  the  formula, 
+
+ordering  leads to  the R 3  space group.  For  materials  involved  unambiguously  such an order  cannot  exist. 
+
+The  structural  parameters  of  NaZrr(PO&  were  used  as  starting  parameters  for  the  Rietveld  refinement  of  in  the  octahedral  Zr  one. This  hypothesis,  with  empty  M2  intensity  data 
+
+MnTiCr(PG&  with  the  Mn  atom  in  the  Ml  site  and  Ti(Cr)  sites,  was  appropriate  as  shown  by  the  good  agreement  obtained  between  observed  and  calculated  (figure  1). The  reliability 
+
+manganese  distribution  hypothesis  leads to  convenient  reliability  factors, the  second one  leads to  larger  values  of  these factors and  moreover  to  a very  large  value  (9  A2) of the  displacement  parameter  of  manganese in the  M2  site. Therefore,  only  the first  hypothesis  ions  were  introduced  in  the  refinements.  Two  lithium  distributions  must also  was considered.  In  a second step, lithium  be  considered  : half  of  the  lithium  ions  in  the  M2  site.  As  it  could  be  supposed,  both  hypotheses  lead  to  similar  reliability  factors  and  atomic  positions  for  Mn,  Ti,  Cr,  P  and  0.  Nevertheless,  the  larger  value  of  the  lithium  displacement  parameter  in  the  second hypothesis  (11  A’)  vs. that  found  in  the fust  one  (1.3  A*)  seems to  indicate  that the  lithium  ions  are distributed  between  the Ml  and M2  sites. The  reliability  factors obtained  in  this  case were  : R W  =  0.110  and R, =  0.059.  The  fitted  X-ray  diffraction  profile  and  the final  atomic  parameters are  given  in  fieure  2 and  w, 
+
+ions  in  the  Ml  site  and  half  in  the  M2  site  or  all  lithium 
+
+The  localisation  of  Mn*’  cations in  the Ml  sites of  MnTiCr(PO&,  Mn0.50Ti2(P04)3 and  LiMno,S0TiCr(P04);  has  been  proved  corn  X-ray  diffraction  data.  In  LiMnO,SsTiCr(PO&,  the  electrochemical  lithium  intercalation  study  shows  that the 0.50  remaining  Ml  sites are occupied  by  the lithium  ions.  This  study clearly  shows how  the lithium  intercalation  can be used as a complementary  structural  tool  to  characterize  the cation  distribution  in  convenient  skeleton  structures. 
+

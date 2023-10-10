@@ -1,0 +1,129 @@
+The thermal expansion coefficient (CTE) of the Al and Y-substituted NaSICON compositions Nag,yAlyY4Zr--2,SizPQOq12 with 0 < x < 0.3 was obtained by dilatometry and compared to the CTE derived from the lattice parameters using high-temperature X-ray diffraction. 
+The difference in CTE obtained from techniques, the influence of sodium content and central metal cation on CTE, as well as other observations such as phase changes are described and rationalized. 
+Keywords: thermal expansion coefficient; dilatometry; NASICON 1. 
+IntroductionThe increasing interest in solid-state sodium batteries has made deeper understanding of the involved materials a necessary requirement. 
+Due to a wide range of structural stability and excellent electrical performance, NaSICONs have the potential to be used as electrolytes in solid-state batteries [1-5]. 
+However, for successful application in batteries, their mechanical properties and the thermal expansion behavior must also be studied in order to avoid thermal stresses and assure thermally stable cathode-electrolyte contact to avoid micro-cracking at the interface. 
+Thermal expansion is represented by its coefficient (CTE), and it can be obtained using different experimental techniques. 
+High-temperature X-ray diffraction (HT-XRD) is the most reliable technique to measure the CTE at the crystallographic unit cell level where the lattice expansion is determined as a function of temperature. 
+Typically, the lattice of NaSICON expands anisotropically [6-8]. 
+As an example, the NaSICON material Na34Sc-(SiO4)9.4(PO4)2,4 shows nearly no expansion of the a lattice parameter (<0.1%), but a substantial expansion of the c lattice parameter of 2.15% between room temperature and 600  degree C . 
+The resulting CTEs are 1.34 x 1075 K~' and 37.3 x 10~ degree K7 respectively, leading to a mean CTE of 13.3 x 107 K~'. 
+The anisotropy is a crucial material property, as it results in residual stresses during cooling after sintering and thus induces micro-cracks, reduces the electrical conductivity, and increases safety risks . 
+This is particularly true for materials with crystal anisotropy and depends also on the microstructure (e.g., grain orientation). 
+In addition, the formation of micro-cracks also erases the results of CTE measurements by dilatometry. 
+In this case, the dimensional change of samples is measured mechanically using a pressure-sensitive push-rod or optically with a laser system. 
+Since CTE determination from dilatometry uses the macroscopic dimensional change, it therefore also includes changes in microstructure . 
+A careful sample preparation combined with sensitive and well-calibrated measurements may result in accurate CTEs from dilatometry similar to HT-XRD even for polycrystalline materials. 
+For example, the CTE of dense 8 mol % yttria-stabilized zirconia is 10.5 x 1076 K~' and 9.7 x 1076 K-! when measured with dilatometry  and HT-XRD , respectively. 
+In NaSICON materials, often the CTEs from dilatometry are much smaller than the values obtained from HT-XRD, which results from the creation of cracks , particularly during the cooling step after sintering. 
+These cracks become narrower and disappear during dilatometry measurements, because of volume expansion while heating. 
+This often leads to CTE values smaller than the data derived from crystallographic measurements and, even worse, the sometimes negative slope of the dilatometry curves [15-19] triggered an intense research activity and led to the misinterpretation that NaSICON materials might be "zero-expansion" ceramics . 
+As shown in Figure 1, the CTE measurements on Na1;4Zr>Si,P3_,O0;2 only show an acceptable agreement between HT-XRD and dilatometry for x > 1.5 . 
+Typically, a hysteresis in the cooling and heating curves of dilatometry indicates the influence of micro-cracks . 
+Only a careful sample preparation results in a crack-free material to achieve CTE values that are in good agreement with XRD data. 
+CT Elinear, 25-1000  degreec / 10 degree K   7 r -T T T 0.0 0.5 1.0 15 2.0 2.5 3.0 x in Na,,,Zr3S1,P 3,0;,Figure 1. 
+Linear thermal expansion (see Equations -) of NaSICON ceramics measured by dilatometry and HT-XRD during heating . 
+A satisfying agreement of the values is obtained only for x >1.5. 
+Recently, we have reported the crystallographic and electrical properties of the series Nag2¥A1, Y¥Z1>-2,(Si04)-(POq)3 (hereafter: NAYZSiP,) with 0 < x < 0.3 . 
+NAYZSiP, has a monoclinic structure for 0 < x < 0.2, and transforms into a thombohedral R3c phase when x > 0.2. 
+For x < 0.2, the monoclinic to rthombohedral transition occurs at temperatures between 100 and 200  degree C, and their stoichiometries, crystal structure and lattice parameters are given in Table 1 . 
+In this study, we further determined the CTEs by dilatometry and compared them with the CTEs obtained from HT-XRD reported earlier. 
+Batteries 2018, 4, 33 3 of 9Table 1. 
+Composition and crystal structure of NAYZSiP, compounds. 
+Lattice Parameters and Space Groups Material  25 degree C Space Group 700  degree C Space Group NAYZSiPq . 
+a: 15.637, b: 9.045, c: 9.225, 6: 123.64 degree c2/c a =b =9.058, c: 23.173  R5c NAYZSiPogs . 
+a: 15.665 b: 9.058, c: 9.233, B: 123.79 degree c2/c a =b =9.070, c: 23.161 R3c NAYZSiPoq . 
+a: 15.671 b: 9.065, c 9.221, 6: 123.95 degree /c a =b =9.090, c: 23.133 es NAYZSiPoa =b =9.096, c: 22.741() R3c a =b =9.120, c: 23.034 R5e NAYZSiPo3 a=b=9.110(@), c: 22.671 R3c a =b =9.139, c: 23.938 R5e 2. 
+ExperimentalAll specimens were prepared from powder precursors by uniaxial pressing 150 MPa into a rectangular shape (40 x 5 x 3-5 mm) and subsequent sintering at 1000-1250  degree C. 
+The terminal faces were cut and polished to give samples 25 mm in length. 
+The synthesis of the powders and more details on sample preparation and sintering conditions are given elsewhere . 
+Sintered samples with density in the range of 85-93% were used to measure the length changes as a function of temperature to determine the CTE. 
+In a temperature range AT, a sample with a reference length Lo has a length change AL, and its CTE is calculated according to: The dilatometry experiments were carried out with a push-rod dilatometer 402C from Netzsch, Germany, calibrated with a sapphire single crystal. 
+Temperature was calibrated using an interpolation routine with five standard metals after determination of their melting points. 
+Each sample was heated with 180 K/h to 1000  degree C, and then the temperature was kept constant for 0.5 h to control the dimensional stability of the specimens. 
+Finally, the samples were cooled with -180 K/h to 30  degree C. 
+For comparison with HT-XRD results, the crystallographic unit cell parameters (i e , volume, V)can be related to the linear CTE: AL 1 AV_ 1 _ AV_ 2 ATLy 3 AT Vo )Hence, the CTE calculations using Equations  and  assume that the macroscopic body behaves like a single crystal. 
+Results and DiscussionsThe dilatometry measurements of the series NAYZSiP, during heating is shown in Figure 2. 
+The dilatometry curves indicate a small change in slope between 120 and 160  degree C, which corresponds to a monoclinic to thombohedral phase transition . 
+The transition temperature decreases with increasing the substitution content until x =0.2. 
+As shown in Figure 3a, the transition temperatures can be easily obtained from the first derivative of the dilatometry curves, better showing the slope changes. 
+Additional slope changes at higher temperatures are also visible in Figure 2. 
+The straight dashed lines indicate the deviation from a linear thermal expansion and show, on the one hand, that the additional expansion increases with increasing x, and, on the other hand, that the onset temperature of the additional expansion decreases with increasing x. 
+The slope changes at high temperatures are summarized in Figure 3b and consist of two contributions which both tend to decrease in temperature with increasing x. 
+The onset temperatures and maxima of slope changes are listed in Table 2. 
+In addition, in this temperature region, secondary phase formation is observed by HT-XRD measurements. 
+Batteries 2018, 4, 33 4 of 9ALMLy 1 %   0 200 400 600 800 1000 T/CFigure 2. 
+Heating curves of the series NAYZSIP,. 
+Solid lines represent measured data that deviates from linear behavior (dotted line). 
+Therefore this change in slope at high temperatures could be due to secondary phase segregation processes, and, especially for the samples with x > 0.1, the formation of new phases as observed in HT-XRD measurements. 
+It is, therefore, interesting to note that the substituting elements show a low solubility in the NaSICON structure at 1000  degree C and below, whereas they are widely incorporated in the host lattice at sintering temperatures of 1150-1200  degree C. 
+In this period, the samples elongate very systematically with an individual constant rate which is proportional to the substitution level. 
+After 0.5 h, they have accumulated a length increase by (0.126 + 0.008)x (in %). 
+The existence of small amounts of secondary phases (ZrQ; and AIPO4) is the reason why the CTE obtained from dilatometry curves is higher than the values derived from HT-XRD (Table 2) due to the larger thermal expansion of both compounds. 
+The used parameters and resulting CTEs are also listed in Table 3 and show that especially small amounts of AIPO4 may have a significant impact on the thermal expansion of a polycrystalline NaSICON material. 
+Therefore, the small impurities easily explain the larger CTEs obtained from dilatometry although the opposite trend might be expected. 
+Batteries 2018, 4, 33d(AL/L.)/dT / 10%d(AL/Lo)/dT / 103 100200 250Temperature /  degree C 600 650 700 750 800 850 900 950 1000Temperature /  degree C5 of 9Figure 3. 
+The first derivatives of the dilatometry curves during heating for identification of the phase transition (a) And characteristic temperatures related to high-temperature processes (b). 
+Stars andarrows indicate the maximum slope changes and onset of phase segregation processes (new phase formation), respectively. 
+Onset temperatures and maxima of slope changes deduced from Figure 3a,b. 
+The values of the high-temperature processes have an error of about + 20  degree C. 
+In the case of NaSICON materials, often the CTEs obtained from dilatometry are much smaller than the ones from HT-XRD. 
+This is because the particles expand anisotropically, leading to creation of cracks during cooling after sintering originating from large grain sizes . 
+Subsequently, during the dilatometry measurements, these cracks are reversibly filled up by the surrounding expanding material, and consequently, the detected length changes of the sample are smaller than a crack-free material. 
+However, a careful sample preparation can result in similar CTE values obtained from dilatometry and HT-XRD. 
+As shown in this study, the difference is in the range of only 0.5-2.5 x 1075 K~' (Table 2). 
+In Figure 4, the CTEs of the NAYZSiP, system are compared to those of Nas;,ScSizP3-,017 , Na1:¥Z12SizP3-,017 , and Nag:4¥q9.122r1,88SixP3-4012 . 
+            A-B D degree/KJ mol~' Zr-0 766.1 £10.6 AlO 501.9 + 10.6 Y0 714.1 +10.2 Se-0 6714 +1.0 To 14 Rt -goo  degreec 12 10 { J= ./. 
+The CTE data of NAYZSIP, (red squares) in comparison to other NaSICON materials previously reported in the temperature range as indicated in the figure. 
+Black circles represent Na1,4Z12SiyP3-,O;2 , blue diamonds Nag,45c-S5izP3.-40;2 , green stars Na1,+Zr2SizP3-,0;2 , and pink triangles Nas+4¥9, 1221 88SixP'3-¥012 . 
+Filled and empty symbols represent data obtained from HT-XRD and dilatometry, respectively. 
+This is because at higher temperature, sodium ions become highly mobile, induce increased repulsive forces, and therefore increase the vibrational magnitude within the lattice. 
+On the other hand, the substitution with trivalent transition metal cations (e.g., Al+, Sc3+, Y3+) also influences the CTE of the NaSICON material. 
+This is validated by the calculations of the volume of ZrQs  and ScQ4  octahedra, i e , 11.69 A? and 13.49 A degree, respectively. 
+As a consequence of enlarged octahedra with central trivalent cations, the lattice vibrations become more pronounced, especially at elevated temperatures. 
+This explains why the CTE of NAYZSiP, and other NaSICON compounds substituted with trivalent cations are increasing much more in dependence of x than NaSICON materials with tetravalent cations (Figure 4). 
+Rhombohedral NaSICON structure indicating the ZrO4 octahedra, (P/Si)O4 tetrahedra and sodium atoms. 
+The structural data are taken from . 
+The figure shows the hexagonal unit cell of the NaSICON lattice, which exists above 150  degree C in all NAYZSiP, compositions.4. 
+ConclusionsThe coefficients of thermal expansion coefficient (CTE) of the NaSICON series NAYZSiP, were measured by dilatometry. 
+The CTE values were similar to those obtained by HT-XRD. 
+The prerequisite for accurate dilatometry measurements is a careful sample preparation for achieving crack-free specimens. 
+The CTEs of NaSICON materials increase with Na content per formula unit when Zr' is used as transition metal cation in the polyanionic lattice. 
+This is because sodium influences the charge polarization and therefore induces stronger lattice vibrations due to increased repulsive forces within the lattice. 
+In addition, the substitution of trivalent transition metal cations influences the CTE because Batteries 2018, 4, 33 8 of 9they have weaker attractive forces towards oxygen atoms of the octahedra as compared to tetravalent cations, which also leads to higher lattice vibrations. 
+N.: Material synthesis and preparation, conceptual idea of experiments, authoring the manuscript and the corresponding author. 
+ ET.: Supervision of experiments, editing of manuscript and acquiring the research funding. 
+G.: Acquiring the research funding and editing of the manuscript. 
+Acknowledgments: The authors thank the Ministry of Innovation, Science and Research of the State of North Rhine-Westphalia for financial support in terms of the starting funds for Helmholtz Institute Miinster (Az. 
+Conflicts of Interest: The authors declare no conflict of interest.
+123456789
+1. _ Song, S.F; Duong, H.M.; Korsunsky, A.M.; Hu, N.; Lu, L. A Na* Superionic Conductor for Room—TemperatureSodium Batteries. Sci. Rep. 2016, 6, 32330. [CrossRef] [PubMed]
+2. _ Hayashi, A.; Noi, K.; Sakuda, A.; Tatsumisago, M. Superionic glass—ceramic electrolytes for room—temperaturerechargeable sodium batteries. Nat. Commun. 2012, 3, 856—860. [CrossRef] [PubMed]
+3. _ Guin, M.; Tietz, F. Survey of the transport properties of sodium superionic conductor materials for use insodium batteries. J. Power Sources 2015, 273, 1056—1064. [CrossRef]
+4. _ Hueso, K.B.; Armand, M.; Rojo, T. High temperature sodium batteries: Status, challenges and future trends.Energy Environ. Sci. 2013, 6, 734—749. [CrossRef]
+5. _ Ma, Q.; Guin, M.; Nagash, S.; Tsai, C.L.; Tietz, F.; Guillon, 0. Scandium—Substituted NagZr»(Si04)»(PO;)Prepared by a Solution Assisted Solid—State Reaction Method as Sodium—lon. Conductors. Chem. Mater. 2016,28, 4821—4828. [CrossRef]
+6. _ Pet‘kov, V.L; Asabina, E.A.; Shchelokov, L. A. Thermal Expansion of NASICON Materials. Inorg. Mater. 2013,49, 502—506. [CrossRef]
+7. _ Woodcock, D.A.; Lightfoot, P.; Ritter, C. Mechanism of low thermal expansion in the cation—ordered Nasiconstructure. Chem. Commun. 1998, 1, 107—108. [CrossRef]
+8. _ Oota, T.; Yamai, I. Thermal Expansion Behavior of NaZr,(PO4);Type Compounds. J. Am. Ceram. Soc. 1986,69, 1—6. [CrossRef]
+9. _ Kaus, M.; Guin, M.; Yavuz, M.; Knapp, M.; Tietz, F.; Guillon, 0.; Ehrenberg, H.; Indris, S. Fast Na* Ton.Conduction in NASICON—Type Na345c2(Si04)9 4(PO4)2,4 Observed by 23Na NMR Relaxometry. J. Phys.Chem. C 2017, 121, 1449—1454. [CrossRef]
+10. Guin, M. Chemical and Physical Properties of Sodium lonic Conductors for Solid—State Batteries; RheinischWestfilischen Technischen Hochschule (RWTH): Aachen, Germany, 2016.
+11. Srikanth, V.; Subbarao, E.C.; Agrawal, D.K.; Huang, C.—¥.; Roy, R.; Rao, G.V. Thermal Expansion Anisotropyand Acoustic Emission of NaZrzP3012 Family Ceramics. J. Am. Ceram. Soc. 1991, 74, 365—368. [CrossRef]
+12. Maca, K.; Pouchy, V.; Boccaccini, R. Sintering Densification Curve—A Practical Approach for its Constructionfrom Dilatometric Shrinkage Data. Sci. Stmering 2008, 40, 117—122. [CrossRef]
+13. — Shiratori, Y.; Tietz, F.; Buchkremer, H.P.; Stover, D. YSZ—MgO composite electrolyte with adjusted thermalexpansion coefficient to other SOFC components. Solid State Ion. 2003, 164, 27—33. [CrossRef]
+14. — Biswas, M.; Kumbhar, C.S.; Gowtam, D.S. Characterisation of Nanocrystalline Yttria—Stabilized Zirconia:An. In Situ HTXRD Study. ISRN Nanotechnol. 2011, 2011, 305687. [CrossRef]
+15.  Agrawal, D.K.; Roy, R. Composite route to "zero" expansion ceramics. J. Mater. Sci. 1985, 20, 4617—4623.[CrossRef]
+16. Alamo, J.; Roy, R. Ultralow—Expansion Ceramics in the System NazO—Zr0»—P305—SiO». J. Am. Ceram. Soc.1984, 67, c78—c80. [CrossRef]
+17. — Huang, C.—¥.; Agrawal, D.K.; McKinstry, H.A. Thermal expansion behaviour of M‘TijP30;; (M‘ = Li, Na, K,Cs) and M‘ ‘TizP4O;»4 (M"‘ = Mg, Ca, St, Ba) compounds. J. Mater. Sci. 1995, 30, 3509—3514. [CrossRef]
+18. — Lenain, G.E.; McKinstry, H.A.; Limaye, S.Y.; Woodward, A. Low thermal expansion of alkali—zirconiumphosphates. Mater. Res. Bull. 1984, 19, 1451—1456. [CrossRef]
+19. Colomban, P.; Mouchon, E. Phase transition in, thermal history and expansion of NASICON, solid solutionand lithium derivative ceramics and of SiC (mullite) fibers—NASICON composites. Solid State lon. 1994,73, 209—220. [CrossRef]Batteries 2018, 4, 33 9 of 9
+Yousef, S.G. Mikrorissbildung Durch Anisotrope Thermische Ausdehnung: Experiment und NumerischeSimulation, in Material—Und Geowissenschaften. Ph.D. Thesis, Technischen Universitt Darmstadt,Darmstadt, Germany, 2004.
+Nagash, S.; Tietz, F.; Guillon, 0. Synthesis and characterization of equimolar Al/¥—substituted NASICONsolid solution Na1+2x+yAleer2,2XSiyP3,y012. Solid State Ion. 2018, 319, 13—21. [CrossRef]
+Jolley, A.G; Taylor, D.D.; Schreiber, NJ.; Wachsman, E.D. Structural Investigation ofMonoclinic—Rhombohedral Phase Transition in NagZr,SizPO;» and Doped NASICON J. Am. Ceram. Soc.2015, 98, 2902—2907. [CrossRef]
+Patil, R.N.; Subbarao, E.C. Axial thermal expansion of Zr0O; and HfO; in the range room temperature to1400 °C. J. Appl. Crystallogr. 1969, 2, 281—288. [CrossRef]
+Achary, S.N.; Jayakumar, O.D.; Tyagi, A.K.; Kulshresththa, S.K. Preparation, phase transition and thermalexpansion studies on low—cristobalite type Al; .\GayPO4 (x= 0.0, 0.20, 0.50, 0.80 and 1.00). J. Solid State Chem.2003, 176, 37—46. [CrossRef]
+Smirnova, O.A.; Fuentes, R.O.; Figueiredo, F.; Kharton, V.V.; Marques, FM.B. Stability and thermal expansionof Na*—conducting ceramics. J. Electroceram. 2003, 11, 179—189. [CrossRef]
+Luo, YR.; Lide, D.R. Bond. Dissociation Energies, CRC Handbook of Chemistry and Physics, 97th ed.; CRC Press:Boca Raton, FL, USA, 2007.
+Hong, H.Y.P. Crystal structures and crystal chemistry in the system Na1,,Zr»SixP3—,O12. Mater. Res. Bull.1976, 11, 173—182. [CrossRef]
+Guin, M.; Tietz, F; Guillon, 0. New promising NASICON material as solid electrolyte for sodium—ionbatteries: Correlation between composition, crystal structure and ionic conductivity of Nas,,Sc2SixP3—40O12.Solid State Ion. 2016, 293, 18—26. [CrossRef]
+© 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open accessarticle distributed under the terms and conditions of the Creative Commons Attribution(CC BY) license (http:/ /creativecommons.org/licenses /by /4.0/).

@@ -1,0 +1,18 @@
+ The use of good ionic conductors is a key point in various battery technologies such as Li-air Lithium-Sulfur (Li-S) and All-Solid-State batteries.
+The determination of the conduction properties as well as the structure infunction of temperature and their electrochemical stability are paramount.
+At the same time, the manufacturing process of these solid electrolytes must be simplified in order to foster the emergence of these technologies.
+Inthis context, NASICON-type solid electrolytes LiZr2(PO4)3 (LZP) and Li1.2Zr1.9Ca0.1(PO4)3 (LCZP) were synthetizedby a new sol-gel method to simplify the synthesis process compared to the solid-state reaction and to reducethe synthesis temperature from 1200 °C to 1100 °C.
+The influence of Ca-doping on crystal structure and transport properties was studied in function of temperature and for the first time the electrochemical stability determined.
+A method, the Phase Inflection Detection (PID), was developed to better determine the transport properties extracted from Electrochemical Impedance Spectroscopy.
+The ionic conductivity of LCZP is greater than that of LZP by about 2 decades at room temperature due to the stabilization of the high temperature phase at roomtemperature by Ca-doping, an increase in the number of lithium mobile ions and a better compactness comparedwith LZP.
+The impact of sintering temperature and grain boundaries on transport properties is clearly demonstratedand must be taken into account in the future studies of solid electrolytes.
+The LCZP material is not stablebelow 0.6 V vs.Li+/Li.
+It thus presents one of the best electrochemical stabilities, making it a potential candidatefor various battery technologies.
+The room-temperature rhombohedral NASICON-type compoundsLiZr2(PO4)3 and Li1.2Zr1.9Ca0.1(PO4)3 were successfully prepared by asol-gel approach and sintered at 700 °C and 1200 °C by spark plasmasintering.
+The as-prepared α′-LiZr2(PO4)3 material undergoes phasetransition to the α-LiZr2(PO4)3 phase in the temperature range 50–70 °Cand displays a total ionic conductivity of 2.7 × 10−9 S cm−1 at RT.
+The specificionic conductivity (grains) of Li1.2Zr1.9Ca0.1(PO4)3 is superior to that ofLiZr2(PO4)3 (around 2 decades higher) due to the stabilization of high temperature phase at room temperature by the Ca-doping.
+A new method in the impedance data treatment, the Phase Inflection Detection(PID), was employed to separate the ionic conductivities from grain andgrain boundaries.
+Hence, the complementarity of XRD and electrochemicalimpedance spectroscopy (with PID method treatment) wasused to better understand the influence of phase transition and the Cadopingin this type of material on transport properties.
+At the sametime, the impact of sintering temperature and grain boundaries ontransport properties was clearly demonstrated.
+These parameters mustbe taken in account in the future studies of these electrolyte materials,as for membrane in Li-S batteries as example.
+Finally,Li1.2Zr1.9Ca0.1(PO4)3 material is unstable below ~0.6 V vs.Li+/Li.

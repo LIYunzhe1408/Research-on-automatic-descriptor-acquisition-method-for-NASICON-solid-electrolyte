@@ -1,0 +1,11 @@
+Because of its sodium superionic conductor structure, Na3V2(PO4)3 has been recognized as a promisingcandidate cathode material for room-temperature sodium-ion batteries.
+However, Na3V2(PO4)3 suffersfrom a severe capacity loss, especially at a high charge-discharge rate.
+To overcome this limitation, in thiswork Na3V2(PO4)3 was coated with Al2O3 films (NVP@Al) using atomic layer deposition (ALD).
+The electrochemicalperformances of the NVP@Al nanocomposites as cathodes for sodium-ion batteries wereinvestigated NVP@Al nanocomposite exhibited a relatively flat voltage plateau at 3.4 V in a nonaqueoussodium cell.
+When tested as a cathode in a voltage range of 2.5 V–4.0 V, NVP@ Al exhibited initialcharge and discharge capacities of 132 mAh/g and 107 mAh/g, respectively.
+The ALD-coated Na3V2(PO4)3electrodes exhibited significantly increased capacities, because of transformations of the as-depositedAl2O3 into a more Na+-conductive material.
+These preliminary results indicate that NVP@Al is a prospectivecathode material for room-temperature sodium-ion batteries.
+In this work, a surface-modification strategy was used toenhance the cycling stability of the pristine NASICON structure ofan NVP electrode for high-performance SIBs.
+The Na+ storage capabilitiesof these ALD-coated electrodes were tested with chargedischargeexperiments in the potential range from 2.0 V to 4.0 Vat different rates.
+The electrochemical performance of NVP@Alwas significantly improved.
+These results demonstrate that theALD coating of cathodes is a promising approach to fabricatinghigh-performance SIBs for future applications.

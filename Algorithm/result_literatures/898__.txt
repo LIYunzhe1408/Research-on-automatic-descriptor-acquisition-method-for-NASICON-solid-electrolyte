@@ -1,0 +1,71 @@
+Na3V2(PO4)3 (NVP) is regarded as a promising cathode for advanced sodiumion batteries (SIBs) due to its high theoretical capacity and stable sodium(Na) super ion conductor (NASICON) structure.
+
+However, strongly impededby its low electronic conductivity, the general NVP delivers undesirable ratecapacity and fails to meet the demands for quick charge.
+
+Herein, a novel andfacile synthesis of layer-by-layer NVP@reduced graphene oxide (rGO) nanocomposite is presented through modifying the surface charge of NVP gel precursor.
+
+The well-designed layered NVP@rGO with confined NVP nanocrystalin between rGO layers offers high electronic and ionic conductivity as well asstable structure.
+
+ The NVP@rGO nanocomposite with merely ≈3.0 wt% rGOand 0.5 wt% amorphous carbon, yet exhibits extraordinary electrochemicalperformance: a high capacity (118 mA h g−1at 0.5 C attaining the theoreticalvalue), a superior rate capability (73 mA h g−1at 100 C and even up to41 mA h g−1at 200 C), ultralong cyclability (70.0% capacity retention after15 000 cycles at 50 C), and stable cycling performance and excellent ratecapability at both low and high operating temperatures.
+
+The proposed methodand designed layer-by-layer active nanocrystal@rGO strategy provide a newavenue to create nanostructures for advanced energy storage applications.
+
+The development of energy storage systems with green chemistry, high efficiency, long life, high safety, and low cost is one ofthe biggest challenges faced by human society.
+
+Throughoutthe current energy storage technologies, the battery systemsrepresent one of the most promising candidates with highenergy efficiency for large-scale smart grid energy storage systems (ESSs).
+
+However, the limited lithium resource inearth is detrimental to the further application due to the possible increasing costand unstable energy supply.
+
+Therefore, there is an urgent demand for developing alternative energy storage deviceswith low cost while maintaining a comparable performance to LIBs.
+
+Among them,sodium-ion batteries (SIBs) have becomethe worldwide focus owing to abundantresources and low cost.
+
+To develophigh-performance SIBs, it remains challenging to discover/develop suitableelectrode materials (especially cathode)to satisfy the requirement of long-termcycling stability and rate-capability.
+
+Owing to larger radius of Na+ thanthat of Li+ (0.98 vs 0.69 Å), variouscathode materials with large open frameworks, including layered transitionmetal oxides[19–25] and polyanionic compounds,[2,13,18,26–33] have been developed for(1) the improved sodium storage capacity,(2) the facilitated Na+ diffusion in the lattice, and (3) the restricted structure degradation caused by Na+ insertion/extraction.
+
+The NASICON(sodium (Na) super ion conductor) NaxM2(NO4)3 (M = transition metal, N = P5+, Si4+, S6+, and Mo6+) structure with 3D largeopen framework allows for rapid and reversible ion diffusion inthe lattice, which is now developed as electrode with promisingelectrochemical performance.
+
+ Among these, the Na3V2(PO4)3(NVP) becomes a “shining star” with high sodium diffusionability and remarkable high energy density (i.e., 400 Wh kg−1).
+
+However, the high ionic diffusion ability of NVP is accompaniedwith poor electronic conductivity,[35] which results in the low utilization of active materials even at low rates.
+
+In order to obtainremarkable performance of NVP, the hurdles of poor rate capability and cycling stability need to be further addressed.
+
+Recently,carbon-coated active nanocrystals embedded in a porous carbonmatrix, which demonstrated excellent rate performance andcycling stability for Li3V2(PO4)3 cathodes,[36,37] as well as for NVPcathodes.
+
+ In general, the porous carbon content is usuallyhigh, which may lead to the decrease of tap density and entirecell volumetric energy density.
+ Li and co-workers reportedadaptive graphene gel films as a highly compact electrode withcontinuous ion and electron transport network.
+
+Such layer-bylayer structure delivered superior rate performance with highpacking density.
+
+Considering the advantages of graphene forimproving the electrochemical performance and the intrinsicNASICON structure of NVP,[44–48] the construction of layer-bylayer systems composed of graphene and NVP sheets will be anacceptable attempt, which exhibit improved electrochemical performance.
+
+ Relative research has rarely been reported.
+
+Herein, for the first time, we developed a novel, straightforward and self-assembly approach for the fabrication of layer-bylayer structured NVP@reduced graphene oxide (NVP@rGO)nanocomposites based on the interfacial coupling of grapheneoxide nanosheets (GO-NSs) and NVP/acetylacetone (acac) gel.
+
+Through the hydrogen bonds and amphiphilic interactionsbetween the GO-NSs and NVP/acac gel, the NVP/acac gel uniformly and stably disperse in the GO matrix.
+
+After freeze-dryingand annealing, GO is reduced to rGO in the reducing atmosphere to obtain the layer-by-layer structured NVP@rGO composite.
+
+The rGO matrices provide facile and rapid electron transport while the stable NASICON structure of NVP offers superiorion diffusion ability.
+
+The resulted electrochemical performance ofthe NVP@rGO nanocomposite is impressive: a remarkable highrate capacity of 41 mA h g−1(35% of the full capacity) at 200 C(22 A g−1), in which the discharge process can be completed inonly 6.7 s.
+
+A long cycling life with capacity retention of 70% after15 000 cycles demonstrates the stable structure of our designedlayered composites.
+
+Furthermore, our designed NVP@rGO nanocomposite also displays stable cycling performance and excellentrate capability at both low and high operating temperatures.
+
+A novel layer-by-layer NVP@rGO composite is synthesizedthrough modifying the surface charge of NVP gel precursor.
+
+Combining the advantages of NVP and rGO, the novel layerby-layer structure offers high electronic and ionic conductivity,rapid Na+ diffusion, and electron transport pathway, and stablestructure during sodiation/desodiation, leading to the excellentrate capability and ultralong-life cycling stability.
+
+With very lowcarbon content (only ≈3.0 wt% rGO and 0.5 wt% amorphouscarbon), this NVP@rGO cathode displays superior rate capability (91 mA h g−1at 50 C, 73 mA h g−1at 100 C, 41 mA h g−1at 200 C) and ultralong cyclability (63 mA h g−1 at 50 C after15 000 cycles).
+
+Moreover, the NVP@rGO nanocomposite stillshows stable cycling performance and excellent rate capabilityat both low and high operating temperatures.
+
+ Our work demonstrates that the novel layer-by-layer NVP@rGO is a very promising cathode for the high performance SIBs.
+
+We believe thatthis effective strategy can also be extended to other cathode oranode materials for advanced energy storage applications.
+

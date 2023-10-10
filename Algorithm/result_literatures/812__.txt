@@ -1,0 +1,89 @@
+The  fast  Li-ion  conducting  Na+  super  ionic  conductor  (NASICON)  lithium  zirconium phosphate LiZr2(PO4)3 with a rhombohedral phase is only stable above 50°C. It is triclinic at room temperature with σLi≈10−8 S cm−1. Substitution of Zr by Al in LiZr2(PO4)3 stabilizes the high  conducting  rhombohedral  phase  at  room  temperature,  decreases  the  intensity  of impurity phase and increases Li-ion concentration through the addition of additional Li+ ions into  the  unit  cell.  This  gives  a  high  total  Li-ion  conductivity  at  room  temperature.  With different  amounts  of  Al  doped  into  the  Li1+xAlxZr2-x(PO4)3  system,  its  total  Li-ion conductivity  reaches  3.1×10-6  S  cm-1  when  x=  0.275.  This  is  as  high  as  that  of  the rhombohedral high-temperature phase of LiZr2(PO4)3 at about 50°C. 
+
+The  lithium  ion  battery  is  widely  used  in  daily  life  including  mobile  phones,  lap-top computers,  electric  vehicles,  and  many  other  portable  electronic  devices.  
+
+The  lithium  ionic battery  is  a  good  way  to  store  energy  and  serves  as  a  storage  media  for  renewable electricity[1]. The current generation of lithium batteries use organic liquid electrolytes have safety  concerns.  The  next-generation  of  safer  lithium  batteries  are  expected  to  be  all solid-state. As solid state electrolytes replace organic liquids, the new products will be safer, more simple, and more durable[2]. 
+
+A wide variety of inorganic solid electrolytes exhibit high lithium ionic conductivities. 
+
+Of these, sulfides  process a higher ionic conductivity than oxides, but  they are sensitive to moisture and cannot be handled in the open air. [3] Currently, oxides are attractive candidates for  solid-state  electrolytes  in  next-generation  lithium  batteries.  They  have  high  stability  in mechanical, chemical, and electrochemical aspects.   
+
+Many oxide solid electrolytes are currently being studied. The perovskite-type lithium lanthanum  titanate  Li3xLa2/3−xTiO3(LLTO)  is  known  as  a  fast  Li ionic conductor.  The  grain interior  conductivity  of  LLTO  is  as  high  as  1×10-3  S  cm-1  at  room  temperature. 
+
+Here,  its grain-boundary conductivity is relatively low and restricts the total conductivity. Chen et al. modified  the  grain-boundary  of  LLTO  ceramics  and  improved  the  grain-boundary conductivity  and  total  conductivity,  [5,6] but  its  instability  against  Li  metal  remained.  
+
+This may reduce the tetravalent ions and induce high electronic conductivity. 
+
+Similar  problems  have  restricted the  application  of the  NASICON  structure Li1+xAlxTi2-x(PO4)3 (LATP) and some other electrolytes[8]. The garnet-type LLZO is a newly reported  fast  Li-ion  conductor,  which  has  either  tetragonal  or  cubic  crystal  structure.  
+
+The conductivity  of  stabilized  cubic  LLZO  is  as  high  as  3×10-4  S  cm-1  at  25°C[9]  with  high chemical and electrochemical stability via lithium metal[10]. To obtain the highly conductive cubic  phase,  high  temperature  sintering  for  a  long  period  of  time  is  usually  applied  to synthesize this kind of materials[11,12]. 
+
+The  zirconium  phosphate  LiZr2(PO4)3 (LZP)  first  discovered  by  M.A.  Subramanian  is expected to be electrochemically stable with Li metal because Zr4+ is a stable oxidation state in  oxides  containing  isolated  (ZrO6)  octahedral[13].  However,  LZP  is  triclinic  at  room temperature with low lithium conductivity of σLi≈10−8 S cm−1[14,15]. 
+
+The fast Li-ion transport rhombohedral  NASICON  structure,  which  was  first  proposed  as  super  ionic  conductor  by Goodenough and Hong in 1976[16,17], of LZP is only stable above 50°C[18]. Doping, adjusting the  sintering  process  and  several  other  methods  are  regularly  used  to  stabilize  high temperature  phase  [ 19 , 20 ]. 
+
+For  example,  Hui  Xie  et  al.  have  successfully  obtained  the rhombohedral  phase  by  Ca  doping  and  achieved  a  conductivity  higher  than  10−5  S  cm−1  at room temperature. They also pointed out that in NASICON structure lithium ion conductor, the  optimum  lithium  ion  concentration  is  higher  than  that  of  pure  LZP.  Therefore,  through proper doping we could achieve a more suitable lithium ion concentration so as to increase the  ionic  conductivity.  [21]  Among  all  elements,  Al  is  a  promising  candidate.  
+
+Edvardas KAZAKEVIČIUS et al. have double doped Al and Ti in their previous work, but they failed to obtain the rhombohedral phase at room temperature. And even worse, the addition of Ti element  breaks  the  stability  against  Li  metal.[22] No  further  study  of  Al  doping  in  LZP  has been reported to our knowledge. In addition, the preparation process of the LZP electrolyte reported  before  are  complicated  and  time  consuming,  where  long  time  ball  milling  and intricate  sintering  process  are  required.
+
+Simple  synthetic  process  for  rhombohedral NASICON phase LZP electrolytes at room temperature is essential and imperative for easy research and widespread application. 
+
+Here  we  obtain  room  temperature  stabilized  rhombohedral  NASICON  phase  of Li1+xAlxZr2-x(PO4)3 by Al doping through a simple preparation process. Al substitution for Zr in the LZP crystal structure firstly decreases the concentration of impurity phases Li2ZrP2O8 and  increases  the  concentration  of  the  charge  carrier.  
+
+However,  because  the  rhombohedral NASICON structure cannot accommodate too much Al, further increasing Al doping (x ≥ 0.3) finally  decreases  the  total  conductivity  and  even  gives  rise  to  new  low  ionic  conductivity impurity phase AlPO4. 
+
+The highest ionic conductivity of 3.1×10-6 S cm-1 is achieved when x= 0.275. The conductivity is as high as that of the rhombohedral high-temperature phase of LiZr2(PO4)3 at about 50°C. 
+
+The  compounds  of  the  Li1+xAlxZr2-x(PO4)3  system  was  prepared  with  a  conventional solid state reaction with Li2CO3, (NH4)H2PO4, ZrO2, and Al2O3 as the starting materials.  
+
+A  10%  excess  of  Li2CO3  compensated  for  the  loss  of  lithium  during  the  high temperature sintering processes. The starting materials were milled for 12 h in ethyl alcohol and then dried at 100°C for 24 h. The mixture was heated in the Al2O3 crucible at 250°C for 1 h and at 650°C for 3 h to expel gases; it was then calcined at 900°C for 6 h. The obtained LZP powders were then pressed into pellets and sintered at 1200°C for 4 h on a ZrO2 sheet and quenched to room temperature in air. 
+
+X-ray  diffraction  patterns  (XRD,  Rigaku  D/max-2500  diffraction  meter  with  a  Cu  Kα radiation source) were obtained for the phase identification of the sintered ceramic pellets in air  at  room  temperature.  The  scanning  range  was  from  10°  to  60°.  Scanning  election microscopy (SEM, JEOLJSM-7001F) with an EDS attachment (OXFORD X-Max) was used to obtain the surface microstructure of the pellet and the distribution of the Zr and Al. 
+
+To  measure  the  ionic  conductivity,  Au  was  sputtered  onto  both  sides  of  the  pellets  as electrodes. The ionic conductivity was obtained from the impedance plot measured with an impedance analyzer (ZAHNER-elektrik IM6) in the frequency range of 1 Hz to 8 MHz with an  AC  amplitude  of  50  mV.  
+
+The  Li-ion  conduction  activation  energy  (Ea)  was  calculated from  the  Arrhenius  plot  of  the  relationship  between  the  total  ionic  conductivity  and temperature.  The  testing  temperature  was  controlled  by  an  environmental  chamber (Cincinnati Sub-Zero MCB-1.2-AC) from 30°C to 110°C. 
+
+The  XRD  patterns  of  the  compounds  are  shown  in  Fig.  1.  The  XRD  pattern  of  the undoped samples (x = 0) could be assigned as triclinic NASICON phase, which is the stable phase of pure LiZr2(PO4)3 at room temperature. We compare the XRD peaks of the Al doped compounds  with  those  of  pure  rhombohedral  phase  LiZr2(PO4)3  (JCPSD#:01-072-7742) obtained  at  150°C[18].  It  is  clear  that  the  doped  compounds  can  be  indexed  to  the rhombohedral  NASICON  structure,  which  has  six  formula  units  in  the  unit  cell.  
+
+However, the sintering process in this work is much easier than ones used in the former reported solid state  reaction.  [21,23] In  fig.  1  (a)  impurity  peaks  can  be  observed  in  the  undoped  sample, which  corresponds  to  Li2ZrP2O8.  
+
+As  Al  is  doped  into  the  samples,  the  impurity  peaks become much lower, and almost disappear when x > 0.05. However, in fig. 1 (b) when x = 0.275, 0.3 and 0.5, we can find new impurity peaks that can be indexed to AlPO3.   
+
+The  Li2ZrP2O8  impurity  appears  in  the  undoped  sample  because  the  time  of  high temperature sintering is not long enough and we used Al2O3 crucibles not Pt ones. As Al is doped into the sample, the phase purity becomes much better. 
+
+This means that Al doping can stabilize the high ionic conductivity rhombohedral NASICON structure to room temperature and decreases the intensity of the impurity phase Li2ZrP2O8 effectively.   
+
+The NASICON structure LiTi2(PO4)3(LTP) is obtained from LZP by Ti4+ with a radius of  0.068  Å  substituting  Zr4+ with  a  radius  of  0.080  Å.  The  substitution  stabilizes  the  high ionic  conductivity  phase  and  increases  the  bulk  conductivity  of  LTP  to  2×10−3  S  cm−1  at room  temperature. 
+
+However,  because  of  the  high  porosity  and  poor  sinterability  of  the ceramic,  the  boundary  conductivity  is  only  10−6  S  cm−1.  Substituting  Zr4+ for  Al3+  with  a radius  of  0.050  Å  generates  a  similar  influence,  which  stabilizes  the  rhombohedral NASICON  structure  at  room  temperature.  
+
+The  DTA  curve  (not  shown  in  the  paper)  from room  temperature  to  300°C  obtained  in  flowing  air  atmosphere  shows  that  there  is  no detectable endothermic or exothermic peak on both heating and cooling process. It indicates the  obtained  NASICON  phase  is  the  high  temperature  rhombohedral  phase  and  thermally stable to at least 300°C. 
+
+The lattice parameters shown in fig. 2 decrease with increasing x. Since the ionic radius of  Al3+  is  much  smaller  than  that  of  Zr4+  as  anticipated.  While  when  x  >  0.275  the  lattice parameters  almost  stop  decreasing,  we  consider  that  when  too  much  Al  is  doped  into  the lattice, the former rhombohedral NASICON structure may not be able to bear, so the lattice parameters  nearly  hold  steady.  
+
+From  the  XRD  patterns  we  can  also  find  the  new  impurity phase  AlPO4  appeared  when  x  >  0.25.  The  intensity  of  the  impurity  peak  increases  as  Al doping content increases. All these verify the hypothesis we proposed that substituting Zr4+ for Al3+ may generates a similar influence like substituting Zr4+ for Ti4+, which could stable the rhombohedral phase at room temperature and decrease the lattice constant. 
+
+Fig.  3  shows  the  surface  microstructure  of  the  pellet  in  the  Li1+xAlxZr2-x(PO4)3  (x  = 0.275) system. The grains are in good contact with each other. Some pores in the boundary area can be observed because of the high porosity and poor sinterability of ceramic LZP. 
+
+The densities  of  the  ceramics  were  found  to  be  about  85%  of  the  theoretical  density  of  the compounds  as  determined  by  the  Archimedes  method  in  ethanol.  Zr  and  Al  distributed uniformly throughout the observation area. 
+
+The impedance plots of the samples at room temperature are presented in fig. 3 with an equivalent  circuit.  In  the  circuit,  R  and  CPE  stand  for  the  resistance  and  constant  phase element,  respectively.  The  Re  is  added  to  circuit  due  to  the  electronic  resistance  of  the measurement system. Subscripts t refer to total, which means bulk plus grain boundary, and el is the blocking electrode, which corresponds to the long tail at the low frequency end of the  plots.  
+
+The  long  tail  indicates  that  the  material  is  an  ionic  conductor. [26] The  impedance plots is clearly shown in the inset of fig. 4.The total conductivity of the Li1+xAlxZr2-x(PO4)3 (x = 0.275) system calculated from the fitted result is 3.1×10-6 S cm-1. This is similar to that of pure LZP with a rhombohedral NASICON structure at about 50°C. 
+
+The  lithium  ionic  conductivities  with  different  x  values  in  the  Li1+xAlxZr2-x(PO4)3 system  at  room  temperature  (30°C)  are  shown  in  Fig.  5.  The  Li-ion  conductivity  of  the ceramics  increased  with  Al  doping  from  5.80×10-7 S  cm-1  at  x  =  0.05  and  reached  nearly 2×10-6 S  cm-1  when  x  is  between  0.2  and  0.3.  The  highest  Li-ion  conductivity  3.06×10-6 S cm-1  at  x  =  0.275  is  finally  achieved.  
+
+Al  doping  stabilizes  the  high  ionic  conductivity NASICON  structure  phase  and  introduces  additional  Li+  ions  into  the  unit  cell.  This increases the quantity of  mobile ions  [7].  However, further increases in Al doping (x ≥  0.3) decreases the total conductivity because the rhombohedral NASICON structure cannot bear that much Al and still generates low ionic conductivity impurity phase AlPO4. When x = 0.5, (25% of the Zr are replaced by Al), the Li-ion conductivity is only 9.34×10-7 S cm-1. 
+
+The activation energy Ea for the Li-ion conduction of the material can be obtained from the  Arrhenius  plot  of  σ  =  σ0exp(−Ea/kT),  where  σ0 is  the  pre-exponential  factor,  k  is  the Boltzmann constant, and T is the absolute temperature. 
+
+Because  it  is  difficult  to  separate  the  bulk  and  grain  boundary  contributions  at  room temperature  via  impedance  spectra,  we  determined  only  the  total  activation  energy.  The Arrhenius  plot  shown  in  Fig.  6  gives  an  Ea  about  0.48  eV  when  0.2  ≤  x  ≤  0.5  in  the Li1+xAlxZr2-x(PO4)3 system, which is obtained by fitting the Arrhenius plots to the equation:  exp(−Ea/kT). The Ea value of the sample changes little when the x value increases, and stays  near  0.48  eV. 
+
+We  know  that  the  microscopic  activation  energy  of  pure  rhombohedra NASICON structures (above 50°C) is about 0.43 eV[14]. The Li1.2Ca0.1Zr1.9(PO4)3 NASICON structure using Ca doping in LZP has an Ea value of 0.48 eV [21]. Our results also obtain the similar activation energy. 
+
+Although the total ionic conductivity is still not high enough for practical applications, the  electrochemical  properties  may  be  further  improved  by  optimizing  the  doping  element and  content. 
+
+Approaches  include:  (a)  increasing  the  density  of  the  bulk  material  to minimize the grain-boundary resistance by improving the sintering condition, (b) introducing more  Li  into  the  framework  to  increase  the  mobile-ion  concentration,  and  (c)  tuning  the lattice  parameter  to  optimize  the  size  of  the  interstitial  channel  for  Li-ion  conduction  by doping other divalent or trivalent metal ions. 
+
+The introduction of Al into LZP stabilizes the fast Li-ion transport rhombohedral NASICON structure, decreases the intensity of the impurity phases and increases the Li ion concentration. The additional Li+ introduced into the unit cell increases the concentration of the charge carrier, which further increases the total Li ion conductivity to σLi = 3.1×10-6 S cm-1 when x = 0.275 in the Li1+xAlxZr2-x(PO4)3 system. The conductivity is as high as that of the rhombohedral phase of LiZr2(PO4)3 at about 50°C. The octahedral site of Zr4+ is so stable that it is not reduced under any anticipated applications. We believe that LZP is a promising electrolyte for fast Li ion conduction. 

@@ -1,0 +1,60 @@
+NASICON-type Na3V2(PO4)3 is one of the most promising cathode materials for sodium-ion batteries,delivering about two Naþ-ions extraction/insertion from/into the unit structure.
+
+However, the lowelectronic conductivity which leads to bad rate capability and poor cycle performance, limits its practicalapplication for sodium-ion batteries.
+
+To overcome the kinetic problem, we attempt to prepare the carbon-coated Na3V2(PO4)3 nanocrystals further decorated by graphene sheets and doped with Mg2þ ionvia the two steps of sol-gel process and solid-state treatment for the first time.
+
+ Such architecture synergistically combines the advantages of two-dimensional graphene sheets and 0-dimensional Mg2þdoped Na3V2(PO4)3/C nanoparticles.
+
+It greatly increases the electron/Naþ-ion transport kinetics andassures the electrode structure integrity, leading to attractive electrochemical performance.
+
+When usedas sodium-ion batteries cathode, the hybrid composite delivers an initial discharge capacity of115.2 mAh g1 at 0.2 C rate, and retains stable discharge capacities of 113.1, 109.0, 102.4, 94.0 and85.2 mAh g1 at high current rates of 1, 2, 5, 10 and 20 C rate, respectively.
+
+Thus, this nanostructuredesign provides a promising pathway for developing high-performance Na3V2(PO4)3 material for sodium-ion batteries.
+
+Nowadays, as one type of promising device for large-scale energy storage, the rechargeable sodium-ion battery is considered asthe optimal alternative for the traditional lithium-ion battery dueto its lower cost, more uniform distribution, and higher abundanceof sodium resources in the earth's crust [1–4].
+
+Among the compositions of sodium-ion battery, cathode material plays a key rolein determining the electrochemical property of the battery.
+
+Hence,in order to develop superior sodium-ion batteries, one of the mainchallenges should be to enhance the electronic and ionic conductivities of the cathode materials to improve the Na-storageperformances [5].
+
+In recent years, many cathode materials, such as NaxCoO2 [6],NaLi0.2Ni0.2Mn0.6O2 [7], NaMnO2 [8], Na0.95V3O8 [9], Na2FePO4F/C[10], NaFePO4 [11], Na3V2(PO4)3 [12–14], Na0.7Fe0.7Mn0.3O2 [15]and Na3V2(PO4)2F3 [16], have been extensively studied for sodiumion batteries and all of them have exhibited certain reversiblecapacity and cycling stability.
+
+Among the various materials, theNASICON-type Na3V2(PO4)3 has attracted much attention becauseof its high theoretical energy density (400 Wh kg1), good thermal stability and open three-dimensional framework with largeinterstitial channels [17–19].
+
+Nevertheless, the poor intrinsicelectronic conductivity of the pure Na3V2(PO4)3, which resultsfrom the separation of the VO6 octahedra from the PO4 tetrahedrain the rhombohedral structure, limits its practical use [17].
+
+Inprinciple, there are two approaches of increasing the transportkinetics: the first is to vary the composition of the electrode material by doping a slight amount of other alien ions [20–22] inorder to make it sufficiently mixed conducting; the second, whichappears most promising in this case, is to modify the surface ofNa3V2(PO4)3 with carbon [17,23–27] or graphene [28,29], and toprovide an effective conducting network.
+
+For instance, Masquelier's group reported that substitution of aluminum for vanadiumin Na3Al0.5V1.5(PO4)3 significantly increases the theoretical energydensity of the electrode (425 Wh kg1) [30].
+
+prepared acarbon-coated Na3V2(PO4)3 which could deliver a capacity of44 mAh g1 at 200 C, which outshined of commonly used lithiumion batteries cathode including LiCoO2 and LiFePO4 [24].
+
+suggested that graphene supported Na3V2(PO4)3could provide a superior cyclability and 93% capacity retention canbe obtained at a rate of 1 C after 100 cycles [31].
+
+Although the rateperformance and cycling stability have been largely enhanced recently, the achieved electrochemical property of NASICON-typeNa3V2(PO4)3, especially at high rate performance, is by no meanscomparable with high performance lithium-ion batteries cathodematerials.
+
+Obviously, most of the previously reported papers aremerely focused on one of the above approaches, and thus lead to alimited improvement in the battery performance.
+
+Herein, we firstly attempt to synthesize and characterize thecarbon-coated Na3V2(PO4)3 nanocrystals further decorated bygraphene sheets and doped with Mg2þ ion using a sol-gel routeand followed by the solid-state treatment.
+
+For comparison, thesample modified only with graphene as well as the pureNa3V2(PO4)3/C were also prepared by the same process.
+
+Thecharge/discharge capacities and cycling performances of the asprepared electrode materials when used in sodium-ion batteriesare investigated.
+
+As excepted, this hybrid composite exhibits betterbattery performance than other electrodes.
+
+The possible reasonsare studied and discussed in this paper in detail.
+
+In summary, we propose and synthesize the NVP/C nanocrystals further decorated by graphene sheets and doped with Mg2þion using a sol-gel route and followed by the solid-state treatment.
+
+XRD results reveal that the obtained G-NVMgP/C has a high purityNASICON phosphate phase and the graphene sheets as well asMg2þ-ions have no influence on the structure of NVP/C material.
+
+SEM and TEM images show that the NVMgP/C nanoparticles areadhered inside the graphene sheets, forming a three-dimensionalconductive network which can greatly facilitate the transport ofelectron/ion.
+
+ The G-NVMgP/C is able to deliver a reversible capacity of 115.2 mAh g1 (ca.98% of the theoretical capacity) at a lowrate of 0.2 C.
+
+ Furthermore, a good capacity retention of 92.1% canbe maintained after 200 cycles at 5 C.
+
+The remarkable batteryperformance of G-NVMgP/C electrode makes this 3.4 V-class hybrid composite a promising alternative for sodium-ion batteries.
+

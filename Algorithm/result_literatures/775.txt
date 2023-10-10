@@ -1,0 +1,5 @@
+Fe2-xSnx(MoO4)3 samples were successfully synthesized by wet chemical route.
+The analytical results of X-ray diffractions indicated that the additions of tin have not destroyed the lattice structure of Fe2-xSnx(MoO4)3, but increased the units cell volume.
+Fe2-xSnx(MoO4)3 can be exhibited higher discharge /charge capacities and better cycle-stability than the pristine one.
+At room temperature, the initial discharge capacity of Fe1.95Sn0.05(MoO4)3 is 83.12 mAh g-1 at a discharge rate of 0.5 C and remains 78.81 after 50 cycles.
+The improved electrochemical properties can be explaining with the presence of tin in the lattice of Fe2(MoO4)3 by improved the structure stability and electrical conductivity.

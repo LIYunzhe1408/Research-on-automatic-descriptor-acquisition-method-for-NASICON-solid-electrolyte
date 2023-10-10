@@ -1,0 +1,118 @@
+The finding of high sodium ion mobility in the NASICON (Na1+xZr2SixP3-xO12) compounds1,2 (acronym for Na SuperIonic CONductors) attracted much interest due to their potential application as solid electrolytes. Later on, this interest was extended to similar compounds in which Li atoms were substituted for Na and/ or other trior tetravalent cations for Zr. In this family, ionic conductivity depends strongly on the amount of alkali element and the nature of the tri/tetravalent cation.3-14
+
+In general, the NASICON framework is built up by M2(TO4)3 units in which two MO6 octahedra are linked by three TO4 tetrahedra by oxygen sharing. Alkali ions can be placed in two different sites: one, in a distorted octahedral oxygen environment at the intersection of three conduction channels (M1 site) and the other, at each bend of the conduction channels and surrounded by eight oxygens (M2 site). The symmetry of the aristotype of these compounds is hexagonal R3hc,15 although
+
+a lower-symmetry distortion has been found in some of them: Na1+xZr2SixP3-xO12 with x ) 1.6 and x ) 2.0; 2(PO4)3 with MIV) Zr and Sn. The first two LiMIV compounds exhibit in the low-symmetry phase a monoclinic C2/c structure,16 but heating the samples above their corresponding phase transition temperature, the R3hc symmetry is recovered. For the high-symmetry phase of these materials the best ionic conductivity value of the NASICON family (0.1 ¿-1 cm-1 at T ) 300 °C) has been reported. In the second group of samples, ionic conductivity has been studied as a function of temperature, and structural changes involved in the phase transition analyzed.14,17-19
+
+In this work, the structural phase transition of LiHf2(PO4)3 has been analyzed using 31P and 7Li NMR (nuclear magnetic resonance), XRD (X-ray diffraction) and DSC (differential scanning calorimetry) techniques. The lithium mobility has been studied through the temperature dependence of the ionic conductivity and the 7Li spin-spin (T2) and spin-lattice (T1) NMR relaxation times.
+
+The sample was prepared by calcination of a stoichiometric mixture of Li2O, (NH4)2H(PO4)3 and HfO2 at increasing temperatures in the range 850-1600 °C. A more detailed description of the sample preparation is reported elsewhere.20
+
+X-ray powder diffraction patterns were recorded at room temperature and -40 °C by using a PW1050/25 Philips diffractometer. In these experiments, a 1° divergence slit, a diffracted beam curved graphite monochromator (Cu KR ) 1.540 598 1 Å), a 0.07° receiving slit, and a scintillation detector were used. Data were collected in the 2ı range 10-
+
+70° with a step size ranging between 0.02° and 0.04° and a counting time of 0.5 s/step. The low-temperature data were obtained with an Anton Paar HT camera, in which the sample was thinly spread over a platinum strip. The camera was modified so that dry cold nitrogen gas could be directly blown over the edge of the Pt strip. A room-temperature pattern was first taken and, then the temperature was lowered to -40 °C and a new pattern measured. The Pt lines, visible in both patterns, were used to calibrate the low-temperature pattern with respect to the room-temperature one.
+
+A differential scanning calorimeter (Seiko 220CU) was used to determine the enthalpy associated with the structural transformation. The experiments were carried out under N2 flow between -123 and 100 °C with heating and cooling rates of 5 °C/min.
+
+Electrical conductivity measurements were carried out by the complex impedance method in a 1174 Solartron frequency response analyzer. Self-supporting pellets (ca. 6 mm diameter and 1 mm thickness) were prepared by compressing at 2000 kg/cm2 the powder sample. Then, the pellets were sintered at 1050 °C in air. Gold electrodes were deposited on the two faces of the pellets by vacuum evaporation. The frequency range used was 10-1-105 Hz. The measurements were carried out at different temperatures in heating and cooling runs with the pellet under nitrogen flow.
+
+31P and 7Li NMR spectra, recorded in static and MAS conditions, were obtained at different temperatures between 22 and -43 °C by using a B-VT 1000/SU07 unit adapted to an MSL 400 Bruker spectrometer. The frequency used for 31P and 7Li spectra were 161.96 and 155.5 MHz, respectively. Spectra were taken after  240)/2 pulse irradiation. A time interval between successive scans in the range 2-30 s was chosen, depending on the spin-lattice relaxation times of the two nuclei at each temperature. The number of accumulations was in the range 10-200. The 7Li and 31P chemical shifts values are given relative to 1 M LiCl and 85% H3PO4 aqueous solutions, respectively. The fitting of NMR spectra was carried out with the Bruker WINFIT program,21 which computes the intensities of the sidebands by the Herzfeld and Berger method.22 With this program, the position, line width, and intensity of the components are determined with a standard nonlinear least-squares method. However, the anisotropies and asymmetry parameters, which characterize nuclear interactions, have to be determined by a trial and error procedure.
+
+The temperature dependence of the 7Li spin-lattice (T1) and spin-spin (T2) relaxation times of static sample was obtained with a SXP 4/100 Bruker spectrometer. The frequency used was 31.01 MHz . The experiments were carried out between -170 and 230 °C. T1 values at each temperature were determined by using the classical  240)244)240)/2 sequence.23 To that end, the recovery of experimental magnetization was fitted to the exponential function
+
+where the spin-lattice relaxation time (T1), the thermal equilibrium magnetization (M0), and the time t0 were considered free parameters in a least-squares fitting procedure. On the other hand, T2 values were obtained from single-pulse -1 values were calculated as 0.6 240) times the experiments:23 T2 full width at half-height (fwhh) for a Gaussian line and as  240) times fwhh for a Lorentzian line.
+
+ DSC. The calorimetric curves, obtained by cooling the sample between 25 and -120 °C and then by heating the sample from -120 to 100 °C, are shown
+
+ Herzfeld, J.; Berger, E. J. Chem. Phys. 1980, 73, 6021. (23) Fukushima, E.; Roeder, S. B. W. Experimental Pulse NMR (A
+
+
+Figure 1. DSC curves corresponding to the (a) cooling and (b) heating runs of LiHf2(PO4)3. The onset and maximum temperatures and the entalphy associated to each treatment are also indicated in the figure.
+
+in Figure 1. In the cooling treatment (Figure 1a), a broad exothermic peak appears, whose onset and maximum temperature are -4 and -13 °C, respectively. An enthalpy of -4.48 kJ/mol is deduced. In the heating treatment (Figure 1b) a narrow endothermic peak with onset and maximum temperatures of 0 and 7.5 °C is observed. The enthalpy deduced from this peak is 4.54 kJ/mol. From these data a small hysteresis is detected ( 24)5 °C). To avoid any effect due to this hysteresis, all the experiments described hereafter were carried out during sample cooling treatments.
+
+III.2. XRD. The X-ray diffraction patterns recorded at room temperature and -40 °C are shown in Figure 2, where only the lower 2ı region is shown to emphasize splittings. The pattern obtained at room temperature is similar to that reported by other authors,3-5,8,24 who indexed it on the basis of a rhombohedral R3hc lattice, by using hexagonal axes. The pattern obtained at -40 °C shows more peaks as a consequence of the splitting of some hexagonal reflections, indicating a change of symmetry. Thus, for instance, the(024)hex reflection produces three resolved peaks with similar intensities and the (104)hex and (110)hex lines are split into a total of five peaks.
+
+31P (I ) 1/2) static and MAS NMR spectra, recorded at room temperature and -23 °C are displayed in Figure 3. In the static spectra a single component, broader in the spectrum obtained at lower temperature, is resolved. This component is strongly narrowed when the sample is spun in MAS experiments;
+
+Figure 2. X-ray diffraction patterns of LiHf2(PO4)3 recorded at the indicated temperatures. Only the low 2ı region (1337°) is shown to emphasize splittings. Miller indices of hexagonal reflections mentioned in the text are also included.
+
+Figure 4. 7Li static and MAS NMR spectra of LiHf2(PO4)3 recorded at (a) 23 °C and (b) -23 °C. Spinning rate of MAS spectra is  238)r  25) 2000 Hz. transition (-1/2 f 1/2 transition) narrows and its line shape changes from Gaussian to Lorentzian when going from the spectrum obtained at -23 °C to the roomtemperature one. Detection of the broad symmetric pattern (1/2 f 3/2, -3/2 f -1/2 satellite transitions) is caused by the interaction of the quadrupole moment of nuclei with the electric field gradient at structural sites.25 It can be seen that the quadrupole pattern of the low-temperature spectrum is different and covers a wider frequency range than that of the room-temperature spectrum (Figure 4a,b). On the other hand, the central and external transitions are modulated by the spinning sidebands in MAS experiments, allowing a better analysis of the quadrupole pattern. From both kind of spectra, determination of the quadrupole coupling constant, CQ, and the asymmetry parameter, Ł, has been done. From the spectra recorded at room temperature, values of Ł ) 0.0 and CQ ) 116 kHz were deduced; while from the spectra recorded at -23 °C values of Ł ) 0.3 and CQ ) 180 kHz were obtained.
+
+In Figure 5 the evolution of the central component of 31P and 7Li MAS NMR spectra between 5 and -23 °C In 31P MAS spectra (Figure 5a), it is is displayed. observed that the single line present at room temperature decreases and that three new lines of equal
+
+Figure 3. 31P static and MAS NMR spectra recorded at (a) 23 °C and (b) -23 °C. MAS spectra were obtained at a spinning rate of  238)r  25) 4000 Hz.
+
+then one or several central components, with their corresponding spinning sidebands spaced at  24)25 ppm (spinning rate of the sample expressed in ppm) are resolved. At 23 °C (Figure 3a) a single line at -17.1 ppm is detected. However, the spectrum recorded at -23 °C (Figure 3b) is constituted by three components at -15.5, -16.5, and -17.0 ppm, which exhibit the same integrated intensities.
+
+7Li (I ) 3/2) static and MAS spectra, obtained at room temperature and -23 °C, are plotted in Figure 4. Static spectra are formed by a central line and a broad symmetric pattern. The line width of the central
+
+LiHf2(PO4)3 with NASICON Structure
+
+Figure 5. (a) 31P and (b) 7Li central component of MAS NMR spectra recorded at the indicated temperatures.
+
+relative intensity become resolved during sample cooling. One of the new lines (-17.0 ppm) has practically the same position as the starting one (-17.1 ppm). On the other hand, 7Li MAS spectra (Figure 5b) show a single central line for all temperatures, which becomes narrower and moves slightly to less negative chemical shift when the temperature is decreased.
+
+The temperature dependence of CQ is displayed in Figure 6a. CQ shows a clear discontinuity about 0 °C and remains almost constant above and below this temperature. A similar trend, not displayed in the figure, is observed for Ł: it takes on values of 0.3 and 0.0 below and above the mentioned temperature. Finally, the temperature dependence of the spin-spin (T2) and spin-lattice (T1) relaxation times of the central transition of static 7Li NMR spectra exhibits also a -1 are discontinuity near 0 °C (Figure 6b,c). T2 constant below this temperature, change drastically at 0 °C and decrease very slightly above this temperature. III.4. Impedance Spectroscopy. The impedance plots (imaginary vs real part) recorded at different temperatures are shown in Figure 7. At 27 and 60 °C two arcs and one spike are observed. The spike is due to the blocking effect of lithium ions at the electrodes. According to a previous study,20 the arcs have been ascribed to movement of lithium ions inside the grains (high-frequency arc) and through grain boundaries (lowfrequency arc). At lower temperatures (-7 and -19 °C) only the high-frequency arc is observed over the analyzed frequency range. The resistance associated with the high-frequency arc is deduced from intersection of the arc with the real axis. Then, the conductivity values are obtained as usual.
+
+Figure 6. Temperature dependence of the (a) quadrupole coupling constant (CQ), the (b) spin-spin (T2 -1), and (c) spinlattice (T1
+
+-1) relaxation rates.
+
+Figure 7. Impedance plots (imaginary -Z¢ recorded at the indicated temperatures.
+
+The variation of the bulk conductivity (log  243)b), associated to the high-frequency arc, versus inverse temperature (1000/T) is shown in Figure 8. Two linear dependencies are observed: one above 0 °C and the other below this temperature. From the fitting of the experimental data to the Arrhenius equation,  243) )  243)0 exp(-E/kT), the activation energy (E) and preexponen-
+
+Table 1. Cell Parameters of the Triclinic and
+
+Rhombohedral Phasesa
+
+parameters
+
+rhombohedral
+
+rel variation (%)
+
+triclinic 15.26(1) 8.689(3) 9.067(9) 89.44(6) 123.78(7) 90.61(6) 999.5
+
+a (Å) b (Å) c (Å) R (deg)  226) (deg)  231) (deg) V (Å3) a For comparison, parameters of the rhombohedral phase are referred to a monoclinic C-centered cell. Variation of the parameters with the phase transition is also included.
+
+bN ) 8.740, cN ) 9.067 Å, RN ) 118.72°,  226)N ) 90.56°,  231)N ) 119.20°, VN ) 499.6 Å. The triclinic symmetry is consistent with NMR data: the 31P MAS spectrum obtained at -23 °C shows three lines of the same intensity indicating the existence of three crystallographically nonequivalent sites for phosphorus. The same symmetry, with very similar lattice parameters, has also been deduced very recently from neutron diffraction of a compound with similar composition by Losilla et al.27
+
+The change in symmetry is accompanied by a variation of the lattice dimensions. The parameters of the rhombohedral phase are compared with those of the triclinic phase in Table 1. Some of them increase while others decrease; however, the resulting cell volume increases slightly for the low-temperature phase in contrast to that observed for LiSn2(PO4)3.14 A comparison of the structural modifications with those of the lowsymmetry phase of LiZr2(PO4)3 is not possible because, although a similar phase transition has been reported by different authors, at present, the low-symmetry phase has not been indexed.4,5,17,18
+
+The rhombohedral phase can be obtained again by raising the sample temperature. This fact indicates that the phase transition is reversible. The variation observed for the cell volume together with the discontinuity found in the DSC curves support a first-order character for the phase transition. Moreover, a small hysteresis has been detected from the DSC curves in the heating and cooling runs. This is similar to that reported for LiZr2(PO4)3 17 but differs from the large hysteresis cycle found for LiSn2(PO4)3.14 The enthalpy associated with the phase transition of LiHf2(PO4)3 (4.5 kJ/mol) is lower than those of LiZr2(PO4)3 ( 24)6.6 kJ/mol) and LiSn2(PO4)3 ( 24)7.9 kJ/mol). IV.2. Lithium Location. Determination of the lithium positions in the structure is difficult to obtain from XRD data due to its low scattering factor. In this case, 7Li NMR can be used to analyze structural sites occupied by lithium.
+
+As deduced from NMR and conductivity data, lithium mobility in the triclinic phase is very low (see section IV.3). Then, the existence of a single central line with a unique quadrupole pattern in the 7Li NMR spectra of the sample cooled at -23 °C supports that lithium ions occupy only one type of site in this phase. From CQ and Ł constants, distortions of the lithium environment can be estimated. In particular, the observed CQ and Ł values in the triclinic LiHf2(PO4)3 phase (CQ ) 180 kHz, Ł ) 0.3) are much higher than those reported at low temperatures for lithium in the rhombohedral LiTi228 (CQ ) 15 kHz, Ł ) 0). As structural distortions (PO4)3
+
+Figure 8. Variation of the bulk dc conductivity (log10  243)) versus inverse temperature (1000/T).
+
+tial factor ( 243)0) corresponding to the two regions have been determined. The values for E and  243)0 are 0.33 eV and 4 ¿-1 cm-1 for temperatures above 0 °C and 1.39 eV and 1.7  2) 1019 ¿-1 cm-1 below 0 °C.
+
+IV. Discussion
+
+IV.1. Phase Transition. The X-ray diffraction pattern recorded at room temperature has been indexed20 on the basis of a rhombohedral R3hc lattice of hexagonal parameters aH ) 8.8295 and cH ) 22.019 Å. These values are very close to those reported by other authors.3-5,8,24 The rhombohedral R3hc symmetry is supported by NMR data. Thus, the room-temperature 31P MAS spectrum shows a single line at -17.1 ppm, indicating only one crystallographic site for phosphorus. When the sample is cooled below 0 °C, a splitting of the rhombohedral X-ray peaks is observed. The (024)hex reflection produces three resolved peaks with similar intensities, and the incompletely resolved (104)hex and (110)hex reflections give at least five new peaks. A monoclinic distortion of the rhombohedral lattice of the type documented in the literature should lead to no more than two peaks for the splitting of the (024)hex: the (400)mon and (2h22)mon, and no more than four peaks for the splitting of the (104)hex and (110)hex as follows: (104)hex f (111)mon + (2h02)mon, (110)hex f (020)mon + (3h11)mon. Therefore, the experimental data point to a structure of lower symmetry. On these bases, 29 reflections were indexed with a nonconventional triclinic C-cell of parameters a ) 15.26(1), b ) 8.689(3), c ) 9.067(9) Å, R ) 89.44(6)°,  226) ) 123.78(7)°,  231) ) 90.61(6)°, V ) 999.5 Å3. The triclinic C-centered cell was chosen to preserve the relationship to the usual monoclinic distortion of rhombohedral NASICON. The lattice can also be characterized by its reduced Niggli cell, whose parameters were calculated by the algorithm of Krˇivy´ & Gruber,26 to obtain the following values: aN ) 8.689,
+
+LiHf2(PO4)3 with NASICON Structure
+
+Table 2. Experimental and Estimated Second Moment Values Corresponding to Lithium Occupying the M1 and M2 Sitesa
+experimental
+
+a The experimental value was deduced from the central transition of 7Li NMR static spectra of the triclinic phase. Relative Li-Li and
+
+Li-P contributions (¢ 246)j 2
+
+Li-P) to the total estimated second moment were calculated with expression (2) of the text.
+
+are always higher in M2 sites than in M1 sites, 7Li NMR data suggest that, in the absence of ionic motion, lithium ions could occupy sites with lower symmetry (probaly M2 sites) in the triclinic LiHf2(PO4)3 than in rhombohedral LiTi2(PO4)3, at which occupation of M1 sites was deduced by neutron diffraction and NMR techniques.28-30 This is also supported by the analysis of the experimental second moment (¢ 246)j 2), ¢ 246)j 2 ) 2/(T2)2, of the central transition of the 7Li static NMR spectrum recorded at -23 °C, at which lithium mobility is very low (see section IV.3). As broadening of this line is generally caused by dipolar interaction between neighbor nuclei, the experimental second moment of this phase can be compared with those calculated for different lithium locations by using the Van Vleck expression for a rigid lattice in powder samples:31
+
+The first term accounts for dipolar interactions between like spins and the second one between unlike spins.  231)I and  231)S are the gyromagnetic ratios for the I and S spins and rjk is the distance between interacting spins. Taking into account the low gyromagnetic ratios of the other nuclei present in this compound, the Li-Li and Li-P dipolar interactions are the most important contributions to the second moment of the central line of 7Li NMR spectra of LiHf2(PO4)3. The Li-Li and Li-P distances for the triclinic phase were calculated by using the relative atomic coordinates determined for the rhombohedral LiZr2(PO4)3 17 and the lattice dimensions of the rhombohedral LiHf2(PO4)3 phase. This procedure was adopted because (i) there are no atomic coordinates 2(PO4)3 available for the low-symmetry phases of LiMIV family, (ii) lattice parameters of the lowand hightemperature phases of LiHf2(PO4)3 are very close and, therefore, interatomic distances should not change significantly between both phases, and (iii) Zr4+ and Hf4+ show similar ionic radii.
+
+The second moment estimated for lithium ions occupying the M1 and M2 sites are shown and compared with the experimental ¢ 246)j 2 in Table 2. A good agreement between the experimental and calculated second moment for lithium in the M2 sites is obtained. This suggests that lithium could be preferentially placed in
+
+M2 sites, in agreement with the conclusions deduced from the previous analysis of CQ and Ł values.
+
+IV.3. Lithium Mobility. From NMR and conductivity data, an important variation on lithium mobility has been detected at the phase transition. In the -1 are characteristic of triclinic phase, T2 -1, lithium ions with low mobility. which is mainly governed by dipolar interaction among magnetic moments of nuclei, does not change with temperature, indicating that residence time of lithium at sructural sites is long enough to avoid that interaction of lithium with other nuclei be averaged by motion. Moreover, the nearly temperature-independent behavior -1, with long T1 values, is generally ascribed to of T1 nuclear relaxation through paramagnetic impurities when lithium-ion mobility is not significant enough to dominate relaxation behavior.32 In addition, the ionic conductivity is rather low (<10-7 ¿-1 cm-1) and the activation energy very high (1.39 eV), supporting again that lithium mobility in this phase is very low.
+
+Above 0 °C, i.e., at temperatures at which the sample is transformed into the rhombohedral polymorph, a very significant increase of lithium mobility is detected:
+

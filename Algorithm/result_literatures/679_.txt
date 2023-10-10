@@ -1,0 +1,9 @@
+Lithium solid electrolyte with NASICON structure in the form of Li1+2xAlxTi2-xSixP3-xO12 solid solution has been prepared by high temperature solid state reaction using low cost kaolin as the starting material.
+The crystal structure of the solid solution was investigated by powder X-ray diffraction.
+The AC impedance measurements indicate that ionic conductivity increased by more than one order of magnitude when a small amount of Al3+ and Si4+ ions were incorporated into the LiTi2(PO4)3 crystal structure.
+The significant improvement on ionic conductivity can be attributed to the increased interstitial Li+ ions in the crystal structure.
+The highest ionic conductivity was found in Li1.2Al0.1Ti1.9Si0.1P2.9O12: 8.3 x 10-5 S·cm-1 at room temperature (21°C) and 1.5 x 10-3 S·cm-1 at 100°C.
+Lithium solid electrolyte with NASICON structure in the form of Li1+2xAlxTi2-xSixP3-xO12 solid solution can be prepared using low cost kaolin as the starting material.
+Substitutions of Ti4+ ions with Al3+ ions and P5+ ions with Si4+ ions in the LiTi2(PO4)3 structure significantly increase ionic conductivity.
+The enhanced conductivity is attributed to the combined effect of increasing Li+ ion concentration and decreasing activation energy.
+Using kaolin as the starting material instead of pure oxides (Al2O3 and SiO2) improves powder sintering, resulting in reduced grain boundary resistance and higher ionic conductivity.

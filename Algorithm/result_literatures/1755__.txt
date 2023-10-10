@@ -1,0 +1,45 @@
+Ex situ vibrational spectra are recorded during the first discharge of LiTi2(PO4)3. Spectral changes are consistent with a two-phase model forthe electrochemical insertion of Li+ ions.
+Differences in the frequencies and relative intensities of the LiTi2(PO4)3 and Li3Ti2(PO4)3 bands are dueto changes in the effective force constants, dipole moment derivatives, and polarizability derivatives as Li+ is inserted into LiTi2(PO4)3. Theintramolecular PO43− bending modes (ν2 and ν4) are found to be more sensitive to Li+ insertion than the intramolecular PO4 3− stretching modes (ν1and ν3).
+This is because ν2 and ν4 are less localized than ν1 or ν3 and are more susceptible to small structural changes in the unit cell.
+Furthermore,a band at 487 cm−1 appears in the infrared spectrum of Li3Ti2(PO4)3. This band is assigned as a Li+ ion cage mode and is due to Li+ ions thatoccupy the M(3) and M′(3) sites in the Li3Ti2(PO4)3 structure.
+A small degree of band broadening is also detected in the vibrational spectra when Li+ ions are inserted, which might indicate some disordering in the cathode material.
+Phosphate-based materials have generated considerableinterest as potential electrode materials for secondary lithiumbatteries.
+
+The cells are dischargedusing the galvanostatic intermittent titration technique(GITT) on an Arbin battery cycler .
+Thistechnique entails discharging the cells at a constant currentdensity of 0.1 mA cm−2 until 0.05 Li+ ions per formula unit areinserted into the cathode.
+The cell potential is then monitoredduring a 1 h rest step, and the process is repeated until thedesired cathode composition is achieved.
+Afterwards, the cellsare disassembled under argon, washed twice with diethyl carbonate,dried overnight, and stored under argon.
+Infrared absorption spectra are measured with a Bruker IFS66 v spectrometer equipped with a DTGS detector and KBr orMylar beamsplitters for mid- and far-IR spectroscopy, respectively.
+Samples are prepared using standard KBr and CsI pellettechniques.
+Raman scattering experiments are conducted on aJobin-Yvon ISA T64000 spectrometer in the triple subtractivemode.
+A 532 nm laser (Spectra-Physics Millennia Vs) is focusedonto the surface of the powders through the 80× objective lens ofan Olympus microscope.
+All spectra are recorded in a 180°backscattering mode using a CCD detector.
+
+
+
+If lithium intercalation proceeded by a single-phasemechanism, the frequencies and intensities of the vibrationalmodes would depend on the concentration of the Li+ ions.
+However,in a two-phase model the frequencies of the modes areexpected to be independent of the lithium concentration, but bandintensities would be governed by the amount of each phase presentin the sample.
+This behavior is observed in other systems thatexhibit a two-phase mechanism.
+For instance, during the two-phasedelithiation of LiFePO4, bands characteristic of LiFePO4 graduallydecrease in intensity at the expense of the FePO4 bands .
+The two-phase mechanism for LiTi2(PO4)3 is stronglysupported by the infrared and Raman spectroscopic data.
+Asthe parent compound is discharged, bands characteristic of Li3Ti2(PO4)3 appear and gradually replace the LiTi2(PO4)3 bands.
+Thisis particularly clear in the ν4 region of the infrared spectra.
+Forexample, four ν4 bands are observed in the infrared spectrum ofLiTi2(PO4)3 at 573, 585, 643, and 680 cm−1.
+New bands (denotedwith dotted lines in Fig.5) appear at 479, 561, and 600 cm−1 whenthe cells are discharged, but bands characteristic of LiTi2(PO4)3are still discernable in the Li2Ti2(PO4)3 sample (e.g., the585 cm−1 band denoted by the alternating dash-dot line onFig.5).
+At this composition, the infrared spectrum is intermediatebetween LiTi2(PO4)3 and Li3Ti2(PO4)3.
+
+
+Group theoretical methods predict twelve Li+ ion cagemodes at the Brillouin zone center for Li3Ti2(PO4)3, and thesevibrations are distributed among the irreducible representationsof the S6 point group (3Ag+3Eg+3Au+3Eu).
+Even thoughsome of the Li+ ion cage modes are Raman active, correspondingbands do not appear in the Raman spectrum of Li3Ti2(PO4)3. 
+This is probably because Li+ ion cage modes typicallyhave negligible polarizability derivatives and consequently donot have measurable Raman intensities.
+Ex situ vibrational spectra are recorded during the electrochemicalinsertion of Li+ into LiTi2(PO4)3. 
+In general, the PO43−bending modes are much more sensitive to the insertion of Li+ions than the stretching modes.
+This is particularly evident forthe ν4 modes in the infrared spectrum (Fig.5) and, to a lesserextent, the ν2 modes in the Raman spectrum (Fig.4).
+Phosphatebending modes are less localized than the stretching vibrations;thus, they are more susceptible to small structural changes in theunit cell.
+The frequencies of the vibrational modes do not dependon the concentration of the Li+ ions in the cathode material.
+Instead, Li3Ti2(PO4)3 bands appear and increase in intensity atthe expense of LiTi2(PO4)3 bands.
+This type of behavior isindicative of a two-phase mechanism for the electrochemicalinsertion of Li+ into LiTi2(PO4)3. 
+Lithium ion cage modes arealso identified in the infrared spectrum of Li3Ti2(PO4)3. Accordingto crystallographic data , all three Li+ ions reside inM(3) and M′(3) sub-sites of the larger M(2) cavities.
+Therefore, this band must be due Li+ ions that occupy these sites.
+Analogousbands do not appear in the Raman spectrum of Li3Ti2(PO4)3,even though the Li+ ion cage modes are Raman active, becausethese vibrations typically have small polarizability derivatives.
+Hence, the Li+ ion cage modes do not produce measurableRaman intensities.

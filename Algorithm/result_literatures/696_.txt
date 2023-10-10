@@ -1,0 +1,16 @@
+In this contribution, formation and properties of full series of solid solutions of Li1+xCrxZr2−x(PO4)3 arediscussed.
+Special attention is paid to interrelations between substitution degree x, resulting crystal structure,crystal field parameters, and colour hue of the samples.
+It is shown, that within the studied synthesis conditions,an increase of the substitution degree x in the solid solutions leads to structural change from triclinic (newNASICON-based modification) to orthorhombic SW type, while both end-members of the solid solutions arerhombohedral.
+Interrelations between the substitution degree x, thermal stability and particle size distributionare also discussed.
+The colour of the samples is explained by means of crystal field theory.
+It is shown, that thecrystal field strength is controlled by the substitution degree x: with an increase of the substitution degree xcrystal field strength shifts to higher energies and the resulting colouration changes from light pink via brown tobright green.
+Because of the excellent thermal stability of the samples as well as the wide range of colours, theLi1+xCrxZr2−x(PO4)3 series can be considered as attractive candidates for application as ceramic pigments.
+New solid solutions of Li1+xCrxZr2−x(PO4)3 were obtained usingsolid state reaction between Li2CO3, ZrOCl2·8H2O, Cr2O3 and(NH4)2HPO4. The crystal structure of the obtained solid solutions ofLi1+xZr2−xCrx(PO4)3 in low substitution range with x ≤ 0.1 areidentified as a new triclinic modification of NASICON which is stablein a very limited composition range; at a higher substitution range withx ≥ 0.6 the formed solid solutions are orthorhombic of SW structuretype stable in a wide composition range; at intermediate values with xfrom 0.2 to 0.5 a mixture of the new triclinic and orthorhombic formshas been detected while the end-members, LiZr2(PO4)3 andLi3Cr2(PO4)3, are classified as rhombohedral NASICONs.
+Interrelations between the substitution degree x, thermal stabilityand the particle size distribution have been also revealed.
+In particular,the new triclinic NASICON modification possesses enhanced resistanceto sintering at extremely high temperatures.
+In turn, the orthorhombicSW modification has lower thermal stability and its thermal resistancehighly depends on the substitution degree x.
+Such behaviour influences the degree of the sintering of the samples during synthesis and theresulting particle size distribution of the products which gradually increases with an increase of the substitution degree x.
+Special attention in our study was paid to the effect of substitution degree x on the chromatic characteristics of the samples.
+It is shown,that the crystal field strength which affects Cr3+ in Li1+xCrxZr2−x(PO4)3becomes stronger when the substitution degree x is increased.
+Accordingly, the absorption bands in the visible spectrum of light arealso shifted to higher energies resulting in colouration changes fromlight pink via brown to intensive green.
+In view of the excellent thermal stability of the samples as well asthe wide range of the colour properties, the Li1+xCrxZr2−x(PO4)3 seriescan be considered as attractive candidates for application as ceramicpigments.

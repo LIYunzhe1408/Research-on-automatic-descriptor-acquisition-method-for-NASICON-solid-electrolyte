@@ -1,0 +1,110 @@
+New complex phosphates of titanium, iron, and alkaline-earth metals have been synthesized.
+X-raypowder diffraction, differential thermal analysis (DTA), and IR spectroscopy are used to study phase formationin the series of M0.5(1 + x)FexTi2 – x(PO4)3 (M = Mg, Ca, Sr, Ba) phosphates.
+Individual compounds and solidsolutions are found to crystallize in the NaZr2(PO4)3 and K2Mg2(SO4)3 structure types.
+Their crystal parametersare calculated.
+CaFeTi(PO4)3 is studied using Mössbauer spectroscopy.
+Its structure is refined by the Rietveldmethod: space group R c, Z = 6, a = 8.5172(1) Å, c = 21.7739(4) Å, V = 1367.91(4) Å3.
+Phosphates with{[L2(PO4)3]p–}3∞frameworks,where L stands for an octahedral cation, have attractedthe attention of researchers due to their inability toexpand upon heating, low thermal conductivity, highthermal, chemical, and radiation damage resistance,and ion conductivity; this set of properties makes thesephosphates promising functional materials .
+Several structure types are possible for phosphatesdepending on the linkage of L2(PO4)3fragments .
+The following structure types are well known for phosphates:sodium dizirconium phosphate NaZr2(PO4)3(NZP/NASICON, trigonal space groupR c), scandiumtungstate Sc2(WO4)3(monoclinic space groupP21/n),and potassium magnesium sulfate K2Mg2(SO4)3(langbeinite,cubic space groupP213).
+The particular structuralvariety depends on the nature (the electronic structure,size, and charge) of the cations in the compound,their combination and distribution over the structuresites, and site occupancies.
+Phase formation in the A1+xFexTi2 –x(PO4)3(A = Li,Na;0≤x≤2) phosphate series were studied in ;phosphate structure types were determined; crystalchemicaldata on triple phosphates of group IVB elements,iron, and alkaline-earth metals of compositionA1+xFexD2–x(PO4)3(D = Ti, Zr, Hf) were systematized;and it was elucidated how the ion radii and chemicalnature of extraframework and framework cations affectthe structure-formation features.
+Once the structurallaws and synthesis features for phases of variable com-3position in these systems were recognized, phosphateswith high ionic conductivity were synthesized .
+Among the phosphates of group IVB elements, iron,and alkaline-earth metals, the NZP structure is knownfor M0.5Ti2(PO4)3(M = Mg, Ca, Sr, Ba) compounds and MFeTi(PO4)3(M = Ca, Sr, Ba) compounds.
+Them eager data on M0.5(1+x)FexTi2 –x(PO4)3phosphatesmake it difficult to analyze phase formation inthe specified systems over a wide range ofx.
+Here, we have synthesized and characterizedcomplex titanium phosphates of composition with M = Mg, Ca, Sr, or Ba,investigated their phase-formation laws, determined thestructure types in which they crystallize, and determinedtheir concentration and temperature stabilityfields.
+CaFeTi was studied using Mössbauerspectroscopy.
+Its structure was refined by the Rietveldmethod.
+We intended to synthesize samples of complex phosphateswith the general formula M0.5(1+x)FexTi2−xP3O12withı= 0, 0.5, 1.0, 1.5, or 2.0; these compositions coveredthe entire existence region of suggested orthophoshatephases.
+Sol–gel technology was used.
+The starting reagentsused were aqueous solutions of MgCl2,CaCl2,SrCl2,BaCl2,FeCl3,TiOCl2, and H3PO4, which were preparedfrom chemically pure chemicals.
+Stoichiometricamounts of aqueous solutions of alkaline-earth, iron,and titanium salts were combined under continuousstirring at room temperature.
+Next, aqueous orthophosphoricacid was slowly added under stirring accordingto the phosphate stoichiometry.
+The resulting gel wasdried at 100° and heat-treated with free access to airat 600, 800, 900, 1000, and 1100° for at least 24 h ateach stage.
+The staged heating was alternated with dispersion.
+To choose the heat-treatment schedule, the reactionmixture of composition CaFeTiP3O12 after drying wasannealed at 200°ë and subjected to differential thermalanalysis (DTA) in air on a KARAT setup  from 25to 1000°ë.
+The phase composition of mixturesannealed at the temperatures of DTA peaks was determinedusing powder X-ray diffraction.
+The characterization tools were electron probemicroanalysis, powder X-ray diffraction, IR spectroscopy,and Mössbauer spectroscopy.
+The chemical composition and homogeneity of thesamples were monitored using electron probemicroanalysis on a CamScan MV2300 scanning electronmicroscope equipped with a Link INCA Energy200C energy-dispersive detector.
+The PAP correctionprocedure was employed to determine compositions.
+The error in the composition was 2.5 wt %.
+The phase composition of powders was determinedusing powder X-ray diffraction on a DRON-3.0 diffractometer(Ni-filtered CuKα radiation, scan rate of 1 deg/min).
+Unit cell parameters were derived from indexed diffractionpatterns in the 2θ range from 10° to –50° andrefined in the least-squares fits.
+For structural investigations,an X-ray diffraction pattern of a CaFeTi(PO4)3sample was recorded on a Thermo ARL X’TRA powderdiffractometer (CuKα1 + α2 radiation, reflectiongeometry, a Peltier semiconductor detector) in the2θ range from 10° to 100° with scan increments of 0.02°.
+Rietveld analysis and structure refinement werecarried out using JANA2000 software.
+The functional composition of the products wasdetermined using IR spectroscopy.
+IR absorption spectrawere recorded from finely divided films on KBr substrateson a Specord 75 IR spectrophotometer in thewavenumber range from 1400 to 400 cm–1.
+The Mössbauer spectrum of CaFeTi(PO4)3 was measuredat 22°ë on an electrodynamic spectrometerequipped with a pulsed multichannel analyzer.
+Theγ-ray source was 57Co in rhodium.
+The channel scalewas converted to the absolute speed scale using the calibrationspectra of a reference absorber (sodium nitroprusside).
+Chemical shifts are relative to 57Fe in metallicα-iron.
+Powder X-ray diffraction showed the complex interactionof the components in the reaction mixtures studied,whose composition was substantially affected bythe varying cation ratio and temperature.
+The examinationof the DTA curve for the reaction mixture of compositionCaFeTiP3O12 (Fig.1) implied that the endothermsobserved at 647–680 and 701–768° were dueto the decomposition of the reagents and the formationof the phosphate.
+Single-phase products in the systems under studywere formed at 900–1100° depending on the nature(above all, the ionic radius) of the alkaline-earth metal.
+At lower temperatures, reflections from MTi(PO4)2,TiP2O7, TiO2, and FePO4 were observed in the X-raydiffraction patterns.
+Annealing at temperatures higherthan the synthesis temperature either improved thecrystallinity of the single-phase products or inducedtheir partial degradation.
+X-ray diffraction and electron probe microanalysisshowed the homogeneity, near-theoretical values of x, andstructural analogy of single-phase samples with 0 ≤ x ≤ 1in the M0.5(1 + x)FexTi2 – x(PO4)3 (M = Mg, Ca, Sr, Ba) systems(Fig.2).
+
+The X-ray diffraction patterns of M0.5(1 + x)FexTi2 − x(PO4)3(M = Mg, Ca, Sr, Ba) samples with 0 ≤ x ≤ 1.0 showedthat these samples crystallize in the NZP-type structurewith space group R c or R .
+The X-ray diffraction patternsexhibited a smooth shift of the diffraction peaksand a steady change in their relative intensities with ıincreasing over the entire range of the single-phasecompositions (Fig.2).
+The samples with ı = 1.5 forM = Mg, Ca, Sr, or Ba and ı = 2 for M = Mg, Ca, or Srwere not single phases.
+
+Langbeinitephosphates have the {[L2(êO4)3]p–}3∞ framework andcontain large extraframework cations for charge balancing.
+There are two extraframework positions performula unit; they are populated by two cations or, farmore rarely, by a lesser number of cations.
+
+In theBa1.5Fe2(PO4)3 we synthesized, some interstices remainvacant.
+The results of indexing of the X-ray diffractionpattern for Ba1.5Fe2(PO4)3 are listed in Table 1; its unit cellparameters are a = 9.932(3) Å, V = 979.6(9) Å3.
+Figure 3 displays the IR spectra for the phosphateswe synthesized.
+The IR spectra of the samples with 0 ≤x ≤ 1.0 are typical spectra of rhombohedral NZP orthophosphates.
+Absorption bands at 1260–980 cm–1 areassigned to the P–O antisymmetrical stretching vibrationsν3 in the phosphorus tetrahedron.
+The appearanceof the high-frequency stretching vibrations at 1260–1210 cm–1 is due to the contribution from the electrondensity of the small-sized and high-charged titanium(IV)ion into the P–O bond.
+The symmetrical stretching vibrationsν1 appear as bands at 1000–920 cm−1. 
+The antisymmetricalbending vibrations ν4 appear as two or threebands at 650–540 cm–1. 
+The absorption band at 450–430 cm–1 is due to the bending vibration ν2.All compounds synthesized in theMg0.5(1 + x)FexTi2 − x(PO4)3 system have the same spectralpattern; this pattern is intrinsic to titanium (zirconium)or iron phosphates of alkaline-earth metals thatcrystallize in space group R c (the NZP structuretype) .
+There are four or five allowed bands of theν3 mode, one ν1 band, and two ν4 bands in the spectra(Fig.3a).
+Thus, when ı < 1 in these compounds, magnesiumatoms and vacancies are disordered over theM1 (6b) sites.
+In the systems with large alkaline-earth metals (Ca,Sr, Ba), the phosphates with ı = 0 have IR spectra similarto those of zirconium phosphates of the same formulathat crystallize in space group R (Figs.3b−3d,curves 1).
+The alkaline-earth cations in these compoundsoccupy the M1 positions in an ordered fashion(the 3b positions are occupied, the 3a positions arevacant).
+Six IR bands are allowed to appear in each ofthe ν3 and ν4 regions for these phases.
+However, theactual number of bands in these phosphates is less thanin zirconium phosphates: three of four ν3 bands and acharacteristic triplet of the ν4 vibrations.
+We should notethat in the spectra of strontium and barium phosphates, theregion of stretching vibrations (1100–990 cm–1) is diffuse:the bands in this region are poorly resolved.
+Likely, thepoor resolution is due to the size of the alkaline-earthcations.
+The bending vibration region in these spectra33(640–540 cm–1) is intrinsic to NZP phases with spacegroup R .
+The absorption bands of bending vibrationsin these spectra respond most clearly to the distortion ofthe PO4 tetrahedron: the bending bands are sharper thanthe stretching bands and are more sensitive to structuralalterations.
+The IR spectra of the phosphates with ı =0.5 and 1.0 are similar to the spectra of magnesiumphosphates considered above; they correspond to spacegroup R c (curves 2, 3).
+The IR spectrum ofBa1.5Fe2(PO4)3, where ı = 2 (Fig.3d, curve 4), is similarto the spectrum of K2FeZr(PO4)3, which crystallizes inthe langbeinite-type structure (space group P213) .
+In each of the ν3 and ν4 regions of the spectra of langbeinitecompounds, three bands are allowed.
+The bandsin the ν3 region are poorly resolved because of thelarger size of the barium atoms compared to the potassiumatoms and because of the disordering of theseatoms and vacancies in the equivalent positions.
+In theν4 region, there is the characteristic triplet of bands.
+Thus, depending on the composition of the phosphateand the size of the alkaline-earth cation, the phosphatecrystallizes in one of the two related spacegroups: either R c or R .
+Barium phosphateBa1.5Fe2(PO4)3 belongs to the langbeinite structure type(space group P213).
+The powder X-ray diffraction and IR spectroscopicdata are in agreement, showing that NZP solid solutionswith 0 ≤ x ≤ 1.0 and an individual langbeinite compoundBa1.5Fe2(PO4)3 with ı = 2 are formed in the systemsin question.
+The Rietveld refinement of the crystal structure andMössbauer spectroscopic investigation were carried outfor CaFeTi(PO4)3 in order to reveal the structural featuresand to study the cation distribution inM0.5(1 + x)FexTi2 – x(PO4)3 phases of variable composition.
+The structure of CaFeTi(PO4)3 was refined assumingspace group R c.
+The starting model included theatomic coordinates in the structure of PbFeZr(PO4)3[20].
+The details of the X-ray diffraction experimentand structure refinement data are listed in Table 2. Thestructure refinement involved the consecutive additionof refined parameters with a fixed graphic modeling ofthe background.
+The framework positions L (12c) in thephosphate structure are jointly occupied by iron and3titanium cations.
+In the refinement, it was assumed thatthe calcium(II) cations may occupy two types of interstitialpositions: å1 (6b) and M2 (18e).
+As a rule, however,in NZP compounds in which the number of interstitialcations is one, the cations prefer to occupy sitesM1. The refinement of M2 site occupancies for calcium(II) cations showed that these sites remainedvacant.
+Figure 4 displays the measured, simulated, and differenceX-ray diffraction patterns for CaFeTi(PO4)3, aswell as stick diagrams.
+There is a good agreementbetween the measured and simulated patterns.
+Table 3lists the coordinates of the atoms and their isotropicthermal parameters.
+Table 4 lists selected bond lengthsand bond angles.
+The refined model yielded positiveisotropic thermal parameters Ç for all atoms.
+The bondlengths and bond angles in the coordination polyhedrathat build the crystal structure of CaFeTi(PO4)3 agreewith the relevant values obtained for other NZP phosphates[9, 20].
+Figure 5 displays a fragment of the structure ofCaF-eTi(PO4)3. The base of the structure is the frameworkbuilt of corner-sharing (Fe/Ti)O6 octahedra andêé4 tetrahedra.
+The main structure blocks of the frameworkare fragments built of two octahedra and three tetrahedra,which form columns running along axis Ò.
+Thecalcium(II) cations fully populate the octahedral sitesM1, which are located in interstices inside these columns.
+The Mössbauer spectrum of CaFeTi(PO4)3 at 22°ëis shown in Fig.6.
+The spectrum is described by asymmetric doublet with the following parameters:chemical shift, δ = 0.44(1) mm/s; quadrupole splitting,Δ = 0.30(1) mm/s; and full width at half-height,Γ = 0.36(1) mm/s.
+This value of the chemical shift isintrinsic to high-spin iron(III) cations in an octahedraloxygen environment and coincides with the chemicalshift for iron(III) in other previously characterized phosphates.
+This agrees with the fact that despite thedifferent distortions of FeO6 octahedra, the averageFe−O bond length for all phosphates is 1.98−2.03 Å.
+The great scatter of the quadrupole splitting values(from Δ = 0.30 mm/s for CaFeTi(PO4)3 to Δ = 1.00 mm/sfor Ni3Fe4(PO4)6 [21]) is above all due to the distortionof FeO6 octahedra.
+Indeed, for iron(III), the majorsource of the electric field gradient is the lattice contribution,which is determined by the charges and positionsof ions in the lattice .
+In view of the fact thatthe partial charge contributions into the electric fieldgradient decrease rapidly with distance from the Mössbaueratom and that FeO6 octahedra and PO4 tetrahedrain the phosphates in question share their corners in thesame manner, the observed quadrupole splittings reflectthe degree of distortion of the FeO6 octahedra.
+The unit cell parameters of the M0.5(1 + x)FexTi2 − x(PO4)3phosphates in the region in which rhombohedral symmetryexists (0 ≤ x ≤ 1.0) vary smoothly with increasing ı(Table 5).
+in general, they aredetermined by the interplay of several factors: the differencebetween the concentrations and sizes of iron(III) and titanium(IV) ions, the é2––é2– electrostatic repulsion in vacantinterstices (M1 and M2), and the occupancy of the M1interstices inside structure columns by small or large alkaline-earth cations.
+Parameter ‡ is a function of the thickness ofthe columns, which are built of (Fe/Ti)é6 octahedra and PO4tetrahedra; parameter Ò is a function of the height of the structuralfragments (Fig.5).
+In summary, we have synthesized theM0.5(1 + x)FexTi2 – x(PO4)3 phosphates for M = Mg, Ca, Sr,or Ba, determined the concentration regions of existenceof NZP solid solutions in these systems, and characterizedthe individual langbeinite compoundBa1.5Fe2(PO4)3. These phosphates have frameworkstructures.
+Our results enabled us to recognize the clearphase-formation pattern in the M0.5(1 + x)FexTi2 – x(PO4)3(M = Mg, Ca, Sr, Ba) systems and to discuss the effectsof structure-forming factors on structurally relatedphosphates.
+For applied purposes, the introduction ofcheep and available iron instead of titanium into phosphatesyields lower–cost materials with various functionalproperties, and the phase-formation laws make itpossible to choose optimal synthesis schedules to produceorthophosphate phases of required compositions.

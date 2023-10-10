@@ -1,0 +1,96 @@
+The results indicated that the response of the sensor based on SrMnO3 sintered at 1000 °C to 20 ppm acetone was the highest compared with sensors using MMnO3 (M: Ca, La and Sm)-SE, which was −49 mV.
+The sensor attached with SrMnO3-SE could detect even 1 ppm acetone, and the response value (ΔV) was −3 mV, which was an acceptable value.
+The ΔV of the sensor was linearly changed with the logarithm of acetone concentration in the range of 1–50 ppm and the sensitivity was −36 mV/decade.
+Most notably, the typical 90% response and recovery times of the sensor attached with SrMnO3-SE to 20 ppm acetone were only 2 s and 6 s.
+Moreover, the sensor manifested good repeatability and stability.
+Besides, the sensing mechanism of the sensor was explained, and polarization curve was measured to further demonstrate the mixed potential mechanism.
+Along with the improvement of living standard and the development of modern industry, the type and quantity of emissions are increasing.
+Among the emissions, so many gases are harmful to human beings, such as CO produced by combustion, nitrogen oxides and sulﬁde from automobile exhaust emissions, and VOC gases from interior ﬁnish.
+All these gases have an eﬀect on the health of the human body.
+As an important VOC gas, acetone has the characteristics of ﬂammable, volatile and explosive.
+Meanwhile, it will cause respiratory and neurological diseases if human being taken long time with acetone.
+Therefore, some unnecessary emissions could be avoided by accurately and quickly detecting acetone concentration.
+In addition, according to the study, the concentration of acetone in the exhalation of normal person was 0.3–0.9 ppm, but the value of patients with diabetic ketoacidosis is exceeded 1.8 ppm, 2–6 times higher than that of normal person.
+At present, the measurement of low concentration of acetone mainly rely on large analytical instruments, including gas chromatography/mass spectroscopy (GC/MS) and diﬀerential mobility spectroscopy (DMS), both of them are expensive, time-consuming, complicated to operate and large in volume.
+So, it is of great signiﬁcance to fabricate gas sensors of high performance, high accuracyand quick response.
+In recent years, various acetone sensors based on diﬀerent sensing mechanisms have been reported.
+Each of sensors has its own characteristics, such as high sensitivity, good stability and so on.
+Solid State Ionics 317 (2018) 53–59Order numberSensor typeSensitive electrode materialOperating temperature (°C)Acetone concentration (ppm)tres (s)Semiconductor Semiconductor Semiconductor Semiconductor Semiconductor SemiconductorSemiconductor Solid electrolyte Solid electrolyte Solid electrolyteZnO La0.9Sr0.1CoO3 square-shaped SnO2 nanowires Ni-doped SnO2 Cu-doped triclinic WO3 In2O3/ZnO–In2O3 composited nanotubes Ag doped ZnO nanoneedles CdNb2O6 Zn3V2O8 SrMnO3room temperature 25 290 340 300 280.
+Present work1. Most sensors have high sensitivity or selectivity, but their response and recover speed is generally slow, and it is not good for the rapid detection of acetone.
+Therefore, the development of acetone sensor with fast response and recovery rates is still needed.
+As one kind of solid electrolyte, CeO2 has received wide attention, and CeO2 solid electrolyte has been widely used in solid oxide fuel cell (SOFC) and sensors。
+As reported, the conductivity of dopedCeO2 is one order of magnitude higher than that of YSZ.
+In mixed potential type of the solid electrolyte sensors, in addition to the solid electrolyte (ion conductor), sensitive electrode material composed of oxide or precious metals also plays an important role in the characteristic of the sensor.
+Most of manganese have perovskite structure, and the electrochemical characteristics of manganese have been reported.
+However, reports about mixed potential type sensors fabricated with manganese and CeO2 were rarely seen.
+Based on the above reasons, the sensing properties of sensors fabricated with CeO2 and MMnO3 (M: Sr, Ca, La and Sm) sensing electrode materials have been researched.
+In this study, a series of MMnO3 (M: Sr, Ca, La and Sm) have been compounded by a simple sol-gel method and were used as sensing electrode to fabricated mixed potential sensors for acetone detection.
+The best sensing electrode material were determined by the performance of the sensors.
+In addition, the gas sensing properties including optimum operating temperature, lower limit of detection, response and recover times, repeatability and humidity stability for the sensor attached with SrMnO3-SE to acetone were systematically investigated and the sensing mechanism was discussed.
+Manganese acetate (Mn(CH3COO)2), citric acid (CA) and ethylene glycol was used as raw materials to prepare the SrMnO3 powders by a facile sol-gel method in this study [29].
+Accurately weighing a certain amount of Sr(NO3)2 and Mn(CH3COO)2, and keep the molar ratio of metal cations Sr to Mn was 1:1. After dissolving the Sr(NO3)2 and Mn(CH3COO)2 powders with deionized water respectively, the two solutions were mixed together and stirred on the magnetic stirrer for 30 min.
+Citric acid solution was dropwise added into the mixture solution, and make sure that the ratio of CA to metal cations (Sr and Mn) was 1.5:1. Meanwhile, a few drops of ethylene glycol were added as a dispersant into the above solution and keep the solution stirring on the magnetic stirrer for 30 min.
+Then, the mixed solution was placed in a constant temperature water bath heating of 80 °C until the gel solution formed.
+Subsequently, the resulting solution was maintained at 80 °C in an electric vacuum drying oven to prepare the amorphous polymeric precursors.
+The precursors were sintered in muﬄe furnace at 1000 °C for 4 h and then the material was taken out after cooling down to room temperature.
+The rest of MMnO3 (M: Ca, La and Sm) precursors were prepared with Calcium nitrate tetrahydrate (Ca(NO3)2·4H2O), Lanthanum nitrate hexahydrate (La(NO3)3·6H2O) and Samarium nitrate hydrate (Sm(NO3)3·6H2O), respectively.
+All materials were synthesized by the same sol-gel method, and sintered at 1000 °C for 4 h in muﬄe furnace.
+The crystal structure and morphology of the sensitive electrode materials were characterized by X-ray diﬀraction (XRD) and ﬁeldemission scanning electron microscopy (FESEM).
+XRD patterns were measured by Rigaku wide-angle X-ray diﬀractometer (D/max rA, using Cu Ka radiation at wave length = 0.1541 nm) in the range of 20–80°.
+Fabrication and measurement of gas sensorsA series of planar device sensors have been fabricated using dopedCeO2 (Ce0.8Gd0.2O1.95) plate (2 mm × 2 mm square, 0.2 mm thickness, provided by Ningbo SOFCMAN Energy Technology Co., Ltd), Al2O3 heater plate (2 mm × 2 mm square), sensing electrode material synthesized before, platinum wire and platinum paste (Sino‑platinum Metals Co., Ltd) in this paper.
+The fabrication process of the device was as follows: a narrow stripe-shaped platinum electrode (reference electrode, RE) and a platinum point were formed using the platinum paste and a small brush on two ends of the CeO2 plate, and sintered at 1000 °C for half an hour.
+The as-synthesized MMnO3 (M: Sr, Ca, La and Sm) powders were mixed with a little deionized water to form paste, and coated on the platinum point by a small brush to fabricate the sensing electrode (SE).
+Next, the devices were annealed at 1000 °C in order to let sensing electrode materials dry thoroughly and attached to the substrate tightly.
+The Al2O3 heater plate with Pt heater were ﬁxed to the CeO2 plate by the inorganic adhesive, which provided the operating temperature for the sensor.
+Solid State Ionics 317 (2018) 53–59that SrMnO3 was the best sensing electrode material among the four assynthesized materials.
+In order to explain the reason that why SrMnO3 has a best sensitivity to acetone, let's take a brief look to the sensitive mechanism of sensor.
+The sensitive mechanism of the current acetone sensor based on CeO2 and SrMnO3-SE could be explained by mixed potential mechanism.
+Sensing properties of the sensors were tested by a common static test method.
+The constant current source was used to provide a certain current to the heating plate, and the heating plate converted electrical energy into heat in order to provide the required temperature to the device.
+Heating temperature can be changed by the value of electric current.
+The electric potential diﬀerence between the sensing electrode and reference electrode was measured by a digital electrometer (Rigol.
+DM3054), and the results were recorded as the sensitive signal of the sensors by a computer connected to the electrometer.
+The results revealed that the MMnO3 sensing electrode materials with perovskite type were synthesized successfully.
+Micro morphology of the as-synthesized MMnO3 (M: Sr, Ca, La and Sm) powders were measured by the FESEM.
+The response value of the CeO2-based mixed potential gas sensors attached with MMnO3 (M: Sr, Ca, La and Sm)-SE to 20 ppm acetone was −49 mV, −10 mV, −15 mV and −20 mV.
+Obviously, the sensor based on SrMnO3-SE has the largest response value compared with the other three sensors, which indicatedIt can be seen that two main processes were involved in the detection of acetone: (a) when gas molecules diﬀuse through the sensing electrode layer to the triple phase boundary (TPB, which was consisted of the SrMnO3 sensing electrode, acetone gas molecule and CeO2), a little amount of acetone gas may react with the oxygen in the air, which can lead to a decrease in the concentration of acetone diﬀused to TPB; (b) when gas molecules get to the TPB, the electrochemical redox reactions (2) and (3) occurred and a local cell was formed at the TPB.
+A dynamic equilibrium would be achieved when the reaction rates of (2) and (3) are equal to each other.
+The potential at the sensing electrode is called mixed potential, and the diﬀerence measured between sensing electrode and reference electrode potentials was the sensing signal.
+As we all know, two main factors aﬀect the properties of the SE materials.
+From Fig.3, four kinds of MMnO3 materials all had the porous structure, which was beneﬁcial to reduce the consumption of acetone before acetone molecules diﬀused to TPB.
+And the porous structure was the basis for a good sensing properties of sensor.
+However, the diﬀerences of porous structure between four kinds of MMnO3 materials were minimal.
+So, SrMnO3 was best sensing material, the main reason might be that SrMnO3 had the highest electrochemical catalytic activity to acetone.
+In order to further verify the electrochemical catalysis of the as-synthesized materials, the polarization curves of sensors using four kinds of sensing electrode materials were measured.
+Fig.4(b) shows the polarization curves of sensors attached with MMnO3-SE in sample gas of air +20 ppm acetone.
+It is obvious that among the four curves, the slope of the curve for the sensor fabricated with SrMnO3-SE was the largest one, which indicated that the anodic activity of the sensor based on SrMnO3-SE was the highest, and SrMnO3 had the best electrochemically catalytic activity among the as-synthesized MMnO3 (M: Sr, Ca, La and Sm) composite oxide materials [35].
+Therefore, SrMnO3 was determined as the best sensing electrode material, and the following experiment revolved around the device using SrMnO3 as the sensing electrode material.
+It is universally acknowledged that sensors manifest the highest response to target gas only at a certain operating temperature, so the eﬀect of operating temperature for the response of sensor attached with SrMnO3-SE was tested and displayed in Fig.
+It can be found that with the increase of temperature, the response value of the device showed a rising tendency to 50 ppm acetone, and the response value was the highest (−68 mV) at 600 °C.
+Over 600 °C, the response value decreased with the increase of working temperature.
+The reason for this phenomenon can be explained by activation energy [36].
+When the temperature was below 600 °C, the activation energy was relatively low and the electrochemical reaction was not suﬃcient.
+Over 600 °C, as the increase of temperature, the desorption process of acetone gas was accelerated, so there were less gas molecules involved in the whole reaction, and this desorption process played a leading role in the whole reaction.
+Therefore, 600 °C was the optimum working temperature for the sensor based on SrMnO3-SE.
+SEM images of MMnO3 composite oxide materials crystallized at 1000 °C; (a) SrMnO3; (b) CaMnO3 (c) LaMnO3; (d) SmMnO3.The continuous response and recovery tests for the sensor to a concentration of 1–50 ppm acetone gas was measured and Fig.
+It is worth noting that 1 ppm acetone could be detected by the sensor used SrMnO3-SE, and the response value was −3 mV, which was an acceptable value.
+In addition, surface modiﬁcation or doping with noble metals (Pt, Au, Ag, etc.) nanoparticles which have been reported could catalyze a certain kind of gas selectively [39–41], according to this point, enhancing the ability of selective catalysis for acetone by surface modiﬁcation or doping with noble metals in sensing electrode material is also a feasible method for the improvement of the selectivity.
+And our following work would focus on improving the selectivity of the sensor to acetone based on the above methods.
+Humidity in the environment also aﬀects the performance of the sensor.
+Fig.8(a) displays the ΔV of the sensor to 20 ppm acetone gas in the relative humidity (RH) from 20% to 98%.
+In order to denote the change in response values more intuitively, the change of the ΔV (ΔVh) of the device was calculated by the formula ΔVh = [(ΔVn − ΔV0)/ ΔV0 × 100%], and ΔVn and ΔV0 represent the ΔV of the sensor in the RH of n% and 30%, respectively.
+The result reveals that the change of the response value for the sensor attached with SrMnO3-SE to 20 ppm acetone in the RH of 20%, 60% and 98% were 2.5%, −11.4% and −18.9% respectively, which displayed that the inﬂuence of humidity to the sensor could not be neglected.
+In the future work, the following measures may be used to improve the humidity of the sensor: ﬁrst, the acetone could be dehumidiﬁed before testing so that it can provide the dry test gas for the sensor; second, the hydrophobic layer was added toFig.
+Cross-sensitivities for the sensor attached with SrMnO3-SE sintered at 1000°C to various gases at 600 °C.
+Selectivity is an important indicator of sensor performance, and it is also a key index whether the sensor could be put into practice application, so the cross sensitivities of the sensor to various gases has been investigated.
+Fig.7 displays the ΔV of the sensor fabricated with SrMnO3-SE to diﬀerent kinds of gases at a concentration of 50 ppm.
+The diagram shows that the sensor has a larger response value to the organic gas and has little response to the inorganic gas.
+Among the organic gas, the ΔV to 50 ppm acetone gas was −68 mV, meanwhile, the response to ethanol gas was −45 mV, which indicated that the inﬂuence of ethanol gas could not be overlooked in the detection of the sensor attached with SrMnO3-SE to acetone gas.
+It also points out theSolid State Ionics 317 (2018) 53–59Fig.
+Four kinds of sensing electrode materials were prepared by a simple sol-gel method, through the XRD and SEM patterns, the structure and morphology of the four materials were analyzed.
+CeO2-based mixed potential type gas sensors using the as-synthesized materials were prepared, and SrMnO3 was conﬁrmed as the best sensing electrode material in comparison to the other materials.
+The sensor attached with SrMnO3-SE shows the best response to 50 ppm acetone at 600 °C, which was −49 mV.
+The sensor can detect even 1 ppm acetone, the more surprising thing is that the typical 90% response and recovery times of the sensor attached with SrMnO3-SE are only 2 s and 6 s.
+The sensitivity of the device to 1–50 ppm acetone is −36 mV/decade at 600 °C.
+However, the sensor is no good enough in both selectivity and humidity resistance, and that's the direction we're going to try to improve.
+In general, SrMnO3 could be used as a potential sensing electrode material to the rapid detection of acetone in atmosphere, microenvironment and diabetes.

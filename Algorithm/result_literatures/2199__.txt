@@ -1,0 +1,8 @@
+
+
+The electrochemical characteristics, i.e., their behavior as insertion cathode materials in rechargeable lithium batteries, of the two structural modiﬁcations of Fe(SO) were recently investigated (7—9). At low current densities (&0.1 mA/cm), both the monoclinic and the rhombohedral forms can reversibly intercalate 1.5 and 1.8 lithium ions per formula unit, respectively, at 3.6 V vs lithium. Additionally, (PO)\ for it was shown (8) that the substitution of (SO)\, from LiVFe(SO) to the isotypic Li>VFe (PO), results in a decrease of the »  to 2.8 V vs Li due to the smaller polarization of O\ toward P4 than toward S4'.
+
+More recently, we undertook systematic investigations of the reversible lithium insertion/extraction into/from a large (PO)\, number of polyanion structures (AsO)\, and (PO)\) operating on various transitionmetal redox couples (Fe>/Fe>, Ti>/Ti>, V>/V>, Nb>/Nb>, Nb>/Nb>,2) (12—16). Of particular interest are (1) the tuning of the transition-metal redox energies through the inductive eﬀect, i.e., the study of the eﬀect of the nature of the polyanion and of the crystal structure on the energy level of the ML>/M L\> redox couples, and (2) the identiﬁcation of new cathode materials operating on the Fe>/Fe> or Ti>/Ti> redox couples. Among these, the olivine LiVFePO with a ﬂat » "3.5 V vs lithium (12) and the rhombohedral NASICON Li>VFeTi(PO) and Li>VFe(PO) (13, 14) with a closed-circuit voltage centered at »K2.7 V vs lithium present particularly attractive performances.
+
+
+

@@ -1,0 +1,5 @@
+Although the NASICON-type of Na3V2(PO4)3 is regarded as a potential cathodecandidate for advanced sodium ion batteries (SIBs), it behaves undesirable rateperformance and low cyclability, which are resulted from its poor electronicconductivity.
+Here, we utilized conductive polyaniline (PANI) grown in situ to obtainthe hard carbon coated porous Na3V2(PO4)3@C composite (NVP@C@HC) with atypically simple and effective sol-gel process.
+Based on the restriction of doublecarbon layers, the NVP size decreases distinctly, which can curtail sodium iondiffusion distance and enhance the electronic conductivity.
+As expected, the productdisplays good discharge capacity (111.6 mA h g-1 at 1 C), outstanding rate capacity(60.4 mA h g-1 at 50 C) and remarkable cycling stability (63.3 mA h g-1 with retentionof 83.3 % at 40 C over 3000 cycles).
+Also, it performs a long-term cycling capacity of58.5 mA h g-1 exceeding 15000 cycles at 20 C-rate (with the capacity-loss of 0.24 %per cycle).

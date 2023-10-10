@@ -1,0 +1,111 @@
+Despite the discovery of sodium superionic conductivity in Na1+xZr2SixP3−xO12 (0.4bxb0.8) compounds in 1976, up to now their synthesis inhomogeneous thin films has not been achieved on wide surfaces.
+In order to study the efficiency of classical sputtering methods for the synthesis of such compounds, thin films have been prepared by sputterdeposition from two types of targets with the Na3Zr2Si2PO12 stoichiometry.
+The first one, associated with a NASICON (Sodium (Na) SuperIonicCONductor) structure, presented strong mechanical and chemical instabilities during sputtering that prevented a good experimentalreproducibility.
+On the other hand the second one, a composite mixture of Na3PO4 and ZrSiO4, was stable.
+Nevertheless, strong macroscopicand microscopic chemical heterogeneities were observed for the corresponding deposited films.
+These features are interpreted in terms of sodiummobility in the coating and re-sputtering of light elements during the deposition process.
+Sodium (Na) SuperIonic CONductors (NASICON) areinteresting candidates for applications in solid state electrochemistrywhere fast ionic conductivity is required.
+Indeed,bulk NASICON with Na1+xZr2SixP3−xO12 stoichiometry presentsNa+ conductivity close to 10−3 S cm−1 at room temperaturefor x=2, comparable to that of the best polymeric gels.
+Moreover, this compound presents high chemical durabilityversus molten sodium and sulphur [1].
+Hence this material canbe used as electrolyte for application in the fields of gas sensors,ion selective membranes or Na–S batteries [1–3].
+The interestin thin films increases due to the possibility of miniaturisationand a possible reduction of the electrolyte resistance.
+Althoughfast sodium transport in such compounds has been reported in1976 by Hong and Goodenough [4,5] only few contributionsdeal with NASICON coatings.
+Few attempts were made by pulsed laser deposition [6] and radio-frequency magnetronsputtering [7].
+A deviation from the targeted composition wassystematically observed and is expected to originate from thehigh mobility of Na+ species.
+The purpose of this work is to explore the classical magnetronsputtering methods for the preparation of thin NASICONfilms, to show their limitations and give some interpretationsabout the origins of these limitations.
+Due to the high reactivityof Na and P elements with oxygen and ambient air the numberof configurations to explore is limited.
+This paper mainly dealswith the lateral chemical homogeneity and with the reproducibilityof films produced from ceramic targets.
+Two targets, 50 mm in diameter and 3 mm-thick wereprepared with the Na3ZrSi2PO12 stoichiometry.
+The first one(T1) was synthesised according to the sol–gel process andexhibits the monoclinic structure characteristic of the Na3Zr2Si2PO12 composition [8].
+The second one (T2) was prepared from a powder mixture of 2 moles of ZrSiO4 per mole ofNa3PO4·2H2O powders pressed at 500 bars and sintered underinert atmosphere at 700 °C for 6 h.
+Both targets were glued withsilver-epoxy conductive glue on 1 mm-thick copper disks forsuitable cooling and polarisation during the deposition stage.
+The experimental device is a 40-l sputtering chamber pumpeddown via a mechanical pump and a turbo-molecular pumpallowing a base vacuum of 10−4 Pa (Fig.
+1).
+In both cases, thetarget is powered using a radio-frequency generator at a fixedpower of 20 W.
+The argon and oxygen flow rates are controlledwith MKS flowmeters and the pressure is measured using aMKS Baratron absolute gauge.
+The films were deposited atroom temperature from the target on a AISI 4130 stainless steeland sodocalcic glass substrates in the presence of argon–oxygengas mixture in order to compensate the oxygen loss duringthe transfer of species from the target to the substrates.
+Thesubstrates are placed on a fixed substrates-holder parallel to thetarget at a given distance r from the axis.
+The distance between the surface of the target and the substrates-holder Dts was50 mm.
+The morphology and chemical composition of the coatingswere observed with a Philips XL30.S FEG (Field Effect Gun)scanning electron microscope and determined by EDS (EnergyDispersive Spectroscopy) analysis, respectively.
+The structureof the films and the targets was studied by grazing incidence(4°) X-ray diffraction (XRD) using Co Kα radiation.
+The formation of well-defined structures in NASICONcompounds is difficult due to their high chemical complexity.
+Hence, the bulk samples (x=2) derived from the sol–gelmethod crystallise under a highly disordered rhombohedralstructure and under a well-defined monoclinic structure forannealing temperatures higher than 900 °C and 1100 °Crespectively [9].
+Without additional heating, the temperature ofthe substrate does not exceed 100–120 °C during a depositionrun.
+Therefore, the films synthesised in this study using bothkinds of targets are systematically analysed by XRD and showan amorphous status (Fig.
+2).
+Since the spatial distribution of sputtered species inmagnetron sputtering is strongly influenced by their atomicnumber [10], it is practically impossible to transfer the chemicalcomposition of a NASICON target [10] on large areas.
+Nevertheless,it is interesting to test the efficiency of a Na3Zr2Si2PO12target because the Na+ conductivity is high for an extendeddomain of stoichiometries around x=2 in the glassy [11] orcrystalline [9] states.
+X-ray diffractogramms of the T1 target were collected before(Fig.
+3 down) and after (Fig.
+3 up) a series of depositionexperiments.
+In the initial state, the structure is well definedand corresponds to the monoclinic C2/c symmetry [8].
+Thedeposition process induces several modifications of the target:○ A degradation of the cristallinity occurs (Fig.
+3).
+○ A volume expansion is observed at a radius from the centreof the magnetron system corresponding to the gap betweenthe magnets and usually associated with the deepest erosiontrack (Fig.
+4).
+Moreover, chemical analyses of the target(Table 1) clearly show a lack of sodium in this area.
+○ Cracks are observed across the depth of the target from thesurface of the swollen region to the interface with the copperholder (Fig.
+4).
+These local separations are expected to limitthe cooling efficiency.
+The volume expansion and the formation of cracks can beinterpreted by an accommodation of the different expansionsbetween the areas of the target receiving high Ar+ flux (zone 2of Fig.
+4) and low Ar+ flux.
+The phenomenon is certainlyamplified by the poor cooling efficiency confirmed by reddishglows at the top of zone 2 during an experiment.
+Undoubtedly,the sodium loss results from a combination of the heating andits high mobility in NASICON compounds.
+Therefore, it wasimpossible to achieve a good reproducibility of the experiments:the chemical composition of the films and, more particularly,their sodium content evolves strongly between two identicalexperiments (Table 1).
+The chemical and mechanical instabilities of the NASICONtarget are supposedly linked to its structural organisation.
+Thestructure of the T2 target (Fig.
+5 up) is very different from that ofthe NASICON and can be explained by the start of a chemicalreaction between ZrSiO4 and Na3PO4 powders.
+Indeed, thegeneral shape of the X-ray diffractogramm is close to that of the starting powders (Fig.
+5 down) mainly ascribable to the ZrSiO4hallmarks [12], the positions of peaks being shifted towardslow diffraction angles and some splits being observed.
+Thesefeatures indicate an increase of the ZrSiO4 lattice parameterscertainly due to the incorporation of Na and (or) P atoms in thelattice.
+The sputtering conditions used for this target are summarisedin Table 2. In order to preserve the target from a strong heatingthe power supplied has been limited to 20 W.
+Hence, a lowdeposition rate close to 50 nm/h has been achieved next to themagnetron axis.
+Then, 10 h deposition runs were realised toensure a significant thickness of the films.
+Fig.
+6 shows thevariation of Na/Zr and Zr/Si atomic ratios as function of r.
+When r increases from 5 to 30 mm, Na/Zr increases remarkablyand reaches a value close to that of the target (i.
+e.
+1.5 forNa3Zr2Si2PO12).
+For higher values of r, the Na/Zr atomic ratiostrongly decreases.
+At the same time, Zr/Si sharply decreases inthe r region 5–15 mm and is quite stable around the target ratiofor higher r values.
+The first part, r=5–30 mm for Na/Zr andr=5–15 mm for Zr/Si, of both curves can be explained by apreferential re-sputtering of light elements (Na, Si) from the films by heavy atoms/ions all the more marked than r is low.
+Indeed, the energy transferred to the film by impinging particlesincreases as the incidence angle approaches 90°.
+On the otherhand, the decrease of Na/Zr for high r values is characteristic ofa diffusion of light elements by argon during their transfer fromthe target to the samples placed far from the magnetron axis,combined with their preferential emission next to the magnetronaxis [10].
+Fig.
+7a.
+shows a schematic representation of the surfaceappearance of films deposited on AISI 430 stainless steel as afunction of r.
+A milky looking area can be observed in the rregion 20–50 mm.
+SEM observation of the surface at lowmagnification (Fig.
+7b) near r=30 mm showed the blisteredsurface.
+At higher magnification level (Fig.
+7c) lots of growthdefects are observed.
+EDS analysis clearly shows that thesedefects are mainly constituted of Na2O.
+Their immediateenvironment presents very poor sodium content, indicatingthat the defects act as sodium pumps.
+On this basis and bytaking into account the expected high mobility of sodium, amodel for the formation of growth defects can be proposed.
+Dueto the electrical potential difference between the plasma and the substrate for a magnetron discharge, a gradient of potential canbe established in the film thickness allowing Na+ migrationtowards the film–substrate interface for the highly conductingcompositions (Fig.
+8a).
+Then, for sufficient accumulation ofsodium, interfacial cracks are supposed to form locally resultingfrom strong electrostatic forces and (or) volume expansion(Fig.
+8b).
+If the accumulation of sodium is high enough, it cantransform into gaseous form [13].
+The overpressure comparedwith the reactor pressure is expected to induce a blistering ofthe film and a flow of sodium towards the surface.
+Then,the reaction with oxygen leads to the formation of Na2O(Fig.
+8c).
+The observation of cone-shaped canals starting at thebottom side of growth defects (Fig.
+8d) tends to confirm thishypothesis.
+According to our interpretations, the main solution to reducethe heterogeneities consists in reducing the potential differencebetween the plasma and the substrate-holder with the followingconsequences:○ Reduction of the high energy species bombardmentpreventing the re-sputtering of light elements.
+○ Limitation of the potential gradient along the film thicknessaccompanied by a reduction of the sodium mobility duringthe growth.
+It is noticeable that the coatings deposited on sodocalcicglass are default free.
+This tends to confirm the hypothesesproposed here.
+Indeed, the mobility of Na+ in glass is expectedto be sufficient to allow a transfer of these species through theinterface between the film and the substrate [6].
+Moreover, dueto the electronically insulating character of glass, the electricalpotential of the film–substrate interface is necessarily higherthan for the stainless steel substrates.
+The macroscopic homogeneity can be enhanced by amodification of the reactor geometry.
+Part II of this workproposes a new convenient synthesis method based on theseconsiderations.
+According to this method dense Na3Zr2Si2PO12films can be deposited with a good homogeneity on largesurface.
+The crystallisation under a structure characteristicof NASICON compound (x =2) can be achieved afterannealing.
+Targets of Na3Zr2Si2PO12 composition were used to depositthin films in order to study the feasibility of sodium superionicconducting films homogeneous on large surfaces.
+The sputteringof a monoclinic NASICON target induces its chemical andmechanical instabilities preventing the reproducibility of experiments.
+The stabilisation can be achieved with a composite targetmade up of a Na3PO4 and ZrSiO4 mixture.
+Due to the resputteringof light elements and their preferential diffusionby gaseous particles the chemical composition of films is heterogeneousat themacroscopic scale.
+Moreover, the highmobility ofsodium in NASICON compounds combined to the high potentialgradient in the film under growth can explain the formation ofNa2O growth defects and thus the microscopic heterogeneitiesobserved.
+Hence, the classical methods for the sputtering ofceramicmaterials based on RF supply of the target are unsuitablefor the synthesis of homogeneous Na1+xZr2SixP3−xO12 compounds.
+PART II describes the characteristics of a new kind ofsputtering method well suited for the synthesis of homogeneousNASICON thin films with good physical properties.

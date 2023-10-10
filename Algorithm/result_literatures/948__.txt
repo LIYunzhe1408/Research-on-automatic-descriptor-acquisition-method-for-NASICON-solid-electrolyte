@@ -1,0 +1,70 @@
+NASICON glass sample with a composition of Li1.3Fe0.3(BaTi)1.7(PO4)3 wasprepared using the conventional melt-quenching technique at 1300 ◦C for one hour aftertwo stages of calcination process at 300 ◦C and 600 ◦C respectively.
+
+ DTA was used to determine (Tg) and (Tc) of the as-quenched glass sample.
+
+XRD was used to confirm the glassystate of the prepared sample.
+
+The as-quenched glass sample was heat treated near its onsetcrystallization temperature for different times 1, 2, 3, 4, and 5 hours.
+
+The gradual precipitation of the crystalline nano-particles with NASICON type structure was also confirmedusing XRD.
+
+ The as-prepared sample and the five heat treated (HT) samples were investigated using Mossbauer spectroscopy, DC and AC conductivities and dielectric permittivity.
+
+¨FTIR, density, and TEM measurements were also performed.
+
+After HT, XRD and FTIRmeasurements conformed the formation of NASICON phase.
+
+The results of the dielectricpermittivity showed no maximum peak in the studied temperature and frequency ranges,which indicates the absence of ferroelectric behavior of the HT glass sample.
+
+Mossbauer ¨data showed that the iron in the glass and its HT samples include two ionic states, Fe3+(Oh) and Fe2+ (Oh) ions.
+
+It is observed that the DC conductivity of the HT glass for 5 h wasalmost two orders of magnitude higher than that of the parent glass.
+
+NASICON ceramics have attracted increasing attention of many scientists with the last twodecades according to their enhanced ionic conductivity which is useful in different fieldsof applications such as ion selective electrodes, solid batteries etc.
+
+At present, Li+ion rechargeable batteries represent the most power sources for different modern portableelectronic devices [6–8].
+
+The high energy efficiency of Li-ion batteries may also allowtheir use in various electronic grid applications [5].
+
+Glass from lithium and a transitionmetal ions such as vanadium with other glass forming oxide like P2O5 or SiO2 exhibit highmixed electronic-ionic conduction due to mobility of Li+ ions and the electronic conductionproduced from electron hopping from V4+ to V5+ according to Mott [9].
+
+The glass forming ability of the Li2O–TiO2–P2O5 system glasses was investigated byKishioka.
+
+ He has identified the restricted glass-forming regions of this system [10].
+
+Glassceramics belonging to the Li2O–TiO2–P2O5 system exhibit superior properties such asionic conductivity [11] and ion-exchange capacity [12] due to the formation of an alkalior alkaline-earth titanium phosphate phase which is called NASICON [12–15].
+
+Ionic –Electronic conducting characteristics of LiFePO4 cathode materials were studied [16].
+
+The formation of nanocrystals inside glass matrix is due to heat treatment of glass samplenear its crystallization temperature for a short time (1-5 h).
+
+These nanocrystals in glassstructure (which may call nanocomposite) improve the physical properties specially theelectrical conductivity.
+
+ Lithium phosphate glasses could be used as fast ionic conductor.
+
+When transition metal ions present in such glass, electronic conduction may be observed[17, 18].
+
+The aim of the present work is to explore the HT glass with high ionic conductivityin NASICON framework and detecting Fe2+ and Fe3+ ions using Mossbauer spectrom- ¨eter which may cause electronic conduction according to small polaron hopping.
+
+Also,the dielectric property of our samples should be examined to recognize the presence offerroelectric behavior for our samples.
+
+Glass sample of composition Li1.3Fe0.3(BaTi)1.7(PO4)3 was prepared by a conventionalmelt-quenching method.
+
+Glass–ceramic nanocomposites were obtained by heat treatment ofglass according to DTA results for different times.
+
+The DTA curve confirmed the amorphousnature of glass sample.
+
+Also, DTA results reveal that the glass sample has high thermalstability and good glass forming ability.
+
+Therefore, this sample could be used in a lot ofmodern applications.
+
+ XRD and FTIR confirmed the forming NASICON phase.
+
+TEM andXRD demonstrate the precipitated phase in nano-scale.
+
+It is observed that the conductivityof the HT/5 h sample is much higher than that of the parent glass.
+
+The results of the dielectricpermittivity showed no maximum peak in the studied temperature and frequency ranges,which indicates the absence of ferroelectric behavior of the HT glass sample.
+
+Mossbauer ¨data showed that the iron in the glass and its HT samples include two ionic states, Fe3+ (Oh)and Fe2+ (Oh) ions.
+

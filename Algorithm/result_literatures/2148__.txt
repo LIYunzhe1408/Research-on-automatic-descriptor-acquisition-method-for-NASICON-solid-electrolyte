@@ -1,0 +1,41 @@
+Electrochemical and Solid-State Letters
+
+An Na+ conductor-based amperometric sensor was designed for the detection of total NOx (NO + NO2) in air. An original amperometric device, attached with a layer of NaNO2 on the counter electrode (Au) was sensitive to NO2, but insensitive to NO. In order to make the device sensitive to NO, the sensing electrode (Au) was covered with double layers of catalysts to oxidize NO to NO2, i.e., WO3 and Pt (0.5 wt %)-loaded SiO2. At the sensing electrode potential fixed at -150 mV vs. the reference electrode (Au), the current response was proportional to the concentration of NO2 or NO up to 1 ppm at 150°C. In addition, the proportionality constants (sensitivity) were almost the same to NO and NO2. The current responses were hardly affected by the coexistence of CO2 and H2O. The NOx sensing mechanism of the present sensor was briefly discussed. © 1999 The Electrochemical Society. S1099-0062(99)02-046-5. All rights reserved.
+
+
+Nitrogen oxides of NO and NO2, usually abbreviated as NOx, are typical air pollutants which cause acid rain and photochemical smog. NOx is produced mostly as NO in combustion furnaces and automobile engines, and at lower temperatures or after emission into environments, the NO is gradually converted to NO2, a thermodynamically more stable form at room temperature. However, the concentration and composition of NOx in environments is variable, depending on the location and time. In urban areas, for example, NO usually surpasses NO2 at night, but the reverse is sometimes true in the daytime. 
+
+Several potentiometric devices to detect NO2 or NO have been developed by using solid electrolytes1,2 in combination with metal salt auxiliary phases3-5 or metal oxide electrodes.6-10 Amperometric devices11-19 have also been developed to obtain more precise concentration data for NO2 and/or NO. However, these devices are hardly applicable to the sub-ppm concentrations of NO2 or NO in environments. Recently, we reported an amperometric device based on Nasicon (Na+ super ionic conductor) which could detect NO2 in the sub-ppm range.20,21 The same device was insensitive to NO. This is fortunate for NO2 sensing but not for NO or total NOx sensing. To meet the latter mission, it was attempted to make the device also sensitive to NO by attaching a catalyst layer to convert NO to NO2 in situ.  The  resulting  device  turned  out  to  work  as  an  amperometric sensor for total NOx, as described below. Experimental
+
+The sensor device was fabricated by using a disk (9 mm˘
+
+x 0.7 mmt) of Nasicon (Na3Zr2Si2PO12), as shown in Fig. 1. The Nasicon disk was prepared from a powder mixture of ZrSiO4 and Na3PO4, as reported elsewhere.18-21 A commercial gold paste (Tanaka Matthey, TR 114G) was applied about 10 m m thick on both sides of the disk, as a sensing, counter, or reference electrode, as indicated, followed by annealing at 700°C for 30 min. Each Au electrode was confirmed to be porous by scanning electron microscopy (Hitachi, S-510). The Au counter electrode was covered with a layer of NaNO2 (ca. 200 m m thick). This assembly was exactly the same as the amperometric NO2 sensor  previously  reported.20,21 For  the  present  device, catalysts were deposited on the sensing electrode as follows. An aqueous paste  of  (NH4)10W12O41·5H2O  was  first  applied  and  heated  at 600°C for 5 h to form a WO3 layer (ca. 50 m m thick). On top of it, Pt (0.5 wt %)-loaded SiO2 was stacked as a layer (ca. 300 m m thick) by applying its paste with a -terpineol and ethyl cellulose, followed by  calcination  at  600°C  for  5  h, while  the Au  reference-electrode was coated gastight with an inorganic adhesive.
+
+Gas sensing experiments were carried out in a conventional gas flow apparatus equipped with a heating facility. Sample gases containing NO and/or NO2 in air were allowed to flow over the sensor
+
+Figure 1. Configuration of amperometric NOx sensor attached with NO oxidation catalysts.
+
+device at a rate of 100 cm3/min at 150°C. While the sensing electrode was polarized at -150 mV by means of a potentiostat (Hokuto Denko, HA-301), referring to the Au reference electrode, the electric current  flowing  between  the  sensing  and  counter  electrodes  was measured as a sensing signal.
+
+The  polarization  curves  of  the  present  device  were  measured under exposure to sample gases containing various concentrations of NO2 at  150°C.  Clear  limiting  current  ascribable  to  NO2 was observed over the sensing electrode potential range from 0 to -300 mV.  Almost  the  same  polarization  curves  were  also  observed  for NO. The current responses to NO2 and NO measured at -150 mV were proportional to their concentrations up to 1 ppm, as shown in Fig.  2.  In  addition, the  proportionality  constants  (sensitivity)  were almost  the  same  to  both  NO  and  NO2. The  response  transients  to NO2 and NO were fairly quick, taking ca. 60 s for 90% response, also as indicated in the figure. These results assure that the double layers  of  WO3 and  Pt-SiO2 attached  function  well  as  catalysts  to convert  NO  to  NO2.  Figure  3  compares  current  responses  to  NO2
+
+Figure 2. Amperometric sensing capabilities to dilute NO2 or NO. (-150 mV, 150°C.)
+
+Figure 4. Response currents to sample gases containing 0.5 ppm NOx with various NO2/NO compositions. (-150 mV, 150°C.)
+
+Figure  3. Response  current  to  NO2 or  NO  for  four  devices  unattached  or attached with catalyst layers of WO3 and/or Pt (0.5 wt %) SiO2. (-150 mV, 150°C.)
+
+and NO (0.1 ppm each) for various devices unattached or attached with single or double catalyst layers. The catalyst-free device (top) was  sensitive  to  NO2 only, as  previously  reported.  The  device attached with a single layer of WO3 (WO3/Au) gave larger response current to NO2, suggesting that WO3 is more active for the electrode reaction than Au. However, the response current to NO was smaller than that to NO2, indicating the insufficient catalytic activity for the NO  j NO2 conversion.  The  device  attached  with  Pt-SiO2 (PtSiO2/Au), on  the  other  hand, gave  too  small  current  responses  to NO2 and NO. Only the device attached with the double catalyst-layers (Pt-SiO2/WO3/Au) gave almost the same sensitivities to NO2 and NO, though the current responses were considerably smaller compared with the first two devices.
+
+The device attached with the double catalyst layers was subjected to further performance tests. Figure 4 shows the current responses to a series of sample gases containing 0.5 ppm NOx at different NO2/NO ratios. The response was kept almost constant, indifferent of the NO2/NO ratios. It was also confirmed that the current respons-
+
+Figure 5. Stability of the response current to NO2 or NO on changes in the concentration of CO2 or H2O coexistent. (-150 mV, 150°C.)
+
+es (cross sensitivities) to 100 ppm CO, 1000 ppm CO2, and 2.50 vol %  H2O  were  much  lower  than  that  to  1  ppm  NO2 (or  NO).  The response  to  0.5  ppm  NO2 (or  NO)  was  hardly  disturbed  when  the concentration of CO2 or H2O coexistent changed, as shown in Fig. 5. With such sensing characteristics, the present device appears to be promising as a total NOx sensor for environmental applications.
+
+The limiting current of the present device is considered to result
+
+from the following electrode reactions Sensing electrode            Na+ + NO2 + ej NaNO2                       [1] Counter electrode             NaNO2 j Na+ + NO2 + e-
+
+Figure  6  shows  a  sensing  model  schematically. At  the  sensing electrode polarized at -150 mV, reaction 1 takes place upon exposure to  NO2, to  be  coupled  with  reverse  reaction  2  taking  place  at  the counter  electrode. This  forces  sodium  ions  to  migrate  through  the Nasicon  disk  from  the  counter  electrode  to  the  sensing  electrode, giving rise to the current responses. The response to NO takes place in the same way, provided that NO is converted to NO2 efficiently in
+

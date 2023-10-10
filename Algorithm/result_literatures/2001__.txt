@@ -1,0 +1,46 @@
+Scaling behavior in the frequency dependent conductivity of NASICON glasses C. R. MARIAPPAN, G. GOVINDARAJ∗ Raman School of Physics, Pondicherry University, R. V. Nagar, Kalapet, Pondicherry 605 014, India E-mail: ggraj 54@lycos.com; crmari1@rediffmail.com
+
+Ion dynamic processes in ionically conducting materials have been subject of deep scientiﬁc interest for past few years and also it is a challenging problem [1–6]. The studies of electrical relaxation process in ionic conducting solids are very important. The relation between electrical relaxation and glass composition has been studied extensively. Thus, the typical feature of ion dynamical processes has been the remarkable success in developing theories that explain relaxation phenomena in glasses [7–12]. The ion dynamic processes have been studied by electrical conductivity dispersion. In the ion conducting materials the ac conductivity is generally well approximated by [13]
+
+where σdc is the dc conductivity, ωp is the hopping frequency of charge carriers and n is the dimensionless frequency exponent. The study of the ac conductivity spectra of several glasses at different temperatures leads to a scaling law and it is called a time-temperature superposition principle [1–5]. This means that for a given material the conductivity isotherms can be collapsed to a master curve upon appropriate scaling of the conductivity and frequency axis. Various workers have considered ac conductivity data scaled by dc conductivity σdc, and the frequency axis scaled by different parameters [1–5].
+
+Kahnt [5] and Ghosh et al. [14] has taken, ωp, the hopping frequency as a scaling factor for the frequency axis. Roling et al. [1] have considered (i) σdcT and (ii) σdcT /x as a scaling factors to scale the frequency axis for various temperatures and composition, where x is the mole fraction of mobile (alkali) ions and T is the absolute temperature. The carrier concentration nc is proportional to x. Sidebottom [2] has used (σdc/ε0ε) for the scaling frequency, where ε0 is the permittivity of free space and ε = (εs − ε∞) is the permittivity change from the unrelaxed baseline ε∞ to fully relaxed level εs. This scaling frequency is equalent to some numerical factor times the crossover or hopping frequency according to the Barton-Nakajima-Namikawa relaxation [15].
+
+In the present work, we have examined the two types of conductivity scaling approach for three different NASICON (“Na”—super ionic conductors) glasses, namely, Na3TiZnP3O12 (NTZP), Na3TiCdP3O12 (NTCP),
+
+Author to whom all correspondence should be addressed. C 8) 2002 Kluwer Academic Publishers
+
+Na4AlCdP3O12 (NACP). These three NASICON glasses preparation, characterization, and the electrical conductivity (the parallel conductance and capacitance) measurements, in the frequency range 20 Hz to 105 Hz for different temperatures were described in our earlier work [16]. The conductivity and permittivity were obtained by multiplying appropriate geometric factors with measured conductance and capacitance.
+
+The ac conductivity spectra at different temperatures for NTZP glasses are shown as in Fig. 1. The ac conductivity, σ (ω), is frequency independent below a characteristic crossover frequency. In this frequency range, σ (ω), is identical to the dc conductivity, σdc. Above the crossover frequency, σ (ω), increases with frequency. The conductivity spectra are analyzed in the framework of a conductivity formalism brieﬂy outlined below.
+
+The dc conductivity in Equation 1 can be obtained from the Nernst-Einstein relation in terms of the hopping frequency ωp, and charge-carrier concentration nc as
+
+where µ is the mobility; e is the charge of mobile ions; ap is hopping distance which is taken as approximation + −8 cm); k is the of a diameter of Na Boltzmann constant; and ν is a dimensionless geometrical factor equal to 1/6 for isotropic media such as
+
+cation (2.04× 10
+
+Figure 1 Frequency dependent conductivity spectra of the NTZP glass at different temperatures. The solid curves are the best ﬁts to Equation 3. The inset plot is log(nc) as function of 1000.0/T for different glasses.
+glasses. Using Equations 1 and 2 can be written as ωp[1+ (ω/ωp)n]
+
+Both the carrier concentration nc and the hopping frequency ωp may be thermally activated. The conductivity spectra are ﬁtted to Equation 3 for different temperatures for all the glasses and the parameters nc, ωp and n extracted. In Fig. 1, the ac conductivity spectra are shown for different temperatures for NTZP glass with the values of n (n ± 0.01). The results are found to be in agreement with the Equation 3 for all the temperatures. The temperature dependence of the carrier concentration nc is shown as an inset in Fig. 1 for the NTZP, NTCP, and NACP glasses. It is clear from the inset in Fig. 1, that, the carrier concentration nc is almost independent of temperature, i.e., the activation energy for creation of charge carriers is negligible. However, the NACP glass carrier concentration is slight greater than NTZP, NTCP glasses.
+
+The general form of the ac conductivity scaling law
+
+where ω0 is characteristic frequency. Two types of scaling approaches are studied for ac conductivity spectra. In the ﬁrst scaling approach, each frequency dependent conductivity data are scaled by the dc conductivity, σdc, and each frequency is scaled by considering the characteristic frequency ω0 as a hopping frequency ωp. The scaled conductivity spectra (conductivity master curve) for the NTZP glass at different temperatures using the ﬁrst scaling approach is shown in Fig. 2. The ac conductivity data are superimposed into a single curve. In the second scaling approach, each ac conductivity data are scaled by σdc and each frequency is scaled by considering the characteristic frequency ω0 = σdcT /nc, where nc the carrier concentration is proportional to x (the mole fraction of mobile (alkali) ions). The results are shown as an inset in Fig. 2. The conductivity spectra for different temperatures collapse into a single curve
+
+Figure 3 The plot showing log(ω/ωp) versus log(ωnc/σdcT ) of NTZP glasses at different temperatures. The inset plot is log(ω/ωp) versus log(ωnc/σdcT ) for different glasses at T = 453 K.
+
+(conductivity master curve). The two type of scaling indicate that the relaxation mechanism is independent of temperature. From Equation 2, the characteristic frequency ω0 is proportional to the hopping frequency
+
+and the factor (2πk/νe2a2 p) is the proportionality constant. In the case of the ﬁrst scaling approach, the frequency is scaled by ωp. It is clear from Equation 5, that ωp is proportional to σdcT /nc. Therefore, when we scaled the frequency axis in the second approach by σdcT /nc, we get a similar scaling feature as observed in the ﬁrst case. In order to reconﬁrm the similarity of the scaling feature in both the scaling approaches, we have presented in Fig. 3, the log(ω/ωp) versus log(ωnc/σdcT ) for NTZP glasses and for the other three glasses, NTZP, NTCP, and NACP at T = 453 K (inset). We have shown in Fig. 4, the conductivity master curves for three different NASICON glasses at T = 453 K for both types of scaling approach. We observe that the conductivity spectra at a particular
+
+Figure 2 Conductivity master curves of NTZP glass using ωp and σdcT /nc (inset) is scaling frequency at different temperatures.
+
+Figure 4 The scaled conductivity spectra as in Fig. 2 at T = 453 K for different glasses.
+
+temperature are superimposed into a single curve. The results in Fig. 4, indicate that the ionic relaxation mechanism is independent of various NASICON glasses. We have obtained the conductivity master curve frequency exponent n = 0.69 using Equation 4 for both types of scaling approach. The same value of the conductivity master curve frequency exponent n indicates that both scaling approaches have similar features.
+
+The scaling behavior in the ac conductivity spectra of NASICON glasses (i) Na3TiZnP3O12, (ii) Na3TiCdP3O12, (iii) Na4AlCdP3O12 were studied in the framework of conductivity formalism. The two different ac conductivity scaling approaches are used to study the ac conductivity spectra and the both scaling approaches have the same features. From the scaling studies it found that the ionic relaxation mechanism in the NASICON glasses is independent of temperature and the different NASICON glasses.
+
+Acknowledgments The ﬁnancial support by the UGC-research award scheme No. 30-64/98/SA-II and UGC research project No. F. 10-71/97(SR-I) is gratefully acknowledged for this work.

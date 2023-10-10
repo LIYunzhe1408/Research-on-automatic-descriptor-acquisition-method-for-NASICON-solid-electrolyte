@@ -1,0 +1,54 @@
+The effective use of electricity from renewable sourcesrequireslarge‐scale stationary electrical energy storage systems(ESS)with rechargeable high‐energy‐density, low‐cost batteries.
+
+We report a rechargeable saltwater battery using NaCl (aq) asthe energy source (catholyte).
+
+The battery is operated by evolution/reduction reactions of gases (mostly O2, with possibleCl2) in saltwater at the cathode, along with reduction/oxidation reactions of Na/Na+ at the anode.
+
+The use of saltwater andNa‐metal‐free anode enables high safety and low cost, as well as control of cell voltage and energy density by changing thesalt concentration.
+
+The battery with hard carbon anode and 5 M saltwater demonstrated excellent cycling stability with ahigh discharge capacity of 296 mAh g‐1hard carbon and a Coulombic efficiency of 98 % over 50 cycles.
+
+Compared with otherbattery types, it offers greatly reduced energy cost and relatively low power cost when used in ESS.
+
+IntroductionThe harvest and storage of electrical energy from renewablesources have become increasingly important due to manyreasons: the growing demand for electricity, a steady increasein oil price, fossil fuel depletion, and environmentalconsiderations such as global warming from CO2 emission.
+
+Most green energy is harvested from natural sources such aswind, thermal, and solar power.
+
+Supplying electric energydirectly from these sources is difficult, however, as the energyis still costly and not always available where and when it isneeded.
+
+ The development of large‐scale, efficient electricalenergy storage (EES) systems is highly desirable as it can helpmitigate fossil‐fuel related environmental issues and provide asolution to peak load in power supply, by saving the energyduring off‐peak times and releasing it during on‐peak times.
+
+Lithium‐ion batteries (LIBs) combine high energy density (250–300 Wh kg‐1), reasonable cost (250–400 $ kWh‐1), and longservice lifetimes(2–10 years).
+
+ However their wide applicationin portable electronic devices and electric vehicles may strainlithium production capability and increase their market price inthe long term.
+
+Na‐based batteries have gained much interest as candidatesfor post‐LIBs.
+
+Not only is sodium abundant and low‐cost, it alsohas a suitable electrochemical potential (E° =  ‐2.71 V vs.standard hydrogen electrode, SHE).
+
+Na‐air batteries havebeen studied intensively due to their high theoretical energydensity (1100–2080 Wh kg‐1) compared to that of existingLIBs.
+
+Aqueous Na‐air batteries possess especially goodreversibility owing to their soluble discharge product NaOH,compared to the aprotic Na‐air batteries whose dischargeproducts are the insoluble Na2O2 and/or NaO2.10,14‐16Nevertheless, the repeated plating and stripping of the Nametal anode during cycling would reduce this reversibility,impeding further development of aqueous Na‐air batteries.
+
+Itcan also cause safety issues, due to its high reactivity withelectrolyte and resultant dendritic growth.
+
+Our group has recently developed a new ‘seawaterbattery’.
+
+As a hybrid between a battery and a fuel cell, theseawater battery uses natural seawater containing Na+ as thecatholyte, making its application in large‐scale, stationary EESsystems environmentally friendly and price‐competitive.
+
+Theanode materials, such as hard carbon or other Na‐insertionmaterials, are also safer asthey are free of Na metal.
+
+However,the use of seawater limits the ESS plants to coastal locations.
+
+The amount of Na+ in seawater (approximately 0.46 M) alsolimits the battery energy density.
+
+In this work, we demonstrate an alternative ‘saltwaterbattery’, using the more available NaCl aqueous solution as thecatholyte.
+
+This is distinct from existing saltwater batteries,where the saltwater only serves as an electrolyte between twogalvanic‐couple electrodes.
+
+Our saltwater battery could offersignificantly reduced production cost, which is one prerequisitefor large‐scale EES systems, together with the removal ofgeographical limitation.
+
+The battery consisting of a hard carbonanode and 5 M saltwater catholyte showed a high dischargecapacity of 296 mAh g‐1 and good cycling performance, with aCoulombic efficiency of 98 % over 50 cycles.
+
+Our results suggestthat this saltwater battery should be a promising candidate forlow‐cost, grid‐scale stationary EES systems.
+

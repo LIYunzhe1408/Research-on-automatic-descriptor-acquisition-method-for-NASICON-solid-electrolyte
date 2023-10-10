@@ -1,0 +1,64 @@
+In this work, a new aqueous rechargeable Na-ion battery is developed based on allNASICON structured electrodes in which NaTi2(PO4)3 serves as the anode,Na3V2(PO4)3 serves as the cathode, and aqueous Na2SO4 solution serves as theelectrolyte.
+
+Such a combination of cathode-anode can fulfil the theoretical workingwindow of aqueous electrolyte, thus give rise to a high cell voltage surpassing most ofthe previous aqueous Na-ion batteries.
+
+The developed NaTi2(PO4)3/Na3V2(PO4)3aqueous full cell demonstrates a flat discharge plateau at 1.2 V and can well maintainits performance at high current rates.
+
+Even at a current density of 10 A g-1, the batterydischarge capacity can still reach 58 mAh g-1.Together with a high voltage, this cellconfiguration enables a high energy density of 29 Wh kg-1at a power density of 5145W kg-1.The NaTi2(PO4)3/Na3V2(PO4)3 system can be a promising low cost alternativefor the current aqueous secondary batteries especially in terms of the high voltage andhigh power application.
+
+By controlling the cut-off voltage and adjusting the mass ratioof cathode to anode, we explored the different electrochemical performances of theaqueous full cell and identify which side of the electrode dominantly affects the celldecay at the case of full utilizing one electrode material.
+
+This investigation maypresent useful insight to researchers working on both aqueous batteries andNASICON-based materials．The limited lithium resource motivates the research efforts to search low costalternatives for lithium ion batteries, in which sodium ion batteries (SIBs) areconsidered very promising one and have been intensively investigated in the past fewyears due to the abundance of sodium and its similar chemical properties to lithium[1-2].
+
+However, the non-aqueous organic-electrolyte-based SIBs still suffer from thehigh toxic and flammable electrolyte, low electrolyte conductivity and highfabrication costs, which limit their application in large scale energy storage [3-4].
+
+Compared to the non-aqueous SIBs, the safety problem is essentially settled inaqueous batteries, and severe manufacture conditions are avoided.
+
+Besides, the ionconductivity of aqueous electrolyte is two orders higher than that of non-aqueouselectrolyte, which can satisfy the high rate and high power capability [5].
+
+Overall,taking the safety, economic issue and environmental effect into consideration, theaqueous SIB systems possess high potential in the application of large-scale stationaryenergy storage and electric vehicles (EV).
+
+For aqueous SIB, increasing the cell voltage is a more effective way to promoteits energy density than increasing the capacity of the active materials, since activematerials only occupy ~30% of the total weight in an end-product of cell.
+
+Recentyears, various aqueous SIBs have been reported [6-11], however, the averagedischarge voltage of them are usually lower than 1.1 V, for example,NaTi2(PO4)3/Na0.44MnO2 (1.1 V), Na3Ti2(PO4)3/Na0.24MnO2 (0.9 V),NaTi2(PO4)3/NaMnO2 (0.9 V), polyimide/NaVPO4F (0.9 V), NaTi2(PO4)3/K0.27MnO2(0.8 V), Na2V6O16∙nH2O/Na0.44MnO2 (0.7 V), etc., as shown in Fig. 1.In thesereported aqueous SIBs, the NASICON-type (Na+superionic conductor) NaTi2(PO4)3(NTP) [12-14] is most frequently used as the anode due to its proper operatingpotential (about 2.1 V vs.Na+/Na).
+
+Such a NASICON structure features a highlycovalent three-dimensional framework that generates large interstitial spaces throughwhich sodium ions may diffuse [15].
+
+Besides, NTP shows relatively satisfyingcapacity, flat voltage plateau and stable cycle property in aqueous electrolyte, thus hasbeen generally regarded as the most acceptable anode candidate for aqueous SIBs.
+
+Asfor the cathode, although several manganese oxides based [16] materials have beenexplored, their low insertion potential (< 3.5 V vs.Na+/Na) leads to a low full cellvoltage.
+
+Prussian blue compounds were also explored as the cathode of aqueous SIBsfor their open-frameworks with large ionic channels [17-20].
+
+However, most of themsuffer from the poor capacity utilization in aqueous electrolytes due to a large amountof lattice defects or vacancies in the structure [21].
+
+So, it is of great interest to developnew cathode material with high voltage and good environmental friendliness foraqueous SIBs.
+
+Among the various reported cathode materials for SIBs, Na3V2(PO4)3 (NVP) alsoholds a NASICON structure which is similar to NaTi2(PO4)3.Up to now, Na3V2(PO4)3exhibits the best cyclability among the current cathodes in organic system, thus hasbeen studied extensively for non-aqueous SIBs [22-24].
+
+However, the researches ofNVP in aqueous electrolyte are rare [25-27].
+
+This may because Na3V2(PO4)3 holds apotential of 3.4 V vs.Na+/Na (0.7 V vs.SHE), close to the voltage of oxygenevolution, which makes it a challenge to control the electrochemical behaviours ofNVP in aqueous solution.
+
+Although some previously reports investigated thepossibility of NVP used in aqueous electrolyte, they only involved the performancesof half cell.
+
+It is known that the performance of a battery is not only determined by theelectrode material but also essentially relies on the battery configuration in which thecombination of cathode and anode is the key issue.
+
+The different mass ratio, capacity,first coulombic efficiency of cathode and anode would result in different utilization ofthe electrode material; and the actual working potential range of cathode and anodewould also differ from that in their half cell.
+
+Therefore, the same material may deliverquite different (usually much worse) performance in a full cell in respect to that of itshalf cell.
+
+From this view, the investigation of full cell performance is more crucial andvaluable for the real application of an electrode material.
+
+Among lots of literature, wehaven’t found the full cell investigation of NVP in aqueous SIBs until now.
+
+Here, for the first time, we assembled two NASICON compounds into a fullaqueous SIB cell by using NaTi2(PO4)3 as the anode and Na3V2(PO4)3 as the cathode.
+
+Such a new combination of cathode-anode can fulfil the theoretical working windowof aqueous electrolyte and surpass the output voltage of most previous aqueoussystems.
+
+ The developed aqueous battery can exhibit a high output voltage of 1.2 Vwith simultaneously a high rate performance up to 10 A g-1, giving rise to a powerdensity much higher than the previous reported systems.
+
+Such a battery provides apromising aqueous sodium ion battery with both high voltage and high power.
+
+Bycontrolling the cut-off voltage and adjusting the mass ratio of cathode to anode, weexplored the different electrochemical performances of the aqueous full cell andidentify which side of the electrode dominantly affects the cell decay at the case offull utilization of one electrode material.
+

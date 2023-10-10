@@ -1,0 +1,56 @@
+NASICON-type structured Na3V2O2(PO4)2F nanocubes with multi-wall carbon nanotubes (MWCNTs)composite has been synthesized by ethylene glycol-assisted hydrothermal reaction and used as arechargeable non-aqueous and aqueous sodium-ion battery cathode material.
+
+As a cathode material fornon-aqueous sodium-ion batteries, as-synthesized Na3V2O2(PO4)2F-MWCNT composite shows stablecapacity of 98 mAh g1 at 0.1 C for 120 cycles and 60 mAh g1 at 2 C for 1800 cycles in half-cell and fullcell configurations, respectively.
+
+In aqueous electrolytes, Na3V2O2(PO4)2F-MWCNT composite deliversdischarge capacity of 35 mAh g1 at 1 C rate in half-cell and 42 mAh g1 at 1 C rate in full-cell withNaTi2(PO4)3-MWCNT as an anode.
+
+Stable cyclability and high rate performance of Na3V2O2(PO4)2FMWCNT nanocomposite can be attributed to the very short sodium ion diffusion length in nano cubemorphology of Na3V2O2(PO4)2F as well as the carbon nanotubes matrix which endows the unbreakableconductive networks for electrons and Naþ ions.
+
+Sodium-ion batteries (SIBs) are considered to be the mostprominent alternative to lithium-ion batteries (LIBs) because of lowcost, natural abundance of sodium resources, and similarelectrochemistry compared to lithium system [1e6].
+
+To date, variouslayered transition metal oxides (NaxCoO2, NaxCrO2, NaxFeO2, P2-Nax[Fe1/2Mn1/2]O2, O3-Na[Ni1/3Fe1/3Mn1/3]O2) and polyanionic compounds (NaFePO4, Na3V2(PO4)3, NaTi2(PO4)3, Na2FePO4F, andNa3V2O2x(PO4)2F32x) have been reported as cathode materials forSIBs [7e15].
+
+Among these materials, sodium vanadium oxyfluorophosphate, Na3V2O2(PO4)2F, is a stable structured and highvoltage cathode material due to the inductive effect of fluorineSeveral research groups have reported this material as a cathodematerial for SIBs and most of the groups adopted solid state reactionto prepare Na3V2O2(PO4)2F [17].
+
+The sample prepared by the solidstate reaction generally shows limited rate capabilities due to thelarger particle size.
+
+demonstrated nano-sized Na3V2O2(-PO4)2F particles synthesized by simple low-temperature solvothermal reaction without the use of organic ligands or surfactants[18].
+
+At the same time, Peng et al.reported RuO2-coated Na3V2O2(-PO4)2F nanowires prepared by microemulsion-mediated hydrothermal synthesis for non-aqueous SIBs and they successfully overcomethe drawbacks of low conductive micron-sized particles [19].
+
+Although several cathode materials for SIBs are actively studied,safety issues based on using flammable organic solvents still hinderthe practical applications of SIBs.
+
+The usage of flammable organicelectrolyte causes the thermal runaway by the reactivity of theelectrode materials with electrolytes.
+
+In this view, rechargeableaqueous SIBs can alleviate this problem due to non-flammability,fast ion transportation, and lower manufacturing cost, which aremost suitable for large scale energy storage applications.
+
+Recently,we reported both Na2FeP2O7 and Na3V2O2x(PO4)2F32x as cathodematerials for aqueous SIBs [13,20,21].
+
+In particular,Na3V2O2x(PO4)2F32x/MWCNT exhibits a high redox potential,excellent cyclability and high rate capability.
+
+A full-cell coupledwith Zn metal as an anode delivers high voltage of 1.7 V and energydensity of 84 Wh kg1.Herein, adopting the proposed approach, we succeeded in thesynthesis of Na3V2O2(PO4)2F nanocubes with MWCNTs by usingethylene glycol-assisted hydrothermal reaction.
+
+The size ofNa3V2O2(PO4)2F can be easily controlled by adjusting the reactiontime.
+
+When used as a cathode for non-aqueous and aqueous SIBs,the Na3V2O2(PO4)2F-MWCNT nanocomposites in non-aqueouselectrolytes demonstrated an outstanding high-rate performancewith a reversible specific capacity of 98 mAh g1 at 0.1 C after 120cycles.
+
+In non-aqueous full-cell with NaTi2(PO4)3-MWCNT anodematerial, it delivers a capacity of 85 mAh g1 at 0.2 C, and60 mAh g1 at 2 C after 1800 cycles, respectively.
+
+Furthermore,Na3V2O2(PO4)2F-MWCNT composite in aqueous electrolytes, it delivers a reversible capacity of 35 mAh g1 at 1 C-rate in half-cell and42 mAh g1 at 1 C-rate in full-cell with NaTi2(PO4)3-MWCNT.
+
+To thebest of our knowledge, this is the first report on electrochemicalproperties of Na3V2O2(PO4)2F nanoparticles in aqueous electrolytes, proving high stability and performance of this material as anelectrode material for rechargeable aqueous SIBs.
+
+In conclusion, we have prepared Na3V2O2(PO4)2F-MWCNTnanocomposite using a simple ethylene glycol-assisted hydrothermal reaction.
+
+From the XRD and TEM analysis, it is concluded thatNa3V2O2(PO4)2F-MWCNT nanocomposite is highly crystalline andpure in the single phase.
+
+This material exhibits a stable dischargecapacity of 98 mAh g1 at 0.1 C over 120 cycles and can tolerate avery high current rate of 40 C in non-aqueous electrolytes.
+
+TheNa3V2O2(PO4)2F nanocubes with MWCNT composite was assembled into asymmetric Na-ion full-cells with NaTi2(PO4)3-MWCNT asan anode, and the full-cell exhibits a stable capacity of 60 mAh g1after 1800 cycles at 2 C-rate.
+
+In aqueous electrolytes, Na3V2O2(-PO4)2F-MWCNT composite delivers a reversible capacity of35 mAh g1 at 1 C-rate in half-cell and 42 mAh g1 at 1 C-rate infull-cell with NaTi2(PO4)3-MWCNT.
+
+This enhanced performancemay be attributed to the fast sodium intercalation/deintercalationpathways and electron transport in nano-sized particles, whichprovides a significantly easier Naþ path and high conductivitycompared with solid-state prepared micron-sized Na3V2O2(PO4)2Fsamples.
+
+Hence, the simple hydrothermal synthesis of the highperformance Na3V2O2(PO4)2F-MWCNT nanocomposite materialcan be applied in a wide range of applications in next-generationrechargeable sodium-ion batteries.
+

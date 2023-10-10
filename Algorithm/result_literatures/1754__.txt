@@ -1,0 +1,16 @@
+A new blue emitting phosphor, Eu0.5Zr2(PO4)3, was synthesized for the first time by the solid-state reaction method.
+The sample developed inthe present study has a stable NASICON-type rhombohedral structure, which consists of a three-dimensional network formed by PO4 tetrahedrasharing corners with ZrO6 octahedra in a single phase with high crystallinity.
+The photoluminescent emission spectrum shows typical emissionfrom 4f65d1 to 4f7 of Eu2+, although the improvement of the luminescent property will be necessary by optimization of the preparation processand the modification of the particle morphology.
+There has been considerable interest in the development ofadvanced luminescent materials for applications such as flatpanel displays, mercury-free lamps, and X-ray imaging systems.
+
+The XRD pattern of the sample is ingood agreement with a single phase of the NASICON-typestructure, and there is no diffraction peak correspondingto any impurities in the XRD patterns.
+The cell parametersof the Eu0.5Zr2(PO4)3 phosphor data are a = 0.8693 nm andc = 2.3388 nm, and the indexation of all reflections is consistentwith the R3 space group.
+
+
+In addition, the particle morphology of the Eu0.5Zr2(PO4)3 is granular and thatof the BaMgAl10O17 is plate-like.
+Although the emission intensity of the Eu0.5Zr2(PO4)3 phosphorwas 15.1% of the commercial BaMgAl10O17 one, thismaterial is expected to be applicable for some optical devices by the optimization of the synthesis procedure such as the utilizationof a flux and the modification of the particle morphologies.
+Furthermore, it is advantageous that the phosphor particle is assmall as possible because this potentially results in higher packingdensity and better paste rheology leading to high resolutionin displays and lower loading in lamps.
+In addition, the granularshape of the phosphor particles is available to minimizethe quantity of binder as well as vehicles required in the pasteused in the process of making back plates of several displays byscreen-printing or ink-jet printing.
+A new blue emitting phosphor, Eu0.5Zr2(PO4)3, was synthesizedfor the first time by the solid-state reaction method.
+Thesample developed in the present study has the stableNASICONtypestructure in a single phase with a high crystallinity, and thephotoluminescent emission spectrum shows a typical emissionfrom 4f65d1 to 4f7 of Eu2+.
+Although the emission intensity ofthis phosphor under UV excitation is not sufficient in the presentstage, improvement of the luminescent property is expected bythe optimization of the preparation process and the modificationof the morphology.

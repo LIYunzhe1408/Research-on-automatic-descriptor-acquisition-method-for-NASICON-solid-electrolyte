@@ -1,0 +1,68 @@
+Sodium-ion conducting glass–ceramics composed of Na1+xAlxGe2 − xP3O12 (x = 0.5) crystalline conductingphase were successfully prepared by heat-treating the parent glass at different temperature and time, andwere characterized with DSC, XRD, CV, SEM and alternative current impedance.
+
+The relationship between theionic conductivity and crystallization conditions (time and temperature) of the sodium aluminum germaniumphosphate (NAGP) glass–ceramic was investigated.
+
+Results show that the NASICON phases containing Al3+ inall these glass–ceramics are isomorphous with NaGe2P3O12 and stable against sodium metal.
+
+The highest totalconductivity of the glass–ceramic material, 9.27 × 10−5 S cm−1 at 140 °C, is obtained by highly crystallizingthe glass at 750 °C for 12 h.
+
+The reasons for the enhancement of the ionic conductivity in the glass–ceramicsare discussed in view of the dependence of microstructure morphology on the heating condition.
+
+ It could be attributed to its good crystallization of the conductive phase NAGP, uniform grain size and possible optimizing conductive pathway of Na+ ions.
+
+Sodium-ion batteries (NIBs) have attracted great attentions particularly in electric vehicles (EVs) and large scale electrochemical storagefor biomass, solar radiation, wind and waves and so on because of thehuge abundant sodium resources,low cost (Na2CO3 0.07–0.37 € kg−1vs.
+
+ Li2CO3 4.11–4.49 € kg−1) and very suitable redox potential(Eo(Na+/Na) = 2.71 V versus standard hydrogen electrode; only 0.3 Vabove that of lithium) [1–7].
+
+The very high reactivity of sodium withmoisture and oxygen, the quest for safer and more reliable electrolytesystems is therefore urgent, and solid electrolytes (SEs) are promisingcandidates in this regard [8–10].
+
+However, most polymer electrolytes coupling a polymer with a plasticizing organic solvent for NIBs still present some drawbacks [11,12].
+
+Inthis respect, inorganic solid electrolytes (solid sodium ion conductors)present potential advantages like a large electrochemical stability window, highly thermal stability, absence of leakage and pollution, a highresistance to shocks and vibrations and the possibility of easy miniaturization [13,14].
+
+One prominent example of the solid Na+ ion conductoris Na-β″-Al2O3 that is mostly used in the high temperature sodium batteries (sodium–sulfur batteries) as an electrolyte with an ionicconductivity of 0.2–0.4 S cm−1 at 300 °C [4].
+
+Another extensively studied Na+-conducting solid electrolytes are NASICON (Natrium (Na)Super (S) Ionic (I) Conductor (C), general formula is AM′M″P3O12)type compounds which demonstrate sodium ionic conductivities inthree-dimensional frameworks (any crystallographic direction) incomparison with Na-β-Al2O3 (layer structure) possessing only twodimensional Na+ mobility [15,16].
+
+Solid solutions ofNa1+xZr2SixP3 − xO12 (NZSP, 0 ≤ x ≤ 3), firstly reported by Hong andGoodenough [17,18], are typical examples of NASICON-type compounds which are characterized by relatively large ionic conductivitiesin the order of 10−1 S cm−1 at 300 °C and 10−4 S cm−1 at ambient temperature [8,19].
+
+Hence, the properties of the chemically stable Na+-conducting SEs with high sodium-conductivity at room temperature,good cation-exchange with electrode materials and so on shouldmake them possible for applications in room temperature all-solidstate NIBs with high safety [20].
+
+However, high porosity and big grain boundary as well as the difficulties in obtaining the desired shapes of the sintered NASICON-type ionconductors affect their practical applications as SEs in NIBs [21].
+
+Compared to the sintered materials, glass–ceramics can be made into desiredshapes and sizes more easily because of their pore-free and small grainsizes [22].
+
+So far, few reports were dedicated to sodium ionic conductorswith NASICON-type structure containing Al cations, let alone the glass–ceramics with same composition.
+
+Only Li+-conducting glass–ceramicscomposed with crystalline containing Al3+ NASICON phase have been reported [11].
+
+Due to the close ionic radius of Al3+ compared to that ofGe4+, the Al cation is likely within the tolerability limit of NaGe2(PO4)3framework.
+
+Furthermore, when NASICON-type sodium ionic conductorscontaining Al3 + are prepared, ALPO (aluminum phosphate) sidecompounds can be easily formed.
+
+Phases such as berlinite (ALPO), withtetrahedral PO43− groups, are very stable.
+
+Once formed, they do notreact to yield desired NASICON-type products [23–25].
+
+In this study, we report sodium ion conducting glass–ceramicscontaining crystalline NASICON phase, Na1.5Al0.5Ge1.5P3O12, and itspreparation method.
+
+ Al3+ in the glass–ceramics entered the structure of NASICON and partly substituted the Ge4+.
+
+ Sodium ionic conductivity of the solid electrolyte is up to 9.27 × 10−5 S cm−1 at140 °C.
+
+ Meanwhile, the effects of crystallization time and temperature on the ionic conductivity of the glass–ceramic have also been investigated.
+
+The prepared ion conductor extends the family of theNa1+xAlxGe2 − xP3O12 system and provides great promise for practical application in room-temperature sodium ion batteries or chemical sensors.
+
+Sodium ionic conducting glass–ceramic containing Na1.5Al0.5Ge1.5P3O12as the crystalline phase has been prepared by heat-treating the parentNa2O–Al2O3–GeO2–P2O5-based glass.
+
+ The as-prepared composition extends the family of the Na1+xAlxGe2 − xP3O12 NASICON system.
+
+Thesample treated at 750 °C for 12 h displays the highest ionic conductivityof 9.27 × 10−5 S cm−1 (140 °C) with activation energy of as low as0.53 eV.
+
+ It could be attributed to its good crystallization of the conductive phase NAGP and uniform grain size.
+
+Furthermore, the samples areelectrochemically stable at 5.5 V (vs. Na/Na+) at room temperature.
+
+The good thermal and chemical stability, easy preparation and lowcost of the Na+-conducting glass–ceramic make it promising a candidate as electrolyte for batteries or chemical sensors.
+

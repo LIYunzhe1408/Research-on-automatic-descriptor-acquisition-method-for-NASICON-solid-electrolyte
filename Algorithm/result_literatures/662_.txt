@@ -1,0 +1,11 @@
+Lithium ion conducting NASICON material of the form Li1.3Al0.3-xYxTi1.7(PO4)3 (where x = 0, 0.01 and 0.07)considered as promising electrolyte materials for solid state lithium ion batteries [1, 2] were synthesized via solid statereaction method.
+The compound was found to have a rhombohedral symmetry with space group R-3c from the x-raydiffraction studies.
+Further, a partial replacement of Y3+ in the lattice increased the lattice parameters.
+The roomtemperature Li+ ion conductivity of the yttrium doped samples deduced from the impedance spectroscopy, in thefrequency range 20 MHz to 1 Hz is found to be ~ 10-5 S/cm.
+The mode of ionic relaxation in grain boundary region wasfound to be different in yttrium doped samples compared to nominal composition.
+Core level x-ray photoelectronspectroscopy (XPS) was performed for Al and P.
+While Al was found to be in single coordination state, P was found topossess two coordination environment – both of which were in tetrahedral configuration.
+Al MAS NMR studies suggested distortion at tetrahedral and octahedral sites due to partial replacement of Al3+ and Ti4+ cations by Y3+.
+It wasfound that yttrium enhanced the overall density of the ceramic material – which however did not help increase the bulkLi+ ion conductivity due to blocking effect by aluminum and yttrium phases at grain boundary.
+Yttrium doping decreases the overall Li+ ion conductivity (compared to nominal composition LATP) by distortingthe lattice within grain and also by accumulating as parasitic phases at grain boundaries.
+However yttrium doping inoptimized LATP system leads to larger grain size, a higher density, a better sinterability and chemical stability of thematerial along with a reasonable Li+ -ion conductivity of ~ 10-5 S/cm which can prove to be good electrolytecandidate in solid state Li-ion batteries.

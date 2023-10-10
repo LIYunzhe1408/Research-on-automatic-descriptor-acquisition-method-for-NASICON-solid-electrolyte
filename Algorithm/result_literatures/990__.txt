@@ -1,0 +1,42 @@
+This is a review over the state of art in selforganization in crystalforming systems, where a longrange order appears spontaneously in the arrangement of nanoscale building units of any nature (atomic clusters and molecules), which initially existed in a dynamic state as a chaotic mixture.
+
+The focus is on bimolecular compounds where building units are Moctahedra M(O, OH, H2O) and Ttetrahedra T(O, OH)4bonded by OH–O hydrogen bonds and/or bridging oxygen atoms O.
+
+The combinatorial–topological modeling of 1D and 2D packings of suprapolyhedral clusters (MT)n has been carried out.
+
+These packings are symmetrically and topologically conceivable types of molecular MT clusters from which chains and 2Dmicrolayers are formed.
+
+The theoretically derived model MTclusters (MT)n are compared with knowntypes of precursor clusters in the molecular and framework MTstructures of polyvalent metal sulfates andtheir analogues.
+
+Combinatorial–topological analysis algorithms are provided to restore, from structure data,the convergent matrix crystal structure selfassembly code in the form of the sequence of significant elementary events.
+
+Crystal structure modeling involves combinatorial–topological analysis methods, whose underlying idea is the recogniition of packingforming precursor nanoclusters and the construction of the relevantbasal 2D and 3D networks in the form of graphs where nodes correspond to the positions of their centroids.
+
+The model is universal and has first been used to model the cluster selfassembly of molecular MT structuresfor V(2+)(H2O)4(SO4) (VRozenite), V(4+)O(H2O)5(SO4)(H2O) (SYN1), V(4+)O(H2O)5(SO4) (Orthominasragrite, Minasragrite, Anorthominasragrite), V(4+)O(H2O)3(SO4) (Bobjonesite); framework MTstructures V(4+)O(SO4)(H2(SO4) (SYN2), V(4+)O(SO4) (Pauflerite and SYN3), V(4+)2O3(SO4)2 (SYN4),V(4+)2O3(SeO4)2 (SYN5), Fe(3+)2(SO4)3 (LIPHOS), and Fe(3+)2(SO4)3 (NASICON); and for templatedframework MT structures (NH4)2[Ga2(PO4)2F2] (KTP), (NH4)2[Ga2(PO4)2(HF)F2] (pKTP),TlMo2(PO4)3 (SYN06), and K2Mg2(SO4)3 (Langbeinite).
+
+Frequency analysis of topological and symmetrypathways in the formation and evolution of clusters (from primary chain through microlayer to microframework ) elucidates new crystalformation trends in diverse chemical systems at the microscopic level.
+
+Modeling of selforganization processes in nonequilibrium chemical systems is a rapidly developingline of research that integrates the advances achievedin various fields of scientific knowledge (physics,chemistry, biology, and mathematics [1–20]).
+
+This hasbecome a new interdisciplinary field of research.
+
+“Selforganization” is a term used in reference tothe spontaneous formation of ordered threedimensional structures in nonequilibrium systems.
+
+Nonequilibrium systems are crystalforming systems inwhich longrange order (crystallization) emergesspontaneously in the arrangement of building units ofany nature (atomic clusters, micro and macromolecules), which initially existed in a dynamic state as achaotic mixture of nanoscale clusters [21–28].
+
+Modeling of selforganization processes in chemical systems and, ultimately, explaining these processes at amicroscopic (cluster) level in terms of the model ofcomplementary, highly selective assembly of crystalstructures from micromatrices (precursor clusters), ischallenging topic of the physics of condensed matter.
+
+The appearance of crystalline phases in a systemenables us to read, at a macroscopic level (by determining the atomic structure of a material by Xray diffraction methods), the symmetry and topology code ofcrystal selfassembly in the selforganizing system atthe nanoscale level; to make inference about thenature and properties of crystalforming precursornanoclusters; and to compare experimental data withthe results of modeling by theoretical methods.
+
+Crystalstructures of inorganic compounds and minerals canbe found in the ICSD database [29] and Pearson’sCrystallographic data database [30].
+
+There are some problems to be solved in studyingcrystalformation mechanisms, which will require thedevelopment of specific methods and approaches.
+
+Some of these problems are listed below.
+
+How is the crystallization of atomic system determined by the geometrical and topological propertiesof individual items (clusters) that constitute the crystalforming medium?What are universal scenarios (in terms of topologyand symmetry) of order–disorder kinetic phase transitions in chemically different systems?How do individual atomic species or polyhedralclusters interact synergistically for the system toacquire certain macroscopic spatial characteristicsthat would determine the transition from chaos toorder through selforganization?How can the sequence of significant events fromnanocluster through primary chain to microlayer and finally to microframework be recognized?Contemporary supramolecular chemistry concernsmultistage modeling of crystal structures (moleculetocrystal engineering).
+
+What is studied is: the molecule connection mechanism at the stage of supramolecular assembly formation and upon selfassembly toform crystal structure, and the formation by a molecule of more than one crystal structure.
+
+These problems of crystal structure modeling are universal formolecular systems where selfassembly occurs due toundirected wan der Waals bonds [31], or directed(bridging) Hbonds, or directed (bridging) covalentObonds [32–34].
+

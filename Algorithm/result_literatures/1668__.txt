@@ -1,0 +1,102 @@
+Rhombohedral Nasicon type materials of composition Ag 3–2xTaxAl2–x(PO4) 3 (x = 0.6, 0.7,0.8, 0.9, 1.0,1.1,1.2, 1.3 and 1.4) have been prepared and characterized by powder XRD and IR.
+All these compositionsare found to be isomorphous with NbTiP3O12, lithium and sodium analogues of same Nasicon framework.
+The unit cell parameters were derived from powder XRD.
+All the compounds show characteristicPO4 vibrational bands.
+DC conductivity measurements were carried out in the temperature range300–650 K.
+The activation energies for conduction were deduced from the Arrhenius plots and are in therange 0.42–0.71 eV.
+Among the series investigated, Ag 0.8Ta1.1Al0.9P3O12 exhibits the highest conductivity,σ ≈ 5.01 × 10–3 S cm–1 at 350 °C (Ea = 0.55 eV).
+NASICON is an acronym for sodium (NA) super (S) ionic (I) conductor (CON) with composition ofNa1+xZr2P3–xSixO12 (0 ≤ x ≤ 3) .
+These compounds with the general formula AxMM′(PO4)3, are characterizedby a framework structure built up from M2(PO4)3 units.
+Each unit consists of corner-sharingMO6 (M′O6) octahedra and PO4 tetrahedra.
+The framework consists of large tunnels along the c-axis ofrhombohedral lattice.
+The phosphorous site can be partiallysubstituted by silicon.
+Thus the structure is flexible for replacement at A, M, M′ or P sites giving rise to alarge number of compounds.
+The “A” type ions are present at two different sites viz.
+These materials are extensively studied because of the high conductivity, low thermalexpansion, high temperature stability and fairly large surface area.
+These materials are used indevices such as membranes, fuel cells and gas sensors.
+The other potential applications of Nasiconsinclude as mirror blanks , as host for radioactive waste , as catalysts , as ion exchangers and in insertion/extraction reactions.
+Alamo has reviewed all the possible Nasicon derivativesobtained by various chemical substitutions .
+
+Silver containing Nasicon type materials are lessexplored  in spite of (a) comparable ionic conductivity of Ag+ with that of Li+ and Na+, (b) theability of Ag+ to reduce to metallic silver rendering the possibility of obtaining proton conductors and (c)the catalytic activity of silver Nasicons.
+Recently we have investigated preparation, characterization andconductivity studies of AgTaMP3O12 (M = Al, Ga, In, Cr, Fe and Y) .
+Among these phases investigated,AgTaAl(PO4)3 exhibiting a dc conductivity of 2.9 × 10–7 S cm–1 at 100 °C and 1.710 × 10–3 S cm–1at 350 °C deserves further attention.
+To improve the conductivity of this material and to investigate theeffect of change in the concentration of silver ions on the conductivity, an attempt is made to increase (ordecrease) the silver ions in the lattice by substituting Ag+ and Al3+ (or Ta5+) in the place of Ta5+ (or Ag+and Al3+).
+To our knowledge, such studies of substitution of Ag+ and Al3+ in the place of Sb5+ are limitedin the series A+M3+M5+(PO4)3 .
+
+The required amounts of these reactants were taken and thoroughly mixed using spectralgrade acetone.
+The mixtures are loaded into silica crucibles and sequentially heated at 500 °C (4 h),750 °C (4 h) and finally at 850–950 °C (10 h) in air with intermittent grindings.
+Powder X-ray diffractograms are recorded using Philips X’pert Analytical X-ray diffactometer.
+Nickelfiltered Cu Kα radiation of wavelength 1.5406 Å is used.
+All the XRD patterns are indexed based on thed-values of similar reported systems and lattice parameters are calculated.
+Infrared spectra are recordedin the form of KBr pellets using JASCO FT/IR-5300 Spectrometer.
+The DC conductivities in the temperature range 300–623 K are measured using a two-probe methodon the sintered pellets coated with silver paint.
+A conventional sample holder and Kiethley Electrometer610C are used for these measurements.
+The compounds of composition Ag3–2xTaxAl2–x(PO4)3 (x = 0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2, 1.3 and 1.4) were prepared by reacting stoichiometric mixtures of AgNO3, Al2O3, Ta2O5 and NH4H2PO4 (all AR gradechemicals).
+The required amounts of these reactants were taken and thoroughly mixed using spectralgrade acetone.
+The mixtures are loaded into silica crucibles and sequentially heated at 500 °C (4 h),750 °C (4 h) and finally at 850–950 °C (10 h) in air with intermittent grindings.
+Powder X-ray diffractograms are recorded using Philips X’pert Analytical X-ray diffactometer.
+Nickelfiltered Cu Kα radiation of wavelength 1.5406 Å is used.
+All the XRD patterns are indexed based on thed-values of similar reported systems and lattice parameters are calculated.
+Infrared spectra are recordedin the form of KBr pellets using JASCO FT/IR-5300 Spectrometer.
+The DC conductivities in the temperature range 300–623 K are measured using a two-probe methodon the sintered pellets coated with silver paint.
+A conventional sample holder and Kiethley Electrometer 610C are used for these measurements.
+The powder X-ray diffractograms of compositions Ag3–2xTaxAl2–x(PO4)3 (x = 0.6, 0.8, 1, 1.2, and 1.4) areshown in Fig.1. 
+It is seen from these diffractograms that all compositions are of single phase with nodetectable impurity.
+All these patterns are found to be isomorphous with NbTiP3O12, lithium and sodiumanalogues of same Nasicon framework reported earlier.
+It is observed that Nasicon compositionwith monoclinic lattice is characterized by d-lines at (i) 2θ = 15 – 20° (ii) 2θ = 21 – 24° and (iii)2θ = 26 – 29°.
+In the present investigation, these d-lines are absent indicating the absence of monoclinicphase.
+Assuming hexagonal lattice, the unit cell parameters are calculated using least square fitof powder XRD patterns and given in Table 1 along with the unit cell volume and density.
+All thesecompositions crystallize in rhombohedral lattice with space group R3c.
+It can be observed from this tablethat there is a systematic decrease in the “a” and “c” unit cell parameters with decrease in the “x” value.
+As “x” decreases, smallerAl3+ replaces the larger Ta5+ ion resulting a decrease in the unit cell parameters.
+The variation of “a” and“c” parameters with “x” is shown in Fig.2 while the variation of unit cell volume with “x” is shown inFig.3.
+The IR spectra of these compounds in the range 1500–370 cm–1 are shown in Fig.4. 
+All the compoundsexhibit strong absorptions below 1500 cm–1. The band positions are presented in Table 2 for all the synthesizedcompounds.
+Phosphorous is thus present in the form of isolated PO4 units.
+Generally the vibrational modes of Nasiconphases can be assigned to PO4 tetrahedra (internal and external modes) and to lattice modes ofmetal octahedra.
+Of these, the bands corresponding to PO4 unit are more prominent than the modes ofmetal octahedra.
+The assignments for the observed bands have been made based on the predictions offactor group analysis.
+The PO4 unit gives nine vibrational modes that are characterized by symmetricνs (PO) and antisymmetric degenerate νas (PO) of phosphorous non-bridging oxygen stretching (ν1and ν3) and the symmetric/antisymmetric degenerate δd (OPO) bending (ν2 /ν4).
+These modes are ob-served in the frequency ranges 1270–1000 cm–1 (ν3), 1000–900 cm–1 (ν1), 670–540 cm–1 (ν4) and 450–440 cm–1 (ν2) for all the compounds.
+Among the internal modes, the changes observed in the ν3 modecould be attributed to polarizing nature of the metal ion.
+The more polarizing the ion (small size, largecharge), the more localized are the electrons on the P–O (M) bond and therefore the higher will be theforce constants and hence the frequencies.
+The PO4 external modes corresponding to vibrational andtranslational motions of these groups are generally observed below 300 cm–1. 
+Due to the instrumentalconstraints the spectra could not be recorded below 400 cm–1.
+A few reports are available on the analysis of crystalline Nasicon type compounds .
+Barj et al.have reported detailed analysis IR and Raman spectra of different Nasicon type compounds.
+Themedium and weak bands observed in the region 1000–1200 cm–1 for the compositions investigated aredue to asymmetric P=O stretching (ν3) of phosphate (PO4) group.
+The bands observed in the region960–900 cm–1 are due to symmetric P=O stretching (ν1) of PO4 group while the strong bands observedin the region 540–650 cm–1 are due to antisymmetric OPO bending (ν4) modes of PO4 group.
+The weakbands observed at 450 cm–1 are due to symmetric OPO bending modes (ν2) of phosphate group.
+Theweak bands observed at 380–400 cm–1 could be due to Al–O and Ta–O vibrations of metal octahedra.
+Colomban has reported the influence of structural modifications on the IR spectra of Nasicon,Na1+xZr2P3–xSixO12 (x = 2).
+The δ-mode (ν4) of PO4 group splits in the monoclinic phase and thissplitting disappears in the rhombohedral lattice .
+In the present investigation, ν4 mode is with out anysplitting confirming the rhombohedral lattice.
+Similar type of infrared spectra are obtainined for silvercontaining nasicons, AgM2P3O12 (M = Zr, Ti, Sn and Hf) .
+Among the phosphate modes, ν3 needfurther mention.
+Wang et al.from their IR study of crystalline and glassy Na4Nb(PO4)3 have concludedthat the band at 1175 cm–1 is due to pyrophosphate (P4O72–) units .
+Rao et al from their IR and Ramanstudies of glassy Nasicons have attributed the bands at 1180 and 725 cm–1 in glassy Na4Nb(PO4)3 to P–Ostretching and P–O–P bending of (P4O7)2– (Pyrophosphate) units .
+The absence of IR bands in theregion 740–730 cm–1 in the present series of compounds confirms the absence of pyrophosphate impurity.
+The absence of IR bands above 1200 cm–1, which is the region P=O stretch, indicates the absence oflong phosphate chains in these silver Nasicons .
+The dc conductivity of Ag3–2xTaxAl2–xP3O12 samples are recorded in the temperature range 300–623 K.
+
+It isobserved from these figure that the conductivity increases with increase in the temperature.
+The isothermalconductivity at 373 K and 623 K of these compositions are given in Table 3.The behavior of variation of conductivity with temperature is similar to that observed in other Nasicontype of compounds.
+From the slopes of these straight lines, the activation energy(Ea) for conduction are calculated and given in Table 3. The activation energies fall in the range 0.42 –0.71 eV.
+The activation energies of all the compositions of this series against the silver ion concentrationare plotted in Fig.6. 
+The highest and the lowest activation energies are observed for AgTaAlP3O12(0.71 eV) and Ag1.6Ta0.7Al1.3(PO4)3 (0.42 eV) respectively.
+We have earlier investigated the ac impedance studies on AgTaAlP3O12 and concluded that the conductivityis due to mobile silver ions .
+Therefore, it is reasonable to expect the same mechanism to beoperative in the series Ag3–2xTaxAl2–xP3O12.The conductivity plots show the following features:(i) for samples with compositions Ag0.2Ta1.4Al0.6P3O12, Ag0.4Ta1.3Al0.7P3O12, Ag0.6Ta1.2Al0.8P3O12, andAg0.8Ta1.1Al0.9P3O12, the change in conductivity with silver ion concentration is more pronounced.
+Theconductivity increases with the increase in the concentration of Ag+ up to Ag0.8Ta1.1Al0.9P3O12 and decreasesat AgTaAlP3O12. The isothermal conductivity at any temperature increases with Ag+ concentrationup to Ag0.8Ta1.1Al0.9P3O12. The variations of dc conductivity with 1000/T curves for these four samplesdo not cross with each other.
+(ii) for samples with compositions AgTaAlP3O12, Ag1.2Ta0.9Al1.1P3O12, Ag1.4Ta0.8Al1.2P3O12,Ag1.6Ta0.7Al1.3P3O12, and Ag1.8Ta0.6Al1.4P3O12, the change in conductivity with silver ion concentration isless pronounced.
+The conductivity of these samples is less than the conductivity of Ag0.8Ta1.1Al0.9P3O12.The variation in the conductivity with Ag+ concentration is irregular for these compositions.
+Further, thelog (σT) with 1000/T plots is crowded at higher temperatures indicating appearance of intrinsic conductivityin the present series of samples.
+From these plots it is noticed that the conductivity of these silver Nasicons increase with increase inthe concentration of Ag+ and reaches maximum for Ag0.8Ta1.1Al0.9P3O12, and then decreases.
+One possible reason for such an unusual variation ofconductivity with silver ion concentration could be the site preference of silver ions for M1 and M2 sites.
+For compositions Ag0.2Ta1.4Al0.6P3O12 to Ag0.8Ta1.1Al0.9P3O12, silver ions may be occupying the M2 sites,which are in the channels, and their movement along the channels and across the ribbons is less hindered.
+Beyond Ag0.8Ta1.1Al0.9P3O12 (for x = 1.0 to 0.6), silver ions may be occupying both M1 and M2 sites andthe transport of silver ions across the ribbons may be restricted due to a slightly higher ionic size of Ag+(1.15 Å) compared to Na+ (1.02 Å).
+Detailed crystal structure of these compositions is required for adefinite conclusion.
+Silver Nasicons of compositions Ag3–2xTaxAl2–x(PO4)3 (x = 0.6–1.4) crystallize in the hexagonal lattice.
+The unit cell parameters “a” and “c” decrease with decrease in the x-value.
+The infrared spectra of theseNasicon type compounds show characteristic bands due to PO4 group.
+The isothermal conductivity at350 °C was found to increase with increasing silver concentration and reach a maximum for the compositionAg0.8Ta1.1Al0.9P3O12 (5.01 × 10–3 Ω–1 cm–1) and then decreases for compositions containing Ag1,Ag1.2, Ag1.4, Ag1.6 and Ag1.8. This is attributed to the site preference of mobile silver ions.
+The activationenergy for conduction is in the range 0.42 – 0.71 eV.

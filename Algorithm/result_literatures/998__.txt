@@ -1,0 +1,20 @@
+Muestras de composición Ca0,45Eu0,05Zr2(PO4)3 se sintetizaron utilizando un método de preparación que transcurre en 2 etapas: uso de un proceso sol-gel empleando medios dereacción ácido (pH ≈ 2) y básico (pH ≈ 10) y un calentamiento posterior de los polvos precursores en corriente de N2:H2 (90:10) con el objeto de estabilizar el estado de oxidación 2+en el europio.
+
+ Los perfiles de difracción de rayos X obtenidos muestran reflexiones características de una estructura tipo NASICON de simetría romboédrica y grupo espacial R-3.Se aprecian máximos de reflexión más intensos para las muestras que se preparan usandoun medio de reacción básico.
+
+Las medidas magnéticas confirman el estado de oxidación 2+del europio en las muestras sintetizadas.
+
+Las imágenes de microscopia hacen visibles partículas de morfología esférica y tamano˜ nanométrico, en buen acuerdo con los resultadosde difracción de rayos X, lo que indica que estas muestras pueden resultar de utilidad enciertos dispositivos luminiscentes.
+
+Se sintetizaron muestras de composición Ca0,45Eu0,05Zr2(PO4)3empleando un proceso sol-gel con variación en el pH del mediode reacción.
+
+Posteriormente, los polvos precursores fueron tratados en atmósfera reductora para lograr la estabilización delestado de oxidación 2+ en el catión europio.
+
+La caracterizaciónestructural mediante DRX muestra la pureza de los polvos sintetizados, con la excepción de la muestra preparada a pH ≈ 2y a 850 ◦C.
+
+ Se encuentra una mayor cristalinidad en las muestras preparadas en medio básico.
+
+Las medidas magnéticasconfirman el estado de oxidación 2+ del europio en las muestras investigadas.
+
+La caracterización morfológica de los polvossintetizados encontró partículas de morfología esférica ytamano˜ nanométrico que pueden resultar de utilidad para suempleo en ciertos dispositivos luminiscentes.
+

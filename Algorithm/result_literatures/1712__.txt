@@ -1,0 +1,146 @@
+The electrochemical insertion properties of the monoclinic Li3V2−xAlxPO43 x = 0.00, 0.10, 0.25, and 0.50 phases are presented.
+Aluminum incorporation induces a modification of the lithium insertion reaction, consistent with increased alkali-ion disorderwithin the Nasicon structure.
+Although the reversible specific capacity decreased with aluminum content, the results suggest thatthe substituted phases may offer some important beneficial properties.
+Preliminary cycle testing of prototype lithium-ion cellsindicated encouraging performance with high material utilization and comparatively low discharge-capacity fade.
+The highest Alcontent phase demonstrated the best capacity retention, albeit at the expense of initial specific capacity.
+Framework materials based on the phosphate polyanion buildingblock are being considered as favorable replacements for oxidebasedmaterials as the cathode electrodes in lithium-ion battery applications.
+
+Of particular significance is the thermal stabilityof these phosphate phases, allowing them to be utilized inhigh-power-density and large-format battery applications.
+ The thermalproperties of the Li3V2PO43 phase are directly linked to thestability of the phosphate–metal bonds, which greatly diminishes thelikelihood of oxygen liberation from the structure.
+These are importantconsiderations, which are currently limiting the commercialsuccess of large format lithium-ion batteries.
+The monoclinic Li3V2PO43 phase has demonstrated outstandingelectrochemical performance with all three lithium ions extractableunder rapid charge rates.
+The lithium-extraction process ischaracterized by a series of two-phase transitions, while the fullydelithiated material, V2PO43, has half the vanadium ions present inthe V5+ oxidation state.
+The third and final lithium is extracted ataround 4.6 V vs Li, a cell potential which has caused some concernsabout the stability of the cathode/electrolyte combination under suchstrongly oxidative conditions.
+ Encouragingly, cycling of theLi3V2PO43 material causes insignificant changes in the X-ray diffractionXRD pattern, confirming the robustness of the Nasiconframework structure towards lithium extraction/insertion.
+ Followingmultiple charge–discharge cycles the lithium-insertion processis characterized by a smooth voltage profile, indicating thepresence of considerable alkali ion disorder.
+Following the successful optimization of the parent Li3V2PO43material, including its use in large-format lithium-ion applications,we have concentrated our efforts on modifying the insertion propertiesof this material by a range of substitutional strategies.
+We havepreviously carried out a similar approach involving the novel cathodeactive phase LiVPO4F14 using a partial replacement of vanadiumwith either Al or Cr.
+Although the V5+ oxidation state couldnot be accessed in these fluorophosphate materials within the particularpotential window examined, a useful increase in the operatingvoltage was determined.
+In this present study we have investigated the effect of the partialsubstitution of vanadium by aluminum in Li3V2PO43. Al incorporationinto lithium- and sodium-based Nasicon phases has previouslybeen described as a reliable method for improving the ionicdiffusion in these materials.
+16 The replacement of V3+ with Al3+ isconsidered favorable due to the similarity of the ionic radii of theseions within a sixfold coordination environment.
+Indeed, XRD dataindicate that the monoclinic Nasicon structure is retained for all thesubstituted compositions examined.
+The Li3V2−xAlxPO43 x = 0.5and 1.0 insertion system has previously been examined by thisgroup,17 although in this preliminary study the lithium extraction/insertion reactions were restricted to the voltage range 3.0–4.3 V vsLi i.e., the reversible cycling of 2 Li ions per formula unit.
+Thesepreliminary results indicated the impact of Al on the insertion behavior,prompting us to undertake a more thorough electrochemicalinvestigation.
+It was anticipated that Al incorporation inLi3V2PO43 might allow the formation of active phases whichwould exhibit beneficial electrochemical properties, including enhancedspecific capacity, improved operating voltage, and superiorcycle-life performance.
+In this procedure stoichiometric amounts of LiH2PO4 Alfa-Aesar, V2O3 Alfa-Aesar, and AlOH3Aldrich were intimatelymixed with the added carbon and then pelletized.
+The amount ofcarbon was predetermined to provide 3 wt % in the final compositeproduct.
+The presence of high-surface-area particulate carbon in thereaction mixture is believed to inhibit material grain growth as wellas improving the electronic conductivity of the product phase.
+The pellet was heated in a laboratory tube furnace Carbolite Ltd.
+,Sheffield, United Kingdom operating under a flowing Ar atmosphereand fired at 900°C for 16 h.
+
+Allowingfor the residual preparative carbon, the total carbon contentin these electrodes was 8 wt%.
+For lithium-ion testing the cathodeelectrodes were capacity matched with a low-surface-area crystallinegraphite.
+The active material loading for the cathode was in therange 20–25 mg/cm2, which is similar to the loadings used for electrodesin commercial lithium-ion cells.
+These prototype cells weredesigned to achieve discharge capacities in the range 20–30 mAh.
+The electrolyte comprised a 1 M LiPF6 solution in ethylenecarbonate/dimethyl carbonate 2:1 by weight while a dried glassfiber filter Whatman, Grade GF/A was used as electrode separator.
+High-resolution electrochemical measurements were performed usingthe electrochemical voltage spectroscopy EVS technique.
+20EVS is a voltage step method, which provides a high-resolutionapproximation to the open-circuit-voltage curve for the electrochemicalsystem under investigation.
+The EVS step size was 10 mVand the critical current density 100 A/cm2. 
+For all lithium half-cell testing the voltage limits were3.00–4.70 V vs Li, while for lithium-ion cells the voltage limitswere set to 2.50–4.65 V.
+Structural and crystallographic analyses were based on X-raypowder diffraction data obtained using a Siemens D5000 diffractometerin Bragg–Bretano geometry equipped with Cu K radiation.
+Data were typically collected in the 2 range 10–55° using a stepsize of 0.02°.
+Rietveld refinement of the powder X-ray data wascarried out using the GSAS software21,22 following the strategiesdescribed by Young.
+The unit cell lattice parameters derived from the RietveldGSAS X-ray refinement of all the experimental Li3V2−xAlxPO43phases are summarized in Table I.
+Also included in this table are thelattice parameters for Li3V2PO43 taken from a reliable literaturesource.
+ In all cases the prepared compositions were found to besingle phase monoclinic symmetry, space group P21/n with nodetection of unwanted impurities.
+In Fig.1 we depict the refinedX-ray powder diffraction data for two representative samples,Li3V2PO43 and Li3V1.75Alx0.25PO43, showing the observed, difference,and calculated XRD patterns.
+The replacement of vanadiumby aluminum in the monoclinic structure causes a correspondingdecrease in the unit cell volume.
+A similar unit cell contractionhas also been noted on other aluminum containing sodium Nasiconphases.
+The monoclinic Nasicon structure itself comprises a threedimensionalnetwork of PO4 phosphate tetrahedra and slightly distortedMO6 octahedra, all sharing oxygen vertices.
+The vanadiumand aluminum atoms occupy the same crystallographic site withinthe MO6 octahedra.
+The lithium ions are located in the cavitieswithin the framework arrangement.
+Three fourfold crystallographicpositions exist for the alkali ions, leading to a total of 12 lithiumpositions within the monoclinic unit cell.
+The partial replacement of V by Al in the Li3V2PO43 materialmay affect the specific capacity, cycleability, and discharge voltageprofile.
+This latter effect has been demonstrated in the lithium vanadiumfluorophosphate phase, LiVPO4F, where the incorporation ofAl has been shown to modify the insertion behavior of this activematerial, consistent with the loss of lithium-ion ordering within thefluorophosphate framework.
+In the Li3V2−xAlxPO43 phases itwas considered possible that all three lithium ions would still beextractable and as a consequence would be accompanied by a corresponding increase in the proportion of vanadium oxidized to the+5 oxidation state.
+In the extreme case of the Li3V1.50Al0.50PO43material, full Li extraction would lead to complete vanadium oxidationaccording to the charge/discharge reaction 3 shown below.
+In Fig.2 and 3 we depict the first-cycle EVS voltage profilesand corresponding differential capacity responses for theLi3V2−xAlxPO43 x = 0.00, 0.10, 0.25, and 0.50 phases, recordedin metallic lithium half cells.
+High-resolution measurements such asthese are a sensitive electroanalytical tool and can detect subtle andminor changes in the extraction/insertion reactions.
+For instance,sharp peaks in the differential-capacity profiles are indicative oftwo-phase reactions, whereas broad, featureless peaks are generallycharacteristic of insertion reactions where alkali-ion disorder ispresent.
+ Table II summarizes theseelectrochemical results, showing the first-cycle charge and dischargedata together with the theoretical specific-capacity figures for thesephases based on the cycling of three Li ions per formula unit.
+
+Prolonged potentiostaticholds at 4.7 V vs Li revealed that the theoretical specific capacityfor Li3V2PO43 could be attained, although long-term cycling usingthese voltage float conditions caused premature cell failure, presumablydue to electrolyte instability issues.
+The voltage response forLi3V2PO43 shows the characteristic electrochemical behavior forthis Nasicon phase.
+On charge, voltage plateaus at around 3.6 V vsLi and 4.1 V vs Li are associated with the extraction of the first twoLi ions, while a more sloping region is evident at around 4.6 V vsLi, which is related to extraction of the final lithium.
+Previous studieshave shown that following removal of the three Li ions, theactive material retains the V2PO43 framework, presumably facilitatingthe reported excellent cyclability of this material.
+Thesubsequent lithium-insertion process is also characterized by multipletransitions as well as significant voltage hysteresis at the highervoltage region.
+The EVS voltage profiles for the aluminum-substituted phasesindicate some intriguing features.
+As the Al content is increasedthere is a concurrent decrease in the material utilization, such thatfor the Li3V1.50Al0.50PO43 phase the specific capacity is now lessthan 150 mAh/g.
+This effect, however, does not appear to be linearwith Al content and the reversible specific capacities of theLi3V1.90Al0.10PO4 178 mAh/g and Li3V1.75Al0.25PO4172 mAh/g are close to that of the parent phase.
+Inspection of thefigure also demonstrates that the 4.1 V plateau reduces in size withincreasing Al content.
+This is as expected.
+During initial charging ofthe Li3V2PO43 material the voltage plateaus around 3.6 V vs Liare associated with the extraction of Li from nontetrahedral sites,while V3+ is oxidized to V4+.
+On the 4.1 V plateau the rest of theV3+ is oxidized to V4+, while Li is removed from the tetrahedralsites.
+By comparison, the V3+ activity Li3V2−xAlxPO43 is depleteddue to the presence of the nonactive Al3+, so the plateau gets smallerwith increasing Al content.
+The final plateau at around 4.6 V vs Li isassociated with the V4+/V5+ redox couple.
+In addition, Al incorporationcauses the voltage profiles for both the lithium extractionand insertion processes to become increasingly featureless, presumablyrelated to a loss of lithium-ion ordering within the structure.
+Finally, a gradual increase in the level of polarization can be determinedas evidenced by the increased level of hysteresis between thecharge and discharge processes.
+Although one can detect clear differences in the voltage profiles,the effect of Al substitution on the electrochemical-insertion behaviorcan perhaps best be understood by inspection of the EVSdifferential-capacity data.
+For comparative purposes the data depictedin Fig.3 have been normalized on the same differentialcapacityscale mAh/g/V.
+The charge data for the parentLi3V2PO43 phase shows the redox transitions associated with thesequential removal of lithium from the energetically inequivalentsites within the Nasicon structure, annotated on Fig.3 as peaks C1through C4.
+ The corresponding lithium-insertion reactions are denotedas peaks D1 through D3. 
+As expected, a series of well-defined,two-phase reactions sharp differential capacity peaks characterizethe lithium-extraction process.
+Insertion peaks D1 through D3 characterizethe subsequent lithium-insertion behavior.
+At the highvoltagerange between 4.1 and 4.7 V vs Li there is a significantamount of peak separation between the charge and discharge wavesvoltage hysteresis in Fig.2, indicating the presence of lithiumdisorder within the system.
+The removal of the third lithium is possiblykinetically hindered due to reduced ionic and electronicconductivity.
+Further lithium insertion in the range 3.4–4.1 V vsLi shows that the two-phase insertion mechanism can be reestablishedas evidenced by the sharp differential capacity peaks D2and D3.
+These redox transitions are distinct as indicated by thesharpness of these three differential capacity peaks.
+
+The data depicted in Fig.3 confirm that a relatively low level ofAl incorporation has a pronounced effect on the resultant insertionbehavior.
+For example, a clear difference in the differential capacityprofiles for Li3V2PO43 and Li3V1.90Al0.10PO43 phases can bedetermined.
+The high voltage peak associated with extraction of thefinal Li C4 has shifted to lower voltage from 4.57 to 4.52 V vs Liand is now much sharper.
+This observation may prove significantfrom a commercial viewpoint because it means that a relativelysmall addition of Al allows the user to fully utilize the active materialat a lower charge voltage.
+This may facilitate better long-termperformance because the electrochemical stability window of theelectrolyte can be seriously compromised at such high oxidativevoltages.
+In addition, as was demonstrated in Fig.2, the specificcapacities for these two materials were essentially unchanged ataround 180 mAh/g.
+The lithium-insertion process in theLi3V1.90Al0.10PO43 is now much more disordered as evidenced bythe lack of intense, sharp differential-capacity peaks during the dischargeprocess.
+This latter point can be further illustrated by the datapresented for the x = 0.25 and x = 0.50 phases.
+The differential capacity data for the Li3V1.75Al0.25PO43 phaseagain demonstrates a further decrease in the position of the C4 peak,now centered at 4.50 V vs Li.
+Moreover, the lithium-insertion processis now disordered at all Li compositions, this effect being reflectedin the very broad differential capacity features and thesmooth voltage profile depicted in Fig.2. 
+As described previously,for the unsubstituted Li3V2PO43 phase, this type of voltage responseonly appears following multiple charge/discharge cycles.
+
+Theoverall charge and discharge processes are now both characterizedby very broad and diffuse differential capacity peaks.
+As describedearlier Reaction 3 it was hoped that the Li3V1.50Al0.50PO43 phasemay offer the best overall electrochemical performance of all thematerials tested in this study.
+Unfortunately, separate testing to 5 Vnot shown here failed to indicate any further redox activity.
+It ispossible that additional capacity is realizable at still higher oxidativeconditions but this was considered beyond the safe limit of the electrolytesystem used in this study 1 M LiPF6 in ethylene carbonate/dimethyl carbonate EC/DMC.
+To further characterize the electrochemical performance of theLi3V2−xAlxPO43 electrodes, prototype lithium-ion test cells wereconstructed using a low-surface-area crystalline graphite as the activeanode material.
+In Fig.4 and 5 we compare the first-cycle EVSresponses of representative cells using cathode compositions comprisingLi3V2PO43 and Li3V1.75Al0.25PO4.
+For these tests thecells were cycled between voltage limits of 2.5 and 4.6 V.
+The performancefor Li3V2PO43 cell Fig.
+4 is broadly consistent withsimilar studies described previously by this group.
+The first chargeprocess corresponds to a cathode utilization of 184 mAh/g, whilethe corresponding discharge reaction equates to a specific capacityof 167 mAh/g.
+The first-cycle charge inefficiency amounts toaround 9%, a figure in line with measurements for commerciallithium-ion cells.
+For reference purposes the graphite active materialdemonstrates a reversible specific capacity close to 300 mAh/gcathode-to-anode mass balance of 1.8:1.
+As expected, the overallvoltage profile for the graphite//Li3V2PO43 cell depicted in Fig.4is relatively complex, comprising multiple voltage steps reflectingthe combined insertion behaviors of the graphite and Nasicon activematerials.
+Text annotation on the differential-capacity profiles helpto characterize the main electrochemical features.
+The main chargepeaks are positioned at 3.48, 3.54, 3.97, and 4.49 V, while the dischargepeaks are centered at 3.91, 3.48, and 3.35 V.
+Considering thevoltage off-set between the different anode electrodes, these featuresare all in close agreement with the transitions described for the Lihalf-cells data described in Fig.2 and 3. 
+The overall performance ofthis prototype cell, when considered in combination with the averagedischarge voltage of around 3.8 V, is comparable to commerciallithium-ion cells utilizing lithium cobalt oxide as the active cathodematerial.
+The voltage response from the graphite//Li3V1.75Al0.25PO4lithium-ion cell Fig.5 confirms that this system shows comparablespecific-capacity performance to the Li3V2PO43 lithium-ion system.
+The charge process is equivalent to a cathode specific capacityof 178 mAh/g, while the discharge process corresponds to166 mAh/g, amounting to an encouragingly low 7% first-cyclecharge inefficiency.
+Again the anode material utilization is around300 mAh/g.
+The differential capacity peaks on charge are positionedat 3.48 V broad, 3.96, and 4.42 V while the discharge process ischaracterized by peaks at 3.81 and 3.41 V.
+Note the relatively broaddifferential capacity peaks which now dominate the discharge processand which correspond to the relatively smooth discharge voltageprofile.
+This is confirmation that relatively low levels of Alreplacement for V can cause profound changes in the insertion behaviorof the active material and hence the lithium-ion cell voltageresponse.
+In addition, the upper voltage plateau on charge is nowpositioned at 4.42 V, around 70 mV lower potential than the equivalentfeature in the Li3V2PO43 cell Fig.4.
+From inspection of thedifferential capacity profile it would now seem possible that a chargevoltage of 4.5 V would be sufficient to fully charge this lithium-ioncell.
+As discussed previously, this feature may be important for optimizingthe performance of this lithium-ion system.
+In Fig.6 we depict the preliminary cycling performance ofrepresentative lithium-ion cells made using the variousLi3V2−xAlxPO43 experimental iterations.
+These data were collectedat an approximate C/10 rate for charge and discharge using voltagelimits of 2.5 and 4.6 V.
+As expected from the EVS half-cells resultsthere is an inverse correlation between the Al content and the initialcathode specific capacity, the higher Al content iterations offering alower specific capacity.
+All cells, regardless of cathode composition,appear to cycle relatively well.
+For instance, the cell based on theLi3V1.90Al0.10PO43 cathode material shows a 5% discharge capacityfade over the initial 60 cycles, cycling behavior that is similar tocommercial lithium-ion cells.
+A comparison of the overall capacityfade indicates that the cell incorporating the Li3V1.50Al0.50PO43material gives the lowest fade rate, just 1% in the initial 25 cycles,although this performance is achieved at the expense of initial dischargecapacity.
+It is possible that the improved cycle performanceof the Al-substituted phases may arise from the nature of thecathode-electrolyte interactions at the higher voltage region.
+Theupper voltage plateau for the parent Li3V2PO43 phase is situated ata higher potential than for the Al substituted materials.
+It is knownthat prolonged periods at these oxidative cathode potentials caninduce significant electrolyte decomposition,29 which would causedischarge capacity fade.
+The Li3V2PO43 Nasicon phase has been identified previouslyas a cathode material for safe, large-format lithium-ion batteries.
+8,9Under optimized, low-rate conditions, this material has been shownto cycle at a specific capacity close to the theoretical .
+Within the compositional range under examination,Al replacement for V produced a number of single-phaseLi3V2−xAlxPO43 products.
+It was anticipated that the Al incorporationmight impart some important beneficial attributes.
+The experimentalLi3V1.90Al0.10PO43 and Li3V1.75Al0.25PO43 phases demonstratedreversible capacity performance similar to that describedfor the unsubstituted parent phase.
+It was also determined that thevoltage profile is changed significantly even at the lowest Al contents,consistent with increased alkali-ion disorder within the monoclinicstructure.
+During the charging process, the upper voltage plateau,associated with the removal of the final Li ion from theNasicon framework, is shifted to lower potential, a property thatmay benefit the long-term stability of lithium-ion cells made usingthese active materials.
+This shift in operating potential was confirmedin prototype graphite lithium-ion cells where a clear differencewas detected between the voltage profiles of the Li3V2PO43and Li3V2−xAlxPO43 systems.
+Lifetime testing of these lithium-ioncells indicated that in all cases including the unsubstituted phasethere is good preliminary performance with relatively low associatedcapacity fade.
+The highest Al content phase, Li3V1.50Al0.50PO43,demonstrated the lowest capacity fade behavior, although this behaviorwas achieved at the expense of initial specific capacity.
+Duringthe Li extraction process the average vanadium oxidation statewas never extended beyond +4.5. It is possible that additional electrochemicalactivity is present in these phases but may only be accessibleat charge voltages in excess of 5 V vs Li.

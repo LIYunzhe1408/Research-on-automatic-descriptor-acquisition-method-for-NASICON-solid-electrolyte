@@ -1,0 +1,476 @@
+ 
+Li0.6Na2.4V2(PO4)2F3 holding  a NASICON structure is synthesized via ion exchange  from  Na3V2(PO4)2F3.  The  Na+  ions  at  Na(2)  sites  and  inserted  Li+  ions  in  this 
+
+NASICON  structure  are  suggested  to  give  a  large  initial  specific  capacity  and  a 
+
+hybrid-ion  migration  during  electrochemical  cycling.  As  a  lithium-inserted  cathode 
+
+material, Li0.6Na2.4V2(PO4)2F3 exhibits a specific capacity of 123 mAhg-1 at a current  density of 0.1 C with two plateaus around 3.77 and 4.19 V vs. Li+/Li. The capacity of 
+
+the  Li0.6Na2.4V2(PO4)2F3/Li  battery  can  retain  104  mAhg-1  with  a  high  coulombic 
+
+efficiency of 98.6% at 0.1 C after 151 cycles.    Keywords:  Li0.6Na2.4V2(PO4)2F3;  lithium-insertion  cathode;  battery;  ion-exchange;  hybrid-ion                     
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+
+Since  NASICON  (Na+  superionic  conductor)-related  compounds  could  exhibit  high 
+
+Li+ or Na+ mobility as well as the reasonable discharge capacities in both lithiumand 
+
+sodium-ion  batteries,  numerous  studies  have  been  and  continue  to  be  carried  out  to 
+
+investigate their attractive properties as promising electrode materials in batteries[1-5]. 
+
+The well-known NASICON skeleton is composed by corner-sharing XO4 tetrahedra 
+
+and MO6 octahedra that create the so-called lantern units, which are assembled into a 
+
+three-dimensional  M2X3O12  framework  that  defines  M(1)  (one  position  per  formula 
+
+unit) and M(2) (three positions per formula unit) interstitial sites in the rhombohedral 
+
+structure  that  are  usually  filled  (fully  or  partially)  by  alkali  ions  (Li,  Na)[6].  To  be 
+
+specific, NASICON phosphates and fluorophosphates have driven  great  attention as 
+
+cathode  materials  for  electrochemical  systems  in  recent  years  due  to  the  potential 
+
+electrochemical  properties  and  the  inherent  thermal  stability  which  could  be 
+
+associated with the phosphate-metal bonds greatly reducing the likelihood of oxygen 
+
+liberation[7-11]. Moreover, the participation of fluorine into the NASICON phosphate 
+
+has been demonstrated that could increase the working voltage of the fluorine-inserted 
+
+cathode  (fluorophosphates)  in  both  sodium and  lithium-ion  batteries.  The  principal 
+
+reason should be attributed to the inductive effect of (PO4)3polyanion and the strong 
+
+F-M (transition metal) bonds with high ionicity which can adjust the energetics of the 
+
+transition metal redox couple[12].   
+
+  A NASICON phase, Na3V2(PO4)2F3 with a tetragonal structure, has exhibited rich 
+
+chemistry, attractive lithium/sodium insertion properties and thus can offer promising 
+
+electrochemical  properties[13,  14].  The  sodium  vanadium  three-fluorophosphates, 
+
+Na3V2(PO4)2F3, was firstly reported by Meins et al. in 1999 to have a space group of 
+
+P42/mnm by solid state sintering in both high temperature and pressure[15]. After that, 
+
+Barker et al. attributed Na3V2(PO4)2F3 as a potential cathode material in conventional  lithium-ion  cells  (graphite/Li+  electrolyte/Na3V2(PO4)2F3)  or  hybrid-ion  cells  as  named  commonly  now,  with  a  specific  capacity  of  126  mAhg-1  undergoing  mixed 
+
+Li/Na  migration[13].  Moreover,  Jiang  et  al.  have  successfully  prepared 
+
+Na3V2(PO4)2F3/C composites by sol-gel method with a carbon content of 8.5wt.% for 
+
+use in a Na3V2(PO4)2F3/LiPF6/  Li cell, of  which the reversible capacity  could reach  117 mAhg-1 along with a good capacity retention and the ion diffusion coefficient was 
+
+calculated to be a larger value of 7.2×10-10 cm2s-1 as compared[11, 16, 17]. Besides, 
+
+with the increasing attention on the cost and lithium resources concerning lithium-ion 
+
+battery,  sodium-ion  battery  as  a  kind  of  alternative  energy-storage  equipment  has 
+
+achieved remarkable development in recent years and Na3V2(PO4)2F3 was also viewed 
+
+as  an  enabling  sodium-based  cathode  material.  Kang  et  al.  have  investigated  the 
+
+electrochemical  behaviors  of  Na3V2(PO4)2F3  by  a  combined  first  principles  and 
+
+experimental study[5]. As reported, the phase structure could remain quite stable upon 
+
+ion extraction and insertion of sodium from/into two kinds of sites namely Na(1) and 
+
+Na(2) site, of which two Na(1) sites could be fully occupied while the other two Na(2) 
+
+sites were only half occupied by Na ions because of the large electrostatic repulsions 
+
+of  Na-Na.  Song  et  al.  also  reported  the  sodium  ion  pathway  and  detailed  cathode 
+
+behavior in Na3V2(PO4)2F3 with reasonable properties[14].   
+
+Even though Gover et al. have pointed out that all three Na ions could successfully 
+
+extracted from Na3V2(PO4)2F3 (with a theoretical capacity of 192 mAh g-1) when the 
+
+voltage  applied  to  5  V  (vs.  Li),  it’s  mostly  likely  accompanied  by  some  concurrent 
+
+structural  degradation[18].  Under  the  same  current  density,  the  specific  capacity  of 
+
+Na3V2(PO4)2F3  has  been  illustrated  to  be  lower  than  the  non-fluorine  phase, 
+
+Na3V2(PO4)3 as a result of the changed ion configuration according to Song et al.[12].  While the value is capable to enlarge if the small molecular mass Li+ could substitute 
+
+partial Na+ in the compound based on Faraday’s Law (C = 26.8n/M Ah/g, where C is 
+
+the theoretical capacity of the active material, n is the number of electrons in reaction 
+
+and M is the relative molecular mass). Referred to the feasibility of a topotactic ion 
+
+exchange of Li for Na to obtain Li2NaV2(PO4)3 for use in lithium-ion battery[19, 20], 
+
+a  Li0.6Na2.4V2(PO4)2F3 was  prepared  from  Na3V2(PO4)2F3 and  studied  in  lithium-ion 
+
+battery. The novel compound is expected to improve the specific capacity along with 
+
+the cycling stability, and is of great significance to effectively perfect the employment 
+
+of lithium ions in charge/discharge thus reducing the depletion of lithium resources.     
+
+A solution-based carbothermal reduction (CTR) methodology was used to synthesize 
+
+Na3V2(PO4)2F3  material  as  reported.  Firstly,  stoichiometric  amounts  of  analytical 
+
+purity  Na2CO3,  NH4H2PO4,  NaF  and  V2O5  were  adequately  dissolved  into  distilled 
+
+water and dried under 50 ºC by forced-air drying. Then, the acetylene black powders 
+
+as reducer (the mass was as calculated) and conductive agent (5 wt.%) are mixed in 
+
+the  abovementioned  precursor.  Afterwards,  the  mixed  precursor  was  ground  to  a 
+
+uniformly  particle  distribution,  then  preheated  at  350  ºC  in  flow  argon  for  4h,  and 
+
+reground  before  being  re-fired  at  650  ºC  in  argon  atmosphere  for  8h  to  generate 
+
+Na3V2(PO4)2F3.  Ion  exchange  of  Na3V2(PO4)2F3  was  carried  out  in  an  aqueous  saturated  solution  containing  LiNO3  (analytical  purity)  at  ~30  oC.  The  NASICON 
+
+phase was stirred in the nitrate solution overnight, collected by filtration and washed 
+
+with de-ionized water, following with a process under 50 ºC by forced-air drying to 
+
+obtain the goal product. 
+
+The  crystallographic  structure  of  the  as  prepared  material  was  studied  by  X-ray 
+
+powder diffraction (XRD) using a Bruker D8 diffractometer with monochromatic Cu  Ka
+
+ radiation (λ=1.5406 Å), and the diffraction data was recorded in the 2q
+
+ range of 
+
+10–70 º with a scan  rate of 5 º/min. The particle morphology of the composite was 
+
+investigated  by  a  FEI  Quanta  200  scanning  electron  microscopy  (SEM).  The 
+
+thermogravimetric analysis (TG/DSC) of the samples was carried on a Diamond TG 
+
+thermo-analyzer.  The  inductively  coupled  plasma  atomic  emission  spectroscopy 
+
+(ICP-AES, Optima 4300DV) was used to detect the concentration of sodium, lithium, 
+
+vanadium and phosphorous of the prepared samples. 
+
+The cathode electrode was fabricated with the active material, acetylene black, and 
+
+binder (Polyvinylidene Fluoride, PVDF) in a weight ratio of 8:1:1 by using NMP as 
+
+solvent and an aluminum foil as current collector (~ 4.5 mg/cm2), followed by drying 
+
+in vacuum at 110 ºC for 24 h. The R2016 coin cell was assembled in an argon-filled 
+
+glove box using lithium foil as the anode with a Celgard 2500 membrane as separator. 
+
+The  electrolyte  was  1  M  LiPF6  dissolved  in  a  mixture  of  ethylene  carbonate  (EC), 
+
+dimethyl  carbonate  (DMC),  diethyl  carbonate  (DEC)  (v/v/v,  1/1/1).  Cyclic 
+
+voltammetry  (CV)  and  galvanostatic charge/discharge cycling tests  were  carried out 
+
+in a setting voltage range by using an electrochemical workstation (CHI660C) and a 
+
+CT2001A  LAND  battery 
+
+respectively.
+
+The  GGA+U  approach  was  utilized  with  values  of  U=5  eV  and 
+
+J=1eV of which U is the onsite coulomb term and J is the exchange term when the 
+
+strongly correlated character of d orbital of vanadium ion has been considered[5].   
+
+As listed in Table 1, the molar ratios of Li:Na:V:P of the synthesized samples which 
+
+were obtained from quantitative elemental analysis of ICP, reveal a final composition 
+
+of  Li0.59Na2.41V2.04(PO4)1.96F3  from  Na3V2(PO4)2F3  via  the  ion  exchange  in  LiNO3 
+
+solution,  and  it  was  referred  to  here  as  Li0.6Na2.4V2(PO4)2F3 by  approximation[19]. 
+
+The compared XRD results in Fig.1 illustrate that Li0.6Na2.4V2(PO4)2F3 still retains the 
+
+tetragonal  NASICON  structure  similar  with  its  precursor,  Na3V2(PO4)2F3.
+
+The Rietveld refined XRD patterns are shown in Fig. 2 and the 
+
+lattice  parameters  for  Li0.6Na2.4V2(PO4)2F3  and  Na3V2(PO4)2F3  are  a=b=9.047  Å,  c=10.659 Å, V=872.42 Å3 and a=b=9.05 Å, c=10.679 Å, V=874.64 Å3, respectively, 
+
+of which these structural parameters could be indexed to a P42/mnm space group[14, 
+
+15,  18].  Moreover,  the  changes  of  these  parameters  for  Li0.6Na2.4V2(PO4)2F3  were 
+
+suggested  to  be  ascribed  to  a  redistribution  of  the  alkali  ions  away  from  Na  sites 
+
+associated with an introduction of the strong electrostatic repulsion[19, 21].   
+
+The crystal structure of Li0.6Na2.4V2(PO4)2F3 projected on the ac plane is displayed 
+
+in Fig. 3, which could be viewed as a three-dimensional (3D) NASICON framework. 
+
+Similar  to  Na3V2(PO4)2F3,  the  crystal  structure  of  Li0.6Na2.4V2(PO4)2F3  is  built  up 
+
+from [V2O8F3] bi-octahedral and [PO4] tetrahedral units, among which the [V2O8F3] 
+
+bi-octahedra  is  bridged  with  two  [VO4F2]  octahedral  united  by  one  fluorine  atom, 
+
+whereas [VO6] octahedrons share oxygen at vertexes with [PO4] tetrahedron. Hence 
+
+the  arrangement  has  led  to  the  formation  of  channels  along  a,  b  and  c  directions, 
+
+fabricating  the  interlayer  ion-located  sites,  denoted  as  Na(1)  and  Na(2)  sites,  where 
+
+two Na(1) sites are fully occupied and the other two Na(2) sites are half occupied by 
+
+alkali  ions[5].  Moreover,  as  a  result  of  the  high  chemical  potential[5,  22]  and  low 
+
+bond  populations[11,  14,  22]  of  Na(2)  sites,  the  Na(2)-occupied  sodium  ions  are 
+
+potential  easily  to  be  exchanged  with  Li  ions  by  long-time  stirring,  and  a  largest 
+
+degree  configuration  of  LiNa2V2(PO4)2F3  can  be  proposed  by  strengthened  stirring, 
+
+In order to explore the possible location of the inserted Li+ in Li0.6Na2.4V2(PO4)2F3, 
+
+DFT  simulation  was  employed  to  construct  the  models  for  Li0.6Na2.4V2(PO4)2F3 
+
+transformed from Na3V2(PO4)2F3 configuration by substituting Na ions at different Na 
+
+sites with Li ions, and the corresponding XRD  patterns after structural optimization 
+
+derived  from  two  kinds  of  ion-exchange  results  are  shown  in  Fig.4.  Noticeably,  the 
+
+XRD peaks and reflection Bragg positions from Fig.4b of the circumstance that the 
+
+Na  ions  from  Na(2)  sites  were  assumed  to  be  totally  exchanged  by  Li  ions,  are  in 
+
+better agreement with the experimental XRD patterns of Li0.6Na2.4V2(PO4)2F3 than the 
+
+other  one  shown  in  Fig.4a  when  Na  ions  from  Na(1)  sites  were  presumably 
+
+substituted by Li ions, as some characteristic peaks were absent from the patterns in 
+
+Fig.4a.  Besides,  Li+  is  too  small  to  coordinate  at  the  triangular  prismatic  sites[19] 
+
+denoted  as  Na(1)  sites,  which  are  surrounded  by  two  F  ions  and  for  O  ions  with  a 
+
+larger bond population meaning more restricted conditions[23, 24] as compared with 
+
+the    augmented  triangular  prismatic  sites  attached  to  the  F  apex-square  pyramid 
+
+known as Na(2) sites[5, 17]. Therefore, the Na ions at Na(2) sites are much easier to 
+
+be  exchanged  by  the  Li  ions  as  suggested  previously  [14,  17]  to  form  the 
+
+lithium-inserted  fluorophosphates.  And  more  detailed  work  needs  to  be  utilized  to 
+
+accurately confirm the location of the inserted Li ions in this NASICON structure.           
+
+TG/DSC analysis (Fig.5) in air atmosphere was carried out to estimate the carbon 
+
+content  of  the  as-prepared  material.  There  is  a  carbon  content  of  12.7  wt.%  in  the 
+
+composite,  higher  than  that  of  its  precursor,  Na3V2(PO4)2F3/C  with  ca.  9  wt.%[11], 
+
+due to the loss of soluble impurities or uncoated Na3V2(PO4)2F3 particles during ion 
+
+exchange and washing. The SEM morphology of Li0.6Na2.4V2(PO4)2F3/C composite as 
+
+displayed  in  Fig.6  shows  irregular  particles  and  malformed  surface  bulk  materials 
+
+resulting from the molecular mixing and mechanically chemical activation processes 
+
+applied  before  sintering[3,  25].  What’s  more,  the  porosity/pores  in  bulk  material 
+
+generated  during 
+
+the  forming  process  of  secondary  particles  and  particle 
+
+agglomeration are likely helpful for ion diffusion[3].   
+
+The CV curve of the first cycle for Li0.6Na2.4V2(PO4)2F3/C composite in a voltage  range of 2.5 to 4.6 V vs. Li+/Li at a scan rate of 0.1 mVs-1 is displayed in Fig. 7. It 
+
+could be observed that there are two couples of sharp redox peaks, of which the two 
+
+oxidation peaks located at 3.87 and 4.25 V vs. Li+/Li and the reduction peaks at 3.73 
+
+and 4.17 V vs. Li+/Li. As suggested before[17, 18], when a Na3V2(PO4)2F3 hybrid-ion  battery was fully charged to 4.6 V vs. Li+/Li, a cathode composition approximating to 
+
+NaV2(PO4)2F3  can  be  produced,  a  condition  in  which  all  the  vanadium  has  been  oxidized to V4+. What’s more, the electrochemical activity of NaxV2(PO4)2F3 at 1≤x≤3  has been demonstrated to be mainly attributed to V4+/V3+ redox reaction according to 
+
+the results of net spin moment integrated as a  function of the distance from the ion 
+
+core [5]. Thus, the two oxidative peaks responsible for the couple V4+/V3+, signify the 
+
+de-insertion of 0.6 lithium ion and 1.4 sodium ions from Li0.6Na2.4V2(PO4)2F3, among 
+
+which  the  weaker  limiting  conditions  and  smaller  bond  populations  of  the  ions  at 
+
+Na(2) sites can make the ions capable to extract at an earlier charging stage[12, 14]. 
+
+Meanwhile,  these  mainly  extracted  lithium  ions  at  3.87  V  have  produced  a  larger 
+
+current  peak,  due  to  the  faster  diffusion  of  Li+  compared  with  Na+  in  a  battery 
+
+system[17]  and  the  proportional  relationship  between  the  peak  current  Ip  and  the  square root of diffusion coefficient D1/2.
+
+As  illustrated  in  the  galvanostatic  charge/discharge  profiles  in  Fig.8a,  the 
+
+Li0.6Na2.4V2(PO4)2F3/Li  battery  could  deliver  the  initial  discharge  capacities  of  125,  123, 113, 103 and 96 mAhg-1  at 0.05, 0.1, 0.2,  0.5 and 1 C rates, respectively, in  a 
+
+voltage range of 1.6—4.6 V vs. Li+/Li. Furthermore, the profiles have presented two 
+
+couples of charge/discharge plateaus of 3.79 vs. 3.77 and 4.22 vs. 4.19 V vs. Li+/Li, 
+
+corresponding  well  to  the  two  couples  of  peaks  in  CV  curves.  Consequently,  an 
+
+average discharge voltage of nearly 4 V vs. Li+/Li could be considered as the highest 
+
+among cathode materials with the same redox coupe V4+/V3+, as compared with 3.8 V 
+
+for  NASICON-type  Li2-xNaV2(PO4)3  [25,  27]  and  3.7  V  for  Li2NaV2(PO4)3[19].  Fig.8b shows that the specific capacity of Li0.6Na2.4V2(PO4)2F3 can retain 104 mAhg-1 
+
+with  a  high  coulombic  efficiency  of  98.6%  at  0.1  C  after  151  cycles  continuously 
+
+undergoing diverse current rates even as high as 1C. The excellent C-rate and cycling 
+
+performances  of  Li0.6Na2.4V2(PO4)2F3  mainly  ascribe  to  the  negligible  variation  in  lattice  parameters  (~1%)  and  cell  volume  (~2%)[5]  and  the  predominant  Li+  ions 
+
+migration substituting Na+ ions confirmed by ICP analysis[16].   
+
+The CV curves of the Li0.6Na2.4V2(PO4)2F3/Li battery in a voltage range of 2.5–4.6  V vs. Li+/Li at scan rates of 0.1, 0.2, 0.5, 0.8, 1.0 and 1.2 mV/s are shown in Fig. 9a, 
+
+respectively.  As  the  peak  area  divided  by  the  scan  rate  yields  the  capacity  of  the 
+
+electrode that should be a constant, the height and area of the redox peaks increased 
+
+with  the  increase  of  scan  rates[28].  In  addition,  the  irreversibility  of  the  redox 
+
+reactions for Li0.6Na2.4V2(PO4)2F3/Li battery was becoming more and more manifest 
+
+at  larger  scan  rates,  because  the  anodic  peaks  seemed  to  shift  to  higher  potentials 
+
+while  the  corresponding  cathodic  peaks  to  lower  values  leading  to  larger  values  of 
+
+peak  potential  difference,  440)Ep.  The  main  reason  for  that  was  the  uncompleted  ion 
+
+extraction/insertion from/into the electrode producing an un-sufficient redox reaction 
+
+during  the  time  interval  of  a  high-rate  scan,  which  could  cause  the  irreversible 
+
+behaviors[28].  In  addition,  the  hysteretic  behaviors  of  heavier  Na+  ions  in  the 
+
+electrochemical extraction/insertion reaction compared with Li+ ions also could make 
+
+a contribution to its irreversibility.   
+
+Theoretically, two alkali ions involving Na+ and Li+ could extract/insert from/into 
+
+the crystallographic sites beginning within a unit, Li0.6Na2.4V2(PO4)2F3 in this setting  voltage range[17]. By the continuous CV tests from 0.1 to 1.2 mVs-1 as depicted in 
+
+Fig.9a, the electrochemically formed phase LixNa3-xV2(PO4)2F3 (x≤2) would present a 
+
+constant  concentration  of  the  alkali  ions.  Moreover,  considering  the  good  liner 
+
+relationships  between  the  square  root  of  the  scan  rate  v1/2  and  peak  current  ip  as 
+
+illustrated  in  Fig.9b,  the  intercalated  type  electrode  due  to  its  typical  equilibrium 
+
+behavior  showed  a  diffusion-controlled  process  for  the  electrode  reaction.  Then, 
+
+according  to  Randles-Sevcik  equation  (Eq.  1)  which  describes  the  relationship 
+
+between  the  peak  current  ip  and  the  square  root  of  the  scan  rate  v1/2[25,  28],  the 
+
+diffusion constant D could be calculated.   
+
+where  m  is  the  mass  of  active  cathode  material,  F  the  Faraday  constant,  R  the  gas 
+
+constant, T the absolute temperature, n the number of electrons in reaction (n = 2), A 
+
+the  effective  contact  area  between  the  electrode  and  electrolyte  (here  the  geometric 
+
+area of electrode, 0.79 cm2 is used for simplicity) and C is the concentration of alkali 
+
+ion 
+
+the  cathode  calculated  from 
+
+the  crystallographic  cell  parameter  of 
+
+Na3V2(PO4)2F3[17].  D  values  of  the  anodic  and  cathodic  reactions  are  calculated  as  8.42×10-11 cm2/s (A), 1.32×10-10 cm2/s (B) and 4.87×10-11 cm2/s (C), 4.47×10-11 cm2/s 
+
+(D), respectively. Obviously, the values are much larger that those for olivine LiFePO4  measured  by  Prosini  et  al.(2.2×10-16~1.8×10-14cm2/s)  on  account  of  the  NASICON 
+
+structure of Li0.6Na2.4V2(PO4)2F3 allowing ion transportation in an opening 3D way.   
+
+Electrochemical  impedance  spectroscopy  was  taken  on  a  Li0.6Na2.4V2(PO4)2F3/Li 
+
+battery after 1 cycle with an open circuit voltage of 3.7 V. The corresponding Nyquist 
+
+plots  are  given  in  Fig.  10,  in  which  the  small  intercept  at  the  Zre  axis  signifies  the 
+
+internal resistance of the battery, and the semi-circle in the high frequency region is 
+
+due  to  the  charge  transfer  resistance.  The  sloping  line  in  the  low  frequency  region 
+
+corresponds  to  the  diffusion  of  alkali  ions  in  the  electrode  bulk,  namely  Warburg 
+
+impedance.
+
+R4  denotes  the  Warburg  resistance  originated  from  the  diffusion  of  alkali 
+
+ions in the electrode bulk as depicted in the low frequency region of the sloping line. 
+
+C1 demonstrate the double layer capacitance caused by ion transfer in the electrode 
+
+material.  As  shown  in  Fig.11,  the  charge  transfer  resistance  is  found  to  increase 
+
+greatly  when  the  experimental  cell  undertook  100th  cycles,  from  which  the  charge 
+
+transfer resistance can be deduced to be strongly influenced by cycling[16], causing 
+
+enlarging polarization of the electrode. Meanwhile, this enlarged resistance should be 
+
+mainly responsible for the capacity fading in cycling and high C-rate performances. 
+
+Besides, the slopes of the Nyquist plots at low frequency which is nearly approaching 
+
+45º could further demonstrate a diffusion-controlled electrode reaction[17].   
+
+
+
+A novel cathode material, Li0.6Na2.4V2(PO4)2F3 was prepared via ion exchange from 
+
+Na3V2(PO4)2F3, still holding a NASICON structure. Li0.6Na2.4V2(PO4)2F3/C composite 
+
+showed  irregularly  shaped  and  bulk  secondary  particles  with  malformed  surface 
+
+structure.  As  a  result  of  the  weaker  limiting  conditions  for  Na(2)  sites  in 
+
+
+Li0.6Na2.4V2(PO4)2F3  or  Na3V2(PO4)2F3,  the  Na+  ions  at  Na(2)  sites  are  easy  to  be  exchanged by Li+ ions and exhibit a hybrid-ion migration. Li0.6Na2.4V2(PO4)2F3, as a 
+
+promising  lithium-insertion  cathode  material  could  give  a  specific  capacity  of  123 
+
+mAhg-1 at a current density of 0.1 C with an average plateaus of 4 V vs. Li+/Li. The 
+
+capacity  of  the  Li0.6Na2.4V2(PO4)2F3/Li  battery  can  retain  104  mAhg-1  with  a 
+
+coulombic efficiency of 98.6% at 0.1 C after 151 cycles. The NASICON structure of 
+
+Li0.6Na2.4V2(PO4)2F3  provides  a  3D  way  for  ion  transportation,  producing  larger  diffusion coefficient D with a magnitude of 10-11 cm2/s.     

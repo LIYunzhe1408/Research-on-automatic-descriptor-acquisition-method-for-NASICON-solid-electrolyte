@@ -1,0 +1,36 @@
+The binary system Li2CO3–BaCO3 was studied by means of heating–cooling curves, diﬀerential thermal analysis (DTA), thermogravimetry (TG), X-ray phase analysis and infrared spectroscopy. There is an eutectic at 609 (  4)8C and about 55 mol% Li2CO3. It was shown that lithium carbonate does not form substitutional solid solutions with barium carbonate, however, the possible formation of dilute interstitial solid solutions is suggested. # 2001 Elsevier Science B.V. All rights reserved.
+
+Keywords: Phase diagram; Diﬀerential thermal analysis (DTA); Thermogravimetry (TG); Infra red; BaCO3–Li2CO3 system
+
+The binary systems M2CO3–M0CO3 (where M and M0 denote alkaline metal and alkaline-earth metal, respectively), are of great interest as an auxiliary phase in electrochemical CO2 gas sensors [1–6] and elsewhere as a component of CO2 resistivity gas sensors [7].
+
+The studies of phase diagrams of these systems were the subject of several papers involving the following binary carbonates: Li–Ca [8,9], Na–Ba [10], Na–Ca [9], K–Ca [9–11]. However, there are no available data among them about Li2CO3– BaCO3, the most promising system in the manufacture of high-sensitive CO2 gas sensors [2,3,5,6]. This work reports the results of our studies for the Li2CO3–BaCO3 system in air atmosphere that is
+
+essential for the determination of CO2.
+
+DTA and TG measurements were performed in TA Instruments Derivatograph System, type SDT 2960, equipped with the mass spectrometer Balzers Thermostar GSD 300 and DSC 2010 unit. All experiments were done in alumina 60 mm3 crucibles. It was not possible to use platinum crucibles because of high reactivity between Pt and carbonates, especially above the carbonate melting point. High purity a-Al2O3 was used as a reference
+
+material. Typical measurements were done with heating ratio 10 or 3 K/min in the ﬂow of artiﬁcial air with ﬂow ratio 6 dm3/h. The sample weight was about 50 mg (  5 mg), and time, sample weight, temperature and temperature diﬀerences were computer recorded simultaneously during the experiment.
+
+Apart from the standard DTA and TG measurements, the heating–cooling measurements consisting of several heating–cooling cycles were performed, with the same experimental conditions as described above (heating–cooling ratio, gas type and gas ﬂow rate, etc.). In the case of each heating–cooling measurement, the ﬁrst cycle differed from the following ones. In the ﬁrst heating cycle, the sample was the appropriate mixture of simple carbonates and the changes of thermal properties during the melting of the simple carbonates were observed. The following cycles were the observations of thermal properties of binary carbonate, with diﬀerent properties than the carbonate mixture. The sample was not removed from derivatograph until all cycles were measured.
+
+Fig. 1. DTA and TG results for BaCO3 during heating (10 K/min).
+
+XRD measurements were done on SEIFERT XRD-7 diﬀractometer with Cu–Ka ﬁltered radiation. The X-ray diﬀraction patterns of the powdered carbonate samples (simple and binary) were typically measured in 2y range from 108 to 808, with a step of 0.058, and sampling time of 3 s, although some more detailed experiments were also performed, where necessary. All X-ray diffraction measurements were done in air, at room temperature.
+
+
+g–b and b–a phase transition, respectively. As seen from Table 1, the determined temperatures of the phase transition well agree with literature data [12–14]. Above 8778C (1150 K) a drop of the mass is observed on the TG curve. Firstly, the loss of the mass is very sluggish (between 877–10008C), then the sudden weight change is observed (1000– 12408C) and ﬁnally establishing of the equilibrium is observed. The entire drop of the mass within the temperature range 25 (298 K)–13908C (1663 K) is equal to 21.4%. This ﬁgure is close to the theoretical change of the mass (22.3%) corresponding to the following decomposition reaction: BaCO3ðsÞ ! BaOðsÞ þ CO2ðgÞ " : ð1Þ
+
+A Fourier spectrometer BIO-RAD, type FTS 60 V was used to collect IR spectra. The resolution was 4 cm 1, measuring range 400–4000 cm 1 (MIR). The spectra were obtained using typical technique of KBr pellets.
+
+The determined decomposition temperature of BaCO3 can be compared with that determined from the thermodynamic data. Fig. 2 illustrates the dependence of DG of the reaction (1) as a function of temperature for several concentrations
+
+
+3.1. DTA and TG analysis of pure components
+
+Fig. 1 illustrates DTA and TG results monitored for BaCO3 during heating in air with the rate 10 K/ min within the temperature range 258C (298 K)– 13908C (1663 K). BaCO3 exhibits three crystallographic (natural witherite), b-hexagonal and a-cubic form. The temperatures of phase transformation in BaCO3 are collected in Table 1. The observed endothermic peaks on the DTA curve in Fig. 1 at the temperature range 811–8278C (1084–1100 K) and 961–9718C (1234–1244 K) may correspond to the
+
+Table 1 Temperatures of phase transformations in BaCO3
+
+Temperature of phase transformation (K)
+

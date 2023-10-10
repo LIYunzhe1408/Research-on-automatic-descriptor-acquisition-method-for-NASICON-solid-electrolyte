@@ -1,0 +1,72 @@
+Anti-NASICON Fe2(MoO4)3 (P21/c) showssignificant structural and electrochemical differences in theintercalation of Li+ and Na+ ions.
+
+To understand the origin ofthis behavior, we have used a combination of in situ X-ray andhigh-resolution neutron diffraction, total scattering, electrochemical measurements, density functional theory calculations,and symmetry-mode analysis.
+
+We find that for Li+-intercalation, which proceeds via a two-phase monoclinic-toorthorhombic (Pbcn) phase transition, the host latticeundergoes a concerted rotation of rigid polyhedral subunits driven by strong interactions with the Li+ ions, leading to anordered lithium arrangement.
+
+Na+-intercalation, which proceeds via a two-stage solid solution insertion into the monoclinicstructure, similarly produces rotations of the lattice polyhedral subunits.
+
+However, using a combination of total neutron scatteringdata and density functional theory calculations, we find that while these rotational distortions upon Na+-intercalation arefundamentally the same as for Li+-intercalation, they result in a far less coherent final structure, with this difference attributed tothe substantial difference between the ionic radii of the two alkali metals.
+
+The demand for rechargeable lithium- or sodium-ion batterieswill continue to grow as renewable energy sources areintegrated into the electrical grid, and electric vehicles continueto be developed.
+
+In rechargeable ion batteries, positiveelectrode materials undergo reversible intercalation, displacement, or conversion processes to store electricity.
+
+ Presentstate-of-the-art positive intercalation electrodes for Li+ or Na+ion batteries rely on either layered oxides, spinel oxides, orpolyanionic compounds.
+
+Polyanionic compounds have structural frameworks composed of corner-sharing polyhedralsubunits.
+
+This allows much greater lattice flexibility than inlayered or spinel oxides and contributes to noteworthystructural stability with respect to electrochemical cycling.
+
+Polyanionic compounds are also considered to be safer thanalternative oxides because they do not release oxygen upondecomposition, which can exacerbate thermal runaway duringcell failure.
+
+Because the utility of polyanionic cathodes islinked to the intrinsic flexibility of their host lattice, thedevelopment of next-generation polyanionic electrodes requiresunderstanding the relevant structural distortions that occuracross multiple polyanionic compounds as Li+ and Na+ areinserted.
+
+NASICON-related structures, with general formulaMM′(XO4)3, were among the first polyanionic compoundsinvestigated as intercalation electrodes.
+
+The structures featurelarge interstitial voids formed by three-dimensionally connectedpolyhedra, which create a robust structural topology.
+
+Thechemical versatility of these materials structures meanssubstitution of the polyanionic group can be exploited totune the position of the redox couples.
+
+Anti-NASICONFe2(MoO4)3 is a promising cathode for both Li+ and Na+ ionbatteries owing to its highly reversible accommodation ofintercalated ions.
+
+ Fe2(MoO4)3 crystallizes in a thermodynamically preferred, low-temperature monoclinic (P21/c)structure that consists of FeO6 octahedra and MoO4 tetrahedrainterconnected through corner sharing oxygen atoms (Figure1).
+
+The basic motif of the structure is described as the “lanternunit”, composed of three MoO4 tetrahedra that connect twoFeO6 octahedra (Figure 1b).
+
+In the anti-NASICON structure,these units stack in an antiparallel fashion along the (2b + c).
+
+Incontrast, in the NASICON structure equivalent units stack in aparallel fashion along the c-axis.
+
+While the electrochemical performance of Li+ and Na+(de)insertion into Fe2(MoO4)3 has been studied previously,the existing knowledge in the literature is often contradictory,and the mechanism of structural transformations from theparent phase to the intercalated phase remains unknown formonoclinic Fe2(MoO4)3. Nadiri et al.
+
+reported a single-phasestructural change in monoclinic Fe2(MoO4)3 during Na+(de)insertion in the composition ranges of 0.3 ≤ x ≤ 1.0 and1.10 ≤ x ≤ 1.60 for NaxFe2(MoO4)3.12 In contrast, Bruce et al.
+
+reported the presence of two phases throughout thecomposition range of 0 < x < 2 through ex situ X-raydiffraction (XRD) of powder samples that were electrochemically intercalated.
+
+ Recent studies by Yue et al. reported a twophase structural change for Li+ (de)insertion, but a single-phaseprocess for Na+-intercalation in the high-temperature, orthorhombic (not monoclinic) polymorph of Fe2(MoO4)3.15 Toreconcile these various conflicting reports, it is crucial tounderstand the mechanism by which the structural frameworktransforms to accommodate the intercalation of guest ions.
+
+Herein, we present an investigation into the differentinsertion behaviors of Li+ and Na+ in monoclinicFe2(MoO4)3, with an emphasis on the reorganization of therigid polyhedral units within the structure framework uponinsertion.
+
+We have used a combination of structural andelectrochemical tools, coupled with an analysis of symmetryallowed distortions, to characterize the relationship between thestructural evolution of Fe2(MoO4)3 during (de)insertion of Na+and Li+ and their corresponding electrochemical properties.
+
+Wefind that the insertion processes for Li+ and Na+ differ in theability of rigid MoO4 tetrahedra to rotate to accommodate thepresence of guest ions within the lattice framework.
+
+Thismechanism, whereby intercalation proceeds through cooperative rotations, is found to be strongly influenced by the size andnature of the alkali ion.
+
+This result, therefore, may be alsorelevant to other polyanionic electrodes and, more broadly, tointercalation into any system containing a mixture of rigid andsoft bonding units.
+
+In summary, we have presented a detailed structural characterization of the process by which Li+ and Na+ ions intercalate intoFe2(MoO4)3 and how these structural transformations arerelated to the correlated rotations of rigid polyanionic subunits.
+
+The combination of electrochemical cycling and in situ powderXRD confirmed a two-phase process for Li+-intercalationcompared to a two-stage solid solution insertion process forNa+-intercalation, which corresponds to Na+ filling twodifferent sites.
+
+Furthermore, on the basis of our Rietveldrefinements, symmetry-mode analysis, and examination ofneutron total scattering data, we proposed a concertedpolyhedra rotational distortion mechanism for the alkali guestion intercalation into the anti-NASICON Fe2(MoO4)3 hostframework.
+
+It is also shown that during Li+-insertion, Li+ ionsfill defined positions that allow the transformation from thepristine monoclinic phase to the lithiated orthorhombicstructure.
+
+However, Na+ insertion occurs in a more complexmanner that appears to result from the larger size of Na+compared to Li+.
+
+Such a mechanism, as well as the applicationof symmetry-mode analysis along with structural and electrochemical characterization, may be applied to other polyanionicmaterial systems.
+
+Insights gained through these analyses mayfacilitate the discovery of new intercalation materials and theimprovement of existing ones.
+

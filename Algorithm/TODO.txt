@@ -1,0 +1,3 @@
+Python NER.py 加每个实体统计，xlsx加一行；
+java 读入第一行，返回前端；
+前端：改doi请求后端方式

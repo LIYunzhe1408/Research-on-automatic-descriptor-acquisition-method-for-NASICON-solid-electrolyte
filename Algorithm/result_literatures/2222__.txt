@@ -1,0 +1,43 @@
+The discovery of nasicon  (Na superionic  conductor) represented  a  substantial  improvement  in  solid  electrolytes  development.  Its  ionic  conductivity  surpasses  indeed  that  of two-dimensional  networks,  like  beta-alumina.  It  is  well known,  from  the  pioneer  work  of  Hong  (1976),  that  along the  compositional  range  Nai+^Zr2Si^P3__cO12  with  0<x < 3,   solids heated at  1200 °C crystallize in the nasicon structure.
+
+The  same  author  showed  that  nasicon  structure  has rhombohedral  symmetry  (space  group  R3c;  no.  167)  along all  the  compositional  range,  except  in  the  interval  1.8<x <2.2,  where  a small  distortion  to monoclinic  symmetry  occurs  (e.g.  C2/c).
+
+Kohler's  monoclinic  samples had  an uncertain  composition,  which  was determined  solely  from  XRD  data on  single crystal  at  495  K  to  Na3jZr]  78Si] 24Pi.7gO12.  Basing  on  the composition  of that  specimen,  Kohler first supposed  that the nasicon  structure  could  be  represented  by  a wider  compositional  range,  allowing  for  a  lower  Zr-content  and  assuming in  this  manner  an  incomplete  occupation  of  the  octahedral position  of  the  Zr-ions  in  the  structure.  This  compositional range has to be represented  on  a plane, as the  compositional variables  are  now  two,  that  is  the  already  established  Si,P exchange  in the tetrahedral  sites and the Zr  underoccupation of  the  octahedral  sites.  The  role  of  the  Na+  counter-ion  in balancing  the  negative  network  charge  still  persists,  leading therefore  to  the  formulation  Na]+zZr2_}Si3^P3_^O12,  with z-x-4y  = 0.
+
+TABLE  III.  X-ray  data  of  Sample-C  (Na3Zr, j s S i ^ O ^)  a 0  =  8.966, c0  =  22.912 A.  Space  Group  R3c  (no.  167).  Z=6.
+
+(Na3Zr,.sgjSiojTABLE  V.  X-ray  data  of  Sample-E  = 8.878 A,  c0  =  22.789 A.  Space  Group  Rlc  (no.  167). 
+
+Because  of  the  difficulty  to  synthetize  nasicon  ceramics as pure phases, different  elaboration processes, besides  solidstate reactions have been investigated  (McEntire  et al.  1979, Bentzen and Nicholson,  1980) particularly wet chemical synthesis and  sol-gel  techniques  (Boilot  et al.  1979, Yoldas  and Lloyd,  1983,  Perthuis  and  Colomban,  1986,  Colomban, 1989,  Caneiro et al.  1992). Solution  synthesis seems to  offer highly  homogeneous  materials.  The  higher  reactivity  of  the precursors  leads  more  easily  to  monophasic  compositions without  impurities  at  the  grain  boundary  and  small  grains more easily  sintered  (Gasmi  et al.  1995).
+
+The  samples  have  been  prepared  here  through  a  sol-gel technique by means of the preliminary formation  of an amorphous solid  (xerogel)  (Mazza et al.  1993, Mazza and LuccoBorlera,  1994, Mazza  and  Lucco-Borlera,  1997). This  latter is formed  through  the  following  preparative  steps: Solution  A.  A  measured  volume  of  tetraetylorthosilicate (TEOS)  is  added  to  an  equal  volume  of  ethanol  and  half  a volume  of  distilled  water.  The  pH  of  the  aqueous  alcoholic solution is adjusted  to 0.5-1  with a few  drops of  1 M HNO3. In  this  way  TEOS  is  firstly  partially  hydrolyzed  to  silanol monomers.
+
+TABLE  IV.  X-ray  data  of  Sample-D  (Na,Zr,  667Si0667P2,3,OI2)  a0 = 8.902 A, co=  22.805 A.  Space  Group R3c  (no.  167). Z= 6.
+
+Intensity
+
+Solution  B.  Stoichiometric  quantities  of  NaNO3  (BDH Chemicals,  purity> 99.5%)  and of  zirconium  dinitrate  oxide ZrO(NO3)2xH2O  (Ventron:  ZrO2=45,68%)  are  dissolved in a small amount of a mixture of water-nitric  acid  (1:1) and added  to the  solution  A while  stirring  carefully  until  a clear phase  is  obtained. Solution  C.  A  suitable  portion  of  (NH4)2HPO4  (Merck, purity>99.5%)  is  dissolved  in  a  mixture  of  distilled  water and  nitric  acid  (1:1)  and  then  quickly  added  to  the  (A +  B) solution  prepared  above,  always  stirring  vigorously.  In  this way a dense gel forms, which is firstly  dried at  105 °C (under stirring)  and then cautiously  and gradually heated in air up to 400 °C,  thus  removing  excess  water,  alcohol,  and  gaseous
+
+Powder  Diffr.,  Vol. 12, No. 3, September  1997
+
+Characterization  of  new nasicon compositions 
+products formed  by decomposition  of nitrates, so obtaining a white  crispy  powder.
+
+The products  so prepared  are amorphous if examined by X-ray  diffraction.  Each  amorphous  sample  was  first  submitted to simultaneous  DTA  and TG analyses in order to determine the crystallization  temperature  of the xerogels from  the position  of  the  relative  exotherms.  These  temperatures  were comprised  for  all  the  examined  compositions  between  650 and  700 °C.  At  these  temperatures  however  the  XRD  patterns  of  the  samples  showed  broad  peaks  of  the  nasicon structure. To achieve better crystallization,  the samples  were therefore  heated  in  air  at  1200 °C  for  30  min.  On  these samples the XRD measurements were carried out. The X-ray powder  patterns  were recorded  at room  temperature  (20 °C) with  a  Philips  PW1710  diffractometer  equipped  with  a graphite monochromator in the diffracted  beam and a sample spinner  (40  kV,  25  mA,  10-70  20  range,  0.01  6  step,  5  s counting  time). The powders  were ground  in agate mortar to 5-10  ix grain  size. On the basis of the most clear peak positions  of  the  patterns,  the  unit  cell  parameters  were  refined, applying  zero-theta  correction,  external  silicon  standard.  On this basis  the  calculated  peak  positions  of  all  the  reflections do not  differ  of  more than  0.02  6 from  the  observed  ones.
+
+The  peaks  were  deconvoluted  using  pseudo  Voigt  symmetric  peak  shape  with  variable  Gaussian  component  using the  XRD 123 program  set  (Mazza,  1996). The  angular  positions  and  intensities  refer  to  the  ax  component  with  wavelength  CuKa[=  1.540 60 A.  According  to  the  general  formula  Na3Zr2-^/4Si2_j:Pi+xO12  we  prepared  the  samples having x = 0.333, 0.667,  1.000,  1.333,  and  1.667. They  were labeled  as  sample  A,  B, C, D,  and  E respectively.  The  relative  XRD  patterns  indicate  that  the  samples  are  monophasic and  indexable  according  to the  unit  cell  parameters  listed  in Tables  I-V.
+
+It has to be noted that  sample A is monoclinic, while all
+
+other  samples  show  hexagonal  symmetry.
+
+A sample with x = 2.000 was also prepared  which corresponds  to  Na2ZrP2O8.  Examination  by  XRD  showed  that  a mixture  of  two  phases  had  been  obtained.  One  phase  was Na2ZrP2O8  as  reported  by  Clearfield  (1980,  ICDD  card  # 35-125)  while  the  pattern  of  the  other  phase  looked  like  a hexagonal  nasicon  pattern,  with  a o and  c 0 = 22.79 A.
+
+
+Our experimental results allowed to ascertain for the first time  that  the  nasicon  structure  is  stable  along  the  compositional range Na3Zr2^x/4Si2-^Pi+j:O12,  with x  between  0 and 1.667.
+
+These  structures  are characterized  by  a Zr  underoccupa-
+
+tion  of  the  octahedral  sites  and  a  constant  number  of  Na+ ionic  carriers.
+
+This fact  envisages  a possible application  of these materials  as  solid  electrolytes  in the field of  ceramic  sensors  and ionic  conductors.  The  above  specific  properties  will  be  examined  in  further  research.

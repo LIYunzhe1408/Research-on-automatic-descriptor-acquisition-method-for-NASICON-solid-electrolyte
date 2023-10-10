@@ -1,0 +1,7 @@
+This study examines the effect of substituting Ti by Cr and Ge on the glass stability of the precursor glass and onthe electrical properties of the lithium ion-conducting glass-ceramics of the Li1+xCrx(GeyTi1-y)2-x(PO4)3 (LCGTP)system.
+A set of compositions of this system is synthesized by the melt-quenching method followed by crystallization.
+The main results indicate that the glass stability of the precursor glasses increases when Ti is replacedby Ge and Cr.
+After crystallization, all the glass-ceramics present NASICON-type phase, and their lattice parameters decrease with Ge and increase with Cr content, making it possible to adjust the unit cell volume of theNASICON-like structure.
+Furthermore, the ionic conductivity and activation energy for lithium conduction in the glass-ceramics are notably dependent on the unit cell volume of the NASICON-like structure.
+TheLi1.6Cr0.6(Ge0.2Ti0.8)1.4(PO4)3 glass-ceramic composition shows the highest overall ionic conductivity(2.9 × 10−4 Ω−1 cm−1) at room temperature and reveals remarkably high ionic conductivity(1.2 × 10−3 Ω−1 cm−1) and low activation energy (0.259 eV) regarding grain contribution.
+The main findings suggest that the proposed system is promising to develop fast Li ion-conducting glass-ceramics, offering acompromise between the glass stability of the precursor glass and the electrical properties of the resulting glassceramic.

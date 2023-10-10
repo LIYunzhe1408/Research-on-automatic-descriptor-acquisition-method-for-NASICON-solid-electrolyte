@@ -1,0 +1,68 @@
+CO2 [10], and H2S [11] have been proposed. It was also reported that the use of metal oxide electrodes, such as CdMn2O4 [12] and Cr2O3 [13], instead of conventional metal salts for the auxiliary phase of solid electrolyte NOx sensor seems to bring about better sensing performance to NO and:or NO2 as well as stability at higher temperatures. It has been reported that the oxide electrode used at an auxiliary phase acts as an electrode catalyst and the response is based on the change of mixed potential at the electrode reactions. In our previous study [13], it was seen that some NOx sensor elements attached with metal oxide thin-ﬁlm electrodes have high sensitivities to NO and:or NO2, however most of which lack stability in the atmosphere including NOx gases. It is well known that pyrochlore-type oxides such as Pb-Ru-O and Pb-Ir-O systems have high chemical stability even in an acidic solution as well as high catalytic activities to oxygen reduction and:or oxygen evolution [14–16]. In this study, we have tried to use pyrochlore-type oxide electrodes for solid electrolyte-based NO and:or NO2 sensors. It has turned out that the devices using pyrochlore-type oxide have high sensitivities and stability to NO as well as NO2 at 400°C. It was further found that the device attached with Pb2[Ru1.5Pb0.5]O7 28) y showed higher sensitivity to NO than that to NO2 at 400°C.
+
+Pyrochlore-type oxides (Pb2Ru2 28) xPbxO7 28) y: x 30)0– 0.75, Pb2Ir2O7 28) y) were prepared by a precipitation method [15,16]. An aqueous solution was obtained by dissolving starting materials, Ruand Irchlorides and Pb nitride of special grade reagents (Kishida Chemical), in a proportion of desired pyrochlore-type oxides. Then, an excess amount of 2 mol.dm 28) 3 NaOH was added slowly to the solution and co-precipitation was carried out at 75°C under constant stirring and purging with oxygen for 24 h. The ﬁltered products were dried at 120°C for 12 h and calcined at 500–780°C for 2 h in atmospheric air. The materials obtained were washed with distilled water for removing a by-product, NaCl, and then ﬁnally dried at 120°C for 12 h. The products were characterized with X-ray diffraction analysis (XRD) (JDX-3500K, JEOL) using Cu-Ka radiation. Fig. 1 shows XRD patterns of Pb2Ir2O7 28) y and Pb2Ru2O7 28) y powders after calcined at 780 and 500°C, respectively. Although a slight impurity phase of RuO2 was seen only for the Pb2Ru2O7 28) y, most of the powders obtained with this method showed well crystallized and almost single-phase oxides.
+
+2.2. Sensor measurements
+
+Fig. 2 shows a schematic diagram of NOx sensor element using pyrochlore-type oxide electrodes. A NASICON (Na3Zr2Si2PO12) disc, 11 mm in diameter and 0.8 mm thick, prepared by a sol-gel method using aqueous solution [17,18], was ﬁxed on an alumina tube with a ceramic adhesive. Oxide electrodes were fabricated by a painting method [19], i.e. powders of the prepared pyrochlore-type oxides or RuO2 (Mitsuwa Chemical) were kneaded with a small portion of turpentine oil (Kishida Chemical), and a paste thus ob-
+
+Fig. 1. XRD patterns of Pb2Ir2O7 28) y (a) or Pb2Ru2O7 28) y (b) powders after calcined at 780 or 500°C, respectively.
+
+Fig. 2. Schematic diagram of NOx sensor device using NASICON and pyrochlore-type oxide electrode.
+
+tained was painted onto the surface of the NASICON disc, and dried and ﬁnally sintered at 500°C for 1 h to form a layer of oxide as a sensing electrode. An Au mesh was attached on the top of the oxide layer to connect a Pt-wire lead. A reference Pt electrode attached on the inside surface of the NASICON disc was always exposed to static atmospheric air. NOx sensing experiments were carried out in a conventional ﬂow apparatus equipped with a heating facility at 100– 500°C. Sample gases containing NO or NO2 were prepared from each parent gas, i.e. NO diluted with nitrogen or NO2 diluted with a dry synthetic air (N2 27) O2 gas mixture), by mixing it with N2 (99.999 vol%) or the air. The sensor response, EMF, was measured with a digital electrometer (R8240; Advantest) at a total ﬂow rate of 100 cm3 min 28) 1
+
+First, NO2 sensing performance of NASICON-based sensor or Pb2Ru2O7 28) y was investigated. As shown in Fig. 3, both devices responded rather well to NO2. The EMF responses were linear to the logarithm of NO2 concentration (log PNO2 ) between 20 and 200 ppm with both positive slopes of  27)50 mV decade 28) 1 or  27)30 mV decade 28) 1 elements using Pb2Ir2O7  28) y or Pb2Ru2O7 28) y, respectively. The Pb2Ir2O7 28) y based element showed rather quick response to NO2, i.e. the 90% response time for the concentration change from 110 ppm to 220 ppm NO2 in air was as short as 30 s at 400°C. Pb2Ru2O7 28) y based element, on the other hand, showed a unique transient curve and the EMF value at each concentration gave a steady value within about 5–20 min.
+
+Y. Shimizu, K. Maeda :Sensors and Actuators B 52 (1998) 84–89
+
+Fig. 3. Sensing performance to NO2 of the devices using Pb2Ir2O7 28) y (a) or Pb2Ru2O7 28) y (b) electrodes at 400°C.
+
+It was further found that these devices could also respond to NO diluted in N2 at the examined concentration range between 50 and 1000 ppm at 400°C, with the 90% response time of about 1–10 min, as shown in
+
+Fig. 4. Sensing performance to NO of the devices using Pb2Ir2O7 28) y (a) or Pb2Ru2O7 28) y (b) at 400°C.
+
+Fig. 5. Effect of operation temperature on the sensing properties to NO2 (a) or NO (b) of Pb2Ir2O7 28) y based element. Fig. 4. Both EMF changes (DE) were linear to the logarithm of NO concentration (log PNO), with negative slopes of  28)29 mV decade 28) 1 or  28)86 mV decade 28) 1 for the elements using Pb2Ir2O7 28) y or Pb2Ru2O7 28) y, respectively.
+
+Dependence of the sensing performance to NOx on operation temperatures was further investigated by using the Pb2Ir2O7 28) y based element. For NO2 sensing, the element showed EMF responses at the examined temperatures between 100 and 400°C. EMF responses increased with increasing NO2 concentration at each temperature, being linear to log PNO2 , with all positive slopes. The magnitude of the slopes decreased with increasing operation temperature, as shown in Fig. 5(a). At temperatures below 300°C, it was hard to recover the initial EMF value when switching back to air. For NO sensing, the element also showed EMF responses at the examined temperatures between 200 and 500°C. The EMF values decreased with increasing NO concentration, and showed linear relationship between EMF and log PNO with all negative slopes at the all temperatures examined. As shown in Fig. 5(b), the slope for EMF versus log PNO, the sensitivity to NO, decreased with increasing operation temperature. On the other hand, the reversibility of the responses became poor with decreasing operation temperature. The quickest response rate and the complete reversibility of EMF response were obtained at the operation temperature of 400°C for NO as well as NO2. It still has high sensitiv-
+
+Y. Shimizu, K. Maeda :Sensors and Actuators B 52 (1998) 84–89
+
+ities of  28)29 mV decade 28) 1 and  27)50 mV decade 28) 1 for NO and NO2, respectively at 400°C. Thus, the best operation temperature should be 400°C for NO2 as well as NO sensing.
+
+The reason for the dependence of the sensor responses on operation temperature was not clear yet, but it seems to come from the catalytic activity and:or sorption-desorption properties of the pyrochlore-type oxide electrodes to the reaction gases. Further investigation is now in progress. Hereafter, operation temperature has been ﬁxed at 400°C.
+
+3.2. Pb2[Ru2 28) xPbx]O7 28) y electrodes
+
+As Pb2Ru2O7 28) y based element showed higher sensitivity to NO than that to NO2, i.e. the slope for NO was three times as high as that for NO2, the Pb-Ru-O family has been further studied as the electrode materials.
+
+NOx sensing performance of the various sensor elements based on Pb2[Ru2 28) xPbx]O7 28) y as well as Pb2Ir2O7 28) y electrodes at 400°C was summarized in Fig. 6(a, b). All devices based on the Pb-(Ru:Pb)-O system showed higher EMF responses to the sample gases containing NO than that on Pb2Ir2O7 28) y. It was further found that the sensor elements using the Pb-(Ru:Pb)-O system except Pb2Ru1.25Pb0.75O7 28) y (x 30)0.75) showed high sensitivity to NO than that to NO2. NO sensitivity, the slope of EMF versus log PNO, decreased with increasing x in Pb2[Ru2 28) xPbx]O7 28) y, although it still has high sensitivity of  28)35mV decade 28) 1 even at x 30)0.75. Surprisingly, it was found that the Pb2Ru1.5Pb0.5O7 28) y (x 30)0.5) : NASICON combination showed only a little NO2 sensitivity at the concentration range between 20 and 220 ppm at 400°C, although it had good NO sensitivity. Fig. 7 shows response transients to NO or NO2 for the device using Pb2Ru1.5Pb0.5O7 28) y. Although the transient in NO2 showed overshoot at switching NO2 concentration, the each EMF at the different NO2
+
+Fig. 7. Response transients to NO2 (a) or NO (b) of the device using Pb2Ru1.5Pb0.5O7 28) y at 400°C.
+
+concentration became a steady value of about  27)10 mV from the initial EMF value in air within about 20 min. The device showed poor NO2 sensitivity, while it had good EMF response to NO diluted in N2, with a 90% response time of about 2–10 min. Fig. 8 shows dependence of EMF of sensor device using the Pb2Ru1.5Pb0.5O7 28) y : NASICON combination on gas concentration. The sensor hardly responded to NO2 and CO2 diluted in air, while it showed high EMF response to NO diluted in N2, being linear to log PNO with a negative slope of  28)40 mV decade 28) 1.
+
+In order to discuss the sensing properties of the Pb2Ru2 28) xPbxO7 28) y system from the crystal structure, the lattice parameter of the pyrochlore-type oxides (cubic) was calculated. As shown in Fig. 9, the lattice parameter (a) of the Pb2Ru2 28) xPbxO7 28) y system increased with increasing x up to 0.50 and was saturated at around x 30)0.75. It was reported that Pb2Ru2O7  28) y is represented by the general formula, Pb2 27) [Ru4 27)Ru5  27)]O6.5 [15]. The present Pb-(Ru:Pb)-O system should be ]O7 28) y (x 30)x% 27) written as Pb2 27) x%%). The expansion of the unit cell is consistent with the difference in the ionic radii of Ru4 27) (0.62A, and further [15]. RuO2(Ru4 27))-based element showed higher sensitivity
+
+
+Fig. 6. Sensing performance to NO2 or NO of the various sensor devices using Pb2Ru2 28) xPbxO7 28) y (x 30)0–0.75) (a), Pb2Ir2O7  28) y (b), and RuO2 (c) electrodes at 400°C.
+
+Fig. 8. Sensing performance of the device using Pb2Ru1.5Pb0.5O7 28) y electrode to NO in N2 (a), NO2 in air (b), and CO2 in air (c) at 400°C.
+
+trode. Therefore, each EMF value could be determined by the potential at which cathodic and anodic reactions proceed at an equal rate. For NO2 sensing, the following electrochemical reactions (1) and (2) are assumed for the cathodic and anodic reactions, respectively.
+
+For NO sensing, the reactions are changed drastically by the coexisted oxygen. When the co-existed oxygen is rare (NO sensing in N2), reactions (3) and (4) are assumed for the cathodic and anodic reactions, respectively. When a sufﬁcient amount of oxygen is co-existed, reactions (5) and (2) are assumed for the cathodic and anodic reactions, respectively.
+
+Oxygen in reaction (4) should be considered as an impurity (10 ppm O2) of N2 gas used. However, the sensing mechanisms of the present electrochemical device still need further investigation.
+
+
+Solid electrolyte NOx sensor using NASICON and pyrochlore-type oxide (Pb2M2O7 28) y; M 30)Ir, Ru1  28) xPbx: x 30)0 28)0.75) electrodes were found to exhibit good performance for the potentiometric sensing of NO as well as NO2 at 400°C. EMF responses were linear to the logarithm of NO or NO2 concentration. The device attached with Pb2Ru1.5Pb0.5O7 28) y electrode gave excellent NO sensing properties. The mixed potential should be considered for the sensing mechanism.
+
+Fig. 9. Effect of partial substitution of Pb for Ru site on the lattice parameter (a) for Pb2Ru2 28) xPbxO7 28) y (x 30)0–0.75) system.
+
+to NO2 than that to NO, as shown in Fig. 6(c). PbO(Pb2 27))-based element also showed higher NO2 sensitivity than NO in our previous study. High NO sensitivity of Pb-Ru-O family seems to come from the effect of Ru5 27) in the lattice. The decrease in NO2 sensitivity with increasing x up to 0.50 should be related to Pb4 27) and:or oxygen vacancy in the systems. Further studies should be necessary to clarify the electrode systems more quantitatively.
+
+In order to examine the NOx sensing mechanism, the effect of co-existent oxygen on the measurement of NO concentration was tested for the Pb2Ru1.5Pb0.5O7 28) y based device. As shown in Fig. 10, the element showed rather well EMF response to NO co-existed 10% oxygen with linear relationship between EMF versus log PNO. However, the slope of  27)43 mV decade  28) 1 was completely different in sign from that for NO in N2 (Fig. 8(a)).
+
+As mentioned above, the sensor signal was largely inﬂuenced by the coexisted oxygen. The mixed potential mechanism [12] should proceed on the sensing elec-
+

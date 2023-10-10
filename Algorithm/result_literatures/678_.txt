@@ -1,0 +1,10 @@
+Safety issue associated with the high flammability and volatility of organic electrolytes used in commercialrechargeable lithium ion batteries has led to significant attention to ceramic-based solid electrolytes.
+In the present study,lithium ion conduction in two polymorphs of LiZr2(PO4)3 synthesized via the sol-gel route has been investigated.
+Rietveld refinement of room temperature X-ray diffraction data of LiZr2(PO4)3 powders calcined at 900 C and 1300 Cconfirmed these to be the monoclinic phase with P21/n structure and rhombohedral phase with R3¯c structure,respectively.
+Increase in calcination temperature and resultant phase transformation improved the room temperatureconductivity from 2.27  10-6 ohm-1m-1 for the monoclinic phase to 1.41  10-4 ohm-1m-1 for rhombohedral phase.
+Temperature dependence of conductivity was modeled using Arrhenius law and activation energy of ~ 0.59 eV (formonoclinic phase) and ~ 0.50 eV (for rhombohedral phase) were obtained.
+In summary, LiZr2(PO4)3 powders were synthesized using the sol-gel method.
+Rietveld refinement of roomtemperature powder XRD data showed that LiZr2(PO4)3 sample heated at 900 °C crystallizes in monoclinic structure(space group: P21/n) whereas on increasing the sintering temperature to 1300 °C, sample adopts rhombohedralstructure (space group: R3¯c).
+Room temperature ionic conductivity improved significantly on phase transformationfrom monoclinic to rhombohedral.
+Temperature dependent DC conductivities for both the phases were found tofollow the Arrhenius equation with activation energy ~0.59 eV and ~0.50 eV, respectively.
+Relatively facile lithiumionconduction in rhombohedral phase was attributed to the improved density and the presence of empty lithiumsitesthat form three-dimensionally connected tunnels for lithium-ion migration.

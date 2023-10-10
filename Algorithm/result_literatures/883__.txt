@@ -1,0 +1,52 @@
+The work focused on improvement of the current response to NO and the reduction of response time of both NOand NO2.By adding a layer of TiO2 catalyst layer, the shortcoming of NO insensitivity of traditional NASICONbased amperometric NO2 sensor was solved.
+
+ TiO2 was known as an n-type semiconductor and a highperformance NO oxidation catalyst.
+
+We separately applied different types of TiO2 (rutile and Degussa P25) onthe device and compared the test results with the traditional type without a catalyst layer.
+
+The results showedthat the TiO2 attached device exhibited a significant improvement to NO response, and P25 was better than rutileTiO2 on account of the higher activity of anatase TiO2.In addition, TiO2 also played a role of a semiconductorelectrode, resulting in the increase of response to NO2.The response time of NO and NO2 was separately shrunkfrom 153 s, 70 s to 77 s, 43 s owing to the P25 layer.
+
+The current responses were found to be barely affected by thecoexistence of CO2.Nitrogen oxide (NOx: NO and NO2) exhaust from combustion devices and vehicles causes acid rain and photochemical smog, both ofwhich have a major impact on the environment [1–2].
+
+Analytical instruments based on chemical luminescence and the Saltzman method hasbeen used to detect NOx, but they are either too expensive or toolarge, or not sufficiently sensitive to low concentrations of NOx.
+
+Therefore, researchers have recently been paying considerable attention tothe development of compact, low-priced, and high-sensitivity solidstate sensors which can detect in-situ NO2 (or NO) in real-time.
+
+NOx isemitted into the environment mostly as NO from combustion devicesand automobile engines.
+
+In the atmosphere, some of the NO is graduallyconverted to NO2 to establish a dynamic balance.
+
+The composition andconcentration of NO and NO2 in the air varies because of the differencesin humidity, temperature, location, and weather conditions [3–9].
+
+Thus,there is a need for a sensor capable of detecting NO2 (or NO) in theparts-per-billion (ppb) range.
+
+Yttria-stabilized zirconia (YSZ) [10–12] and sodium super ionic conductor (NASICON) [13–15] are solid-state electrolytes which are widelyused in the field of gas sensors.
+
+Given that automobile emission standards continue to become stricter, mixed potential-type sensors basedon YSZ have been the subject of intense research as such sensors can detect nitrogen dioxide in automobile exhaust [16–17].
+
+Bosch in Germanyand NGK in Japan have produced YSZ-based NO2 sensors for automobileapplications.
+
+However, these products were designed to monitor partsper million (ppm) concentrations of NO2.They are unable to measureppb levels.
+
+To monitor these lower concentrations of NO2, NASICONbased amperometric solid-electrolyte sensors [18] have been shownto be advantageous.
+
+This kind of sensor was first proposed by Miuraet al. in 1997 [19].
+
+The device could detect sub-ppm levels of NO2 butcould not detect NO.
+
+ To enable the simultaneous detection of the concentration of NO2 and NO, Miura et al.
+
+applied a layer of WO3 oxidationcatalyst to convert the NO to NO2 [20].
+
+ Therefore, they successfully developed a device capable of detecting both NO and NO2.TiO2 is widely applied to heterogeneous photo-catalytic oxidationbecause of its excellent photo-catalytic effect, and because it is an excellent n-type semiconductor [21–22].
+
+Degussa P25 (20% rutile and 80%anatase) is a standard material in the field of catalytic reactions [23].
+
+P25 has large specific surface area and crystalline imperfections, givingit the ability to capture O2 from the air [24–26].
+
+For this study, weemployed Degussa P25 as a catalyst for amperometric NOx sensors,which exhibit an excellent response to both NO and NO2.An amperometric total NOx sensor based on NASICON was obtainedby applying a layer of TiO2 catalyst paste to the sensing Pt electrode.
+
+Theresponse current was found to be linear for NO and NO2 concentrationsof 0 to 1 ppm.
+
+A device with P25 was shown to exhibit the largest response current and the shortest response time among the three devices,indicating that it is an appropriate catalyst for the detection of both NOand NO2. In light of this, −200 mV was deemed to be the optimal applied voltage, while the ideal working temperature was 150 °C.
+

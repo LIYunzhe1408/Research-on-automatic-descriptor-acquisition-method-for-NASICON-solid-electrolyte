@@ -1,0 +1,118 @@
+An exploratory study was carried out to elucidate the fabrication principles of a potentiometric SO2 sensor utilizing stabilized zirconia (solid electrolyte) and a metal sulfate (auxiliary phase). Among the MgO-, CaO-, Y303-stabilized zirconia (abbreviated as MSZ, CSZ, or YSZ) tested, only MSZ samples which contained 15 mole percent (mb) MgO and were partially stabilized gave a stable SO2 sensor by being attached with Li2SO4, whereas almost fully stabilized MSZ (15 mb MgO), partially stabilized MSZ (9 mb MgO), CSZ (11 mb CaO), or YSZ (8 mb Y303) gave a stable device only when attached with a mixed auxiliary phase of Li2SO4-MgO. These facts indicated an active role by MgO, either segregated from the stabilized zirconia or added intentionally, for the devices. It is estimated that, together with Li20 and Zr02, MgO is an essential component of the interfacial compound which acts as an ionic bridge between stabilized zirconia (0 conductor) and auxiliary phase (Lit conductor). The electromotive force (EMF) response of each device to SO2 followed Nernst's equation well for a two-electron reaction per SO2 molecule, while the EMF dependence on oxygen concentration deviated slightly from the Nernstian behavior for the four-electron reduction of 02. Such behavior is discussed based on the sensing mechanism proposed.
+
+In recent years much effort has been directed to developing solid-state sensors for environmentally concerned gases such as SO2, C02, and NO. Particularly, solid electrolyte-based sensors have drawn great attention from their compactness, low cost, and capability of in situ monitoring. As for SO2 sensing, Maruyama et al.' disclosed a new type of solid-state SO2 sensor consisting of NASICON (Na3Zr3Si2PO,2, Na ionic conductor) and Na2SO4 (auxiliary phase), a type later classified as type 111.2.3 Although this sensor gave rather well-defined sensing behavior to SO2 in air, it possesses uncertainty about the stability of NASICON in S02-containing atmosphere, in addition to slow response kinetics. In an effort to replace NASICON by a more reliable solid electrolyte, we have found that a novel type III device utilizing MSZ and Li2SO4-based auxiliary phase shows excellent Nernst's responses to SO2 in air4" together with good long-term stability and good resistance to disturbance by the coexistence of CO2, NO, or NO2. This sensor is provided by combining an anion (02) conducting solid electrolyte with a cation (Lit) conducting auxiliary phase, unlike those type III sensors for which the main solid electrolytes and auxiliary phases have the same conducting ions or at least the conducting ions of the same sign.6-12 Such a device with heterojunction between anionic and cationic conductors has seldom been investigated so far.'3 It is considered that an intervening phase or ionic bridge must exist at the heterojunction interface for the device to achieve an electrochemical chain. In this study we aimed to collect more information regarding the heterojunction by inspecting the applicability of various kinds of stabilized zirconia. As a result, an active role of MgO in the construction of stable SO3 sensing devices was extracted. In this paper we deal with the construction of potentiometric SO2 sensors by using various stabilized-zirconia solid electrolytes and Li2SO4-based auxiliary phases. The nature of the ionic bridge involved as well as the SO2 sensing mechanism is discussed.
+
+
+Sensing devices were assembled on stabilized zirconia tubes with one end closed, 300 mm long and 5 and 8 mm inner and outer diameter, respectively, as schematically shown in Fig. 1. The tubes were of commercial origin (NTK Co., Ltd), made of the zirconia ceramics stabilized with MgO (MSZ), CaO (CSZ), or Y2O3 (YSZ). The content of the stabilizer and the volume fraction of the cubic ZrO2 phase (degree of stabilization) of each tube are shown in Table I. To fabricate the device, each tube was attached with a reference Pt electrode on the inside bottom by applying Pt black, followed by annealing at —900°C. The electrode was connected to a Pt lead through a mechanically pressed Pt mesh, and was always exposed to atmospheric air. A thin layer of Li2SO4, Li2SO4-CaSO4-SiO2 (4:4:2 in molar ratio), or Li,SO4-MgO (8:2) was coated on the outside bottom by dipping that part in the molten sulfate, followed by cooling in air. In oxide-containing mixtures, molten sulfates were stirred vigorously and t
+Fig. 2. Response transients of MSZ-based devices attached with
+
+112504 and 1i2504-Ca504-5i02 to 20 ppm 502 at 650°C.
+
+S02 concentration / ppm
+
+Fig. 3. EMF of various MSZ-based devices as a function of 502 concentration at 650°C. (a) Li2S04-CaSO4-5i02 11 5MSZ (D5 5 1%), (b) 02504 I 1 5MSZ (D5 51%), (c) Li2SO4-MgO I 9MSZ (D5 24%), and (d) Li2SO4-MgO I 1 5MSZ (D5 98%).
+
+which contained 15 mb MgO (abbreviated as 15MSZ) and had the volume fraction of cubic Zr02 phase (degree of stabilization, DS) of 51% (partially stabilized) as analyzed by x-ray diffraction (XRD). The other MSZ tubes tested, i.e., 15MSZ (DS 98%) and 9MSZ (DS 24%), failed to give reasonable devices when attached with Li2SO4: response transients were unstable and the stationary EMF to SO2 was far from being Nernstian. However, these tubes gave fairly good SO2 sensors provided the auxiliary phase was changed from Li2SO4 to Li2504-MgO (8:2 in molar ratio). The Nernstian behavior of EMF responses to SO2 (n = 2) of these devices is shown in Fig. 3. The implication of these results is discussed later.
+
+Applicability of YSZ or CSZ.—The finding that MgOstabilized zirconia (15MSZ with DS of 51%) could be successfully utilized to fabricate SO2 sensors motivated us to examine the applicability of CSZ and YSZ further. The devices fabricated by coating a layer of Li2SO4 on CSZ and YSZ tubes, however, were unable to give satisfactory results. The CSZ-based device, for example, gave unstable response transients on turning on and off 20 and 197 ppm 502 in air at 650°C, as shown in Fig. 4a. The transients tended to show an overshoot in both the response and recovery steps, and this tendency became more obvious as the concentration of SO2 increased. Probably from the same reason, the transients on turning on SO2 could not reach a stationary state for a long time especially for higher concentrations of SO2. The stationary EMF or the EMF reached 30 mm after turning on SO2 could hardly be correlated reasonably with the SO2 concentration introduced, as shown by correlation (a) in Fig. 5. The YSZ-based device was also poor in SO2 sensing performance, as indicated by correlation (b) in Fig. 5.
+
+As mentioned above, CSZ and YSZ could not give stable SO2 sensors when combined with the Li2504 auxiliary phase. This contrasted to the previous finding on the MSZ-based device. At this stage, we had been convinced that this type of device needs an interfacial compound between the main solid electrolyte (stabilized zirconia) and the auxiliary phase (Li2504) to establish an electrochemical chain through the device, as discussed later. From this viewpoint, it was suspected that a lack of stable interfacial compound may be a reason for the unstable behavior of CSZand YSZ-based devices mentioned above. It was further speculated that the stabilizer (MgO) of MSZ may play an active role for forming the interfacial compound. To examine this possibility, MgO was added to the auxiliary phase: Li2SO4-MgO (8:2 in molar ratio) mix-
+
+J. Electrochem. Soc., VoL 143, No.2, February 1996 The Electrochemical Society, Inc.
+
+phases tested and the resulting SO2 sensing properties. As just mentioned, CSZ and YSZ gave stable SO2 sensing devices only when an MgO-added auxiliary phase was used. This urged on us the necessity of investigating the nature of effective MgO in such devices further. The investigations on various MSZ tubes mentioned in the section on Sensing properties of MSZ-based devices were carried out from such motivation.
+
+As shown in Table I, among the three MSZ tubes tested, 15MSZ (DS 51%) could provide a stable device by being attached with Li2SO4, whereas 15MSZ (DS 98%) and 9MSZ (DS 24%) lead to stable devices only when attached with Li2SO4-MgO, similar to the cases of CSZ and YSZ. These phenomena can be understood consistently from the phase diagram of Zr02-MgO system.'4 At an MgO content of 15 m/o, all MgO components can be incorporated into the lattice of cubic ZrO2 in the state of the fully stabilized zirconia (DS 100%), while a considerable amount of MgO is segregated from the Zr02 lattice for the partially stabilized state. At 9 mb MgO, the system contains cubic and monoclinic phases of ZrO2 scarcely including segregated MgO. Thus it is indicated that 15MSZ (DS 51%) has free MgO segregated on the surface, while 15MSZ (DS 98%) and 9MSZ (DS 24%) have little or no free MgO. This corresponds well to whether the MgO addition to the auxiliary phase is necessary (the last two) or not (the first) for obtaining stable devices. On the basis of these data and other considerations, it is concluded that a stable SO2 sensor of this type has been obtained under the coexistence of free MgO.
+
+Elect rochemical constitution of devices.—The present
+
+devices have the following cell structure. Stabilized zirconia II (Reference electrode) (02 conductor)
+
+Li2SO4-based auxiliary phase I Pt, SO2 in air
+
+The SO2 gas introduced is catalytically oxidized to SO3 over the sensing electrode (Pt mesh) so that the electrode can be assumed to be exposed to an equilibrium concentration of SO3 determined by the equilibrium constant (K) of the reaction
+
+The sensing-electrode and Li,S04-based auxiliary phase (poor conductor of Lit) thus form an S03-sensitive halfcell (SO3 electrode), which undergoes the following electrode reaction
+
+[4] The reference electrode and stabilized zirconia confirm a well-known 03-sensitive half-cell (03 electrode)
+
+[5] The present devices are obtained by combining these two half-cells through a heterojunction between the 0 conductor and the Li conductor. To achieve an electrochemical chain for the heterojunction, one must assume the formation of an interfacial compound which contains both conducting ions of Li and 02, as shown in Fig. 6. The simplest one of such compounds is Li20, but this is hardly stable on contact with zirconia. A simple mixed compound between Li.,0 and Zr02, such as Li2ZrO3, is still inconsistent with the fact that MgO should play an active role. From these considerations, we assume here a mixed oxide derived from Li20, ZrO,, and MgO, expressed as Li2÷2Mg,ZrO3. aThis can provide an ionic bridge between the two half-cells by means of the following reaction
+
+In the CSZ.. or YSZ-based cell attached with MgO-Li,S04, the interfacial compound may contain a small amount of Ca or Y though this point needs further investigation.
+
+Fig. 4. Response transients of CSZ-based devices to 20 and 197 ppm 502 at 650°C. (a) Li2504 I 1 1CSZ (DS 100%) and (b) 112504MgO I 11CSZ (OS 100%).
+
+ture was coated on CSZ and YSZ tubes. The resulting devices gave fairly good sensing behavior to SO2. For example, Fig. 4b shows the response transients of the CSZ-based device to 20 and 197 ppm SO2 at 6500C. The transients are seen to have been much improved as compared with Fig. 4a, although a small overshoot is still observed to 197 ppm SO2. Further, the stationary EMF response to SO2 obeyed well Nernst's equation for n 2 in the concentration range 2 — 200 ppm, as indicated by correlation (c) in Fig. 5. Similarly, the YSZ-based sensor fit with Li2SO4-MgO gave quick and stable responses to SO2, and its EMF was linear to the logarithm of SO2 concentration with the slope coinciding with n = 2, as shown by correlation (d) in Fig. 5. These results clearly indicate that the addition of MgO to the auxiliary phase can improve the SO2 sensing properties of YSZand CSZ-based devices remarkably.
+
+Nature of effective MgO.—Table I lists all the combinations between stabilized zirconia tubes and auxiliary
+
+Fig. 5. Correlations between EMF and $02 concentration for yszand CSZ-based devices at 650°C. (a) 112504 I 1 1CSZ (DS 100%), (b) ' Ii2SO4 I 8YSZ (DS 100%) and (c) U2$0 -MgO I 1 1CSZ (OS lcsO°/) Id'
+
+J. Electrochem. Soc., Vol. 143, No. 2, February 1996 The Electrochemical Society, Inc.
+
+This equation shows that EMF is contributed to not only by the two gas electrodes but also by the thermodynamic properties of the interfacial compound.
+
+EMF can be correlated with the partial pressure of SO3
+
+introduced (p,o,in) as below. If Pso, ,, is far smaller than
+
+Fig. 6. Model of electrochemical chain for MSZ-based device
+
+attached with L12S04.
+
+From Eq. 3 and 15, Pso,15 given by
+
+The substitution of Eq. 16 into Eq. 14 gives the final expression of EMF
+
+[6] and thus completes an electrochemical chain for the devices as described below.
+
+Electrochemical equilibrium for reactions 4, 5, and 6 are
+
+expressed as follows, respectively
+
+jI and 1.1 represent electrochemical potential and chemical potential, and the superscripts s, r, and i mean the sensing electrode, the reference electrode, and the interfacial compound, respectively. At equilibrium, the electrochemical potential of the conducting ions should be constant throughout the conducting regions, i.e. = I+ o= o2
+
+[10] These conditions make it possible to relate the electrochemical potential of electrons of the sensing electrode to that of the reference electrode
+
+The EMF of the cell is derived straightforward as E = 1= j
+
+Here Pso, and Po, are the partial pressures of SO3 and 03, I4o is the chemical potential of SO3 at the standard state, and R, T and F have the usual meanings. The term in the parenthesis of Eq. 12 is the standard Gibbs free-energy change (AG') of the reaction
+
+Li2SO4 + Li3Mg,Zr03 = Li3÷32Mg,Zr03 + 503 [13] The first term of Eq. 12 is thus constant (E,), allowing us to express EMF as
+
+When pt,, and p9,, are constant, Eq. 17 is simplified to
+
+EMF is thus linear to the logarithm of inlet SO2 concentration with the slope corresponding to n = 2, in agreement with the experimental results.
+
+Estimation of interfacial compound—If the interfacial compound is known and the thermodynamic data of all compounds appearing in Eq. 13 are available, EMF of the device can be estimated from Eq. 12 theoretically. Since the exact interfacial compound (Li,22.Mg,Zr,O3) is not known at present, let us consider simple compounds, Li30 (x = 2, y = 0, z = 0) and Li3ZrO3 (x = 0, y = 0, z = 1), for the sake of theoretical illustration. The theoretical EMF calculated from Eq. 12 for the respective cases are shown in Fig. 7 as a function of Pso,, together with the experimental EME It is seen that neither case can result in satisfactory agreement with the experimental, though the disagreement becomes less with Li3ZrO3 than with Li30. These compounds contain no MgO component. As another extreme, one can conceive an ionic bridge involving MgO and MgSO4, if one assumes the following two reactions instead of Eq. 6
+
+E, of Eq. 14 now reflects AG' of the reaction
+SOz concentration I ppm
+
+Fig. 7. Experimental and theoretical EMF as a function of SO3 concenfration at 650°C. [Experimental data obtained with the device U5fl9 Li2SO4-CaSOSiO2 I J5MSZ (DS 51%).]
+
+J. Electrochem. Soc., Vol. 143, No.2, February 1996 The Electrochemical Society, Inc.
+
+[22] In this case, theoretical EMF goes down too much below the experimental EMF, as shown in Fig. 7. Considering that Li2ZrO3 and MgO (+MgSO4) give theoretical EMF too high and too low, respectively, the actual interfacial compound is suggested to be in between, i.e., Li2+2MgyZrzO3 with an Li20 content far less than that in Li2ZrO3.
+
+Another point to be taken into account is that the interfacial compound should be sufficiently stable to sulfurization on exposure to 502-containing atmospheres. Thermodynamic data indicate that Li20 and Li2ZrO3 are too unstable to sulfarization, while MgO is resistant to diluted SO2 in air at temperatures above 600°C. This again suggests that a plausible interfacial compound is a mixed oxide among Li20, ZrO2, and MgO with a low Li20 content. The interfacial compound remains to be identified experimentally to establish a theoretical base for this type device.
+
+Dependence of EMF on p02.—To make sure of the SO2 sensing mechanism, the dependence of EMF on Po2 5 briefly described. As shown by Eq. 16, Po, affects EMF in a complex manner. Let us consider two limiting cases under the conditions of fixed Pso2mandp2. If K(p2)"2 is far smaller than unity, EMF can be expressed as
+
+The dependence of EMF on Po2 in this case should follow Nernst's equation corresponding to a two-electron reaction of 02 (n = 2). If K(p2)"2 is far larger than unity, EMF can be given by the following Nernst's equation corresponding to n = 4
+
+In this way, the dependence of EMF on Po, is expected to be between n = 2 and n = 4. At the experimental temperature of 650°C, K is known to be 5.36, so that in the 02 concentration range 4 — 90 yb the value of K(p2)112 falls in 5.1. This suggests that the second limiting the range 1.1 case is more likely at least for large p2. Figure 8 shows EMF to 10 ppm SO2 at 650°C as a function of coexistent 02 concentration. For the two MSZ-based devices, the n values (3.4 and 3.8) derived from Nernst's slopes were slightly less than 4, consistent with the above estimation.
+
+Conclusion
+
+The SO2 sensor based on stabilized zirconia and Li2SO4 is understood as being composed of two gas-sensitive halfcells, i.e., a stabilized zirconia-based 02 electrode and a metal sulfate-based SO3 electrode. The EMF dependence of the SO3 electrode on Pso2 and Po, are essentially the same as that reported for the metal sulfate membrane-based SO2 sensor. The two half-cells can be connected electrochemically through an intervening phase (interfacial compound) formed in between. The interfacial compound is estimated to be a mixed oxide containing Li20, ZrO2, and MgO. To obtain a stable SO2 sensor of this type, one must either use a stabilized zirconia membrane with MgO segregated on the surface or add MgO to the auxiliary phase.
+
+Acknowledgment
+
+This work was partially supported by a Grant-in-Aid for Scientific Research on Priority Areas (No. 260) from the Ministry of Education, Science, and Culture of Japan. Manuscript submitted April 10, 1995; revised manu-
+
+script received Sept. 5, 1995.
+
+Kyushu University assisted in meeting the publication
+
+costs of this article.

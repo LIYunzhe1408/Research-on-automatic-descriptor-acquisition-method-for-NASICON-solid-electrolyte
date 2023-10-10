@@ -1,0 +1,48 @@
+Hot-pressed sintering was employed to prepare the sodium super ionic conductor  ceramics and compare with the sample obtained from normal-press sintering.
+The phase formation, density, and conductivity of the hot-press sintered and the normal-press sinteredsamples were investigated in detail.
+Results show that the density of NASICON ceramics and the degree ofcrystallization can be improved by hot-press process efficiently.
+The density of the sample sintered by normalsintering is obviously lower than that sintered by hot press.
+XRD analysis indicates all the hot press sinteredsamples contain mainly monoclinic NASICON and no ZrO2 phase was found.
+The ionic conductivity ofnormal-press sintered sample is much lower than that of hot-press sintered sample.
+When the composition isclose to Na3ZrzSizP012, the dc conductivities of the hot press sintered samples were in the order ofS-cm-l.
+The variation of the ac conductivity with frequency in the high frequency region agrees withthe power law feature of o ( w ) cc w”(0 < n < 1).
+NASICON stands for well-known family ofsolid electrolytes of sodium superionic conductorNa, + Zr,Si,P, - O,, , which has attractedmore and more attention for the promising usein solid-state electrochemical devices such asgas sensors, ion sensors and Na-S batteries[ 1 -NASICON were reported to possess theskeleton consisting of ZrO6 octahedra, Po4 tetrahedra,and Si04 tetrahedra, and exhibit a fewcrystalline forms depending on temperature andcomposition .
+NASICON is usually synthesizedby two methods (the traditional ceramicroute or a sol-gel method) and the microstructureof samples is usually affected by the preparationmethods . 
+The ceramic routerequires higher sintering temperatures leading tosegregation of a resistive monoclinic zirconiasecond phase, following Na and P volatilization.
+On the contrary, the fine and reactive solgel powders require lower sintering temperaturesand the obtained materials is more conductiveand homogeneous.
+In this study, the NASICON powders withthe composition of Nal +  were prepared by sol-gel synthesisand sintered under the pressure of 20 MPa todevelop NASICON ceramics.
+The dependenceof density, microstructure, and the electricalconductivity on the composition of the ceramicswas investigated in detail.
+
+TheNASICON ceramics were prepared by sinteringthe obtained NASICON powdels at loo0 “c for 30min under the pressure of 20 MPa.
+In addition tothe hot pressed ceramics, a sample with the compositionof Na3Zr2Si2POlzw as sintered at loo0 “cfor 8 h under normal pressure.
+The density of sample was measured usingArchimedes method.
+The crystalline phase wasanalyzed through X-ray diffraction ( XRD,Rigaku D/max(3C).
+The flat surface of the sinteredtablet was prepared by polishing and thegold paste was used as electrodes on both flatsides of the tablet.
+The electrical conductivitywas determined from impedance spectroscopymeasurements with an impedance analyzer (Agilent4294) in frequency band 40 - 110 MHzfrom room temperature to 300 T.
+The dc conductivitiesat a certain temperature could becalculated from the impedance plots of the obtainedceramics at the corresponding temperature.
+Parallel conductance and capacitancewere measured at room temperature in the frequencyrange of 40 - 110 MHz with the impedanceanalyzer.
+The densities of the different samples weremeasured and listed in Table 1. 
+The normalpresssintered NASICON ceramic ( x = 2) havethe density of 2. 72 g * cm-3, which is muchlower than that of hot-press sintered ceramic(3.07 g'cm - 3 , very close to the ideal value of3.27 g * cm - 3 ) , indicating that the hot pressedsintering is a helpful method to densifj the NASICONceramics.
+Fig.1 gives the XRD curves of sintered NASICON( x = 2) ceramics under normal pressureand 20 MPa pressure.
+All the peaks correspondto the monoclinic NASICON phase andno ZrOz phase exists in the hot-press ceramic,while some weak peaks belonging to Zr02 phaseare found for the normal-press sample.
+TheXRD curves of all the hot-press samples withdifferent composition are shown in Fig.2. 
+It is clear that no ZrO, phase exists in all the hotpressceramic.
+The crystalline phases in thesamples are almost the same while the crystallizationdegree of the samples is different.
+It isbelieved that the crystallization degree of NASICON( x = 2, 2.2) is better than that of ceramic( x = 1.8) because the XRD peaks of ceramics( x = 2, 2.2) are sharper and narrower thanthose of ceramic ( x = 1 .8) , as shown in Fig.2
+The complex impedance plots of the normal-press and hot-press NASICON ceramics( x = 2) at 28 “c are given in Fig.3. 
+The grainboundary arc is clearly seen and the bulk contributioncan only be estimated from the highfrequency intercept of the grain boundary arc.
+The bulk resistances determined from the complexplots are used to calculate the dc conductivityof the ceramics.
+The dc conductivity ofhot-press sample is 2.3 x S-cm, whichis obviously higher than that of normal-presssample, ,indicatingthat the hot-press sintering is helpful to improvethe conductivity of the NASIC ceramic.
+The dc conductivities of all the hot-presssamples are also listed in Table 2.
+When x =1 .9 - 2.1 the conductivities are in the order of1 x S-cm-’, which is a little higher thanthose of sample( x = 1 .8, 2.2) .
+The Arrheniusplots of the NASIC ceramics are shown in Fig.3. 
+Table 2 lists theactivation energy of different NASIC ceramicsand results show that the activation energy ofthe ceramics falls down slowly as the sinteringtemperature increases.
+It is in concordance withthe ion conductivity because of high ion conductivitycorresponding to low activation energy.
+Fig.5 gives the log-/log plot of o ( w ) versusw for the hot-press samples with differentcomposition.
+It is shown that the frequency dependentconductivity of the hot-pressed samples with different compositions has the similar featuresas follows: ( 1) The conductivity is foundalmost to be frequency independent in low frequenciesregion and it is equal to dc conductivity(in the plateau region) .
+(2) In the high frequencyregion, the variation of conductivity withfrequency is observed to have the power law featureexpressed as O(W)KW"(O< n < I ) .
+The dc conductivity is closely related tothe crystalline phase, crystallization degree,and the density of ceramics.
+All the hot-pressceramics contain only NASICON phase and noZrO, phase was found.
+The hot-press sinteredsample has relatively higher density than thenormal-press sintered sample, resulting in thehigher conductivity of the hot-press ceramics .
+The dc conductivities of the hot press sinteredsamples ( x = 1.9 - 2. 1 ) were in the order ofS'cm-', a little higher than those of samples( x = 1.8, 2.2).
+In the high frequency region,the variation of ac conductivities with frequencyhave the power law feature expressed ascT( W ) K W " ( O < n < 1).

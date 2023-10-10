@@ -1,0 +1,11 @@
+The temperature dependence of photoluminescence properties and decay times inthe range 10-300 K is reported for Eu2+ doped NASICON-type phosphateCaZr4(PO4)6. Luminescence from the Eu2+ impurity has been investigated.
+Twodifferent Eu2+ centers have been detected in the host structure, 3a and 3b,corresponding to the emission bands peaking at 531 and 480 nm.
+The emissionintensity and lifetimes decrease with increasing temperature due to temperaturequenching.
+The values of Stokes shift, quenching temperature T1/2 and activationenergy for thermal quenching are evaluated.
+The mechanism of thermal quenching isalso discussed.
+In CaZr4(PO4)6:Eu2+ two different Eu2+ emissions peaking at 531 and 480 nm areobserved.
+This is in agreement with the two sites available for Eu2+ in thisNASICON-type phosphate lattice.
+The Stokes shift of the Eu (I) and Eu (II) emissionbands are about 4000 and 6000 cm-1. However, the crystal environments of the Eu (I)and Eu (II) ions are so similar that two separated emission bands cannot be observedeven at 10 K.
+The lifetimes decrease from 0.38 μs (10 K) to 0.07 μs (300 K) withincreasing temperature as a result of a substantial increase in nonradiative relaxationrate.
+The activation energy (ΔE) for thermal quenching is about 0.096 eV and thequenching temperature T1/2 is about 225 K.
+The small activation energy indicates thelowest energy level of the relaxed Eu2+ 4f65d1 electronic configuration is not wellisolated from the host lattice conduction band, which supports the thermal quenchingshould be attributed to the thermal excitation of the 5d electron to conduction bandstates.

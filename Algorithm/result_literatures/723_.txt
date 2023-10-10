@@ -1,0 +1,18 @@
+Commercial NASICON-type electrolyte plates are coated with a thin film of LiPON to obtain a compositeelectrolyte system with high conductivity at room temperature that can be used in contact with metallicLithium.
+The formation of the interface between the NASICON substrate and the LiPON coating is studiedusing an in-situ X-ray photoemission spectroscopy (XPS) surface science approach.
+The process of LiPONdeposition induces changes in the surface chemical structure of the NASICON substrates as observed byXPS, including the partial reduction of Ti and the incorporation of N into the NASICON.
+The practical impact of the interface formation is studied by impedance spectroscopy, revealing a substantial increaseof resistance for LiPON coated samples.
+The interface experiments using XPS demonstrate that LiPONdeposition onto the NASICON-type solid electrolyte substrates(LATP, LATGP-type) result in pronounced changes of the chemicalstructure in the surface region of the substrate.
+These changes canbe explained by the interaction of the substrate with the processatmosphere at early stages of the deposition process when a fullycovering LiPON layer has not yet formed.
+During initial LiPON deposition the titanium in the substrate surface is reduced andsubsequently an interlayer compound is formed, which we identifyas lithium titanate.
+In addition we observe nitrogen incorporationinto the substrate surface that is similar to the interaction of thesubstrate to nitrogen plasma in a separate experiment.
+The reductionof titanium, the formation of the interlayer compound as wellas the nitridation are attributed to the exposure of the substratesurface to process atmosphere, containing lithium and reactivenitrogen species, respectively.
+At longer deposition times, the formationof LiPON with typical structure is observed.
+The resistance of LiPON coated substrates for Li-ion transportsignificantly increases, as is found by EIS analysis.
+For the 150 mmthick LATP substrate the impedance is approximately tripled afterthe double sided coating of 2  200 nm LiPON.
+Simulation of theimpedance data indicates that the impedance increase issignificantly affected by the interlayer-region formed during thedeposition process.
+Additional EIS measurements with samplesexposed to nitrogen plasma but not coated with LiPON support therelevance of the nitrogen incorporation for the impedance.
+The results demonstrate the high reactivity of NASICON-type Liionsolid electrolytes towards the LiPON sputter deposition process.
+Likely, this reactivity extends to physical vapour deposition processesof Li-containing compounds in general, and may pose anintrinsic problem for interface formation of electrolytes which areunstable in contact with lithium.
+Application of protective layers forsolid electrolytes has to be optimised not only to the electrochemicalstability window of the bulk materials, but also to theinterface formation during deposition.
+Plasma nitridation of solidelectrolytes appears to be an interesting surface treatment processand should be studied in greater detail.

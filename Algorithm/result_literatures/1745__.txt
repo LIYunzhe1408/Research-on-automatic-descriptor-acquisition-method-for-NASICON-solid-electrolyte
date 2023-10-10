@@ -1,0 +1,68 @@
+Crystal structures of synthetic phosphates Ce0.33Zr2(PO4)3, Eu0.33Zr2(PO4)3 and Yb0.33Zr2(PO4)3 have been refined by Rietveldmethod using powder diffraction data.
+
+New space group P3¯ c has been established for the compounds with general formula Ln0.33Zr2(PO4)3, whereLn ¼ Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu and Y.
+It has been confirmed that the synthetic phosphates with generalformula Ln0.33Zr2(PO4)3 belong to the NZP (sodium zirconium phosphate) structure type.
+Lanthanide and zirconium phosphates with generalformula Ln0.33Zr2(PO4)3 are studied as representatives ofthe framework phosphates family Mx[T2(PO4)3]n, where0pxp4, T-cations in various oxidation states, n-frameworkcharge.
+Many of them crystallize in the structure typeof NaZr2(PO4)3 (NZP) .
+Compounds with [Zr2(PO4)3]1framework are studied the most extensively.
+Its charge maybe compensated by different cations, varying in oxidationstate from 1+ to 4+.
+When compensating by M3+cations, the serious of compounds with general formulaM0.33Zr2(PO4)3 is formed.
+Known phosphates with lanthanum and lanthanidesLn0.33Zr2(PO4)3 appear to be perspective objects indeveloping ceramic materials with ultralow thermal expansion.
+Additionally, they also gain an interest aspotential solid electrolytes with mobile multivalent ions.
+Among series of compounds M0.33[T2(PO4)3], zirconiumphosphates with yttrium , bismuth , iron and some titanium compounds with lanthanum  andeuropium are also studied.
+
+Among phosphates of the NZP family such latticesymmetry is also known for the double phosphate oflanthanum and titanium La0.33Ti2(PO4)3 and the zirconiumcompounds with divalent cations MII0:5 Zr2(PO4)3,MII ¼ Ca, Sr, Cd, Ba, Pb .
+The conclusion thatsymmetry reduces in Ln0.33Zr2(PO4)3 compounds fromR3¯ c, typical for NaZr2(PO4)3, to R3¯ resulted from analysisof powder X-ray diffractograms.
+This examination revealedthe presence of two lines on the patterns, which werenot indexed within the R3¯ c space group and correspondedto interplanar spacings of 7.56 and 5.70A ˚ .
+No structuraldata have been reported in for the studied compounds.
+On account of this an attempt was made to refine crystalstructures of the phosphates we synthesized of general formula Ln0.33Zr2(PO4)3 in order to obtain values of unitcell constants and interatomic distances.
+However, duringour work we revealed and specially examined someadditional reflections, which appeared at the XRD patternsof all the compounds under study but for La and wereindexed within neither R3¯ c nor R3¯ space groups.
+Forreason given, possible reduction of symmetry in such typeof phosphates has been assumed to occur.
+
+Solutions of reagent-grade lanthanum, lanthanidesand yttrium nitrates (or corresponding metal oxides),zirconium oxychloride ZrOCl2  8H2O and ortho-phosphoricacid solutions have been taken as starting reagents.
+Concentrations of the prepared solutions were determinedby means of gravimetric analysis (gravimetric compound—ZrO2) in case of zirconium oxychloride, and titration bythe EDTA solution in the presence of Xylenol Orange as anindicator in case of lanthanides nitrates solutions .
+Solutions of lanthanide nitrate (or weighed amount of itsoxide powder preliminarily dissolved in a diluted nitricacid) and zirconium oxychloride were initially mixedtogether and then stoichiometric amount of phosphoricacid was added gradually dropwise to the obtained solutionunder continuous stirring within 15–20 min, followed bythermal treatment at 80, 600 and 800 1C.
+Duration ofheating amounted to 24 h at each stage.
+Heating wasalternated with intermediate careful grinding in an agatemortar.
+The samples obtained were finely crystalline white orslightly colored powders.
+They were pressed into pellets,additionally sintered at 800 1C for as long as 3 h andsubsequently used for the XRD measurements.
+Diamondpowder was used as an internal standard in order to verifyprecisely positions of peaks.
+A little amount of powder wasdeposited at the surface of each pellet prior to measurement.
+
+Powder patterns of the samples with general formulaLn0.33Zr2(PO4)3, where LnQLa, Ce, Pr, Nd, Sm, Eu, Gd,Tb, Dy, Ho, Er, Tm, Yb, Lu and Y, have beenindexed assuming the R3¯ space group, structure type ofNaZr2(PO4)3 (Fig.1).
+X-ray diffraction patterns of the powder samplesCe0.33Zr2(PO4)3, Eu0.33Zr2(PO4)3, Yb0.33Zr2(PO4)3, chosenfor the structural refinement, have been obtained at ADP-2diffractometer, lCuKa, Ni-filter, 151o2yo1101, 2y stepwas 0.021, and a counting time was 10 s/point.
+XRDpatterns processing has been carried out using WYRIETprogram, version 3.3 .
+Peaks profiles approximationwas performed according to Pearson VII function at6FWHM (region was confined by six values of width (W)at half height H of a maximum).
+Asymmetry correctionrefined at 2yo601. Ion scattering curves have been used inthe calculations for all elements.
+Atomic coordinates for Cd0.5Zr2(PO4)3, R3¯ space group,were used as a starting model .
+However, alreadyat the initial stage of refinement it became evidentthat some reflexes are present at the diffraction patternsof the investigated compounds (Table 1, Fig.2(A)),being not indexed within the R3¯ space group.
+The presenceof additional reflexes revealed either a secondaryphase in the sample or possible reduction of symmetry tothe space group, where these reflexes would meet rulesof systematic extinctions.
+The additional reflexes have been examined in order to see if they belong to possiblesecondary phases which could stem from syntheticprocedure.
+
+This search failed toyield beneficial effect.
+Furthermore, it should be notedthat additional peaks were reproduced for all lanthanidephosphates and appeared at diffraction patternsof the compounds, obtained at different times, by differentauthors and in different laboratories of the world, theirlocation and relative intensity did not depend on reagents’prehistory.
+As long as additional lines appeared at allpowder XRD patterns of the compounds with generalformula Ln0.33Zr2(PO4)3, where LnQCe, Pr, Nd, Sm, Eu,Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu and Y and additionalphases were not found, a thorough analysis hasbeen undertaken, which revealed that these reflexesbelong to investigated phases.
+
+A patternobtained consequently demonstrates an excessive increaseof number of reflexes at the theoretical XRD pattern(Fig.2(B)), which also does not correspond to theexperimental data, despite the satisfactory reliabilityfactors values.
+The best convergence of the experimental andtheoretical patterns is observed when structures of theinvestigated compounds are refined assuming the P3¯ c spacegroup (Fig.2(C)).
+In this case, recalculation of the atomiccoordinates was carried out with addition of symmetryplane c.
+Crystallographic characteristics, basic parameters of theexperiments and structures refinement results for the compoundsCe0.33Zr2(PO4)3, Eu0.33Zr2(PO4)3, Yb0.33Zr2(PO4)3are given in Table 2. 
+Final coordinates, thermal parametersof the atomic displacements in isotropic approximationand occupancies of basic atoms positions are presented inTable 3.
+ Experimental and theoretical XRD patterns of theinvestigated phosphates are shown in Fig.3(A)–(C).
+Afragment of the structure is presented in Fig.4(A)–(C).
+Unit cell parameters calculated in the series of compoundsfrom La to Lu change regularly (Fig.5(A)–(C)).
+Thus, with increasing an atomic number of lanthanide a tendency is observed for c-parameter to decrease, which isdue to the lanthanide contraction phenomenon, at thesame time an increasing of a-parameter and decreasing of V occurs.
+Unit cell parameters of lanthanum zirconiumphosphate drift from the general trend for other lanthanideand zirconium phosphates.
+Presumably, owing to thebigger size of La3+ ion in comparison with other rareearth elements, it behaves differently in the structure, i.e., aprocess of disordering of La ions along the interstitialcavities starts, thus finding a reflection in values of unit cellparameters and shape of IR spectra of the correspondingphosphate .
+The base of the structures Ce0.33Zr2(PO4)3, Eu0.33Zr2(PO4)3,Yb0.33Zr2(PO4)3 is formed of three-dimensional mixedframework, built up in such a way, that each [ZrO6]-octahedron is bound up with six [PO4]-tetrahedrons bycorner-sharing (Fig.4).
+
+Interstitial cavities of the octahedral shape, are for 1/3occupied by atoms of Ce , Yb (Yb–O ¼ 2.56A ˚ 6) in structures of the phosphates Ce0.33Zr2(PO4)3, Eu0.33Zr2(PO4)3,Yb0.33Zr2(PO4)3, respectively.
+Thus, in the investigated compounds, crystallizing in theNZP structure type, the symmetry reduces to the P3¯ c spacegroup.
+Obviously, this conclusion is valid for the wholeseries of the phosphates concerned save for La phosphatein accordance with complete similarity of their XRDpatterns .
+This conclusion is also confirmed by the results of IR spectroscopy study of the synthetic phosphateswith general formula Ln0.33Zr2(PO4)3, whereLn ¼ La, Ce–Lu and Y .
+On the whole, generalizing the results obtained inthe present work and the data known from literatureon the trigonal phosphates of the NZPfamily with general formula Mx[T2(PO4)3], x ¼ 1, 0.5, 0.33it might be concluded that symmetry reduction mayoccur in two ways.
+Phosphates with general formula Ln0.33Zr2(PO4)3, whereLn ¼ La, Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm,Yb, Lu and Y have been synthesized using precipitationmethod.
+They were characterized by powder X-raydiffraction analysis.
+Rietveld refinement has been carriedout for the selected representatives of the row, namelyCe0.33Zr2(PO4)3, Eu0.33Zr2(PO4)3, Yb0.33Zr2(PO4)3, whichrevealed symmetry reduction in this type of phosphates.
+Atomic coordinates, thermal parameters of atomic displacementsand occupancies of basic atoms positions havebeen obtained.
+The new space group P3¯ c has beenestablished for the whole series of compoundsLn0.33Zr2(PO4)3 with Ln ¼ Ce–Lu and Y.

@@ -1,0 +1,11 @@
+A novel hybrid electrolyte using NASICON-type oxide ceramics andfluorinated electrolytes has been employed in semi-solid-state Li-Sbatteries.
+A high stability of over 1200 cycles and superiortolerance to low temperature were attained.
+Meanwhile, thehybrid electrolyte configurations are demonstrated to apply toother oxides electrolyte, like Garnet-type ceramics.
+In summary, FDE-oxide ceramic hybrid electrolytes have beenprepared and used in semi-solid-state Li-S batteries for thefirst time.
+The inorganic ceramics prevent the contact ofintermediate polysulfides from lithium anode and completelyeliminate the shuttle effect.
+The FDE-based electrolytes notonly provide enough Li+ transport channel between solidceramics and solid electrodes to contribute a low interfacialresistance, but also suppress the dissolution of polysulfidesand confine them within cathodes.
+Consequently, theutilization of active sulfur and capacity retention wereeffectively improved.
+The semi-solid-state Li-S batteriesexhibited a good cycling performance with only 0.02% capacitydecay per cycle at 1 C for 1200 cycles.
+A wide operatingtemperature range also has been demonstrated.
+Besides, theFDE electrolytes boast an increased level of safety for semisolid-state Li-S batteries containing liquid electrolytes becauseof the low volatility and flammability.
+This work demonstratesa promising electrolyte designed for broad energy storagedevice applications.

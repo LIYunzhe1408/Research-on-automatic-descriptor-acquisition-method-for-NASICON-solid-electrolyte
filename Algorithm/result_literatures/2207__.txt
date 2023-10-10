@@ -1,0 +1,44 @@
+Lahoratoire  de Chimie  du  Solide,  Faculti  des Sciences Ain  Chock, Casablanca, Maroc. 
+
+1  Laboratoire  de Chimie  des Matiriaux  Solides, Facultk  des Sciences Ben  M’Sik,  Casablanca, Maroc.  2  Laboratoire  de Chimie  de la Mat&e  Condens&  de Bordeaux,  Universitk  de Bordeaux  I, France. 
+
+SmarV  (0 5 x 50.5)  phosphates have been prepared by solid state reaction and by sol-gel m&hod. ne  X-ray  diffraction  study shows that these materials belong to the N&con-type  structure. The structure of  i%O.sTiz(PO& has been  solved in  the  R?  space group. Mn*’  ions are ordered in  half of  M(1)  shows  a pammagnetic 
+
+Titanium  phosphates  &,~oTi2(P04)3  have  been  largely  studied  for  their  catalytic  properties  (M  =  Cu)  (1,2)  or  for  their  low  thermal  expansion  coefficient  (M  =  Mg,  Ca, Sr,  Ba)  (3).  Recently,  structures of  Mo.soTiz(PO&  (M  =  Cu,  Mg,  Co,  Ca) (4-S)  have  been  determined.  To  our  knowledge,  the phosphate  &.,T&(PO&  has not  been  studied.  We present  in this paper  the results  obtained  for  the N~~.&vln~“Ti&‘O& 
+
+system : chemical,  structure  and magnetic  properties. 
+(0  5  x  5  0.5)  materials  have  been  obtained  by  the  general  preparation  method  of  phosphates 
+
+according  to the reaction  :  (I-2x)NazCOs  +  2x(MnC03,  nHzO)  +  4Ti02  +  6NsHzP0,  +2Na(,.2,MnxTi2(P0,), 
+
+Five  thermal  processings  with  intermittent  regrinding  at 200°C  (24h),  600°C  (48h),  8OO’C (96h),  900°C  (48h)  and  950°C  (48h)  are necessary to obtain  these compounds  without  impurities.  They  can also  be prepared  by  a sol-gel  method  as  described  elsewhere  for  Co0,50Ti2(P0.&  and  crystallize  at high  temperature  (fieure  1). 
+
+(6).  In  this  case, the  materials  are  amorphous  at  low  temperatie 
+
+fiaure  2.  Observed  reflections  are  compatible  with  R32  and  R?  hexagonal  latiice  parameters  and  densities are  given  in  table. 
+
+de Chimie,km8  Route  d’Eljadida,  B.P. 5366  Maarif,  Casablanca 
+
+The progressive  substitution  of  sodium  by manganese provokes  a decrease of  the ch parameter  and a very  slight  variation  of the  ah parameter.  This  decrease of  Ch  is in  favor  of the  occupation  of  M(1)  sites by the manganese  (ri=  0.82A)  of  size  smaller  than  the  sodium  one  (ri  =  1.021%). The  x =  0.5  composition  (Mn0.sTiz(P04)3)  is  a  new  phosphate  of  the  h&Ti2(PO&  series. The  chemical  analysis of  this compound  obtained  by  the two ways of  preparation,  carried  out  in the  Analysis  Service  of  CNRS  (Vernaison-France),  gives experimental  atomic  ratios  in  good  agreement  with  the  calculated  values 
+
+
+Fig.2  X-ray  powder  patterns of  N~l-2x$&Ti2(PO&  (0  <  x <  0.5)  prepared  by  solid  state reaction 
+
+solid 
+
+solutions 
+
+Table  4: Reduced  coordinates  and thermal  vibration  factors  of  ~.~JiDU. 
+
+Fig.  3  : Final  observed  (...) calculated  (-)  and  difference  X-ray  profiles  for  Mn0,soTi2(P0& 
+
+generally  found  for  Nasicon-like  phosphates  (4-8).  O-P-O  angles  vary  6om  105.46”  to  115.05”. 
+
+Fig. 6  : Thermal  variation  of the reciprocal  susceptibility  of  Mn0.50Ti2(P04)3. 
+
+New Nasicon-type  phosphates Na(i.$4n,Ti,(PO&  and  by  sol-gel  method  (75O’C).  The  b&.soTir(PO&  one  of  the  two  positions  of  the  M(1)  site  [3a  (0,  0,  O)],  the  other  [3b  (0,  0,  l/2)]  paramagnetic  behavionr  with  the  absence of h4n2+-Mn*+ interactions. 
+
+(0  5  x 5  0.5)  have been prepared  by  solid  state reaction  (950°C)  structure  has been  solved  in  R?  space group.  Mn2’  ions.occupy  is  empty.  This  phosphate  shows  a 
+
+8  REFERENCES  (1) Monceaux (L.), Eur. J. Solid State Inore. Chem., 1991,a.  233.  (2) Sergbini (A.), Kacimi  (M.), Ziyad (M.), Brochu (R.), J. Chim. Phvs., 1988,&o,  (3) Limaye (S. Y.), Agrawal (D. K.), MC Kinstry (H. A.), J. Amer. Cersm. Sot., 1987, C232 (701  10.  (4) Olazcusga (R.), Le Flem(G.), Boireau (A.), Soubeyroux (J. L.), Adv. Mat. Res., 1994, -2,  177.  (5) Barth (S.), Olazcuaga (R.), Gravereau (P.), Le Flem (G.), Hagemnuller (P.), Mater. Letters, 1993, &  96  (6) El Bouari (A.), El  Jszouli (A.), Dance (J. M.), Le Flem (G.), Olazcuaga (R.), Adv. Mat. Res., 1994, &,  173.  (7) Senbbagaraman (S.), Guru Row (T. N.), Umarji (A, M.), Solid State Comm., 1989, m  (8) Mentrc (0.). Abraham (F.), Deffontsiues (B.), Vast (P.), Solid State Ionics, 1994,22.293.  (9)  Wiles (D. B.), Young (R.) J. Aoul.  Crvst., 1981, &  149. 
+

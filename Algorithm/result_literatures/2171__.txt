@@ -1,0 +1,12 @@
+Preparation of a new family of NASICON type phosphates Ca0.5NbMP3O12 (M = Fe, Al, Ga and In) and characterization of the iron systems by Mossbauer spectroscopy
+
+Sodium zirconium silicon phosphate (Na1CxZr2P3¡xSixO12) or more commonly known as NASICON (sodium super ionic conductor) and related sodium zirconium phosphate, NaZr2P3O12 (NZP) have attracted much attention during last two decades [1–4]. The interest arises due to their fast ionic conductivity [1], low thermal expansion behavior [3–8], high temperature stability and their potential as hosts for radioactive waste [9]. Due to these properties they are widely used in high temperature fuel cells, as catalyst supports, heat exchangers and mirror blanks for space technology [10]. The crystal structure of NASICON type materials such as NZP consists of a 3-D network of PO4 tetrahedra sharing corners with ZrO6 octahedra and 3-D linked tunnels occupied by sodium ions [11, 12]. These tunnels are so large that ions rangcan be inserted. In continuaing from H tion of our work on these types of materials, an attempt is made to (i) synthesize new compounds of the general formula Ca0:5NbMP3O12 (MD Fe, Al, Ga and In) and (ii) insert hydrogen in the channels. In this paper we report the preparation of Ca0:5NbMP3O12 (MD Fe, Al, Ga and In), and characterization by powder X-ray data. For characterization of iron bearing systems, Ca0:5NbFeP3O12 and Ca0:5HxNbFe1¡xFexP3O12 the Mossbauer spectra also have been recorded. Further, in the case of Ca0:5NbFeP3O12, the inﬂuence of reduction by hydrogen and the reversibility of the reaction is tested and the resultant product identiﬁed.
+
+
+Figure 1 Mossbauer spectra of (a) Ca0:5NbMP3O12 and (b) Ca0:5NbFe1¡x Fex P3O12 at 298 K.
+
+comes out on heating in air [22]. The sequence of reactions for the present case may be represented as follows:
+
+Thus the hydrogen insertion into Ca0:5NbFeP3O12 is reversible. Similar results are observed for CuZr2P3O12 [13]. Catalytic activity of such reduced compounds is in progress.
+
+(India) for giving permission to use Mossbauer and XRD instruments respectively. We are grateful to Prof. R. Jagannathan, University of Hyderabad, for many useful discussions and encouragement. Department of Science and Technology, New Delhi (India) is gratefully acknowledged for the ﬁnancial support.

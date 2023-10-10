@@ -1,0 +1,25 @@
+Incidentally the thermal variation of the reciprocal molar magnetic susceptibility between 4 and 300 K is linear. The experimental Curie constant (C"1.07 emu K/mol) is consistent with the calculated value (C"1.09 emu K/mol) assuming the only contribution of the 0.25 Mn2‘. Nevertheless, EPR experiments indicate the existence of small Cu2‘ proportion.
+
+The XRD pattern can be indexed assuming a rhombohedral cell. The order of magnitude of the parameters in the "8.8352$0.0001 A equivalent hexagonal , "22.254$0.005 A c) , is typical of a Nasicon-type struc"3.40 g/cm3) ture. The densities (d%91. imply six CuI
+
+0.25Zr2(PO4)3 formulae per unit cell.
+
+Conditions Used for Data Collection of X-Ray Di4raction
+
+Sample container Di!ractometer Monochromator Instrument geometry Wavelength (A Data collection range, 2h (3) 2h step (3), counting time (s) Re"nement program Background Absorption correction Preferred orientation Law for full-width at half maximum (FWHM) Analytical function for pro"le shape Pseudo-Voigt (PV)
+
+Calculations were made assuming the R31 space group and the initial atomic coordinates were equivalent to those of CuIZr2(PO4)3 in the R31 c (2) space group. This symmetry lowering results from the splitting of the general (36 f ) x, y, z positions into two (18 f ) positions. Final satisfactory re"nement factors were obtained as the manganese atoms were introduced in half of the usually labeled M(1) sites of the Nasicon structure, and the copper was distributed over the remaining M(1) and M(2) sites with respective rates of 85% and 15%. In addition, the copper atoms in the M(1) oxygenated antiprism were delocalized with a statistical occupancy of 1 6 in the same con"guration previously reported for CuIZr2(PO4)3 (2). The tentative introduction of copper in only one of these sites results in non realistic large isotropic thermal parameters. The resulting atomic coordinates and their esd’s are listed in Table 3. A comparison between the experimental and calculated X-ray di!raction data is presented in Fig. 1. Table 4 collects selected bonds and distances.
+
+From a structural point of view the structure of CuI 0.5MnII 0.25Zr2(PO4)3 can be considered as a &&mixture’’ of the structural arrangements of CuIZr2(PO4)3 (2) and Mn0.5Zr2(PO4)3 (4) (Fig. 2). The skeleton &&Zr2(PO4)3’’ is preserved and consists of PO4 tetrahedra sharing corners with ZrO6 octahedra in a three-dimensional network. The
+
+Excitation and emission spectra have been recorded at 5, 85, and 300 K using a SPEX FL 212 #uorimeter equipped with a SMC liquid helium cryostat. The excitation source was a high-pressure xenon lamp emitting between 200 and 1000 nm.
+
+The emission spectrum recorded at 300 K is given in Fig. 4. A single broadband with a maximum occurring at about 580 nm can be observed under an extended excitation range (250 nm(j (500 nm). An additional small peak can be detected in the high-energy side of the broad band peaking between 410 and 430 nm and a shoulder located at about 415 nm (Fig. 4-insert). The excitation spectra were recorded for three emission wavelengths: 425, 580, and 650 nm. The excitation spectrum of the 425 nm emission exhibits a broadband that can be divided into two main components peaking at 264 and 285 nm with a shoulder located at about 315 nm. For the two other wavelengths, the same bands are observed and additional lines typical of
+
+Finally at very low temperature (5 K) the violet and "260 nm), but the intensity of orange emissions persist (j the latter decreases strongly. Moreover, a broad shoulder is observed on the high-energy side which can be decomposed
+
+FIG. 3. Hypothetical quasi-linear Cu2}Cu1}Cu1}Cu2 tetramer in the cavity limited by the Zr1O6, Zr2O6 octahedra and the PO4 tetrahedron at the connection between the Cu1 (=) and the Cu2 sites (s).
+
+in two bands peaking at approximately 460 and 540 nm (Fig. 7). The corresponding excitation spectra are given in Fig. 8. The blue and green emissions exhibit a single band with a maximum occurring at about 305 nm, whereas the excitation spectrum of the orange emission is characterized by the two intense bands located at 260 and 285 nm in addition to the features corresponding to the Mn2‘ ions observed around 400}500 nm. Actually the excitation band at 260 nm corresponds to the violet emission. These experimental facts are summarized in the Table 5.
+
+The interpretation of these luminescence spectra needs to brie#y report the previous data related to the luminescent properties of Mn0.5Zr2(PO4)3 and CuIZr2(PO4)3 (4, 21).

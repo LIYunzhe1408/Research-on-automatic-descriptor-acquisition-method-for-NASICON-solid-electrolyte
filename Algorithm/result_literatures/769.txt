@@ -1,0 +1,14 @@
+The inherent chemical stability of NaTi2(PO4)3 in aqueous solutions with higher pH values, and resultingimplications for using this material as an anode are explored.
+Scanning electron microscopy, x-raypowder diffraction, and Fourier transform infrared spectroscopy were used to investigate morphological,structural, and chemical changes for samples exposed to varying basic pHs at 25 C and 70 C.
+Significant structural degradation and precipitation of a secondary phase were observed in all samples prepared at70 C along with 25 C samples exposed to more extreme pH solutions.
+Infrared spectroscopy resultsindicated a loss of phosphate from the precipitated material, while x-ray diffraction shows that thesecondary phases were from the layered sodium titanate family.
+Cyclic voltammetry of the samplesindicated some degree of capacity loss for all of the samples, while some showing features related to theobserved secondary phase that has some electrochemical functionality.
+The implications of these resultson the stability of NaTi2(PO4)3 in various electrolyte environments is discussed.
+The inherent chemical stability of NaTi2(PO4)3 in aqueous NaOHhas been investigated and was found to begin dissolving abovepH = 11, though the solubility remains quite low until pH > 13. At25 C and pH > 13 an unidentified phase with an elongatedmorphology becomes thermodynamically favorable and beginsto precipitate from solution.
+This secondary phase acts as a sink fordissolved titanium allowing for the continual dissolution of NTPrather than eventual saturation of solvated titanium species.
+Electrochemical testing of the corroded material seemed toindicate that the corrosion seen at 25 C had only a small effecton the overall performance of the NTP particles, indicating that theloss of capacity reported in the literature, under normal cyclingconditions, cannot be fully explained by the dissolution of thematerial that occurs under no electrochemical bias.
+These results suggest that increases in pH within porouselectrodes of NTP will pose a long-term degradation problem.
+Assuch, a stable conformal coating, such as those used in organic Naionsystems [38], would be necessary in order to preventdissolution in higher pH electrolytes and is an ongoing area ofresearch within our group.
+They also give clear evidence of adegradation mechanism, other than the reaction with dissolved O2,that should be accounted for when designing aqueous batteries ofthese materials.
+Further investigation will be needed to quantifythe degree to which pH changes occur in NTP based electrodesduring electrochemical cycling in aqueous electrolyte, and whattechniques can be used to mitigate the detrimental effects of thepH change.
+We will focus on understanding how compositing NTPwith activated carbon improves the long-term cycle stability ofNTP electrodes.

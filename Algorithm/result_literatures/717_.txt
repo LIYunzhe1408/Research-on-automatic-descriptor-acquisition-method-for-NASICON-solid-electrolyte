@@ -1,0 +1,12 @@
+A slight deviation of the stoichiometry has beenintroduced in Na3−3xV2+x(PO4)3 (0 ≤ x ≤ 0.1) samples todeter mine the effect on the structural and electrochemical behavior as a positive electrode in sodium-ion batteries.
+X-raydiffraction and XPS results provide evidence for the flexibility ofthe NASICON framework to allow a limited vanadium super stoichiometry.
+In particular, the Na2.94V2.02(PO4)3 formulareveals the best electrochemical performance at the highest rate(40C) and capacity retention upon long cycling.
+It is attributedto the excellent kinetic response and interphase chemicalstability upon cycling.
+The electrochemical performance of thisvanadium superstoichiometric sample in a full sodium-ion cell isalso described.
+Superstoichiometric Na3−3xV2+x(PO4)3 (0 ≤ x ≤ 0.1) sampleswere synthesized by the sol−gel method to unveil the effect ofvanadium excess on the NASICON structure and morphologicalproperties, and their consequences on the electrochemicalbehavior as positive electrode in sodium-ion batteries.
+XRD patterns showed an increase in cell volume for the wholestoichiometric range in good agreement with the incorporationof superestoichiometric vanadium.
+Rietveld refinement revealed that the additional transition metal ions are hosted in vacantNa2 sites.
+XPS spectra at V 2p and O 1s core levels revealed the appearance of new signals ascribable to the allocation of excessvanadium in Na2 sites.
+Although the electron microscopy showed similar textural features for all samples, EDX analysis provided evidence for the homogeneous dispersion of elementsand Na/V ratios in good agreement with the nominalstoichiometries.
+Electrochemical tests showed improved rate capabilities atthe highest rate (40C) and capacity retention upon prolongedcycling for samples with 0.02 ≤ x ≤ 0.08. This fact wascorrelated with the good kinetic response, correlated to a lowcharge-transfer resistance at the electrode interphase and a highsodium diffusion coefficient for NVP-0.02. In addition, XPSspectra of cycled electrodes revealed that the deposition of sideproducts, hindering sodium migration at the electrodeinterphase, was less significant for the superstoichiometricNVP-0.02 sample.
+A full cell assembled with this sample as apositive electrode featured an energy density as high as 314 Wh kg−1 after 150 cycles, which encourages us to consider there ported material as an outstanding cathode for sodium-ionbatteries.

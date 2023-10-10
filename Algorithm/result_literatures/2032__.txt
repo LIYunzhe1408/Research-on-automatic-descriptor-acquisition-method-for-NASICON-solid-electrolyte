@@ -1,0 +1,124 @@
+Glasses and crystalline A3Al2(PO4)3 (A ~ Na, Li): an impedance and 31P, 27Al, 23Na and 7Li MAS-NMR study
+
+A new vitreous phase with Na3Al2(PO4)3 composition has been prepared. Its crystallisation has been optimised by annealing at low temperature, giving crystalline c-Na3Al2(PO4)3 with Sc2(WO4)3-type structure. The direct synthesis of vitreous Li3Al2(PO4)3 has been attempted but it was unsuccessful. Ion exchange reaction has been carried out in Na3Al2(PO4)3 glass to obtain the lithiated vitreous solid, v-Li3Al2(PO4)3. On heating, v-Li3Al2(PO4)3 decomposes to yield crystalline AlPO4 and Li3PO4 phases. The three solids, with NASICONlike stoichiometries, have been thermal and electrically characterised. DTA and thermodiffractometric studies of the two glass solids have allowed the characterisation of their thermal behaviours including crystallisation. The grain boundary contributions to the total impedance are almost absent in the two vitreous phases. The electrical conductivity values are y 1026 S cm21 at 150 uC. The 31P, 23Na, 27Al and 7Li MAS-NMR spectra for these materials provide some insight into the disordered constitution of the vitreous phases and the low mobility of the alkaline cations.
+
+Fast ion conductors based on Na1 and Li1 carriers have attracted a great deal of interest for their applications in high energy density batteries, electrochemical sensors and other devices.1,2 NASICON-type materials are amongst the most promising oxides studied in recent years with Na1 and Li1 mobile species. The original NASICONs were solid solutions derived from NaZr2P3O12 by partial replacement of P by Si with Na excess to balance the negatively charged framework to yield the general formula Na1 1 xZr2P3 2 xSixO12 (0 ¡ x ¡ 3).3,4 Since then, a large number of related materials has been synthesised and extensively studied because they can tolerate a wide range of compositional variation and show high ionic conductivity. The maximum value of conductivity has been obtained for the Li1 1 xAlxTi2 2 x(PO4)3 NASICON-series for x ~ 0.3 (0.7 6 1023 S cm21 at room temperature).5
+
+Although the conductivities of these materials are amongst the highest values reported so far, the applicability as solid electrolytes is limited by the possibility of TiIV/TiIII reduction in contact with the anodes and by the large grain boundary contribution. The ﬁrst drawback disappears when the composition is free of Ti. The second one can be avoided through the vitriﬁcation of NASICON compositions. Glass electrolytes show other advantages over their crystalline counterparts such as physical isotropy, wider compositional ﬂexibility (allowing control and optimisation of electrolyte properties through composition) and better workability. Glasses having higher ionic conductivities than crystalline materials of the same compositions are fairly common. For example, the conductivity of glassy Li3.6P0.4Si0.6O4 at 298 K is ten times higher than that of the polycrystalline form.6
+
+31P MAS-NMR spectra of glassy and crystalline NASICON are different they can display important differences in local structures.7 In glassy A3Al2(PO4)3 (A ~Na, Li) materials, the structure must derive from that of Al2O3–P2O5 glasses. In these materials, tetrahedral condensation depends on the O/P ratio for each case. When O/P v 3.5, octahedral Al share oxygens with metaphosphate groups and for O/P w 3.5, tetrahedral Al share oxygens with orthophosphate groups.8–10 In crystalline materials, only orthophosphate groups have been detected.
+
+In this paper, we report the synthesis and ionic conductivities of glassy A3Al2(PO4)3 (A ~ Na, Li) compounds. Li3Al2(PO4)3 is the end member (x ~ 2) of the Li1 1 xAlxTi2 2 x(PO4)3 solid solution and, consequently, the number of charge carriers is the highest in the series. All attempts to obtain crystalline or vitreous Li3Al2(PO4)3 were unsuccessful and yielded, invariably, a mixture of phases. Recently, Mouahid et al. have shown that the best method to obtain them it is by an ionic exchange reaction of the sodium analogues.11 We must point out that these aluminium-rich phases have not been previously reported, to the best of our knowledge, neither as crystalline nor as vitreous forms.
+
+The sodium vitreous material, v-Na3Al2(PO4)3, has been prepared by a solid state reaction. Stoichiometric quantities of Na2CO3, c-Al2O3 and (NH4)2HPO4 were heated to give the following overall reaction:
+
+The synthetic procedure was as follows: (1) the reagents were ground in an agate mortar for 20 min
+
+This material is labelled c-Na3Al2(PO4)3.
+
+The lithiated glass, v-Li3Al2(PO4)3, was obtained by ion exchange reaction of v-Na3Al2(PO4)3 with molten LiNO3, Li/ Na ratio 40/1, at 270 uC for 2 h. Then, the mixture was cooled and washed six times with 50 ml of absolute ethanol and ﬁve times with absolute methanol to remove the excess of alkaline salts. Finally, this sample was dried at 60 uC overnight.
+
+v-Li3Al2(PO4)3 (y50 mg) was dissolved in a mixed aqueous solution of 48% w/w HF acid and 65% w/w HNO3 acid (4 : 6) at 50 uC and the lithium content was determined by emission atomic spectroscopy in air/acetylene ﬂame. K was added (K/Li ratio: 1000/1) to avoid lithium ionisation.
+
+2.3 X-ray diffraction and thermodiffractometry
+
+X-ray powder diffraction (XRPD) patterns were collected on a Siemens D5000 automated diffractometer with (h/2h) Bragg– Brentano geometry using graphite monochromated Cu Ka1,2 radiation. XRPD patterns were recorded between 10u and 50u 2h. Thermodiffractometric data were recorded on the same diffractometer but with a second goniometer permanently equipped with an HTK10 heating chamber. The patterns were scanned over the angular range, 10–38u (2h), with a step size of 0.04u and counting 1 s per step. A delay time of 10 min, before any data acquisition, was selected to ensure sample thermal stabilisation.
+
+2.4 Thermal analysis
+
+Differential thermal analyses (DTA) were performed for all compositions on a Setaram Labsys apparatus. The temperature was varied from RT up to 1100 uC at a heating rate of 10 C min21 with calcined Al2O3 as reference.
+
+2.5 Infrared spectroscopy
+
+Infrared spectra were recorded on a FT PerkinElmer 1760 X spectrophotometer using a dry KBr pellet containing 2% sample. Spectra were registered between 700 and 1600 cm21 and the instrumental resolution was 4 cm21.
+
+2.6 MAS-NMR spectroscopy
+
+7Li, 23Na, 27Al and 31P MAS-NMR spectra for the starting Na3Al2(PO4)3 and the Li-exchanged glasses were recorded at room temperature in a MSL 400 (Bruker) spectrometer. The frequencies used were 155.5, 105.8, 104.2 and 161.9 MHz, respectively. Samples were spun in the range 10–12 kHz and spectra were taken after a p/2 pulse irradiation. The preacquisition delay used in all analysed signals was between 10 and 20 ms, which did not affect experimental proﬁles. The number of scans was in the range of 10–30, and the time between scans was ranged between 2 and 90 s, according to the spin–lattice relaxation of the analysed nuclei. Chemical shifts of NMR signals are given relative to the aqueous solutions LiCl (1 M), NaCl (1 M), AlCl3 (1 M) and H3PO4 (85% w/w). Analysis of NMR spectra was carried out with the Winﬁt (Bruker) software package.
+
+2.7 Ionic conductivity
+
+The electrical characterisation of the sample was carried out using a Hewlett-Packard 4284 impedance analyser in the 20 Hz to 1 MHz range, at 25 K intervals on heating from 273 to 573 K. Stabilisation time before each data acquisition was 20 min where the maximum temperature variation was 0.1 uC. Temperature was controlled by a Novocontrol Quatro Cryosystem. The measurement processes were controlled electronically by the Windeta package of programs.12
+
+Cylindrical pellets of v-Na3Al2(PO4)3 were obtained by melting y0.3 g of sample in graphite mould (10 mm diameter and 2 cm depth). Two thin platinum layers were placed one at the bottom of the mould and one above the sample, in order to avoid graphite contamination and to get ﬂat pellet faces. The pellets were colourless and transparent.
+
+Cylindrical pellets of c-Na3Al2(PO4)3 were obtained by annealing v-Na3Al2(PO4)3 pellets at 580 uC for 4 h.
+
+Pellets of v-Li3Al2(PO4)3 could not be sintered by heating than 450 uC the glass because at compound transforms to crystalline AlPO4 and Li3PO4. An acceptable mechanical hardness was obtained using poly(vinylidene ﬂuoride) (PVDF) as binder. The powdered sample was ground with 10 wt.% of PVDF in an agate mortar using acetone to help homogenisation. Then, the cylindrical pellets of the mixture were obtained by applying an uniaxial pressure of 400 MPa for 2 min in a 10 mm die.
+
+Electrodes were made by depositing colloidal silver paint in all the cases. Solvent painting was removed by heating the pellets at 200 uC for 1 h.
+
+3 Results and discussion
+
+All attempts to obtain v-Li3Al2(PO4)3 by direct synthesis using (NH4)2HPO4, c-Al2O3 and Li2CO3 or other simple lithium salts, yielded invariably a mixture of crystalline Li3PO4 and AlPO4 phases. However, v-Na3Al2(PO4)3 could be easily prepared.
+
+3.1 Synthesis and thermal behaviour of Na3Al2(PO4)3
+
+The X-ray powder thermodiffraction (XRPTD) pattern of ground v-Na3Al2(PO4)3 powder is shown at the bottom of Fig. 1. The compound is amorphous with two broad bands at 23 and 30u/2h, which are due to the short-range structural correlations in the glass. Infrared data rule out the presence of carbonates because there is no band at 1400–1500 cm21. The spectrum exhibits wide bands between 900 and 1200 cm21, which correspond to the stretching vibrations of the PO4 tetrahedra.
+
+The DTA curve for v-Na3Al2(PO4)3 is shown at the bottom
+
+Fig. 1 XRPD plot for c-Na3Al2(PO4)3 (top) and XRPTD patterns for v-Na3Al2(PO4)3.
+
+of Fig. 2. The glass-transition temperature, Tg, is 416 uC and it is found amongst other overlapped effects in the temperature range 400–500 uC. The crystallisation of the glass begins at 500 uC, see Fig. 1, yielding a glass–ceramic multicomponent system that melts in the range 720–745 uC. On cooling, the melt does not crystallise but the reversible glass transition can be detected as a broad band between 400 and 450 uC.
+
+The crystallisation process of v-Na3Al2(PO4)3 was monitored by XRPTD. On heating above 600 uC, the formation of secondary phases, mainly AlPO4, takes place. At temperatures lower than 550 uC, a considerable amount of amorphous solid remains untransformed. The best results are obtained by heating the sample at 580 uC for 4 h although the sample contains a small amount of AlPO4. The XRPD pattern for c-Na3Al2(PO4)3 can be seen at the top of Fig. 1. Peaks width could not be narrowed by keeping the sample at 550 uC for longer times. This pattern is very different from the 550 uC one in the XRPTD of the v-Na3Al2(PO4)3. This is due to the fact that they both have been obtained by different methods. The former is prepared from cylindrical pellet of the vitreous sample by applying an uniaxial pressure of 150 MPa and heating in a furnace at 580 uC for 4 h. The latter is obtained from a small amount of v-Na3Al2(PO4)3 upheld by a platinum sheet, which is placed in the centre of the goniometer equipped with a heating chamber, and following the protocol mentioned in section 2.3. Thus, there is a great difference between both processes. The ceramic method improves the contact between the particles and the heating is kept for a long time in a static way. The heating chamber works in a dynamic way in order to collect X-ray diffraction patterns in a thermal study and does not allow an effective reaction. The powder pattern for c-Na3Al2(PO4)3 was autoindexed with the TREOR9013 program in an orthorhombic unit cell with the following parameters: a ~ 9.332(6) A˚ , b ~ 8.321(5) A˚ , c ~ 13.273(13) A˚ , V ~ 1030.6 A˚ 3, Z ~ 4, with ﬁgures of merit M16 ~ 1814 and F16 ~ 19 (0.027, 32).15 This cell is closely related to that of the Sc2(WO4)3-type structure (see for examples Li1 1 xFexHf2 x17). However, the systematic absences (PO4)3 determined for c-Na3Al2(PO4)3 are incompatible with the typical Pcan space group of the scandium wolframate orthorhombic structure. Hence, a lower symmetry is likely but the broad peaks of the pattern preclude the full structure determination.
+
+16 and c-Li3Fe2(PO4)3
+
+3.2 Synthesis and thermal behaviour of Li3Al2(PO4)3
+
+As Li3Al2(PO4)3 could not be synthesised directly, the ion exchange reaction, described in the Experimental section, was
+
+Fig. 3 XRPD plot for Li3Al2(PO4)3 after 30 min at 985 uC (top) and XRPTD plot for v-Li3Al2(PO4)3.
+
+carried out. Chemical analysis showed that the ion exchange is not complete (88%), and the resulting powder has the Li2.64Na0.36Al2(PO4)3 stoichiometry. The powder pattern of this solid is displayed at the bottom of Fig. 3. This sample is amorphous and it is labelled v-Li3Al2(PO4)3. The attempts to complete ion exchange by successive treatments did not improve the exchange ratio and yielded the formation of crystalline AlPO4.
+
+The DTA curve for v-Li3Al2(PO4)3, see top of Fig. 2, shows the Tg at 403 uC, which is very close to the sodium glass one and similar to the Tg of many oxide glasses.18 There is a strong exothermic effect at 480 uC due to the crystallisation of the vitreous solid in AlPO4 (PDF 20-0044) and Li3PO4 (PDF 15-0760). This is corroborated by the thermodiffractometric study given in Fig. 3. A second weak exotherm is observed at 670 uC, which is also due to the crystallisation of a second polymorph of AlPO4 (PDF 31-0029). The melting of this mixture takes place at 880 uC. Quenching of melted v-Li3Al2(PO4)3 in liquid nitrogen gives a mixture of crystalline AlPO4 and Li3PO4. Obviously, there is no signiﬁcant effect in the DTA cooling curve that could be attributed to the Tg. The powder pattern of this mixture is given at the top of Fig 3.
+
+3.3 MAS-NMR study
+
+Fig. 4 shows the 31P and 27Al MAS-NMR spectra for the two vitreous samples. The 27Al spectrum for v-Na3Al2(PO4)3 exhibits a very wide signal between 250 and 70 ppm, with maxima at 40, 10 and 213 ppm. The band at y40 ppm corresponds to an AlO4 tetrahedral environment. The shift of this band, 4 ppm, between the v-Na3Al2(PO4)3 and v-Li3Al2(PO4)3 samples, results from modiﬁcations produced in the tetrahedral environment by the Na/Li exchange. This structural modiﬁcation yields a higher shielding effect in v-Li3Al2(PO4)3. The band at y213 ppm, detected in both glasses, corresponds to an AlO6 octahedral environment. The other band at 10 ppm has been ascribed to aluminium in an intermediate AlO5 coordination. From qualitative inspection of the three peaks, it can be inferred that the tetrahedral AlO4 species are the most abundant in glassy materials, whereas octahedral species are preponderant in crystalline NASICON compounds. This indicates that the glass network totally differs from that of crystalline compounds. These results agree with those reported in the literature8–10 for sodium alumino-phosphate glasses with O/P ratios higher than 3.5, where the tetrahedral coordination of aluminium was the most abundant. In these glasses, the Al cation shares oxygens with tetrahedral P from monoor diphosphate groups.
+
+The 31P MAS-NMR spectra for both glasses show two broad components ranging between 225 and 10 ppm and the
+
+Downloaded by University of Arizona on 10 January 2013Published on 17 October 2002 on http://pubs.rsc.org | doi:10.1039/B206855AView Article OnlineFig. 4 31P and 27Al MAS-NMR spectra for v-Na3Al2(PO4)3 and v-Li3Al2(PO4)3 (spinning satellite bands marked as *).
+
+Fig. 5 23Na MAS-NMR spectra for v-Na3Al2(PO4)3 and v-Li3Al2(PO4)3 and 7Li MAS-NMR spectrum for v-Li3Al2(PO4)3 (spinning satellite bands marked as *).
+
+corresponding spinning satellite bands (marked with asterisks). According to previous works, both signals correspond to different degrees of condensation for the PO4 tetrahedra (monoand diphosphates). The existence of different cation environments, associated with the presence of sodium and three Al coordinations, precludes a clear assignment of the two observed components. Taking into account that the shielding effect of AlO4 groups on the PO4 tetrahedra is higher than that of AlO5 or AlO6 units, we can exclude the presence of the AlPO4 phase (227/30 ppm). Based on this considerations, P components detected in the 25/210 ppm range have been ascribed to Q0(2Al) or Q1(1Al) and Q1(2Al) environments.
+
+The 23Na MAS-NMR spectra for both v-Na3Al2(PO4)3 and v-Li3Al2(PO4) are given in Fig. 5. The spectrum for v-Na3Al2(PO4)3 exhibits a large asymmetric band, more than 40 ppm wide, centred at around 212 ppm. The large width of this signal suggests that the sodium is involved in different environments and its mobility is low. The 23Na MAS-NMR spectrum for the lithiated sample exhibits a narrow band at 10 ppm, probably due to small amounts of residual crystalline NaNO3, remaining from ionic exchange reaction, and a broad peak at 225 ppm, associated with Na ions in the exchanged glass. The chemical shift of this component differs from that detected in the starting compound, probably due to non-exchanged Na ions that remain at more stable positions in the glass network.
+
+The 7Li MAS-NMR spectrum for v-Li3Al2(PO4), see Fig. 5, displays an important central transition at 21 ppm with the corresponding spinning satellite bands (marked). The width of this band also suggests a low mobility for lithium ions in the exchanged compound.
+
+Fig. 6 Complex impedance plane plot for v-Na3Al2(PO4)3 (&) at 373 K (548 K in the inset) and for c-Na3Al2(PO4)3 (%) at 498 K.
+
+3.4 Impedance study
+
+shows Nyquist plots
+
+Fig. 6 and c-Na3Al2(PO4)3 at different temperatures. For the vitreous sample at 373 K, an almost non-deformed semicircle is observed with an associated capacitance at the maximum of 3.1 pF. The spike due to the blocking electrode effect is clearly
+
+Downloaded by University of Arizona on 10 January 2013Published on 17 October 2002 on http://pubs.rsc.org | doi:10.1039/B206855AView Article OnlineFig. 7 Imaginary part of the modulus vs. frequency at several selected temperatures for v-Na3Al2(PO4)3. The inset shows the spectroscopic plots of Z@ and M@ vs. log f at 373 K.
+
+Fig. 8 Imaginary part of the modulus vs. frequency at several selected temperatures for c-Na3Al2(PO4)3. The inset shows the spectroscopic plots of Z@ and M@ vs. log f at 423 K.
+
+seen at 548 K in the low frequency range, see inset, and the associated capacitance is 0.1 mF (20 Hz). Fig. 7 shows modulus data at different temperatures for the same sample on a doublelogarithmic scale. Well-deﬁned maxima can be observed showing clear power law behaviour on both sides of the peak. A deeper insight into the electrical microstructure of the pellets can be obtained from the spectroscopic plots of the impedance imaginary part, Z@, and the complex electric modulus, M@, vs. log f, see inset in Fig. 7. The maxima of both curves are very close (0.4 decades in frequency), which indicates that impedance peak is associated with the same RC element responsible of the modulus peak. The associated (2.7 pF for M@ and 3.1 pF for Z@) are capacitances characteristic of the bulk response. Hence, the semicircle of the Nyquist plot in Fig. 6 corresponds to the bulk contribution and the intersection at low frequency with the Z’ axis is the bulk impedance, free from grain boundary contributions. This electrical microstructure is in agreement with the vitreous and macroscopically-homogeneous nature of this sample.
+
+The Nyquist plot for c-Na3Al2(PO4)3 at 498 K, drawn as open squares in Fig. 6, shows a depressed/deformed semicircle. The deformation is due to the presence of several contributions to the electrical response of the pellets. The imaginary part of the modulus vs. the frequency plot exhibits well-deﬁned maxima with an apparently linear behaviour on both sides of the peak, see Fig. 8. However, spectroscopic plots of Z@ and M@ vs. log f at 423 K show a large separation between the two maxima (almost two decades in frequency), see inset of Fig. 8. The M@ maximum associated capacitance (1.6 pF) is bulk characteristic. The Z@ maximum associated capacitance (4.2 pF) is a bit higher and it could be due to the constriction effects contribution to the total impedance. To further examine this point we have plotted the real part of the complex capacitance as a function of frequency for this sample, see Fig. 9. At low frequency a blocking electrode effect can be observed. At higher frequencies, the curves show a clear relaxation from y6 pF to lower values in the pF range as frequency increases. This relaxation is attributed to a thick grain boundary or constriction resistance at the region of grain–grain contacts and arises because the pellet was not fully densiﬁed (compaction was y86%). This can not be observed in modulus plot because the modulus scales with the inverse of the capacitance.
+
+Fig. 9 Real part of the complex capacitance vs. frequency at several selected temperatures for c-Na3Al2(PO4)3.
+
+Due to the non-ideal behaviour of these pellets, a deeper study of conductivity data is required in order to estimate the activation energies and dc conductivities. To do so, we have plotted the logarithm of conductivity as function of logarithm of frequency for several temperatures and the resulting curves have been ﬁtted to the expression s ~ s0[1 1 (jv/vp)n], where s0 is the dc conductivity, vp is a crossover frequency and n is related to the degree of correlation among moving ions, see Fig. 10. Bulk conductivities, in traditional Arrhenius format, and activation energies are given in Fig. 11.
+
+It is not possible to carry out an accurate impedance study for v-Li3Al2(PO4) due to the poor sintering and to the presence of a binder (PVDF) in the pellet. A straightforward method to estimate activation energies and dc conductivities is to use the frequency where the maxima of the modulus peaks is located,
+
+Downloaded by University of Arizona on 10 January 2013Published on 17 October 2002 on http://pubs.rsc.org | doi:10.1039/B206855AView Article Onlinev-Li3Al2(PO4)3, respectively. These values are quite similar to those obtained from typical Arrhenius plots, see also Fig. 11. The Na1 conductivity is s423K ~ 2.2 6 1026 S cm21 for the vitreous phase, see Fig. 11. This value is in the ionic crystals region (v 1024 S cm21) and agrees with the low mobility detected for Li and Na ions by NMR spectroscopy. This sample shows a wide range of transition–crystallisation processes. This fact suggests that structural and compositional heterogeneity exists. The large widths of the MAS-NMR spectra signals indicate that there are several environments for each element (P, Al, Na), yielding electric ﬁeld discontinuities that block the conduction process. In this picture, sodium cations could be trapped in these different glassy microdomains.
+
+On the other hand, c-Na3Al2(PO4)3 exhibits lower conductivity (s423K ~ 7.7 6 1029 S cm21, see Fig. 11). That could be due to: (1) in a Sc2(WO4)3-type structure the number of available sites, three per formula, is the same as the number of alkaline ions present and, consequently, all the sites are occupied and cation mobility through the voids is not possible; and (2) the bottlenecks in the Sc2(WO4)3 framework are too narrow for sodium ions. In fact, all the phosphates with a Sc2(WO4)3 structure described in the literature are lithium derivatives. v-Li3Al2(PO4) shows a conductivity value lower than v-Na3Al2(PO4)3 and a similar value for activation energy, as shown above. This result was foreseeable because the simultaneous presence of sodium and lithium cations decreases the mobility of the charge carriers.
+
+4 Conclusions
+
+Sodium and lithium aluminium-rich glasses with NASICONlike stoichiometries have been prepared, v-A3Al2(PO4)3 (A ~ Na, Li). The X-ray powder diffraction pattern for c-Na3Al2(PO4)3, obtained by annealing the vitreous sodium compound, suggests a related Sc2(WO4)3-type structure. The MAS-NMR spectra of the analysed glasses show that the local structure differs considerably from that of the crystallised materials. All the samples have conductivity values in the ionic crystal region (v 1024 S cm21). v-Na3Al2(PO4)3 has no signiﬁcant grain boundary contributions to the resistance. Sodium cations remain within v-Li3Al2(PO4)3, which could be one of the main reasons for the low mobilities of both alkaline cations, suggesting the presence of a mixed cation effect.
+

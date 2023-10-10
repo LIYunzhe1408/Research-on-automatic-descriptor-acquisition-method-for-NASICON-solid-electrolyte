@@ -1,0 +1,18 @@
+MZr2(TO4)x(PO4)3 – x (M = Li, Na, K, Rb, Cs; T = As, V) solid solutions, NaFeZr(PO4)2SO4 andPb2/3FeZr(PO4)7/3(SO4)2/3 with mineral kosnarite structure and KPbMgTi(PO4)3,K5/3MgE4/3(PO4)3 (E = Ti, Zr) with mineral langbeinite structure have been synthesized.
+According to the yielded results, which encompass thermal expansion data and crystallographicinformation about the structure of individual compounds and solid solutions, the meaningfulselection of compounds with kosnarite and langbeinite structure for novel materials withcontrollable thermal expansion was carried out.
+The potassium-, rubidium-, and cesiumcontainingarsenates, arsenate-phosphates, vanadate-phosphates and Pb2/3FeZr(PO4)7/3(SO4)2/3are low expansion materials (αav < 2∙10–6 K–1); sodium-zirconium arsenate and sodiumzirconiumand lithium-zirconium arsenate-phosphates, vanadate-phosphates andK5/3MgZr4/3(PO4)3 have intermediate thermal expansion (3∙10–6 K–1 < αav < 7∙10–6 K–1); andlithium-zirconium arsenate, KPbMgTi(PO4)3, K5/3MgTi4/3(PO4)3 are the high expansion material(αav > 7∙10–6 K–1).
+The present results demonstrate that change of the size of alkali metal cation,anion substitution and varying of solid solution composition can produce kosnarite ceramics withcontrolled linear thermal expansion coefficients and extremely low thermal expansion anisotropyor langbeinite ceramics with isotropic expansion.
+We have determined the thermal expansion parameters of the MZr2(ТO4)x(PO4)3–x (T =As, V) solid solutions and MZr2(AsO4)3 (x = 3, M = Li, Na, K, Rb, Cs) compounds andPb2/3FeZrS2/3P7/3O12 sulfate-phosphate with the NZP structure.
+All of the materials have beenshown to have αа < αс.
+In the temperature range from 293 to 1073 K, the unit-cell parameter a ofarsenates, and arsenate- and vanadate-phosphates is almost constant or slightly decreases withincreasing temperature, whereas the c cell parameter increases.
+The present thermal expansiondata demonstrate that the MZr2(AsO4)3 arsenates and the МZr2(AsO4)x(PO4)3–x andМZr2(VO4)x(PO4)3–x solid solutions differ in the behavior of their thermal expansion anisotropyand volume expansion.
+An increase in the size of the alkali metal cation in the arsenates studiedhere leads to a reduction in the magnitude of their LTECs and expansion anisotropy.
+Thedecrease in anisotropy that can be reached by varying the composition (x) of the solid solutionsmay be accompanied by a decrease or increase in average LTEC.
+The minimum thermalexpansion anisotropy and LTECs are offered by CsZr(AsO4)3, СsZr2(AsO4)1.5(PO4)1.5, andСsZr2(VO4)0.2(PO4)2.8. Concerning Pb2/3FeZr(PO4)7/3(SO4)2/3, in the temperature range from 153to 473 K unit-cell parameters a and c increase slightly.
+This sulfate-phosphate has low volumethermal expansion with low anisotropy.
+Varying composition of sulfate-phosphates withpreserving the stable structure fragments we can smoothly change size (and symmetry) of unitcell, precisely correct parameters of thermal expansion, using spread and accessible elements.
+Thus, thermophysical properties of NZP materials can be adjusted to suit materials’ needby proper ionic substitutions and opting for certain techniques of material production.
+Some NZPmaterials have very low thermal expansion and expansion anisotropy and exhibit high thermalshock resistance.
+Unlike materials with NZP-structure, phosphates with langbeinite structure expandisotropically and have zero expansion anisotropy.
+The unit-cell parameter a and the volume V ofsamples KPbMgTi(PO4)3, K5/3MgTi4/3(PO4)3, K5/3MgZr4/3(PO4)3 with langbeinite structure growwith temperature increasing.
+The nature of cations which occupy cavities in the framework oflangbeinite structure has tiny influence on the deformations during the heating.

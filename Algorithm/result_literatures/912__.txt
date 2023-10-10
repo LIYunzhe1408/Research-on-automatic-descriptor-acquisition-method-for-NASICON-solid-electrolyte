@@ -1,0 +1,124 @@
+Conductivity, calorimetry, and in-situ XRD can be closely interrelated with each other in terms of the sodium ionordering and rearrangements in NASICON structure.
+
+An intermediate phase transition at 103 °C, not associatedwith heat effects, is evidenced for the first time, in addition to α–β and β–γ phase transitions at 64 °C and166 °C.
+
+AC characterization of polycrystalline Na3Sc2(PO4)3 has been performed over the wide temperaturerange from 225 to −100 °C.
+
+Strongly dispersive spectra of the low temperature monoclinic phase weresystematically described by the total sample resistance connected by the several capacitive responses all inparallel: pure dielectric geometric capacitance and two Havriliak–Negami (HN) dielectric functions withopposite skewnesses.
+
+The capacitance strengths of HN functions are inversely proportional to the temperatureand the relaxation times represent the thermally activated mobile charge carrier transport.
+
+While the higherfrequency response with a negative skewness as γ = 0.388 and β = 1 is of a universal character commonwith many other solid electrolytes, known as K1 model, the lower frequency response with a positive skewnessas γ ⋅ β ≈ 1 where β ≈ 0.59 and γ ≈ 1.67 describes the current-constriction effects occurring in the polycrystallineNa3Sc2(PO4)3.The current-constriction effects are described by a homogeneous polarization throughout thesample with 4 times the hopping distance and 5 times the relaxation time of the K1 response.
+
+14 modelparameters competently simulate the AC behavior over a wide temperature and frequency range.
+
+The dispersive response is universally observed in many solid electrolyte systems which is characterized by the power-law dependenceof AC conductivity as σ ∝ ωα with α specifically near 0.6 [1–10], althoughnot yet sufficiently widely acknowledged in the concerned researchcommunity.
+
+That it scales together with DC conductivity indicates themobile charge carrier origin.
+
+A constant phase element (CPE) model orQ model with CQ⁎ = Q(jω)α−1 and α ≈ 0.6 in parallel to an almostideal capacitance element for the true dipolar dielectric response, describes approximately the frequency dependence of complex variables.
+
+According to Macdonald [4–9,11] the dispersive frequency correspondsto the Laplace–Fourier transform of the stretched exponential temporalresponse, exp(−tβk) with βk = 1/3, which is named as K1 model.
+
+CK1model emphasizes the presence of a frequency-independent dielectriccapacitance, which is not considered in the conductivity spectroscopy.
+
+The exact frequency response is given by the free LEVM CNLS fittingprogram with open Fortran sources [9].
+
+It is associated with a polarization strength proportional to the mobile charge carrier concentrationand the time constants for the conduction process.
+
+These aspectscannot be properly described by a CPE.
+
+For the sake of convenience ina layman's analysis an approximate closed-form expression of K1model has been recently suggested as a Cole–Davidson type dielectricfunction [12] with γ = 0.388 in describing the dispersive bulk response in theβ″-alumina [13] and AgI [14].
+
+The Cole–Davidson dielectric functioncan represent the strength of the polarization from the mobilecharge carriers by CCD and the intrinsic dc conduction mechanismby the temperature dependence of the time constants, τCD, as in theexact CK1 model [11].
+
+The closed-form approximation of CK1 behavior allowed theauthors to conveniently combine additional polarizations dueto the grain boundaries and/or electrodes [13,14].
+
+It is notablethat the severely overlapping current-constriction effects in polycrystalline β″-alumina were successfully described by additionalCole–Davidson dielectric functions which are connected parallelto the bulk dipolar dielectric capacitance and the Cole–Davidsondielectric function for the CK1 response [13].
+
+A Cole–Davidsondielectric function with a thermally activated τCD−1 can representcurrent-constriction or grain boundary resistance defined by thelow-frequency limit of the real impedance (Z′) [13].
+
+It should be emphasized that the ‘Q’ elements widely employedas generalized capacitors do not provide well-defined capacitancemagnitudes, which are often needed for the evaluation of materialparameters.
+
+Often, an effective or an average capacitance Cequiv is estimated for the depressed semicircular impedance described by RQ asωP = (RQ)−1/α = (RCequiv)−1, from which bulk dielectric constants orspace charge layer widths are derived, e.g.
+
+However, there is norigorous theoretical basis for such an estimation.
+
+The power exponentα parameters vary arbitrarily to minimize the sum of the squares inthe non-linear least squares fitting procedure and thus become stronglycorrelated with other fit parameters.
+
+Moreover, even with such a freeadjustability, the RQ models do not satisfactorily describe dispersive experimental responses in the wide frequency range.
+
+Limited spectralranges visible in the complex plane representations are often suggestedto have been ‘well-fitted’.
+
+The inappropriateness of modeling with ‘Q’ elements can be immediately seen in the AC behavior of real solid electrolytes: Seriesof dispersive responses at different temperatures indicate ratherwell-distinguished capacitive effects [13,14].
+
+The parallel networkof the capacitance functions is then a plausible model, rather thanthe conventional series network of impedance functions.
+
+Hence,the new approach essentially follows the textbook dielectric spectroscopy where all the polarizations are added as shown in Fig.1,e.g.
+
+The relaxation times of ‘space charge polarization’ at grainboundaries ϵGB [16] and ϵC, an additional contribution in the solidelectrolyte systems described by K1 model, are shown similarlytemperature-dependent.
+
+The response with a dielectric strength ϵDfor a possible dipolar contribution may have a different, probablyweaker, temperature dependence.
+
+For the frequency range generallyconcerned, the high frequency response can be modeled essentiallytemperature- and frequency-independent dielectric constant, ϵS comprising ionic and electronic (atomic) polarizations, ϵion and ϵe.
+
+Thedispersive behavior was represented by the well-defined, temperatureindependent, exponent γCD in Cole–Davidson dielectric functions[13,14].
+
+Since the parameters of the equivalent circuits based onthe new approach are either constant or well-defined in the temperature dependence, the AC response can be simulated over a wide rangein frequencies and temperatures using model parameters only around10 in number [13,14].
+
+Since the pioneering work in seventies and eighties [17–20] theNASICON or Na1+xZr2P3−xSixO12 system is probably the next famous sodium ionic conductor after beta alumina system.
+
+NASICON structurecompounds with transition metals are also actively investigated for applications in battery electrodes [21,22].
+
+Among phosphate solid solutions Na1+xMxZr2−x(SiyP1−yO4)3 (NZSP) where M = Al, Ga, Cr, Fe, Sc,In, Y, Yb) [23] Na3Sc2(PO4)3 exhibits the closest structural similaritywith true Zr NASICON and the highest room temperature sodium ionconductivity.
+
+Since untwinned single crystals were available for the determination of the crystal structure, the ionic distribution, the ion–ioncorrelation and the conduction mechanism, the system was activelystudied in the Eighties [24–32].
+
+Publications after decades of dormancycan be found [33–35].
+
+Similarly as in Cr, Fe, or V NASICON analogs [22,36–39], the scandium NASICON analog exhibits a transition to the ‘superionic’ rhombohedral state (γ) with a very low activation energy around 166 °C.
+
+Themonoclinic (α)–rhombohedral (β) phase transition at 64 °C involves astep-wise change in conductivity.
+
+Somewhat different structural transitions were reported for differently prepared single crystalline samples[31–34,38] and also in polycrystalline samples [30,35].
+
+In early workon NASICON materials conductivity was monitored at a fixed frequency,e.g.
+
+500 kHz [17] or ω = 104 s−1 (1.6 kHz) [40], which was supposed togive the sample conductivity unaffected by the electrode polarization.
+
+However, the strong frequency dispersion due to the grain boundarieswere noted [41,42].
+
+The difficulty in application of Bauerle's model orbrick-layer model for the grain boundary effects in NASICON materialswas discussed [42,43].
+
+For scandium analog, overall sample conductivity was estimated with accuracy in apparently varying degrees [24–26,29–32].
+
+ The grain boundary effects have not been properly addressed.
+
+In this work the AC behavior of a polycrystalline Na3Sc2(PO4)3 isthoroughly examined.
+
+The overall sample conductivity above roomtemperature is compared with the phase transitions between α, β, andγ indicated by the differential scanning calorimetry and in-situ XRD.
+
+A notable correlation between the conductivity and the peak intensityvariation is found.
+
+While the overall sample response is well distinguished from the electrode polarization, the low temperature monoclinic (α) phase indicates the current-constriction grain boundaryimpedance strongly overlapped with a high frequency bulk impedanceof a similar magnitude.
+
+As shown for polycrystalline beta alumina [13],instead of the conventional brick-layer modeling, parallel connectedcapacitance functions to the overall sample resistance are shown tocompetently describe the overall AC response.
+
+The approach is furtherdeveloped for a NASICON material and physical interpretations areprovided.
+
+It is suggested that Havriliak–Negami dielectric functionscan be applied to the current-constriction effects in polycrystallineelectrolytes, generalized from the Cole–Davidson type employed inthe earlier work for β″-alumina [13].
+
+The phase transition and the electrical properties of a polycrystallinescandium NASICON analog, Na3Sc2(PO4)3, are revisited.
+
+A close correlation has been first time established between structural evolutionindicated in in-situ XRD and the conduction properties.
+
+Not only thephase transitions between monoclinic (α) and rhombohedral (β) andbetween β and superionic (γ), involving large sodium disorder andhence heat effects, an intermediate transition at 103 °C is evidenced asrecently reported for vanadium NASICON.
+
+Dispersive AC response ofpolycrystalline low-temperature monoclinic Na3Sc2(PO4)3 with thecurrent-constriction effects at grain boundaries was competentlydescribed by two Havriliak–Negami dielectric functions with welldefined capacitance strengths and the relaxation time constants andgeometric capacitance, all connected in parallel to the total sampleresistance.
+
+The relaxation time constants indicate the associationof the thermally activated bulk conduction mechanism and thecapacitance strengths inversely proportional to temperature allowedthe evaluation of the charge carrier concentration.
+
+The approach isthus in great contrast to the conventional brick-layer model approachbut in line with the textbook polarization theory, where all the polarization mechanisms with different relaxation times including those fromthe space charges along the grain boundaries are added.
+
+Competent description of AC behavior over a wide temperature and frequency rangewith only 14 parameters clearly demonstrates the physical plausibilityof the present approach.
+

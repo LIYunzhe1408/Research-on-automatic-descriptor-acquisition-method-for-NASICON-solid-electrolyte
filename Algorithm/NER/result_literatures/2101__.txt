@@ -1,0 +1,232 @@
+2000, 12, 2134-2142Sodium Mobility in the NASICON Series Na1+er2-xInx(P04)3Enrique R. 
+Paris Instituto de Ciencia de Materiales, CSIC, Cantoblanco, 28049 Madrid, SpainJavier Campo Institut Laue-Langevin, B. 
+156, 38042 Grenoble Cedex 9, FranceAnthony R. 
+Relative P MAS NMR peak intensities of the five detected signals, attributed to the environments [P(OZr),-,(OIn), (r = 0-4)], are close to those expected for a random distribution of octahedral cations. 
+This local probe allows us to rule out the existence of segregated metal-rich nanoregions. 
+The mobility of Na at room temperature increases with the Na content. 
+The increase of Na mobility causes spatial disorder at the M1 site as deduced from the variable-temperature NPD study. 
+At low temperatures, the activation energies do not change significantly. 
+The onset temperature for the curvature in the Z" fma Arrhenius plots, when reaching the high-temperature regime, depends on sodium content. 
+The original NASICONs were solid solutions derived from NaZrzP3012 by partial replacement of P by Si with Na excess to balance the negatively charged framework to yield the general formula Na1+,ZrzP3-,Si,012 (0 = x = 3). 
+Since then, a large number of related materials have been synthesized including the series Na1,,MM(PO,)3. 
+Partial trivalent metal substitution at the octahedral metal site to give Na1++Zr2-,M,(PO4)s has been widely studied  Hong, H. 
+The solid solution series Na1+Zr2-,In,(PO4)3 has the NASICON structure, although the compositional limit, xma,, has been a matter of discussion. 
+There is one report of a complete range of solid solutions 0 = x = 2,5 but other studies indicate a two-phase mixture for x > 1.85.4" The structure of NasInz(PO,)s, recently determined from  Delmas, C.; Olazcuaga, R.; Le Flem, G.; Hagenmuller, P.; Cherkaoui, F.; Brochu, R. 
+1981, 16, 285. Delmas, C.; Viala, J.-C.; Olazcuaga, R.; Le Flem, G.; Hagenmuller, P. 
+Solid State Ionics 1981, 3/4, 209. Winand, J. 
+M.; Rulmond, A.; Tarte, P. 
+1990, 25, 4008. Saito, Y.; Ado, K.; Asai, T.; Kageyama, H.; Nakamura, 0. 
+Solid State Ionics 1992, 58, 327. (a) Brochu, R.; Cherkaoui, F.; Delmas, C.; Olazcuaga, R.; Le Flem, G. 
+(b) Miyajima, Y.; Miyoshi, T.; Tamaki, J.; Matsuoka, M.; Yamamoto, Y.; Masquelier, C.; Tabuchi, M.; Saito, Y.; Kageyama, H. 
+The framework is built of XO4 tetrahedra linked by corners to MOs octahedra. 
+Each XO, tetrahedron shares each corner with one MOs octahedron, and conversely, each MOs octahedron shares each corner with a different XO, group. 
+The interstitial voids generated within the network are of two types known as M1 and M2 sites (1:3 multiplicity). 
+An initial approach to correlate electrical parameters (ionic conductivities and activation energies) with generic average structural parameters (unit cell constants) was followed by scrutiny of specific structural factors such as the size of the bottleneck that connects the M1 and M2 sites." However, to establish possible correlations of this type, full crystal structure information is required. 
+This may be obtained either by single-crystal diffraction or by Rietveld analysis of powder diffraction data. 
+Several NMR studies of NASICONs have been carried out. 
+ degreeP MAS NMR on the Na1+2. 
+Experimental SectionStoichiometric amounts of Na:COs, In20s, (NH):HPO4, and ZrO; (prepared as described earlier"') were heated to give the  Lii, K-H.; Ye, J. 
+1997, 131, 131. (a) Kholer, H.; Schulz, H.; Mater. 
+(b) Kholer, H.; Schulz, H.; Mater. 
+(c) Kholer, H.; Schulz, H. 
+Solid State Ionics 1983, 9/10, 795. Yue, Y.; Li, L.; Zhou, F.; Pang, W. 
+1992, 9, 75. Yue, Y.; Deng, F.; Hu, H.; Ye, C. 
+1995, 235, 508. Jiger, C.; Barth, S.; Feltz, A. 
+ Cherkaoui, F.; Villeneuve, G.; Delmas, C.; Hagenmuller, P. 
+1986, 65, 298. Losilla, E. 
+G.; Bruque, S.; Paris, M. 
+To avoid unreacted ZrO; and the formation of MP;0; byproduct, the samples were heated at 0.5  degree C-min~' to 1000  degree C with intermediate regrinding (for 30 min every 150  degree C). 
+The calcined materials were then reground in a planetary ball mill for 10 min and calcined at 1100  degree C for 24 h. 
+This last treatment was repeated twice (for all samples) to obtain homogeneous products. 
+Nine Na1,Zr>-n,(POy)s samples were prepared for x = 0, 0.2, 0.4, 0.8, 1.0, 1.2, 1.6, 1.8, and 2.0 and are labeled In,. 
+XRPD patterns were collected at room temperature using a Siemens D5000 diffractometer with (0/20) Bragg-Brentano geometry. 
+To check the progress of the reaction, patterns were recorded between 13 degree and 50 degree  with 0.04 degree step size and 1 s counting time. 
+To refine the erystal structures by the Rietveld method,"" the profiles were collected between 13 degree and 125 degree  with 0.03 degree step size and 16 s counting time. 
+NPD patterns for Ino& and Inis were collected on a D1B diffractometer (at ILL) operating under standard conditions with 2 = 2.54 A at 150, 200, 250, and 275 K using a cryostat and 293, 400, and 500 K using a furnace. 
+Samples were spun at 10-12 kHz and spectra taken after z/2 pulse irradiation (3-4 us). 
+A time interval of 2-90 s between successive scans was chosen, depending on the spin-lattice relaxation times of the nuclei. 
+The number of scans was in the range 10-30. 
+Chemical shifts are given relative to 85% aqueous HsPO; and to 1 M aqueous NaCl. 
+To reduce Na mobility, "Na MAS NMR spectra were also collected at ~200 K under the same conditions. 
+Analysis of both types of spectra was carried out using the Bruker program WINFIT. 
+Deconvolution used a standard, nonlinear least-squares fitting method. 
+The spinning rate and the position, line width, and intensity of components are determined automatically. 
+Impedance data were collected on cylindrical pellets (~10 mm diameter and ~1 mm thickness) obtained by pressing fine powder at 150 MPa, for 30 s, with 3 wt %/vol PVA aqueous solution added as a binder (one drop each ~0.2 g). 
+The pellets were heated at 2  degree C/min to 800  degree C to remove organic matter, sintered at 1230-1300  degree C for 2 h, and quenched to room temperature. 
+To reduce possible volatilization of soda, pellets were covered with powder of the same sample during sintering. 
+The porosities estimated from the pellet mass and geometry were in the range 8-23% (sample with x = 0 was impossible to sinter). 
+Electrodes were made by coating opposite pellet faces with In-Ga alloy (~1:1). 
+The impedance data were collected using a Hewlett-Packard 4192A impedance analyzer over the frequency range from 5 Hz to 13 MHz. 
+The samples were studied from -25 to 200  degree C at approximately 15  degree C intervals. 
+The pellets were mounted in a conductivity jig whose leads were shielded separately inside a tube furnace or a Dewar. 
+For low-temperature measurements, the samples were allowed to equilibrate for ~1 h prior to measurements; temperatures were accurate to +1  degree C. 
+Mater., Vol 12, No 8, 2000Losilla et alTable 1. 
+Initial XRPD data indicated that the members of this series for x < 1.8 are crystalline single phases which have the rhombohedral R3c NASICON:-type structure. 
+The x = 2 sample, NasInz(POy)s3, was a mixture of a NASICON-type phase plus an alluaudite type phase and was not studied further. 
+The crystal structures were refined by the Rietveld method using the structure of NaZra(PO4)s as starting model.' The nominal Zr/In contents were assumed to be randomly distributed over the octahedral sites. 
+It was also assumed, in the starting model, that there was full occupancy of the Na site at (0 0 0; 6b Wyckoff notation) and random distribution of the sodium excess on the M2 site (0.65 0 "/4; 18e). 
+Then, the common overall parameters, scale factor, background coefficients, unit cell parameters, zero-shift error, and pseudo-Voigt coefficients,"" corrected for asymmetry,"" were optimized. 
+It became apparent, during an early stage of the refinements, that experimental peak intensities, especially those for In{4 and Injs, were not reproducible. 
+This was due to the presence of large microparticle aggregates (grains) without random orientation. 
+This method of preparation, for In1s and In1s, gave a highly uniform layer of small particles randomly distributed on a glass fiber filter substrate with reproducible XRPD peak intensities. 
+Once instrumental parameters had been taken into account, positional parameters were refined with the Zr/In ratios fixed at their expected values. 
+The XRPD refinements of the initial model, with full occupancy of Na and the excess sodium on the Na site, yielded large isotropic tem Thompson, P.; Cox, D. 
+1987, 20, 79. Finger, L. 
+1994, 27, 802. (a) March, A. 
+1986, 19, 267. (a) Davis, B. 
+Powder Diffraction 1986 1, 240. 
+(b) Cabeza, A.; Losilla, E. 
+S.; Bruque, S.; Aranda, M. 
+1998, 42, 228.perature factors for Na, Uiso ~ 0.10 Az, for samples with high x. 
+These anomalously large values may be due to either spatial disorder or an occupancy lower than 1.00. 
+Combined room temperature XRPD and NPD refinements for Injg and Injs showed that spatial disorder inside the M1 cavity was the main cause of the high temperature factors. 
+Within two times the standard deviation, 1.5%, full occupancy of the M1 site was obtained in these two combined room temperature refinements. 
+Finally, an isotropic temperature factor for each crystallographic framework site was refined. 
+Rietveld analyses of the T-NPD data indicate the temperature at which positional disorder appears. 
+Due to the limited 20 range, only isotropic temperature factors were refined and positional parameters and occupation factors were kept fixed at the values obtained in the room temperature combined refinements. 
+The Uiso values obtained for Na at the M1 site  are anomalously very high, ~0.15 A2 at T > 400 K. 
+Final Rietveld figures of merit were good (Table 1) with Rp ranging between 3 and 6%. 
+Final refined unit cell parameters are also given in Table 1, atomic parameters in Table 2, selected distances in Table 3, and angles in Table 4. 
+The areas of the bottleneck triangles, as defined in ref 14, are given in Table 1. 
+As an example of the Rietveld refinement quality, the fit for the combined refinement of Ini.s is shown in Figures 1 and 2. 
+The isotropic temperature factors for sodium atoms obtained from the T-NPD analyses are plotted in Figure 3. 
+Room temperature P MAS NMR spectra for the Na1,Zr--,In,(PO,); series (Figure 4) are formed by five components with their corresponding spinning sidebands (not shown). 
+In the NASICON structure, each tetrahedron shares oxygens with four octahedra, two in the same Mz(POy); unit and two in adjacent units. 
+On the basis of homogeneous statistical distribution of triand tetravalent cations, the five observed components can be assigned to P(OZr)4, P(OZr);(OIn)1, P(OZr)3(OIn), P(OZr)(OIn)3, and P(OIn), environments. 
+The position of the P MAS NMR peaks depends on the polarizing strength of cations that share oxygens with the PO, tetrahedra. 
+Thus, strongly polarizing cations pull the electron density away from oxygens more effectively and cause the NMR peaks to shift to more negative values. 
+The peaks occur at increasingly negative chemical shifts as the number of Zr neighbors increases. 
+In addition to this "first-order" effect, in which the chemical shift values depend on the Sodium Mobility in Na1+,Zr2-In,(POsChem. 
+Mater., Vol 12, No 8, 2000 2137Table 2. 
+Na1 at (0.056, 0.051, 0.001). 
+¢ Intralantern distance (along c-axis). 
+ degree Interlantern distance (along c-axis). 
+Bond Angles (deg) for the Na1+Zr2-. 
+From the integrated intensities of the five observed "'P MAS NMR bands, the chemical composition of samples can be determined. 
+1+ 4f,where intensities F;, with i = 0, 1, 2, 3 and 4, correspond to components with an increasing number of In atoms. 
+From Zr/In ratios, the Zr (2 x) and In (x) contents of octahedra can be deduced, using the expression:Zr/In = (2 x)/x The deduced occupancies (Table 6) are very close to the nominal values used in the sample preparation."3Na MAS NMR spectra are given in Figure 5. 
+The spectrum for NaZra(PO4)3 is formed by three sharp peaks at -18, -32, and -42 ppm that correspond to a unique signal produced by second-order quadrupole effects, related to the interaction of Na with the electric field gradient at sites with axial symmetry vg ~ 1.2 MHz and 7 = 0). 
+The isotropic chemical shift value corrected for quadrupole effects was -14 ppm and line-broadening deduced from the spectral deconvolution was E,, = 0.9 ppm. 
+Spectra for Ino& and Ino.1 are formed by a similar set of peaks, but the intensity of the peak at -32 ppm and the line width of the components increase with x. 
+The experimental profile could not be reproduced with a single signal, indicating that there are at least two components. 
+Two signals centered at ca. 
+-13 and -17 ppm with similar quadrupole constant (vg ~ 1.1 MHz) 2138 Chem. 
+Mater., Vol 12, No 8, 2000 veam anapogit #t> arie l6A LSorde H _ Cntarii PCs  xi€2Flgure 1. 
+Room temperature XRPD Rietveld plot for NazeZroaln1.6(POa)s. 
+Room temperature NPD Rietveld plot for Naz6Zrq4In16(POA)s. 
+19or mms&Uiso x100 /A' 3 8a o o 150 200 250 200 s5o 400 450 TKFigure 3. 
+Temperature evolution of the isotropic thermal parameter for Na at M1 and M2 sites of samples Injs and Ings from NPD data. 
+The lines are B-spline fits only to guide the eye.but different -7 values, 0 and 0.8, give a satisfactory fit to these spectra. 
+The average line broadenings were 8 and 17 ppm for Ing.s and Ing.4, respectively. 
+For x > 0.8 phases, a single signal with axial characteristics was detected. 
+The experimental envelope became sharper and shifted toward more positive chemical shifts as x increased. 
+Losilla et al1\ sttNes _ _/ Wumge _/ Narg Nare __ j \Nnm Narz J /\\/\Zn   Nazo f/\l A \\L -32 8 (ppm) Figure 4. 
+Centerbands of P MAS NMR spectra for the Na1:Zr--In,(PO;)s series. 
+Line widths of the components are larger than those measured at room temperature (Figures 5 and 6). 
+A small shift of the experimental envelope toward low-field values, observable in the Inis and Injs spectra, is detected when temperature is lowered. 
+Representative impedance data for one composition at two temperatures are shown as impedance complex plane plots in Figure 7; similar plots were obtained for all compositions. 
+At room temperature, a very broad arc is observed in which at least two poorly resolved components can be distinguished. 
+Centerbands of 'Na MAS NMR spectra for the Na1+Zre-In«(PO.)s series at room temperature. 
+Centerbands of 'Na MAS NMR spectra for the Na1+Zre-In«(PO.;)s series at 200 K.which is more developed at higher temperatures. 
+The spike has an associated capacitance (calculated from the ideal relation Z" = (@C)~"), of ~0.1 uF and, since it is inclined to the Z' axis at ~70-80 degree, it indicates a blocking electrode response; therefore, the conducting species must be ionic, i e , Na+ ions. 
+The total pellet resistance, Rr, is obtained from the intercept of the spike and/or the are (low-frequency end) on the Z' axis. 
+Further information on the electrical microstructure of the sample and the separation of possible bulk/grain boundary contributions is obtained from spectroscopic Z"/M"' plots of the same impedance data (Figure 8). 
+At room temperatures, the M" spectrum shows a broadened peak with associated capacitance (calculated from M"=Co/2C; at the maximum) of ~6 pF. 
+Since the data were not corrected for the capacitance of the sample holder (a few pF, in parallel with the capacitance of the sample), this peak certainly represents the bulk response of the sample; the bulk high-frequency permittivity [calculated from e' = CA~1/8.854 x 10~"", where A is the sample area (area of electrode contact) and / the thickness] is in the range 10-50. 
+The M" peak shows a clear shoulder on the lowfrequency side which is approximately coincident with the peak maximum in the Z" spectrum and has an uncorrected capacitance of ~13 pF. 
+This is attributed to a thick grain boundary or constriction resistance atChem. 
+425 K 0   0 b10 degree 240 degree 2 (@)Figure 7. 
+Impedance complex plane plot for NasInZr(POy); at (a) 297 K and (b) 425 K. 
+2.5 10 degree T=297 KZ" 1.7 108.3 10 degree 21 10 degree  logf (Hz)Figure 8. 
+Impedance and modulus spectroscopic plots for NasInZr(PO;)s at 297 K.the region of grain-grain contacts and arises because the pellets were not fully densified. 
+This component dominates the Z" spectrum and, therefore, forms the major part of the total resistance of the samples. 
+A third component in the overall response is evident as a lower frequency shoulder peak in the Z" spectrum, with an associated capacitance of ~50 pF. 
+This is attributed to a more traditional thin grain boundary region and makes a significant contribution to the overall pellet impedance; because its capacitance is quite high, it is 2140 Chem. 
+Mater., Vol 12, No 8, 2000    n 3.0 w 6 -+-n, § 35b -4.. 
+Arrhenius plots of the overall pellets conductivities for the Na;,,Zr5-,In,(PO;)s series. 
+The overall pellet conductivities, in traditional Arrhenius format, are given in Figure 9. 
+If it is assumed that the capacitances of the different regions are temperature-independent, then the fma data reflect the behavior of the corresponding resistances (since the relation 27fRC = 1 holds, ideally, at the peak maxima). 
+Further, since R and C for a given component depend inversely on the geometry of the regions concerned, then the fma, data represent an intrinsic property, independent of geometry or volume fraction. 
+To separate the various contributions to the overall sample impedances, Arrhenius plots of the frequency maxima of M" peaks are given in Figure 10 and the resulting activation energies in Table 1. 
+The fmax data show a gradual increase with x for a given temperature, indicating that the bulk conductivity increases with x. 
+This trend is not so apparent, however, in the overall conductivity data, since these are significantly influenced by grain boundary impedances. 
+DiscussionA solid solution with a wide range of compositions, Na1+,Zrs-,In,(PO,)s (0.0 = x = 1.8), has been synthesized. 
+M Intra-lantern P.(0 0 % M.~MInter-lantem           Figure 11. 
+The intensity ratios of each pair of adjacent bands in each sample, corrected for statistical multiplicities, are near to the (2 x)/x values. 
+This behavior indicates that the Zr/In distribution is nearly random and rules out the existence of nanoregions with different metal stoichiometries. 
+Sample compositions deduced from the NMR intensities agree with the nominal values. 
+Hence, it can be concluded that the samples have the expected compositions and are chemically homogeneous. 
+However, the unit cell changes shape since a increases and c decreases with x (Table 1). 
+These results are in agreement with previous observations." The present structural study allows us to explain these changes with x at an atomic level. 
+On the basis of the structural data obtained by the Rietveld refinements, the anisotropic expansion can be rationalized as follows. 
+The decrease in c with x correlates with a decrease in intralantern P-O-M angles, from 156.9 degree for Ing to 150.1 degree for Ini.s, leading to a compression of the lanterns in the c direction. 
+Interlantern P-O-M angles do not change appreciably (Table 3). 
+The evolution of the  degreeP MAS NMR bands along the series can be rationalized on the basis of these structural changes. 
+The shifts in the  degreeP peak positions for each set of bands [P(OZr),-,(OIn),] have been  Shannon, R. 
+Sodium Mobility in Na1+,Zr2-In,(POscorrelated with the variation of the P-O-M angles. 
+As the P-O-M angles between adjacent Zra(PO4)s units (interlantern angles) show negligible variation, the shifts are ascribed to the changes of the intralantern P-O-M angles. 
+A similar shift was detected in tectosilicates and assigned to the progressive modification of tetrahedral T-O-T angles of the network with AVSi substitution. 
+The filling of the M2 sites produces also a considerable modification of their oxygen environment. 
+For Ing, the M2 sites are vacant and the void is very anisotropic with four long distances to O (2 x 3.05 and 2 x 2.77 A) and four shorter distances to O (2 x 2.43 and 2 x 2.33 A). 
+As this site is progressively filled, the environment becomes more regular (Table 3): Na-O bond distances become shorter and Na-O distances larger. 
+For In1s, the distances are 2 x 2.92 and 2 x 2.68 A for O and 2 x 2.50 and 2 x 2.48 A for O. 
+The main structural change produced along the series is the movement of O toward the M2 site, which stretches the lanterns, causing the metal to displace from the center of the octahedron toward the O face (Figure 11). 
+This results in an opening of the O-M-O angles and a closing of the P-O-M angles (Table 4). 
+At the same time, a small translation of the PO4 tetrahedra in the ab plane, far from the center of the lantern unit (0 0 /4), takes place. 
+The more important degree of freedom, which adjusts along with the incorporation of Na on the M2 site, is the flexibility of the MOs octahedra, which distort by opening the O face, thus allowing these oxygens to move toward Na. 
+The analysis of the structures show that the sizes and shapes of the bottlenecks connecting the M1 and M2 sites (Table 1) do not change significantly along the series. 
+XRPD refinements are not stable for Na displaced from the M1 site center. 
+However, the room temperature combined NPD and XRPD refinements showed positional disorder at the M1 site and few if any cation vacancies (<2%). 
+The evolution of the thermally induced disorder of Na at M1 sites was analyzed indirectly by T-NPD by checking the U;,, of Na1 at  as a function of temperature. 
+Thermal disorder starts approximately above 250 K for Ings and above 275 K for In1 4 (Figure 3). 
+The temperature dependence of this activation is sharp for Inj& and smoother and larger for the Ings sample. 
+U;,, thermal variation of Na at M2, for both samples, is by comparison much smaller. 
+With the limited 20 range of the NPD data and the anomalously very high U;,, values for Na at M1 above 400 K, it is not possible to confirm full occupancy of M1 at T > 400 K. 
+So, either more extensive Na spatial disorder or vacancy creation or both may occur at T' > 400 K. 
+For Inog and Ing4, two signals are needed to explain the patterns recorded at room temperature. 
+The signal at -13 ppm with 7 = 0 (axial symmetry) is assigned to Na at the center of M1 site, but the second signal at -17 ppm with 7 = 0.8 must be ascribed to structural sites of lower symmetry. 
+Mater., Vol 12, No 8, 2000 21410.8, exchange of Na between the structural sites is detected. 
+As a consequence, a unique "envelope" with an intermediate pattern is measured (Figure 5). 
+The averaged signal sharpens with increasing x, indicating an increase in sodium mobility. 
+For x > 1.2, NMR components are narrower, indicating the existence of some residual mobility for Na at 200 K. 
+The signal measured at room temperature at -17 ppm does not correspond to any of these signals, and hence, it must be ascribed to a third sodium site. 
+Occupation of these sites must be associated with the thermal spatial disorder detected in the combined NPD and XRPD Rietveld studies. 
+These sites, out of the center of the M1 cavity and near to the structural M1M2 bottleneck, could minimize the electrostatic repulsion between contiguously occupied M1 and M2 sites. 
+However, for high sodium mobilities, this signal cannot be detected, as rapid Na exchange masks signals of different sites. 
+The low-temperature ""Na MAS NMR study has confirmed the existence of sodium mobility for all compositions at room temperature and the mobility increases considerably for x > 0.8. 
+The electrical microstructure of the samples is complex, in part due to their incomplete sintering and densification. 
+A thick constriction region between adjacent grains dominates overall conductivities. 
+Nevertheless, the temperature and composition dependence of the bulk response can be obtained readily from the M" peak maximum and compared with that of the overall pellet The Arrhenius plots for the overall conductivities in the series do not show a clear trend (Figure 9). 
+However, the M" data fall on a set of wellspaced approximately parallel lines showing a clear trend of increasing bulk conductivities with x. 
+Conductivities increase by almost 2 orders of magnitudes along the series (Figure 10); however, the activation energies are almost constant (Table 1). 
+Therefore, the variation in the M f.,,, data with x must be mainly attributed to variations in carrier concentration. 
+An increase in overall conductivity with x has already been reported." Hence, when the pellet sintering is not satisfactory, the Arrhenius plot of M" f.,,, gives a good indication of the bulk response of the sample. 
+Some insights into the similarities and differences between the bulk and thick grain boundary regions are obtained from a comparison of the frequency of the maximun of M" and Z", fm-x, versus 1/7 (Arrhenius plots). 
+Three samples, representative of the behavior of the series, are shown in Figure 12. 
+Due to the frequency limitations of the impedance equipment, M" fmax data were obtained over only a limited range of lower temperatures, whereas much more extensive data sets were obtained for Z" fmax. 
+M" fmax data occur at 1-2 orders of magnitude higher than corresponding Z" fmax data but are essentially parallel for the temperatures over which both M" and Z" data were obtained. 
+The parallel behavior of the M", Z" plots at lower temperatures shows that the conduction mechanism and the 2142 Chem. 
+Mater., Vol 12, No 8, 20006.5 6.5 & & N 60 6.0 9 & n & s.s 55 2 _3P oA i4.0& o3.5 3.53.0 3.0 25 25 2.0 2.5 3.0 3.5 4.0 4.51000/T (K") Figure 12. 
+It is well-established that even in single crystals, the Z" peaks always occur at lower frequencies than corresponding M" peaks. 
+In extreme cases, such as Na B-alumina crystals, the peak separation may be 2 orders of magnitude; more commonly peak separations are often about 0.5-1 order of magnitude. 
+The origin of the peak separations lies in the conduction mechanisms and the fact that the electrical response cannot be represented by simple, ideal, frequency-independent RC elements, but additional, frequency dependent admittances, or constant phase elements, are necessary in order to adequately model the experimental data. 
+The curvature in the Z" y,« Arrhenius plots (Figure 12) is of the kind widely seen in materials with high ionic conductivity. 
+At higher temperatures, the Z" data show curvature toward a region of lower activation energy. 
+The explanation usually given is that, at lower temperatures, some defect clustering or local ordering of the mobile ions occurs, leading to an increase in the activation energy for conduction. 
+The variable-temperature NPD study shows the development of a strong cation spatial disorder at the M1 site over the temperature range where the curvature is observed. 
+Both phenomena are likely related as the relative destabilization of Na at M1 with temperature is probablyLosilla et alresponsible for decreasing the activation energy. 
+The onset of the new regime slightly depends on the Na content as it occurs at lower temperatures as x increases. 
+The existence of two regimes with different sodium mobilities agrees with the NMR results. 
+The Na M1 sublattice "melting" decreases the activation energy as the relative destabilization of that site is essential for ionic conductivity. 
+Charge carriers have to jump through the M1 site in order to migrate. 
+The structure responds to the incorporation of Na on the M2 site by moving the O atoms toward those sites, reflecting the flexibility of the MOs octahedra. 
+At room temperatures, Na mobility increases with Na content; for x = 0.4, the Na cations are rather localized, but for x > 0.8 compositions, important mobility gave a single line with averaged characteristics. 
+The Arrhenius plots for the overall conductivites did not show a systematic trend but the plots of the M" fmax data showed a clear increase of bulk conductivities with x. 
+T-NPD showed spatial disorder of Na at the M1 site above ~250 K. 
+The low-temperature activation energies change very little with x, in agreement with negligible variation of the bottleneck size. 
+So, the observed increase of conductivity with x is due to an increase in charge carrier (Na+) concentration. 
+The observed curvature in the Z" fmax Arrhenius plots, likely related to the strong thermal disorder of Na at the M1 site, indicates the existence of two regimes with different sodium motion (localized at lower temperatures and extended at higher temperatures) in the series. 
+We thank the British Council and MEC for support from the Acciones Integradas program. 
+Neutron data were collected on D1B, ILL, through the Spanish-CRG beam time, which is acknowledged. 
+This work was supported by the research grants MAT97-326-C4-4 and MAT98-1053-004-03 of CICYT. 
+123456789

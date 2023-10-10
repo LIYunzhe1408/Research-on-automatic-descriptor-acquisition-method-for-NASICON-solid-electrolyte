@@ -1,0 +1,129 @@
+Raman and FTIR spectra of CaFeTi(PO4)3 and CdFeTi(PO4)3 are recorded and analyzed. 
+The observed bands are assigned in terms of vibrations of TiO6 octahedra and PO4 tetrahedra. 
+The symmetry of TiO6 octrahedra and PO4 tetrahedra is lowered from their free ion symmetry. 
+The presence of Fe3+ ion disrupts the Ti–O–P–O–Ti chain and leads to the distortion of TiO6 octrahedra and PO4 tetrahedra. 
+The PO4 tetrahedra in both crystals are linearly distorted. 
+The covalency bonding factor of PO4 polyanion of both the crystals are calculated from the Raman spectra and compared to that of other Nasicon-type systems. 
+The numerical values of covalency bonding factor indicates that there is a reduction in redox energy and cell voltage and is attributed to strong covalency of PO4 polyanionin.
+
+Phosphates with general formula ABB0(PO4)3 crystallize mainly in the Nasicon NaZr2(PO4)3-type structure. 
+Materials with this family possess a rhombohedral R¯3c structure and have many technological applications due to its superionic conductivity, chemical stability and high catalytic activity. 
+The ABB0(PO4)3 Nasicon-type phase consists of a BB0(PO4)3 framework built up by a corner-sharing B(B0)O6 octahedra and PO4 tetrahedra. 
+In this structure each octahedron is surrounded by six tertrahedra and each tetrahedron is connected to four octahedra. 
+This family of compounds possess ‘open’ structures in which alkali ions can move with signiﬁcantly reduced activation barriers and hence potential for applications as fast ion conductors. 
+B sites can be accommodated with large number of transition as well as non-transition metals. 
+The tetravalent and trivalent redox couples in B site can give technically attractive battery voltage. 
+The phosphate polyanions can lowers isostructural compounds.
+Recently, considerable importance has attained for phosphate with Nasicon-type framework with elements like Ti, Fe, Nb, Sn, etc. which can have more than one oxidation state. 
+The partial substitution of tetravalent element like Ti with trivalent element like Al was very effective for enhancement of ionic conductivity of these materials. 
+Several works have been reported to study the relationship between the structural and electrochemical properties of potential materials for battery applications . 
+Aatiq et al. studied the structure of AFeTi(PO4)3 [A=Ca, Cd] with aid of powder X-ray diffraction data using the Rietveld method. 
+Since Ca2+ and Ti4+ ions are isoelectronic, these cannot be distinguished without ambiguity by XRD. 
+But the analysis of Ca–O and Fe(Ti)–O distances permits to conclude about cationic distribution of CaFeTi(PO4)3. 
+Apart from this, the solid electrolytic properties of materials are usually caused by features of their atomic structure. 
+The vibrational spectra of these materials will provide additional information on the nature of fast ion transport in solids . 
+In the present study the internal structure of the title compounds are investigated by using Raman and FITR spectra. 
+Further an attempt is made to determine the redox energy and cell voltage of title compounds from the Raman spectral data.
+
+Powder crystalline samples of CaFeTi(PO4)3 and CdFeTi(PO4)3 abbreviated as CaFT and CdFT, respectively were prepared by solid state reaction technique from the mixtures of TiO2, Fe2O3, carbonates CaCO3 or CdCO3 and NH4H2PO4 . 
+Bruker RFS 100/S spectrometer was used to record the Raman spectra in the stokes region. 
+The FTIR spectra of the compounds were recorded using a Bruker  IFS-66v-FTIR spectrometer  in the region 400–4000 cm-1 by KBr Pellet method.
+The structure of both CaFT and CdFT crystals are having Nasicon-type framework structure and crystallizes in hexagonal system with space group R¯3c (D3d 6 ). 
+Its unit cell parameters are: a ¼ 8.518(1) A˚ , c ¼ 21.797(2) A˚ and a ¼ 8.534(1) A˚ , c ¼ 21.416(2) A˚ , for CaFT and CdFT, respectively . 
+In the crystal structure, two Ca(Cd) atoms are in the D3 site, the Fe and Ti atoms each two in number are, respectively, occupying C3i and Ci sites. 
+Six P atoms are located at C2 site and all the 24 oxygen atoms are found to occupy the C1 site. 
+The vibrational modes of these compounds are obtained by the group theoretical method . 
+The total irreducible representation excluding acoustic modes are distributed as.
+
+The crystal structure of CaFT is built up by corner sharing of Ti(Fe)O6 octahedra and PO4 tetrahedra in such a way that each octahedra is surrounded by six tetrahedra (Fig. 1). 
+Within Nasicon framework, there are interconnected interstitial sites, usually labeled as M1 and M2, through which a cation can diffuse. 
+Ca2+ ions in CaFT are considered to be distributed within the M1 sites whereas the M2 site is empty (Fig. 1). 
+The structure of CdFT is similar to the previous one, in which the M1 sites are ﬁlled with Cd ions. 
+The crystal structure reﬁnement suggests that, Fe3+ ions are occupying the Ti sites. 
+Considering chemical nature of both Fe3+ and Ti4+ ions there is a probability of different types of Fe/Ti–O bonds. 
+Hence the TiO6 octrahedra are disturbed by the presence of Fe3+ ions in the site. 
+Moreover the ionic radii of these ions are almost identical. 
+The Ti–O bond length is weak and varies from 1.902 to 2.041 A˚ in CaFT and from 1.897 to 2.044 A˚ in CdFT. 
+There will be higher possibility of Fe ions disturbing Ti–O–P as well as Ti–O–Ti chain. 
+This is due to the equivalence of Fe3+ and Ti4+ ions which occupy equivalent sites in the structure as reported in similar type compounds.
+
+In metal–oxide systems containing titanium, the binding forces within the metal–oxygen octahedra are higher than the crystal binding forces. External modes usually appear at lower frequencies than internal modes . 
+The free ion TiO6 octahedra with Oh symmetry has six fundamental modes of vibration, viz, symmetric stretching mode n1 (A1g), asymmetric stretching modes n2 (Eg) and n3 (F1u), asymmetric bending mode n4 (F1u), symmetric bending mode n5 (F2g) and the Raman and IR inactive mode n6 (F2u). 
+The n1, n2, and n5 modes are Raman active, whereas the n3 and n4 modes are IR active .
+The TiO6 octahedral modes were reported to be at n1=639, n2=519,  1 in TiO2 n3=513, n4=399, n5=197, and n6=144 cm crystals. 
+In compounds having Ti–O–Ti chain n1 mode  1 as in of TiO6 octahedra are observed around 700 cm KTiOPO4,Na(TiO)PO4 and (TiO)2P2O7 . 
+But the symmetric stretching mode of TiO6 octahedron is reported around 900 cm in Na5Ti(PO4)3. 
+This is interpreted due to the strong nature of Ti–O bonds . 
+The PO4 stretching modes are  1 in Nasicon-type compouds like reported above 950 cm NaZr2(PO4)3, Na3NiZr(PO4)3, and Na3MgZr(PO4)3 . 
+It is interesting to note in the present study, the n3 PO4 modes of CaFT and CdFT are observed at higher frequency than that of titanyl and niobyl phosphates . 
+This observation suggests an increasing covalent character in Ti–O bond of CaFT and CdFT in comparison to that of titanyl phosphate.
+Further, Ti–O symmetric stretching (n1) vibration is expected to have the strongest intensity in the Raman spectra. 
+This spectral behavior is reported in many perovskite-like crystals or substances containing MO, groups such as SnNbO, BiNbO4, and LaCuO. 
+According to the previously mentioned reports, the relatively strong band observed in the Raman spectra at 928 (CaFT) and at 926 (CdFT) cm are assigned to n1  mode of TiO6 octahedra. 
+Apart from these intense Raman bands, strong IR bands are also observed at 932 (CaFT) and at 915 (CdFT) cm 1 in the n1 mode region. 
+The  relatively weak bands in the Raman spectra at 670 in CaFT  1 in CdFT are attributed to n2 mode of TiO6 and at 672 cm octahedra. 
+Very strong Raman bands observed at 310 and  1 in both the compounds are due to n5 modes 309 cm of TiO6 octahedra. 
+The remaining bands are assigned in Table 1. 
+The moderately strong Raman bands at 220  1 (CdFT) are contributed to the (CaFT) and 224 cm Raman and IR inactive n6 mode. 
+The charge redistribution, or Ti-shift within the TiO6 octahedra should strongly affect the frequency of modes involving Ti–O stretching. 
+The octahedral substitutution of Fe3+ has led to a distortion of the structure, which is in agreement with similar compounds having Nasicon structure. 
+If the stretching frequency of the shortest metal–oxygen bond is observed in the lower wavenumber side, the MO6 octahedral structure is more regular especially in metal–oxide systems. 
+In the present study TiO6 stretching frequencies are shifted considerably to higher wavenumber side as compared to that of TiO2 crystal. 
+Further, the activation of n1 mode in the IR spectra, n2 and n6 modes in the Raman spectra, suggests that TiO6 octahedral symmetry is lowered and distorted in both compounds. 
+The observed distortion of TiO6 octahedra may be related to the incorporation of Fe3+ ions in the Ti site.
+
+The vibrations of free PO4 tetrahedra with Td symmetry have four fundamental modes. 
+These frequency modes fall  at n1 (A1) 938, n2 (E) 420, n3 (F2) 1017, and n4 (F2) 567 cm  1.
+All the modes are Raman active whereas n3 and n4 ones are IR active only . 
+The n1 mode region of PO4 tetrahedra in CaFT shows a strong and broad band  1. 
+Similarly, in CdFT a strong and broad band  1 is extending from 956 to 1005 with a peak at 974 cm observed (Fig. 2). 
+The corresponding region in the IR spectra also has bands (Fig. 3). 
+The IR spectrum in the triply degenerate asymmetric stretching n3 mode region of  1 CaFT has four bands at 1049, 1068, 1117, and 1227 cm where as CdFT shows bands at 1047, 1076, 1118, and  1226 cm-1. The Raman spectra of both the samples show bands in the above region. 
+These values are close to those already reported in the literature for Nasicon-like phosphates. 
+In CaFT, P–O distances are 1.520 and 1.527 A˚ with a mean P–O distance of 1.523 A˚ . 
+But in CdFT, P–O distances are 1.501 and 1.547 with a mean P–O distance of 1.523 A˚. 
+Popovic et al. have formulated the following empirical relation connecting P–O bond lengths and stretching frequencies;
+where R is the P–O bond lengths in pm. 
+By replacing P–O distance values in the above expression, the obtained values are given in Table 2. 
+These values are relatively comparable with that of the experimentally obtained one and this further conﬁrm that the bands observed in the Raman  1 are due to Spectra at 928 (CaFT) and at 926 (CdFT) cm n1 mode of TiO6 octahedra.
+The relatively strong bands observed in the Raman spectrum of CaFT correspond to doubly degenerate n2 mode vibration of PO4 tetrahedra and appears at 436 and 457 cm 1. 
+Similarly the Raman spectrum of CdFT also  shows bands at 437 and 455 cm  1. 
+The degeneracy of this mode is found to be lifted in both the compounds. 
+IR spectra of these samples also have bands in the aforesaid region .
+Note that the above-described spectral patterns are almost similar to that of Nasicon structures reported in literature. 
+Assignments of n4 mode of PO4 tetrahedra are not obvious, since it overlaps with the n3 modes of TiO6 octahedra . 
+The observed lifting of degeneracies of n2 and n3 modes in the IR spectra implies that the symmetry of PO4 tetrahedra is lowered from its free ion Td symmetry. 
+Further, the presence of symmetric stretching and bending modes in the IR spectra also conﬁrms the above result.
+The P–O bond lengths vary considerably between the two compounds even though the mean bond lengths are the same (Table 2). 
+The stretching frequency of CdFT is shifted  1 towards the low wavenumber side of the order of 10 cm as compared to that of CaFT. 
+This is probably due to comparatively longer P–O distance (1.547 A˚ ) in CdFT as reported. 
+The splitting of n3 mode of PO4 tetrahedra is  of the order of 159 cm 1 in CdFT. 
+This observation suggests that distortion of PO4 tetrahedra is more in CdFT than in CaFT. 
+The appearance of the symmetric stretching mode at a higher frequency than that of the regular tetrahedra indicates linear distortion of the PO4 tetrahedra in both the compounds. 
+Generally, Raman bands originated from the vibrations of PO4 stretching modes are relatively weak in most of the crystals like KTiOPO4, SbOPO4, MoPO5, NbOPO4, etc. due to the presence of Met–O–Met–O chain. 
+Strong bands may also occur in the Raman spectra depending on Ti atoms environment
+But in the present study,the appearance of intense bands corresponds to PO4 stretching modes which rules out the possibility of the Met–O–Met–O chain . 
+A broader Raman band proﬁle is observed for both compounds in the symmetric stretching region of PO4 tetrahedra and is about 49 cm 1. 
+This broad band proﬁles  suggest that there is a disorder in structure of samples under investigation .
+The presence of Fe3+ ions in Ti site induces a disorder around the PO4 tetrahedra because the PO4 tetrahedra are linked by corners to Fe/TiO6 octahedra.
+Materials with these framework are useful for battery applications and hence it is worthwhile to determine covalency strength of PO4 tetrahedra. 
+It is of interest to note that the cell voltage depends on the redox couple of the transition metal atoms and it related to redox energy and covalency strength. 
+The covalency strength of PO4 tetrahedra is directly linked to the material structure. 
+The vibrational spectra are sensitive to the covalency of the phosphate group, the covalency strength can be estimated by the following expression.
+
+The covalency strength parameter of PO4 polyanion is found to be 0.38 in CaFT and 0.37 in CdFT. 
+This covalency bonding factor is comparable to that of orthophosphate group of compounds. 
+The higher covalency bonding factor of PO4 polyanion in CaFT and CdFT indicates that a reduction in redox energy and cell voltage as compared to that of diphosphates and Nasicon-type systems reported in the literature. 
+The decrease in redox energy is attributed to the presence of PO4 polyanion with strong covalency bonding factor which reduces the strength of Met–O covalency in the structure.
+Bands observed below 200 cm1 are mostly due to rotational and translational modes. 
+These bands are inﬂuenced by the replacement of the Ca by Cd. 
+This can be attributed to external lattice modes in which the Ca2+ (or Cd2) ions move with respect to the PO4 and TiO6, groups. 
+Further vibrations contributed by FeO6 octahedra are expected in the 300–400 cm uous assignments of these bands are limited. 
+The band  1 in the Raman spectrum of CdFT and observed at 175 cm  1 in CaFT may be due to Ti translational mode at 169 cm as reported by Barj et al.
+
+The symmetry of both TiO6 octrahedra and PO4 tetrahedra is lowered from its free ion symmetry and are corner-shared in CaFT and CdFT crystals. 
+The presence of Fe3+ ion disrupts the Ti–O–P–O–Ti chain within the Nasicon structure. 
+The PO4 tetrahedra is linearly distorted in CaFeTi(PO4)3 and CdFeTi(PO4)3. 
+The broader band proﬁles of PO4 tetrahedra suggest that there is a disordered structure in the samples under investigation. 
+The calculated higher covalency bonding factor of PO4 polyanion in CaFT and CdFT indicates that a reduction in redox energy as well as cell voltage as compared to that of diphosphates and certain Nasicon-type systems. 
+The decrease in redox energy is attributed to the presence of PO4 polyanionin with strong covalency.

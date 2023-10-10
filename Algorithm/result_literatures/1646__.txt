@@ -1,0 +1,105 @@
+Double Magnesium Zirconium Orthophosphate is  synthesized  by  the  sol–gel 3 4 2 method.
+The compound prepared is characterized using electron probe microanalysis and X-ray diffraction.
+The  crystal structure of the orthophosphate is reﬁned by the Rietveld method in space group .
+It is demonstrated that an increase in the temc perature leads to an anisotropic expansion of the unit cell of the phosphate structure, but the structural type remains unchanged.
+
+The  crystal  chemical  analysis  of  the  framework ( compounds  {[   with  a  structure  consistL X  ing of discrete octahedra  O  for the  and tetrahedra  O types  of  sodium  zirconium  phosphate structural  ,  scandium  tungstate  Sc NaZr (PO ) , potassium magnesium sulfate K (SO ) , and Mg   is described ) (SiO Al calcium aluminum silicate Ca in.
+
+As a results, holes formed in the framework structure differ in shape and size.
+The number of holes occupied by cations compensating for the framework charge per formula unit is also different.
+A variety of combinations of cations in the framework and  extraframework  regions  with  retention  of  the framework  structure  fragment    results  in  a  wide variety of compounds, including those containing phosphorus as an anion-forming element.
+The  establishment  of  the  relationship  between the promising physical properties of these phosphates and  the  speciﬁc  features  of  their  atomic  structure,  as well as the prediction of new compounds, is possible only with the use of precise structural data on the stability limits of octahedral–tetrahedral frameworks.
+The speciﬁc features of the structure of framework phosphates containing magnesium are associated with the fact that magnesium can have different coordination numbers  (four  and  six).
+As  a  consequence,  Mg–O chemical bonds are characterized by different degrees of  ionicity.
+Magnesium  cations  with  a  coordination number of six, in combination with other small-sized multiply charged octahedral cations, can fulﬁll a frame-work-forming  function,  for  example,  in  phosphates ,  Mg ,  and MgZr(PO )   Na 4 3 3   =  K,  Rb,  Cs) .
+However,  in Mg (PO )   similar frameworks with a system of strong chemical bonds, there are holes occupied by cations (for example, Mg) compensating for the negative charge of this framework.
+In  these  magnesium-containing  phos = Ti, Zr, Hf) and phates, e.g.
+, Mg MgCrTi(PO  [9], the coordination number of magne)  sium  is  equal  to  four  or  six.
+There  exist  framework phosphates in which magnesium can both enter into the composition  of  the  framework  and  occupy  holes,  for phosphate  example,  (PO ) 3 4 ≡ ( (PO ) Mg[Mg ]) , in which the magnesium  most likely has coordination numbers of four and six.
+
+In this work, the object of our investigation was the Mg Zr (PO )  compound.
+The magnesium zirconium 3 4 2 0.5 phosphate and related composites have been treated as high-temperature solid electrolytes with an ionic con× ductivity as high as 6.9   at a temperature  10 of 1073 K .
+These NASICON-like phosphates have been extensively studied as materials for electrochemical  current  sources  and  gas  sensors.
+Ling  Wang  and Kumar and  Ikeda  et  al.considered  the   phosphate  as  the  main  component  of Zr (PO ) Mg 3 4 2 high-efﬁciency  gas  sensors  for  SO .
+The   and  CO 2 2 advantage of magnesium over other cations in the oxidation state 2+ is a stable oxidation state, a small size, and a lower reactivity as compared to alkali metals .
+Moreover, the Mg Zr (PO )  phosphate is stable up to 3 4 2 a temperature of 1173 K, forms wide regions of solid solutions with NZP compounds , andcan possess a low thermal expansion due to the rigid slightly expanding framework.
+mine the thermal expansion coefﬁcients in the temperature range 298–1023 K.
+The data available in the literature on the type of the crystal  structure  of  the  Mg   phosphate  are Zr (PO ) 3 4 2 contradictory.
+According  to  Ikeda  et  al,  the Mg  phosphate belongs to the NZP family.
+ More recently, an analysis of the X-ray diffraction patterns revealed that this compound has a primitive monoclinic  unit  cell  the Mg0.5Zr2(PO4)3  phosphate  has  never  been  structurally characterized and the distribution of Mg2+ cations in the crystal structure is unclear.
+Reasoning from the differential  thermal  analysis  data,  Nomura  et  al.assumed that the Mg0.5Zr2(PO4)3 phosphate undergoes an “order–disorder” phase transition at a temperature of 943 K.
+Therefore,  the  ﬁnal  inference  regarding  the  structural type of the Mg0.5Zr2(PO4)3 phosphate can be made only on the basis of the results of complete structural investigations, including those performed at high temperatures.
+The  data  on  the  structure  of  the  phosphate under  investigation  are  also  necessary  for  revealing structure–property  correlations,  in  particular,  in  order to elucidate the origin of the high ionic conductivity of the given salt.
+The  purpose  of  this  work  was  to  synthesize  the Mg0.5Zr2(PO4)3 phosphate, to reﬁne its crystal structure by the Rietveld method, to investigate the temperature dependences of the unit cell parameters, and to deter-Table 1.  
+Unit cell parameters and results of the Rietveld refinement  for  the  crystal  structure  of  the  Mg0.5Zr2(PO4)3 phosphate at temperatures of 298 and 1023 KCharacteristica, Å b, Å c, Å β, deg V, Å3 Space group, Z 2θ range, deg Number of reflections Total number of points Number of parameters  refined Rwp.
+
+The Mg0.5Zr2(PO4)3 phosphate was synthesized with the  use  of  zirconium  oxychloride  ZrOCl2  ·  8H2O (reagent  grade),  phosphoric  acid  H3PO4  (reagent grade), and a magnesium nitrate solution [prepared by dissolving magnesium oxide (analytical grade) in concentrated nitric acid] as the initial reactants.
+In the synthesis, the stoichiometric amount of a 1 M magnesium nitrate solution was added to a 1 M zirconium oxychloride  solution.
+Then,  a  1  M  phosphoric  acid  solution taken  also  in  the  phosphate  stoichiometry  was  added with continuous stirring at 343 K.
+The gel formed was dried at a temperature of 363 K and heat treated at 873 and 1073 K (the heat treatment time at each temperature was no shorter than 20 h) under the conditions of free access of air.
+Each heat treatment stage alternated with dispersion in order to provide the homogenization of the mixture.
+The phosphate prepared was a polycrystalline powder.
+The chemical composition and homogeneity of the phosphate synthesized were checked with a CamScan MV-2300  (VEGA  TS  5130MM)  scanning  electron microscope equipped with YAG detectors of secondary and  reﬂected  electrons  and  a  Link  INCA  ENERGY 200C  energy-dispersive  X-ray  microanalyzer  with  a Si(Li) semiconductor detector.
+The compositions were calculated by the PAP correction method.
+The error in determining the sample composition was no more than 2.5 at %.
+The results of the electron probe microanalysis demonstrated that the magnesium zirconium phosphate sample is homogeneous and that the experimental composition  Mg0.48(2)Zr2.07(4)P2.94(4)O12  is  close  to  the calculated composition Mg0.5Zr2(PO4)3. The  X-ray  powder  diffraction  analysis  was  performed on a DRON-3.0 diffractometer (ﬁltered CuKα radiation; scan rate, 2 deg/min).
+The set of interplanar distances  for  the  Mg0.5Zr2(PO4)3  phosphate  under investigation  coincides  with  that  obtained  by  Pet’kov et al.
+The X-ray diffraction patterns used for the structure reﬁnement were measured on a STOE STADI MP diffractometer equipped with a position-sensitive detector.
+For measurements at a temperature of 298 K, the powder sample was placed in a rotating vertical ﬂat cell.
+For  high-temperature  measurements,  the  phosphate sample was placed in a rotating quartz capillary.
+The heating rate was 10 K/min.
+Before measurements, the sample was held at a temperature of 1023 K for 1 h.
+The temperature was measured by a NiCr/Ni thermocouple.
+The structure was reﬁned with the WYRIET software package.
+The  peak  proﬁles  were  approximated  by  the  Pearson VII  function  at  6FWHM.
+The  peak  asymmetry  was reﬁned in the range 2θ < 70°.
+The ion scattering curves were  used  for  all  elements.
+The  crystal  structure  was reﬁned  by  progressively  adding  reﬁned  parameters with continuous graphic simulation of the background until  the  R factors  became  equal  to  a  constant  value.
+The  structural  model  of  the  Ni0.5Zr2(PO4)3  phosphate with  the  atomic  coordinates  taken  from (space group P21/n, structural type of scandium tungstate) was used as the starting model in the reﬁnement of the crystal structure of the Mg0.5Zr2(PO4)3 compound.
+The selected parameters and the results of the reﬁnement of the crystal structure of the magnesium zirconium phosphate at temperatures of 298 and 1023 K are presented in Table 1. 
+The experimental and calculated diffraction  patterns  of  the  Mg0.5Zr2(PO4)3  phosphate under investigation at temperatures of 298 and 1023 K are shown in Fig.1. 
+The atomic coordinates, isotropic thermal  parameters,  and  occupancies  of  cation  positions  are  listed  in  Table  2. 
+A  fragment  of  the  crystal structure of the Mg0.5Zr2(PO4)3 phosphate (drawn with the ATOMS  program )  is  depicted  in  Fig.2. 
+The selected interatomic distances in the coordination polyhedra  of  the  crystal  structure  of  the  Mg0.5Zr2(PO4)3phosphate at temperatures of 298 and 1023 K are given in Table 3.
+The  results  obtained    indicate that  the  crystal  structure  of  the  Mg0.5Zr2(PO4)3  phosphate belongs to the SW type.
+Isolated ZrO6 octahedra and  PO4  tetrahedra  joined  together  through  common vertices  form  a  mixed  three-dimensional  framework.
+These structural units are packed into zigzag ribbons.
+In this case, the neighboring lanterns in one ribbon make an  acute  angle  of  71°  with  the  formation  of  a  tiling packing of structural units (Fig.2).
+In the framework, holes have a complex shape and a relatively large volume.
+Magnesium cations (with a coordination number of four) are located in narrow regions of holes between the edges of two zirconium octahedra (Fig.2).
+The  interatomic  distances  in  the  MgO4  tetrahedra vary from 1.78 to 2.34 Å.
+Their average values (2.12 Å) are considerably larger than the sum of ionic radii of magnesium and oxygen (1.93 Å).
+A noticeable increase in the distances is associated with the fact that the Mg2+ cations  do  not  occupy  structure-forming  crystallographic positions and, therefore, cannot adopt polyhe.
+Vertical tick marks indicate the positions of the reﬂections in the calculated X-ray diffraction pattern.
+This circumstance  suggests  that  the  extraframework  positions  in  the  crystal  structure  of  the  Mg0.5Zr2(PO4)3 phosphate can be occupied by large-sized cations in the oxidation state 2+, such as Cu2+, Co2+, Zn2+, and Mn2+.
+The presence of the magnesium cations in holes of the  {[Zr2(PO4)3]–}3∞  framework  leads  to  its  insigniﬁcant distortion.
+In particular, in each independent zirconium octahedron, four Zr–O distances are close to each other and lie in the ranges 1.88–2.06 Å in the Zr(1)O6 octahedra  and  1.90–2.08  Å  in  the  Zr(2)O6  octahedra.
+The distances from two oxygen atoms to the Zr(1) andZr(2) atoms are equal to 2.10, 2.13 and 2.11, 2.14 Å, respectively.
+The  average  values  of  the  Zr(1)–O  and Zr(2)–O distances are equal to 2.03–2.04 Å and correspond to the standard value for this coordination.
+The P–O distances in the orthophosphate tetrahedra vary in typical ranges (Table 3).
+In the framework, the holes are connected by windows; in this case, the widest windows are formed by edges of three PO4 tetrahedra and three ZrO6 octahedra (Fig.2).
+The size of these windows (4.5–4.7 Å) is larger than the length of the edges of the magnesium tetrahedron (3.3–3.7 Å) or twice the length of the magnesium–the  crystal  structure  of Fig.2.  
+Fragment  of  the Mg0.5Zr2(PO4)3 phosphate at a temperature of 298 K.
+The coordination polyhedra of magnesium cations and the window  between  the  extraframework  positions  (abcdefa)  are shown.
+oxygen bonds (3.6–4.6 Å).
+In the framework, the holes form  a  three-dimensional  network  of  tunnels.
+Therefore,  magnesium  cations  can  migrate  in  holes  of  the structure and the Mg0.5Zr2(PO4)3 phosphate possesses an ionic conductivity.
+The dependences of the unit cell parameters and the interatomic  distances  in  the  crystal  structure  of  the magnesium  zirconium  phosphate  presented  in  Fig.3 and Table 3. 
+It should be noted that the unit cell sizes vary (in magnitude) most signiﬁcantly along the b axis and to a smaller extent along the a axis, whereas the unit  cell  size  along  the  c  axis  remains  virtually unchanged.
+The anisotropic expansion of the unit cell can be explained as follows.
+Heating of the phosphate under  investigation  leads  to  an  increase  in  the  interatomic distances and, hence, to a variation in the length and width of the [Zr2(PO4)3] fragments.
+However, the lanterns  are  rigidly  linked  together  due  to  the  tiling packing.
+As  a  consequence,  a  correlated  polyhedron rotation  characteristic  of  NZP-type  structures  with  a columnar packing is hindered in the lanterns.
+Temperature dependences of the unit cell parameters for  the  structure  of  the  Mg0.5Zr2(PO4)3  phosphate  in  the temperature range from 298 to 1023 K.
+the magnesium zirconium phosphate structure (belonging  to  the  SW  type),  the  change  in  the  lantern  width should have a greater effect on the parameter c, because the lantern width is projected onto the c axis.
+However, the unit cell parameter c for the phosphate under investigation  varies  insigniﬁcantly  with  an  increase  in  the temperature due to the tiling packing of rigidly joined lanterns.
+Since the [Zr2(PO4)3] structural units are arranged in a  zigzag  manner,  the  length  of  the  lantern  projection onto the coordinate axes depends on the angle of inclination of the lantern with respect to the corresponding axis and, therefore, the change in the unit cell parameters with an increase in the temperature is also proportional to the length of the lantern projection onto this axis.
+It is evident that the expansion of the unit cell is maximum along the b axis, because the angle of the lantern projection onto this axis is minimum (~35.5°).
+The expansion of the unit cell in the structure of the magnesium zirconium phosphate along the a axis is smaller than that along the b axis owing to the larger angle of the  lantern  projection  onto  the  a  axis  (~54.5°).
+An increase in the lantern packing density along the a axis as a result of a decrease in the zigzag angle in the ribbon from 70.96° to 70.76° with an increase in the temperature should lead to a shortening of the bond lengths in the MgO4 tetrahedra (Table 3) and an increase in the parameter b.
+The temperature dependences of the parameters of the monoclinic unit cell in the structure of the magnesium zirconium phosphate were used to calculate the components of the thermal strain tensor [28].
+The thermal expansion coefﬁcients obtained  for  the  phosphate under investigation allow us to assign this phosphate to the class of compounds with a medium expansion.
+The analysis of the results of the reﬁnement of the crystal structure of the Mg0.5Zr2(PO4)3 phosphate at a temperature of 1023 K demonstrates that the structure of the scandium tungstate type is retained at this temperature.
+A decrease in the monoclinic angle β in the unit cell of the phosphate structure with an increase in the temperature, as well as the anisotropy of the thermal expansion,  could  lead  to  a  phase  transition  with  a change in the unit cell symmetry at temperatures above 1023 K rather than at 943 K, as was noted in .
+
+

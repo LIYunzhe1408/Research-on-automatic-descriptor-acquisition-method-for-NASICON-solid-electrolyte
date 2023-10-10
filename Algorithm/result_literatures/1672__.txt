@@ -1,0 +1,114 @@
+NASICON-type structured Li1.5Al0.5Ge1.5(PO4)3–xLi2O Liion-conducting glass–ceramics were successfully prepared fromas-prepared glasses.
+The differential scanning calorimetry, Xraydiffraction, nuclear magnetic resonance, and field emissionscanning electron microscope results reveal that the excess Li2Ois not only incorporated into the crystal lattice of theNASICON-type structure but also exists as a secondary phaseand acts as a nucleating agent to considerably promote the crystallizationof the as-prepared glasses during heat treatment,leading to an improvement in the connection between the glass–ceramic grains and hence a dense microstructure with a uniformgrain size.
+These beneficial effects enhance both the bulk andtotal ionic conductivities at room temperature, which reach and 7.25 S/cm, respectively.
+In addition,the Li1.5Al0.5Ge1.5(PO4)3–0.05Li2O glass–ceramics display favorableelectrochemical stability against lithium metal with anelectrochemical window of about 6 V.
+The high ionic conductivity,good electrochemical stability, and wide electrochemicalwindow of LAGP–0.05LO glass–ceramics suggest that they arepromising solid-state electrolytes for all solid-state lithium batterieswith high power density.
+A solvent-free solid-state lithium secondary battery using asolid electrolyte is suitable for a high-energy, high-voltage,long-life, and large-scale battery from the view point of ultimatesafety.
+ Lithium ion conductors are promising candidates as anelectrolyte for these applications.
+During the last three decades, extensive research has beencarried out on Li analogs of NASICON-type structure that favorhigh ionic conductivity.
+ Aono et al. reported thatLiTi2(PO4)3based materials with NASICON-type structurehad the most suitable tunnel size for Li-ion migration amongthe series of LiM2(PO4)3, M5Ti, Ge, Hf, Sr, etc.
+As is known,the total conductivity (st) of a polycrystalline material at a giventemperature is the sum of bulk (sb) and grain boundaries (sgb).
+In the NASICON-type structured ionic conductors, the st atroom temperature (RT) is mainly controlled by grain boundaries.
+Studies have shown that the sb of LiM2(PO4)3 at RT isover 104 S/cm, while the sgb at RT is more than one order ofmagnitude lower than the sb.
+Among the Li analogs of aNASICON-type structure, the Li11xAlxGe2x(PO4)3 system isof special interest because it is particularly stable against Limetal.
+Compared with the sintered polycrystalline materials, glass–ceramics demonstrate a denser microstructure, less grain boundary effects, and better chemical stability.
+In order to prepareglass–ceramics, it is first necessary to prepare the parent glasses.
+The melting process of phosphate glasses at a temperature up to13501C generally leads to lithium loss due to its evaporation.
+Research on LiMxTi2x(PO4)3–yLi2O (M5Ge, Sn, Hf, and Zr)systems has shown that lithium oxide (Li2O) can act as a flux toaccelerate the sintering process and to obtain high ionic conductivityat grain boundaries.
+This work is concerned with thesynthesis and characterization of glass–ceramics in the systemLi1.5Al0.5Ge1.5(PO4)3–xLi2O (denoted as LAGP–xLO).
+The optimizationof st in this system is of great interest for practicalapplications, and the effect of the amount of excess lithium oxideon the microstructure and electrical properties of the glass–ceramics is systematically investigated.
+The powders were thoroughly mixed by planetary ball millingand then heated in an alumina crucible at 7001C for 2 h.
+Thesynthesized powders were reground and then melted at 13501Cfor 2 h.
+The melts were poured onto preheated stainless-steelplates to form glass flakes.
+The glasses were immediately shiftedto a furnace at 5001C for 2 h for annealing to relieve the thermalstresses, and then cooled naturally.
+Thermal analysis was carried out by differential scanning calorimetry(DSC, Netzsch STA 449C, Waldkraiburg, Germany)for the fine-powdered glass in the temperature range between301 and 10001C at a scan rate of 10/K min.
+Based on the DSCdata, thermal treatment was carried out in two steps.
+In the firstcase, the samples were heated to the temperature between glasstransition temperature (Tg) and crystallization temperature (Tc)for 2 h in order to achieve nucleation.
+In the second case, theglassy samples were heated at a constant temperature, about2001C above Tc for the same duration of 6 h to obtain the glass–ceramics.
+X-ray diffraction patterns (XRD) of the bulk sampleswere obtained with an XRD (Rigaku RAD-C, 12 kW, Tokyo,Japan) using CuKa radiation in the 2y range from 51 to 801 witha step of 0.011. Silicon powder (99.99%) was used as an internalstandard in the determination of the lattice parameters.
+Li staticnuclear magnetic resonance (NMR) measurements were performedat 116.6 MHz on a Bruker DSX-300 spectrometer(Rheinstetten, Germany) operated by a Tecmag interface.
+Forthe RT static spectra measurement, the samples of LAGP andLAGP–0.05LO glass–ceramics powders were enclosed in a4-mm zirconia rotor spinning at a maximum speed of 12 kHz.
+A typical radio frequency pulse of 0.33 ms was used.
+Thecontents of Li, Al, Ge, and P in the specimens were measuredby inductively coupled plasma atomic emission spectrometry(ICP-AES).
+The microstructure of the samples was observed bymeans of field emission scanning electron microscopy (FESEM).
+The ionic conductivities of square pellets (size of glass–ceramics 10 mm10 mm and 1.5 mm in thickness) were measuredin air in the temperature range from RT to 3001C by thecomplex impedance technique using a Solartron 1260 frequencyresponse analyzer .
+Goldfilms sputtered on both sides of the sample were used as blockingelectrodes.
+The chemical stability of the glass–ceramics versuslithium metal was examined by their contact impedance atRT.
+The cyclic voltammetry (CV) was undertaken to obtain theelectrochemical window of the glass–ceramics using a potentiogalvanostat(Solartron 1287) at a scanning rate of 5 mV/s between0.5 and 6 V.
+A stainless-steel plate and a lithium foilwere attached onto both faces of the pellet as working andcounter electrodes, respectively.
+Figure 1 shows the DSC profiles of the air-quenched glasses ofLAGP–xLO at different values of x.
+The glass transition temperatures(Tg) and crystallization temperatures (Tc) were estimatedfor all specimens.
+The exothermic peaks on the profilesresulted from the crystallization of the samples from the glassymatrix, indicating the glassy nature of the as-quenched materials.
+As can be seen, Tc decreases gradually with increasing x,suggesting that the crystallization of the glasses is easier at highervalues of x and indicates that the excess lithia accelerates thecrystallization of the phosphate glass.
+Table I lists the values ofTg, Tc, and TcTg of the glass samples.
+It is clear that the valuesof TcTg are constant with increasing x, indicating that thethermal stability of the glasses against crystallization remainsunchanged.
+In other words, excess Li2O has little influence onthe thermal stability of the glasses in the LAGP–xLO system.
+The XRD patterns of the samples with different excess lithiumcontents are presented in Fig.2.
+ The pattern of the as-preparedglass shows only broad bands, indicating its glassy nature.
+Formation of crystalline material can be clearly seen in the XRDpatterns.
+LAGP-based NASICON-type phases are obtained inthe LAGP–xLO glass–ceramics system, indicating the formationof a solid solution as Al ions replace the Ge41 ions.
+Thepeak intensity of the NASICON-type phase increases with increasingx, indicating that the excess Li2O in the LAGP–xLOglasses makes the crystallization process easier, which is consistentwith the DSC results (Fig.1).
+All the XRD patterns correspondingto the NASICON-type phase are indexed as thehexagonal structure.
+It can also be seen that the peak intensity ofthe Li2O phase increases with increasing x.
+It is clear that a partof the excess Li2O exists in the form of a secondary phase in theLAGP–xLO (x40) glass–ceramics.
+The a, c parameters and cell volume for LAGP–xLO glass–ceramics, determined from the least-squares fit of the (hkl) and2y values, are listed in Table II.
+
+Comparisonof the data reveals a gradual increase in cell volume with increasingx, which is probably caused by the incorporation of apart of the excess lithium into the NASICON-type structure.
+Inorder to prove the incorporation of the lithium, Li powderstatic NMR patterns of the LAGP and LAGP–0.05LO glass–ceramics were measured at 116 MHz as shown in Fig.3. 
+Thefull-width at half-maximum (FWHM) of the central Li transitionas a function of composition was obtained from the spectra.
+As can be seen, the FWHMincreases from 74 to 130 Hz, while xincreases from 0.0 to 0.05. It is well-known that Li central transitionlinewidths are governed mainly by two effects, i.e., thestrength of the dipole–dipole interactions and the lithium ionmobility.
+ The obvious increase in FWHM implies either adecrease of lithium ion mobility, which correlates with the decreaseof conductivity or an increase in the strength of the dipole–dipole interactions (most likely Li–P).
+The latter effect ismost likely the main cause of broadening in the system becauseconductivity is found to increase with increasing x, which will beseen from the subsequent ionic conductivity measurements.
+Theincrease in the strength of the dipole–dipole interactions resultsfrom an increase in the tunnel size for Li-ion migration in theNASICON-type structure, which therefore suggests the incorporationof a part of the excess lithium into the crystal lattice ofthe NASICON-type structure.
+Table II also lists the ICP-AES results of all the samples.
+Itcan be observed that the amount of Al, Ge, and P in the resultsobtained is similar to the calculated values.
+The evaporation oflithium is found to be about 2–5 at.% of the total lithium contentduring the melting and heat-treatment process, especiallyfor the sample with a higher lithium ratio.
+Figure 4 shows the FESEM images of fracture sections forLAGP–xLO glass–ceramics treated at 8001C for 6 h.
+It can beseen that there is a considerable difference in the fracture microstructureamong the four samples.
+As shown in Fig.4(a),obvious pores could be observed.
+Much of the glassy phase remainedand crystalline grains did not form well in the LAGPsample, indicating that the heat-treatment temperature of 8001Cwas not sufficient for the NASICON-type phase to grow well.
+Interesting and considerably changed microstructures were observedin LAGP–xLO (x50.05 and 0.10) glass–ceramics, as shown in Figs.4(b) and (c).
+Small amounts of pores were observedbetween the elongated grains, and fine granular crystallinestructures were formed in the samples with excess Li2O,suggesting that the secondary lithium-containing phase in theLAGP–xLO glasses could act as a nucleating agent and greatlypromote the crystallization of the as-prepared glasses duringheat treatment.
+The results agree with the DSC (Fig.1) andXRD (Fig.2) data.
+As indicated by the microstructure, the LAGP–0.05LO glass–ceramics are very dense, with an averagegrain size of about 200 nm.
+When the ‘‘x’’ increased to 0.20, thegrains grew further andsome cracks could also be observedalong the grain boundary (Fig.4(d)), which consequent resultedin decreased relative density.
+The density of the LAGP–0.05LO glass–ceramics was determined by the Archimedes method withethanol as the immersion medium.
+The relative density of thedisk sample heat treated at 8001C for 6 h is over 98%.
+Theseobservations imply that the amount of excess Li2O should bekept within appropriate limits in order to achieve a good microstructureof the glass–ceramics.
+The variation of RT impedance plots for glass–ceramics withdifferent excess Li2O contents is illustrated in Fig.5(a).
+It can beseen that only one semicircle was observed for all samples.
+For afast ionic conductor with high ionic conductivity (103–105S/cm), when blocking electrodes are used, the semicircle in thehigh frequency (MHz) range due to the bulk impedance willusually be covered by the linear region of the interfacial impedance.
+ The disappearance of the bulk impedance semicircle inthe impedance profile at RT could be ascribed to the very lowresistance of the bulk, which usually responds at very high frequencies.
+The appearance of a low-frequency tail in the case ofionically blocking electrodes is an indication of the ionic natureof the NASICON-type material.
+The total resistance(Rb1Rgb) of the samples is obtained from the right interceptof the semicircle with the real axis in the plots, and the bulkresistance (grain interior, Rb) is obtained from the left interceptof the semicircle with the real axis.
+The value of the grainboundary resistance (Rgb) is therefore the difference between(Rb1Rgb) and Rb.
+It could be seen that both the Rt(Rt5Rb1Rgb) and Rb obviously reduced when ‘‘x’’ increasedfrom 0.0 to 0.05, and then increased gradually with further increaseof x.
+The conducting properties of glass–ceramics with a NASICON-type structure strongly depend on the crystalline phaseand the tunnel size for Li-ion migration.
+The results from XRDand NMR analyses are consistent with an increase in tunnelsize with x from 0.0 to 0.05. This will have an influence on ionmobility and, combined with the increase in Li ion concentration,will considerably influence the bulk Li1 conductivity.
+The variation of Rt in glass–ceramics are closely related to theirmicrostructure.
+Detailed research on the influence of localstructure of glass–ceramics on their electrical properties isunderway.
+Figure 5(b) shows the measured and simulated complex impedancespectra for LAGP–0.05LO glass–ceramics treated at8001C for 6 h.
+The open circles show measured data and thesolid line represents simulated data.
+The impedance spectra ofLAGP–0.05LO glass–ceramics can be modeled on an equivalentcircuit consisting of a single parallel resistance (Rgb)—capacitance(Cgb) contribution.
+A similar behavior has been observedin our previous study.
+The Cgb value was obtainedfrom the AC impedance plots using the relationship oRC51(o52pn; n is the frequency and R is the resistance).
+The magnitude of Cgb was found to be in the order of 108 F.
+This is acharacteristic value for inorganic oxide ion conductors.
+The ionic conductivities for the LAGP–xLO glass–ceramicsare calculated from their total resistance.
+The temperature dependenceof conductivity is shown in Fig.6(a).
+The conductivitydata are all found to be linear and fit the Arrhenius equationwell.
+The results demonstrate that there were no structure orphase changes for all samples in the temperature range studied.
+Both the conductivity at RT and the activation energy (Ea) areshown in Fig.6(b).
+The maximum value of st ismore than four times as large as that of the sintered specimens inthe Li11xAlxGe2x(PO4)3 system.
+The Ea, on the other hand,passes through a minimum value, 0.31 eV, at around x50.05and the compositional dependence of Ea mirrors that of st, indicatingthat changes in st over the composition range x50.0–0.2 are probably due to an increase in grain size and the appearanceof pores and cracks in the intergranular region, whichresult in changes in the Ea.
+Lithium metal is considered to be a promising cathode materialfor all-solid-state lithium batteries, and so the chemical stability of solid electrolyte against lithium metal is imperativefor the electrolyte materials.
+The chemical stability of theLAGP–0.05LO glass–ceramics was evaluated by the impedanceevolution of the interface between lithium metal and the sampleat RT in an Ar-filled glove box.
+As shown in Fig.7, no significantchanges in the impedance plots were observed after 2months, indicating that no obvious interface reaction occurredbetween lithium metal and LAGP–0.05LO glass–ceramics.
+Thissuggests favorable chemical stability of the LAGP–0.05LOglass–ceramics.
+Figure 8 shows the cyclic voltammogram for the LAGP–0.05LO glass–ceramics recorded at RT with a scanning rate of0.5 mV/s.
+Lithium deposition (Li11e-Li) and dissolution(Li-Li11e) are observed in the potential range from 0.5 to0.4 V.
+No other reactions are observed in the potential range upto 6 V versus Li/Li1, indicating a wide electrochemical windowfor LAGP–0.05LO glass–ceramics, which are almost the moststable inorganic solid oxide Li1 ion conductors to date.
+In summary, the influence of excess lithium oxide in samples ofthe NASICON analog Li1.5Al0.5Ge1.5(PO4)3 on the crystallization,microstructure, and ionic conductivity of the derived glass–ceramics was systematically investigated.
+Enhancement of ionicconductivity of the glass–ceramics is observed, including sb andst at RT, reaching values of 1.183 and 7.254 S/cm,respectively.
+The chemical and electrochemical performances ofthe LAGP–0.05LO glass–ceramics against lithium metal are satisfactory,with a stability window as high as 6 V, making themamong the most stable inorganic solid oxide Li1 conductors todate.
+The LAGP–0.05LO glass–ceramics are attractive materialsfor practical application in all–solid-state lithium batteries.

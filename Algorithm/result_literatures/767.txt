@@ -1,0 +1,14 @@
+The structural investigation of the substitutional disorder and position of the very mobileNaþ ions in the crystal structure is the key to understanding the structure-property-chemical bondingrelationships.
+Therefore neutron powder diffraction was carried out at 300 and 100 K on Na3.4Sc2-Si0.4P2.6O12 to refine the structural parameters and to elucidate the Naþ distribution in the crystalstructure.
+The refinement of the structure revealed that two phases are present, one rhombohedral Si-rich phaseand one monoclinic Na3Sc2P3O12 phase.
+The ratio of the two phases is 1:1 and they possess similar lattice parameters.
+The hopping distances of the Naþ ions and the size of the bottleneck for Naþ conduction were calculated and explained the high conductivity of the sample.
+Na3.4Sc2Si0.4P2.6O12 was investigated using neutron diffraction.
+The presence of two phases was detected and the crystal lographicdetails of both phases were refined at 100 K and 300 K.
+The monoclinic and rhombohedral phases have virtually the same latticeparameters (when a monoclinic cell is set up for the rhombohedral phase) and differ only in the orientation of the (P/Si)O4tetrahedra leading to a loss of symmetry in the monoclinic phase.
+In addition, Si was only found to be present in the rhombohedral phase refined as Na3.8Sc2Si0.8P2.2O12 whereas the monoclinic phaseis Na3Sc2P3O12.The high conductivity of this mixed-phase sample could beexplained by the very favourable hopping distances along thedifferent pathways for Naþ conduction.
+Furthermore, the area ofthe smallest triangle of oxygen ions through which the Na ions haveto jump is larger than the values in both single-phase materials thus allowing high conductivity.
+Overall, the mixed-phase sample can be described as a sample with an inhomogeneous distribution of both Si and Na.
+However,this inhomogeneity has little negative impact on the conductivity.
+Therefore it can be concluded that the unit cell volume has a majorinfluence on the motion of the Na ions in the material since the sizeof the bottleneck for the Na conduction directly depends on thelattice parameters.
+A comparison of the crystal structures including literature data confirms that the correlation of the unit cell volume with Na content is less pronounced than the influence of the preparation route and sintering conditions, which turn out to besensitive parameters for the optimization of materials with highionic conductivity.

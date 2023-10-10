@@ -1,0 +1,41 @@
+The first example of a unidimensional zirconium hydroxide fluoride was synthesized under mild solvothermal treatment andcharacterized by X-ray diffraction and thermal techniques.
+Monoprotonated ethylenediamine cations reside between the anionic chains.
+The material transforms to an unknown layered material at 175 1C, a common occurrence for 1D structures where the chains arearranged in hydrogen-bonded layers and separated by inter layer organoammoniums.
+Collapse to the known condensed mineral phaseZr(FO)2.7 occurs at ca.275 1C before finally transforming to the baddeleyite form of ZrO2 at ca.460 1C.
+Organic amines have long been used as structuredirectingagents in the solvothermal synthesis of extendedmaterials.
+
+Due to the similarities in X-ray scattering and bonddistances for F and OH, however, elemental analysis was performed to determine the sample’s fluoride content.
+The%F was determined to be 23.30%, which is nearly identicalto the theoretical value of 23.42% for the proposedstructure.
+Only twopeaks were observed, consistent with a structure thatpossesses two F atoms in equivalent axial positions and athird F atom in the base of the pentagon.
+
+Significant interchain hydrogen bonding interactionsoccur among the H atoms on the hydroxide groups andfluoride groups on neighboring chains (Table 3).
+Thechains are charge-balanced by monoprotonated ethylenediaminecations that reside in the interchain voids (Fig.3b).
+The cations are disordered with respect to the location ofthe amine group.
+Attempts to characterize the degree oftemplate protonation by 13C solid-state NMR were unsuccessful due to severe peak broadening by thestructural fluorine atoms, making it impossible to obtainsuch information from these spectra.
+Bond valence sumcalculation of the hydroxide groups on the zirconiums,however, support a monoprotonated form, as does theformula of the compound.
+
+Based on our observed structure, it is likely the inorganicconnectivity was limited to one dimension by the presenceof terminal fluoride groups at both the axial and oneequatorial position.
+
+For thepresent compound, HBF4 acted as fluoride source, and in fact the structure could also be synthesized using anequimolar amount of HF (48wt% aqueous) as fluoridesource.
+It is possible that higher dimensional materials maybe possible by introducing a bridging group in some or allof these coordination positions.
+
+Thermogravimetric analysis further supports the structuralinformation obtained by XRD.
+The trace (Fig.5)displays several thermal events.
+Physisorbed water is likelyresponsible for the weight loss up to ca.160 1C, while themass loss of 14.6% from 160 1C through 200 1Ccorresponds to the loss of ca.
+one-third of the template molecules and water from the condensation of the bridginghydroxide groups (theoretical: 15.3%).
+
+In addition, theweight loss plateaus in this region, also implying a stableintermediate.
+The crystallinity was unfortunately too lowto determine the structure of this phase, even when thesample was slowly heated to this plateau region.
+Note,however, that the material is still open, with the (00l) peaksshifted to only slightly higher angle (Fig.2b).
+The next mass loss beginning at 250 1C results fromdecomposition of the remaining organic constituents andloss of some fluoride.
+In agreement, the PXRD pattern forthe bulk material heated to 400 1C (Fig.2c) displays nopeak below 201 (2y) and matches the pattern for thecondensed mineral phase Zr(FO)2.7 .
+The observed 19.2% mass loss from this step agreeswell with the expected loss of 19.7%.
+The transition resultsin a stoichiometric increase in oxygen, likely from theimpure house nitrogen used as flow gas.
+This increase is notespecially surprising due to the excellent oxygen-scavengingability of zirconium .
+The final transition is to thebaddeleyite form of ZrO2,with TGA confirming the loss of the remaining fluoride(experimental weight loss: 6.5%; theoretical: 6.6%).
+In summary, a zirconium hydroxyfluoride chain structurehas been synthesized from an alkoxide precursor.
+Initial attempts to use other organic mono- and di-aminesin place of ethylenediamine have yet to yield any novelstructures.
+Instead, poorly crystalline ZrO2 has thus farbeen the sole product.
+The present structure represents oneof a small class of low dimensionality zirconium-basedmaterials, and is the first 1D zirconium hydroxyfluoridechain.
+Thermal data indicate transformation to anunknown layered structure, followed by collapse to acondensed mineral phase.
+Open 1D materials may thereforebe a pathway to new 2D and 3D materials.

@@ -1,0 +1,58 @@
+The objective of the present study is to investigate the effect of sintering temperature on the structural, electrical and electrochemical propertiesof novel Mg0.5Si2 (PO4) 3 NASICON structured compound prepared via sol gel method.
+
+X-ray diffraction was used to study the structuralproperties such as crystalline phase and lattice parameters of the solid electrolytes.
+
+Electrical properties of the compound were measured usingimpedance spectroscopy while the electrochemical stability was investigated by linear sweep voltammetry.
+
+All the sintering temperatures yieldedcompounds consisted of monoclinic crystalline phase with a space group of P1 21/c1. Lattice parameters for Mg0.5Si2 (PO4) 3 samples increasedfrom the sintering temperature at 700–800 1C but decreased for sintering temperature at 900 1C.
+
+The sample sintered at 800 1C showed thehighest total conductivity of 1.83  105 S cm1 and the highest value of ions mobility, m of 6.17  1010 cm2 V1 s1 which was attributed tothe optimum size of migration channel indicated by its unit cell volume.
+
+ Linear sweep voltammetry result showed that the Mg0.5Si2 (PO4)3powder was electrochemically stable up to 3.21 V.
+
+Li-ion batteries have received a large amount of attentiondue to their attractive properties such as high energy density,no memory effect and long life cycle.
+
+The batteries areextensively used in various electronic products, such as laptopcomputers, cellular phones and electric vehicles.
+
+However, thistype of batteries was reported to suffer from a safety aspect andrequire protection from being overcharged or discharged toofar [1].
+
+Magnesium batteries, on the other hand, can be easilysynthesized and are thermodynamically stable.
+
+Furthermore,from the electrochemical point of view, magnesium batterieshave a working voltage around 1.0–1.2 V and can reach anenergy density around 80 W h kg1.Their full depth ofdischarge is up to 1000 cycles at a wide temperature rangemaking them possible candidates for new battery systems [2].
+
+NASICON (Natrium Super Ionic Conductor) compoundsare interesting candidates to be used in the development ofsolid electrolytes for ionic batteries.
+
+The compounds showhigh ionic conductivity, large enough interstitial void to uptakeguest species and high structural stability based on 3D framework.
+
+Many researchers explored the capability of thenasicon structured compounds to be used as electrolytematerials.
+
+ It started with the introduction of Nasicon compound, NaZr2(PO4)3 by Hong and Goodenough in 1976 [5].
+
+The maximum conductivity observed the Na3ZrSnSi2PO12compound was 2.85  103 S cm1 at room temperature.
+
+Then, the Nasicon compound was improvised by introductionof lithium analogous NASICON with a general formula ofLiZr2(PO4)3.The highest conductivity observed for this type ofcompounds was 3.00  103 S cm1 at room temperature forthe Li1.3Al0.3Ti1.7(PO4)3 compound [6].
+
+Only a limited number of research on the use of magnesiumin the structure of NASICON compounds has been reported inthe literature.
+
+ Makino et al.successfully synthesized magnesium electrode using NASICON type, Mg0.5Ti2(PO4)3 parentcompound and modified compounds of Mg0.5þy(FeyTi1-y)2(PO4)3 and Mg0.5þy(CryTi1-y)2(PO4)3] [7].
+
+The onlyresearch that discovered the capability of Mg2þ ion conducting Nasicon compound solid electrolytes was done by ourgroup [8].
+
+ However, the studied Mg0.5Zr2 (PO4) 3 NASICONskeleton was too large for the Mg2þ to migrate resulting inlow conductivity.
+
+A suitable tunnel size for Mg2þ migration isexpected to be obtained by reducing the lattice size of theNASICON type structure by substitution of Zr (0.72 Å) with Si(0.41 Å).
+
+The research on the NASICON compound developedusing silicon element, Mg0.5Si2 (PO4) 3, has never beenreported yet in the literature.
+
+The focus of the study was to investigate the effect ofsintering temperature on the structural, electrical andelectrochemical properties of Mg0.5Si2 (PO4) 3 compound.
+
+The characteristics such as thermal, structural, electrical andelectrochemical properties of the Mg0.5Si2 (PO4) 3 wereinvestigated using differential scanning calorimetry (DSC),X-ray diffraction (XRD), Fourier transform infrared (FTIR),differential scanning calorimetry (DSC), scanning electronmicroscopy (SEM), energy dispersive X-ray (EDX), impedance spectroscopy (IS) and magnesium transference numbermeasurement and linear sweep Voltammetry (LSV).
+
+The pure Mg0.5Si2 (PO4) 3 samples were successfullyobtained by the sol gel method with sintering temperaturesin 700, 800 and 900 1C.
+
+The characteristics of the sampleswere influenced by the sintering temperatures.
+
+However, it wasfound that the temperature of 800 1C yielded a sample withoptimum lattice size for ion migration leading to highestconductivity.
+
+ The Mg0.5Si2 (PO4) 3 ceramic sample alsoshowed a wide, stable voltage window up to 3.21 V at ambienttemperature.
+

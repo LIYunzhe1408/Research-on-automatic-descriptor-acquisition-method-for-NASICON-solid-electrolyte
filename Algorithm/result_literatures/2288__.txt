@@ -1,0 +1,81 @@
+We  have  deposited  NASICON  (MI  Superlonic  CONductor)  films  of  thicknesses  ranging  from  100 to  600 nm,  by  Pulsed  Laser  Deposition  (PLD),  on  SiO,/Si  substrates.  The  deposition  rates  varied  from  6 X  10e3  to  0.08  nm/pulse  depending  on  the  conditions  employed.  XPS  measurements  show  that  all  elements  are  transferred  from  the  target  to the  substrate  and  that  is  very  close  to  that  of  the  target.  Film  morphology  depends  upon  the  laser  energy  density  at the  the  thin  film  composition  target.  Films  deposited  at  about  2  J/cm2  show  a  rough  surface  and  a  columnar  structure.  At  lower  energy  density  (400  a  smoother  surface  is  obtained.  Electrical  measurements  show  good  ionic  conductivity,  and  that  the  films  are  mJ/cm’),  suitable  for  the  fabrication 
+
+of  electrochemical 
+
+In  the  last  few  years  there  has  been  an  increasing  in  the  development  of  solid  state  sensors  interest  [ 1,2].  Among  cells  based  these  are  electrochemical  such  as  NASICON  ionic  conductors,  on  advanced  for  the  detection  of  (Na  Superlonic  CONductor),  is  a  ceramic  formed  by  a  solid  gases  [3].  NASICON  of  aver solution  of  NaZr,(PO,),  age  composition  Na,+XZr,Si,P,_XO,,,  where  x  varies  between  0  and  3.  Conductivity  depends  on  the  for  x =  2.2.  Until  re value  of  x,  and  is  maximal  cently,  all  electrochemical  gas  sensors  using  solid 
+
+and  Na,Zr,(SiO,), 
+
+Two  different  deposition 
+
+systems  were  used  for  the  experiments  presented  here.  Both  of  them  use  an  excimer  laser  working  at  248  nm.  In  both  systems,  the  optical  beam  coming  from  the  excimer  laser  is  focused  at  an  angle  of  45”  to  the  surface  of  the  target.  In  the  first  system  (PLD  system  1)  the  beam  was  focused  on  a  1 X 3  mm  rectangle  with  an  aver age  power  of  about  2  J/cm’  and  a  pulse  repetition  rate  of  5 Hz.  The  target  was  rotated  at  10 rpm  during  deposition.  The  substrate  faced  the  target.  The  dis tance  between  the  target  and  the  substrate  was  kept  constant,  at  4  cm.  The  sample  temperature  was  var ied  between  and  500°C.  In  the  second  system  (PLD  system  2)  the  beam  was  fo cused  on  a 2  mm*  ellipse  and  the  energy  density  was  varied  by  attenuating  laser  beam.  The  rate  was  either  12,  30,  or  60  Hz  laser  repetition  during  experiments.  The  distance  was  varied  from  5.5  to  10.5  cm,  and  samples  were  kept  at  room  temperature.  In  all  cases,  the  deposition  chamber  was  first  evacuated  to  a  pressure  of  10e6  mbar.  The  deposition  proceeds  either  in  vacuum  or  after  filling  the  chamber  with  oxygen  to  the  desired  operating  pressure  (0.03  to  0.3  mbar). 
+
+Using  PLD  system  1, films  with  thicknesses  rang in  about  20 
+
+ing  from  400  to  600  nm  were  obtained 
+
+Fig.  I.  Top  view  (a)  and  side  view  (b)  of  a  NASICON  thin film  deposited  by  PLD  (energy  density  =  2  J/cm’,  distance  =  4  cm,  0,  pressure  =  0.3  mbar). 
+
+the  substrate 
+
+to  an  average  deposition 
+
+temperature  was  changed 
+
+min.  corresponding  rate  of  0.08  nm/pulse.  The  morphology  of  these  films  were  studied  by  scanning  electron  microscopy  (SEMI.  Top  and  side  view  SEM  micrographs  of  a  typical  sample  are  shown  in  Fig.  l(a)  and  l(b).  The  surface  has  a  rough  appearance,  with  some  particles  on  it.  No  in  the  morphology  was  observed  notable  difference  when  from  to  500°C  during  film  growth.  In  room  temperature  Fig.  l(b),  the  structure  may  be  seen  to  be  columnar.  The  dependence  of  the  deposition  rate  on  the  laser  energy  density  and  on  the  target-to-sample  distance  was  also  studied.  Films  were  deposited  using  PLD  system  2.  Figs.  2  and  3  show  this  dependence  for  films  deposited  in  0.04  mbar  of  oxygen  respectively.  As  may  be  seen,  the  deposition  rates  are  lower  than  those  obtained  on  PLD  xystem  1,  where  energy  density  was  much  higher,  ranging  now  from  6  x  10-j  Fig.  4  shows  a 
+
+in  vacuum  and 
+
+R. Izquierdo et al./Applied  Surface Science 96-98  (1996)  855-858 
+
+Energy  density 
+
+Fig.  2.  Dependence  of  the  deposition  density  at  the  target  (substrate-target  =  10m6  mbar). 
+
+rate  on  the  laser  energy  distance  =  7.5  cm,  pressure 
+
+9  distance 
+
+Fig.  3. Dependence  of  the  deposition  rate  on  the  substrate  to target  distance  pressure  =  0.04  mbar). 
+
+(energy  density  =  700  mJ/cm*, 
+
+Binding  Energy  @VI 
+
+Fig.  5.  XPS  spectra  of  the  NASICON  target  and  a  deposited  film  (film  deposited  density  =  2  J/cm2,  substrate-target 
+
+distance  =  4  cm,  0,  pressure  =  0.3  mbar). 
+
+in  system 
+
+I,  energy 
+
+SEM  micrograph  of  a  NASICON  film  deposited  at  low  energy  density  (400  mJ/cm2).  The  film  surface  is  much  smoother  than  for  the  high  energy  density  deposition  there  are  far  fewer  particles  on  the  surface. 
+
+for  system  1  and 
+
+Compositions  of  the  target  and  of  the  deposited  films  were  measured  by  X-ray  photoelectron  spec troscopy  (XPS).  Measurements  were  performed  on  a  VG  ESCALAB  Mkll  system  using  non-monochro matized  Mg  K,  radiation  (1253.6  eV>. Fig.  5  shows  the  XPS  spectra  of:  (a)  the  NASICON  target  and  (b>  a NASICON  thin  film  deposited  in  system  1 (similar  results  were  obtained  for  films  deposited  in  system  2).  The  similarity  between  the  two  spectra  shows  that  all  the  elements  present  in  the  target  are  transferred  to  the  substrate.  In  Table  1 we  can  see  that  not  only  transferred  from  target  to  film,  are  all  the  elements  but  that  the  ratios  between  to  within  one  or  two  percent.  No  major  variation  of 
+
+them  are  conserved 
+
+Table  1  Compositions  of  the  target  and  the  deposited  NASICON  film  Element 
+
+Target  composition  (at.  %J 
+
+Film  composition  (at.  %) 
+
+Fig.  4.  Top  view  of  a  NASICON  film  deposited  at  low  energy  density  (energy  density  =  400  mJ/cm*,  distance  =  7.5  cm,  pressure  =  1K6  mbar). 
+
+R.  Izquierdo  et al./Applied  Surface  Science  96-98  (1996)  855-858 
+
+the  target  properties  can  be  reproduced  posited  NASICON 
+
+thin  films. 
+
+in  the  de
+
+4.  Conclusion 
+
+NASICON  thin  films  having  good  properties  for  use  in  electrochemical  gas  sensors  can  be  fabricated  by  PLD  under  various  conditions.  The  target  compo to  the  deposited  films.  The  depo sition  is  transferred  sition  rate  and  surface  morphology  are  dependent  upon  the  laser  energy  density  at  the  target  surface.  thin  films  are  ionic  conductors,  and  The  NASICON  to  be  0.5  eV  in  the  activation  energy  was  measured  agreement  with  values  measured  in  the  bulk.  The  integration  of  such  films  for  the  fabrication  of  gas  sensors  is  in  progress. 
+
+

@@ -1,0 +1,41 @@
+Ionic conductivity and phase transitions of lithium-zirconium phosphates, Li1±XZr2-XMX(PO4)3 (M = Ta, Nb, Y, Sc, In), with NASICON structure were studied using X-ray powderdiffraction, calorimetry, 31P and 7Li NMR and impedance spectroscopy.
+Triclinic-rhombohedralphase transition in these materials occurs in a wide temperature range at coexistence of both phases.
+Unusual change of LiZr2(PO4)3 lattice parameters with temperature increase was found.
+Duringheating of this compound parameter “a” significantly decreases.
+The presence of small clusters with different degree of lithium ion ordering, and with differentstructure, respectively, in LiZr2(PO4)3 leads more likely to the coexistence of two phases in a widetemperature range.
+A displacement of one ion from position characteristic to the triclinic phase withordered arrangement of ions facilitates analogical move of other ions from its surrounding.
+Therefore in LiZr2(PO4)3 structure the clusters with mobile lithium ions are formed.
+Thesurrounding of the latest ones forms the structure of rhombohedral phase.
+This situation is similar to the formation of domain structure in ferromagnetic.
+The higher content of rhombohedral phase atlow temperatures in samples containing an impurity of zirconium pyrophosphate strengthens ourassumption.
+In this case a sorption of lithium ions on ZrP2O7/LiZr2(PO4)3 interface leads to theformation of lithium vacancies in a thin layer of LiZr2(PO4)3 near the phase boundary and of clusterswith rhombohedral structure.
+Similar results were obtained with the help of NMR 31P in .
+However, the presence of rhombohedral phase even at low temperatures was not remarked despitethe fact that intensity of 24ppm line at room temperature is slightly overstated.
+It should be noted that during phase transition the original lines of triclinic phase in 31P NMRspectra split into two lines.
+On the base of available data we cannot unambiguously determine thecause of this splitting.
+However, we can suppose that the components with the smaller chemicalshifts correspond to the phosphorus atoms in triclinic phase, which is in the neighborhood ofrhombohedral phase.
+The fact that the lines with the smaller chemical shifts become more intensivewith decrease in triclinic phase content supports in particular our supposition.
+
+However, they shift slightly in the low-temperature range for materials doped by 1% of heterovalentelement (Fig.5c,d).
+For materials in which 5% zirconium atoms are substituted for tantalum oryttrium the temperature range of phase transition stretches for about 100 K (Fig.5e,f).
+In any case,doping by yttrium ions results in the shift of phase transition temperature by 5–10 K more than fortantalum-doped materials.
+
+The ratio of their integrated intensities coincides with the ratio of amount oftriclinic and rhombohedral phases estimated from 31P spectra.
+Thus, 7Li MAS NMR spectra supportthe conclusion about “smooth” phase transition in LiZr2(PO4)3. Temperature increasing leads to thenarrowing of spectrum.
+The line width decreases gradually from 0.50 to 0.33 ppm.
+Moreover, onspectra obtained at higher temperatures one extra line appears at –1.45 ppm (Fig.
+5e).
+The first one is caused by the lithium ions of rhombohedral phase.
+The position of thesecond line coincides with the shift of the additional line.
+It should be noted that in NASICONstructure there are several positions of lithium ions.
+In all papers only a part of lithium ions can belocalized in the main position (Li1).
+In triclinic phase Catti M.et al.localized lithium ions inanother structural position (Li2).
+At the same time, 72% lithium ions in the rhombohedral phase arenot localized at all.
+On this basis we can assume that this additional line at –1.45 ppm is determinedby lithium ions in position Li2.DSC-analysis data confirm the presence of the hysteresis loop detected with other techniques.
+Peaks on calorimetric curves obtained during heating and cooling treatments are shifted relative toeach other on 10–12 K.
+At the same time doping LiZr2(PO4)3 by threevalent elements results in thegreater decrease of the phase transition temperature.
+Another interesting feature of these compounds is unusual dependence of LiZr2(PO4)3 latticeparameters on temperature.
+During heating LiZr2(PO4)3 parameter “c” of rhombohedral phaseincreases from 22.125±0.003 A at 443 K to 22.392±0.006 A at 873 K (Fig.6a).
+At the same timeparameter “a” decreases significantly with temperature from 8.863±0.0009 A to 8.828±0.001 A(Fig.6b).
+This is evidenced in particular by a shift of reflexes 104 (2Θ≈19.7) and 110 (2Θ≈20.1) indifferent directions with temperature increasing (Fig.1 c-i).
+It should be noted that low coefficientsof thermal expansion are characteristic for a series of materials with NASICON structure.

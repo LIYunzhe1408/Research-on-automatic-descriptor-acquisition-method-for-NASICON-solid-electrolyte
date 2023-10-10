@@ -1,0 +1,147 @@
+Thin films of various compositions in the Na2O–SiO2–P2O5–ZrO2 system were deposited in glassy form by reactive magnetron sputtering.
+An analysis by spectrophotometry showed an increase of the extinction coefficient (k) with the amount of Fe contamination.
+This contamination, originating from parasitic plasmas, was suppressed when convenient protections were used.
+Therefore, it was possible to produce optical clear films.
+A structural study by X-ray diffraction and Raman spectroscopy proved a reorganization in the amorphous state at low temperature and the appearance of a NASICON structure around 750 °C.
+The ionic conductivity, measured by impedance spectroscopy, and the optical properties were strongly affected by the thermal annealing process.
+The reorganization in the amorphous state and strong modifications of the ionic conductivity values and the refractive index (n) appeared in the same range of temperatures.
+This suggested a strong correlation between these different phenomena.
+Sodium (Na) SuperIonic CONductors (NASICON) are interesting candidates for applications in solid state electrochemistry where fast ionic conductivity is required.
+Indeed, bulk NASICON with Na1 stoichiometry presents Na+ conductivity close to at room temperature for x= 2, comparable to that of the best polymeric gels.
+Moreover this compound presents high chemical durability versus molten sodium and sulphur.
+Hence, this material can be used as electrolyte for application in the field of gas sensors, ion selective membranes or Na–S batteries.
+The interest in thin films increases due to the possibility of miniaturization and of a possible reduction of the electrolyte resistance.
+Although fast sodium transport in such compounds has been reported in 1976 by Hong and Goodenough only few contributions deal with NASICON coatings.
+Recently it was shown that the classical sputtering methods are unsuitable to deposit these compounds .
+A new way was proposed to deposit NASICON thin films with high physical and chemical quality.
+In the present work, glassy coatings of different compositions were prepared in the Na2O–SiO2–P2O5–ZrO2 system.
+The effect of the composition of the films on the optical and structural properties was studied by X-ray diffraction (XRD) and spectrophotometry.
+Moreover, the evolutions of the electrical, optical and structural properties during the annealing process were investigated and correlations between them are discussed.
+Thin films belonging to the Na2O–ZrO2–SiO2–P2O5 system were sputter-deposited on silicon, nickel and glass substrates.
+In order to adjust easily the chemical composition of the films, their constitutive elements were deposited from two targets.
+The reactive constitutive elements (Na, P) with regards to ambient air were combined within a ceramic Na3PO4 target obtained by cold pressing Na3PO4 powders at 2.5.108 Pa.
+The second target was a Zr0.52Si0.48 disc obtained from a powder mixture of Zr and Si hot pressed at 1000 °C under argon for 5 h at 2.5.107 Pa.
+Thin films were prepared from two targets in the presence of a reactive argon–oxygen mixture.
+The targets were powered by Advanced Energy generators (DC supply equipped with a 20 kHz Spark-le unit for the Zr–Si target and Pinnacle+ with discharge frequencies ranging from 0 to 350 kHz by steps of 5 kHz for the Na3PO4 target).
+The intensity on each target was set to 0.7 A.
+It was shown in a previous paper that this method allows to overcome the problems of the chemical heterogeneities and of the poor physical quality of the films RF sputter-deposited from NASICON targets .
+The experimental device was a 40 liter sputtering chamber, pumped down via a mechanical pump and a turbo-molecular pump, allowing a base vacuum of 10− 4 Pa, equipped with two magnetron systems separated by 120 mm from each other (Fig.1a).
+The targets were 50 mm in diameter.
+The distances between the ceramic target and the substrate-holder d1 and between the Zr–Si target and the substrate-holder d2 can be adjusted.
+The substrates were placed on a rotating substrates-holder parallel to the targets surfaces at a distance r = 60 mm from the substrates-holder axis, i.e.on the circumference next to the magnetrons axis.
+The argon and oxygen flow rates were controlled with MKS flowmeters and were set to 20 sccm and 5 sccm, respectively.
+The total pressure was measured using a MKS Baratron absolute gauge.
+The deposition rates varied from 100 to 150 nm/h and the deposition duration was set to 10 h.
+The particular polarisation mode of the Na3PO4 target dissipated a part of the power injected on theFig.2. 
+Typical optical transmittance curves for a film deposited in the Na2O–ZrO2– SiO2–P2O5 system in the cases of a contamination and without contamination.
+suppressor screen and the alimentation tubes of the magnetron systems (Fig.1b).
+Therefore, parasitic plasmas were ignited and induced a contamination of the films.
+Hence, small amounts of contaminants were detected in the deposited coatings.
+Convenient protections (Fig.1b) allowed the suppression of the parasitic plasmas and consequently the contaminations.
+The morphology and the chemical composition of the coatings were observed with a Philips XL30.S field emission scanning electron microscope and determined by EDS (energy dispersive spectroscopy) measurements with the same apparatus, respectively.
+The composition of the films deposited on nickel substrates was measured after comparison with a bulk NASICON reference (x = 2), the collection time was 100 s and the operating voltage was 14 kV.
+The structure of the films was studied by grazing incidence (4°) X-ray diffraction (XRD) using Co Kα radiation.
+The deposition rates were deduced from thickness measurements using the step method with a Talisurf profilometer allowing an accuracy of ±20 nm.
+The optical measurements of the films deposited on glass substrates were performed using a Varian Cary 5000 UV– visible-NIR spectrometer.
+The typical transmittance curves for the contaminated and contamination-free films are given in Fig.2. 
+The dependence of the refractive index n and extinction coefficient k on the wavelength in the visible range can be extracted on the basis of a model described elsewhere.
+For the structural and ionic conductivity studies, sputtered boron carbonitride layers were systematically deposited on the permeable side(s) of the sodium conductor in order to prevent the sodium extraction during the annealing process.
+A solartron 1260 frequency response analyzer coupled with the coplanar method (Fig.3) the ionic conductivity electrical characteristics of coatings.
+The frequency ranged from 10 MHz to 2 Hz with steps of 11 points per decade.
+Rectangular 12 ⁎ 2 mm and 100 nm-thick Pt electrodes were sputter-deposited on the film surface.
+The spacing between the two electrodes was 2 mm and no boron carbonitride was deposited were Pt covers the ionic conductor (see Fig.3).
+The chemical composition of the deposited films is reported in Table 1. 
+It is worth noting that the use of an experimental setup with the additional suppressor screen avoids the film contamination by Fe and F atoms.
+Without this screen few atomic percents of iron and fluor are noticed into P1, P2, P3 and P4 samples.
+The film chemical composition is plotted on the ternary Na2O–ZrO2–(SiO2)–P2O5 diagram (Fig.4) which also includes as a guideline the points relative to Na1 + xZr2SixP3–xO12 with 0≤ x≤ 3. Uncontaminated films exhibit a chemical composition very close to Na1 + xZr2SixP3–xO12.3.1. Structural characteristics
+Without heating of the substrate and when the draw distance is higher than 3 or 4 cm, the substrate temperature is lower than 100 °C in a magnetron sputtering experiment.
+Therefore, the mobility of sputtered atoms at the surface of the film is low.
+According to their complex stoichiometry, the films asdeposited in this study are amorphous.
+Fig.5a and b show the evolutions of the XRD diffractograms and of the Raman spectra at low wavenumber for the sample F1 after annealing at low temperatures.
+A shift of the maximum of the modulation of the XRD signal, observed after annealing at 500 °C, is attributed to an increase of the mean distance between first neighbors.
+After the annealing process, a weakening of the diffusion wing is observed on the Raman spectra.
+This effect is moderate between room temperature and 300 °C and very strong between 300 and 500 °C.
+This phenomenon is significant of an ordering of the amorphous phase .
+Additionally, the position of the silicate contribution (500–600 cm− 1)  evolves with the annealing process.
+These observations suggest a structural reorganization at low temperature in the glassy state.
+It is known that the environment of the Na+ ions in NASICON compounds isTable 1 Deposition parameters and composition of the deposited filmsFig.4. 
+Representation of the deposited films in the Na2O–ZrO2–(SiO2)–P2O5 diagram.
+strongly affected by the transition from the crystalline to the glassy state .
+Nevertheless, to the best of our knowledge, there is no information in the literature concerning the details for a modification in the amorphous state.
+It is worth noting that the sputtering process promotes the deposition of out of equilibrium coatings.
+Therefore, the glassy NASICON films (NASIGLAS) produced in this study can present a local organization completely different than that of usual bulk NASIGLAS.
+The main interest of NASICON compounds is their high Na+ ionic conductivity in a wide range of chemical compositions around Na3Zr2Si2PO12, either in crystalline or in amorphous forms.
+Hence, the Na+ mobility is sufficient to allow its extraction from the coating during the annealing process.
+In order this phenomenon, a 100 nm-thick BxCyNz protective layer was sputter-deposited on the coating.
+Fig.6 shows the evolution of Na/Si with the annealing temperature for different compositions, with or without a protective layer.
+Without protection, a strong decrease of the Na content is observed above 500 °C for all studied compositions of the film.
+For the richest film (around x = 2) a slight Na depletion is also observed between the room temperature and 500 °C.
+We can assume that it is due to the high conductivity of this compound.
+For the same composition, the loss of Na was avoided up toProtectionF contaminationFe contaminationAtomic ratioAtomic ratio/ YES – NP YES YES NO NO NO YES – GNP = Not Perfect, G = Glass protection only.
+The chemical compositions were obtained by EDS measurements, the accuracy is in the order of ±5 relative percents.
+
+This result points out the existence of a structure very close to that of crystalline Na3Zr2Si2PO12 outside the stoichiometric line (0≤ x≤ 3) of NASICON compounds (see Fig.4).
+Nevertheless, peaks associated with the presence of Na2SiO4 traces can be detected on most patterns.
+The evolution of n and k in the visible range for the coatings as-deposited on glass slides is reported on Fig.9. 
+The highest values for k are observed for the samples P1 to P4 which reveals that the combined F and Fe contaminations induce a loss of transparency, resulting in a shift of the absorption edge towards the high values of wavelength (see also Fig.2).
+This is significant of a decrease of the optical band gap energy.
+For the sample P4 the value of k remains quite low in the whole visible range.
+Since the contents of Fe and F are respectively low and high for this sample, this result highlights a predominant influence of the Fe contamination on the decrease of transparency.
+The refractive index n is raised up whatever the type of contamination.
+The thermal evolution of n (at 550 nm)from room temperature to 500 °C is reported on Fig.10.
+ All the films present a similar evolution: n is fairly stable from the room
+Moreover, we observed that short incursions at 900 °C are possible without modification of the composition.
+For this reason, the annealing was performed by introducing the coating for 30 min in the oven maintained at a given temperature.
+As it can be observed on the XRD patterns of Fig.7 the crystallization of the F1 film is effective above 750 °C.
+This result is consistent with our previous study where a well defined structure was observed for a film with x = 2 annealed for 2 h at 700 °C.
+This represents a low crystallization yield compared to that close to 1000 °C for the bulk NASICON .
+After annealing at 900 °C, the X-ray diffractograms (Fig.8) of Fig.6. 
+Evolution of the sodium content with the annealing temperature for different initial compositions and influence of the BxCyNz protective layer for a coating close to x = 2. 
+
+Nevertheless, it is conformable with a structural change associated to a volume expansion.
+This is in accordance with the XRD results.
+The ionic conductivity of sample F3 was measured at different temperatures in order to investigate the influence of the structural reorganization.
+The sample was heated at 387 °C, cooled at room temperature, heated at 627 °C and finally cooled at room temperature.
+The Nyquist plots are reported on Fig.11 for 115 °C and 180 °C.
+Although XRD indicates that the film is amorphous in this temperature range, three distinct contributions can be observed.
+By taking into account that the path of the ions from their equilibrium position depends on the polarization frequency, it is reasonable to assume that different mechanisms of conduction are involved depending on the physical scale considered.
+The experimental curves were fit with the equivalent circuit presented on Fig.11a.
+The extracted values of the capacity are close to Fig.9. 
+temperature to 400 °C and increases sharply above this temperature.
+The optical transmittance of the glass substrate is constant and close to 91% for the considered temperature range.
+Therefore, a modification in the refractive index value could originate from structural and(or) chemical and(or) morphological modifications of the film.
+In order to avoid a perturbation of the transmittance curves, the optical analysis was performed without BxCyNz layer.
+Therefore, it is difficult to differentiate the influence of the sodium extraction during the annealing process from the effect of a structural evolution.
+Moreover, we observed the formation of compressive cracks in the film at annealing between 400 °C and 500 °C.
+These defectsFig.10. 
+Influence of the annealing temperature on the refractive index of the films.
+Numbers associated with data points indicate frequencies equal to given powers of 10 when expressed in Hz.
+Equivalent circuit used for fitting data is given as insert in Fig.11a.
+Continuous lines correspond to the fitting curves.
+In Fig.12a are plotted the available data for the first and second contributions.
+For both cases, the same trend is observed: the conductivity is stable from room temperature to almost 130 °C and then increases sharply.
+A comparison of the heating and cooling curves shows that the first contribution is not affected by the cycling.
+Furthermore, after a stronger heating at 627 °C, the conductivity at room temperature has not changed.
+The case of the second contribution is different since it becomes undetectable during the first cooling probably due to the strong evolution of the third contribution.
+The edge on the curves near 130 °C could be explained by water desorption from the surface or by a structural change.
+The evolution of the third contribution is reported on Fig.12b.
+A knee is also observed near 130 °C but less pronounced than for the first and second contributions.
+Here, the influence of the annealing is clear since, during the first heating, a decrease of the conductivity is observed between 290 °C and 387 °C.
+This treatment irreversibly modifies the behavior at this scale and the following cooling and heating are associated with different paths.
+These are characterized by a strong reversible knee near 250 °C.
+hypothesis seems too prevail on the possibility of an influence of water desorption.
+Moreover, it is important to note that the protective BxCyNz layers should limit the absorption of water on the ionic conductor.
+Hence, we assume that the small distortions of the elementary constitutive elements of the amorphous alloy explain the knee on the different curves.
+The inset of the conductivity drop at 387 °C for the third contribution is certainly related to the reorganization shown by XRD and Raman spectroscopy.
+We can reasonably assume that the glass transition temperature Tg for this coating is close to 390 °C.
+The presence of several contributions could be explained by high ionic conductivities at low scale supplying a slower motion at macroscopic scale.
+The values of conductivity measured with the third contribution at room temperature after the first and second cooling are 2 × 10− 3 and 2 × 7.10− 3 S cm− 1 respectively.
+These are consistent with those expected for a bulk crystalline NASICON.
+Thin films were reactively co-sputtered in the Na2O–ZrO2– SiO2–P2O5 system from a metallic Zr–Si and a ceramic Na3PO4 target.
+The supplying of the ceramic target involves the ignition of parasitic plasmas leading to F and Fe contaminations.
+The use of convenient protections allows to suppress these contaminations and to deposit transparent films.
+An optical study showed that the optical absorption coefficient is mainly influenced by Fe contamination and that F contamination only acts on the refractive index.
+Although the composition of the deposited films is different from the Na3Zr2Si2PO12 superionic conducting phase all the samples show a XRD signature characteristic to this phase after annealing at 750 °C.
+As deposited films are amorphous and an investigation by XRD and Raman spectroscopy showed a reorganization at low temperature.
+This event can be correlated to the evolution of the refractive index and of the ionic conductivity with the temperature.
+The ionic conductivity can be decomposed into three distincts contributions: two highly conductive and one close to the expected macroscopic value of 2 × 10− 3 S cm− 1 for such a compound at room temperature.

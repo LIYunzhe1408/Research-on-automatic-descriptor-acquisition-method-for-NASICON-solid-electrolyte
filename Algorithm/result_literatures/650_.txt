@@ -1,0 +1,181 @@
+In this study, a promising cathode material in Na-ion batteries, Al-doped NASICON-type Na3V2-xAlx(PO4)3/C (0≤ × ≤0.03) samples are synthesized and characterized.
+The doping eﬀects on the crystal structure are investigated by XRD and XPS, indicating that low dose of Al3+ doping generates no damage on the structure of the material, and aluminum is substituted for the vanadium site successfully.
+Electron microscopy and Raman data show that amorphous carbon coated on the matrix can enhance the electron conductivity.
+The electrochemical kinetic response of Al3+ doping are tested based on “slow-charge and rapid-discharge” electrochemical mode, results from before and after the cycles show that the doping samples have strong structure stability and excellent electrochemical performance because of low internal resistances and high ion conductivity.
+Thus, Na3V1.98Al0.02(PO4)3/C exhibits an initial reversible capacity of 102.7 mAh g−1 at 10 mA g−1 in the potential range between 2.3 and 3.8 V and delivers a discharge value of 95 mAh g−1 vs. 59.9 mAh g−1 of NVP/C at current density of 70 mA g−1 discharge after 50 cycles.
+The ionic conductivity of Na3V1.98Al0.02(PO4)3/C sample at 3.4 V after 50 cycles at 10 mA g−1 charge 200 mA g−1 discharge is 1.31 × 10−12 cm2s−1, four orders of magnitude higher than the undoped one(7.79 × 10−17 cm2s−1).
+Over the past several years, Lithium (Li)-ion batteries (LIB) have been the most widely used rechargeable batteries worldwide because of their remarkable electrochemical properties.
+However, with the rapid development of LIB, the amount of Li resources on the earth will not meet the demands on LIB. 
+Hence, the research for alternative electrochemical energy-storage system based on new chemistry mechanisms is obtaining more and more attention.
+Sodium and lithium are in the same main group which means that they have similar chemical properties.
+Moreover, sodium is much more abundant and cheaper than lithium, which is beneﬁcial to mass production.
+Therefore, it is a cost eﬀective alternative to develop large-scale applications of low-cost sodium ion batteries (SIBs).
+SIB features similar electrochemical principles than LIB, including the extraction/insertion of ions in electrode materials.
+Actually, many electrode materials such as P2-NaxMnO2 [11], P2-Na2/3Co2/3Mn1/3O2 [12], P3-NaxCoO2 [13], Na[Fe0.4Ni0.3Mn0.3]O2,Fe3O4,Na0.44MnO2,α-V2O5,MoO3, Na2FePO4F,Na4Fe3(PO4)2(P2O7) have been investigated as active cathode materials for SIB. 
+Fig. 1. 3D framework of NASICON (a) Na3V2(PO4)3, (b) NaV2(PO4)3, and Na+ coordinated condition in (c) M1 site, (d) M2 site.
+Nevertheless, the larger ionic radius of sodium may lead to slower ion diﬀusion rate and more structure changes upon the reversible insertion than its lithium counterpart.
+It is noteworthy that NASICON open framework has been considered to be a promising candidate due to the excellent structure stability upon cycling and high sodium conductivity.
+The cathode material Na3V2(PO4)3 has a typical NASICON structure, which is characterized as a 3D framework.
+The structure contains V2(PO4)3 framework repeating units in which octahedral VO6 interlinks via corners with tetrahedral PO4 and the V2(PO4)3 is interconnected by PO4 with neighboring units.
+Sodium cations are located at 6b, M1 site and 18e, M2 site respectively.
+And the coordination environments of each site can be really distinct.
+The one Na+ at M1 site (CN = 6) is incapable of de-intercalation during electrochemical process whereas the residual two in M2 site (CN = 8) can be, as shown in Fig. 1.
+So Na3V2(PO4)3 has been found to possess a voltage platform at 3.4 V corresponding to V3+/V4+ redox couple and a 117 mAh g−1 theoretical capacity in line with the de-intercalation of two sodium cations.
+However, the electrochemical performance of Na3V2(PO4)3 material has been restricted due to the poor electronic conductivity, which is similar to LiFePO4 and Li3V2(PO4)3.
+Numerous reports have proved that nano-crystallization and carbon-coating can promote the electrochemical performance both in LIB and SIB tremendously.
+Recently, some researchers improved the transport kinetics and electrochemical properties by varying the composition of Na3V2(PO4)3 through doping other similar elements.
+Sung-Jin Lim et al. proposed K+ partial substitution in Na site as a way to broaden the channel for Na-ion diﬀusion and enhance the structure stability of Na3V2(PO4)3 because of the larger ion radius compared to Na-ions.
+As shown by Mai liqiang et al., K3V2(PO4)3 nanowires delivered a capacity of 119 mAh g−1 at 100 mA g−1, and 96.0% capacity retention ration at 2000 mA g−1 after 2000 cycles.
+Maria J. Aragon et al. found that it can enhance the cycle performance by doping Fe3+、Cr3+、Al3+ in V site.
+Masquelier et al. demonstrated that Na3Al0.5V1.5(PO4)3 possesses a 425 Wh kg−1 energy density during electrochemical process.
+The aim of this work is to explore the Al-doping NASICON-type Na3V2-xAlx(PO4)3/C (x = 0,0.01,0.02,0.03) composite cathode.
+We adopted a “slow-charge and rapid-discharge” mechanism to test the electrochemical properties of Na3V2(PO4)3.
+Finally, we prepared the carbon coated samples by a carbon-thermal reduction method.
+The micro-crystal structure and particle morphology were detected by traditional measuring devices: X-ray diﬀraction, electron microscopy and Raman spectra.
+Electrochemical measurements of the materials were implemented by galvanostatic and potentiostatic procedures.
+Compared with the undoped sample, the Al-doping composites exhibited remarkable enhancement in electrochemical properties.
+The Na3V2-xAlx(PO4)3/C(x = 0,0.01,0.02 and 0.03)samples were synthesized by a carbon-thermal reduction method.
+Analytical purity Na2CO3,NH4H2PO4,V2O5,γ-Al2O3 and C6H12O6 · H2O(5 wt% excess C6H12O6 · H2O was used as the conductive agent while the rest was utilized as the reducer for the V3+/V5+ reaction in order to keep the stoichiometric ratio) were used as raw materials.
+These materials were dispersed in absolute ethanol in stoichiometric proportion.
+After 12 h ball-milling treatment, the mixed slurry were dried oﬀ after slow evaporation at 80°Cfor 12 h, the remaining solid were ground and preheated at 450 °C for 4 h in an argon furnace and ﬁnally treated at 700 °C for 6 h in the same argon furnace.
+The prepared pristine and samples containing a 1%, 2%, and 3% Aldoping are abbreviated as NVP-Al0, NVP-Al1, NVP-Al2 and NVP-Al3.
+The crystalline structure of Na3V2-xAlx(PO4)3/C were conﬁrmed with Pro (PANalytical).
+The particle morphology was observed by a Scanning Electron Microscopy (SEM, FEI Quanta FEG 250) and a Transmission Electron Microscopy (TEM, JEM 2100).
+X-ray photoelectron microscopy(XPS, AXIS ultra DLD) and Thermogravimetric Analysis (TGA, Mettler-Toledo) were employed to analyze the binding energies of diﬀerent elements and the weight percentages of carbon in every sample, respectively.
+And we can get the property of carbon from HR800 laser Raman spectroscope which is equipped with 514 nm Arion laser.
+The small variation of each doping concentration (0.01, 0.02, 0.03) was determined by inductively coupled plasma-atomic spectrometer (ICP-AES).
+Electrochemical measurements of the materials were tested in a glove box ﬁlled with argon.
+A homogeneous slurry of 70 wt% active material, 20 wt% acetylene black carbon and 10 wt% binder (PVDF) in an N-Methyl-2-Pyrrolidone(NMP) solution was casted onto a clean aluminum foil substrate and dried at 120°Cfor 12 h in vacuum atmosphere.
+Sodium metal was used as the anode and Celgard 2400 membrane was employed as the separator.
+1 M NaClO4 in propylene carbonate (PC) with 2 vol% ﬂuoroethylene carbonate (FEC) was adopted as an electrolyte.
+The cells were galvanostatically charged and discharged in the voltage ranges of 2.3–3.8 V vs. Na/Na+ at various current densities at room temperature.
+Electrochemical impedance spectroscopy (EIS) and cyclic voltammetry (CV) were conducted by using a Versatile Multichannel Galvanostat 2/Z (VMP2, Princeton Applied Research). The amplitude is 5 mV and the frequency ranges between 10−2 and 105 Hz for the EIS.
+The scan rate was 0.1 mV s−1 and the voltage ranged between 2.3 V and 4.5 V for the CV. The electronic conductivity measurements were performed on a RTS-9 linear fourpoint probe system.
+To conﬁrm the eﬀects of Al-doping on the crystal structure of Na3V2 (PO4)3, XRD observations were carried out and displayed in Fig. 2a.
+All the XRD patterns of Na3V2-xAlx(PO4)3/C (x = 0,0.01,0.02 and 0.03) samples display a set of narrow peaks, which reﬂect high crystallinity of these materials.
+The diﬀraction peaks marked by asterisks can be indexed to the trace amount of NaVP2O7 as impurity phase, corresponding to Si et al.
+All the other diﬀraction peaks can be well indexed to R-3c space group and are in good agreement with the framework of a rhombohedral NASICON structure.
+The enlarged part indicates that the position of peak (024) shifts slightly to the larger angle gradually with the increase of Al-doping content.
+As shown in the Bragg Formula, 2 · d · sinθ = n ·λ Where d is interplanar spacing, θis incident angle, n is diﬀraction series, λis the Wavelength of X-ray. Because of lower ionic radius of Al3+
+Fig. 2. (a) XRD patterns of Na3V2-xAlx(PO4)3/C (x = 0,0.01,0.02 and 0.03).
+Table 1 Unit cell parameters in the R3c space group for Na3V2-xAlx(PO4)3/C samples.
+Fig. Na3V2-xAlx(PO4)3/C (x = 0(a),0.01(b),0.02(c) and 0.03(d)) and the EDX mapping images of the NVP-Al2 sample.
+This demonstrates that Al doping materials have been prepared successfully. And the unit cell parameters calculated from the indexed patterns (Table 1) are also consistent with the XRD results.
+In addition, no redundant reﬂections evidence the presence of carbon phase.
+As expected, the annealing temperature used in our work generates a highly disordered carbon phase.
+The content and property of carbon are characterized by TG and Raman later in this article.
+Moreover, the small variation of each doping concentration (0.01, 0.02, 0.03) is determined by inductively coupled plasma-atomic spectrometer (ICP-AES). 
+The results are listed in Table S1. The value of theoretical content is slightly lower than that of ICP. The XRD reﬁnement results of NVP-Al2 sample are shown in Fig. S1.
+The reﬁnements are carried out using the GSAS program suite, and a space group of R-3c is chosen as the reﬁnement model. The data of calculated lattice parameters are listed in Table S2.
+As can be seen in Table S2, the Alelement has substituted at V site successfully, and the Al occupancy in NVP-Al2 sample is 0.01421.
+TG curves of Na3V2-xAlx(PO4)3/C (x = 0,0.01,0.02 and 0.03)(b,c,d and e) in air atmosphere and (f) High resolution X-ray photoelectron spectra of Na(1s), V(2p), P(2p) in NVP and Al-0.01.
+Fig. 2 presents the TG curves of the Na3V2-xAlx(PO4)3/C (x = 0,0.01,0.02 and 0.03) samples under oxygen atmosphere.
+Accordingly, the carbon content of Na3V2-xAlx(PO4)3/C (x = 0,0.01,0.02 and 0.03) are 3.92 wt%, 4.76 wt%, 4.86 wt%, 5.06 wt% respectively.
+The excess carbon can serve as a favourable electron conductor to improve the electrochemical performance during charging and discharging process.
+In order to investigate the eﬀect of Al-doping on the chemical environment inside the samples, high-resolution X-ray photoelectron spectra of Na(1s),V(2p) and P(2p) in NVP and Al-0.01 were carried out and shown in Fig. 2f.
+It has been demonstrated that the positions of the main peaks are recorded as the binding energy of diﬀerent elements in XPS study method. 
+Fig. 4. (a) HRTEM images of NVP-Al2 sample, (b) high magniﬁcation with several nanometers amorphous carbon coated, (c) FFT of (b), (d) Raman spectrum of NVP-Al2.
+The spectra of Na(1s) in NVP and Al-0.01 exhibit the same binding energy at 1068.1ev, which implies that the chemical bonding of Na remains the uniform value regardless of the addition of aluminum.
+ However, the binding energies of V(2p) and P(2p) in Al-0.01 are smaller than those in NVP.
+So we can conclude that doping Al3+ can facilitate the insertion and de-intercalation of Na+ by reducing the binding energies of their neighboring framework atoms.
+And the results are consistent with the research published by John B. Goodenough.
+In order to conﬁrm the eﬀects of Al3+ doping on the morphology of Na3V2 sample and Na3V2xAlx(PO4)3/C (x = 0.01,0.02 and 0.03) composites were investigated by SEM.
+As can be seen in Fig. 3, all NVP-Al0 and Al-doping samples have an irregular morphology and the average particle size are all about 1–2 μm.
+So there is no signiﬁcant diﬀerence in morphology between NVP-Al0 and Al-doped samples.
+EDX mapping analysis was also carried out with the purpose of conﬁrming the composition and distribution of aluminum in the doped particle.
+According to the EDX mapping images of Al,C,Na,V and P elements shown in Fig. 3, it can be obviously observed that aluminum is successfully doped and distributed uniformly.
+We also ﬁnd that carbon coated layer performs homogeneous distribution on the surface of particle, which is expected to provide considerable electronic conductivity during the charge/discharge process.
+To further investigate the morphology and microstructure of the composite samples, HRTEM images of NVP-Al2 are shown in Fig. 4.
+We can observe dark regions with irregular shape in Fig. 4a.
+As shown in Fig. 4b, the NVP-Al2 sample is coated with uniform carbon layer on the surface, and the thickness is around 13 nm.
+Zhu et al. has proved that the carbon layer would induce the formation of a mixed conducting network, which is beneﬁcial for both electron and ion transport.
+Furthermore, clear lattice fringes can be observed and FFT of the domain inside white box in Fig. 4b is in good agreement with that of (110) and (116) planes for NVP-Al2 sample.
+To analyze the turbostratic character of carbon layer, Raman spectra in the range between 1000 and 2000 cm−1was carried out.
+Fig. 4d shows the Raman spectra recorded for sample NVP-Al2.
+The small peak located at 1060 cm−1 is the evidence of presence of Na3V2 (PO4)3, which is reported by Maria J. Aragon and Liquan Chen.
+The two broadened bands at 1350 cm−1 and 1590 cm−1 are ascribed to bands D and G in disordered carbon.
+The D band is attributed to the lack of long range translation symmetry in disordered carbon, and the G band is attributed to the Raman-allowed E2g vibrations of graphitic structure.
+We can get the information about the degree of crystallinity of the carbon layer by calculating the intensity ratio between D and G modes.
+The ID/IG ratio (2.56) is pretty high, which is indicative of the defects and disordered mode of carbon phase.
+The essential reason to explain this high ratio is that the annealing temperature is not high enough to generate the crystallized carbon.
+Na3V2-xAlx(PO4)3/C (x = 0,0.01,0.02 and 0.03) were evaluated to investigate the eﬀects of Al-doping.
+Fig. 5a shows the initial charge/discharge proﬁle in the voltage range of 2.3–3.8 V(vs.Na+/Na) at 10 mA g−1.
+All composites have a ﬂat voltage plateau at approximately 3.4 V, corresponding to the V3+/V4+ redox voltage during the de-intercalation of two Na+.
+The initial discharge capacity and coulombic eﬃciency of NVP-Al0, NVP-Al1, NVP-Al2, NVP-Al3 were 100.2, 99.8, 102.7, 96.7 mAh g−1 at 10 mA g−1, and 92.8%,92.3%,90.5%,91.9%, respectively.
+Negligible initial capacity loss is observed between Al-doping samples and NVPAl0, but a slight voltage polarization near the terminal region of the plateau is observed in the charge/discharge proﬁle of NVP-Al0, unlike Al-doping composite, which indicates that Al-doping samples possessed better kinetic behavior. 
+Fig. 5. (a) Initial galvanostatic (10 mA g−1) voltage proﬁles, (b) Cycling stability of Na3V2-xAlx(PO4)3/C (x = 0,0.01,0.02,0.03) at 10 mA g−1 charge 70 mA g−1 discharge, insert of (b) is the capacity retention of all samples, (c) Capacity retention of discharge capacities at various current rates (10 mA g−1 to 200 mA g−1-rates), (d) Electronic conductivity of Na3V2xAlx(PO4)3/C (x = 0,0.01,0.02,0.03).All the tests were performed in the potential window of 2.3–3.8 V(vs. Na+/Na).
+The cycle and rate performance of all samples are all examined by “slow charge rapid discharge”, which is beneﬁcial to activate the electrode materials during the electrochemical process.
+A comparison of cycling performance for all samples with diﬀerent Al-doping contents at 10 mA g−1 charge 70 mA g−1 discharge is showed in Fig. 5b and the insert of (b) is the capacity retention of all samples after 50 cycles.
+Clearly, the discharge capacities of all Aldoping materials are obviously better than the undoped one.
+The initial discharge capacity of NVP-Al2 sample was 95.8 mAh g−1, and a reversible capacity of 95 mAh g−1 was obtained after 50 cycles, which means the capacity retention is as highly as 99.2% and capacity decay is only 0.016%.
+However, the discharge capacity of NVP-Al0 decreases from 67 to 59.9 mAh g−1 after 50 cycles, corresponding to a low capacity retention of 89.5%.
+During the cyclic process, the Al-0.02 sample presents a high capacity performance and the loss of capacity is negligible, which is displayed in Fig. S2.
+The rate capabilities of Na3V2xAlx(PO4)3/C during charging and discharging as the rate increases from 10 mA g−1 to 200 mA g−1 are displayed in Fig. 5c.
+The discharge capacities of NVP-Al0 sample decreases from 85 to 19.3 mAh g−1 with an increase in the rate from 10 to 200 mA g−1.
+However, it is obvious that Al-doping samples have better rate capability.
+Among them, NVPAl2 sample shows the best rate performance during the test.
+The discharge capacity values of NVP-Al2 are 98, 92.7, 88.2, 83.9, 77.4,66.1 mAh g−1 at 10, 20, 50, 70, 120, 200 mA g−1, respectively.
+When it comes back to 10 mA g−1, the reversible capacity of NVP-Al2 recovers to 95 mAh g−1, showing a outstanding rate performance.
+As can be seen in Fig. 5, NVP-Al2 composite gives better performance than NVPAl3 sample, the comparison in Fig. S3 shown below can explain the result.
+During a cyclic process at 70 mA g−1 discharge, the increase of polarization voltage for NVP-Al2 sample is negligible and the discharge capacity retains close to 100 mAh g−1.
+However, the NVP-Al3 sample shows an obvious augment in polarization voltage from 0.2 V to 0.25 V, which indicates that the reversible capability for Na+ migration decreases during the cyclic process.
+When discharging at high current density(200 mA g−1), the ﬂat discharge voltage plateau at approximately 3.2 V of NVP-Al2 composite corresponds to the V3+/V4+ redox.
+The plateau of NVP-Al3 sample has been disappeared, suggesting a poor Na+ diﬀusion capability.
+All the results demonstrate that Al-doping has signiﬁcant eﬀects on the electrochemical performance of NVP.
+The reason comes down to that Al3+ has smaller ionic radius than V3+, which is beneﬁcial to increase free volume of the interstitial space to improve Na+ pass through and storage.
+Moreover, we explored the eﬀect of Al-doping on electronic conductivity by using a RTS-4 linear four-point probe system and the results are displayed in Fig. 5d.
+An obvious increase can be observed with the increase of Al doing contents. The electronic conductivity values of all samples were 4.47 × 10−4, 6.98 × 10−4, 9.83 × 10−4, 1.18 × 10−3 S cm−1.
+The similar improved performance of electronic conductivity was observed by doping Mg2+ on V site [53]. The band energy of Al-O (512 KJ mol−1) and Mg-O (394 KJ mol−1) are both lower than that of V-O (644 KJ mol−1).
+Fig. 6. The electrochemical performance of Na3V2-xAlx(PO4)3/C (x = 0,0.01,0.02 and 0.03): (a)1st and 50th galvanostatic (10 mA g−1 charge 70 mA g−1 discharge) voltage proﬁles of NVP and Al-0.02(the ﬁgure in bracket is coulombic eﬃciency), (b) partial enlarged view of (a), (c) 1st and 50th galvanostatic (10 mA g−1 charge 200 mA g−1 discharge) voltage proﬁles of NVP and Al-0.02, (d) partial enlarged view of (c), (e)nyquist plots and, (f)the relationship between Zre andω−1/2 at low frequencies of Na3V2-xAlx(PO4)3/C (x = 0,0.01,0.02 and 0.03) in a state(charge to 3.4 V) after 50 cycles at 10 mA g−1 charge 200 mA g−1 discharge.
+Due to the introduction of element Al on V site, the material will generate more holes, and then the conductivity increases.
+The excellent cyclic stability of NVP-Al2 was further conﬁrmed by the discharge curves at 1st and 50th cycles under 70 mA g−1 and 200 mA g−1 as shown in Fig. 6a–d.
+The initial discharge capacity and coulombic eﬃciency of NVP-Al0 and NVP-Al2 were 66.7, 95.8 mAh g−1 and 68%,92.1% at 10 mA g−1 charge-70 mA g−1 discharge, which proves NVP-Al2 sample has better reversible sodium ion migration capability.
+Fig. 6 b is partial enlarged view of Fig. 6 a, and we can see that the polarization voltages of NVP-Al0 and NVP-Al2 are 207 mV and 100 mV in the 1st cycle and 143 mV and 80 mV in the 50th cycle, which shows that during a prolong cycling test on the NVP-Al2 composite, there is less potential drop value between charge and discharge voltage plateau than that of NVP-Al0.
+Table 2 Calculated charge transfer resistance and Warburg factor and diﬀusion coeﬃcients of Na+ of all electrodes in a state (charge to 3.4 V) after 50 cycles at 10 mA g−1 charge 200 mA g−1 discharge.
+This indicates that NVP-Al2 sample has a relatively low voltage polarization during the process.
+When the discharge rate increased to 200 mA g−1, NVP-Al2 sample still showed fairly good electrochemical performance in Fig. 6c and d.
+The ratio of polarization voltage between NVP-Al0 and NVP-Al2 is 2.87 in the 1st cycle and 2.39 in the 50th cycle respectively, which means that NVPAl2 sample had better electrochemical reversibility than NVP-Al0.
+It is obvious that NVP-Al0 can only deliver a discharge capacity around 7 mAh g−1, which means the electrode has lost the ability to charge and discharge and the crystal structure has been destroyed, while NVP-Al2 can still achieve 43.3 mAh g−1.
+So we conclude that Al-doping in Na3V2(PO4)3 can enhance the stability of structure and improve the high-rate capability.
+To further explore the eﬀect of Al-doping in Na+ diﬀusion, electrochemical impedance spectroscopy (EIS) measurements of all samples were carried out.
+All impendence spectrums consist of a depressed semicircle in high frequency region, and a straight line at the low frequency range, which indicates that the electrochemical process is controlled by charge transfer and diﬀusion of Na+ into the bulk of the electrodes.
+The equivalent circuit used to ﬁt the EIS facilitates the further analysis of the impendence spectra, as shown in the insert of Fig. 6e.
+In this circuit, RS is the electrolyte resistance, and CPE represents the double layer capacitance.
+Rct is the charge transfer resistance, and Wo represents the Warburg impedance expounding the diﬀusion behavior at low frequencies.
+The ﬁtting results are listed in Table 2. Notably, NVP-Al2 sample exhibits the lowest Rct (1279Ω)among all the samples after 50 cycles at 10 mA g−1 charge 200 mA g−1 discharge, which indicates that Al-doping materials have easier charge transfer and better electron conductivity.
+The EIS results for the cell before testing are provided in Fig. S4.
+The values of Rct for all samples increase obviously during the cyclic process and the results are displayed in Table S3.
+The increase of Rct suggests that samples have worse charge transfer and poorer electron conductivity after cycling.
+This result coincides with the research done by Qing Zhu et al.
+Fig. 7. HRTEM images of Al-0.02 sample after 50 cycles at 10 mA g−1 charge 200 mA g−1 discharge: (a) HRTEM images, (b) high magniﬁcation with several nanometers amorphous carbon coated, (c)FFT of (b), (d)Raman spectra.
+Fig. 8. (a) Cyclic voltammogram(CV) curves of all samples (b)XRD patterns of Na3V2xAlx(PO4)3/C (x = 0,0.01,0.02 and 0.03) after 50 cycles at 10 mA g−1 charge 200 mA g−1 discharge, (c) percentage of unit cell volume shrinkages of all samples calculated between the before and after 50cycles at 10 mA g−1 charge 200 mA g−1 discharge.
+Where R is the gas constant, T is the absolute temperature, A is the surface area of the cathode, n is the number of electrons per molecule during oxidization, F is the Faraday constant, and C is the concentration of sodium ions (3.47 × 10−3 mol cm−3), which can be calculated fromthe density and molecular weight.
+σ is the Warburg factor which is related to Zre (shown in eqn (2)). Fig. 6f shows the relationship between Zre and the reciprocal square root of frequency(ω−1/2) in the low frequency region. A linear characteristic could be observed for every curve. The values of σ and the calculated diﬀusion coeﬃcients of the +) of NVP-Al0 and various Al-doping samples are sodium ions (DNa + of NVP-Al2 sample is displayed in Table 1. Notably, 1.31 × 10−12 cm2s−1, four orders of magnitude higher than the undoped sample(7.79 × 10−17 cm2s−1). Otherwise, all Al-doping samples + than that of NVP-Al0, demonstrating that Alshowed higher DNa doping can lead to ultrafast Na+ diﬀusion, which indicates that the rate and cycle performance of Al-doping samples will be better than NVPAl0.
+In order to carefully investigate the morphology and microstructure the NVP-Al2 sample after 50 cycles at 10 mA g−1 charge of 200 mA g−1 discharge, HRTEM and Raman are carried out again and the results are displayed in Fig. 7.
+We can observe obvious lattice fringes of NASCION structure and they are surrounded by disordered carbon in Fig. 7b.
+FFT of the domain inside white box in Fig. 7b is in good agreement with that of (113) plane for NVP-Al2 sample.
+The results show that NVP-Al2 sample still have a highly-crystallized framework of a rhombohedral NASICON structure despite suﬀering the highrate and prolonged cyclic charge/discharge process.
+Fig. 7d reveals the property of disordered carbon after cycling.
+The value of ID/IG is 2.23, which is slightly smaller than the one before cycling (2.56).
+More graphitic carbon is generated during the cyclic process due to carbon particles embedded among the Na3V2(PO4)3 agglomerates, This consistent with the research studied by Yang-Kook Sun.
+Moreover, the CV for all samples were performed after 50 cycles at 10 mA g−1 charge 200 mA g−1 discharge in the potential window of 2.3–4.5 V with a scanning rate of 10 mV s−1, as shown in Fig. 8a.
+The redox peaks of NVP-Al0 sample near 3.4 V corresponding to the V3+/ V4+ redox reaction almost disappear after 50 cycles and large polarization between charge and discharge are observed, which means it has already lost the capability to charge/discharge and the NVP structure gradually is distorted.
+However, the sharp peaks of NVP-Al2 suggest the good reversibility of Na+ diﬀusion, and the largest peak area corresponds to the largest capacity, which exhibits a high consistency with + results obtained from EIS measurement.
+For comparison, the the DNa CV curves before and after cycling 50 cycles at 10 mA g−1 charge 200 mA g−1 discharge is displayed in Fig. S5.
+As to the before CV results, the oxidation peak located at 3.6 V for all samples corresponds to the phase transformation from Na3V2(PO4)3 to NaV2(PO4)3.
+However, the peak which is supposed to be located at 3.4 V splits into two peaks in the reduction process.
+This may be due to the structural rearrangements arising from Na+ transport from Na1 site to Na2 site.
+Fig. 8b is the XRD patterns after cycles. We can see that all the peaks in NVP-Al0 sample have gradually broadened and the ones corresponding to (012) and (110)lattice planes have almost disappeared, indicating the decomposed structure of NVP after 50 cycles at high-rate.
+However, all the diﬀraction peaks can be well indexed to R-3c space group in the Al-doping samples, suggesting that Al-doping can obviously enhance the structure stability during the electrochemical reaction.
+To investigate more internal factor, the unit cell parameters after cycles were calculated based on the indexed patterns shown in Table 3.
+Then we can obtain the unit cell volume shrinkages of all samples from Tables 1 and 3 After 50 cycles at high discharge rate, the lattice volume shrinkage of the undoped NVP sample is 10.25‰.
+On the other hand, the all Aldoping samples have less lattice volume shrinkage and better structure stability.
+Moreover, the lattice volume of NVP-Al2 sample after 50 cycles is 1437.13 Å3, only 2.10‰ shrinkage compared to Table 1.
+The largest volume facilitates Na+ movement without degradation during the charge-discharge process.
+Table 3 Unit cell parameters in the R3c space group for Na3V2-xAlx(PO4)3/C samples after 50cycles at 10 mA g−1 charge 200 mA g−1 discharge.
+In summary, NASICON-type rhombohedral Na3V2-xAlx(PO4)3/C (0≤ × ≤0.03) samples were successfully synthesized by a simple solidstate reaction method.
+NVP-Al2 sample was composed of well-crystallized Na3V1.98Al0.02(PO4)3 particles encapsulated by a thin layer of conductive carbon. 
+We adopted the “slow charge and rapid discharge” mode to activate the electrode material eﬃciently.
+NVP-Al2 material exhibited an initial reversible capacity of 102.7 mAh g−1 at 10 mA g−1 and delivered a discharge value of 95 mAh g−1 (vs. 59.9 mAh g−1 of NVP/C) at 10 mA g−1 charge 70 mA g−1 discharge after 50 cycles, corresponding to 99.2% of the initial discharge capacity. 
+Such impressive electrochemical performance can be ascribed to the enhanced structure stability and high Na+ ion conductivity by Al-doping and this has been conﬁrmed by TEM、XRD and EIS. 
+Hence, the Al-doping material would be a promising cathode for energy storage and conversion.

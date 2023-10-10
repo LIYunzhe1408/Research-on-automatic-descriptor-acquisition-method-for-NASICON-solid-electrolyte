@@ -1,0 +1,60 @@
+Li1.5Sn2P2.5Zr0.5O12 compound was synthesized using a simple and economical water-based sol–geltechnique.
+
+XRD analysis showed that the compound contains a NASICON-structured rhombohedral crystallinephase and Zr4? was successfully substituted into theLiSn2P3O12 structure instead of forming impurities.
+
+Thecompound displayed a greater conductivity value compared to the unsubstituted parent compound, LiSn2P3O12.The Li1.5Sn2P2.5Zr0.5O12 compound displayed total conductivity values of 1.32 9 10-6 S cm-1 at room temperature and 5.77 9 10-5 S cm-1 at 500 C.
+
+Furthermore, theAC conductivity, rAC, was found to increase with risingtemperature and the outcomes were discussed using thecorrelated barrier hopping model.
+
+ The Li1.5Sn2P2.5Zr0.5O12compound was also electrochemically stable up to 5.2 V,which was greater than the unsubstituted parent compound.
+
+Meanwhile, the transference number measurement wasnear to unity and it can be inferred that the majority ofmobile charge carriers were ions and anticipated to be Li.
+
+Producing the next-generation electrochemical devices, forinstance Li-ion battery, fuel cell and chemical sensor, thatare superior to the current lithium based in terms of cost,safety and capacity, has become a crucial task.
+
+Electrolytematerials represent the key for creating electrochemicaldevices with these desirable properties.
+
+Among solidelectrolytes, ceramic electrolytes form a significant class ofmaterials, as they display a wide electrochemical stabilitywindow, absence of leakage when compared to liquidelectrolytes and possess a variety of sizes and shapes [1, 2].
+
+Among all, NASICON (Sodium Super Ionic Conductor)material of three-dimensional rhombohedral space groupR3c has obtained enormous attention, after being firstdiscovered by Hong [3] and Goodenough et al in thesystem of Na1?xZr2SixP3-xO12 (0 B x C 3).
+
+Since then,various investigations have focused on lithium analogousNASICON-structured compounds with the general formulaof LiM2P3O12 with M = Ti, Hf, Zr, Ge, Sn, etc.
+
+This mightbe due to the advantages of NASICON compounds, such ashigh chemical stability, high ionic conductivity and theflexibility of chemical substitution that can be used generally in elevated temperature electrochemical devices [5].
+
+The NASICON framework is built of PO4, tetrahedra, andMO6, octahedra, which gives a relatively open three-dimensional network of sites for Li? ions [1, 2].
+
+The Li? ionsare situated in the interstitial sites in this framework, andionic conduction takes place when Li? moves from one siteto another through bottlenecks created by the oxygen ions.
+
+The M1 site (one per formula unit, crystallographic position6b), one of the two interstitial sites, is coordinated by atrigonal anti-prism of oxygen, and the M2 site (three performula unit, crystallographic positions 18e), the otherinterstitial site, has distorted eightfold coordination.
+
+LiSn2P3O12 is a Li? ion conductor that displays aNASICON-type structure and is the least studied of theNASICON family [6–12].
+
+The chief challenge was to gethigh ionic conductivity for the LiSn2P3O12 compound, asearlier researchers stated that the compound only had anionic conductivity of *10-10 to *10-7 S cm-1 [8, 11,12].
+
+Therefore, in order to improve the ionic conductivityof the NASICON’s compound, partial substitution can beconducted by partially substituting P5? ions with tetravalent ions, for example Zr4?.
+
+In our research, this partialsubstitution was carried out with the goal of creating Li?interstitial ions where P5? ? Li? ? Zr4?.
+
+Therefore, wereplaced greater volumes of Zr4? ion (0.72 A˚ ) whencomparing to P5? ion (0.38 A˚ ) as the research on Zr4?substituted into LiSn2P3O12 has never been stated in theliterature so far.
+
+This substitution was anticipated toenlarge the size of the Li? ion migration channel, thusleading to a rise in ion mobility.
+
+Apart from the size beingbigger than P5?, lower electronegativity in Zr4? (1.72)compared to P5? (2.19) was anticipated to raise the averagefree path migration of lithium ions due to its lowerattraction to lithium ion [13].
+
+In this work, a simple and economical water-based sol–gel technique was utilized to synthesize Zr4? substituted atP5? site with the general formula Li1?ySn2P3-yZryO12(0 B y B 0.9) with the hope of enhancing the ionic conductivity.
+
+ Preliminary research revealed that Li1.5Sn2P2.5Zr0.5O12 compound displayed the highest ionic conductivity value of all.
+
+As such, only the effects of Zr4? substitution onthe properties of LiSn2P3O12 when y = 0.5 were examinedusing X-ray diffraction (XRD), scanning electron microscopy (SEM), energy-dispersive X-ray (EDX), particle sizeanalysis, impedance spectroscopy (IS), linear sweepvoltammetry (LSV) and transference number measurement.
+
+Li1.5Sn2P2.5Zr0.5O12 compound was synthesized via simpleand economical water-based sol–gel technique.
+
+XRD pattern revealed the formation of NASICON-type rhombohedral symmetry with space group R3c: No peak attributedto zirconium-related compound was detected indicatingZr4? was successfully replaced into the LiSn2P3O12structure instead of forming impurities.
+
+The substitutions ofgreater volumes of Zr4? ion when compared to P5? ionresulted in total room temperature conductivity improvement up to two orders of magnitude greater when compared to the unsubstituted LiSn2P3O12 at room temperaturedue to the existence of the additional interstitial Li? ion,increase in density and crystallinity of the sample.
+
+Thehighest bulk, grain boundary and total conductivities foundwere correlated with the highest ionic mobility evaluatedfrom AC conductivity examination.
+
+Furthermore, Zr substitution also improved the voltage stability window up to5.2 V.
+

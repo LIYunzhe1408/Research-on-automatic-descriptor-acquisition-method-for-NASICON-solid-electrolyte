@@ -1,0 +1,115 @@
+A new iron titanyl phosphate Fe0.50Ti2(PO4)3 was synthesized by both solid-state reaction and Cu2+–Fe2+ ion exchange method.
+The material was then characterized by X-ray diffraction, Mo ssbauer, magnetic susceptibility measurements and optical absorption.
+Thecrystal structure of the compound was refined, using X-ray powder diffraction data, by the Rietveld profile method.
+ The structure, which iscompared to that of Mn0.50Ti2(PO4)3 is built up from [TiO6] octahedra and [PO4] tetrahedra which are linked by corner sharing along thec-axis.
+Fe2+ cations are located in half of the antiprism MI sites and are orderly distributed with vacancies within the two possiblepositions of the MI sites of R¯3. These results were supported by the Mo ssbauer studies that showed the presence of one Fe2+ site in thehigh spin state (t2g4 eg 2 ).
+The Curie–Weiss-type behavior is observed in the magnetic susceptibility.
+Diffuse reflectance spectrum indicatesthe presence of octahedrally coordinated Fe2+ ions.
+Nasicon-type compounds (acronym for Na superionicconductor) of general stoichiometryMxA2(PO4)3 have beeninvestigated since the early work on NaZr2(PO4)3.
+This class of compounds exhibits many interestingphysical properties such as fast ionic conductivity ,low thermal expansion ceramics , solid electrolyte,electrode material , luminescence , high-temperaturestability and known for potential as hosts for radioactivewaste .
+Due to these properties they are widely used inhigh-temperature fuel cells, as catalyst supports, heatexchangers and mirror blanks for space technology .
+The crystal structure of Nasicon-type materials consist of a[An2(PO4)3]2n9 framework built up by corner-sharing [AO6]octahedra and [PO4] tetrahedra.
+The basic unit of the framework consists of two [AO6] octahedra and three [PO4]tetrahedra which are linked along the c-axis.
+Such ribbonsO3AO3MO3AO3 along the c-axis are interconnected by[PO4] tetrahedral units along the a-axis.
+The articulation ofthese ribbons and chains creates structural holes orinterstitial sites in the structure, which can accommodate avariety ofMions.
+There are four such sites per formula unit,as represented by the crystallographic formula (MI)(MII)3A2(PO4)3. 
+The MI and MII sites have different crystallographicorientations.
+The MI sites (type I, one per formulaunit) are situated between two [AO6] octahedra along thec-axis with distorted octahedral coordination, while the MIIsites (type II, three per formula unit) are larger, with coordinating oxygen ions, and are located between theribbons as shown in Fig.1. 
+The structure is highly flexibleand amenable to substitution on the M, A or phosphorussites to form a wide variety of isostructural materials.
+The type I and type II site occupancies in the channelsmay also be varied to form phases in which the number of M ions per formula lies between four (full channels) andzero (empty channels).
+For example, the compoundNa5Ti(PO4)3 (crystallographic formula (Na)I(Na3)IINaTi(PO4)3), has sodium ions in both type I and type II sites(0% vacancy).
+The compound NbTi(PO4)3 (crystallographicformula (&)I(&3)IINbTi(PO4)3), which hassimilar framework structure but with completely emptychannels (100% vacancy), is capable of incorporatingseveral large ions of electropositive elements.
+In thecompound Mn0.5Ti2(PO4)3 (crystallographic formula(Mn0.5)I(&3)IITi2(PO4)3) type II sites are empty andtype I are partially occupied (50% vacancy).
+In theNasicon family, most of the monovalent cation analoguesMITi2(PO4)3 (M+ ¼ Na+, Li+, K+)  crystallizeswith R¯3c space group.
+However, the divalent M0.50II Ti2(PO4)3 (M2+ ¼ Ca2+, Sr2+, Mg2+, Co2+, Mn2+, Cu2+) and trivalent cation M0.33III Ti2(PO4)3 (M3+ ¼La3+) compounds show extra low-angle reflections,which do not fit into the R¯3c (No.167) space group.
+Inprevious work Barth et al.and Koji Makino et al.proposed R¯3c (No.
+167) as the space group for magnesiumtitanium phosphate Mg0.50Ti2(PO4)3.
+ El Bouari et al.reported also that Co0.50Ti2(PO4)3 crystallizes in a rhombohedralsystem with R¯3c (No.167), but recently Olazcuaga et al.studied deeply Co0.50Ti2(PO4)3 usingthe optical and magnetic properties of the polycrystallineCo0.5Ti2(PO4)3 which were simultaneously reproduced byuse of a crystal field (CF) theory.
+It turns out that the CFparameters calculated from the structure are in fairagreement with the experimental ones and permit to assignR32 (No.155) as the space group of the crystal structure.
+Moreover, Fakrane et al. proposed R¯3 (No.148) as thespace group for manganese titanium phosphate Mn0.50Ti2(PO4)3 isotypic with that of Ca0.50Ti2(PO4)3 .
+In continuation with these types of materials, an attemptis made to synthesize new compounds of the generalformula M0.50Ti2(PO4)3 (M ¼ Fe, Ni) and insert hydrogenin the channels.
+In this paper we report only on thepreparation of Fe0.50Ti2(PO4)3, and its characterization bypowder X-ray data, Mo ssbauer spectroscopy, magneticsusceptibility and UV–visible.
+The synthesis of Fe0.50Ti2(PO4)3 was attempted with twodifferent sets of starting materials.
+The reactants wereweighed separately and ground together in an agatemortar, then the mixture was transferred into a quartztube and sealed under vacuum, weighed again and put intoa furnace for heating treatments.
+The preparation procedure was based on the samemethod as given in Ref.
+Stoichiometric amounts ofsolutions Cu(NO3)2  3H2O (I), (NH4)H2PO4 (II) anddiluted TiCl4 in ethanol (III) were taken as startingmaterials.
+The mixture (precipitate+solution), obtainedby slow addition of (III) in (I+II) at room temperature,was dried at about 60 1C to remove the volatile compounds.
+The resultant powder was sequentially heated at200 1C (4 h), 750 1C (4 h) and 950 1C (6 h) in oxygenatmosphere with intermediate regrinding.
+This processresulted in a blue compound Cu0.5TiO(PO4).
+Amounts of metallic iron, titanyl pyrophosphate andcopper titanium oxyphosphate were thoroughly homogenizedwith the desired composition ratio in an agatemortar.
+The X-ray powder diffraction data (XRPD) werecollected at room temperature with a Philips PW 3040(y–y) diffractometer using a graphite monochromator.
+The structure of the iron phosphate compound was derivedfrom the step-scanned X-ray intensity data, in the range10–1101 (2y) with a step size of 0.021 (2y) and countingtime of 30 s for each step.
+The structural parameters wererefined by the Rietveld methodusing the computerprogram FULLPROF .
+Mo ssbauer measurements were performed with a constantacceleration HALDER-type spectrometer using aroom-temperature 57Co source [Rh matrix] in the transmissiongeometry.
+Isomer shift values refer to a-Fe at 293 K.
+The spectra were recorded at 4.2 and 293K using a variabletemperature cryostat.
+Magnetic susceptibility measurements were carried outwith a Quantum Design SQUID MPMS-5S magnetometer.
+Data were recorded at a constant applied magnetic field(0oHo3 T) in the temperature range 4.2–340K.
+Optical absorption spectrum has been recorded at roomtemperature on a Cary 2400 spectrophotometer in theregion 210–2400 nm.
+In the first and second methods, Fe0.50Ti2(PO4)3 wasobtained successfully.
+In the first method, the X-raypowder pattern shows the major phase Fe0.50Ti2(PO4)3together with extra weak lines of Fe2O3 (Fig.2).
+The XRPD of the resulting product by the secondmethod show the presence of Fe0.50Ti2(PO4)3 and Cu(Fig.3).
+Copper was eliminated by leaching with a dilutesolution of HNO3. After filtrating, the sample was washedwith distilled water and dried at room temperature.
+Inthese conditions a pure iron phase isotype with Mn0.5Ti2(PO4)3 is obtained.
+All the characterizations have beendone on the sample obtained by exchange reaction.
+The X-ray powder diffraction pattern of the sampleobtained in the second experiment is given in Fig.4 together with that of Mn0.50Ti2(PO4)3.a ¼ 8.511(1)A ˚ and c ¼ 20.985(3)A ˚ which were comparableto those reported in the literature for similar phases.
+The similarities in the cell parameters of Fe0.50Ti2(PO4)3 and M0.50II Ti2(PO4)3 (M ¼ Ca2+, Sr2+,Mg2+, Co2+, Mn2+, Cu2+) suggest that thecompounds are isostructural; however, a difference can benoted in space group.
+XRPD patterns of the compoundshow the presence of diffraction peaks, with Miller indexesh 0 l and 0 0 l (l ¼ 2n+1) [e.g., (101) and (003) reflections],which are not compatible with the presence of the plane c.
+Therefore the XRPD data could not be indexed completelyon the basis of the R¯3c space group but they are consistentwith R32 and R¯3 space groups.
+As will be shown in thefollowing, by refining the observed intensities of the XRPDdata in R¯3 and R32 space groups, the best agreement wasobtained from the R¯3 space group.
+The crystal structure of Fe0.50Ti2(PO4)3 was refined bythe Rietveld method , using the FULLPROF program.
+The refinement was undertaken in two principlemodels.
+In the first model it was made in the R32 (No.155)space group whereas in the second the hypothesis of the R¯3(No.148) space group was verified.
+In the two models thehistogram or phase fraction scale factors, backgroundcoefficients, sample displacement error, unit cell parameters,and Lorentzian components of the pseudo-Voigtcoefficients adjusted for strain broadening and peakasymmetry were refined first (pattern matching).
+Theresults show good agreements in the two space groups.
+The atomic positions were then refined.
+The isotropicthermal parameters of all the atoms were then refinedfreely.
+In the first step, the R32 crystal structure of Na5Ti(PO4)3[(Na)I(Na3)IITiNa(PO4)3) crystallographic formula] was used as the starting model for the Rietveld refinement.
+Fe2+ and vacancies are randomly distributed in the MIsite, 6c position (001/4), while Ti4+ cations are supposed toreside within the framework.
+The refinement in this modelwas confirmed to be less appropriate.
+The results of therefinement in R32 shows that the P–O distances were between 1.53 and 1.63A ˚ , these last values are unrealisticfor [PO4] units.
+In addition, we should also note that theoccupancy factor obtained for Fe2+ was negative and itsisotropic thermal displacement gives unreasonable value.
+Thus the refinement in this model seems to be lessappropriate.
+We decided then to refine in R¯3.
+In the second step, the structural parameters ofMn0.50Ti2(PO4)3 [(Mn0.50)I(&3)IITi2(PO4)3) crystallographicformula]  in the R¯3 space group were used asstarting parameters for the Rietveld refinement of Fe0.50Ti2(PO4)3. 
+Structural refinement of Fe0.50Ti2(PO4)3 wasrealized in two principal steps.
+In the first step, Fe2+ ions are supposed to reside only in one of the two possibletypes of MI sites 3a, the 3b sites were considered to beempty.
+After several cycles of least-squares refinements,it was shown that the oxygen atoms in 18f sites hadBiso .
+In the second step of refinements, the Fe2+ atoms wereallowed to occupy the two possible positions of MI sites(3a and 3b) instead of only 3a in the previous refinement.
+The total iron content was constrained to 0.50. In thisrefinement 27% of Fe2+ ions are found in the 3b positionof the MI site.
+The final reliability factors for Fe0.50Ti2(PO4)3 obtained in the last refinement are RP ¼ 0.192;RWP ¼ 0.233; RF ¼ 0.076; RB ¼ 0.132, w2 ¼ 3.02. 
+As willbe shown in Section 4.3, the relatively high RB factor valuemay be related to the presence of a small amount of Fe2O3 as impurity phase.
+The crystal data and details ofrefinement are given in Table 2. 
+Fig.5 shows the agreementbetween the calculated and observed diffraction profiles forFe0.50Ti2(PO4)3. The atomic positions and importantinteratomic distances in the structure are given in Tables 3and 4, respectively.
+The structure of Fe0.50Ti2(PO4)3 consists of a threedimensionalframework of [PO4] tetrahedra and [TiO6]octahedra sharing corners.
+
+As emphasizedbefore, iron ions occupy one-half of the MI sites, with 73%and 27% in the 3a and 3b sites, respectively.
+Morespecifically, the Fe1–O1 distance, 2.18A ˚ , is mainly theresult of the coulombic attraction, whereas the larger&(Fe2)–O2 distance, 2.50A ˚ , reflects the anionic repulsionin a site, which is almost empty.
+Finally, since the [TiO6]octahedra share common faces with the MI sites: a largerMI site leads to a smaller neighboring Ti–O distances, andvice versa: Ti1–O1 (1.98A ˚ ) facing Fe(1) is larger thanTi2–O4 (1.82A ˚ ) facing the vacancy (Fig.6).
+The 57FeMo¨ ssabuer spectra of Fe0.50Ti2(PO4)3, recordedat 293 and 4.2K (Fig.7) show a quadrupolar doublet withnarrow lines.
+A preliminary refinement using Lorentzianprofile lines show that the spectra consist of two fine peaks,the doublet is assigned to Fe2+ ions.
+In the fittingprocedure, the two peaks in the quadrupole doublet were constrained to have equal intensities and half-widths (G).
+The 57Fe hyperfine parameters for Fe2+ found in this study(Table 5) are in good agreement with the ones foundpreviously on the ferrous phosphates compounds .
+The values of isomer shift (d), quadruple splitting (D) andwidth at half-maximum (G) are typical of high-spin Fe2+ions in an octahedral oxygen environment  withabsence of magnetic order at low temperature (4.2 K).
+These results are in accordance with magnetic results andstructural refinements, which indicated the presence of aFe2+ in one site with octahedral environments.
+Closeexamination of the both spectra shows a weak impurity line(about 2% of the absorption area) located at about0.26 mm/s.
+According to Menil, the usual ranges ofisomer shifts in iron oxides are 0.29–0.50 and1.03–1.28 mm/s for Fe(III) and Fe(II) in 6-coordination,respectively; we associate this with the presence of a small amount of Fe3+, which comes from an impurity phase suchas Fe2O3 presumably below the limits of detectability byX-ray powder diffraction.
+The thermal variation of the reciprocal magneticsusceptibility (Fig.
+8) between 4 and 340K shows a linearbehaviour and can be fitted by the simple Curie–Weissequation: wðTÞ ¼ C=T y , where C ¼ 3.29 is the Curieconstant and yp ¼ (3.7871)K is the Weiss constant.
+
+The experimental effective magneticmoment (meff ¼ (8C)1/2) was calculated to be 5.13 mB forone Fe2+ ion (3d6).
+This value is typical for the oxidationstate (+II) of iron in octahedral sites with high spinconfiguration (Fe2+: t2g4 eg 2 ) .
+The optical spectrum of the titanium phosphate Fe0.50Ti2(PO4)3 presents two clearly distinct features (Fig.9):a weak absorption peak in the infrared–visible range and astrong band at the ultraviolet region.
+This spectrum wassuccessfully deconvolved by three Gaussian bands at lower energy, corresponding to CF electronic absorptions, plustwo further bands (one Gaussian and one Lorentzian) athigher energy, probably referable to metal–oxygen chargetransfer.
+
+These transitions can be assigned to Fe2+.
+
+The value of the ligands field parameter (Dq), calculatedby fitting the experimental frequencies to an energy-leveldiagram for octahedral d6 systems [40], is Dq ¼ 1034 cm1,in good agreement with high spin configuration (t2g4 eg 2 ).
+The high-energy part of the spectrum is constituted bytwo intense bands in the near UV.
+The evolution of Eg observed for the fourcrystalline phases is related to the environment of the[TiO6] octahedron, which is linked to six other [TiO6] inTiO2 (rutile), to two [TiO6] and four [PO4] in Mg0.50TiO(PO4) (oxyphosphate) and to six in Fe0.50Ti2(PO4)3 or inNaTi2(PO4)3 (Nasicon) (Fig.11).
+The marked covalence ofthe P–O bond makes the electronic transfer from oxygen totitanium difficult and explains the high values obtained forthe phosphates.
+A new divalent iron-titanium phosphate Fe0.50Ti2(PO4)3has been obtained by two different methods: solid state andion exchange in quartz sealed tubes.
+The structure has beenrefined from X-ray powder diffraction using the Rietveldmethod.
+The results revealed that the compound is isotypicwith Mn0.50Ti2(PO4)3 and belongs to the Nasicon familyand crystallizes in the R¯3 space group.
+Fe2+ ions occupypartially the MI sites and are orderly distributed withinthe two possible positions of the MI sites [3a (000) and 3b(001/2)] of R¯3. 
+The oxidation state of irons was clearlyidentified by Mo¨ ssbauer spectroscopy, magnetic measurementand UV–visible.

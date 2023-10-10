@@ -1,0 +1,105 @@
+Although oxide and sulfide based solid electrolytes have distinguished merits in meeting such concerns separately, a new solid electrolyte having excellence at both aspects is pursued. 
+Herein, we report the synthesis of sulfur-doped Li1.3Al0.3Ti1.7(PO4)3 (LATP)solid electrolyte with NASICON crystal structure combining elevated ionic conductivity with intrinsic stability against ambient atmosphere. 
+Sulfur dope into structure was carried out by sulfur-amine chemistry and characterized by XRD, Raman, XPS,  ICP-OES and EDS analyses. 
+Bader charge analysis was carried out within the Density Functional Theory calculations to characterize the charge accumulation on the local environment of bare and sulfur doped LATP structures. 
+Our results indicate that the partial replacement of oxygen with sulfur yields higher ionic conductivity due to the lower electronegativity of sulfur compared to oxygen which pulls the lithium ions more loosely. 
+Enhanced ionic conductivity in LATP is attributed to decreased lithium ion diffusion activation energy barrier upon sulfur dope. 
+Compared to bare LATP, the as-prepared sulfur doped LATP powders were shown to decreased the activation energy barrier by 10.1%. 
+Besides, the ionic conductivity of 5,21x10-4 Scm-1 was obtained in sulfur doped LATP powders where the bare LATP having 1,02x10-4 Scm-1 at 40 degree C.
+Increasing energy demand due to the boost in the electronic device market and potential electrical vehicles urge the world to develop energy storage systems with higher capacities. 
+Rechargeable Lithium-ion batteries(LIBs) are one of the most promising systems to be utilized in such applications. 
+However, traditional LIBs suffer the well-known safety issues namely; electrolyte leakage, thermal instability, narrow electrochemical window and combustion due to liquid electrolyte. 
+LIBs with solid-electrolytes are now considered to be next-generation energy storage systems free of aforementioned safety problems along with their potential to serve higher energy density.
+Solid electrolytes are broadly classified under three categories as inorganic, organic, and composite electrolytes each having certain preferences over the other one. 
+Inorganic solid electrolytes are featured in outstanding chemical and electrochemical stability along with lithium-ion transference number close to unity. 
+Among inorganic solid electrolytes, oxide based electrolytes have a superior feature of chemical and electrochemical stability whereas sulfide- based electrolytes display outstanding ionic conductivity.  
+Recently, Li1.3Al0.3Ti1.7(PO4)3 (LATP) glass-ceramics having NASICON-type crystal structures have attracted many interests due to high ionic conductivity on the order of 10-4 S cm-1 and utilized both in lithium-ion and lithium-air batteries. 
+Although LATP has shown a considerable amount of ionic conductivity, certain derivatives of sulfide-based solid electrolytes surpass their conductivities. 
+Specifically, sulfide-based solid electrolytes in Li2S-P2S5 system and their derivatives were shown to having ionic conductivities on the order of 10-2 S cm-1. 
+However, they have to be stored in inert atmosphere due to the degradation of solid electrolyte and generation of hazardous H2S gas2.
+High ionic conductivity of solid electrolytes in Li2S-P2S5 system was attributed to the lower electronegativity of sulfur compared to oxygen (2.58 vs 3.44 for S and O). 
+Lithium ions feel less electrostatic interaction on their diffusion along their path in sulfide-based solid electrolytes. 
+Besides, the ionic radius of sulfur is larger than oxygen which provides larger space for ion diffusion. 
+Several studies were focused on combining superior properties of oxide and sulfide based solid electrolytes through doping. 
+For Li2S-P2S5 system, different oxygen sources e.g. Li2O21, P2O522,23 or metal oxides9 were doped to partially replace sulfur on either component with oxygen in order to mitigate the poor electrochemical stability of the system. 
+Studies revealed that the generation of H2S gas which is due to the decomposition of solid electrolytes has almost eliminated upon the addition of oxygen into sulfur based solid electrolytes with the sacrifice of ionic conductivity.
+In the present work, we aim at the incorporation of sulfur into LATP solid electrolytes to partially replace oxygen with sulfur without disturbing the NASICON framework of LATP. 
+Sulfur was doped into the LATP structure during facile and cost-effective sol-gel process via sulfur-ethylene diamine complex precursor. 
+To the best of our knowledge, this is the first study reported sulfur doped in the LATP structure. 
+Moreover, we have also investigated the effect of sulfur concentration doped into LATP structure on the ionic conductivity and lithium-ion diffusion barrier.
+Sol-gel synthesis route followed in the synthesis of LATP powders as follows. 
+In another beaker, lithium acetate and ammonium dihydrogen phosphate were dissolved in citric acid solution. 
+After collecting each solution in a common beaker, ethylene glycol was added into the solution and stirred at 80 degree C until the gel was formed. 
+In the first step, the precursor was heated to 500 degree C for 5h for pyrolysis reaction under Ar gas flow and subsequently the temperature was raised to 850 degree C at ambent air for the crystallization of desired phase out of glassy phases. 
+Two-step heat treatment was utilized to prevent the evaporation of sulfur which has the boiling point of 444.6 degree C. 
+At the first step of heat-treatment we confined the sulfur in the structure through heat treatment under argon and then the second step was carried out under ambient air to enable the decomposition of organic components and crystallization of the desired phase.  
+Synthesis route was given schematically in figure 1. Change in the colour of mixture during EDA-S precursor addition was depicted in Supplementary Figure 3. 
+Inductively coupled plasma optical emission spectroscopy (ICP-OES) analysis was carried out to characterize the existence and amount of sulfur with Perkin-Elmer Optima 7300. 
+Phase analysis of synthesized powders was carried out by X-ray diffraction with 1 degree /min scan rate to characterize the existence of any impurity phase and possible peak shifts due to the dope of sulfur. 
+The morphology and microstructures of synthesized powders were observed with field emission scanning electron microscope. 
+Further morphological characterization was carried out using transmission electron microscopy (TEM, Hitachi HT7800). 
+Thermal analysis was carried out to characterize endo(exo)thermic reactions and accompanying weight change in the structure due to heat treatment. 
+Ionic conductivities of synthesized structures were measured by AC Electrochemical Impedance Spectroscopy analysis at 10 mV between 10-106 Hz. 
+Silver paint was coated onto both sides of pellets to construct Ag/LATP/Ag symmetric cells in impedance measurements. 
+Temperature dependent ionic conductivity measurements were carried out between 40-100 degree C inside a climate cabinet after 1h storage at each temperature for thermal balancing. 
+To characterize the charge accumulation on local environment we have carried out Bader charge analysis with density functional theory (DFT). 
+PO4 and PO3S tetrahedrons are analyzed by first principle techniques based on DFT as implemented in the Vienna Ab initio Simulation Package (VASP). 
+Calculations were carried out within the simulation cell of 12 Å to prevent any interaction due to the periodic boundary condition. 
+The Perdew-Burke-Ernzerhof (PBE) exchange-correlation energy functional within the generalized gradient approximation (GGA) were employed in the calculations. 
+Brilloun-zone integration was performed by using a gamma centered 1x1x1 k-point scheme. 
+Bader analysis was performed to calculate the charges on the ions.
+The crystallization temperature of powders was determined from DSC analysis as shown in Supplementary Figure 1. 
+Initial weight loss at around 100 degree C is associated with the evaporation of physical water. 
+At around 200 degree C, one endothermic peak which stands for the decomposition of NH4H2(PO4)3 and accompanied weight loss was observed. 
+Further weight loss up to 600 degree C is due to the removal of organic precursors i.e. citric acid. 
+Beyond 600 degree C, there is no weight loss in the structure up to 950 degree C where the crystallization of the desired structure out of glassy phase occurs.
+However, beyond 950 degree C, a strong endothermic peak and accompanied weight loss is observed which was attributed to the loss of lithium in the structure. 
+Such loss in lithium would inevitably deviates the stoichiometry and, hence, AlPO4 impurity phase emerges. 
+In the light of DSC analysis, we have chosen 850 degree C as our crystallization temperature.
+Figure 2 shows the XRD pattern of the synthesized LATP powders crystalized at 850 degree C. 
+XRD analysis reveals that the peaks of the synthesized structure are coincident with LiTi2(PO4)3 phase (JCPDS#35-0754) in rhombohedral crystal structure. 
+Small peaks observed at around 23.2 degree and 28.5 degree were attributed to the existence of the Al(PO4) phase which originates due to the evaporation of Li+ during crystallization heat treatment. 
+Such evaporation inevitably deviates the stoichiometry of the structure where the excess Al+ dopants precipitates as Al(PO4) phase. 
+Powders pyrolised at 500 degree C are shown to still in amorphous phase and turned into crystalline structure upon heat treatment at 850 degree C. 
+FESEM analysis of LATP powders and corresponding EDS analysis were given in Supplementary Figure 2.
+Figure 3 displays the XRD analysis of LATP with different amount of sulfur dopants along with pure LATP. 
+Any extra peak due to the addition of sulfur was not observed in XRD analysis as the amount of sulfur dopant is out of the detection limits of XRD. 
+However, impregnation of sulfur into LATP crystal structure can be verified by the peak shift into smaller values in XRD as illustrated in figure 3.  
+Substitutional replacement of oxygen with sulfur enlarges the lattice due to the larger ionic radius of sulfur compared to oxygen (1.84 Å for S-2 and 1.40 Å for O-2). 
+However, in LATP-005S, we systematically observed that the peak just barely shifts to the left compared to pure LATP. 
+This phenomenon was thought to be due to the precipitation of excess sulfur particles into the matrix which shrinks the lattice due to the smaller lattice constant. 
+Same phenomenon was observed in Si+4 doped LATP where peaks shift to the left upon doping larger ions into the system.
+Figure 4 displays the Raman analysis of bare and S-doped LATP structures. 
+Predominant peaks observed between 900–1100 cm-1 are due to P-O stretching modes and asymmetrical vibrations of (PO4)-3, where peaks between 400-450 cm-1 and 300-350 cm-1  denote symmetrical bending modes and motions of (PO4)-3 respectively.  
+Peak observed at 280 cm-1 was assigned to translational vibration modes of Ti+4. 
+Remark that new peaks appear at 395 cm-1 and 641 cm-1 assigned to the A1 symmetric stretching mode and T2 asymmetric stretching mode of (PS43-) 34,35. 
+The peaks at 749 cm-1 and 785 cm-1 attributed to the existence of P=S T2 and A1 stretching modes, respectively. 
+Moreover the observed peak at 515 cm-1 attributed to the S-S stretching mode. 
+It is emerged that the addition of sulfur into the LATP increase the PS4 peaks and P=S modes which were attributed to the existence of sulfur in crystal structure and further evidenced the replacement of oxygen.
+To explore the elemental compositions of the synthesized LATP powders, we have conducted XPS analysis. 
+Bare LATP general spectrum indicates the existence of the base elements Ti, O, P and small Al peak due to the lower Al content. 
+Besides, a new peak which stands for the existence of the sulfur emerged in the sulfur doped LATP sample.  
+As shown in figure 5(b,c), deconvolution of the P2p state indicates the existence of a small shoulder at around 132 eV which stands for the existence of (PS4 )-3 units testifies the partial 
+replacement of oxygen with sulfur in (PO4)-3 tetrahedra. 
+Further analysis on the S 2p state given in figure 5(d) reveals that sulfur coexists both as elemental sulfur and connected to phosphorus in LATP-005S. 
+Besides, the deconvolution of S 2p1/2 yields the existence of P=S bonds at about 162.7 eV. 
+The main peak at around 162.4 eV and the shoulder at higher binding energy (164.3 eV) are due to the P-S and P-O bonds, respectively in the tetrahedral units of the sulfur doped LATP structures.
+In order to characterize the stoichiometry and the amount of sulfur in the structure, the sintered powders were analyzed by EDS and inductively coupled plasma optical emission spectrometry (ICP-OES). 
+Table 2 displays the amount of sulfur obtained with ICP-OES analysis along with the atomic weight percentage data from EDS analysis for comparison. 
+Synthesized LATP powders were analyzed by TEM analysis at low and high magnifications as shown in figure 6(a,b).  
+TEM analysis reveals the irregular shaped LATP powders with the size of about 100 nm. 
+Besides, high resolution TEM(HRTEM) analysis shows the lattice fringe with 0.42 nm lattice spacing which stands for the (104) crystal plane of LATP powders. 
+Existence of sulfur in the sulfur doped LATP powders was further investigated by fracture surface analysis of LATP pellets by FESEM-EDS as given in Supplementary Figure 4-5 for LATP-001S and LATP-005S respectively. 
+Our results indicate the existence and homogeneous distribution of sulfur as well as increased sulfur concentration with higher doping as verified by EDS analysis. 
+Figure 8 displays the Arrhenius plots of the pellets which relate the ionic conductivity with inverse temperature, where the slope of the curves stands for the activation energy barrier(Ea) of the lithium ion diffusion. 
+Substitutional replacement of Ti+4 with Al+3 activates Li+ occupancy at 36f site where the lithium ion mobility is higher. 
+Considering the TiO6-PO4 base structure and Li+ ions wandering around, oxygen atoms on PO4 tetrahedra will have a higher partial negative charge due to the high electronegativity difference between oxygen and phosphorus atoms (3.44[O] vs 2.19[P]). 
+Such a higher partial negative charge on oxygen atoms will create higher columbic force between oxygen and lithium ions; that is to say, lithium ions will be pulled strongly in the framework which will inevitably restrict the free movement of lithium ions. 
+On the contrary; the electronegativity of sulfur and phosphorus atoms are just slightly different from each others (2.58[S] vs 2.19[P]), so that partial negative charge on sulfur will be much less than oxygen as illustrated in figure 9(c). 
+To further elucidate the charge accumulation on the proposed system, we have carried out Bader charge analysis on the PO4 and PO3S tetrahedra where one corner oxygen atom substituted with sulfur as illustrated in figure 9(b-c).  
+In summary, we have successfully synthesized sulfur-doped LATP glass ceramics by the facile sol-gel method. 
+Sulfur dope was supplied from sulfur-ethylene diamine complex precursor which enabled both pH adjustment and sulfur dope in the synthesis. 
+Our results indicate that sulfur impregnates into the NASICON crystal structure of LATP as substitutional atom replaced with oxygen in PO4 tetrahedral units. 
+Such replacement was shown to decreasing the activation energy barrier of lithium ion migration from 44.42 eV to 39.91 eV due to weaker electrostatic interaction between Li-S compared to Li-O. 
+By first principle techniques within density functional theory, we have shown that Bader charges accumulate more around oxygen instead of sulfur which imparts less interaction with lithium ions as oxygen atoms replaced with sulfur atoms.  
+Our results can provide a valuable methodology for increasing the lithium ion conductivity of oxide-based solid electrolytes which are intrinsically having thermal and oxidation stability. 

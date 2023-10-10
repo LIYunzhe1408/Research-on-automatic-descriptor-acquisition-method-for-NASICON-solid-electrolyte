@@ -1,0 +1,21 @@
+A Carbon-coated Mg0.5Ti2(PO4)3 polyanion material was prepared by the sol-gel method and then studied as the negative electrode materials for lithium-ion and sodium-ion batteries.
+The material showed a specific capacity of 268.6 mAh g-1 in the voltage window of 0.01-3.0 V vs.
+Na+/Na0. Due to the fast diffusion of Na+ in the NASICON framework, the material exhibited superior rate capability with a specific capacity of 94.4 mAh g-1 at a current density of 5A g-1. Additionally, 99.1 % capacity retention was achieved after 300 cycles, demonstrating excellent cycle stability.
+By comparison, Mg0.5Ti2(PO4)3 delivered 629.2 mAh g-1 in 0.01-3.0 V vs.Li+/Li0, much higher than that of the sodium-ion cells.
+During the first discharge, the material decomposed to Ti/Mg nano particles, which were encapsulated in an amorphous SEI and Li3PO4 matrix.
+Li+ ions were stored in the Li3PO4 matrix and the SEI film formed/decomposed in subsequent cycles, contributing to the large Li+ capacity of Mg0.5Ti2(PO4)3. However, the lithium-ion cells exhibited inferior rate capability and cycle stability compared to the sodium-ion cells due to the sluggish electrochemical kinetics of the electrode.
+We prepared carbon-coated Mg0.5Ti2(PO4)3 using the sol-gel method.
+The material showed a specific capacity of 268.6 mAh g-1 when cycled at 0.01-3.0 V vs.Na+/Na0, following a reversible Na+ intercalation reaction.
+With this energy-storage mechanism, Na+ ions could migrate in the NASICON framework with low activation energy resulting in excellent rate capability.
+This material also showed large discharge capacity and excellent cycle stability, demonstrating that Mg0.5Ti2(PO4)3 may be a promising negative electrode for SIBs.
+In comparison, Mg0.5Ti2(PO4)3 exhibited a capacity of 629.2 mAh g-1 in the voltage window of 0.01-3.0 V vs.Li+/Li0. This large capacity was attributed to the interfacial Li+ storage and formation/decomposition of the SEI film.
+The pristine Mg0.5Ti2(PO4)3 particles decomposed to metallic Ti and Mg nanocrystals after the first discharge, and these particles became encapsulated in the SEI and Li3PO4 matrix.
+In subsequent cycles, electrons accumulated in the Ti/Mg particles and Li+ ions stored in the Li3PO4 matrix until the electrode potential equaled the chemical potential of Li0. However, the interfacial Li+ storage showed sluggish electrochemical kinetics because the electrons must cross the insulated SEI film and the Li3PO4 matrix prior to interaction with the Ti and Mg nanoparticles.
+This resulted in the poor rate capability and cycle stability in LIBs.
+The ability of interfacial Li+ storage is closely related with the surface area of the material, and the larger the surface area, the larger the specific capacity.
+In this work, the sub-micron sized Mg0.5Ti2(PO4)3 electrode showed a Li+ capacity of 600 mAh g-1. This capacity was much larger than those of graphite41 and TiO2 42 based on the intercalation reaction, and was comparable to some other ones based on the conversion reaction such as MoS2 43 and NiO44. We expect that the Li+ capacity of Mg0.5Ti2(PO4)3 could be effectively improved by decreasing the material particles to nanometer scale.
+However, it should be pointed out that the inclined voltage profiles of such materials bring some difficulties in design of full batteries.
+The full battery performance can be optimized by adjusting the working voltage window and balancing the weight ratio of the positive and negative electrodes.
+Finally, even though a negative formation energy (-5.892 eV/f.u.) was obtained from first-principle calculations, the electrochemical decomposition of Na3.5Mg0.5Ti2(PO4)3 was not observed in this work.
+This is probably due to the large electrode polarization of the SIB cell.
+Some strategies, such as the preparation of nano Mg0.5Ti2(PO4)3 or making composite materials with carbon additives may allow the decomposition of Na3.5Mg0.5Ti2(PO4)3. If such a strategy can be identified, we can obtain a large Na+ capacity by taking advantage of the interfacial Na+ storage mechanism.

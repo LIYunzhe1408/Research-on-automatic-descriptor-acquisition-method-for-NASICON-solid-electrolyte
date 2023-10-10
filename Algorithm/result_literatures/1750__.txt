@@ -1,0 +1,92 @@
+Preparation and electrical characterization of NASICON-type compound, Li1.3Ge1.4Ti0.3Al0.3(PO4)3, are described.
+The solid solution is obtainedwith Ge4+→Ti4+ and Ge4+→Al3+ substitutions in LiGe2(PO4)3. The powder has been fabricated by a solid state reaction and the structuralcharacteristics of it have been studied by X-ray.
+Ceramic samples have been sintered by varying the sintering duration from 1 to 3 h.
+Samples werestudied by complex impedance spectroscopy in the frequency range 1 MHz–1.2 GHz and temperature range 300–600 K.
+Two regions of relaxationdispersion were found.
+The dispersions were related to the fast Li+ ion transport in the grains and grain boundaries.
+Variation of the sinteringduration has no considerable effect on electrical properties of the ceramics.
+Na+ ion conductive compounds with NASICON-type frameworkwere discovered and synthesized essentially for energystorage applications .
+Also, they were proposed for sensordevices because of interesting selectivity properties .
+Subsequentinvestigations of lithium ion conductors were made usingsystems LiM2(PO4)3 (M = Zr, Ti, Hf, Ge) .
+The interestwas focused mainly on systems Li1+xMxTi2−x(PO4)3 (M = Sc,Al, Fe, Y) and Li1+xMxGe2−x(PO4)3 (M = Al, Cr, Ga, Fe,Sc) , where ionic conductivities were found to be severalorders higher than in host compounds.
+Some of these materialswere also incorporated in sensor devices and the advantageof Li+ electrolytes against Na+ ones for usage in biomedicalapplications was revealed .
+The compounds with both Ge4+and Ti4+ cations included in composition of the phosphates werealso investigated.
+Despite of an unalterable concentrationof mobile ions the conductivity of LiGe2−xTix(PO4)3 increasesby several orders with x rising from 0 to 2 .
+The NASICONcrystallographic structure first was identified by Hagman andKierkegaard .
+The usual structure is rhombohedral, spacegroup R¯3c, but in some particular cases compounds also show a low temperature phase of monoclinic symmetry .
+The framework is build up of M2(PO4)3 units in which twoMO6 octahedra and three PO4 tetrahedra share oxygen atoms.
+They form conducting channels and two types of interstitialspaces where conductor cations are distributed.
+In the rhombohedrallithium phases, such as LiGe2(PO4)3 and LiTi2(PO4)3 the preferential occupancy of one type of sites by lithium has been pointed out from neutron diffraction experiments.
+Theconductor cations move from one site to another site through channels the size of which depends on nature of skeleton ions andon the carrier concentration in both types of sites.
+Consequently,the structural and electrical properties of NASICON-type compoundsvary with the composition of the framework.
+For example,in the compounds of general formula LiM2−xAx(PO4)3 thecell parameters a and c depend on the M and A cation size.
+The lowest unit cell has been obtained in LiGe2(PO4)3.
+The incorporation of a trivalent cation into LiGe2−xTix(PO4)3framework seem to be a good choice for a study.
+In the present work, we report the investigation of structureand electrical properties of Li1.3Ge1.4Ti0.3Al0.3(PO4)3compound (indicated in text as Ge-comp).
+The material wasfabricated by a solid state reaction (SSR).
+The structure wasexamined by X-ray diffraction and several ceramic sampleswere sintered for investigation of electrical properties byimpedance spectroscopy.
+The present work continues our studyof Li+ and Na+ superionic ceramics.
+Published results concerning the mentioned materials havebeen usually related to those prepared by a SSR .
+Theauthors of Refs. have developed a sol–gel method forpreparation of Li1+xMxTi2−x(PO4)3 (with x from 0 to 0.7).
+Theconductivity of ceramics sintered in this way was about oneorder lower than that prepared by SSR.
+The authors of Ref.have supposed that this difference could be due to the presenceof LiTiOPO4 phase at grain boundaries.
+The advantage ofsol–gel is that the determined composition generally agrees betterwith stoichiometric formula as compared to SSR ceramics.
+In the present work, the SSR was used for the synthesis ofGe-comp.
+The powder was prepared from stoichiometric mixturesof Al2O3, (purity 99.999%), Li2CO3 (99.999%), TiO2,GeO2 and NH4H2PO4 (extra pure).
+The synthesis of the compoundfollowed this sequence: calcination at T = 450 ◦C for 20 h;milling with ethanol in a ball mill for 12 h; then the calcinationat 1000–1020 ◦C for 8 h jointly and grinding in agate mortarwas repeated three times in turn.
+Finally, the powder was calcinatedfor 3 h at 1100 ◦C.
+The structure parameters were obtainedusing X-ray diffraction (CuK1 radiation at room temperature inair) from the powder.
+A suitable amount of polypropylenglycolsolution was added to the powders as a binder, and the mixtureswere uniaxially pressed into pellets at 300MPa.
+The shrinkagewas monitored as a function of temperature to allow the optimizationof sintering conditions.
+Three pressed powder pelletswere heated at 400 ◦C for 1 h to eliminate adsorbed water andavoid ceramic cracks.
+Ceramics were sintered in air at 1100 ◦C,each at different sintering duration (ts = 1, 2 and 3 h).
+
+The size of ceramic samples was 2mmdiameter and 1.5mm thickness.
+The samples were covered withPt electrodes .
+The results of X-ray diffraction study have shown that thetypical X-ray peaks of the reagents were not detected, nonethelessthe small amount of intermediate SSR compound AlPO4 was found in Ge-comp.
+The symmetry is rhombohedral with aR¯3c space group and six formula units in the unit cell.
+The cellparameters (hexagonal unit) together with ones of LiGe2(PO4)3and LiTi2(PO4)3 are presented in Table 1. 
+The X-ray diffractionstudy shows clearly that the evolutions of cell parameters andvolume can be interpreted as a qualitative function of the ionicradius of the cation in octahedral sites.
+The Ge→Ti, Al substitutionslead to an increase of these parameters, what is consistentwith the results in Refs.
+Several phenomena may play adetermining role in the influence of the cationic substitution onthe structure and ionic conductivity of NASICON-type materials.
+The observed increase could be attributed to theoccupancy of the conduction sites when Al3+ and consequentlyLi+ doping takes place.
+The additional Li+ ions are localized inone type of sites, while other type is occupied minimally; consequentlythis leads to a maximal repulsion along the c-axis asit is in Na+-NASICON.
+The quality of ceramic samples (porosity and grain boundaryphase) play a major role in the conductive properties ,and our samples of different sintering duration contained asatisfying fraction of the theoretical density (see Table 1):86% (ts = 1 h), 79% (ts = 2 h) and 72% (ts = 3 h).
+The observeddecrease of the relative density can be associated with a leakageof glass phase during the sintering of ceramics.
+The continuoussintering produces the larger amount of leakage products, whichare found in the furnace on the substrate for pellets.
+The glassphase in grain boundaries seems to diminish leaving room forcrystallite growth or cavity formation, what could be responsiblefor the decrease of the density, i.e.the increase of the porosity.
+Two dispersive regions were observed in impedance spectraof ceramics.
+The both shift toward high-frequency rangewhen temperature is increased.
+We relate these dispersions withtwo thermally activated relaxation processes, the ion transportin grains and the ion transport in grain boundaries.
+Some ofthe impedance plots were managed to fit to equivalentcircuit elements using nonlinear least square fits.
+Theequivalent circuits consisted of two parallel combinations ofresistance, capacitance and constant phase element in series.
+The admittance of constant phase element is given by formulaTCPE = Y(jω)n .
+The mentioned sub-circuits describe the bulkor grain boundary properties of the samples.
+The typical proceduresof impedance data analysis and fitting to equivalentelectric circuits are described in Refs.
+Value of mentionedcapacitance, which in parallel with resistance roughlyreproduces the observed dispersion, has been advocated in Ref.as a key to identification of the physical origin of the process.
+Approximate values of capacitances were calculated fromfrequencies of maxima of Z(f) spectra (Fig.2) or alternatively,complex modulus plots were helpful in characterization of dispersioncaused by grain boundaries.
+In case of Ge-comp,the approximate values of capacitances associated with high/lowfrequency arcs in the impedance plots (Fig.1) and of the sample showed that high frequency arc is associated with grain response,while the low frequency arc is associated with the grain boundaries.
+The total (σt), grain (σg) and grain boundary (σgb) dcconductivities were calculated from corresponding impedancevalues determined from the impedance plots (Fig.1).
+The Arrheniusplots for total and bulk conductivities are shown in Fig.3.
+The values of conductivities σt, σg at different temperatures andtheir activation energies (Et, Eg) are given in Table 2. 
+Due to limitsof frequency range used it was not possible to determine totaland grain conductivities of Ge-comp at the same temperatureranges, however from Fig.3 it is seen that the overall conductivityis, in general, lower than the one due to grains.
+This provesthat the total conductivity is, in general, dominated by the grainboundary contribution as reported by authors of Refs.
+Thisblocking effect in grain boundaries could be correlated with theporosity of the samples, but in our case it was shown thata higher duration of sintering results in a lower relative densityof ceramics, and we can see no correlation of density with conductivitiesand activation energies.
+The total conductivity of 2 h sintered ceramics is slightly higher than that of other samples,but in general, the sintering duration has no effect on electricalproperties.
+Comparison of Ge-comp with other NASICON-typematerials, shows that the conductivities are similar to thoseof Li1.5Ge1.5Al0.5(PO4)3 [6], which was reported to have thehighest conductivity in Li1+xGe2−xAlx(PO4)3 system.
+The totalconductivity of the investigated compound is an order of magnitudelower than that of Li1.3Ti1.7Al0.3(PO4)3, and this provesthat the Ti-based network is better calibrated for Li+ motion thanGe-based one.
+This is because LiGe2(PO4)3 crystalline cell istoo small to permit an optimal Li+ motion.
+The fundamentalinterest would be to expand the present investigations to systemlike Li1+xGe2−x−yTiyAlx(PO4)3 and varying x and y properlyin a broad region.
+A small amount of dopant Ti4+ used in ourcase has no noticeable effect on the conductivity.
+The positivepoint of the study of Ge-comp is that more confined unit cellis appropriate for selective behavior in ion selective electrodes,although it is less conductive than Ti-based.
+The relaxation frequencies (fg) that determines the relaxationdispersion process in grains of Ge-comp were obtained from themaxima of the Z(f) spectra at different temperatures (Fig.2).
+The increase of fg was fitted to the expression: fg = f0 exp(Ef/kT),where f0 is an attempt-to-escape frequency and Ef is the activationenergy of the process.
+We have deduced from the impedancespectra that this frequency is very close to hopping rate of theions .
+Also, the values of Ef were found to be similar tothose of Eg (Table 2).
+This fact confirms that the temperaturedependence of σg is caused only by the mobility of the fast Li+ions, while the number of charge carriers remains constant withvariation of sample temperature.
+The new material, Li1.3Ge1.4Ti0.3Al0.3(PO4)3, exhibit goodelectrolytic properties.
+Therefore, the main interest is to expandthe investigations to system Li1+xGe2−x−yTiyAlx(PO4)3 wherewe have shown that small amount of dopant Ti4+ has nonoticeable effect on conductivity.
+Two regions of the obtainedimpedance dispersion of the ceramics were found and associatedwith fast lithium ion transport in the grains and grain boundaries.
+The evolution of unit cell parameters and volume can be interpretedas qualitative function of the ionic radius of the cation inoctahedral sites.
+The charge transport in the investigated compoundsmay be described mainly by the temperature dependent ion mobility.
+The sintering duration of ceramics was found tohave has no effect on electrolytic properties.

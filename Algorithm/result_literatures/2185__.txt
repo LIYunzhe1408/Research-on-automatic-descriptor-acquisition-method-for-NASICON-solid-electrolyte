@@ -1,0 +1,120 @@
+A new method is being studied where solid electrolytic type carbon-dioxide sensors are heated at temperatures as low as 350910°C and at the same time are periodically pulse-heated up to 500°C for a short time, to cope with the degrading-sensing problems; namely, the possible deterioration of EMF (electromotive force) of the sensors resulting from (1) aging effect and (2) absorption of humidity while the sensors are left alone under high humidity circumstances. Regarding the effect resulting from cause (2), our experiment shows that heating-up the sensors for a short time near the melting point of carbonates constituting the sensing electrode may enable sufﬁcientlly effective recovery when the sensors are subjected to reheating that is generally considered to be a necessary process to refresh the humidiﬁed sensors. © 1998 Published by Elsevier Science S.A. All rights reserved.
+
+Keywords: Solid electrolyte; CO2 sensor; Durability; Heating-up
+
+Efforts on research and development for solid electrolyte CO2 sensors have been extensively exerted for more than a decade in Japan, but their applications remains in only a phase of trial use [1].
+
+The basic principle is rather simple; an electromotive force (EMF) is resulted from the concentration difference with an electrochemical reaction between the different concentrations of carbon dioxide gas around both the electrodes that are usually composed of some ion-conductive alkali metals. The EMG is simply expressed by the Nernst equation and it can be detected in a logarithm from as low as concentrations of ppm of CO2 gas [2].
+
+We have modiﬁed the process through which the solid electrolyte, NASICON, is prepared in order to improve the thermal stability of NASICON itself and also added carbonates of alkaline earth metals into the
+
+conventional carbonates of alkali metals such as Na2CO3 and Li2CO3 in order to improve the characteristic moisture absorption of the carbonates of alkali metals, with some molar ratio of the alkali metal carbonates to the alkaline-earth metal carbonates, thus improving greatly the characteristics of the material [3]. However, some serious problems remain to be solved, the base-line EMF is gradually reduced although the EMF reduction is not so great and sometimes a temporary EMF reduction occurs as a result of moisture absorption of the material. The temperature at which a metal-carbonate, for example, Li2CO3 is to be fused onto the solid electrolyte, NASICON, is as high as about 700°C. However, in the long run, it seems that the melting point of the metal carbonate falls to approximately 400°C as the metal carbonate combines with the deposits out of the surface of the NASICON and also the materials near the electrodes decompose thermally because of chemisorption of water vapor on the electrodes. In order to cope with such problems, one of the measures to solve them is by means of software improvement. However, we now come up with a measure to solve one of the problems with a method of heating the sensor with pulse-energizing.
+
+This section describes the characteristics of a prototype sensor which is now under development. The material of the solid electrolyte is NASICON prepared by a sol-gel method. This material is found to have bulk ion-conductivity of 0.1 S cm  28) 1 around the operating temperature of the sensor and its relative density is as high as 99%, giving a very dense property of its kind. The material for the sensing electrode is a mixture (1:1) of Li2CO3 and humidity resistive carbonates of alkalineearth metals, such as BaCO3 or CaCO3 [4]. The solid electrolyte electrochemical cell is composed of as follows;
+
+Au  12) NASICON  12) Pt, CO2 27)air The physical construction of the sensor is shown in Fig. 1. The electrodes are formed on both surfaces of the NASICON substrate and alkaline-earth metal carbonate is fused onto one side of the NASICON substrate to act as the sensing electrode. On the other hand, heaters are adhered onto a chip which is formed as another electrode and in turn coated with porous ceramic material to prevent the electrodes from touching g-alumina and other, carrying platinum catalyst or being dispersed in puriﬁed water; and coated on the solid electrolyte to form the sensing element. The sensor measures 3.5 29) 4.0 29)2.0 (mm). In the mode of measurement, the sensor is heated up to 340°C with the built-in heaters and EMF of the sensor is measured with the output after the impedance conversion. The output represents a negative value relative to the reference electrode. A temperature sensor acts as a temperature compensating device being ﬁtted in around the sensing element
+Temperature characteristics and concentration-dependence on carbon-dioxide gas of the prototype sensor are shown in Figs. 2 and 3.
+
+The number of the reacting electrons (n) is 2.08 as calculated from the slope of the plotted line. Assuming the response is based on two-electron reactions as expressed in the following equations, the following electrochemical reactions are thought to take place on the electrodes.
+
+At sensing electrode; Li2CO3U2Li  27)  27)CO2 27)1:2O2 27)2e 28) On the surface of NASICON;
+
+exchanging Li 27) for Na 27)
+
+At reference electrode; Na 27)  27)1:2O2 27)2e 28)UNa2O Overall cell reaction; LiCO3 27)2Na  27)U2Li  27)  27)Na2O 27)CO2
+
+Sodium atoms are found in the layer of Li2CO3 as shown in Fig. 8, which suggests that some kind of ion-exchange (or diffusion process) must occur between the Li2CO3 and NASICON layers as expressed in Eq. (2).
+
+Fig. 2. Temperature-dependence of EMF of the sensors in ordinary atmosphere.
+
+Fig. 3. Dependence upon CO2-concentration of the sensors.
+
+The EMFs of samples having Li2CO3–CaCO3 (molar ratio 30)1:1), as the sensing material, in the atmospheric carbon dioxide were measured when the samples were heated at random times; at variations in temperature; and at the same time, EMFs of the samples were measured as the CO2 concentration increased to 2000 ppm, so that the differential values, DEMFs in 360 2) 2000 ppm of CO2 were obtained.
+
+The result is shown in Fig. 4. The characteristics in the atmospheric CO2 at variations in temperature at random times are also shown. The ﬁgures show that the sensitivity of the sensors is the best at about 500°C. However, its durability is not sufﬁciently good for the practical use. The deviations of the EMF and the sensitivity of the sensor suggest that the temperature range, in which the sensors could be practically used, would be as narrow as 360 2)400°C. Furthermore, the heating condition of each sensor has its own random optimum range, resulting in a serious problem for practical applications.
+
+Moreover, whereas DEMFs of the sensors at 400– 500°C seem to have the maximum value as in Fig. 4, however, degradation of the sensors at such a tempera-
+
+Fig. 5. Plotted are decreases in EMF versus elapsed days, showing an aging effect on the sensors at variations in sensor temperature.
+
+ture are so great as shown in Fig. 6, where it seems that the greater the EMF, the more decrease in DEMF.
+
+In Fig. 5, let the critical point of sensor degradation be  28)10 mV, the number of days at 440°C to intersect this critical point is about ten times as that at 490°C. Let the number of days at 390°C be estimated analogically to be ten times that at 440°C and the number of days at 440°C are considered to be about 100 days. The estimated number of days at 390°C may be 100 29)10 30) 1000 days, or about 3 years.
+
+The decreasing EMF of the sensor seems to be caused by the remelting down of the sensing material in a certain period of time. For instance, an experiment showed that a mixture of Li2CO3 and NASICON became unobservable at about 520°C. The surface layer of the carbonate on the NASICON piece in the real sensor seemed to be unobservable as the temperature rose up to 500°C or higher. The results are shown in Fig. 7, as presented with copies of photographs. Spectrum analysis of the Electron Beam Irradiation Analyzer showed that some of the sodium was found in the boundary layer of the NASICON, on which some of Li2CO3 was fused to. Therefore it is suggested that some kind of ion-exchange reaction between Li 27) ions and Na  27) ions took place. In the actual material, impurities from the coating agent around the carbon-
+
+Fig. 4. Temperature-dependence of DEMF of the sensors.
+
+Fig. 6. Relationship between EMF and degraded DEMF at 490°C.
+
+Fig. 7. Experiment on melting-down of the carbonates (Li2CO3) (photo: surface of Sensor-chip).
+
+ates of the sensing electrode would reduce the melting point further down, thus resulting in gradual falling down of the melting point once the temperature should rise up. The entire capacity of electricity of the cell was calculated when the sensor was energized at an appropriate temperature. Assuming that the mass of the carbonates was 0.0015 g, the sensing mechanism was based on the two-electron reaction and EMF and the internal resistance be 300 mV and 100 MV, respectively, the quantity of electricity would be given by: Number of molecules 29)96500:2 30)0.978 (C)
+
+As the current per s was 3 29)10 28) 9 (A), the capacity of the cell would be 0.978:(3 29)10 28) 9) 30)3.26 29)108 (s) in terms of electrolytic material. This would satisfy the 10.35 years operation. Thus, the quantity of the carbonates in a sensor would exist as much as for several years’ consumption.
+
+An accelerated test under a heated condition was carried out to estimate the life of the cell. The result is shown in Fig. 5. If the level, to which the EMF falls down by 10 mV, is assumed to be the point of failure, the times to reach the points of failure at 540, 490 and 440°C are compared with each another and the point of failure at 390°C will be analogously extrapolated. As the time to reach the point of failure is estimated to be 120 days at 440°C and decreases by a factor of 10 with increasing the temperature by 50°C, the time at 390°C will be calculated 120 29)10 30)1200 days, that is about 3 years.
+
+4. Humidity characteristics while sensors being left alone
+
+When the sensors are left alone in the higher humidity, the higher is the surrounding temperature, the more the sensors absorb humidity, thus requiring the higher temperature for the sensors to exhale the absorbed humidity. In general, when the temperature at which the sensor should be heated is high, the conditions for the sensor to recover well becomes more difﬁcult. The EMFs after storage at 20°C and 60% RH are plotted in Fig. 9, as an example. No such problems, however, arise when the sample sensors have been kept in vacuum or in dry air. Our previous paper commented that the sensing electrode would be greatly improved by employing eutectic crystals of Li2CO3 and so on with carbonates of alkaline-earth metals such as BaCO3, CaCO3 and SrCO3 that are intrinsically water resistive compounds [6]. We have investigated the effects of the sensor on the change of the potentials of both the electrodes and the effects on EMFs resulted from heating-up and thus we tried solving the problems by means of a mechanism that heats-up the sensor appropriately. The circuit used for this investigation is shown in Fig. 10 and the experimental results are illustrated in Fig. 11. As shown in Fig. 1, the component between the heater and the electrode is electrically insulated, however, the current leaks between them, though they are minuscule, affect the sensor because the impedance
+
+Fig. 8. EDX analysis of the boundary layers.
+
+Fig. 9. Recovering characteristics of the sensors heated-up to 390°C after being left alone under the conditions at 20°C and 60% RH.
+
+H. Futata, K. Ogino :Sensors and Actuators B 52 (1998) 112–118
+
+Fig. 10. Schematic diagram of experimental circuit.
+
+between the electrodes are very high. Therefore, the experimental circuit illustrated in Fig. 10 can work well to collect the necessary data in our experiments. The current leaks ﬂowing to the electrodes are different naturally depending upon the surrounding conditions, thus resulting in much difference in EMFs of the sensor. We have collected in fact some data through this circuit.
+
+In our experiment, the sample, whose EMF was measured as 330 mV in the standard atmosphere, was left alone under conditions of 90% RH at 20°C for 24 h. It was heated upto 500°C for only 2 min and in turn it was kept at 390°C, which was equal to the standard temperature for the sensor to operate. Then, the EMF, E 27) and E  28) values were measured and recorded. The observed EMF recovered to 300 mV, 90% of the initial value, after 1 h and the E  28) value was  28)100 mV after 1 h, which is a big deviation towards the positive side by no less than 300 mV from the original potential, although it showed a tendency towards recovering after all. It took, however, several days for the E 28) values to recover thoroughly. The E 27) value also, being affected by the E 28) value, deviated towards the positive side of the EMF by the similar amount of the E 28) and recovered very slowly.
+
+The reason for the EMF to decrease as the effect of humidity absorption is thought, of course, to be caused by some structural changes of the sensing electrode as illustrated from the recovering manners of the E 27) and E 28) value. With regard to another problem that the E  27)
+
+Fig. 12. Output wave forms of the sensors in periodic heating-up process.
+
+and E 28) values deviated so greatly, the reason for this problem is probably because the current leaked from the heaters became so great that it caused the big erroneous voltage, as they absorbed humidity. On the other hand, the heaters are ordinarily separated with some dielectric material so as to leak only very little current. Presumably the sensor contained moisture with the mechanism of chemisorption and thus it would take hours or even days for the EMF of the sensor to recover thoroughly, as suggested by the time it took the E  28) value to regain.
+
+The life of the sensors must be long enough before replacement with a spare sensor and thus it is important to obtain longer life sensors. We had an idea and tried a feasibility study; we heated up ordinary sensors at the lower limit of the optimum temperature, 350– 360°C, as the rated temperature and gave the sensors an additional heat periodically by means of pulse energizing. The additional heat-up was at about 500°C for about 2 min.
+
+The basic temperature to be heated was at three stages, 380, 360 and 340°C. The sensors were energized in an accelerating manner for 1 h and in turn the EMFs were measured and compared with each other. The results are shown in Figs. 12–14. Pulse heating-up did
+
+Fig. 11. Behavior of sensing and reference electrodes as recovering.
+
+Fig. 13. Aging characteristics during periodic heating-up process.
+
+Fig. 14. Recovenng sensitivity by periodic heating-up process.
+
+not degrade so much the EMF of a sensor at 360°C, whereas it degraded the EMF of the other sensor at 520°C as shown in Fig. 15. Also as shown in Fig. 13, the EMF of the sensor heated-up at 340°C was degraded to  28)10 mV after about 2000 cycles of pulseheating-up. Pulse heating-up once in a day accounts for 2000 days, although this may be a very simpliﬁed concept. If this concept should be accepted, it might be about 5 years before the sensor fails. On the other hand, as shown in Fig. 12, output wave forms of the sensors in periodic heating-up process did not make any difference between the ordinary atmosphere (shown as air) and in a CO2 atmosphere (shown as 1000 ppm), in terms of the recovered amount of EMF.
+
+We investigated effects of the heating-up to various temperatures for 2 min on recovering of EMFs. The result is shown in Fig. 16 and this result shows that the higher the temperature, the better the recovery. The sensor having absorbed moisture gained 320 mV of EMF after heated at 600°C for 1 h, which means it was 97% recovery of its EMF.
+
+Fig. 15. Characteristic effects on EMFs of sensors heated-up with pulse currents.
+
+Fig. 16. Recovering characteristics from being left alone in higher humidity circumstances by means of periodic pulse energizing (EMFs in percentage, respectively).
+
+It seems that the sensor materials that absorb humidity are not deteriorated while being heated-up to such a higher temperature as 600°C, whereas when they do not absorb much humidity, they are rather vulnerable. Some kind of eutectic compound may be formed at the electrodes and should be investigated further. The peak value of EMF continued to rise up at a temperature slightly higher than 610°C. A much more effective recovery was achieved when the time to heat-up was extended as being observed from the peak value of the recovered EMF. It is found out that the orderly heating-up process at 500–600°C are required when the sensors have been left alone in high humidity circumstances, as the pulse heating-up for a short time is veriﬁed not to affect the materials of the sensors.
+
+It is of vital importance that the EMFs of the sensors are kept at a constant value and in fact the samples that are heated at the optimum temperature keep their EMFs stable with a deviation of as little as 10 mV. The characteristics of this kind of sensor are so delicate that it is difﬁcult to control every sensor to function in the intended right way. The experiment showed that the decreases of the EMFs tended to be little when the usual heating temperatures were relatively low On the other hand, deterioration of the DEMFs as a result of aging could be prevented as the sensors would be heated-up periodically by pulse-energizing at about 500°C.
+
+The period would be for about 2 min under the present situation. The changes of the EMFs of sensors that were left alone under higher humidity circumstances during heating-up at 600°C did not cause remelting of the carbonates that was a characteristic of the samples which were continuously heated.
+
+H. Futata, K. Ogino :Sensors and Actuators B 52 (1998) 112–118
+
+This suggests that the melting point of the carbonates that absorbed moisture may have come back to the initial melting point of their own by the heating-up. The time to recover depends upon the heating temperature and heating time. However, no speciﬁed values could be commented for the time. It is possible to ﬁnd out the conditions for the sensors to recover by investigating the changes of EMFs during heating-up of the sensors.
+
+With regard to the two problems as commented above, we hope that the experimental values will be replaced with more beneﬁcial values to meet the sensors left under variations of circumstances.
+
+1. DEMFs of the sensors are deteriorated as a result of aging with some time delay after the deterioration of EMFs have been caused by aging.
+
+2. The ordinary heat-up temperature, at which EMFs are stable, free from aging effects to some extent, is as narrow as from 370 to 380°C.
+
+3. It is possible to enable EMFs and DEMFs to be much stabler as the sensors are heated at an ordinary temperature of 350910°C with periodic heating-up at about 500°C by pulse-energizing and if EMFs decreased, they can be also improved by the pulse-energizing.
+
+4. Notwithstanding that, heating-up at a temperature as high as about 600°C is in fact effective for recovery of the decreased EMFs of the sensors that have been left alone in higher humidity circumstances. This that moisture has been chemisorbed by the sensors, resulting in some kind of modiﬁcation on the sensor materials.
+
+suggests
+
+5. The appropriateness of the recovery will be judged by observing the peak EMF value of the sensor in question in the pulse-energizing process.

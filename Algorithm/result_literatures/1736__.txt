@@ -1,0 +1,166 @@
+The essential structural features of lithium-metal phosphates (LMP) have been studied using FTIR spectroscopy which is a sensitive tool to probethe local environment in the solid materials.
+Various LMP materials where M is iron have been investigated including phospho-olivine LiFePO4,diphosphate LiFeP2O7, Nasicon-type phosphate Li3Fe2(PO4)3 and dihydrate FePO4·2H2O.
+Vitreous and amorphous materials are also considered.
+Analysis of internal and external modes of vibration allows to distinguish between the different phases and the type of cationic environment in theframework.
+Results corroborate the contribution of the main factors which are responsible for the complexity of the spectra, i.e.departure fromideal symmetry, interactions between polyhedra, bridging atoms and lattice distortion.
+Recently, there has been considerable interest in compoundsbuilt with phosphate anions such as PO43− or P2O74− speciesbecause they undergo frameworks where tunnels are accessiblefor mobile cations such as alkali (Na+, Li+) ions.
+They belongto the wide class of insertion compounds which can be used aspositive electrode materials in advanced lithium-ion cells.
+Also,lithium-ion oxide conductors based on phosphate frameworkoffer some advantages in practical applications due to lower cost,safety, environmental benignity, stability and low toxicity .
+At this time, numerous researches have been reportedon orthophosphates LiMPO4 (M =Mn Fe, Co, Ni) whichcrystallize with the olivine-like structure and polyphosphatesLi3M2(PO4)3 (M = Fe, V) isostructural with Nasicon-typeframeworks.
+Despite the extensive studies of the phosphoolivineLiFePO4 and Nasicon-type Li3Fe2(PO4)3 structures,there few reports on their vibrational properties .
+As these polyphosphates display a strongly condensed framework,infrared spectroscopic studies provide crucial structural informationin these complex framework, especially when glassymaterials are considered.
+The main objective of thiswork is to investigate the structuralproperties and lattice dynamics of several lithium-iron phosphates(LFPs) using Fourier transform infrared (FTIR) spectroscopyin a wide range of frequencies, from 100 to 2000 cm−1.
+Various LFP materials have been considered; they includephospho-olivine LiFePO4, diphosphate LiFeP2O7, Nasicontypephosphate Li3Fe2(PO4)3 and dihydrate FePO4·2H2O.
+Thecrystallinity of LFP specimens was assessed from both the XRDand FTIR patterns.
+By assuming the separation of the vibrationsinto internal modes of PO4 (or P2O7) units and externalmodes, the vibrational analysis of phosphate-based compoundswas made using the correlation method.
+A comparison of thespectral fingerprints of LFP is presented.
+Vitreous and amorphousmaterials are also investigated.
+Analysis of internal andexternal modes of vibration allows to make an accurate descriptionof the structural environment of cations, lattice distortionand degree of covalency.
+These features can help in the understandingof the electrochemical properties of electrode materials.
+Lithium-iron phosphate materials were synthesized bywet-chemical techniques.
+The phospho-olivine compoundLiFePO4 was prepared by solution route using iron nitrateFe(NO3)3·9H2O and LiH2PO4 in distilled water.
+The resultingprecursor was heated in an alumina boat at 500 ◦C for 10 hunder Ar/5% H2 atmosphere to reduce Fe3+ to Fe2+.
+The resultingmaterial LFP1 giving refined parameters of the orthorhombiclattice (Pnma space group) a = 5.917 ° A, b = 10.209 °A andc = 4.698 °A consistent with previous works .
+The diphosphateLiFeP2O7 powders (LFP2) were grown from metal acetates viainorganic polymerization reactions in solution according to themethod reported by Hoggins et al.
+Stoichiometric amountsof LiH2PO4, FeNO3·9H2Oand (NH4)2HPO4  were dissolved in triple distilledwater.
+ThepHof the solutionwas controlled near the value pH 6 by adding nitric acid.
+The solution was evaporated to dryness and the residue was subsequentlyheated to 250 ◦C to decompose NH4NO3. The fluffypowders obtained were further heated to 400–800 ◦C in air for12 h to produce single-phase LiFeP2O7 powders.
+Li3Fe2(PO4)3was synthesized by sol–gel method using nitrate precursors.
+Thesolvent was evaporated at 120 ◦C in air.
+The solid dry residuewas pre-heated at 400 ◦C for 4 h and final synthesis was made at700 ◦C for 12 h in Ar ambient.
+The resulting Nasicon-like material(LFP3) crystallizes in the orthorhombic system (Pcan spacegroup) with similar lattice parameters than published by Bykovet al.
+The dihydrate FePO4·2H2O was hydrothermally synthesizedfrom a mixture of FeCl2, LiCl and H3PO4 in distilledwater.
+XRD patterns were indexed by a monoclinic elementarycell (space group P21/n) with parameters a = 5.3125(6)A° ,b = 9.765(2) ° A, c = 8.683(7) °A and β =90◦44 .
+The crystallographic structures of LFPs were investigated byX-ray diffractometry (XRD) using a Philips X’Pert apparatusequipped with aCuK X-ray source.
+The FTIR absorption spectrawere recorded using a Bruker IFS113v vacuum interferometer.
+Samples were ground to fine powders, mixed approximately1:300 with ICs and vacuum pressed into translucent disks.
+In thefar-infrared region (400–150 cm−1), the vacuum bench apparatuswas equipped with a 3.5 m-thick Mylar beam splitter, aglobar source and a liquid helium cooled bolometer.
+A classical fitting procedure of the FTIR spectra was doneto characterize the spectral features of the LFPs materials.
+Curve fitting of IR bands was accomplished by selection ofthe spectral range 150–1400 cm−1. 
+After determination of thebaseline, the individual IR band was synthesized using theLorentzian–Gaussian line-profile whose broadening is due tosample characteristics using the OPUS package from BrukerGmbH.
+Lattice dynamics of phosphate-based materials can be treatedby assuming the separation of the vibrations into internal modesof PO4 (or P2O7) units and external modes, the vibrational analysis of phosphate-based compounds was made using thecorrelation method of Fateley et al.
+Several factors have been taken into account during the analysisof the infrared spectra of LFP materials and band assignmentto the vibrations of certain sublattice.
+But generally, spectra ofLFPs are dominated by the vibration of basal units building thelattice.
+As an example, we present here, the IR spectra of ironoxide and lead phosphate.
+The hematite Fe2O3 crystallizes intheR¯3c rhombohedral structure.
+Fe2O3 crystal has theD63d symmetrygiving the representation Γ =2A2u +4Eu of the infraredactive modes.
+Only four allowed modes are recorded in the IRspectrum (Fig.1).
+The IR spectrum of Pb3(PO4)2 is dominatedby the fundamental vibrations of PO43− groups.
+The FTIR featuresare dominated by the ν3–ν1 stretching bands of PO4 unitsin the range 900–1100 cm−1. Fig.2 shows the FTIR spectraof two commercial phosphate products, Li3PO4 and hydratedFePO4·2H2Ofor which the IR bands attributed toPO43− valencebonding modes are observed at 1140 and 1150 cm−1, respectively.
+The observed band broadening is attributed to the polycrystallinenature of these phases.
+Vibrational modes of tetrahedral AB4 molecules are wellknown.
+In order to facilitate the analysis of the vibrationalspectra, a factor group analysis was performed for the internaland external vibrations of the PO4 groups in phospho-olivinelattice, correlating the point group of the “free” ion (Td) withits site group (Cxzs ) and the factor group (C2h).
+The results forthe PO43− units are shown in Table 1. Internal modes involvethe displacement of oxygen atoms of the tetrahedral PO43−anions and present frequencies closely related to those of thefree molecule.
+For PO43−, these are a singlet (A1) at a frequencyν1 = 938 cm−1; a doublet (E) at ν2 = 465 cm−1 and two triplydegenerate (F2) modes, ν3 at 1027 cm−1 and ν4 at 567 cm−1.
+The ν1 and ν3 modes involve the symmetric and antisymmetricstretching vibration of the P O bonds, whereas ν2 and ν4involve mainly O P O symmetric and antisymmetric bendingmode with a small contribution of P vibration .
+In a solid,internal modes can split as a consequence of two effects: first, thesite-symmetry effect due to an electric crystal field of symmetrylower than tetrahedral acting on the molecule and second, thecorrelation effect due to the presence of more than one moleculargroup in the crystal unit cell.
+This treatment has beencarried out by assuming the separation of the vibrations intointernal PO43− and external (lattice) modes, the validity of thisapproximation being supported by the previous results
+One interesting point is evidenced by the correlation method.
+There is no Raman-active species in the irreducible representationrelated to the Li atoms located on 4a sites (Ci symmetry).
+In other words, the Li atoms are not allowed to moveduring Raman-active vibrations.
+This is in relation with thefact that these atoms are located on inversion centres of thecrystal cell .
+Thus, FTIR spectroscopy is a powerfulprobe for the analysis of the Li vibrations in the phosphateframework.
+Fig.3 shows the FTIR absorption spectra of the LiFePO4phospho-olivine phases.
+Spectral features of nano-crystallinepowder and amorphous sample are presented.
+IR bands ofLiFePO4 have been already identified and discussed in earlierworks .
+As the structure of phospho-olivine is builtfrom LiO6 and FeO6 octahedra linked to PO43− polyanions, thelocal cationic arrangement can be discussed with the aid of factorgroup analysis and molecular vibration model .
+The internalPO4 vibrations of LiFePO4 can be derived from the fundamentalPO43− modes ν1–ν4, and that the stretching and bendingmode regions are well separated from each other.
+As expected,the vibrational spectra are dominated by the fundamental vibrationsof the PO43− polyanions which are split in many componentsdue to the correlation effect induced by the couplingwith of Fe O units in the structure.
+In the region of the internalmodes of the phosphate anion (high-wavenumber region),we identify the asymmetric stretching mode at ν1 = 965 cm−1;the doublet ν2 = 466–503 cm−1; and the triplets ν3 and ν4 in theregions 1051–1093 and 578–645 cm−1. 
+A remarkable aspect ofthe infrared spectrum is the fact that stretching frequencies areproportional to the second ionization potential of the transitionmetalions .
+The FTIR spectrum of vitreous LiFePO4 (Fig.3) displaysbands which are envelops of those observed in the crystallinephase with a good coincidence between the spectral frequencies.
+Here, the vibrational spectroscopic data provide crucial structuralinformation in glassy materials for which XRD is an ineffectiveexperiment.
+Three large bands with some detailed featuresare identified in the IR spectrum of amorphous LiFePO4.
+There are centered at 1050, 600 and 300 cm−1 correspondingto the stretching, bending modes and external modes, respectively.
+It is remarkable that, in the high-wavenumber range, theIR bands appear exactly at the same position than for the crystallinephase.
+Bands of the stretching modes are located at 965,1050, 1096 and 1146 cm−1. 
+This is consistent with the assumptionthat the condensedPO4 tetrahedra have very stable chemicalbonds even when they are backbone of the vitreous phase.
+Since the discovery by Goodenough et al., the phosphoolivineLiFePO4 is considered as potential positive electrodematerial for use in lithium rechargeable batteries.
+To increase theelectronic conductivity of LiFePO4, it is a common practice inthe production of Li-ion battery electrodes, to add carbon, eitherby use of carbon additives to the LiFePO4 matrix, or by surfacecoating of LiFePO4 particles with thin layers of carbon.
+Carbon coating of LiFePO4 was made from the cellulose routeprepared in acetone solution.
+The quantity of cellulose acetatecorresponded to 5 wt.% of carbon in LiFePO4. After drying, themixture was heated at 700 ◦C under argon flow.
+Analysis of thecarbon deposit carried out by Raman scattering shows that itbelongs to the family of the amorphous graphitic carbon .
+The FTIR absorption spectrum of the carbon-coated LiFePO4sample is reported in Fig.4. 
+We have also reported the positionof the peaks intrinsic to this material.
+So, the FTIR absorptionspectrum is a probe of the bulk properties, and the amountof carbon in the material is too small to be detected by suchexperiments.
+This is the basic reason why the FTIR spectra ischaracteristics of the LiFePO4 part.
+No extra line is observedwith respect to pure LiFePO4. Particular attention could be doneon the low-wavenumber part where the bands in the spectralrange 372–647 cm−1 are sensitive to the local lithium environment.
+We can then infer from this result that the lithium ions donot “see” the carbon atoms, another evidence that the carbon didnot penetrate inside the LiFePO4 particles.
+Another FTIR feature that demonstrate the beneficial effectof carbon coating is the part of the spectrum in the range 945–1139 cm−1 that corresponds to the stretching modes of thePO43− units.
+However, the modes in the carbon-coated sampleare significantly less broader than in the carbon-free sample.
+This broadening gives evidence of a decrease in the lifetime ofthe phonons, and thus the existence of defects breaking the periodicityof the lattice sites inside the LiFePO4 crystallites of thecarbon-free sample (dashed line in Fig.4).
+The analysis of magnetic properties has identified these defects as -Fe2O3 nanoparticlesat a low concentration of 0.7 ppm which are completelyabsent in the carbon-coated sample due to the carbo-thermaleffect on LiFePO4 crystallites .
+The FTIR spectra of LiFePO4 have been investigated as afunction of the Li-ions content in the olivine framework (Fig.5).
+The FTIR spectrum has also been reported in delithiated samplesin Ref.
+Incidentally, the notation used in this priorworkis LixFePO4 to designate partially delithiated samples, but thisshould be read as xLiFePO4 + (1−x)FePO4 like in the presentwork, since the samples are biphased just like our own x = 0.5 sample.
+The juxtaposition of the spectra helps in the assignmentof the vibrations.
+The basic feature is that, upon delithiation, thefrequencies of the vibrations show only a small shift (by fewcm−1), which are the consequence of the change of the latticeparameters, and also, below 600 cm−1, the change in the ironvalence state.
+Such is the case for the external mode, or latticevibrations, which occur below 400 cm−1.
+ If we try to follow upthe shift of the mode frequencies, we can make a correspondenceof the lines (in cm−1), from x=1 to x = 0: 386→392,348→324, 287→257, 249→241 and 196→189. 
+This corroboratesthat these modes are primarily translation and librationof the PO43− ions and translation motions of the Fe2+ ions .
+However, there is an extra line at 233 cm−1 in the x =0 samplesonly, and thus identified to the vibration of the lithium ion.
+To identify this mode, we note that the isotopic 6Li–7Li substitutionin lithiated dioxides of transition metals has proven thefar-infrared peak between 200 and 300 cm−1 is characteristic ofan asymmetric stretching vibration of Li O bonds .
+In particular,this mode in the sameOh configuration has been observedat 260 cm−1 in LiCoO2, 240 cm−1 in LiNiO2 .
+The line at233 cm−1 in our samples with x =0, only shifted by few cm−1with respect to LiNiO2, corresponds to this same cage mode ofthe lithium ions which undergo translation vibrations in the cageformed by the six nearest neighbour oxygen atoms.
+Above 400 cm−1, the modes are the external modes associatedto the intramolecular vibrations of the PO4 and FeO6 units.
+In the FeO6 spectral range of vibrations, two modes at 636 and647 cm−1 (x = 1) are shifted at 651 and 681 cm−1 (x = 0) upondelithiation.
+In the intermediate range 400–600 cm−1, we canassume that the modes at 577, 549 and 502 cm−1 (x = 1) areshifted to 576, 531 and 516 cm−1, and correspond to the bendingmodes (ν2 + ν4) of the PO43− ions.
+On another hand, weare left with an extra line at 470 cm−1 in the samples x =0,which means that this line, also assumed to be a (ν2 + ν4) modein Ref, involves lithium-ion motion.
+To the contrary, anextra line is clearly evidenced at 1237 cm−1 in FePO4, whichdoes not exist in LiFePO4. This extra line is also present in theFTIR spectra of FePO4 in prior works .
+If we try to identifythis mode with phosphate ion complexes, we first note thatsuch complexes as P2O74−, P3O105− do not exist in our material,since these ions would give rise to vibration modes in thespectral gap 700–900 cm−1, where no modes are detected.
+Onthe other hand, we can make the hypothesis that this mode islinked to a vibration mode of PO3. This aspect will be treated inthe following.
+Fig.6 displays the FTIR spectrum of the LiFeP2O7 diphosphatephase.
+The basic crystallographic unit in pyrophosphatematerials is the P2O74− ion having a common apex of the twoPO4 tetrahedra and the bridging θPOP angle.
+This implies thatthe anion has C2 as site group in LiMP2O7 phases .
+Theinternal modes of the P2O74− ion in LiMP2O7 are given by correlationscheme in Table 2. 
+Finally, there are 21 Raman-active(11Ag + 10Bg) and 21 infrared-active (11Au + 10Bu) internalmodes for the molecular P2O7 group.
+Most of the work carriedout on molecules of the A2B7-type involves approximateassignments; that is, the modes are simply classified as νas(PO3),νs(PO3), νas(POP), νs(POP), δ(PO2) and δ(POP) whichare terminal and bridge stretching and bending frequencies.
+It is obvious that the FTIR spectrum of LiFeP2O7 (Fig.6)displays some modifications with that of orthophosphates.
+Vibrational features in the low-wavenumber region are quitesimilar to that recorded for LiFePO4. 
+The IR stretching bands areshifted toward the high-wavenumber side due to the existenceof P2O74− units in C2 site group.
+Additional IR bands appear at 763, 782 and 954 cm−1 which cannot arise from a factor groupsplitting.
+These bands attributed to the antisymmetric νas andsymmetric νsstretching modes of P O P bridges.
+From datashown in Fig.6, it is obvious that diphosphate groups are bentin the LiFeP2O7 structure as the symmetric and antisymmetricbridge vibrations are active in infrared.
+The P O P bridge ofP2O74− group may be considered as an independently vibratingunit and within the limits of this approximation, its stretchingfrequencies depend on the value of the bridging θPOP angle, butalso of the force constant of P O bond of the bridge.
+In the high-wavenumber region IR bands are well resolvedwith the highest component located at 1226 cm−1 assigned tothe terminal stretching mode of P2O74− ions.
+The terminalstretching modes of P2O74− ions usually occur in the region1250–975 cm−1. 
+These vibrational modes belong to the followinginfrared-active species (3Au +3Bu).
+The IR spectrumgives five bands.
+The asymmetric stretching vibrations of PO3groups provide the most intense band at 1125 cm−1 in the FTIRspectrum.
+Fig.7 shows the FTIR spectrum of vitreous and crystallineLi3Fe2(PO4)3 materials.
+The crystalline phase corresponds tothe orthorhombic -Li3Fe2(PO4)3 structure (o-LFP).
+The structureis based on a three dimensional network of [Fe2(PO4)3]xof FeO6 octahedra and PO4 tetrahedra sharing oxygen vertices.
+The lithium ions are situated in interstitial voids in the framework.
+The IR bands are distributed to vibrations, of lattice modes(below 400 cm−1), FeO6 octahedra (300–450 cm−1), PO43−deformations (400–700 cm−1) and vibrations of the valencebonds of PO43− groups.
+Atotal of 23 bands are observed at roomtemperature of the 105 IR modes predicted for the Pcan spacegroup.
+As for other phosphates, internal modes involving thedisplacement of oxygen atoms of the pseudo-tetrahedral PO43−anions of Li3Fe2(PO4)3 present frequencies closely related tothose of the free molecule.
+The high-frequency band splittingwith components observed at 1004, 1041 and 1067 cm−1 inthe IR spectrum may be a manifestation of a correlation fieldeffect due to the coupling of the PO4 vibrators in the unit cell.
+Lantern units present in the o-LFP phases give rise to infraredbands in the range 1150–1250 cm−1 which are attributed to thestretching vibrations of terminal PO3 units.
+For Li3Fe2(PO4)3these bands are located at 1181 and 1208 cm−1. Both these twohigh-frequency spectral features and the strong band in the lowwavenumberregion at 300–350 cm−1 are fingerprints for o-LFPstructures.
+The vibrational spectra of Li3Fe2(PO4)3 glass sampledisplay broad bands centred with weak components located atthe same frequencies than those of the crystalline phase .
+The alkali cations are only involved in the ill-defined far-infraredband centred at around 400 cm−1 in the spectra of Li3Fe2(PO4)3.
+The internal electrostatic field changes when the structure does(from orthorhombic LiFePO4 to monoclinic Li3Fe2(PO4)3, forinstance), whereas the covalence of the Fe O bond differs withthe degree of covalence in the P O bond.
+Indeed, lantern unitspresent in the Nasicon-like phase giving rise to infrared bandsin the range 1150–1250 cm−1 show the same vibrational modethat observed in R(PO3)3 metaphosphates (R = Ga, In, Y, Sm,Gd, Dy) in the range 1230–1280 cm−1.
+Fig.8 shows the FTIR absorption spectrum of phosphosideriteFePO4·2H2O.
+The vibrational motions of FePO4·2H2Omay be divided into three classes: the stretching and bendingvibrations of water molecules identified, respectively, around 3400 and 1610 cm−1, the internal vibrations of FePO4 located inthe range 1200–400 cm−1 and external optical modes of FePO4situated below 400 cm−1. 
+It is worth mentioning that the stretching(νOH) and bending (δOH) vibrations of water molecules aresolely observed in infrared.
+In FePO4·2H2O, the internal modesoriginate in the intramolecular vibrations of PO43− anion.
+Fortunately,the bands originating in the intramolecular stretchingmotions of the phosphate anion (ν3 and ν1) can be assigned withconfidence because they are highly decoupled while assignmentof the bending modes (ν4 and ν2) makes problem because theyare strongly coupled and involve some iron-ion motion.
+In thesolid FePO4·2H2O, internal modes can split as a consequenceof the correlation and site-symmetry effect as observed in manyphosphate-based materials.
+Thus, we observe a frequency shiftof the internal mode of PO4 groups and a multiplicity of thefundamental modes due to the correlation Td→C2h.
+As expected, the vibrational spectrum is dominated by thefundamental vibrations of the PO43− polyanions which aresplit in many components due to the correlation effect inducedby the coupling with of Fe O units in the structure.
+In theregion of the internal modes of the phosphate anion (highwavenumberregion), we identify the symmetric stretching modeat ν1 = 990 cm−1; the doublet at ν2 = 447–485 cm−1; and thetriplets ν3 at 1000–1085 cm−1 and the triplet ν4 in the region570–640 cm−1.
+The FTIR spectrum of lithiated Li0.7FePO4·2H2O materialrecorded on electrode taken from an electrochemical celldischarged at 2.5V (end of discharge) is also displayed inFig.8. 
+This FTIR spectrum shows clearly the structural changethat occurred in LixFePO4·2H2O upon Li insertion (x = 0.7).
+The lithiated product displays a spectrum with significantshift ( ν =11 cm−1) of the stretching vibrations of the PO43−groups and additional bands in the far-infrared region (below500 cm−1).
+These two effects are due to both the reductionof Fe3+→Fe2+ and the presence of lithium in the channelsof the [FePO4] network.
+We observed the appearance ofnew IR bands at 495, 454 and 368 cm−1 which are attributedto the stretching and bending vibrations, respectively, of Li ionsin an octahedral environment.
+For the lithiated LixFePO4 phase, the factor group theory predicts five (3Au +2Bu) extrainfrared-active modes.
+Furthermore, the whole spectral featuresLixFePO4 are consistent with the monoclinic C52h space group.
+In this work we have investigated the structure of variousphosphates using FTIR spectroscopy.
+A comparison of the spectralfeatures allows to point out the spectroscopic fingerprints ofeach class of materials.
+For phospho-olivine structures, in theregion of the internal modes of the phosphate anion, we identifythe symmetric stretching modes with appearance of tripletsin the high-wavenumber region and doublet in the far-infraredregion due to the site-symmetry effect and the correlation effect.
+The appearance of the symmetric and antisymmetric P O Pstretching vibration constitutes the specific spectral fingerprintsof pyrophosphates.
+For Nasicon-like framework, internal modesinvolving the displacement of oxygen atoms of the pseudotetrahedralanions present frequencies closely related to thoseof the free molecule.
+Lantern units present in the o-LFP phasegive rise to infrared bands in the high-wavenumber range whichare attributed to the stretching vibrations of terminal PO3 units.
+Comparison of FePO4·2H2Owith its lithiated Li0.7FePO4·2H2Ophase leads the immediate conclusion that the reduction ofFe3+→Fe2+ and the presence of lithium in the channels of the[FePO4] network induce newIRbands at 495, 454 and 368 cm−1which are attributed to the stretching and bending vibrations,respectively, of Li ions in an octahedral environment.

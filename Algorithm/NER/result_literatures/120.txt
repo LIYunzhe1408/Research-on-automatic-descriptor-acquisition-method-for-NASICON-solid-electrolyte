@@ -1,0 +1,114 @@
+The thickness of solid-state electrolytes (SSEs) significantly affects the energy density and safety performance of all-solid-state lithium batteries. 
+However, a sufficient understanding of the reactivity toward lithium metal of ultrathin SSEs (<100 µm) based on NASICON remains lacking. 
+Severe germanium reduction and decrease in LAGP particle size are detected at the Li–LAGP interface at elevated temperature. 
+Lithium-ion batteries have revolutionized energy storage technology, dominating the application of portable electronic devices and emerging electric vehicles.
+However, state-of-the-art lithium-ion batteries have reached their energy density limit owing to the restriction of electrode materials. 
+Lithium metal is considered as the ultimate anode for next-generation lithium batteries because of its high specific capacity (3860 mAh g-1) and low potential (-3.04 V versus the standard hydrogen electrode). 
+Replacing the conventional graphite by metallic lithium at the negative electrode can boost the specific energy of the cell by at least twofold, depending on the cathode chemistry. 
+However, conventional liquid electrolytes are highly flammable and may induce the formation of lithium dendrites, leading to dangerous short circuits and serious safety concerns.
+All-solid-state lithium batteries (ASSLBs) with solid-state electrolytes (SSEs) have been considered as a promising candidate for the next generation of energy storage technology. 
+It is widely accepted that the use of an optimal SSE can significantly increase energy density and improve safety performance owing to its wide electrochemical window and non-flammability.
+Several solid electrolytes based on polymer, ceramic oxides, ceramic sulfides, and hybrid polymer-ceramic materials have been reported and applied in ASSLB studies. 
+Despite these merits, LAGP and LATP suffer from poor structural stability against Li metal, which dramatically limits their practical application. 
+Janek et al. and Kang et al. have both observed the reduction of LAGP and formation of a mixed conducting interface when LAGP is directly in contact with Li metal, leading to severely increased resistance and failure of the cell. 
+However, such successes are mostly based on thick LAGP (200–1 mm), which will not only lead to higher interfacial resistance but also dramatically lower overall energy density. 
+To compete with the energy density of the liquid-type lithium-ion batteries, the scalable fabrication of ultrathin and self-standing LAGP (<100 µm) that can act as an ASSLB analogue to the current separator in lithium-ion batteries is highly desired but technically challenging. 
+To the best of our knowledge, the thinnest full ceramic (polymer free) LAGP electrolyte reported so far is 200 µm, which is still far thicker than the typical thickness (20–25 µm) in current lithium-ion batteries. 
+In addition, the fabrication processes, hot-pressing and diamond-wire slicing, are not cost-effective. 
+For those seeking to solve these problems, there is still a large knowledge gap between thick and ultrathin LAGP electrolytes in terms of ionic conductivity, mechanical stability, and chemical stability against Li metal, especially under harsh operating conditions (e.g., high temperature and high-rate cycling).
+Reduction in LAGP crystallite size and the development of a preferred lithium (110) orientation are observed via in situ X-ray diffraction, even under low current. 
+The present understanding has provided critical clues for the advancement of the use of ultrathin SSEs for high-energy ASSLBs.
+The LAGP thicknesses were controlled between 70 and 100 µm with ionic conductivities of 2 * 10−5 S cm−1 at 25 degree C and 1 * 10−4 S cm−1at 80 degree C, respectively (see Figure S2, Supporting Information). 
+Figure 1b shows a scanning electron microscopy (SEM) image of a 70 µm thick pellet after sintering, with its X-ray diffraction (XRD) pattern exhibiting the NASICON structure reported in Figure S3, Supporting Information. 
+The LAGP pellets were assembled in symmetrical Li/LAGP pellet/Li cells and cycled at 25 and 80 degree C.
+Figure 1c shows that the cell has greater resistance at 80 degree C than at 25 degree C, although the ionic conductivity of LAGP is higher at the elevated temperature. 
+At 50 degree C the thin LAGP pellets showed an intermediate behavior between that observed at 25 and 80 degree C (see Figure 1): this result suggests that the LAGP–Li interface is linearly influenced by the temperature. 
+The voltage profile evolution of the sample cycled at 25 degree C is related to the probable formation of soft dendrites in agreement with Albertus et al.
+The Ragone tests in Figure 1d were conducted on symmetrical cells at different temperatures. 
+The cell cycled at 80 degree C suffered from short circuit prematurely after seven cycles at 65 µA cm−2, whereas the cell with the same configuration but cycled at room temperature was much more stable until ≈400 µA cm−2. 
+This high-temperature behavior probably arises because our cell essentially became an “electrolysis” cell, causing strong electrochemical decomposition reactions at the interfaces as well as within the electrolyte, which, in turn, caused degradation and short circuits. 
+It is important to note that by using a standard 1-mm-thick pellet, we found no difference in cycling performance between 25 and 80 degree C.
+The Li/LAGP /Li cells are thus much more resistive: although thin LAGP pellets have lower ionic conductivity with respect to mmthick LAGP, the reduced thickness facilitate Li/LAGP /Li cells cycling due to shorter Li+ ions pathways. 
+A thicker pellet likely takes much more time to decompose a large proportion of LAGP or induce the “dielectric breakdown” of the pellet before short circuits appear. 
+The thickness reduction of the pellet (from 1 mm to 70–100 µm) is thus crucial in demonstrating the thermal influence of the lithium metal–LAGP interface.
+Figure 2a shows the ex-situ synchrotron high energy XRD (HEXRD) spectra of the LAGP electrolyte cycled at 25 degree C (at high rate of 400 µA cm−2) and 80 degree C (seven cycles at low rate of 65 µA cm−2). 
+An amorphous shoulder and a broad peak can be clearly observed in both cycled LAGP examples, which may be related to the formation of a Li–Ge alloy (see Figure S5, Supporting Information). 
+This result indicates that the side reactions at the Li–LAGP interface were accelerated at elevated temperature. 
+Figure 2b shows the Rietveld refinement of the HEXRD patterns of the pristine and cycled thin LAGP pellets. 
+The Li1.5Al0.5Ge1.5(PO4)3 compound was used as the starting model for the refinement. 
+Good agreements were obtained between the observed and the calculated HEXRD patterns, with low reliability factors (Rwp = 5.19%, Rwp = 2.27%, and Rwp = 2.40%) for all three samples. 
+The lattice parameter evolution after cycling is compared in Figure 2c. 
+An increase in lattice a of LAGP due to cycling is evident: parameter a is 8.2570 Å for the pristine sample and increases to 8.2585 Å and 8.2590 Å for the LAGP cycled at 25 and 80 degree C, respectively. 
+The c parameter decreases with cycling: it is 20.632 Å before cycling, then decreases to 20.627 Å and 20.6265 Å for LAGP at 25 and 80 degree C.
+This anisotropic volume expansion in the crystal structure of LAGP electrolytes during cycling may lead to cracks owing to local strain and cause contact losses with Li metal. 
+An SEM characterization was further conducted to verify the mechanical integrity of LAGP after cycling. 
+Figure 3a shows SEM micrographs on the cycled cells at 25 and 80 degree C. 
+At 80 degree C, the LAGP electrolyte pellet was fractured both horizontally and vertically, whereas the cell cycled at 25 degree C was substantially stable. 
+In the center of the pellet, a new layer appeared with clusters rich in Ge along with an agglomeration of some bigger particles rich in Al and phosphate (see Figure 3a). 
+To explain the segregation phases at the pellet center, we suppose the decomposition followed the cracks from both sides of the pellet, and some preferential decomposition cross-joining occurred in one layer at the center of the ceramic. 
+On the other hand, the electrolyte cycled at 25 degree C showed only Al-rich segregated particles, which are possibly AlPO4, as indicated by Figure S6, Supporting Information. 
+The presence of a degradation layer with a considerable amount of germanium suggests that the direct contact of Li metal with LAGP at 80 degree C facilitated the interfacial reaction between Li and LAGP.
+This anisotropic volume expansion in the crystal structure of LAGP electrolytes during cycling may lead to cracks owing to local strain and cause contact losses with Li metal. 
+An SEM characterization was further conducted to verify the mechanical integrity of LAGP after cycling. 
+Figure 3a shows SEM micrographs on the cycled cells at 25 and 80 degree C. 
+At 80 degree C, the LAGP electrolyte pellet was fractured both horizontally and vertically, whereas the cell cycled at 25 degree C was substantially stable. 
+In the center of the pellet, a new layer appeared with clusters rich in Ge along with an agglomeration of some bigger particles rich in Al and phosphate (see Figure 3a). 
+To explain the segregation phases at the pellet center, we suppose the decomposition followed the cracks from both sides of the pellet, and some preferential decomposition cross-joining occurred in one layer at the center of the ceramic. 
+On the other hand, the electrolyte cycled at 25 degree C showed only Al-rich segregated particles, which are possibly AlPO4.
+The presence of a degradation layer with a considerable amount of germanium suggests that the direct contact of Li metal with LAGP at 80 degree C facilitated the interfacial reaction between Li and LAGP.
+To obtain detailed information regarding the redox reaction taking place at the metastable Li–LAGP interface, Ge K-edge X-ray near edge absorption spectroscopy (XANES) was conducted on the cycled LAGP samples to reveal their valence state changes. 
+Figure 3b shows the Ge K-edge XANES spectra of LAGP before and after cycling at different temperatures with a reference Ge foil. 
+As shown, the peak intensity of the white line decreased after cycling, and the Ge K-edge shifted to a lower energy. 
+This result clearly confirms that the reduction of LAGP is more pronounced at 80 degree C than 25 degree C, which is consistent with the results of HEXRD. 
+Extended X-ray absorption fine structure (EXAFS) analysis was also carried out to probe the local structure changes of LAGP after cycling. 
+As shown in Figure 3c, the magnitudes of the first, second, and third peaks decreased after cycling and became more severe in the LAGP at 80 degree C. 
+This is similar to the lithiation process of the Ge reference electrode, which tends to form Li–Ge alloys and results in a significant decrease in peak magnitude.
+The peak decrease is due either to the breakdown of the crystalline size or loss of crystallinity. 
+This result clearly confirms that the reduction of LAGP is more pronounced at 80 degree C than 25 degree C, which is consistent with the results of HEXRD. 
+Consequently, we concluded that Ge was significantly reduced by Li metal to form amorphous Li–Ge alloys after cycling, and is more severe when cycling at higher temperature. 
+The change in the oxidation states of Ge4+ in the cycled LAGPs was also investigated by X-ray photoelectron spectroscopy (XPS) (see Figure S7, Supporting Information). 
+High resolution spectra of Ge3d were obtained from the pristine and 25 and 80 degree C cycled electrolytes. 
+As shown in Figure S7, Supporting Information, the binding energies of Ge3d in the three samples are in the following order:
+Compared with the pristine LAGP, the reduced binding energy values confirmed that the reduction of Ge4+ ions occurred after cycling, and the extent of the reduction is greater at 80 degree C than at 25 degree C. 
+Thus, the Ge oxidation state at the interface is affected by the thermal process, moving from Ge4+ in pristine LAGP to Ge2+ and Ge0 in the samples cycled at room temperature and 80 degree C, respectively. 
+This observation corroborates the X-ray absorption spectroscopy (XAS) results in which Ge4+ was more significantly reduced at 80 degree C than 25 degree C.
+The evolution of the amorphous Li-Ge phase due to the reduction of Ge would generate new amorphous/crystalline phase boundaries in the LAGP, making it more vulnerable during cycling due to inhomogeneous lithium diffusion. 
+Consequently, Ge4+ was reduced to Ge0 and formed Li–Ge alloy at the Li–LAGP interface. 
+In addition, the loss of Ge in the LAGP led to its decomposition to the Ge-free AlPO4 (Figure S6, Supporting Information). 
+The structural evolution of Li metal at the Li–SSEs interface could significantly affect the cell performance as well; however, this is typically difficult to detect by XRD due to the small scattering factor of Li metal. 
+In this work, we designed a new coin cell based on a standard casing for a coin cell 2032 with a hole, a polypropylene window, and a copper ring to assure electric contact with the lithium metal, as shown in Figure 4a. 
+The lithium metal was 36-µm thick, and the ultrathin LAGP was 70 µm.
+We were able to monitor the structural evolution of the Li–LAGP–Li symmetrical cell during XRD cycling.
+Figure 4b plots the in situ XRD spectra collected during cycling of the cell along with the corresponding voltage curve in Figure 4c. 
+As shown, the Li–LAGP–Li symmetric cell can sustain a high rate of charge/discharge for a long time when cycling at room temperature. 
+After cycling at 1 mA·cm−2 for about 120 h, Li(OH) begins to form and grow gradually. 
+This may be due to the limited amount of moisture absorbed in the electrolyte. 
+As the cycling proceeds, small changes occur in the crystal structure of LAGP, as manifested as a decrease in peak intensity, peak broadening, and peak up-shift. 
+The broadening of the LAGP peaks suggests a reduced crystallite size, whereas the peak up-shift indicates the shortening of lattice parameters. 
+Table 1 gives these lattice parameters and the crystallite sizes of LAGP in the as-made cell and after cycling for 340 h. 
+The lattice a and c parameters were reduced by ≈0.1% with a decrease in the LAGP crystallite size of ≈27%. 
+The small lattice parameter changes demonstrated that the crystal structure is relatively stable, even under a high current of 2 mA·cm−2.
+Another interesting phenomenon observed from the evolution of the in situ XRD spectra is the preferential orientation growth along the (110) crystal face on the lithium metal surface (Figure 4b–d). 
+Such an orientation is related to the intrinsic feature of lithium-ion electro-migration during the nucleation and growth process.
+In addition, the (110) plane has more steps and kinks with low-coordinated surface atoms, which could provide preferential sites for Li metal deposition/dissolution. 
+The lithium (110) and (200) lines showed very low intensities for the as made cell, but the intensities increased quickly as the cycling proceeded. 
+High (110) line intensity is observed as time <130 h. 
+Figure S8b, Supporting Information shows the variation of intensity ratios of (110)/(200) versus cycling time. 
+In addition the porosity of thin LAGP pellet may cause an increased tortuosity for Li+ transport and an uneven ionic distribution at lithium metal surface with respect to mm thick LAGP: as result the Li-metal plating is favored along (110) direction and the global thin LAGP pellet reactivity is increased at 80 degree C. 
+Our new cell design based on a polypropylene window may help in future experiments regarding the investigation of thin lithium metal and the ceramic solid electrolyte interface.
+In this work we have investigated the thermal and electrochemical stability of the interface between lithium metal and thin self-standing LAGP solid electrolyte. 
+We observed that LAGP becomes more reactive toward metallic lithium at high temperature (80 degree C) than at room temperature (25 degree C), forming amorphous products such as Li–Ge alloy, AlPO4-rich particles, and reduced-size LAGP particles. 
+Meanwhile, during cycling at a high current (over 1 mA cm−2) of LAGP at 25 degree C, the occurrence of the main decomposition is related to the reduced LAGP size and oriented growth of metallic lithium along the (110) direction. 
+We believe that these results contribute to a better understanding of the properties (better stability at room temperature than 80 degree C) of NASICON-type electrolyte and its reactivity (decomposition/ degradation) when in contact with a metallic lithium anode. 
+This coating was cast onto a polypropylene sheet (to prevent the film from sticking) and dried at 50 degree C to evaporate the THF. 
+Then, a flexible film was punched and annealed between two glass disks in a muffle furnace (Nabertherme) at 850 degree C for 10 h in air. 
+The density of the final thin LAGP was around 80% while the standard 1 mm thick LAGP was around 90–95%. 
+Symmetrical Li–LAGP/Li batteries were prepared by applying 36-µm-thick lithium metal disks (prepared at HydroQuebec Shawinigan laboratories) to both sides of LAGP pellets, assembled between two stainless steel spacers in a standard 2032 coin cell.
+Synchrotron HEXRD and XAS: Synchrotron HEXRD images of pristine and cycled LAGP were obtained with a Perkin-Elmer 2D X-ray detector at Beamline 11-ID-C of the Advanced Photon Source (APS) at Argonne National Laboratory. 
+The X-ray wavelength was 0.1173 Å. 
+The curve-fitting procedures for the different elements were performed by means of a least-squares Gaussian Lorentzian peak fitting procedure, after Shirley background subtraction. 
+The C1s peaks were referenced at 283.0 eV (the carbon was from carbide).
+In Situ XRD Cycling: The in situ XRD patterns were collected from a standard 2032 coin cell with a polypropylene window. 
+The total scan time was 1 h with a step size of 0.025degree . 
+Electrical Conductivity: The electrical conductivities of a LAGP pellet and a LAGP-PVDF thin film were determined by 2-pin probe measurement using a Hiresta-UO (Model MCP-HT450, Mitsubishi Chemical Analytech) applying a voltage limit of 100 V . 
+Ten measures for each sample were realized. 

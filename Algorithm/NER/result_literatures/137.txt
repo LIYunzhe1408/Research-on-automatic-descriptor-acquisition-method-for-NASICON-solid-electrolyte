@@ -1,0 +1,100 @@
+Rechargeable seawater batteries (SWBs) are regarded as sustainable alternatives to Li-ion batteries due to the use of an unlimited and free source of Na ion active materials. 
+Although many approaches including the introduction of new catalysts have successfully improved the performance of SWBs, reconsidering the cell design is an urgent requirement to improve the performance and scale up the production of practical batteries. 
+In this study, by adjusting the maximum space efficiency, a rectangular cell is developed which due to its unique architecture, benefits from optimized contact to improve the overall charge transfer in the system. 
+In view of the rigidity of the solid electrolyte, the novel cell model is intended to have adequate flexibility to be easily transported and practically utilized. 
+Furthermore, the enhanced efficiency of the parallel stacked modules, indicates the capability of this cell in practical use. 
+The designed catalyst-free cell system shows a record capacity of 3.8 Ah (47.5 Ah kg−1), energy of 11 Wh (137.5 Wh kg−1), and peak power of 523 mW for individual unit cell, while it also retains performance up to 100 cycles.
+This design paves the way for commercializing rechargeable seawater batteries.
+Renewable energies have emerged as clean alternatives to overcome environmental and energy crisis of the fossil energies. 
+However, due to the alternating availability of renewable energy sources, rechargeable batteries have been unavoidably considered as key intermediate for dispatchable load of their energy.
+At present, Lithium-ion batteries (LIBs) are the most widely used rechargeable energy storage systems.
+However, the future expanding of the LIB technology is limited due to the high cost and scarcity of both core elements of lithium and cobalt.
+In addition, the toxicity of Co raises serious concerns regarding the safety of LIBs.
+The use of cheap earth-abundant metals such as sodium, aluminum, potassium, calcium, and magnesium in their corresponding metal-based batteries which working on the same principle as LIBs, would greatly reduce the cost of battery technology.
+Nevertheless, despite the economic advantage of production process, the large-scale production of these metal-based batteries have been limited by their lower gravimetric and volumetric energy densities.
+In addition, these classes of batteries, further suffer from heat generation during charge or discharge process which gradually reduce the performance of the battery.
+The so-called seawater batteries have been newly conceived to utilize seawater as the abundant source of sodium as the active material.
+The charge process in this system defines as reducing of the Na+ ions and the oxidation of seawater on the anode and cathode, respectively. 
+The stored chemical energy in a reverse process is then converted to the electricity upon discharging (Figure 1). 
+The SWB systems are not only benefiting from the unlimited source of active materials, but also due to their unique open-structured cathode design, they significantly manage the heat circulating of the system to ensure the safety and longer cycle life.
+The theoretical mass and volume energy densities of SWB on the ocean (3145 Wh kg−1 and 3051 Wh L−1) compared to LIB (442 Wh kg−1 and 1619 Wh L−1) further remarks the significance of developing process for SWBs to make them enable for large-scale application as suitable alternatives of LIBs. 
+However, the research progress on rechargeable SWBs compared with that on LIBs, is still in initial stages for commercialization. 
+Our team as a pioneer of SWB systems, have put intense efforts toward investigating several concerns for developing anode liquid electrolytes, Na+ ion-conductive membranes, electrode materials for the anode, and cathode sides and cell system.
+Although these researches based on the coin cell setup, have shown remarkable progress with very high reported discharge capacity, their utilization with consistent reversibility in a commercialized system and without using expensive catalysts, need a critical review in cell design.
+Among different types of cell, rectangular design has shown a number of advantages over other designs (Figure 2). 
+Effective utilization of available space in orthorhombic cases, scalability in different sizes, lower production cost, and simplified thermal management are among the most important benefits of this cell design.
+The uniformity of current density and low internal impedance are another main factors in a rectangular design which lowering the polarization of the electrodes and increasing the capacity of the system. 
+In pursuit of this, we fabricated a rectangular cell to achieve the superior performance of SWB compared with its coin shape predecessor. 
+In the fabricated cell, the cathode and the anode are separated by a square shape solid electrolyte (10 * 10 cm2) which selectively transfer Na+ ions from the seawater to anode part. 
+Even though the performance of the cell effectively improved, however due to the rigidity of solid electrolyte, it can be easily broken during fabrication or transport (Figure 2a). 
+Therefore, with redesigning,herein we adopt a unique rectangular cell for SWB to address the aforementioned issue of inflexibility, while all the superior advantages of rectangular cell design are maintained (Figure 2b). 
+To explore the competency of the designed SWB compared with coin cell model, we analyzed their experimental performance. 
+The results show the superior performance of the cell and its ability to be used in a module for practical applications.
+As mentioned earlier, during last few years we have developed laboratorial coin cell platforms with corresponding flow-type cell testers to scientifically gain methodological knowledge on the concept of seawater batteries. 
+However, the research based setups required to be scaled up to response practical energy demand. 
+Therefore, the aforementioned rectangular cell with a big solid electrolyte was fabricated. 
+The fragility of utilized solid electrolyte however quickly compelled us for redesigning the cell, since the integrated cell was not rigid enough to be fabricated or transported in large scale. 
+Therefore, we considered a clever trick to design a flexible cell while still exploiting the advantages of rectangular cell for producing high mass and volumetric energy density. 
+To this, we intentionally broke down a monolith of solid electrolyte into the small bricks and then parallel assembled them into a latticed aluminum frame. 
+The overall design of the rectangular unit cell can be found in Figure 2c,d. 
+Details of optimized cell components for SWBs have been described in previous studies.
+In summary we have used the stainless steel mesh, carbon cloth +Titanium mesh, NASICON, and sodium–biphenyl (in diethylene glycol dimethyl ether, DEGDME) for anode current collector, cathode current collector, solid electrolyte and organic electrolyte, respectively. 
+Construction of double sided anode compartment started with setting 12 rectangular-shape NASICON ceramics solid membrane into the latticed aluminum frame followed by attaching to a punched laminate film. 
+This is the process of devising one side plate. 
+In the next step a stainless steel current collector fixed between two fabricated plates. 
+Then after injecting non-aqueous electrolyte, the plates edges were sealed and assembled with the cathode current collector (carbon cloth). 
+Since the cell constructed in the discharged state, the majority of fabrication steps was performed in air. 
+Figure 2 represents the detail components of the unit cell in different steps of assembling. 
+The overall efficiency of a battery from combining of certain number of these unit cells, are highly dependents on the performance of individual cells in which the weakest cell is in the utmost importance. 
+Therefore, quality of junctions, the sealing step and the assembling of anode and cathode should be carefully optimized in a reproducible manufacturing process to maximize the performance of unit cells. 
+Thus, the fabricating steps of the cell should constantly be improved to establish cost-efficient and high-quality product.
+Figure 3 shows the charge–discharge curves of the SWBs at a current densities of 0.28 mA cm−2 (the current density is calculated based on the solid electrolyte area) with a discharge cut-off voltage of 1.0 V . 
+The maximum capacity of the rectangular cell was achieved by two-step charging process at constant current of 0.28 mA cm−2 followed by constant voltage of 3.9 V . 
+The resulted discharge capacity in this method was lifted to the larger value of 47 .5 mAh g−1 and 69.3 mAh cm−3 (Figure 3e,f). 
+The achieved power density of rectangular SWB in this method (137.5 mWh g−1 and 200.6 mWh cm−3) having no electrocatalyst, is competitive with those of reported SWBs and other hybrid alkaline air batteries which used electrocatalyst (Table 1).
+The cycle performances of our new designed cell were examined by repeated galvanostatic charge–discharge cycling (1 cycle = 6 h) at 0.42 mA cm−2. 
+Figure 4a demonstrates stable cycling performance over 100 cycles for rectangular SWB correspond to a long charge/discharge cycling life for 600 h which is approving that the sodiation and desodiation processes are reversible. 
+Outstanding cyclability evidenced by the voltage efficiency of 73%, 71%, and 70% upon desodiation during the 1st, 50th, and 100th cycles, respectively, representing 96% capacity retention after 100 cycles (Figure S1, Supporting Information).
+Although the coin cell SWB also has shown almost stable cycling performance (Figure 4b), however the larger charge/ discharge voltage gap dramatically reduce the voltage efficiency of this cell to less than 50% compared with that of rectangular cell which demonstrate far better efficiency (Figure 4c). 
+This efficiency of the battery can be further lifted with utilizing a suitable bifunctional oxygen evolution reaction (OER)/oxygen reduction reaction (ORR) electro catalyst in the cathode part. 
+The power performance of the designed cell was compared with that of coin cell with performing a discharge current densities at 8 mA cm-2 and analyzing the terminated discharge potential (Figure 4d). 
+To elucidate the origin of enhanced performance of rectangular cell in comparison with coin cell we performed electrochemical impedance spectroscopy (EIS). 
+The EIS spectrums of both setups have included a semicircle at the lower frequency (Figure 4e). 
+The real axis intercepts of this semicircle corresponds to the total resistance of system, containing both interfacial and grain resistances.
+The observed lower ASRs for the rectangular cells arising from the efficient contact through the whole system which could further lead to the great enhancement in the durability of the battery setups.
+To examine the practical performance of our rectangular SWB, the power performance of stacked cells (in parallel) were obtained (Figure 5a). 
+Figure 5b represents that the increased number of cells in a stack reciprocally increases the power output. 
+The increased number of stacks, interestingly has an advantage of reducing the charge/discharge voltage gap which accordingly enhance the energy efficiency of the whole system (Figure 5c). 
+This represents that our new competent design, practically can be utilized with remarkable operational stability at high voltage and high energy density, which is of great importance in the progress of electrochemical storage systems. 
+Regarding the main concept of rechargeable SWBs, which are operating with open cathode setup in the seawater, the application of theses system in the marine, offshore and seaside power sources, or energy storage are expected to be suitable. 
+The light buoys are floating devices which are used in the sea/ocean to help navigation (Figure 5d). 
+At present, the energy source of these equipment’s for mounting their LED lights, global positioning system (GPS), and monitoring systems are lead-acid batteries. 
+Due to the inefficiency and safety issues of lead-acid batteries, rechargeable SWBs are perfect alternative to them. 
+This seawater battery is charged by generated electricity of solar cells during the daytime, and then continuously powers buoy at nighttime. 
+The practical application of our rectangular cell were developed in a module of 200 stacked unit cells aiming at providing electric power for in marine buoys (Figure 5e). 
+The Figure 5f and Movie S1, Supporting Information, show the successful utilize of the stacked module which with one time charging, continuously powered a light buoy for 9 days.
+The theoretical energy density of seawater battery operated in the ocean is greater than Na–air battery. 
+SWB in-land with considering 6 m salt water, also shows a significant theoretical energy density (Figure 6). 
+Although our designed cell has opened a new horizon to the commercialization progress and improving the performance of SWBs, the practical energy density of our designed cell is still less than its theoretical value. 
+Therefore, extensive researches on the fabrication of battery platforms and components and the developing of cost-effective catalysts need to be considered for further enhancing the volumetric and gravimetric energy densities. 
+Na-ion conducting membrane is one of the key components of the cell for selective transporting of Na-ion from/to seawater to/from anode compartment. 
+Currently, seawater batteries employ ceramic electrolytes, which their performance can be lifted by doping with appropriate cations for better Na-ion conductivity. 
+Moreover, optimizing the thickness of these membranes are also very critical points in terms of overall battery weight and robustness. 
+Cathode compartment critically involved in the power performance, energy efficiency, and cycling stability of seawater batteries. 
+According to our research outputs, OER and ORR are the main routes which are involved in the charging and discharging of seawater batteries. 
+Mechanistic investigation on the understanding and improving the reaction kinetics and studies on the modification of electrocatalyst are highly advised to develop high-power and long-lasting batteries. 
+In addition, exploring the lightweight and low-cost alternatives for mesh-type titanium frames will significantly recover the operation of this battery system.
+A new rectangular cell with Na+ ions storing configurations, were designed by connecting NASICON solid electrolyte and carbon cathode current collector. 
+The results show that compared with coin cell, the charge–discharge performance of the rectangular cell significantly improved. 
+The results of pulsed charge–discharge and the improved performance of the stacked cell represent that the designed cell has the capability of working in the higher current in practical condition to provide enhanced performance of rechargeable seawater batteries. 
+These results are competitive with other previously reported commercial batteries system. 
+The improved performance of the new design is attributed to increased conductivity and the efficient space utilization of the system.
+The cell has Initially 5 h rest time for wetting the carbon cathode current collector before tests. 
+The charge–discharge cycle performance of the SWBs was performed at constant current density of 0.28 mA cm-2. 
+Further charge–discharge behavior of rectangular cell was analyzed at a constant current density of 0.28 mA cm-2 followed by constant potential of 3.9 V to calculate the maximum capacity of the cell. 
+The charge–discharge rate performances were tested at various currents ranging from 0.141 to 2.111 mA cm-2. 
+Polarization and power test was recorded at a scan rate of 1.4 mA s-1 with 50% charging state. 
+Electrochemical impedance spectroscopy was carried out at applied potentials of open circuit voltage. 
+The spectra were collected at an ac voltage of 10 mV with the frequency range from 0.01 Hz to 913 KHz.
+All electrochemical tests were performed at room temperature.
+

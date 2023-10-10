@@ -1,0 +1,24 @@
+Relative 31P MAS NMR peak intensities of the five detected signals, attributed to the environments [P(OZr)4-n(OIn)n(n)0-4)], are close to those expected for a random distribution of octahedral cations.
+Combined NPD and XRPD Rietveld studies showed that the occupation of M2 sites by the extra Na+ cations produces a slight distortion of the structure.
+Low temperatures freeze Na mobilities and permit the assignment of the resulting NMR bands to Na+ in the M1 and M2 sites.
+The mobility of Na at room temperature increases with the Na content.
+For samples with x < 0.8, Na ions are relatively localized; however, for x >= 0.8, Na mobility increases, yielding a unique signal in the 23Na NMR spectra.
+The increase of Na mobility causes spatial disorder at the M1 site as deduced from the variable-temperature NPD study.
+At low temperatures, the activation energies do not change significantly.
+So, the observed increase in bulk conductivity by 2 orders of magnitude in the low-temperature regime is ascribed to an increase of mobile carrier, Na+, concentration.
+NASICON materials have been extensively studied because of the high conductivity shown by some compositions.
+The original NASICONs were solid solutions derived from NaZr2P3O12 by partial replacement of P by Si with Na excess to balance the negatively charged framework to yield the general formula Na1+xZr2P3-xSixO12 (0 < x < 3).
+The NASICON structure has a negatively charged 3D framework, of general formula M2X3O12, within which the Na+ cations reside, in full or partially occupied sites.
+From variable-temperature 23Na NMR data for Na1+xZr2-xInx(PO4)3 (not MAS), it was also possible to characterize sodium mobility.
+We showed that for the phases Na1.4M1.6In0.4(PO4)3 (M = Ti, Sn, Zr, Hf) the sizes of the bottlenecks between M1 and M2 sites correlate with ion conductivity.
+Initial XRPD data indicated that the members of this series for x < 1.8 are crystalline single phases which have the rhombohedral R3hc NASICON-type structure.
+In the NASICON structure, each tetrahedron shares oxygens with four octahedra, two in the same M2(PO4)3 unit and two in adjacent units.
+The position of the 31P MAS NMR peaks depends on the polarizing strength of cations that share oxygens with the PO4 tetrahedra.
+The peaks occur at increasingly negative chemical shifts as the number of Zr neighbors increases.
+The low-temperature 23Na MAS NMR study has confirmed the existence of sodium mobility for all compositions at room temperature and the mobility increases considerably for x > 0.8.
+At lower temperatures, some defect clustering or local ordering of the mobile ions occurs, leading to an increase in the activation energy for conduction.
+The variable-temperature NPD study shows the development of a strong cation spatial disorder at the M1 site over the temperature range where the curvature is observed.
+Both phenomena are likely related as the relative destabilization of Na at M1 with temperature is probably responsible for decreasing the activation energy.
+The Na M1 sublattice 'melting' decreases the activation energy as the relative destabilization of that site is essential for ionic conductivity.
+Lowtemperature 23Na MAS NMR spectra show low sodium mobilities, allowing the assignment of the two detected signals to Na cations at the M1 and M2 sites.
+At room temperatures, Na mobility increases with Na content.

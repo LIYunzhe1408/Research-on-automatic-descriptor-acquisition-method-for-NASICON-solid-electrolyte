@@ -1,0 +1,91 @@
+Subsolidus  sections  in  the  systems  Li   have been studied by X-ray powder diffraction.
+The compound Li In(PO  has been synthesized, and .
+the nasicon-type solid solution Li  has been found to exist.
+These complex phosphates are dimorphic, with the irreversible-transition temNa PO In  and Na PO In 4 3 2 3 2 4 3 920°.
+Ionic conductivity has been 820° perature equal to 675 and  measured in some phases in the system.
+
+
+Alkali-cation conductors, in particular lithiumand sodium-ion  conductors,  are  especially  interesting  on account of the maximum energy gain, which guarantees their future in the production of miniature lithium batteries and traction batteries for electromobiles.
+It is, however,  only  in  rare  cases  possible  to  prepare  compounds that possess all of the required properties.
+Most of  the  phases  synthesized  have  high  conductivities either  at  relatively  high  temperatures  or  (when  polymorphism  exists)  in  high-temperature  phases.
+In  this context,  search  for  new  lithium  or  sodium  superionic materials remains a challenging problem.
+Three-dimensional  superionic  conductors  with rhombohedral  frameworks  are  promising  materials for solid-electrolyte applications.
+The most efﬁcient representatives  of  this  group  are  sodium  zirconium silicophosphate  Na (NASICON)  and Na , in which ferroelectric and superionic  properties  were  discovered.
+Ceramics  made  of these compounds have a record-breaking conductivity at   S/cm).
+The creation of efﬁcient superionics  cannot,  however,  be  considered  to  be  a  completely solved problem.
+For NASICON, a complicating factor is the complexity of preparing it in the form of  single  crystals;  for  Na ,  this  is  the  high cost  of  scandium.
+A  family  of  lithium and  sodiumcontaining  ion  conductors  with  the  general  formula M3  = Sc, Cr, Fe,  or  In,  is  known ;  these  compounds  are  NASICON  derivatives  and  have  framework  architecture.
+Apart  from  the  preparative  synthesis  of  these  compounds, 
+formation This  work  studies  phase  the    systems  in  order  to  determine  the 4 4 3 preparation parameters for NASICON-related phases.
+The starting chemicals used were lithium and sodium monophosphates  (both  of  chemically  pure  grade;  the and H latter prepared by dehydrating Na PO   indium  monophosphate  precipitated  by  NH HPO 4 2 4 (pH 4.5) from a solution of chemically pure indium sulfate .
+The precipitate was ﬁltered, dried, and calcined at  .
+The X-ray diffraction patterns for the starting chemicals corresponded to the literature data.
+EXPERIMENTAL– – Phase formation in the Li  and Na InPO   systems  was  studied  by  X-ray  powder  diffraction.
+Test samples were prepared in 2–10 mol % steps, ∼ 1.5   mm compacted  to  disks  8  mm  in  diameter  and  – high,  annealed  at  PO   for  100  h  (system  Li 4for 200 h (system ) or at 800, 900, and  4 – Na ), and then quenched in liquid nitrogen.
+The   angle range was  with  0.02   steps.
+PROFAN  and  DRON-3  programs were used to digitize X-ray diffraction patterns.
+Unit cell parameters were calculated using the GSAS program package with interface EXPGUI, which makes it possible to carry out full-proﬁle Rietveld analysis of a power X-ray diffraction pattern for a  known structure.
+Conductivity measurements were performed on a Novocontrol Beta-N impedance meter within the frequency range from 0.1 Hz to 3 MHz and on R5083 and  E7–12  ac  bridges.
+The  measurement  cell  was  a quartz  cell  with  platinum  electrodes,  which  were applied  by  consecutive  layer-by-layer  drying  and burning-in  at  577–727°.
+The  samples  prepared  by ceramic technology were disks about 1 mm high and 8–10 mm in diameter.
+IR spectra were recorded as KBr disks in the rangeRESULTS AND  DISCUSSIONIn  the  system  Li3PO4–InPO4,  two  complex  phosphates were found to form: Li3In(PO4)2 (compound I) and Li3In2(PO4)3 (compound II).
+Compound I was prepared by the authors for the ﬁrst time.
+The compound  has  not  a  homogeneity  range  within  50  ± 2 mol % InPO4. 
+The X-ray powder diffraction pattern for compound I was as in Fig.1.
+Complex phosphate II has a NASICON-type structure.
+The structure is a 3D framework built of corner-sharing  InO6  octahedra  and  PO4  tetrahedra.
+In complex phosphate II, unlike in NASICON occupies  two  partially  populated positions), there is a single position for the lithium atom with the 100% occupancy.
+The X-ray diffraction pattern was indexed with reference to the lite-rature data.
+The results of indexing are found in Table 1. An extensive homogeneity region up to 80 mol % InPO4 was dis-covered for compound II;
+
+Unit  cell  parameters  (a, b,  and  c)  were  plotted  as functions  of  indium  phosphate  percentage  within  the homogeneity  region  .
+The  linearity  of  these plots conﬁrm the existence of solid solution based on compound II.
+
+In  the  system  Na3PO4–InPO4  (800–1000°C),  solid solutions based on the high-temperature sodium monophosphate  phase  (space  group  Fm3m)  were  found  to exist (Fig.3).
+The extent of this solid solution was 10–20 mol %  InPO4 regardless of whether samples were quenched in air or furnace-cooled.
+The strongest X-ray diffraction lines in the solid solution were indexed assuming an fcc lattice; all lines were, however, indexed on the assumption of orthorhombic crystal system, which indicated a distortion  of  the  cubic  lattice  with  symmetry  lowered  to orthorhombic one.
+The results of indexing for the solid solution are listed in Table 2.
+Complex  phosphates  Na3In(PO4)2  (compound  III) and Na3In2(PO4)3 (compound IV) exist in the system in the  range  800–900°.
+Compound  III  is  dimorphic:  at 675°C, it irreversibly transforms to the high-temperature α phase; above 920°C, it decays to solid solution Na3(1– x)Inx/3PO4 and complex phosphate IV.
+The X-ray diffraction pattern for compound III was indexed using the literature data (Table 3); compound III was prepared in the form of the high-temperature phase (space group P21/c).
+Complex phosphate IV is also dimorphic, with the irreversible  phase  transition  occurring  at  ∼820°C.
+Its high-temperature  α  phase,  which  belongs  to  the NASICON  structure  type  (space  group  R c),  was obtained  in  our  experiments.
+The  compound  has  anVIIImol % InPO4Fig.3.
+ System Na3PO4–InPO4 (800–1000°C).
+insigniﬁcant homogeneity range (65–67 mol % InPO4).
+We also obtained the low-temperature β-Na3In2(PO4)3 phase by annealing a stoichiometric blend of the starting components at 750°C for 400 h.
+X-ray diffraction patterns for the β and α phases are shown in Fig.
+4.In the range 75–85 mol % InPO4, a mixture of the αand β-Na3In2(PO4)3 phases exist; this indicates that the low-temperature β phase is stabilized by indium ions.
+Starting with 90 mol % InPO4, α-Na3In2(PO4)3 + InPO4 mixtures exist.
+At  1000°C,  Na3In2(PO4)3  is  the  only  compound existing in the system Na3PO4–InPO4, apart from the solid  solution.
+Figure  5  show  IR  spectra  for  the  two  compounds discovered in the system Li3PO4–InPO4. The regions of stretching  vibrations  (900–1200  cm–1)  and  bending vibrations (500–700 cm–1) are recognized in the spectra.
+Comparison of the spectra shows that these vibrations  are  due  to  different  phases.
+The  anion    in compound IV has higher symmetry, which is veriﬁed by  the  existence  of  only  three  stretching-vibration bands.
+Band splitting in the spectrum of compound IV is stronger, signifying stronger distortion of the anion 3– PO4.
+Figures 6 and 7 show IR spectra for the solid solution  and  the  two  compounds  that  exist  in  the  system Na3PO4–InPO4.  
+The  absorption  bands  appear  in  the range up to 1200 cm–1. 
+The measured frequencies cor3– respond to the vibration frequencies known for  PO4 groups in alkali phosphates and Group I–III phosphates.
+In the frequency range 1200–800°C, a strong broad band  appears  with  a  well-deﬁned  multiplet  character.
+In  compound  III,  these vibrations  of  vibrations appear as a band at 950 cm–1. 
+Weak splitting of the triply degenerate mode (above 950 cm–1) is indicative of the existence of P–O bonds with rather equalized bond energies.
+The bending frequencies lie below 700 cm–1. Bending vibrations appear as a strong band at 572  cm–1  in  the  spectrum  of  the  solid  solution.
+The weak band at the instrumental threshold (420 cm–1) canbe assigned to a component of the doubly degenerate 3– PO4 bending mode in   groups.
+Thus, we can conclude that  high-symmetry    anions  exist  in  the  solidsolution  structure.
+Their  existence  implies  a  random distribution  of  sodium  and  indium  cations  over  the crystal  lattice.
+Conductivity  was  measured  for  the  solid  solution samples  Li0.96In2.68(PO4)3  and  Na2.4In0.20PO4.  The  relationship  between  the  ohmic  resistance  and  reactance for the Li0.96In2.68(PO4)3 sample is illustrated by Fig.8.
+
+From this ﬁgure, the ohmic resistance of the sample is R = 38 Ω.
+The impedance of the sample can be converted  to  electrical  conductivity  of  the  material  with account for the geometrical sizes of the sample as follows: σ = 1/R × d/S, where d is sample thickness and S  is surface area.
+Using d = 0.21 cm and S = πD2/4 = 1.26 cm2, we obtain σ = 0.44 × 10–2 S/cm, which corresponds in the order of magnitude to the ionic conductivity at 300°C of well-known lithium conductors such as  Li3Fe2(PO4)3  and  other  NASICON-isostructural phosphates.
+The  conductivity  versus  temperature relationship  was  derived  for  the  solid  solution Na2.4In0.20PO4; the 300°C conductivity is 2.2 × 10–3 S/cm.
+The  results  of  our  study  are  as  follows.
+The  full interaction  scenario  was  elucidated  for  the  systems formed  by  lithium  (sodium)  and  indium  phosphates.
+The  existence  of  previously  known  complex  phosphates  (Li3In2(PO4)3,  Na3In(PO4)2,  and  Na3In2(PO4)3) was  conﬁrmed;  complex  phosphate  Li3In(PO4)2  was synthesized  time.
+The feasibility to stabilize the low-temperature  Na3In2(PO4)3  phase  by  indium(III)  ions  was demonstrated.
+Two NASICON-related phases exist in the systems studied, namely, the solid solutions Li3(1 – x) In2 + x(PO4)3 and Na3(1 + x)In2 – ı(PO4)3. 
+In the solid solutions based on compound  II,  the  conductivity  cation  (Li+)  occupies one, fully populated crystallographic position, whereas in the solid solutions based on compound IV, the con-ductivity  cation  (Na+)  occupies  two  positions,  one being one-third ﬁlled.
+Considering this fact in terms of the  conducting  properties  of  the  phases  we  synthesized,  we  ﬁnd  that  sodium-ion  conductors  show  the greatest potential for use.
+Vacancies should be generated  in  order  to  improve  the  conductivity  of  lithium NASICON-related phases; 
+in  this  case,  the  aliovalent  substitution  scheme  is In3+    3Na+  and  the  number  of  vacant  crystallographic positions is smaller.
+
+

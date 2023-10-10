@@ -1,0 +1,20 @@
+Compared with conventional lithium-ion batteries, all-solid-state lithium batteries (ASSLBs) based oninorganic solid electrolytes (ISEs) are relatively new research hotspots, which can overcome toughchallenges in conventional lithium-ion batteries, such as potential combustion accidents resulted fromflammable liquid electrolyte solvent, low energy density, and fussy manufacturing process.
+In this review,we focus on the ionic conductivity and stability of ISEs by discussing defect chemistry, ion-doping orelemental substitution, ion-transport mechanism, phase stability, and interfacial stability in representativeISEs (e.g., LISICON-like, NASICON-like, perovskite/anti-perovskite, and garnet electrolytes).
+The generalillustration of structures and fundamental features being important to ionic conductivity or stability areexamined, including ion occupancies, ion migration paths and dimensionalities, carrier types, point defects,ion-doping sites, and interfacial structures.
+Experimental and theoretical studies are discussed in parallel togive a deep and comprehensive understanding on ion transport, ion doping, and stability in ISEs.
+Thecommon features of Li-ion transport mechanism and several possible research directions are also suggested for facilitating further improvement on the ASSLBs performance.
+We believe this review will contribute tothe deep understanding on the ionic conductivity and stability of ISEs and help for further development ofadvanced ISEs in the field.
+LISICON-like ISEs are promising solid electrolytes for ASSLBs because of their high ionic conductivityand intimate solid/solid contacts.
+However, their chemical and electrochemical stability is the biggestproblem.
+How to improve the interfacial stability of electrodes/LISICON-like ISEs is very important.
+Choosing low electric potential anode electrodes, such as Li-In alloy (electric potential is about 0.6 V), canease or inhibit the reduction of LISICON-like ISEs.
+Introducing artificial buffer layer between electrodesand LISICON-like ISEs, such as LiNbO3, forms stable interfacial layer with low resistance to enhance theperformance of ASSLBs.
+LISICON-like ISEs with multiple polyanios, such as Li3PS4-xClx and Li3PS4-xOx,can enhance their chemical stability.
+LATP or LAGP in NASICON-like ISEs is promising candidate if the reduction of constituent Ti byLi-metal in the battery can be suppressed by the improvement of anodes or by controlling interfacial layerbetween the anode and the ISE.
+Furthermore, the wettability and compactness of NASICON-like ISEs arepoor, which causes high interfacial and GB resistances.
+Thus, how to improve these two aspects, are alsoessential in enabling the applications of LATP or LAGP.
+For perovskite LLTO ISE, the poor stability and low GB conductivity are key issues.
+Studies ofion-transport mechanism at grain boundary are important for the design and optimization of LLTO.
+Li3OXanti-perovskite is a potential ISE due to its high ionic conductivity.
+But Li3OX is thermodynamicallymetastable and may decompose to Li2O and LiX.
+In addition, the understanding of ion-transport mechanismat bulk and grain boundary is helpful in revealing the structures of Li3OX interfaces and developing relevantmodels and theories.

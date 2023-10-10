@@ -1,0 +1,84 @@
+An impedance-type, solid state thick-ﬁlm humidity sensor based on a NASICON-type proton conductor, HZr (PO ) has been developed and tested in a wide range of temperature (25–2508C) and relative humidity (2–100%). The ﬁlm sensor showed enhanced sensitivity compared to the bulk sensor and fast and reproducible response ( | 10–15 s), even at ambient temperature. Long-term tests of the ﬁlm humidity sensors show relatively good agreement with the commercial humidity sensor, OMEGA-RH-20C at room temperature, and excellent agreement with commercial Vaisala-sensor at higher temperatures over several weeks. The sensor signal is dependent on the thickness, as well as on the microstructure of the ﬁlm.
+
+1998 Published by Elsevier Science B.V. All rights reserved.
+
+Keywords: Humidity sensor; Impedance; Thick ﬁlm
+
+1. Introduction
+
+There is increasing need for humidity sensors applicable to consumer products, air conditioning systems, and medical and industrial equipment. Several methods have been devised, and many solidstate humidity sensors have been researched based on ceramics, polymers and solid electrolytes. Ideally, such sensors provide a direct electrical signal, e.g., potentiometric, amperometric or conductimetric as a function of humidity in the atmosphere [1].
+
+Although various humidity sensors have been developed, there are many problems regarding reliability and long-term stability, and only a few sensors are available for applications at higher temperatures. Many problems are attributed to complex interactions between the sensitive surface of the
+
+sensor material and the ambient gases [2]. At the present the materials for commercially developed humidity sensors are mainly organic polymer ﬁlms or porous ceramics. However, polymer ﬁlms cannot operate at high temperature and high humidity, show slow response, long-term drift and degradation [3]. Ceramics, in particular metal oxides, have shown advantages in terms of their mechanical strength and physical and chemical stability [4]. Ceramic materials have been studied for humidity sensor application mainly as porous sintered bodies, prepared by traditional ceramic processing [5]. Porous materials possess a unique structure consisting of grains, grain boundaries, surfaces and pores, which make them suitable for humidity sensor application, if the microstructure can be controlled [6]. The modiﬁcation of the microstructure and the chemical composition of porous ceramic materials permits the optimization of the sensitivity and tailor-
+
+0167-2738/98/$ – see front matter PII: S0167-2738( 98 )00376-2
+
+1998 Published by Elsevier Science B.V. All rights reserved.
+
+P. Shuk, M. Greenblatt / Solid State Ionics 113–115(1998)229–233
+
+ing for speciﬁc application. The major disadvantage of the porous ceramic humidity sensors is the need for their periodic regeneration by ‘heat cleaning’ to recover their humidity-sensitive properties [5].
+
+Most of the humidity-sensing materials used at high temperature are based on sintered metal oxides, including SrCeO -based electrolytes [7], MgCrO – TiO [8–10], ZrO –MgO [10], Ba Sr TiO [11], (Pb,La)(Zr,Ti)O [12], TiO –K Ti O [13] and rutile phase TiO [4].
+
+There is a great demand for advanced technology humidity sensors for automatic in-line humidity control in a variety of industrial systems at relatively higher temperatures. For several years we have been investigating materials for humidity sensors applicable at higher temperatures (over 1008C) [14–25]. Recently we reviewed the results on humidity sensors developed in our group [26]. Humidity sensors based on HZr (PO ) or composite HZr (PO ) ? 4 3 4 3 ZrP O , speciﬁcally as impedance-type sensors were found to be the most promising for humidity measurements at high, over 4008C, temperatures [25,26]. In this paper we present the results of new ﬁlm humidity sensors based on HZr (PO ) . 4 3
+
+2. Experimental
+
+(NH )Zr (PO ) was synthesized by hydrothermal method in a stainless steel autoclave lined with poly(tetraﬂuoroethylene). The appropriate quantities of zirconyl chloride octahydrate (ZrOCl ? 8H O, 99.999%, Aldrich) and ammonium dihydrogenphosphate (NH )H PO , 99.99%, Aldrich) were dissolved separately in water, mixed, sealed into teﬂonlined steel autoclaves and hydrothermally treated at 2508C for 20 h [27]. The crystalline powder of (NH )Zr (PO ) was ﬁltered, washed with deionized water and dried in air ﬁrst at room temperature and then at 2008C for 2 h. Hydrogen zirconiumphosphate, HZr (PO ) , was prepared by heating 4 3 in air at 6508C for 5 h. The room (NH )Zr (PO ) 4 3 temperature patterns powder X-ray (PXD) of the ultraﬁne powders were obtained with a SCINTAG PAD V diffractometer with monochromatized Cu Ka radiation at a 2u scan of 0.58 / min. Thermogravimetric analysis (TGA) measurements were carried out in the temperature range
+
+diffraction
+
+25–6008C with a TA Instruments DSC 2910 and TGA 2050 with a heating and cooling rate of 28C / min.
+
+terpinol and ethanol) and a binder
+
+The humidity-sensitive paste has been prepared by suspending HZr (PO ) , powder with a small amount of LiCl (1.0 wt. %) in an organic solvent (e.g., (e.g., ethylcellulose). The paste was used, with standard thick-ﬁlm methods, to print the humidity-sensitive ﬁlm on an alumina substrate, which had preprinted comb-shaped Pt-electrodes on one side and a Ptheater on the other side (Fig. 1). The addition of LiCl with a melting temperature of 6148C [28] allowed the sintering of the sensitive ﬁlm at a relatively low temperature (6508C). The microstructure of the sintered humidity-sensitive ﬁlms was studied with a Field Emission Scanning Electron Microscope (FESEM, Model DSM 962, Gemini, Carl Zeiss, Inc., Germany). The electrical properties of the ﬁlm sensor as a function of relative humidity were measured in a ‘climate chamber’, where the temperature and the humidity could be controlled 618C and 61% RH, respectively. The current as a function of relative humidity was measured with a specially developed electronic box operating at a ﬁxed applied voltage and frequency. The humidity in the ‘climate chamber’ was adjusted from 2–5% RH (relative humidity) to 100% RH, while the operating temperature was varied between 25 and 2508C. The climate control in the chamber, the data collection and analysis were carried out by a PC, and the output signal (current vs. RH at a ﬁxed temperature) was presented graphically.
+
+Fig. 1. Schema of ﬁlm humidity sensor.
+
+P. Shuk, M. Greenblatt / Solid State Ionics 113–115(1998)229–233
+
+3. Results and discussions
+
+The PXD data conﬁrmed the formation of the triclinic phase of HZr (PO ) , which is stable up to | 6508C and decomposes at temperatures . | 7008C to ZrP O and ZrO as was conﬁrmed by TGA measurements analysis (TGA) measurements show a weight loss of 1–2% at 150–2008C attributed to the loss of water from the 1H O groups (physically and chemically absorbed on the surface).
+
+In Fig. 2 the scanning electron micrograph of HZr (PO ) ceramic ﬁlm (0.07–0.15 mm thick) 4 3 sintered at 6508C for 30 min, shows that the sensor ﬁlm is porous (35–40%, with an average pore size of 500 nm). The sintered ﬁlm is characterized by cubic and rectangular grains and mainly by intergranular pores. The sintered comb-shaped platinum electrodes also have a very porous microstructure which enhances water vapor diffusion to the electrode/ electrolyte interface.
+
+In Fig. 3 the current-humidity characteristics (applied voltage 5 1 V) for sensor prototypes with different thicknesses are shown. With increasing ﬁlm thickness the conductivity of the ﬁlm increases and becomes more sensitive to changes of relative humidity. The ﬁlm sensor displayed fast and reproducible response, around 10–15 s, to changing humidity at ambient temperature. At lower temperatures ( , 1508C) hydrogen zirconiumphosphate is
+
+Fig. 3. Sensor response as a function of ﬁlm thickness.
+
+present in the form of HZr (PO ) ? xH O hydrate and its proton conductivity is highly dependent on the presence of water. It was shown that the conductivity of hydrate is an order of magnitude higher than that of the dehydrated HZr (PO ) [21,29]. The 4 3 presence of open porosity permits water condensation in the capillary pores, depending on the pore sizes and their distribution. The easy dissociation of physisorbed water, due to the high electrostatic ﬁelds in the chemisorbed layer, produces H O groups and charge transport occurs when H O releases a proton to a nearby H O molecule and resulting hopping of protons from one water molecule to another (Grotthus chain reaction).
+
+At higher temperatures dehydration takes place and chemisorption of water is only responsible for the humidity dependence of proton conductivity of hydrogen zirconiumphosphate. The large increase in the conductivity with increasing relative humidity (RH) suggests a charge transfer the electrode/electrolyte interface (Fig. 4): H O(electrode/electrolyte) ﬁ
+
+reaction at
+
+Fig. 2. Scanning electron micrograph of the surface of sintered ﬁlms of HZr (PO ) . 4 3
+
+which will increase the total proton concentration in the solid electrolyte. Film fabrication that greatly increases the sensing surface could also increase
+
+P. Shuk, M. Greenblatt / Solid State Ionics 113–115(1998)229–233
+
+Fig. 4. Electrode reactions on the gas /electrode/electrolyte interface of the ﬁlm sensor.
+
+interference by other species. The effect of selected impurity gases, such as ethyl alcohol (C H OH) and ammonia (NH ), on sensor response was also studied. The sensor signal was not affected by ammonia or alcohol in the 100–1000 ppm range at relative humidities of 15–60%. Long-term tests of the ﬁlm humidity sensors show relatively good agreement with the commercial humidity sensor, OMEGA-RH-20C at room temperature over several weeks (Fig. 5). In addition, the prototype ﬁlm sensor was successfully tested in the climate chamber in a
+
+Fig. 6. Comparison of the response of the HZr (PO ) sensor with that of the commercial Vaisala sensor at 1258C.
+
+wide temperature (25–1508C) and relative humidity (2–100%) range in good agreement with a commercial humidity sensor by Vaisala (Fig. 6). Preliminary tests of the ﬁlm sensor in the climate chamber at higher temperatures (175–2508C) show good and reproducible response to change from dry air to steam y(Fig. 7). To our knowledge, no commercial humidity sensor is available in this temperature range for in-line humidity measurements.
+
+The sensor signal is dependent on the ﬁlm thickness of the material as well as on the microstructure of the ﬁlm. Further investigations are necessary to optimize the thickness and microstructure effects to obtain optimal sensitivity and response for this HZr (PO ) ﬁlm sensor.
+
+4. Conclusions
+
+An impedance-type, NASICON-based proton-conductor, HZr (PO ) solid state thickﬁlm humidity 4 3 sensor has been developed and tested in a wide range of temperature (25–2508C) and relative humidity (2–100%). The ﬁlm sensor shows enhanced sensitivity to humidity changes compared to the bulk sensor, and fast and reproducible response, around 10–15 s, even at ambient temperature. The sensor signal is not affected by ammonia or alcohol in the 100–1000 ppm range at relative humidities of 15–
+
+Fig. 5. Comparison of the long-term response of the HZr (PO ) 4 3 ﬁlm sensor with that of the commercial sensor, OMEGA-RH 20C.
+
+P. Shuk, M. Greenblatt / Solid State Ionics 113–115(1998)229–233
+
+CAFT is a New Jersey Commission on Science and Technology Center. The authors thank Dr. Alexei Ermakov for help with the electronic box.
+

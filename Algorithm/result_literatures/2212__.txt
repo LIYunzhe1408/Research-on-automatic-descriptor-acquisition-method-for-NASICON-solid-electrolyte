@@ -1,0 +1,82 @@
+The structure and the static characteristic of planar-type solid electrolyte CO2 sensor are introduced. It was fabricated by the combination of carbonate auxiliary phase with a NASICON chip (2.5 29)0.5 mm), while a passage of Pt wire coiled into suitable form acting as inner-heater was pressed into the chip. When being measured in static state, it exhibited stable EMF response to 100–2000 ppm CO2 in air over a current range of 200–300 mA, and its characteristic was almost independent of partial pressure of O2. The 90% response time were less than 10 and 50 s, respectively when the heating current was kept at 270 mA. Furthermore, the difference in characteristic due to different carbonate auxiliary phase and its sensing mechanism are also preliminary investigated. © 1997 Elsevier Science S.A. All rights reserved.
+
+Keywords: Carbon dioxide sensor; NASICON; Planar-type; Inner-heater
+
+With the increasing of CO2 in atmosphere, the measurement and control to it is becoming more and more important. So the investigation about fabrication of CO2 sensors has received great interest. Of them, the compact CO2 sensors are especially valued and has been paid much more attention. Those investigated presently include capacitor-type sensor based on BaTiO3-doped CuO, Quartz microbalance transducers making use of silicon-based polymers, solid electrolyte and other kinds of sensors which monitor changes in pH or electrolyte currents [1–7]. Among them, those using solid electrolyte are of particular interest because of their low cost, simple structure, high sensitivity and improved water-vapor resistance [8–10]. On the other hand, in order to be heated to a determined temperature, it must operate in an apparatus equipped with a heating facility. As the volume of the apparatus was large, the structure that caused it could not be processed into small and compact device to have a conve
+nient utilization [11–16]. In the experiment, a heater was equipped in the normal planar-type CO2 sensor which has been studied by Miura [2,5], then the sensor can operate or be measured in a static atmosphere. The structure is better in consideration of its practical application. It does not need the above conventional gas ﬂow apparatus any more which is necessary for the normal structure when it was measured or taken into use. The sensor with inner heater has high sensitivity in the CO2 concentration range of 100–2000 ppm, short response and recover time, small water-vapor interference owing to the mixed carbonate auxiliary phase, and its characteristic is almost independent to the variation of coexistent O2.
+
+
+In order to determine the carbonate acting as the auxiliary phase of the sensor, some kinds of carbonate have been kept in a chamber for 10 days which contains some water and at room temperature. During the time, they were periodically fetched out to investigate its weight increment and then was put back into the
+
+Fig. 1. Structure of sensor (a) inner heater inside NASICON chip, (b) appearance of sensor and measuring current.
+
+chamber. The procedure of fabricating the sensor is that, powders of NASICON calcined at 1100°C for 3 h and a passage of platinum wire coiled into suitable form were pressed into small square pellets (5 29)2 29)0.5 mm), and then was calcined at 1100°C for another 5 h to make it density. The function of the platinum wire is as an inner heater. After this course, the platinum wire was inside the pellet. It assured the heating efﬁciency that needed to allow the sensor operate at high temperature. The conventional apparatus equipped with heating any more. The appearance of the device at this time is shown as Fig. 1(a). Next, the carbonate auxiliary phase was formed on the one side surface of the pellet by the melting and quenching method, and an Au mesh (sensing electrode) connected to an Au lead was also covered on this side.
+
+faculty was not necessary
+
+On the other side of the same surface of the chip, a thick Pt ﬁlm was covered by coating H2PtCl6 solution on it and following calcination at 900°C for 20 min, then Pt mesh connected to an Pt lead was covered on the Pt ﬁlm. In the ﬁnal device, there was a 2 mm space left between the two sides. The appearance of the sensor is shown in Fig. 1(b). CO2 sensing experiments were carried out static mounting method. It was often used for the calcined metal oxide sensor because of its accuracy and simple conduction. The sample gases containing different concentration of
+
+in conventional
+
+Fig. 2. Increase in weight of several carbonate after having been kept in a chamber containing water at room temperature.
+
+Fig. 3. EMF response to CO2 for sensors using Li2CO3 or BaCO3– Li2CO3 as auxiliary phase at different heating current.
+
+F. Qiu et al. :Sensors and Actuators B 45 (1997) 233–238
+
+Fig. 4. Transient response and recover characteristic when taking a switching change from dry synthetic air to 1000 ppm CO2 sample gas.
+
+CO2 and O2 were obtained by diluting pure CO2 gases with synthetic air got by mixing pure O2 and N2. The interference from water was conducted by letting the synthetic air bubble through the chamber containing water. The water partial pressure was calculated from the relative humidity which was monitored by a humidity sensor fabricated by ourselves. The value of EMF of the sensor was recorded with a digital electrometer (Advanced, TR 8652)
+
+3. Results and discussion
+
+3.1. Choice of carbonate auxiliary phase
+
+It was found that the increase in weight was different for the different carbonate having been kept in the chamber with high humidity air as mentioned above. The typical result of several useful carbonate to be chosen as auxiliary phase was shown in Fig. 2. It can be seen that Li2CO3 has smaller weight increases than other pure carbonate. After mixing with other carbonate, the increase reduced again. From the view of minimizing interference from water, BaCO3–Li2CO3 was chosen as the auxiliary phase. For comparison, pure Li2CO3 was also used.
+
+3.2. Sensing characteristic
+
+Fig. 3 shows the EMF response of the sensors when using Li2CO3 and BaCO3–Li2CO3 as auxiliary phase, respectively. It can be seen that the linearity between the EMF and the logarithm of CO2 concentration holds over the tested concentration range at each current, while the correlation shifting upward with a decrease in current. The sensitivity of the sensor using Li2CO3 as auxiliary phase (element A) is higher than that using BaCO3–Li2CO3 as auxiliary phase (element B) at the same heating current. The Nernst slopes of the two sensors are 73 and 67 mv:decade, respectively when
+
+heating current is 270 mv. Fig. 4 gives the transient response time corresponding to the switching change from dry synthetic air to the sample gas containing 1000 ppm CO2. From it, we can see the transient response conditions for the two sensors are also different due to the different carbonate auxiliary material. When the heating current is elevated, the response and recover time are minimized, but element A always has shorter response and recover time than element B. The time relevant to 90% EMF change for the two sensors are listed in Table 1. The recover time for the two sensors are less than 20 and 50 s, respectively. They are shorter than that of the sensors operating in an apparatus equipped with heating facility. The interference from water-vapor of 14 t (60% RH, 20°C) was also tested. The result is shown in Fig. 5. The shift due to coexistent water vapor for element A is smaller than that for element B. So although element B has lower sensitivity, and longer recover and response time, it is more favorable because the water-vapor resistance is essential its practical application. Therefore, BaCO3–Li2CO3 can be regarded as the more important material in future work.
+
+Throughout the above experiment, the pressure of O2 in the sample gas was usually maintained at a constant of 0.21 atm. It is similar to the components of nature air. In fact, the relation was almost independent of the concentration variation in O2. Fig. 6 gives the relation between the EMF response of sensor B and the concentration of O2 over the range of 0.01–0.5 atm when the concentration of CO2 was kept at 1000 ppm and the heating current was maintained at 220, 250 and 270 mv, respectively. The results are better than that of the tubular-type CO2 sensor [16]. The interference from other gases like 100 ppm CO, 100 ppm alcohol and 2000 ppm amine are tested as shown in Fig. 7. CO and alcohol have some inﬂuence on the EMF response for they tend to ﬁre on the hot surface of the sensor, but amine has little inﬂuence.
+
+F. Qiu et al. :Sensors and Actuators B 45 (1997) 233–238
+
+Table 1 Response and recover characteristic of the different sensors using different carbonate as auxiliary phase, the values are recorded when 90% EMF change has taken
+
+3.3. Sensing mechanism
+
+The sensing mechanism for planar-type solid electrolyte CO2 sensor based on MSZ has been discussed by Miura et al. The CO2 sensor investigated in our present work is based on NASICON material which is cation ion conductor. It is composed of the following electrochemical cell: CO2 27)air, Au  12) Carbonate  12) (sensing electrode) CO2(counter electrode)
+
+Another reaction in counter electrode can be written as (Eq. (3)):
+
+Its EMF response can be written as (Eq. (4)):
+
+The sensing reaction in side of Au electrode can be written as (Eq. (1)):
+
+Thus, the general chemical reaction and the EMF response for the sensor can be reduced to (Eq. (5)):
+
+Considering Nernst equation, its EMF response can be regarded as (Eq. (2))
+
+As the reference and sensing electrode are exposed in the same atmosphere, the pressure of O2 closing to the two electrodes is the same. The EMF response for the whole cell can be simpliﬁed as (Eq. (6))
+
+Fig. 5. Dependence of EMF response on CO2 sample gases containing 14 t water vapor when heating current was kept at 270 mA.
+
+Fig. 6. Dependence of EMF response on O2 concentration when CO2 concentration and heating current were kept at 1000 ppm and different values, respectively.
+
+Fig. 7. Interference from coexistence gases of 100 ppm CO, 100 ppm C2H5OH, 2000 ppm NH3 for the sensor using Li2CO3 as auxiliary phase when CO2 concentration and heating current were kept at 1000 ppm and 270 mA, respectively, outline circle represents the situation without interference gases, solid circle represents that with interference gases.
+
+and PCO2
+
+In the above discussions, PO2
+
+are the partial pressures of O2 and CO2, the subscripts s and c mean the sensing and counter electrodes, respectively. Thus the linear relation between the EMF of the sensor and the logarithm of PO2 is established, and it has not any relation to the PO2 . This is in good agreement with our experiment results.
+
+4. Conclusions
+
+The planar type solid electrolyte CO2 sensor with an inner heater investigated in this paper does not need the apparatus equipped with the heating faculty any more when it is tested. It is more convenient in fabricating it into a small size and compact detector for future work. The sensor using Li2CO3 as an auxiliary phase has the higher Nernst slope, shorter response and recover time than that using BaCO3–Li2CO3 as auxiliary phase, but the latter has higher resistance to water vapor. Therefore, mixed carbonate BaCO3–Li2CO3 can be regarded as more favorable material. Furthermore, the sensor is insensitive to the coexistent O2 because of its planar type structure.
+
+The work on devising a small heater for the solid electrolyte CO2 sensor has just begun. In order to fabricate it into a small size and compact sensor, there are more important work to be ﬁnished ﬁrst, like improving heating efﬁciency, choosing more reasonable structure etc.
+

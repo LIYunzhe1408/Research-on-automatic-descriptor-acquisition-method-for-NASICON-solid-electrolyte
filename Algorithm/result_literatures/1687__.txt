@@ -1,0 +1,209 @@
+Two series of electrochemical catalysts were prepared from sputtered Pt thin films onto two kinds of electrolyte membranes,8 mol% Y2O3-stabilized ZrO2 (YSZ), an O2) conducting oxide and Na3Zr2Si2PO12 (NASICON), a Na+ one; respectively.
+Thethickness of the Pt films varied from 8 to 120 nm.
+Therefore, the Pt loading was extremely low.
+The catalytic activity of Pt/YSZ andPt/NASICON systems has been investigated between 200 and 500 C for propane and propene, respectively.
+In spite of the low Ptloading, the Pt/YSZ electrochemical catalysts exhibited high activity for propane combustion.
+Furthermore, the catalytic activitycan be in-situ controlled by applying electrical polarisation with high Faradaic efficiency (103).
+The catalytic rate of propene deepoxidation on Pt/NASICON electrochemical catalyst was found to be limited by the number of active sites, which is low on very thinPt films.
+Moreover, initial anodic polarisation indicate that Na+ ions are already present on the top surface of Pt, probablyproceeding from the preliminary stabilisation treatment of Pt in the reactive mixture.
+Nevertheless, polarisation allows the tuning ofthe catalytic activity of the electrochemical catalysts for propene oxidation.
+Finally, for both kinds of electrochemical catalysts, ourresults have evidenced that the measurement of the open-circuit voltage during catalytic process can be an indicator of thehydrocarbon conversion.
+Catalytic combustion of hydrocarbons is a non-pollutingmeans of heat generation.
+The most effectivecatalysts for the catalytic combustion of light hydrocarbonssuch as methane, propane or propene are supportednoble metals.
+However, this kind of catalyst isvery expensive and then requires stages of recovery andrecycling.
+The goal of this study is to evaluate the catalyticactivity of electrochemical catalysts composed of athin sputter-deposited film of Pt interfaced with a solidelectrolyte.
+Electrochemical catalysts can implement theconcept of electrochemical promotion of catalysis(EPOC).
+This former process, also named Non-FaradaicElectrochemical Modification of Catalytic Activity(NEMCA) effect, discovered and developed by Vayenaset al.
+[1,2], is an innovative concept which can be used toimprove the catalytic activity.
+EPOC is based on thecontrol, by an applied potential, of the work functiondue to electrochemical pumping of ions between a solidelectrolyte and the surface of a porous catalyst.
+In thecase of O2) conductors, these former ionic species act assacrificial promoters.
+Compared to classical promotion,the coverage of the promoting species on the electrochemicalcatalysts can be in situ controlled by thepolarisation.
+The electrochemical promotion of CH4 [3],C2H4 [4,5], C2H6 [6], C3H6 [7,8] and C3H8 [7,9,10]combustion has been investigated on the Pt/YSZ system between 300 and 500 C and for different hydrocarbon/oxygen ratios.
+All these studies have been performedwith Pt films made from commercial paste, typically1–10 lm thick and containing about 1 mg cm)2. In ourstudy, thin films of Pt were sputter-deposited by magnetronsputtering of a Pt target on two different solidelectrolytes: 8 mol% Y2O3-stabilized ZrO2 (YSZ), anO2) ionic conductor and Na3Zr2Si2PO12 (NASICON), aNa+ one.
+We have shown in previous studies [11,12]that magnetron sputtering is a suitable technique forsynthesis of catalyst coatings.
+The development ofelectrochemical catalysts composed of a very thin layerof sputtered catalyst onto a solid electrolyte can considerablyreduced the Pt loading.
+We have selectedpropene and propane as hydrocarbon models becauseseveral studies have shown than both propane andpropene oxidation rates can be significantly controlledvia voltage application, in a reversible manner, on Pt/YSZ [7–10] and Pt/NASICON [13] systems.
+Concerningpropane deep oxidation, both studies of Kokkofitiset al.
+[9] and Kotsionopoulos and Bebelis [10] havefound that, for oxygen to propane ratios lower than thestoichiometric ratio, the rate of this reaction could bereversibly enhanced by application of both positive andnegative overpotentials (‘‘inverted volcano’’ behaviour).
+We did not find the same results since we observed [7]that the propane conversion increased at positivepotentials but decreased at negative ones.
+However, ourexperiments were carried out under excess of oxygenand at lower temperatures.
+Propane and propene exhibit different reactivity,propene combustion occurring at lower temperaturethan propane one.
+Taking into account that NASICONpresents a much higher ionic conductivity than YSZ,propene combustion has been performed on Pt/NASICONelectrochemical catalysts whereas propane deepoxidation occurred on Pt/YSZ systems.
+Catalytic activity investigation of Pt/YSZ and Pt/NASICON electrochemical catalysts has been carriedout between 200 and 500 C for propane and propenecombustion, respectively.
+The influence of the Pt filmthickness has been investigated as well as the effect ofthe polarisation.
+Electrochemical catalysts have been prepared from apolycrystalline Pt film deposited on two different solidelectrolytes, i.
+e.
+8 mol% Y2O3-stabilized ZrO2 (YSZ), anO2) ions conductor, and Na3Zr2Si2PO12 (NASICON), aNa+ one.
+Thin Pt films were deposited onto solid electrolytepellets by DC-magnetron sputtering at low pressure(0.3 Pa) in order to get low porosities.
+YSZmembranes were prepared from YSZ powder (TOSOH,99.99%, average grain size: 0.3 lm) sintered at 1350 Cfor 2 h (densification higher than 98%).
+NASICONpowder was prepared by the sol–gel method as describedelsewhere [14] and samples of high density were obtainedby isostatic pressing and sintering at 1000 C.
+Electrolytepellets were 17 mmin diameter and 1 mm or 2 mm thick,for YSZ and NASICON, respectively.
+The experimentaldevice, described elsewhere in detail [15], is a 40-l sputteringchamber pumped down via a secondary oil diffusionsuction system allowing a base vacuum of about10)4 Pa before refilling with argon to reach the convenientpressure of 0.3 Pa.
+The substrates are positioned at30 mm from the target axis (DM), at a draw distance (DT-S)of 100 mm.
+The target is mounted on an unbalancedmagnetron and is powered by a 1.5 kW AdvancedEnergy DC supply.
+In all the experiments, the dischargecurrent is maintained at a constant value of 0.2 A, for aduration lying from 15 s to 2 min.
+The argon flow rate iscontrolled withMKS flowmeters and the total pressure ismeasured using aMKS Baratron gauge.
+The thickness ofthe coatings is determined either by the step methodusing tactile profilometry, or by optical transmissionspectroscopy in the visible range, using a fitting softwaredeveloped by PVDco s.
+a` .
+r.
+l.
+[16].
+Gold counter and referenceelectrodes were deposited onto the opposite sideof the electrolyte disc.
+Gold was selected because it doesnot exhibit any significant activity in both propane andpropene combustion under our operating conditions.
+The reference electrode was deposited close to thecounter-electrode, but at a distance (about 3 mm) sufficientto avoid any electrical perturbation.
+The threeelectrodes, W (catalyst electrode or working electrode),R (Reference) and CE (Counter-Electrode) were connectedto a potentiostat–galvanostat Voltalab 80 (RadiometerAnalytical).
+Voltage or current was applied andmeasured according to the procedure generally used inconventional three-electrode electrochemical cells.
+Thecatalyst potential VWR was measured between theworking electrode (Pt) and the reference electrode (Au)which may be considered as a pseudoreference since wehave checked that its potential does not vary significantlywith the composition of the gaseous mixture.
+The overpotentialDVWR was defined as the difference betweenVWR and the open-circuit voltage (OCV).
+The polarisationeffect on the catalytic reaction is characterized by therate enhancement ratio (q) defined as q = r/ro, where ro,in mol O/s, is the catalytic rate at OCV, and r the catalyticrate under polarisation.
+A reaction which is accelerated bya negative current or overpotential (oxygen removedfrom the catalyst surface) exhibits an electrophilicNEMCA behaviour and corresponds to a value of Llower than )1. In parallel, when the catalytic reaction ispromoted by a positive current or overpotential (oxygensupplied to the catalyst surface), its NEMCA behaviouris called electrophobic (L>1).
+Catalytic properties ofthese electrochemical catalysts according to their Ptlayer thickness (from 8 to 120 nm) have been carried outfor the propane and propene combustion, on Pt/YSZand Pt/NASICON, respectively.
+The overall flow ratewas 10 L h)1 and the reactive mixture was composed ofHC/O2: 2000 ppm/1% with HC=C3H6 or C3H8. Thecatalytic properties of the Pt film were evaluated in aspecific quartz reactor described in a previous study [6]at atmospheric pressure.
+The reaction gases were C3H8(Air Products, 8000±80 ppm C3H8 in He), C3H6 (AirLiquide, 8000±240 ppm) and O2 (Air Liquide,99,95%).
+Before analysis, the water produced by thecatalytic reactions was trapped by an electro-gas cooler(M&C Products, ECP1000-G).
+For propane combustion,the products of reaction were analysed by an onlinemicro gas-chromatograph (VARIAN CP2003).
+Themicro-chromatograph was made of two modules, eachone equipped with its own thermal conductivity microdetector.
+The first module enabled the separation ofCO2, C3H6 and C3H8 by using a Poraplot U column(10 m length and 0.32 mm in internal diameter) heatedat 60 C.
+The second one was equipped with a molecularsieve heated at 90 C (10 m length and 0.32 mm ininternal diameter) preceded by a back flush column.
+This module analysed O2, N2 and CO.
+The overall duration of one analysis was only 110 s.
+Concerningpropene combustion on NASICON samples, gas analysiswas performed by a mass spectrometer.
+A part ofthe flow exiting the reactor (about 0.6 L h)1) was sampledby a heated capillary and analysed by a VG Gasslab300 quadrupole mass spectrometer.
+Signals at m/e = 16, 18, 28, 32, 44 amu corresponding to O2+,H2O+, N2+ or CO+, O2+ and CO2+ ions, respectively,were recorded.
+Propene concentration in the flow wasdetermined from signals at m/e = 41 and 42 amu.
+Before catalytic activity measurements, whatever thechemical reaction, the Pt film was pretreated in H2 at300 C for 1 h in order to reduce platinum.
+Then, thesample was cooled down to 200 C under a flow ofhelium.
+The reactive mixture flow was switched into thereactor.
+Then, the sample was heated until 500 C with1 C min)1. Catalyst was maintained at 500 C for 12 hin order to stabilise its activity and then, the temperaturewas decreased from 500 to 200 C at 1 C min)1.The Pt/YSZ electrochemical catalysts are very efficientcatalysts for propane combustion (figure 1) andpresent significant higher performances than a Pt filmmade from a paste which presents larger Pt thicknessand of course larger amount of Pt [17].
+Indeed, thepropane conversion was typically equal to 3.5% at360 C, for this kind of Pt film.
+Table 1 summarises thecatalytic behaviour of Pt/YSZ electrochemical catalystsat open-circuit voltage.
+Full conversion of propane wasnever reached because a part of the flow bypasses the Ptfilm.
+Then, diffusion limitations could occur at temperatureshigher than 350 C.
+Below this temperature,catalytic activity does not follow a linear evolution withthe film thickness; the most efficient electrochemicalcatalyst is YSZ-60 nm, then YSZ-8 nm, YSZ-15 nm,and finally YSZ-120 nm.
+We assume that the catalyticactivity could be linked both to the Pt dispersion and tothe geometrical surface accessible to the gas.
+The mostsuitable microstructure is a monolayer of small particlesof Pt that perfectly covers the overall YSZ pellet surface.
+In that configuration, the Pt dispersion should be 100%.
+In the case of low thicknesses (8 and 15 nm), the Ptcoating does not cover all the YSZ support, as observedon SEM pictures (figure 2).
+On the contrary, for highthicknesses (120 nm), the Pt coating perfectly covers allthe YSZ support but there is more than one Pt monolayerand a part of Pt particles is not in contact with thereactive mixture, i.
+e.
+the Pt dispersion is lower than100%.
+The most suitable thickness seems to be around60 nm by combining a good geometrical surface exposedto the gas and an excellent Pt dispersion.
+Additionalexperiments have to be done to evaluate quantitativelythe Pt dispersion in order to validate this assumption.
+According to Garetto et al.
+[18], the sample YSZ-60 nmexhibits similar catalytic performances as Pt-supportedon alumina containing 0.33 wt% Pt (table 1).
+Theapparent activation energy (Ea) was obtained via anArrhenius-type analysis, by plotting ln r values as afunction of 1/T.
+We calculated Ea from the slope of theresulting linear plots.
+It is observed than the activationenergy was similar according to the Pt thickness andvery near to a Pt-supported alumina catalyst (table 1).
+We have shownin previous studies [19] that the in-situ measurement ofthe potential can give a direct evidence of the catalyticactivity.
+We observed for all Pt/YSZ samples that thepotential variations versus temperature are a goodindicator of the propane conversion.
+For instance,figure 3 shows propane conversion as well as open-circuitvoltage variations versus temperature for YSZ-120 nm.
+Both the catalytic activity and the potentialcurves follow same trends.
+Values of DVWRo increasewith respect to the propane conversion.
+The increase ofthe open-circuit voltage corresponds to an enhancementof the oxygen thermodynamic activity on Pt and mostprobably of the oxygen coverage on Pt.
+These experimentsconfirm that electrochemical catalysts can be alsoused as sensors for in-situ evaluating the catalyticactivity.
+Two series of close-circuit catalytic activity measurementswere performed at 337 and 400 C.
+Despite arather high propane conversion lying from about 40%(YSZ-15 nm) and 65% (YSZ-120 nm), it has been notpossible to decrease the polarisation temperature below337 C due to the low ionic conductivity of YSZ.
+ForYSZ-8 nm, no NEMCA effect was observed and furthermore,the applied potentials generate low currentslower than 1 lA.
+This is probably due to a too low Ptthickness which does not percolate and, hence does notallow the bias over the whole electrode surface (seefigure 2a).
+Figure 4a shows the polarisation curvesrecorded for all other samples at 400 C under thereactive mixture.
+It clearly appears that anodic andcathodic currents generated by the oxygen electrochemical oxidation and reduction, respectively, significantlyincrease with the Pt thickness.
+The sample YSZ-15 nmexhibits much lower electrochemical properties thanYSZ-60 nm and YSZ-120 nm.
+We assume that for lowPt thicknesses (8 and 15 nm), the Pt coating does notcover the overall surface of the YSZ support.
+Therefore,some Pt particles could be electrically isolated.
+Theelectrical conduction is not effective over the whole filmsurface.
+Figure 4b shows the variation of the current (at)2 V) as a function of the Pt thickness.
+It clearly appearsthat the absolute value of the current increases with thePt thickness as far as the coating becomes continuous.
+The propane oxidation exhibits electrophobicbehaviour with enhancement of its catalytic activityupon positive applied overpotentials.
+We also observed a decreasing of the propane oxidation rate upon negativevoltages (figures 5a, b, 6a, b).
+This is in goodagreement with our previous study [7].
+At 337 C, thebest results are obtained for a Pt thickness of 60 nmwhich also exhibits a faradaic efficiency of about 2000.These high values of L demonstrate that the effects ofthe polarisation are not faradaic.
+The enhancementfactors are low because initial conversions are high andthe applied current is low.
+Nevertheless, YSZ-60 nmalso exhibits the higher enhancement factor.
+Figure 5a,b showed that, after current interruption, the propaneconversion did not reach its initial value.
+The electrochemicalactivation under anodic polarisation is due tothe migration of O2) ionic species from the electrolyte to the Pt surface.
+We found, in a recent study [20], thatthese O2) ionic species were effective promoters forpropane combustion on Pt.
+When the polarizationstopped, the ionic species are still present on the catalystsurface but can be gradually consumed by propane.
+From figure 5a, b, it seems that all ionic promoter specieswere not removed from the Pt surface even 4 h afterthe current interruption.
+This seems to indicate that theconsumption of O2) species by propane at 337 C is avery slow process.
+On the contrary, experiments at400 C (figure 6a, b) did not exhibit a permanent promotioncertainly because the reaction between O2)species and propane is faster at this temperature.
+Increasing the temperature to 400 C also allows ahigher bias current up to 50 lA.
+Figure 6a, b show that, despite the high open-circuit propane conversion, theeffect of a negative or positive current can significantlymodify the catalytic properties, respectively, from 70 to62% ()50 lA) and to 75% (+50 lA) for YSZ-60 nm(figure 6a), and from 75 to 70% ()50 lA) and to 80%(+50 lA) for YSZ-120 nm (figure 6b).
+In that case, thefaradaic efficiency reaches 420 (i = +50 lA) and 410(i = )50 lA) for YSZ-120 nm as well as 460(i = +50 lA) and 625 (i = )50 lA) for YSZ-60 nm.
+As already observed at 337 C, YSZ-60 nm sampleexhibits higher values of L and of enhancement factor.
+By using a Pt film made from a paste [7], the faradaicefficiency was only +123 at 365 C for a positive currentof the order of +40 lA.
+The NEMCA behaviour forYSZ-60 nm was investigated by applying positive andnegative overpotentials between )2.1 and +2 V steps of0.1 V at 400 C (figure 7).
+Each constant voltage stepwas applied for 10 min following by a period of 10 minunder open circuit.
+The voltage was gradually increasedfrom +100 to 2000 mV and, then, the electrochemicalcatalyst was maintained under open circuit for 2 h.
+Finally, the voltage was gradually decreased from )100to )2100 mV with the same procedure as for anodicpolarizations.
+The effect of the polarization is very significantsince the propane conversion varies from about40 to 77% depending of the value of the appliedpotential.
+These experiments show that it is possible toin-situ tune the catalytic activity of the Pt film in a veryrapid and reversible manner.
+Catalytic properties for propene deep oxidationhave been investigated out between 200 and 500 C atopen-circuit voltage for Pt/NASICON electrochemical catalysts.
+Catalytic activity increases with the Pt filmthickness (figure 8, table 2).
+The light-off temperature(T50, temperature corresponding to 50% conversion)significantly decreases from 315 to 282 C when the Ptthickness increases from 15 to 120 nm.
+Catalytic performancesof Pt/NASICON electrochemical catalystswere compared with those of a Pt film made form Ptpaint (Engelhard-Clal 6926) annealed at 600 C for 2 h.
+The thickness of this Pt-paint sample was about 1 lmwith a Pt loading of 3 mg.
+Contrary to that observed forpropane combustion, the sample Pt-paint exhibits muchhigher catalytic activity than the best Pt sputter-depositedfilm, i.
+e.
+NASICON-120 nm (table 2).
+If one considersthat the Pt dispersion was similar between YSZand NASICON samples because they were prepared andpretreated under exactly the same conditions, then, thisresult seems to indicate that catalytic process on Pt sitesis different according to the nature of hydrocarbon(propane or propene).
+However, the catalytic rate inmol/s/g Pt calculated at 275 C is higher for electrochemicalcatalysts.
+The apparent activation energy (Ea)was also obtained via an Arrhenius-type function andwas similar for all electrochemical catalysts (table 2), i.
+e.
+about 68 kJ/mol.
+This former value is lower than thatobserved for Pt paint sample, i.
+e.
+90 kJ/mol, which issimilar to that observed on Pt-supported catalyst.
+Thevariation of Ea values could originate from difference ofmorphology since it was found that the strength ofoxygen adsorption on Pt is directly linked to the Ptparticle size [21].
+One can assume that the oxygenadsorption is a key step in the combustion process.
+Thehigher activation energy observed on Pt paint sample;i.
+e.
+90 kJ/mol instead of 68 kJ/mol for all the electrochemicalcatalysts, could be due to significant larger Ptparticles in the case of Pt paint samples.
+Open-circuit voltage variations, DVWRo, were followedduring catalytic activity measurements between200 and 500 C (figure 9).
+Values of DVWRo follow thesame variations with temperature than the propeneconversion, i.
+e.
+these two parameters abruptly increasedfrom the light-off temperatures.
+Temperatures, fromwhich open-circuit voltages suddenly increased, were260, 290 and 340 C, for NASICON-120 nm, NASICON-60 nm and NASICON-15 nm; respectively.
+Onecan compare with values with temperatures correspondingto 30% of propane conversion: 260, 270 and300 C, for NASICON-120 nm, NASICON-60 nm andNASICON-15 nm; respectively.
+The rank is the same.
+Iftemperatures were similar for NASICON-120 nm, therewas a shift between the catalytic activity and DVWRo forNASICON-60 nm and NASICON-15 nm, which isdifficult to interpret.
+However, there were enough similaritiesbetween the two curves (figures 8, 9) for justifyingthat the measurement of the open-circuit voltage canbe an indicator of the catalytic activity.
+For instance,values of DVWRo higher than +100 mV mean, for allelectrochemical catalysts, that the propane conversion ishigh.
+These results indicate that the ionic migration ofNa+ is associated to the oxygen thermodynamic activityon Pt, most probably due to the formation of chemicalcompounds between Na and adsorbed oxygen on Pt.
+NEMCA experiments were performed at 275 C.
+First, samples were polarised at +1 V until the currentvanished (after about 45 min) in order to removesodium species from the Pt surface.
+Figure 10 shows theeffect of this polarisation on the propene conversion forNASICON-15 nm.
+The migration of sodium ions fromthe Pt surface towards the NASICON membrane,induced by the polarisation, significantly decreases the propene conversion.
+This result shows that the catalyticactivity curves obtained at OCV (figure 8) were obtainedin the presence of Na onto the Pt film, which was certainlyinduced by thermal migration during the pretreatmentat 500 C under reactive mixture.
+Propeneconversion value measured at the end of the anodicpolarisation corresponds to that of Na-free Pt surface.
+We have estimated for each sample the quantity ofcharge (Q, table 2) which passed between the workingelectrode and the counter-electrode during the positivepolarisation.
+This charge linearly increases with the Ptthickness.
+Table 2 shows that we obtainedvery similar Na coverage for all samples, suggesting thatall Pt particles were effective for propene combustion.
+This observation confirms that the catalytic rate is limitedby the number of active sites in the case of propenedeep oxidation.
+Furthermore, the value of Na coveragecalculated is closed to that observed in a previous studyunder similar reactive mixture at 300 C during NEMCAexperiments [13].
+Therefore, one can suggest thatcatalytic properties recorded at OCV were alreadyelectropromoted since the Na coverage on Pt film isclosed to the optimal one corresponding to higher promotionaleffect [13,22].
+Promotional effects on the propene conversion wereobserved for negative polarisations, i.
+e.
+spillover of Na+ions from the electrolyte onto the Pt surface, as alreadyobserved with Pt film made from paste [13].
+Nevertheless,the potential effect on the propene conversion wasmuch less pronounced.
+Characterisation by cyclic voltammetry(figure 11) confirms that the polarisationleads to the formation (negative potential) and thedecomposition (positive one) of a Na compound, mostprobably Na2CO3 or NaHCO3 [13].
+The formation ofthese chemical compounds also explains the linkbetween the open-circuit voltage and the oxygen coverage.
+Cyclic voltammogram experiments have shown thatthe areas of both anodic and cathodic peaks (figure 11)increase with the thickness of the Pt film.
+By taking intoaccount that these two peaks were linked to theformation (cathodic part) and decomposition (anodic part) of Na chemical compounds, one can conclude thatthe amount of these compounds, which were formed onthe Pt film, depends on the Pt film thickness and then onthe metal loading of the film.
+Cyclic voltammogramsalso demonstrate that the propene conversion can be insitutuned according to the value of the overpotential ina reversible manner.
+Nevertheless, propene conversiondid not recover its initial value observed during opencircuitvoltage catalytic measurements.
+For instance, forthe sample NASICON-15 nm (figure 10), the propeneconversion at 275 C, before the initial anodic polarization(which removed Na species from the Pt surface),was 15%.
+However, during cyclic voltammogramexperiments at the same temperature (figure 11), negativepolarizations, which induced the spillover of Na+ions from the electrolyte to the Pt surface, only increasedthe propene conversion up to 9.5%.
+This means that theNa coverage induced by the negative polarizations islower than that obtained by the thermal migrationduring the pretreatment at 500 C: i.
+e.
+6 · 10)2 (table 2).
+Electrochemical catalysts were prepared from sputteredPt thin films onto electrolyte membranes, YSZ andNASICON.
+It was found that electrochemical catalystswere very effective catalyst for propane combustion.
+Moreover, catalytic activity can be in-situ controlled byapplying polarisations with high Faradaic efficiency.
+Therefore, this new generation of catalysts can allow adecrease of the Pt loading.
+Indeed, the optimal thicknessowing to NEMCA phenomena is expected between 15and 60 nm for propane deep oxidation.
+Concerning propene combustion, the catalytic rateseems to be limited by the number of active sites,which is too low on very thin Pt films.
+Initial anodicpolarisations indicate that Na is already present onthe top surface of Pt, probably proceeding from thepreliminary stabilisation treatment of Pt in the reactivemixture.
+Nevertheless, polarization allows thetuning of the catalytic activity of the electrochemicalcatalysts for propene oxidation.
+Under negativepotentials it is expected that Na compounds (mostprobably Na2CO3 or NaHCO3) form on the top surface of the catalysts.
+Under positive potentials,these Na compounds are removed.
+Furthermore,open-circuit voltage measurements can be an indicatorof the propene and propane conversions, demonstratingthat electrochemical catalyst could be used assensors for in-situ following the catalytic process.

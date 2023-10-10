@@ -1,0 +1,91 @@
+The bulk diffusion of Na in Na3.4Sc2(SiO4)0.4(PO4)2.6 was investigated by  23Na NMR relaxometry in  the  temperature  range  from  250  K  to  670  K.  
+
+These  measurements  reveal  fast  Na  diffusion with hopping rates of 3·108 s-1 for the Na+ ions at 350 K and activation barriers for single Na+ ion jumps of (0.20 ± 0.01) eV. 
+
+From these values a diffusion coefficient of D = 6.4·10-12 m2/s and a Na ion conductivity of σNa = 4 mS/cm (both at 350 K) can be estimated. 
+
+Measurements on two samples,  one  stored  in  air  and  one  stored  in  Ar,  do  not  show  significant  differences,  which reveals  that  these  NMR  measurements  are  probing  the  bulk  diffusion  while  conductivity measurements  usually  are  also  influenced  by  grain  boundaries  that  can  be  affected  by  the moisture level during storage. Portable  electronic  devices  such  as  mobile  phones  and  notebooks  are  powered  by  Li-ion batteries  which  offer  high  energy  and  power  densities.
+
+In  recent  years,  research  on  Na-ion batteries  has  emerged  in  an  attempt  to  find  cost-effective  solutions  for  larger  energy  storage systems.4–7 As for Li-ion batteries, the use of solid electrolytes instead of liquid ones might offer an enhanced thermal and chemical stability and thus an increased safety of such devices.
+
+Na3.4Sc2(SiO4)0.4(PO4)2.6 crystallizes with a so-called NASICON-type (Na Superionic conductor)  structure.  This  rhombohedral  structure  (space  group  R3തc)  is  depicted  in  Fig.  1  and  can  be  derived  from  that  of  NaZr2(PO4)3.13  The  Sc3+  ions  are  located  in  oxygen  octahedra  (12c  site) while  the  Si  and  P  ions  share  a  common  tetrahedral  site  (18e  site).  
+
+These  octahedral  and tetrahedral units are connected only via common corners and thus are forming an open network structure  that  enables fast  diffusion  of  Na+  ions. 
+
+Two  octahedral  units  are  connected  via  three tetrahedral units and thus form ‘lantern-like’ units14 that are stacked along the  c axis. 
+
+Between these lantern units there is one Na site (6b site) that is often fully occupied. 
+
+Since the octahedral sites are occupied by trivalent Sc ions instead of tetravalent Zr as it is the case for NaZr2(PO4)3, a second 18e site is occupied by Na. 
+
+The substitution of Si for P further enhances the amount of Na  in  the  crystal  structure  in  order  to  compensate  the  aliovalent  substitution.  The  exact composition  of  this  sample  was  chosen  from  a  large  number  of  NASICON-type  compounds because it revealed the highest ionic conductivity. 
+
+Fig. 1: The rhombohedral crystal structure (space group R3തc) of Na3.4Sc2(SiO4)0.4(PO4)2.6. Purple  tetrahedra  represent  SiO4/PO4  units,  green  octahedra  represent  ScO6  units,  and  grey  spheres depict Na+ ions. Solid-state  nuclear  magnetic  resonance  (NMR)  relaxometry  is  a  powerful  tool  to  observe microscopic diffusion parameters such as hopping rates of mobile ions and activation barriers for single  ion  jumps.
+
+These  parameters  are  directly  related  to  the  performance  of  these materials  in  a  Na-ion  battery,  especially  at  high  charging  and  discharging  rates.  
+
+While  NMR spectroscopy  yields  information  about  the  local  environment  of  specific  elements  (and  even isotopes),19,20 NMR relaxometry is able to probe changes in these local environments that occur by movement of the ions. 
+
+These changes can be described by the auto-correlation function g(t) of the local environment, represented, e.g., by the local electric and magnetic fields. The Fourier transform of this auto-correlation function is the spectral density  J(ω) of local field fluctuations. 
+
+The  spin-lattice  relaxation  time  T1  describes  the  reorientation  of  a  macroscopic  nuclear  spin polarization towards its equilibrium state after distortion by a radiofrequency pulse. Its inverse, the relaxation rate T1Bloembergen,  Purcell,  and  Pound22  proposed  a  simple  exponential  function  for  the  auto-correlation function with τc being the correlation time.
+
+Apart from a factor of the order of unity, the correlation time τc can  be  identified  with  the  average  residence time  τ  of the  hopping  ions,  and  its  inverse  is  the average jump rate τ
+
+Such an auto-correlation function corresponds to a spectral density The temperature dependence of the jump rate can be described by an Arrhenius-type behavior with  τ0being  a  pre-factor,  EA  the  activation  barrier,  kB  the  Boltzmann  constant,  and  T  the temperature. Eqs. (1), (3), and (4) can be used to describe the temperature dependence of the relaxation  rate  T1Na3.4Sc2(SiO4)0.4(PO4)2.6  was  synthesized  by  conventional  solid  state  reaction.  
+
+A  stoichiometric homogenized  mixture  of  NH4H2PO4  (Merck  KGaA,  99  %),  Sc2O3  (Projector  GmbH,  99.5  %), Na2CO3 (Alfa Aesar GmbH & Co KG, 99.5 %), and SiO2 (Alfa Aesar GmbH & Co KG, 99.8 %) was heated with 300 K h-1 to 1173 K for 4 h. 
+
+After grinding, the powder was again annealed at 1573 K for 20 h. The obtained powder was milled and pressed into pellets (13 mm in diameter, approximately 2 5 mm height) and sintered at 1553 K for 10 h. Afterwards samples were either stored in ambient air or in dry argon to investigate the impact of possible uptake of water on the transport properties in the material. 
+
+X-ray diffraction (XRD) was performed on a STOE-Stadi-P diffractometer with Mo-Kα1 radiation, a focusing Ge 111 monochromator, Si-strip detector with 50µm pitch (Dectris ©) and equipped with an capillary oven. 23Na  solid-state  nuclear  magnetic  resonance  (NMR)  spectroscopy  was  performed  on  a  Bruker Avance spectrometer at a magnetic field of 4.7 T, corresponding to a Larmor frequency of 52.9 MHz, with a  π/2 pulse length of 2 µs. 
+
+A quadrupolar-echo sequence ((π/2)x-τ-(π/2)y-τ-acq.) was used  to  acquire  the  spectra.  256  transients  were  measured  with  a  recycle  delay  of  2  s.  This value  is  well  above  5  T1  for  all  temperatures.  The  spectra  were  referenced  to  an  aqueous solution of 1M NaCl at 0 ppm. 23Na relaxation times T1 were acquired with an inversion-recovery pulse sequence23. 
+
+The XRD patterns of the sample stored in air are shown in Fig. 2 for temperatures between 298 K  and  873  K.  These  measurements  were  carried  out  on  an  open  glass  capillary.  The  overall patterns can be well described with the structure depicted in Fig. 1 (red lines in Fig. 2). 
+
+During heating  to  873  K,  no  new  reflections  occur,  and  some  of  the  reflections  show  a  clear  shift  to smaller  diffraction  angles  while  others  do  not  change  their  position.  The  reflections  that  show large shifts belong to lattice plane orientations involving large l values in the Miller indices, i.e. stacking along the c axis, while the peaks that do not shift have l values that are very small or equal to zero. 
+
+Fig.  2:  X-ray  diffraction  patterns  of  Na3.4Sc2(SiO4)0.4(PO4)2.6  acquired  at  temperatures  between 298 K and 873 K. This  behavior  reveals  a  strongly  anisotropic  thermal  expansion.  Very  similar  results  were obtained  earlier  for  systems  with  the  same  crystal  structure  (containing  tetravalent  Ti4+/Zr4+ instead  of  Sc3+  and  no  silicate  units,  and  thus  smaller  alkali  contents).14,24–26  A  Rietveld refinement of the structure model to all data sets confirmed this anisotropic behavior. 
+
+The results for  the  lattice  constants  a  and  c  are  shown  in  Fig.  3.  The  error  bars  are  determined  from  the Rietveld refinement, including the Berar factor.27 While the lattice constant a shows no significant changes (the changes are smaller than 0.1%), the c constant shows a strong increase from 22.2 Å to 22.7 Å, i.e. an increase by 2.1%, in this temperature regime. The observed changes in the lattice  parameters  are  highly  reversible,  and  when  the  sample  is  cooled  down  to  298  K  after heating to 873 K, the original XRD pattern and the original lattice parameters are obtained again. Fig.  3:  Changes  of  lattice  parameters  a  and  c  of  Na3.4Sc2(SiO4)0.4(PO4)2.6  at  temperatures between 298 K and 873 K. 
+
+The static 23Na NMR lineshapes of Na3.4Sc2(SiO4)0.4(PO4)2.6 at temperatures between 219 K and 550 K are displayed in Fig. 4. These measurements were performed on the sample stored in Ar. 
+
+Measurements on the sample stored in air showed identical results. At the lowest temperature, at 219 K, the spectrum reveals a broad lineshape with a full width at half maximum (FWHM) of 18 kHz. A slight asymmetry is visible and at temperatures between 250 K and 275 K a shoulder on the right side is formed. This might be caused by the anisotropic quadrupolar interaction of the 23Na nucleus (nuclear spin I = 3/2, nuclear quadrupole moment Q = 104 mb28–30) with electric field gradients at the site of this nucleus. The 23Na magic-angle spinning (MAS) NMR spectrum of  the  same  sample  shows  only  a  single  narrow  Lorentzian  contribution  to  the  lineshape  (Fig. S2)31.
+
+At temperatures above 300 K a clear so-called motional narrowing of the lineshape, i.e. an averaging of local environments around the Na nuclei caused by movement of the Na+ ions and thus a decrease of the full width at half maximum (FWHM) of the 23Na NMR lineshapes, can be observed with a final line width of 2.5 kHz at 550 K (Fig. 5). This is caused by movement of the Na+  ions  with  average  jump  rates  well  above  the  line  width  of  18  kHz  observed  at  low 
+
+Fig.  4:  Static  23Na  NMR  spectra  of  Na3.4Sc2(SiO4)0.4(PO4)2.6  stored  in  Ar,  at  temperatures between 219 K and 550 K.  
+
+Fig.  5:  Linewidth  of  the  static  23Na  NMR  spectra  of  Na3.4Sc2(SiO4)0.4(PO4)2.6  for  temperatures between 300 K and 550 K. 
+
+Na  NMR  spin-lattice  relaxation  rates  T1 have  been  measured  on  Na3.4Sc2(SiO4)0.4(PO4)2.6 stored in air and in Ar in the temperature range from 260 K to 650 K. For these measurements the samples were sealed in evacuated glass containers. 
+
+At all temperatures, the magnetization transients  could  be  well  described  with  a  single-exponential  function.  The  relaxation  rates  are plotted  in  Fig.  6  as  a  function  of  inverse  temperature.  Both  samples  show  a  very  similar behavior. At low temperatures (right side of Fig. 6) the relaxation rates are in the range of half a millisecond. In this regime, the hopping rate  τ is much smaller than the Larmor frequency  ωL (ωL·τ >> 1). 
+
+When the temperature is increased, the motions of the Na+ ions become faster, the value  of  the  spectral  density  at  the  Larmor  frequency  J(ωL)  increases  and  the  transitions between  the  nuclear  Zeeman  levels  are  induced  more  and  more  effectively,  i.e.  the  relaxation rate T1 increases. At a temperature of 350 K, the relaxation rate reaches a clear maximum with values  of  the  relaxation  time  T1  of  about  70  µs.  Here  the  hopping  rate  equals  the  Larmor frequency (ωL·τ  ≈ 1). 
+
+After further increasing the temperature, the hopping rate becomes much larger than the Larmor frequency (ωL·τ << 1) and the transitions between the Zeeman levels are induced less effectively,  i.e. the relaxation rate decreases. In this logarithmic plot of  T1the absolute value of the slope is equal on the low-temperature side and the high temperature side, i.e. the curve is symmetric around the maximum. 
+
+This reveals that the local hopping of the Na+ ions observed in these relaxation rates is also responsible for the long-range transport and that both processes are activated by the same activation barrier.21 Na3.4Sc2(SiO4)0.4(PO4)2.6  samples  stored  in  air  (black)  and  in  Ar  (red).  The  values  of  the relaxation  rate  in  this  temperature  range  are  obtained  with  high  reproducibility  during  several heating and cooling scans. 
+
+The  overall  behavior  of  the  relaxation  rate  can  be  very  well  described  by  a  so-called  BPP behavior  (Eqs.  (1),  (3),  and  (4))  as  depicted  by  the  dashed  black  and  red  lines  in  Fig.  6.  A hopping rate of  τ-1 = 3·108 s-1 can be extracted at 350 K (for both samples) and the activation barrier  for  single  Na  ion  jumps  is  (0.191  ±  0.004)  eV  and  (0.205  ±  0.005)  eV  for  the  sample stored  in  air  and  Ar,  respectively.  
+
+The  values  of  the  activation  barriers  are  very  small  and  in excellent agreement with activation energies for the conductivity obtained at higher temperatures (above 473 K).31 This clearly shows that our NMR relaxometry measurements are probing the bulk transport of the Na+ ions while the conductivity measurements at lower temperatures show some influence of the grain boundaries with higher activation energies (0.34 eV).31 
+
+The average jump length l of the Na+ ions can be estimated from the shortest Na-Na distance in the crystal structure (3.4 Å). 
+
+Using the Einstein-Smoluchowski-Equation32,33  ܦ = ௟మ ଺	ఛa  diffusion  coefficient  of  D  =  6.4·10-12  m2/s  can  be  estimated  (at  350  K)  for  the  Na+  ions.  The partial Na+ ion conductivity σNa can be estimated via the Nernst-Einstein-Equation where  NNa  is  the  particle  concentration  of  the  Na  ions  (1.17·1028  m-3),  qNa  the  charge  of  the charge carriers, kB the Boltzmann constant, and T the temperature. A value of σNa = 4 mS/cm is obtained at 350 K. In a similar way, the σNa values for the complete temperature range from 260 K to 650 K, i. e. the temperature range where T1 has been measured and where these values can be well described with the BPP behavior (Fig. 6), can be extracted. 
+
+This is shown in Fig. 7. Very  recently  also  the  bulk  conductivity  at  low  temperatures,  as  extracted  from  impedance measurements, was reported12 and is shown in comparison in Fig. 7. A good overall agreement is observed. The activation energy determined from impedance spectroscopy (0.14 ± 0.1 eV) is consistent with the value obtained from the T1 data. 
+
+Fig.  7:  The  bulk  Na-ion  conductivity  as  extracted  from  23Na  NMR  T1  measurements  and  from impedance spectroscopy.1
+
+The high mobility of the Na ions in two Na3.4Sc2(SiO4)0.4(PO4)2.6 samples, stored in air and in Ar, was  investigated  using  temperature  dependent  23Na  NMR  measurements,  including  lineshape studies and relaxometry. 
+
+A diffusion coefficient of D = 6.4·10-12 m2/s can be estimated at 350 K for  both  samples,  corresponding  to  a  Na+  ion  conductivity  of  σNa  =  4  mS/cm.  In  contrast  to measurements  of  the  total  conductivity  via  impedance  spectroscopy,  the  NMR  measurements are probing the bulk transport of the Na+ ions, while the impedance measurements are usually influenced  also  by  grain  boundaries,  becoming apparent  by  a  higher  activation  energy  of  0.34 eV. Differences in the high-temperature impedance measurements on both samples reveal that the  moisture  level  affects  the  grain  boundaries  while  the  bulk  diffusion  probed  by  NMR  is  not affected.  
+
+Only  at  lower  temperatures  the  bulk  transport  can  be  separated  from  the  grain boundaries in the impedance measurements. This results in similarly small activation energies for the bulk contribution. The impedance measurements at higher temperatures (above 473 K) show  a  smaller  activation  energy  of  0.19  eV.  This  value  is  in  excellent  agreement  with  that obtained  from  NMR  relaxometry  reflecting  the  bulk  transport.  This  is  also  the  reason  why  the NMR measurements do not show significant differences between the two samples stored in air and in Ar. 
+
+Supporting Information Rietveld  refinement  for  the  temperature-dependent  XRD  data  of  Na3.4Sc2(SiO4)0.4(PO4)2.6. Comparison of 23Na static and MAS NMR spectra. 

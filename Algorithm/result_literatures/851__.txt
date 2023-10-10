@@ -1,0 +1,135 @@
+Because of its high Li+conductivity, the family Li1+xAlxTi2-x(PO4)3 has already beenwidely studied and previous structural characterizations reported that aluminum occupied two types ofsites in the NASICON framework : first one in octahedral coordination corresponding to Ti/Alsubstitution, second one in tetrahedral coordination corresponding to P/Al substitution.
+
+In this work weshow that it is possible to synthesize samples presenting only the Ti/Al substitution in octahedral sitewhich is more consistent with the formulation.
+
+Static local properties of our samples were characterizedby multinuclear Nuclear Magnetic Resonance (NMR) and X-ray diffraction.
+
+The MAS NMRaluminum spectrum is characterized by a strong parameter of asymmetry (ηQ = 0.9) indicating thataluminum ions are situated in sites which lost their axial symmetry.
+
+This loss of symmetry isaccompanied with an increase of the number of chemical sites of the phosphorus among which someare characterized by broad lines.
+
+The strong asymmetry quadrupolar parameter, together with thestrong broadening of the 31P lines assigned to phosphorus with 3 Ti4+ and one Al3+ are marks ofM2(IV)PO4 skeleton’s distortion.
+
+Multinuclear NMR experiment also allowed us to analyze theabnormal behavior of the lithium quadrupolar parameter νQ in relation with the flexibility ofM2(IV)PO4 skeleton characteristic of NASICON family.
+
+Solid electrolytes with fast Li+ion transport are attractive materials for applications in CO2 gassensors,1and solid electrolyte batteries.
+
+In particular, lithium compounds with NASICON (NatriumSuper ionic conductor) structure and formula LiM2(PO4)3 have been extensively studied.
+
+ It has beenshown that the bulk ionic conductivity of LiTi2(PO4)3, σb = 1.5×10–4 S⋅m–1 at room temperature,25increases by several orders of magnitude if Ti4+ is partially substituted by Al3+,25 Sc3+, Fe3+, or Y3+ions.
+
+The bulk ionic conductivity at 298 K for Li1.3Al0.3Ti1.7(PO4)3(LATP) was found to be 1.10-1S⋅m–1 with the activation energy Eb=0.25 eV for the bulk and Egb=0.29 eV for the brain boundary.
+
+The Li+ion transport number in these compounds was found to be ti= 1.22,32 In such samples the largeenhancement of the conductivity cannot be only explained by the increase of the lithium content of thecompound.
+
+From the Ohm law σLi=nLiqLiµLi (where nLi represents the number of charge carriers, qLitheir charge and mLi their mobility), we can deduce that the electrochemical mobility of lithium in theNASICON structure is also greatly improved.
+
+LATP samples were first studied in references (11, 15,17,18) and after in references (23, 24, 27).
+
+ Li1.3Al0.3Ti1.7(PO4)3 belongs to the rhombohedral symmetry(space group R3c ) with six formula units per cell.
+
+ The lattice parameters of LATP are a = 8.504 Å andc = 20.881 Å.R3c space group is typical for NASICON-type structure.
+
+The NASICON-typeframework is built up of M2(PO4)3 (where M = Ti, Ge, Al, Y) units in which two MO6 octahedra andthree PO4 tetrahedrons share oxygen atoms.
+
+ It results in a system of three dimensional ‘channels’ inwhich Li ions move.
+
+It has been previously stated that the ionic conductivity can be altered bycontrolling the channel sizes via one or more of the above substitutions since, although the overallcrystal symmetry remains the same,20 the lattice dimensions depend on the size of the structuralcations.
+
+Moreover, substitution of a tetravalent Ti4+ by trivalent Al3+ involves an increase of the amountof charge carrier Li+to keep electro-neutrality of the formula.
+
+Such a substitution modifies theflexibility proprieties of the skeleton.
+
+In NASICON structure, different positions suitable for Li ions,with different denominations depending on the authors, were pointed out: the M1 site (6b position ins.g.R3c ),34 at the center of an elongated octahedral oxygen environment at the intersection of the threeconduction channels, corresponds to the cage commonly occupied by metallic cations in manyNASICON compounds; the M2 site (18e position) is in a 8-10 oxygen environment at each bend of theconduction channels in the framework.35 the M1’ site (36f position), in the neighborhood of M1 site,was reported by Catti et al. in LiZr2(PO4).36 Finally, Arbi et al.
+
+Recently mentioned an intermediary site,called M3 thereafter (36f position), along the conduction channels.
+
+In the case of Li1.2Al0.2Ti1.8(PO4)3,they showed that M1 sites are preferentially occupied while the occupancy of M3 sites increases with the substitution rate Al/Ti.
+
+This leads to the creation of vacancies in M1 site and gives rise for lithiummobility between M1 and M3 positions, the distance between the positions is ~3.5 Ǻ.
+
+The high ionic conductivity of Li1.3Al0.3Ti1.7(PO4)3 and peculiarities of the ionic migration stimulatefurther investigations.
+
+ The samples of this series were the object of a large number of studies.
+
+All these papers report results on samples with aluminium in two sites: the octahedral one andthe tetrahedral one.
+
+This last site was attributed to Al3+/P5+ exchanges in the network, although thishypothesis is not consistent with the nominal NASICON formula: tetrahedral sites should be fullyoccupied by P5+ ions leaving no available space for Al3+ cations.
+
+Thus, the existence of Al3+ intetrahedral coordination could be explained by the presence, even in very low quantities, of impuritiesbased on phosphates.
+
+In the first part of our study we focused on the structural aspects of this type of compound.
+
+Particularly, our attention was concerned on the sample itself and we have shown that it is possible tosynthesize samples without aluminium in the tetrahedral site.
+
+The crystalline structure of this samplewas determined by X-ray powder diffraction (XRPD) and the static local properties were studied byNuclear Magnetic Resonance (NMR): at room temperature by the Magic Angle Spinning (MAS)experiments and in temperature range from 120 K to 420 K on static sample (non-spinning sample orstatic mode).
+
+The high resolution MAS NMR (MAS mode) experiments were performed in order toprecise local structure while the experiment on static sample (static mode) allowed us to obtaintemperature behavior of the 7Li and 31P NMR spectral parameters.
+
+The powder of Li1.3Al0.3Ti1.7(PO4)3 compound was synthesized by Pechini modified method andstudied by XRPD and MAS high resolution and static NMR.
+
+The first important result lies in the fact that the synthesis process allows us to obtain samples with asingle aluminum site corresponding to octahedral environment in substitution of Ti4+ ions, unlike whatwas observed by other authors.
+
+Magic Angle Spinning investigations at RT revealed the presence of 6chemically different sites for 31P, while single distorted sites are found for aluminium and lithium in thelattice.
+
+For 31P, this multiplicity of sites is analyzed as the result of non-equivalent PO4 entities due todistortions of P-O bonds and to the substitution of Ti4+ by Al3+confirming the hypothesis used bydifferent authors to explain the profile of Raman and IR spectra.
+
+Secondly, the high ηQ=0.9 experimental quadrupolar parameter value obtained for 27Al nucleiindicates a low symmetry of aluminum environment.
+
+From both XRPD,27Al and 31P NMR results itseems reasonable to explain this phenomenon by the flexibility of the M(IV)(PO4)3 skeleton combinedwith slight distortion of the octahedral environment due to the substitution of Ti4+ ions by smallertrivalent cation Al3+.
+
+The spitting of the 31P NMR unique line observed in LiTi2(PO4)3 in six components is explained interms of three pairs of lines attributed to 31P with 0 Al or 1 Al, or 2 Al, in its neighborhood.
+
+The pairsof lines are due to the presence of short and long P-O bonds due to the distortion of the M(IV)(PO4)3skeleton.
+
+The behavior of the CQ parameter is a consequence of the off-site positions of the lithium ions, whichprefer to lie inside a triangle of oxygen ions.
+
+Such triangular environments can be found between thecolumn of M(IV)(PO4)3 units along c axis.
+
+ The distortion of this triangle due to the distortion of the  skeleton led to an increase of CQ when the temperature increases.
+
+These off-site positions allow toexplain why we can enter 7.8 lithium ions in the cell while observing a single site on the NMRspectrum.
+
+This proposition is based on the phosphorus NMR results together with the orthophosphateInfrared spectroscopy.
+
+It takes also into account the existence of potential phase transition in suchstructures.
+
+Although our results and their analysis were obtained before the publication67 in March 2016 , itseemed important to us to quote this article.
+
+This work is devoted to the lithium localization in thematerial under consideration and we can compare their results to the ones presented here.
+
+Figures 1b of bond valence mismatch given in ref.(67) shows that lithium ions are delocalized inthe neighborhoods M1’ of M1 site and M3’ of M3 site.
+
+
+Effectively,only one contribution is observed on the NMR Li spectrum which broadens when temperature isdecreasing.
+
+The analysis of this spectrum in connection with the chemical formulation of the sampleallows specifying the off-center positions of these ions which prefer to lie inside a triangle of oxygenions.
+
+Such triangular environments are found at the interface of M1’ and M3’ which are between thecolumns of M(IV)(PO4)3.The results on the dynamics of the lithium studied in the part II will confirmthe formation of the Li-O bonds thanks to the highlighting of the transferred hyperfine interactions.
+
+In the reference (68) the importance of the P-O and Al-O bonds was underlined.
+
+By studying thebehavior of R2(31P) and δ(31P) we showed that six components, observed on the NMR spectrum of 31P,line up by pairs associated with 0 Al or 1 Al or 2 Al in the neighborhood of 31P.
+
+These pairs are due tomore or less long P-O bonds explained by M(IV)(PO3)4 skeleton distortion, and the width of thesecontributions is attributed to disorder in the lengths.
+
+The CQ parameter behavior versus temperature, together with the behavior of the disordered P-O andAl-O bonds, specify the thermal evolution of the lattice by showing that this one is due to thedistortions of the M(IV)( PO4)3 skeleton.
+
+ Our results are in agreement with the following schema.
+
+ It is the second site which allows high conductivity.
+
+The lithium ion jumps from a M ' 1 site to a M ' 3 site,but in each of these sites the ion lithium remains in the neighborhood of an oxygen plan which confersit a quadrupolar average interaction.
+
+There is no impediment to jumps of lithium ions between siteswith same symmetry and leading to the same spectra (in that case, the mobility is not observable byexchange experiments).
+
+We suggest that lithium ions lie dynamically in sites in the neighborhood of atriangular plane of oxygen atoms and that the jump may occur in any direction.
+
+The 27Al NMR spectrum is a characteristic one of a single octahedral site which is strongly distorted.
+
+Finally, we can add the following remarks: unfortunately the syntheses using exactly the sameprocedure never lead to pure phase when using 6Li isotope carbonate as reagent.
+
+These samples wouldhave allowed obtaining more information about relaxation.
+
+Nevertheless, the failure of this synthesismakes us wonder the importance of the mass of the cation hosted in the NASICON cage and its effectson the cage stabilization.
+

@@ -1,0 +1,119 @@
+Synthesis and structure of two phosphates belonging to the ternary Sb2O5–In2O3–P2O5 system are realized. 
+Structures of SbV 1.50InIII 0.50PO43 and SbV 0.50InIII 0.50P2O7 phases, obtained by solid state reaction in air at 950 °C, were determined at room temperature from X-ray powder diffraction
+using the Rietveld method. 
+SbV 1.50InIII 0.50PO43 have a monoclinic space group P21 /n distortion of the Sc2WO43-type framework. 
+Its structure is constituted by corner-shared SbO6 or InO6 octahedra and PO4 tetrahedra. 
+Monoclinic unit cell parameters are a=11.8012 Å, b=8.6231 Å, c=8.372 Å, and  =90.931°. Sb0.50In0.50P2O7 is isotypic with Sb0.50Fe0.50P2O7 and crystallizes in orthorhombic system space group Pna21 with a=7.93891 Å, b=16.06642 Å, and c=7.9777 Å. 
+Its structure is built up from corner-shared SbO6 or InO6 octahedra and P2O7 groups two group-types. 
+Each P2O7 group shares its six vertices with three SbO6 and three InO6 octahedra, and each octahedron is connected to six P2O7 groups.
+
+As part of a search for new materials likely to exhibit several 2O3–P 2O5 systems have been partially or completely and investigated and principally two,and, families of compounds have been prepared.
+
+Depending on the nature of M and M species, family of materials is shown to exhibit  a variety of structure types, which are not simple distortions of each other. 
+Close examination of previous studies shows that X-ray diffraction patterns for N-, S-, and B-type phases are rather similar; 
+therefore, it can be rather confusing trying to infer the structure type of a compound from a simple examination of its XRD spectra. 
+In the case of SbV and forms for mixed-valence antimony are reported . 
+The form is monoclinic space group  with an S-type structure, whereas the form is trigonal  and isotypic to the known B-type structure . 
+The belongs to the recently characterized SbV N-type phase space group and shows a 2-2 ordered distribution, along the c-axis, of Sb5+ and Fe3+ cations within the framework.
+ XRD patterns of compounds  =Si, Ge, Sn, Pb, Ti, Zr, Hf, Mo, W, Re, Ce, Th, U; X=P, V, As can be indexed, at least approximately, on a cubic ZrP2O7-structure type. 
+The range of M cation size that can be accommodated in the MIVXV 2O7 structure is very wide, which indicates a very large ﬂexibility of the framework. 
+Thus, for the TiP2O7 and also for most of the tetravalent cations, it has been shown that at room temperature the real MIVP2O7 structure is a superstructure having the same space group but with a tripled unit cell parameter. 
+Recently, a combination of high-resolution synchrotron, powder diffraction, and single-crystal synchrotron diffraction data has shown that the room-temperature superstructure of ZrP2O7 is orthorhombic space group Pbca . 
+Preparation and thermal expansion of some TaBi, NbBi, TaSb, TaNd, TaAl, TaFe, TaGa, NbIn, and Nb pyrophosphate compounds produced by replacing MIV, in MIVP2O2, with mixed MV/ MIII cations are also reported . 
+Their roomtemperature XRD patterns were indexed on a cubic unit cell similar to that of ZrP2O7 but, up to now, no detailed structural determination for some of them has been realized. 
+In the case of SbP2O7,  report two forms for mixed-valence the 0.50P2O7 monoclinic, space group P21/c and ␣-SbV 0.50SbIII the ␤-SbV space group Pna21.
+ A long-range ordering of Sb5+ and Sb3+ cations within the orthorhombic ␤-SbV 0.50P2O7 structure was conﬁrmed.
+
+antimony pyrophosphate
+
+During the last few years our interests have been focused particularly on characterization of newly N-type phases. 
+More the SbV 2O5–FeIII 2O3–P2O5 system led us to synthesis and SbV structural determination of N-structure type and SbV P2O7 pyrophosphate 0.50FeIII 0.50 0.50SbIII with an orthorhombic ␤-SbV 0.50P2O7-structure type.
+Since Sb3+ and In3+ have a comparable ionic size and in a continuation of our search for new materials likely to exhibit interesting physical properties, it was interesting to prepare and characterize two compounds, belonging SbV to the ternary SbV 2O3–P2O5 system. 
+Note that  mapreparation and cell parameters of SbV terial are reported by Kasahara et al. , but because they have not been able to obtain single crystal, to date no detailed structural determination was realized. 
+The pyrophosphate SbV 0.50P2O7 are newly synthesized.
+
+Syntheses 0.50InIII and were carried out using conventional solid state reaction techniques. 
+Polycrystalline samples were prepared from mixtures of In2O3 ,  and NH4H2PO4  in stoichiometric proportions. 
+The corresponding mixtures were heated progressively with intermittent grindings in air, at 200 °C , 600 °C , 800 °C , and 900 °C .
+Additional treatments at 950 °C  were needed to synthesize a pure sample of Sb3. 
+The products of reacpure sample of SbV tion were characterised by XRD at room temperature with a diffractometer, Cu K␣ radiation , and a diffracted-beam graphite monochromator. 
+Experimental conditions included a 1° divergence slit, 1° antiscatter slit, and 1 mm receiving slit.
+ XRD data were collected from 10 to 90 °2␪, in steps of 0.0084°, with a counting time of 30 s/step. Rietveld reﬁnement of the structure was performed using the FULLPROF program.
+
+
+Preliminarily experimental investigation in the Sb2O5-In2O3-P2O5 ternary diagram leads to the successive and synthesis  phosphates within the pseudo-binary.
+Careful analysis of Sb1.50In0.50 XRD data  conﬁrms the similarity of its structure to that of the ␣-SbV  which is a monoclinic distortion of the S-type structure. 
+Obtained unit cell parameters and unit a cell volume are very close to those previously reported by Kasahara et al.
+It is of interest to note that superstructure with larger unit cells may occur for the S-type structure.
+
+In the case of , Jouanneaux et al.  have clearly shown the presence of superstructure spots along  in the electron diffraction patterns, indicating a superstructure along its b-axis. 
+This result is also conﬁrmed by the high-resolution patterns.
+A careful analysis of the observed conditions of diffractions shows particularly the presence of a very weak  reﬂection implying the absence of the 21 axis. 
+This result is consistent with the fact that Pn is the better choice of space group than P21/n. 
+In fact, reﬁnement in space group Pn implies too many reﬁned parameters and unfortunately does not lead to good results.
+
+
+Although space group P21/n leads only to a medium structure, results obtained with this space group are quite satisfactory.
+In the case of , a possibility of presence of a superstructure along the b-axis was also examined. 
+According to our experimental conditions, a proﬁle matching reﬁnement in space group Pn is realized. 
+Analysis of difference between observed and calculated patterns shows particularly that reﬂections which are indicative of the absence of the 21 axis , are either absent  and  or overlapped with other lines. 
+Effectively, this result does not exclude deﬁnitively the possibility of space group Pn. 
+As will be shown in the following part, however, a  with space group P21/n reﬁnement of SbV leads to quite satisfactory results. 
+Analysis of the XRD powder data of  phase shows the presence of extra reﬂections  indicative of a superstructure. 
+Therefore, the spectrum cannot be completely indexed on the basis of an ideal cubic ZrP2O7-type structure. 
+Comparison of the XRD patterns for  with that of the phase  shows a notable difference between them in peak intensities, but peak positions in both spectra are relatively comparable, therefore, in a first approximation and  phases were considered to be isostructural. 
+XRD spectra of were then successfully indexed on a primitive orthorhombic cell with parameter values of. 
+The unit cell parameters and unit cell volume of both SbV 0.50InIII are comparable but they are relatively larger than those of the.
+This is related directly to the ionic raSbV dius difference between In3+. The following structural reﬁnements were based upon the above observations.
+
+
+
+A. Rietveld Sb1.50In0.50„PO4…3 of Sb1.50In0.50共PO4兲3 
+
+
+
+Starting parameters for Rietveld reﬁnement of were based on those already reported for the monoclinic SbV. 
+In a ﬁrst approximation, one Sb atom is initially supposed to reside at , the other 0.5 Sb and 0.5 In atom was constrained to be distributed at the . 
+In the reﬁnement, where a 1-1 ordering distribution along the a-axis of the  sites was initially assumed, acceptable reliability factors are obtained. 
+Since Sb5+ and In3+ are isoelectronic ions, on the basis of XRD data alone it is difﬁcult in our case to distinguish between them. 
+Indeed, given the absence of a complementary technique of characterization such as neutron diffraction, the occupancy rates of Sb and In atoms within the two possible  and sites are not reﬁned. 
+As will be discussed in the concluding remarks, the notable size difference and charge imbalance between both Sb5+  and In3+ are in favour of the above-supposed cationic distribution. 
+In order to facilitate the structure description, in the forthcoming discussion the crystallographic formula of Sb1.5In0.50 will be written as 3. 
+The ﬁtted XRD proﬁle and the ﬁnal atomic parameters are given in Figure 2 and Table I, respectively. 
+Selected interatomic distances are gathered in Table II. 
+As shown in Figure 3, the structure is built up by corner-sharing XO6 octahedra and PO4 tetrahedra in such a way that each octahedron is surrounded by six tetrahedra , two , and two  and each tetrahedron is connected to four octahedral  and two . 
+Values of P-O distances are in good agreement with those typically observed in phosphate . 
+The calculated values of bond valence sum for the P sites are consistent with the expected formal oxidation state of P5+ ions.
+Comparison between calculated and experimental BVS values for species are relatively consistent with the above proposed cationic distribution  site and Sb5+/In3+ in the X.
+X-ray powder data of Sb1.5In0.50 derived from Rietveld reﬁnement  are presented in Table III.
+
+Structural parameters of were used as starting parameters for Rietveld reﬁnement of . 
+Initially, Sb and In atoms in  are supposed to reside respectively in the  and M sites of the  framework. 
+In the reﬁnement, where a 1-1 ordering distribution of Sb and In atoms is initially assumed, good reliability factors are obtained. 
+On the basis of XRD data alone it is difﬁcult to distinguish between the Sb5+ and In3+ ions; 
+therefore, the occupancy rate of Sb and In atoms within the two possible  and sites was not reﬁned. 
+As mentioned above, the presence of a notable size difference and charge imbalance between Sb5+ and In3+ ions agrees with our proposed cationic distribution . 
+Furthermore, comparison between calculated and experimental BVS values is consistent with the expected formal oxidation state of Sb5+, In3+, and P5+ ions and agrees with the above-mentioned cationic distribution. 
+Observed, calculated, and difference XRD patterns of P2O7 are given in Figure 4. 
+Selected interatomic distances are given in Table V. XRD data, obtained from the “observed intensities” of the Rietveld reﬁnement , are presented in Table VI. 
+As shown in Figure 5, the structure is built up from cornershared SbO6 or InO6 octahedra and P2O7 groups. 
+Structure can also be described as forming of a succession along the b-axis of two types of slabs labeled as L1 and L2. 
+Sb5+ cations are coordinated by the six oxygen atoms, whereas the In3+ cations are coordinated by the six atoms. 
+PO4 tetrahedra are rather irregular e.g., P-O distances vary from 1.5 to  as listed in Table V, but in all cases P-O distances are comparable to those of other pyrophosphates. 
+There are two P2O7 group-types; 
+tetrahedra are connected via the oxygen whereas the  and  tetrahedra are bounded by the oxygen atom. 
+Each P2O7-group shares its six vertices with three SbO6 and three InO6 octahedra, and each octahedra is connected to six  groups.
+IV. CONCLUSION
+
+Ordering of two cations, within a framework, is generally dependent on the size difference, charge imbalance, or both, between the cations. 
+Of interest is ordering between Sb5+ and Fe3+ cations which are reported in  Nasicon frameworks and also for  pyrophosphate. 
+Since the ionic radii values of Sb5+  and Fe3+  cations are relatively comparable, the exact reason behind the cation ordering within the octahedral framework for the two later families of compounds are shown to depend on the differIndeed in both ence between their oxidation states. 
+ materials, where a notable ionic size difference  between Sb5+ and In3+ is observed, a 1-1 ordering cationic distribution between Sb5+ and In3+ cations along the b-axis of the pyrophosphate framework and along the a-axis in S-type framework are normally expected. 
+On another viewpoint, several authors point out the relationship between the types structure  family of materials. 
+Evolution of structure-types with ionic radii values of MIII cations is reported in Figure 6. 
+Thus the N structure-type is obtained for the relatively small MIII cations whereas the S-type , and  and B-type to  structures are favored for the larger one. 
+In fact, from small to larger MIII cations, three successive structural modiﬁcations structure types framework are experimenwithin the SbV tally obtained. 
+Of interest is the general discussion about the relationship between the value of ionic radii and structure-types must take in account the nature of and  MIII cations within the M1.5 framework family.
+
+
+

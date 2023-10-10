@@ -1,0 +1,12 @@
+Understanding the conductivity variations induced by compositional changes in sodium super ionicconducting (NASICON) glass materials is highly relevant for applications such as solid electrolytes forsodium (Na) ion batteries.
+In the research reported in this paper, NASICON-based NCAP glass(Na2.8Ca0.1Al2P3O12) was selected as the parent glass.
+The present study demonstrates the changes in theNa+ ion conductivity of NCAP bulk glass with the substitution of boron (NCABP: Na2.8Ca0.1Al2B0.5P2.7O12)and gallium (NCAGP: Na2.8Ca0.1Al2Ga0.5P2.7O12) for phosphorus and the resulting structural variationsfound in the glass network.
+For a detailed structural analysis of NCAP, NCABP and NCAGP glasses,micro-Raman and magic angle spinning-nuclear magnetic resonance (MAS-NMR) spectroscopictechniques (for 31P, 27Al, 23Na, 11B and 71Ga nuclei) were used.
+The Raman spectrum revealed that theNCAP glass structure is more analogous to the AlPO4 mesoporous glass structure.
+The 31P MAS-NMRspectrum illustrated that the NCAP glass structure consists of a high concentration of Q0 (3Al) units,followed by Q0 (2Al) units.
+The 27Al MAS-NMR spectrum indicates that alumina exists at five differentsites, which include AlO4 units surrounded by AlO6 units, Al(OP)4, Al(OP)5, Al(OAl)6 and Al(OP)6, in theNCAP glass structure.
+The 31P, 27Al and 11B MAS-NMR spectra of the NCABP glass revealed the absenceof B–O–Al linkages and the presence of B3–O–B4–O–P4 linkages which further leads to the formationof borate and borophosphate domains.
+The 71Ga MAS-NMR spectrum suggests that gallium cations inthe NCAGP glass compete with the alumina cations and occupy four (GaO4), five (GaO5) and six (GaO6)coordinated sites.
+The Raman spectrum of NCAGP glass indicates that sodium cations have also beensubstituted by gallium cations in the NCAP glass structure.
+From impedance analysis, the dc conductivityof the NCAP glass (3.13  108 S cm1) is slightly decreased with the substitution of gallium (2.27 108 S cm1) but considerably decreased with the substitution of boron (1.46  108 S cm1).
+Thevariation in the conductivity values are described based on the structural changes of NCAP glass with thesubstitution of gallium and boron.

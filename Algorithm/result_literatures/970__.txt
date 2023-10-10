@@ -1,0 +1,60 @@
+Recently, all-solid-state rechargeable lithium ion batteries (LIBs)with solid electrolytes have attracted a lot of attention due to theirhigh energy density, high safety as well as long cycle performance,which can be applied to some large-scale systems such as electric orhybrid vehicles and smart grids.
+
+The key to the fabrication of highperformance all solid state LIBs is to develop an appropriate solidstate electrolyte, which should possess the following propertiesincluding high lithium ion conductivity, a wide electrochemicalwindow, as well as excellent chemical stability with lithium anodeand Co-, Ni-, or Mn-containing cathodes.
+
+So far, various types oflithium ion conducting solid state electrolytes have been developedand investigated as possible electrolyte candidates for all solid stateLIBS, which mainly include garnet-type Li7La3Zr2O12,1,2 Li2S-basedglass,3-5 NASICON-type LiM2(PO4)3(M =Ti, Ge, Hf, Zr, Sn).
+
+Among the above-mentioned solid state electrolytes, Li7La3Zr2O12and Li2S-based glass have been widely used to fabricate all solidstate LIBS.
+
+However, these two electrolytes still have somedrawbacks.
+
+For Li7La3Zr2O12 electrolyte, the high calcinationtemperature up to 1200 °C is required to obtain the cubic phasewith high lithium ion conductivity.
+
+Under such circumstance, theLa2Zr2O7impurity is easily formed, and thus reduces lithium ionconductivity.
+
+In addition, when Li7La3Zr2O12 sample is exposed tothe humid air, its grain boundary conductivity obviously decreaseddue to the formation of La(OH)3 phase in Li7La3Zr2O12 grainboundaries.
+
+As to Li2S-based glass, it is very instable in air, whichtends to react with the water contained in the air, leading to theformation of harmful H2S gases.
+
+ Compared with the above twoelectrolytes, the NASICON-type LATP solid state electrolyte hassome advantages over them, such as excellent stability in ambientatmosphere, mass production and low cost.
+
+However, the LATPelectrolyte tends to react with lithium anode due to the Ti4+/ Ti3+redox reaction.
+
+The problem for LATP solid electrolyte can be solved by adoptingthe strategy that a barrier layer, which requires sufficient stabilityagainst lithium metal, can be introduced between electrolyte andlithium anode.
+
+The added barrier layer can block the contactsbetween them and prevent the undesired chemical reactions.
+
+Thismethod has been employed to prepare all solid state LIBS with theaim of avoiding the diffusion of elements at theelectrode/electrolyte interface or lowering theelectrode/electrolyte interfacial resistance.
+
+ In the previouswork, the interlayers were prepared using radio-frequency (RF)reactive magnetron sputtering.
+
+Although this technique can be usedto fabricate dense and high performing interlayers, it is expensive,complex and consumes a large amount of energy.
+
+Therefore, it isnot suitable for the mass production.
+
+To significantly lower the cost of production, the dry pressingmethod can be adopted to produce the interlayer for all solid stateLIBS, which is simple, reproducible, and very cost-effective ascompared to vacuum deposition techniques, and it has been widelyapplied to the fabrication of electrolyte membranes and interlayersat the interface of electrolyte/electrode for solid oxide fuel cells.
+
+To the best of our knowledge, there were no reports on thepreparation of protecting layer between LATP electrolyte andlithium anode using the dry pressing method.
+
+In this work, theNasicon-structured LAGP solid electrolyte was chosen as thematerials for the preparation of interlayer, whose lithium ionconductivity can reach over 10-4 S/cm and is slightly lower than thatof LATP sample.
+
+ Importantly, comparable with LATP electrolyte,the LAGP solid state electrolyte is more stable against Li becauseGe4+ is more difficult to be reduced than Ti4+account of the high price for Ge sources, it is not practical to useLAGP directly as solid electrolyte for all solid state LIBS, while as ainterlayer, only a very small amount of LAGP materials is needed,which can reduce the low preparation cost of all solid state LIBS.
+
+Herein, a simple dry pressing and post-calcination process wasemployed to fabricate LATP/LAGP double-layer lithium ion solidstate electrolyte.
+
+The electrical conduction properties, stability inair and chemical stability against Li of LATP/LAGP electrolyte as wellas electrochemical characteristics of Lithium ion battery employingLATP/LAGP as solid state electrolyte were investigated.
+
+In summary, a facile dry pressing and subsequent calcinationprocess has been adopted to prepare the dense, smooth and flatLATP/LAGP bi-layer solid state electrolyte which shows a highelectrical conductivity of 3.4 ×10-4 S/cm at 25 °C as well as anegligible electronic conductivity.
+
+This electrolyte was also found tobe excellent stability in air, with no performance decay afterexposure to air atmosphere for 3 months.
+
+Simultaneously, theLATP/LAGP bi-layer electrolyte is stable in contact with Li mental,which is attributed to good stability of LAGP layer against Li anode.
+
+The LFP cell assembled by LATP/LAGP electrolyte can be normallycharged and discharged at 0.1 C rate.
+
+After 3 charge-dischargecycles, the cell capacity increases to 145.3 mAh/g and 141.1 mAh/g,corresponding to about 85% and 83 % of theoretical capacity.
+
+Theseresults confirms that the LATP/LAGP bi-layer electrolyte can beapplied to all solid state LIBS.
+
+In our future work, we will assembleall solid state LIBS using the above electrolyte and evaluate theirelectrochemical performances.
+

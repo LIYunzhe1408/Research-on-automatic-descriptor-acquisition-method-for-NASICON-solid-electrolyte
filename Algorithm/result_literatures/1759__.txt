@@ -1,0 +1,33 @@
+In2Ti6(PO4)6[Si2O(PO4)6] has been obtained by heating (1100 ◦C) stoichiometric amounts ofIn2O3, SiP2O7, TiP2O7, and TiO2 in air.
+Colourless crystals of the phosphate-silicophosphate suitablefor a single crystal structure investigation have been grown by chemical vapour transport .
+In2Ti6(PO4)6[Si2O(PO4)6] adoptsits own structure type (R¯3 (No.
+148), Z = 3, a = 8.4380(10) A° , c = 44.295(1) A° , 1809 independentreflections, 109 variables, R1 = 0.044, wR2 = 0.112).
+The crystal structure represents a hybride built up from alternating layers ( to the c-axis) of theNASICON structure-type and those showing the structure of silicophosphates M4[Si2O(PO4)6].
+Isolatedheteropolyanions [Si2O(PO4)6]12− and double-octahedra [InIIITiIVO9] occur as coordinationpolyhedra besides isolated octahedra [TiIVO6] and tetrahedral phosphate groups.
+The results of 29Siand31P-MAS-NMR studies are in agreement with one crystallographically independent site for siliconand two sites for phosphorus.
+The phosphorus resonances can be related to the two sites by2-dimensional cross-polarisation experiments, by the anisotropies of their chemical shifts, and by theobserved line widths.
+All criteria lead to the same assignment.
+Substitution of In3+ by several trivalenttransition metal ions leads to phosphate-silicophosphates M2Ti6(PO4)6[Si2O(PO4)6] (M = Ti3+,V3+, Cr3+, Fe3+).
+Quaternäre Silicophosphate sind in der Literaturmit Kationen in den Oxidationsstufen +1 bis +5 bekannt(vgl.Tab.1).
+
+
+Pulverder Phosphat-Silicophosphate M2Ti6(PO4)6[Si2O(PO4)6](M = In, Cr, Fe) wurden durch Glühen stöchiometrischerGemenge (Gl.
+(1)) von M2O3, TiO2 , TiP2O7 und SiP2O7(1100 ◦C, Pressling, 2 Wochen) an Luft im Platintiegel in mikrokristalliner Form erhalten.
+Dabei war selbst nachmehrmaligem Verreiben, Pressen und Tempern der Reaktionsgemengenichtumgesetztes TiP2O7 in geringen Mengen(ca.5%) nachweisbar.
+Die oxidationsempfindlichenPhosphat-Silicophosphate mit dreiwertigem Titan oder Vanadiumwurden in ähnlicher Weise dargestellt (Gl.(2)und (3)).
+Allerdings wurden die Presslinge in diesen Fällenin verschlossenen, evakuierten Kieselglasampullen (V ∼15 cm3) unter Zusatz von 100 mg Iod als Mineralisator getempert.
+Die Farben der erhaltenen mikrokristallinen Pulversind in Tab.2 zusammengestellt.
+
+Als Ausgangsmaterial wurde dazu vorreagiertesPhosphat-Silicophosphat eingesetzt.
+Es wurdenfarblose Kristalle von In2Ti6(PO4)6[Si2O(PO4)6] erhaltenmit Kantenlängen bis zu 0,25 mm.
+Die Transportrate betrugTR ∼ 1 mg/d.
+Versuche zur Steigerung der sehrkleinen Transportrate durch Verwendung größerer Phosphidzusätzeblieben ebenso erfolglos, wie der Zusatz vonNH4Cl/PtCl2. In einer Reihe von Experimenten zur Kristallisationvon TiIII2TiIV6(PO4)6[Si2O(PO4)6] wurde die Bildungrot-violetter Kristalle von TiIII4[Si2O(PO4)6] alsNebenprodukt beobachtet.
+Zur Identifizierung und Überprüfung aller Proben aufReinheit wurden Guinier-Aufnahmen nach der image plateTechnik herangezogen.
+Details zur Methode wurden bereitsan anderer Stelle beschrieben.
+Die Gitterkonstantender Phosphat-Silicophosphate (Tab.2) wurden ebenfalls aus Guinier-Aufnahmen bestimmt (Cu-Kα1-Strahlung,Quarz-Monochromator, α-SiO2 als interner Standard, Anpassungder Gitterkonstanten an die beobachteten Beugungswinkelnach der Methode der Kleinsten Fehlerquadrate mitdem Programm SOS ).
+Anhand von EDX-Analysen mit einer Mikrosonde(Rastertunnelmikroskop, DMS 940, Zeiss) wurdendie Zusammensetzungen der Proben überprüft.
+FürIn2Ti6(PO4)6[Si2O(PO4)6] ergab sich ein Gehalt anSchweratomen von 8,7 at% Indium, 24,2 at% Titan,10,7 at% Silicium und 56,4 at% Phosphor in guter Übereinstimmungmit den erwarteten Werten.
+Zusätzliche Elementewurden nicht gefunden.
+
+Die chemischen Verschiebungsparametervon In2Ti6(PO4)6[Si2O(PO4)6] wurden zu δiso =−27,2 ppm, δaniso = 53 ppm, η = 0,87 (für PhosphoratomP2 (vgl.Tab.4), Linienbreite 450 Hz) und δiso = −35,2 ppm,δaniso =38 ppm, η =0,70 (für Phosphoratom P1, Linienbreite190 Hz) bestimmt.
+Die chemischen Verschiebungswertesind relativ zur 31P-Resonanz von 85%iger Phosphorsäureangegeben.

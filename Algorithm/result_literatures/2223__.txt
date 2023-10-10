@@ -1,0 +1,89 @@
+Crystallized fast-alkaline conductors have promising properties for ion electrochemical sensors. Their conductivity at room temperature is very high (about 10  28) 4–10  28) 3 S cm 28) 1). The selectivity effect of such membranes is based on the calibration of conductive sites in the structure. NASICON materials are good examples from this point of view. Suitable cationic substitutions allow to adjust the size of the conduction sites and then to improve the selectivity effect. Recent experimental results on Na  27) and Li 27) membranes are shown in this ﬁeld. © 1997 Elsevier Science S.A.
+
+Keywords: Ceramic membranes; Ion-sensitive electrode (ISE); Lithium; Na superionic conductor (NASICON); Selectivity; Sodium
+
+Solid-state membranes for Na 27) activity measurements are usually made with conductive glass materials (sodium aluminosilicates). The sensitivity is due to a direct ionic exchange between the conductive membrane and the analyzed solution at the interface (ﬁrst kind ion-sensitive electrode (ISE)). Na 27) ions can move through conduction sites inside the membrane between oxygen polyhedra formed around ﬁxed cations (Si4 27) or Al3 27), etc.). The material is amorphous and the conducting sites have variable sizes. For this reason, the glass membranes do not have good selectivity performances, for instance for other alkaline ions. They are generally poor conductors and the devices need a low membrane thickness. They are then very fragile.
+
+The selectivity effect of organic membranes is generally better. The sensitivity effect is due to a complexation equilibrium between an organic molecule ﬁxed in the membrane and the analyzed ion in solution. The valinomycin-based membrane for K 27) analysis is a demonstrative example in this ﬁeld. Its selectivity mechanism can be described by a steric effect in the complex formation. The organic membranes, which are very selective, are generally more delicate than inorganic
+
+materials and also less stable at temperature higher than room temperature.
+
+The present work consists in proposing robust membranes, having also a selective effect based on a steric recognition of ions in solid-state materials by ﬁrst kind interfacial exchange.
+
+A lot of ion-conductive ceramics have been synthesized since the 1970s, essentially for battery devices. Their structure is formed by polyhedra which are linked together by oxide bounds. A typical example is the NASICON (Na superionic conductor). It was ﬁrst synthesized by Hong and Goodenough in 1976 [1,2] and proposed as sensitive membrane for ISE or ISFET (ion sensitive ﬁeld effect transistor) in the 1980s [3,4] and more recently by Leonhard et al. in thick ﬁlm devices [5]. formula was written Na1  27) xZr2SixP3 28) xO12 [1]. Because variations of stoichiometry were observed, other formulae were also proposed to describe the ‘true’ NASICON, for example, Na1  27) x  27) 4yZr2 28) ySixP3 28) xO12 by Kohler and Schulz [6] (see also Boilot et al. for a discussion on this point [7]). As mentionned by Rudolf et al. [8], the stoichiometry can depend upon the synthesis method. Nevertheless, in a good approximation, we can use the ﬁrst Hong formula.
+
+initial general
+
+In such a compound, two ZrO2 octahedra and three SiO4 or PO4 tetrahedra are linked by corner oxygens (Fig. 1). Sodium ions occupy several three-dimensional interstices (Na1, Na2 and middle sites [7]) with a size well calibrated for Na  27) (see for example Ref. [7,8] giving the length of Na–O bounds). The structure of such crystallized materials depends on the stoichiometry and temperature. Its symmetry is generally rhombohedral, except for x:2 at room temperature where a slight monoclinic distortion appears. Nevertheless, in a ﬁrst approximation, the structure can be decribed in the rhombohedral (or ‘pseudo-rhombohedral’) symmetry with a and c as lattice parameters. A description is given in Fig. 1.
+
+Sodium ions can move from one site to another passing through windows (also named bottle-necks) formed by a triangle of oxygen ions and slightly narrower than the Na 27) radius. The conduction ways of sodium ions in such a structure are then of a zig-zag shape in three dimensions. The conduction type is exclusively cationic.
+
+The opening of the bottle-necks is associated with the variations of the a and c parameters. With a change of x, the substitution of P by Si modiﬁes the orientation of the tetrahedra. The a parameter increases monotonically with x and the c parameter rises to a maximal value for x:2. A maximum of conductivity is observed for x close to this value. This maximum is associated with the variation of the activation energy (due to the modiﬁcation of the bottle-neck size) and also to a change of occupation of the sodium sites and sodium–sodium interactions [7].
+
+ionic conductivity of NASICON is about 10  28) 3 S cm  28) 1 at room temperature. It is very high compared to that of solid membranes generally (about 10 28) 5–10 28) 11 S cm 28) 1).
+
+Chemical substitutions are possible and reversible in molten salts [1] or in acid medium [9]. While the NASICON structure can be maintained, modiﬁcations of the lattice parameters occur. The unit cell varies with the size of the ionic radius: the bigger the exchanged ion, the larger the unit cell [1]. Unfortunately, the conductivity of such materials is low, very low for the lithium-exchanged NASICON. It seems that Li 27) ions are located in sites other than those of Na 27) and are blocked inside the structure. Such materials are not superionic conductors.
+
+Nevertheless, such a structure can be reproduced for lithium ionic conductors and it is also paradoxically named NASICON (LISICON was used for another crystalline form). To stabilize the NASICON structure, the immobilized cations of the skeleton must be smaller. LiTi2P3O12 was the ﬁrst example of a compound in this ﬁeld, but its conductivity is relatively low, about 10  28) 6 S cm  28) 1 at room temperature [10]. If the structure is contracted by another substitution (for
+
+instance Li1 27) xAlxTi2 28) xP3O12) the conductivity can be increased up to 10 28) 3 S cm 28) 1 [10,11]. A substitution of titanium by germanium allows the crystalline structure to be contracted still more, although the bulk conductivity becomes lower (about 10 28) 4 S cm 28) 1) [11].
+
+
+The membranes can be synthesized by classical sintering methods (co-grinding of oxide or carbonate powders). Such a method makes it difﬁcult to obtain samples with a very good density, which is a crucial quality for ISE devices [13]. We have chosen a sol–gel route [14] because it leads to very ﬁne powders. The sintering temperature can then be reduced, losses of volatile compounds (Na, Li or P) are avoided and so pure NASICON phases can be obtained, with respect to the previous stoichiometry [12,15]. The powder is then pressed into pellets and sintered under air at temperatures in the range 900–1200°C depending on the compound and the stoichiometry [11,12,15].
+
+Because the conductivity of these ceramics is high, it is not necessary to thin down the membranes. For ISE devices, the pellets are typically about 2 mm in thickness and 8 mm in diameter. They are assembled on an inert tube with epoxy resin. Aqueous solutions were used as internal systems containing ions common to the membrane (Na 27) or Li 27)) and to the internal redox system (Ag:AgCl:Cl  28)) to produce a reversible electrochemical chain. Solid internal systems can also be used
+
+Fig. 1. Schematic view of the NASICON structure in rhombohedral symmetry.
+
+solutions were prepared in a buffered medium to ﬁx the ionic strength. Saturated calomel electrode (SCE) with a double junction was used as external reference. To avoid any polarization effect during the measurements, a high input impedance voltmeter was used (ARIES 20000 or MVN from Tacussel®).
+
+In the presence of interfering ion ( j ), the sensor voltage can be described by the extended Nernst equation (or Nikolskii relation):
+
+E 30)E 0 27)(RT:ziF) ln(ai 27)Ki, ja zi:zj where E0 is a constant which depends on the reference systems (internal and external), ai and aj are the activities of i (analyzed ion) and j (interfering ion), and zi (zi 30)1) and zj their charge numbers, respectively. Ki, j is the selectivity (or interference) coefﬁcient when ai is measured in presence of the j ion.
+
+Ki, j values were measured by the mixed solution method, by successive additions of a solution of interfering ion j, ai being kept constant and higher than the detection limit. The detection limit is function of the membrane composition; its values will be not discussed in this paper and are given elsewhere [11,12,15]. For the best membranes with a NASICON-type structure, the detection limit is about 10 28) 4 mol l  28) 1. The selectivity coefﬁcients were determined in 10 28) 2 mol l  28) 1 solutions ions. The inﬂuence of x on the Ki, j values are of i reported in Refs. [11,12]. In the present paper, we mention only the most conclusive points.
+
+For Na-ISE based on NASICON membranes, an optimal value was obtained for x:2 in the Na1 27) xZr2SixP3 28) xO12 family, whatever the alkaline interfering ion is (lithium or potassium). The best values of KNa,j are about a few 10 28) 2 or, exceptionally, 10 28) 3, depending on the sample and on the interfering ion. KNa,K is always better for NASICON than for Na-glass membranes (close to 10 28) 1) [13,15]. The proton interference depends on the sintering temperature and not on the membrane composition. It is about 3–5 for pellets sintered at 1200°C and about 10 or higher for pellets sintered at 1000°C or lower. Comparative results are plotted in Fig. 2.
+
+the Li-NASICON with
+
+composition Li1.3Al0.3Ti 1.7P3O12, the selectivity coefﬁcient is 8 29) 10 28) 3 for K 27) interfering ion and close to 0.6 for Na 27). For the sample with a structure built with germanium, Li1.3Al0.3Ge1.7P3O12, the coefﬁcients are lower: about 5 29)10 28) 3 for K 27) and 1.6 29)10  28) 2 for Na 27). Examples
+
+Fig. 2. pH Inﬂuence on emf measurements in solutions where [Na  27)] or [Li 27)] is maintained constant, using a glass Na-ISE (PNAV from Tacussel®), or Na-NASICON (x 30)2) sintered at 1000 or 1200°C, or Li-NASICON (Li1.3Al0.3Ge1.7P3O12 sintered at 900°C).
+
+of calibration curves are given in Fig. 3. The results are summarized in Table 1 (from Refs. [11,18]).
+
+For comparison, we have also determined the coefﬁcient KLi,Na for Na3Zr2Si2PO12 by the inverse value of KNa,Li (KLi,Na 30)(KNa,Li)  28) 1), which is about 2 29)10  28) 2. Then KLi,Na should be about 50. This last value must be considered from a qualitative point of view only, because KNa,Li has been measured with [Na 27)] 30) l 28) 1 whereas KLi,Na was determined with 10 28) 2 mol [Li 27)] 30)10 28) 2 mol l 28) 1. We must mention here experimental results on Na-NASICON membranes [12] which were corroborated on Li-NASICON membranes: they have shown that the Ki, j coefﬁcients depend on the values of ai and aj (the lower the ai value, the lower the Ki, j value, and the higher the aj value, the lower the Ki, j
+
+Fig. using Li1.3Al0.3Ti1.7P3O12 or Li1.3Al0.3Ge1.7P3O12 as ion-sensitive membrane when [Li  27)] is maintained constant.
+
+emf measurements
+
+Table 1 Selectivity (or interference) coefﬁcients for NASICON-type membranes when Li 27) is the primary ion (from Refs. [11,12])
+
+Selectivity coefﬁcients
+
+value). A study of such a phenomenon which is generally not mentioned in the literature is underway in our laboratory.
+
+No inﬂuence of the sintering temperature was observed on the proton interference on Li-NASICON membranes.
+
+Lattice parameters in rhombohedral symmetry are quoted in Table 2. From the values quoted in Tables 1 and 2, it appears clearly that KLi,Na is higher when the unit cell is larger (i.e., when the bottle-necks are larger). The selectivity effect can be explained by a steric effect inside the structure (bottle-necks and alkaline sites). It is true for the inﬂuence of the unit cell volume (see, for example, line 2 in Table 1) and for the inﬂuence of the ionic radius of interfering ions (see columns 2 and 3, for KLi,K and KLi,Na).
+
+No effect of the conductivity appears from these results: it is approximately constant whatever the composition is (it is even slightly lower for the Li-NASICON built with germanium). With an identical stoichiometry of lithium, when the structure is more contracted than the optimum, the conductivity is lower but the selectivity is improved, essentially for sodium ions.
+
+On the other hand, a qualitative correlation has been observed between the conductivity of Na-NASICON
+
+membranes and their selectivity, whatever the alkaline interfering ion (lithium or potassium) may be [12]. The maximum of selectivity was obtain for the maximum of conductivity, i.e., the optimum of the structure for the Na 27) conduction. A correlation was also observed by complex impedance between the transfer resistance and the conductivity of membranes [19]. For K 27), a minimum of selectivity effect could be expected because the unit cell volume is larger for x 30)2. In the Eisenman model, the selectivity coefﬁcient can be written:
+
+where Kex(i, j ) is the exchange equilibrium constant of i and j between the membrane and the solution, u˜ i and u˜ j being the electrochemical mobilities of i and j, respectively. An explanation could be that the variation of u˜ K in function of x should be less signiﬁcant than the u˜ Na one and so KNa,K, which is proportional to the ratio u˜ K:u˜ Na, should be the lowest when the bottle-necks are the largest in the range of lattice variation.
+
+The situation is not so clear for proton interference. As mentioned above, Kodorowski et al. [9] have shown that hydronium-NASICON can be obtained from sodium-NASICON powder (x 30)1.5) in HCl 0.2 M medium, with the symmetry. The parameter c was 5% larger than the precursor one and the parameter a was 2% smaller. Similar variations were observed for instance by Hong for a K 27) substitution [1] of which the size is close to the H3O 27) one. Because
+
+a correlation with the unit cell volume or with the conduction was not observed on the proton interference, the steric effect does not seem to be dominant in this case. The results can be explained by amphotere equilibrium of surface states, for example: –M–OH 27)H  27)U–M–OH  27) and –M–OHUH  27)  27) –M–O  28)
+
+Such reactions can lead to a protonic response, like on ISFET or pH-ISE devices [20]. Engell et al. [21] have shown that OH groups are eliminated from Na-NASICON synthesized by the sol–gel route only for temperatures higher than 1000°C. It is coherent with a smaller proton interference on samples sintered at high temperatures [13,15]. As no effect of the sintering temperature was observed on lithium-NASICON membranes (without silicium in its formula), silanol groups seem dominant in the protonic interference as proposed elsewhere [15]. The coefﬁcients KNa,H and KLi,H being high (\1) and of the same order of magnitude in the best case whatever the membrane composition is, it seems that another effect, not well identiﬁed, also plays a predominant part.
+
+6. Conclusions
+
+From a fondamental point of view, an inﬂuence of the structure parameters on the selectivity is noticed. In the case of Li 27)-sensitive membranes, the steric effect is clearly demonstrated for Na 27) and K  27) interfering ions. For the Na 27)-materials, as mentioned before, Ki, j is minimal for x 30)2 whatever the interfering ion is. For Li 27), the steric effect may be an explanation of such results, because the structure is the largest for about x 30)2. For K 27) interfering ion, the steric effect seems to inﬂuence rather the mobility ratio. The sodium mobility is certainly modiﬁed to a greater extent by a change of composition than the potassium one, because the conduction sites are more calibrated for Na  27) than for K  27). The detection limit of NASICON-based ISEs is not sufﬁcient for use in electroanalysis of traces. Nevertheless, they are promising because they do have several qualities: selectivity adjustement, low impedance (a few kV), easy cleaning, robustness, very fast response [22], possibility to adapt the design for particular applications (point or tubular electrodes for example in ﬂow-injection analysis (FIA) cells [11,23,24]). Future development would be in thin or thick layer processes which should be more attractive and less expensive [5,25].
+

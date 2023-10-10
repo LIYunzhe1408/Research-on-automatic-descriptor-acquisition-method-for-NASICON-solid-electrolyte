@@ -1,0 +1,86 @@
+The synthesis and structural study of three new AII(SbV0.5FeIII0.5)(PO4)2 (A]Ba, Sr, Pb) phosphatesbelonging to the AeSbeFeePeO system were reported here for the first time.
+
+Structures of [Ba], [Sr] and[Pb] compounds, obtained by solid state reaction in air atmosphere, were determined at room temperature from X-ray powder diffraction using the Rietveld method.
+
+BaII(SbV0.5FeIII0.5)(PO4)2 features theyavapaiite-type structure, with space group C2/m, Z ¼ 2 and a ¼ 8.1568(4) Å; b ¼ 5.1996(3) Åc ¼ 7.8290(4) Å; b ¼ 94.53(1).
+
+AII(SbV0.5FeIII0.5)(PO4)2 (A]Sr, Pb) compounds have a distorted yavapaiitestructure with space group C2/c, Z ¼ 4 and a ¼ 16.5215(2) Å; b ¼ 5.1891(1) Å c ¼ 8.0489(1) Å;b ¼ 115.70(1) for [Sr]; a ¼ 16.6925(2) Å; b ¼ 5.1832(1) Å c ¼ 8.1215(1) Å; b ¼ 115.03(1) for [Pb].
+
+Ramanand Infrared spectroscopic study was used to obtain further structural information about the nature ofbonding in selected compositions.
+
+Crystal structures of A(1x)A0xPO4 phases have been revealed inprevious studies.
+
+Such materials can include a mixing of AII/A0IV ionsleading to (AII0.5A0IV0.5)PO4 phases [1e3] or a mixture of AII, A0III andA00IV ions as in the case of AII1/3A0III1/3A00IV1/3PO4 (AII]Mg, Ca, Cd, Sr;A0III]Sm, Gd, Nd; A00IV]Zr, Ce, Th) compounds [4].
+
+As a result ofvarious cationic substitution in A sites of AIIIPO4 phases, newfamilies of oxides crystallizing in several structural types asMonazite, Zircon (Xenotime), Scheelite, Cheralite, Nasicon andYavapaiite type compounds have been synthesized and characterized [1e18].
+
+For smaller MIV ions, as in the BaII0.5MIV0.5PO4 (MIV]Ti,Zr, Hf, Ge, Sn, Mo) series, a monoclinic structure isotypic of theK0.5Fe0.5SO4 yavapaïte (C2/m space group) is obtained [6e9].
+
+Notethat these phases have a structure which is made of layers of BaIIcations in tenfold coordination, alternating with dense slabs builtup of corner-connected of MIVO6 octahedra and PO4 tetrahedra.
+
+This structure changes into a trigonal one at high temperature (P3m1) through a simple mechanism involving the unfolding of the[M(PO4)2]n2 layers [19].
+
+Numerous compounds among the AIIMIV(PO4)2 (A]Ba, Pb, Sr, Ca; M]Ge, Ti, Mo, Zr, Sn, Pu, Np, U, Th)family have structures which are related to the yavapaiite typestructure.
+
+In fact, their structure is strongly dependant to the natureand/or size of the AII and MIV cations.
+
+ More recently the relationships between composition and crystal structure of some AIIMIV(PO4)2 compounds were established [20].
+
+ Thus, Morin et al.have shown that the structure of PbSn(PO4)2 (space group P21/n) isrelated to the yavapaiite type but the lead atoms are located inzigzag tunnels instead of layers [10].
+
+This last structure wasexplained by the presence of an active PbII lone pair which has beenlocalized from electrostatic interactions.
+
+The AZr(PO4)2 (A]¼Ca, Srand Ba) have a different crystal structure at room temperature.
+
+Whereas BaZr(PO4)2 has a monoclinic yavapaiite structure, theSrZr(PO4)2 is triclinic (P1 space group) at room temperature andduring heating, the compound shows two other polymorphicforms.
+
+SrZr(PO4)2 undergoes a triclinic to monoclinic transition at405 K, and then to trigonal at 1196 K [11].
+
+Structural study of theSrZr(PO4)2eBaZr(PO4)2 system reveals the occurrence of two phasetransitions during heating and the space group has changed fromP2/c to C2/m at 400 K followed by monoclinic-to-hexagonal (ortrigonal) transition at 1060 K [21].
+
+The P2/c-C2/m phase transitioncan be explained by the fact that the P2/c space group is a Maximalklassengleiche subgroup of C2/m (n12) as a result of the loss ofcentring translations [22].
+
+In the case of CaZr(PO4)2, the structurewas first shown to be orthorhombic (P212121 space group) andtotally different from the yavapaite one [12].
+
+Recently, their crystalstructure has been revised by ab initio Rietveld analysis of X-raypowder diffraction data [13].
+
+ The structure is shown to be orthorhombic with space group Pna21.A reversible second order transition was confirmed by high temperature XRD analysis and thespace group is (Pnma, Z ¼ 4).
+
+Results of singleecrystal X-raydiffraction analysis show that both SrMIV(PO4)2 (M]Ti, Sn) materials are isostructural and crystallize in a distorted yavapaiitestructure (DY) with monoclinic C2/c space group [14].
+
+X-ray Rietveld analysis shows also that high-temperature b-SrGe(PO4)2 (C2/mspace group) is isotypic with the true yavapaiite (TY) whereas thelow-temperature a-SrGe(PO4)2 and the CaGe(PO4)2 (C2/c spacegroup) are distorted derivatives [8].
+
+In the same context note thatthe phase transition from C2/c to C2/m, which was reported forSrGe(PO4)2, is in good agreement with the fact that C2/c is amaximal klassengleiche subgroup of C2/m resulting from anenlargement of the unit cell [22].
+
+Actinide barium phosphates,BaAnIV(PO4)2 (AnIV]Th, Np) can also be seen as modified yavapaiitederivatives with increased coordination numbers for Ba (XIV) andTh/Np (VIII) [23].
+
+On the other hand, SrNp(PO4)2 structure is morerelated to cheralite than to yavapaiite [24].
+
+Recently intensive research activities, realized by some of us, areparticularly focused on characterization of phosphates belonging tothe AeSbeFeePeO (A]Mn, Ca, Cd, Sr, Pb) systems.
+
+Results of investigations led particularly to synthesis and characterization of aseries of AII0.50SbVFeIII(PO4)3 (A]Mn, Ca, Cd, Sr, Pb) Nasicon phases(R3 space group).
+
+Structures of AII0.50SbVFeIII(PO4)3 compoundsshow an ordered distribution of AII ions in M1 sites and SbV/FeIIIions within the Nasicon framework [15e18].
+
+In our more recentlyreported works the phosphate CaII1/3BiIII1/2SbV1/6PO4 which includes a mixture of AII, A0III and A00V ions has been isolated [25].
+
+Itcrystallizes with the high temperature BiPO4 monoclinic structurevariety (P21/m space group).
+
+So, in a continuation of our scientificsearch for new materials likely to exhibit interesting physicalproperties and belonging to the AeSbeFeePeO systems, synthesisand structural characterization of the three AII(SbV0.5FeIII0.5)(PO4)2(A]Ba, Sr, Pb) compounds are undertaken.
+
+In order to obtainfurther structural information about the nature of bonding in thecrystalline solids, a Raman and Infrared spectroscopic study ofselected phases is also presented.
+
+A new family of double phosphates with general formulaAII(SbV0.5FeIII0.5)(PO4)2 (A]Ba, Sr, Pb) were prepared by solid statereaction method and characterised from X-ray powder diffractionusing the Rietveld method.
+
+Note that phases with a mixing of SbVand FeIII ions in the octahedral M sites of the AIIMIV(PO4)2 yavapaiitestructure-types were studied here for the first time.
+
+Ba(SbV0.5-FeIII0.5)(PO4)2 features the yavapaiite-type structure, with spacegroup C2/m.
+
+Sr(SbV0.5FeIII0.5)(PO4)2 and Pb(SbV0.5FeIII0.5)(PO4)2crystallize in monoclinic system with space group C2/c (distortedyavapaiite type structure).
+
+ The [(Sb0.5Fe0.5)(PO4)2]2 yavapaiiteframework appears well adapted to bigger Sr2þ, Pb2þ and Ba2þcations.
+
+Contrary to these last results, for smaller alkaline earthmetal cations as Ca2þ, the [SbFe(PO4)3] Nasicon framework seemsto be the more stable.
+
+Further investigations on the relationshipsbetween composition and crystal structure, as well as research onpotential application of phases of general formula AII(MV0.5-BIII0.5)(PO4)2 were in progress.
+

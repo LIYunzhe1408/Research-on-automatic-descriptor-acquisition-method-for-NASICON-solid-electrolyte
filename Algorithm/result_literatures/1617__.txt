@@ -1,0 +1,70 @@
+In the present study, LixAlZr[PO4]3 (x = 1.8, 2.0, 2.2) has been prepared by the Pechini-type polymerizable precursor method, and structural and electrical analyses have been performed. 
+Formation of the compound has been confirmed from X-ray diffraction pattern. 
+Vibrational analysis has been performed using Fourier transform infrared spectroscopy. 
+Ion transport mechanism has been analyzed using the AC impedance technique. 
+Electrical characterization −5S cm −1) reveals that the maximum conductivity (4.4 × 10 has been observed for the sample Li2.2AlZr[PO4]3 at 673K.
+Lithium-based solid electrolytes have attracted much attention in lithium battery during the last 30 years since they have high energy density and high open circuit potentials. 
+Lithium-rechargeable batteries rarely show side reactions, including decomposition of the solid electrolyte or self-discharge, and hence the efficiency is 100% . 
+Solid electrolytes or solid polymer electrolytes have two functions unlike their liquid counterparts, as a mechanical separator and as an ionic conductor. 
+The NASICON-type structure and its derivatives are good ionic conductors because of the existence of large 3D tunnels and have been largely studied for their structural and electrical properties.
+Lithium-conducting LiM2(PO4)3 with M4+ = Zr, Ti , Ge , and Hf -based NASICON-type structures has attracted much attention. 
+These materials are built up by M2(PO4)3 units in which two MO6 octahedra are linked to three PO4 tetrahedra by sharing oxygen atoms. 
+The Ti −1 at systems show the highest conductivities: 7 × 10 25°C . But the Ti-based systems are unlikely to be used in battery applications despite their excellent conductivities because of their instability towards Li metal with the reduction of Ti4+ to Ti3+. 
+The aims of this work are to synthesize LixAlZr[PO4]3 [x = 1.8, 2, 2.2], a solid electrolyte, by using the Pechini-type polymerizable precursor method and to characterize the sample using X-ray diffraction (XRD), Fourier transform infrared spectroscopy (FTIR), and electrical techniques.
+LixAlZr[PO4] (x = 1.8, 2,2.2) has been prepared by the Pechini-type polymerizable precursor method. 
+This method is based on polyesters obtained from metal-chelated citric acid and polyhydroxyl alcohol and was first developed by Pechini. 
+The process is based on the dissolution of cation precursors in an aqueous citric acid solution to form metal chelate. 
+This chelate can then undergo polyesterification when heated with ethylene glycol. 
+Charring the above polymer by pyrolysis at 350°C yields homogeneous precursors that have been ground into fine powders. 
+This method then offers several advantages compared to the conventional solid-state reaction method to prepare ceramic powders with highly controlled stoichiometry and morphology and also nanosized materials. 
+XRD patterns have been obtained using Cu Kα radiation having a wavelength of 1.5417Å. 
+FTIR spectroscopy has been performed using FTIR-8400S SHIMADZU spectrophotometer in the wave−number range 400–4,000cm1. 
+The sample was crushed into a fine powder placed in a die, and subjected to a pressure 4,000kg cm −2. 
+The resulting pellet had a thickness  of 1mm and a diameter of 1.0cm. 
+The impedance measurements are taken using the gold-coated (blocking electrode) pellet within the frequency range 42Hz to 5MHZ using a computer-controlled HIOKI 3532 LCZ meter in the temperature range 523 to 673K in vacuum.
+Figure 1 shows the XRD pattern of LixAZP(M) (x = 1.8, 2.0, 2.2) prepared by the Pechini-type polymerizable precursor method. 
+All of these compounds have a NASICON-type structure, consisting of MO4 tetrahedra and MO6 octahedra linked through bridging oxygen. 
+This results in 3D ‘channels’ in which the Li ions reside.
+The profiles or reflection peaks are quite narrow and symmetric. 
+This feature indicates that nearly phase pure, homogeneous and well-crystallized samples were obtained by this method of preparation.
+The average crystallite size has been calculated by the Debye–Scherrer method.
+where Δ is the average particle size, 1 is the wavelength of Cu Kα, β is the full-width half-maximum of the reflection peak in radians, and θ is the Bragg angle. 
+The crystallite size calculated using the above formula have been found to be 620, 610, and 570nm for LixAZP(M) (x = 1.8, 2.0, 2.2) prepared by the Pechini-type polymerizable precursor method, respectively.
+Figure 2 shows the FTIR spectra of (a) Li1.8AZP(M), (b) Li2.0AZP(M), and (c) Li2.2AZP(M) with wavenumber ranging from 1,400 to 4,000cm−1. 
+Vibrational spectroscopic  studies provide crucial structural information about electrolyte materials. 
+The anion framework is likely to play an important role in determining the properties of the materials with NASICON chemistry. 
+The bands observed in the −1 are characteristic of phosregion 1,400–400cm phate ion [PO4]3− which are in free state existing in tetrahedral (Td) symmetry. 
+In an ideal case, the phosphate ion exhibits four fundamental modes of vibrations at 1,082  (ν3), 980 (ν1), 515 (ν4), and 400 (ν2) cm−1 . 
+Of these, ν1 is non-degenerate, ν2 is doubly degenerate, whereas ν3 and ν4 are triply degenerate. 
+Among these four vibrations, only ν3 and ν4 vibrations are infrared active.
+In general,in most of the cases, phosphate ion is distorted from the ideal Td symmetry. 
+This removes the degeneracy of the infrared-active vibrations (ν3 and ν4) and also allows the non-active vibrations ν1 and ν2 to absorb energy in the infrared region. 
+The frequencies of these types of vibrations in different compounds are always within the same frequency range, so that an unambiguous assignment of the high energy modes of the sample is possible. 
+In general, the asymmetrical ones are at higher wavenumbers than the symmetrical ones. 
+The bands below 370cm probably involve modes of complex nature including external modes and cage vibrations of alkali ions. 
+The characteristic bands of phosphate groups appeared for all the compositions: ν1 PO4 (960–980cm −1), ν3 (1,040–1,200cm −1) and ν4 (500–640cm ). 
+The vibrational band at around 547cm may be attributed to Li–O symmetric stretching.
+Complex plane analysis is a well-known and powerful technique, which has long been used for investigating dielectric and semiconducting materials. 
+To analyze and interpret the experimental data, it is essential to have a model equivalent circuit that provides a realistic representation of the electrical properties. 
+Fig. 3 shows the complex impedance plot for (a) Li1.8AZP(M), (b) Li2.0AZP(M), and (c) Li2.2AZP(M) at 523, 573, 623, and 673K. 
+In the present study, all the spectra show a high frequency semicircle and a spike in the lower frequencies. 
+The nature of the complex impedance plots at lower frequencies indicates that the principle charge carriers are ions rather than electrons. 
+The semicircle observed in all the graphs starts at the origin, and hence, there is no series resistance that can be ascribed to the LCR circuit representation of the sample. 
+The semicircle can be represented by a parallel RC element, and the equivalent circuit consists of a series of array of parallel RC element with constant phase element.
+The semicircle has its centers located below from the real impedance axis, indicating the presence of relaxation species with distribution of relaxation times which reveals the non-Debye behavior of the sample. 
+All the semicircles have been fitted by non-linear least square procedure using EQ software developed by Boukamp. 
+The capacitance value of the semicircles has been calculated using the formula ωRC = 1 which satisfies at the maximum of the semicircle. 
+It has been found that the calculated capacitance values are in the range of picofarad which reveals the bulk relaxation phenomenon. 
+The capacitance of the observed spike is in the order of microfarad which can be ascribed to the Li+-blocking response at the surface of the gold electrodes. 
+Bulk resistance (Rb) values have been calculated from the intercept at low frequency end of the semicircle on the real axis. 
+Bulk conductivity values are tabulated in Table 2. 
+The maximum conductivity found for the sample Li2.2AZP(M) is 4.4 × 10Scm−1 at 673K. 
+It  has been found that bulk resistance values calculated for all the samples decrease with the increase in temperature revealing the increase in ionic conductivity.
+
+Solid electrolyte based on NASICON structure, LixAZP(M) (x = 1.8, 2.0, 2.2), has been prepared by the Pechini-type polymerizable precursor method. 
+Formation of the compound has been confirmed from X-ray diffraction pattern. 
+Characteristic bands of the phosphate groups have been found to appear for all the compositions: ν1 PO4 (960–980cm −1), and ν4 (500–640cm ). 
+Electrical characterization reveals that the maximum conductivity (4.4 × 10-5)   has been observed for the sample Li2.2AZP(M) at 673K.
+
+
+

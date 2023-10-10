@@ -1,0 +1,14 @@
+In this paper, LiTi2(PO4)3@carbon composite as anode for aqueous lithium ion batteryhas been successfully synthesized by in-situ carbon coating method using oxalic acidand glucose as double carbon sources.
+XRD results confirm the rhombohedralNASICON-type LiTi2(PO4)3 structure of the as-prepared composite.
+TheLiTi2(PO4)3@carbon composite using double carbon sources (LTP-OG-10) disperseswell, and the coated carbon layer has the appropriate thickness of 3-7 nm, whichresult in proper balance of the good electrical conductivity and the fast kinetics ofdiffusion of lithium ions.
+LTP-OG-10 exhibits better electrochemical performance compared with those using oxalic acid (LTP-O) or glucose (LTP-G) single carbonsource.
+LTP-OG-10 anode delivers the discharge capacity of 112.5 mAh g-1, 96.8mAh g-1, and 54.2 mAh g-1 at 0.2 C, 5 C and 20 C, respectively, much larger than thatof LTP-O and LTP-G.
+Moreover, LTP-OG-10 demonstrated excellent cyclingperformance, with the capacity retention of 71.1% after 400 cycles at 0.2 C, 22.9%higher than that of LTP-G.
+The good electrochemical properties of LTP-OG-10 ismainly ascribed to the increase of defects, high-quality and appropriate thickness ofcarbon layer.
+Our study reveals that preparing LiTi2(PO4)3@carbon composite using double carbon sources is an efficient approach to enhance its electrochemicalproperties.
+In this research, LiTi2(PO4)3@carbon anode for aqueous lithium ion battery wassynthesized by in-situ carbon coating method using oxalic acid and glucose as double carbon sources, and the appropriate content of glucose was found as 10 wt% for theprecursor (LTP-OG-10).
+The as-prepared materials demonstrated the rhombohedral NASICON-type LiTi2(PO4)3 structure.LiTi2(PO4)3@carbon composite using double carbon sources (LTP-OG-10) dispersed well, and the LiTi2(PO4)3 crystal was coatedby carbon layer with appropriate thickness of 3-7 nm, leading to proper balance of thegood electrical conductivity and the fast kinetics of diffusion of lithium ions.
+Compared with the composites using single carbon source, LTP-OG-10 composite showed better rate and cycling performance.LTP-OG-10 anode delivered thedischarge capacity of 112.5 mAh g-1, 96.8 mAh g-1, and 54.2 mAh g-1 at rate of 0.2 C,5 C and 20 C, respectively.
+Moreover, the discharge capacity of LTP-OG-10composite can remain at 71.1% after 400 cycles at the rate of 0.2 C.
+Increased defects,high quality and appropriate thickness of the carbon layer are the main factors forexcellent electrochemical properties of the as-prepared materials.
+This approach canbe expanded on preparation of other carbon coated electrodes with the aim of improving the electrical conductivity and the structural stability (e.g., NaTi2(PO4)3/C,LiV2(PO4)3/C, etc.

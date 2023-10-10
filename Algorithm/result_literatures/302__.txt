@@ -1,0 +1,136 @@
+NASICON-type of solid-state electrolyte, Na3Zr2Si2PO12 (NZSP), is one of the potential solid-state electrolytes for all-solid-state Na battery and Na-air battery. However, in solid-state synthesis, high sintering temperature above 1200 °C and long duration are required, which led to loss of volatile materials and formation of impurities at the grain boundaries. This hampers the total ionic conductivity of NZSP to be in the range of 10-4 S cm-1. Herein, we have reduced both the sintering temperature and time of the 
+
+NZSP  electrolyte  by  sintering  the  NZSP  powders  with  different  amount  of  Na2SiO3 
+
+additive, which provides liquid phase for the sintering process. The addition of 5wt% Na2SiO3  has  shown  the  highest  total  ionic  conductivity  of  1.45  mS  cm-1  at  room 
+
+temperature. A systematic study of the effect of Na2SiO3 on the microstructure and 
+
+electrical properties of the NZSP electrolyte is conducted by structural study with the 
+
+help  of  morphological  and  chemical  observations  using  X-ray  diffraction  (XRD), 
+
+scanning electron microscopy (SEM) and FIB-TOF-SIMS. The XRD results revealed that 
+
+cations from Na2SiO3 have diffused into the bulk changes the stoichiometry of NZSP, 
+
+leading to an enlarged bottleneck area and hence lowering activation energy in the 
+
+bulk, which contributes to the increment of the bulk ion conductivity, as indicated by 
+
+the electrochemical impedance spectroscopy (EIS) result. In addition, higher density 
+
+and better microstructure contribute to improved grain boundary conductivity. More 
+
+importantly,  this  study  has  achieved  a  highly  ionic  conductive  NZSP  only  by  facile 
+
+addition of Na2SiO3 into the NZSP powder prior to sintering stage.
+
+
+Due  to  vast  availability  and  even  distribution  of  sodium  in  the  earth  crust,  it  is 
+
+believed  that  sodium  is  one  of  the  strongest  candidate  materials  for  post-lithium 
+
+battery system.1-6 This is especially for the case of large-area energy storage where 
+
+weight  is  less  important.  Current  issues  with  liquid  electrolyte  used  in  sodium-ions 
+
+battery are its flammability, narrow electrochemical potential window, risk of leakage 
+
+and inability to stop dendrite formation. An all-solid-state battery can enhance the safety aspect as the solid-state electrolyte provides a mechanical buffer to stop the 
+
+dendrite  formation  and  having  a  high  electrochemical  window  resulting  in  higher 
+
+energy density. In addition, a functional solid-state electrolyte has to possess high ionic 
+
+conductivity, good chemical and thermal stability, wide stable electrochemical window and good interfacial compatibility with electrodes.
+
+
+Liquid-phase  sintering  is  a  well-known  powder  sintering  method  for  hard-to-
+
+sintered material through adding a lower melting point material in the matrix. At high 
+
+temperature, the liquid-phase would produce a melt pool that facilitate the sintering 
+
+process. This led to a lower sintering temperature and shorter duration required to 
+
+achieve a highly dense structure for solid-state electrolyte.31-35 NaBO3, which has a 
+
+melting point of 680  °C, was added to the NZSP powder and sintering temperature 
+
+was  brought  down  to  900  °C.36  Upon  cooling,  the  liquid-phase  would  solidify  as  a 
+
+secondary  phase  at  the  grain  boundaries.  This  process  is  able  to  reduce  the 
+
+volatilization  of  materials  and  reduce  the  processing  time  that  is  favourable  for 
+
+In this work, we sinter NZSP in the sodium metasilicate, Na2SiO3 which has a melting 
+
+point  of  1088  °C,  melt  pool  to  reduce  the  sintering  temperature  and  duration.  The 
+
+addition of Na2SiO3 is able to produce higher total ionic conductivity by improving 
+
+both  the  grain  and  grain  boundary  conductivity.  From  the  present  findings, 
+
+improvement in the bulk conductivity is mainly due diffusion of the Zr, Na and Si ions 
+
+into the grain, resulting in a small content of rhombohedral NZSP. Moreover, beside 
+
+sintering the grain, the melt pool of Na2SiO3 can facilitate in the densification of the 
+
+NZSP electrolyte and solidified along the grain boundaries forming Si-rich secondary 
+
+phase,  which  further  improves  the  ionic  conductivity.  The  highest  total  ionic 
+
+conductivity of 1.28 mS cm-1 has been achieved by adding 5wt% of Na2SiO3 into the NZSP2  powder.  This  finding  provides  a  unique  synthesis  method  for  solid-state 
+
+electrolyte via liquid phase sintering.
+
+
+Na3Zr2Si2PO12  was  prepared  by  solid-state  solution.  In  a  typical  synthesis,  the 
+
+stoichiometric  amount  of  Na2CO3,  SiO2,  ZrO2,  and  NH4H2PO4  in  the  molar  ratio  of 
+
+1.5:2:2:1 were ball-mixed using a planetary ball mill using ZrO2 jars for 2 h in acetone, 
+
+and  then  the  ball-milled  powder  dried  at  80  °C  for  overnight.  Calcination  was 
+
+conducted at 1100 °C for 12 h. The calcined powder was grounded manually to 200 
+
+Prepared-NZSP powders with different amount of Na2SiO3 additive (2.5wt%, 5wt%, 
+
+and 7.5wt%) were mixed by pestle and mortar for at least 15 mins, and then ball milled 
+
+twice in ZrO2 jars at 875 rpm for 10 min with 15 mins interval break. The precursor 
+
+powders with different amount of Na2SiO3 additive were named as NZSP-0, NZSP-2.5, 
+
+NZSP-5, and NZSP-7.5 respectively according to the additive amounts. 
+
+
+
+The milled powder was press into 10 mm diameter pellets at around 625 MPa. The 
+
+pellets were placed on their pristine powder to avoid contamination from the alumina 
+
+crucible before putting into the furnace for sintering. Sintering was conducted at 1175 °C for 10 h with a heating rate of 5 °C/min up to 950 °C followed by 1 °C/min to 1175 °C before cooling in furnace. As illustrated in Figure 2, a homogenous mixture of NZSP and Na2SiO3 pellet was heat up to 1175 °C, since Na2SiO3 has a melting point of 1088 °C, it will form a melt pool. During which, sintering occurs and diffusion of Na and Si into NZSP simultaneously. Both sides of the sintered pellets were polished to about 0.9-1.2  mm  prior  to  further  characterisation  to  minimise  the  effect  of  the  exposed surface during sintering.
+
+
+Microstructure  of  the  cross  section  of  the  fractured  sintered  electrolyte  was examined  using  FE-SEM  (Ultra-Plus,  Carl  Zeiss).  Elemental  distribution  of  the electrolyte is conducted using focused ion-beam – time of flight – secondary ion mass spectroscopy (FIB-TOF-SIMS) due to its high sensitivity and mass and spatial resolution 
+
+
+To measure Na-ion conductivity, gold layer was sputtered onto both sides of the polished sample as the Na blocking electrode. Room temperature ionic conductivity was measure using an impedance analyser (Solartron SI 1400) in a frequency range from 1 MHz to 1 Hz with an applied voltage of 50 mV. The grain, grain boundary, and total ionic conductivity were determined by fitting the Nyquist plot using the Z-view software. The temperature dependence conductivity was measured at -50, -40, -30, -20, -10, 0, 15, and 25 °C. The sample was held at the temperature for 1 hour to achieve equilibrium prior to the measurement. 
+
+
+In order to investigate the conductivity of the Si-rich secondary phase in the NZSP grain boundary, as shown by TOF-SIMS, proportional amount of SiO2 was added into the NZSP powder and sintered in similar manner. The impedance spectrum shown in Figure  S7  implies  that  the  Si-rich  secondary  phase  exhibits  a  relative  low  grain boundary ionic conductivity (≈0.26 mS cm-1). This could be due to the formation of the high fraction of SiO2 rich von Alpen NZSP that reduces the grain boundary ionic conductivity.46-48  However,  in  NZSP-5  electrolyte,  the  additional  of  Na2SiO3  in  the secondary phase largely improve the conductivity at the grain boundary. Thus, it can be speculated the melt pool Na2SiO3 can mediate the distribution of the elements at the grain boundary while acting as the Na and Si source. As a result, the ion migration through the grain boundary can be facilitated due to space-charge effect, similar to the effect as other composite electrolyte.16, 49-50
+
+
+As presented in preceding sections, it can be summarised that the melt pool has served dual purposes during sintering of NZSP to enhance the ionic conductivity: Na and Si ions have diffused into the NZSP crystal structure, and the Na2SiO3 melt pool has produced Si-rich secondary phase at the grain boundary. To investigate the effect of sintering temperature, NZSP-5 was sintered at lower temperature. The morphology of the fractured surfaces and the Nyquist plot  are presented in Figure S8. From the morphology of the fracture surfaces of the sintered sample (Figure S8(a-d) and Figure 4(c,g)), it can be observed that higher sintering temperature (eg. 1175 °C) showed a better sintered structure than the one sintered at lower temperature (eg. 1125 °C). As the little amount of liquid-phase additive is added and relatively high melting point of the  liquid-phase  additive,  high  sintering  temperature  and  long  duration  are  still required to achieve solid skeleton sintering.51 
+
+This is further supported by the density as measured by Archimedes test in water. The relative density of the sample increases with increasing sintering temperature (eg. 1125 °C – 86.1%, 1150 °C – 89.4%, 1175 °C – 92.9%). This differences in the morphology and density lowered the σGB for samples that  were  sintered  at  lower  temperature  and,  in  turn,  increases  the  σT  as  shown  in 
+
+In order to further investigate on the significance of the Na2SiO3 melt pool, NZSP was added with Na2CO3 and SiO2 to form 5wt% Na2SiO3 equivalent. The XRD spectrum, lattice parameters and unit volume of the NZSP+Na2CO3+SiO2 are similar to the one with  NZSP+Na2SiO3  (Figure  S9,  S10  and  Table  S2)  showing  that  the  chemical composition of both samples are similar. 
+
+NZSP+Na2CO3+SiO2 was obtained from solid-state mixing, its homogeneity would not be as comparable than that of the Na2SiO3 melt pool during sintering. This further showed  that  the  effectiveness  of  the  melt  pool  that  has  homogenous  elemental distribution and facilitated the sintering process producing higher σGB.
+
+In  summary,  Na2SiO3,  with  melting  point  of  1088  °C,  was  added  into  the  NZSP powder matrix to create a melt pool during sintering at 1175 °C. The facile addition of the Na2SiO3 improved the total ionic conductivity due to the interaction with the bulk and increasing the grain boundaries conductivity. The NZSP2 with 5wt% Na2SiO3 added has  shown  the  highest  total  ionic  conductivity  of  1.45  mS  cm-1,  or  a  400  % improvement compared to the NZSP2, and a high density of 93%. The refined XRD patterns showed that the cations have diffused into the NZSP crystal structure but with limited solubility. This diffusion has increased the x value in the stoichiometry of NZSPx and produced a more rhombohedral phase in the bulk. Furthermore, the unit volume of the bulk increased resulting in a larger the bottleneck that lowers the energy barrier for Na+ ion migration in the bulk and, in turn, increases its bulk ionic conductivity by 250%.  More  importantly,  the  addition  of  Na2SiO3  also  produced  a  denser  NZSP structure using a shorter duration and lower temperature sintering profile. Moreover, as the Na2SiO3 melt pool penetrate through the grain boundaries during sintering, it interacted  with  the  impurities  and  produce  a  Si-rich  secondary  phase  at  the  grain boundary and had enhanced the grain boundary ionic conductivity by 1900%. With the improvement in both grain and grain boundaries ionic conductivity, Na2SiO3 has showed its effectiveness in improving the solid electrolyte. 

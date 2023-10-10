@@ -1,0 +1,12 @@
+From the viewpoint of the cost and safety, aqueous sodium-ion batteries are attractive candidate for large-scale energy storage.
+Although the operating voltage range of the aqueous battery is theoretically limited to 1.23V by the electrochemical decomposition of water, the voltage restriction is a little bit eased in real aqueous battery system by the charge/discharge overvoltage.
+Effect of the concentrated electrolyte on the operation voltage was studied in aqueous Na-ion battery with Na2MnFe(CN)6 hexacyanoferrates cathode and NaTi2(PO4)3 NASICON-type anode, in order to increase the discharge voltage.
+According to the cyclic voltammetry, the electrochemical window of diluted 1 mol kg−1 NaClO4 aqueous electrolyte is only 1.9V, whereas the corresponding electrochemical window of concentrated 17 mol kg−1 NaClO4 aqueous electrolyte is widen to 2.8V.
+This wide electrochemical window of the concentrated aqueous electrolyte allows the Na2MnFe(CN)6//NaTi2(PO4)3 aqueous sodium-ion system to work reversibly.
+By contrast, the framework of Na2MnFe(CN)6 cathode was destroyed by the hydroxide anion generated in diluted 1 mol kg−1 electrolyte.
+We investigated the practical stability windows of 1m and 17m NaClO4 aq., and revealed that the potential ranges of each electrochemical window were 1.9 and 2.8V, respectively.
+By virtue of the extended stable potential window of 17m NaClO4 aq., the aqueous sodium-ion battery of Na1.24Mn[Fe(CN)6]0.81·1.28H2O// NaTi2(PO4)3 was able to exhibit 1.3, 1.5, and 1.8V discharge plateaus and 117mAhg¹1 of discharge capacity at the first cycle, good rate capability, and good cyclability without serious degradation despite the incomplete crystallinity of the NMFCF cathode with some defects.
+Conversely, the narrow stability window of 1m NaClO4 aq., led to severe deterioration after the first cycle.
+The deterioration of the aqueous battery with 1m electrolyte was mainly attributed to H2 generation by the reductive water decomposition on NTP anode and to the elution of the cathode by the alkalization of the aqueous electrolyte.
+Higher concentrations of electrolyte under higher rate condition supported more stable operation in this aqueous sodium-ion system.
+Therefore, we were able to confirm that Na1.24Mn[Fe(CN)6]0.81·1.28H2O//NaTi2(PO4)3 with highly concentrated electrolyte is one of the promising candidates for large-scale energy storage.

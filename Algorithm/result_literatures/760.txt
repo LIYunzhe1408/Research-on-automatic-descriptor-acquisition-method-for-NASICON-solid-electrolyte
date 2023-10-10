@@ -1,0 +1,22 @@
+The demand for electrical energy storage (EES) is ever increasing, which callsfor better batteries.
+NASICON-structured materials represent a family ofimportant electrodes due to its superior ionic conductivity and stable structures.
+A wide range of materials have been considered, where both vanadiumbasedand titanium-based materials are recommended as being of greatinterest.
+NASICON-structured materials are suitable for both the cathode and the anode, where the operation potential can be easily tuned by the choice oftransition metal and/or polyanion group in the structure.
+NASICON-structuredmaterials also represent a class of solid electrolytes, which are widelyemployed in all-solid-state ion batteries, all-solid-state air batteries, andhybrid batteries.
+NASICON-structured materials are reviewed with a focus onboth electrode materials and solid-state electrolytes.
+NASICON type materials are considered as a class of 3Dframework compounds possessing a stable structure and highionic conductivity, leading to their wide applications, includingenergy-storage, membranes, fuel cells and gas sensors.
+Thisreview presents the state of the art of NASICON as Li-ion orNa-ion storage materials, and solid-state electrolytes, alongwith their applications.
+Usually, the operation potentials showthe following trend: V5+/V4+ > V4+/V3+ > Fe3+/Fe2+ > Ti4+/Ti3+ >Nb5+/Nb4+ > Nb4+/Nb3+ > V3+/V2+ > Ti3+/Ti2+.
+On the other hand, polyanions also lead to different potentials, which iscalled the inductive effect.
+It is known that the weak M–O bands(the NASICON structure has the formula of AxMM’(XO4)3) canraise the operation voltage of the same redox couple.
+Therefore,NASICON-type materials with high electronegative polyanionswill present high operation potentials due to their stronger electron-withdrawing capability.
+The electrochemical performanceof NASICON can be greatly improved by carbon coating,decreasing the particle size and doping.
+The structural evolutionhas also been investigated to understand the ion-storagemechanisms.
+To avoid the risk of thermal runaway, solid-state batterieshave been proposed as a fundamental solution.
+Solid-state batteries face great challenges, especially, the low intrinsic ionic conductivity of solid electrolytes and large interfacial resistance between electrodes and the electrolyte.
+To overcome the former problem, new solid electrolyte materials with high intrinsicionic conductivity should be developed. NASICON-type electrolytescan supply a choice.
+For Li-based solid-state electrolytes,LATP shows high ionic conductivity and low cost, while LAGPis also widely studied due to its better stability than LATP.
+Manytypes of solid-state batteries and hybrid batteries have been fabricated,exhibiting superior electrochemical performance and expanding the family of battery systems.
+Concerning the latterproblem, NASICON-type materials can be used for the cathode,anode, and electrolyte.
+Therefore, all-NASICON solid-state batteriescan be fabricated.
+It can form an electrolyte buffer layerof a solid-solution or composite between NASICON electrodesand electrolyte, which can build fast ionic channels, leading to alow interfacial resistance.

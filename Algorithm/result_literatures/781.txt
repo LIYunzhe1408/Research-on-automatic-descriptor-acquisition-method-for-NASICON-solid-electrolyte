@@ -1,0 +1,13 @@
+Monoclinic lithium iron phosphate (m-Li3Fe2(PO4)3) doped with 0–15 mol.% Nb2O5 is mechanically milled from a glassy nanopowder.
+The microstructures are observed using field emission scanning electron microscopy.
+X-ray diffraction and X-ray photoelectron spectroscopy are used to determine the m-Li3Fe2(PO4)3 crystallinity.
+AC impedance and DC polarization are used to investigate the m-Li3Fe2(PO4)3 electrical properties.
+The mechanically milled as-prepared monoclinic powders are amorphous and are sintered at 800°C for 12 h to produce NASICON-type crystals whose lattice parameters and sinterability change with increasing Nb concentration.
+The 5 mol.% Nb2O5-doped m-Li3Fe2(PO4)3 shows the maximum ionic conductivity of 7.40 ´ 10-6 S cm-1 (Ea = 0.47 eV) and an electronic conductivity of ~10-9 S cm-1. However, m-Li3Fe2(PO4)3 doped with >10 mol.% Nb2O5 shows even lower ionic conductivity and sinterability, and NbOPO4 is detected as the impurity phase.
+Consequently, Li ion migration may be enhanced by the addition of the appropriate amount of Nb2O5. Therefore, Nb-doped m-Li3Fe2(PO4)3 is a promising solid electrolyte for application in all-solid-state Li ion batteries.
+Monoclinic Li3Fe2(PO4)3 glassy powders doped with 0–15 mol.% Nb2O5 are mechanically milled for 48 h are subsequently sintered at 800°C for 12 h to fabricate a monoclinic NASICON-type Li ion conductor.
+The over 10 mol.% Nb2O5-doped m- Li3Fe2(PO4)3 shows the NbOPO4 impurity phase; therefore, the solid solution limit of Nb in the m-Li3Fe2(PO4)3 occurs when the Nb2O5 concentration is 10 mol.% or less.
+The 5 mol.% Nb2O5-doped m-Li3Fe2(PO4)3 shows the maximum conductivity (7.40 ´ 10-6 S cm-1) and minimum activation energy (0.47 eV) at room temperature, suggesting that Nb2O5 doping changes the lattice parameters, which enhances Li+ migration and sinterability.
+Consequently, the grain boundary properties are enhanced.
+Therefore, the mechanically milled NASICONtype m-Li3Fe2(PO4)3 shows an ion conductivity higher than any other previously reported in the literature.
+Further, it shows an electrical conductivity similar to that of an electrical insulator to about 10-9 S cm-1. Therefore, the mechanically milled m-Li3Fe2(PO4)3 is a promising solid electrolyte for application in all-solid-state Li ion batteries.

@@ -1,0 +1,101 @@
+Bulk type solid state potentiometric CO2 sensors were fabricated based on Li2CO3–BaCO3 binary auxiliary phase as a sensing electrode,Li3PO4 mixed with 5 mol% SiO2 as a solid electrolyte and Li2TiO3 mixed with 10 mol% TiO2 two phase system as a reference electrode.
+Theconcentration of BaCO3 was varied in the auxiliary phase (mol%).
+The electromotive force (emf) of the investigated cells was linearly dependentupon the logarithm of CO2 partial pressure over a wide range of 500–5000 ppm.
+The sensors have shown good CO2 sensing properties at lowconcentrations of Barium carbonate additive.
+10 mol% BaCO3 loaded Li2CO3 sensor has shown the highest absolute emf and a very closetheoretical Δemf/dec value at 500 °C than the other counterparts.
+The slopes of emf as a function of logPCO2 were in good accordance with theNernstian slopes based on a two electron electrode reaction between the temperatures 450–500 °C.
+During the heat treatment, the interface formedbetween the sensing electrode and electrolyte and revealed by SEM, EDAX and X-ray diffraction studies indicates a new glassy phase consistingof Barium silicate (Ba4Si6O16) and Barium phosphate (Ba3P4O13).
+The penetration or diffusion of the Barium components deep inside theinterfacial layer along with rich Li2O content was proposed to be responsible for the improved sensing characteristics of the sensor.
+The increasing needs of carbon dioxide detection in variousfields like air quality control, green house monitoring and biorelatedprocesses have been demanding high quality CO2sensors in day to day life.
+Solid electrolyte potentiometricsensors are very promising and selective to carbon dioxidedetection.
+It was proposed by many researchers that potentiometricsensor combining NASICON with an auxiliary phase ofmetal carbonate is one of the attractive candidates for carbondioxide detection .
+However, highly reliable, inexpensiveand durable CO2 sensors are essentially required for the purpose.
+It has been reported that better sensing properties includingsustaining humidity and long term stability were obtained whenthe single auxiliary carbonate was replaced by a binarycarbonate phase such as Na2CO3–BaCO3 and Li2CO3–CaCO3.
+In addition, other than NASICON, various solidelectrolytes such as lithium or fluoride ion conductors havealso been introduced satisfactorily in potentiometric CO2sensors .
+In this paper, we report the sensing characteristics andperformance of a (Li2–Ba)CO3 bicarbonate auxiliary phase CO2sensor combined with lithium ion based (Li3PO4 and SiO2)electrolyte and Li2TiO3 mixed with TiO2 reference electrodeand elucidated the optimal addition of BaCO3 in the Li2CO3–BaCO3 auxiliary phase, reaction electron number, suitableworking-temperature, response time and long term stability.
+Further, the formed interface between the auxiliary phase and solid electrolyte was analyzed and identified a possible sensingmechanism responsible for the improved sensing property.
+An electrolyte pellet of 12 mm diameter and 1 mm thicknessconsisting of a fine mixture of Li3PO4 (Aldrich, 99.99%) and5 mol% SiO2 (Aldrich, 99.99%) was prepared.
+The pellet wasuni-axially compressed at 200 MPa and sintered in air at 800 °Cfor 8 h.
+The elevation of temperature was maintained at 2 °Cmin−1 in order to achieve a good densification and then cooledto room temperature.
+The sensing and reference materials wereball milled in distilled water at 200 rpm for 4 h.
+The slurry wasdried to air at 120 °C for 12 h.
+α-Terpinol was used as a binder(Kanto Chemical).
+Au electrodes were attached to the Au paste(Heraeus-C 4350) on both sides of the pellet and annealed at700 °C for 1 h for making electrical contacts.
+The referenceelectrode material consisting of Li2TiO3 (Aldrich, 99.99%) and10 mol% TiO2 (Aldrich, 99.99%) was coated on one side of thepellet and sintered at 700 °C for 1 h.
+Similarly, Li2CO3 (AlfaAesar, 99.99%) and BaCO3 (Aldrich, 99.99%) sensing materialwas coated on the other side of the pellet and sintered at 610 °Cfor 1 h to obtain a thick sensing layer.
+The sensor experiments were carried out in a typicalconventional gas flow apparatus.
+Different concentrations of CO2 in the range from 500 ppm to 5000 ppm at the sensing andreference electrode were obtained by using CO2 and syntheticair mixture combined together in different ratios by mass flowcontrollers regulated by a computer.
+The flow rate of the outgoing gas after mixing was always maintained at 200 sccm (RH7.7%).
+The electromotive force, emf, of the sensor was measuredby a two probe HP34401A multimeter of high impedance(above 10GΩ) connected to a computer via HP 34812A Benchlinksoftware for data acquisition.
+SEM and EDAX studieswere carried out on FE-SEM, Hitachi S-4700 and observed theinterface of the sensing electrode and electrolyte.
+The phasestructure of the new interface was analyzed by X-ray diffractometer,Rigaku, D/Max-3C, CuKα=1.5405 Å in 2h rangefrom 10 to 70° in steps of 0.05°.
+The schematic diagram of the sensor design was shown inFig.1. 
+A series of bi-auxiliary carbonates containing a mixtureof Li2CO3 and BaCO3 (5, 10, 20, 50, 60 mol%) were preparedand tested as sensing materials.
+All the devices were aged at600 °C for 6 h before performing the test measurements.
+Fig.2shows the absolute emf as a function of CO2 partial pressure fordifferent mol% BaCO3 added Li2CO3 devices.
+All the sensorshave shown an excellent logarithmic Nernstein behavior overall CO2 concentrations in the range of 500–5000 ppm at 500 °C.
+Moreover, Li2CO3:10 mol% BaCO3 sensor has shown anabsolute emf value of 360 mV at 500 ppm CO2 concentration which is higher than that of any other sensor of the series.
+TheΔemf/dec profile and the corresponding apparent number ofreaction electrons (n) as a function of BaCO3 content (mol%)are shown in Fig.3. 
+Li2CO3:10 mol% BaCO3 sensor has showna Δemf/dec value of −77.19 mV/dec and the value wasdecreased further with the increase of BaCO3 addition.
+Similarly, the experimentally obtained n values for Li2CO3:(5,10, 20, 40, 50 and 60 mol%) BaCO3 sensors are 5.54, 1.98, 2.3,2.31, 2.48 and 2.38 respectively.
+The ‘n’ value of 1.98 obtainedfor Li2CO3:10 mol% BaCO3 sensor is in closer agreement withthe theoretically calculated value of 2 than any other sensor ofthe series.
+The change in n and E° values could effect themeasured emf due to the change of transference numbers of theions or electrons and the type of reactions taking place at thesensing electrode.
+Fig.4 shows the comparison of the theoretical and experimentalbehaviors of Δemf/dec as a function of operatingtemperature of Li2CO3:10 mol%BaCO3 sensor between 400 and500 °C.
+The sensor has shown a Quasi-Nernstian behavior below450 °C and a good Nernstian behavior above 450 °C.
+The formerone can be attributed to the effect of lowkinetic energies producedbetween each electrode and the electrolyte and of reaching a nonequilibriumstate .
+Fig.5 shows the emf as a function of CO2concentration between the temperatures 450–500 °C.
+The emfvalues are very much linear to the logarithm of CO2concentration.
+It can be observed that n takes an ideal value of1.98 at 500 °C and as the temperatures lowers, the value of nincreases due to the different or slower electrode reactions or theelectrical properties of the solid electrolyte.
+The response time ofthe sensor to attain 90%change of CO2 concentration from500 to1000 ppm between the operating temperatures 400 and 500 °C isshown in Fig.6. 
+The response time was lowered to about 20 s andbecame almost constant between the operating temperatures 450and 500 °C.
+The sensor was tested under dry as well as humidconditions and the response and recovery characteristics areshown in Fig.7. 
+The effect of humidity was measured by passingthe test gas through the water medium (RH about 70%) at 25 °Cinto themeasuring system.
+The device is found to be stable in boththe atmospheres and hardly affected by the absolute humidity inthe surrounding atmosphere.
+Finally, the long term stability of thesensor is shown in Fig.8. 
+It can be observed that the sensor hasshown an emf of around 400 mV for more than 40 days at 500 °Coperating temperature, however, with a small deviation.
+In this type of sensors the formation of interfacial layerbetween the auxiliary phase and the electrolyte can exert profoundeffects on the gas sensing properties.
+The sensorbehavior is dependent on the BaCO3 content in the auxiliaryphase due to its effect on the Li2CO3 activity.
+Li2CO3–BaCO3eutectic will form a solid solution after the heat treatment andmay cause to increase the ionic conductivity .
+In order tounderstand the performance of the Li2CO3:10 mol% BaCO3sensor the cross-section of the sensing electrode and theelectrolyte interface was studied in detail.
+The SEM images ofcross-section of 10 mol% and 50 mol% BaCO3 sensors afteraging at 600 °C for 6 h are shown in Fig.9. 
+It can be seen fromthe picture that a clear new interface (b) was formed as a thicklayer between the sensing electrode (a) and electrolyte (c) layers.
+The thickness of the interface was about 40 μm.
+The compositionsof the interface layers were confirmed by EDAX.
+Fig.10(A), (B) and (C) shows the EDAX profiles of the respectivelayers of Fig.9(A).
+The layers of (a) and (c) indicate arich content of mixed carbonates and lithium phosphaterespectively.
+The presence of Li in (a) and (c) was not observedin EDAX due to the low atomic number.
+Further, the interfacelayer (b) is found to be composed of Ba, Si, P, O and C elementsonly.
+This implies that the new interface layer is a combination ofthe auxiliary carbonates and the electrolyte materials.
+In fact the same result was observed with other auxiliaryelectrode compositions.
+When 5 mol% BaCO3 was added toLi2CO3, it showed a good Nernstian behavior but lower absoluteemf than the other compositions.
+5 mol% BaCO3 may beinsufficient to have a mixed carbonate effect and acts like bareLi2CO3. When 10 mol% BaCO3 was added, the chemicalpotential or the activity of Li+ ion may dominate over Ba+ ionactivity, while in the case of 50 mol% BaCO3, the chemicalpotential or the Ba+ ion activity may dominate over the Li+ ionactivity.
+Since the constructed cell is basically a lithium ionconductor, higher BaCO3 concentrations might have deterioratethe conductivity effect due to the less availability of Li2CO3 orLi2O after melting at the eutectic of 55 mol% of Li2CO3 at 609 °C[14].
+These phenomena can also be observed from the SEMpictures of 10 mol% and 50mol%BaCO3 samples as observed inFig.
+9(A) and (B).
+In 10 mol% sample, the interfacial layerconsists of fewer Barium component penetration but with moreglassy like solid solution phase which may lead to high ionicconductivity, whereas, in the 50 mol% sample the interface consistsof a dense Barium component penetration with less glassy solid solution phase which may lead to low ionic conductivity.
+Moreover, a high interfacial thickness of 60 μm was observed inthe case of Li2CO3:50 mol% BaCO3 composition after aging at600 °C.
+However, it has not shown better sensitivity than 10 mol% BaCO3 sensor.
+This was due to the occurrence of the interfacelayer over a large area and that could be an origin of the deteriorationof the CO2 sensing ability .
+Hence it may be impliedthat 40 μminterface thickness could be an optimumthickness andthe ion-exchange reaction between the Li2CO3–BaCO3 andLi3PO4 may be fairly appropriate.
+With a view to explain the mechanism and the structure of thenew phase formed, XRD studies were performed.
+Li2CO3:10mol% BaCO3 and Li3PO4 powders were added in 1:1 ratio in anagate mortar and ground thoroughly.
+The mixed powder wassubjected to annealing at 610 °C for 6 h in a ceramic crucible.
+The XRD pattern of the resultant mixture powder after heattreatment is shown in Fig.11. 
+It revealed that the formed newphase is a combination of two major products such as Bariumsilicate (Ba4Si6O18, JCPDS card No: 83–1442) and Bariumphosphate (Ba3P4O13, JCPDS card No: 12–0689) along with alittle amount of Li2CO3 and Li3PO4. The crystallographic datawas exactly matched with the XRD data as shown in the figure.
+Moreover, any other composition like Li2SiO3 is virtuallyundetected from the XRD.
+Thus, the XRD data stronglyconfirms the EDAX observations and the formed new interfacecould lead to the improved ionic conductivity  of thesensor.
+As Li2CO3 and BaCO3 were mixed in a eutectic ratio andheat treated, the melting temperature of the Li2CO3 was reducedand melted .
+This effect is manifested in the XRD as adecrease in intensity of Li2CO3 peaks in Fig.11.
+The electrolyte, Li3PO4 contains 75 mol% Li2O and 25 mol%P2O5 .
+However, by the melting of Li2CO3 in the sensingmaterial the total Li2O content presumably increases and thestandard-free energy of formation will become much morenegative(stable).
+Moreover, in the Li2CO3–BaCO3 system, afterheat treatment, microstructure modification or the formation of an additional amorphous phase with different chemical compositionwas suggested .
+Hence, the fairly formed interfacelayer with an appropriate thickness of 40 μm not only improvesthe ionic conductivity but can also protect the attack of the watervapor.
+The penetration or diffusion of Barium silicate andBarium phosphate components along with rich Li2O contentdeep inside the interfacial layer would cause for the improvedsensing properties of the sensor.
+Thus, the Li2CO3:10 mol%BaCO3 sensor has obtained some improved properties like highabsolute emf, fast response and high stability against humidity asobserved in Figs.2, 6 and 7, respectively, than the other testedsensors.
+Bulk type solid state CO2 sensors were fabricated usingLi2CO3–BaCO3 (different mol%) binary auxiliary phase,Li3PO4 mixed with 5 mol% SiO2 as electrolyte and Li2TiO3mixed with 10 mol% TiO2 two phase system as a referenceelectrode.
+The electromotive force of the investigated sensorswas linearly dependent upon the logarithm of CO2 partialpressure over a wide range of 500–5000 ppm CO2. Addition of10 mol% BaCO3 to Li2CO3 clearly forms a new interfacelayer of glassy Barium silicate (Ba4Si6O16) and Barium phosphate(Ba3P4O13) as major components between the sensingelectrode and electrolyte after aging at 600 °C for 6 h.
+Thepenetration or diffusion of Barium silicate and Bariumphosphate components deep inside the interfacial layer alongwith rich Li2O content is proposed to be responsible for theimproved sensing characteristics in dry as well as humid conditions.
+Further, Li2CO3:10 mol% BaCO3|Li3PO4+SiO2|Li2TiO3+TiO2 potentiometric CO2 sensor also demonstrates:A maximum absolute emf of 360 mVand Δemf/dec value of77.19 mV.
+‘n’ value of 1.98 at 500 °C operating temperature.
+Response time of 20 s between 450 and 500 °C operatingtemperatures.
+ Long term stability with high emf value for more than40 days.

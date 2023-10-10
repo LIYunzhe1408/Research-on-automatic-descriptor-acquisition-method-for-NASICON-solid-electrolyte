@@ -1,0 +1,108 @@
+Recently, the catalytic activities of Cun(Ti, Zr)2(PO4)3 in alcohol decomposition (7, 8) and propylene oxidation have been investigated (9, 10). The activities were correlated with the reduction of the mobile ions and with the properties of the metallic particles generated in situ on the surface of the phosphate. This reduction and perhaps also the mobility of the cations in the channels depend on the synthesis route and on the thermal history of the phosphate. It was found that Ag2ZrSc(PO4)3 under particular conditions may have an oscillatory activity in the oxidation of C3H6 (11). This striking behavior was attributed to the ability of silver to undergo surface oxido-reduction processes involving a Mars and van Krevelen mechanism (12).
+
+The present work is an extension of the investigations carried out on AgZr2(PO4)3 Nasicon-type phosphate in propylene oxidation (13), which showed that acrolein production ions reduced in depends strongly on the amount of Ag situ and on the composition of the reactants. An increase in the oxygen relative concentration enhances the total oxidation of C3H6 and decreases the acrolein production. A right choice of oxygen to propylene ratio [O2]/[C3H6] synchronizes the parameters governing the oscillatory phenomenon and gives rise to activity and temperature oscillations. Similar behavior was observed on nonsupported polycrystalline silver (13).
+
+In order to gain new insight into the main features of silver contained in nonconventional catalysts, an investigation of the behavior of AgZr2(PO4)3 was carried out in the butan-2-ol decomposition reaction. The choice of this reaction was justiﬁed by the high reactivity of this alcohol and because it provides useful information about (i) the acido-basic properties of the catalyst, (ii) the redox properties of the active centers, and (iii) in this particular case the ions to metallic silver during the in situ reduction of Ag reaction.
+The AgZr2(PO4)3 sample employed in the present investigation was prepared by coprecipitation as previously described (10). Stoichiometric quantities of ZrOCl2 ¢ 8H2O, AgNO3, and (NH4)2HPO4 (Merck products) were dissolved in a minimal amount of water under stirring at room temperature. The amorphous precipitate obtained was heated to 343 K and maintained at that temperature until all the water had evaporated. The solid recovered was submitted to cycles of grinding and heating to 773 K. The resulting material was then calcined in air at 1173 K for 48 h. Its chemical composition was determined by atomic absorption and was found to correspond to the stoichiometry of silver–zirconium phosphate AgZr2(PO4)3.
+
+The sample was characterized before and after the catalytic runs by several physical techniques in order to correlate its activity with the transformations it might have undergone under reaction conditions. X-ray diffraction patterns were recorded with a Philips PW 1710 diffractometer using CuKﬁ radiation.
+
+FTIR spectra were obtained with a Bruker/IFS 48 spectrometer. The sample was suspended in ethanol, sprayed on a CaF2 disk, and introduced into the IR cell. This cell permitted in situ and static experiments. It could be evacuated at a given temperature or ﬁlled with a chosen atmosphere. Diffuse reﬂectance spectra were recorded in the 200– 700 nm range on a Perkin Elmer (Lambda 9) spectrometer equipped with an integrating sphere. BaSO4 was used as a reference.
+
+31P and 1H NMR spectra were recorded at room temperature with a Bruker CXP 300 spectrometer equipped with a magic angle spinning accessory. The chemical shifts were measured using as references H3PO4 for 31P and H2O for 1H.
+
+Electron micrographs for AgZr2(PO4)3 were obtained using a high resolution (ca. 0.2 nm) JEOL JEM 100CX transmission electron microscope.
+
+The temperature programmed oxidation (TPO) experiments were carried out in the conventional apparatus described elsewhere (14). The catalyst sample (mD 0.200 g), in powder form, was placed in a quartz microreactor and reduced by exposing it for 1 h to a ﬂow of hydrogen at 623 K. After this reduction the sample was submitted to TPO us¡1 and ing 5 vol% O2 in He at a total ﬂow rate of 25 cm3 min a heating rate of 10 K min
+
+Catalytic activity of AgZr2(PO4)3 was investigated in butan-2-ol decomposition. This probe reaction allows the characterization of the acido-basic properties of the solid as well as its redox behavior in the oxidative dehydrogenation of the alcohol. It also offers the advantage to follow qualitatively the silver migration toward the surface of the phosphate by the concomitant changes that the catalytic reaction induces on the activity.
+
+Activity measurements were performed in a U-shaped quartz continuous microreactor operated at atmospheric pressure. Prior to each rum, 0.100 g of the catalyst ground and sieved in particles with size ranging between 110 and ¡1 ﬂow of ni125 „m were pretreated under a 60 cm3 min trogen at 723 K for 2 h. The alcohol diluted in N2 or air was supplied to the reactor at a constant pressure (8.3 £ 102 Pa) by a saturator held at 283 K. The total ﬂow rate of the car¡1. Quanrier gas and the reactants was kept at 60 cm3 min titative analysis of the reaction mixture was undertaken by gas chromatography (FID) on a 4-m (1/8 in.) stainlesssteel column packed with Carbowax 1500 (15%) on chromosorb PAW (60/80 mesh). Carbon dioxide was analyzed by a second chromatograph equipped with catharometers and a 2-m (1/8 in.) stainless-steel column containing Porapack Q.
+
+X-ray diffraction analysis of the sample as synthesized (Fig. 1a) showed that the phosphate is a pure phase belonging to the rhombohedral system R ¯3c. Its three-dimensional structure is made up of zeolitic-type channels containing cavities occupied by silver. The unit cell parameters are reported in Table 1. The calculated dimensions are consistent with the results reported for the related structures NaZr2(PO4)3 and AgTi2(PO4)3.
+
+31P MAS NMR spectra of the sample (Fig. 2) recorded at room temperature showed only one sharp and narrow resonance with a chemical shift – D¡24.4 ppm as in the case of NaZr2 (PO4)3 (15). It can be concluded that no difference in phosphorus atom positions was detected, in agreement withs
+
+FIG. 1. XRD of AgZr2 (PO4)3 (a) before the catalytic test or after the
+
+TPO run and (b) after the catalytic test in the absence of oxygen.
+
+the space group R ¯3c in which all P atoms occupy equivalent crystallographic positions.
+
+The UV–visible absorption spectrum of AgZr2(PO4)3 is given in Fig. 3a. It shows only two bands appearing in the charge transfer domain. The ﬁrst one located at 232 nm and assigned to the electronic transfer O2¡ ! Zr4C is usually observed in zirconium Nasicon-type phosphates (16). The second one centered at 210 nm may be attributed to the
+
+electronic transitions of Ag 3D (4d 9 5s1) states. Charge transfers between O2¡ might also exist in this region (17).
+
+The amounts of metallic silver obtained at various temperatures were calculated from the intensity ratios of the (111) reﬂection of silver and the (110) reﬂection of the phosphate. The values reported in Table 2 show that the reduction level increases with the temperature of reduction.
+
+TEM observations to AgZr2(PO4)3 showed that a few seconds exposure of the sample to the electron beam produces spontaneously the appearance of metallic silver particles on the surface. Figure 4 shows typical micrographs taken after the massive changes in the sample were over. Silver particles formed have a globular shape which is believed
+
+TABLE 2 C Percentage Reduction of Ag by H2 vs Temperature
+
+to be indicative of a weak metal–support interaction. Their distribution is relatively homogenous and their size ranges predominantly between 10 and 30 nm. A similar reduction phenomenon was observed with AgTi2(PO4)3 (18). It can ions which mibe explained by the high mobility of Ag grate out of the channels of the phosphate network and are reduced by the electron beam.
+
+The IR spectrum (Fig. 5) of AgZr2(PO4)3 treated in situ by H2 at 623 K for 1 h shows three absorption bands at ¡1 assignable to the vibrations ”OH 3490, 3270, and 3165 cm of [PO3OH] groups (19). No water was observed to form as shown by the absence of bands around 1600 cm
+
+panied by the protonation of the sample. The mechanism of the silver nucleation is supposedly similar to that described by Cheng and Clearﬁeld for Ag2Zr(PO4)2 (20) and can be expressed as AgZr2.PO4/3Cx=2 H2 ! Ag1¡xHxZr2.PO4/3CxAg0: [1]
+
+1H MAS NMR investigations also conﬁrmed the appearance of new hydroxyl groups, as shown in Figs. 6a and 6b where the spectra were recorded before and after reduction. A comparison of the two spectra shows the presence of new resonances with chemical shifts at – D¡1.8, – D 0.6, and – D 7.0 ppm which may be attributed to protons located in the channels of the phosphate network.
+
+All these results indicate that upon reduction Ag
+
+ions in the structure migrate to the surface where they form metallic silver particles and that this nucleation is accom-
+
+FIG. 7. Temperature programmed oxidation (TPO) proﬁle of AgZr2(PO4)3 reduced at 623 K for 1 h. O2 (5 vol%) in He. Total ﬂow rateD 25 cm3 min
+
+where Agx–Oy stands for various kinds of adsorbed oxygen on silver crystallites. Oxygen uptake computed from the area of the peak was 5.81 £ 10 ¡3 mol of oxygen per mol of the phosphate.
+
+The second oxygen consumption was quantitatively more important than the ﬁrst. It reaches its maximum at 713 K and extends up to 773 K. It can be associated with at ions back least two processes, namely the migration of Ag into the phosphate lattice and the concomitant production of water detected in the outlet gases by hygrometer. The overall reaction may then be written: Ag1¡xHxZr2.PO4/3 C Agx–Oy C .x=4 ¡ y=2/ O2
+
+The catalytic activity of AgZr2(PO4)3 was measured on ¡1. Figure 8 reports
+
+a sample with a surface area of 3 m2 g
+
+1H MAS NMR spectra of AgZr2(PO4)3 (a) before reduction,
+
+and (b) after reduction by H2 at 623 K.
+
+The reduction of Ag ions and their subsequent replacement by protons does not affect the structure of the phosphate. However, the slight shift of the diffraction peaks in the XRD patterns toward larger angles due to the differions provides ence between the ionic radius of Ag evidence for the substitution of Ag
+
+and H ions by protons.
+
+An oxidation of the prereduced sample with H2 for 1 h at 623 K was carried out employing the temperature programmed oxidation technique. A typical TPO proﬁle is reported in Fig. 7. It shows, two overlapping peaks corresponding presumably to two distinct processes. The ﬁrst peak centered at 573 K may be attributed as shown by its broad form to a progressive adsorption of O2 on Ag particles. This adsorption takes place as reported in the literature on different sites giving distinct oxygen species (21, 22). The associated reaction may be formulated as Ag1¡xHxZr2.PO4/3 C xAg0 C y=2 O2
+
+February 23, 1996
+
+FIG. 8. Butan-2-ol conversion in butene (ﬁene) and methyl ethyl ketone (ﬁone) over 0.100 g for AgZr2(PO4)3 at 493 K in the absence of O2. (PalcoholD 8.3 £ 102 Pa. Total ﬂow rateD 60 cm3 min
+
+the alcohol conversion into butenes (ﬁene) and methyl ethyl ketone (ﬁone) at 493 K using a reactant mixture free of oxygen. Methyl ethyl ketone production drops abruptly during the ﬁrst 10 min of reaction to reach a steady state where the conversion level does not exceed 1%. At the same time the dehydration activity increases and stabilizes after 2 h at 3.75%. Introduction of various concentrations of oxygen into the reaction mixture deeply modiﬁes the catalyst behavior. Figure 9 reports the conversions into butenes, CO2, and methyl ethyl ketone versus time at different O2 vol%. Globally the dehydrogenation activity increases. An enrichment in O2 of the reaction mixture enhances the dehydrogenation activity and the total oxidation (ﬁCO2). The dehydration activity decreases slightly. Figure 10 displays the results obtained at steady state and shows that ﬁone increases linearly with the increase of oxygen concentration in the carrier gas. During the ﬁrst half hour of the reaction both activities are characterized by transitory behavior which is probably due to modiﬁcations of the catalyst surface under the reactants. In the special case of the dehydrogenation one can visualize on the corresponding curves (Fig. 9) the previously mentioned redox processes. During the ﬁrst minutes the activity decreases. This drop can be associated with ions and their migration toward the the reduction of Ag surface. The increasing part of the curves can be related to the oxidation of the silver particles which constitute the active species in the oxidative dehydrogenation.
+
+Similar Nasicon-type phosphates
+
+such as Cun(Ti, Zr)2(PO4)3 have been investigated in the same probe reaction. Titanium materials were found to be less active than those containing zirconium, presumably because the ionic D 0:061 nm) is smaller than that of Zr4C radius of Ti4C D 0:072 nm). Consequently, the conduction channels (r4C
+
+FIG. 9. Butan-2-ol conversion over AgZr2(PO4)3 at 493 K in the presence of different percentages by volume of O2 in the reaction mixture. (PalcoholD 8.3 £ 102 Pa. Total ﬂow rateD 60 cm3 min
+
+in (Ag, Cu) Ti2 (PO4)3 are narrower and the diffusion pro) toward the surface cess of the active cations (Ag requires more energy. The difference between the Zr4C and Ti4C electronegativities and therefore the polarizability of the channels does not intervene in the catalytic behavior. The only factor that inﬂuences the activity, as shown by experimental data, is the tunnel size (10).
+
+It was observed (Fig. 10) that an enrichment of the reaction mixture with O2 increases carbon dioxide production. As suggested in the literature, this effect may be related to speciﬁc adsorbed oxygen on silver (25, 26).
+
+The dehydration activity in the presence of O2 in the reactants decreases to reach less than 2% at steady state. This decrease may be attributed to the opposite partial exwhich produces water. The reaction may change H be written as xAg0 C Ag1¡xHxZr2.PO4/3
+
+.PO4/3 C x=2 H2O: [5] Obviously this exchange is limited to the acidic protons which are on the surface of the sample; those located “inside” the phosphate are not accessible to the reactants.
+
+FIG. 10. Butan-2-ol conversion into butene CO2 and methyl ethyl
+
+ketone vs percentage of O2 by volume in the reactants. show the appearance of the two reﬂections at 2 181) D 38 0 – 30 and 44 belonging, respectively, to silver (111) and (200) planes. Likewise the color of the sample changed from white to greyish. UV–visible spectra of the sample after a catalytic run (Fig. 3b) show two new bands centered at 372 and 410 nm and a shoulder in the 250–270 nm region. The two bands (410 and 372 nm) are attributed to silver crystallites of different sizes, previously identiﬁed by TEM analysis as shown in Fig. 4. The weak band located at 250–270 nm might be associated as reported in the literature with the formation of linear (Agn)– C charged clusters by an activated process. The treatment of AgZr2(PO4)3, either by H2 or butan-2ol, resulted in the formation of Ag0 particles and protonation of the sample. In the absence of oxygen the silver that migrated during the reaction is not very active in the dehydrogenation, while the exchanged protons enhance the dehydration activity (Fig. 8). Butan-2-ol, as shown, reduces the sample. The involved reaction can be written as in the similar case of CuZr2(PO4)3 (24):
+
+When the reaction is carried out in the presence of a gaseous mixture containing oxygen the catalyst performance improves. A production of carbon dioxide appears, too. At steady state, in the presence of a feed containing 20 vol% O2, dehydrogenation activity becomes 20 times more important. This enhancement of the activity is attributed to the oxidative dehydrogenation of the butan-2-ol on Ag0 crystallites which appear on the surface of the phosphate. As a matter of fact, TPO experiments have shown that silver adsorbs oxygen giving rise to Agx–Oy species which act as the active sites in the alcohol dehydrogenation and combustion.
+
+The catalytic properties of silver–zirconium phosphate AgZr2(PO4)3 are related, as shown by all the results, to its structural characteristics:
+
+ions may be easily reduced to metallic silver and perhaps charged clusters either by hydrogen or butan2-ol under reaction conditions.
+
+(ii) The silver ions are replaced in the lattice of the phosphate by protons which create acidic sites [P–OH] active in the dehydration reaction.
+
+(iii) The small silver particles (10–30 nm) generated in situ are active in the oxidative dehydrogenation of butan-2-ol. TPO results showed that the silver-loaded Ag1¡xHxZr2(PO4)3 adsorbs different forms of oxygen. The obtained silver particles seemed to display properties characteristic of bulk metal. The mechanism involved in alcohol oxidation was suggested to be of the Mars and van Krevelen type.
+
+(iv) Under oxygen (air) at moderate temperatures (773 K) the silver crystallites and the clusters diffuse back into the lattice restoring the initial material AgZr2(PO4)3. The phosphate structure was not altered by this redox process.

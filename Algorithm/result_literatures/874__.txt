@@ -1,0 +1,48 @@
+In the search for novel sodium-ion conductors to be used in batteries for grid application, the thoroughly studiedclass of NASICON materials is of great interest due to compositional diversity and high ionic conductivity.
+
+Thesolid solution Na3+xSc2(SiO4)x(PO4)3 − x with 0.05 ≤ x ≤ 0.8 was investigated for the first time.
+
+The variouscompositions were synthesized by solid state reaction and their crystallographic and electrical properties weremeasured.
+
+ As a result, one of the best sodium-conductive NASICON materials to date was obtained for x = 0.4(σNa,Total = 6.9 × 10−4 S cm−1 at 25 °C).
+
+Furthermore, the importance of the sodium concentration and size oflattice parameters on the ionic conductivity were investigated.
+
+The bulk ionic conductivity was correlated withthe structural parameters along the conduction pathway of the sodium ions and confirm the key influence ofthe interatomic Na–O distances on sodium ion transport.
+
+introduced the term NASICON [1,2] to describethe very high ionic conductivity in Na3Zr2Si2PO12.This term is nowused for all ceramic materials with the same crystal structure and thegeneral composition A1 + 2x + y + zM(II)xM(III)yM(IV)2 − x − ySizP3 − zO12where A is usually a mono- or divalent cation (here, A = Na) and M aredivalent, trivalent or tetravalent cations; P can also be substituted withSi or As.
+
+The materials belonging to the NASICON family are very attractive because of their compositional diversity leading to many possibleapplications, such as electrode materials or solid electrolytes in batteriesas tested in an all-NASICON battery by Lalère et al. Cl2 and CO2 sensors[4,5], or photoluminescent devices [6].
+
+The conductivity of the NASICONmaterials is strongly related to their Na concentration and their crystallographic structure, which is influenced by the size of the M cations.
+
+It hasbeen concluded from a literature survey [7] that the average ionic radiusof M cations should be close to the ionic radius of Zr, i.e. rZr = 0.72 Å [8], inorder to obtain highly conductive materials comparable to β- and β″-alumina [9,10].
+
+In addition, the NASICON materials with the highestsodium ion conductivity contain 3–3.5 mol Na per formula unit andshow a monoclinic distortion of the crystallographic lattice [7].
+
+Following these guidelines for designing sodium ion conductors, thenew solid solution Na3+xSc2SixP3 − xO12 (abbreviated hereafter asNSSiPx) was investigated.
+
+ The ionic radius of Sc of 0.745 Å [8] is closeto the ionic radius of Zr and the presence of the trivalent Sc leads to ahigh amount of Na per formula unit.
+
+The introduction of Si in the highlyconductive Na3Sc2(PO4)3 (2.3 × 10−5 S cm−1 at room temperature)[11] was inspired by the work of Hong on Na1+xZr2SixP3 − xO12 [1]and of Vogel et al. on Na1+xHf2SixP3 − xO12 [12].
+
+ In both cases, the substitution with Si in the structure led to a significant increase in conductivity.
+
+Different structural parameters were correlated with the measuredionic conductivity in order to better understand the impact of Si substitution on the Na+ transport in the scandium-based NASICON materialsSubstituting P with Si in the ion-conductive Na3Sc2(PO4)3 [11] leadsto Na3.4Sc2(SiO4)0.4(PO4)2.6 with very high sodium ion conductivity ofσNa,Total = 6.9 × 10−4 S cm−1 at 25 °C.
+
+The systematic study of thesolid solution Na3+xSc2(SiO4)x(PO4)3 − x with 0.05 ≤ x ≤ 0.8 led to abetter understanding of the influence of the substitution of P with Siin the NASICON materials.
+
+The increase in charge carriers led to anincrease in conductivity until a maximum was reached, after whichthe ratio of the amount of charge carriers to vacancies was not favorable.
+
+Correlations between the activation energy and the lattice parameters for the experimentally produced data revealed the existence of optimal lattice parameters.
+
+The change in lattice size directly influencedthe size of the pathway for the Na+ conduction and the hopping distance of the Na+ ions to the next vacancy.
+
+A hopping distance that istoo long requires a high activation energy for the conduction, whichjump, assumed as the bottleneck for diffusion, was validated for thissolid solution and other NASICON materials found in the literature.
+
+The distance between the charge carriers to the nearest oxygen atoms,however, seems to be more important.
+
+For better insights into the discussed correlations, neutron scatteringdata or XRD measurements on single crystals would allow a higherprecision of the atomic positions and particularly the occupancies inthe NASICON materials.
+
+The variation of Na concentration is currentlyunder investigation to better understand the impact of Na excess anddeficiency on the ionic conductivity of these materials.
+

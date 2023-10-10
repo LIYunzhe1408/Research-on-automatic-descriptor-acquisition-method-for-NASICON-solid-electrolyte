@@ -1,0 +1,59 @@
+Highly ion conducting glass-ceramics, crystallizing in the Na-superionic conducting (NASICON) structure,have been prepared in the system Li1+xAlxSnyGe2‑(x+y)(PO4)3by crystallization of glassy precursor samples.
+
+For modestsubstitution levels (y = 0.25), these crystalline solid solutionsshow slightly higher electrical conductivity than correspondingsamples without Sn, supporting the rationale that the latticeexpansion associated with the substitution of Ge by its largerhomologue Sn can enhance ionic conductivity.
+
+Higher Snsubstitution levels (y = 0.45) do not result in anyimprovement.
+
+The glass-to-crystal transition has beencharacterized in detail by multinuclear single and doubleresonance NMR experiments.
+
+While substantial changes in the 31P and 27Al MAS NMR spectra indicate that the crystallization ofthe glasses is accompanied by significant modifications in the local environments of the phosphate and the aluminum species, thedipolar solid state NMR experiments indicate that the structures of both phases are dominated by Ge−O−P, Sn−O−P, and Al−O−P connectivities.
+
+Substitution of Ge by Al and Sn in the crystalline NASICON structure results in a binomial distribution ofmultiple phosphate environments, which differ in the number of P−O−Ge, P−O−Al, and P−O−Sn linkages.
+
+While there is nochemical shift discrimination between P−O−Al and P−O−Sn linkages, an unambiguous distinction is possible on the basis of 31P{27Al} rotational echo adiabatic passage double resonance (REAPDOR) experiments.
+
+Lithium-ion battery technology is now being widely used inapplications of great diversity, ranging from chemical sensingdevices to large-scale energy storage equipment.
+
+Solid-stateelectrolytes, such as polymeric ion conductors and lithiumbased glasses and glass-ceramics are being used in such devicesdue to rich opportunities for tailoring physicochemicalproperties through compositional adjustment.
+
+In particular,crystalline materials based on NASICON (Na super ionicconductor)-type crystalline frameworks provide high lithiumion mobilities,7−16 resulting in applications as separatormaterials in current Li/air battery prototypes.
+
+Their utilityfor solid electrolyte battery applications stems from theopportunity of preparing dense, nonporous glass-ceramics ofglassy precursors by appropriate annealing protocols.
+
+While ionic conductivities of the glassy precursor materials arelower by several orders of magnitude, the synergy of a highlyconductive crystalline phase embedded in a mechanically stable,dense glass matrix, offers some technological benefits.
+
+Therhombohedral parent compound LiGe2(PO4)3 possesses onlymoderate electrical conductivity; however, numerous chemicalmodifications have been introduced to modify and optimize theelectrical conductivities of these materials.
+
+In particular, thealiovalent substitution of Ge4+ (or Ti4+) by Al3+ + Li+introduces new lithium ions on the Li(2) sites (vacant in thestructure of parent LiGe2(PO4)3), producing a considerableenhancement in the electrical conductivity.
+
+Various othercation or anion substitution processes have been explored,extending the range of highly conductive members of this solidelectrolyte family.
+
+Numerous of these studies havebenefitted greatly from the potential of solid state NMRmethods to provide information about structural details and tocharacterize ionic mobilities.
+In the present contribution, we study the isovalentsubstitution of Ge4+ by its larger homologue Sn4+.
+
+The studyis based on the rationale that the expected increase in latticeparameters may expand the size of the cation migration pathbottleneck, resulting in increased cationic mobilities and hencehigher electrical conductivities.
+
+Furthermore, replacementof expensive Ge by its cheaper homologue Sn is economicallyadvisable.
+
+In this work we present our results on glasses andglass-ceramics of the system Li1+xAlxSnyGe2‑(x+y)(PO4)3(LASGP).
+
+The structural aspects of the glass-to-crystaltransition and the related consequences of the Ge → Snsubstitution have been examined by X-ray diffraction andmultinuclear solid state NMR single and double-resonanceexperiments, on the basis of which the proposed cationsubstitution models are examined in a quantitative fashion.
+
+Theionic conductivities of the glass-ceramics have been measuredby impedance spectroscopy and related to ionic mobility trendsprobed by temperature dependent static 7Li NMR.
+
+In summary, the results of the present study show thatcrystalline solid solutions in the systemLi1+xAlxSnyGe2‑(x+y)(PO4)3 may be formed by crystallization ofglassy precursor samples.
+
+For modest substitution levels (y =0.25), the lattice expansion associated with the substitution ofGe by its larger homologue Sn does produce a (moderate)enhancement of electrical conductivities and ionic mobilities.
+
+The structure of the glasses and their crystalline counterpartshas been characterized in detail by multinuclear single anddouble resonance NMR experiments.
+
+While substantial changesin the 31P and 27Al MAS NMR spectra indicate that thecrystallization of the glasses is accompanied by significantmodifications in the local environments of the phosphate andthe aluminum species, the dipolar solid state NMR experimentsindicate that the structures of both phases are dominated byGe−O−P, Sn−O−P, and Al−O−P connectivities.
+
+The glassstructure is dominated by P(3) units linked to both four- and sixcoordinated Ge, Al, Sn, as well as P units, whereas the crystalstructure contains exclusively P(4) units linked to sixcoordinated Ge, Al, and/or Sn atoms.
+
+In the crystallinematerials, the 3 1P NMR spectra reveal multipleP(4)(4‑n‑m)Ge,(n+m)Al/Sn sites, with no chemical shift distinctionbetween n and m.
+
+Nevertheless, for each resolved resonancecharacterized by a given value of (n+m) one can extract anaverage number of P−O−Al linkages using 31P{27Al} REAPDOR experiments.
+
+Overall, the results of the present studydefine a useful structural investigation protocol for thesecompositionally complex superionic conductors.
+

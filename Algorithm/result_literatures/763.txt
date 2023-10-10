@@ -1,0 +1,11 @@
+All-solid state Li-rechargeable batteries using a 500-nm-thick LiCoO2 (LCO) film deposited ontwo NASICON-type solid electrolyte substrates: LICGCTM (OHARA Inc.) andLi1.3Al0.3Ti1.7(PO4)3 (LATP) are constructed.
+The post-deposition annealing temperature prior tothe cell assembly is critical to produce a stable sharp LCO/electrolyte interface and to develop astrong crystallographic texture in the LCO film, conducive to migration of Li ions.
+Although thecells deliver a limited discharge capacity, the cells cycled stably for 50 cycles.
+The analysis ofthe LCO/electrolyte interfaces after cycling demonstrates that the sharp interface, once formed by proper thermal annealing, will remain stable without any evidence for contamination and withminimal intermixing of the constituent elements during cycling.
+Hence, although ionicconductivity of the NASICON-type solid electrolyte is lower than that of the sulfide electrolytes,the NACSICON-type electrolytes will maintain a stable interface in contact with a LCO cathode,which should be beneficial to improving the capacity retention as well as the rate capability ofthe all-solid state cell.
+A 500-nm-thick LCO film was deposited on two different NASICON-type solid electrolytesby sputtering and annealed to observe the microstructural changes in the LCO cathode andLCO/electrolyte interface.
+During crystallization of the LCO film at 500 oC, a crystallographictexture conducive to migration of Li ions was developed.
+When tested in a functioning solid state cell, the LCO/NASICON-type electrolyte interface remained stable during cycling unlikethe interfaces between a LCO cathode and sulfide or perovskite-type solid electrolytes.
+Although capacity retention of the solid state cell did not compare favorably with the well-establishedLIPON data, the result represents one of the first results to reversibly cycle a solid state cellbased on a LATP solid electrolyte for extended cycles.
+The observed capacity fading was likelydue to the anode degradation.
+Based on the observed degradation of the NASICON-typeelectrolyte in contact with Li metal,22 it is advisable that the interface at the anode side needs tobe optimized to achieve high current density from an all-solid-state battery using a NASICONtypesolid electrolyte.

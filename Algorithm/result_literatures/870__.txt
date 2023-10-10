@@ -1,0 +1,51 @@
+Investigations on the microstructural and electrical properties of a glassceramic system: (100 - x)[0.4Li2O - 0.1GeO2 - 0.6P2O5] ? x [20 h ball milledGa2O3] (0 B x B 10 mol%, in the regular steps of2 mol%) via high-energy ball milling technique arereported.
+
+XRD spectra of LGePG glassceramic sampleswere identified major crystalline phases such as Li3Ge2(-PO4)3 (NASICON-type phase), Ga2Li3(PO3)7 and GeO2from the major diffraction peaks.
+
+Bulk conductivity of allthese samples was measured for the powder-compressedpellets by ac impedance method.
+
+The correlation of log(r)and M00 peaks suggests the presence of single conductionmechanism in the LGePG glassceramic samples.
+
+Theresults are discussed in the light of degree of crystallizationof lithium phosphate glass network.
+
+Recently, solid-state glassceramic electrolytes when precipitated with superionic nanocrystals, they got attractedbecause of their remarkable electrical conductivity (AlHartomy et al.2013; Fanelli et al. 2011; El-Desoky 2010).
+
+Among the oxide and sulfide-based glassceramic electrolytes, the ionic conductivity of sulfide-based compoundsis superior over oxide based counter parts.
+
+However, sulfides are not chemically stable over longer durations thanoxides (Kim et al. 2008, Kim and Jeong 2011).
+
+Oxidebased glassceramic electrolytes are highly preferredbecause they posses excellent chemical and mechanicalstability even under heavy loads, nevertheless, their ionicconductivity barely meets the required power densities ofthe cell (Kim et al.
+
+2008, Kim and Jeong 2011; Hayashiet al. 2012).
+
+On the other hand, NASICON-based glassceramic type structure was given top priority as it facilitates the fast diffusion pathways for monovalent ions whichis the necessary and sufficient condition for boosting theconductivity at least by two orders (He et al. 2014).
+
+Though, several routes were taking place to enhanceionic conductivity amorphous electrolyte materials, precipitation of nanocrystals in the glass and glassceramicmaterials via high-energy ball milling was regarded ashighly efficient choice, where nanoscaled powders ofelectrodes directly mixed with electrolytes, leads to reducethe interfacial resistance and also surface modificationunder room temperature and normal pressure (Kang et al.
+
+Furthermore, it is also to be noteddown that the uniform distribution of fine grains ofnanocrystalline phases in the glass and glassceramicstructure can significantly produce fast diffusion path waysand hence, desirable ionic conductivity is expected toachieve (Dell et al.
+
+
+Ga2O3 is agood chemically and thermally stable material whosequantum size effects will influence largely on Li–Ge–Pnetwork for its high Li ion conductivity, thermal stability,and physical properties (Prasad et al.
+
+On the otherhand, the role of GeO2 in this glassceramic matrix significantly improves the phase immiscibility during itstransition from glass to the glassceramic matrix which is afundamental property to control the degree of crystallization.
+
+In view of this, correlation between the mechanismof crystallization and its electrical transport is worthwhileto discuss for the use in the high-energy density applications (Prasad et al. 2005).
+
+We have already reported in our investigation that theestimated mean sizes for the 20 h ball milled Ga2O3nanocrystallites are obtained by using the Scherrer’s formula for half width of the diffraction peaks of the all the inthe lithium titatanate phosphate glass ceramic samples varyin between 12 and 17 nm along with little larger clusters*20–50 nm in size for the 20 h ball mill which waschosen for dispersion in L–Ge–P glassceramic matrix.
+
+However, beyond 20 h the powder gets strained (Reddyet al. 2012).
+
+The lowest value of Kgl for the glassceramic sample LGePG6(0.517), denotes the decrease in the degree of de-polymerization which possesses fast diffusion pathways, leading toachieve good compatibility between electrodes.
+
+XRD patternspointed out that the LGePG6 sample exhibits the optimumcrystallization of nanocrystalline phases such as LiGe2(PO4)3(NASICON type), Ga2Li3(PO3)7 from major diffractionpeaks.
+
+SEM pictures revealed that LGePG6 glassceramicsample is observed to be interconnected fine and uniformcrystallites of major crystalline phases (LiGe2(PO4)3 (NASICON type), Ga2Li3(PO3)7) which are uniformly dispersed inthe glass matrix and separated by well-developed grainboundaries which is justified by XRD pattern.
+
+The bulk conductivity is achieved to be the highest for LGePG6 sample(8.31 9 10-04 S/cm).
+
+The M00 spectra shows non-Debye typerelaxation and shift to higher frequency side for the sampleLGePG6 with the highest conductivity due to the increase ofmobile charge carriers and the same would be applicable forall the other samples under investigation.
+
+The modulus scalingspectra show that the dynamical relaxation processes is temperature independent for a particular composition.
+
+The bexponent value indicates that the conductivity relaxation ishighly nonexponential (Table 4).
+

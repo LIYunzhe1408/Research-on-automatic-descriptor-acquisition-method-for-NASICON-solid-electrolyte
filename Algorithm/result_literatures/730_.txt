@@ -1,0 +1,29 @@
+To accommodate the decreasing lithium resource and ensure continuousdevelopment of energy storage industry, sodium-based batteries are widelystudied to inherit the next generation of energy storage devices.
+In this work,a novel Na super ionic conductor type KTi2(PO4)3/carbon nanocompositeis designed and fabricated as sodium storage electrode materials, whichexhibits considerable reversible capacity (104 mAh g−1 under the rate of 1 Cwith flat voltage plateaus at ≈2.1 V), high-rate cycling stability (74.2% capacityretention after 5000 cycles at 20 C), and ultrahigh rate capability (76 mAh g−1at 100 C) in sodium ion batteries.
+Besides, the maximum ability for sodiumstorage is deeply excavated by further investigations about different voltagewindows in half and full sodium ion cells.
+Meanwhile, as cathode material insodium-magnesium hybrid batteries, the KTi2(PO4)3/carbon nanocompositealso displays good electrochemical performances (63 mAh g−1 at the 230thcycle under the voltage window of 1.0–1.9 V).
+The results demonstrate thatthe KTi2(PO4)3/carbon nanocomposite is a promising electrode material forsodium ion storage, and lay theoretical foundations for the development ofnew type of batteries.
+Sample Preparation: For a typical synthesis, KTi2(PO4)3/carbonnanoparticles were synthesized by a co-precipitation method followedby the annealing process.3 mmol phosphoric acid (H3PO4) wasdissolved in a mixture of 30 mL ethanol (C2H5OH) and 30 mL ethyleneglycol followed by stirring for 30 min.
+Then, 1 mmol potassium acetate(CH3COOK) and 2 mmol tetrabutyl titanate were sequentially added intothe above solution.
+After that, the suspension was stirred vigorouslyover 2 h.
+This white precursor was collected by centrifugation andwashed with ethanol for twice, and dried at 70 °C for 12 h in air.
+Finally,the precursor was annealed in Ar at 750 °C for 2 h with a heating rate of5 °C min−1 to obtain the black KTi2(PO4)3/carbon nanoparticles (notedas KTP/C).
+When the suspension was centrifuged and washed withdeionized water and ethanol for several times, and dried at 70 °C for12 h in air followed by annealing in air at 750 °C for 3 h with a heatingrate of 5 °C min−1, the white KTi2(PO4)3 nanoparticles (noted as KTP)were obtained.
+To obtain the graphene wrapped KTi2(PO4)3 nanoparticles (noted asKTP/G), 0.1 g KTP were dispersed in 1 mL of graphene (≈7 mg mL−1)solution by a ultrasonic process and the mixture was stirred vigorouslyfor 6 h.
+After that, the mixture was dried directly at 70 °C for 12 h in airto get the gray KTP/G nanoparticles.
+The graphene was synthesized by amodified Hummers method.
+To obtain the carbon-coated Na3V2(PO4)3 bulk (noted as NVP/C),2 mmol acetylacetonate was dissolved in 30 mL ethanol at 80 °C in waterbath.
+After that, 1.5 mmol sodium carbonate (Na2CO3) and 3 mmolammonium dihydrogen phosphate (NH4H2PO4) were sequentiallyadded into the above yellow suspension.
+Then, the white mixture wasstirred vigorously for 6 h and dried directly at 70 °C over 12 h in air.
+Finally, the black NVP/C bulk was obtained by following annealing in Arat 750 °C for 8 h with a heating rate of 3 °C min−1.Materials Characterization: XRD was employed to characterizethe crystallographic information using a Bruker D8 Advance X-raydiffractometer with a nonmonochromated Cu Ka X-ray source.
+Scanningelectron microscopic (SEM) images and energy dispersive X-ray spectra(EDS) were collected with a JEOL-7100F SEM/EDS microscope at anacceleration voltage of 20 kV.
+TEM and high-resolution transmissionelectron microscopic (HRTEM) images were recorded by using a JEM-2100F STEM/EDS microscope.
+BET surface areas were measured usinga Tristar II 3020 instrument by adsorption of nitrogen at 77 K.
+XPS measurement was performed using a VG Multi Lab 2000 instrument.TG/DSC was performed using a Netzsch STA 449C simultaneousthermal analyzer at a heating rate of 10 °C min−1 in air.
+Measurements of Electrochemical Performances: The electrochemicalproperties were evaluated by assembly of 2016 coin cells in a glovebox filled with pure argon gas.
+In sodium half cells, sodium metal wasused as the anode.1 m solution of NaClO4 in ethylene carbon–dimethylcarbonate (1 : 1 w/w) with 5% fluoroethylene caobonate (FEC) was usedas the electrolyte, and a Whatman glass fiber (GF/D) was used as theseparator.
+The electrolyte used in SMHBs was prepared on the basis ofthe reported method.
+The electrodes were produced from a mixedclay with a weight ratio of 60% KTi2(PO4)3/carbon active material, 30%acetylene black, and 10% polytetrafluoroethylene (PTFE).
+The mixed claywas rolled using a roller mill to form a freestanding film and was cut intoslices and dried in an oven for 12 h at 70 °C.
+The loading mass of theactive material was ≈2.0–4.0 mg cm−2. Galvanostatic charge–dischargemeasurement was performed using a multichannel battery testingsystem (LAND CT2001A).
+CV curves and EIS were recorded with anelectrochemical workstation under the alternating current ranging from0.01 Hz to 10 kHz (Autolab PGSTAT 302).

@@ -1,0 +1,94 @@
+Towards High-Performance Aqueous Na-ion Batteries: Stabilizing  the Solid/Liquid Interface for NASICON-Type Na2VTi(PO4)3 via the  Use of Concentrated Electrolytes  Huang Zhang,[a,b] Sangsik Jeong,[a,b] Bingsheng Qin,[a,b] Diogo Vieira Carvalho,[a,b] Daniel Buchholz[a,b]  and Stefano Passerini*[a,b]  Abstract: Aqueous Na-ion batteries may offer a solution to the cost  and  safety  issues  of  high  energy  batteries.
+However,  substantial  challenges  remain  in  the  development  of  electrode  materials  and  electrolytes enabling high performance and long cycle life.
+Herein we  report  the  characterization  of  a  symmetric  Na-ion  battery  with  NASICON-type  Na2VTi(PO4)3  electrode  material  in  conventional  aqueous  and  “water-in-salt”  electrolytes.
+Extremely  stable  cycling  performance  for  1000  cycles  at  high  rate  (20  C)  is  found  with  the  highly  concentrated  aqueous  electrolytes  due  to  the  formation  of  a  resistive  but  protective  interphase  between  the  electrode  and  the  electrolyte.
+These  results  provide  an  important  insight  for  the  development  of  aqueous  Na-ion  batteries  with  stable  long-term  cycling performance for large-scale energy storage.
+In  one  approach, few  cycles redox  couples  at stability,  large  ionic  channels,  and  good  accessibility  of  the  sodium  sites.
+The  V4+/V3+  and  Ti4+/Ti3+  redox  processes  in  vanadium and  titanium  based  insertion  hosts  with  NASICONstructure  occur  within  the  electrochemical  stability  window  of  water.
+Hence,  NASICON-type  NaTi2(PO4)3  and  Na3V2(PO4)3  have  been  investigated  intensively  as  electrode  materials  for  aqueous  Na-ion  batteries.
+Especially  NaTi2(PO4)3  has  been  of  high  interest  because  it  is  redox  active  at  the  lower  end  of  the  aqueous  electrolyte  stability  window,  thus  enabling  enhanced  energy  densities.
+On  the  other  hand,  pristine  Na3V2(PO4)3  suffers  from  the  structural  degradation  in  aqueous  electrolytes  within  the  performance  of  Na3V2(PO4)3 has been improved by transition metal substitution  with Cr, Mn, Fe and Ni and Ti.
+In consequence, amphoteric  insertion hosts that can be used as cathode and anode materials  are being developed.
+This enables the fabrication of symmetric  batteries at reduced manufacturing costs.
+Goodenough and  coworkers developed a symmetric aqueous Na-ion battery using  NASICON-structured  Na3MnTi(PO4)3,  exhibiting  Ti4+/Ti3+  and  Mn3+/Mn2+  low  and  high  voltages,  respectively.
+Also, the symmetric, non-aqueous Na-ion battery  with  NASICON-type  Na2VTi(PO4)3  (NVTP)  delivered  superior  rate  capability  and  cycling  stability.
+In  addition,  the  NVTP  electrode was also used in a symmetric, aqueous Na-ion battery  with  an  output  voltage  of  ~1.2  V  in  conventional  1M  Na2SO4  aqueous  electrolyte.
+However,  the  high  rate  capability  and  cycling  stability  should  be  further  improved  to  demonstrate  its  feasibility for commercial applications.
+So far, Na2SO4-H2O, NaNO3-H2O, NaTFSI-H2O, NaFSI-H2O and  NaOTF-H2O have been reported as electrolyte salts, but Na2SO4  is  most  commonly  used  due  to  its  low  cost  and  environmental  friendliness.
+Moreover, it has been shown that the use of highly  concentrated and triflate-based (NaCF3SO3) electrolytes widens  the  electrochemical  stability  window  of  the  electrolyte  and  enhances  the  stability  of  the  electrode  by  water  solvation  and  thick  solid  electrolyte  interphase  (SEI)  formation.
+As  a  result,  the  effect  of  Na-salt  concentration  in  aqueous  electrolytes.
+However,  not  only  the  electrochemical  stability  window  and  ionic  conductivity  but  also  increased  cost  need  to  be  considered  for  concentrated  aqueous  electrolytes.
+In  this  regard,  NaClO4  is  a  promising  candidate  because  it  is  relatively  inexpensive,  which  is  the  reason  for  it  being  widely  studied  in  non-aqueous  Na-ion  batteries.
+Herein,  NASICON-type  Na2VTi(PO4)3/C  (NVTP/C)  composite  is  synthesized  by  a  simple  sol-gel  method  and  investigated  in  a  symmetric  aqueous  Na-ion  cell.
+The  effect  of  NaClO4  concentration  on  the  performance  of  NVTP/C  is  unraveled.
+In  addition,  the  superior  electrochemical  performance  offered  by  the use of 9.2 m NaCF3SO3 (NaOTF) in water (“water-in-salt”) as  electrolyte is demonstrated.
+It is shown that the solid electrolyte further  studies investigated Sodium  (Na)-ion  batteries  hold  the  great  promise  of  enabling  cost-effective grid energy storage owing to their cost advantages  and good energy density.
+Indeed, the typical Na-ion battery,  operating at ambient temperature with two host materials (e.g.,  hard carbon anode, layered transition metal oxide cathode) in an  organic solution electrolyte, already delivers high energy density  and  good  cycling  stability.
+Nevertheless,  non-aqueous  Na-ion  batteries  suffer  from  the  toxicity,  flammability,  moderate  ionic  conductivity  and  high  cost  of  the  electrolyte.
+An  attractive  approach  to  circumvent  this  problem  is  to  use  an  aqueous  electrolyte.
+However,  the  low  operative  voltage  of  aqueous  electrolytes,  resulting  in  low  energy  density,  as  well  as  the  electrode  degradation  need  to  establish  aqueous  Na-ion  batteries  as  an  attractive  technology  for  power-management  operations  and  grid-scale  energy  storage.
+Despite the considerable progress in the development  of  electrode  materials  such  as  layered  oxides,  Prussian  blue  derivatives and polyanionic compounds, especially, their cycling  stability and energy density need to be enhanced further.
+NASICON  (Na  Super  Ionic  Conductor)-type  compounds  have  attracted  intensive  interest  because  of  their  high  structural to  be  properly  addressed Supporting information for this article is given via a link at the end of  the document.
+interphase  plays  a  critical  role  for  a  stable  electrochemical  performance and high rate capability.
+Results and Discussion The  powder  X-ray  diffraction  pattern  of  the  as-synthesized  Na2VTi(PO4)3/C  is  presented  in  Figure  1a.NASICON-type the electrodes.
+Figure  1b  depicts  initial  and  second  galvanostatic  charge-discharge  profiles  in  1M  NaPF6  in  PC/EC  (1:1 v/v) electrolyte between 1.5 and 4.0 V at 0.2 C (1 C = 60  mA g−1).
+In the initial charge process, the electrode exhibits the  typical  plateau  at  ~3.4  V  (vs.Na/Na+),  which  is  close  to  the  V3+/V4+  redox  potential  in  Na3V2(PO4)3.[38]  The  first  discharge  potential profile features two plateaus at ~3.4 V and ~2.1 V (vs.
+Na/Na+)  due  to  V4+/V3+  and  Ti4+/Ti3+  reduction  processes, Figure 1. a) Powder X-ray diffraction pattern of Na2VTi(PO4)3/C composite; b) Initial and second galvanostatic charge-discharge profiles of Na2VTi(PO4)3/C  between 1.5 and 4.0 V vs.Na+/Na at 0.2 C, c) galvanostatic charge-discharge profile of symmetric full cell between 0.5 and 1.5 V at different C-rates, and  d) long-term cycling stability test of the symmetric full cell at 20 C in 1M NaPF6 PC/EC (1:1 v/v) organic electrolyte (1C = 60 mA g-1).
+Na2VTi(PO4)3/C  can  be  indexed  with  a  rhombohedral  unit  cell  and R-3c space group as NaTi2(PO4)3 and Na3V2(PO4)3.[7,29-31,38]  The  morphology  and  elemental  distribution  were  examined  by  SEM  and  EDX  analysis  (Figure  S1,  Supporting  Information).
+The  obtained  NVTP/C  materials  are  composed  of  irregularshaped micrometer-scale particles.
+The nature and properties of  the  carbon  in  NVTP/C  were  characterized  via  Raman  spectroscopy (as shown in Figure  S2, Supporting Information).
+The spectrum presents the characteristic D(1357 cm-1) and G (1593  cm-1)  bands,  which  are  associated  with  disordered  and  graphitic  carbon  regions,  respectively.
+The  ID/IG  ratio  is  calculated  to  be  ~1.08,  indicating  the  amorphous  nature  of  carbon formed in the NVTP/C composite.
+The carbon content is  estimated to be ~6 wt.% according to carbon-hydrogen-nitrogen  (CHN) elemental analysis.
+Initially,  the  NVTP/C  electrodes  were  investigated  in  threeelectrode  cells  with  Na  metal  as  counter  and  reference respectively.
+The initial charge capacity is 54 mAh g−1, while the  following discharge capacity is 114 mAh g−1. During the second  charge,  the  plateaus  appear  nearly  at  the  same  potential  and  with  the  same  capacity,  demonstrating  the  highly  reversible  sodium  storage  in  NVTP/C.
+The  rate  performance  of  the  symmetric  Na-ion  battery  with  organic  electrolyte  in  coin  cell  configuration  is  displayed  in  Figure  1c.
+The  full  cell  shows  a  stable plateau at ~1.2 V and delivers a reversible capacity of 51  mAh g−1 at 0.2 C.
+The initial coulombic efficiency is about 96.6%.
+At increased current densities of 1 C, 2 C, 10 C, 20 C to 40 C,  the  reversible  capacities  reduce  to  46,  43,  32,  24  and  14  mAh  g−1,  respectively.
+Figure  1d  displays  the  long-term  cycling  behavior of the symmetric full cell at 20 C.
+An extraordinary high  capacity  retention  of  ~99%  is  obtained  after  1000  cycles  with  coulombic  efficiency  of  nearly  100%.
+This  is  demonstrating  the  excellent sodium storage reversibility and high rate capability of  NVTP/C electrodes in symmetric, non-aqueous Na-ion cells.
+FULL PAPER Figure 2. Raman spectra of the aqueous electrolytes. a) Cl-O4 stretching mode in 1, 4 or 8 M NaClO4 aqueous electrolyte; b) S-O3 stretching mode in 9.2 m  NaOTF in water; c) OH bending and d) OH stretching bands in 1, 4 or 8 M NaClO4 and 9.2 m NaOTF solutions in water; e) Representative Na+ cation solvate  species (solvent-separated ion pairs, contact ion pairs and aggregated cation-anion pairs) in dilute and concentrated electrolytes.full  spectra  are  shown Solvation  structure  and  ion  association  of  NaClO4  aqueous  solutions  over  a  wide  concentration  range  and  9.2  m  NaOTF  “water-in-salt”  electrolyte  were  investigated  with  Raman  in  Figure  S3  spectroscopy.
+The  coordination  of  the  salt  and  the  water  molecules  in  the  electrolyte  can  be  beneficial  for  the  electrode interfacial stability during electrochemical process.
+Figure 2a shows the ClO4 stretching mode at room temperature,  occurring in the 890-970 cm-1 range, which can be used for the  evaluation of NaClO4 in aqueous electrolytes.
+The peak position  shifts towards higher wavenumber with increasing salt contents Via  component  band  analysis,  the  four  Lorentzian-Gaussian  peaks at ~945.0, 935.0, 925.0 and 915.0 cm−1 can be assigned  to  the  contact  ion  pairs/aggregated  ion  pairs,  the  solventanions, and the  separated ion pairs, the free, but solvated ClO4 v2-ClO4  overtone,  respectively.
+Upon  increasing  NaClO4  concentration,  ion  pairs/ionic  aggregate  peak  increases,  whereas  free  -,  and  overtone  band  v2-ClO4  features  decrease.
+However, a significant degree of ion pairing and aggregation can the  solvent-separated the  contact ion  pairs, be observed in all electrolytes.
+To confirm this evidence, the SO3  stretching  mode  the  9.2  m  NaOTF  “water-in-salt”  electrolyte was examined (Figure 2b).
+The Lorentzian-Gaussian  deconvolution of the Raman spectrum reveals two major bands  that  can  be  associated  to  solvent-separated  ion  pairs  and  contact  ion  pairs/aggregated  cation-anion  pairs,  which  is  in  excellent agreement with a previous report.
+The  intensity  of  the  O-H  bending  stretching  modes  at  ~1640  cm-1  and  ~3240  cm-1,  respectively,  can be used to determine hydrogen bond strength and identify  whether  “free”  water  molecules  exist  in  the  various  electrolyte  solutions.
+These modes recorded for the NaClO4 and NaOTF  electrolytes are shown in Figure 2c and d.
+The intensities of the  OH  bending  and  stretching  modes  sharply  decrease  with  increasing salt concentration, as the water molecules are more  and  more  involved  in  the  coordination  of  the  cation  and  anion.
+Representative  Na+  cation  solvate  species  (solvent-separated  ion pairs, contact ion pairs and aggregated cation-anion pairs) in  dilute and concentrated electrolytes can be seen in Figure 2e.
+FULL PAPER Figure  3.  a)  Ionic  conductivity  of  aqueous  1,  4  and  8  M  NaClO4  solutions,  and  the  9.2  m  NaOTF  “water-in-salt”  electrolyte  at  20  °C;  b)  Cyclic  voltammograms of Na2VTi(PO4)3/C symmetric cells (scan rate of 0.5 mV s-1 between 0 and 1.5V) employing the various aqueous electrolytes.
+the towards indicating in  spite  of the  NVTP/C  electrodes, The ionic conductivity of the investigated electrolytes at 20 °C is  shown in Figure 3a.
+The 4 M NaClO4 solution shows the highest  ionic conductivity.
+A higher concentration of NaClO4 leads to  decreased  ionic  conductivity  due  to  increased  cation-anion  aggregation and viscosity.
+In order to investigate the reactivity of  the  electrolytes  the  electrochemical behavior of symmetric NVTP/C cells employing  the  various  electrolyte  was  evaluated  via  cyclic  voltammetry  (Figure  3b).
+All  cells  exhibit  a  current  peak  at  ~1.2  V  corresponding  to  the  potential  difference  between  the  V3+/V4+  and  Ti4+/Ti3+  redox  couples  in  NVTP/C.
+The  peak  intensities  decrease  with  the  increasing  concentrations  of  NaClO4  salt,  however,  the  lowest  peak  separation  is  observed  with  the  8  M  NaClO4  electrolyte,  lower  conductivity, the increased ion aggregation facilitates the charge  transfer at the electrode surface.
+The  effect  of  the  electrolyte  on  the  performance  of  NVTP/C  symmetric  cells  was  further  studied  with  galvanostatic  cycling  tests  (Figure  4).
+It  should  be  noted  that  the  influence  of  the  current  collector  (carbon  paper  or  stainless  steel)  was  also  studied  because  of  the  only  few  studies  available  (see  Figure  S4 in Supporting Information).
+Since hydrogen evolution and  poor  performance  were  observed  with  carbon  paper,  all  experiments  were  carried  out  using  stainless  steel  current  collectors.
+However, during the first  discharge a much lower capacity is detected, resulting in a low  initial coulombic efficiency, in accordance with other studies on  aqueous  Li and  Na-ion  batteries.
+However,  at  increased  current  densities  of  20  C,  the  4  M  NaClO4  electrolyte  delivers  higher  reversible  capacities  due  to  its  higher  ionic  conductivity.
+Most  importantly,  however,  when  using  the  9.2  m  NaOTF  “water-insalt”  electrolyte  a  superior  electrochemical  performance  is  observed.
+This is, e.g., evidenced by the high reversible capacity  at  0.2  C  (45.0  mAh  g−1)  and  20  C  (24.8  mAh  g−1).
+This  latter  value  is  rather  surprising  being  the  highest  among  all  aqueous electrolytes despite the lowest ionic conductivity of the “water-insalt” electrolyte (see Figure 3a).
+More details regarding the longterm  cycling  performance  and  rate  capability  of  NVTP/C  cells  using  1,  4,  and  8  M  NaClO4  as  well  as  the  “water-in-salt”  electrolytes are given in Figure 5. Figure  4.  The  galvanostatic  charge-discharge  profiles  of  Na2VTi(PO4)3/C  symmetric full cells at various C-rates using stainless steel as current collector  in aqueous NaClO4 electrolytes (1 M, 4 M, 8 M) and 9.2 m NaOTF “water-insalt” electrolyte.
+However, at low rate (from 0.2 C to 2 C), improved  performance is obtained with increasing NaClO4 concentrations.
+Again,  it  needs  to  be  highlighted  that  the  symmetric  NVTP/C  cells  exhibited  outstanding  electrochemical  performance  at  low M)  electrolyte  solutions.
+Electrical  contact  loss  between  electrode  particles,  hydrogen  evolution  and  related  material  degradation  are  most  probably  the  origin  for  the  rather  low  electrochemical  performance  of  NVTP/C  cells  employing  1  M  NaClO4  as  the  electrolyte.
+[34,43]  Figure  5c  shows  the  long-term  cycling  of  NVTP/C  symmetric  full  cells  in  various  aqueous  electrolytes at 20 C together while their capacity retention during  cycling  is  shown  in  Figure  5d.
+All  NVTP/C  electrodes  show  extremely stable cycling behavior and no or negligible capacity  fading  for  1000  cycles.
+However,  a  superior  performance  is Figure 5. a) Rate capability measurements, b) corresponding coulombic efficiencies; c, d) Long-term cycling at 20 C and corresponding capacity retention of  Na2VTi(PO4)3/C symmetric full cells in various aqueous electrolytes, but also high current densities with the concentrated 8 M NaClO4  and  “water-in-salt”  electrolytes.
+These  results  suggest  that  the  interfacial  stability  and  charge  the  electrode electrolyte interface are enhanced by the high salt concentration  in the electrolyte.
+Lower coulombic efficiencies (see Figure  5b)  and higher capacity fading are observed in the dilute (1 M and 4 transfer  at observed only for those cells employing either the 8 M NaClO4  or  the  9.2  m  NaOTF  “water-in-salt”  electrolyte.
+The  stable  cycling performance of these cells is confirmed via the very good  overlap of voltage profiles, recorded during 1st, 500th and 1000th  cycle at 20 C (Figure S5 in Supporting Information).
+The samples were sealed in glass tubes with argon as protective gas.
+Electrochemical  characterization:  The  ionic  conductivity  of  the  aqueous  electrolytes  was  measured  in  sealed  glass  conductivity  cells  (AMEL  192/K1) equipped with two porous platinum electrodes (cell constant of  (1.0  ±  0.1  cm)  using  an  AMEL  160  conductivity  meter.
+N-methyl-2-pyrrolidone (anhydrous, Sigma-Aldrich) was used as solvent  for the slurries.
+After drying, electrodes with a diameter of 12 mm were  punched  and  further  dried  at  120  °C  under  high  vacuum.
+The  average  active material mass loading was ~10 mg cm-2. The cells using the nonaqueous  electrolyte  were  assembled  in  an  argon-filled  glove  box  with  H2O  and  O2  contents  lower  than  0.1  ppm.
+Sodium  half-cells  were  assembled using glass  fibre discs (GF/D, Whatman) as separators, 1M  NaPF6 (Alfa Aesar, 99%) in propylene carbonate/ethylene carbonate (1:1,  v/v)  (BASF,  Battery  Grade)  as  electrolyte  and  sodium  metal  (99.8%,  Acros Organics) as counter and reference electrodes.

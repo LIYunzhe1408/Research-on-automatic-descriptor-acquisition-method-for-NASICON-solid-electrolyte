@@ -1,0 +1,744 @@
+Lithium titanium  phosphate (LiTi2(PO4)3)  has  been  successfully synthesized  by  a  polyvinyl  alcohol  (PVA)  assisted  sol–gel  method.  To  further improve its electrochemical properties, a ball milling process with various amount of acetylene  black  (AB)  has  been  used  to  form  LiTi2(PO4)3-AB  nanocomposites  (the weight  ratio  of  acetylene  black  is  5  wt.%,  10  wt.%,  15  wt.%  and  20  wt.%).  The samples are characterized by X-ray diffraction (XRD), scanning electron microscopy (SEM),  and  transmission  electron  microscopy  (TEM).  Electrochemical  performance of the samples is characterized by the charge–discharge test, cyclic voltammetry (CV), electrochemical impedance spectroscopic studies (EIS), and galvanostatic intermittent titration  technique  (GITT).  The  results  show  that  the  ball  milling  process  enables LiTi2(PO4)3  nanoparticles  to  network  with  conductive  acetylene  black,  which  offers better electrochemical  performance. Especially,  LiTi2(PO4)3-AB nanocomposite  with 15 wt.% acetylene black shows the best electrochemical properties, which delivers the highest  specific  capacity  and the  best  cycle  performance.  Besides, the thermodynamics properties of as-prepared samples are also been studied. 
+
+The Na+ superionic conductor (NASICON) materials are good ionic conductors when serving as solid-state electrolytes. The Nasicon-type lithium titanium phosphate (LiTi2(PO4)3)  has  attracted  a  significant  interest  for  applications  in  all-solid-state rechargeable  lithium-ion  batteries  as  solid  lithium  ion  electrolytes  [1,2].  Meantime, LiTi2(PO4)3  can  also  be  used  as  lithium-storage  materials  in  rechargeable  lithium batteries,  based  on  their  structural  characteristics.  LiTi2(PO4)3  has  a  rhombohedral (space  group:  R3c)  structure  with  an  open  three-dimensional  framework  of  TiO6 octahedra sharing all corners with PO4 tetrahedra and vice versa. The interstitials and conduction  channels  are  generated  along  the  c-axis  direction,  in  which  Li+  ions occupy  the  interstitial  sites.  Consequently,  the  Li+  ions  can  move  easily  along  the conduction channels.   In the late 1980s, Delmas was the first to show the possibility of lithium insertion into  LiTi2(PO4)3 [3-7]. LiTi2(PO4)3 may  reversibly  insert  two  lithium  ions,  operating on  the  Ti4+/Ti3+  at  2.48  V  vs  Li+  /Li,  according  to  a  two-phase  mechanism  between LiTi2(PO4)3  and  Li3Ti2(PO4)3  [3,8,9].  LiTi2(PO4)3  is  an  interesting  cathode  electrode material  for  2.5-2.6  V  polymer  lithium  batteries  containing  Li  at  the  negative electrode  [3],  and  it  is  also  a  promising  anode  electrode  material  in  aqueous 
+
+rechargeable lithium  batteries [8-10]. However, the disadvantages, including the low 
+
+intrinsic electronic conductivity of these 3-D phosphates [11-13], prevent LiTi2(PO4)3 
+
+from being widely used in large-scale applications. In addition, the most common and 
+
+traditional  method  to  prepare  LiTi2(PO4)3  is  the  solid-state  reaction  synthesis.  This 
+
+approach, nevertheless, suffers from the problems of complicated producing processes 
+
+including  grinding, ball  milling, and subsequent  heat  treatment  generally  at  1000 °C 
+
+until  the  crystalline  LiTi2(PO4)3  formed  [9,10,14],  which  inevitably  induces  high 
+
+energy consumption and large particle sizes of the product. 
+
+It  has  been  demonstrated  by  many  researchers  that  nanostructuring  the  active 
+
+material  and 
+
+the  conductive  agent 
+
+is  a  promising  strategy  for  fabricating 
+
+high-performance  electrode  materials  [15-17].  Hybrid  electrodes  composed  of 
+
+LiFePO4  and  nano-graphite  platelet  (NGP)  exhibited  excellent  electrochemical 
+
+properties, which was due to NGP framework afforded easy electron transport and  a 
+
+high  degree  of  stability  [15].  It  was  also  found  by  Badway  et  al.  that  the  practical 
+
+electroactivity  of  electrically  insulating  iron  fluoride  was  enhanced  through  forming 
+
+carbon-metal  fluoride  nanocomposites  (CMFNCs)  by  high  energy  mechanical 
+
+ball-milling with carbon [16]. The improved electrochemical properties are attributed 
+
+to  reducing  the  solid  phase  diffusion  thickness  for  lithium  ions  and  increasing  the 
+
+overall  electronic  conductivity  for  electron  transport.  For  LiTi2(PO4)3,  Patoux  and 
+
+Masquelier  [3]  prepared  LiTi2(PO4)3/C  by  solid  state  method  and  subsequent  ball 
+
+milling with 16.67 wt. % of Super P. The cell delivered discharge capacities of ~120 
+
+and ~95 mAh g−1 at a current density of 15 mA g−1 in the voltage of 2 and 3.4 V at the 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+first  cycle  and  after  40  cycles,  respectively.  Wessells  et  al.  [18]  synthesized 
+
+LiTi2(PO4)3/C by Pechini’s method followed by 4 wt.% carbon coating and observed 
+
+an  initial  discharge  capacity  of  115  mAh  g−1  with  84  %  capacity  retention  after  100 
+
+cycles  at  1  C 
+
+rate  between  2  and  3  V.  Recently,  carbon  coated 
+
+nano-LiTi2(PO4)3  (LiTi2(PO4)3/C)  electrode  was  fabricated  by  a  Pechini  type 
+
+polymerizable  complex  decomposition  method  at  1000  °C  in  air,  high  energy  ball 
+
+milling  was  followed,  then  it  was  dispersed  in  glucose  and  heated  at  800  °C  in  Ar 
+
+atmosphere  [19].  The  as-prepared  LiTi2(PO4)3  by  2.3  wt.%  carbon  coating  delivered 
+
+an initial discharge capacity of 117 mAh g−1 at 15 mA g−1 between 2 and 3.4 V with 
+
+83 % capacity retention after 70 cycles. As mentioned above, improvement in electron 
+
+transport  is  achieved  by  carbon  coating.  However,  the  producing  process  of 
+
+LiTi2(PO4)3/C composites previously reported  is complicated. Besides, the electronic 
+
+conductivity  cannot  be  ameliorated  effectively  with  a  small  amount  of  carbon,  and 
+
+thicker  carbon  coating  leads  to  lower  reversible  capacity  is  due  to  hindered  lithium 
+
+penetration  also  the  bulk  density,  which  is  essential  for  volumetric  energy  density, 
+
+decreases with a higher amount of carbon [20]. 
+
+  Though  the  electrochemical  performance  of  previous  LiTi2(PO4)3/C  was 
+
+superior, the effect of carbon amount on cycle stability was not studied and compared 
+
+in  detail.  In  addition,  further  improvement  in  initial  discharge  capacity  and  cycle 
+
+stability  of  LiTi2(PO4)3,  including  preparation  method  and  other  modified  materials, 
+
+are  still  much  in  demand.  In  this  work,  we  are  aiming  to  seek  the  effect  of  carbon 
+
+coating  amount  on  discharge/charge  capacity  and  cycle  stability  via  an  easy  way. 
+
+LiTi2(PO4)3 was synthesized by a PVA assisted sol-gel method, then it was ball milled 
+
+with various amount of acetylene black to form LiTi2(PO4)3-AB nanocomposites. The 
+
+amount  of  acetylene  black  was  optimized  and  the  crystal  structure,  morphology, 
+
+electrochemical  performance,  kinetic  and  thermodynamics  properties  of  synthesized 
+
+nanocomposites  were  investigated  systematically.  Especially,  their  electrochemical 
+
+performance as cathode materials with our focus on the high rate utilization and cyclic 
+
+performance  at  room  temperature  in  the  range  from  1.5-3.5  V  were  compared  in 
+
+
+Certain amount of PVA was dissolved in distilled water at 90 °C to form 2 wt. % 
+
+PVA  solutions.  Then  stoichiometric  amount  of  Li2CO3,  TiO2,  and  NH4H2PO4  were 
+
+dispersed  in  the  PVA  solution under  constant  stirring  at  80  °C  to  form  an  emulsion, 
+
+and then the emulsion product was dried at 80 °C to form the precursor. The precursor 
+
+was  sintered  at  800  °C  for  12  h  under  an  argon  atmosphere  to  form  LiTi2(PO4)3 
+
+(named as LTP). The as-prepared LiTi2(PO4)3 and acetylene black (the weight ratio is 
+
+95: 5, 90:10, 85:15 or 80:20) were ball-milled in a planetary ball mill (PM 200) at 300 
+
+rpm 
+
+for  3  h 
+
+to  yield  LiTi2(PO4)3-AB  nanocomposites.  LiTi2(PO4)3-AB 
+
+nanocomposites  with  acetylene  black  5  wt.%,  10  wt.%,  15  wt.%,  and  20  wt.%  were 
+
+named as LTP/C-1, LTP/C-2, LTP/C-3 and LTP/C-4, respectively.   
+
+2.2. Structure Characterization and Electrochemical Measurements. 
+
+The  precursor  was 
+
+analyzed  by 
+
+(TG)  using 
+
+Thermogravimetric–differential  Thermal  analyzer  (Standard  Type  High  temp.  Type, 
+
+Rigaku). The tests were conducted in N2 atmosphere. 
+
+The  structures  of  synthesized  samples  were  characterized  by  X-ray  diffraction 
+
+spectroscopy  (XRD).  X-ray  powder  diffraction  data  were  obtained  using  a  Rigaku 
+
+D/MAX-2500  powder  diffractometer  with  a  graphite  monochromatic  and  Cu  Kα 
+
+radiation (λ=0.15418 nm) in the 2θ range of 10–80°. 
+
+Scanning  electron  microscope  (SEM)  images  of  the  samples  were  collected  on 
+
+the  FEG  SEM  Sirion  scanning  election  microscope,  which  was  used  to  observe  the 
+
+particle  morphology,  particle  size  and  particle  size  distribution.  The  transmission 
+
+electron  microscopy  (TEM) 
+
+images  were  collected  using  FEI  Tecnai  G20 
+
+transmission electron microscope at an acceleration voltage of 200 kV. 
+
+The  cathodes  for  lithium  cells  were  fabricated  by  mixing  the  cathode  material, 
+
+carbon black, and polyvinylidene ﬂuoride (PVDF) binder in a weight ratio of 85:10:5. 
+
+The  testing  cells  were  assembled  with  the  cathodes  thus  fabricated,  metallic  lithium 
+
+anode,  celgard  2300  film  separator  and  1M  LiPF6  in  1:1  ethylene  carbonate  (EC) 
+
+/dimethyl carbonate (DMC) electrolyte. The assembly of the testing cells was carried 
+
+out  in  an  argon-filled  glove  box,  where  water  and  oxygen  concentrations  were  kept 
+
+less  than  5  ppm.  The  discharge–charge  cycle  tests  were  run  at  different  current  of 
+
+0.1C，0.5 C, 1 C，2 C，and 5 C (140 mA g-1 was assumed to be 1 C rate) densities 
+
+between 3.5 and 1.5 V. All the tests were performed at room temperature. 
+
+Cyclic voltammetry (CV) tests and EIS experiments were performed on a Zahner 
+
+Zennium  electrochemical  workstation.  CV  tests  were  carried  out  at  a  scan  rate  of  1 
+
+mV·s-1 on the potential interval 1.5–3.5 V (vs. Li+/Li). The ac perturbation signal was 
+
+±5 mV, and the frequency range was from 100 mHz to 105 Hz. 
+
+Figure 1 shows the thermogravimetric (TG) curve of the precursor obtained over 
+
+the  temperature  range  from  room  temperature  (30  °C)  to  1000  °C.  Three  distinct 
+
+regions of weight-loss are found in the regions of 30–250, 250–360 and 360–560 °C. 
+
+The first weight-loss region,  i.e. before 250 °C is mainly  attributed to the release of 
+
+little  physical  adsorbed  water  and  the  decomposition  of  NH4H2PO4  (ca.  8.5  wt.%). 
+
+The steep weight loss (around 19.5 %), which occurs between 250 and 360 °C, arises 
+
+from  the  decomposition  of  PVA  and  H3PO4  (formed  by  the  decomposition  of 
+
+NH4H2PO4).  The  pyrolysis  reaction  of  PVA  in  this  region  contains  a  set  of  complex 
+
+reactions  including  Diels-Alder  reaction,  intramolecular  crystallization,  and  radical 
+
+reactions et al. Following that, there is a steep weight loss (around 18 %) from 360 to 
+
+560  °C,  which  is  attributed  to  the  carbonization  of  organic  residues.  With  further 
+
+heating, another slight weight loss about 1 wt% is observed, which is attributed to the 
+
+formation of LiTi2(PO4)3.   
+
+Fig.2 shows the XRD patterns of LTP, LTP/C-1, LTP/C-2, LTP/C-3, and LTP/C-4. 
+
+All  the  diffraction  peaks  of  the  samples  could  be  indexed  on  the  basis  of  a 
+
+rhombohedral  LiTi2(PO4)3  structure  with  a  space  group  of  R3c  (JCPDS:  35-0754) 
+
+without  any  detectable  impurity  phases.  Nevertheless,  no  detectable  reﬂections 
+
+corresponding  to  carbon  could  be  seen  in  the  XRD  patterns  of  LTP/C-1,  LTP/C-2, 
+
+LTP/C-3,  and  LTP/C-4  due  to  its  low  content  and  amorphous  structure.  The  most 
+
+common  and  traditional  method  to  prepare  LiTi2(PO4)3  is  the  solid-state  reaction 
+
+synthesis.  The  raw  materials  should  be  sintered  at  1000  °C  until  the  crystalline 
+
+LiTi2(PO4)3 formed. Using this PVA assisted sol-gel method, single phase LiTi2(PO4)3 
+
+can be obtained at a much lower temperature (800 °C) than classic solid-state reaction 
+
+synthesis. The polyvinyl alcohol (PVA), which is a hydrophilic polymer contributing 
+
+hydroxyl group on each of its repeating units, generally used as suspension stabilizer, 
+
+exhibits the effect of reducing particle size of the polymer by decreasing the surface 
+
+tension  and  improving  the  dispersion  of  the  reactants  during  the  polymerization 
+
+reaction [21]. In this work, PVA is used to form polymer matrix with a whole range of 
+
+homogeneously trapped reactants in gel and prolongs sedimentation reaction therefore 
+
+particles trammel in gel pores while the solvent gently evaporates. 
+
+The SEM images of  LTP, LTP/C-1, LTP/C-2, LTP/C-3, and LTP/C-4 are shown 
+
+in  Fig.3. The  LTP is  composed of irregular micrometer-sized particles.  The range of 
+
+particles size is 1-5 μm (see fig.3a). The morphology of LTP is completely destroyed 
+
+by ball-milling with  acetylene black.  LTP/C-1 includes many submicro particles due 
+
+to  the impact  of ball-milling, but  some large particles haven’t  been  crushed and still 
+
+exist (see fig.3b). This is attributed to the insufficiency of acetylene black.  LTP/C-2, 
+
+LTP/C-3, and LTP/C-4 have more even particles. These composites are composed of 
+
+submicro  particles,  and  few  submicro  particles  agglomerate  to  second  particles  (see 
+
+To  further  examine  the  effect  of  the  ball-milling  process,  the  LTP  and  LTP/C-3 
+
+were observed using a transmission electron microscope. The LTP particles appear to 
+
+be  micrometer-sized  and  isolate  from  each  other  as  shown  in  Fig.4a.  The  HRTEM 
+
+image of LTP is presented in Fig.4b. It can be indicated that the lattice-fringe distance 
+
+is  about  0.36  nm,  corresponding  to  the  (113)  d-space  of  rhombohedral  LiTi2(PO4)3 
+
+(JCPDS:  35-0754),  which  is  consistent  with  the  XRD  results.  It  can  be  seen  that 
+
+particle sizes have been effectively decreased after ball-milling with acetylene black. 
+
+The  particle  size  of  LTP/C-3  is  50-100  nm  (see  Fig.4c).  TEM  image  of  LTP/C-3 
+
+clearly  indicates  that  the  particles  are  of  nanostructured  sizes,  which  are  closely 
+
+interwoven  with  each  other  across  the  full  field  of  view.  The  HRTEM  image  of 
+
+LTP/C-3  provides  further  insight  into  LiTi2(PO4)3  particles  and  acetylene  black(see 
+
+Fig.4d).  The  LiTi2(PO4)3  particles  are  distinguishable  from  the  acetylene  black. 
+
+Smaller  particles  will  induce  shorter  diffusion  distance  of  Li+  ions.  Moreover,  the 
+
+acetylene  black  particles  contribute  to  the  form  of  network,  which  can  interconnect 
+
+the isolated particles, so that the electrons can be readily transmitted to the sites where 
+
+redox  reactions  take  place.  For  these  reason,  LTP/C-3  has  large  charge-discharge 
+
+capacity and rate capability as it will be shown and discussed in the following section. 
+
+Initial  discharge/charge  curves  of  LTP,  LTP/C-1,  LTP/C-2,  LTP/C-3,  and 
+
+LTP/C-4 at 0.5 C are illustrated in Fig. 5 a. The shapes of these curves are similar. All 
+
+samples show the discharge plateau at about 2.4 V and corresponding charge plateau 
+
+at about 2.5 V, indicating the two-phase reaction of the LiTi2(PO4)3 and Li3Ti2(PO4)3 
+
+system. The initial discharge capacity of LTP is 90.3 mAh g-1. The discharge capacity 
+
+increases obviously after ball-milling with acetylene black. Initial discharge capacities 
+
+of LTP/C-1, LTP/C-2, LTP/C-3, and LTP/C-4 are 109.4, 112.2, 112.8, and 108.0 mAh 
+
+g-1,  respectively.  The  discharge  capacity  as  a  function  of  cycle  number  of  LTP, 
+
+LTP/C-1, LTP/C-2, LTP/C-3, and LTP/C-4 at 0.5 C is shown in Fig.5b. The discharge 
+
+capacity of LTP decreased acutely with subsequent cycles, the discharge capacity only 
+
+remains  at  46.7  mAh  g-1  after  100  cycles.  The  cycling  performance  improved 
+
+remarkably  after  ball-milling  with  acetylene  black.  The  discharge  capacities  of 
+
+LTP/C-1, LTP/C-2, LTP/C-3, and LTP/C-4 remain at 63.2, 80.9, 90.5, and 85.7 mAh 
+
+g-1  after  100  cycles,  respectively.  Though  the  cycling  performance  of  LTP/C-1  is 
+
+much better than LTP, the capacity fading of LTP/C-1 is quicker than other ball-milled 
+
+composites. This is due to the amount of acetylene black in the LTP/C-1 is insufficient. 
+
+LTP/C-3  shows  the  highest  specific  capacity  and  the  best  cycle  performance,  so  the 
+
+optimal amount of acetylene black is 15 wt. %.   
+
+Fig. 6 compares the rate capabilities (at 0.1 C to 5 C rates) of LTP and LTP/C-3. 
+
+Fig.6a  and  b  illustrate  the  initial  discharge/charge  curves  of  the  LTP  and  LTP/C-3, 
+
+respectively,  as  a  function  of  rate  ranging  from  0.1  to  5  C.  The  charge–discharge 
+
+profiles  of  both  samples  appear  with  the  typical  voltage  plateau  attributed  to  the 
+
+two-phase reaction of the LiTi2(PO4)3 and Li3Ti2(PO4)3 system. At a slow rate (0.1 C), 
+
+the discharge curves are characterized by a plateau at 2.4 V, which corresponds to the 
+
+reaction  LiTi2(PO4)3+2Li++2e-→  Li3Ti2(PO4)3.  At  0.1  C,  the  discharge  capacities  of 
+
+LTP and  LTP/C-3 are 106.6 and 129.4 mAh g-1,  respectively.  LTP/C-3 shows higher 
+
+capacity  than  LTP.  It  is  clear  that,  as  the  current  density  increases,  the  specific 
+
+capacity  decreases,  while 
+
+the  charge/discharge  polarization  becomes  more 
+
+pronounced.  However,  the  LTP  delivers  much  lower  capacities  at  high  current 
+
+densities than LTP/C-3; e.g., 64.5 and 87.5 mAh g-1 at 5 C (700 mA g-1) are obtained 
+
+for LTP and LTP/C-3, corresponding to 60.5 % and 67.6 % of their capacities at 0.1 C 
+
+(14 mA g-1) as summarized in Fig. 6c, respectively. The high rate (or fast) charge and 
+
+discharge capability of  LTP/C-3 can be  greatly improved because of the  reformative 
+
+kinetics provided by electronically conducting carbon network existed in LTP/C-3. 
+
+To further show the advantage of LTP/C-3, a comparison of cycle performance at 
+
+different C rates between samples LTP and LTP/C-3 was performed and shown in Fig. 
+
+7. The LTP/C-3 shows much better cyclic performance than LTP (see Fig. 7a and b). 
+
+The discharge capacities of  LTP after 100 cycles at  0.1, 1.0, 2.0, and 5.0 C are only 
+
+68.8, 48.6, 38.7, and 24.2 mAh g-1, respectively. However, the discharge capacities of 
+
+LTP/C-3 after 100 cycles at 0.1, 1.0, 2.0, and 5.0 C remain as 106.4, 86.5, 79.9, and 
+
+65.6  mAh  g-1,  respectively.  The  capacity  retentions  of  LTP/C-3  after  100  cycles  are 
+
+much larger than those of LTP at different C rates (See Fig. 7c). There is an obvious 
+
+capacity  fading  after  the  first  cycle  for  both  samples.  The  capacity  retentions  of 
+
+LTP/C-3  after  100  cycles  are  83%,  86.2%,  88.2%,  84.8%  at  0.1,  1.0,  2.0,  and  5.0  C 
+
+(calculated  based  on  the  second  specific  discharge  capacity),  respectively.  The 
+
+capacity retentions of LTP after 100 cycles are only 74.7%, 68.6%, 61.6%, 44.3% at 
+
+0.1, 1.0, 2.0, and 5.0 C (calculated based on the second specific discharge capacity), 
+
+respectively. The data demonstrate the excellent capacity retention of the LTP/C-3 at 
+
+different C rates. Moreover, the capacity fading becomes acutely with the increase of 
+
+current  density  for  LTP,  indicating  poor  rate  capability.  This  trend  becomes 
+
+indistinctively for LTP/C-3. LTP/C-3 has much better rate capability than LTP can be 
+
+deduced. The improved rate performance and cycle stability mainly attributes to three 
+
+possibilities:  (i)  Size  reduction  of  particle  and  a  narrow  size  distribution  results  in 
+
+enhancement  on  ion  transport by  ball milling,  the  chemical  diffusion  coefficient  of 
+
+lithium in cathode is improved [22, 23]. (ii) The AB particles contribute to the form of 
+
+network,  which  can  interconnect  the  isolated  particles,  so  that  the  electrons  can  be 
+
+readily  transmitted  to  the  sites  where  redox  reactions  take  place  to  keep  the  charge 
+
+balance. Thereby, the electronic conductivity increase and cell polarization reduce [15, 
+
+20,  24,  25].  (iii)  Carbon  coating  layer  protects  the  LiTi2(PO4)3  active  material  from 
+
+contacting  with  electrolyte  directly,  thus  restraints  the  partial  dissolution  of  the 
+
+cathodes as a result of traces of HF in the LiPF6 electrolyte [24]. It is interesting that 
+
+capacity  fading  is  somewhat  more  pronounced  for  LTP/C-3  at  the  lower  rates.  The 
+
+increased capacity fading at  low rates is  a common observation in  cathode materials 
+
+with  nanostructure  and  probably  results  from  a  combination  of  increased  reactivity 
+
+towards  the  electrolyte  and  prolonged  contact  between  the  active  material  and 
+
+electrolyte [26]. In any case, the LTP/C-3 exhibits a good electrochemical response in 
+
+terms of both capacity and cycling properties over a wide range of rate capabilities. It 
+
+has been demonstrated that both the lithium ion conduction and electronic conduction 
+
+play a critical role in controlling the electrochemical properties of electrode materials. 
+
+LTP/C-3 has much smaller particles than  LTP, and a smaller lithium diffusion length 
+
+in the sample will lead to better electrochemical properties. Besides, in LTP/C-3, the 
+
+uniformly  distributed  carbon  particles  formed  a  network  of  electrically  conductive 
+
+paths among the LiTi2(PO4)3 particles, so the active LiTi2(PO4)3 material can be fully 
+
+utilized for lithium extraction and insertion reactions. 
+
+Fig. 8 compares the cyclic voltammograms of LTP and LTP/C-3. A pair of redox 
+
+peaks is observed for both samples. The peak observed in the cathodic sweep and the 
+
+peak observed in the anodic sweep are characteristic of the insertion and removal of 
+
+Li  into/from  the  LiTi2(PO4)3/Li3Ti2(PO4)3  structure.  The  redox  peaks  of  LTP  are 
+
+located at 2.171 and 2.889 V, while the redox peaks of LTP/C-3 are located at 2.274 
+
+and  2.786  V.  The  voltage  difference  between  the  anodic  and  the  cathodic  peaks  can 
+
+reflect  the  degree  of  polarization  of  the  electrode.  The  potential  difference  between 
+
+the anodic and cathodic peaks (ΔEp) of the LTP is found to be 0.718 V, indicating a 
+
+serious polarization behavior, which is due to the very limited electrical conductivity 
+
+of  the  LiTi2(PO4)3.  The  LTP/C-3  has  the  much  lower  value  of  ΔEp  (0.512  V) 
+
+compared with  the  LTP, showing the weak polarization and good  reversibility  of the 
+
+electrode. This is consistent with the excellent rate capability and cycle performance 
+
+of the LTP/C-3. Moreover, the CV profile of LTP/C-3 exhibits the higher peak current, 
+
+which  facilitates  the  kinetic  process  of  the  electrochemical  reactions,  indicative  of  a 
+
+higher  specific  capacity.  In  a  word,  as  compared  with  the  LTP,  LTP/C-3  has  more 
+
+intense  anodic  and  cathodic  peaks,  less  polarization  (lower  ΔEp),  indicating  an 
+
+improved specific capacity, cycle performance, and rate capability. 
+
+The Nyquist plots of the LTP and LTP/C-3 are illustrated in Fig. 9a. An intercept 
+
+at  the  Z  axis  in  high  frequency  corresponded  to  the  ohmic  resistance  (R),  which 
+
+represents  the  resistance  of  the  electrolyte  and  electrode  material.  The  semicircle  in 
+
+the middle frequency range indicates the charge transfer resistance (Rct). The inclined 
+
+line in the low frequency represents the Warburg impedance (Ws), which is associated 
+
+with the diffusion of lithium ions in the solid matrix. A simplified equivalent circuit 
+
+model (Fig. 9b) was constructed to analyze the impedance spectra. A constant phase 
+
+element  CPE  is  placed  to  represent  the  double  layer  capacitance  and  passive  film 
+
+capacitance.  The  parameters  of  the  equivalent  circuit  are  recorded  in  Table  1.  It  is 
+
+clear that the R of LTP/C-3 is 1.358 Ω, which is smaller than that of LTP. The Rct of 
+
+LTP/C-3  is  139  Ω,  which  is  much  smaller  than  that  of  LTP.  Therefore,  it  can  be 
+
+assumed that the electrochemical impedance of LTP/C-3 is smaller than that of LTP. 
+
+The  LTP/C-3  shows  much  better  charge-discharge  properties  than  LTP  can  be 
+
+Galvanostatic  intermittent  titration  technique  (GITT)  is  a  powerful  tool  which 
+
+can  be  employed  to  determine  a  number  of  important  kinetic  and  thermodynamic 
+
+informations  in  mixed  conductors  [27].  GITT  technique  was  firstly  developed  by 
+
+Weppner  and  Huggins  to  determine  the  diffusion  coefficient  of  Li-ions  (DLi)  in 
+
+electrode  active  materials  in  Li3Sb,  which  combines  transient  and  steady-state 
+
+measurements  [27].  GITT  measurements  were  performed  on  the  second  cycle  to 
+
+determine  the  diffusion  coefficient  of  Li-ions  (DLi)  in  electrode  active  materials  at 
+
+25 °C. Fig. 10a and b shows the discharge/charge GITT curves of LTP and LTP/C-3 
+
+electrodes  as  a  function  of  time  in  the  potential  range  of  1.5−3.5  V.  The  cell  was 
+
+discharged with a constant current flux of 0.1 C for an interval of 10 min followed by 
+
+an  open  circuit  standing  for  40  min,  allowing  the  cell  voltage  to  relax  to  its 
+
+steady-state  value  (Es).  The  cell  voltage  can  be  stabilized  to  a  value  after  40  min 
+
+open-circuit stand after  each  current flux.  Fig. 10c simply illustrates a single step of 
+
+GITT.  Fig.  10d  shows  an  example  of  an  E  vs.  τ1/2  plot  recorded  for  LTP/C-3  after 
+
+application of 0.1 C current pulse. It can be seen that in the time domain from 10 to 
+
+100 s, the plot is roughly linear. While the value shows an exponential saturation after 
+
+400  s.  This  is  reasonable  for  the  two-phase  reaction  that  the  voltage  should  be 
+
+constant after short time current polarization. In the literatures using GITT techniques 
+
+[27,  28],  the  time  range  of  10-100  s  is  identical.  The  slope  is  taken  from  this  linear 
+
+range to  calculate  DLi. Assuming that lithium  transport in  the electrode obeys Fick’s 
+
+second  law,  the  chemical  diffusion  coefficients  can  be  obtained  by  the  following 
+
+equation [27]: 
+
+where DLi (cm2 s-1) is the chemical diffusion coefficient, Vm is the molar volume 
+
+of LiTi2(PO4)3 (131 cm3 mol−1), F is the Faraday constant (96485 C mol−1), I0 (A) is 
+
+the  applied  current,  S  (cm2)  is  the  total  contact  area  between  the  electrolyte  and 
+
+electrodes,  Zi  is  the  number  of  charge  transfer,  and  L  (cm)  is  the  diffusion  length. 
+
+Based  on  Equation  1,  the  diffusion  coefficients  Li+  ions  calculated  from  the  GITT 
+
+curves as a function of potential are presented in Fig. 10 e. The size of the data points 
+
+are within the error limit of estimation. It is found that the values of DLi of LTP are in 
+
+the range from 8.46×10-14 to 2.15×10-9 cm2 s−1, while LTP/C-3 are in the range from 
+
+5.59×10-13  to  1.92×10-8  cm2  s−1  for  Li+  ions  intercalation.  The  DLi  of  LTP/C-3  is 
+
+7.15×10-10  cm2  s−1  at  open-circuit  voltage  (3.08  V  vs  Li+/Li)  and  it  increases  to  a 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT22i1/24//mLoiVdEdxDISFzdEdt 
+
+maximum of 1.92×10-8 cm2 s−1 at 2.59 V, which is higher than that of LTP at the same 
+
+discharge  state.  In  addition,  a  minimum  can  be  seen  at  the  middle  of  the  phase 
+
+transition range for the two samples, implying the same Li+ intercalation process. The 
+
+lithium-ion diffusion coefficient of LTP/C-3 is much larger than that of LTP. This is 
+
+may  be  due  to  effect  by  the  ball-milling  with  AB,  which  induces  the  reduction  of 
+
+particle  size  and  the  increase  of  conductivity  by  forming  uniform  electrically 
+
+conductive  carbon  network.  The  interstitials  and  conducting  channels  in  the 
+
+NASICON  structure  could  accelerate  Li+  diffusion,  thus,  induce  a  high  lithium 
+
+diffusion coefficient. 
+
+Fig. 11 a shows the coulometric titration curves of Li/ Li1+δTi2(PO4)3 electrodes. 
+
+The steady-state open-circuit cell voltages are plotted as a function of the composition, 
+
+which  was  electrochemically  changed  in  situ  from  pure  LiTi2(PO4)3  to  lithium-rich 
+
+composition  with  a  ratio  of  about  2,  corresponding  to  the  composition  within  the 
+
+trilithium compound (Li3Ti2(PO4)3). This voltage is then used to calculate the standard 
+
+free  energy  change  accompanying  the  cell  reaction.  Emphasis  was  given  to  the 
+
+measurement  of  the  thermodynamic  properties  of  the  phases  Li1+δTi2(PO4)3  as  a 
+
+function  of  their  composition.  The  current  density  was  0.1  C  and  the  equilibrium 
+
+voltage was taken after each relaxation process under the condition  △U < 0.5 mV for 
+
+a period of time of 300 s. It is clearly founded that two single phase regions separated 
+
+by  constant-voltage  regions  of  two-phase  mixtures  can  be  clearly  identified  in  both 
+
+samples. In the discharge process, the reaction of LiTi2(PO4)3 cathode electrode is as 
+
+Gibbs free energy of formation for Li1+δTi2(PO4)3,  Gi (Li1+δTi2(PO4)3), can be 
+
+evaluated as a function of composition by integration of the titration curve according 
+
+to the following expression [28]: 
+
+Simultaneously,  the  chemical  potential  of  Lithium  ion  in  Li1+δTi2(PO4)3  can  also 
+
+been obtained by equation: 
+
+While
+
+is  the  chemical  potential  of  pure  Lithium, 
+
+is  the  chemical 
+
+potential  of  Lithium  ion  in  Li1+δTi2(PO4)3, 
+
+is  the  steady-state  open-circuit  cell 
+
+voltage (OCV) at different amount of Lithium ion insertion, and 
+
+is the activity 
+
+of  Lithium  ion  in  Li1+δTi2(PO4)3.  Fig.  11  b  shows  the  standard  Gibbs  free  energy  of 
+
+formation  Li1+δTi2(PO4)3  as  a  function  of  the  composition  at  25  °C  evaluated  by 
+
+integration of the coulometric titration curve according to equation (4). The standard 
+
+Gibbs  free  energy 
+
+  varies  almost  linearly  with  the  stoichiometric  parameter
+
+The detailed thermodynamic data are listed in table 2 and 3. In the two-phase regions 
+
+  is,  of  course,  a  linear  function  of  the  mole  fraction  of  lithium,  as 
+
+expected. It is seen that the values are negative over the entire range of composition, 
+
+with  a  minimum  (-350.3  kJ  mol-1)  at  approximately  the  nominal  composition  of  the 
+
+phase  Li3Ti2(PO4)3  for  LTP/C-3,  with  the  maximum  amount  of  lithium  ion  insertion 
+
+  is  1.82.  However,  for  LTP,  the  minimum  value  is  -263.9  kJ  mol-1  when  the 
+
+maximum 
+
+  is  1.37.  Moreover,  the  chemical  potential  of  Lithium  ion 
+
+Li1+δTi2(PO4)3 of LTP/C-3 (-166.5 kJ mol-1) is higher than that of pure LTP (-170.9 kJ 
+
+mol-1)  when  reach  the  full  discharge,  indicating  that  the  activity  of  Li+  in  LTP/C-3 
+
+nanocomposite  overtop  pure  LTP.  Therefore,  it  is  easier  for  lithium  ion  intercalating 
+
+into the electrode in LTP/C-3 compound, thus achieve higher discharge capacity.   
+
+LiTi2(PO4)3-AB  nanocomposites  were  synthesized  by  a  PVA  assisted  sol–gel 
+
+route  followed  by  ball-milling  with  acetylene  black.  It  is  found  that  both  of  the 
+
+capacity  and  cycling  stability  have  been  promoted  notably  by  ball-milling  with 
+
+acetylene  black.  The  electrochemical  test  results  show  that  the  LiTi2(PO4)3-AB 
+
+nanocomposite  with  15  wt%  acetylene  black  exhibits  excellent  electrochemical 
+
+performance  with  the  maximum  discharge  capacity  of  129.4,  106.4,  95.6  and  87.5 
+
+mAh·g-1  at  rates  of  0.1  C,  1  C,  2  C  and  5  C  in  the  voltage  range  of  1.5–3.5  V  vs. 
+
+Li/Li+. Meanwhile, it has excellent cycle performance. The carbon coating to suppress 
+
+the  capacity  fade  observed  in  the  uncoated  cells  by  increasing  the  electronic 
+
+conductivity  and  reducing  cell  polarization,  thus  preventing  the  evolution  of  oxygen 
+
+from  the  cathodes.  CV  measurements  indicate  that  the  improvement  of  dynamic 
+
+behavior 
+
+for  LiTi2(PO4)3-AB  nanocomposite.  EIS 
+
+results 
+
+show 
+
+that 
+
+the 
+
+electrochemical resistance of LiTi2(PO4)3-AB nanocomposite is much smaller than the 
+
+bare material. GITT tests reveal the Li+ ions diffusion coefficient of  LiTi2(PO4)3-AB 
+
+nanocomposite  electrode  during  lithiation  process  is  enhanced,  with  a  maximum  of 
+
+1.92 × 10-8  cm2  s−1.  Simultaneously,  the  standard  Gibbs  free  energy 
+
+LiTi2(PO4)3-AB  is  -350.3  kJ  mol-1,  which  is  smaller  than  that  of  pure  LiTi2(PO4)3 
+
+(-263.9  kJ  mol-1).  All  experimental  phenomenons  indicate  that  the  improved 
+
+properties are attributed to the carbon coating. Smaller particles size, shorter diffusion 
+
+distance,  better  conductivity,  and  faster  kinetics  give  rise  to  the  outstanding 
+
+electrochemical performance of LiTi2(PO4)3-AB nanocomposites.   
+
+Acknowledgements 
+
+This study was financially supported by  the Doctoral Fund of Ministry of Education 
+
+of China (grant no. 20114301120007), China Postdoctoral Science Foundation (grant 
+
+no. 20100480954), the Hunan Provincial Natural Science Foundation of China (grant 
+
+no.  11JJ4038),  and  Scientific  Research  Fund  of  Xiangtan  University  (grant  no. 

@@ -1,0 +1,47 @@
+The La1/3Zr2(PO4)3 NASICON-type compound (S.G.P¯3 - neutron and X-ray diffraction experiments) is investigated by transmissionelectron microscopy (TEM) technique, selected area electron diffraction (SAED) and high-resolution electron microscopy (HREM), inorder to study locally the lanthanum distribution.
+An irreversible structural transformation  is observed,without modification of the atomic content and cell size, as soon as the phase is illuminated by the electron beam.
+The progressivedisappearance of the spots which do not check the R conditions on the SAED patterns is clearly shown along two zone axis, [001] and[100].
+This transformation implies the displacement of the two La3+ cations in a preserved classical [Zr2(PO4)3] network.
+Thisinteresting behavior is in good agreement with the La3+ ionic conductivity observed in La1/3Zr2(PO4)3 .
+Toour knowledge, this is the first time that a complete TEM study is done on a NASICON-type phase.
+
+The structure obtained by powder diffraction studycan then be considered as an average structure.
+In order toconfirm the local lanthanum distribution, we have undertakena complete TEM study, selected area electrondiffraction (SAED) and high-resolution electron microscopy(HREM), on La1/3Zr2(PO4)3 which has revealed aninteresting behavior.
+Oddly, to our knowledge, this is thefirst time that a NASICON-type compound is studied byTEM technique.
+The TEM studies, SAED and HREM, are carried outwith a JEOL 2010 electron microscope operating at 200 kVand equipped with a side entry 7301 double-tilt specimenholder.
+EDX analysis is done on crystallites with a KEVEXenergy-dispersive X-ray spectrometer coupled with theTEM.
+
+
+A carefulexamination of the patterns during illumination reveals anevolution of the spots intensity.
+In such conditions,additional reconstitutions are tested with less irradiation of the specimen and reveal a transformation of the SAED patterns duringobservation.
+Unfortunately, despite our efforts and the lowintensity of the electron beam, this transformation is toofast to allow us to do a reconstitution of the reciprocalspace of the P¯3 form: we just succeeded in making severalpatterns on different particles during the transformation(Figs.
+2 and 3).
+On Fig.2, corresponding to the [001] zoneaxis (ZA), we can see a progressive disappearance of thespots which do not check the R conditions while the intensity of the others seems unmodified.
+As anexample, the white arrows allow to see the transformationof an h k l spot forbidden in an R mode: its intensity isstrongly affected during the four steps presented.
+Similarly,the transformation can be followed along the [100] ZA onFig.3, where three successive steps are proposed.
+
+
+It can be evidenced by digitalizing together thetwo patterns 3a and 3c: the result obtained (Fig.3a+c) isin excellent correlation with the intermediate situation of Fig.3b, leading to a particular extinction condition alongthe c* axis (shown by the circles).
+During the transformation, the cell size remains unchangedsince the reciprocal space reconstitutions of thefinal form give a NASICON-type cell and the spotscorresponding to an R mode can be perfectly superposed.
+This implies then the preservation of the [Zr2(PO4)3]network.
+It can be noted that such a process seems to beirreversible: a crystallite exposed and showing an R modedoes not reveal an inverse transformation even after 1week.
+Moreover, this transformation occurs withoutmodification of the atomic content: an EDX analysisperformed at the beginning and at the end of the observation confirms the presence of O, La, Zr and P withpreserved ratios.
+
+Although these groups are never used until now todescribe NASICON-type compounds, this situation is notsurprising since all the atomic coordinates can be easilytransposed from the usual R¯3 space group to P¯3c1.
+However, this first form observed in the TEM study ofLa1/3Zr2(PO4)3 is then not the original form (P¯3), whichcarries us to believe that this compound transforms as soonas it is illuminated by the electron beam.
+In such conditions, TEM observations imply La3+ displacementsin a preserved network obtained by a small and concertedmotion of all the others atoms (Zr, P and O).
+
+As an example, we can consider the Zr1positions of the Table 2. With the same formalism, it is possible to deduce all thepositional parameters of a complete hypothetical R¯3 modelgiven in Table 3, with the corresponding main interatomicdistances.
+These values are in agreement with those usuallyencountered, leading to correct bond valence sums for allthe atoms, except for the La3+ cations which are located intoo large cages.
+As noticed above, a similar situation isobserved for La3+ cations in La1/3Ti2(PO4)3 .
+
+The local ordering of La3+ andvacancies in the selected cells of the Fig.
+5b is drawnbelow in the case of the domains hypothesis.
+During the TEM study (diffraction and high resolution)of the La1/3Zr2(PO4)3 NASICON-type compound of whichthe structure was determined by neutron and X-ray powderdiffraction experiments, we have evidenced an irreversiblestructural change induced by the electron beam energywithout modification of atomic content and cell size.
+Thistransformation is followed on SAED patterns along [001]and [100] ZA and reveals a rapid disappearance of the hklspots forbidden in an R mode, while no information on theoriginal mother form P¯3 can be obtained because thecrystallite structure changes as soon as it is illuminated.
+
+HREM image confirms the R¯3 calculated [Zr2(PO4)3]network and excludes a statistic repartition of the twoLa3+ ions over the 3a and 3b available sites.
+The ability ofLa3+ ions to move is in good agreement with the ionicconductivity  observed forLa1/3Zr2(PO4)3.
+ Thermal X-ray diffraction experimentsshow subtle and slow modifications confirming the La3+displacements with a change of the space group from P¯3 toP¯3c1 at 1000 1C while no transition is revealed by DTAanalysis.
+All these results will be published in a next comingpaper.
+Finally, since the La3+ is the larger lanthanon ion,it would be very interesting to study the otherRE1/3Zr2(PO4)3 compounds which are also found to betrivalent cationic solid electrolytes.

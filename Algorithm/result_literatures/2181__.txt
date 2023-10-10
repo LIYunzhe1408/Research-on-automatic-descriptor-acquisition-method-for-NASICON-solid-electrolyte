@@ -1,0 +1,154 @@
+As  early  as  1976, H.  Y-P. Hong  prepared  and  analyzed the structure of NaZr2P3O12  as the end member of the series Na(1 + t)Zr2SivP(3_j:)O|2  with  x = 0.  He  showed  moreover that all the members of this series have the nasicon  structure, mainly  in  its  rhombohedral  symmetry  (s.g.  R3c)  and  for  x = 2 in the monoclinic distortion  (s.g. C2/c).  Recently, it was shown that this structure-type  is stable as well  along the join Na3Zr2_r/4Si2vPi+xO12  with  x  varying  from  0  to  1.667 (Lucco-Borlera  et al.,  1997).  This  compositional  range stretches  from  Na3Zr2Si2PO12  "classical"  nasicon  stoichiometry  toward  the composition  Na2ZrP2O8,  located inside a compositional  triangle defined  by three corners NaZr2P3O12, Na4Zr2Si3O12  and  Na4Zrj  25P3O12.  NaZr2P3O,2  can  be  considered  to be  the  archetype  of  all  nasicon  structures.  It  was obtained  by  Hong  (1976)  through  solid-state  reaction  at 1200°  of  mixtures of  Na2CO3,  ZrO2  and NH4H2PO4 in stoichiometric  amounts  and  was  characterized  in  the  space group  R3c  from  single  crystal  XRD  measurements.  The same composition, although with a slightly  deviating stoichiometry,  was re-examined  later by other  authors  (Kohler  and Schulz,  1986; Hazen  et al.,  1987) by means of  single  crystal XRD,  but  the  powder  diffraction  data  are  still  unreported. The  K-analogue  KZr2P3O12  was  prepared  and  characterized in the same space group as the Na compound based on single crystal  diffraction  data  by  Sljukic  et al.  (1969)  and  by  powder  diffraction.  These  latter  data  were  collected  as PDF-350756  (McClune,  1985).
+
+No  systematic  investigation  has  been  carried  out  in  the past on  solids originating  by partial  or complete  substitution of  arsenic  for  phosphorus  in  the  above  P containing  compositions. Elbrahimi et al. (1990) prepared and characterized by single crystal XRD the composition  KZr2As30i2 in the space group  R3c  and  with  nasicon  structure,  however  the  XRD powder  patterns  were  not  measured  or  reported.  Berardelli et al.  route KZr2AS[ 5Pj 5O12 whose  XRD  powder  intensities  were  later collected  as  PDF-37-0298  (McClune,  1985).  The  patterns
+
+The  present  study  completes  the  X-ray  characterization of the three new monophasic  solids and reconsiders the other three  already  known  compositions.  Their  stoichiometry  can be expressed by comprehensive  notation  MeZr2As(3_^)Pj.Ol2 where  Me  stands  for  Na+  or  K+  and x  equals  to 0;  1.5  and 3. These As-containing  nasicon  structures  are of relevant  interest  in  the  field  of  solid  electrolytes.  Indeed  for  its  greater size,  the  substitution  of  As  for  P  strongly  affects  the  co  unit cell  parameter,  as  will  be  discussed  later,  a  fact  that  was related  to  an  increased  Na+  mobility  in  the  framework  of such  structures  (Kohler  et al.,  1983).
+
+EXPERIMENTAL
+
+For the  sake of  clarity, the  six examined  stoichiometries to  the  following
+
+labeled  according 
+
+will  be  hereinafter  scheme:
+
+BUT  FLOW («m>V)
+
+Figure  1.  Simultaneous  DTA  and TGA  analyses  on  sample  A.
+
+Powder  Diffraction  13 (4), December  1998
+
+TABLE  I.  X-ray  powder  diffraction  of  NaZr2As3O12.  Sample  A:  a0 = 9.155  A;  co = 23.1O2 A,  space  group R3c  Z=6.
+
+TABLE  II.  X-ray  powder  diffraction  of  NaZr2As! 5P] 5O12.  Sample  B:  a0 = 8.960 A;  co = 22.949 A  space  group «32  Z = 6.
+
+Of these six compositions, A, B and E were prepared by us by  a wet  chemical  route, thus  obtaining  monophasic  and stoichiometric  solids,  by  the  procedure  briefly  described  in the  following.
+
+Solution I
+
+Stoichiometric  quantities  of  NaN03  (BDH  chemicals: purity> 99.5%),  KN03  (Merck:  purity  >99.6%)  and  zirco(Ventron: nium  ZrO2=45.68%)  were  dissolved  in  a  small  amount  of  a mixture  of  water  and  nitric  acid  (5:1)  stirring  carefully  until  a clear  phase was  obtained.
+
+oxide  ZrO(NC>3)2xH2O 
+
+dinitrate 
+
+Solution II
+
+Suitable  portions  of 
+
+(Merck:  purity >99.5%)  and  of  (NH4)2HAs04 (Carlo  Erba  purity>99%)
+
+were  dissolved  in  a proper  mixture  of  water and  nitric  acid with  stirring  to solution  I (5:1)  which was  poured  into  the obtain  a  good  distribution  of  the In  this  way  a reactants. dense  precipitate  forms  that  was dried first at  105 °C  (under stirring)  and  then  gradually  heated  in  air up to 400 °C, thus removing  excess  water,  ammonia  and  most  of  the  gaseous products formed  by the decomposition  of nitrates, so obtaining  a white crispy  powder.
+
+Examination  by  XRD  proved  that  these  products  were amorphous. Each  sample was submitted  to simultaneous  differential  thermal  analysis  (DTA)  and  thermogravimetric analysis  (TGA) in order to detect the crystallization  temperatures. DTA-TGA  on sample A showed reaction at 400 °C, as shown  in  Fig.  1.  The  first  two  weight  losses  around 300 °C and 400 °C, respectively, are probably due to the loss of  residual  chemical  bound  water  and  nitrogen  oxides  and are  accompanied  by two exotherms  on  the DTA  signal. The third  exotherm  around  690 °C  (with  no  weight  variations  at all)  is  due  to  the  crystallization  of  the  amorphous  xerogel mass.  Samples B and E showed  similar DTA-TGA  patterns. All  the  samples  were  therefore  crystallized  in  air  at  800 °C
+
+Powder  Diffr., Vol. 13, No. 4,  December  1998
+
+TABLE  III.  Calculated  X-ray  powder  diffraction  data  of  NaZr2P3O12 Sample C: ao = 8.815  A; co = 22.746 A space  group R3c Z = 6.
+
+TABLE  IV.  Calculated  X-ray  powder  diffraction  data  of  KZr2As3O12 Sample D: ao = 9.028  A; co = 24.399 A space  group R3c Z = 6.
+
+for 30 minutes. Sample E required an additional treatment at 1000 °C  for  30  minutes.  It  has to  be  noted  that  this low crystallization  temperature  assures  that  no  stoichiometric variation  by  sublimation  of  As2O3  occurs,  a  fact  that  frequently  can take place  during  solid  state  preparation.
+
+XRD data collection and patterns calculation
+
+The measured  X-ray  powder patterns for the samples A, B and E were  recorded  at room  temperature  (20 °C)  with a Philips PW1710 Diffractometer  (graphite monochromator on the  diffracted  beam,  sample  spinner,  40 kV, 25 mA, 10 to 70° 20-range, 0.02°  20-step and 5 sec counting  time,  silicon as external  standard). The powders  were  ground  in an agate mortar to 5-10 fxm grain  size. On the basis of the resolved peak  positions of the patterns, the unit  cell  parameters  were refined,  applying a zero correction; the calculated  peak positions of all the reflections  do not differ  more  than  0.06° 26 from  the observed  ones.
+
+The  calculated  patterns  for the samples  C and D  were obtained  using  the XRD123  program  set (Mazza,  1996)  according to the following  scheme:
+
+Half  Width  at Half  Maximum 2#-range Peak  shape Gaussian  component Cu/fa, CuKa2 axla2
+
+0.16° 26 10 to 70° 20 Pseudo  Voigt  symmetric 100 (20=0°)  to 0% (20=180°) 1.5406 A 1.5444 A o
+
+Atomic  coordinates  and thermal  factors  were  obtained from  the original  structure  refinement,  scattering  factors (for neutral  atoms)  were  taken  from  the International  Tables of Crystallography  (1962),  Lorentz  and  polarization  factors were  used  in  the  form  of  (1 +cos 2 20)/(4-sin2  0-cos 6). Both  calculated  and measured  XRD  patterns  were  analyzed in the same way by the XRD123 programs  (Mazza,  1996). In Tables  I-V  are  reported,  for  all  the  peaks,  the  resulting heights  (intensity  value  at maximum)  and 26 positions (referred  to a]  component).
+
+RESULTS AND DISCUSSION
+
+The  hexagonal  nasicon  structure  was  proven  for  the compounds A, B and E (Tables I, II, III); no lines were found
+
+Powder  Diffr.,  Vol. 13, No. 4, December 1998
+
+Powder diffraction  study of arsenic-substituted  nasicon structures 
+
+TABLE  V.  X-ray  powder  diffraction  of  KZr2As, 5P, 5O12.  Sample  E:  a0 = 8.848 A; co = 24.221 A space  group  R32Z=6.
+
+TABLE  VI.  Calculated  and  observed  co/ao  values  for  the  different  structures.
+
+Sample
+
+Difference
+
+Calculated
+
+Observed
+
+suggesting  a  monoclinic  distortion.  For  sample  A  the  R3c space  group  was confirmed,  while  in  sample  B and E, some very  weak  lines  are  conflicting  with  R3c  extinction  rules. These  violations  could  be  due  to  As  and  P  ordering  and  to the  contemporary  lowering  of  the  symmetry  of  the  space group, which  could  turn  to  R32.
+
+relationship 
+
+The  newly  assessed  unit  cell  parameters  together  with the reconsideration  of those already measured  for samples C, D  (Tables IV, V) and F allowed  us to establish an empirical linear  series MeZr2As3-jPrO12)  between  the  co/ao  ratio  of  the  cell,  the ionic radius of the alkaline element and that of the element in tetrahedral  coordination.  This  linear  relationship  can  be  expressed  in  the  form:
+
+samples  of 
+
+the 
+
+the 
+
+where  r  (As,P)  stands  for  the  P,  As  or  1/2  (P+As)  ionic radius  in  tetrahedral  coordination  and  r  (Me)  for  the  ionic radius  of  alcaline  ion  in  sixfold  coordination  (Shannon  and Prewitt,  1969). The values of calculated  and observed  co/ao are  reported  in  Table  VI.  The  standard  error  between  the
+
+Figure  2.  c0 la0  ratio versus  ionic radii difference  for  the  alkaline-tetrahedral  ions for  the  series  MeZr2As3_TPxO|2  (•)  and for  the compositions  LiTi2P3Oi2 (PDF-35-754,  1984), LiGe2P3O,2  (Alami  et  al.,  1991), NaTi2P3O12  (Rodrigo  et  al.,  1989), KTi2P3O12 (Lunezheva  et  al.,  1989).
+
+Powder  Diffr.,  Vol. 13, No. 4,  December  1998
+
+predicted  and  observed  co/ao  values  is  0.014.  This  same empirical  relation  can  be used  with  satisfactory  good  agreement  also  with  other  hexagonal  nasicon  structures  whose representative  points  are  also shown  in  Fig. 2.
+
+CONCLUSIONS
+
+Three  new  mixed  oxides  having  the  nasicon  structure and  containing  arsenic  as tetrahedral  ion  were  prepared  and characterized by XRD. The low temperature synthesis avoids sublimation  of  As2O3  and/or  As2O5  and  corresponding  stoichiometry  deviations. For  two other  compositions  the powder  patterns  were  calculated  on  the  basis  of  the  structural data  from  single  crystal  determinations.  This  study  completes the characterization  of  the  solids, with  nasicon  framework, deriving  from  MeZr2P3Oi2  (Me=Na+,  K+)  by  substitution  of  As for  P.
+
+The  inclusion  of  As  ions  in  nasicon  frameworks  is  of high potential  interest, as it positively  affects  the c0  unit cell parameter,  a  fact  that  has  been  related  to  higher  ionic  conductivity. An empirical relationship between the co/ao  value and the ionic radii of Me and P, As has been proposed and it has been shown that this same relation hold as well for  other nasicon  compositions.
+
+Alami, M.,  Brochu,  R.,  Soubeyroux,  J.  L.,  Grarereau,  P., Le Hem,  G.,  and thermal  expansion  of
+
+Hagenmueller,  P.  (1991).  "Structure  and  LiGe2(PO4)3,"J.  Solid  State  Chem.  B 90,  185-193.
+
+Berardelli, M. L., Galli, P., La Ginestra, A., Massucci, M. A., and Varshney, K.  G.  (1985).  "Crystalline  zirconium  hydrogenoarsenate  hydrogenophosphate  monohydrate:  synthesis, ion-exchange  properties  and  thermal behavior,"  J. Chem.  Soc. Dalton  Trans.  1737-1742.
+
+Elbrahimi,  M.,  and  Durand,  J.  (1990).  "Structure  crystalline  de  l'arseniate double  de  potassium  et  de  zirconium  KZr2(AsO4)3,"  Z.  Anorg.  Allg. Chem.  584,  178-184.
+
+Hazen,  R.  M.,  Finger,  L.  W.,  Agrawal,  D.  K.,  McKinstry,  H.  A.,  and  Perrotta,  J.  (1987).  "High  temperature  crystal  chemistry  of  sodium  zirconium  phosphate,"  J.  Mater.  Res. 2,  329-337.
+
+Hong,  H. Y-P. (1976).  "Crystal  structures  and crystal  chemistry  in the sys-
+
+tem  N a ^ Z r j S i ^ ^ O ^ ,"  Mater.  Res. Bull.  11,  173-182.
+
+Kohler,  H.,  Schulz,  H.,  and  Melnikov,  O.  (1983).  "Composition  and  conduction  mechanism  of  the  Nasicon  structure.  X-ray  diffraction  study  on two  crystals  at  different  temperatures,"  Mater.  Res.  Bull.  18,  1143— 1152.
+
+Kohler,  H.,  and  Schulz,  H.  (1986).  "X-ray  diffraction  experiments  on sodium-zirconium-phosphates  single  crystal  at  295  K  and  at  993  K," Mater.  Res.  Bull. 21,  23-31.
+
+International  Tables of Crystallography  (1962). Vol. II (Kynoch  Press, Bir-
+
+Lucco-Borlera,  M., Mazza,  D., Negro, A., Montanaro, L., and Ronchetti, S. (1997).  "X-ray  characterization  of  the  new  nasicon  compositions Na3Zr2_ri4Si2_xPl+iO12  with  x = 0.333,  0.667,  1.000,  1.333,  1.667," Powder  Diffr.  12,  171-174.
+
+Lunezheva, E. S., Maksimov,  B. A., and Meln'ikov, O. K.  (1989).  "Crystal
+
+Structure  of  KTi2(PO4)3,"  Kristallografiya,  34,  1119-1122.
+
+Mazza,  D. (1996).  "La  Diffrazione  dei Raggi-X  dai Materiali  Policristallini
+
+McClune, W. F. (1985).  "Powder  Diffraction  File," International Centre  for
+
+Diffraction  Data,  Newtown  Square,  PA.
+
+Rodrigo,  J.  L.,  Carrasco, P., and  Alamo, J.  (1989).  "Thermal  expansion  of NaTi2(PO4)3  studied  by  Rietveld  method  from  X-ray  diffraction  data," Mater.  Res. Bull. 24, 611-618.
+
+Shannon,  R.  D., and  Prewitt,  C. T.  (1969).  "Effective  ionic  radii  in  oxides and  fluorides,"  Acta  Crystallogr.,  Sect.  B:  Struct.  Crystallogr.  Cryst. Chem.  25,  925-944.
+
+Sljukic,  M., Matkovic, B., Prodic, B., and Anderson,  D. (1969).  "The  crys-
+
+tal  structure  of  KZr2(PO4)3,"  Z.  Kristallogr.  130,  148-161.
+
+Powder  Diffr.,  Vol. 13, No. 4, December  1998
+
+Powder diffraction  study  of arsenic-substituted  nasicon structures 
+

@@ -1,0 +1,60 @@
+The Na super ionic conductor (a.k.a.Nasicon, Na1+xZr2SixP3-xO12, where 0 ≤ x ≤ 3) is one of thepromising solid electrolyte materials used in advanced molten Na-based secondary batteries thattypically operate at high temperature (over ~270 °C).
+
+Nasicon provides a 3D diffusion networkallowing the transport of the active Na-ion species (i.e., ionic conductor) while blocking theconduction of electrons (i.e.
+
+, electronic insulator) between the anode and cathode compartmentsof cells.
+
+In this work, the standard Nasicon (Na3Zr2Si2PO12, bare sample) and 10 at% Na-excessNasicon (Na3.3Zr2Si2PO12, Na-excess sample) solid electrolytes were synthesized using a solidstate sintering technique to elucidate the Na diffusion mechanism (i.e., grain diffusion or grainboundary diffusion) and the impacts of adding excess Na at relatively low and high temperatures.
+
+The structural, thermal, and ionic transport characterizations were conducted using variousexperimental tools including X-ray diffraction (XRD), differential scanning calorimetry (DSC),scanning electron microscopy (SEM), and electrochemical impedance spectroscopy (EIS).
+
+Inaddition, an ab initio atomistic modeling study was carried out to computationally examine thedetailed microstructures of Nasicon materials, as well as to support the experimentalobservations.
+
+Through this combination work comprised of experimental and computationalinvestigations, we show that the predominant mechanisms of Na-ion transport in the Nasiconstructure are the grain boundary and the grain diffusion at low and high temperatures,respectively.
+
+Also, it was found that adding 10 at% excess Na could give rise to a substantialincrease in the total conductivity (e.g., ~1.2×10-1 S/cm at 300 °C) of Nasicon electrolytesresulted from the enlargement of the bottleneck areas in the Na diffusion channels ofpolycrystalline grains.
+
+Molten sodium (Na)-based batteries (molten Na batteries) implementing Na-S or Na-metalhalide (i.e., Na-NiCl2 or Na-FeCl2) chemistries are considered as one of the most attractivesecondary cells for advanced grid-scale energy storage systems (ESS) because of their highenergy density, long discharge time, long cell life, low manufacturing cost, and superior capacityretention capabilities.
+
+For facile transport of Na ions between anode and cathode, the moltenNa batteries are typically operated at relatively high temperatures (over ~300 °C and ~270 °C forNa-S and Na-metal halide chemistries, respectively).
+
+The anodic and cathodic electrodes in thesecells are physically and electronically separated by a thin ceramic solid electrolyte that enablesionic diffusion and migration upon charge/discharge.
+
+For a deeper penetration to the applicationof molten Na batteries, developing superior solid electrolyte materials that exhibit high Na ionconductivities (σion) is indispensable.
+
+ Figure 1 provides an example of molten Na battery crosssection structure containing a thin solid electrolyte disk.
+
+The Nasicon (Na1+xZr2SixP3-xO12, where0 ≤ x ≤ 3, Na super ionic conductor) ceramic compounds are one of the candidate solidelectrolyte materials for these molten Na secondary cells, featured by their 3D network channelscomprised of (Si/P)O4 tetrahedra that share the pocket corners with ZrO6 octahedra for Na iondiffusion, which can potentially present a high ionic conductivity.
+
+ The synthesis procedure ofNasicon compounds could be relatively simpler compared with other types of solid electrolytesuch as β/β”-Al2O3.The Nasicon compounds can form either a rhombohedral (R3 c) or a monoclinic (C2/c)crystallographic structure depending on its compositions and ambient temperatures.
+
+Most of theprior studies have focused on the Nasicon materials with the composition range of 1.8 < x < 2.4(x in the Na1+xZr2SixP3-xO12 stoichiometry), as the Na3Zr2Si2PO12 (Na1+xZr2SixP3-xO12, wherex=2) structure has shown the highest ionic conductivity (σion).
+
+ With increasing temperature,the stable monoclinic phase of standard Nasicon (i.e., Na3Zr2Si2PO12 stoichiometry) at roomtemperature transforms to the rhombohedral phase at ~150 ° C.
+
+ With the standardNa3Zr2Si2PO12 stoichiometry, there are four Na sites in 1 formula unit of both monoclinic andrhombohedral crystals.
+
+The four Na sites are composed of one Na1 and three Na2 sites in therhombohedral crystal, and these three Na2 sites in rhombohedral structure are further split intoone Na2 and two Na3 sites in the monoclinic crystal.
+
+Out of these four available Na sites, threeNa sites are in principle occupied (i.e., 75% Na site occupancy) in the standard Na3Zr2Si2PO12stoichiometry.
+
+To develop Nasicon electrolytes with enhanced σion, most of the previous studies have beendedicated to test the effects of doping on the octahedral/tetrahedral site or adopting new sinteringprocesses such as spark plasma sintering (SPS).
+
+ It has been reported that certain elementssuch as Nb, Ta, and V can lower Ea, and some dopants such as Y and Al can reduce the porosityof sintered body.
+
+In contrast to the previous works, to improve σion of the Nasicon solidelectrolytes, we present a study to explore the impacts of adding excess Na (i.e., higher Na siteoccupancy than 75%) to the standard Nasicon compounds combining solid-state synthesis,structural and electrochemical characterizations, and in silico density-functional theory (DFT)computations.
+
+In the structural point of view, it is speculated that adding excess Na could giverise to a counter effect; increasing the absolute concentration of Na-ions and decreasing thevacant Na sites in the Nasicon structure, thereby increasing and decreasing the resultant σion ofelectrolytes, respectively; σion of Nasicon electrolytes containing excess-Na will be influenced bythese complicated factors, absolute amounts of Na ions, available hopping sties, and the mobilityof effective Na ions.
+
+In conjunction with the effects of adding excess Na to the standard Nasiconcompound to increase σion, we attempted to reveal the predominant Na-ion transport mechanisms(i.e., intergranular or transgranular diffusion) at relatively low and high temperatures in thepolycrystalline Nasicon, as these diffusion mechanisms have not been clearly understoodpreviously.
+
+The knowledge on the excess-Na effects and the diffusion mechanism of Na ionsobtained in this work will provide useful insights for developing advanced Nasicon solidelectrolytes for molten Na battery applications.
+
+In the present work, we studied the impacts of adding excess Na to the standard Nasicon ionicconductor structure along with the Na ion transport mechanisms.
+
+The bare and Na-excessNasicon electrolyte samples were fabricated using a simple solid-state processing route.
+
+Aftersample fabrication, the structural and the Na ion transport properties have been systematicallyexamined using various characterization tools including XRD, DSC, SEM, and EIS.
+
+Thefollowing lists the important findings attained through the current study.
+

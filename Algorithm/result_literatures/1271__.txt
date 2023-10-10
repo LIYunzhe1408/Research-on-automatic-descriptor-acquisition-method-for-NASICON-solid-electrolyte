@@ -1,0 +1,89 @@
+Nasicon-type solid electrolyte Li1.3Al0.1Zn0.1 Ti1.8P3O12 was prepared by citric acid-assisted acrylamide polymerisation gel method. X-ray diffraction pattern showed that the introduction of Zn2+ in the parent matrix Li1+xAlxTi2−xP3O12 made it easier to get high-purity rhombohedral structure (space group R3C ) Li1.3Al0.1Zn0.1 Ti1.8P3O12 without the evidence of impurity secondary phase. The Li+ kinetics were investigated by complex impedance in bulk pellet and ionic conductivity in battery-type composite cathode, respectively. Grain-interior resistance measured by galvanostatic intermittent titration technique, potential step chronoamperometry, and AC impedance spec−1, troscopy at 20 °C varies in the range 1.2–1.95×10 which is in good agreement with that obtained by complex impedance method 1.5×10
+
+NASICON-type materials LM2(PO4)3 (L0alkali metal ions like Li, Na, K; M0Ge, Ti, Sn, Hf, Zr) are of increasing interest because of their high ionic conductivity and potential applications as solid electrolytes in all-solid-state lithium
+
+battery, fuel cells, sensors, etc. The typical structure of these compounds is rhombohedral (space group R3C ), which offers an open unit cell supporting L cation hopping in the channel connected by interstitial M1 sites and M2 sites based on the M2(PO4)3 framework where two MO6 octahedra and three PO4 tetrahedra share oxygen atoms [1].
+
+For the last 20 years, great efforts have been made for maximizing the Li+ conductivity of LM2(PO4)3 system, especially LiTi2(PO4)3. A number of attempts have been reported in the literature. The partial substitution of Ti4+ by trivalent elements and P5+ by tetravalent elements are proved to be effective ways. For example, Li1+xAlxTi2−x(PO4)3 (x00.3– 0.4) and Li1+x+yAlxTi2−xSiyP3−yO12 (x 00.3 and y 00.2) −5 at room showed ionic conductivity as high as 10 temperature [2, 3]. Usually, the ionic conductivity of the solid electrolyte was determined by means of fitting the experimental data obtained by complex impedance analysis with a specific equivalent circuit model. An ideal complex impedance plot shall present a semi-circle at high-frequency region, representative of grain-interior resistance, a larger semi-circle at midfrequency region, representative of grain-boundary resistance, and an oblique line characteristic of ion blocking effect at electrolyte/electrode interface. However, it is not possible to distinguish between the grain-boundary resistance and graininterior resistance in all instances. Therefore, in many cases, only total ionic conductivity σt are given. Grain-interior resistance is usually considered to be less affected. However, grainboundary resistance is supposed to be highly sensitive to the grain size, calcinating temperature, pressing pressure, synthesizing method, electrode sputtering conditions [3, 4], and even other unexpected operating conditions. Therefore, significant differences in overall ionic conductivities are often reported in the literatures [3] in view of the grain-boundary resistance dominating the electric property. Hence, a suitable method for
+
+the determination of reliable grain-boundary resistance and grain-interior resistance is highly desirable.
+
+In this paper, Nasicon-type solid electrolyte Li1.3Al0.1Zn0.1 Ti1.8P3O12 was synthesized by means of citric acid-assisted acrylamide gel method. We also compared the ionic conductivity of this solid electrolyte determined by complex impedance method and derived from diffusion coefficient obtained by galvanostatic intermittent titration technique (GITT), electrochemical impedance spectroscopy (EIS), and potential step chronoamperometry (PSC) method.
+
+Reagent-grade Ti(OC4H9)4 (AR), LiNO3·H2O (AR), Al (NO3)3·9H2O(AR),Zn(NO3)2·9H2O (AR), and NH4H2PO4 (AR) were used as starting materials. They were accurately weighted at the same molar ration as the components of Li1.3Al0.1Zn0.1Ti1.8P3O12. Citric solution (50 wt% , M-citric acid/M-Ti4+02:1) was dipped into Ti(OC4H9)4 under strong stirring at 60 °C until the previously formed white precipitation disappeared. Then the solution was mixed with desired amount of LiNO3·H2O, Al(NO3)3·9H2O, Zn(NO3)2·9H2O, and NH4H2PO4 in 50 wt% citric solution (M-citric acid/(M-Al3 ++M-Li++M-Zn2+01:1)). Then acrylamide (6 g/100 mL) and N,N′-methylene-bis-acrylamide (1 g/100 mL) were dissolved in the solution. The system was heated to 85 °C and a few milligrams of α, α′-azoisobutyronitrile in acetone was introduced. Once the initiator was added, a transparent hydrogel formed instantly and the polymer precursor containing lithium, aluminum, zinc, and titanium cations were trapped homogeneously and simultaneously throughout the polymer matrix. Figure 1 showed the detailed synthesizing procedure of Li1.3Al0.1Zn0.1Ti1.8P3O12 solid electrolyte. The hydrogel was dried overnight at 160 °C followed by grinding in the pestle for 30 min, calcinating at 500 °C for 5 h in order to ensure total decomposition of reagents, and finally sintering at 900 °C for 2 h. After cooling to room temperature, the mixture was again ground for 20 min in an agate mortar and made into pellets of 15-mm diameter and 1.2–1.5-mm thickness by cold pressing (200 MPa). These pellets were further calcinated at 950 °C in air for 6 h.
+
+For single-phase lithium-containing materials, the ionic conductivity is given by the equation: σ ¼ ZLi ð1Þ where z is the valence of Li+ ion, q is the elementary charge −16C), N is the concentration of Li+ ions per cubic (1.6×1.9
+
+centimeter and μLi is the electrical mobility of Li+ ions. Accordingly, the lithium ion conductivity depends on the concentration of mobile ions and its mobility [5]. The Nerst–Einstein equation gives the relationship between the component diffusion coefficient D and mobility of lithium at temperature T. jqD μ ¼ ZLi kT
+
+Substitution of Eq. 2 into Eq. 1 gives the relationship
+
+X-ray powder diffraction patterns were recorded at room temperature with a Bruker D8 Advance diffractometer operated at 36 kV and 20 mA using Cu Kα1 radiation. The patterns were obtained with a 0.02 step size and step scan time 0.50 s in the range 15–90°. As to electric measurements for bulk pellets, silver paint was applied to both surfaces of polished pellets. AC electrical measurements were carried out by sandwiching pellets between two silver electrodes. The complex impedance measurements were then performed on a Bio-logic vmp3 Multichannel potentiostats/ galvanostats over the frequency range 1–1.0×105 Hz at decreasing temperatures from 473 to 323 K. For the determination of Li+ diffusion coefficients, coin-type cell CR2012 consisting of a metallic lithium foil anode separated by Celgard 2300 polypropylene membrane was fabricated in a glove box filled with high pure argon. The cathode was prepared from a paste by mixing the as-synthesized sample, the conductive acetylene black and the polyvinylidene fluoride binder with a mass ratio of 4:1:1 in NMP solvent. The paste was coated on the aluminum foil and then dried at 120 °C for 10 h under vacuum before the cell was assembled. The electrolyte was 1 M LiPF6 dissolved in the mixture of EC and DMC (V/V01:1) solution. All the cells were aged for 24 h before the electrochemical testing. For GITT measurement, the cells were discharged at a current of 0.15 mA for 200 s followed by the open circuit relaxation for 2 h. This procedure continued for several cycles. Prior to the GITT measurement, the cell was charged and discharged for 2 cycles to make the electrode/electrolyte interface reach the stable state. EIS was measured with a Bio-logic vmp3 Multichannel potentiostats/galvanostats in a frequency range from 1 Hz to 100 KHz with a voltage amplitude of 5 mV. PSC was also measured on a Bio-logic vmp3 Multichannel potentiostats/galvanostats by applying 30 mV potential step on the testing cell and recording the
+
+Fig. 1 Schematic presentation of the preparation procedure for Li1.3Al0.1Zn0.1Ti1.8P3O12
+
+current responses to the potential step simultaneously every 0.001 s for 500 s. GITT, PSC, and EIS measurements were taken at 20 °C, 40 °C and 60 °C, respectively.
+
+The determination of Li+ diffusion coefficient
+
+The diffusion process within the electrode is assumed to obey Fick's second law of diffusion and by solving which the chemical diffusion coefficient can be determined. For small time interval, (where L is the diffusion length for Li þ ions), after a series of approximation, the equation of DLi can be written as: DLi ¼ 4 p
+
+where Vm is the molar volume of Li1.3Al0.1Zn0.1Ti1.8P3O12; MB and mB are the molecular weight and mass of the host electrolyte, respectively; A is the total contact area between the electrolyte and the electrode. If sufficiently small currents and short time intervals are employed, the cell voltage
+
+Table 1 The chemical diffusion coefficients and conductivities of Li+ for Li1.3Al0.1Zn0.1Ti1.8P3O12 calculated from GITT at 20, 40, and 60 °C
+
+The cell voltage profile for the initial
+
+titration is shown in Fig. 2 with schematic labeling of different parameters. As shown in Fig. 2, the cell voltage decreases during the current flux and the total change of cell voltage ΔEτ can be obtained by subtracting the IR drop. After the current is interrupted at τ, the cell is allowed to relax to its new steady-state potential ES, from which the change in the steady-state voltage ES ¼ ES   E0 j over the galvanostatic titration can be the chemical obtained [5, 6]. Based on the Eq. 5, diffusion coefficients of Li+ for Li1.3Al0.1Zn0.1Ti1.8P3O12 calculated from GITT at 20, 40, and 60 °C were listed in Table 1.
+
+As can be seen from Table 1, the Li+-ion conductivities of Li1.3Al0.1Zn0.1Ti1.8P3O12 composite electrode increase from −1 at 20 °C to 5.3×10 −1 at 60 °C 1.39×10 with an activation energy of 27.1 kJ·mol
+
+Fig. 4 Z′ against w 1=2 in Warburg region
+
+line with a slope of approximate 45°, arises from the solid-state diffusion of Li+ in the intercalation compound. Therefore, according to the Warburg coefficient obtained from the Warburg region of the impedance spectrum, lithium ion diffusion coefficient DLiþ can be calculated as follows [7]: DLi ¼ 1 2
+
+Figure 3 shows the Nyquist plots of the impedance spectra at open circuit voltage level 3.0215 V for Li1.3Al0.1Zn0.1Ti1.8P3O12 at 20, 40, and 60 °C, respectively. The highfrequency contribution, a slightly distorted semi-circle, is normally considered as contributed from the combination of the Li+ ion diffusion through the surface film, charge transfer through the electrode–electrolyte interface. Lowfrequency contribution or Warburg contribution, a straight
+
+where Vm is the molar volume and F the Faraday's constant. σ, the Warburg coefficient, is obtained from the slope of fitted straight line by plotting Z′ or −Z″ against w 1=2 shown in Fig. 4. The values of dEdx are determined from the galvanostatic titration curve. Figure 5 shows the open circuit voltage and its first derivative at x00 against the Li+ intercalation level x in Li1.3Al0.1Zn0.1Ti1.8P3O12 cathode. According to Eq. 6, the chemical diffusion coefficients of Li+ for Li1.3Al0.1Zn0.1Ti1.8P3O12 calculated from EIS at 20, 40, and 60 °C were listed in Table 2.
+
+Fig. 3 Nyquist plot of the impedance spectra at open circuit condition
+
+Fig. 5 The open-circuit voltage and its first derivative against the Li+ intercalation level x in Li1.3+xAl0.1Zn0.1Ti1.8P3O12
+
+Table 2 The chemical diffusion coefficients and conductivities of Li+ for Li1.3Al0.1Zn0.1Ti1.8P3O12 calculated from EIS at 20, 40, and 60 °C
+
+the Li +-ion conductivities of Li1.3Al0.1Zn0.1Ti1.8P3O12 composite electrode increase from −1 at 60 °C with −1 at 20 °C to 3.6×10 −4Scm 1.2×10 −1. an activation energy of 22.3 kJmol
+
+The response to a potential step in the case of solid electrolyte Li1.3Al0.1Zn0.1Ti1.8P3O12 composite electrode is shown in the Fig. 6. It attenuates quickly in the initial 10 s, then decreases gradually and finally infinitely approaches the steady current. In order to analyze these data, we use the equation derived by MacArthur [8] for the determination of diffusion coefficient.
+
+where ng is the number of positive charges of the diffusion species, A the area of the electrode, D the diffusion coefficient, h the diffusion length and, t the time from the start of the diffusion process. Equation 7 can be applied to data obtained for long time periods, i.e. 200–500 s. We plot lni þ values from the slope accordagainst t, and obtain the DLi ing to Eq. 8.
+
+Fig. 6 Current response to a potential step in the case of voltage level 3.0125 V
+
+Fig. 7 The relationships between lni and t longer than 200 s at all tested voltage levels
+
+The relationships between lni and t longer than 200 s at all tested temperatures are demonstrated in Fig. 7. Pretty good linear relationships are shown in the figure. The Li+ diffusion coefficients for Li1.3Al0.1Zn0.1Ti1.8P3O12 composite electrode are included in Table 3. They increase from −1 at 60 °C 1.95×10 −1. Figure 8 shows the with an activation energy of 14.7 kJmol Arrhenius plots for ionic conductivities of Li1.3Al0.1Zn0.1Ti1.8P3O12 obtained by GITT, PSC, and EIS methods at different temperatures. The Ea values calculated are presented in Tables 1, 2, and 3.
+
+The Li+ conductivity of Li1.3Al0.1Zn0.1Ti1.8P3O12 solid electrolyte
+
+Figure 9 showed the X-ray diffraction patterns of solid electrolyte Li1.3Al0.1Zn0.1Ti1.8P3O12 heat-treated at 900 °C for 2 h in air. All the diffraction positions can be indexed to the rhombohedral structure (space group R3C) without the evidence of impurity secondary phase. This also suggests the full substitution of Ti4+ by Zn2+ and Al3+. Fu [9] and Birke et al. [10] have reported that impurity AlPO4 phase was usually inevitable in all their that products. Lakshmi Vijayan [3] also pointed out trace amount of TiP2O7 was always identified at low 2θ range up to 29 °C due to Li loss at high calcinating
+
+Table 3 The chemical diffusion coefficients and conductivities of Li+ for Li1.3Al0.1Zn0.1Ti1.8P3O12 calculated from PSC at 20, 40, and 60 °C
+
+Fig. 8 The Arrhenius plots for ionic conductivities of Li1.3Al0.1Zn0.1Ti1.8P3O12 by GITT, PSC, and EIS methods
+
+temperature. Here, the partial substitution of Ti4+ by Zn2+ seems to stabilize the Nasicon structure.
+
+Impedance plot of Li1.3Al0.1Zn0.1Ti1.8P3O12 measured in air at room temperature was shown in Fig. 10. The magnified part at high frequency was shown in the upper-right inset and the equivalent circuit was shown in the bottomright inset. The appearance of the tail at low frequencies in the case of ionic blocking electrodes was an indication that the investigated material is ion conducting in nature. The impedance plot could be well resolved into grain-interior, grain-boundary, and electrode resistances. The experimental data were fitted with an equivalent circuit consisting of (R1C1)(R2CPE2)CPE3 using the Z-view program. At high frequencies, the first semicircle was due to a parallel combination of the grain-interior resistance (R1) and graininterior capacitance (C1). And then, the second obvious semicircle appeared, which was due to a parallel combination of the grain-boundary resistance (R2) and the constant phase element (CPE2). At low frequencies, there was a straight line representing the blocking Ag/electrolyte boundaries, i.e., the constant phase element (CPE3). The grain-
+
+Fig. 10 Impedance plot of Li1.3Al0.1Zn0.1Ti1.8P3O12 measured in air at room temperature. The magnified part at high frequency was shown in upper-left inset and the equivalent circuit was shown in bottom-right inset
+
+interior conductivity σb, the grain-boundary conductivity σgb, and the total Li+ conductivity σt were calculated to be −1, repectively. Ob1.5×10 viously, the grain-boundary resistance dominated the electric property and it comprised more than 94 % of the total resistance. The value of grain-interior conductivity σb derived here was in good agreement with that calculated from Li+ diffusivity by Eq. 3, which was in the magnitude of 1.2– −1. This was a clear evidence that the ionic 1.95×10 conductivity originating from battery-type measurements was the reflection of ionic transportations inside the crystal grain. The Arrhenius plot for the total electrical conductivity σt was illustrated in Fig. 11. The activation energy obtained −1 and was close to that obtained from bulk was 25.7 kJ·mol pellets conductivities, which was in the magnitude of 14.7– 27.1 kJmol
+
+Fig. 9 the X-ray diffraction patterns of solid electrolyte Li1.3Al0.1Zn0.1Ti1.8P3O12 heat treated at 900 °C for 2 h in air
+
+Fig. 11 The Arrhenius plot for the total electrical conductivity of Li1.3Al0.1Zn0.1Ti1.8P3O12
+
+The introduction of Zn2+ in the parent matrix Li1 +xAlxTi2−xP3O12 makes it easier to get high-purity r h o m b o h e d r a l s t r u c t u r e ( s p a c e g r o u p R3C ) Li1.3Al0.1Zn0.1Ti1.8P3O12 without the evidence of impurity secondary phase. It is not possible to distinguish between the grainboundary resistance and grain-interior resistance in all instances. Therefore, it is an effective way to obtain intragranular resistance by GITT, PSC, and EIS methods for those solid electrolytes that can be applied both as ion conductor and lithium storage material. Graininterior resistance measured by GITT, PSC, and EIS at −1, which 20 °C varies in the range 1.2–1.95×10 is in good agreement with that obtained by complex impedance method for bulk pellets 1.5×10
+
+Acknowledgment We gratefully acknowledge the support for this work from 973 fundamental research program from the Ministry of Science and Technology of China (grant number 2010CB635116), NSFC project 21173190, Educational Commission of Zhejiang Province (grant number Y201017390), Ningbo Science and Technology Bureau Project 2011A610086, and K.C. Wong Magna Fund in Ningbo University.

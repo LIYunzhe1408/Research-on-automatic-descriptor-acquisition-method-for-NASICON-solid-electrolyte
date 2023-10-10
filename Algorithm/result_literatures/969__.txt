@@ -1,0 +1,80 @@
+Recently, the attention on sodium-ion batteries has been refocused for the application oflarge-scale energy storage, due to sodium’s low cost and infinite abundance.
+
+Sodium is one of themost abundant elements on Earth and exhibits the chemical properties similar to lithium.
+
+Owing tothe superior sodium storage capability especially for excellent safety and stability, Ti-basedcompounds have been extensively investigated as both cathode and anode materials.
+
+Herein weoutline the current cathodes and anodes, and emphasize the critical roles of titanium in developingadvanced electrodes for sodium-ion batteries.
+
+The latest advances and progresses in the explorationof Ti-based compounds with various different frameworks such as NASICON, tunnel, MXene,spinel, and layered structures are systematically reviewed.
+
+The straight-forward link ofstructure-function-property relationships for Ti-based compounds, especially for layeredNa/Ti-containing oxides, are summarized and analyzed.
+
+Titanium element plays a critical role in bothpositive and negative electrodes, i.e., supplying the charge transfer and high safety for anodes andgreatly enhancing the structural and cycling stability for cathodes, respectively.
+
+Based on thebi-functional roles of titanium, a new concept of symmetric Na-ion cells employing layeredNa/Ti-containing oxides as bipolar electrodes is proposed and realized.
+
+The symmetric Na-ion cellsalready offered a high voltage and withstood longtime charge-discharge processes, demonstrating thepracticality beyond the proof of concept.
+
+The participation of titanium in sodium-based electrodematerials will greatly promote the development of room-temperature sodium-ion batteries towardsstationary energy storage.
+
+To smoothly integrate the renewable energy to the smart grid, the energy storage device is a keyto modulating variable renewable resources for large scale application.
+
+There are various potentialtechnologies, wherein electrical energy storage (EES) or stationary batteries can efficiently store andrelease electricity in chemicals according to demand, thus are regarded as a smart choice.
+
+Forlarge-scale energy storage, low cost, long life, and high safety of stationary batteries are the criticalfactors, definitely differing from those of power batteries.
+
+Therefore, it is extremely important tosearch for abundant, nontoxic, and durable batteries to smooth out the intermittency of renewableenergy production.
+
+Although lithium-ion batteries have dominated the portable electronic devices and are beingregarded as a possible solution to the electrical grid concerns,4however, the increasing lithiumdemand in mobile electronic equipment, hybrid electrical vehicles (HEVs), and electrical vehicles(EV) will ultimately push up the price of lithium compounds, thereby leading to the prohibitivelyexpensive large-scale storage.
+
+It is well known that lithium is a non-abundant element, limited to beonly 0.065% in the Earth’s crust (Figure 1a), and unevenly distributed (mainly in South America).
+
+Incontrast to lithium, sodium is one of the most abundant elements in the Earth’s crust (Figure 1a);meanwhile, the infinite sodium resources are also available in the ocean.
+
+Additionally, sodium has asuitable redox potential (E(Na+/Na) = 2.71 V versus standard hydrogen electrode; only 0.3 V abovethat of lithium).
+
+Therefore, sodium-ion batteries (SIBs) with low cost and high efficiency are theideal alternative to lithium in large-scale application.
+
+Sodium-ion batteries (SIBs) have been studied in the 1970s in parallel with lithium-ion batteries(LIBs).
+
+Since the commercial success of LIBs, the related researches explosively grew whereasthe investigation of SIBs was decreased.
+
+ Recently, taking account of sodium’s superiority in thecost and abundance, the development of electrode materials and electrolyte for SIBs is beingintensively revisited towards the promising application in large-scale energy storage (Figure 1b).
+
+Room-temperature sodium-ion batteries have the ‘rocking-chair’ working principle, similar to that ofLIBs, shown in Figure 1c.
+
+It is distinctive in low maintenance cost and high energy efficiency, incontrast with various commercialized high-temperature sodium-based technologies such as Na/S andNa/NiCl2 batteries.
+
+ Besides, the feasible usage of Al current collectors in both of the electrodes willsave substantial cost and weight of the whole Na-ion cells (compared with the Cu current collector inthe anode of LIBs).
+
+In a typical structure of Na-ion full-cells, two insertion materials, positive andnegative electrodes are electrochemically separated by the electrolyte (in general, electrolyte saltsdissolved in aprotic polar solvents).
+
+Although many efforts have been made for the development ofvarious electrode materials, a number of drawbacks defer the implementation of Na-ion batteries inthe large-scale application, such as the safety, stability, and lifetime concerns.
+
+Recent studies andreports indicate that titanium-based compounds exhibit excellent sodium storage performance andhence show promise as high-performance electrodes for practical SIBs.
+
+Titanium is one of the rock-forming elements, widely distributed in the earth's crust, andtitanium-based compounds are stable, nontoxic, and inexpensive.
+
+More importantly, numeroustitanium-based materials have been known as electrochemically active host materials for Li-ioninsertion.
+
+For instance, polytype titanium dioxides, titanium trisulfide, spinel-type Li4Ti5O12,MXenes, zig-zag titanates, and NASICON (short for Na Super Ionic CONductor) typelithium-titanium phosphate have been applied in LIBs.
+
+Nevertheless, only three Ti-basedmaterials, TiS2, NaTiO2, and NASICON type NaTi2(PO4)3, were reported for the SIB electrodesbefore 2010.15, 27-29 Until recent years, an increasing number of Ti-containing SIB electrodes havebeen intensively studied,30-33 demonstrating a much broader role of titanium in SIBs than that inLIBs.
+
+For instance, it is difficult to find traces of titanium element in layered lithium containingoxides, the dominant cathode materials for LIBs; in contrast, layered Na/Ti-containing oxides aresynthetically facile and show promise for large scale electric energy storage.
+
+LayeredNa/Ti-containing oxides are extensively explored as high-performance electrodes under thefollowing considerations: 1) With respect to anode materials, titanium redox can provide a suitableinsertion potential and superior structural stability, ensuring the safety and long-term operation ofSIBs.
+
+Regarding the cathode side, titanium incorporated in layered structures plays a pivotal rolein stabilizing the two-dimension structure, adjusting the electrochemical potential, smoothing thevoltage profiles, and extending the cyclic life.
+
+Besides layered Na/Ti-containing oxides, othertitanium-based compounds also present the low-strain and high-stability characteristics as electrodematerials of SIBs, and potentially enable the low-cost and long-life room-temperature SIBs toproceed towards the large-scale energy storage.
+
+In this review, recent research progress on titanium-based electrode materials for SIBs issummarized, with the three parts including titanium-based anodes, titanium-containing cathodes, andtitanium-based bipolar electrodes.
+
+We provide the detailed and comprehensive understanding ofstructure-function-property relationship regarding the titanium-based compounds, and underline theadvantages of titanium-based compounds for sodium storage.
+
+Besides, the design strategies of thenovel electrode materials of SIBs are discussed.
+
+The model of symmetric Na-ion cells based onlayered Na/Ti-containing oxides will be the competitive and attractive battery system for thenext-generation energy storage devices.
+

@@ -1,0 +1,49 @@
+LiNi0.6Mn0.2Co0.2O2 (C622) is one of the Ni-rich layer-structured cathode materials with a high capacity,but it suffers from a poor cycling stability and rate capability.
+
+ In this study, Li1.3Al0.3Ti1.7(PO4)3 (LATP), aNASICON-type lithium-conductor, is coated on C622 by a solegel process to overcome the shortcomingsof C622. We find that a 0.5 wt% coating of LATP on C622 significantly improves the cell performanceincluding the discharge capacity, rate capability, and cycling stability.
+
+The pristine and LATP-coatedsamples were analyzed using X-ray diffraction (XRD), scanning electron microscopy (SEM), and energydispersive spectroscopy (EDS).
+
+In addition, various electrochemical analyses such as cyclic-voltammetry(CV), galvanostatic intermittent titration technique (GITT), and electrochemical impedance spectroscopy(EIS) are conducted to determine the reason for the improvement of the cell performance.
+
+The cell performance of C622 is enhanced by a coating amount of less than 1.0 wt% and the overallperformance degrades with the increase of the coating amount.
+
+The electrochemical analyses reveal thata high lithium-ion diffusion coefficient and a low interfacial resistance are the reasons for the improvedcell performance; however, our study demonstrates that an excessive coating may degrade the cellperformance, thereby acting as a barrier against the movement of lithium ions.
+
+An increasing demand for lithium rechargeable batteries withhigh energy and power capabilities has emerged as the market forthe battery type continues to expand from the mobile IT-devicemarket to other segments including vehicles such as xEVs andenergy storage systems that require large-format batteries;accordingly, electrode materials with high-energy and powerdensity attributes are required.
+
+Major attention has been directetoward LiNiO2-based or Ni-rich cathode materials [Li(NixCoyMn1-xy)O2, x > 0.5] with high contents of nickel due to the higher capacity,lower cost, and enhanced safety compared to LiCoO2 [1,2].
+
+Thesematerials are, however, beset with several shortcomings includinga poor rate capability and thermal instability, while numerousstudies have been conducted to overcome these problems [3e5].
+
+The substitution of alien elements to suppress the transformationof the crystal structure or surface modifications, so that the interfacial reaction between the electrode and electrolyte are controlledand the contact between them is minimized, can be listed as themajor initiative to alleviate the previously mentioned problems.
+
+There have been several studies on the correlation to the structureproperty relationship of layered cathode materials such as thelithium-rich or nickel-rich one [6e8].
+
+Yue et al.reported on enhancing the rate capability of C622 bysurface modification with reduced graphene oxide [9].
+
+LATP(Li1.3Al0.3Ti1.7(PO4)3) coating has been applied to LiMn2O4 and it hasproven to be effective for the improvement of the cycling stabilityat high temperatures [10].
+
+A similar approach was tried for LiCoO2and it resulted in a high discharge capacity and a sound cyclingstability due to the electrode/electrolyte interfacial resistance [11];however, there remains a dearth of the studies that have investigated the effects of the LATP coating on NMC-based cathode materials (LiNixMnyCo1-x-yO2).
+
+In this study, an LATP coating was applied on the promising Nirich layered cathode material C622 using a solegel process as partof a series of studies on coating technologies wherein solid electrolytes were used to improve the rate capability and cycling stability.
+
+LATP is known as one of the materials with a high ionicconductivity of approximately ~103 S/cm under an ambient temperature.
+
+In spite of its high conductivity, though, LATP is notpractically used as a solid electrolyte due to its significant electronicconductivity, which may cause a cell leakage current; moreover,LATP is engaged in electrochemical reactions at around 2.5 V vs.
+
+
+These drawbacks, however, may not matter when the LATPis applied as a material for the surface coating of the C622-cathodematerials because the operating voltage of the cathode is muchhigher than the potential range.
+
+We therefore investigated thepossibility of using LATP as a coating material for C622 in this study.
+
+C622 was coated by LATP, one of the effective lithium-ion conductors, to improve the cell performance with a strategy ofenhancing the lithium-ion movement at the interface of the electrode and stabilizing the electrode from an electrolyte attack.
+
+As aresult, the discharge capacity of C622 was increased by approximately 12 mA h/g at a 0.1 C-rate; furthermore, the cycling stabilitywas also improved, whereby 98% of the capacity retention wasexhibited after 100 cycles at a 0.5 wt% coating amount.
+
+The capacityfading of C622L-0.5 is greatly reduced at a high current density;however, it was revealed that an increase of the coating amountresults in a degradation of the cell performance.
+
+The Liþ-diffusioncoefficient, anodic, and cathodic reaction behaviors and interfacialresistances were measured using the GITT, CV, and EIS analyses,respectively, and the enhancement of the cell performances and thecoating-amount trend were interpreted with these data.
+
+A high Liþdiffusion coefficient and low interfacial resistance should thereforebe the reasons for the higher capacity, improved rate capability, andenhanced cycling stability of the C622L-0.5 compared with thepristine sample.
+

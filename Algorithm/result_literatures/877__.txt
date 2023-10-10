@@ -1,0 +1,48 @@
+Crystallization of high temperature self-flux of systemNa2O-K2O-TiO2-P2O5 was investigated at different molar ratios (Na+K)/P = 0.9; 1.0 or 1.2 and Na/K = 1.0 or 2.0 over thetemperature range 1000–650°C.
+
+ The conditions of formation of complex phosphates K0.10Na0.90Ti2(PO4)3 (NASICONrelated) and K0.877Na0.48TiІІІ0.357TiІV1.643(PO4)3 (langbeiniterelated) have been established.
+
+The new obtained compounds were investigated using FTIR-spectroscopy, powderand single crystal X-ray diffraction and optical microscopymethods.
+
+The influence of alkaline metal nature on thestructure formation of complex phosphates in the high temperature self-fluxes is discussed.
+
+The complex phosphates with a general formulaMIxTi2(PO4)3 attract a great interest due to their useful properties which are caused the particularities oftheir structures.
+
+These compounds crystallize in cubic(space group P213) or rhombohedral (space groupR-3c) systems depending on nature MI.
+
+The phosphateKTi2(PO4)3 [1] belongs to well known group of langbeinites (cubic crystal system) while NaTi2(PO4)3 [2] andRbTi2(PO4)3 [3] crystallize in the NASICON-type structure (NASICON – Na Super ionic conductivity).
+
+It shouldbe noted that KTi2(PO4)3 was structurally determined ascubic langbeinite by Masse et al [1] and as rhombohedralNASICON by Lunezheva et al.
+
+For potassium andtitanium-containing phosphates with langbeinite typestructure are known other examples such as K2Ti2(PO4)3and nonstoichiometric K2-xTi2(PO4)3, 0  x  0.5 [5,6].
+
+These compounds are characterized by a mixedvalence of titanium atom (TiIII/TiIV) and can haveapplication as catalysts, nonlinear optics materials andionic conductors.
+
+Both langbeinite and NASICON-type structures consist of a three-dimensional framework that is build upfrom TiO6-octahedra connected by PO4-tetrahedra.
+
+TheMI atoms occupy channels and cavities formed by theframework.
+
+The langbeinite framework creates closedcavities that trap the cations while the NASICON-typestructure has channels that result in a high ion mobility.
+
+Thus, the NASICON-related compounds exhibit ahigh ionic conductivity associated with low activationenergy [7].
+
+Except this, the flexibility of the framework aswell as the large open channels, provide structural stability and intrinsic safety even at high charge states [8].
+
+Charge-discharge capabilities of the NASICON-type materials NaTi2(PO4)3 were first demonstrated by Delmaset al [9].
+
+The phosphates with langbeinite-type structureare perspective luminescent materials [10, 11] and stable crystalline matrix for the storage of nuclear wastes[12–14].
+
+In view of the importance of phosphates (NASICON and langbeinite-related) application and absenceof knowledge about role of alkaline metal nature onstructure formation of such compounds containing thetitanium, the interaction of TiO2 with the mixed alkalinemetals phosphate melts was investigated.
+
+The results of investigation of crystallization of themolten systems Na2O-K2O-TiO2-P2O5 at different molar ratios (Na+K)/P = 0.9; 1.0 or 1.2 and Na/K =1.0 or 2.0 over the temperature range 1000–650°C areconsidered here.
+
+The synthesized phosphates have beencharacterized using Fourier transform infrared spectroscopy (FTIR), the single crystal and powder X-raydiffraction.
+
+The crystallization of melts Na2O-K2O-TiO2-P2O5 wasinvestigated at different molar ratios (Na+K)/P = 0.9,1.0 or 1.2 and Na/K = 1.0 or 2.0 over the temperature range 1000–650°C.
+
+It was found that single crystalsof NASICON-related phosphate (K0.10Na0.90Ti2(PO4)3) areformed only at ratio Na/K = 2.0, while langbeiniterelated phosphate (K0.877Na0.48TiІІІ0.357TiІV1.643(PO4)3) canbe obtain in the P2O5-rich melt ((Na+K)/P = 0.9) at valueNa/K = 1.0.The determination of structure particularitiesfor new obtained phosphates showed the key roleof sodium atoms in formation of NASICON-relatedphosphate K0.10Na0.90Ti2(PO4)3 or potassium atomsin formation of the langbeinite-related phosphateK0.877Na0.48TiІІІ0.357TiІV1.643(PO4)3.The influence of presence of pair K + Na for both types of structure on thegeometry of main building units was considered.
+
+The main advantage of using of mixed alkalinemetals phosphate melts is temperature reduction forpreparation of complex phosphates containing TiIIIwith langbeinite-type structure.
+
+The similar phosphateK2Ti2(PO4)3 was early prepared at the temperature 1200ºC using metallic titanium.
+

@@ -1,0 +1,16 @@
+We report the electrochemical performance of porous NASICON-type Li3Fe2(PO4)3 thin films to be used as acathode for Li-ion microbatteries.
+
+Crystalline porous NASICON-type Li3Fe2(PO4)3 layers were obtained by radiofrequency sputtering with an annealing treatment.
+
+The thin films were characterized by XRD, SEM, andelectrochemical techniques.
+
+The chronoamperometry experiments showed that a discharge capacity of88 mAhg−1 (23 μAhcm−2) is attained for the first cycle at C/10 to reach 65 mAhg−1 (17 μAhcm−2) after10 cycles with a good stability over 40 cycles.
+
+In this work, we report the fabrication of mesoporousNASICON-type Li3Fe2(PO4)3 thin film by radio frequencysputtering.
+
+The electrochemical studies suggest that afterannealing, the crystallized layer is also composed ofLiFePO4(OH), which is able to react reversibly with Li+.
+
+In the first cycle, the discharge capacity reaches about88 mAhg−1 (23 μAhcm−2) at C/10 and attains 65 mAhg−1(17 μAhcm−2) after 10 cycles.
+
+The electrochemical characterizations also reveal a good stability suggesting that thismaterial can be used as a cathode for Li-ion microbatteries.
+

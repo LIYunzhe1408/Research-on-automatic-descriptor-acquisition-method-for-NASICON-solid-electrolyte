@@ -1,0 +1,66 @@
+In this work, the solid electrolyte Na3+xZr2-xMxSi2PO12, M = Ce4+, Gd3+ and Yb3+ compounds weresynthesized by a solid state reaction.
+
+The ceramic samples were sintered in the temperature range1150-1300 C with 5 h holding time.
+
+X-ray diffraction, scanning electron microscopy (SEM) and compleximpedance spectroscopy (IS) were used as experimental techniques.
+
+The investigated compounds atroom temperature belong to monoclinic symmetry, and Ce4+, Gd3+ and Yb3+ ions substitution rangedecreases with increases of x, therefore, optimal concentration was fixed at x = 0.1.Results showed thesignificant influences of dopant ions and the processing condition on the microstructure andconductivity of these ceramics.
+
+Dense Ce4+ and Gd3+ doped samples were obtained at higher sinteringtemperature than Yb3+ doped and Na3Zr2Si2PO12 ceramics.
+
+A drop in grain boundary conductivity due toglassy phase formation in Na3Zr2Si2PO12 and Yb3+ doped compounds was observed.
+
+Maximumconductivity value at room temperature was obtained for Na3+xZr1.9Ce0.1Si2PO12 sample.
+
+Sodium ion conducting solid electrolytes are important for awide variety of application ranging from energy storage toindustrial process control [1,2].
+
+Among the sodium ion conductingsolid electrolytes, Na1+xZr2Si2P3-xO12 (0 <x <3) which named asNASICON (Sodium (Na) Super (S) Ion (I) Conductor (CON)) hasattracted the attention of researchers.
+
+NASICON, a rigid, threedimensional networks with suitable tunnel size for Na+ migrationin three dimensions was proposed for the first time by Hong andGoodenough et. al [3].
+
+These compounds (Na1+xZr2Si2P3-xO12) arepossessing high conductivity, often comparable to that liquidelectrolytes at higher temperatures, therefore, these materials hasbeen proposed for use as a solid electrolyte in devices such asmembranes, fuel cells and gas sensors [4].
+
+The highest sodium ionconductivity is observed for compositions between x = 1.8 and 2.4,with a monoclinic structure.
+
+The NASICON structure consists of arigid three- dimensional network of PO4 (SiO4) tetrahedral andZrO6 octahedral sharing corners.
+
+This framework, containsinterconnected channels which provides the conduction pathwayfor the Na+ ions [3,4].
+
+These conduction pathways determined“bottlenecks” which significantly dominate the ionic mobility.
+
+Theionic conductivity depends on the concentrations of mobile ionand ionic mobility, in other words, the Na+ ion content and the sizeof bottleneck.
+
+The ionic mobility and the mobile ion content could be changedby substituting the ions forming the structure by equi and/oralivalent ions.
+
+Therefore, many attempts have been reported on thesubstitution of Zr4+ ions in octahedral sites with di-, tri ortetravalent cations.
+
+Results showed that partial substitution of di ortri valent cation for Zr4+ ion enhanced the conductivity byincreasing the mobile ion content and tetravalent cationssubstitution for Zr4+ ion caused a geometrical constraint on themobile ion [5,6]. Y. Miyajima et al.[7] reported lanthanide ions (Yb,Er and DY) substituted compound Na1+xZr2MxP3O12 and investigated the change of crystal parameter and conductivity.
+
+It wassuggested that the bottleneck size dominates the ionic conductionof the structure Kenji et al.[5] have reported the substitution of Zr4+ ion with Ti4+ in the system Na1+xZr2SixP3-xO12 and discussed therelation between unit cell volume and conductivity.
+
+It wasindicated the effective bottleneck depends on geometry ratherthan polarizing power of Ti4+ or Zr4+ ions.
+
+The substitution of Zr4+ inNa3Zr2Si2PO12 with metal ions such as Mg2+, Zn2+, Y3+, Ti4+, Sn4+, V 5+, Nb5+ and Ta5+ in well sintered ceramics have resulted higherconductivities than the conductivity of NASICON [8].
+
+Furthermore,density and nature of the grain boundary have effects on total ionicconductivity [8–12].
+
+Some reports on microstructure showed thatthe NASICON ceramics often are not monophase and a glassy phasewhich is basically a sodium silicophosphate with some dissolvedzirconia results from the liquid phase formed during sintering[2,12–14].
+
+Therefore, some attempts have been made to improvethe phase purity including chemical synthesis method [9,15–17]doping strategy [9,14,18] and spark plasma sintering route [13].
+
+The purpose of this work is to attempt for improving thecharacteristics of NASICON prepared by solid state reaction.
+
+Forthis aim, research was done on Ce4+, Gd3+ and Yb3+ ionssubstitution in the system of Na3Zr2Si2PO12 and thoroughdiscussion was made on based on microstructure and electricalconductivity (grain and grain boundary) in the doped and undopedceramics.
+
+Nasicon-type material series with composition Na3+xZr2-xMxSi2PO12, x = 0.1 and M = Ce4+, Gd3+ and Yb3+ was synthesizedby solid state reaction followed by sintering.
+
+The processing andsinterability of NASICON materials can be influenced by thesesubstitution ions.
+
+The major consequences of the substitution ofCe3+ and Gd3+ for Zr4+ were the production of ceramics withhomogenous microstructure without obvious liquid phase and inparticular high conductivities.
+
+The sintering temperature affectedon content of monoclinic zirconia at final product, loweringsintering temperature led to loss of monoclinic zironia in Ce3+ andGd3+ doped samples.
+
+Ac impedance studies indicated that thegrain-boundary contribution to the total (bulk + grain-boundary)resistance is appreciable for NASICON based undoped and Yb3+doped ceramics but in the Ce4+ and Gd3+ substitution samples itdecreases.
+
+The total electrical conductivity strongly depends on thesubstitution dopant, density of samples and the nature of the grainboundaries.
+

@@ -1,0 +1,90 @@
+The present study reports on a highly rate capable NASICON-structured NaTi2(PO4)3/reduced grapheneoxide (NTP/rGO) composite electrode synthesized by polyol-assisted pyro synthesis for Na-ion batteries(NIBs).
+
+X-ray diffraction (XRD) studies confirmed the presence of a rhombohedral NaTi2(PO4)3 phase inthe composite while Raman spectroscopy studies helped to identify the existence of rGO in thecomposite.
+
+Electron microscopy studies established that NaTi2(PO4)3 nanoparticles of average sizesranging between 20 and 30 nm were uniformly distributed and embedded in the GO sheets.
+
+Whentested for sodium storage properties, the obtained NTP/rGO composite electrode registered high ratecapacities (95 mA h g1 at 9.2C and 78 mA h g1 at 36.8C) when compared to that of the NTP/Celectrode (1 mA h g1 at 9.2 and 36.8C).
+
+Further, the NTP/rGO composites delivered a reversiblecapability of 62 mA h g1 at 20C after 1000 cycles.
+
+The enhanced performance of the compositeelectrode can be attributed to the nano-sized NaTi2(PO4)3 particles with shorter diffusion path lengths.
+
+These particles embedded in the rGO sheets with enhanced electrolyte/electrode contact areasultimately lead to an improvement in the electrical conductivity at high current densities.
+
+Ex situ XANESstudies confirmed reversible Na-ion intercalation/de-intercalation into/from NTP/rGO.
+
+The study thusdemonstrates that the NaTi2(PO4)3/rGO nanocomposite electrode is a promising candidate for thedevelopment of high power/energy density anodes for NIBs.
+
+Room temperature Na-ion batteries (NIBs) have become morepromising than lithium ion batteries because of their highenergy density and easy availability, and the cost-effectivenessof sodium.
+
+However, it is essential to develop high-performancesodium battery electrodes that show high rate capability,structural stability, and long life span.
+
+Recently, manyresearchers have studied anode materials including carbonbased materials, Na alloys and Ti based compounds for sodiumion batteries.
+
+Titanium-based NASICON compounds, typicallyNaTi2(PO4)3 or NTP are considered as super ionic conductorsand electrode materials that possess high specic capacity,good structural stability, and cyclability for non-aqueoussodium ion batteries.
+
+Moreover, NASICON type NaTi2(PO4)3has a relatively high redox plateau at 2.1 V vs.
+
+Na+/Na (whichmeans that the formation of the SEI layer can be avoided), andis safe in long life batteries.
+
+Despite its merits, NTP suffers fromlow intrinsic electrical conductivity in high performance NIBsdue to the slow kinetics of sodium ions between the activeparticles.
+
+In this regard, considerable efforts have been made tominimize the intrinsic drawbacks of NTP and thus improvethe electrochemical performance of NaTi2(PO4)3.Strategiesincluding particle size reduction, carbon coating, andcompositing with conductive carbonaceous materials have beenreported to overcome the various limitations of NTP.
+
+Among these, the development of composites has been recognized as one of the most effective ways to improve the rateperformance of NTP.
+
+ For example, Gang Pang et al.reportedthat a mesoporous NTP/CMK-3 nanohybrid composite electrodesynthesized by the sol–gel method delivered specic dischargecapacities of 58 and 39 mA h g1 at 1C and 2C, respectively.
+
+Inaddition, very recent studies have clearly demonstrated thatNTP appears promising for use as anodes in high performanceNIBs, as evidenced by the available reports on its structuralstability even under ultra-long cycling at high currentdensities.
+
+The other vital strategy of minimizing the particle size toensure shortened ion-diffusion pathways, increased surfaceareas and hence an enhancement in electrode performances isalso promising.
+
+It is worth noting that synthetic materials andstrategies tend to play a critical role in sizing down and/ortailoring particles for electrode applications.
+
+Therefore, tailormade approaches of already existing wet chemical routes and/ordesigning new synthetic procedures have been continuouslyexplored by researchers.
+
+In this context, there has beena recent spur in combustion-based strategies to prepare electrodes that sustain high capacities even at high current densities.
+
+For example, a sol–gel based combustion approach wasused to develop a 3-D carbon network containing a lithium ironpyrophosphate composite cathode with high capacity retentionand stable cycling.
+
+Similarly, a ash combustion strategy wasrecently reported to prepare a coral-like sodium iron pyrophosphate composite cathode that facilitated enhanced surfaceproperties and fast sodium intercalation.
+
+20 In fact, earlier, wereported a useful polyol-based pyro-synthetic strategy that isattractive to produce carbon-coated transition metal phosphateelectrodes for battery applications.
+
+This method makes use ofphosphoric acid (the phosphorous source) as the catalyst toaccelerate the rapid open-air combustion of a low-cost fuel(polyol) and thus utilize the high exothermic energy released tofacilitate the formation of ultrane nanoparticles coated withcarbon.
+
+ However, specic to NTP, the synthetic strategiesreported so far mainly include solid-state, sol–gel based,hydrothermal, solvothermal and so-template methods thateither employ long reaction time duration and/or costly procedures.
+
+ Further, the structural integrity and compatibility ofNTP when used in aqueous NIB applications make it all themore important to produce this electrode by using newsynthetic strategies.
+
+Therefore, with the aim of developing a nano-sizedcomposite using an efficient synthesis, the present studyreports the polyol-assisted pyro-synthesis of a carbon-coatednanocrystalline NTP/reduced graphene oxide (rGO) compositeunder a short reaction time for sodium battery applications.
+
+The highly crystalline NTP nanoparticles observed to beembedded in the exfoliated layer of rGO tend to improve theelectronic conductivity and the electrolyte/electrode contactarea of the composite electrode.
+
+Consequently, the obtainedNTP/rGO composite exhibits superior rate performance incomparison to that of the NTP/C electrode.
+
+The preparedsamples were investigated by X-ray diffraction (XRD), Ramanspectroscopy, eld emission-scanning electron microscopy (FESEM), high resolution transmission electron microscopy (HRTEM), AC impedance spectroscopy and ex situ XANES studies.
+
+Furthermore, the electrochemical properties of the preparedsamples as electrodes for NIBs were evaluated.
+
+In summary, we report on a NTP/rGO composite electrodesynthesized by a polyol-assisted pyro-synthesis for useful NIBapplications.
+
+XRD studies conrmed the presence of the NASICON-type NaTi2(PO4)3 phase, whereas Raman studies conrmedthe identity of the reduced graphene oxide present in theprepared composite.
+
+Electron microscopy studies revealed that20–30 nm sized NTP/C particles are not only uniformly distributed, but are also embedded in the rGO sheet in the composite.
+
+Our NTP/rGO composite ensures not only a short Na-ion diffusion path and contact between the electrolyte and electrodes, butalso high electronic conductivity for facile charge transfer.
+
+Thesefactors appear to inuence the enhanced storage capacity (132mA h g1 at 0.07C) and rate capability (78 mA h g1 at 36.8C) ofthe present NTP/rGO electrode.
+
+In particular, at 20C rate, thepresent NTP/rGO electrode exhibits an initial discharge capacityof 90 mA h g1 and shows a reversible capacity of 62 mA h g1aer 1000 cycles.
+
+The ex situ FE-SEM and FE-TEM studies of theNTP/rGO electrode conrm the structural integrity and longterm cycling stability.
+
+Ex situ XANES studies conrmed thereversible intercalation/de-intercalation of sodium ions into theNTP/rGO electrode.
+
+Therefore, the NTP/rGO, prepared by thepolyol-assisted pyro-synthesis, appears to be promising towardsfurthering the development and understanding of high performing anodes for NIBs.
+
+Furthermore, the straightforwardsynthetic strategy presented in this study is promising for thedevelopment of nano-structured composite electrodes for usefulenergy storage applications.
+

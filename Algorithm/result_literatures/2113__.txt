@@ -1,0 +1,36 @@
+High-conductivity and high-density samples with new compositions the P O system, with xs0 A , 0.667 B , and 1.333 C were synthesized using a mixed inorganic–organic sol–gel Na Zr process. The sinterability was improved with increasing the x value, but the conductivity decreased. Highly dense samples were obtained by sintering at 11008C. The conductivity decreased with decreasing the c lattice parameter of the hexagonal structure. Nevertheless, the CO gas sensors using the highly dense B and C samples showed good EMF response which is very close to the theoretical value. q 2000 Elsevier Science S.A. All rights reserved.
+
+in the NASICON-type electrolyte series, system, prepared using a mixed inorganic–organic sol–gel synthesis.
+
+It is well known that NASICON has a three-dimensional framework structure and possesses a high Naq ionic conductivity 1 . The properties of this ceramic make it suitable for use in electrochemical devices. Most of the studies concerning the use of NASICON as active element for gas sensors have been concentrated on the Na in the composition range 1.8 -x -2.4, because in this range its conductivity shows the largest value 4 . NASICON with nominal composition Na Zr Si PO has been investigated as CO x electrochemical sensor 5,6 .
+
+Compounds in the Na Zr P O series, with xs0 the conventional NASICON composition with high ionic conductivity , 0.667, and 1.333 were prepared, from now on labelled samples A, B, and C, respectively. For the sample B, the Na content was slightly changed keeping constant the Zr content, to get the compositions Na Zr O . These compounds will be labelled as Bq0.2 P 1.868 and By0.2 samples, respectively.
+
+The phase evolution of the samples was analyzed by X-ray diffraction XRD, Cu k a radiation , after calcination at different temperatures. The lattice parameters, the cell volume and the corresponding theoretical density were determined as a function of the composition, according to the procedure reported elsewhere 13 . The morphological evolution of the powders as a function of composition and thermal treatment was observed by scanning electron mi. croscopy SEM .
+
+The electrical conductivity of the pellets was determined by means of AC impedance spectroscopy measurements, performed as a function of the temperature in the frequency range from 100 Hz to 10 MHz. For these measurements, Au electrodes were deposited by sputtering on both sides of the NASICON pellets.
+
+Fig. 1 shows the structure of the sensor probe. A platinum electrode was painted onto both sides of the NASICON discs and then heated to 8008C. The disc was fixed at the end of an alumina tube with an inorganic adhesive. The Pt electrode on the pellet inside the tube acted as a reference electrode. A porous Na CO layer on the measuring platinum electrode was used as auxiliary electrode. For its preparation, a saturated Na CO solution
+
+was dropped on the outer face of the Pt electrode and then dried at 808C. The as-prepared element was set in a quartz chamber of 20 ml in volume. A stream of artificial air  14)CO-1 ppm, CO -2 ppm, HCl-1 ppm, and H O -10 ppm , without or with CO at 10, 100, 1000, and 10000 ppm levels, was introduced in the chamber in contact with the sensing electrode side, at a flow rate of 100 mlrmin. For the reference electrode, ambient air was introduced at 100 mlrmin. The EMF of the sensor was measured using a digital electrometer.
+
+The NASICON powders started their crystallization around 6508C–7008C. At these temperatures, only broad peaks of the NASICON structure were observed. When heated to 12008C, the sample A presented a monoclinic structure as15.589 A, bs9.03 A, cs9.224 A, bs 124.098 and showed small peaks of tetragonal zirconia. The B and C powders heated to 12008C showed only the zirconia-free NASICON phase in the hexagonal structure, lattice parameters B: as8.951 A, cs with different 22.990 A; Bq0.2: as8.990 A, cs22.972 A; By0.2: as8.925 A, cs22.952 A; and C: as8.894 A, cs ˚ . 22.908 A .
+
+The sample A sintered at 11008C was very porous, as confirmed by SEM observations, and its density did not exceed 70% of the theoretical value 3.259 grcm , even though green density was high, about 60%. This confirmed the poor sinterability of the typical NASICON composition w x10 . According to SEM observations, the low sinterability of the composition A can be related to the formation of hard agglomerates, which generated a structure with both dense and highly porous regions. However, the density of the B and C samples reached at least 95% of the theoretical value 3.196 grcm . Their SEM observation clearly showed the presence of a glassy phase, which indicates that NASICON underwent a liquid phase sintering. Some
+
+Fig. 1. Structure of the sensor probe.
+
+These good sinterability was obtained at a temperature which is far lower than the sintering temperatures reported in the literature 14 . The temperature was kept at 11008C in order to control the loss of Na during firing. All the samples underwent the same type of processing and thermal histories. Therefore, the different behaviour should be attributed to their different composition.
+
+Fig. 2 shows the temperature dependence of the conductivity for the A, B, and C samples. The electrical conductivity of the NASICON sintered bodies was measured by AC impedance spectroscopy, which, in general, allows to distinguish the resistances for the bulk and the grain boundary for polycrystalline electrolytes. In this case, the total conductivity of the bulk and the grain boundary is plotted in Fig. 2. The highest conductivity was shown by the sample B. It is known that the conductivity of NASICON decreased with a decrease in the lattice constants because of a decrement of the tunnel size for Naq migration 15 . Given that the sample A has larger lattice constants than the sample B, one should have expected a
+
+Fig. 2. The temperature dependence of sT for the A, B, and C NASICON pellets, sintered at 11008C.
+
+Fig. 3. The temperature dependence of sT for the B, Bq0.2, and By0.2 NASICON pellets, sintered at 11008C.
+
+larger conductivity for the sample A. However, the sample A was very porous, and the conductivity of the sample B is
+
+Fig. 4. The CO sensing response at 4708C for the C NASICON pellet, at various CO concentrations ppm shown in the figure.
+
+
+This work was supported in part by the National Research Council of Italy CNR , under the auspices of the Targeted Project ‘‘Special Materials for Advanced Technologies II’’.

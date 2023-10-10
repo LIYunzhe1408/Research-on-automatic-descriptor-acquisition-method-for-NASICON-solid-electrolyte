@@ -1,0 +1,119 @@
+The selectivity of metal oxide gas sensors (MOG) can be improved significantly by forming composites with solid ionic conductor additives.
+First investigations were done using model composites of SnO2/Natrium Super Ionic Conductor (NASICON) with the result of a huge sensitivityenhancement to substances ending with R–OH, R–HO or R–COOH groups and a reduction of sensitivity to other gas components.
+This selectivityof the new composite to those functional groups could be confirmed by catalytic conversion measurements with FTIR-spectroscopy at three gascomponents, respectively.
+The specific conductivity of theNASICON containing composites is significantly lower than that of pure SnO2. Advancedstudies show that the activation energy of the bulk-conductivity increases by approximately 30% in the presence of NASICON.
+In spite of highvolume parts of NASICON (20%), no polarization effects were found (a complete Ohmic current–voltage behavior) and mainly the resistive partof the electrical impedance is influenced.
+Metal oxide gas sensors (MOG) based on tin oxide areattractive devices for the detection of numerous gas componentslike volatile organic compounds (VOC), CO, NH3, H2,etc..
+They own high but different sensitivities to specificgas components depending on the gas type and concentration.
+The mechanism is determined by molecular specific surfacereactions with chemisorbed oxygen in surface states .
+Correspondingly,the main drawback of the MOG is their lowselectivity and therefore poor ability of molecular identification.
+Therefore, in the last years many efforts were devoted toimprove the performance of this type of sensor.
+In special applicationsthe adjustment of the operation temperature, optimizedon the kind of gas, may be sufficient to get enough selectivity.
+As shown in recent years higher quality results in gas analysiscould be obtained with this type of sensor by numericanalysis of so called conductance-over-time profiles, which are sampled during periodic variation of the working temperature.
+However, independent of the kind of sensor operation,the addition of classical materials like noble metals (Pt, PdO, etc.
+) or several metal oxides finely dispersed at the surfaceof the SnO2 grains or doping of metals is stillimportant to cultivate the sensitivity performance for specialapplications.
+Rather new categories of additives for MOG are solidelectrolyte powders.
+The investigation of composites withthese families of additives is still at the beginning.
+Not only thevolume part of the ionic conductor additives in the layer canbe varied, but also the type of mobile ions (sodium, lithium,silver, protons and oxygen), their concentration and the ionicconductivity σ.
+If at all, and how significant these parametersinfluence the gas sensitivity and the electronic behavior ofthe composite layer is of great interest and the underlyingmechanisms are still a matter of research.
+In a first step different SnO2/Natrium Super Ionic Conductor(NASICON) composites were investigated with respect to theirdc-conductivity and their sensitivity to various gas components.
+For these investigations NASICON (Na1+xZr2SixP3−xO12,0≤x≤3)was chosen, because the Na+-ion content and the ionic conductivity can be varied without great effect on the frameworkstructure.
+Furthermore, the structure is stable in humid airand at high temperatures (>900 ◦C).
+In contrast, nosensitivity enhancement is observed in the presence of 2-propanol, propanone and ethylacetate and many other organicand inorganic gas components like H2, NH3, methane, propene,etc.
+The reason for this surprising behavior is still underinvestigation, but it is a matter of fact that it is possible toimprove the selectivity of MOG to some substances with specialfunctional groups by adding NASICON-additives with highNa+-content.
+Simultaneously the specific electronic conductivity σ of thecomposite layers drops with increasing Na+-concentration inthe admixed NASICON.
+The conductance of the layers ofSnO2/NASICON, x = 3 composite is even significantly loweras compared to an isolator containing composite (SnO2/Al2O3)with identical volume ratio of 80%/20%.
+This drop in conductivitywas interpreted to be due to e−/Na+ interactions across theSnO2/NASICON-interfaces.
+In this paper results of advanced studies are presented concerningthe electronic and the catalytic properties of different SnO2/NASICON composites in order to elucidate the mechanismof gas interaction on such sensitive layers.
+The SnO2- and the NASICON-powders were prepared separately by sol–gel methods, which are described in ref.,ground and sintered.
+They were characterized with XRD, BET,SEM and particle size distribution analysis and the results werepublished in ref.
+The obtained powders of SnO2 andNASICONwere now blended in volume ratio of 80%/20%.
+Thismixture was used with an organic carrier for screen-printing,for preparation of discs or directly as a powder mixture andsintered at T = 750 ◦C for 20 min, respectively, to get the finalcomposite.
+Different samples were prepared, i.e.(i) a screen printedfour-fold sensor-chip (Fig.1a), connected with gold wiresfor dc-conductivity and impedance measurements, (ii) sinteredpowder-blocks (10mm×3mm×1 mm) with four embeddedplatinum electrodes to study the dc bulk conductivityand (iii) poured powder samples in a quartz-boat and severalstacked discs of the sintered composite were prepared in acylindrical quartz reactor, for catalytic conversion experiments(Fig.1b).
+Each sensitive layer (Fig.1a) was printed on microstructured,thin-film inter-digital gold electrodes and was contactedby two bonded wires.
+Before starting the measurements,the sensitive layers were conditioned for several hours at constanttemperature T = 250 ◦C in the actual gas composition  adjusted with the gas mixing setupshown in Fig.1c.
+Sensitivity tests were performed by measurementof the dc-conductivity G0 in synthetic air (pH2O =13, 000 ppm) and Gi with an additional concentration of thedesired gas component (c = 400 ppm).
+The relative response S(Eq.(1)) at this well defined concentration step was calculatedfor a huge number of gas components and published elsewhere.
+Impedance measurements were performed on the identicalsamples.
+Each sensitive layer in the quartz glass reactor wasconnected with two gold wires, which were separated into a fourwireconnection outside.
+The frequency of the applied voltagewas varied in a range of 100 mHz < f < 1MHz at Uac =10mV(Udc = 0 V).
+Some investigations of the catalytic behavior were done onpoured powder in a streaming propene contenting gas mixture(0.5% C6H6, 2% O2 in N2, Q=10mlmin−1).
+Theconcentrations of the provided gas components and the productsof conversion (CO, CO2 and H2O) were determined byFTIR analysis downstream at the gas outlet of the reactor.
+To measure the samples under nearly equal conditions, theBET-values of the different powders were determined firstlyand the amount of powder in the quartz boat was related toequal surface areas.
+These measurements were done on powdersof pure SnO2 and SnO2/NASICON, x = 2.2 (60/40 vol.%)composites.
+In another test, two different gas mixtures (1 vol.% of 1-propanol and 2-propanol, in dry synthetic air, respectively,Q= 100 ml min−1) were converted on the surfaces of a stackof six sintered discs (Fig.1b).
+The selected SnO2/NASICON,x = 0 and SnO2/NASICON, x = 3 (80/20 vol.%) composites showsimilar BET-surface areas; therefore, the same numbers of discswere inserted directly in the quartz reactor without using a boat.
+For determination of the conversion rate and the conversiononset-temperature, the gas mixtures were dosed and the temperaturewas stepwise increased starting at 100 ◦C.
+The integral ofabsorbency measured in a defined wavelength range was usedas a concentration proportional value c(T) of the correspondinggas component.
+Details of measurement are summarized inTable 1. 
+To provide a comparable value of conversion for all differenttest gas components, the actual conversion kinetics can beinterpreted by the conversion function which is the quotient ofthe measured concentration c(T) divided by the maximum measuredconcentration cmax.
+The constant cmax is the concentrationof the reacting educts at room temperature and ofthe product component (value at Tmax), respectively.
+Current–voltage test measurements on the composite layers(Fig.1a) verified a nearly perfect Ohmic behavior in arange of −1V<Udc < 1V.
+The deviation of I(Udc) from linearityis smaller than 0.5% for all composites.
+Obviously, theembedded NASICON-additive in the SnO2/NASICON-layerinitiates no different current–voltage profile, i.e.
+polarizationeffects in comparison to the pure SnO2-layers.
+Considering thegeometric distance (≈100m) of the electrodes and the averagegrain size of the embedded NASICON-particles (≈1m) in the SnO2-powder, it is evident that the voltage drop acrossthe NASICON is approximately 1/100 of the applied voltageof measurement, i.e.
+the maximum potential-difference across aSnO2/NASICON/SnO2 grain is U≈10mV only.
+The electrical impedance was measured at T = 250 ◦C in syntheticair (13,000 ppm humidity) and in the presence of additionalethanol (c = 400 ppm).
+The results (Fig.2a and b) includethe measurements (symbols) and the fitted transfer function of amodel network (lines).
+Some tests were also done starting from10 mHz and at higher amplitudes (Uac = 50mV and 100 mV)with no significantly different results.
+The magnitudes of impedance at synthetic air (13,000 ppmhumidity) are quite constant at all layers in the range0.1 Hz≤f≤10 kHz at a phase shift of ϕ≈0◦.
+This is unlike theimpedance of pure NASICON, where the magnitude increaseslinearly with decreasing frequency at constant phase of ϕ≈45◦(Warburg-impedance).
+This means that the surrounding tin oxideis predominant or it affects like an electronic by-pass aroundthe NASICON-particles.
+The magnitude of the impedanceZ increases considerably with x, that means, with increasingNa+-concentration in the admixed NASICON.
+This result conforms to the dc-conductivity measurements on differentSnO2/NASICON composites.
+The nearby perfect semicircles in the Nyquist plot of theimpedance data (Fig.2a) can be interpreted as the transfer functionof a simple RC-model.
+The slightly depressed semicircleof the curves could be explained by non-homogeneous physicalproperties of the partial capacitances and this may be initiatedby the particle size distribution.
+If the layers are exposed to gas atmospheres with c = 400 ppmethanol in synthetic air (pH2O = 13, 000 ppm), the typical dropof resistivity is found (Fig.2b).
+The electronic capacitance C ofthe layers is less affected by the alcohol; hence, the impedanceof all layers is constant in the range of 0.1 Hz < f < 100 kHz.
+According to the low resistance of the layers, the inductivityL of the connecting gold wires cannot be neglected anymore.
+Correspondingly, the fitting of the semicircles becomes betterby including an additional inductivity L≈360 nH in the modelsimulation.
+This may be the reason for the positive phase shiftat frequencies f > 100 kHz, measured on the pure SnO2-layer(Fig.2b) and, respectively, the different points of intersectionwith the Re(Z)-axis in the Nyquist plot at high frequencies(f > 1 MHz).
+The sum of all contact-resistances (gold wires andthe contact between the gold electrode and the composite) is inthe order of a few ohms and can be neglected in both measurements.
+The simulation parameters determined by fitting a simple RC-model with comparable transfer function are summarized inTable 2.
+No significantly different results were found at several othertemperatures in the range of 100 ◦C≤T≤450 ◦C.
+The experimentalresults above may be interpreted as follows: except theresistive change, already observed by dc-conductivity measurements, no significant influence of NASICON was found onthe electronic behavior of the composite.
+As shown in Fig.2,no phase shift of the measured impedance at all composites wasfound (ϕ≈0◦) at frequencies f < 1 kHz.
+This is a clear indicationthat polarization effects caused by the presence of the NASICON grains can be neglected at low frequencies, which is confirmedby additional tests down to f = 10 mHz.
+The dc-conductivityis identical to the measured magnitude of impedance at lowfrequencies and can be used for the most demands like the determinationof gas sensitivity.
+Due to the oxygen vacancies in the structure, the specific conductivity of SnO2 is n-type.
+According to Eq.(2) it is a functionof the partial pressure of oxygen in the gas atmosphere pO2with an exponential parameter ν depending on the defect reactionmechanism, an activation energy Ea and the temperature T.
+The results of the high temperature conductivity measurementsgiven in Fig.3 showa significantly lower activation energyof conductivity for pure SnO2-composite (Ea = 1.07 eV) andfor the SnO2/Al2O3-composite (Ea = 1.16 eV) in comparison tothe SnO2/NASICON, x = 3 sample (Ea = 1.48 eV).
+However, theAl2O3 and the NASICON, x = 3 additives are electronic insulators(with equal volume parts of 20%).
+Therefore, these differencesin Ea are obviously a property of the SnO2 sintered matrix.
+Consequently, it is concluded that the additives have an influenceon the electronic properties of adjacent SnO2 grains in differentways.
+The much higher impedance of the SnO2/NASICONcomposites with significant increase with the Na+-content in theNASICON structure (Fig.2) and the significantly steeper slopeof the Arrhenius like plot (Fig.
+3) as compared to pure SnO2 areinterpreted by the interaction of the Na+-ions in NASICON withthe electrons e− of the adjacent SnO2. 
+This means that the wellknown model of an electron depletion layer in the surface nearregion by electron trapping due to oxygen surface reaction states(O2−, O− and O2−)  has to be expanded by an additional,but oxygen independent electron localization, caused byNa+/e− interactions across the NASICON/SnO2-interface.
+Thisexpanded electron depletion layer, which is already discussedelse where  and visualized in Fig.4, may give a simple explanation for the results of the conductivity and impedancemeasurements discussed above.
+All the interpretations discussed above, however, cannot giveany explanations for the considerably different sensitivity propertiesof the SnO2/NASICON composites to most gas componentsinvestigated compared to the pure SnO2 (Fig.5a).
+To getfirst insight into the undoubtedly complicated molecular mechanismof specific sensitivity enhancement by specific surfacereaction processes, the correlation of these processes with thesurface catalytic conversion behaviors was studied.
+As alreadyfound in recentwork , obviously, the presence of NASICON differently affects the sensitivity of the MOG, depending on thegas component.
+Three categories of gas components were found:some are detected with lower, some with comparable and somewith significantly higher sensitivity, in comparison to pure SnO2,when NASICON, x = 3 is added.
+One substance of any categorywas used to test the correlation between sensitivity and conversion.
+These model substances are propene (C3H6), 1-propanol(C3H7OH) and 2-propanol (C3H7OH), respectively.
+The conversion of propene (C3H6) to CO2 and water wasinvestigated at different experimental conditions: one test inthe empty reactor, the next in presence of pure SnO2 and afterthat in presence of SnO2/NASICON, x = 2.2, respectively.
+Theconversion rate (Section 2) of the dosed gases to the product CO2 is shown in Fig.5b as a function of the temperature.
+The NASICON contenting powder shows a significantly higheronset-temperature of conversion in comparison to the pureSnO2.
+The onset-temperature of the gas reaction in the empty reactor iseven higher compared to both powder samples.
+This supports theassumption that NASICON-additives degrade the conversion of propene.
+At SnO2/NASICON, x = 0 and SnO2/NASICON, x=3,respectively (Fig.
+5c and d) the conversion of 1-propanol and 2-propanol behaves completely different.
+The onset-temperatureof the 1-propanol conversion is significantly lower, when processedon SnO2/NASICON, x = 3 in comparison to the reactionkinetics on SnO2/NASICON, x = 0. 
+This difference in reactionrate is less significant, in the case of 2-propanol conversion.
+The characteristic conversion-temperature of the two compositesshows only a small difference (onset-temperature) andappears in reverse order in the graph (compare Fig.5d withFig.5c).
+The examples demonstrate that in composites NASICONwith high Na+-ionic concentration (i.e.x = 3) mostly affectsthe sensitivity (Fig.
+5a) as well as the conversion rate behavior(Fig.5b–d).
+An increasing sensitivity is correlated with adecreasing onset-temperature of conversion and vice versa.
+These results confirm the new model of surface reactions atthe SnO2/NASICON composite as shown in Fig.4. Obviously,the presence of NASICON favors the surface chemical reactionkinetics of, e.g.ethanol, 1-propanol and some other substanceswith oxygen and degrades the reaction rates of some other components.
+It is assumed that the nucleophilic center of the gasmolecules interacts with the NASICON grain, which leads to anenhanced resident time of the reactant on theNASICON surface.
+The higher conversion rate correlated with the higher sensitivityof the adjacent SnO2 can be explained now by an improvedreaction on the three-phase boundary of SnO2/NASICON/gasatmosphere with adsorbed oxygen.
+More detailed investigationsconcerning the surface reactions and their mechanism will bethe subject of further studies.
+Electrical measurements on pure SnO2, different SnO2/NASICON composites and on SnO2/Al2O3-composites gavea good insight to the electronic behavior of the NASICONgrains in the SnO2 grain-matrix.
+NASICON seems to be embeddedwithout having any influence on the electrical polarizationbehavior of pure SnO2 but has considerable influence on theelectronic properties of the adjacent SnO2 grains.
+This is indicatedby a dramatic decrease of the electronic conductivityof SnO2/NASICON composites, which is even lower as thevalue of SnO2/Al2O3-composites and is enhanced by the Na+-content in the NASICON structure.
+This behavior is correlatedwith a significantly higher conductance activation energy Ea for SnO2/NASICON, x = 3 composites compared to that forSnO2/Al2O3 and pure SnO2. 
+Both results support a model ofan additional static electron depletion layer in the neighborhoodof the NASICON grains by e−/Na+-interactions acrossthe SnO2/NASICON-interfaces.
+This model, however, cannotexplain the huge differences in sensitivity observed for specificgas compounds.
+Gas conversion experiments have shown thatthere is a clear correlation between the catalytic enhancementdepression of the reaction kinetics to specific gas componentsand the higher sensitivity to these components measured onSnO2/NASICON, x = 3 composites compared with pure SnO2.
+It could be demonstrated that both, gas reaction and sensitivity,are effected by NASICON and that these effects arepronounced with increasing Na+-content in the NASICONstructure.

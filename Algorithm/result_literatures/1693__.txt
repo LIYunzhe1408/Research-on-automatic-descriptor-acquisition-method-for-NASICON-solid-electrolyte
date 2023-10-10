@@ -1,0 +1,118 @@
+Nasicon type compounds of general formulaCa0.5SbMP3O12 (M = Al, Fe, Cr) are prepared bysolid-state method.
+All the compounds crystallize inhexagonal lattice with R3c space group.
+The IR spectrashow characteristic PO4 vibrations.
+Conductivity studiesindicate the presence of charged defects.
+The Cole-Cole plots of impedance are semicircles between 150and 350 C.
+The thermal expansion of these samples isstudied in the temperature range 25–500 C.
+Sodium zirconium silico phosphate (Na1+xZr2P3–xSixO12), more commonly known as NASICON (sodium(Na) super (S) ionic (I) conductor (CON)) andrelated sodium zirconium phosphate, NaZr2P3O12(NZP) have attracted much attention during last two decades.
+The M and Msites areoccupied by tri-, tetra- and penta-valent ions.
+Thehexagonal structure is characterized by a networkformed by corner sharing of PO4 tetrahedra withMO6/MO6 octahedra forming a ribbon along c-axis.
+These ribbons are interconnected by PO4 tetrahedraalong the a-axis.
+This skeletal arrangement givestunnels/interstitial sites which accommodate ‘‘A’’ ions.
+The structure is flexible for substitution at A, P,M and M giving rises to a variety of isostructuralcompounds.
+The interest in these types of phosphatesarises due to their fast ionic conductivity , nearzero thermal expansion behaviour , hightemperaturestability, intercalation/deintercalationbehaviour and large surface area.
+Due to theseproperties they are widely used as solid electrolytesin high-temperature fuel cells, as heat exchangers,mirror blanks for space technology, as ion-selectiveelectrodes, hosts for radioactive waste and as catalystsupports .
+ Further, this framework structuregives an opportunity to tailor properties such as ionicconductivity, thermal expansion coefficient, ion selectivityand their correlation with structure.
+In thepresent study we report the preparation, characterization(powder X-ray data and infra red (IR) data),the ionic conductivity (DC and AC) and thermalexpansion studies of Ca0.5SbAlP3O12, Ca0.5SbCrP3O12,Ca0.5SbFeP3O12 (here after CSAP, CSCP, CSFP,respectively).
+The NASICON compounds Ca0.5SbMP3O12 (M = Al,Cr and Fe) are synthesized by conventional solid-statereaction using AR grade chemicals CaCO3, Sb2O5,NH4H2PO4 and metal oxides (Al2O3, Cr2O3 andFe2O3).
+Cr2O3 is obtained by thermal decompositionof (NH4)2Cr2O7. Fe2O3 is prepared by calcination offerrous oxalate dihydrate at 600 C.
+Al2O3 and Sb2O5are dried at 200 C and used without further treatment.
+The calculated amounts of the starting materials for10 g of desired sample in single batch are thoroughlymixed and ground together with spectral acetone in anagate mortar for 1 h to give homogeneous mixture.
+Theground mixture is placed in silica crucible and heatedslowly in an electrical furnace to 300 C and kept for4 h at that temperature to facilitate the decompositionof ammonium dihydrogen orthophosphate.
+
+Thereason for following such a sequence of heat treatmentis to avoid the formation of pyrophosphate byproduct(Ca0.5MP2O7 with M = Cr, Fe) along with un-reactedmetal oxide impurities.
+Powder X-ray diffractograms are recorded at roomtemperature on Philips X’pert Analytical X-ray diffractometerusing Nickel filtered Cu-Ka radiation ofwavelength 1.5406 A ° .
+The scan rate is 3/min in therange 2h = 10–70.
+The unit cell parameters are calculatedusing the least square fitting.
+Experimentaldensities of sintered pellets are measured by Archimedesprinciple using xylene as immersion liquid.
+Calculateddensities are obtained from unit cell dimensions.
+Infrared spectra are recorded in the form of KBrpellets in the wave number range 4,000–500 cm–1 usingJASCO FT/IR-5300 Spectrometer.
+Cylindrical pellets (10 mm diameter and 4 mmthickness) of the samples are obtained by applyinguniaxial pressure of 200 MPa.
+The pellets are sinteringat 800 C for 24 h.
+The DC conductivities in thetemperature range 300–623 K are measured using atwo-probe method on the sintered pellets coated withsilver paint.
+A conventional sample holder and Kiethley Electrometer 610C are used.
+The bulk DC conductivityof all the samples is calculated by measuringthe bulk resistance and the sample dimensions.
+Thebulk resistance of the samples is obtained by measuring the current at constant applied voltage of 1.6 Vconnected in series with Kiethley Electrometer andthe sample.
+AC Impedance measurements are carried out usingHP4192A Impedance analyser from room temperatureto 350 C in the frequency range 100 Hz–1 MHz.
+Thedata acquisition is automated by interfacing theinstruments (both DC conductivity and impedancemeasurements) with a personal computer.
+The relative thermal expansions of the samples aremeasured using NETZSCH 402 PC dilatometer in airin the temperature range 25–500 C.
+The samples arepressed into rectangular rods of size 25 mm · 6 mm ·6 mm for these measurements.
+The heating and coolingrates are 5/min.
+The room temperature powder X-ray diffractograms ofall the three compounds are shown in Fig.1. 
+The peaksobserved in XRD are indexed assuming a rhombohedralstructure.
+Since no extra peaks are observed, itmay be concluded that there are no detectable impuritiesor unreacted reactants.
+These XRD patterns areisomorphous to that of lithium, sodium and calciumcontaining nasicon frameworks reported earlier .
+Using the observed d-lines, the unit cell parameters arederived by least-square fit program.
+All the compositions prepared in the present study crystallize in rhombohedrallattice with space group R3c.
+A small variation in thelattice parameters is observed which may be attributed tothe variation of the size of trivalent metal ion.
+Using thelattice parameters, Avogadro’s number and mass of thesample theoretical (X-ray) densities are calculated.
+Thetheoretical and experimental densities agree well withinthe experimental error.
+Hence the porosity of thesamples is small indicating the well-sintered nature ofthe pellets.
+The lattice parameters obtained for all thecompounds and densities are presented in Table 1, alongwith the lattice parameters and densities of other similarcalcium nasicon compositions for a comparison.
+The IR spectra of Ca0.5SbMP3O12 (M = Al, Cr and Fe)in the range 1,500–400 cm–1 are shown in Fig.2. 
+Allthe compounds exhibit strong absorptions below1,500 cm–1. Generally the vibrational modes of nasiconphases can be due to PO4 tetrahedra (internal andexternal modes) and to lattice modes of metal octahedra.
+The bands corresponding to PO4 unit are moreprominent than that of metal octahedra.
+The assignmentsfor the observed bands have been made basedon the predictions of factor group analysis .
+ThePO4 tetrahedra give nine vibrational modes: (i) thesymmetric PO stretching (ms or m1), (ii) antisymmetricPO stretching (md or m2), (iii) symmetric OPO bending(dd or m3) and (iv) antisymmetric harmonic OPObending (dd or m4) .
+Among these vibrations, bothm3 and m4 are triply degenerate, m2 is doubly degenerateand m1 is non-degenerate.
+The absence of any IR bands in theregion 740–720 cm–1 indicates the absence of pyrophosphate (P2O74–) impurity .
+Similar types ofspectra are obtained for silver, sodium and lithiumanalogues.
+Figure 3 shows the variation of DC conductivity withtemperature for all the samples.
+The conductivity(log(rT)) values vary by more than ten orders in thetemperature range of present measurements.
+At hightemperatures the samples have high conductivities;however a two-probe method of measurement is usedfor entire temperature range of conductivity measurements.
+activation energies are calculated from the slopes ofthe plots and are listed in Table 3. It is observed that theconductivity increased around three to four orders inmagnitude, from 150 to 350 C.
+The activation energiesof conduction are found to be in the range 0.84–1.03 eV.
+These values are slightly higher than the activation energiesobserved for silver nasicons .
+Among the three systemsinvestigated, it is noticed that the conductivity is highest at 350 C(6.21 · 10–2 Ohm–1 cm–1) for CSFP sample.
+It isinteresting to observe that the activation energy ofconduction and the conductivity values at 350 C arerelated inversely.
+It is also observed that the conductivityat a given temperature follow the orderCSFP > CSCP > CSAP.
+Impedance spectra of all the materials were studied inthe temperature range 30–350 C and in the frequencyrange 102 to 106 Hz.
+Figure 4(a, b, c) shows compleximpedance plots for CSAP, CSCP and CSFP samplesrespectively at temperatures 300 and 350 C.
+Semicirclebehaviour of complex impedance is observed for allthe samples above 150 C.
+However, a complete singlesemicircle is observed at temperatures 250, 300 and350 C.
+All these plots terminate at the origin indicatingthe absence of series resistance in the equivalentcircuit model of the sample.
+All the semicircles start onthe real impedance axis at the lowest frequency.
+Thisstarting point is found to decrease with increase in thetemperature.
+This behaviour of complex impedanceplots is characteristic of conducting nature of thesamples and hence it may be concluded that there is noseries capacitance in the equivalent circuit representationof the sample.
+The radius of the semicircles isdecreasing with increase of temperature.
+Low-frequencyintercepts of these semicircles on real axis givethe bulk resistance of the sample at the temperature ofthe complex impedance plots.
+The absence of secondsemicircle at lower frequencies indicates the absence of observable grain boundary resistance and electrodeeffects .
+The bulk resistances, together with the sampledimensions are used to determine the bulk conductivity(grain conductivity) of all these samples.
+Thevariation of bulk conductivity with inverse of temperatureis plotted on semi-log scale and shown in Fig.5.
+We found that the activation energy of CSFP is lowerthan other two samples (CSAP and CSCP).
+The activation energies estimated from DC conductivityand AC conductivity of lowest frequency obtainedfrom complex impedance plots are comparable witheach other (Table 3).
+To confirm whether the overall sample resistancerepresents the bulk resistance of the grains or beinginfluenced by grain boundary effects, the experimentaldata are replotted as the imaginary parts of theimpedance, Z† and electric modules, M† againstlog frequency and is shown in Fig.6 for the all threesamples at 250 C.
+The data for all samples showssingle peaks in both Z† and M† spectra, separated infrequency by about half a decade.
+The peaks aresomewhat broader than an ideal Debye peak.
+The peakwidth at half maxima is of ~1.32 decades compared to1.14 decades for Debye peak .
+The height of M†peak at various temperatures is found to be in therange 0.00235–0.00354.
+Here C0 = (e0A)/d (where A and d are area andthickness of the pellet, e0 is permittivity of the freespace), C is the capacitance of the pellet, which iscalculated from the relation, xRC = 1 (x = 2pfmax,R = the resistance obtained at lower frequency on theCole-Cole plot).
+The calculated M† values from theabove equation are found to be very close to that ofobserved values.
+Since the peaks in Z† and M† versusfrequency curves are almost coincident and there isno evidence for any additional peaks at lowerfrequency in the Z† spectrum, it may be concludedthat the observed results represent bulk conductanceonly .
+Figure 7(a, b, c) shows the conductivity data in thefrequency range 102 to 106 Hz at different temperaturesfor all samples.
+The frequency-dependent conductivityin Fig.7(a, b, c) have following features:
+1. All the three samples show similar frequencydependentconductivity at different temperatures.
+2. The absence of a blocking electrode effect isevidenced from the frequency-independent conductivity(plateau region) at lower frequency fortemperature 200 C and above.
+However at 150 Cthe plot shows an increasing conductivity withincreasing frequency.
+3. The Plateau region (frequency-independent conductivity)of conductivity increases with increase intemperature and the value of plateau regionconductivity also increase with temperature.
+4. At very high frequencies the conductivity is foundto be linearly dependent on frequency (increaseswith increasing frequency).
+The values of exponents n1 and n2 along with r0, Aand B for CSAP are given in Table 4. 
+The values of n1are found to be less than 1 and values of n2 are greaterthan 1. 
+With the increase of temperature the values ofn1 and n2 have decreased.
+Frequency-dependent natureof the exponents n1 and n2 is a measure of the disorderpresent and the type of charge aggregation in thesamples.
+Frequency and temperature-dependent variationof these parameters indicates the change in thecharacter of the charged defects in the samples with thetemperature and frequency.
+Observation of two distinctslopes in the frequency dependence in conductivityindicates the presence of two different frequencydependentconductivity mechanisms in the samples.
+Itis observed that CSAP has low conductivity and CSFPhas high conductivity among the three compounds.
+However at high-frequency region the conductivitypattern of all the three samples merge into a singlecurve.
+It is seen from Fig.8 that all the samples show a nearlinear thermal expansion behaviour.
+These samplesexhibit positive thermal expansion coefficient and near zero thermal expansion is observed up to 70 C.
+Thethermal expansion observed may be due to bendingand distortion of PO4 tetrahedra and MO6 octahedraas suggested by Alamo.
+The thermal expansion coefficients of CSAP and CSFP are 4.8 · 10–6 and4.9 · 10–6/C, respectively which are nearly equal.
+Thismay be due to near equal ionic sizes of Al3+ (5.4 nm)and Fe3+ (5.5 nm).
+The ionic size of Cr3+ (6.2 nm) isslightly higher than Al3+ and Fe3+.
+This may lead torelatively less distortion in PO4 tetrahedra and MO6octahedra in CSCP sample leading to observation oflower thermal expansion coefficient.
+However, adetailed high-temperature X-ray studies are necessaryto confirm this conclusion.
+In conclusion, Ca0.5SbMP3O12 (M = Al, Fe, Cr) samplesprepared show interesting electrical and thermalexpansion behaviour.
+The electrical studies indicatethe existence of electrically charged defects, which arerelaxing.
+The activation energies for conduction andrelaxation show interesting variation with the changeof ionic radius of M ions.
+The tetrahedral and octahedraldistortions may be responsible for observedchanges in thermal expansion.

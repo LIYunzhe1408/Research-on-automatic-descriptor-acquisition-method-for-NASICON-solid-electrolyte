@@ -1,0 +1,62 @@
+A series of mixed potential type gas sensors using stabilized zirconia and M3V2O8 (M: Zn, Co and Ni)sensing electrode were fabricated and applied for detecting acetone at 600 ◦C.
+
+Among the sensors utilizingthese composite oxides (Zn3V2O8, Co3V2O8 and Ni3V2O8)–SEs prepared via a facile sol–gel method, thesensor attached with Zn3V2O8–SE exhibited the highest response to acetone at 600 ◦C.
+
+Therefore, thepresent study mainly focused on acetone sensing performance for YSZ-based sensor using Zn3V2O8–SEat 600 ◦C.
+
+Results showedthatthe sensor attached withZn3V2O8–SE coulddetect even1 ppmacetone withan acceptable response.
+
+Moreover, V of the sensor attached with Zn3V2O8–SE exhibited segmentallylinear relationship to the logarithm of acetone concentration in the ranges of 1–10 ppm and 10–400 ppm,which the sensitivities were −16 and −56 mV/decade, respectively.
+
+The present device also displayedgood repeatability, small drifts in 30 days measured period, and the excellent sensitivity and relativelygood selectivity in the presence of various interfering gases before and after 30 days high-temperatureaging of 600 ◦C.
+
+Additionally, polarizationcurve wasmeasured to further demonstrate themixed potentialmechanism.
+
+Acetone is regarded as one of the important raw material,solvent and flammable gases due to its chemical activity andrelative cheapness, which is extensively used in many fields ofindustrial production.
+
+However, many health problems, such asheadache, fatigue and harmfulness to nerve system and visceralorgans, will be caused when the concentration of inhalation ishigher than 173 ppm [1,2].
+
+In addition, the medical reports indicate a large quantity of acetone is generated in the bodies ofdiabetic patients and the acetone concentration in plasma isapproximately two orders of magnitude higher than that of common person.
+
+Acetone has been classified as an important breathbiomarker or accessorial tool for noninvasive diagnosis of humantype-1 diabetes [3–5].
+
+Therefore, acetone sensors with high sensitivity, quick response–recovery, good selectivity and stabilityhave been the focus of worldwide research for human health andsafety.
+
+In recent years, the different kinds of acetone sensors based ondifferent sensing mechanism have been designed and fabricatedby many research groups.
+
+Among them, some oxide semiconductor acetone sensors reported are either relative poor sensitivity orselectivity [6–9].
+
+Therefore, sensors based on solid electrolyte havereceived steadily growing attentions for their excellent sensingperformance, chemical/physical reliability, miniaturization potentialand low fabrication cost.
+
+So far, several solid-electrolyte type acetone sensors using different oxide electrode materials have beenreported.
+
+ Lu et al.fabricated the mixed-potential-type acetone sensors using NASICON solid electrolyte and different Cr-based spineloxide sensing electrodes, which exhibit effective response to acetone and the improvement of the sensing performance for thesensor by increasing the lengthofthree-phase-boundary (TPB)[10].
+
+Kasalizadeh et al.reported Yttria-stabilized zirconia (YSZ)-basedsensors using coupled metal oxide-doped Pt/SnO2 sensing electrodes, such as SiO2, MoO3, Sm2O3 and CeO2, result in the goodresponse and lower response and recovery times [11].
+
+Based onthese, the selection of a proper oxide electrode material is critically important for the sensing performance of the sensor.
+
+Thus,the design and development of low cost, simple synthesis processand high-performance novel oxide sensing electrode materials forYSZ-based acetone sensors with good sensitivity, selectivity andstability still are urgently needed.
+
+In this study, novel type M3V2O8 (M: Zn, Co and Ni) composite oxide materials are prepared via a facile sol–gel method andare used as sensing electrode for fabricating YSZ-based mixedpotential-type sensor, which can be used to detect acetone.
+
+Theresults indicate the sensor using Zn3V2O8 composite oxide material as sensing electrode shows the highest response to acetone.
+
+Thegas sensing properties including response, repeatability, selectivityand stability for the sensor attached with Zn3V2O8–SE to acetoneare systematically investigated and the sensing mechanism is discussed.
+
+To the best of our knowledge, this is the first example toutilize Zn3V2O8 composite material as sensing electrode for YSZbased sensor for the detection of acetone.
+
+In summary, mixed potential type YSZ-based electrochemicalgas sensors using M3V2O8 (M: Zn, Co, and Ni) as sensing electrodewere fabricated to detect acetone at the operating temperature of600 ◦C.
+
+Three kinds of M3V2O8 were prepared by sol–gel methodand their sensing properties were investigated.
+
+Among these complex oxides evaluated, Zn3V2O8 was found to be most applicable tothe sensing electrode for the YSZ-based sensor to detect acetone.
+
+The result indicated that the sensor attached with Zn3V2O8–SEexhibited large response (−69 mV) to 100 ppm acetone and sensitivity (−56 mV/decade) to acetone concentration in the range of10–400 ppm at 600 ◦C.
+
+The low detection limit for present sensorwas 1 ppm to acetone.
+
+Additionally,the fabricated sensor displayedthe excellent stability in 30 days measurement period, and goodsensitivity and selectivity after 30 days high-temperature-agingof 600 ◦C.
+
+Based on these remarkable sensing characteristics, thepresent sensor showed the potential application value for detectingacetone in atmosphere and diabetes.
+

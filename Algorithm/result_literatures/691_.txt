@@ -1,0 +1,8 @@
+Sodium oxide (Na2O) activity in NT6-TiO2 was measured using the EMF method with test electrodePt,Na2Ti6O13+TiO2 (NT6-TiO2).
+NASICON(Na2Zr2Si2PO12) was used as the solid electrolyte in conjunctionwith a biphasic mixture of alpha alumina (a-Al2O3) and sodium beta alumina (Na2O.x Al2O3(8.5<=x<=11) as the reference electrode and measurements taken over the temperature range of 803 T  1000 K.
+Internal consistency of the cell was ensured by approaching the equilibration target temperature from both sides, during cooling and heating.
+EMF measurements showed linear dependencywith temperature in the temperature range under study.
+The activity of Na2O in NT6-TiO2 in the temperaturerange under study was determined.
+This was found to be log aNa2O(NT6-TiO2) =1.2-13211/T .
+This data is important in the determination of theoretical EMF for the calibration electrochemical sensors employing NT6-TiO2 electrode.
+Furthermore, it was found that, aNa2O(NT6-TiO2) > aNa2OðNASICONÞ indicating chemical stability when in contact with NASICON at higher temperatures.

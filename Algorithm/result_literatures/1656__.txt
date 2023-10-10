@@ -1,0 +1,70 @@
+Nanocomposite electrodes of recently identified polyanion cathode materials comprising LixM2(MoO4)3 {0≤x<3} [M=Co, Ni] and nanosized carbon having ~10 nm particle size were found to show remarkable improvement in their discharge capacity compared to the one prepared with acetylene black.
+The addition of nanosized carbon as a conductive additive offered improved initial discharge capacity of 121 mAh/g between 3.5–2.0 V vs Li/Li.
+The cause for such an increase could be firmly attributed to the filling up of the grain–grain contact area of the active material, facilitating the intimate grain–grain contacts in the composite structure leading to enhanced capacity delivery.
+As for the nanocomposite LixCo2(MoO4)3, it was found that at least 55% of its first discharge capacity was retained at the end of 20th cycle compared to its analogous counterpart, LixNi2(MoO4)3.
+
+A well-reliable rechargeable battery with high power and energy has been considered necessary for a variety of miniature and handy electronic products, such as handheld computers, cellular phones, camcorders, and personal digital assistants.
+Batteries’ weight reduction and small size and also high cell voltages result in high energy and power densities .
+Lithium-ion batteries used for hybrid electric vehicle application need to have high capacity coupled with high power, as per the goals set by the US Advanced Battery Consortium.
+In this connection, new cathode materials are being times, and particularly polyanion investigated in recent materials have gained enormous interest for extensive research, as they are the new generation cathode materials for lithium-ion batteries.
+However, application of such materials has not realized in practical cells because of their poor rate cyclability associated with a very low electronic conductivity, which consistently exists in both olivineand Nasicon-like polyanion materials examined so far owing to their open framework structure.
+Innovating and adopting new approaches and mechanisms that have been focused to bring a substantial increase in the conductivity of polyanions and hence to enrich the rate performance are in good stead.
+Reducing the grain size, coating the grains with carbon, dispersed metal powder addition, and optimized synthesis route have been a few vital techniques.
+As for the olivine-like polyanion materials, LiFePO4 samples having 20-μm grains gave rise to 95% of theoretical capacity at room temperature .
+Ravet et al.succeeded in improving the capacity of LiFePO4 through an increase in conductivity by coating the grains with carbon.
+Many researchers implemented the sameIonics (2007) amount of a nanosized carbon matrix as a conductive additive prompted us to implement this simple and effective technique to enhance the electrode conductivity of metal molybdates, LixM2(MoO4)3, in the lithium-free phase and eventually to improve the cycling properties.
+Accordingly, this work presents the conductivity enhancement and thus the improved cycling characteristics of LixM2(MoO4).
+A soft-combustion synthesis procedure using glycine as a combustion fuel was used to get well-powdered samples of lithium-free metal molybdates, M2(MoO4)3, at temperatures less than 250 °C.
+The structural and morphological features were obtained using X-ray diffraction and Scanning electron microscopy, respectively.
+Electrochemical tests were conducted to demonstrate the redox behavior of M2(MoO4)3.
+ BT 2000 series Arbin battery tester equipped the MITSPRO software was used to perform the galvanostatic (constant current) discharge/ charge test on the soft-combustion-derived powders of M2(MoO4)3. The facile reversible electrochemical characteristics were confirmed through potentiostatic (constant voltage) cycling test using a basic electrochemical system equipped with PowerCV software.
+Test cells were fabricated with a composite cathode (working electrode) and a thin lithium foil as both the reference and counter electrodes.
+The multiple cycling characteristics of LixM2(MoO4)3 were studied for electrode conductivity enhancement by simply adding a highly conducting (mesoporous) nanosized carbon black with acetylene black (AB; BET surface area=394 m2/g; grain size=0.1–10 μm; σe=10.2 S/cm).
+The test electrode [Ni2(MoO4)3, Co2(MoO4)3] was fabricated by mixing 65% of the active material with 5% binder and 30% conducting carbon mixture.
+The conducting carbon mixture consisted of an equal proportion of conventional AB and nongraphitized NCB (nanosized particles exhibiting mesoporosity of 3–10 nm).
+M2(MoO4)3-powdered samples annealed at 600 °C crystallized in single phase as confirmed by X-ray diffraction.
+Ni2(MoO4)3 powders annealed at 600 °C contain submicrometer-sized spherical grains with nearly uniform particle size .
+Co2(MoO4)3 powders annealed at 600 °C enclose indistinguishable ultrafine spherical grains of nanometer size.
+Figure 1 shows the transmission electron microscopy image of Co2(MoO4)3exhibiting nanostructure morphology of nearly unvarying particles.
+Electrode active grains of much reduced size will yield better electrochemical properties as explained later.
+Croce et al.the kinetic properties of LiFePO4 progressed through the addition of dispersed silver or copper during synthesis.
+reported that Sato et al.successfully stabilized the high-temperature orthorhombic γ-phase of Nasicon-Li3V2(PO4)3 at room temperature by substituting Zr for V, and the substituted phase exhibited considerably improved charge/discharge cycle performance.
+A careful electrode preparation of monoclinic Li3V2(PO4)3 by an intimate mixing with conducting carbon has claimed to yield the energy density of ~ 500 Wh/kg and 320 Wh/kg reported for Li3Fe2(PO4)3.
+Recently, we carried out investigation on a family of new cathode polyanion materials namely, M2(MoO4)3 {M=Ni, Co, Mn} both in the lithiated phase, Li2M2(MoO4)3 [4, 8], as well as in the lithium-free phase, LixM2(MoO4)3 , with an aim to employ these materials in lithium-ion cells, and reported our accomplishment in enriching the electronic conductivity and hence achieving better extended cycle performance of nanocomposite Li2M2(MoO4)3 {M= Ni, Co} by introducing small amounts of mesoporous carbon black during cathode fabrication .
+An optimized solid state synthesis route using hydrogen or carbon as the reducing agent at high-temperature sintering has been applied to obtain small uniform particles of Li3V2(PO4)3 showing a high first-discharge capacity of 143 mAh/g.
+Our success in the preceding work at improving the electronic conductivity of the lithium-rich phase of metal molybdates, Li2M2(MoO4)3.
+
+Discharge curves showing the difference in the IR (ohmic) drop between conventional and nanocomposite LixCo2 (MoO4)3 electrodes.
+Electrolyte: 1 M LiPF6 (EC/DMC)Li half-cells (nanocomposite cathode/Li) were fabricated to investigate the outcome of using mesoporous carbon black in improving the electrochemical Li insertion/extraction properties of LixM2(MoO4)3. 
+The cells were tested under galvanostatic conditions in the potential window 3.5–2.0 V at low current densities: 2.5 (discharge) and 10 mA/g (charge).
+Figure 2 shows the first discharge/charge curves for the half-cell with the nanocomposite LixCo2(MoO4)3 positive electrode (with NCB) compared to the first discharge/ charge curves the half-cell with the usual LixCo2(MoO4)3 positive electrode (without NCB).
+It is noticeable from Fig.2 that there is a dissimilarity between the two cases in terms of internal resistance (IR; ohmic) drop, although the discharge/charge profiles look alike.
+In the usual case, the IR drop at the beginning of the discharge process was large enough, and the discharge profile was found to proceed vertically down to 2.7 V from open circuit voltage (3.5 V) without any quantitative lithium insertion reaction.
+This is due to a very low electronic conductivity of polyanion materials, which is a common intricacy preventing the polyanions from practical use.
+On the other hand, a much minimized IR drop in the case of the nanocomposite electrode is well evident in Fig.2 (inset), and the discharge profile was observed to exhibit an exponential decay with a progressive insertion of lithium in the electrode.
+It is apparent that the role of NCB is significant in modifying the discharge/charge profiles with much improvement.
+Furthermore, there is a difference between the two cases in the amount of lithium insertion during discharge.
+About 2.7 Li was inserted in the nanocomposite electrode corresponding to the first discharge capacity of 121 mAh/g.
+This value is larger than the capacity obtained from the conventional composite electrode added with AB, say 87 mAh/g for 1.95 Li down to 2.0 V.
+Besides the changes explained above, multiple discharge/charge curves also show such changes for Li insertion.
+The extended discharge/charge curves (20 cycles) of LixCo2(MoO4)3 (usual cathode)/Li cell are presented in Fig.3a cycled under the same experimental conditions.
+
+As for the shape of the discharge/charge profiles, not much change is noticed between the two cases.
+Nevertheless, it is readily observed from Fig.3a,b that the discharge behavior of nanocomposite LixCo2(MoO4)3 is unlike that of usual LixCo2(MoO4)3 with regard to the quantitative amount of Li insertion during discharge.
+The amount of Li inserted into the nanocomposite cathode during discharge was larger than that in the usual case for all the 20 cycles studied.
+In addition, there is a considerable improvement in the charge process, which would help in inserting more Li in the subsequent discharge.
+The vital role of a nanosized high-surface-area activated carbon in improving the electrochemical properties of the positive electrode is implicit through these prominent variations monitored in the discharge profile.
+Figure 4 shows the variation in discharge capacity with the cycle number corresponding to the usual and nanocomposite LixCo2(MoO4)3 electrodes for the first 20 cycles.
+The discharge capacity offered by the usual LixCo2(MoO4)3 cathode decreases from 87 mAh/g (first discharge) down to 37 mAh/g during the 20th cycle.
+However, the nanocomposite electrode retained 66 mAh/g discharge capacity at the end of 20th cycle, which is as high as 55% of the first discharge capacity (121 mAh/g).
+This remarkable improvement in the discharge capacity retention is certainly the effect of mesoporous carbon besides nanometer-sized grains being present between electrode-active grains.
+The observed improvement with regard to electrochemical properties of the NCB-added positive composite electrode over the conventional one with mere AB is summarized in Table 1.
+ It is obvious from the table that NCB-added Co2(MoO4)3 exhibits improved extended cycling characteristics.
+As for the LixNi2(MoO4)3, an isostructural counterpart, multiple discharge/charge curves corresponding to the usualand nanocomposite electrodes are distinct concerning the discharge capacity and not the IR drop (figure not shown), in LixCo2(MoO4)3. The usual which was well evident LixNi2(MoO4)3 delivered 108 mAh/g as its first discharge capacity, and at the end of 20th cycle, 25 mAh/g capacity was obtained.
+However, the nanocomposite LixNi2(MoO4)3 gave rise to a first discharge capacity of 120 mAh/g similar to the nanocomposite LixCo2(MoO4)3, and the capacity fell to 35% of the initial capacity (figure not shown).
+Although the nanocomposite LixNi2(MoO4)3 indicated better discharge/charge characteristics than the usual LixNi2 (MoO4)3, in the nanocomposite LixCo2(MoO4)3. Plausibly, the variation in the grain size might have altered the electrochemical performance.
+it did not reach the level of enhancementThis work demonstrated the result of incorporating a NCB as a conductive additive besides AB to enhance the electrode conductivity of LixM2(MoO4)3 [M=Co, Ni].
+The active part of the mesoporous carbon as an additional conductive material was verified by comparing the electrochemical performance of both the usual composite cathode and nanocomposite cathode.
+The presence of NCB in the electrode increased the electronic conductivity by enhancing the intactness between the active grains.
+Accordingly, LixM2(MoO4)3 exhibited improved cycling properties.
+Comparing the electrochemical properties of the nanocomposite LixCo2(MoO4)3 to the nanocomposite LixNi2 (MoO4)3, the former performed superior than the latter.

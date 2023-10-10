@@ -1,0 +1,32 @@
+Summary. —  Samples  of  Nasicon  compounds  (Na  super  ionic  conductor)  with different  silicon and  phosphorus  contents  were  investigated  by  performing radioluminescence  experiments. In  all  samples  examined,  the  Frenkel  pairs, originated by the displacements of sodium ions in lacunar sites, were found to be the dominant defects. Some useful information on sodium ion mobility was obtained from the analysis of radioluminescence spectra.
+
+PACS  61.72.Ji  Point  defects  (vacancies,  interstitials,  calor  centers  etc.)  and  defect clusters. PACS 78.60.Ya Other luminescence (including radiation-induced). PACS 66.30.Hs Self-diffusion and ionic conduction in nonmetals.
+
+Fig. 3. – Radioluminescence spectrum of sample c.
+
+Radioluminescence  spectra were  recorded  during  sample  irradiation  at  room temperature  with soft  X-rays  (Cu Ka).  Figures  1,  2  and  3  show  the  RL  spectra  of samples a, b,  and c,  respectively.  All  spectra  present  strong  low-wavelength  emissions with  maxima preceding  the  recorded  spectral  range.  Sample a also  exhibits  a  fainter emission at 727 nm.
+
+3. – Discussion and conclusions
+
+It  is to  be  noted  that  the  low-wavelength  emissions  appearing  in  RL  spectra  were not  present  in  previous  thermoluminescence  (TL)  experiments  performed  from  room temperature  up to  680 K  on  the  same  samples [5].  These  emissions  are  likely  due  to recombination  of excitons  trapped  in  the  Frenkel  pair-defects  originated  by  the displacements of sodium ions to near lacunar sites. If the separation of the defect pairs is  not  too  large,  electron-hole  tunnel  recombination  can  take  place  through  a Prener-Williams  mechanism. This  situation  was  previously  found  in  alkaly  earth fluorides  for which  the  RL  emission,  peaked  at  about  300 nm,  was  ascribed  to  F-H centre  recombination [6-8].  Useful  information  on  actual  Frenkel  pair  separations  can be obtained by analyzing the tail of the RL emissions. Indeed, the energy of the photon emitted by exciton recombination is related to the electron-hole separation r by [9]
+
+EG standing  for  the  forbidden  energy  gap, EV for  the  height  of  hole  level  above  the valence band, EI for the depth of electron level below the conducton band and e for the dielectric  constant. Assuming  that  the  states  of  trapped  electrons  are  essentially hydrogen-like, recombination probability takes the form Rc] ,
+
+where Wmax is  an  amplitude  factor  and Rc a  critical  distance  to  be  identified  with  the minimum  allowed Frenkel  pair  separation [9].  Equation (1)  can  be  utilized  to  define  a critical energy hn c related to Rc by
+
+When n is  near n c,  eq. (3),  by  converting  to  wavelengths  and  utilizing  a  linear approximation, can be rewritten as
+
+Substituting  in eq.  (2)  and  taking  into  account  that  the  luminescence  intensity I is proportional to the recombination probability, we have
+
+where I0 is an amplitude factor and L is given by l 2 c eRc
+
+a standing  for  the  fine  structure  constant.  Since  all  Nasicon  phases  have  quite  similar lattices,  in eq.  (6)  the  dielectric  constant  and  wavelength l c can  be  assumed  to  be  the same for all samples.
+
+According  to eq.  (5),  the  logarithmic  plots  of  the  RL  emission  intensities  are expected  to be  rectilinear.  In  reality,  logarithmic  plots  for a and c samples,  shown  in figs. 4 and 5, respectively, exhibit rectilinear behaviour in the 375–450 nm range, while the plot for sample b, shown in fig. 6, is rectilinear only in the 375–425 nm range. Slopes
+
+Fig. 4. – Logarithmic plot of the radioluminescence spectrum of sample a.
+
+Fig. 5. – Logarithmic plot of the radioluminescence spectrum of sample c.
+
+Fig. 6. – Logarithmic plot of the radioluminescence spectrum of sample b.
+

@@ -1,0 +1,10 @@
+Energy storage systems are selected depending on factors such as storagecapacity, available power, discharge time, self-discharge, efficiency, or durability.
+Additional parameters to be considered are safety, cost, feasibility, and environmental aspects.
+Sodium-based batteries (Na–S, NaNiCl2) typically require operationtemperatures of 300–350 °C.
+The high operating temperatures substantially increasethe operating costs and raise safety issues.
+This updated review describes thestate-of-the-art materials for high-temperature sodium batteries and the trendstowards the development and optimization of intermediate and low-temperaturedevices.
+Recent advances in inorganic solid electrolytes, glass-ceramic electrolytes,and polymer solid electrolytes are of immense importance in all-solid-state sodiumbatteries.
+Systems such as Na+ super ionic conductor (NASICON, Na1+xZr2P3–xSixO12(0 ≤ x ≤ 3)), glass-ceramic 94Na3PS4·6Na4SiS4, and polyethylene oxide (PEO)–sodiumtriflate (NaCF3SO3) are also discussed.
+Room temperature ionic liquids (RTILs)are also included as novel electrolyte solvents.
+This update discusses the progressof on-going strategies to enhance the conductivity, optimize the electrolyte/electrodeinterface, and improve the cell design of emerging technologies.
+This work aimsto cover the recent advances in electrode and electrolyte materials for sodium–sulfur and sodium–metal-halide (zeolite battery research Africa project (ZEBRA))batteries for use at high and intermediate temperatures.

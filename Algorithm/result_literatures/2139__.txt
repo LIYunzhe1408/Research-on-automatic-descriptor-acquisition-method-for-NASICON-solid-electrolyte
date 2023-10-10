@@ -1,0 +1,45 @@
+A new kind of sodium sensor was studied by impedance measurement. The sensitive membrane is a fast ionic conductor NASICON coupled with an amorphous semiconductor a-Si:H . Other materials were also used in a sandwich configuration to improve the interface between the membrane and the electric connection. A special multi-contact set-up was fabricated to identify the transducing phenomena and to optimize the design and the measuring parameter. From this study, it appeared that the best results were obtained with a non-symmetrical cell and by measurement of the real part of the impedance at a constant frequency. The range of sensitivity is similar to the one of potentiometric sensors using such a membrane. q 1999 Elsevier Science S.A. All rights reserved.
+
+Keywords: Ionic sensor; NASICON; Amorphous semiconductor; Impedance
+
+Since the first works of Bergveld 1 , numerous ISFET devices have been proposed for ion analysis. In such sensors, the sensitive layer is deposited on the surface of the insulator of field effect transistors. For technological is not possible to deposit any material, for reasons, instance ceramic membranes. NASICON is a fast ionic w x  14) conductor 2 s is about 10 S cm at room . temperature which was proposed for sodium analysis in x w the 1980s 3,4 and tested with success 5,6 . Its main qualities are good selectivity due to a steric effect of the conduction sites and excellent mechanical and electrical properties. The optimal composition for such an application is Na Zr Si PO 7 . It can be elaborated by thinor 3 thick-layer the high temperature necessary for the crystallization is not compatible with monolithic ISFET devices.
+
+In the new device recently proposed 13 , the semiconductor is deposited on the sensitive membrane used as a substrate. In such a device, there is no problem due to temperature treatments because NASICON is stable up to high temperature i.e., 10008C . The chosen semiconductor
+
+when there is no interference phenomena interference study was made on NASICON membrane and published elsewhere 5–7 . E8 is a constant which depends on the Naq concentration in the NASICON membrane, R is the gas constant, F is the Faraday constant and T is the absolute temperature.
+
+The use of an external reference electrode is necessary to fix the solution potential in regard to the device, as in the case of ISFETs. In a first study 14 , the a-Si:H layer was directly deposited on the NASICON membrane because the interface was estimated sufficiently blocking to Naq exchange at room temperature.
+
+In such a device, any change in the Naq concentration drives to a change in the membrane potential and a change in the space charge inside a-Si:H. Because a-Si:H is not a sufficient conductor s is about 10 S cm at room temperature 15 , it is not possible to measure easily a channel current as in ISFET devices. We have chosen to measure the conductivity by AC measurements.
+
+The present transducer is made up of the following materials successively deposited on the NASICON membrane:
+
+silicon nitride Si N to decrease the interface state density which could be induced at a NASICONra-Si:H interface and its blocking effect vs. a Naq diffusion; hydrogenated amorphous silicon a-Si:H used as the transducer; phosphorous-doped a-Si:H nqa-Si:H to improve the ohmic contact between the a-Si:H and the metallic contact; aluminium Al used as a metallic connection. Si N and a-Si:H doped or not were deposited by PECVD and Al by thermal evaporation. All experimental parameters were given elsewhere 16,17 . For this study, a multi-contact design was specially elaborated by microphotolithography. The device and the multi-contact design are shown in Fig. 1. The distance between two contacts can be adjusted to different values on the same substrate. The contact area is also adjustable between 0.1 and 1 mm2. Such an experimental cell will allow to optimize the geometric factor.
+
+The NASICON membrane was sintered by co-grinding, or prepared by the sol–gel route to improve the purity and the monophasic synthesis 7,18 . The surface was polished
+
+Fig. 2. Results obtained for devices with different areas of the contact B and an identical contact A S s0.1 mm . a Modulus of the impedance.  14) .b Argument of the impedance.
+
+carefully, successively by silicon carbide papers and diamond powders from 6 to 1 mm , before the depositions. In order to improve the reproducibility of the measurements, the surface in contact with the aqueous solution was cleaned with carbide paper when the sensor was transferred from one solution to another.
+
+One contact of the device contact A, Fig. 1a was connected to the external reference electrode saturated . calomel electrode and the potential of the other one  14) contact B was a floating one. The impedance measurements were carried out using an HP Impedance Analyzer  14) HP 4194 . The usual frequency range was from 0.1 kHz up to 10 MHz. The AC signal amplitude was limited to 100 mV to remain in the linearity domain and to keep the Alrnqa-Si:Hra-Si:H contact an ohmic one 17 . Because of the predominant capacitive behaviour of such devices, a Bode representation was preferred over a Nyquist diagram.
+
+As a first result, it must be mentioned that no influence  14) of the distance d between the two contacts was observed 0.3Fd F2.3 mm . The Bode diagrams were perfectly superimposed whatever the d value. Such a result shows that the AC current lines passed through the aqueous solution which was then a short circuit of the NASICON membrane between the two contacts.
+
+The area of the contact at a floating potential B had an effect on the impedance diagram measured between the same contacts A 0.1 mm and B with different areas 0.2 to 1 mm as shown in Fig. 2. The capacitance measured from the straight line at low frequencies increased with the B area. The variation of the argument Fig. 2b shows that the characteristic frequency i.e., cut-off frequency, observed at Arg Z s458 was below 100 Hz. The a-Si:H layer under the contact B with a floating potential behaved
+
+This point confirms that the part B of the device, in our frequency range, is equivalent to a capacitor resulting from the stacking of Si N and a-Si:H layers at a floating . potential .
+
+In a similar way, for an identical B contact 1 mm but different A contacts 0.1 to 0.7 mm , no change in the low-frequency range was observed but a noticeable variation of the diagram for frequencies around a few 100 kHz appeared as shown in Fig. 4. Such a frequency corresponds to the characteristic frequency usually observed for a-Si:H with a conductivity of about 10y8 S cmy1. The resistive part of a-Si:H gave a quasi-plateau on the Bode diagram which was observed for higher values when the area increased.
+
+The sensitivity of the device when the Naq concentration is changed is shown on Fig. 5. Such results were obtained with areas of the A and B contacts both equal to 1 mm2 and for a distance d s1 mm. A modification of the diagram vs. the Naq concentration in the range of frequencies, where the a-Si:H layer under A responded, was clearly observed.
+
+The curves were more decoupled if the design was not symmetrical, i.e., if the areas of A and B were 0.1 and 1 mm , respectively Fig. 6 . On the other hand, an influence of the a-Si:H thickness was observed. The diagrams were more decoupled for an a-Si:H layer of 1 mm in thickness .  14) Fig. 5 than for a layer of 0.5 mm Fig. 7 .
+
+The preceding results have shown that only the part of a-Si:H situated under the contact A was sensitive to the Naq concentration in the analyzed solution. Because this contact was connected to the external reference electrode, the Nernst potential imposed by the membrane in compari. son with the solution i.e., the A contact led to a modification of the repartition of carriers in the amorphous semi-
+
+Accuracy Detection limit conductor and so the conductivity was modified. The part B was non-sensitive because its potential floated and in this condition, the carriers were thought to be blocked near one interface and so the a-Si:H material became an insulator. A similar observation was made for both contacts when the membrane was not immersed in water.
+
+The proposed equivalent circuit is quoted in Fig. 8a and the resulting theoretical Bode diagram in Fig. 8b. When the frequency increases, it can be observed successively:
+
+Because no condition for the distance between the two contacts is necessary, any design can be envisaged for future planar sensors. Moreover, other devices could be designed for example without planar geometry, which cannot be imagined with monolithic ISFETs.

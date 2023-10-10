@@ -1,0 +1,105 @@
+The solid electrolyte CuZr2P3O12 was synthesized and its oxidation to Cu1/2Zr2P3O12 was investigated between 400 and 800°C. A cell Pt, reference, Pt was used to study the thermodynamics of the O2 oxidation. It was found that DGO 5 2108596 1 87.562 3 T in the temperature range investigated. © 1999 Elsevier Science Ltd
+
+KEYWORDS: A. oxides, A. ceramics, C. electrochemical measurements, D. phase equilibria, D. thermodynamic properties
+
+Cusicon (Cu super ionic conductor), CuZr2P3O12, which is isostructural with nasicon [1], was ﬁrst discussed by McInerney and Morris [2] and synthesized by Yao and Fray [3] in 1983. Much interest has centered on the possible use of the material as a solid electrolyte and cusicon [4 – 8], and other materials with the general formula A9 2M2(XO4)3 have been the subject of several studies by different authors [9 –22].
+
+In addition to CuZr2P3O12, there exists a form of cusicon containing divalent copper, Cu0.5Zr2P3O12 [15,23–25]. Indeed, it has been suggested [11,26] that there exists a solid solution CuxZr2P3O12, where 0.5 # x # 1. Although details vary considerably between authors, two synthetic approaches are provided in the literature: a thermal solid state route [3–5] to CuIZr2P3O12 and a sol-gel route [25,27] to CuII
+
+0.5Zr2P3O12 by reaction with oxygen at 500°C [24], 0.5Zr2P3O12 may be reduced to CuIZr2P3O12 by reaction with metallic copper in a and CuII vacuum-sealed tube at 850°C [7]. Evidence for these redox reactions can be seen in the dramatic color changes. The green copper(I) cusicon changes to a very dark gray on oxidation. Copper(II) cusicon is actually pale blue, but the color is dominated by the black copper(II) oxide, which is also formed in the oxidation. The reaction is reversible and re-ﬁring the reaction products at 1200°C followed by thermal quenching regenerates the green-colored copper(I) cusicon. If the copper(II) oxide is leached with warm nitric acid after the ﬁrst oxidation stage, the pale-blue color of copper(II) cusicon becomes visible [26]. The weight changes accompanying these redox processes have been measured and found to be in agreement with the theoretical values [26].
+
+Although at low temperatures (below approximately 500°C) Cu0.5Zr2P3O12 exhibits an induced Jahn–Teller distortion, this does not signiﬁcantly alter the three-dimensional covalent framework of the nasicon structure. This makes the transformation of the Cu(I) compound into the Cu(II) compound easy [23], and the ability of the copper to exist in two oxidation states within the same structural skeleton has led to investigations into the use of these materials as catalysts [15,28 –30].
+
+In the solid-state synthetic route, CuZr2P3O12 is formed at about 1200°C. At lower temperatures (approximately 500°C), however, the copper(II) form is found to be thermodynamically more stable, and reaction 2 takes place [7,24]:
+
+To prevent this oxidation reaction occurring at the end of the synthesis as the products cool in the furnace, the synthesis is often carried out under argon. Alternatively, the reaction products may be thermally quenched from 1200°C to trap the metastable CuZr2P3O12 [26]. (Reaction 2 proceeds so slowly at room temperature as to be insigniﬁcant.)
+
+If the copper(I) material is to be used at elevated temperatures, there is a possibility that the material may oxidize in situ. Hence, if the material is to be used in a commercial application, it is vital to be able to predict which form of cusicon is stable under a given set of conditions (temperature and partial pressure of oxygen). The oxidation of CuTi2P3O12 has been studied with thermogravimetric analysis (TGA). It was found that up to 100°C there is some decrease in weight attributed to loss of water of crystallization. Between 340 and 480°C, the material is oxidized to Cu0.5Ti2P3O12 and CuO. Above 500°C, the reaction is reversed and Cu0.5Ti2P3O12 reacts with CuO to reform the starting material [20], releasing O2 and, therefore, losing weight.
+
+The current study is an attempt to investigate the oxidation of CuZr2P3O12 and provide a
+
+set of limiting conditions under which it is stable.
+
+Synthesis. The synthetic and sintering routes [26] used to prepare the material used in this study are as follows:
+
+Cu2O (97%), ZrO2 (991%) and NH4H2PO4 (99.999%) were weighed out in the stoichiometric ratios and ball-milled for 16 h in an IPA dispersing agent, using 10 mm round-edged, cylindrical alumina (corundum) milling media. After removing the dispersing agent by slow evaporation over a hot plate under a fume hood, the reagents were ﬁred in a tube furnace according to the scheme given in Table 1, under air ﬂowing at approximately150 ml/min, to remove gaseous byproducts.
+
+The reaction products were ground to a coarse powder using a Fritsch pulverizer with alumina bowl and ball and then ball-milled for 2 days in an IPA dispersing agent using 3 mm spherical zirconia milling media. After removing the dispersing agent as before, the resultant powder was sieved to 32 mm and pressed into 25 mm pellets in a uniaxial press for 1 min at 60 MPa. After the pellets were re-pressed in an isostatic press for 6 s at 170 MPa, they were sintered under air according to the scheme given in Table 2.
+
+Product purity was checked by comparing the powder X-ray diffraction pattern against JCPDS 43-1495. Inorganic analysis, X-ray photoelectron spectroscopy (XPS), and electron
+
+paramagnetic resonance spectroscopy all show evidence that CuZr2P3O12 is slightly copperdeﬁcient, typically containing about 2% Cu(II) [26].
+
+Oxidation of Cusicon. The thermodynamics of the cusicon oxidation reaction were studied to ﬁnd out what range of oxygen partial pressures and temperatures can support cusicon in its various oxidation states. A cell (shown in Fig. 1) was used to monitor the partial pressure of oxygen generated by the cusicon reduction reaction, relative to a reference of known oxygen partial pressure [31]:
+
+cusicon refers to oxygen produced by the oxidation of copper(I) cusicon (eq. 2) and O2
+
+O2 refers to a reference source of oxygen. The cell reaction may be written as shown in reaction 3:
+
+The cell used was a sintered yttria-stabilized zirconia (YSZ) electrolyte made by sintering pellets of ZrO2 stabilized with Y2O3 at 1400°C for 2 h. The lower temperature measurements used 9 wt% YSZ, while some of the higher temperature measurements used YSZ with a yttria content of only 3 wt%.
+
+The cell was placed in a tube furnace alongside a type-B thermocouple. Nitrogen was passed through the furnace to prevent oxidation of the electrodes, and the outlet from the furnace was passed into a Systech Instruments ZR893 Process Oxygen Analyzer to check the oxygen partial pressure. The typical ﬂow rate was 100 cm3/min, and this was monitored on
+
+CUSICON OXIDATION
+
+either side of the furnace to ensure no leaks occurred within the furnace. The EMF was measured using an electrometer with an input impedance of 1012 V, or, in some cases, directly by a chart recorder (impedance 106 V). The contact to the cusicon electrode was treated as positive.
+
+CuZr2P3O12 was heated under air at 500°C for approximately 10 h, to oxidize it. It was mixed in equal proportions with unoxidized CuZr2P3O12 to produce a mixture containing CuZr2P3O12, Cu1/2Zr2P3O12, and CuO. One-mm lengths of 0.02 mm diameter platinum wire were added to increase the conductivity and, hence, improve electrical contact between the electrode and the contact wire.
+
+The reference electrode was formed by pressing a pellet from a mixture of Cu2O and CuO powders. The pellets were sandwiched on either side of the YSZ electrolyte and contact made with platinum foil. The whole assembly was maintained under an atmosphere of nitrogen. Considering the copper oxide reference, the partial pressure of oxygen is governed by
+
+reaction 5:
+
+DGO for reaction 5 is given in eq. 6 [32]:
+
+where T is the temperature in Kelvin between 573 and 1373°C. In the absence of other data, it has been assumed that this temperature range may be extended towards lower temperature.
+
+Since DGO 5 2zFEO and for this reaction at equilibrium EO is given by eq. 7:
+
+the partial pressure of oxygen in the reference electrode is given by eq. 8:
+
+Figure 2 shows the thermodynamics of the copper(I) oxide oxidation. For reference, the oxidation of copper metal is given by
+
+For this reaction, DGO is given [32] by
+
+(10) Calculation of DG r. At any given temperature, it is assumed that both electrodes are at equilibrium. As we have seen, eq. 4 gives a numerical value of the partial pressure of oxygen in the cusicon electrode. If cusicon only exists as the two end members CuZr2P3O12 and Cu1/2Zr2P3O12, then the reaction occurring in the cusicon electrodes is that shown by eq. 11:
+
+Since oxygen is the only species with nonunitary activity, eq. 12 holds true.
+
+Thermodynamics of Cu2O oxidation and reduction.
+
+If, as seems more likely, cusicon exists as a solid solution containing both Cu1 and Cu21, then the electrode reaction may be written as
+
+where the subscript (cusicon) indicates “dissolved in cusicon.” DG for this reaction is given by eq. 14.
+
+Since the molar fractions of the two cusicon species in the electrode are roughly equal, and assuming the activity coefﬁcient for each cusicon species is roughly equal, the second term in eq. 15 can be approximated as a constant.
+
+The closer the activities of Cu2O(cusicon) and CuO(cusicon) are to each other, the closer this second term becomes to zero. It should be noted that this equation is the same as the equation based on the assumption of a two-phase cusicon system. As discussed elsewhere [33], the assumption that the activities of the two copper species are similar seems reasonable. However, the electrode, which is manufactured by mixing two separate phases, may need to be heated to allow the two phases to dissolve.
+
+Details of the cells tested are given in Table 3. The EMF vs. time traces for the two cells tested are shown in Figures 3 and 4. It can be seen that the these cells show good reproducibility. The electrolyte in cell 1 contains only 3 wt% yttria and, therefore, has a lower conductivity than the electrolyte used in cell 2, which contains 9 wt% yttria. This, along with the lower input impedance of the chart recorded used to measure the EMF for cell 1, explains the longer equilibration times for cell 1, particularly at lower temperatures.
+
+Figure 5 shows ln(pO2) vs. the 1/temperature for both cells. Only the ﬁnal (equilibrium) values at each temperature are plotted. The data at lower temperatures show a slight deviation from linearity due to the fact that the cells do not fully equilibrate. This can be explained by the fall in conductivity of the YSZ electrolyte with temperature. The effect is seen at higher
+
+EMF vs. time for cell 1.
+
+EMF vs. time for cell 2 (runs 1 and 2).
+
+temperatures for cell 1 than for cell 2, due to the lower inherent conductivity of the 3 wt% YSZ electrolyte used in cell 1.
+
+Figure 6 shows a line ﬁtted through the ﬁnal values from cell 2 run 1. The forward reactions are favored above the lines, while the reverse reactions are favored below the lines.
+
+Error bars are shown assuming the worst case for the measuring equipment (65°C and 610 mV).
+
+It can be seen that, in air, at the synthesis and sintering temperatures, CuZr2P3O12 is favored, as expected. However, at the temperatures at which the thermal quenching was carried out, Cu1/2Zr2P3O12 is favored. This may explain why some Cu(II) is always found in the reaction products [26]. The time spent in the furnace cooling from the ﬁring temperature to the quenching temperature is short enough that only a small percentage of the product is likely to oxidize.
+
+
+Since the activities of the copper oxides dissolved in cusicon are not known, it was assumed that they were both equal, leading to loss of the second term in the above equation. This allows the construction of the plot shown in Figure 7 of DG vs. temperature, with the empirical formula shown in eq. 18.
+
+
+Temperature was measured in K, but the plot shows °C for convenience. Between 600 and 1100 K (the range of measurements), this is subject to an error of approximately 61220 Jmol21, due to inaccuracies in the measuring apparatus.
+
+Deviation from this assumed behavior implies, ﬁrst, that a certain degree of uncertainty in the value of DG at any temperature will result from the second term in the theoretical equation for DG. Second, the lines shown in the previous ﬁgures will need to be modiﬁed to take this second term into account.
+
+Assuming that the DG line is correct, then for cases where aC 2
+
+the line showing log(pO2) vs. 1/T is correct. However, if a greater proportion of the cusicon becomes oxidized, then the activity of CuO(cusicon) rises relative to the activity of Cu2O(cusicon), forcing the second term in eq. 17 to fall below zero and shifting the line toward a higher value of partial pressure of oxygen. Conversely, if the cusicon is reduced so that the activity of dissolved Cu2O is larger than the activity of dissolved CuO, then the line moves down. This is shown graphically in Figure 8. The dashed lines show trends rather than real data.

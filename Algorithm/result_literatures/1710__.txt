@@ -1,0 +1,142 @@
+Single phase Na0.44MnO2 powder was synthetized by a classical solid-state reaction.
+Using a plastic technology, we studied the potentiometricresponse versus Na+ ions in aqueous medium.
+A Nernstian-like response (55 mV/dec) was obtained for concentrations ranging from 1M to2×10−4Mwith a quite good selectivity towards Li+, K+, Mg2+ and Ca2+.
+Through an ageing study of this material in aqueous solution, we clearlyidentified the sensing material as being the Na0.33MnO2 phase.
+Furthermore, we proved that the sensing activity of this compound is routed in itsability to reversibly insert/de-insert Na+ ions.
+The need to carefully monitor different species (molecules,ions) for fundamental studies (medicine), as well as environmentalor process control (industry), has boosted the search for newsensor devices.
+Among the different ions, whose quantificationremains important, sodium ions are still playing a major rolebecause of the importance of their metabolism into the humanbody.
+Indeed, sodium ion concentration plays a key role in theblood pressure regulation, and is also important for efficientmuscles movement and nerves functioning.
+Presently, for serumanalysis, methods such as flame photometry are mainly used.
+However they are still expensive and heavy methods, preventingin vivo measurements.
+Moreover, optical-based measurements(called optode technology) are nowadays under developmentleading to quite good sensing properties .
+Electrochemicalion sensors are an elegant alternative to determine theconcentration of such an ion during in situ and in vivo conditions.
+Caravel et al.have, for instance, developed a NASICONbasedmembrane for sodium ion quantification within gengivalfluid .
+Within this context, various strategies were undertakento develop sensible, selective and reproducible sodiumion sensors bearing in mind that the required detection limit,response time and/or sensor life-time depend on the desiredapplication.
+Among them, the use of inorganic materials suchas Na1+xZr2SixP3−xO12 with NASICON-type structure or sometungsten/molybdenum bronzes (Na0.4WO3 and Na0.9Mo6O17) has been favoured together with the incorporation oforganic ionophores (for instance based on Calix-4-arenes) into apolymeric matrix (PVC, photocurable polymeric matrix, etc.
+) toform either Na+-based thin films or membranes sensors.
+Besides membranes-type electrodes , frequency dropvariation in a quartz crystal microbalance , ion selective fieldeffect transistor (ISFET)  or electrolyte–insulator–semiconductor(EIS) technologies , can be used as sensor.
+Neverthelesssuch technology remains difficult to optimize and istherefore poorly competitive as compared to the actual availableNa+ glass electrode .
+The use of insertion materials for sensing was recentlyreported by Kanoh et al.
+They described the assemblyof a selective lithium ion sensor using the well-known spinelLiMn2O4 (widely studied as positive electrode in secondarylithium-ion batteries).
+Later, our group reported the use of theolivine-type LiFePO4 insertion material, either in its bulk or thinfilm form, as a good candidate for Li-ion sensor .
+Switchingto Na-type ion sensor, Tani et al.suggested Na0.44MnO2as sensible material.
+This material was previously studiedfor its ability to reversibly accommodate sodium or lithiumions .
+In neither of these studies, as it was underlined,the starting material was single-phased but instead containedbixbyite Mn2O3 as an impurity phase.
+Furthermore the mechanisminducing the quasi-Nernstian response in the presenceof Na+ was not clearly described.
+Thus, the aim of the presentwork was first to define the synthesis parameters enabling theformation of pure Na0.44MnO2 and secondly to clearly studythe potentiometric properties of this material towards sodiumions.
+Furthermore, in relation with the sodium insertion properties/mechanism of Na0.44MnO2 in aqueous electrolyte, the sensingmechanism governing the sodium potentiometric responsewill also be discussed.
+Na0.44MnO2 powder was obtained through a classic solidstatereaction using a stoichiometric mixture of MnCO3 andNa2CO3. 
+The mixture was successively heated 8 h at 300 ◦Cand 9 h at 800 ◦C under air with intermediate grinding.
+Followingthis procedure, a black-coloured powder was obtained.
+ItsX-ray diffraction (XRD) pattern was collected in a (θ–2θ) configurationusing a Philips PW1729 associated with a Cu Kanticathode (λ = 0.15418 nm).
+The particles morphology and theNa/Mn molar ratio were investigated using an environmentalscanning electron microscope (ESEM) FEI Quanta 200 FEGequipped with an EDS analysis system (Oxford Link Isis).
+Electrochemical characterizations were made using the plastictechnology developed by Bellcore for electrode formation.
+The active material is manually ground with 6% of SPtype carbon black, 15% of PVDF-HFP copolymer and 21% ofDiButyl Phtalate (DBP) plasticizer (all percentages given byweight).
+Acetone is then added to the mixture so as to obtaina paste that can be cast over a glass plate.
+After drying, a plasticcomposite film is obtained, and can be cut to the wishedsize according to the measurement to be performed.
+The filmis then laminated with a platinum grid under a 20 psi pressureat 135 ◦C.
+Prior to being used, the DBP plasticizer is extractedusing diethyl ether (two washings of 15 min each).
+Open circuitvoltage and potentiostatic measurements were carried out usinga three-electrode cell configuration with a saturated calomelelectrode (SCE) and a Pt wire as reference and counter electrodes,respectively.
+For the potentiometric measurements, thethree electrodes were immersed in aqueous NaNO3 solutionswith concentrations ranging from 1 to 10−5 M.
+The selectivitycoefficients were evaluated by using the fixed interferentmethod (FIM).
+For this, potential interfering ions (Ca(NO3)2,LiNO3, Mg(NO3)2 orKNO3) were added to sodium nitrate solutionsat a fixed concentration (5×10−2 M).
+Electrochemicalsodium de-insertion/insertion from Na0.44MnO2 was realizedusing potentiostatic intermittent titration technique in an aqueous NaNO3 1M electrolyte in a three-electrode cellwith Pt and SCE, as counter and reference electrodes, respectively.
+The entire measurements presented herein were recordedat 30 ◦C using a thermostated bath.
+The potentiometric andgalvanostatic measurements were monitored using a “VMP”automatic cycling/data recording system (Biologic, Claix,France).
+From a structural point of view, manganese oxide-basedmaterials represent a very rich and versatile family with namelylayered solids, 3D materials and 1D tunnel structures.
+Two ofthem, the cryptomelane KMn8O16 and Mn0.44MnO2, whichwere reported as attractive materials for the development ofsensors , present particularly opened structures with largetunnels (2×2 and two connected 1×3, respectively) intowhich large cations can be accommodated.
+Na0.44MnO2is isostructural with Na4Mn4Ti5O18 which crystallizes in anorthorhombic lattice (Pbam space group).
+The manganese ionsare located in two different environments.
+Mn+IV and half of theMn+III ions are in octahedral sites (MnO6) whereas the other halfis located in a square pyramidal environment (MnO5).
+MnO5square pyramids are edge-linked to two double and one tripleoctahedral chain so as to form the framework presenting twotypes of tunnels.
+Two sodium sites (referenced as Na(1) andNa(2) in Fig.1) are situated in large S-shaped tunnels whileanother site is found in smaller tunnels (Na(3)) .
+Accordingto this crystal structure, the main diffusion path for sodiumis along the c-direction.
+The Na/Mn = 0.44 composition correspondsto a complete filling of the Na(3) sites and half filling ofthe S-shaped tunnels.
+According to the literature, two methods were previouslyused in the preparation of Na0.44MnO2 powder: a glycinenitratecombustion method or a ceramic route .
+Whatever theway followed, no single phase was obtained since the Mn2O3bixbyite impurity was concomitantly formed with Na0.44MnO2.
+The difficulties in obtaining Na0.44MnO2 are due to the volatilityof sodium oxide at the used synthesis temperature.
+Thereforewhen a slight sodium amount is lost during the last thermal treatment at 800 ◦C, we obtain a mixture of Na0.44MnO2 and Mn2O3.
+To avoid this problem, we pursued two different paths.
+The first one consists in increasing the Na/Mn ratio in the initialmixture to compensate for the sodium loss.
+Along that line, with10% Na excess and a time reaction of 12 h, pure Na0.44MnO2was always obtained.
+Another possibility consisted in reducingthe annealing time.
+For instance, 5 g of the wished material wasprepared by conducting a second thermal treatment at 800 ◦Cfor 9 h.
+Lower heating times favour the formation of the sodiumrich manganese oxide phase -Na0.70MnO2, concomitantly withNa0.44MnO2 and Mn2O3.
+ Conversely, as we could predict, alonger heat treatment favours the growth of Mn2O3-bixbyiteas the impurity phase.
+The resulting XRD diffraction patternof pure Na0.44MnO2 obtained following the second method isshown Fig.2. 
+A good agreement was found with the previouswork for the determined lattice cell parameters using FullProf(Table 1) .
+The powder shows very anisotropic particleswith rod shapes (length: 5–10 m; width: 500 nm) (Fig.2inset).
+The Na/Mn ratio was checked by EDS.
+The compositionis very homogeneous within the sample, and is consistent withthe Na0.44MnO2 formula.
+Na0.44MnO2 as sensing element was first proposed by Tani etal.owing to the fact that it gave a near-Nernstian response regarding the Na+ ion concentration in solution.
+However theirpowders were always contaminated by the presence of Mn2O3 impurities.
+For such a reason together with the uncertainty aboutthe composition of the sensible material, we decided to revisitthe potentiometric response of pure Na0.44MnO2 powders usingplastic electrodes.
+When a fresh composite electrode (sensiblematerial/C in a polymeric matrix) is dipped in NaNO3 1Msolution,the recorded open circuit voltage is about−0.075V(versusSCE) and slightly increases with time.
+After 2 h equilibrium, anasymptotic value of −0.005V (versus SCE) is reached (Fig.3).
+At this state, however, no proper Nernstian-type response isobserved when the sodium concentration is dropped down to10−1 and 10−2 M.
+Interestingly, we experienced that by dippingback the electrode inNaNO3 1Msolution the equilibrium potentialis reached faster with a value of 200mV higher than the oneobtained after the first dip.
+This is indicative of the oxidationof our material by the dissolved oxygen during a conditioningstep.
+This observation together with the one from Tani underlinedthat, to obtain a Nernstian-like response, such ageing stepis then essential.
+Bearing this in mind, we let an electrode agefor about 40 h in NaNO3 10−2M solution.
+We noticed that theequilibrium potential in the molar sodium nitrate solution hadmuch increased compared to the fresh one, that is 0.255V versus−0.005V (Fig.4a) further suggesting the occurrence ofan oxidation process.
+Once such a steady potential responsewas reached, the electrode response to various Na-based solutionswas very stable, rapid (100 s (Fig.4a inset)) with a goodreversibility.
+The equilibrium potential evolves along a lineardomain as a function of the logarithm of the Na+ concentration(Fig.4b) with a sensitivity of 55 mV/dec from 1M downto around 2×10−4M (∼4 ppm equivalent).
+It is interesting tonotice that the sensitivity value is here closer to the Nernstianslope compared to the results from Tani et al.
+(44 mV/dec).
+Apossible explanation for such a difference may be rooted in electrodekinetic limitations owing to the fact that the two electrodesare made differently.
+The characteristic of the presently preparedNa0.44MnO2 sensing electrode favorably compares to previousworks for both inorganic or organic “ionophores” namely interms of sensitivity and detection limits .
+Furthermore,this material can fulfill specific needs requested by specificapplications such as medical ones owing to the fact that thesodium concentration in the human blood is of the order of0.15 mol l−1. Besides, a crucial figure of merit when dealingwith sensors is their selectivity.
+To evaluate the selectivity ofthis sensor, as we discussed at length in a previous paper ,we used the fixed interference method [29].
+Fig.5 gathers the experimentalcurves that were fit for the different interfering ions tested herein(namely Ca2+, Mg2+, K+ and Li+).
+These cations were chosenbearing in mind their presence and therefore their possible interferencesin blood samples (usually Na+, K+, Ca2+ and Mg2+at concentrations around 142, 5, 2.5 and 1.5 mmol/l, respectively).
+Furthermore the K+ and the Li+ ions are the most criticalinterfering species for the sodium sensors whatever the usedionophore according to previous studies .
+Theas-determined selectivity coefficients are gathered in Table 2together with Tani’s results.
+The largest differences areobserved for Ca2+ andMg2+ ions.
+In addition, let’s note that thereis a discrepancy between the experimental curves and the valuesobtained using the equation described above.
+Indeed, accordingto the graph Fig.5, among the tested cations, Ca2+ is themost interfering one and so the selectivity coefficient shouldbe the largest one.
+Interestingly, a similar type of discrepancywas also noticed for the bivalent interfering ions in the case ofLiFePO4 sensing material.
+To try to resolve this dilemma,we determined again these selectivity coefficients using n=1 inEq.(1).
+In this case, we can account for the observed curves withthe following sequence Ca2+ >Li+>Mg2+ >K+.
+Knowing thatdetermining the selectivity coefficient is still an open question, we tried in parallel the recommended matched potential method but did not succeed in accounting for the experimentalresults.
+Whatever the equations used, the obtained selectivityvalues are low enough for a wide number of applications.
+Itappears that Ca2+ is the most interfering ion for the testedmaterial with a selectivity coefficient of 1.14×10−1. Knowingthat calcium and sodium ions are about the same size, wecould explain an interference mechanism based on ion exchange.
+However, the interference with Li+ ions can be explained bytheir small ionic radii enabling their insertion into NaxMnO2 asdemonstrated by Doeff et al.
+Besides, we can highlight thatmuch better selective responses were obtained with this materialcompared to those obtained with the other inorganic materials(Na0.9Mo6O17 and Na0.40WO3).
+There is still a pending question based on the effect of theageing process.
+In order to better understand this phenomenon,we let a sample of Na0.44MnO2 powder ageing in a solution of10−2M NaNO3. After 40 h, the solid was recovered by filtrationand dried at 60 ◦C.
+Fig.6 represents the evolution of theXRD pattern during this “treatment”.
+Obviously changes didoccur with namely a large 2θ shift in the position of a few peaksthat can be observed.
+For instance the [1 2 1], [1 1 1 0], [4 3 0],[3 1 1], [1 9 1], [2 9 1] Bragg reflections clearly shift while the[2 0 1] peak remains unchanged in 2θ.
+Using the FullProf Softwarein a pattern-matching mode, we refined the cell parameters.
+The calculated values, reported in Table 1, underline noticeablelattice parameters variations compared to the pristine powder(+0.2% along a and −1.3% along the b-direction).
+In contrast,the c-direction, which the sodium ions diffuse, does not seem to be modified.
+Overall, these evolutions induce a volume cellcontraction of 1.2%.
+While the particle morphology is preserved(Fig.6 inset), we noticed that the Na/Mn ratio dropped to 0.33as deduced from EDS.
+Whatever the sodium nitrate aqueoussolution concentration and despite the soaking time increasedbeyond 10 h, this ratio was found to remain constant.
+To check if this Na0.33MnO2 composition is responsiblefor the observed potentiometric responses, we made a plasticcomposite electrode out of it.
+Remarkably, a quasi-Nernstianresponse with similar characteristics (sensitivity, linear domainlength and response time) to the one represented in Fig.4bis directly obtained without any need to wait for the electrodepotential to stabilize.
+This is the direct experimental proofthat the sensing material is Na0.33MnO2 (with a Na0.44MnO2type structure) and not the pristine Na0.44MnO2 as it was firstreported.
+To better understand the mechanism leading to the potentiometricresponse versus sodium ions of Na0.44MnO2, weherein confronted theOCVmeasurements with the electrochemicalNa+ insertion/de-insertion characteristics of Na0.44MnO2in aqueous medium (NaNO3 1 M).
+Afirst small plateau (noted 1), characteristic of a biphasic phenomenon (as confirmed by the current evolution),is obtained at a potential of 0.05V.
+Then, when the potentialis further increased, two other phase transitions are observed at0.27 and 0.50V (versus SCE).
+Such an evolution occurs also innon-aqueous electrolyte such as NaClO4/PC electrolyte and disagreeswith previous works.
+These phase transitions werefound between phases structurally very close and are nowfurtherexamined through in situ X-ray diffraction, and will be reportedelsewhere .
+We can further exploit the potentiometric propertiesby correlating the material evolution during ageing withthe observed oxidation curve.
+Interestingly, we notice that theobtained sensing material (Na0.33MnO2) corresponds to a limitcomposition of a biphasic transition (phenomenon 2).
+Furthermore,the insertion/de-insertion potential at which this occursis equal to the potentiometric value obtained at 1M (Fig.4).
+Itclearly demonstrates that the potentiometric response is unambiguouslylinked to the possible insertion/de-insertion of sodiumions in these Na0.44−xMnO2-type phases.
+Moreover, to obtaina stable potential it is necessary that the material compositioncorresponds to a well-defined potential plateau characteristicof biphasic electrochemical reactions.
+Bearing in mind that thepotentiometric measurements are realized in O.C.V.conditions(zero current), and thus no major phase changes in compositionoccur, it means that such redox process mainly occurs on thesurface as soon as the stable sensing material is obtained.
+Thusthe material provides both accessible surface sites to accommodatethe Na+ ion more or less selectively and an accessible redoxcentre.
+By further oxidizing, we noticed the appearance of a thirdplateau at a higher voltage.
+An oxidation was realized in a galvanostaticmode followed by a chrono-amperometry experimentat 0.55V to stabilize the high potential phase.
+The resultingcomposition Na0.25MnO2 gives again a stable and reversibleO.C.V.evolution in different concentration sodium nitrate solutions(Fig.8a).
+We can also notice that the O.C.V.value in1M is consistent with the value obtained on the third plateauduring oxidation (Fig.7).
+All the sensing characteristics are similarto those of Na0.33MnO2, with the exception of the largestresponse time (600 s versus 100 s forNa0.33MnO2) (Fig.8b).
+Theincrease in the response time is most likely due to kinetic limitationsthat are more pronounced in the most oxidized material.
+A simple explanation could be that, as we are approaching thelimiting composition available, the kinetics of sodium insertionare more limited while from a structural point of view we couldexpect a composition range from 0 < x < 0.66 inNaxMnO2. Itwasreported that whatever the oxidation route (chemical or electrochemical)the upper composition limitwas around Na/Mn = 0.17ratio , thus underlining the kinetic limitations consistentwith our experimental data.
+In this paper, by carefully controlling the synthesis process,we successfully synthesized the single phase Na0.44MnO2enabling then to report its intrinsic potentiometric properties.
+Along this study, we clearly identified that in reality the sensingmaterial was Na0.33MnO2, formed by oxidation of the pristinematerial in aqueous nitrate solutions, and not Na0.44MnO2. Afterthe formation step, the formed electrodes exhibit good sensingproperties with quasi-Nernstian responses, stable, reversiblewith a response time of the order of 100 s.
+The obtained selectivityis quite good versus Li+,K+,Ca2+ andMg2+.
+Furthermore,wedemonstrated that the potential response of this phase is linked toits ability to reversibly accommodate sodium through a biphasictransition.
+While the sensing properties of Na0.44−xMnO2 arequite attractive, further work is needed to well understand itsinsertion/de-insertion mechanism as well as to turn such materialinto a practical Na+ sensor.

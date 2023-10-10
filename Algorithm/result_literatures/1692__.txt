@@ -1,0 +1,238 @@
+A review is presented of materials thatcould be utilized as electrolytes (and their associatedelectrodes and interconnect materials) in solid-stateelectrolysis cells to convert water (or steam) intohydrogen and oxygen.
+Electrolytes that function asoxygen ion conductors or proton conductors areconsidered for various operating temperatures fromapproximately 80 C to 1000 C.
+The fundamentalelectrochemical reactions are reviewed with somediscussion of special sources of steam and DC electricity(advanced nuclear) to drive the reactions at thehigher temperatures.
+Hydrogen generation can be accomplished via water(steam) electrolysis at the cathode of cells utilizingsolid membranes.
+The membranes typically are electronicinsulators and gas-tight (hermetic), but conductions via fast diffusion through the solid.
+The cellcombinations are generally categorized by the nameof the solid electrolytes they utilize.
+It has been foundfor some operating fuel cell anode/electrolyte/cathodesystems that the fuel cell reactions at the electrodesare reversible.
+However, reversibility has not beendemonstrated for all cathode/electrolyte/anode combinations.
+The H2O input can be liquid water at lowtemperatures or steam at high temperatures.
+Combinationsof materials that are found in various types ofsolid electrolyte cells that likely could be used togenerate hydrogen via electrolysis are describedbelow.
+The most common high-temperature (e.g.approx.800–1000 C) cells being investigated are solid-oxidefuel cells (SOFCs) using yttria or scandia-stabilizedzirconia electrolytes that are rapid oxygen conductors.
+Over many years, yttrium and scandium have beenused to substitute on the zirconium lattice site tostabilize the cubic structure and increase oxygen iondiffusion by creating oxygen vacancies to compensatefor their aliovalent (Y+3 or Sc+3 on Zr+4 site) charges.
+Yttria provides excellent structural stabilizationand good ionic conductivity.
+Scandia has been longknown to provide higher ionic conductivity, but atadditional material cost.
+Loss of conductivity forscandia-stabilized zirconia has been reported due tophase changes upon aging at high temperatures .
+This instability certainly would be less of aproblem for cells operated at the lower temperatures ofthis range .
+For long-life operation at hightemperatures, it is very important to use suitableelectrodes that don’t interactundulywith the electrolyte or lose their activity .
+Cells using zirconia electrolytes have traditionally usedNi–ZrO2 and doped LaMnO3 electrodes.
+These combinationshave proven to be structurally and chemicallystable at high temperatures for long periods of time with fuel cells operating for up to 25,000 h with performancedegradation of less than 0.1% per 1000 h .
+Someinter-diffusion and formation of non-conductivecompounds like La2Zr2O7 has been reported , beingmore severe at high temperatures  and long times.
+During the electrolysis reaction, oxygen is removedfrom the electrolysis reaction site via the membrane(oxygen ion conductor), leaving hydrogen gas and anyun-reacted steam on the cathode side.
+In order toobtain pure hydrogen gas, the hydrogen must beseparated from the steam by using one of a numberof methods.
+Methods could include condensation ofthe steam (followed by drying), or the use of ahydrogen conducting membrane (likely used at elevatedtemperature and perhaps elevated pressure).
+Some of the earliest hydrogen production via hightemperature steam electrolysis was carried out inGermany in the late 1970’s using series-connected,tubular, zirconia-electrolyte cells.
+Their designs included the possibility of usingheat and electricity derived from a high temperaturenuclear reactor to drive cells at high efficiencies .
+Reports from Germany on high temperature electrolysis continued through the mid-1980’s, butconstruction of large-scale plants was never realized.
+This was partially due to the industrial extraction ofhydrogen from inexpensive natural gas that was thenavailable .
+However, cell design may have been afactor since other electrolysis cell-stack concepts were addressed in 1992 .
+Subsequent testing ofelectrolysis cells utilizing tubular yttria-stabilized zirconiaelectrolytes in Japan was reported by Hino andMiyamoto .
+There has been recent successfultesting at INEEL and Ceramatec of planar-design,zirconia-electrolyte, solid oxide fuel cells as steamelectrolyzers .
+Single cells and cell-stacksutilizing yttria and scandia-stabilized zirconia electrolyteswere tested over a range of operating temperatures(700–850 C) and steam/H2 input compositions.
+Little activation polarization was observed near opencircuit voltages.
+However, some activation polarizationmay have been masked by resistance dominated by arelatively thick electrolyte.
+Eguchi et al.notedpolarization losses due to concentration over-voltagesat high temperatures when using Ni–YSZ electrodes.
+However, polarization is very sensitive to electrodemicrostructure  and can vary from studyto study.
+The INEEL/Ceramatec data showed a linearand symmetric behavior in the I–V characteristics fromthe fuel cell mode to the electrolyzer mode ofoperation (up to the point of where steam is largelydepleted).
+Cell degradation characteristics were atleast as good in the electrolysis mode as in the fuelcell mode.
+However, longevity problems could likelybe due to long-term corrosion and leakage (associatedwith cracking).
+These issues are tied to structuraldesign and material selection.
+Loss of structural integrityof high-temperature steam-electrolysis cells afteronly one thermal cycle has been reported by Hino et al.
+Seal degradation due to corrosion and thermalcycling for these high-temperature devices is expectedto be a large problem that must be overcome.
+The proposed operating temperature for the zirconiamembranes is within the 800–1000 C range and thereforeis a good match to utilize heat from a newgeneration of proposed high-temperature gas-cooledreactors .
+For instance, the Very High TemperatureReactor (VHTR) reference concept has beendescribed as a helium-cooled, graphite moderated,thermal neutron spectrum reactor with an outlettemperature of 1000 C or higher .
+In the U.S. there are investigations to combine a nuclear reactorwith a high temperature steam electrolysis plant togenerate hydrogen.
+A schematic diagram of this combinedplant is shown in Fig.1. 
+Process heat would beavailable for generating electricity and heating steam,after heat exchanging of the helium coolant, at outlettemperatures somewhat lower than the 1000 C.
+Thehigh temperature electrolysis utilizes both heat andelectricity generated by the reactor.
+
+The PBMRcurrently has an average helium coolant exit temperatureof 900 C under normal operating conditions .
+Steam electrolysis is feasible at moderate temperaturesusing cells constructed with one of a variety of solid inorganic (ceramic) membranes.
+These temperaturescould range downward from approximately 800 C toabout 500–600 C using ceramic membranes that areeither oxygen ion or proton conductors.
+
+Of course the steam temperaturein a secondary cooling loop would be somewhatless than a reactor’s coolant outlet temperature due toheat-exchanger inefficiencies.
+One approach to enable operation at lower temperaturesis to reduce the thickness of zirconia electrolyte using any one of a number of diversefabrication techniques such as: tape calendaring, centrifugal casting , sol-gel , vacuumplasma spraying , reactive sputtering ,pulsed laser-plasma evaporation , chemical vapordeposition (CVD), or electro-chemical vapordeposition (EVD).
+Very thin electrolytes generallyhave to be supported by a thicker, porous electrode.
+Wang mentions the problem of micro-porositythat is normally observed in zirconia electrolytes whenusing the evaporative-type deposition techniques,whereas CVD-type coatings are generally much morehermetic.
+The other approach is to develop newelectrolyte compositions with higher ionic conductivities(for a given temperature range).
+Even thoughthese electrolytes have higher ionic conductivities thanzirconia at temperatures in the 600–800 C range, theygenerally haven’t been applied at higher temperaturesfor a variety of reasons: (1) Low activation energy fordiffusion such that, while ionic conductivity is higherthan zirconia at moderate temperatures, ionic conductivitycan be lower than zirconia at high temperatures,(2) chemical instabilities, inter-diffusion, or reactionswith other cell components (electrodes, bi-polar plate,sealants), (3) poor high-temperature mechanical orcreep properties, or (4) a desire to use the electrolytein cell stacks in conjunction with low-cost metalbi-polar plates that operate best at low to moderatetemperatures (due to problems with low-conductivityoxidation layers formed at high temperatures).
+Over the last decade there has been significant R&Dto reduce the operating temperature of solid oxide fuelcells.
+This primarily is intended to enable the use ofcheaper, and higher conductivity (when compared toelectronically conductive ceramics like doped lanthanumchromite) bi-polar plates made from metal alloysand at the same time minimizing formation of the lowconductivitymetal oxide layers.
+This has spurred thetrend toward fabrication of much thinner electrolytes that are electrode-supported.
+In the last few years, doped LaGaO3 electrolyte hasemerged as a fast oxygen ion conductor with lowelectronic conductivity that could be used at reducedtemperatures .
+Aliovalent atoms areadded to LaGaO3 (ABO3) in order to create largeconcentrations of oxygen vacancies.
+
+Otherstudies have been conducted to measure dopedLaGaO3’s electronic conductivity , and developsuitable electrodes.
+Questions regardingLaGO3’s high temperature strength, toughness/durability(compared to ZrO2), and long-term interactionswith electrode combinations are still being answeredby single-cell fuel cell tests .
+Single-cellsutilizing plasma-sprayed LSGM electrolytes have beenrecently reported by Ma et al.
+Because LSGM hasa lower melting point than zirconia it may be easier toplasma spray gas-tight films using LSGM than whenusing zirconia.
+LSGM development has been slowed byits chemical reaction with nickel in the fuel electrode.
+Recently a CeO2 (Sm doped) buffer layer hasbeen added between the electrolyte and the fuelelectrode that largely eliminates the reaction .
+Huang notes greatly improved performance withLa0.6Sr0.4CoO3–d (LSMCo) cathodes compared to LSMcathodes.
+A LSGM (strontium and magnesium dopedLaGaO3) electrolyte (‘‘thin’’ film, anode supported)single-cell has been tested as an electrolyzer at 800 C.
+The cell exhibited a steady current density of 700mA/cm2 for a period of 350 h .
+Ishihara hasalso reported doped PrGaO3 is a fast oxygen ionconductor, but it doesn’t seem to hold any advantageover LaGaO3.Doped ceria (CeO2) has been a long-time oxygenionconducting SOFC electrolyte candidate .
+Itsionic conductivity is about one order of magnitudegreater than zirconia in the 500–600 C range.
+Ceriahasn’t been viewed as viable at high temperaturesbecause of excess electronic conductivity.
+However, ifthe operating range is below 700 C, then its ionictransference number is greater than about 0.9 and itcould be considered as a candidate electrolyte for amoderate temperature electrolyzer.
+Typical dopantsfor CeO2 are: Gd (10–20% substitution for Ce) , Y, and Sm .
+Materials cost for doped ceriaelectrolyte are significantly lower than for dopedLaGaO3 electrolytes .
+With regard to electrodes, platinum’s CTE is a goodmatch to that of zirconia and doped CeO2. Porousplatinum is known to have excellent catalytic activity;but, due to high cost, platinum is usually used only inthe developmental testing of some single-cells.
+Traditionalconducting perovskite electrodes (air) have beendeveloped with thermal expansion coefficients (CTEs)to approximate that of zirconia.
+Since ceria interactstoo much with strontium-doped lanthanum manganites,other perovksites compositions have been proposedfor air electrodes (La0.8Sr0.2Fe0.8Co0.2O3–d and LaFe0.5Ni0.5O3–d) .
+A strong need for alternativelower-temperature SOFC anodes to replace nickelcermets has not been clearly identified (althoughcopper has been used to prevent carbon depositionwhen using hydrocarbon fuels).
+Ni has been shown to exhibit the highest electrochemical activity for H2oxidation (and assuming reversibility, for H2 reductionin an electrolyzer) of the group: Ni, Co, Fe, Pt, Mn andRu.
+For operating fuel cells, over-voltages (polarizations)of Ni/samaria-doped ceria and Pt/samaria-dopedceria (SDC) cermet anodes were very small ascompared with those of Ni/YSZ and Pt/YSZ cermetanodes.
+Electrode polarization generally is not aproblem when operating at 950–1000 C; however,polarization becomes a very significant problem atintermediate temperatures, especially for the air-electrode.
+A recent review of SOFC anodes by Jiang andChan  is a good source for Ni/ZrO2 information aswell as for information on various other cermets orconducting oxides such as gadolinium- or samariumdopedceria, titanate-base oxides, and lanthanumchromite-based materials.
+The Jiang and Chan articlealso reviewed thick, anode-supported and porousmetal-supported thin-film electrolytes; where the poroussupport material provides the structural strength.
+Because of improved performance from the thinelectrolytes, these type cells are being considered foroperation in the 600–800 C range.
+Since the poroussupport can have a significant thickness (e.g.in the500–2000 lm range), polarization losses due to gasdiffusion can become significant.
+Therefore, a gradedpore size structure would become important with largepore channels to enable easy diffusion of gases in mostof the electrode, yet have high surface area to enablethe reaction near the electrolyte interface.
+Bismuth oxide (Bi2O3) is a much better oxygen ionconductor than doped CeO2 at intermediate temperaturesand always has held promise as a high performanceelectrolyte.
+However, despite over 30 years ofstudies, Bi2O3 is still plagued with crystallographic andchemical stability problems that have prevented implementationin practical long-lived cells.
+As reviewed byAzad et al., a-Bi2O3 (monoclinic) is stable below730 C while the very high conductivity d-Bi2O3 (cubic,CaF2 type) is only stable between 730 C up to itsmelting temperature of 825 C.
+This is much toonarrow of a range that is too close to the Bi2O3melting point.
+The d-Bi2O3 contains 25% vacantoxygen sites that results in the extremely high oxygenion conductivity (approx.1 W–1 cm–1 near the meltingpoint).
+The d-Bi2O3 also must be phase-stabilized bydoping (e.g.Y2O3) in order to avoid the cracking thatresults from the volume change associated with the d fi a phase change.
+Even stabilized d-Bi2O3 is proneto reduction into metallic bismuth (even at moderatelylow oxygen partial pressures).
+These features lead tothe tentative conclusion that d-Bi2O3 is not a goodcandidate to be an electrolysis cell’s electrolyte.
+However,because of the promise of high conductivity atlow to moderate temperatures, researchers in the1990’s studied a wide variety of bismuth oxide containingcompounds.
+Because yttria-stabilized Bi2O3will transform to a rhombohedral phase (via diffusion)when annealed at less than 700 C, some researchwas conducted on rhombohedral-phase Bi2O3 that wasstabilized by alkaline-earth oxide dopants  or Nb2O5–Bi2O3 which appeared to be more stable(remained as cubic phases) than Y2O3–Bi2O3.
+During the 1990’s a new group of low-temperatureoxygen ion conducting compounds based on bismuthvanadate (Bi4V2O11) were studied .
+Crystalstructures were studied into the mid-90’s and it wasfound that Bi4V2O11 exhibits three phases (a, b, c)between room temperature and 800 .
+The c phaseis the high-temperature, highest oxygen conductivityphase due to anion vacancies and a disordering ofthe anion vacancies.
+The gamma structure can bestabilized to room temperature by partial substitutionof various metal ions for vanadium.
+Thesecompounds were termed BIMEVOX.
+Investigationsof fabrication with possible application as an electrolytewith particular interested in copper substitutedmaterial  followed.
+There is some electrical conductivitydata measured on BICUVOX ‘‘cells’’, but noactual fuel cell data seems to be available.
+This maybe an indication of increased electronic conductivity (electronic shorting of cells) or the material’sdilation when this type of material is reduced in ahydrogen-containing atmosphere.
+For a depletedsteam electrolysis gas stream, the H2/H2O ratiocould be in the 0.85–0.90 range, which could causereduction at the fuel electrode (cathode).
+At thistime, BIMEVOX electrolytes could not be consideredgood candidates for moderate-temperatureelectrolytes for steam electrolysis cells.
+Kreuer has reviewed proton-conducting materialsfor fuel-cell applications, including both liquid andsolid conductors.
+Using proton-conducting ceramics asan electrolyte for a steam electrolyzer involves thesame reactions as for a low-temperature protonconductingpolymer membrane.
+Therefore, the proton conducting ceramics representa significantly different technology than theoxygen ion conducting ceramics like zirconia, ceria,or lanthanum gallate.
+For fuel cell operations , theproton-conducting cells have a thermodynamic advantageover oxygen ion cells (due to product water beingswept from the cathode by excess air required for cellcooling) and applications driven by maximizing efficiencyat the expense of power density favor protoncells.
+Proton conductors like the cerates (BaCeO3 andSrCeO3) have been studied for a number of years,while doped barium zirconate (BaZrO3) has beenadvancing strongly in the last couple of years due toreports of high conductivity and good chemical resistanceto CO2 (not relevant for steam electrolysis).
+Aliovalent acceptor doping of BaCeO3 onthe Ce site in compensated by the formation of oxideion vacancies VO to balance the site charges.
+TheOHO specie is a proton bound to an oxygen ion inthe lattice.
+However, the proton can hop fromone oxygenion to another, giving rise to proton conductivity.
+Iwahara introduced  doped (Y, Yb, Sc) SrCeO3as a proton-conducting electrolyte with tests usingplatinum electrodes.
+He later reported cell tests inboth fuel cell and steam electrolyzer mode (forhydrogen production) using both platinum and nickelfuel electrodes.
+A small electrolyzer was fabricatedusing SrCe0.95Yb0.05O3–d electrolyte; and, pure andvery dry hydrogen gas was produced at 750 C atthe rate of about 3 L/h–1. Emphasis later shifted todoped (Gd or Nd) BaCeO3 because of increasedproton conductivity .
+The temperature range ofapplication for electrolyzers was anticipated by Iwaharato be 600–800 C.
+There was some concern aboutthe chemical stability of BaCeO3 in CO2 and H2O.
+Even though BaCeO3 dissolves in boiling water, it isrelatively stable as a dense electrolyte at high temperaturesin high water vapor atmospheres .
+There has been considerable interest in developingproton-conducting perovskite ceramics in Germany.
+BaZrO3 is a newly considered compound originated byKreuer [84] for use in the 500–800 C range.
+It is very refractory (good thermodynamic phase stability), andhas good proton conductivity if it is doped withacceptors .
+Proton conductivity has beenincreased in BaZrO3 grain boundaries by formingsolid solutions with small amounts of BaCeO3 .
+Recently, electrical and mechanical properties weremeasured and fabrication techniques developed forbarium calcium niobate (Ba3Ca1+xNb2–xO0–d) ,but cell performance data is not yet available.
+Kreuerrecently published a careful review of the considerationsand problems involved with fabricating SOFCsutilizing proton-conducting perovskites.
+The electrolytethickness and electrodes have not been optimizedfor maximum performance.
+However, thesematerials have not shown sufficient conductivity tocompete (in fuel cell or electrolyzer applications) withthe best oxygen ion conductors until the temperature isless than about 700 C.
+Kobayashi et al.conducted steam electrolysisexperiments using SrZr0.9Yb0.1O3–d tubular electrolytes(2 mm walls) with platinum electrodes (cermetwith the electrolyte powder) at low temperatures(460–600 C) and was successful in generating hydrogenand oxygen.
+They used the low temperatures in anattempt to avoid excessive electronic (hole) conductivityin the electrolyte (they mention this temperaturecorresponds to the exhaust gas temperature of automobiles).
+As a result, the hydrogen production rate wasrelatively low (approx.
+0.4 lmol min–1 cm–2 at 460 Cand 2.4 mA cm–2).
+Their measured hydrogen productionefficiency was about 35% less than theoretical(as determined by current) and was dependent uponthe partial pressure of water vapor.
+This was attributedto the creation of electronic holes at the anode duringoperation and their subsequent conduction through theelectrolyte to the cathode.
+At low to moderate temperatures new possibilitiesarise for using various metals as bi-polar plates.
+Mostmetals have too high  of thermalexpansion to match that of zirconia (10.5 E-6 C–1).
+Inorder to get a lower thermal expansion metals(to match zirconia) SOFC developers originally triedto use special high chromium alloys like 95Cr4–5Fe or 94Cr–5Fe–1Y2O3. However, theyran into the problem of high temperature Cr oxidation.
+The problem is primarily found on the cathode (air)side of a SOFC.
+At temperatures above about 800 C,the predominant reaction is Cr2O3 + 1/2O2 fi 2CrO3(high vapor pressure gas).
+The Cr must diffuse throughthe Cr2O3 protective coating such that Cr can continuallyevaporate as CrO3 from the outer (exposed toair) surface at temperatures (some literature) beginningas low as 200 C.
+Once in the vapor state, Crcondenses in the LSM fuel-cell cathode and at the LSM/electrolyte interface.
+One proposed mechanism isfor Mn+2 ion to grab the oxygen from the CrO3,resulting in precipitation of Cr crystallites .
+However,if steam is available (cathode of electrolysis cell),thermodynamic calculations by Ebbinghaus predictthat oxyhydroxides of Cr such as CrO2(OH)2 andCrO2(OH) will predominate at temperatures below800 C.
+Kofstad and Bredesen point out that a Crproblem may also exist at the anode (fuel) side of aSOFC if high water vapor partial pressures spur theformation and evaporation of chromium oxyhydroxides.
+This could be a problem for thecathode during operation at high temperatures as anelectrolyzer because of the high water content.
+The presence of alloying elements in the interconnecttend to minimize the tendency for the Croxidation to take place.
+Alloy elements like Y, Ce, Hf, Zr, Al arereported to slow scale growth.
+However, these elementstend to form scales with low electronic conductivity,whereas Cr2O3 scales are semi-conductors.
+Yanget al.have reviewed the alloys being considered forSOFC bi-polar plates .
+They present an evaluationof oxidation behavior that indicates chromia scales onchromia-forming alloys, especially the ferritic stainlesssteels, can grow to microns or even tens of micronsthick after exposure for thousands of hours in theSOFC environment (even in the intermediate temperaturerange).
+They further state that this scale growthwill lead to an area-specific resistance (ASR) that islikely to be unacceptable.
+Nonetheless, iron-basedferritic steels (BCC structure) are generally recommendedbecause they have a reasonable CTE match tozirconia, and are less expensive are more easilyfabricated than chromium-based alloys.
+Operating atthe lower temperatures may help by slowing theevaporation and diffusion kinetics.
+The Cr issue isone of the primary reasons why SOFC developers arebeginning to coat the air-side of the interconnect withvarious conducting-oxide diffusion barriers .
+Oneissue is maintaining a thin but protective conductivescale (Cr2O3) on the air-side, the other issue ispreventing the Cr evaporation and subsequent condensationreactions.
+In order to limit the growth rate of Cr2O3 scale on the metal interconnect (minimize theelectrical resistance at the surface) various ceramic(conductive) coatings have been applied on the air sideof the metal interconnects.
+However, some interdiffusionof elements between the protective coatingand metallic interconnect has been observed to lead tonon-desirable phases .
+Most SOFC generatordesigns have non-cell components such gas inletchambers or electrical leads that will be exposed to high temperature air where CrO3 formation could beproblematic.
+The use of alloys like Hastelloy S  andHaynes Alloy 214 could solve these problems.
+TheHaynes alloy 214 is specifically designed for service inhigh temperature air at 900 C and above.
+It is analumina former that displaces Cr2O3 on the metalsurface.
+The total Cr in the 214 alloy is only 16%,which could also reduce CrO3 vaporization issue fornon-stack structural elements.
+However, any substantialthickness of alumina coating may prove to have toohigh of electrical resistance.
+Oxidation in H2/H2O mixtures could be a long-termproblem for un-coated metallic bi-polar electrolyzerplates with low H2 content gas.
+Horita documentsoxidation in Fe–Cr alloys using 1% H2–Ar (balance)bubbled through water at 50 C (approx.10% H2content).
+A higher H2 content and the use of coatingswould greatly lessen this problem.
+One solution to the interconnect oxidation problemhas been developed at INEEL.
+It is to form a thin LSCcoating (for low electrical resistance) on a porous NiAlplate.
+The NiAl is exposed to the fuel gas in aSOFC or hydrogen plus steamin an electrolyzer.
+There issome concern that the NiAl structural component will beslowly oxidized in hydrogen/steam mixture.
+Oxidationtests are being conducted at INEEL using 15% H2(minimum)/85% H2O.
+One oxidation reaction possibilityis: 2NiAl + 3/2O2 fi 2Ni + Al2O3. However, this probablywon’t cause significant conductivity problemsbecause of the metallic Ni.
+Another possibility is a thinadherent coating of amorphous alumina within the openpores of the NiAl structure, but not a continuous coating.
+Anon-continuous alumina layer should not posemuch ofa problem.
+Other intermetallicscould be used that don’t contain aluminum.
+Other proposed solutions to interconnect oxidationcan be found by searching patents.
+For application at intermediate temperatures,the ‘‘via’’ filler material could be silver since silver oxide is not stable at hightemperatures and silver is tremendously less expensivethan platinum or palladium.
+A metallic interconnectplate with gas-tight, silver-filled, holes is described byMeulenberg as providing lowered contact resistanceat temperatures up to 800 C.
+Wang et al.describe sputter-deposited silver/yttria-stabilized zirconiacermets for electrodes as being ‘‘stable’’ attemperatures up to 750 C.
+However, Stevenson reported that silver was unstable (developed a largeamount of porosity) when exposed to a dual atmosphere of H2–3% H2O on one side and air on the otherside for 100 h at 700 C.
+He found silver was stablewhen exposed to air for 100 h at 700 C in an identicalconfiguration.
+To reduce scale formation on the fuelcell interconnect, coating FeCrAl and FeCrMn(LaTi)alloys with nickel foils (dense, hot-laminated) has beenstudied at 800 C in a 4% H2–3% H2O–Remainder Aratmosphere .
+These nickel foils seemed to behelpful in preventing oxide scales.
+In some cases astable nickel aluminide layer was formed at theinterface between the alloy and the Ni foil.
+Electrolyzers operated at low temperatures don’t takefull advantage of thermodynamic efficiency advantagesof operating at high temperatures.
+However, sealingbi-polar plate devices should be easier since thermalcycling would not result in high stresses due to thermalexpansion mismatches between cell components andsealing material.
+Also, inorganic membranes will bemore chemically stable in the 200–300 C temperaturerange than most organic proton-conducting membranes.
+A typical pressurized water reactor heatswater from 285 C to 306 C (at 2150 psia) in its coreand might be a heat source (heat-exchanged steam attemperatures significantly lower than the core temperature)for a low temperature electrolysis device.
+Solid inorganic materials exhibiting fast protonconduction at low temperatures seem to be moreprevalent than fast oxygen ion conductors.
+Someproton-conducting glasses achieve high proton mobilitydue to incorporation of water (bonded to POHgroups).
+These glasses can be fabricated by sol-geltechniques at low temperatures.
+However, the gels aredeliquescent and also are easily fractured into pieceswhen heated.
+This limits the practical applicationof these glasses to very low temperatures and thereforelimits the flux values of hydrogen that can be achieved.
+Fabrication of proton-exchanged b†-alumina compositionsis difficult because waters of hydration are lostduring firing and therefore the crystal structure isirreversibly destroyed .
+One approach used tosolve this problem, for b†-alumina, has been to fabricatea potassium ion crystal structure by firing to hightemperatures.
+Then, at room temperature, protons canbe electrochemically ion exchanged into the crystalsfrom a mineral acid .
+Since the potassium ionis larger than the sodium ion, using the potassiumcomposition lessens lattice strain during the protonexchange process.
+In these oxide ceramics, two protonicspecies can exist.
+The first type is an H2O moleculeassociated with a proton as a hydronium ion (H3O+).
+The second type is a proton bound to an oxygen ion ofthe crystal lattice (=OH+).
+Ion exchange techniques have also been applied tocompositions of the family of three-dimensional sodiumion conducting ‘‘NASICON’’.
+NASICON is a threedimensional conductor, whereas b†-alumina is a twodimensionalconductor.
+NASICON membranes haveprimarily been used for efficiently producing caustic(NaOH) from concentrated sodium salts dissolved inwater .
+NASICON is a family of compositions; theoriginal NASICONs were solid solutions derived fromNaZr2P3O12 by partial replacement of P by Si with Naexcess to balance the negative charges to generate theformula .
+Work on NASICONfast Na+ ion conductors reaches back to the1970’s with work by Goodenough et al.
+withfurther elucidation of its conductivity , chemicaldurability , and thermodynamics  insubsequent years.
+NASICON compositions have beenprepared by a sol-gel route, and then the membranes ionexchanged with hydronium ions.
+However, severedifficulties with cracking of dense membranes occurduring the ion-exchange.
+Recently, a sinteredproton-exchanged NASICON-type composition knownas PRONASTM has become available in experimentalquantities from a commercial supplier .
+Thismaterial was designed for use in liquid systems, butreportedly has been tested as a membrane for hydrogengas separation.
+Presumably, the PRONASTM compositionwas sintered and then proton-exchanged at roomtemperature; however, no chemical composition orprocessing details are available at this date.
+PEM fuel cells have been the subject of research anddevelopment for decades.
+In the 1960’s NASA usedPEM cells for their Hope, Gemini, and Biosatellitemissions.
+After a lull in the 1980’s, a rush of developmentbegan in the early 1990’s for transportationapplications.
+This was initiated by improvements inbonded-electrodes that enabled much higher currentdensities.
+When a reverse polarity is applied to a PEMfuel cell, the fuel cell reactions are reversed andbecome water electrolysis reactions .
+The PEM cells typically use sulfonated polymers electrolytes  that conduct theprotons away from the anode to the cathode (inelectrolysis mode).
+A complicating factor is that thesolid-state conduction of the protons is accompaniedby multiple water molecules (H2O)nH+.
+Also, themembrane must be kept hydrated to sustain theconduction mechanism.
+Therefore, water recyclingbecomes a large consideration since water is constantlyremoved from the anode and reappears at the cathode(mixed with the hydrogen).
+At temperatures less than100 C, gaseous hydrogen is easily removed from liquidwater but the hydrogen still contains water vapor thatmost likely requires dehumidification.
+Electrodes generally haveutilized finely divided platinum-black, or more recentlyIrO2 or RuO2 (for increased electronic conductivity) ascatalysts.
+Research is currently being conductedinto PEM-type membranes that have better kinetics,yet are chemically stable, at elevated temperaturessuch that they could operate in steam .
+PEM water electrolysis cells have a potential advantage over traditional low-temperature electrolysiscells because PEM devices have beenshown to be reversible.
+They can ‘‘load-level’’ bygenerating electricity from hydrogen (and oxygen)operating as a fuel cell when needed (peak) andreverse to operate as an electrolyzer by consumingelectricity to produce hydrogen (and oxygen).
+This isconvenient if excess electricity is available during lowperiods of consumption (off-peak) .
+PEM electrolysiscells could also be used in hybrid systemsutilizing solar energy .
+Small (up to 240 SCF/h = 6 Nm3/h) PEM electrolysisunits are now available commercially  andefforts are being made to reduce their production cost.
+Some critical attention to cell-stack lifetime mustbe paid in light of the degradation and thinning ofNafionTM 117 PEM electrolytes identified in long-termtests in Switzerland  (two 100 kW PEM waterelectrolyzer plants).
+The thinning process proceededvia dissolution of the membrane from the interfacebetween the cathode and the membrane.
+The degradationrate depended upon the position within an individual cell as well as the position of the cell in theelectrolyzer stack.
+Oxidative degradation at thecathode may be related to a mechanisms such peroxyl-radical attack as described by in-situ spin trapelectron paramagnetic resonance studies by Panchenkoet al.
+Ando and Tanaka have recently used a Nafionelectrolyte in electrolysis mode to decompose twowater molecules to simultaneously generate one moleculeof hydrogen and one of hydrogen peroxide (usedin paper/pulp and chemical industries).

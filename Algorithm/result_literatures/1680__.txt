@@ -1,0 +1,67 @@
+Li-ion electrolyte NASICON type Li2AlZr[-PO4]3 has been prepared by Solid State Reaction method.
+Formation of the sample has been confirmed by XRD andTGA–DTA analysis.
+Electrical conductivity studies havebeen performed in the frequency range 42 Hz–5 MHzwithin the temperature range 523–623 K using aluminiumas blocking electrodes.
+The conductivity has been found tobe 1 · 10–5 S cm–1 at 623 K.
+Dielectric spectra show thedecrease in dielectric constant with increase in frequency.
+Dielectric loss spectra reveal that dc conduction contributionpredominates in the sample.
+Spectroscopic plots ofcomplex modulus suggest the Non-Debye behaviour of theelectrical relaxation within the temperature range studied.
+Lithium ion conductors constitute a very important class ofsolid electrolyte in solid state batteries because of the highchemical activity of Li+ ions.
+Li-ion conducting NASICONtype compounds have been extensively studied becausethey exhibit unique property such as low sintering temperature,three dimensional framework holding easy conductionpathways resulting in high ionic conductivity.
+Lithium titanium phosphate material based on the aboveframework consist of [PO4] tetrahedral connected in corner sharing arrangement with [TiO6] octrahedra .
+But theconductivity of this material is not good enough for practicalapplications.
+Many researchers reported that the partialsubstitution of Ti4+ with trivalent cations such as In3+, Sc3+,Al3+ etc enhances the conductivity.
+Among thesesubstitutions Al3+ substitution provides improvements indensity and sinterability resulting in high Li ion conductivityand air stability of LATP.
+It has been postulated thatLithium loss during sintering at high temperatures causes asignificant reduction in the conductivity of undoped LiTi(-PO4)3 as significant weight losses above 1100 C are observedby thermogravimetric analysis.
+The Al-dopedmaterials form dense ceramics more readily and are,therefore, less likely to lose Lithia.
+The improvement indensification may be associated with extra intergranular lowmelting or glassy phases which can act as fluxes to improvesinterability and conductivity.
+The bulk ionic conductivityof LATP was reported to be 7 · 10-4 S cm–1 at 25 C.
+But the reduction of Ti4+ to Ti3+ with Li metal restrictstheir use as solid electrolytes in battery applicationsresulting in instability.
+Robertson et al.
+, reported thatGe and Hf (r = 1 · 10–4 S cm–1 at 25 C) replacement inthe place of Ti results in stability towards lithium but aresignificantly more costly to produce .
+Thus in the presentstudy, Ti has been replaced with Zr to form Li2AlZr[PO4]3.Dielectric and modulus analysis have been done to studythe conduction and relaxation mechanism of the sampleusing Impedance analyzer.
+The compound Li2AlZr[PO4]3 has been prepared by SolidState Reaction method.
+The raw materials used are Li2CO3,(NH4)2HPO4, ZrO2 and Al2O3. One of the raw materials ZrO2 has been prepared by co-precipitation method .
+The reagents are taken in stoichiometric ratio and groundusing a mortar and a pestle.
+The homogenized powder hasbeen heated to 850 C and kept for 2 h at this temperature.
+TGA–DTA measurements has been taken using STA-1500thermal analyzer with a resolution of 0.01 mg.
+The mixtureof raw materials has been kept in a crucible and heatedfrom room temperature to 700 C at a rate of 5 C perminute.
+X-ray diffractogram (XRD) has been taken toconfirm the formation of samples with desired phase, byusing Philips X-ray diffractometer PW 1830. The resultantsample is crushed into fine powder and spread in a die, towhich a pressure of 4000 kg cm–2 is applied to form pelletwith 1 mm thickness and 1.0 cm diameter.
+The pellet hasbeen sintered at 450 C for 2 h.
+The dielectric measurementsare performed by placing the pellet in between twoaluminium blocking electrodes within the frequency range42 Hz to 5 MHz from 523 to 623 K using a computercontrolled HIOKI 3532 LCR meter.
+Figure 1 shows the TGA–DTA curves of the mixture ofraw materials with heating rate of 5 C per minute fromroom temperature up to 700 C.
+TGA curves show threeregions of weight loss.
+The thermogravimetric curves ofthe mixtures showed a weight loss over the temperaturerange from ambient to 155 C (Ist region) which correspondsto the elimination of superficial water adsorbed onthe sample.
+The second weight loss in the temperaturerange 155–333 C may be attributed to the decompositionof (NH4)2HPO4 with the evolution of NH3. 
+The third regioncorresponds to the decomposition of Li2CO3 with a weight loss of about 3%.
+At higher temperatures thechemical reaction that take place do not lead to any weightloss, as shown in TGA curve.
+In the DTA curve the twoendothermic peaks at 148 and 184 C can be attributed tothe decomposition of (NH4)2HPO4 which melts at 155 Cwith ammonia evolution.
+The exothermic effect at 374Ccan be probably related to the decomposition of Li2CO3 toLi2O followed by the formation of the sample.
+The X-ray diffraction pattern of the sample has been takenusing X-ray diffractometer with Cu Ka radiation having awavelength of 1.5417 A ° .
+The XRD pattern of Li2AlZr[-PO4]3 is shown in Fig.2. 
+The three strong intensity peaksat 2h = 23.3749, 20.0917 and 19.6228 indicate the formationof the sample.
+Some traces of ZrO2, Al2O3 havebeen observed in the XRD pattern.
+Peak at 2h = 13.992corresponding to the secondary phase, Lithium ZirconiumPhosphate (JCPDF 44-0010) has also been observed.
+Thusthe pattern reveals the polycrystalline nature of the sample.
+The particle size (D) has been estimated using the DebyeScherrer’s formula,The particle size for the sample is in theorder of 38 nm.
+This confirms the formation of nanocrystalline phases in the present sample.
+In electrical modulus spectra electrode polarization effectsare suppressed and thus it mainly reflects the bulk electricalproperties of the sample.
+
+The low frequency part of the peak indicates thelong-range motion of the mobile ions and the high frequencyside of the peak indicates the confined motion ofthe ions within a potential well.
+The amplitude of the peakdoes not remain constant within the temperature rangestudied which reveals the distribution of relaxation time.
+
+The same behaviour has beenobserved by Nobre et al., in the ceramic Na1–xKxNbO3.
+This behaviour also suggests that the dielectricrelaxation is activated thermally in which hopping processof charge carriers are dominating.
+
+
+This smalldifference in the peak frequency is common phenomenaassociated with dispersions in bulk ac conductivity anddielectric permittivity of a non-ideal dispersive conductor.
+The width of the peaks of both Z) aregreater than Debye peak (1.14 decades) suggesting the nondebyetype relaxation for all the temperatures.
+
+Relaxation time calculated has been found tobe decreased with increase in temperature (Table 1).
+Lithium ion conducting electrolyte Li2AlZr[PO4]3 has beenprepared by Solid State Reaction method and conductivityanalysis has been performed.
+TGA–DTA analysis and XRDspectrum confirm the formation of the sample.
+The conductivityhas been found to be 1 · 10–5 S cm–1 at 623 K.
+The activation energy calculated from the Arrhenius plot hasbeen found to be 0.83 eV.
+Dielectric constant decreases withincrease in frequency due to the high periodic reversal of theapplied field.
+Dielectric loss spectra show straight lines withslope in the range –0.7 to –0.9 which reveals the contributionof dc conduction mechanism.
+The increase of dielectricfunctions with temperature suggests the contribution ofmigration polarization of Li+ ions.
+Imaginary part of modulusshows asymmetric peaks with b in the range 0.33–0.61.Relaxation time calculated from the peak frequency hasbeen found to decrease, within the temperature studied.

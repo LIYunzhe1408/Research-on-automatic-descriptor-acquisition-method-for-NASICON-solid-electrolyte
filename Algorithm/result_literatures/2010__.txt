@@ -1,0 +1,124 @@
+Materials Research Bulletin 37 (2002) 1419±1430
+
+Lithium conducting glass ceramic with Nasicon structure 
+
+Lithium ion conducting glass and glass ceramic of
+
+the composition Li1.4[Al0.4Ge1.6(PO4)3], have been synthesized. The monolithic glass pieces on thermal treatment resulted in single-phase glass ceramic with the Nasicon structure. Experiments with different electrodes proved that the lithium electrodes provide accurate values for the ionic conductivity using impedance spectroscopy. sionic of the glass ceramic was found to be 3:8  10 5 S cm 1 at 408C with an activation energy (Ea) of 0.52 eV. The corresponding values for the glass are 2:7  10 9 S cm 1 and 0.95 eV, respectively. The Arrhenius dependence of sionic with
+
+temperature in glass and glass ceramic is interpreted with a hopping mechanism from which the microscopic characteristics of the lithium cation motion are deduced. # 2002 Elsevier Science Ltd. All rights reserved.
+
+Keywords: A. Ceramics; A. Glasses; A. Oxides; C. Impedance spectroscopy; D. Ionic conductivity
+
+1. Introduction
+
+The general formula of Nasicon-type compounds is M[A2B3O12], where M, A, and B are monovalent, tetravalent and pentavalent cations, respectively. They usually
+
+* Corresponding address. Tel.: 65-874-2956; fax: 65-777-6126. E-mail address: phychowd@nus.edu.sg (B.V.R. Chowdari). 1 The work was done when the author was at IMRE, Singapore.
+
+0025-5408/02/$ ± see front matter # 2002 Elsevier Science Ltd. All rights reserved. PII: S 0 0 2 5 5 4 0 8 ( 0 2 ) 0 0 7 9 3 6
+
+C.J. Leo et al. / Materials Research Bulletin 37 (2002) 1419±1430
+
+present a good ionic conductivity by the monovalent M cations. Their structure can be described as a covalent anionic skeleton [A2B3O12]  constituted of AO6 octahedra and BO4 tetrahedra which form 3D interconnected channels in which two types of interstitial sites are available for the M conductive cations. The parent compound of Nasicon has the chemical formula, NaZr2P3O12 (NZP) [1]. These compounds crystallize with a rhombohedral structure in the R3c space group, but cell distortions leading to a monoclinic symmetry have also been found. The conductor cations move from one site to another through bottlenecks, of which, the size depends on the nature of the skeleton ions. Consequently, the structural and electrical properties of Nasicontype compounds vary with the composition of the framework. The compound Li1x[AlxGe2 x(PO4)3], derives from the Li[Ge2(PO4)3] Nasicontype structure. An increase of the Li cations is obtained by the partial substitution of germanium by aluminum and lithium. Earlier, Li et al. [2] have synthesized the crystalline compound by solid state reaction and reported an ionic conductivity (sionic) of the order of 10 4 S cm 1 at room temperature. By crystallization of the glass, polycrystalline glass ceramics of similar composition have been synthesized by Fu [3] with x  0:0±0.8. In the present study, a composition of x  0:4 was chosen, since from the data of Fu a maximum conductivity of 10 4 S cm 1 is found around this value of `x'. This composition was also studied by Chowdari et al. [4], where they measured the electrical conductivity by pressing the pulverized glass ceramic into a pellet. For practical applications, say in lithium batteries or in membranes for ionic sensors, a monolithic electrolyte membrane is preferred.
+
+The present study was undertaken to optimize the thermal treatment leading to a monolithic glass ceramic with good mechanical strength. The glass and glass ceramic system with the composition x  0:4 was synthesized, characterized and the sionic was measured as a function of temperature.
+
+2. Experimental
+
+2.1. Synthesis
+
+The glass corresponding to the composition Li1.4[Al0.4Ge1.6(PO4)3] was synthesized by reacting stoichiometric amounts of lithium carbonate Li2CO3 (Merck-5680), aluminum hydroxide Al(OH)3 (Merck-1091), germanium oxide GeO2 (Alfa-721002) and ammonium dihydrogen phosphate (NH4)H2PO4 (Merck-1126). The powders were thoroughly mixed in an agate mortar grinder and then heated in an alumina crucible at 7008C for 3 h. This initial heating is done to completely decompose Li2CO3 and (NH4)H2PO4, with the emission of ammonia, carbon dioxide gases and water vapor, which usually results in a ceramic froth. The mixture was cooled, reground and heated in a platinum crucible at 9508C for 12 h. The temperature was then raised to 14508C to obtain the melt and held for about half an hour. The melt was quenched to room temperature between two steel plates to form glass ¯akes. These are then annealed at 4508C for 2 h to relieve the thermal stresses.
+
+C.J. Leo et al. / Materials Research Bulletin 37 (2002) 1419±1430
+
+2.2. Characterizations
+
+Differential scanning calorimetry (DSC) study was done on the ®ne powdered glass using TA Instruments, model 2010. The sample was placed in an alumina pan and scanned at a heating rate of 108C min 1 in the temperature range of 100±7508C. Based on the DSC data, thermal treatment was done in two ways. In the ®rst case, the samples were heated for the same time duration of 15 h at six different temperatures starting with 550±6508C in steps of 258C. In the second case, the glassy samples were heated at a constant temperature, one batch at 6258C and the other at 6508C for different time durations say 1,2 and 4 days. Samples were then observed by scanning electron microscope (SEM), Philips, XL3O. The glass and glass ceramic were characterized by X-ray diffraction (XRD), using the Philips X'PRT-MPD system and Cu Ka radiation. Density measurements have been done on both the pulverized glass and glass ceramic at room temperature (278C), by the helium displacement method using Micromeritics pycnometer, model accupyc 1330. Ionic conductivity of the glass and the glass ceramic were done using impedance spectroscopy in the frequency range of 10 mHz to 100 kHz as a function of temperature. AC signals of amplitude 50 mV were used to reduce the effect of external noises. Impedance measurements were made using EG&G-263A Electro-chemical device in conjunction with frequency response analyzer (FRA) model 1025. The samples were sputtercoated with gold or silver-painted to form the blocking electrodes. Lithium (Li) metal foils were used to sandwich the samples on either side to form nonblocking electrodes and coin type cells were fabricated inside the argon-®lled glove box, MBraun, Germany.
+
+3. Results and discussion
+
+3.1. Observation of the experimental results
+
+As-prepared glass pieces were transparent with the size, around 2 mm thick and area 4 cm2. XRD showed the amorphous nature of the glass sample. The DSC curve of Li1.4[Al0.4Ge1.6(PO4)3] is shown in the Fig. 1. The curve has a small step at 5348C, which is assigned to the glass transition temperature (Tg). The predominant exothermic peak at 6148C is due to the crystallization of the glassy phase (Tc). These values may be compared with the values of Tg  5508C and T  6308C reported by Fu [3]. It should be noted that some crystallization does occur in the glass even before Tc, but at Tc rapid crystallization of the glassy matrix takes place. In this temperature range only one sharp peak was observed, indicating the formation of a single crystalline phase. The glass samples were given thermal treatment by subjecting them to different temperatures (550±6508C) and for different time periods (12±l00 h), in order to establish optimum conditions for obtaining the desired microstructure and ionic conductivity. The glass pieces became opaque and white in color after thermal treatment. The intensity of the opaqueness increased with temperature and time of the
+
+C.J. Leo et al. / Materials Research Bulletin 37 (2002) 1419±1430
+
+Fig. 1. DSC curve of the glass of composition, Li1.4[Al0.4Ge1.6(PO4)3] (heating rate of 108C min 1 from 100 to 7508C).
+
+thermal treatment, and the samples attained slight grayish tint at temperature above 6258C for time period over 48 h. SEM observation on the samples showed an increase in the crystalline-to-amorphous phase ratio with increased thermal treatment. The patches of white region seen in the SEM photographs Fig. 2, is the Nasicon crystalline phase embedded in the glassy matrix, which is seen as the black region in the background. Formation of the crystalline phase was noticed even in the case of samples kept slightly above the Tg (550 and 6008C), and for a period of over 48 h as shown in Fig. 2a and b. However, the crystalline phase formation in the glassy matrix seems to be very slow and not densely packed, since these were treated at T < Tc. When the glass sample was heated at 6258C for 96 h, dense crystalline grains were formed but of smaller grain size, Fig. 2c. Based on the above data the thermal treatment was optimized ®nally by subjecting the samples to a two-step thermal treatment. Initially at 6258C for 48 h, followed by a heating at 6508C for 96 h and slow cooling to room temperature. The ®rst step allows the crystalline phase to nucleate and the second step helps the nucleated crystal grains to grow in size. The SEM picture of the optimized sample Fig. 2d, shows well structured and dense crystalline grain formation. The glass ceramic pieces obtained were found to have good mechanical strength, probably as a result of a low thermal expansion, as pointed
+
+Fig. 2. SEM micrographs of the Li1.4[Al0.4Ge1.6(PO4)3] glass ceramic samples after different thermal treatments (a) 5508C for 60 h, (b) 6008C for 60 h, (c) 6258C for 96 h, and (d) 6258C for 48 h and 6508C for 96 h.
+
+C.J. Leo et al. / Materials Research Bulletin 37 (2002) 1419±1430
+
+Fig. 3. XRD pattern of the optimized glass ceramic sample (annealed at 6258C for 48 h followed by 6508C for 96 h). Miller indices (h k l) are indicated.
+
+by Alami et al. [5] for the Li-analogue of Nasicon, Li[Ge2(PO4)3]. The authors have observed an increase in the lattice parameter `c' with temperature with a corresponding decrease in `a', resulting in a small volumic expansion coef®cient.
+
+In Fig. 3, the XRD pattern of the optimized glass ceramic sample is shown. No impurity peaks were noticed in the XRD pattern, indicating only the crystalline Nasicon phase formation. The lattice parameters were determined from least-squares ®t of the XRD data and found to be a  8:274 and c  20:594 AÊ . The XRD pattern obtained coincides well with the literature data for Li[Ge2(PO4)3], a  8:268 and c  20:494 AÊ , (JCPDS 80-1924), thus con®rming the Nasicon structure of the crystalline phase.
+
+For a fast ionic conductor, the choice of the electrode material is important for an accurate determination of sionic. Especially, when we use blocking electrodes in the case of compounds with high sionic (10 3±10 5 S cm 1), the semi-circles in the high frequency (MHz) and mid frequency (kHz) ranges due to the bulk (Rb) and grainboundary (Rg) impedances, respectively, will be masked by the linear region of the interfacial impedance, making it dif®cult to locate the total DC resistance value correctly on the impedance plot. In Fig. 4a±c are shown the impedance spectra of the three glass ceramic pieces using gold, silver and lithium metal as electrodes in the same frequency range at 288C. In all the three cases, only one partly formed semicircle was obtained. In the case of gold and silver electrodes (blocking electrodes), the semi-circles in the mid frequency range (kHz) are hardly noticeable and completely masked by the straight-line due to the interfacial impedance. Hence, the total
+
+C.J. Leo et al. / Materials Research Bulletin 37 (2002) 1419±1430
+
+Fig. 4. Impedance plot at 288C of the optimized glass ceramic (heat treated at 6258C for 48 h followed by 6508C for 96 h with (a) gold, (b) silver, and (c) lithium electrodes.
+
+resistance determined either by the extrapolation of the indistinct semi-circle or the inclined straight-line will lead to inaccuracy in the determination of the sionic. But in the case of lithium electrodes (nonblocking electrodes), a well-de®ned semi-circle was obtained in the kilohertz range, which is followed by a second small semi-circle at lower frequency (mHz) range (Fig. 4c). From the frequency range of the bigger semi-circle and the associated capacitance value (Cmax  2:5  10 9 F) determined by the relation Cmax  1/2pfmaxRmax the semi-circle is ascribed to the grain-boundary impedance, since the capacitance value is typical of this component [6,7]. Here, Rmax (35 kO) is the value of the real part of the impedance (Z0) at the top of the semicircle, and fmax (10 kHz), the corresponding frequency. The smaller semi-circle in the lower frequency range whose associated capacitance of the order of 10 5 F is
+
+C.J. Leo et al. / Materials Research Bulletin 37 (2002) 1419±1430
+
+representative of the charge transfer resistance and the interfacial capacitance. The reason for the bulk impedance semi-circle not seen in the impedance curve could be due to the high frequency value (MHz) at which it lies [3,8±10], outside the frequency range (upto 100 kHz) of our measurements. The total DC resistance was obtained by noting the intersection of the grain-boundary impedance semi-circle with the abscissa. We found that the total DC resistance value obtained using gold electrodes by extrapolation of the curvy portion of the impedance is one order of magnitude lower than the value obtained using Li-electrodes. Accordingly, the total sionic of the glass ceramic at 288C using the gold electrodes was found to be 1:3  10 4 S cm 1, as compared to the value of 2:0  10 5 S cm 1 obtained using Li-electrodes.
+
+Use of Li-electrodes has two disadvantages: being highly reactive to oxygen and moisture, the cell has to be assembled inside the Ar-®lled glove box. Further, the low melting point of Li-metal (1798C) imposes an upper temperature limit to the conductivity measurements. However, the use of Li-electrodes allows us to distinguish more clearly, the impedance contribution due to the grain-boundary and the remaining glassy phase when the glass crystallization is not complete. In Fig. 5, the impedance plot of the glass-ceramic (heat treated at 6258C and 48 h), where the different arc of circles are ascribed to different components are shown. The semicircle in the frequency range 2±100 kHz with f  4 kHz, whose associated capacitance C  5:7  10 9 F, is ascribed to the grain-boundary impedance. The second partly formed arc in the frequency range 1±1000 Hz with fmax  100 Hz, whose capacitance C  1:1  10 7 F, is ascribed to the glassy phase. The arc in the frequency range 1000±1 mHz, whose associated capacitance found out to be C  2:0  10 5 F is ascribed to the interfacial impedance. For each phase, the frequency at the top can be identi®ed to the conductivity s of that phase and its dielectric constant e by the equation 2pf  s=e0e where e0 is the dielectric constant of the vacuum. Hence, the frequency dependence with temperature is expected to be the same as that of the conductivity.
+
+From the impedance data with the Li-electrodes, we have deduced the total sionic of the pure glass and the optimized glass ceramic (heat treated at 6258C for 2 days and
+
+Fig. 5. Impedance plot at 408C of the partially crystallized glass ceramic (heat treated at 6258C for 48 h). The response shows two overlapped semi-circles at 4 kHz and 100 Hz.
+
+Fig. 6. Arrhenius plots of the (a) pure glass (b) glass ceramic and (c) data taken from reference [3].
+
+6508C for 4 days) as a function of temperature. The impedance response of the glass ceramic exhibited only one semi-circle as shown in Fig. 4c. The conductivity data shown in Fig. 6, were found to ®t the Arrhenius equation,
+
+sT A exp   Ea RT
+
+where Ea is the activation energy, A the preexponential factor, T the absolute temperature and R the gas constant.
+
+For comparison, the results reported by Fu [3] for the same composition are also shown. The conductivity data of Fu have been obtained with gold electrodes and the values lie in the same range for our glass ceramic sample with gold electrodes. Our results obtained with Li-electrodes, cover a larger domain in temperature, allowing an accurate determination of the preexponential factor A. The parameters, namely s, Ea, and log10 A are tabulated in Table 1. Interestingly, the preexponential factor A is nearly the same for both glass and glass ceramic and their respective sionic only differ by the values of Ea. Ea of the crystalline phase was found lowered by half compared to
+
+Table 1 Conductivity, activation energy and preexponential factor of the Li1.4[A10.4Ge1.6(PO4)3] glass and optimized glass ceramic
+
+Composition
+
+Activation energy (Ea, eV)
+
+Glass (Li-electrode) Glass ceramic (Li-electrode) Fu's data (gold electrode) [3]
+
+C.J. Leo et al. / Materials Research Bulletin 37 (2002) 1419±1430
+
+the glassy phase, which is unusual when we consider the majority of the previous studies for instance in the case of Mg4.5Na7(P2O7)4 and AgPO3 systems [11,12]. Nevertheless, it is clear that a better sionic can be obtained when the crystalline phase is of Nasicon-type structure [3,13].
+
+3.2. A microscopic model for the ionic transport
+
+A microscopic understanding of the Li-ion transport in glass and glass ceramic systems is proposed by extending the point defect approach usually applied to ionic crystals [14]. Accordingly, the Li-ion conductivity (sLi) is expressed as,
+
+where CLi is the volumic concentration of Li ions, n0 the attempt frequency of the mobile ion, l the jump distance between two stable sites and F the Faraday constant. DG is the free energy change required for the ion displacement, taking into account both the charge carrier formation and migration. By definition,
+
+(3) where DH and DS are the activation enthalpy and the entropy related to the ionic transport. Substituting Eq. (3) in Eq. (2), we obtain the lithium ion conduction dependence with temperature as, DS R
+
+The above equation can be identi®ed to the experimental relationship (1) with,
+
+3.3. Comparison with the experimental data
+
+The comparison of the preexponential value obtained from the experimental data with that of the value calculated from a microscopic model, needs estimation of the microscopic parameters, CLi, l and n0 Assuming, a homogenous distribution of the Li cations within the glass ceramic sample, the mean intersite distance l and the normal site concentration CLi, can be calculated from the crystal structure and density data on the glass ceramic. The experimental density of the glass ceramic has been found to be 3.38 g cm 3 which is 97.7% of the theoretical density (3.46 g cm 3). In the case of pure glass, the experimental density was found to be 3.06 g cm 3. From this value, CLi, was found out to be 6:75  1021 atoms cm 3 and the l  1=CLi1=3  5:29 AÊ .
+
+C.J. Leo et al. / Materials Research Bulletin 37 (2002) 1419±1430
+
+The ionic attempt frequency n0 may be assumed to an approximate value of 1013 Hz. Plugging these values into Eq. (5) leads to a calculated value of log10 F2CLiln0=6R  4:8 (S cm 1 K). The difference between the calculated value and the experimental value (log10 A) of 6.41 (S cm 1 K) should be, therefore, attributed to the entropy contribution exp(DS/R). The estimated activation entropy (DS) was found to be 32.5 J K 1 mol 1. This value is positive and representative of the local disorder associated with the Li cation displacement. A microscopic description of this local disorder cannot be made but the interesting fact to be observed is the similar value of the preexponential factor for both the glass and glass ceramic. This would mean that the microscopic hopping characteristics of the lithium cation are the same for both the glass and glass ceramic.
+
+Activation energy for the glass and glass ceramic were found to be 0.95 and 0.52 eV, respectively (Table 1). These values are in the usual range of 0.2±1.0 eV for the lithium conductive solid electrolytes [15]. The fact that the activation energy of the glass is almost twice that of the glass ceramic, signi®es the difference in the energy barrier of the bottleneck to the lithium cation motion. This energy barrier is smaller in case of the crystalline phase as a result of the good and regular ®t of the channels in the macro-molecular back-bone skeleton of the Nasicon structure with the lithium cation, resulting in a consequent lowering of the system entropy [16].
+
+4. Conclusions
+
+The glass of the composition Li1.4[Al0.4Ge1.6(PO4)3] was prepared and the thermal treatment was optimized to obtain a monolithic Li-ion conducting glass ceramic with the Nasicon structure. Metallic Li-electrodes have been found to provide accurate values for the sionic using impedance spectroscopy. sionic of the glass ceramic was found out to be 3:8  10 5 S cm 1 at 408C. The Arrhenius dependence of with temperature is interpreted assuming a hopping mechanism.
+

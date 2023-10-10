@@ -1,0 +1,6 @@
+Many studies of all-solid-state lithium-ion batteries have been performed due to the high energy density and small radii of the lithium ion.
+However, the much lower price of sodium compared with lithium gives the former a large advantage; therefore, there is a compelling reason to study sodium-ion batteries.
+Although there have been some reports of all-solidstate sodium-ion batteries using a sulfide-based electrolyte, there have been only a limited number of publications regarding all-solid-state sodium-ion batteries incorporating inorganic oxide-based solid electrolytes, and these reports involve high temperature operation (above 473 K).
+One challenge associated with the fabrication of all-solid-state sodium-ion batteries is the interfacial resistance between the electrolyte and the electrode.
+In order to ensure good contact between the electrode and electrolyte, high temperature sintering is typically employed, particularly in the case of an oxide-based solid electrolyte.
+However, this process potentially brings a high-resistive layer between the electrode and electrolyte as a consequence of reactions induced in the various materials.

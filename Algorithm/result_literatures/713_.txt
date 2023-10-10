@@ -1,0 +1,10 @@
+NASICON-structured NaTi2(PO4)3 has been investigated as a promising anode for energy storage in view of highNa+ conductivity and low cost.
+However, the sodium storage property of NaTi2(PO4)3 still needs furtherimprovements.
+Herein, we report the design and fabrication of NaTi2(PO4)3 particles embedded in N-dopedgraphene sheets for the first time.
+In this composite, the nanosized NaTi2(PO4)3 and N-doped grapheneconstruct a 2D conductive network which significantly facilitates the transport of electron and ion.
+Thus, theanode shows outstanding electrochemical performances in terms of high specific capacity (129.3 mA h g−1 at0.1 C), superior rate capability (95.6 mA h g−1 at 10 C) and stable cycling property (capacity retention of about88.6% over 200 cycles at 20 C).
+This novel design provides a potential pathway for improving the sodiumstorage performance of NaTi2(PO4)3 anode in sodium-ion battery.
+In summary, the NaTi2(PO4)3@N-rGO composite with a 2D conductive network has been well designed and fabricated through a facilechemistry route with post calcinations.
+The results indicate that theNASICON-type NaTi2(PO4)3 nanocrystals with high crystallinity areuniformly dispersed in the N-rGO sheets.
+Such 2D nanostructure significantly improves the transport of electronion and maintainsthe anode structure integrity, resulting in superior electrochemical property when used as anode for sodium-ion battery.
+Moreover, this study also provides a new concept for fabricating other electrodematerials with 2D structure for energy storage.

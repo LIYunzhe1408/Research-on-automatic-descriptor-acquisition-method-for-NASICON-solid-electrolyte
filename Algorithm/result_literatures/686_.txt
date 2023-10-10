@@ -1,0 +1,10 @@
+Na3V2(PO4)3 (NVP) is an extensively researched cathode material for the sodium-ion batteries (NIBs).
+Size reductionand nanocarbon coating are often used to improve its rate performance.
+These are strategies that havebeen proven highly effective for LiFePO4 (LFP), a phosphate-based cathode material which is nowadays popularwith the lithium-ion batteries.
+Nanocarbon coating is undoubtedly useful since NVP encounters similar externalelectron transport barriers as LFP.
+The effect of size reduction, however, remains debatable since in theory, the3D NASICON framework of NVP is more efficient for solid state ionic diffusion than is LFP.
+We have undertakenthe measurements of the electrochemical performance of NVP particles of different sizes, electrode compositions,active material loadings and processing conditions, for the purpose of identifying the most significant factorswhich determine the rate performance of NVP as a NIB cathode material.
+In summary, we have synthesized Na3V2(PO4)3/C with a large differencein NVP particle size (avg.80 nm vs avg.800 nm) and evaluatedthe relative importance of particle size and preparation parameters(conducting carbon content, calendering, and areal loading of activematerial on electrode) in Swagelok cells.
+The results showed that thereduction of NVP particle size in Na3V2(PO4)3/C would not lead tosignificant improvements.
+This is due the fast solid-state diffusion ofNa+ in the NVP's NASICON structure.
+Large particle size can then beused to increase the tap density of the active material to produce highdensity electrodes with good rate performance.

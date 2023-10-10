@@ -1,0 +1,129 @@
+Detecting pollution timely and locating the pollution source is of great importance in environmental protection. Considering advantages of the sensor network technology, sensor networks have been adopted in pollution monitoring works. In this paper, a survey on researches of pollution monitoring using sensor networks in environment protection is given. Firstly, sensors and pollution monitoring network systems are studied. Secondly, different pollution detection methods are analyzed and compared. Thirdly, an overview of state-of-art technologies on pollution source localization is given. Finally, challenges on pollution monitoring using sensor networks are presented.
+
+Pollution monitoring is of great significance to environment protection. Pollution events are mostly caused by pollutants which contaminate atmosphere and water. If the pollution source can be located when a pollution event is detected, it is helpful for solving the contamination accident timely. So, in pollution monitoring, the three problems, including environment status observation, pollution detection, and pollution source localization are always studied. In environment monitoring, the environmental data is sampled and transmitted to the data center in real time. The pollution detection problem is to ascertain whether there is a pollution event through sampling analysis. The pollution source localization problem is to locate the pollution source when a pollution event is ascertained.
+
+As sensor networks have many advantages such as relatively dense distribution, large monitoring range, and being free from limiting by geographical locations, it is often adopted in environmental protection [1–3]. There have been many research works on environment monitoring, pollution detection, and pollution source localization using sensor networks. The research object is the pollution caused by diffusion sources in atmosphere and water. There are similar fluid characteristics in air and water, so many general monitoring network frames, pollution detection methods, and pollution source localization methods can be used in both environments. However, if special conditions in different environment cases are considered, different information detection systems and methods are necessary in pollution monitoring.
+
+In this paper, a survey on researches about environment monitoring, pollution detection, and pollution source localization using sensor networks is given, and the problems and challenges are analyzed. The reminder of the paper is organized as follows: in Section 2, an overview on pollution monitoring works including sensors and network systems is given. In Section 3, pollution detection problems are discussed. In Section 4, different pollution source localization algorithms are studied and compared. In Section 5, the challenges in research works are presented. Finally, a brief conclusion is given.
+
+Sensor technology is a supporting technology in sensor networks. For air pollution monitoring, sensors detecting CO2 [4], CO [5], NOx () [6], SOx () [7], H2S [8], NH3 [9], Cl2 [10], O3 [11] and particulate matter are frequently used. For water pollution monitoring, sensors monitoring heavy metal [12], pH value [13], conductivity [14], dissolved oxygen (DO) [15], turbidity [16], the content of carbon [17], chlorine [18], the content of phosphorus [19, 20], and the content of nitrogen [21] are used.
+
+Some contaminants can be detected directly by sensors, especially in air environment, such as COx, NOx, and SOx, but some sensors can only detect a type of pollutants and cannot measure the content of a specific contaminant. For example, the dissolved oxygen (DO) sensor, the pH sensor, and the electrical conductivity sensor fall into this category. The dissolved oxygen (DO) sensor detects organic pollutants and is not for the measurement of explicit contaminants such as carbohydrate, axunge, and polycyclic aromatic hydrocarbons. The pH sensor detects corrosive and poisonous liquids, but the explicit chemistry acid or alkali contaminants are not indicated. The electrical conductivity sensor detects ionic pollutants and cannot distinguish whether the explicit contaminant is nitrate, sulfate, hydrochloride, or some other one. The measurement of many specific contaminants in water can only be implemented by sampling analysis in laboratory at present.
+
+In environment monitoring, many sensors cost much, and the more precise the sensor measurement is, the higher the sensor costs. For example, in China a commonly used pH sensor costs about $18, and with the measurement accuracy rising, it may cost more than $159. A commonly used DO sensor costs about $33, and with the measurement accuracy rising, may cost more than $ 273. A cheap CO2 sensor costs about $14, but a high precision one costs more than $130. So, different from dust sensor networks in theory [22], sensor nodes often cannot be deployed densely and nodes should be recycled when broken. Therefore, the advantages that monitor the environment using dense nodes cannot be realized in many practical applications.
+
+Environment monitoring is a data collecting and analyzing process actually. Many systems have been developed for environment monitoring, such as systems for gas pollution monitoring in [23–32] and systems for water pollution monitoring in [33–45]. The monitoring system always includes sensor nodes, a sink node, and a processing center. In some systems, the sink node is known as the gateway node [26, 27], the coordinator [35, 40], or the base station [25, 33, 34]. The processing center is known as the backend server [23, 24] or the external center [33, 39, 40] and always connected to the Internet. The basic structure of the network system is shown in Figure 1.
+
+The monitoring systems are always hierarchical. The first layer is the monitoring networks. Sensor nodes sample environmental information and always transmit the data to the sink node in a wireless way. The second layer is the data uploading layer. The sink node uploads the data to the data center through wired networks or wireless ones. The data being transmitted to the data center is the raw data or the data preprocessed in advance by distributed nodes.
+
+The main differences of different proposed monitoring systems are in nodes and networks, such as different sensing platforms, different network topologies, different communication protocols, wired networks, or wireless ones.
+
+A sensor node is a sensing platform, which always includes a microprogrammed control unit (MCU), sensors, a communication module, and a power module. The MCU can be an ATmega single chip [23, 26, 38–40], an ARM (advanced RISC machine) chip [24, 27, 28, 41], and a PLC (programmable logic controller) chip [34]. The communication modules can be RF (radiofrequency) modules and GPRS modules [23]. In many works, sensing platforms are developed by the authors completely, while in some others, sensing platforms are refitted ones based on nodes such as Mica2Dot motes [46], Tyndall motes [47], and Fleck3 platforms [48], which are developed by corporations.
+
+In monitoring systems, the star topology is always adopted in a small-size network [23, 25, 27, 34, 38]; large networks can be cluster topologies [26] or mesh topologies [24, 28, 33, 39–41]. The ZigBee/IEEE 802.15.4 wireless communication protocol is frequently used in monitoring networks [24, 26, 33, 35, 36], and then Bluetooth [27, 38] and GPRS [23]. The sink node can communicate with the center via many ways, such as ZigBee, GSM, GPRS, 3G and even the wired network.
+
+Pollutants are not always above water. Underwater wireless sensor networks [49–51] are used to monitor underwater pollution. How to monitor the water environment using underwater wireless sensor network systems is mentioned in [42–45]. The main difference of the underwater sensor network compared with the sensor network above water is that acoustic wireless communication is widely used in the underwater monitoring system. However, in these systems there is often a sink node which floats on water, collects information of underwater sensor nodes, and forwards the data to the processing center.
+
+(1)	In wireless sensor networks, multihop and collaborative work are always mentioned. However, in consideration of packet losses, forwarding packets between nodes is inefficient and brings problems. Multihop (>3 hops) and collaborative work [52] in wireless sensor networks are mainly mentioned in theoretical studies; nevertheless, most wireless sensor networks are centralized processing systems with star topology in practical applications.
+
+(2)	The monitoring area is large, and the location of the pollution source is unknown. So, where to deploy sensor nodes is a problem needed to be considered properly in practical applications. In complicated environments like dynamic water, how to deploy sensor nodes and prevent them being washed away is a problem.
+
+(3)	The underwater wireless sensor network, especially the acoustic communication equipment of the network, costs much. So sensor nodes cannot be deployed densely under water. How electronic sensors are equipped properly on an underwater node in a waterproof package is also a problem in engineering.
+
+Pollution detection is a key technology in pollution monitoring, and it is an abrupt change detection problem actually [53]. There is the pollution detection problem of the network as which is to detect whether there are nodes which find the pollution at time , and the pollution detection problem of the node as which is to determine whether the node  has detected the concentration information of the pollution source till time .  and  are environment parameters when there is no pollution and when there is a pollution event. The specific detection nodes , , , and detection time  are not needed to be known precisely because the purpose is only to find whether there is a pollutant event or whether a certain node has detected the pollution.
+
+In most works, such as [13–45, 47, 54–66], the detection problem is not discussed analytically. It is assumed that ; that is to say if the concentration value is larger than a given threshold , it is determined that there is pollution. This is a coarse detection method.
+
+In some works, the hypothesis-testing detection problems are studied [67–69]. Let the observation of the theoretical concentration  be , and the initial pollution concentration of normal production and life in the environment be . 
+
+If the distribution of monitoring noise values is known, the hypothesis-testing problems above can be solved by parameter test methods. Otherwise, the problems above should be solved by nonparameter test methods [70].
+
+The advantage of the coarse detection method is simple and easy to be implemented. However, the water environment is often complicated, and there are plankton, garbage, aquatic animals, plants, and so forth, which bring disturbances to the monitoring data; the decision threshold which is used in determining whether there is pollution is difficult to be given.
+
+In pollution monitoring, if the purpose is not to find the pollution timely, the coarse detection method is possible. For example, in the pollution source localization works, the data error can be compensated in the localization processing procedures, so the coarse detection method can be used.
+
+In some monitoring works, such as environment status observation and pollution detection, whether there is pollution is often needed to be known correctly, so analytical detection methods should be considered seriously for a more rational result.
+
+The pollutants migrate in flow fields, so the pollution source is located according to the pollution dispersion process in most works. In this part, the physical diffusion models usually mentioned in pollution source localization researches are introduced firstly, and different localization algorithms are given then.
+
+The pollution sources are always point sources. If advection and chemical reactions as well as fate models are ignored, the transport of substances from a diffusive source can be illustrated by the diffusion equations below [71, 72].
+
+where  is the velocity of the fluid,  is the diffusion coefficient,  is the source position,  is a site in the flow field, and  is the concentration (content) at position . In general, diffusion coefficients in air are larger than those in water. Equation (8) is the initial condition, and (9) is the boundary condition which is with no constraint. The solution of (6)–(9) is Equation (10) is a general dispersion model discussed in most research works. In addition, the diffusion influenced by impermeable boundaries and permeable boundaries is also considered in some pollution source localization works [73], and in some works the diffusion model is also extended to 3D environments. 
+
+In a static environment, the concentration contours approximate circles when there is no boundary constraint, like the diffusion process depicted by (6)–(9) and as shown in Figure 2, and when there is a boundary constraint or symmetrical boundary constraints, the concentration contours are often symmetric, like the case shown in Figure 3.
+
+The pollution source localization problem is to get the pollution source  based on known information such as the diffusion model, monitoring values , and node locations .
+
+(a)	The maximum monitoring value point approach (MPA): as the sensor node with the maximum monitoring value is always very close to the pollution source, the location of the sensor node with the maximum monitoring value in the network is the source position.
+
+(b)	The earliest detection point approach (EPA): the source position is the location of the sensor node which detects the pollution the earliest.	The MPA and EPA methods belong to the CPA (closest point approach) methods [54]. In [54, 69], these methods are compared with other localization methods in the experiments, and some advantages are improved.
+
+(c)	The centroid localization algorithm: the centroid of the area where the pollution source exists is the source location. In [74], a centroid algorithm for pollution source localization is given. The specific method is as follows.
+
+(2) The Localization Algorithms Based on Diffusion Contours. Information on pollutant transport is implied in concentration contours, and the pollution source location can be obtained according to contour features.
+
+In an ideal situation like the case shown in Figure 2, the concentration contours approximate circles. The nodes  in the same contour have the same distance to the source.
+
+The overdetermined equations can be solved by least squares.
+
+If the source location is at the symmetry axis of the contours and there are two nodes with the same unidirectional coordinate value on the same contour, the coordinate value in one direction can be obtained at least. 
+
+In [56, 69], the localization algorithms based on contours are proposed and compared with other methods. If the contours have distinguishing features, rather precise results can be obtained.
+
+(3) Inverse Problems Based on Diffusion Process Observation. In some works, source localization problems are disposed by solving inverse problems. In these works, the numerical pollutant transport process is studied firstly, and then posteriori probabilities  are calculated and a site  where the posteriori probability is the highest is the source location. In [57], the posteriori probability is calculated by the Monte Carlo Markov chain method. In [58], the posteriori probability is calculated based on a BN (Bayesian network) capturing a Hidden Markov process.
+
+(4) Multiple Diffusion Source Localization Using the Methods Independent of Models. 
+
+For the coarse localization methods, the difficulty in this case is that individual information of different sources is hardly distinguished from the monitoring value. So the monitoring values which are close to a pollution source are always used to locate the source. In multiple-diffusion source localization, the earliest detection point approach is more applicable than the maximum monitoring value point approach.
+
+In the fields where there are multiple pollution sources, the contours are influenced by multiple sources and are irregular. So, there are often no obvious contour centers and the localization algorithms based on diffusion contours are not used in multiple-diffusion source localization generally.
+
+A multiple-diffusion source localization problem disposed by solving the inverse problem is also discussed in [57]. However, the same as the coarse localization methods, this method is hard to be applied if pollution sources are close to each other.
+
+In these localization problems, the solving methods are related to diffusion models closely.
+
+(1) Source Location Estimation Using Maximum Likelihood Estimation. The posterior probability is where . As the elements in  are observation values, . If there is an assumption that the prior probability is , one can obtain . 
+
+In [55], CH4 source localization is discussed. Firstly, a CH4 propagation model is given, and the inner part  in (20) is rewritten as a linear model. Then, maximum likelihood estimation is used and the theoretical lower bound of the source estimation error is given. In [59], a linear gas propagation model which is similar to (13) is given, the inner formula  is also rewritten as a linear one, and the result is obtained by solving problem (21). In the work, the maximum likelihood estimation result is compared with the results obtained by the nonlinear least square method, and some advantages are improved.
+
+Different from the background assumption in (18) and (19), in many cases the prior probability  and the likelihood probability  cannot be known precisely in advance, so  cannot be obtained directly. In some works,  is obtained by approximation methods firstly, and then the estimation result is calculated according to (23). For example, in [72], two methods, a Gaussian density approximation and a LPG function (linear combination of polynomial Gaussian density functions) approximation, are used in the approximation of , and in [60, 61],  is computed by Markov Chain Monte Carlo (MCMC) numerical method. While in some other works,  is calculated directly by using the Monte Carlo numerical method [62].
+
+(3) Source Location Estimation Using Sequence Filter. The pollution source localization can be implemented by using time-varying concentration measurements .
+
+Let , , and  be the priori state estimate at , the posteriori state estimate at , and the state noise respectively. When the observation equation is (13), and the time-varying relation of the states is the methods based on sequence filters can be used. In [63], the source localization problem is solved based on Kalman filter. A localization method based on PF (particle filters) is proposed in [64]. In [65], source localization methods based on unscented Kalman filter are presented. Considering that the mathematical expression of  is often nonlinear, and the specific distribution parameters are often unknown even when the distribution of measuring noise is normal, PF localization methods have more applicability.
+
+In works [54, 65, 66, 73], least square methods are adopted to solve the pollution source localization method. In some works, there is no constraint, and the mathematical problem can even be rewritten as linear cases. In most cases, (25) is a nonlinear problem, and methods such as Levenberg-Marquardt [75], reflective Newton [76], and interior trust region [77] can be adopted to solve the nonlinear least square problem.
+
+The above localization algorithms based on diffusion models can be extended to locate multiple diffusion sources if each theoretical  has an explicit expression. Nevertheless, localization problems are high-dimensional and coupling interferences in the estimation of multiple location parameters are unavoidable.
+
+For the localization algorithms independent of diffusion models, localization is based on observations of the network, rather than the pollutant migrating laws, so the precision of many methods is susceptible to node observations.
+
+For the localization based on diffusion models, as the diffusion models are all proposed under ideal assumptions and cannot depict the diffusion process very precisely, the accuracy of many localization algorithms is limited by diffusion models. In many cases, there are even no explicit diffusion models. In analytic water pollution source localization methods related to diffusion models, error-prone numerical iteration computations are also often involved.
+
+In particular, comparisons of different pollution source localization methods are shown in Table 1.
+
+Comparison of different pollution source localization methods.
+
+Furthermore, even if there are many pollution source localization methods, it should be realized that as the pollutant migrating process is complicated, in order to simplify the research backgrounds, advection and chemical reactions as well as transport and fate models of pollutants are ignored in most works.
+
+More sensors which can detect specific pollution material are needed, so the sensor technology is a challenge.
+
+Higher-efficiency power supplies and lower-power consumption devices are needed, especially in wireless sensor networks. To realize multihop and collaborative work in practical applications, more robust communication technologies are needed.
+
+There are many statistical distributions of measurement noises, parameter test methods, and different nonparameter test methods. Which one is the most proper solving method for a particular hypothesis testing problem is a problem to be discussed further.
+
+In node deployment, the number of sensors in any subregion is generally considered to be Poisson distributed [78, 79]. Only when the node closes to the pollution source, the node does detect the pollution timely. If the Poisson density  is small, there are few nodes in the nearest neighbor region, and the node number could even be 0. So, the performance of the detection methods is always related to the node density. A high-precision detection method with a sparse node density is a problem to be studied further.
+
+(1)	The environment is not always static, especially in dynamic water, the sensor nodes always drift, and localization methods based on nonfixed sensor nodes should be considered [80]
+
+(2)	In complicated water, for example the velocity field, the pollutant migrating is influenced by shear flow, turbulent flow, dispersion, degradation, etc.; effective localization algorithms are still hard to be given actually [80]
+
+(3)	The pollutant migrating process is complicated; in order to simplify the research problems, advection and chemical reactions as well as transport and fate models of pollutants are ignored in most pollution monitoring works using sensor networks. Localization methods considering the factors are hard to be given
+
+(4)	In some cases, the pollutant migration has no regularity, and characteristics of the pollution source even change with time. How the sensing values are used to locate the pollution source in these cases is a problem
+
+(5)	Because the sensors are valuable, the sensor nodes cannot be deployed densely. How to get a precise localization result when sensor nodes are deployed sparsely is a challenge
+
+(6)	The diffusion models are always complicated. If the pollution source localization problem is a strong nonlinearity problem, there are many local extremum points in the domain. So, a precise result is often hard to be obtained in analytic localization algorithms based on diffusion models
+
+Pollution monitoring is of great importance to environmental protection. In this paper, a survey on air and water environment monitoring, pollution source detection, and localization using sensor networks is given. Firstly, the sensors and monitoring systems are investigated. Secondly, the pollution detection methods using sensor networks are studied. Subsequently, different pollution source localization methods are discussed. Finally, challenges in pollution monitoring and diffusion source localization are presented.

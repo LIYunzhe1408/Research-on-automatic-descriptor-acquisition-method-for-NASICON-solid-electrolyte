@@ -1,0 +1,74 @@
+Formation of heterovalent Zr-substituted solid solutions (up to 7 mol%) for Yb31 in Na6Yb3(PO4)5 and LiNa5Yb3(PO4)5 complex phosphates was studied by ceramic technique at 9501C.
+Obtained samples were investigated with X-ray powder diffracinfrared, and impedance spectroscopy.
+Zr-substituted tion, (7 mol%) Na6Yb3(PO4)5 has ionic conductivity of 1.6 .
+An updated version of phase diagram for ScPO4–Na3PO4–Li3PO4 quasi-ternary system was provided.
+
+THE discovery of Na11xZr2SixP3 xO12 (later named asNASICON-NAtrium SuperIonic CONductor) by Hong, Goodenough and Kafalas in middle 1970 made a tremendous contribution to development of Solid State Ionics.
+The concept of high ionic conductivity based on migration of Na cation through three-dimensional (3D) system of channels has been working well already 30 years and was leading to discovery of a huge list of new compounds.
+Even a quick search through Internet using for example Google search engine gives over 55 000 references, even though big part of the materials reported does not contain Na4 and some are not super ionic conductors at all.
+High alkali ion-based conductivity and good cationexchange properties of NASICON family members, as well as fast growing market of potential applications such as battery electrodes, fuel cells, chemical sensors and membranes for radioactive waste disposal, have motivated advances in NASICON structurally related compounds.
+It was found that binary system of ScPO4–Na3PO4 includes NASICON-like compounds: Na3Sc2(PO4)3 and Na6Sc3(PO4).
+ They possess relatively high values of ionic conductivity logically explained by their 3D structure.
+Its framework consists of [PO4]-tetrahedra sharing corners with [ScO6]-octahedra with interstitial space occupied by Na cations.
+Signiﬁcant ionic conductivity of Na3Sc2(PO4)3 s 5 10 1 S/cm is achieved only at elevated temperature of 3001C that limits its practical application.
+In addition, these compounds have complex polymorphism: Na3Sc2(PO4)3 has three polymorphous modiﬁcations: a-b at B501C and b-g at B1681C.
+Representative of ScPO4–Li3PO4 system, Li3Sc2(PO4)3 also has NASICON-like 3D structure with Li cation conductivity s 5 10 3–10 2 S/cm at 3001C.
+ However, it also has 3 polymorphous modiﬁcations: a-b at 1771–2221C and b-g at 2221–2571C.
+Complex polymorphism makes it difﬁcult to obtain ScPO4– (Na/Li)3PO4-based NASICON-like compounds of high phase homogeneity and with good working characteristics.
+We have recently reported an approach to improve phase stability by solid solutions formation in the quasi-ternary system of ScPO4– Na3PO4–Li3PO4, which allows decreasing expensive scandium content as well.
+Nevertheless, obtained preliminary data on ionic conductivity were not outstanding.
+Binary system of YbPO4–Na3PO4 also has NASICON-like compounds of interests: Na6Yb3(PO4)5 and Na4.5Yb1.5(PO4)3.
+ In this paper, we will present the results on heterovalent Zr-substitution into Na6Yb3(PO4)5 and LiNa5Yb3(PO4)5 trying to ﬁnd another way to obtain promising conducting material.
+To make a conclusion about practical application of the compounds obtained, temperature dependence of ionic conductivity for the samples of both systems ScPO4–Na3PO4–Li3PO4 and YbPO4–Na3PO4 will be obtained.
+An updated version of phase diagram for the quasi-ternary system of ScPO4–Na3PO4–Li3PO4 will be also provided.
+For synthesis of Na6Yb3(PO4)5 and LiNa5Yb3(PO4)5 complex phosphates and Zr-substituted ones, commercially available Na3PO4 and Li3PO4 (3N purity) were used.
+YbPO4 and Na6Yb3(PO4)5 were prepared according to Salmon et al.
+15 Complex phosphate LiNa5Yb3(PO4)5 was obtained by mixing LiNa5(PO4)2, synthesized according to Zimina et al. and YbPO4 in molar ratio 1:3. 
+To prepare Zr(HPO4)2, commercial ZrOCl2 8H2O (4N purity) was dissolved in 30% H3PO4 and obtained deposits were ﬁltered and dried at 2001C.
+Samples in ternary system of Sc, Na, and Li phosphates were synthesized according to Zhuravleva et al.Complex phosphates were obtained by a ceramic method using stoichiometric amounts of simple phosphates.
+They were mixed and ground in a mortar with ethanol, then pressed in pellets (d 5 10 mm) and sintered in furnace at 9501C for 100– 200 h.
+After that all samples were quenched into liquid nitrogen.
+Identiﬁcation of the intermediate and ﬁnal products of thermal processing was carried out by X-ray powder diffraction (XRD) using a diffractometer with CuKa radiation at room temperature (RT).
+To determine unit cell parameters, the angle interval of 10r2yr801 with a scanning step of 0.021 and recording time 70 min, depending on the quality of reﬂections, was used.
+After indexing unit cell parameters were calculated and analyzed using the Rietveld method.
+Deformation of phosphate anion (PO4)3  was estimated by infrared (IR) spectroscopy.
+IR spectra of single-phase specimens were registered with a spectrometer in the range of wave number 400–4000 cm 1 using KBr pellet technique.
+Ionic conductivity was measured in temperature range 201– 3501C and frequency range 1 Hz to 1 MHz on an impedance meter with a thermal analysis system.
+Powder samples were pressed in pellets of 10 mm in diameter and thickness of 1–1.5 mm.
+Communications of the American Ceramic SocietyIII.
+Synthesis of Zr-substituted solid solutions was performed with Zr content  and 10 mol% in case of Na6Yb3(PO4)5, and 3, 5, and 7 mol% for LiNa5Yb3(PO4)5.
+ XRD patterns analysis of the samples obtained showed that the single-phase area lasts in both cases from 0 to 7 mol% of Zr, see examples of the XRD patterns evolution in Fig.1. 
+Diffraction patterns of the samples with higher Zr concentrations contain reﬂections of the secondary phase YbPO4 which suggesting preferential substitution of Zr41 for Yb31.
+ It allows us to propose the following substitution scheme:where v – is a vacancy in Na1 cation sublattice.
+Concentration dependences of the lattice parameters a and c of the samples obtained are shown in Fig.2 and formation of solid solutions in this concentration range may be concluded.
+Registered IR spectra of Na6Yb3(PO4)5 show that the phosphate anions in this structure keep high symmetry giving the only valence vibration mode around 1050 cm 1 and well-deﬁned triplet of narrow bending vibration modes.
+While IR spectrum of Zr-substituted (7 mol%) solid solutions sample demonstrates clear splitting of the valence vibration mode keeping bending vibration triplet unchanged and thus supporting substitution scheme proposed.
+Similar IR spectra were recorded for pure and Zr-substituted (5 mol%) LiNa5Yb3(PO4)5 samples.
+The only difference is that IR spectrum of LiNa5Yb3(PO4)5 shows deformation of a tetrahedral phosphate anion which looks very much like that of Li-substituted Na6Sc3(PO4)5.
+ Introduction of Zr leads to even stronger phosphate anions deformation, such as in the case of Zr-substituted Na6Yb3(PO4)5.
+Temperature dependences of ionic conductivity of the samples with NASICON-like structure: (65 mol% ScPO4135 mol% LiNa5(PO4)2), Zr-substituted (7 mol%) Na6Yb3(PO4)5, and Zrsubstituted (5 mol%) LiNa5Yb3(PO4)5; and Na3 xScx/3PO4-like cubic phase sample (25 mol% ScPO4175 mol% LiNa5(PO4)2) are given in Fig.3.
+ In general, ionic conductivity of samples with NASICON-like structure is higher than that of cubic phase in the temperature range studied.
+The highest values of ionic conductivity were measured for Zr-substituted.
+As-formed vacancies in the cation sublattice make movement of Na cations through the system of channels easy and thus increase ionic conductivity.
+Li-substituted solid solutions samples demonstrate lower ionic conductivity.
+It could be tentatively explained by high polarization ability of Li cations.
+When Li is introduced into Na cationic sublattice, it most probably deforms 3D system of channels and could even act.
+ Room temperature X-ray powder diffraction patterns of the samples with NASICON-like structure: (a) Na6Yb3(PO4)5, (b) Zr-substituted Na6Yb3(PO4)5 Zr-substituted LiNa5Yb3(PO4)5 (5 mol%).
+Fig.2. Concentration dependences of the lattice parameters a and c of Zr-substituted (a) Na6Yb3(PO4)5 and (b) LiNa5Yb3(PO4)5.like a cork preventing movement of Na cations.
+On the other hand, with formation of Li–O bonds stronger than those of Na– O the amount of potential charge carriers decrease consequently lowering ionic conductivity.
+Even if vacancies in Zr-substituted LiNa5Yb3(PO4)5 were created, it does not help much.
+An updated version of phase diagram for the quasi-ternary system of ScPO4–Na3PO4–Li3PO4 is presented in Fig.4.
+ Small single-phase areas with the mineral olympite structure (I) and with NASICON-like structure of Na3Sc2(PO4)3 (IV) are indicated by dark-blue and green colors, respectively.
+Single-phase area of the NASICON-like compound Na6Sc3(PO4)5 with struc16 is marked by blue ture similar to that of Na4.5Yb1.5(PO4)3 (III).
+The red-colored area (II) corresponds to a cubic phase with the structure of Na3 xScx/3PO4. Improved synthesis conditions with quenching all the samples obtained into liquid nitrogen allowed to increase considerably borders of this extensive area of homogeneity.
+
+Heterovalent Zr-substitution was shown to be a viable approach to obtain compositions with high ionic conductivity.
+Substitution of Zr41 (up to 7 mol%) for Yb31 in Na6Yb3(PO4)5 and LiNa5Yb3(PO4)5 leads to formation of solid solutions.
+Asformed vacancies in Na cationic sublattice promote movement of Na cations resulting into values of ionic conductivity of 1.6 10 2 S/cm at 3001C and 4.810 5 S/cm at RT for Zr-substituted (7 mol%) Na6Yb3(PO4)5 samples.
+While ionic conductivity of LiNa5Yb3(PO4)5-based Zr-substituted samples was found to be lower around two orders of magnitude.
+On the other hand, obtained values of ionic conductivity of samples in the ScPO4–Na3PO4–Li3PO4 quasi-ternary system are not so outstanding to consider them as superionic conductors at low working temperatures.
+Introduction of Li has clearly seen negative inﬂuence on ionic conductivity because of deformation or even closing 3D system of channels preventing movement of Na cations.
+An updated version of phase diagram for the quasi-ternary system of ScPO4–Na3PO4–Li3PO4 was also communicated.
+
+
+

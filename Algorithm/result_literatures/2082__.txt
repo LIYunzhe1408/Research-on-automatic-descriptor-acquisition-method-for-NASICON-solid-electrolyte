@@ -1,0 +1,41 @@
+Crystal structure and electric conductivity of the NASICON-related solid solution NaTi2P3−X AsX O3 synthesized hydrothermally
+
+NaTi2(PO4)3 (NTP) has a NASICON-type crystal structure belonging to the space group R ¯3 c. It consists of a three-dimensional network made up TiO6-octahedra sharing the corners with PO4-tetrahedra. Since Goodenough et al. [1] ﬁrst reported the high conductivity of NASICON, much work has been devoted to synthesis of the analogous compounds [2–5]. This crystal structure is one of the most suitable structures for cation conduction. It is recognized that the preparation of solid solutions between NTP and other similar compounds with different size tetrahedral units, for example AsO3− 4 , results in a material with a higher cationic migration and higher electric conductivity.
+
+The preparation of well-sintered ceramics is indispensable for applying these cation-conducting materials to sensors [6, 7], solid-cell type electrodes, and other electric devices. The hydrothermal method is very suitable for preparing ﬁne powder materials, and for easily preparing a wide range of compounds of various chemical species, especially in solid solution. In this letter, we report the hydrothermal synthesis of arsenicsubstituted NTP and discuss its electric conductivity associated with the crystallographic properties of the sintered materials.
+
+The starting material for the hydrothermal reaction was prepared by the following coprecipitation method. TiCl4 was added with stirring to distilled water cooled by ice. The resulting yellow TiCl4 aqueous solution was combined with a solution of NH3, resulting in a thick yellowish-white precipitate. The semipermeable white gel, Ti(OH)4, was obtained by washing with distilled, deionized water and air drying. For the autogenously hydrothermal reaction, the gel-like Ti(OH)4, 85% H3PO4, H3AsO4, and NaOH aqueous solutions were put into a Teﬂon-lined mini-autoclave with a capacity of 30 cm3. The ratios of these materials were controlled with constant Na concentration in the reaction vessel. The autoclave was heated in an elecC. Aftric furnace for 5 h at a temperature of 250 ter air cooling the vessel, the powdered white product was recovered by ﬁltration, washed with distilled and deionized water, and dried in a desiccator at room temperature.
+
+reported for boron-substituted NTP [10]. In the case of boron-substituted NTP or other related NASICON-type enhanced solid solutions [10, 11], enrichment with Na conductivity because the concentration of charge carriers increased. Though, in the case of arsenic-substituted was kept consNTP, the amount of charge carrier Na tant when the amount of substituted element was increased. We must devote our attention to another factor causing higher electric conductivity in the system. As well as charge carrier concentration, structural properties are also important factors in determining electric conductivities.
+
+Table I shows the crystallographic and structural parameters, and the selected bond distances obtained by Rietveld analysis for the sintered sample of the ratio of P : As = 9 : 1, NaTi2(P0.9As0.1)3O12. Rietveld analysis of XRD patterns provided efﬁcient structural parameters for other samples as well as NaTi2(P0.9As0.1)3O12. Table II shows the change of the lattice parameters and the bond distances of tetrahedral unit in NTP structure with the amount of substituted arsenic. Both the c-parameter and lattice volume increased with the change of P : As from 9 : 1 to 6 : 4. Solid-solution type materials were considered to be formed below the 6 : 4
+
+Figure 2 Arrhenius plots of the electric conductivity of the sintered samples determined by the complex impedance method.
+
+P : As ratios in the synthesized powder samples were maintained as the same value as the starting materials ratios. These hydrothermally prepared ﬁne crystalline C for 6 h. Though powders were well sintered at 1000 they are sintered at a high temperature, an NTP-type single phase without impurities was obtained under the same materials ratio conditions.
+
+Fig. 2 shows the Arrhenius plots of the conducti vity of the sintered samples determined by the complex impedance method. The logarithm of the conductivity changed linearly versus 1/T over a wide range of temperatures. The conductivity increased and the activation energy decreased with the substitution of As for P. A similar correlation between electric conductivity and amount of substituted element of solid solution has been
+
+T A B L E I Crystallographic and structural parameters, and selected bond distances for NaTi2(P0.9As0.1)3O12 calculated by Rietveld analysis of XRD patterns
+
+Space group Unit cell parameter
+
+R factors (%) Rwp = 9.80
+
+Atomic parameters
+
+Atom Na Ti P, As O(1) O(2)
+
+Selected atomic distances and angles Distances (nm) Na-O(2) = 0.2456(2) Ti-O(1) = 0.1905(6)
+
+R ¯3 c (No. 167, setting 2 : hexagonal lattice) a = 0.850(1) nm c = 2.176(2) nm V = 1.3619(7) nm3 Z = 6 D = 3.0491(8) g/cm3 Rp = 7.47
+
+Angles (deg.) O(2)-Na-O(2) = 64.801 O(1)-Ti-O(1) = 93.240 O(2)-Ti-O(2) = 84.837 O(1)-Ti-O(2) = 89.334 O(1)-P,As-O(1) = 112.478 O(2)-P,As-O(2) = 112.387 O(1)-P,As-O(2) = 110.195
+
+value because the lattice parameters changed continuously with the ratio of the chemical species. This indicates a change of lattice parameters to conform to the size of a new tetrahedral unit, (P,As)-O4. The larger cell-volumes in these NASICON-type structures with higher arsenic-substitutions must be a result of the different ionic radii of P5+ . Bond distances between the imagery atom, being partially P and partially As at each ratio, and coordinated O at the tetrahedral unit, (P,As)-O4, are also shown in Table II. The distances obviously increase with an increase in arsenicsubstitution, and this natural characteristic of the crystal structure may cause a decrease in the activation energy of ionic migration.
+
+and As5+
+
+In the present work, the NASICON-type solid solution NaTi2P3−xAsxO3 was obtained as a ﬁne powder by means of a hydrothermal method. For this material, the electric conductivity increases with increases in the As content of the chemical composition. The reason for the enhancement of electric conductivity is conﬁrmed to be the change of crystal structure, especially the size of (P,As)-O4 tetrahedra, as determined by Rietveld analysis.
+
+

@@ -1,0 +1,38 @@
+Journal of Thermal Analysis and Calorimetry
+
+NaSICON (non signalØ dans la littØrature  224) notre connaissance), dans lequel le zirconium a ØtØ remplacØ par le hafnium (Na3Hf2Si2PO12).
+
+Les deux oxydes seront caractØrisØs afin de mettre en Øvidence l 146)influence de la
+
+substitution du zirconium par le hafnium.
+
+Le schØma du mode opØratoire mis au point est illustrØ sur la Fig. 3. La premiŁre Øtape consiste  224) mØlanger  224) tempØrature ambiante l 146)eau, l 146)Øthanol, l 146)acide nitrique. Les proportions de ces
+
+le tØtraØthyle orthosilicate (TEOS) et diffØrents ØlØments ont ØtØ optimisØes.
+
+La deuxiŁme Øtape consiste  224) dissoudre simultanØment le nitrate de sodium et le
+
+nitrate de zirconyle dans de l 146)eau distillØe  224) tempØrature ambiante.
+
+L 146)Øtape suivante consiste  224) verser le mØlange nitrate de sodium-nitrate de le TEOS. A cette solution est ajoutØ le zirconyle dans la solution contenant di-ammonium-hydrogØno-phosphate, ce qui provoque l 146)apparition d 146)un gel blanc. Le mØlange obtenu est mis  224) l 146)Øtuve  224) 105 176)C jusqu 146) 224) Ølimination totale de l 146)eau et obtention d 146)un complexe sous forme de poudre. Ce dernier est pyrolysØ afin d 146)obtenir l 146)oxyde NaSICON.
+
+Cette mØthode de synthŁse a ØtØ utilisØe pour Ølaborer les deux types de
+
+NaSICON (de formule : Na3Zr2Si2PO12 et Na3Hf2Si2PO12).
+
+L 146)analyse des complexes a ØtØ suivie par ATD 150)ATG couplØes et diffraction de rayons X  224) tempØrature variable. Les oxydes obtenus ont ØtØ caractØrisØs par diffraction de rayons X  224) tempØrature ambiante.
+
+Nous avons suivi la dØcomposition thermique des prØcurseurs par ATD 150)ATG couplØes (Setaram TGA 92) et diffraction de rayons X  224) tempØrature variable (chambre chauffante Anton Paar HTK10).
+
+Les thermolyses des deux complexes ( 224) base de Zr et  224) base de Hf), sous air, de la tempØrature ambiante  224) 800 176)C avec une vitesse de chauffage de 5 176)C min 150)1 sont prØsentØes sur les Figs 4 et 5, respectivement.
+
+Dans les deux cas la thermolyse du complexe anhydro montre :  150) une perte de masse en trois Øtapes:  149) la premiŁre de 25  224) 210 176)C correspond au dØpart de NH3. Cette perte associØe  224) un phØnomŁne exothermique (pic A) correspond  224) la formation de N2O selon l 146)Øquation NH3+O2ﬁ
+
+1/2N2O+H2O (rØsultat mis en Øvidence par IRTF).
+
+Pour la premiŁre fois  224) notre connaissance de NaSICON  224) base de hafnium ont ØtØ synthØtisØs. Ils prØsentent une conductivitØ nettement supØrieure  224) celle de leurs homologues contenant du zirconium et cela pour des tempØratures infØrieures  224) 270 176)C.
+
+Les rØsultats obtenus mettent en Øvidence d 146)une part l 146)augmentation de la conductivitØ des Øchantillons avec la tempØrature (caractØristique de la conduction ionique), et d 146)autre part une modification de la conductivitØ en fonction de la composition des Øchantillons. Les Ønergies d 146)activation sont de 0,29 eV pour l 146)Øchantillon contenant du zirconium et 0,12 eV pour l 146)Øchantillon contenant du hafnium.
+
+Ce type de conducteur ionique  224) base de hafnium laisse entrevoir la possibilitØ d 146)une utilisation en tant que matØriau intelligent dans des capteurs fonctionnant  224) tempØrature ambiante. Les premiers rØsultats montrent que des capteurs  224) base de hafnium ont  224) 200 176)C, une sensibilitØ meilleure que des capteurs  224) base de zirconium  224) 500 176)C.
+

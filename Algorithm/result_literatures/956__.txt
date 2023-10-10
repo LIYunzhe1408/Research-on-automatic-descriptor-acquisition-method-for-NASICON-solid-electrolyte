@@ -1,0 +1,72 @@
+As existing battery technologies struggle to meet the requirements for widespread use in the field of large-scale energystorage, novel concepts are urgently needed concerning batteries that have high energy densities, low costs, and highlevels of safety.
+
+Here, a novel eco-friendly energy storagesystem (ESS) using seawater and an ionic liquid is proposed forthe first time; this represents an intermediate system betweena battery and a fuel cell, and is accordingly referred to asa hybrid rechargeable cell.
+
+Compared to conventional organicelectrolytes, the ionic liquid electrolyte significantly enhancesthe cycle performance of the seawater hybrid rechargeablesystem, acting as a very stable interface layer between the SnC (Na storage) anode and the NASICON (Na3Zr2Si2PO12) ceramicsolid electrolyte, making this system extremely promising forcost-efficient and environmentally friendly large-scale energystorage.
+
+With the rapid depletion of fossil fuels, the major cause ofglobal warming induced by carbon dioxide emissions, there isan urgent need to seek renewable and green energy sourcesto achieve the efficient use of energy enabling the sustainabledevelopment of our society.
+
+Renewable energy from sun,wind, and wave sources requires energy storage systems (ESSs)to provide electricity efficiently when needed.
+
+Thus, electrochemical energy storage has become an issue of strategic importance as it will play a critical role in clean energy generationand use.
+
+Many types of ESSs, such as pumped hydroelectric energystorage (PHES), compressed air energy storage (CAES), flywheelenergy storage, and electrochemical energy storage, includingrechargeable batteries, flow batteries, and capacitors, are extensively investigated.
+
+Among these ESSs, lithium ion batteries(LIBs) are generally considered to be the most promising interms of energy and power densities, ease of installation, andlifetime.
+
+Indeed, LIBs can store up to three times more electricity and generate twice the power of nickel-metal hydride(Ni-MH) batteries, which are still widely used.
+
+Although LIBtechnology has taken fewer than 20 years to successfully capture the portable electronics market for mobile phones, laptopcomputers, digital cameras, music players, and so on, it doesnot fully meet the requirements for the upcoming markets ofelectromobility and renewable energies.
+
+ Significant improvements in terms of energy density and cost efficiency are urgently needed to serve these kinds of applications.
+
+The currently utilized active materials intrinsically limit thespecific energy density of conventional LIBs.
+
+However, whenreplacing LIB intercalation chemistry with conversion chemistry,such as an O2 cathode and an alkali metal anode (Li or Na), extremely high energy densities can be achieved, which arelarger than those of any other existing secondary battery technology.
+
+ Accordingly, alkali metal–air batteries have attracted worldwide attention.
+
+ However, from the technologypoint of view these systems are far from being ready for application.
+
+Especially, the volatility and, in some cases, the toxicityof the electrolyte (i.e., the solvent) raise serious technologicaland safety problems because of the cathodic compartmentbeing open to the environment for the oxygen harvesting/release from/to ambient air.
+
+Such volatility might result in dryingout of the electrolyte when aqueous solutions are used, oreven fire and explosion when organic solvents are employed.
+
+In the most optimistic case, a short lifetime is expected.
+
+Furthermore, the use of reactive alkali metal anodes (Li or Na)raises additional issues related to safety and, then, cost duringassembly and operation.
+
+In an effort to develop an environmentally friendly, low-costESS with a high level of safety, we recently designed a noveland rechargeable Na-ion battery system that uses seawater asthe active cathode species.
+
+The circulating seawater ensuresthe constant supply of sodium ions, thus continuously compensating irreversible charge losses eventually occurring andthereby engendering superior cycling stability.
+
+Therefore, thissystem is compatible with various anodes.
+
+ As alreadydemonstrated in our previous work, one suitable candidate isthe tin–carbon composite (Sn-C) material, which reversiblystores Na based on an alloying mechanism.
+
+Sn-C composites were already widely studied in the recent years; for instance, Oh et al.showed a Sn-C/Na(Ni0.5Mn0.5)O2full cell usingan organic-based electrolyte that provides a reversible capacityof about 120 mAhg¢1and Lee et al.
+
+demonstrated the suitability of ether-based electrolytes in a Sn-C/hollow carbon sphere–sulfur composite full cell with pre-sodiated anode, whereas Xuet al.
+
+more focused on the understanding of the different electrochemical performance of Sn-C composites in Na- and Li-ionbatteries.
+
+Although seawater hybrid battery systems,making use of Sn-C composite or hard carbon anodes andconventional, organic solvent-based electrolytes, showed impressive electrochemical properties, safety, and environmentalpollution, the use of flammable organic solvent in the anodecompartment prevents their deployment.
+
+Environmentallyfriendly ionic liquid-based electrolytes are, thus, extremely attractive for applications in electrochemical ESSs because oftheir higher level of safety and lower environmental impact.
+
+Infact, ionic liquids are characterized by negligible vapor pressure and high thermal stability, thus low flammability and pollution.
+
+In addition, they offer proper ionic conductivity (alreadyat room temperature) and a wide electrochemical stabilitywindow (ranging from 4.0 to 5.7 V).
+
+In this study, we present an advanced ESS system designwith improved safety and environmental properties.
+
+This ESSuses seawater as cathode and Sn-C as anode separated bya solid-state electrolyte, acting as the physical barrier betweenthem, and an ionic liquid-based anolyte.
+
+The performance ofthe ionic liquid-based electrolyte [1:9 mol/mol NaTFSI/Pyr14TFSI, Pyr14=N-butyl-N-methyl-pyrrolidinium, TFSI=bis(trifluoromethanesulfonyl)imide] is compared to that of the conventional liquid electrolyte (1m NaClO4in 1:1 v/v EC/DEC, EC=ethylene carbonate, DEC=diethyl carbonate).
+
+ The ionic conductivity of the ionic liquid electrolyte (ILE) at room temperature is lower than that of the liquid electrolyte (LE).
+
+However,the same is not true for the low-temperature conductivity aswell as the electrochemical stability.
+
+Most importantly, theionic liquid-based electrolyte significantly enhances the cycleperformance of the seawater hybrid rechargeable system asa result of the better interfacial properties with the Sn-C anodeand the NASICON (Na3Zr2Si2PO12) ceramic solid electrolyte.
+

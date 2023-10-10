@@ -1,0 +1,917 @@
+A novel electrode material, Na3V2(PO4)3 with a rhombohedral, Na+ superionic conductor 
+
+(NASICON)-type  structure,  was  synthesised  for  use  in  sodium-ion  batteries  (NIBs)  via  a 
+
+solid-state  carbon-thermal  reduction  reaction  assisted  by  mechanochemical  activation. 
+
+Electron  microscopy  analysis  showed  that  the  synthesised  Na3V2(PO4)3  particles  had  a 
+
+core-shell  structure,  with the  particles,  which  had  an  average  size  of  300  nm,  being  coated 
+
+with a uniform layer of carbon 3 nm in thickness. This carbon coating, which was formed in 
+
+situ,  retarded  the  growth  of  the  Na3V2(PO4)3  particles  and  improved  electronic  contact 
+
+between them. As a result, the composite material exhibited excellent electrochemical and rate 
+
+cycling performances when used in NIBs. As a cathode material, Na3V2(PO4)3/C exhibited an 
+
+initial specific discharge capacity of 98.17mAhg-1  at  0.1C  for  potentials  ranging from  2.5 to 
+
+3.8V.  This  was  owing  to  the  V3+/V4+ redox couple,  which  corresponded  to  the  two-phase 
+
+transition  between  Na3V2(PO4)3  and  NaV2(PO4)3.  The  cathode  lost  4.92%  of  its  discharge 
+
+specific capacity after 50 cycles.  As  an  anode  material,  Na3V2(PO4)3/C exhibited an initial 
+
+specific discharge capacity of 63.2mAhg-1 at 0.1C for potentials ranging from 1.0 to 2.5V. This 
+
+was  owing  to  the  V2+/V3+  redox  couple,  which  corresponded  to  the  two-phase  transition 
+
+between Na3V2(PO4)3 and Na4V2(PO4)3. The anode lost approximately 5.41% of its discharge 
+
+specific capacity after 50 cycles.  The  three-dimensional channel structure  of  NaV2(PO4)3 and 
+
+the  changes  induced  in  its  lattice  parameters  during  the  charge/discharge  processes  were 
+
+simulated on the basis of density functional theory.   
+
+
+Since the combustion of fossil fuels results in air pollution and increases the greenhouse 
+
+effect, much attention is being focused on the exploitation of new energy sources, such as solar, 
+
+wind, tidal, and geothermal ones [1]. Significant progress has been made in the development of 
+
+renewable  energy  technologies.  The  development  of  devices  and  technologies  for  storing 
+
+electrical energy is also important, as these will allow for hybrid electric vehicles (HEVs) and 
+
+electric  vehicles  (EVs)  and  can  act  as  back-ups  for  wind  and  solar  energy  sources  [2-4]. 
+
+
+Lithium-ion batteries (LIBs) are considered the most efficient energy storage systems and are 
+
+used  widely  in  portable  electronic  devices,  owing  to  their  high  open-circuit  voltage,  high 
+
+energy  density,  flexibility  and  lightweight  design,  long  cycle  life,  and  environmental 
+
+friendliness[5, 6]. However, lithium is not available in the amounts necessary for meeting the 
+
+increasing  market  demand.  Thus,  rechargeable  batteries  based  on  alternative,  abundantly 
+
+available materials need to be developed[7]. 
+
+Sodium-ion  batteries(NIBs)  are  a  promising  alternative  to  LIBs  for  large-scale  energy 
+
+storage applications, because of the high availability of sodium, its low cost, and the similarity 
+
+in  the  intercalation  chemistry  of  sodium  and  lithium[8-10].  The  fully  developed  lithium 
+
+electrochemical system can be exploited for  developing the Na counterpart[11]. A  number  of 
+
+studies have focused on developing improved electrode materials for NIBs in the last few years. 
+
+For  example,  electrode  materials  such  as  Na2V6O16[12],  NaV6O15[13],  Na0.6VO2[14], 
+
+Na3V2(PO4)2F3[11,  31],  Na2Ti3O7[32-35],  Li4Ti5O12[36],  and  Na2C8H4O4[37]have  been 
+
+explored for use as active electrode materials in NIBs. 
+
+To  further  improve  the  energy density, safety, and life cycle of NIBs[38],  new  cathodic 
+
+materials  need  be  developed.  Owing  to  their  high  redox  voltage  and  steady  reversibility, 
+
+polyanionic materials have attracted a great deal of interest as cathodic materials for NIBs. Of 
+
+late,  Na+  superionic  conductor(NASICON)-type  insertion  hosts  are  being  investigated  as 
+
+prospective electrode materials for NIBs. These materials have the following general molecular 
+
+formula: AxM2(XO4)3, where A = Na or Li; M = Ti, V, or Fe; and X = P, S, Mo, W, or As. In the 
+
+crystal structure of these materials, which have a  NASICON framework, the MO6 octahedral 
+
+units share all their corners with XO4 tetrahedra, and the XO4 tetrahedral units share all three 
+
+corners  with  MO6  octahedra.  This  allows  for  the  formation  of  interstitial  and  conduction 
+
+channels along the c-axis direction; alkali metal ions (Na+ or Li+) can occupy the interstitial 
+
+positions in these channels [39]. The energies of the M(m+1)+/Mm+ redox couples are strongly 
+
+influenced  by  the  counteraction  in  the  polyanion  tetrahedron  (XO4).  In  particular, 
+
+phosphate-based Na-insertion hosts have attracted significant interest, because of the strong 
+
+P–O bond in the (PO4)3units; the bond provides structural stability even in the high-charge 
+
+states and lowers the energy of the top of the O–2p bands. Hence, the cathodic material  has a 
+
+higher intrinsic voltage limit, which is determined by the pinning of the Fermi energy at the top 
+
+of the O–2p bands[40].   
+
+Rhombohedral  Na3V2(PO4)3  (NVP),  which  is  a  polyanionic  material,  has  a  robust 
+
+structure,  good  ionic  mobility,  a  high  theoretical  specific  capacity  (117.6mAh  g-1),  and  a   
+
+high operating voltage (up to 3.4 V). As a result, it should be a suitable cathodic material for 
+
+NIBs.  NVP  consists  of  a  three-dimensional  (3D)  framework  of  VO6  octahedra  and  PO4 
+
+tetrahedra, which share oxygen vertices, hosting Na ions in the relatively large interstitial sites. 
+
+However, the poor intrinsic electronic conductivity of NVP, which results from the separation 
+
+of the VO6 octahedra from the PO4 tetrahedra in the rhombohedral structure, limits its practical 
+
+use. Recently, Jian et al.[41] reported a sugar-assisted one-step solid-state reaction to prepare 
+
+NVP/C powders  with  an  average  particle  size  of  3µm.  These  powders  exhibited  an  initial 
+
+discharge capacity of 93.0mAh g−1at a current rate of 0.05C; however their rate capabilities 
+
+and  cycling  performance  were  not  high  enough.  Lim  et  al.[42]  synthesised  NVP  by  a 
+
+polyvinylpyrrolidone  (PVP)-assisted  sol-gel  method;  the  fabricated  sample  exhibited  a 
+
+discharge  capacity  of  84.8mAh g−1.  Further,  Jung  et  al.[43]employed  a  sol-gel  method  to 
+
+synthesise graphene-coated NVP, which exhibited a slightly low discharge capacity. In view 
+
+of these previous reports, finding a simple, low-cost, and efficient synthesis process is one of 
+
+the main concerns related to the use of such materials in NIBs.   
+
+In  this  study,  we  employed  a  simple  solid-state  reaction-based  method  to  synthesise 
+
+NVP-based cathodic materials using low-cost glucose as the carbon source. Glucose was used 
+
+because it could be readily dispersed in the precursor, owing to its small molecular size and 
+
+chain  structure.  As  result,  carbon  was  generated  in  situ  from  the  glucose,  which  was 
+
+distributed  uniformly  in  the  entire  reaction  system,  resulting  in  improved  electrochemical 
+
+performance.  The  charge-discharge  capacities  and  cycling  performances  of  the  cathodic 
+
+materials  when  used  in  NIBs  were  investigated.  In addition, the diffusion coefficient of Na 
+
+ions in NVP was determined through cyclic voltammetry (CV) and electrochemical impedance 
+
+spectroscopy  (EIS).  Finally,  we  performed  structure-energy  calculations  on  the  basis  of 
+
+density  functional  theory  (DFT)  to  elucidate  the  Na+  extraction/insertion  mechanism  in  the 
+
+NVP structure during cycling. 
+
+The NVP/C powders  were synthesised by a carbon-thermal reduction method. NH4VO3 
+
+and NaH2PO4·2H2O were used as the starting materials and glucose (in the appropriate amount) 
+
+was used as the carbon source. The materials were mixed and dispersed in alcohol and then ball 
+
+milled for 24 h in a planetary mill. Then, the obtained mixture was dried at 80 176) C in an oven to 
+
+evaporate  the  alcohol.  After  the  alcohol  had  been  evaporated,  the  remaining  precursor  was 
+
+transferred into a porcelain boat and calcined  at the required temperature for 4 h under an Ar 
+
+flow in a tube furnace. This yielded the NVP/C composite. 
+
+The  phases  and  crystal  structures  of  the  synthesised  materials  were  analysed  using  a 
+
+powder  X-ray  diffraction  (XRD)  analysis  system  (D/MAX2500V,  Rigaku,  Japan)  equipped 
+
+with  a  Cu  Kα  radiation  source.  The  morphological  features  of  the  powder  particles  were 
+
+analysed by field-emission scanning electron microscopy (FESEM)(SU8020, Hitachi, Japan) 
+
+and high-resolution  field-emission transmission electron microscopy (HRTEM)(JEM-2100F, 
+
+The cathodes used for the electrochemical tests consisted of 75 wt% active material (i.e., 
+
+the NVP/C composite), 15 wt% acetylene black, and 10 wt% polyvinylidene fluoride (PVDF), 
+
+which was used as the binder. A slurry of the mixture was prepared by adding an appropriate 
+
+amount  of  N-methyl-2-pyrrolidone  (NMP)  to  it.  This  slurry  was  cast  on  an  aluminium  foil 
+
+using  a  doctor's  blade.  The  slurry  was  then  dried  at  120 176) C  for  12  h  in  a  vacuum  oven. 
+
+Electrodes of the desired size were then punched out from the dried slurry. Electrochemical 
+
+cells based on the electrodes were assembled in a glove box filled with high-purity argon; pure 
+
+sodium foil was used as the counter electrode, 1 M NaClO4 in propylene carbonate (PC) was 
+
+used  as  the  electrolyte,  and  glass  fibre  was  used  as  the  separator.  The  charge–discharge 
+
+measurements were performed over potentials ranging from 2.5V to 3.8V and 1.0 V to 2.5V (vs. 
+
+Na+/Na) at various  C  rates at room temperature. For the galvanostatic charge/discharge tests, 
+
+the  current  rate  was  C/10  (11.76  mAg-1)  for  both  the  charge  and  the  discharge  stages.  We 
+
+determined that a current rate of 1C corresponds to 117.6mA g-1 on the basis of the theoretical 
+
+capacity of the two-phase transition between Na3V2(PO4)3 and NaV2(PO4)3 (117.6mAh g-1). For 
+
+the rate-performance tests, all the electrochemical cells were charged to 3.8 V at a rate of C/10, 
+
+and then discharged to 2.5 V at various C rates. Unless otherwise noted, all voltage values were 
+
+referenced to the standard redox potential of Na+/Na. CV measurements were performed using 
+
+a CHI660D (Shanghai, China) electrochemical workstation at a scan rate of 0.05 mV s−1 over 
+
+potentials ranging from 1.2 to 3.8 V (vs. Na+/Na).  EIS was performed using a three-electrode 
+
+cell  in  which  sodium  foil  was  used  as  both  the  counter  and  the  reference  electrodes.  EIS 
+
+measurements  were also  performed  using  the  above-mentioned electrochemical  workstation 
+
+over  frequencies  ranging  from  100  kHz  to  0.01  Hz  during  the  discharge  stage  (2.5V)  by 
+
+applying an AC signal of 5 mV. 
+
+The XRD patterns of the samples synthesised by carbon-thermal  reduction at different 
+
+sintering  temperatures  are  shown  in  Fig.  1.  The  sample  synthesised  at  600 176) C  (Fig.  1  (c)) 
+
+exhibited  amorphous characteristics. On the other hand,  the diffraction peaks of the samples 
+
+synthesised  at  650 176) C  (Fig.  1  (b))  and  900 176) C  (Fig.  1  (a))  were  suggestive  of  a  pure 
+
+NASICON-type Na3V2(PO4)3 structure that was free of impurities, indicating the completion of 
+
+the reduction reaction. These results were in good agreement with those reported previously 
+
+[41-43]. Thus, it was found that the phase-pure Na3V2(PO4)3  can be obtained by sintering at 
+
+temperatures in the range of 650 to 900 176) C. The sample prepared by sintering at 900 176) C for 4 h, 
+
+in order to restrain grain growth, had highly crystalline characteristics. The diffraction peaks of 
+
+the samples could be attributed to a pure Na3V2(PO4)3 phase with a NASICON-type structure 
+
+with the R-3c space group (167). This suggests that the presence of carbon did not affect the 
+
+structure of Na3V2(PO4)3. The results of structural refinement showed that lattice parameters of 
+
+the particles of the synthesised NVP powders were a= 8.7212 Å and c= 21.8372 Å; these values 
+
+are consistent with those  reported in the literature for Na3V2(PO4)3[8, 44]. Further, as can be 
+
+seen from Figs. 1(a) and (b), no diffraction peaks related to carbon were noticed in the XRD 
+
+patterns. This indicated that the residual carbon from the glucose was present in the composites 
+
+in a very small amount and in an amorphous state. Finally, field-emission transmission electron 
+
+microscopy (FETEM) images confirmed that the NVP nanoparticles were uniformly coated 
+
+with carbon.   
+
+Figure 2(a) shows the NASICON-type structure of Na3V2(PO4)3 projected on the (3 0 0) 
+
+plane. The structure consists of a 3D open framework consisting of 3D channels; Na ions can 
+
+easily migrate through these 3D channels. This results in extremely high ionic mobility. Each 
+
+primitive cell of Na3V2(PO4)3 contains six Na3V2(PO4)3 formula units[41]. As illustrated in 
+
+Fig. 2(a), each VO6 octahedron shares corners with three PO4 tetrahedrons. This builds up the 
+
+framework anion [V2(PO4)3]3− units along the c-axis, and each [V2(PO4)3]3− unit is interlinked 
+
+to the same neighbouring units by the PO4 tetrahedron along the a-axis, forming the open 3D 
+
+framework structure[8, 41, 42]. This arrangement leads to the formation of well-defined ion 
+
+channels, with Na ions being located in the tunnel sites. These channels in the structure act as 
+
+pathways for the diffusion of Na ions. Since it is open 3D structure, the special plane (300) 
+
+was chosen to show how the sodium ions diffuse and there exists similar pathways in other 
+
+planes, thus leading to the formation of 3D ions channels in this material. The diffusion of Na2 
+
+ions along a curved pathway is also indicated in figure 2. Na3V2(PO4)3 contains two kinds of 
+
+Na sites, namely, M1 and M2 sites. Na ions selectively occupy the M1 (octahedral sites) and 
+
+M2 (tetrahedral sites) sites[41]. Na1 ions occupy M1 sites and Na2 ions occupy M2 sites  as 
+
+shown  in  figure  2.  The  two  independent  Na  atoms  are  located  in  the  channels  of  the 
+
+framework having two different oxygen environments. The M1 sites are situated between two 
+
+adjacent [V2(PO4)3]3units along the c-axis, while the M2 sites are located at the same z value 
+
+as the phosphorous atoms[8, 42]. In the case all the M1 and M2 sites are occupied, a total of 
+
+four Na ions are contained  within each formula unit of Na4V2(PO4)3, with one Na ion being 
+
+present at the M1 site and three at the M2 site [42]. However, recent studies have reported that 
+
+Na  ions  occupy  all  the  M1  sites  and  two-thirds  of  the  M2  sites in  the  crystal structure of 
+
+Na3V2(PO4)3[41, 42].
+
+The norm-conserving pseudopotential was used for the electron-ion 
+
+interactions,  and  the  cut-off  energy  was  set  to  330eV.  The  Brillouin  zone  sampling  k-point 
+
+set-mesh  parameters  were  3×3×2.  In  order  to  reflect  the  stronger  inductive  effect  in 
+
+Na3V2(PO4)3, a higher U parameter of 4.2 eV was used[42]. The lattice parameters from our 
+
+XRD measurements were used as the initial values for the calculation, and the calculation was 
+
+performed for 150 iterations, that is, until the results were almost constant. After  all  the  Na+ 
+
+ions located at the M2 sites had been extracted during the charging process, the compound 
+
+underwent a phase transformation to NaV2(PO4)3, which also had a NASICON-type structure. 
+
+A projection of this structure on the (3 0 0) plane is shown in Figure 2b. According to the results 
+
+of the calculation, the lattice parameters of NaV2(PO4)3 corresponded to the R-3c space group 
+
+(167)  and  were  a=  8.3738  Å  and  c=  21.4261  Å;  these  values  are  very  similar  to  those  of 
+
+Na3V2(PO4)3[45]. The lattice parameters and other structural information, including the atomic 
+
+positions of Na3V2(PO)4, NaV2(PO4)3 and Na4V2(PO4)3, are listed in Tables 1, 2, 3, and 4. The 
+
+results  indicate  that  the  3D  framework  of  NVP  is  not  damaged  during  the  charging  and 
+
+discharging processes and that the volumetric change is 9.65%. This suggests  that the fact the 
+
+change in volume is small might  facilitate the diffusion of Na ions in the structure and cause 
+
+minimal distortion of the crystal lattice. Thus, using the synthesised NVP/C powders with a 
+
+stable NASICON-type structure as an electrode  material for NIBs  should result in superior 
+
+charge-discharge rate performance.   
+
+The morphological features of the synthesised  NVP/C powders  are shown in Fig. 3. The 
+
+low-magnification FESEM image of the NVP/C sample synthesised at 900 176) C (Fig. 3a) shows 
+
+that 
+
+its  particles,  whose  average  size  was  1.0µm,  had  an 
+
+irregular  morphology. 
+
+High-magnification  images  of the sample (Figure 3b) showed that its  primary particles were 
+
+less than 300nm in size and agglomerated to form larger secondary particles with sizes on the 
+
+micrometer  scale. This is to  be expected in  the  case  of  products  formed  through  solid-state 
+
+reactions  that  occur  at  high  temperatures  and  last  for  several  hours.  The  smaller  primary 
+
+particles, which have a larger specific surface area, allow for the ready transfer of Na ions and 
+
+electrons during the cycling process. This likely results in better electrochemical performance 
+
+than that when larger particles with lower specific surface areas  are  used. Moreover, a high 
+
+surface area increases the electrode/electrolyte contact area and promotes greater ion diffusion 
+
+between the cathode and the electrolyte during the electrochemical reaction, resulting in high 
+
+rate performance [46]. 
+
+The HRTEM image in Fig. 3c shows clearly that the NVP powder particles were dispersed 
+
+well in the carbon matrix and were several hundreds of nanometres in size. Further, it can be 
+
+seen clearly from Fig. 3d that the particles  were uniformly coated with a layer of amorphous 
+
+carbon and that this coating was approximately 3 nm in thickness. No lattice fringes related to 
+
+the surface carbon layer were observed; this was proof of its amorphous nature. The content of 
+
+residual carbon was measured to be 2.9 wt% from gravimetric analysis after dissolution of the 
+
+material in a hydrochloric solution. In this study, glucose not only acts as a reductant, reducing 
+
+V5+  to  V3+  during  the  heat-treatment  process,  but  also  results  in  the  formation  of  network 
+
+consisting of carbon shell layers. This network  enhances  the electronic contact between the 
+
+particles. It also  restricts the growth of the NVP crystalline particles and prevents them from 
+
+agglomerating  during  the  annealing  process.  This  further  improves  the  electrochemical 
+
+properties of the synthesised material. Figures  3e and 3f also show that the NVP/C composite 
+
+was  highly  crystalline  and  exhibited  clear lattice fringes.  It  is  believed  that  materials  with 
+
+higher  crystallinity  undergo  minimal  crystal 
+
+lattice  distortion  and  form  smoother 
+
+ion-migration  channels.  In  the  case  of  the  NVP/C composite, these channels  facilitate  the 
+
+diffusion of Na ions within the structure. The clear lattice fringes with interfringe distances of 
+
+0.253 and 0.282nm (see Fig. 3f) were in keeping with the d-spacings of the (3 0 0) and (1 1 6) 
+
+planes of NASICON-type  NVP, respectively. This was also true for the selected area electron 
+
+diffraction  (SAED)  patterns  shown  in  the  figure.  These  results  further  confirmed  that  the 
+
+synthesised powder with sub-micron size particles was crystalline in nature. 
+
+Figure  4a  shows  the  CV  curves  corresponding  to  the  first  two  cycles  of  the  NVP/C 
+
+composite for potentials ranging from 1.2 to 3.8 V (vs. Na+/Na); the scan rate was 0.05 mV s-1. 
+
+It can be seen clearly that the electrode made from the NASICON-type material displayed two 
+
+pairs  of  well-defined  redox  peaks  between  1.2  and  3.8  V.  Thus,  the  material  exhibited 
+
+outstanding reversibility with respect to the Na extraction/insertion reactions. The oxidation 
+
+(Na extraction) and reduction (Na insertion) peaks located at 3.51 and 3.30 V (vs. Na+/Na), 
+
+respectively, that is, the peaks in the high-voltage region correspond to the extraction/insertion 
+
+of two Na ions located at the M2 sites into a single formula unit of the compound. These peaks 
+
+can be assigned to the V4+/V3+ redox couple on the basis of the two-phase transition between 
+
+Na3V2(PO4)3 and NaV2(PO4)3. In the low-voltage range, the redox peaks located at 1.71 and 
+
+1.58 V could be attributed to the V3+/V2+ redox couple, which corresponds to the compositional 
+
+transition between Na3V2(PO4)3 and Na4V2(PO4)3. The polarisation voltage was approximately 
+
+0.2 V for the V4+/V3+ redox couple and 0.1 V for the V3+/V2+ redox couple. It is known that 
+
+well-defined  oxidation  and  reduction  peaks  as  well  as  small  differences  in  the  polarisation 
+
+voltages corresponding to the peaks, which depend on the transitions between the V3+/V4+ and 
+
+V2+/V3+ redox states,  are indicative of high  reversibility with respect to the carbon-assisted 
+
+extract/insertion  of  Na  ions.  Therefore,  the  synthesised  NVP/C  composite  should  exhibit 
+
+excellent charge–discharge performance as an electrode material.   
+
+Figure  4b  shows  the  CV  curves  of  the  electrode  formed  using  the  synthesised  NVP/C 
+
+composite synthesised at 900 176) C for different scan rates; the potentials ranged from 2.7 to 4.0V. 
+
+The CV curves shown are related to only one redox couple, the one corresponding to the two 
+
+compositional  transitions  between  Na3V2(PO4)3  and  NaV2(PO4)3.  As  can  be  seen  from  the 
+
+figure, there were a few obvious differences between the various CV curves. As the scan rate 
+
+was  increased,  the  cathodic  and  anodic  peaks  moved  to  lower  and  higher  potentials, 
+
+respectively,  and  the  peak  intensity  increased.  The  difference  in  the  potential  of  the  anodic 
+
+peaks and that of their corresponding cathodic peaks became larger with the increase in the 
+
+scan rate. This was further evidence of the irreversible nature of the electrochemical reactions, 
+
+owing to the degree of electrode polarisation being higher at the higher scan rates. Because 
+
+the extraction/insertion of Na+ ions into the NVP particles is a diffusion process, the electrode 
+
+reaction can be attributed to semi-infinite and finite diffusion. The peak current in the case of 
+
+the  diffusion-controlled  behaviour  is  proportional  to  the  square  root  of  the  scan  rate.  This 
+
+relation can be expressed by the classical Randles–Sevcik equation[47, 48]: 
+
+where Ip is the peak current (A), n is the number of electrons transferred per molecule during 
+
+the  electrochemical  reaction,  S  is  the  active  surface  area  of  the  electrode  (cm2),  Co  is  the 
+
+concentration of Na+ ions in the bulk of the electrode (mol cm−3), DNa is the apparent diffusion 
+
+coefficient of Na ions in the solid state (cm2 s−1), and v is the potential scanning rate (V s−1). 
+
+On the basis of Eq. (1), the value of DNa can be calculated from the slopes of the Ip vs.  ν1/2 
+
+curves. Figure 4c shows the relation between the anodic/cathodic peak currents (Ip) and the 
+
+square  root  of  the  scan  rates  (v1/2),  confirming  that  the  behaviour  was  diffusion  controlled. 
+
+The  calculated  values  of DNa  were  3.57×10−13  and  5.81×10−12 cm2  s−1  according  to  cathodic 
+
+and  anodic  peak  current, respectively. These  values were  2  to  3  orders  of  magnitude larger 
+
+than that of Li ions in Li3V2(PO4)3/C, as Na has a larger ionic radius. 
+
+The  electrochemical  properties  of  the  Na  half-cells  fabricated  using  the  synthesised 
+
+composites  as  the  cathode  material  are  shown  in  Fig.  5.  Figure  5a  shows  the  initial 
+
+charge–discharge voltage profiles of the cathodes based on the NVP/C composites synthesised 
+
+at different temperatures; the current rate was 0.1C and the potentials ranged from 2.5 to 3.8V 
+
+(vs. Na+/Na).The curves indicate that two Na+ ions were extracted from/inserted into NVP per 
+
+formula unit during the charging/discharging processes, which lasted for 10 h. As can be seen 
+
+from the figure, the charge curves for all the cathodes exhibited a plateau at approximately 3.4 
+
+V  and  so  did  the  corresponding  discharge  curves;  these  were  attributable  to  the  two-phase 
+
+transitions  that occur during the electrochemical reaction and agreed well with the CV curves 
+
+showed in Fig. 4a. The sample synthesised at 900 176) C  exhibited the longest charge–discharge 
+
+plateaus and the smallest difference in the potentials  associated with the charge and discharge 
+
+plateaus. This indicated that this cathode had the lowest degree of electrochemical polarisation 
+
+and thus exhibited the highest  reversibility with regard to  the charging/discharging processes; 
+
+this observation can be attributed to the  higher crystallinity and uniform,  sub-micron particle 
+
+size of the sample. It can be seen from Fig. 5a that the initial discharge capacities for the NVP/C 
+
+composite  samples  synthesised  at  700,  750,  800,  850,  and  900 176) C,  when  measured  over  a 
+
+period  of  4  h at  potentials  ranging  from  2.5  to  3.8V,  were  84.88,  90.72,  93.62,  96.61,  and 
+
+98.17mAh g−1, respectively. It should be noted that the initial charge capacity of the sample 
+
+synthesised  at  900 176) C  was  115.18mAh  g−1,  which  is  very  close  to  the  theoretical  capacity 
+
+(117.6mAh g−1) of NVP  for this range of potentials. The initial coulombic efficiency of the 
+
+samples  was  approximately  85%,  which  is  close  to  the  value  reported  by  other  research 
+
+groups[43]. The discharge capacity of the sample synthesised at 900 176) C decreased slowly, from 
+
+98.17mAh g−1 during the 1st cycle to 93.35mAh g−1 during 50th cycle, indicating that it retained 
+
+95.08% of its initial discharge capacity. This again indicated high electrochemical reversibility. 
+
+On  the  other  hand,  the  sample  synthesised at  700 176) C  retained  91.35%  of  its  initial  capacity 
+
+after  50  cycles.  Thus,  the  discharge  capacity  retention  rate  decreased  gradually  with  a 
+
+decrease  in  the  annealing  temperature, demonstrating  that  the  synthesis  temperature  has  a 
+
+significant  effect  on  the  electrochemical  cycling  performance.  The  fact  that  the  potential 
+
+profiles  of  the  different  samples  during  the  cycling  process  were  similar  indicates  that  the 
+
+extraction/insertion of Na ions does not cause significant changes to the material structure; this 
+
+is because the  volumetric change during the two-phase transition between Na3V2(PO4)3 and 
+
+It is known that Na occupies two different positions in the NVP structure. Therefore, on 
+
+the basis of the extraction of three Na+ ions from the NVP lattice,  the theoretical capacity  of 
+
+NVP can be said to be 176 mA h g-1. However, the extraction of the third Na+ ion is kinetically 
+
+difficult,  owing  to  the  significantly  lower  electronic  conductivity  of  the  end-member  of 
+
+V2(PO4)3[44] and the lower Na-occupancy energy of the M1 sites[42]. Therefore, the two Na 
+
+ions located at the M2 sites can be extracted/inserted easily and reversibly between 2.5 and 3.8 
+
+V on the basis of the V3+/V4+ redox couple, giving rise to the theoretical capacity of 117.6mA h 
+
+g-1. That phosphate-based Na-insertion hosts are preferable can be attributable to the strong 
+
+inductive  effect  of  the  covalent  (PO4)3
+
+2 units.  These  units  moderate  the  energetics  of  the 
+
+transition metal redox couple and result in the operating potentials of these compounds (i.e., 
+
+phosphate-based Na-insertion hosts) being relatively high. In addition, the compounds exhibit 
+
+high  thermal  safety  and  structural  stability  even  at  high  temperature  states,  in  contrast  to 
+
+oxide-based Na-insertion hosts, as reported in previous literature[42]. Moreover, the presence 
+
+of the thin carbon layer on the particle surfaces  restrains particle growth at high temperatures 
+
+and results in the formation of a conductive network, which  improves electronic conductivity 
+
+significantly.  As  a  result,  the  obtained  NVP/C  composite  exhibited  significantly  improved 
+
+electrochemical performances in NIBs even at high charge–discharge rates. 
+
+Because  the  carbon  shell  layer  improves  the  discharge  capacity  and  the  rate  cycling 
+
+performance  of  the  NVP/C  composite  (pure  NVP  exhibits  poor  electrical  conductivity),  the 
+
+amount in which glucose is added had a significant effect on the charge-discharge capacity 
+
+and  electrochemical  reversibility  of  the  resulting  composite.  Figure  5b  shows  the  initial 
+
+charge–discharge curves of NVP/C samples having different thicknesses of the carbon shell 
+
+layer owing to different glucose contents; the charge rate was 0.1C and the potentials ranged 
+
+from  2.5  to  3.8  V.  As  can  be  seen  from  the  figure,  the  voltage  interval  decreased  with  an 
+
+increase in the glucose content. For instance, in the case of the sample with 12.5 wt% glucose, 
+
+the sloping voltage plateaus and the large difference between the voltages corresponding to its 
+
+charge  and  discharge  plateaus  were  representative  of  its  relatively  high  polarisation  and 
+
+sluggish kinetics; these, in turn, can be attributed to its poor electronic conductivity owing to 
+
+the low thickness of the carbon shell layer. The initial discharge capacities of the samples with 
+
+glucose contents of 12.5%, 15%, 17.5%, and 20% were 93.16, 98.12, 95.74, and 92.90mAh 
+
+g−1, respectively, It should be noted that the discharge capacity of the sample with a glucose 
+
+content of 12.5% was lower than that of the sample with a glucose content of 15%, indicating 
+
+that a thin carbon shell layer had a negative effect on the specific discharge capacity of the 
+
+composite, as this led to its electrical conductivity being low. However, it is important to point 
+
+out that the discharge capacities decreased with the increase in the thickness of carbon shell 
+
+layer owing to the increase in the glucose content when the thickness of carbon shell layer 
+
+was enough, particularly for the samples with the glucose contents of 17.5% and 20.0%. The 
+
+coulombic efficiency increased with the increase in the glucose content, indicating that there 
+
+was a significant increase in the electrical conductivity with an increase in the thickness of the 
+
+carbon layer. After the 50th cycle, the rates of discharge capacity retention of the composites 
+
+with  glucose  contents  of  12.5%,  15%,  17.5%,  and  20%  were  93.5%,  95.1%,  95.6%,  and 
+
+96.4%,  respectively,  showing  an  increase  with  the  increase  in  the  carbon  content.  That  the 
+
+coulombic efficiency and cycling performance increased significantly with the increase in the 
+
+glucose content can be attributed to the resulting improvement in electrical conductivity. On 
+
+the other hand, the calculated specific capacity values suggested that the discharge capacity of 
+
+the  composite  decreased  slightly  when  the  residual  carbon  coating  layer  was  too  thick. 
+
+Therefore,  the amount of glucose used during synthesis  is  one of the  most important  factors 
+
+determining the electrochemical performance of the NVP/C composite.   
+
+Figure 6a shows the initial charge–discharge curves of the sample synthesised at 900 176) C at 
+
+various C rates; the potentials ranged from 2.5 to 3.8V (vs. Na+/Na). It can be observed that the 
+
+initial discharge capacities for the sample at the current rates of 0.1, 0.2, 0.5, 1, 2, 5, 10, 20, and 
+
+30C  were  98.17,  97.62,  96.52,  95.26,  93.66,  91.63,  88.21,  84.90,  and  76.44mAh  g−1, 
+
+respectively. Surprisingly, the electrode exhibited satisfactory performance even at 20 and 30C; 
+
+the  initial  discharge  capacities  at  these  rates  were  much  higher  than  those  reported  in  the 
+
+literature. This indicates that the electrode continued to exhibit excellent rate performance and 
+
+retained  77.86%  of  its  initial  specific  capacity  during  discharge  when  the  current  rate  was 
+
+increased from 0.1C to 30C. Figure 6b shows the cycling performance of the NVP/C electrode 
+
+at various C rates. Between the voltages of 2.5 to 3.8 V, the electrode exhibited good cyclability 
+
+within the first 50 cycles; the losses in the discharge capacity between the 1st and the 50th cycles 
+
+were  less than 7.9% and 13.4% at 1C and 10C, respectively. When cycled at a current rate of 
+
+30C,  the  electrode  retained  a  reversible  capacity  of  58.79mAh  g-1throughout  the  50  cycles, 
+
+indicating that, in this material, the insertion/extraction of Na ions was highly repeatable even 
+
+at high current rates. The high cyclability was indicative of a stable crystal framework within 
+
+the  NASICON-type  structure.  The  high  rate  capacity  and  excellent  cyclability  of  the 
+
+NASICON-type cathode can be attributed to the small size of the NVP/C crystals, their narrow 
+
+size distribution, and the sufficiently thick carbon coating that formed in situ on the surfaces of 
+
+its  particles.  This  coating,  which  acts  as  an  electrical  conduit  during  the  electrochemical 
+
+reaction,  appears to improve  interparticle  connectivity  and  thus the  electronic conductivity. 
+
+Furthermore,  the  high  cyclability  and  rate  performance  can  also  be  attributed  to  the 
+
+well-defined 3D channel structure of the composite, which facilitates the insertion/extraction of 
+
+Na+ ions; this was in keeping with its NASICON-type structure.   
+
+It can be seen clearly from the CV curves (Fig. 4a) that NVP also exhibits a redox couple 
+
+in the low-voltage region. Therefore, it could potentially be used as an anodic material for NIBs 
+
+based  on  the  V2+/V3+  redox  couple,  which  corresponds  to  the  two-phase  transition  between 
+
+Na3V2(PO4)3 and Na4V2(PO4)3. It is known that one-third of the M2 sites in the crystal structure 
+
+of NVP are not occupied, owing to the relatively unstable oxidation state of V2+. On the other 
+
+hand, when the electrode is discharged at voltages lower than 1.6V, Na+ ions can occupy all of 
+
+these positions under an electric field. This is what results in the occurrence of the two-phase 
+
+transition  reaction  at  approximately  1.6V.  Figure  7a  shows  the  1st  cycle  charge-discharge 
+
+curves  of  the  electrode  based  on  the  NVP/C  composite  synthesised  at  900 176) C  for  different 
+
+current rates; the cut-off potentials ranged from 1.0 to 2.5 V.  It can be seen clearly that all the 
+
+charge–discharge curves exhibit a redox plateau  at  approximately 1.6V. The initial discharge 
+
+capacities  of  the  electrode  were  63.2,  62.53,  61.59,  60.16,  56.55,  51.65,  46.15,  42.49,  and 
+
+36.74mAh  g−1  at  current  rates  of  0.1,  0.2,  0.5,  1,  2,  5,  10,  20,  and  30C,  respectively.  This 
+
+indicates that  the  material had  excellent  rate  performance  and  a  discharge  specific capacity 
+
+retention  rate  of  58.1%  even  when  the  current  rate  was  increased  from  0.1C  to  30C. 
+
+Interestingly,  in  addition  to  the  excellent  properties  displayed  when  used  as  a  cathode,  the 
+
+NVP/C composite also exhibited a high rate capacity and excellent cyclability when used as an 
+
+anode.  The  charge  and  discharge  curves  plateaued  at  approximately  1.71V  and  1.58V  (vs. 
+
+Na+/Na), respectively, at the current rate of 0.1C; this was in keeping with what was observed 
+
+in the CV curves as well. During subsequent cycles, the observed voltage profiles remained 
+
+unaltered,  demonstrating  that  the  composite  had  excellent  reversibility  during  the  cycling 
+
+process. The initial reversible capacity was 63.2mAh g-1, and the discharge capacity remained 
+
+at 60.29mAh g-1 after 50 cycles, with discharge capacity retention rate being 95.4%. Figure 7b 
+
+shows  the  cycling  performance  of  the  synthesised  material  at  different  current  rates.  The 
+
+discharge capacities were 56.13, 39.78, and 29.82mAh g-1 after the 50th cycle for current rates 
+
+of 1, 10, and 30C, respectively, with the discharge capacity retention rates being 93.3%, 86.2%, 
+
+and  81.2%,  respectively.  It  can  be  concluded  that  the  cycling  performance  of  the  NVP/C 
+
+composite  was  good.  At  the  high  current  rates,  the  material  exhibited  stable  cyclability, 
+
+indicating that the insertion/extraction of Na+ ions in the system does not affect its cyclability 
+
+and that the crystal structure of the material remains relatively unchanged  under the higher 
+
+discharge current. 
+
+To further understand the electrode reaction kinetics of the composite, EIS measurements 
+
+were performed before and after the 1st cycle for frequencies ranging from 0.01 Hz to 100 kHz 
+
+during the discharge state. EIS  is a useful technique for evaluating the diffusion coefficient of 
+
+Na+  ions  and  the  changes  in  the  impedance  of  the  sample.  This  is  because  the  Warburg 
+
+impedance of an electrode material in the low-frequency range is directly related to the Na-ion 
+
+diffusion  process  in  the  material  [48].  Figure  8a  shows  the  Nyquist  plots  of  the  NVP/C 
+
+composite synthesised at 900 176) C. The plots were obtained under an open-circuit potential during 
+
+the discharge stage; the equivalent circuit model is shown in the inset. It can be seen that the 
+
+Nyquist  plots  consist  of  a  small  intercept  in  the  high-frequency  region,  two  partially 
+
+overlapping curved sections in the highand medium-frequency regions, and a linear part in the 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+low-frequency region. The very small intercept on the Zreal-axis in the high-frequency region is 
+
+attributable to the combined resistance (Re) of the electrolyte, the separator, and the electrode. 
+
+The  curved  sections  in  the  high and  medium frequency  ranges  are  attributable  to  the 
+
+charge-transfer impedance (Rct) and the double-layer capacitance at the electrode–electrolyte 
+
+interface  (i.e.,  the  solid-electrolyte  interphase  or  SEI),  while  the  sloping  line  in  the 
+
+low-frequency  range  corresponds  to  the  Warburg  impedance,  which  is  associated  with  the 
+
+diffusion  of  Na  ions  in  the  bulk  of  the  electrode  material  [49].  It  can  be  seen  that  the 
+
+charge-transfer resistance after the 1st  cycle was larger than that before the 1st  cycle. This  is 
+
+mainly because the continuous deposition of Na ions  in the SEI film increases its thickness, 
+
+which,  in  turn,  increases  the  charge-transfer  resistance.  The  inset  in  Fig.  8a  shows  the 
+
+equivalent  circuit  used  to  obtain  the  electrochemical  impedance  spectrum  data.  Here,  Re 
+
+represents the solution resistance, and Rct  is the charge transfer resistance. ZW represents the 
+
+Warburg impedance, which is related to the solid-state diffusion of ions in the active material 
+
+and corresponds to the slopping line in the  low-frequency region. Qct is associated with the 
+
+surface property of the electrode. Cint is the capacitance resulting from ion transfer in the active 
+
+material [44]. The fitting parameters are shown in Table 5. All the errors were within bounds. It 
+
+can be seen that the charge-transfer resistance at the electrolyte–electrode interface is one of the 
+
+primary reasons for the poor performance of the electrode.   
+
+The  apparent  diffusion  coefficient  of  the  Na+  ions  (DNa)  can  be  estimated  from  the 
+
+low-frequency regions of the plots using the following two equations [44, 47]: 
+
+It is obvious that Eq. (1) is not suitable in the present case, owing to the titration potential 
+
+curve being flat [47].In Eq. (2), R is the gas constant, T is the absolute temperature, S is the 
+
+active surface area  of the cathode, n is the number of electrons per species reaction during 
+
+oxidisation, F is the Faraday constant, C is the concentration of Na ions in the cathode electrode 
+
+(which was approximately 6.92×10-3 mol cm-3, given the chemical composition of the active 
+
+material) [44], and σ is the Warburg factor, which obeys the following relationship[47]: 
+
+where  Re  is  the  resistance  between  the  electrolyte  and  the  electrode,  and  Rct  is  the 
+
+Figure 8b shows the linear relationship between Zreal and the square root of the frequency 
+
+(ω−1/2) in the low-frequency region, from which the slope, σ, was 10.04 (before 1st cycle) and 
+
+11.95 S-1 s-1/2 (after 1st cycle) can be obtained. Using this value of σ, it was possible to calculate 
+
+the DNa value of the composite. Thus, on the basis of Eq. (2), the DNa values were calculated to 
+
+be 4.59×10−13  and  3.24×10−13cm2 s−1,  respectively. It can be seen that the DNa  value obtained 
+
+using EIS was similar to that obtained from the  CV measurements. In addition, the values of 
+
+DNa for NVP obtained in this study were much higher than that of olivine NaFePO4 (8.63×10−17 
+
+cm2 s−1) [50], indicating that NVP could be a promising cathodic material for high-power NIBs. 
+
+The difference in the ion-diffusion coefficients of the two phosphate materials is attributable to 
+
+the differences in their structural properties. In the case of olivine NaFePO4, Na+ ions can only 
+
+be transported  along a 1D pathway, while the  NASICON-type structure of NVP allows Na+ 
+
+ions to be transported reversibly in a 3D framework, resulting in faster diffusion. 
+
+An NVP/C composite was successfully synthesised as an electrode material for NIBs by a 
+
+carbon-thermal reduction method using glucose as the carbon source. The carbon coating on 
+
+the NVP particles not only retarded the growth of the particles, but also improved the electronic 
+
+contact between them, resulting in high electronic conductivity. The well carbon-coated (~ 3 nm 
+
+in thickness)  NVP sample, which had  a uniform particle size distribution,  exhibited voltage 
+
+plateaus at 3.4 V and 1.63 V; these were probably attributable to the V4+/V3+ and V3+/V2+ redox 
+
+couples in the material, which showed promise as a cathodic  as well as an anodic material for 
+
+NIBs.  The  NVP/C  composite  exhibited  high  specific  capacity  and  excellent  cycling 
+
+performance. This  suggests that the extraction/insertion of Na ions does not make the system 
+
+unstable.  At  the  current  rate  of  0.1C,  the  NVP/C  composite  exhibited  initial  discharge 
+
+capacities of 98.2 and 63.2mAh g−1for potentials  ranging from 2.5 to 3.8V and 1.0 to 2.5 V, 
+
+respectively.  The  values  of  the  apparent  diffusion  coefficient  of  Na  ions  in  the  NVP/C 
+
+composite, determined using CV and EIS, were approximately 3.24×10−13 and 5.81×10−12 cm2 
+
+s−1, respectively. These values are higher than those for other Na ions-based cathodic materials. 
+
+This can be attributed to the NASICON-type structure of the NVP/C composite, which allows 
+
+for fast ion diffusion. Therefore, the synthesised NVP/C composite can be considered a suitable 
+
+cathodic material for high-performance, rechargeable NIBs.   

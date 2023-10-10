@@ -1,0 +1,59 @@
+
+
+Their  key  component  is  a  thin solid-state  electrolyte,  which  is  safer  than  its  flammable  liquid  counterpart  and  enables the  use  of  metallic  lithium,  thus  ensuring  high  energy  densities  (over  500  Wh  kg-1). 
+
+Several  solid  electrolytes  are  currently  being investigated,  such  as  NASICON-like materials,  perovskites,  and  garnets.  Typical  techniques  used  to  synthesize  most  such electrolytes  still  involve  prolonged  high-temperature  calcination  and  sintering  steps.  An alternative  approach  is  to  couple  electrospinning  with  the  well-known  sol–gel  method  to lower  the  temperatures  and  synthesis  times  and  simultaneously  exploit  the  benefits  of using  anisotropic  nanostructured  materials.  
+
+In  this  review,  we  discuss  advances  in  the All-solid-state  lithium  batteries  (ASSLBs)  are  undoubtedly  among  the  most  promising synthesis  of  ceramic  nanofibrous  materials  having  high  ionic  conductivity  and  present our perspective  regarding  their  potential  application  as electrolytes  in  ASSLBs. 
+
+
+Currently  the  all-solid-state  lithium  battery  (ASSLB)  is  widely  considered  as  the best  candidate  to  replace  LIBs.  The  ASSLB  is  also  based  on  the  typical  Li-ion  “shuttle” mechanism  but  replaces  the  liquid  electrolyte  with  a  highly  ion-conductive  solid-state electrolyte  (SSE)  made  of  polymers  [3,4],  ceramics  [5,6],  or  hybrid  ceramic-polymers.  
+
+The  main  improvement  associated  with  SSEs  is  increased  device  safety  resulting  from improved  thermal  and  chemical  stabilities  and  higher  mechanical  strength,  which  can physically  hinder  lithium  dendritic  growth.  Another  major  advantage  stems  from  the possibility  of  using  metallic  lithium  as  an  anode,  which  can  significantly  improve  the energy  density  of  batteries  because  of  the  low  redox  potential  (-3.04  V  vs.  SHE),  high theoretical  capacity  (3860  mAh  g-1),  and  low  density  (0.59  g  cm-3).  However,  the  solid nature  of  the  electrolyte  makes  it  difficult  to  establish  optimal  contact  with  the  electrodes, thus increasing is  related the ionic conductivity  of  the  SSE  at  room  temperature,  which  ranges  between  10-7  and  10-3  S  cm-1, and  is  typically  lower  than  those  of  liquid  counterparts,  leading  to  weak  performance  at high  C-rates.  Among  all  the  materials  investigated  to  date,  such  as  LISICON-like the interface  resistance. 
+
+
+In  this  context,  numerous  research  efforts  have  focused  on  developing  more  convenient strategies  to  reduce  the  void  spaces  between  SSE  particles  and  improve  the  particle-to-perovskites,  nitrides,  and  LiPON-type  materials,  only  a  few  have  ionic  conductivity values  comparable  to  those  of  liquid  systems  (~10-2  S  cm-1)  [10,11].  To  obtain  efficient ionic  transport,  the  material  also  needs  to  be  as  compact  as  possible.  In  addition,  current synthesis  methods  and  pelletizing  processes  usually  require  pressing  treatments  and  high-particle  contact,  aiming to  reduce the  grain  boundary  resistance.  Grain  boundary resistance,  which  originates  from the interface  between  crystallites in  polycrystalline materials,  greatly  lowers  the  total  ionic  conductivity  of  SSEs  thus  limiting  their  potential application.  
+
+To  this  end,  the  use  of  one-dimensional  (1D)  materials  such  as  nanofibers and  nanowires  has  recently  been  explored,  as  their  morphology  could  be  beneficial  for 
+
+achieving  closer  packing  and  thus  more  effective  densification  during  the  sintering  step. 
+
+As  suggested  by  Yang  et  al.,  connected  crystallites  inside  nanowires  are  less  susceptible to  form  agglomerates  than  nanoparticles,  and  this  is  beneficial  for  achieving  higher resulting  in  lower  grain  boundary  resistances  and thus  higher  ionic  conductivities.   
+
+Spinning  is  a  suite  of  manufacturing  techniques  used  to  fabricate  fibers  by  using  a densities.  
+
+
+Hence,  using  nanowires  instead  of  nanoparticles  makes  the  sintering  more  effective, agglomerates  pores  are  very  difficult  to  fill.  This  results  from  the  surface  energies  of sintered  agglomerates,  which  become  too  low  to  drive  a  further  densification  [12,13]. 
+
+They  require  precursor  materials  to  be  in  a  fluid  state  to  be  spun,  hence  a facile  approach  used  on  large  scale  production  is  to  melt  them  and  then  extrude  them types  of  research, including  the  synthesis  of  energy  materials.  Unlike  melt-spinning, electrospinning  is  conducted  in  solution  rather  than  on  a  melt,  so  it  does  not  require  to liquefy  the  inorganic  precursors.  In  addition,  it  is  possible  to  finely  control  the  diameter of  electrospun  fibers  down  to  a  few  nanometers  just  by  tuning  the  electric  field,  whereas the  diameter  of  melt-spun  fibers  is  limited  by  the  spinneret  dimensions.  Several  reviews have  reported  the  development  of  electrospun  materials  for  energy  applications  [15–18] and  more  specifically  for  anodes,  cathodes,  and  separators  for  secondary  batteries  [19–22].  Examples  of  gel  polymer  electrolytes  based  on  electrospun  poly(vinylidene through  a  spinneret.  This  process  is  known  as  melt-spinning  and  was  recently  used  by  He et  al.  to  grow  Li1.5Al0.5Ge1.5(PO4)3  glass-ceramic  fibers  [14].  Electrospinning  is  a  widely used  and  versatile  technique  for  fabricating  nanofibers.  It  has  been  employed  in  many the  development  of  SSEs.  
+
+
+This  hybrid  approach  was  a  first  step  toward  increased  safety,  but  the  system  remains flammable  because  organic  solvents  are  still  employed  to  produce  the  gel.  More  recently, electrospinning  has  been  used  to  fabricate  highly  ion-conductive  materials  with  fiber-like morphology  [12,13,28–37].  Although  they  are  used  mainly  as  inorganic  scaffolds  to improve  the  performance  of  polymer  electrolytes,  some  groups  have  proposed  using ceramic  nanowires  as  an  SSE  owing  to  the  promising  properties  induced  by  their morphology. 
+
+
+In  a  typical  process  the  polymer  is  dissolved  in a  solvent  system  to  form  the  polymeric  solution.  The  solution  is  then  spun  using  a  typical apparatus  as  shown  in  Fig.  1.  It  is  composed  of  a  syringe  connected  to  a  syringe  pump that  controls  the  flow  rate,  a  high-voltage  power  supply  that  induces  electric  charges  on the  syringe’s  needle,  and  a  grounded  or  oppositely  charged  collector,  which  can  be  a  plate or  a  rotating  drum  [40,41].  The  polymeric  solution  is  loaded  into  the  syringe  and  flows inside  the  charged  needle.  
+
+During  this  process,  the  solvent  evaporates  quickly,  resulting  in  the  deposition  of  dry, randomly  distributed  polymeric  fibers  on  the  collector.  After  a  prolonged  deposition the  collector  and  is  thus  deformed  into  the  so-called  Taylor  cone.  The  cone  then  becomes a  jet,  which  is  continuously  stretched  during  an  unstable  and  chaotic  flight  [42,43]. 
+
+
+
+The  fibers’  dimensions  and  shape  are  influenced  by  several  variables.  Most  of  them can  be  categorized  as  solution  parameters  or  process  parameters  [44].  The  former  are typical  features  of  the  polymeric  solution,  i.e.,  the  concentration  and  molecular  weight  of the  polymer,  solution  viscosity,  and  physicochemical  properties  of  the  solvent  system. 
+
+
+The  latter  type  of  parameters,  such  as  the  solution  flow  rate,  applied  voltage,  and  distance between  the  needle  and  collector,  can  be  tuned  during  the  electrospinning  process. 
+
+
+The  sol–gel  technique  is  based  on  the  preparation  of  a  homogeneous  solution  of  cationic ingredients,  which  is  gradually  dried  to  obtain  first  a  viscous  sol  and  then  a  transparent amorphous  solid  known  as  a  gel.  The  gel  is  finally  annealed  to  crystallize  the  final product  and  simultaneously  remove  the  remnant  volatile  components  and  organic  side groups.  To  use  sol–gel  for  electrospinning,  a  solution  with  both  sol–gel  precursors  and  a polymer  carrier  is  prepared.  All  the  components  must  be  perfectly  soluble  in  the  selected solvent  system to  obtain  a  homogeneous  distribution  of  the  precursors  and  stable electrospinning.  Therefore,  after the  solution  parameters  and  the  ratio  between  the polymer  and  precursor  materials  are  optimized,  the  prepared  solution  is  electrospun  to 
+
+To  obtain  ceramic  nanofibers  by  electrospinning,  a  sol–gel  step  is  necessary . 
+
+In  the  sol–gel  synthesis,  a  high-temperature  calcination step  is  finally  performed  to  remove  the  polymer  and  all  the  organic  side  groups  and crystallize  the  product.  Owing  to  the  void  space  within  the  fibrous  network,  product crystallization is  confined  within  each the final  product retains the nanostructured  morphology.
+
+Electrospinning  is  probably  the  simplest  technique  to  obtain  nanometric  elongated  1D structures  such  as  nanowires  and  nanofibers,  which  exhibit  promising  properties.  Some  of proved  the  potential  for  integration  of  electrospinning  into  the  preparation  of  future  SSEs. 
+
+To  date,  electrospinning  has  been  used  mainly  to produce  ceramic  fillers  for  solid  polymer  electrolytes,  which  slightly  improved  their performance  but  without  overcoming  their  limitations.  Only  Yang  et  al.  [12]  proposed using  ceramic  nanofibers  as  a  pure  solid  electrolyte  for  ASSLBs.  
+
+
+Although  electrospinning  is  a  facile  and  low-cost  technique  for  laboratory  research,  the low  production  rate,  the  potentially  unsafe  applied  voltages  and  the  high  dependence  on environmental  conditions  could  limit  a  future  industrial  upscaling. 
+
+Furthermore,  thanks  to  continuous  ionic  transport  pathways  provided  by  the  elongated morphology,  the  ionic  conductivity  can  be  increased,  thus  resulting  in  enhanced  battery performance,  especially  at  high  C-rates.  On  these  grounds,  such  1D  structures  could  be potentially  crucial  to the  development  of ASSLBs  with  better overall  performance. 

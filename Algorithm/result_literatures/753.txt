@@ -1,0 +1,16 @@
+Metal-air batteries show great promise because of their high theoretical energy density resulting from the use of anunlimited, low-mass O2 gaseous reactant.
+Nevertheless, several issues remain to be tackled for their practical implementaion in ambient air.
+In this work, we constructed a hybrid-type Na-air battery with a flow-through configurationfor direct use of ambient oxygen as the cathode, and studied the effect of the flow of the aqueous catholyte on theelectrochemical properties.
+In addition, the effect of the catholyte pH on the open-circuit and discharge-charge voltagebehavior of the hybrid Na-air battery was systematically investigated.
+An enhanced operation voltage was found for theflow cell using an acidic catholyte composed of 1 M NaNO3 and 0.1 M citric acid (pH=~1.8).
+Further improvement in the cellperformance was observed in a cell employing both Pt/C and IrO2 electrocatalysts, which showed an average voltage gapof ~0.4 V between the charge (~3.7 V) and discharge (~3.3 V) voltages vs.Na+/Na at a current rate of 0.1 mA cm-2 over 20cycles (200 h total).
+These findings suggest that the hybrid Na-air battery system using a flow-through mode and an acidiccatholyte could be a promising way to achieve practical Na-air cells with desirable performance.
+We explored the effect of the flow and pH of the aqueouscatholyte on the electrochemical performance of Na-air flowbatteries with hybrid electrolytes.
+In-situ measurement srevealed that catholyte flow facilitated conversion of ambientoxygen gases into DO in the catholyte and constantly providedfresh reactants to the air-cathode, which improved thereaction kinetics during discharge.
+Lowering the pH of thecatholyte gave rise to increases in the OCV and operationvoltage of the cells.
+We employed an acidic electrolyteconsisting of 1 M NaNO3 and 0.1 M CA (pH=~1.8) as the catholyte and the electrocatalysts Pt/C and IrO2 on the airelectrode.
+The cell showed charge and discharge voltages of~3.68 V and ~3.32 V vs.Na+/Na, respectively, at a current rateof 0.1 mA cm-2 and good cycling stability with an average Vgapof ~0.36 V during 20 cycles (200 h total).
+The surfacemorphology and structural properties of the solid electrolyte(Na3Zr2Si2PO12) in the cycled cells revealed no significant changes; however, the formation of a hydronium-NASICONphase should be circumvented for longer-term use in acidiccatholytes.
+Because of their high cost and scarcity, the noblemetal-based electrocatalysts used in this work for the OER and ORR, Pt and IrO2, should be replaced with noble metal-freecatalysts, such as heteroatom-doped carbon nanostructures.
+In this regard, further development of O2 electrocat alysis technologies for use in aqueous solutions will contribute toenhancing the reaction kinetics at the air-cathode and hencethe battery performance of hybrid Na-air cells.
+In addition,reversible deposition/stripping of Na metal on the anode side,which was not covered in this work, remains a high priority forstable, long-term operation of hybrid Na-air cells.

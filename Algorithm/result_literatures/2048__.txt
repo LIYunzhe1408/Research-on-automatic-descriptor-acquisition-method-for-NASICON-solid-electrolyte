@@ -1,0 +1,129 @@
+Journal of Solid State Chemistry 
+
+Li2NaV2(PO4)3 has been prepared in the rhombohedral NASICON structure via ion exchange from Na3V2(PO4)3. As a lithium-insertion exhibits a speci5c discharge capacity of &96 mAh g21 at a current density of 0.50 mA cm22 with a clear plateau near 3.7 V versus lithium metal. Approximately 10% of the capacity is lost through the 5rst 50 cycles, after which the capacity appears to stabilize. During charge and discharge, the Na1 ions tend to remain immobilized in the A(1) site of the NASICON structure, suggesting a direct A(2)PA(2) lithium-transport mechanism. ( 2001 Elsevier Science
+
+Key Words: lithium-insertion compounds; battery; lithium-
+
+ion; ion-exchange; mixed alkali+ion conduction.
+
+INTRODUCTION
+
+NASICON (for Na‘ superionic conductor)-related compounds have been shown to be promising cathode materials for lithium-ion batteries, exhibiting high Li‘ mobility and reasonable discharge capacities (1}6). Table 1 details the relevant characteristics of several NASICON-related cathode materials. From Table 1, the transition metals with the most useful redox potentials are Fe2‘/Fe3‘ in a sulfate framework and V3‘/V4‘ in a phosphate framework. Fe2(SO4)3 has already been thoroughly investigated as a cathode material for lithium-ion batteries (2, 3). Here, we report our investigation of the NASICON-related rhombohedral Li2NaV2(PO4)3 as a high-voltage cathode material. Cursory examination of the NASICON structure reveals its potential as a lithium-insertion cathode. NASICONrelated compounds with the highest ionic mobilities possess rhombohedral (R31 ) symmetry (7). The M2(XO4)3 framework is built of (XO4)n~ (X"Si4‘, P5‘, S6‘, Mo6‘, etc.) tetrahedra corner-linked to octahedral-site Mm‘ (M" transition metal) (8). The alkali ions can occupy two di!erent sites. At low alkali content (i.e., x41 in AxM2(XO4)3),
+
+1To whom correspondence should be addressed.
+
+an octahedral site, A(1), is selectively occupied (Fig. 1) (8). With x’1, the alkali ions are randomly distributed among the A(1) and three 8-coordinate sites, A(2). The open, 3D nature of the structure allows easy migration of the alkali ions between A(1) and A(2), and the exceptional ionic mobility of the alkali ions is well documented (7).
+
+A NASICON phase, Li3V2(PO4)3, has been previously investigated as a cathode material in lithium batteries (9,10). Like many NASICON-related compounds, however, Li3V2(PO4)3 prepared by direct reaction is not rhombohedral. The Li3V2(PO4)3 phases previously investigated assume the monoclinic (P21/n) and orthorhombic NASICON structures. The compounds give discharge capacities approaching 131 mAh g~1, but they also exhibit multiple plateaus in their discharge curves (at 4.1, 3.7, and 3.6 V). Furthermore, previous studies have demonstrated that the monoclinic NASICON modi"cation exhibits reduced alkali-ion mobility relative to the rhombohedral form (6, 7). While Li3V2(PO4)3 apparently cannot be prepared in the rhombohedral NASICON structure by direct reaction, rhombohedral Na3V2(PO4)3 has been reported (11) and thus provides a suitable starting material for a topotactic ion exchange of Li‘ for Na‘.
+
+EXPERIMENTAL
+
+Li2NaV2(PO4)3 was prepared via ion exchange from Na3V2(PO4)3. Na3V2(PO4)3 was prepared by direct reaction of NaPO3 (prepared by dehydration of NaH2PO4 (GFS, 99%)) and V2O3 (Aldrich, 99%) in a 3 : 1 molar ratio. The reactants were ground under acetone with an agate mortar and pestle. After drying, the mixture was placed in an alumina boat and heated at 13C min~1 to 9003C under a 10% H2/Ar mixture #owing at &25 mL min~1. The sample was held at 9003C for 2 days and slowly cooled to room temperature by turning o! the furnace. The product was ground under 5% H2SO4 to remove any unreacted phosphates, collected by vacuum "ltration, and dried at 1503C in air.
+
+0022-4596/01 $35.00 ( 2001 Elsevier Science All rights reserved.
+
+Li2NaV2(PO4)3: A 3.7 V LITHIUM-INSERTION CATHODE
+
+TABLE 1
+
+Lithium-Insertion Properties of Selected NASICON-Type
+
+Compounds
+
+Compound (Ref.)
+
+Structure
+
+Redox couple
+
+Redox potential
+
+Reversible discharge capacity
+
+(mAh g~1)b and current (mA cm~2)
+
+Number of Li‘ atoms inserted
+
+aR"rhombohedral form (space group R31 or R31 c); M"monoclinic form (space group P21/n). bDischarge capacity given by [(nF)/(3.6M8)], n"no. of Li‘ atoms inserted per formula unit, F"Faraday’s constant (96,485 C mol~1), "molecular weight of fully intercalated compound. M8
+
+Ion exchange of Na3V2(PO4)3 was carried out in an aqueous solution containing a 100% molar excess of LiNO3 (GFS, 99.9%) at &403C. The NASICON phase was stirred in the nitrate solution overnight, collected by vacuum "ltration, and washed with deionized water. The process was twice repeated to ensure maximal Li‘ for Na‘ ion exchange.
+
+Powder X-ray di!raction (XRD) studies were performed on a Philips di!ractometer equipped with a CuKa radiation source (j"1.5406 A_ ). Finely divided silicon powder (Aldrich, 99.999%) was used as an internal standard. Peak locations and intensities were determined with the JADE software program using a least-squares method (12).
+
+Quantitative elemental analysis of lithium was carried out on a Perkin-Elmer 1100 Atomic Absorption Spectrometer (AAS). Samples for AAS were digested in concentrated HNO3. Quantitative determinations of vanadium were made by potentiometric titrations. Samples for titration were digested in concentrated H2SO4. A slight excess of 0.1 M KMnO4 was added to preliminarily oxidize V3‘ to the pervanadyl ion, VO‘2 . The remaining permanganate was reduced by the addition of sodium nitrite, which was subsequently destroyed by the addition of urea. The VO‘2 was then potentiometrically titrated with standard ferrous ammonium sulfate solution. The potentiometric equivalence points were determined by the method of Gran (13).
+
+Electrochemical lithium insertion/extraction was investigated by incorporating Li2NaV2(PO4)3 as cathode materials in lithium-ion button cells (type 2320). The NASICON phase was combined in a 70:25:5 proportion with acetylene black to improve conductivity and polytetra#uoroethylene (PTFE) as a binder. The resulting mixture was rolled into a thin sheet from which 1 cm2 cathode discs of uniform thickness were cut. Cell assembly was carried out in an argon-"lled glove box. A 1 M solution of LiClO4 in a 50/50 mixture of propylene carbonate and dimethoxyethane composed the electrolyte. For the button cells, Celgard 2500 served as the separator. The cells were cycled between 2.5 and 4.1 V at 0.50, 1.0, and 2.0 mA cm~2 against a lithium metal anode on an Arbin BT2043 Battery Test System.
+
+Chemical sodium extraction from Na3V2(PO4)3 was performed by oxidative deintercalation. The NASICON phase was suspended in acetonitrile under inert atmosphere and a 100% molar excess of 1 M NO2PF6 in acetonitrile was added with standard Schlenk techniques. The mixture was stirred at room temperature for two days under an inert atmosphere. The product was collected by vacuum "ltration, washed with acetonitrile, and dried under vacuum.
+
+RESULTS AND DISCUSSION
+
+Li2NaV2(PO4)3 was obtained via ion exchange of the sodium analogue. Consistent with the "ndings of others (14), Na3V2(PO4)3 decomposed in molten LiNO3, necessitating that the ion exchange take place in solution at relatively low temperature. During the exchange process, a faint blue coloration of the solution was observed, indicating partial dissolution of the sample. At temperatures above 403C, the sample dissolution became excessive. Quantitative elemental analysis composition of Li1.98Na1.02V2(PO4)3, referred to here as Li2NaV2(PO4)3 (Table 2).
+
+revealed a "nal
+
+Idealized representation of the rhombohedral form of the
+
+Whereas Gopalakrishnan and Kasthuri Rangan (15) reported complete extraction of Na‘, we could not oxidatively extract all the composition product was Na0.99V2(PO4)3. This may re#ect di!erences in the experi-
+
+the Na‘ from Na3V2(PO4)3; our
+
+CUSHING AND GOODENOUGH
+
+TABLE 2
+
+Elemental Analysis Results for AxV2(PO4)3
+
+Compound
+
+Experimental composition
+
+mental methods, as we used NO2PF6 as an oxidizing agent as opposed to chlorine gas.
+
+The XRD results for Li2NaV2(PO4)3 indicate that Li2NaV2(PO4)3 retains the rhombohedral NASICON structure of its precursor (Tables 3, 4; Fig. 2). The XRD results reveal a substantial contraction of the a parameter and expansion of the c parameter of the rhombohedral NASICON unit cell as Na‘ is replaced by Li‘. This is consistent with the behavior of other NASICON compounds such as Na3Fe2(PO4)3 during Li‘ for Na‘ ion exchange (6, 16). Those authors attributed the changes to a redistribution of the alkali ions away from A(1) such that some or all of the A(1) sites are left vacant, which introduces a strong electrostatic repulsion along the c axis across the A(1) site. Delmas et al. have demonstrated with neutron di!raction experiments that the exceptional lithium ion conductivity of Li1‘xTi2(PO4)3 is due in part to the tendency of Li‘ to migrate out of A(1) to A(2) (5). Thus, it would appear that the Li‘ cation has a preference for the A(2) site. There is no evidence, however, to indicate a similar behavior for Na‘, and in the case of Li2NaV2(PO4)3, Na‘ may selectively occupy A(1); otherwise, the Na‘ ion should have exchanged for Li‘ during the ion-exchange process. Li‘ is
+
+FIG. 2. XRD patterns of Na3V2(PO4)3 and Li2NaV2(PO4)3.
+
+too small to coordinate at the center of a large, eightcoordinate cavity like A(2); if Li‘ is displaced from the center of the cavity, the electrostatic attraction between Li‘ and O2~ could easily account for the changes in the c/a ratio.
+
+Cathode performance. The initial charging of the electrochemical cells results in the oxidation of V3‘ to V4‘ as 1.8 lithium atoms per formula unit are extracted at &3.9 V versus lithium. The subsequent discharge produced a single, #at discharge plateau at 3.7 V (Fig. 3). This value is to be compared with 3.8 V for the V3‘/V4‘ couple found for Li3~xFeV(PO4)3 (see Table 1). Replacement of one Li‘ ion by Na‘ has little in#uence on the energy of the V3‘/V4‘ couple; the dominant in#uence is the acidity of the polyanion (1}3). At a current density of 0.50 mA cm~2, the initial discharge capacity was 96 mAh g~1, corresponding to the insertion of 1.5 lithium atoms per formula unit. Consistent with the performance of other NASICON-structured cathodes listed in Table 1, the discharge capacity was diminished by increasing the current density (Fig. 4); the capacity, however, recovered when the current was lowered back to 0.50 mA cm~2. This is indicative of a kinetically slow Li‘ di!usion process arising from the poor electronic conductivity of the NASICON cathode material. Regardless of
+
+Summary of Calculated Unit Cells for AxV2(PO4)3
+
+TABLE 3
+
+Composition
+
+Calculated unit cell Literature unit cell
+
+This work
+
+Li2NaV2(PO4)3: A 3.7 V LITHIUM-INSERTION CATHODE
+
+XRD Results and Indexing for Li2NaV2(PO4)3
+
+TABLE 4
+
+current density, capacity fade was evident until about the 50th cycle, at which point the capacities appear to stabilize (Fig. 4).
+
+The presence of Na‘ in the cathode material does not lead to cell failure, at least to 100 cycles. Discharge capacity was diminished by about 10% after 50 cycles, but then appeared to stabilize. Previous studies of NASICON cathode materials that contain only Li‘ in the A sites, e.g., Li3Fe2(PO4)3, also indicate early capacity fade (2, 6), but to
+
+FIG. 3. Electrochemical
+
+of Li2NaV2(PO4)3 at a current density of 0.50 mA cm~2.
+
+rhombohedral
+
+our knowledge, the long-term cycle life of these cathode materials has not been investigated.
+
+Ion-transport mechanism. The ion-exchange behavior of Na3V2(PO4)3 suggests that the two Na‘ ions in the A(2) sites are mobile, and thus exchange with Li‘, while the Na‘ in the A(1) site is not. This result is di$cult to reconcile with the established ion-transport mechanism of the rhombohedral NASICON structure, which requires a correlated motion involving both A(1) and A(2) sites:
+
+FIG. 4. Discharge capacities of rhombohedral Li2NaV2(PO4)3 at vari-
+
+ous current densities as a function of cycle number.
+
+CUSHING AND GOODENOUGH
+
+that a direct A(2)PA(2) motion is occurring:
+
+Interestingly, the possibility of a direct A(2)PA(2) conduction pathway has been previously postulated by others (17}21). Whether the A(2)PA(2) mechanism is the prevalent conduction in any rhombohedral NASICON compound is a point of contention, but based solely on the geometric considerations of Li‘ passing through the opening between adjacent A(2) sites, there is no reason to believe that Eq. [2] is not viable (Fig. 5). Mazza has recently demonstrated with bond-valence calculations that in certain circumstances the A(2)PA(2) mechanism can be favored (21). The evidence here suggests that this is precisely the situation in Li2NaV2(PO4)3.

@@ -1,0 +1,88 @@
+We describe in this paper the lithium insertion/ extraction behavior of a new NASICON type Li2Co2 (MoO4)3 at a low potential and explored the possibility of considering this new oxyanion material as anode for lithium-ion batteries for the first time. 
+Li2Co2(MoO4)3 was synthesized by a soft-combustion glycine-nitrate low temperature protocol. 
+Test cells were assembled using composite Li2Co2(MoO4)3 as the negative electrode material and a thin lithium foil as the positive electrode material separated by a microporous polypropylene  soaked in aprotic organic electrolyte (1 M LiPF6 in EC/DMC). 
+Electrochemical discharge down to 0.001 V from OCV (∼3.5 V) revealed that about 35 Li+ could possibly be inserted into Li2Co2(MoO4)3 during the first discharge (reduction) corresponding to a specific capacity amounting  to 1,500 mAh g−1. 
+This is roughly fourfold higher compared to that of frequently used graphite electrodes. 
+However, about 24 Li+ could be extracted during the first charge. It is interesting to note that the same amount of Li+ could be inserted during the second Li+ insertion process (second cycle discharge) giving rise to a second discharge capacity of 1,070 mAh g−1. 
+It was also observed that a major portion of  lithium intake occurs below 1.0 V vs Li/Li+, which is typical of anodes being used in lithium-ion batteries.
+
+Lithium-ion cells have emerged as the technology of choice to the world of portable electronics. 
+The total sale of the cells is enjoying an increasing pace every year. Lithium-ion cells available in the market make use of LiCoO2 as conventional positive electrodes, and the materials for negative electrodes are generally carbonaceous composites so as to maintain a high-voltage character.
+Carbonaceous materials give a low voltage for lithium insertion/ extraction and a long cycle life. 
+However, the capacity of these materials is 370 mAh g−1, which is considerably  smaller than the capacity offered by lithium metal. 
+With the objective of overcoming these problems and for improving the performance of lithium-ion batteries, plenteous materials have been studied as possible candidates as anode.
+Innovative methods were implemented to identify the anodic behavior of a few lithiated transition metal oxides besides their well known cathodic performance though not impressive in terms of cathode point of view. 
+Notably, inverse spinel LiNiVO4 being regarded as a signature of high voltage class cathode material exhibiting a high working voltage ≥4.8 V vs Li/Li+ offers inferior specific capacity as cathode in lithium batteries. 
+Nevertheless, it was found to show a good anodic behavior vs Li/Li+ as negative electrode due to different oxidation states of the transition elements (V and Ni), which help in inserting Li+ at very low discharge voltages. 
+Likewise, an analogous counterpart, LiCoVO4, for which the electrochemical properties as positive electrode were investigated earlier also demonstrated a high-energy density as novel anode.
+Recently, it was reported that brannerite-type LiVMoO6 show anodic characteristics in lithium rechargeable cells.
+Our recent studies on oxyanion Li2M2(MoO4)3 [M=Ni, Co] materials as positive electrode (cathode) for lithiumcontaining cells suggest that cyclability (repeated charge/ discharge) of these materials were hindered by drastic structural changes accompanied by exponential capacity decay. 
+Although these materials possess an open framework NASICON type structure, they did not demonstrate any useful electrochemical properties as cathodes for lithium batteries. 
+Inspired by several recent reports on mixed transition metal oxides being investigated as negative electrodes besides their positive electrode characteristics, we examined the anodic properties of Li2Co2(MoO4)3 in a lithium-containing cell in this paper. 
+Interest in molybdenum-based oxide as anode material stems from its multivalent oxidation states. 
+In this paper, we present the preliminary electrochemical results obtained on Li2Co2(MoO4)3 as anode in lithium batteries and describe the lithium insertion/extraction behavior at low potential.
+
+Li2Co2(MoO4)3 was synthesized by a soft-combustion approach as described elsewhere and annealed further at 500 and 600 °C to obtain a well-crystalline product. 
+The phase purity and structure of the product was examined by employing a JEOL X-ray diffractometer, and scanning electron microscopy analysis was carried out to obtain the grain size and morphology characteristics of the synthesized powders by using Cambridge Instruments as mentioned previously.
+The anodic behavior of Li2Co2(MoO4)3 was observed by means of galvanostatic discharge/charge test performed on an automated battery-testing system (Arbin instruments BT2000, USA) equipped with MITSPRO software. 
+Negative electrodes were prepared from Li2Co2(MoO4)3 powders mixed with acetylene black and PTFE binder in the ratio 80:15:5 (weight), respectively. 
+A thin lithium foil was used as the positive electrode, and the two electrodes were separated by a microporous polypropylene thin Celgard® membrane in a Teflon-based test cell. 
+The electrolyte was 1 M LiPF6 in EC/DMC (50:50 v/v) organic solution. 
+Test cells were fabricated inside a glove box filled with high purity (99.999%) argon.
+
+Figure 1 shows the XRD pattern of Li2Co2(MoO4)3 .
+It is clearly seen from Fig. 1 that increased annealing temperature results in better refinement of the diffraction peaks indicating the formation of a single phase product with high phase purity as explained in our previous publications. 
+The scanning electron micrograph for the Li2Co2(MoO4)3 powder annealed at 600 °C is presented in Fig. 2, which shows the formation of loosely agglomerated rod-like particles having a diameter within the 5to 10-μm submicrometer range.
+
+Lithium insertion into Li2Co2(MoO4)3 was investigated under galvanostatic cycling at a constant current density of 5 mA g-1.
+Lithium insertion into the Li2Co2(MoO4)3 electrode begins with a discharge process while removal of lithium from the electrode is defined as a charge. 
+Constant current (galvanostatic) discharge/charge curves of Li/Li2Co2(MoO4)3 test cell cycled between 3.5 and 0.001 V are depicted in Fig. 3 for the first two cycles.
+It is apparent from the first discharge profile that there is no lithiation in Li2Co2(MoO4)3 up to 1.5 V right from OCV (3.5 V). 
+The voltage drops vertically down to 1.5 V from where a plateau appears to proceed gradually, indicating an early stage of lithium intercalation process. 
+The vertical fall from OCV up to 1.5 V vs Li/Li+ is obviously attributed to the formation of thin passivation layer on to the electrode forming a solid electrolyte interface (SEI). 
+The plateau appears to extend throughout the lithium reaction with the anode material, which may be considered as representing the ability of the material to accept large amounts of Li+ in its framework structure. 
+It was observed that the first lithiation corresponds to a discharge capacity of 1,500 mAh g−1 with an insertion of approximately 35 Li+ down to 0.001 V vs Li/ Li+. 
+This value is roughly fourfold higher compared to the capacity offered by graphitic anodes in lithium-ion batteries.
+However, upon first charge from 0.001 V, about 24 Li+ could be removed from Li2Co2(MoO4)3, which is equivalent to 71% of the initial capacity. 
+Kim et al. observed a similar irreversible capacity in the case of the MnV2O6 anode for which the first cycle charge capacity fade was estimated to be 57% (800 mAh g−1) compared to its first discharge capacity   (1,400 mAh g −1). 
+Orsini et al. and Kim et al. also observed the same trend in LiNiVO4 (inverse spinel) and crystalline MnMoO4, respectively, when these materials are used as anode . 
+Hence, the studies on vanadates and molybdates suggest the irreversible capacity fading arises from the electrolyte reduction leading to the formation of the SEI layer. 
+Presumably, in the present case, the reduction of electrolyte at deep discharge potentials and hence the formation of the SEI layer could cause the irreversible capacity fade. 
+However, this needs to be verified further using in situ/ex situ X-ray absorption studies (XAS). 
+It is fascinating to note that the same quantity of lithiumions could be inserted during the subsequent discharge resulting in a second discharge capacity of 1,070 mAh g−1.  
+In addition, an interesting feature to be specified here is that the large capacity observed below approximately 1 V similar to LiTi2(PO4)3 compounds having similar NASICON structure for which the discharge and charge capacity was mainly within 0.1–0.8 V vs Li/Li+. 
+This is a typical behavior of anodes of lithium-ion batteries.
+The reaction of 35 Li+ with Li2Co2(MoO4)3 is noteworthy and an appropriate mechanism is required to account for the excellent discharge capacity offered by the material. 
+The possible changes in the oxidation states of metal cations during Li+ insertion/removal in mixed transition metal oxycompounds containing MoO4 polyhedra were investigated earlier. 
+It was demonstrated by Wakihara et al. that Li insertion/removal in crystalline MnMoO4 is accompanied by the valence change of Mo in addition to the role of the anion (oxygen ions) for charge compensation. 
+Based on XANES measurement, they reported that Mo is reduced from 6+ to 1+ or 2+ states at full lithiation and oxidized to 4+ upon Li removal while Mn retained in its 2+ state. 
+The V K-edge and Mn K-edge XANES measurements in Brannerite type MnV2O6 revealed that the valence of Mn goes to zero and that of V being 2+ in the fully lithiated MnV2O6, and V is reversibly redoxed from 2+ to 4+ state whereas Mn valence exhibits no change after the initial Li insertion . 
+Lithiation in inverse spinel LiCoVO4 reduces Co to metallic state and the valence of V varies reversibly during first cycle reaction . 
+Based on XAS studies on the LiNiVO4 anode, Rossignol et al. reported that both V and Ni are reduced upon first lithiation and that vanadium regains the original oxidation state and nickel does not recover the pristine oxidation state during charge . 
+These results imply the fact that the counter cation exhibits redox characteristics during Li+ insertion/removal whether the other cation displays these properties.
+In the present case, cobalt exists in 2+ oxidation state and the molybdenum being at 6+. 
+In accordance with Li+ insertion/removal in mixed transition metal oxycompounds as mentioned above, the insertion of Li+ in Li2Co2(MoO4)3 could possibly be due to the gradual reduction of Mo from 6+ to its lowest oxidation state of 1+. 
+As of now, there is no spectroscopic data available to confirm the valance state of cobalt upon completion of the reduction kinetics at approximately 0.001 V vs Li/Li+ whether it exists in the metallic state and/or never reduced at all. 
+XAS measurements will certainly provide such information concerning the valence state of the transition metal cations by means of in situ measurement techniques. 
+These studies have been planned and the results will be reported elsewhere in the future. 
+Upon extraction of Li+ during oxidation near (charge reaction), molybdenum goes to its higher oxidation states as evidenced from the first charge curve and the following discharge/charge profiles. 
+Figure 3 clearly demonstrates the reversible nature of Li2Co2(MoO4)3 when cycled in lithium-containing cell as anode.
+
+It is obviously understood that reduction of the cations alone may not account for such an unusual large capacity obtained in Li2Co2(MoO4)3. Plausible explanation being, as proposed recently, that oxygen acts as a redox center in Li– O bonds besides the possible valence change in transition metal cations during the insertion/extraction of lithium .
+ We invoke similar thoughts to account for such a large capacity realized in the present material although this still awaits explicit experimental proof. 
+The role of anions in the lithium insertion/removal process was suggested in anode materials such as nitrides and vanadium oxide materials. 
+The N K-edge EELS study, whose spectra are essentially the same as XANES, on the anode material Li2.6Co0.4N have showed that Li+ extraction decreases the occupancy of the nitrogen 2p orbitals. 
+This indicates that nitrogen orbitals besides those of Co play an important role in keeping the charge balance. 
+Ceder and coworkers proposed that oxygen atoms function as electron acceptors upon insertion of Li+ into metal-oxides and metal-dichalcogenides. 
+It is interesting to note that this was clearly pointed out by Wakihara et al. there is strong hybridization of the Mo 4d band with the O 2p band in MnMoO4 and eventually the Mo–O bond has strong covalent character. 
+Accordingly, it is likely in the present case that Mo 4d orbital gets possibly mixed with O 2p orbital, which reduces oxygen besides molybdenum to accommodate the huge amount of Li+ intake into the host structure leading to a very high capacity.
+Nevertheless, it is felt necessary to investigate further to find out the precise mechanism for the electrochemical Li+ insertion/removal in Li2Co2(MoO4)3 by using in situ XAS studies and to open avenues for further research. 
+The work is underway to establish the Li+ mechanism leading to large insertion of Li+ and will be published elsewhere.
+Soft-combustion-derived NASICON type Li2Co2(MoO4)3 was found to exhibit interesting electrochemical characteristics as anode in rechargeable lithium batteries. 
+Preliminary studies prove that the reaction of lithium within the NASICON framework of Li2Co2(MoO4)3 is reversible by exhibiting a discharge capacity of approximately 1,500 mAh −1 amounting to 35 Li+. 
+Thus, the material was found to g offer a high discharge capacity during the first lithium insertion process, approximately fourfold higher than the capacity offered by traditional graphitic anodes being used in commercial lithium-ion cells. 
+Nevertheless, approximately 24 Li+ could be extracted during the first charge (removal of lithium). 
+It is interesting to note that the same amount of lithium-ions could be inserted during the second Li+ insertion process (second cycle discharge) giving rise to a second discharge capacity of 1,070 mAh g−1. 
+It was also  observed that a major portion of lithium intake occurs below 1 V, which is typical of a characteristic anode for lithium-ion batteries.
+
+

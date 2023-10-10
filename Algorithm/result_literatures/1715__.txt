@@ -1,0 +1,49 @@
+Sodium superionic conductor, NASICON ceramic (Na1+xZr2SixP3-xO12, x=2), washot-press sintered under different temperatures and the electrical properties of the obtained differentsamples were investigated.
+Results show that the relative density of the ceramics can be improvedby hot-press process efficiently and the crystal size of the samples are closely related to sinteringtemperature.
+With the increase of sintering temperature, both the density and the crystal size ofsamples increase obviously, resulting in the increase of ionic conductivity of samples as thesintering temperature.
+When the sintering temperature reaches 1150oC, the ionic conductivity ofsample is as high is 3.6×10-3S/cm, which is obviously higher than that of sample sintered at 1000oC(2.13×10-3S/cm).
+As the frequency increase, the real parts and the imaginary parts of complexdielectric constants for all the samples decrease in 8.2 GHz~12.4GHz frequency band.
+The ceramicsobtained at the higher temperature possess the higher dielectric constant.
+Sodium super ionic conductors with NASICON-type structure (Na1+xZr2SixP3-xO12 (0≤x≤3)) havehigh ionic conductivity and relatively high chemical durability and the NASICON electrolyte hasbeen proposed to use in all-solid-state electrochemical cells such as gas sensor, ion sensors.
+NASICON was reported to possess the skeleton consisting of ZrO6 octahedra, PO4 tetrahedra,and SiO4 tetrahedra, and exhibit a few crystalline forms depending on temperature and composition.
+Most sintered NASICON contain certain amount of ZrO2 second phases, which has amonoclinic/tetragonal phase transition at 1100oC, below the usual sintering temperatures of theNASICON compounds.
+In this study, a series of NASICON ceramics with composition of Na1+xZr2SixP3-xO12(x=2) weredeveloped by hot-press sintering and the dependences of density and microstructures of the sampleson sintering temperature were studied.
+Also, the electrical conductivity and the complexpermittivity of the samples were investigated.
+The NASICON powder with the composition Na1+xZr2SixP3-xO12(x＝2) were prepared throughsol-gel method and used as the raw materials for NASICON ceramics.
+The NASICON ceramics were sintered through hot-press method with the sintering pressure of20MPa at different sintering temperature for a certain time of 30min.
+The sintering temperatures forthe different samples are 1000oC，1050oC，1100oC, and 1150oC, respectively.
+The crystalline phase was analyzed through X-ray diffraction (XRD).
+The flat surface of thesintered tablet was prepared by polishing and the gold paste was used as electrodes on both flat sides of the tablet.
+The electrical conductivity was measured with an impedance analyzer(Agilent4294) in frequency band 40~110MHz from temperature to 300oC.
+The dc conductivities ata certain temperatures could be calculated from the impedance plots of the obtained ceramics at thecorresponding temperature.
+The densities of the obtained ceramics fromdifferent sintering temperature were measured and listed in Table 1. 
+It is obvious that the hot-presssintering is helpful to get high density at low sintering temperature.
+When the sintering temperatureis 1000oC, the density has reached 3.07 g/cm3. Compared with the ideal density of NASIC(3.27g/cm3), the relative density has get 93.8%.
+As the sintering temperature increase, the density and therelative density both increase obviously.
+The sample sintered at 1150oC has the density 3.25 g/cm3,which is very close to the ideal value.
+The relative density of the sample is as high as 99.4%, whichis much higher than that sintered under normal pressure reported in reference.
+XRD analysis indicates that all the samples are consisted with the single crystalline phase of monoclinic NASICON, no ZrO2 phase existing in any sample.
+The microstructures of the sampleswere observed through SEM and the micrographs are shown in Fig.1. 
+It is clear that the crystal insample sintered at 1000oC is much smaller than that of the others, and the crystals are compactedclosely though there are some big pores in the sample.
+With the increase of sintering temperature,both the crystal size and the stack tightness of the crystals increase obviously.
+When the sinteringtemperature reach 1150oC, there is almost no pores observed in the samples and the crystals becamelarger compared with the other samples.
+The dc conductivity at room temperature(28oC) fordifferent samples were determined from complex impedance plots and the results were shown inFig.2. 
+The ion conductivities of the NASICON ceramics are in the order of 10-3S/cm，which is closeto the reported value.
+As the sintering temperature increase, the conductivities of the sampleswere improved visibly.
+It is known that the conductivity is a combination of concentration of mobile species andmobility of these species.
+The impediment to the mobility of species for the multi-crystal sampleincludes two parts: one is the impedance from the crystals themselves, and the other from crystalboundary.
+For the sintered NASICON ceramics, the impedance from crystals boundary aredominate because that the crystals of these samples are very small.
+The density of the samplesintered at 1000oC is the lowest and the crystal size is the smallest, resulting that the impedancefrom crystals boundary is the highest and the ion conductivity of the sample is the lowest.
+As thesintering temperature increase, the crystal grew slowly, the impedance from crystals boundarybecame weak and the dc conductivity of the sample increase obviously.
+As the frequency increase, the real parts of complex dielectric constant decrease sharply from theorder of 106 at 40Hz to the order of 102 at 100MHz, and the imaginary parts vary from the order of107at 40Hz to the order of 101 at 100MHz.
+In the high frequency band, the decreasing tendency ofreal part with frequency becomes gentle.
+The observed variation in ε′(ω) and ε”(ω) with frequencyis attributed to the formation of a space charge region at the electrode and sample interface, which isexplained in terms of ion diffusion .
+The low frequency region is attributed to thecontribution of charge accumulation at the interface.
+At high frequencies, due to high periodicreversal of the field at the interface, the contribution of charge carriers (ions) towards the dielectricconstant decreases with increasing frequency.
+Among the NASICON ceramics, the high dielectric constant corresponds to the high sinteringtemperature, which is also believed to correspond to the high density of the sample.
+It is well knownthat the dielectric constant of air is much lower (ε'＝1, ε"=0) than that of any other materials(ε'>1,ε">0).
+The sample with less amount of air possesses larger dielectric constant.
+The increase ofsintering temperature will improve the density of the sample and reduce the actual amount of air in All the samples contain mainly monoclinic NASICON and no ZrO2 phase was found.
+With theincrease of sintering temperature, the crystal sizes become larger and larger and the dcconductivities of the NASICON ceramics also were improved obviously.
+As the frequency increase,the real parts and the imaginary parts of complex dielectric constants for all the samples decrease in8.2 GHz~12.4GHz frequency band, and the variation of the real part and the imaginary part of thecomplex dielectric constant on the frequency agrees with the non-Debye relaxation.
+Both the realpart and the imaginary part of complex permittivity of samples increase as the sinteringtemperature.

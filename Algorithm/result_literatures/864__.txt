@@ -1,0 +1,76 @@
+In this study, we present a detailed investigation of the glass to crystal transformation in the Li1+xAlxGe2 −xP3O12 (LAGP) system.
+
+ Precursor glasses were synthesized following melt-quench and sol-gel procedures.
+
+Theglass to crystal transition was studied employing X-ray diffraction and advanced solid state nuclear magnetic resonance (solid state NMR) techniques including 7Li-, 27Al-, 31P NMR, 27Al{7Li}- and 27Al{31P}-REDOR-NMR as wellas 31P{27Al}-REAPDOR-NMR.
+
+Whereas Al-poor LAGP precursor glasses exhibit a direct glass-to-LAGP crystal transition, without any extended change in the Al content of the LAGP crystals and without the formation of sidephases, for glasses richer in Al the crystallization of LAGP is accompanied by the formation of AlPO4, which forx = 1.0 is the first crystalline phase to precipitate.
+
+For these compositions, the first crystalline LAGP phase precipitating contains an Al content lower than the nominal x-value, however, with annealing, more Al is continuouslyincorporated into the LAGP structure, accompanied by a decrease in the relative amount of the AlPO4 phase.
+
+Aftersurpassing a threshold temperature – which decreases from T = 900 °C for x = 0.4 to 720 °C for x = 0.8 – atwhich the LAGP phases reaches its highest Al content, close to the nominal composition, Al is gradually expelledfrom the LAGP structure, forming LGP and AlPO4.Triggered by the ongoing quest to replace the fossil fuels used in automotive transportation by environmentally more friendly concepts, research in the field of advanced battery systems still constitutes a ratherimportant branch in the field of energy related materials [1–9].
+
+Li basedbatteries – Li ion, Li air or Li sulfur – have been identified as the mostpromising concept to store and transfer electric power for electric vehicles.
+
+ As a consequence, immense work has been devoted to the development of advanced battery materials [5,10].
+
+Especially the replacementof the liquid or gel electrolyte by solid electrolytes would improve theenvironmental compatibility and overall battery performance [11].
+
+During the last two decades, a large variety of solid electrolytes has beenstudied and evaluated.
+
+Among a large variety of investigated systems, covering the rangefrom polymer electrolytes, [12–14] glassy electrolytes [15] to crystallinematerial [16], especially glass ceramics such as the LAGP family – lithiumaluminum germanium phosphate, Li1+xAlxGe2 − xP3O12 glass-ceramics –have evolved as one of the most promising solid electrolytes for application in next generation batteries [17–23].
+
+LAGP derives from the parentLGP (lithium germanium phosphate) which adopts the NASICON structure, in which octahedral GeO6 units are linked by tetrahedral PO4 unitsvia corner sharing [24].
+
+Within this structure, Li can enter two differentinterstitial voids, known as M1 and M2 sites.
+
+For the Al free LGP, the M1site is completely filled with Li ions whereas M2 remains empty.
+
+Uponreplacing a fraction of Ge4+ by Al3+/Li+, the additional Li+ ions subsequently fill the M2 positions [17].
+
+This imparts a remarkably low activated Li mobility [21] and corresponding high ionic conductivity(approx.
+
+10−3 S cm−1) [25].
+
+According to previous studies, impuritiessuch as AlPO4 may seriously decrease the ionic conductivity [25–28].
+
+Since the amount of impurities strongly depends on the Al contentand the details of the annealing process, the influence of these parameters on the key parameter of the material, the ionic conductivity, hasbeen the topic of numerous recent studies [17,20,22,23,25–28].
+
+The Al content of Li1+xAlxGe2 − xP3O12 was mostly varied in therange 0.4 ≤ x ≤ 0.6 [28], the best performance (5.08 × 10−3 Scm−1)was obtained for Li1.5Al0.5Ge1.5(PO4)3 [25].
+
+For Al richer LAGP samples,the formation of various side phases such as AlPO4, Li4P2O7 and GeO2[22,23,29] or Li9Al3(P2O7)3(PO4)2 [28] has been observed.
+
+Investigationof the influence of the annealing time and temperature was mainlyperformed on the well-known Li1.5Al0.5Ge1.5(PO4)3 [26,27,30].
+
+Here, residual glass was observed for low annealing temperatures of 650–750 °C, while crystalline impurities appeared for annealing temperatures of 950–1050 °C, thus identifying 850 °C as the optimum annealingtemperature for LAGP.
+
+In a contribution from the Eckert group, Schröderet al.
+
+ investigated melt-quench-derived Li1.5Al0.5Ge1.5(PO4)3.Employing advanced solid state NMR methodologies they concludedthat the network structure of the precursor glasses rather closely resembles the connectivity motifs as found in the final LAGP with P\\O\\Al andP\\O\\Ge dominating over P\\O\\P and Al\\O\\Ge connectivities.
+
+However, no details of the crystallization process were given.
+
+ The crystallization temperature (Tc) was reported as 610 °C for Li1.5Al0.5Ge1.5(PO4)3and 590 °C for Li1.7Al0.7Ge1.3(PO4)3 [23,26].
+
+LAGP with higher Al contentsdeveloped more amorphous AlO4/AlO5 containing phases and the Avramiconstant was found to decrease from 4 to 3 with increasing Al content[26], thus indicating the turn over from homogeneous to heterogeneousvolume crystallization.
+
+Despite these studies about the influence of the Al content andannealing profile on the final material, a detailed understanding of theglass-to-crystal transition in LAGP is still lacking.
+
+However, such anunderstanding is needed to fully control the amount of impurities andhence optimize the ionic conductivity in LAGP as a function of Alcontent.
+
+In this study we present a detailed analysis of the glass to crystaltransformation of melt-quenched and sol-gel processed LAGP glassesin the compositional range Li1+xAlxGe2 − xP3O12 (0.4 ≤ x ≤ 1.0),employing X-ray diffraction and advanced solid state NMR techniques.
+
+Being inherently element-selective and sensitive to the local environment, solid state NMR spectroscopy has evolved as a rather powerfultechnique for the investigation of structural motifs on short and intermediate length scales.
+
+Whereas information about the short rangeorder (1–2 Å) can be successfully analyzed employing Magic AngleSpinning NMR spectroscopy, aiding in the identification and assignmentof the local phosphate and aluminate polyhedral, structural informationabout structural motifs on a length scale of 2–8 Å, i.e.the unequivocalassignment of P\\O\\Al connectivity – may be obtained via an exploration of the heteronuclear dipolar coupling between 31P and 27Al.
+
+Inaddition, solid state NMR enables the identification of amorphousphases and the analysis of dynamics, which normally escapes detectionby XRD methods.
+
+Glass ceramics of Li1+xAlxGe2 − xP3O12 (LAGP) have been synthesized by a melt-quench or sol-gel process and characterized by SolidState NMR and X-ray diffraction techniques.
+
+Whereas Al-poor LAGPsamples (x = 0.4 and 0.5) show a direct glass-to-LAGP crystal transition, LAGP samples richer in Al (x ≥ 0.7) exhibit an additional formationof AlPO4.This disordered AlPO4 is observed along with precipitatedLAGP which exhibits a lower amount of Al as expected from the nominalx-value.
+
+Increasing the annealing temperature or time, the x-value ascalculated from the 31P MAS spectra increases accompanied by a concomitant decrease in the amount of AlPO4, which indicates a successiveincorporation of Al into the LAGP structure.
+
+At the highest annealingtemperatures, LAGP decomposes into AlPO4 and LGP.
+

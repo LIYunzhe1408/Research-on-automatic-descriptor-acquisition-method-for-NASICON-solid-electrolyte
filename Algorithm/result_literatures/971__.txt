@@ -1,0 +1,46 @@
+Impedance spectroscopy and 7Li NMR have been applied to characterize the lithiumconducting glass-ceramics membranes of the Li1.5Al0.5Ge1.5(PO4)3 composition with theNASICON-type structure.
+
+The 7Li NMR spectra and T1 relaxation times have been comparedfor the precursor glass and two glass-ceramics annealed for 2 and 6 hours, and analysed withrespect to the ionic conductivity in these materials.
+
+The 7Li static NMR spectra reveal twocomponents in the glass-ceramics samples: A quadrupole pattern with CQ of 38.7 kHz and32.5 kHz, and a narrow signal of the Lorentzian or Gaussian lineshape for the samplesannealed for 2 and 6 hours, respectively.
+
+Variation of the lineshape and the deconvolutionparameters point out to the modification of the NASICON framework in the former, whichaffects the conductivity channels towards improved movement of lithium ions.
+
+The NMR datacorrelate with the conductivity measurements demonstrating enhanced ionic mobility in theglass-ceramics annealed for 2 hours.
+
+The 7Li NMR relaxation data seem to be very sensitive tothe species with different mobility and reveal the presence of an additional minor component,which can be responsible for decrease of conductivity at longer thermal treatment.
+
+Highly demanded high-voltage and safe lithium-based energy storage is associated today with all-solidstate lithium-ion batteries.
+
+All-solid-state batteries utilize solid electrolytes, which demonstrate asufficiently high ionic conductivity (> 10-4 S/cm), good chemical stability and an electrochemicalstability window, which is significantly broader than in liquid electrolytes.
+
+Due to an unmatchablecombination of their chemical and electrical properties, materials with the NASICON-type structurehave been proposed as optimum candidate structures for ion migration in Na- or Li-based all-solidstate batteries.
+
+ By a partial replacement of the structural elements and a total charge balance, onecan vary carrier concentration and therefore tailor the electrical properties.
+
+In the present work wefocus on the Li1+xAlxGe2-x(PO4)3 composition (LAGP) with a stoichiometric value of x=0.5, as thisNASICON-type material is reported to demonstrate particular stability against lithium metal.
+
+Since conducting properties are related to the crystalline phase and microstructures of the materials,development of improved ceramics-based electrode materials is focused today on optimising themorphology of their microstructure, which is influenced by the composition, the choice of nucleatingagents and the heat treatment processes used.
+
+As sintering behaviour has a strong effect on phaseformation and thus on electrical characteristics, a detailed characterisation of the amounts of thephases and their ionic dynamics on an atomic level is of great importance for gaining understanding ofstructure-property relationships.
+
+Among the existing analytical tools able to characterize the complex morphology of ceramic materials,NMR has an important advantage as it can probe each phase directly through differences in chemicalshift and relaxation behaviour.
+
+ Moreover, NMR as being reflecting short-to-medium-range-orderis more sensitive to the very local structure, and is particularly useful in the cases, where X-Ray andother diffraction techniques are limited due to a lack of long-range order.
+
+The NMR relaxation times of nuclear spins are sensitive to a number of parameters including degreeof crystallinity, presence of impurity phases, morphology of the ceramics system and molecularmobility.
+
+Depending on the relaxation kind (spin-spin or spin-lattice relaxation in the laboratory orrotating frame) under study, different motional time scales can be investigated.
+
+ The spin-lattice orlongitudinal relaxation characterized by the time constant T1 describes the recovery of themagnetisation along the axis of the magnetic field and has been frequently applied to correlate thestructure [7, 8] and morphology [9, 10] of solid electrolyte materials with their conducting properties.
+
+In the present work, we apply solid-state nuclear magnetic resonance (NMR) in order to characterizeLAGP glass and glass-ceramics as a function of sintering conditions and to reveal a relationshipbetween the microstructure and ionic conductivity towards further development of materials forsustainable energy.
+
+The structure and mobility in NASICON-like glass-ceramics electrolyte membranes of aLi1+xAl0.5Ge1.5(PO4)3 composition have been studied and analyzed in respect to ionic conductivity.
+
+Wehave shown that NMR spin-lattice relaxation time measurement is a simple non-destructive analyticaltool, which is sensitive to morphological changes that occur in glass-ceramics due to thermaltreatment.
+
+Quantitative analysis of the relaxation data has shown a multicomponent character of therelaxation behavior associated with different mobility of lithium ions accommodated within interstitialchannels formed by the NASICON framework.
+
+In the sample with the longer crystallization time anadditional slow relaxing component appears, which is indistinguishable in the 7Li NMR spectrum, andwhich is believed to account for the decrease of the ionic conductivity.
+

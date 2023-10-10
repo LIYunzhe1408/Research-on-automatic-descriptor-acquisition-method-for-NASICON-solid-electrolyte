@@ -1,0 +1,69 @@
+High ionic conductivity is one of the key characteristics of electrolytes and electrode materials directly affecting performance of electrochemical devices in which they are used. In the case of inorganic crystalline solid electrolytes and insertion cathodes the topology and geometry of crystal structure essentially deﬁnes ionic conductivity and charge–discharge rates. We employed the bond valence method to identify materials with crystal structures featuring inﬁnite networks of pathways of suitable size that is a prerequisite for fast ion transport. Taking advantage of the method low computational cost, we carried out exhaustive analysis of ~13,000 entries of the Inorganic Crystal Structure Database and ranked the materials based on the fraction of crystal structure space with low bond-valence mismatch. The results may be used as a guide for further theoretical and experimental studies of promising compositions.
+
+The growing market of consumer electronics and the rapid development of plug-in electric vehicles have increased demand for better rechargeable batteries. Although performance of batteries based on already commercialised materials is still being steadily improved by chemical doping, optimising material morphology on the nanolevel, and better device design, the improvement is incremental rather than dramatic and it is recognised that discovery of new battery materials will be essential for further technology market penetration. In the context of battery research “discoveries” include not only synthesis of new chemical compounds but also demonstration that a previously known material can be used as a battery component. The latter was the case for the most successful cathode materials LiCoO2, LiMn2O4, LiFePO4 which were ﬁrst synthesised and structurally characterised years and even decades before they were tested for battery application. This suggests that there may be other good electrode and electrolyte materials among the thousands of compounds accumulated in the Inorganic Crystal Structure Database (ICSD) [1]. The vast majority of these materials have never been electrochemically characterised, which is understandable considering that direct experimental testing of such a large number of materials is hardly feasible. The motivation of this work was to perform screening of the ICSD for
+
+materials promising for further consideration as solid electrolytes or insertion electrode materials.
+
+One possible approach to such a task is to carry out Density Functional Theory based (DFT) calculations or molecular dynamics (MD) simulations which allow to extract information such as open circuit voltage, ion migration barriers, self-diffusion coefﬁcient, etc. [2]. However, such calculations for a large number of compounds still require massive computational resources despite obvious progress in computer hardware. We believe that pre-screening prior to DFT calculations with suitable fast, albeit less accurate technique can further speed up the process of discovery of new materials for battery and other electrochemical applications involving ionic transport.
+
+The bond valence method [3] (BVM) appears to be ideally suited for the task. Although lacking the accuracy of DFT calculations the method has several strong points: (1) the underlying empirical parameters have been tested on thousands of inorganic materials and are highly transferrable which allows large scale automated calculations without any parameter tuning; (2) it is very computationally cheap; (3) in contrast to DFT modelling the method handles nonstoichiometric compounds as easily as stoichiometric ones.
+
+For detailed information on the BVM and its capabilities the reader is referred to a recent review [3] but in summary it is based on the principle of local charge neutrality ﬁrst proposed by Pauling [4]. The principle postulates that in a crystal structure the charges on ions are locally compensated by the nearest counterions: Zi ¼ ∑Sij;
+
+Fig. 1. Li0.62La0.16TiO3. Left: experimental Li-ion distribution determined by Maximum Entropy Method analysis of neutron diffraction data (reproduced with permission from Ref. [17]); right: section of the BVS data through the same crystal plane calculated for ICSD 152480 [18].
+
+where Z is the formal charge of the ith ion and Sij is the “electrostatic valence” or simply “bond valence” for the pair of ions i and j. It was shown that the dependence of Sij on the distance between ith and jth ions Rij can be well described by the exponential function
+
+It is now a standard practise to use the bond valence method to validate crystal structures as for an accurately determined stable crystal structure the sum of bond valences calculated using Eqs. (1) and (2) is typically within 10% of formal oxidation states for all the constituent ions [3].
+
+Furthermore, it is easy to see that bond valence sums (BVS) Sij's can be calculated not only for crystallographic sites actually occupied by atoms but for any arbitrary point in the unit cell. The closer the BVS for such a point to the oxidation state of a probe ion (e.g. Li+) the
+
+Fig. 2. LiFePO4. Left: molecular dynamics simulation of Li-ion distribution (reproduced with permission from Ref. [19]); right: BVS data calculated for ICSD 92198 [20].
+
+Fig. 3. LiMn2O4. Left: molecular dynamics simulation of Li-ion distribution (reproduced with permission from Ref. [21]); right: BVS data calculated for ICSD 53603 [22].
+
+Table 1 The number of the structures featuring inﬁnite network of low BVS mismatch pathways at 0.1, 0.2, and 0.4 bond valence mismatch values compared to the total number of the analysed A-containing oxides.
+
+Number of entries with inﬁnitely connected networks of pathways 983 (37%) 120 (24%) 86 (23%) 1360 (51%) 1001 (26%) 379 (17%) 222 (45%) 190 (52%) 1882 (71%) 1630 (42%) 621 (27%) 293 (59%) 264 (72%)
+
+Fig. 4. Li1.5Fe0.5Ti1.5(PO4)3. Lithium ion distribution modelled in the diffraction data analysis by a large number of highly disordered underoccupied atomic sites (spheres) overlaid with the BVS data calculated for ICSD 55751 [23].
+
+more likely the point to be an intermediate transition position during the transfer of Li+ between equilibrium sites. A set of closely spaced points with low bond-valence mismatch (Zi−∑Si) connecting equilibrium atomic sites into an inﬁnite network indicates a potential conduction path. Very good agreement between the topology of ion conduction pathways predicted by the BVM and that determined experimentally has been demonstrated previously [7,8]. We are conscious that in addition to high ionic conductivity there are a number of other requirements to battery materials, e.g. high Li+ capacity and low electrochemical potential (electrodes), low electronic conductivity (electrolytes), chemical compatibility with other battery components, etc. [9]. However, experience shows that it is signiﬁcantly easier to change the (electro)chemical properties of a material with a structure type favouring high ion mobility by chemical substitutions than to improve performance of a poor ionic conductor.
+
+We automated BVS calculations and carried out exhaustive analysis of A-containing materials (A=Li, Na, K, Ag, Cu) from the Inorganic Crystal Structure Database (~13,000 ICSD entries in total).
+
+The bond valence method is implemented in several computer programmes. Most of them have been written with structure validation in mind and therefore calculate bond-valence sums only on atomic positions of the input crystal structure. These include both standalone applications (e.g. VaList [10], BondVal [11]) and the bond valence method as a feature of a more general crystal structural analysis software (e.g. Rietica [12]). While it is perhaps possible to use these programmes to build maps of BVS in a unit cell by manually placing a dummy ion at the points of interest, it would be highly impractical. There are also codes capable of calculating BVS for grids of points (BondStr within Fullprof Suite [13], Valmap [14], Jumpiter [15]), but they are not suitable for processing large number of crystal structures in automatic mode. Consequently, we performed bond-valence calculations using our own code, 3DBVSMapper.1 The code is written in the Perl-based MaterialsScript language within the Accelrys Materials Studio 5.5 [16]. While the calculation speed of a single instance of a script is lower than that of the programmes written in high level languages we gained access to the client–server features and visualisation and volumetric data analysis capabilities of the Materials Studio.
+
+The calculations were carried on 3D grids using the bond-valence parameters previously tested for conduction path modelling [6]. The optimal grid resolution was established by testing 17 materials with grids 0.2, 0.25, 0.50, 0.75, 1.0 Å and the fractional volume values were found to converge below 0.25 Å, which is the resolution we used in all the following calculations.
+
+For each structure a resulting ﬁeld of bond-valence sums was segregated into regions limited by isosurfaces constructed through the points with the bond-valence mismatch of 20%.2 The segregates not connected into inﬁnite network were ﬁltered out using the internal Materials Studio connectivity analysis tools. The residual accessible volume was normalised to the unit cell size producing a fractional accessible volume (FAV). Finally, the materials were ranked according to either (1) FAV/N(A) or (2) FAV/N(A)/N(O), where N(A) and N(O) are amount of A cations and oxygen atoms in the unit cell, respectively. The latter was done to downweigh the crystal structures with low degree of metal-oxygen polyhedra condensation which may be less stable against A extraction/intercalation than more rigid frameworks with polyhedra edge or face sharing.
+
+In order to validate the results of the BVS calculations, the predicted topology of conduction pathways was compared to that determined either experimentally or by other modelling techniques for a number of well-studied materials. As illustrated in Figs. 1–4, the topology of the pathways predicted by the BVM are in excellent agreement with experimental results or molecular dynamics simulations.
+
+The statistics on the calculation results is presented in Table 1. As expected, for alkali metal oxides the relative number of structures featuring an inﬁnite network of pathways with low bond-valence mismatch reduces from Li+ to K+ as metal-oxide frameworks become progressively less suitable for transport of bigger cations.
+
+In addition to qualitatively identifying the materials with inﬁnite pathway networks, they were further ranked quantitatively based on the volume of the accessible crystal space with low bond-valence mismatch which was previously shown to be directly related to ionic conductivity [24]. The distribution of the analysed alkali oxides with respect to the FAV/N(A) values is presented in Fig. 5.3 The shape of histograms is consistent with the results presented in Table 1, i.e. the distribution of the materials with the smaller Li+ is broader and is shifted to the higher FAV values than that for the bigger K+. Examination of the crystal structures on the right side of the histograms in Fig. 5 revealed that the highest fractional accessible volume values in Li+, Na+, and K+ oxides most frequently occur in Li3xLa2/3 − xTiO3 perovskite type, P2and β-NaFeO2 types, and birnessite type, respectively.
+
+2 The data for other mismatch values ranging from 5% to 75% have also been calcu-
+
+lated and are available from the authors.
+
+3 The corresponding table listing FAV/N(A) values for the analysed materials is avail-
+
+1 Freely available from the authors.
+
+able from the authors.
+
+M. Avdeev et al. / Solid State Ionics 225 (2012) 43–46
+
+Fig. 5. Distribution of the analysed Li+, Na+, and K+ oxides with respect to fractional accessible volume of the crystal structure space with low bond valence mismatch. The materials with high values of FAV/N(A) may be expected to have high ionic conductivity [24]. The histogram bin size is 0.0005.
+
+Fig. 6. Examples of the materials identiﬁed to possess inﬁnite networks of ionic conduction pathways. From left to right: A=Na+, ICSD 84363 and 71295; A=Li+, ICSD 28526 and 174132, respectively.
+
+Finally, a number of materials with high FAV values were identiﬁed for which data on ionic transport properties are missing or very sparse. Several such structures are illustrated in Fig. 6. The identiﬁed materials may be expected to demonstrate high ionic conductivity and will be further investigated using more accurate modelling techniques and experimentally.4
+
+Exhaustive analysis of ~13,000 ICSD entries has been performed using the bond valence method. The analysis allowed not only to identify the crystal structures featuring inﬁnite networks of pathways suitable for Li+, Na+, K+, Ag+, Cu+ ionic transport but also to rank the analysed materials according to the accessible volume of crystal structure space with low bond-valence mismatch. The method successfully identiﬁed the materials known to have high ionic conductivity and a number of new promising materials which will be further investigated theoretically and experimentally.
+
+Abbreviations BVM BVS DFT ICSD
+
+bond valence method bond-valence sum Density Functional Theory Inorganic Crystal Structure Database

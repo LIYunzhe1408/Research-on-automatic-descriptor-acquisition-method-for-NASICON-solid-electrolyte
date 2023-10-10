@@ -1,0 +1,14 @@
+Our experimental results revealed that an ordered 2D-hexagonal mesoporous lithiumaluminum- titanium-phosphate material LATP-1 can be synthesized by using CTAB as a template under hydrothermal conditions.
+Characterization results revealed that LATP-1 has 2Dhexagonal mesophase, which is useful for the electrochemical application.
+The electrochemical measurement of this material has been performed both as anode and cathode material using cyclic voltammogram studies and galvanostatic charge-discharge cycles.
+As an anode material, the LATP-1 electrode exhibits stable discharge-charge performances after 50 cycles with delievered capacity of 121 mAh. g-1 and 117 mAh.g-1, respectively together with a high coulombic efficiency of 94% compared to its ability as cathode materials.
+Thus, the synthesis of mesoporous lithium-aluminum-titanium-phosphate material and its electrochemical results reported herein may open a fresh outlook to explore it as an anode material in Li-ion batteries.
+We proposed here a new NASICON series based on the Li1 + xCrx(GeyTi1 − y)2 − x(PO4)3 system with a promising potential for synthesis by the glass-ceramic route.
+We investigated a particular composition of this system in terms of the crystallization behavior, formation of NASICON-type structure and electrical properties of the obtained glass-ceramics.
+The LCGTP glass under study shows internal nucleation and presents comparable thermal stability parameter to other self-nucleating glasses.
+Moreover, NASICON LiTi2(PO4)3-type phase was successfully crystallized and the cell parameters of the NASICON structure were in the range of other well-known systems, indicating that the composition investigated here forms a solid solution and that the octahedral site is shared by chromium, germanium and titanium.
+The ionic conductivity of glass-ceramics is up to 5 orders of magnitude higher than that of the precursor glass and is dependent on the heat treatment temperature.
+In addition, we found a correlation between the variation of activation energy for grain contribution and variations in the NASICON lattice volume caused by different heat treatment temperatures.
+The highest total ionic conductivity was found in the glass-ceramic heat-treated at 900 °C, which showed a reasonable value of 6.6 × 10−5Ω−1 cm−1. The remarkably low activation energy (0.274 eV) related to grain contribution found in sample HT900 suggests that, when its microstructure is optimized, the proposed system is promising for the development of fast Li ion-conducting glass-ceramics.
+Further compositional adjustments could provide a compromise between glass stability (Ge addition) and the lattice parameter of the NASICON structure (addition of Ti and Cr).
+In fact, this stage of research is already ongoing at our research center.

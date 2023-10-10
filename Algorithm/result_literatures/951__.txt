@@ -1,0 +1,85 @@
+AZr2(PO4)3 (A = Na, K, Rb, Cs) are a set of framework structured compounds that exhibit tunable ultralow thermal expansion over the wide temperature range of 293–1273 K.
+
+We report a systematic Raman spectroscopic investigation on AZr2(PO4)3 (A = K, Rb and Cs) compounds as a function of temperature in the range 80–860 K andpressures of up to 32 GPa.
+
+To get insight into the thermal expansion property, phonon anharmonicity has beeninvestigated by studying the temperature and pressure dependence of Raman peak shifts and line widths andcomputed bulk modulus.
+
+We have compared the phase transition and amorphization pressures of the variousmembers of AZr2(PO4)3 to account for the stability of the ambient rhombohedral phase.
+
+We find that unlikemost of the anomalous thermal expansion materials, in AZr2(PO4)3 (A = K, Rb and Cs), the phonons that areanharmonic with temperature do not necessarily exhibit anharmonicity with pressure.
+
+Negative thermal expansion (NTE) materials are of interest for fundamental research and they are also important for technological applications such as synthesis of materials with controlled thermalexpansion [1,2].
+
+Formation of specific composites with NTE materialscan result in materials with desired thermal expansion for device components; however prolonged exposure of such a composite to extremetemperatures may result in development of micro cracks [3].
+
+Most of theNTE compounds undergo pressure induced structural instability whichlimit their technological applications.
+
+For example ZrW2O8 with alarge isotropic negative thermal expansion coefficient over a widerrange of temperature exhibits an irreversible structural phase transformation at 0.3 GPa followed by amorphization at 2.2 GPa [4].
+
+ Zn(CN)2 undergoes a cubic–orthorhombic phase transformation around 1.3 GPaunder hydrostatic conditions [5].
+
+ At ambient temperature, orthorhombic–monoclinic phase transition at 0.3 GPa has been reported in anisotropic Sc2(MO4)3 [6].
+
+Recently, TaVO5 is reported to undergo structuralphase transition at 0.2 GPa [7].
+
+NaZr2(PO4)3 (NZP) family of compounds have been extensively investigated in recent years due to their remarkable property of ultralowthermal expansion [8].
+
+In NaZr2(PO4)3 substitution of Na by K, Rb and Csdoes not change the parent rhombohedral structure of space group R-3c[9].
+
+ Fig.1 shows the crystal structure of AZr2(PO4)3 (A = Na, K, Rb, Cs)with corner sharing PO4 tetrahedra and ZrO6 octahedra forming athree dimensional network [10].
+
+Each phosphate group is on a twofoldaxis and is linked to four ZrO6 octahedra.
+
+ZrO6 octahedra lie on threefoldaxes and are each linked to six PO4 tetrahedra.
+
+The alkali cations (Na, K,Rb and Cs) are located at sites between the ZrO6 octahedra along theO3ZrO3(A)O3ZrO3 chain [10].
+
+Thermal expansion coefficients can betuned by substitution of interstitial cations of different sizes [11].
+
+NaZr2(PO4)3 (NZP), KZr2(PO4)3 (KZP), RbZr2(PO4)3 (RbZP) andCsZr2(PO4)3 (CsZP) exhibit overall thermal expansion coefficients ofαav ≈ 4.5 × 10−6 K−1, −0.4 × 10−6 K−1, −0.36 × 10−6 K−1 and0.4 × 10−6 K−1 respectively from 293 to 1273 K [9].
+
+On substitutionof larger cations, thermal expansion coefficients become larger alongthe a-axis and shorter along the c-axis due to the bridging of PO4 tetrahedra [11].
+
+Hence, thermal expansion anisotropy is observed to decrease when larger cations are substituted in place of smaller cations[11].
+
+NZP can also serve as a host for nuclear waste immobilizationsince it has the ability to accommodate most of the radioactive ions(Li+, Cu+, Ag+, Tl+, Ba+2, Cu+2, NH4+, etc.
+
+) at the interstitial Na sites[12].
+
+ NZP compounds are highly resistant to thermal shock and find applications in the manufacturing of electronic devices, heat engine components, catalyst supports in automobile industry, etc.
+
+
+Besidestheir applications, there is considerable interest in understanding pressure induced amorphization in these materials, and the microscopic origin of ultralow thermal expansion by studying anharmonicity andsoftening of phonon modes [1,2,14,15].
+
+In the work of Tarte et al., Raman and IR spectra of rhombohedralNZP compounds at ambient conditions were discussed and relationshipbetween the vibrational properties and chemical composition were explained [16].
+
+Temperature and pressure dependent Raman spectroscopic and first principles computational studies on prototypic NaZr2(PO4)3have provided valuable insight into the role of the various phononmodes to anisotropic thermal expansion [17].
+
+Alkali cation substitutedNZP compounds are known to be stable up to 1273 K [18].
+
+On theother hand, there are not many reports on the behavior of NZP familywith respect to pressure: prototypic NZP undergoes structural phasetransformations around 5 and 6 GPa maintaining structural integrityup to 32 GPa [19].
+
+In the present work the influence of temperatureand pressure on the phase stability of alkali cation substituted NZP compounds are investigated.
+
+Raman shifts originate from the polarizability of chemical bonds andhence Raman spectroscopy is helpful in probing structural changes atthe level of chemical bonds.
+
+In situ Raman spectroscopy study at hightemperature and pressure is a convenient method to compare the phasestability of compounds of NZP family.
+
+ Study of anharmonicity due to phonon scattering in a solid is important to explain their thermal expansion.
+
+The current study is focused on two aspects: (a) to compare and analyze the contribution of the various phonon modes to anisotropic lowthermal expansion with increasing size of alkali cations and (b) to investigate the structural stability of the cation substituted compoundswith pressure.
+
+Raman spectroscopic studies were carried out up to30 GPa at ambient temperature and from 80 to 860 K at ambient pressure to identify anharmonic phonons.
+
+Raman spectra were measured on AZr2(PO4)3, A = Na, K, Rb, Cs attemperatures to 860 K and pressures up to 25 GPa.
+
+Phase stability ofthese compounds at high pressure is discussed with respect to phasetransformation and pressure induced amorphization.
+
+The pressure andtemperature dependence of the Raman peak shifts were used to separate the anharmonic contribution to thermal expansion fromquasiharmonic contribution.
+
+Apart from low frequency translationaland librational modes, several other bending modes of phosphate ionsare found to be strongly anharmonic.
+
+Raman modes above the highpressure phase transition exhibit normal positive pressure coefficientthat would result in positive thermal expansion.
+
+The present findingsrelated to the stability of AZr2(PO4)3, A = K, Rb, Cs at high pressureswill have significant impact on further work to modify the structurethrough substitution of different cations at different positions resultingin a more stable low thermal expansion at high pressure.
+

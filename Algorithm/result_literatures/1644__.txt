@@ -1,0 +1,96 @@
+To improve the stability of a NASICON Na3Zr2Si2PO12; Na+ conductor-based potentiometric CO2 sensor under humid conditions, a composite of BiCuVOx Bi2Cu0.1V0.9O5.35 and perovskite-type oxide La0.6Sr0.4Co0.78Ni0.02Fe0.2O3 was used as a solidreference electrode.
+The CO2 sensing properties and stability of a NASICON-based planar device ﬁtted with Li2CO3–BaCO3 auxiliary phase and the composite reference electrode were examined under humid conditions.
+The planar device mounted on an alumina substrate with a Pt heater showed stable electromotive force  responses to changes in the CO2 concentration 100–400 ppm at 400 and 450°C in humid air without degradation.
+The sensor device also exhibited a good warming-up characteristic, i.
+e.,the emf of the device quickly reached a steady and constant value when the sensor operation was restarted even after the sensor was exposed to humid air 86% relative humidity at 25°C at room temperature for a long time.
+Detection and control of CO2 concentrations have become very important in various ﬁelds such as greenhouse conditioning, roomair monitoring, and measurements of respiration of bio-related activities.
+A reliable CO2 sensor with high performance has long been demanded.
+Among the sensors so far reported, a NASICON Na3Zr2Si2PO12; Na+ conductor-based potentiometric device represented as the following electrochemical cell has attracted much attention as a promising candidate for a practical CO2 sensor due to its simple structure, high selectivity, and fast response1-4CO2, O2, Au sensing electrode/ binary carbonate . 
+The electromotive force emf of the device is generated in response to CO2 according to the following electrochemical reactions occurring at the sensing and reference electrodes, respectively.
+Na and Li ions are exchangeable at the interface between NASICON and carbonate through an interfacial phase .
+The formation of an interfacial phase between carbonate and NASICON was conﬁrmed in previous studies.
+Recently, we fabricated a planar NASICON-based CO2 sensor on an alumina substrate by sol–gel and screen-printing techniques.
+The planar structure is suitable for reducing the fabrication costs as well as the device size.
+The fabricated planar sensor exhibited fairly good CO2 sensing properties at 350–450°C.
+However, the sensor response is severely disturbed by surface contamination formed by moisture and CO2 on NASICON, particularly after the sensor is kept under humid conditions at room temperature for a prolonged time with the heater switched off.
+This surface contamination, which is deposited between the porous Au reference electrode and NASICON, causes the potential of the reference electrode to signiﬁcantly deviate from the original value, and the sensor to take a long time to warm up.
+Such problems have also been reported by other authors.
+Thus, a solid-reference electrode stable against contamination is very much required.
+However, most of these materials do not have sufﬁcient stability against moisture and CO2. For NaxCoO2 reference electrodes without glass seals, the potential is dependent on CO2 concentration probably because of the formation of carbonate on NaxCoO2.
+The sealing of electrodes is therefore necessary, although such a sealing makes the fabrication process rather complex and expensive.
+Moreover, the sealing of reference electrodes allows devices to respond to changes in O2 concentration in the atmosphere.
+
+ This is considered to be due to the combination of the high O2− ion conductivity 关 of BiCuVOx and the high electrocatalytic activity of the perovskite oxide at low temperatures.
+It was thus expected that this composite electrode, if used as a reference electrode, would keep the electrode potential constant by facilitating the electrochemical reaction, Reaction 3. 
+Furthermore, the composite electrode can be used as an opentype reference electrode without sealing.
+In this study, to improve the stability of NASICON-based CO2 sensors under humid conditions, the feasibility of the composite as a new reference electrode was examined.
+We investigated the CO2 sensing properties, the stability under humid conditions, and the warming-up characteristics for a device ﬁtted with the composite reference electrode.
+The preparation schemes of NASICON, BiCuVOx, and perovskite 1.  These alkoxides were stoichiometrically dissolved in an ethanol solvent containing HNO3 at 60°C under the ﬂow of dry N2, and the solution was kept standing for about 20 h under stirring.
+A designated amount of distilled water was then added to the ethanol solution for hydrolysis.
+
+The precursor powder was compressed into a disk 9 mm in diameter, 1.2 mm thick and sintered at 1200°C in air for 5 h.
+Perovskite-type oxide La0.6Sr0.4Co0.78Ni0.02Fe0.2O3 was prepared by an amorphous malic precursor method using nitrates of La, Sr, Co, Fe, and Ni.
+ First, these nitrates in the stoichiometric ratio were dissolved in water together with malic acid.
+The pH of the mixed solution was then adjusted to 3 by the addition of aqueous ammonia with vigorous stirring.
+The solution was evaporated to dryness, and this was followed by calcination at 900°C for 5 h in air.
+BiCuVOx Bi2Cu0.1V0.9O5.35 was prepared through a conventional solid-state reaction using a stoichiometric mixture of the constituent metal oxides of analytical grade Bi2O3, V2O5, and CuO.
+The starting oxide powders were ballmilled for 10 h in an ethanol-based medium.
+The resulting mixture was dried at 120°C, thoroughly ground to break up large agglomerates, and then calcined at 600°C in an alumina crucible for 5 h in air.
+A binary carbonate powder was prepared by calcining a mixture of Li2CO3 and BaCO3 powders 1:2 molar ratio in a gold crucible at 750°C in air for 10 min.
+The as-prepared agglomerates were ground into a ﬁne powder.
+The process of calcination and grinding was repeated three times.
+A schematic drawing of the structure of the fabricated sensor device is shown in Fig.2. 
+The composite of La0.6Sr0.4Co0.78Ni0.02 Fe0.2O3 and Bi2Cu0.1V0.9O5.35 4:1 weight ratio was formed by applying an -terpineol-based paste containing the mixture on the fabricated NASICON disk, and then calcination at 750°C for 1 h.
+A layer of carbonate Li2CO3 + BaCO3, 1:2 molar ratio as an auxiliary phase was also deposited on the same side of the NASICON disk together with a sensing electrode of a gold mesh.
+This was followed by calcination at 750°C for 5 min.
+Another Au reference electrode was attached on the back side of the disk.
+The Au reference electrode was sealed from the outside atmosphere using a sealing glass to keep the potential constant.
+All electrochemical measurements were carried out on a conventional gas ﬂow apparatus.
+By diluting a parent gas 2000 ppm CO2in dry synthetic air with synthetic air, the concentration of CO2 in the sample gas was controlled in the range of 100–2000 ppm.
+Humid sample gas was prepared by allowing some of the synthetic air to bubble through water.
+The potential changes of the sensing and composite reference electrodes were monitored separately by referring to the Au reference electrode.
+The device was heated to the operating temperature 400 and 450°C by applying a voltage to the Pt heater.
+To evaluate the warming-up starting-up characteristics of the device, the device temperature was repeatedly changed between 450°C and room temperature by switching the Pt heater off and on 共heat-cycle test.
+At room temperature, the device was exposed to humid air 86% relative humidity, RH, at 25°C containing CO2 400 ppm for several hours.
+The device was then rapidly heated to 450°C and the emf generated between the sensing and composite reference electrodes was measured.
+CO2 sensing properties of the device using the composite reference electrode.
+Figure 3 shows the response transients of potentials of the sensing and composite reference electrodes, relative to the Au electrode, to variations in CO2 concentration in humid air at 450°C.
+The potential of the composite reference electrode was quite stable and independent of CO2 concentration, indicating the composite is well suited as a reference electrode.
+The sensing electrode potential quickly responded to changes in CO2 concentration 100– 400 ppm.
+Figure 4 shows the dependence of the sensing electrode potential relative to the composite reference electrode on CO2 concentration at 400 and 450°C.
+The sensing electrode potential was linear to the logarithm of the CO2 concentration, showing a Nernstian behavior with a slope of 66.8 and 75.5 mV decade−1 at 400 and 450°C, respectively.
+Both values correspond to the two-electron reaction  which is in good agreement with the theoretical value of reaction Eq.2. 
+These characteristics are typical for this type of CO2 sensor.
+It was thus conﬁrmed that the fabricated planar-type device mounted on an alumina substrate with a Pt heater has a good CO2 sensing capability in terms of sensitivity and response speed even under humid conditions.
+To further test the feasibility of this composite system as a solid-Downloaded on 2015-05-25 to IP  address.
+Redistribution subject to ECS terms of use (see ) unless CC License in place (see abstract).
+
+.Response transient of potentials of the sensing and composite reference electrodes relative to the Au reference electrode to changes in CO2 concentration in air at 450°C.
+Figure 4. Dependence of the sensing electrode potential relative to the composite reference electrode on CO2 concentration in air at 400 and 450°C.
+
+Figure 5 shows the dependence of the sensing electrode potential relative to the composite reference electrode on RH in the presence of 400 ppm CO2 at 450°C.
+The deviation in the electrode potential was as small as 2.7 mV.
+Thus, the interference of water vapor was effectively suppressed using the composite reference electrode, in contrast to the previous case in which a Au electrode was used 11 mV.
+8 These results indicate a high stability of the composite reference electrode against moisture.
+The composite of BiCuVOx Bi2Cu0.1V0.9O5.35 and perovskite-type oxide La0.6Sr0.4Co0.78Ni0.02Fe0.2O3 could be successfully incorporated as a reference electrode material.
+Stability of the device using the composite reference electrode during heat-cycle tests.
+ We next examined the warming-up characteristics of the fabricated sensor device by keeping the sensor under humid conditions at room temperature for a period from several to tens of hours and then quickly reheating the sensor to 400°C heat-cycle test.
+The present device structure with a Pt heater allows rapid heating and cooling cycles.
+The concentration of CO2 and humidity were set to constant values of 400 ppm and 86% RH 25°C, respectively, in the period tested.
+Figure 6 shows variations in the sensor signal as a function of time during a series of heatcycle tests.
+Initially, the emf of the device varied slightly with time due to the aging effect of the device.
+However, after the ﬁrst cycle, the emf stabilized to an almost constant value of about −350 mV.
+The properties of the device shown in Fig.3-5 were measured after this stabilization.
+Furthermore, after the aging, the sensor rather quickly reached a stable emf value upon reheating to the operating temperature within about 12 min, as shown in the inset of Fig.6. 
+The device showed the same CO2 sensing capability as that shown in Fig.4 during the heat-cycle test.
+As previously reported, when glass-coated NaCoO2 was used as a reference electrode for a NASICON disk-based device, it took longer for the emf of the device to reach a stable and constant value after being exposed to air containthe ing 20–80% humidity at warming-up characteristics were signiﬁcantly degraded, particularly when the device was exposed to high humidity 80% RH at 25°C at room temperature with the heater switched off.
+In contrast to the above case, the stability of the present device was successfully improved using the composite reference electrode even without sealing.
+As such performances seem to originate from the electrode materials, further explorations from various standpoints are needed.
+room temperature.
+The NASICON-based planar device ﬁtted with a composite of BiCuVOx oxide La0.6Sr0.4Co0.78Ni0.02Fe0.2O3 as a solid-reference electrode showed good CO2 sensing properties at 400 and 450°C even under humid conditions.
+The reference electrode potential exhibited a stable and constant value and did not respond to changes in CO2 concentration.
+
+
+Furthermore, the emf of the device, once aged at the operating temperature, quickly recovered to the original state upon reheating, even after the device was kept under humid conditions 86% RH, 400 ppm CO2 at room temperature for a long time.
+Such a rapid warming-up characteristic of the device probably results from the high chemical stability of BiCuVOx and perovskite–oxide against water vapor and CO2.
+

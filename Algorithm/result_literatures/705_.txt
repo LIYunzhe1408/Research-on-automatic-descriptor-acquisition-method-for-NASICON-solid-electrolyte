@@ -1,0 +1,17 @@
+A series of Na3−xV2(PO4−xFx)3 (x = 0, 0.1, 0.15 and 0.3) polyanion cathode materials are synthesizedvia a sol-gel method.
+The optimal doping concentration of F in Na3V2(PO4)3 is 0.15 mol %.
+By neutronpowder diffraction data, the chemical composition of as-synthesized material is Na2.85V2(PO3.95F0.05)3.The half-cell of Na2.85V2(PO3.95F0.05)3 cathode exhibits a stable discharge capacity of 103 mAh g−1 and93% of capacity retention over 250 cycles without decay at 0.1 A g−1, which is higher than that of bareNa3V2(PO4)3 (98 mAh g−1).
+The high rate capability of Na2.85V2(PO3.95F0.05)3 is also dramatically enhancedvia increase the conductivity of host material by F-doping.
+Moreover, the symmetrical Na-ion full-cellis fabricated using Na2.85V2(PO3.95F0.05)3 as cathode and anode materials.
+It is achieved that the goodreversibility and superior cycling stability about 98% of capacity retention with ~100% of coulombicefficiency at 1.0 A g−1 throughout 1000 cycles.
+These results demonstrate that the optimal amount ofNa2.85V2(PO3.95F0.05)3 is a distinctive potential candidate for excellent long-term cyclic stability with highrate low-cost energy storage applications.
+A half-cell assembly of Na-metal | NaClO4: PC | NVP (or NVP-F) andsymmetric full-cell of NVP-F0.15| NaClO4: PC | NVP-F0.15 were used to evaluate the electrochemical performancevia CR2032 type coin cells.
+The cathodes (positive electrodes) were prepared by mixing of 70 wt.% of active material(NVP or NVP-F powder), 10 wt.% of Super P and 20 wt.% of Poly-(vinylidene fluoride) (PVdF, Kynar® HSV900, Arkema Inc.) in N-methylpyrrolidone (NMP, ChromAR®, Macron Fine Chemicals TM) solvent to form ahomogeneous slurry.
+Afterwards, the mixed slurry was spread uniformly on a thin aluminum foil and dried invacuum at 120 °C for 6 h and then roll pressed.
+The samples were punched into circular discs.
+Glass fiber (TypeA/E, P/N 61630, Pall Corporation) as separator was drenched in the electrolyte for 24 h prior to use.
+The coincell assembling procedures were performed using Ar-filled glove box by keeping both the oxygen and moisturelevels less than 1 ppm.
+The galvanostatic charge-discharge measurements were performed using a AcuTech batterytesting system (Taiwan, R.O.C, model 750B) in the potential range of 2.8–3.8 V (V vs.Na+/Na) at ambienttemperature with different C-rates.
+The cyclic voltammograms (CV) were measured by CH Instruments AnalyzerCHI 6273E at a scan rate of 0.1 mVs−1 voltage window between 2.8 V and 3.8 V.
+The AC impedance was testedin the range from 0.1 Hz to 100 KHz with the amplitude of 5 mV.
+The symmetric Na-ion full-cell was fabricatedusing NVP-F0.15 as both electrode materials and evaluated the cycling performance.

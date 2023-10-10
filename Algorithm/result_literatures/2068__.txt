@@ -1,0 +1,109 @@
+The NASICON-based CO2 sensor using Li2CO3-BaCO3 auxiliary phase was tested for stability under exposure to the humid air containing 3.6 kPa H2O and 1000 ppm CO2 at 508C. For this purpose, the sensor devices were attached with a reference electrode (RE) which was always kept from contacting the humid air, in addition to the sensing electrode (SE) and counter electrode (CE). With this structure, the SE and CE potentials to CO2 containing atmospheres at 4508C were measured relative to RE before and after the humid air treatment for 3 days. It was found that the humid air treatment caused the CE potential to shift largely from the original value, while the SE potential remained intact. The shift of CE potential decreased gradually with increasing time of operation at 4508C, disappearing almost completely in several days. The SEM observation revealed that a number of tiny deposits showed up on the surface of NASICON after the 3-day treatment and the deposits grew into discrete crystalline particles after the 14-day treatment. It was found in separate experiments that, when the NASICON disk was soaked in hot water, a signi®cant amount of Na3PO4 was eluted from the disk, and that the resulting disk could have the CE potential more stabilized to the humid air treatment. Based on these results, it is concluded that the elution of Na3PO4 from the bulk of the NASICON disks to the surface is responsible for the degradation of CO2 sensing properties in this type sensor after being kept in a humid atmosphere at low temperature. # 2001 Elsevier Science B.V. All rights reserved.
+
+Keywords: NASICON; CO2 sensor; Electrode potential; Interfacial structure; Stability
+
+1. Introduction
+
+NASICON (Na3Zr2Si2PO12), high Na-ion conducting material discovered by Hong and coworkers [1,2], has widely been applied for electrochemical sensors [3±9]. Maruyama et al. [3,4] ®rst reported a new type solid electrolyte gas sensor for SO2 or CO2, for which NASICON was combined with an auxiliary phase of Na2SO4 or Na2CO3, respectively. The potentiometric sensor of this type, classi®ed later as Type III sensor by Weppner [10], opened a way to exploring new sensors for oxidic gases. Among them, CO2 sensors are particularly important for air quality monitoring in of®ces and homes as well as for control of bio-related processes. It turned out soon, however, that the CO2 sensors of this type are not always stable
+
+phenomenon was also reported by Kaneyasu et al. [15], but the degradation mechanism has been left unsolved. Under these circumstances, we tried to elucidate what happens on the NASICON-based CO2 sensor during storage under humid air at low temperature. At the start of this study, we suspected from literature that the degradation problem could be related with the stability of NASICON itself. Kuriakose and coworkers [16,17] observed a change in pH when NASICON powder was suspended in water. Yagi and Saiki [6] reported that the humidity sensors based on NASICON could be more stable in highly humid atmosphere when phosphorus-free NASICON was used. These results would suggest that the stability of NASICON could be associated with the phosphorous component in NASICON. Recently, Mauvy et al. [18] reported that, when NASICON was immersed in water, a limited amount of Na3PO4 dissolved out into the water phase, and that this should be attributed to the dissolution of Na3PO4 as an impurity phase in NASICON.
+
+In this paper, the NASICON-based CO2 sensor devices were kept under a humid air containing CO2 at 508C for a prolonged time, to investigate its in¯uences on the CO2 sensing properties at 4508C. The morphology of NASICON surface as well as the structure of interfaces, NASICON/ auxiliary phase and NASICON/platinum electrode, were observed or analyzed by means of SEM-EPMA. In separate experiments, NASICON disks were soaked in hot water (908C) to con®rm the dissolution of Na3PO4 from the disks. The results of these investigations indicated that the degradation in problem can be attributed to the segregation of Na3PO4 phase at the counter electrode.
+
+2. Experiments
+
+2.1. Sensor fabrication and electrochemical measurement
+
+The powder of NASICON (Na3Zr2Si2PO12) was prepared conventionally through a solid-state reaction of Na3PO4 and ZrSiO4 [19]. It was sintered and polished into a disk (8 mm in diameter and 0.8 mm thick) as reported elsewhere [9]. Fig. 1 shows a schematic drawing of the CO2 sensor devices fabricated in this study. Unlike a conventional device having a sensing electrode (SE) and a counter electrode (CE) attached to the both side of the NASICON disk, the present devices had the both electrodes attached on the same plane of the disk, and in addition, a third electrode was attached to the back side as a reference electrode (RE), to which the potentials of SE and CE could be referred separately. For CE and RE, Pt paste was applied on both sides of the disk as indicated and ®red at 9008C. For SE, gold mesh and auxiliary phase were attached as follows. A small piece of gold mesh mounting a small quantity of auxiliary phase, Li2CO3-BaCO3 (1:2 in molar ratio) composite in the present study, was placed in a designated area on the NASICON disk. The whole assembly was inserted into a furnace (preheated to 7508C) for 3 min, and taken out. This procedure allowed the auxiliary phase to spread over by melting and recrystallization, resulting in its good adhesion to the gold mesh as well as to the NASICON surface. The disk was ®xed on the end of a quartz glass tube (6 mm in diameter) with an inorganic adhesive.
+
+The CO2 sensing measurements were carried out in a conventional gas ¯ow apparatus. The sensor device was set
+T. Kida et al. / Sensors and Actuators B 75 (2001) 179±187
+
+Fig. 2. Experimental set-up for CO2 sensing measurement and humid air treatment.
+
+in a quartz glass chamber which was heated externally, as shown in Fig. 2. With this setting, RE (inside) of the device was always exposed to synthetic air (O2±N2), while SE and CE were exposed to the ¯ow (100 cm3/min) of sample gases. The sample gases, consisting of CO2, air and water vapor, were prepared by mixing at prescribed proportions a parent CO2 gas (2000 ppm diluted in air), synthetic air, and the humidi®ed synthetic air after bubbling through warm water (408C). The potential of SE and CE under exposure to CO2 containing atmospheres were measured relative to RE on an electrometer (ADVANTEST TR8652) at 4508C to detect changes in the respective electrode potentials after humid air treatments at low temperature, which were carried out also in the same apparatus by exposing SE and CE to the ¯ow of the synthetic air containing humidity (3.6 kPa H2O) and CO2 (1000 ppm) at 508C. CO2 was added to the treatment gas because the sensor is always exposed to CO2 in practice. Eventually, however, the addition of CO2 does not seem to have exerted any particular effects in the present study.
+
+2.2. SEM observation and EPMA analysis
+
+After the completion of all the electrochemical measurements, the sensor devices were fractured in two pieces to observe or analyze the structure of interfaces, NASICON/Pt and NASICON/carbonate, by means of scanning electron microscope (SEM) instrument (JEOL JSM-6340F). In separate experiments, NASICON disks were subjected to the same humid air treatments as above to examine the stability of NASICON under humid conditions. The surfaces of the treated NASICON disks were observed or analyzed on a SEM equipped with an electron-probe micro-analyzer (EPMA; NORAN VOYAGER).
+
+2.3. Hot water treatment of NASICON disk
+
+The NASICON disks were soaked in 100 ml of hot water (908C) for a designated time (1±5 h). To avoid contamination by atmospheric CO2, nitrogen was passed through the hot water. This hot water treatment was carried out for two
+
+purposes. One was to con®rm the release of phosphate ions from the NASICON disks, and another to check the properties of the resulting NASICON disks as a base solid electrolyte of CO2 sensor. The amount of phosphate ion released was determined by a standard molybdenum blue method. The method was composed of three steps, i.e. formation of molybdophosphoric acid, reduction of the acid with tin(II) chloride to yield a blue-colored complex (molybdenum blue), and spectrophotometric determination of the complex on a spectrometer (HITACHI U-2001).
+
+3. Results and discussion
+
+3.1. Behavior of electrode potentials of CO2 sensor as prepared
+
+The device fabricated in this study was tested for the CO2 sensing capability under usual operation conditions. Various concentrations of CO2 in the presence of water vapor (1.6 kPa) were fed over the device at 4508C. Fig. 3 shows the potentials of SE and CE of the device relative to RE as a function of CO2 concentration. The SE potential responded
+
+Fig. 3. Response of the sensingand counter-electrodes potential (relative to the reference electrode) to variations in CO2 concentration at 4508C (fresh device).
+
+T. Kida et al. / Sensors and Actuators B 75 (2001) 179±187
+
+quickly to the variations in CO2 concentration and the dependence of the steady values on the CO2 concentrations obeyed Nernst equation for n  2 where n is the number of reaction electrons, as indicated. The counter electrode potential, on the other hand, remained constant to the variations in CO2 concentration, as also indicated. These characteristics of the SE and CE potentials are typical to the CO2 sensor of this type, providing a base on which the SE potential can be measured relative to the CE potential in practical device.
+
+It should be pointed out that, theoretically speaking, the potential of CE must be practically the same as that of RE under the present conditions because the electrodes are both made of Pt. Actually, however, a signi®cant difference in potential existed between the two electrodes, as observed. Such differences between the CE and RE potentials were observed for all the devices fabricated. The differences scattered device to device, but remained within a range of about 50 mV through the devices. The reason for this anomaly is not clear at present. It is suggested, however, that the surface of NASICON disk used was not uniform, showing ¯uctuations in composition or impurity phases, depending on the site selected. If so, the potential of Pt electrode attached on NASICON can also ¯uctuate depending on the location of Pt electrode. This may be a reason for the discrepancy of the CE and RE potentials. It is emphasized that, for a given device, the CE potential relative to RE was stable as long as the device was operated under usual conditions, as already mentioned.
+
+3.2. Behavior of electrode potentials after the humid air treatments
+
+The devices were exposed to the humid air containing 3.6 kPa H2O and 1000 ppm CO2 at 508C for 3 days, and tested for the CO2 sensing properties at 4508C again. It was found that the SE potential relative to RE reproduced almost exactly the same CO2 sensing properties as it had before the humid air treatment. For the particular device (Device 1) used in Fig. 3, for example, the SE potential to 200 ppm CO2 reproduced the original value ( 462 mV) immediately after the device temperature was set to 4508C, as shown in Fig. 4. The CE potential, on the other hand, exhibited utterly different behavior. The potential after the treatment deviated largely from the original one before the treatment. For Device 1, the original potential was at  51 mV, while the new potential was at 7 mV, having shifted upward by 58 mV. Quite notably, the CE potential after the treatment was not stable but moved very gradually toward the original potential. For Device 1, the potential almost recovered the original value in 3 days. Such transient behavior of CE potential was common to all of three devices tested, as shown in Fig. 5, where the deviation of CE potential from the original value are plotted as a function of time. The deviation tended to decrease with increasing time of sensor operation at 4508C, although the details of the
+
+for example,
+
+Fig. 4. Behavior of the potentials of sensingand counter-electrodes to continuous exposure to 200 ppm CO2 at 4508C after the humid air treatment at 508C for 3 days.
+
+behavior depended on the individual devices. These results indicate that something had happened at CE during the humid air treatment at low temperature.
+
+3.3. Formation and stability of deposit on NASICON surface
+
+In order to specify the cause of the CE potential shift mentioned above, the NASICON surface after the humid air treatment at 508C was inspected by means of SEM and EPMA. Fig. 6 shows SEM images (top-view) of the NASICON after the humid air treatment for varying periods. On the fresh surface (a), one could see the straight scratches formed by polishing and hollows resulting from pores. After the treatment for 3 days (b), the surface was covered by thin clouds consisting of a number of tiny deposits formed at numerous sites on the NASICON surface. The clouds thickened after the 7 days treatment (c), and condensed or grew into deposits having clear peripheries after 14 days (d). These observations show that something is segregated on the NASICON surface when NASICON is exposed to the humid air at low temperature.
+
+Fig. 5. Behavior of counter electrode potential to continuous exposure to 200 ppm CO2 at 4508C after the humid air treatment, as compared among three individual devices.
+
+Fig. 6. SEM images of NASICON surfaces before (a) and after the humid air treatment for 3 days (b), 7 days (c), 14 days (d).
+
+Fig. 7. SEM images of NASICON surfaces after heating at 4508C for 3 days following the humid air treatment at 508C for 3 days (a), 7 days (b) and 14 days (c).
+
+
+To know the behavior of the above deposits, the respective NASICON disks were kept at 4508C for 3 days. The SEM images are shown in Fig. 7. For the disk treated for 3 days, the surface could be brought back to the original state after the 3 days treatment at 4508C, indicating that the initial cloudy deposits could be incorporated back to the NASICON bulk. This was not the case for the deposits formed after the humid air treatment for 7 or 14 days (b and c). In these cases, the deposits had grown into rather glossy needle-like ones. These results suggest that the deposits can be extinguished at 4508C provided that those are tiny or trace in amount, but otherwise the deposits coagulate with each other into the needle-like deposits.
+
+The needle-like deposits were analyzed by EPMA. Fig. 8 shows the images of the deposits observed by a usual SEM
+
+mode (a), a topographic mode using back scattered electrons (b), and a composition mode using back scattered electrons (c). Generally, dark contrast in mode (c) corresponds to the region consisting of lighter elements. Therefore, the needlelike deposits featured by dark contrast should be composed of lighter elements as compared with the bulk of NASICON. The spot A (NASICON) and spot B (deposit) indicated in (a) were subjected to EPMA spot analyses. As shown in Fig. 8d, spot B was richer in content of Na and P but poorer in Si, as compared with spot A. It was thus suspected that the deposits consisted of Na3PO4 or its derivatives.
+
+It was stated in the previous section that the humid air treatment at low temperature affected only the CE potential, while the SE potential remained intact. This difference is considered to result from the interfacial structure of SE and
+
+Fig. 8. SEM-EPMA characterization of the deposits shown in Fig. 7c. (a) SEM image, (b) back scattered electron image Ð topography mode, (c) back scattered electron image Ð composition mode, and (d) EPMA spot analyses at A and B indicated in image (a).
+
+Fig. 9. Cross sectional views in the vicinity of sensing electrode (a) and counter electrode (b).
+
+CE adopted. To demonstrate this difference, the sensor device was fractured into two pieces. Fig. 9 shows resulting cross sectional views at the SE (a) and CE (b) sides. The SE was fabricated by depositing a carbonate auxiliary phase together with a gold mesh on the NASICON disk, as mentioned before. Actually, however, a corrosion layer, which was identi®ed to be BaZrO3 [20], was formed between NASICON and the carbonate. Although the part of the gold mesh was excluded from the particular image shown (a), it was imbedded in the carbonate phase; the gold wire used was 50 mm in diameter so that it was often out of sight at this magni®cation. The details of these analyses will be published later. An important fact to be mentioned here is that the corrosion layer, once formed, was stable and could protect the NASICON from the attack of water vapor in the
+
+atmosphere. For the case of CE, on the other hand, porous Pt (electrode) contacted with the NASICON surface (b). The NASICON surface is thus vulnerable to the attack of water vapor to allow the foreign deposits to be segregated.
+
+3.4. Treatment of NASICON disks with hot water
+
+If the deposits are in fact formed through the segregation of Na3PO4 from the NASICON disk, Na3PO4 would be eluted more easily by using liquid water. Thus, a ¯eshly prepared NASICON disk was soaked in hot water (908C) and the amount of phosphate ions dissolved was determined as a function of soaking time, while the pH of the liquid phase was also monitored with a pH glass electrode. As shown in Fig. 10, the concentration of phosphate ions
+
+Fig. 10. Phosphate ion concentration and pH of the liquid phase as a function of soaking time in hot water.
+
+increased rapidly in the initial period of soaking and saturated in about 60 min. The pH of the solution increased rapidly to exceed 10, in good agreement with the results of Ahamad et al. [17] and Mauvy et al [18]. The total amount of 3  released was 0.078 mmol, which is equivalent to PO4 13 mg of Na3PO4. The loss in weight of the disk due to the hot water treatment for 5 h was separately measured to be 13 mg, in good coincidence with the above value. This coincidence seems to support the assumption that Na3PO4 is dissolved from the NASICON disks. It seems that an impurity phase of Na3PO4, located at grain boundaries of NASICON, is segregated during the humid air treatment at low temperature.
+
+It was then tested what changes in CO2 sensing properties would result from the hot water treatment of NASICON disk. It was found that the hot water treatment for >1 h was not desirable, because it lead to a degradation in mechanical properties of the NASICON disks. The surface region tended to peel off easily when the electrodes were attached on, probably because of the dissolution of Na3PO4 from the grain boundaries. Thus, the test was carried out by using the NASICON disk treated in hot water for 1 h. The resulting device exhibited CO2 sensing properties very similar to the device using a fresh NASICON disk at 4508C, as shown in Fig. 11. The SE potential versus RE responded to changes in
+
+Fig. 11. CO2 sensing properties of the device using the NASICON disk treated with hot water for 1 h (before the humid air treatment).
+
+Fig. 12. Behavior of the potentials of sensingand counter-electrodes to continuous exposure to 200 ppm CO2 for the device using the hot water treated disk of NASICON (after the humid air treatment).
+
+CO2 concentration fairly sharply, obeying the Nernst slope corresponding to n  2. The device was then subjected to the humid air treatment at 508C for 3 days, to test the stability of the SE and CE potentials. As shown in Fig. 12, the SE potential to 200 ppm CO2 at 4508C was slightly unstable in this case, exhibiting a slow shift for the ®rst 2 days. In contrast, the CE potential behavior was much stabilized compared with that shown in Fig. 5. The CE potential just after the humid air treatment deviated by about 15 mV from the original level, and it shifted back to the original level almost completely in about 3 days. It is considered that the decrease of the CE potential shift would be due to a reduction of segregated Na3PO4 in this case. The reason for the slightly unstable behavior of SE potential is not clear at present. These results indicate that the hot water treatment is effective in stabilizing the CE potential behavior. However, this is at the cost of mechanical properties of NASICON as mentioned.
+
+4. Conclusion
+
+The NASICON disks usually prepared are not stable to exposure to humid air at low temperature (508C). Tiny deposits show up over the NASICON surface after the exposure for 3 days, and the deposits increases in amount and size with increasing exposure time. With subsequent heat treatment at 4508C, the initial tiny deposits formed by the 3 days exposure can eventually be dissolved back into the bulk of NASICON, but the deposits formed by longer exposures exhibited growth to needle-like crystals. The EPMA analyses and chemical analysis separately carried out suggest that the deposits can be identi®ed to be Na3PO4. It is considered that the Na3PO4 phase as an impurity of NASICON is segregated during the treatment. This segregation causes the NASICON-based CO2 sensing devices to suffer a degradation in CO2 sensing properties when exposed to the humid air at low temperature. With the construction where the Pt electrode contacts directly to the NASICON
+
+T. Kida et al. / Sensors and Actuators B 75 (2001) 179±187
+
+surface, the CE potential is vulnerable to the segregation of Na3PO4, while the SE potential can stay intact owing to the corrosion layer (BaZrO3) formed between NASICON and the carbonate phase. The use of NASICON disk treated with hot water for 1 h can stabilize the CE potential to the humid air treatment.

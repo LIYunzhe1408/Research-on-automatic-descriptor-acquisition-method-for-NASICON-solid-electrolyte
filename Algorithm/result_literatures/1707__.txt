@@ -1,0 +1,143 @@
+Stability of CO2 sensing performance was strongly influenced by additives to the auxiliary electrode layer for the sensor withCO2,Pt/Li2CO3/Na3Zr2Si2PO12/Pt structure.
+Use of a mixture of Li2CO3 with some metal oxide was effective to stabilize the response behavior,and a stable response was achieved in a shorter period for the as-prepared sensor.
+It is proposed that a layer composed of the oxide particles coveredwith carbonates acts as a stable diffusion boundary layer to separate an auxiliary electrode and the NASICON phase.
+The formation of the metaloxide covered with carbonate was also effective to increase the activity in the auxiliary electrode phase.
+The increase in the activity is contributedto the balance of the chemical potential and the electrostatic forces for the ions in the diffusion boundary layer.
+The increasing need of reliable and continuous monitoringof CO2 levels in the atmosphere has promoted the developmentof potentiometric sensors using an alkali ion conducting solidelectrolyte and an auxiliary phase on the measuring electrode.
+A potentiometric CO2 sensor with a Li2CO3 layer as anauxiliary electrode shows satisfactory performances with a fastresponse, appreciable sensitivity and gas selectivity.
+However,a lack of reproducibility and long-term stability was observed.
+In some cases, additional compounds were formed in thefabrication process and under humid conditions.
+
+To fabricate reproducibleand durable CO2 sensors, how to stabilize the ionic activityin the sensing and reference electrodes is the most importanttechnique.
+It has been reported that a use of Na2CO3 as anauxiliary electrode is not preferable for potentiometric CO2gas sensor, since the Na2CO3 layer is unstable especially underhumid conditions.
+To minimize the effect of humidity, the useof lithium carbonate and/or the eutectic point compositionof the mixture of carbonates have been proposed instead ofNa2CO3.
+Imanaka et al.reported that the CO2 gassensor using Li- and Ba-doped Nd2O2CO3 auxiliary electrodesshowed a reversible CO2 response and high stability againstwater vapor, since the Nd2O2CO3 has very low solubility.
+Even under dry conditions, some drift phenomenawere also observed and, in most cases, the EMF decreased withtime.
+It seems that these observed phenomena are due to thethird interlayer formation between an auxiliary electrode andthe electrolyte, NASICON.
+If the interlayer is well formed andstable, a preferable stability and reversibility of the sensingperformance may be achieved.
+To form a stable interlayerbetween an auxiliary electrode and the electrolyte, addingof some metal oxide to an auxiliary electrode is considered.
+In experimental, it was observed that the use of the mixtureof Li2CO3 and Al2O3 was effective to stabilize the sensingperformances.
+In this work, we studied about the adding effects ofmetal oxides on the sensing performances of the sensor withCO2,Pt/Li2CO3//NASICON/Pt structure.
+For preparation of NASICON (Na3Zr2Si2PO12), a stoichiometricmixture of Na2CO3, ZrSiO4, Na2HPO4 and H3PO4(0.705:1.34:0.30:0.37 in molar ratio) was heated at 400 ◦C for2 h and then at 1000 ◦C for 8 h, and then the ground powderswere heated again at 1000 ◦C for 8 h.
+After that a proper amountof a 3% polyvinyl-alcohol solution was added to the dried powdersas a binder.
+The mixtures were pressed into a disc at apressure of 1×108 Pa.
+The disc for a CO2 gas sensor was preparedby sintering at 1150 ◦C for 12 h.
+Pt paste (Tanaka MetalsCo.) as porous electrode was painted on both sides of the surfacetogether with Au wire and then heated at 600 ◦C.
+An auxiliaryelectrode layer was formed on the porous Pt electrode.
+Mixturesof Li2CO3 and a metal oxide of a 1:1 molar ratio were pulverizedand mixed under dry conditions by ball milling with a nylon potand Y-stabilized ZrO2 balls.
+The treated mixture with vaselinefor an auxiliary electrode material was coated on the surfaceand then dried in air.
+The structure of the CO2 sensing device isillustrated in Fig.1.
+Thermal studies for the mixture of Li2CO3 (99.9%) withcommercially available oxides were carried out with thermogravimetricalanalysis (TGA) and differential thermal analysis(DTA) in standard-air (<0.5 ppm CO2) and 100% CO2 at a heatingand cooling rate of 5 ◦C/min.
+For the examinations withXRD (Cu K) and SEM, the mixtures were heated in the rangeof 300–1000 ◦C for 2 h in standard-air and 100% CO2 atmospheres.
+EMF response was observed with a digital electrometerat 460 ◦C in ambient air (CO2 = 370 ppm) supplied from an aircompressor and in standard 10,000 ppmCO2 gas.
+This test usingambient air is suitable to examine the stability of CO2 gas sensors.
+Two test gases were alternately introduced into the testchamber in an interval of 30 min with a flow rate of 200 ml/min.
+The ambient air was naturally exposed to the reference electrode.
+Ionic conductivity of the 1:1 mixture of Li2CO3 and a metal oxide in disc form was determined with an impedanceanalyzer.
+After the forming, the EMF decreased with time andapproached to a steady state.
+The forming process is attributableto some irreversible processes, such as the reaction of Li2CO3with the contacted materials and the diffusion of alkali ions tothe contacted phases, resulting in an electrochemical connectionbetween the auxiliary and electrolyte phase.
+In this experiment,to ensure the constant activity at the reference electrode sideof the NASICON phase, a dense NASICON disc of 0.5mm inthicknesswas used.
+Thus, it is expected that the activities, arNa2Oand arNa+, in the NASICON layer remain constant.
+The difference of the characteristic values in 370 and10,000 ppm CO2 was confirmed over the measurement and theformer was lower than that of the latter especially for the sensorwith sole Li2CO3 as the auxiliary electrode.
+In the experimentalperiod, the characteristic values were gradually shifted and asteady state could not be achieved.
+The sensors with the auxiliary electrode of the mixture ofLi2CO3 and metal oxide, such as Al2O3, Y2O3 and Yb2O3, werealso examined.
+The characteristic values are shown in Fig.2. 
+By using the mixtures as an auxiliary electrode, the drift due to the“forming” of the sensor was also observed in a shorter periodthan that in the sole Li2CO3 case, and then the reversible andstable performance was observed.
+The drifts were the particular phenomena observed in the initial period when the temperatureraised from room temperature to the operating temperature forthe as-prepared sensor.
+The use of the mixture with metal oxideswas effective to achieve a steady state in a shorter period andthe difference of the characteristics in 370 and 10,000 ppm CO2 was smaller than that for the sensor with sole Li2CO3.
+NASICON is the most stable Na+-ion conductor but the reactivitywith Li2CO3 has not been studied.
+The structural changesphase of the NASICON was examined in standard-air by thermalprogrammed XRD analysis and the results are shown inFig.3. 
+The phase transition from monoclinic to rhombohedralwas observed between RT and 300 ◦C .
+The rhombohedralstructure was stable at 1000 ◦C and the transition from rhombohedralto monoclinic structure was confirmed without anydetectable deformations when the temperature changed from1000 ◦C to room temperature.
+In addition, the reversible phasechange was also confirmed in CO2. For the mixture of Li2CO3and NASICON, permanent deformations of NASICON wereconfirmed.
+The XRD results observed at room temperature ofthe mixture pre-heat treated at several temperatures are shownin Fig.4. 
+The phase transitions from monoclinic to rhombohedralbetween room temperature and 300 ◦C and from rhombohedralto monoclinic upon cooling to room temperature wereobserved.
+The heat treatment at 400 ◦C or higher temperaturesinduced irreversible changes in the XRD pattern.
+The differencesof the patterns observed at room temperature before andafter the heat treatments are also shown in Fig.5.
+With the aid ofthe published JCPDS date files: No.350412 (Na3Zr2Si2PO12,monoclinic), No.360351 (Na3.4Zr2Si2.4P0.6O12, rhombohedral)and No.370405 (Na4ZrSi3O10, hexagonal), the change from Na3Zr2Si2PO12 to Li-rich NASICON is interpretable.
+These observed results suggested that the NASICON mixed with Li2CO3 is not stable even at 460 ◦C, the operating temperature of the sensor.
+Unfortunately, the analytical determinationof the Li-content in the deformed NASICON phase could not beperformed.
+To confirm the deformations by Li2CO3, the mixtureof Na2CO3 and NASICON was also examined and similarchanges in the XRD pattern were confirmed.
+If the deformationsare due to the insertion of alkali ions, similar changes of the crystalstructure are expected for the mixtures with Na2CO3 also.
+Itis concluded that the NASICON is not so stable since Li-ionsare diffused to the NASICON phase, resulting in the irreversible deformations at the operating temperature of the sensor.
+The reactivity of Li2CO3 with some metal oxides was examined.
+Li2CO3 is reactive with some metal oxides.
+The reactivityand the resulting products were dependent on the metal elements,ambient and heat-treatment temperature.
+For the mixturewith Al2O3, the formation of LiAlO2 was observed at 700 and800 ◦C in air and CO2, respectively.
+The XRD and TGA resultssuggested the formed LiAlO2 was stable to 1000 ◦C in air andalso CO2. 
+The formation of LiYO2 and LiYbO2 was confirmedfor the corresponding mixtures at 900 ◦C in air, while such compoundscould not be detected when the mixtures were heated to1000 ◦C in CO2. 
+TG results in air and CO2 of the mixtures areshown in Fig.6. 
+The decomposition of Li2CO3 was observed attemperature higher than the melting point of Li2CO3 for bothmixtures in air.
+After the decomposition, LiYO2 and LiYbO2were formed.
+In the following cooling process, the weightremained constant and fairly agreed with the formation of theLi-contained oxides, LiYO2 and LiYbO2. 
+It should be noticedthat for these mixtures, Li2CO3 was stable even after melting inair.
+The stability of the formed Li-oxides was examined also byTGanalysis inCO2. In the heating process, an increase in weightstarted at 240 and 300 ◦C for LiYbO2 and LiYO2, respectively.
+The weight observed at 720 ◦C fairly agreed with the weightbefore the decomposition of Li2CO3. 
+The TG results in CO2suggested strongly that the LiYbO2 and LiYO2 were decomposedto Li2CO3 and single oxides at the operating temperatureof the sensor.
+Thermal programmed XRD was applied to followthe weight changes in CO2. The results are shown in Fig.7.
+For LiYbO2, the decomposition and formation of Yb2O3 wasstarted even at 200 ◦C and only the Yb2O3 phase was confirmedby XRD when the sample was heated at 300 ◦C.
+It is obviousthat the LiYO2 is easily decomposed to Y2O3 while the LiYO2is slightly stable than the LiYbO2. 
+For the mixture of Li2CO3and the metal oxide, the decomposition of Li2CO3 could notbe observed up to 950 ◦C in CO2. 
+The decomposition behaviorof the mixture was changed by the pre-heat treatment in CO2.
+The TG results in air are shown in Fig.8. 
+The heating of the asmixturein air resulted in the decomposition of Li2CO3 startedat 760 and 740 ◦C for Y2O3 and Yb2O3, respectively.
+For thepre-heat treated mixtures, the decomposition was started at 860and 820 ◦C, respectively.
+The enhancement of the decompositiontemperature suggested the existence of some special interactionsbetween Li2CO3 and the metal oxide surfaces.
+The formation ofcarbonate on the metal oxide surfaces is considered.
+If the carbonateis formed, Li2OinLi2CO3 may be interacted and resultedin the formation of some additives with Li2O.
+The heat-treatedmixed powders were examined with FT-IR.
+Fig.9 shows theFT-IR results at room temperature of the mixture of Li2CO3 andY2O3. 
+Several absorption bands due to Y–CO and Y–O–C–O2were detected for the mixture heated at 400 ◦C and higher temperatures.
+Similar absorption bands were also detected for theheat-treated mixture with Yb2O3. 
+The formation of the carbonateon the metal oxide may be also progressed at the operatingtemperature of the sensor.
+In the previous work, the sensing performances were examinedfor the sensor with CO2,Pt/Na2CO3//NASICON/Pt structure.
+When the temperature increased in stepwise, the EMFFig.9.
+ FT-IR spectra of the 1:1 mixture of Li2CO3 and Y2O3 pre-heated instandard-air and CO2 at the temperatures denoted in ◦C in the figure.
+changes were strongly dependent on the auxiliary phase materials.
+For the sensor with NaOH or NaHCO3 instead of Na2CO3,a large EMF was observed at 250 ◦C and the heating to a highertemperature resulted in the same level of the EMF observed forthe sensor with Na2CO3. 
+The NaHCO3 decomposed to Na2CO3at 270 ◦C.
+For the NASICON stored in ambient air, the surfaceof the disc may be covered with such compounds.
+The reactionof such compounds to Na2CO3 is considered as a reasonfor the EMF shift to decrease.
+For NASICON, the formationof Li-inserted NASICON was observed by heat treatments, asshown in Figs.4 and 5. 
+The diffusion of Na+-ions to the auxiliaryelectrode with Li2CO3 from NASICON has been reported .
+The diffusion of Na+-ions resulted an increase in the activityof the auxiliary electrode.
+Otherwise, these results also suggestthe possibility of the formation of a new interlayer between anauxiliary electrode and the electrolyte.
+Again, for the sensorwith sole Li2CO3 as an auxiliary phase, the EMF responded tothe changes of the CO2 concentration but the level of the EMFdecreased with time and any steady state could not be observedin the experimental period.
+It is known that the reforming ofthe auxiliary phase by adding Li2CO3 results in the recover ofthe sensing performances.
+It is strongly suggested that the reactionof Li2CO3 with NASICON is progressed at the operatingtemperature of the sensor and a loss of the auxiliary phase.
+The alkali ions are diffusible to each layer.
+The equilibriumstate of alkali ion’s distribution over the sensor is achievedwith time at a constant temperature.
+Conveniently, the formationof the third layer between the auxiliary and electrolytelayers is assumed.
+When the diffusion of the ions is in asteady/equilibrium state, a stable diffusion potential distributionis formed in the third layer.
+In this case, the newly formedlayer may act as a diffusion boundary.
+The diffusion boundarytakes a certain thickness and separation of the auxiliary phaseand the electrolyte is well progressed.
+The stable diffusion boundary is formed under the balanceof the slope of the chemical potential between the interlayer andthe electrostatic forces for the ions.
+The thickness of the diffusionboundary layer depends on the difference of the chemicalpotential to balance the electrostatic forces.
+Under the equilibriumcondition, the diffusion potential is determined only by thedifference of the activities of alkali ions and not influenced bythe thickness of the layer.
+It is realized that the gradual shift ofthe EMF to decrease is corresponded to the formation of thestable diffusion boundary.
+If the electrostatic forces for the ionstake a constant value, the thickness of the diffusion boundaryis proportional to the difference of the activity.
+To balance, theactivity in the auxiliary electrode layer increases.
+For the mixtures of Li2CO3 and metal oxides, the thermaltreatment induced the formation of carbonate on the metal oxidesurfaces.
+The alkali oxides, Li2O in Li2CO3 and Na2O in NASICON,interact with the carbonate groups formed on the metal oxide surfaces, resulting in the formation of some additives withalkali ions.
+When such additives are formed, the formed layermay act as a diffusion boundary.
+In this case, the activity inthe auxiliary phase is controlled by the interface of Li2CO3and the Li-contained carbonate formed on the metal oxides andalso by the CO2 concentration.
+The heat treatment at temperatureshigher than 800 ◦C induced the formation of LiYO2 andLiYbO2, while the formed Li-oxide decomposed at the operating temperature to Li2CO3 and metal oxide in CO2 containedambient.
+It seems that the formation of the Li-metal oxides isnot progressed at the operating temperature of the sensor andthe surface of the oxide is covered with carbonates.
+A highreactivity of Li2CO3 with metal oxides is related to the concentrationof defects due to the formation of Li2Oand/or LiOH.
+Thedecomposition of Li2CO3 may be progressed when the defectconcentration increases to a critical concentration.
+If the metaloxide particles are covered with carbonate, the Li2O is easilyinteracted with the surface carbonates on the oxides (formationof additives with Li2O) and stabilized.
+As a result, the formationof Li2O is depressed.
+In addition, NaHCO3 and NaOH formedon the electrolyte are also reactive with the carbonate formed onthe metal oxides.
+The EMF level in a steady state was decreased by the addingof metal oxides, as shown in Figs.2 and 3.
+ The decrease inthe EMF corresponds to an increase in the activity of the auxiliaryelectrode.
+Separately, the conductance of the compresseddisc of Li2CO3 mixed with and without metal oxides was examinedwith an impedance analyzer.
+The mixing of metal oxidesinduced a decrease in the activation energy of ionic conductivity:1.38 eV (Li2CO3), 0.93 eV (Li2CO3–Yb2O3), and 1.14 eV(Li2CO3–Y2O3).
+Lower activation energy suggests higher activityof Li+-ions.
+The increase in the activity is also effective todecrease the difference of the ionic activity between auxiliaryelectrode and NASICON layers and to balance the slope of thechemical potential between the interlayer and the electrostaticforces for the ions in a shorter period.
+To develop or improve a potentiometric CO2 gas sensor withPt/Li2CO3/NASICON/Pt structure, the adding of some metaloxides as a Li2CO3 stabilizer was considered.
+When sole LiCO3 was used as an auxiliary electrode material, a gradual decreasein the EMF level was observed after the forming.
+By using themixture of Li2CO3 with metal oxides, a stable and reversibleresponse performance was achieved in a shorter period than inthe case of the sole Li2CO3. 
+By mixing of Li2CO3 with a metaloxide, the surface of the oxide was covered with carbonate.
+Theformed carbonate may be interacted with Li2O in the Li2CO3phase and depressed the reaction and diffusion of the Li2O withand to the electrolyte phase.
+The formed layer composed of themetal oxides covered with carbonate acts as a stable diffusionboundary layer.
+It is most probable that the drift of the EMFapproaching to a steady state is due to the development of the diffusion boundary to balance the chemical potential and theelectrostatic forces for the ions.

@@ -1,0 +1,94 @@
+Lithium containing sodium superionic conductors of composition LiSbMPO43 M=Al, Cr, andFe were prepared by solid-state method and were characterized by powder x-ray diffraction andinfrared spectroscopy.
+All compounds were found to crystallize in rhombohedral lattice with spacegroup R3¯c.
+They show characteristic PO4 vibrational bands.
+The dc conductivity and ac impedancestudies of all these samples correlate well in terms of activation energy of conduction Ea.
+TheCole-Cole plots do not show any spikes on the lower frequency side, indicating negligible electrodeeffects.
+The activation energies obtained from the plots of log dc vs 1/T and log 0 vs 1/T areapproximately the same suggesting conducting species to be mobile lithium ions.
+The peak width athalf maximum for modulus plots log f vs M is 1.34 decades for LiSbMPO43 M=Al, Cr, andFe, which is close to 1.14 decades observed for a Debye solid.
+The heights of M obtained from theexperimental plots are close to that of Mmax=C0/2C, confirming the Debye nature of thesesamples.
+Compounds having high Li+ conductivity have attractedmuch attention due to their potential application as solidelectrolyte in solid-state lithium batteries.
+ A lithium batteryis the most promising one due to its high energy densityand negative electrochemical potential.
+The energy densityof lithium battery is about ten times higher than that of conventionalnickel-cadmium rechargeable battery.
+The commerciallyavailable lithium batteries use liquid electrolyte,which is vulnerable for leakage and corrosion.
+This problemcan be addressed by using a solid lithium compound havingsuitable conductivity.
+Among the different classes of compoundswith reasonable Li+ conductivity, framework phosphatesbased on sodium superionic conductor NASICONstructure have been exploited for various applications.
+Theinterest in NASICON type of compounds stems from the followingproperties: large ionic conductivity, high temperaturestability, low thermal expansion behavior, and large surfacearea.
+Compounds with the formula LiM2PO43 with M=Ge, Ti, Sn, Zr, and Hf have been extensively studied fortheir ionic conductivity and thermal expansion behavior.
+It is observed that the low conductivity of LiM2PO43 canbe improved by a increasing the lithium content and simultaneouslyreplacing tetravalent M with trivalent M ions suchas Al3+, Fe3+, and Cr Refs.3, 17, 18, 20, and 22–25 or bthe addition of salts such as Li3PO4, Li3BO3, etc.
+Forexample, the system Li1+xTi2−xAlxPO43 exhibits a high conductivity710−4 S cm−1 at 25 °C and a low activationenergy Ea=0.2–0.3 eV for x=0.3.19,26,31 Gopalakrishnanand co-workers have investigated lithium-ion conduction ofmixed metal NASICON phases of formula LiMVMIIIPO43,where MV=Nb, Ta, and V and MIII=Al, Cr, and Fe.
+Among these compositions, TaVMIII members show a higherconductivity than NbVMIII.
+Among TaVMIII containing members,the TaAl compound, LiTaAlPO43, which has thesmallest cell volume 1315 Å3 shows highest total ionicbulk plus grain boundary conductivity  =6.510−7 and1.010−2 S cm−1 at 30 and 350 °C, respectively with lowestEa=0.47 eV.
+ Aono et al.recently studied ionic conductivityof Li3−2xCr2−xTaxPO43 systems x=0–1.2.
+35 Themaximum conductivity of 8.410−6 S cm−1 at 298 K is obtainedfor Li1.4Cr1.2Ta0.8PO43, and the conductivity ofLiCrTaPO43 is enhanced about three to five times by theaddition of the lithium salt due to the improvement of thesinterability.
+
+The systems havingcomposition LiMVMIIIPO43 MV=Sb, MIII=Al, Cr, andFe are not reported so far.
+
+Powder x-ray diffractogramsare recorded using Philips Xpert analytical x-ray diffactometer.
+Nickel filtered Cu K radiation of wavelength1.5406 Å is used.
+X-ray diffraction XRD patterns are indexedand lattice parameters are calculated.
+Theoretical andexperimental densities are calculated using lattice parametersand physical dimensions, respectively.
+Infrared spectra arerecorded in the form of KBr pellets using JASCO FT/IR-5300 spectrometer.
+The dc conductivities in the temperature range of30–300 °C are measured using a two-probe method on thesintered pellets coated with silver paint.
+A conventionalsample holder and Keithley electrometer 610C are used.
+Thecomplex impedance of the sample between inert electrodes ismeasured using AutoLab PGSTAT-30 low frequency impedanceanalyzer in the frequency range from 50 Hz to 5 MHz.
+The low frequency impedance analyzer is interfaced to acomputer for automated acquisition of the data at desiredfrequency and temperature.
+The powder x-ray diffractograms of all these compoundsare shown in Fig.1.
+ It is seen from these figures that allcompositions are of single phase with no detectable impurityand all the patterns are found to be isomorphous lithium andsodium analogs of the same NASICON frameworkreported.
+Assuming hexagonal lattice, the unit cell parametersare calculated using least squares fit of powderXRD patterns.
+The observed and calculated d spacings forLiSbMPO43 M=Al, Fe, and Cr are presented in Table I.
+The lattice parameters thus obtained for all the compoundsare presented in Table II, along with the reported lattice parametersof other similar compositions for a comparison.
+The IR spectra of LiSbMPO43 M=Al, Fe, and Cr inthe range of 1600–400 cm−1 are shown in Fig.2. 
+All thecompounds exhibit strong absorptions below 1500 cm−1.
+Generally the vibrational modes of NASICON phases can beassigned to PO4 tetrahedra internal and external modes andto lattice modes of metal octahedra.
+Of these, the bands correspondingto PO4 unit are more prominent than metal octahedra.
+The assignments for the observed bands have beenmade based on the predictions of factor group analysis.
+
+
+The band positions and the corresponding assignmentsare given in Table III for all three compounds.
+Theabsence of IR bands in the region of 740–730 cm−1 and wellabove 1200 cm−1 proves the absence of pyrophosphateP2O74− impurity and long phosphate chains,respectively.
+ Similar types of spectra are obtained forsodium and lithium analogs.
+To improve the fitting, the above equation ismodified by including background conductivity not dependableon temperature.
+It may be observed that b values are muchsmaller than the value of 0 at least by three orders.
+Thisvariation of b may be attributed to the electrical characteristicsof the differentiating ions present in the samples.
+As shown in Fig.3, the variation of log vs 1000/T islinear and all the samples exhibit a single slope in the temperatureregion studied indicating the absence of any phasetransition.
+Among the systems investigated, LSFP shows thehighest conductivity =3.1910−4 S cm−1 while LSAP shows lowest conductivity =4.3610−5 S cm−1 at350 °C.
+At any given temperature, the conductivity of thesesamples follow the order LSFPLSAPLSCP.
+The activationenergies of conduction for all compositions are listed inTable IV along with their dc conductivities at 150 and350 °C.
+The activation energies fall in the range of0.4–0.7 eV.
+These values compare well with the reportedactivation energies of similar high temperature solidelectrolytes.
+The impedance data are obtained for all the samples inthe temperature range of 30–300 °C and in the frequencyrange of 102–106 Hz.
+The impedance behaviors of LSAP,LSCP, and LSFP are found to be similar and presented below.
+The impedance data for LSFP are represented in Cole-Cole plots of real Z and imaginary Z parts of impedanceFig.4.
+ The inverse of peak frequency relaxations time  for dipole relaxation as a function of temperature is shownas log   vs 1000/T in Fig.5. The straight-line variation ofthis graph indicates Debye-like behavior50,51 of dipoles responsiblefor the peak in Z versus frequency plots.
+The relaxationtime of dipoles is found to decrease with increase inthe temperature.
+The calculated activation energy for relaxationis 0.65 eV.
+The complex impedance plots does not show semicirclesup to 50 °C, but as the temperature increases the curvesattain greater curvature and become perfect semicircles atand above 100 °C.
+All these plots terminate at the originindicating the absence of series resistance in the equivalentcircuit model of the sample.
+All the semicircles start on thereal impedance axis at the lowest frequency.
+This impedanceat the lowest frequency is found to decrease with increase inthe temperature.
+This behavior of Cole-Cole plots is characteristicof conducting nature of the samples, and hence it maybe concluded that there is no series capacitance in theequivalent circuit representation of the sample.
+The radius ofthe semicircles is decreasing with increase of temperaturesindicating the decrease in relaxation time of the relaxing speciesas borne out by frequency explicit plots.
+Low frequencyintercepts of these semicircles on real axis give the resistanceof the sample at the temperature of the Cole-Cole plots.
+Theconductivity of all the samples is calculated from these interceptsand plotted as a function of inverse of temperatureon semilog scale Fig.6.
+The activation energy of conductivityfrom these plots for LSFP is 0.53 eV.
+This is observedto be very close to the activation energy of relaxation of0.65 eV within the experimental errors Table IV.
+It mayalso be mentioned that the variation of activation energy forac conductivity follows the order LSFPLSCPLSAP,which is the same as that observed for dc activation energy,confirming its dependence on the cell volume and the natureof M atom constituting M2PO43 framework.
+The frequency variation of conductivity Fig.7 forLSFP shows two slopes at all the temperatures of the presentmeasurements.
+The low frequency and low temperature conductivitycould be because of the intrinsic defects and chargeagglomerations present in the sample.
+The variation of slopeof conductivity plots at lower frequency is an indication ofthe presence of such defects.
+To understand the electrical microstructure of the pelletsand to find out whether the overall pellet resistances representedthe bulk résistance of the grains or a contribution ofgrain boundary and other external parameters such as electrodeeffects, the experimental data are replotted as theimaginary parts of the impedance Z and electric modulusM against log frequency, as shown in Fig.8. 
+The data showsingle peak in both Z and M spectra separated by less thanhalf a decade of frequency.
+The peak width at half height isabout 1.30 decades, which is close to 1.14 decades expectedfor the Debye peak.
+50,51 The height of M peak at varioustemperatures is found to be in the range of 0.0045–0.0054.
+The calculated Mvalues from the above equation are found to be very close tothe observed values Table VIa—VIc confirming theDebye-like behavior of the present lithium NASICONS.
+SinceZ and the M peaks are almost coincident and there is noevidence of any additional peaks at lower frequencies in the Z spectrum, the observed results represent bulk conductivities.
+Similar impedance and modulus spectroscopy data wereobserved for LSAP and LSCP Table VIa—VIc.
+The lithium NASICONS of composition LiSbMP3O12 M=Al, Cr, and Fe crystallize in rhombohedral lattice of NASICONframework.
+All these samples show characteristic PO4vibrations.
+The activation energies obtained from dc conductivitiesare in the range of 0.5–0.7 eV.
+The room temperaturedc conductivity dc and dc conductivity obtained from impedance0 agree well.
+The samples LSAP, LSCP, andLSFP show similar ac impedance characteristics with negligiblegrain boundary contribution within the frequency rangestudied.
+The activation energies of LSFP obtained from ifrequency explicit log	max versus inverse of temperatureand ii Cole-Cole log fmax versus inverse of temperatureplots are of the same order.
+All the Cole-Cole plots terminateat the origin indicating the absence of series resistance in theequivalent circuit model of the sample.
+The presence of asingle peak in the plots of both log f vs Z and log f vs Mindicates bulk conductivity and absence of any grain boundarycontribution to impedance.
+The height, full width at halfmaximum of the Mmax peak, and near coincidence of theMmax and Zmax peaks in these plots suggest the Debye behaviorof these samples.

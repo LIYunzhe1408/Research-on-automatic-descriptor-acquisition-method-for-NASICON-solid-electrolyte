@@ -1,0 +1,77 @@
+Often the paramagnetic defects have importantimpact on the nuclear relaxation even in the “nominally” puresamples.
+
+ These effects show themselves either by the nearestneighbors only or by the dipolar long-range interaction.
+
+Theformer are addressed in this paper in which we built a model forcalculation of T1, T1Q, T2, T1ρ when there isor nota residualquadrupolar interaction.
+
+This model shows that the maxima of R2= 1/T2 and R1ρ = 1/T1ρ are shifted toward the low frequencies(low temperatures with regards to the one of R1 = 1/T1), themaximum of R1ρ is shifted toward the low frequencies withregards to the one of R2, and this model is general and can beapplied to any system which relaxes by transferred hyperfineinteraction.
+
+ This model was applied to Li1.3Al0.3Ti1.7(PO4)3.It accounts for all the experimental results of T1 (6Li), T1 (7Li), T1Q(7Li), T2 (7Li), and T1ρ (7Li) which were used to highlight local dynamic properties of the lithium versus temperature.
+
+Theanalysis of these results allows us to conclude that inside the natrium superionic conductor (NASICON) framework the lithiumundergoes an anisotropic motion, evidenced both with the residual quadrupolar interaction and the measures of the relaxationtimes, and the relaxation of the lithium is mainly due to the hyperfine transferred fluctuations.
+
+Thus, the motion drives thelithium ions in the neighborhood of the oxygens, and these dynamical results allow confirming structural aspects concerning theconducting pathways.
+
+In part I of this work (10.1021/acs.jpcc.6b06764), structuralaspects of the modified system Li1+xAlxTi2−x(PO4)3 (with theacronym LATP) was reported.
+
+ Li1.3Al0.3Ti1.7(PO4)3 belongs tothe rhombohedral symmetry (space group R3̅c, Z = 6) which istypical for NASICON (natrium superionic conductor)structure.
+
+ The lattice parameters of Li1.3Al0.3Ti1.7(PO4)3 are a= 8.5098 Å and c = 20.8305 Å.
+
+The main results of the first part were (i) the synthesis ofsamples with Al3+/Ti4+ substitution exclusively on theoctahedral site of the NASICON framework (Figure 2b ofpart I) and (ii) the characterization of the environment of theions in the lattice.
+
+We have shown that the aluminum andphosphorus environments are disordered and these two ionsare sensitive to the motion of the M(IV)(PO4)3 NASICONskeleton.
+
+In both static and magic angle spinning (MAS)modes, a well-resolved quadrupolar structure is observed on 7Lispectra evidencing only one chemical site, while the chemicalformulation enforces at least two crystallographic sites.
+
+Thisphenomenon together with the increase at increasing temperature of the quadrupolar parameter CQ (Figure 4d of part I) isexplained by the motion of lithium ions in the neighborhood ofoxygen planes formed between the M(IV)(PO4)3 columns along the c⃗axis.
+
+This motion gives a so-called axis 3 to the 7Liquadrupolar tensor.
+
+This part II is devoted to the analysis of lithium dynamics inthe Li1.3Al0.3Ti1.7(PO4) sintered ceramic sample studied in partI.
+
+These experimental studies mainly consist in the measurements, versus temperature, on one hand of the differentrelaxation times of the Zeeman energy (Zeeman order) T1Z =T1, T2, T1ρ, for 7Li and T1 for 6Li, and on another hand, of thequadrupolar energy (quadrupolar order) characterized by therelaxation time T1Q.
+
+In a first step we show that the relaxation isdue to hyperfine transferred fluctuations.
+
+In the second step webuild a model which allows calculating T1, T2, T1ρ, T1Q.
+
+This setof dynamical parameters was used to bring new insight on thelocal lithium properties.
+
+These dynamical results allowconfirming structural aspects established in part I: the motionof lithium ions in the neighborhood of oxygen.
+
+This work was devoted to the Li+ local dynamics inLi1.3Al0.3Ti1.7(PO4)3 studied by NMR of 6Li and 7Li.
+
+Ourexperimental data concern the relaxation times T1, T1Q, T2, T1ρfor 7Li, T1 for 6Li.
+
+They all show a single contribution that ledus to analyze these results within a diffusion mechanism (spinand/or particle).
+
+We then developed a model of relaxation byhyperfine (transferred and dipolar) fluctuations with residualquadrupolar interaction for these four relaxation times.
+
+Withthis model we were able to account for all the 7Li experimentaldata and in particular for the shift of the R2 maximum withregard to the one of R1 on one hand, and the shift of the R1ρmaximum with regard to that of R2 on another hand.
+
+Nevertheless, to adjust the shift of the maximum R2 withregards to the maximum of R1 we needed to introduceanisotropy in the correlation times of the hyperfine fluctuations.
+
+This was suggested by the anisotropy of the ESR line widths.
+
+Moreover, within this model we obtain a concentration ofparamagnetic defects, responsible for the relaxation bytransferred hyperfine fluctuations, consistent with the ESRresults.
+
+This model accounts also for results obtained at otherfrequencies (see Supporting Information).
+
+The random walk with uncorrelated jumps seems to besufficient in the temperature range under consideration.
+
+Finally,the shift of the maximum of R1ρ with regard to that of R2 wouldseem to be a characteristic of the relaxation by the hyperfinefluctuations.
+
+The results obtained on the dynamics of the lithium alsobring us an overview of the position of this ion in the structure.
+
+By other techniques (neutron and X-ray diffractions) it isdifficult to obtain the position of this ion.
+
+Our results show thatlithium ions travel through the structure passing near oxygenswith which they establishor nottransferred hyperfinecouplings as the oxide ion possessesor not transferredelectronic hole.
+
+It is worth noting that actually, as we shall alsosee it in the part III, the dynamic studies of three nuclei (7Li, 31P, 27Al) also allow establishing results concerning thestructure and the way it favors lithium motion.
+
+Finally we would like to point out that, in a recent article,Vinod Chandran et al.
+
+presented some interesting resultsconcerning, in particular T1(7Li) and T1ρ(7Li).
+
+Nevertheless,the samples on which they carried out their measurementspresented some aluminum in a tetrahedral site, and theformulation x = 0.

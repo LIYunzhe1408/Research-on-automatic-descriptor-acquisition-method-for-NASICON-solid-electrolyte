@@ -1,0 +1,98 @@
+Although lithium-ion batteries are recognized as the most suitable power source for electric vehicles, they continue to pose a severe safety issue mainly arising from the use of flammable electrolytes. 
+To improve safety, various types of solid electrolytes are explored as potential alternatives due to their non-flammability, high stability, and a wide electrochemical window. 
+In particular, Li1+xAlxGe2-x(PO4)3 (LAGP) has many strengths such as a high total Li+ conductivity and low sensitivity against Li metal anode. 
+Despite these benefits, practical use of LAGP is hindered by a significant loss of total Li+ conductivity due to large grain boundary resistance and interfacial resistance. 
+As an effective way to increase the total Li+ conductivity of LAGP, we propose microstructural engineering with the structural modifiers (B2O3 and Bi2O3) with different functionalities. 
+During synthesis, B2O3 facilitates the grain growth of LAGP, thereby reducing the number of grain boundaries. 
+At the same time, Bi2O3 promotes the densification of LAGP with the advancement of its structural integrity. 
+As a result of synergetic effect, the total Li+ conductivity of LAGP can be effectively improved at room temperature. 
+Lithium-ion batteries (LIBs) have been successfully utilized as a universal power source for various mobile electronics owing to their high energy and power densities. 
+Recently, the applications of LIBs have been extended to electric vehicles and large-scale energy storage systems. 
+Unfortunately, current LIBs suffer from a significant safety issue arising from the use of flammable and volatile liquid electrolytes. 
+Recently, much attention has been devoted to the development of all-solid-state batteries (ASBs) employing solid electrolytes (SEs) instead of the liquid electrolytes currently available. 
+The ASBs offer many advantages over conventional LIBs in terms of safety, reliability, and achievable energy density. 
+Thus, SEs should meet the technical requirements as follows: i) a high total Li+ conductivity; ii) a wide electrochemical window; iii) a good interfacial contact with active materials; iv) a high stability against moisture and air; and v) an efficient synthesis route.
+During the last decade, various types of SEs with diverse crystal structures such as NASICON (Na superionic conductor), Li2S-based glass, garnet, and perovskite have been explored for practical use in ASBs. 
+The poor structural stability against moisture and difficulty in the synthesis of sulfide-based SEs remain open problems. 
+In particular, NASICON-type Li1+xAlxTi2-x(PO4)3 (LATP) has shown attractive features of a relatively high Li+ conductivity in bulk due to three-dimensional (3D) Li+ conduction pathways in the structure. 
+However, the facile reduction of Ti4+ to Ti3+ by reacting with a Li metal anode is recognized as a critical drawback. 
+In light of this issue, Li1+xAlxGe2-x(PO4)3 (LAGP) with a NASICON-type structure, in which Ti is substituted by Ge, has been developed as a potential candidate. 
+Unlike LATP with a limited electrochemical window, LAGP offers a relatively broad electrochemical window due to the insensitivity of Ge4+ against metallic Li. 
+Despite these advantages, the achievable Li+ conductivity of LAGP is still limited by high grain boundary resistance from the blocking effect and interfacial resistance due to the poor contact between LAGP crystals, which hinders practical use of LAGP in ASBs.  
+For this purpose, B2O3 facilitates grain growth of LAGP, leading to a reduction in the number of grain boundaries to act as a bottleneck for Li+ conduction. 
+In addition, Bi2O3 is effective for enhancing the structural integrity of LAGP crystals through densification by filling the free space between LAGP crystals, reducing interfacial resistance. 
+Our approach will enhance the total Li+ conductivity of oxide-based SEs and, by extension, improve the electrochemical performance of ASBs as future energy storage systems. 
+Polycrystalline LAGP was prepared by the Pechini method using citric acid, followed by a sintering process at 850 degree C. 
+Citric acid (27.2 g, C6H8O7, >= 99.5%, Aldrich) was dissolved in ethylene glycol (300 ml, C2H6O2, 99.5%, JUNSEI), and then lithium nitrate (0.6636 g, LiNO3, >= 99%, Aldrich), germanium ethoxide (2.5288 g, Ge(OC2H5)4, >= 99.95%, Aldrich), aluminum nitrate (0.9378 g, Al(NO3)3·9H2O, >= 98%, Aldrich), and ammonium dihydrogen phosphate (2.1568 g, NH4H2PO4, >= 98%, Aldrich) were added to the solution under continuous stirring. 
+After heating to 200 degree C to induce the sol-gel reaction, the gel was calcined at 350 degree C for 24 h until the color became black. 
+The resulting powder was pelletized and placed on the Pt mesh for sintering at 850 degree C for 6h. 
+For microstructural modifications, boron oxide (B2O3, 99%, Aldrich) and bismuth oxide (Bi2O3, 99.999%, Aldrich) were added after the sol-gel reaction, and then the precursors were sintered at 850 degree C for 6 h.  
+The morphologies and microstructures of as-prepared LAGP were examined by field-emission scanning electron microscopy (FESEM, JEOL JSM-7000F) and transmission electron microscopy (TEM, ARM-200F, JEOL) combined with an energy dispersive X-ray spectroscopy (EDS). 
+Moreover, powder X-ray diffraction (XRD, Empyrean, PAN analytical) and X-ray photoelectron spectroscopy (XPS, K-Alpha, Thermo Scientific) were conducted for identification of the phase and chemical states of the materials. Based on the Scherrer equation and Archimedes’ principle, the crystallite sizes and relative densities of LAGP were carefully estimated. 
+AC-impedance spectra and linear scanning voltammetry (LSV) profiles were recorded using a potentiostat (SP-240, Bio-Logic) at 25 degree C. 
+LSV measurements used a cell (stainless-steel || LAGP || Li) in which stainless steel served as the working electrode and Li metal as the counter and reference electrodes. 
+The experiments were conducted at a scan rate of 10 mV s-1 in a voltage range from 2.0 to 7.0 V. 
+The electrochemical performance of the ASB (Li || LAGP || NCM) cells was evaluated in a voltage range of 2.5 to 4.2 V with different current densities of 0.2, 0.5, 1.0, 3.0, and 5.0C (1C = 170 mAh g-1) at 65 degree C.  
+Fig. 1 describes the synthesis of LAGP via the Pechini method followed by sintering at a temperature of 850 degree C. 
+In principle, the total Li+ conductivity of LAGP is mainly determined by the sum of i) grain boundary resistivity or interfacial resistivity and ii) bulk resistivity toward Li+ migration.
+From a materials perspective, it is essential to minimize both types of resistance induced by the microstructure of LAGP to achieve high total Li+ conductivity. 
+B2O3 is applied to the sintering process to facilitate grain growth of LAGP and reduce the number of grain boundaries as barriers for Li+ conduction. 
+Separately, Bi2O3 is introduced in the synthesis of LAGP to reduce the interfacial resistance between particles. 
+The relatively low melting point of Bi2O3 allows this melted material to fill the free spaces between LAGP crystals, leading to effective densification. 
+By a synergetic effect of B2O3 and Bi2O3, the resulting product (B2O3-Bi2O3-LAGP) has a larger grain size and improved structural integrity. 
+It is expected that this microstructural engineering using structural modifiers (B2O3 and Bi2O3) will enhance the total Li+ conductivity of LAGP by minimizing grain boundary resistance and interfacial resistance.   
+Fig. 2a compares powder XRD patterns of LAGP SEs prepared with different structural modifiers. 
+The results confirmed that all reflections of as-prepared LAGP are well-matched with those of the NASICON structure (JCPDS 80-1922) composed of LiGe2(PO4)3 frameworks containing AlPO4 (21.8, 28.2, 35.9 degree ) and Li2O (20.5 degree ) as secondary phases. 
+There was no sign of additional impurities in the magnified XRD patterns (Fig. 2b), indicating that the structural modifiers do not significantly affect the crystal structure of LAGP during synthesis. 
+This is because B2O3 is amorphous in nature and volatile at high temperatures. 
+In addition, the crystalline Bi2O3 is melted and transformed into a glass phase with an amorphous structure between LAGP particles. 
+Based on compositional screening, the optimum concentrations of B2O3 and Bi2O3 were 5.0 and 2.0 wt%, respectively (Figs. S1 and S2). 
+To elicit a synergetic effect, we prepared LAGP with both B2O3 (5.0 wt%) and Bi2O3 (2.0 wt%) at the optimized conditions. 
+As expected, there was no difference in the XRD pattern of B2O3-Bi2O3-LAGP and that of LAGP prepared with different structural modifiers. 
+To examine the effects of structural modifiers, we calculated the average crystallite size of each LAGP from the XRD patterns using the Scherrer equation. 
+After sintering with B2O3 and Bi2O3, we found grain growth of B2O3-Bi2O3-LAGP, which was mainly induced by B2O3 addition but was not nearly as effective as B2O3-LAGP. 
+On the other hand, we compared the relative densities of as-prepared LAGP pellets measured by Archimedes’ principle (Fig. 2d). 
+Bi2O3-LAGP and B2O3-Bi2O3-LAGP exhibited slightly higher relative densities compared with pristine LAGP and B2O3-LAGP. 
+This indicates that the addition of Bi2O3 is effective for increasing the relative density of LAGP, indicating that the densification of LAGP can be promoted by filling the free space with glass-phase Bi2O3. 
+The morphologies of as-prepared LAGP with different structural modifiers were investigated by FESEM, as shown in Fig. 3. 
+According to the FESEM observations, cube-like LAGP crystals were well developed during the synthesis, as previously reported. 
+There is no difference in the shape of LAGP crystals engineered by the structural modifiers. 
+A similar morphological change was found in the FESEM observation of B2O3-Bi2O3-LAGP (Fig. 3d). 
+In contrast, strong signals for Bi were detected at the free spaces between B2O3-Bi2O3-LAGP crystals rather than inside the crystals (Fig. 3g). 
+This result reveals that densification of B2O3-Bi2O3-LAGP was effectively promoted by filling the free spaces between crystals with glass-phase Bi2O3. 
+It would be helpful to minimize grain boundary resistance and interfacial resistance for Li+ conduction in B2O3-Bi2O3-LAGP.  
+Furthermore, the microstructure of B2O3-Bi2O3-LAGP was characterized using TEM, combined with EDS. 
+Cube-like B2O3-Bi2O3-LAGP crystals are interconnected in the secondary particle, in which a strong signal for Bi is mainly detected at the interface between LAGP crystals. 
+This suggests that glass-phase Bi2O3 plays a role in connecting LAGP crystals as well as filling the free space between LAGP crystals. 
+There is no significant chemical transition induced by the addition of B2O3 and Bi2O3 during synthesis, which agrees with the XRD analyses as discussed above. 
+The results confirm that B2O3 and Bi2O3 are fully utilized as structural modifiers in the tailored microstructure of B2O3-Bi2O3-LAGP after sintering at 850 degree C. 
+To investigate the correlation between microstructure and total Li+ conductivity of LAGP prepared with different structural modifiers, AC-impedance spectra were carefully obtained at 25 degree C. 
+Pristine LAGP exhibits a total Li+ conductivity of 8.4 * 10-5 S cm-1, and the corresponding impedance plot indicates that the impedance at grain boundaries and interfaces is a predominant factor of total Li+ conductivity (Fig. 5b). 
+After structural modifications, B2O3-LAGP exhibits a total Li+ conductivity of 2.4 * 10-4 S cm-1 (Fig. 5c), higher than that of pristine LAGP, which is mainly attributed to grain growth of LAGP. 
+As presented in Fig. 5e, B2O3-Bi2O3-LAGP shows the highest value of total Li+ conductivity (3.4 * 10-4 S cm-1) by combining the benefits of grain growth and densification. 
+Such improvements are mainly attributed to the tailored microstructures reducing the number of grain boundaries and enhancing the structural integrity.  
+To examine the feasibility of B2O3-Bi2O3-LAGP, ASB cells were configured with a commercial LiNi0.6Co0.2Mn0.2O2 (NCM622) cathode and a Li metal anode (Fig. S3). 
+Prior to the electrochemical tests of ASB cells, the electrochemical stability of B2O3-Bi2O3-LAGP was examined by an LSV technique. 
+The measurements were swiftly conducted at a scan rate of 10 mV s-1 at 25degree C in a voltage range from 2.0 to 7.0 V vs. Li/Li+ (Fig. S4). 
+We confirmed that B2O3-Bi2O3-LAGP does not have an undesirable side reaction in the given voltage window. 
+Fig. 6 shows the electrochemical performance of ASBs employing pristine LAGP and B2O3-Bi2O3-LAGP SEs tested in a voltage range from 2.5 to 4.2 V at different current densities of 0.2, 0.5, 1.0, 3.0, and 5.0 C (1C = 170 mAh g-1). 
+For comparative purposes, a cell was also assembled with a conventional liquid electrolyte (1M LiPF6 dissolved in ethylene carbonate (EC) and ethyl methyl carbonate (EMC) with a volumetric ratio of 3:7) as a reference.  
+Fig. 6a shows galvanostatic charge and discharge profiles of ASB assembled with pristine LAGP, in which the capacity of the cell was rapidly reduced along with an increase of current density. 
+This is mainly attributed to the relatively lower total Li+ conductivity of pristine LAGP compared with the commercial liquid electrolyte (Fig. S5). 
+Compared with the pristine LAGP cell, the B2O3-Bi2O3-LAGP cell with a tailored microstructure offers much higher capacity retention even at a high current density of 5.0 C (Fig. 6b). 
+This is because the relatively higher total Li+ conductivity of B2O3-Bi2O3-LAGP induced by microstructural modification directly affects the performance of ASBs. 
+Unfortunately, it still showed continuous capacity fading at high current densities due to limited total Li+ conductivity. 
+Thus, further improvement in total Li+ conductivity and optimization of cell configuration are required for practical use of LAGP in ASBs. 
+On the other hand, Fig. 6c shows the cycle performance of ASBs configured with pristine LAGP and B2O3-Bi2O3-LAGP at a constant current density of 0.2C during 50 cycles. 
+The ASB with pristine LAGP exhibited a continuous capacity loss during cycles. 
+In contrast, the B2O3-Bi2O3-LAGP allowed more improvement in cycle performance with higher coulombic efficiencies of ASB in the same condition. 
+It is because Li+ migration can be facilitated by the grain growth and densification of LAGP. 
+These results indicate that the electrochemical and structural stabilities of LAGP could be effectively improved via microstructural engineering of LAGP. 
+The microstructure of LAGP was successfully tailored to enhance Li+ conduction by employing the structural modifiers (B2O3 and Bi2O3) during synthesis. 
+The addition of B2O3 was effective for facilitating grain growth of LAGP, leading to the formation of larger LAGP crystals under the same synthesis conditions. 
+The LAGP crystals were further interconnected by glass-phase Bi2O3 effectively filling the free-space between LAGP crystals. 
+From a synergetic effect, the resulting B2O3-Bi2O3-LAGP exhibited a high total Li+ conductivity of 3.4 * 10-4 S cm-1 at room temperature. 
+This finding supports the concept that the total Li+ conductivity of LAGP is a predominant factor for determining the performance of ASBs. 
+Furthermore, the microstructural modification would be an effective way to improve the total Li+ conductivity by reducing the resistance arising from the grain boundaries and interfaces. 
+In addition to the development of highly conductive LAGP solid electrolytes, the critical challenge for realizing ASBs is to form stable, conformal solid-solid interfaces that can facilitate Li+ transport between LAGP and active electrode particles, thereby making the composite electrodes electrochemically active. 
+Our approach will provide a practical guideline to resolve the technical issues of NASICON-type SEs for successful implementation in ASBs in the near future. 

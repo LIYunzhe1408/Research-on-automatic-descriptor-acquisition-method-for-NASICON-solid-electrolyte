@@ -1,0 +1,10 @@
+NASICON (Na3Zr2Si2PO12)-based solid electrolyte-type sensors equipped with various metal oxides (MO)-added Pt sensing electrode (SE, Pt(nMO) (n: MO additive amount in wt%) and Pt counter electrode (CE, Pt) on the same side of the NASICON disc were fabricated and their (Pt(nMO)/Pt sensors) CO-sensing properties were examined at 25– 300°C.
+The Pt(15Bi2O3)/Pt sensor showed the largest CO response with a change in electromotive force to a positive direction (positive response) at 25°C, while the Pt(15CeO2)/Pt sensor showed the largest negative CO response at 25°C.
+The CO response of the Pt(15CeO2)/Pt sensor seems to be determined by mixed potential at the triple phase boundaries (TPBs) containing the electrochemical reactions of CO oxidation and oxygen reduction.
+X-ray photoelectron spectroscopy of the Pt(15Bi2O3) SE before and after exposure to CO indicated a slight reduction of Bi3+ after the exposure to CO.
+Therefore, the additional electrochemical reactions containing the reduction of Bi2O3 were anticipated to occur at the TPBs of the Pt(15Bi2O3) SE, which resulted in the large positive CO response of the Pt(15Bi2O3)/Pt sensor.
+Furthermore, the addition of 15wt% CeO2 to Pt CE of the Pt(15Bi2O3)/Pt sensor largely enhanced the magnitude of CO response and attained relatively excellent CO selectivity against H2. electrolytetype sensors using the eight kinds of MO-added Pt SEs were examined in the temperature range of 25–300°C.
+Among them, the magnitude of response of the Pt(15Bi2O3)/Pt sensor showed the largest CO response at 25°C, while the Pt(15CeO2)/Pt sensor showed the largest negative response at 25°C.
+The addition of CeO2 to Pt CE of the Pt(15Bi2O3)/Pt sensor further enhanced the magnitude of CO response.
+According to the XPS analysis, the binding energies of Bi3+ of the mixture of Bi2O3 and NASICON were slightly reduced after the exposure to CO.
+Therefore, we proposed the possible reduction reactions at the triple phase boundaries, which induced the large and positive CO response on the basis of mixed-potential theory.

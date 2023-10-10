@@ -1,0 +1,71 @@
+Attrition milling is carried  out  to  alter  the  particle  size  and  a  solid-state  reaction  method  is  used  to  prepare  the  pellets.
+The  mean  volume  of  Li1.3Al0.3Ti1.7(PO4)3  and  Li0.33La0.56TiO3  tends  to  increase  and  to  decrease,  respectively,  with  increasing  attrition  milling  time,  which  is  due  to  the  different  hardness  of  the  starting materials used.
+When pressed into pellets, the powders with smaller variation in the particle  size  possess  denser  packing  and,  therefore,  higher  conductivity.
+The  conductivities  of  lithium– conductors  are  in  strong  correlation  with  the  size  of  the  starting  powders  and  the  density  of  the  pellets.
+Lithium-ion batteries have drawn great attention since greater energy density and higher cell voltage can be  achieved  due  to  light  weight  and  low  electron  negativity  offered  by  lithium.
+Currently  used  in  commercially  available Li ion batteries, organic liquid electrolytes are flammable and tend to leak, thereby hindering the largescale  application  of  Li ion  batteries  due to  severe  safety  concerns.
+Inorganic  solid  lithium-conductors,  which  are  chemically  stable,  safe,  and  easy  to  miniaturization,  have  become  increasingly  popular  to  replace  organic  liquid  electrolytes  in  lithium-ion  batteries.
+Therefore,  inorganic  solid  lithium–conductors  are  of  interest  in  recent  years.
+Perovskite lithium lanthanum titanate with a general formula of Li3xLa2/3–xTiO3 (LLTO) and NASICON-structured  Li1+xAlxTi2–x(PO4)3 (LATP) are intensively studied as potential inorganic lithium-ion conductors.
+LLTO shows a  high grain  ionic  conductivity  up  to  10–3  S/cm  at  room  temperature  for  x = 0.11.
+The  total  conductivity  of  NASICON-structured  LATP  ceramic  glass  is  1.3  10–3  S/cm.
+However,  if used  as  electrolytes  in  lithiumbatteries, these conductivities are still not high enough to compete with organic liquid electrolytes.
+There is still a  need to further improve the properties of the aforementioned lithium–ion conductors.
+Attrition milling is able to create various defects in the microstructures and, thereby, to facilitate the  migration  of  lithium  ions  across  the  boundaries.
+Therefore, attrition  milling  was  applied  to  prepare  the  mixture  of  the  starting  materials  for  this  study.
+Attrition  milling  time  was  varied  to  investigate  the  effect  on  the  ionic conductivity of perovskite LLTO and NASICON-structured LATP.
+EXPERIMENTAL PROCEDURE In  this  study,  the  mixtures  of  the  starting  materials  of  Li0.33La0.56TiO3  and  Li1.3Al0.3Ti1.7(PO4)3  were  prepared by attrition milling.
+The starting materials of Li0.33La0.56TiO3 used were Li2CO3 (>99%), La2O3 (>99%),  and TiO2 (>99%).
+The starting materials of Li1.3Al0.3Ti1.7(PO4)3 used were Li2CO3 (>99%), Al2O3 (>98%), TiO2  (>99%),  and  NH4H2PO4  (>99%).
+All  these  materials  were  purchased  from  Alfa  Aesar  China.
+Firstly, the  toichiometric starting powders were weighed and thoroughly mixed using a pestle and mortar.
+To compensate the  loss of lithium during the subsequent sintering, an extra 10% of Li2CO3 was added.
+Secondly, the mixture was put  into  a  stainless-steel  container  for  the  attrition  milling  with  300  ml  ethanol  as  solvent.
+After attrition milling, the resultant slurry was dried at 80C for 8 h  and the dried powders were calcined in a muffle furnace at 700C for 2 h to remove any possible volatiles.
+LLTO and  LATP pellets were subsequently sintered at 1200 and 950C for 4 h, respectively.
+The particle size distribution was determined using a BT-9300H laser particle size analyzer (China).
+The  microstructures  were  examined  using  a  JSM-7800F  field  emission  scanning  electron  microscope.
+X-ray  powder  diffraction patterns were recorded at room temperature using a D/max-2500J/pc diffractometer.
+The instrument was operated at 30 kV and 20 mA.
+The diffraction pattern was recorded in the  range (2) 10–90° with a 0.02° step size and scan step of 0.50 sec.
+Both  sides  of  all  sintered  pellets  were  polished  and  painted  with  silver  paste  for  the  electrochemical  impedance  spectra  (EIS)  analysis.
+EIS  measurements  were  carried  out  using  a  Princeton  Versasta3  station  by  applying  a  stimulus  amplitude  of  10  mV  over  the  frequency  range  of  0.1–1  106 Hz  at  room  temperature.
+The  calculations of conductivities are as follows: where d is the thickness of the pellet, R is the impedance, and A is the electrode area of the pellet.
+RESULTS AND DISCUSSION LATP  Particle  Size  Distribution  after  Various  Attrition  Milling  Time.
+Figure  1  shows  the  particle  size distribution of LATP powders after various attrition milling times.
+The particles of all milled powders presented a broad-range multi-modal distribution due to the presence of  particles of different sizes.
+The volumetric mean size of LATP powders milled for 0, 8, 12, 24, and 48 h was 4.22,  1.32,  4.09,  4.80,  and  11.39  µm.
+The  volumetric  mean  size  decreased  after  the  initial  milling  of  8  h,  which  was  predictable since the attrition milling was designed to break down those coarse particles.
+Further attrition milling  made  the  particle  size  distribution  bimodal  with  a  first  small  peak  at  ~0.6  µm  and  a  second  peak  ranging  from  several microns up to ~40 µm.
+Instead of decreasing, the volumetric mean size increased with increasing attrition  milling time.
+This unusual increase in the particle size was apparently due to mechanical mixing between oxides  and ammonium dihydrogen phosphate; larger agglomerates of oxides and phosphate formed upon attrition milling.
+Effect  of  Attrition  Milling  Time  on  LATP  Properties.
+Figure  2  shows  the  SEM  images  of  LATP  pellets  produced of powders, which were attrition-milled for various times.
+The grains of LATP milled for 8 h appeared to  be uniform and all were of rectangular shape.
+The evolution  of pellet morphologies was thought to originate from the difference in the particle size distribution (Fig.1).
+The  bimodal  distribution  with  greater  difference  in  particle  sizes  accounted  for  the  porous  morphologies  seen  in  the  samples produced of powders milled for 24 and 48 h.
+The total conductivity of LATP pellets was calculated and plotted against attrition milling time (Fig.3).
+A  decrease in the total conductivity with increasing attrition milling time was observed.
+After 8 h of milling, the total  conductivity  of  LATP  pellets  showed  its  maximum  and  reached  a  plateau  afterwards.
+The  trend  of  the  total  conductivity showed a strong correlation with morphologies (Fig.2).
+Figure 4 shows the variation of the  particle  size  distribution  of  LLTO  powders  with  attrition  milling  time.
+All  LLTO  powders  showed  a  tri-modal  distribution, which originated from the starting materials of three oxides.
+With increasing attrition milling time, the  particle size reduces gradually, while coarser particles diminish.
+The volumetric mean size of LLTO powders milled Fig.5. SEM images of LLTO pellets produced of powders attrition-milled for various times Fig.
+These LLTO powders do  not  form  big  agglomerates  like  LATP  powders  (Fig.1),  which  can  be  attributed  to  the  different  hardness  of  the  starting  materials  used.
+All  three  oxides  used  in  LLTO  are  not  ductile  enough  (like  NH4H2PO4  used  for  LATP  samples) to accommodate each other to agglomerate.
+Therefore, the particles generally tend to decrease in size upon  attrition milling.
+Figure 5 shows SEM images of LLTO pellets made of  powders attrition milled for different time.
+The morphology of the samples made of powders milled for 8, 12, 16,  and 24 h was very porous.
+The relative density of these pellets was 70, 72, 75, and 72% after 8, 12, 16, and 24 h of  milling, respectively.
+Whereas, the sample made of powders milled for 48 h possessed much denser morphology,  with a relative density of 92%.
+Figure 6 shows the variation of the grain and grain boundary conductivities of LLTO with milling time.
+The conductivity showed an overall increasing trend with attrition milling time and the trends were almost identical  for grains and grain boundaries.
+The conductivity of LLTO reached the maximum after 48 h of attrition milling.
+To clarify the effect of crystalline phases on the conductivity, an XRD analysis of these LLTO samples was carried out.
+It was found that the crystalline phases of samples milled for different  times  were  almost  identical.
+The  first  phenomenon:  the  trend  of  the  conductivity  was  related  only  to  the  density  of  the  samples,  given  that  all  the  patterns  were  similar.
+It has been established that LLTO and LATP have a totally different trend in the particle size depending  on  the  attrition  milling  time.
+The  volumetric  mean  size  of  LATP  and  LLTO  tends  to  increase  and  decrease,  respectively, with increasing attrition milling time, which is due to the different hardness of the starting materials  used.
+It has been established that the ductile NH4H2PO4 powder used in LATP easily accommodates other oxides to form large agglomerates upon attrition milling, thus resulting in an increase in the volumetric mean size.
+It has been found out that, when pressed into pellets, the powders with smaller variation in the particle size tend to possess denser morphology and, therefore, higher conductivity.

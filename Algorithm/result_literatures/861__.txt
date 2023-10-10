@@ -1,0 +1,30 @@
+Research results for methanol steam reforming and ethanol conversion in a conventional and amembrane reactor in the presence of Ru–Rh/DND, LiZr2(PO4)3, and Li1.1Zr1.9In0.1(PO4)3 catalysts havebeen described.
+
+The samples have been characterized by X-ray diffraction, scanning electron microscopy,and the BET method.
+
+The study of the catalytic properties of the catalyst composites has shown that the Ru–Rh/DND catalyst mostly mediates the dehydrogenation process, while LiZr2(PO4)3 and Li1.1Zr1.9In0.1(PO4)3exhibit activity in both the dehydration and dehydrogenation reactions.
+
+The membrane process with a Pd–Ru alloy membrane provides a 20% increase in the hydrogen yield.
+
+A comparative study of the MSR and ethanol conversion processes by conventional and membranecatalysis has been conducted.
+
+For the Ru–Rh/DND catalyst, hydrogen is themain product.
+
+ At 330–350°C, the hydrogen flux corresponds to a yield of 2.3 mol of hydrogen per mole offed alcohol, while the theoretically possible value is3 mol/mol.
+
+At high temperatures, a CO impurity inthe amount of 3 vol % is observed in the resultinghydrogen.
+
+The LiZr2(PO4)3 sample exhibits activity in the formation of C2 and C4 hydrocarbons and DEE.
+
+Onlysmall amounts of acetaldehyde and hydrogen areformed; this finding suggests that ethanol undergoesconversion mostly through dehydration reactions.
+
+Thedoping of lithium zirconium phosphate with indiumleads to a decrease in the acidity of the active sites ofthe catalyst, which in turn leads to the inhibition of thedehydration function and an increase in the hydrogenyield.
+
+At high temperatures, for both catalysts, the hydrogen yield in the membrane reactor is 20% higher thanthat in the conventional flow reactor.
+
+In the case of theRu–Rh/DND composite, the selective recovery of hydrogen from the retentate zone leads to an increasein the MSR selectivity for hydrogen and a decrease inthe formation of CO.
+
+In the presence ofLi1.1Zr1.9In0.1(PO4)3, the degree of conversion of ethanol and the acetaldehyde yield increase owing to ashift of the thermodynamic equilibrium.
+
+Hydrogen inthe permeate zone does not contain CO or otherimpurities.
+

@@ -1,0 +1,15 @@
+Lithiu m ion conducting NASICON glass-ceramics have been prepared by a novel planetary ball millingassisted synthesis route.
+Structural, thermal and electrical investigations have been carried out on the novelcomposites composed of LiTi(PO4)3 (LTP) and 50[Li2SO4]-50[Li2O-P2O5] ionic glass reveal interesting results.
+Co mposites were prepared keeping the concentration of the ionic glass fixed at 20 wt%.
+X-ray diffraction anddifferential thermal ana lysis confirm the glass-ceramic formation.
+Moreover, the structure of LTP remains intactduring the glass-ceramic formation.
+Electrical conductivity of the glass-ceramic co mposite is found to be higher thanthat of the pristine glass (50LSLP) and LTP.
+The bulk and grain boundary conductivities of LTP exhib itimprovement in composite.
+Owing to high ionic conductivity and thermal stability, novel glass-ceramic seems to bea promising candidate for all solid-state battery applications.
+The investigations on novel glass-ceramics reveal the following results:1. The process leads to glass-ceramic formation.
+In these, superionic LTP exists in large amount.
+The processalso gives a freedom to choose appropriate particle size of LTP.
+A significant rise in the in-grain and notable rise in grain boundary conductivity is witnessed in glassceramics.
+The added glassy phase possibly provides high Li+ ion concentration at the grain boundaries andgrain interface.
+Thus, Li+ ion moves through connected pathways.
+The novel glass-ceramics are thermally stable and potential candidates for all solid-state battery applicationsdue to their high conductivity and thermal stability.

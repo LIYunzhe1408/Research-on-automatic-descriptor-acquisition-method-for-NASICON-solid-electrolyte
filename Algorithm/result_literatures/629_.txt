@@ -1,0 +1,187 @@
+Ionic conductivity Mechanosynthesis NASICON Li+ ion conduction Glass-ceramicsIn order to enhance the ionic conductivity in Li+ ion NASICONs, LiTi2(PO4)3 (LTP), novel LTP-glass–ceramic composites have been prepared by mechanical ball milling assisted synthesis route.
+Composites were prepared using Li+ ion oxide glassy system (Li2SO4)x-(LiPO3)100−x where x = 30 mol% and 60 mol%.
+The glass content in composite was ﬁxed to 20 wt%.
+Structural, thermal and electrical properties of the novel composites reveal interesting results.
+X-ray diﬀraction and diﬀerential scanning calorimetry conﬁrm the formation of LTPglass–ceramic composite.
+FESEM investigations performed on the samples suggest that LTP-glass–ceramics contain LTP grains of nano size with an appreciable homogeneity.
+In-grain (bulk) and grain boundary conductivity exhibit signiﬁcant increase in the composites.
+A tentative mechanism of electrical transport has been proposed according to which glass–ceramic phase creates amorphous ‘Li+ ion rich regions’ at the grain boundaries/interface.
+Concentration of Li+ ions at the interface of LTP grains possibly leads to the enhanced electrical transport.
+Over the years, it has been observed that scientiﬁc research has been steadily shifting from liquid electrolytes to solid electrolytes/fast ionic conductors in view of their better thermal stability, applicability to low dimensional and high temperature systems.
+Use of solid electrolytes paves the way to prepare leakage proof and corrosion free devices.
+Various studies have found Li+ ion fast ionic conductors to be potential candidates for electrochemical devices.
+A Li+ ion conducting compound LiTi2(PO4)3 (LTP) attracted the scientiﬁc community due to its NASICON type structure and notable bulk conductivity that approaches ~10−4 Ω −1 cm−1.
+Despite of NASICON structure, its total conductivity (10−6–10−7 Ω−1 cm−1) was not found to be adequate for device applications owing to high grain boundary impedance (GBI).
+Diﬀerent research groups have attempted to improve the total ionic conductivity by tailoring the grain boundary impedance.
+For example, the Li+ ion bulk conductivity of LTP could be enhanced by addition of Aluminum in nominal composition and is reported to have a total conductivity of the order 10−3–10−4 Ω−1 cm−1.
+Moreover, other analogues of Li+ ion NASICON, for example, Li1+xAlxGe2−x(PO4)3 (LAGP) also exhibit bulk conductivity in the range 10−4 Ω−1 cm−1, comparable to that of Li1+xAlxTi2−x(PO4)3 (LATP).
+Among the other modiﬁed LTP ceramics, Estebanez et al. reportedly found out that chromium doped LTP has a highbulk ionic conductivity of the order 10−4 Ω−1 cm−1 at room temperature.
+Though bulk conductivity of these novel compounds is found to be notably high, the grain boundary impedance (GBI) and the mechanism of understanding of electrical transport across the grain boundary needs further attention.
+Further, conductivity particularly for oxide systems is also not enough for direct applications in ionic devices.
+There are attempts to increase the conductivity by precipitating fast ionic crystallites in the glass matrix.
+The electrical properties of some glass-ceramics were found to be quite better than the precursor glassy system.
+Glass–ceramics, particularly with embedded fast ionic crystallites, have drawn attention in the recent years.
+They prepared Li2O-Al2O3-TiO2-P2O5 glasses which were subsequently annealed at 700–1000 °C.
+Such a heat treatment resulted into the precipitation of a novel Li+ ion NASICON compound, viz.Li1+xAlxTi2−x(PO4)3 abbreviated as LATP.
+The conductivity of these glass–ceramics was found to be of the order of 10−3 Ω−1 cm−1 at room temperature.
+Interestingly, choice of annealing temperatures may also lead to precipitation of some other compounds in addition to LATP, or even LTP.
+For example, Soman et al. revealed that ionic conductivity of LTP based glass–ceramics is aﬀected by annealing conditions and precipitation of some additional phases like AlPO4 may hamper conductivity rise.
+As a solution, in order to decrease the grain boundary impedance various groups used ‘glass like’ additives at the grain contacts.
+Chen et al.suggested that boron addition promotes the precipitation of LiTi2(PO4)3 phase and restrains the precipitation of second phase.
+Cruz et al.investigations revealed that fully crystallized glass–ceramics of the Li1+xAlxTi2−x(PO4)3 exhibit a high ionic conductivity at various heating temperatures.
+Thus, it is understood from the discussion that electrical conductivity of NASICONs can be increased by (i) improving the density of the composite (ii) making it more Li+ ion rich by using suitable additives and lastly, (iii) forming glass–ceramic composite.
+It may be realized that the principle challenge that lies in the preparation of LTP glass–ceramic is that it requires high temperature treatment because of which it becomes diﬃcult to maintain uniform size distribution.
+One needs high temperature synthesis route (~1500 °C) followed by annealing/cycling at elevated temperatures (700–1000 °C).
+Furthermore, these precipitated crystallites lack homogeneity in size and shape.
+(Li2SO4)x-(LiPO3)100−x (for x = 30 mol%, 60 mol%) and LiTi2(PO4)3 (LTP) crystallites are mixed together and annealed at a temperature just above the melting point of crystallized glass, followed by rapid cooling.
+The Li2SO4-LiPO3 is a well known Li+ ion conducting glassy-oxide system.
+It gives a good ﬂexibility of alteration of salt in Li2SO4 content in LiPO3 matrix and can dissolve Li2SO4 up to 60 mol%.
+Thus, it is one of the good choices particularly when oxide glasses are examined to make composites with LTP.
+These novel LTP-glass–ceramics, prepared by external dispersion route, may give a freedom to choose the amount and size of LTP crystallites.
+In this work, we have attempted to incorporate a glass–ceramic phase between the nanograins of LTP.
+The novel LTP-glass–ceramic nano-composites have been characterized using XRD, FESEM, DSC and impedance spectroscopy.
+Therefore, synthesis and preliminary investigations on electrical, thermal and structural properties have been reported.
+The samples with 30 and 60 mol% of Li2SO4 have been abbreviated as 30LSLP and 60LSLP respectively.
+Secondly, pure LTP was prepared by annealing a stoichiometric mixture of Li2CO3, TiO2 and NH4H2PO4 at 700 °C, and further at 1000 °C for 2 h as described by others.
+Prior to the formation of LTP-glass–ceramic, the 60LSLP glass and LTP were separately ﬁne ground using a Fritsch Pulverisette-6 planetary ball mill machine.
+Milling was performed for 6–18 h at 400 rpm in acetone medium with agate pot and balls.
+Each cycle comprised of 3 h run followed by 30 min pause with ball to powder mass ratio at 5:1 throughout the milling.
+Finally, the composites comprising of LTP and 60LSLP were prepared by a novel route as described in Fig.
+Schematic diagram showing the preparation technique for LTP-GC-6 h and LTPGC-18 h glass-ceramics.
+The cross-section of the as prepared pellet is shown in the inset of the ﬁgure which suggests no swelling eﬀects or cracks.
+Pellet thickness and diameter are 2–3 mm and 8 mm, respectively.
+60LSLP and LTP were again mixed together and ball milled at 100 rpm for 1 h and subsequently pelletized by applying pressure of 4 tons/cm2 using a hydraulic press.
+In order to compare with the LTP-glass–ceramics, pellets of pristine LTP were also prepared by similar heat treatment.
+No signiﬁcant cracks were observed on the quenched pellets.
+It was readily noticed that synthesis does not lead to any kind of swelling eﬀects in the pellets.
+The pellets were ﬁne polished on the surface and the sides to ensure smoothness.
+The composites prepared after 6 h and 18 h milled powders of both LTP and 60LSLP glass are abbreviated as LTP-60GC-6 h and LTP-60GC-18 h, respectively.
+Similarly, the composites prepared with 6 h and 18 h milled powder of LTP and 30LSLP glass are abbreviated as LTP-30GC-6 h and LTP-30GC-18 h.
+The LTP pellets prepared after 6 h and 18 h milling followed by annealing at ~650 °C for 0.5 h are abbreviated as LTP-6 h and LTP-18 h, respectively.
+Diﬀerential scanning calorimetry (Schimadzu, DSC-60) measurements have been carried out at 20 °C/min to observe thermal stability.
+Field emission scanning electron microscopy (FESEM) has been carried out using Nova NanoSEM 450 to study the surface morphology.
+In order to ensure smooth contacts of the pellets prepared using the new technique (as described in Section 2.1), silver paste was applied on both the surfaces.
+Thus, the conﬁguration cells of the type Ag|pellet|Ag were used for electrical characterization.
+The steady state electrical conductivity measurements (50–165 °C) were performed using computer interfaced HIOKI impedance analyzer model IM3570 in the frequency range of 4 Hz to 5 MHz.
+This may be due to reduction in crystallite size as a result of milling.
+Using Debye–Scherrer relation the grain size is found to be ~30 nm.
+It is important to note that milling neither hampers the structure of LTP nor leads to any decomposition.
+It may be suggested that during annealing, melting event in the glass–ceramic again dissolves major amount of Li2SO4 crystallized fraction.
+For both these composites height of the LTP peaks increases slightly due to possible growth of LTP crystallites during annealing.
+It is also apparent that LTP and 60LSLP do not react chemically to form a new compound.
+The XRD pattern of 6 h milled samples and their glass–ceramics exhibit similar trends.
+For LTP and 60LSLP glass, 6 h and 18 h milled powders were analyzed.
+Besides, the fractured surfaces of composites pellets were directly used for FESEM imaging.
+As seen in Fig.3(a), 18 h milling leads to signiﬁcant reduction in the grain size of LTP to ~40–50 nm.
+Further in Fig.3(b), as evident the 60LSLP milled glass exhibits tiny grains of size ~20–30 nm.
+For clarity, the glassy phase is shown by arrows whereas the particles embedded in glassy matrix are encircled.
+The crystallites appear embedded in glass matrix uniformly.
+The FESEM images suggest that 18 h milled glassy sample possibly contains Li2SO4 crystallites as also suggested by XRD results.
+Fig.3. FESEM images of the powder samples of: (a) LTP-18 h; (b) 18 h milled 60LSLP glass powder.
+The arrows indicate glassy phase, whereas the encircled regions depict crystallites embedded in the matrix.
+Fig.4. FESEM image of the fractured surface of LTP-60GC-18 h composite.
+The circles indicate crystallites embedded in glass matrix.
+The FESEM images of glass ceramic LTP-60GC-18 h is shown in Fig.4. Apparently, LTP-60GC-18 h exhibit tiny grains (possibly of LTP) embedded in the glassy phase. 3.3. Diﬀerential scanning calorimetry (DSC)The DSC thermograms for 60LSLP 18 h milled glass, LTP-60GC-6 h and LTP-60GC-18 h are shown in Fig.5. As reported previously, pristine 60LSLP glass exhibits a glass transition (Tg) near 260 °C followed by crystallization of Li2SO4 and LiPO3 in 300–400 °C range [23, 24].
+Glass transition temperature is evident at ~180 °CJournal of Non-Crystalline Solids 483 (2018) 126–133Fig.
+5. DSC thermograms for (a) LTP-60GC-18 h and (b) LTP-60GC-6 h.
+The inset shows 60LSLP 18 h milled glass.
+The dotted lines are guide to eye to visualize broad exaothermic peak of crystallization.
+whereas a broad notable crystallization peak is evident at ~350 °C.
+It is important to note glass possibly degrades as a result of milling.
+Therefore, this result is in agreement with the XRD and SEM where milled glassy samples exhibits precipitation of tiny Li2SO4 crystallites.
+However, presence of Tg still suggests that sample is indeed in partially glassy nature, though crystallization appears to be suppressed.
+For homogeneous LTP-glass–ceramic pellet formation, glass-LTP interface area should be high.
+Thus even though milling leads to degradation of glass, it also ensures homogeneity when the small grains are mixed together to form composite.
+The pristine LTP-60GC-6 h and LTP-60GC-18 h composite pellets were crushed and ﬁne powder was used for calorimetric studies.
+As apparent, a subtle but signiﬁcant broad exothermic peak at ~340 °C is evident.
+Both LTP-60GC-6 h and LTP-60GC-18 h exhibit similar trend.
+This peak may correspond to precipitation of Li2SO4 during crystallization in a small amount, as also suggested by XRD.
+The crystallization is not massive possibly because glass–ceramic exists between LTP grains and in a small amount.
+Interestingly, the results obtained from DSC compliments XRD results which further suggest that during composite formation, majority of 60LSLP remains in partially amorphous/glassy phase.
+The remaining glassy/amorphous phase crystallizes during glass–ceramic's heating above the crystallization onset (Tc).
+This in turn suggests that (i) amorphous/glassy phase exists in the composite and (ii) these LTP-glass–ceramic composites are stable at least up to a temperature of ~250 °C.
+Conductivity isotherms and Nyquist plots in a wide frequency range (4 Hz–5 MHz) were obtained for LTP-glass–ceramic composites and LTP-6 h, LTP-18 h samples.
+As apparent in 18 h ball milled samples, conductivity exhibits two well separated plateau regions.
+The low frequency plateau may correspond to the electrical transport across the grain boundaries (σGB) whereas at the higher frequencies, it may be attributed to in-grain (bulk) electrical transport (σG) [28].
+In case of LTP-60GC-18 h, as depicted in Fig.6(b), very similar σ-ω behavior is observed that suggests predominant electrical transport through the LTP grains in the composites.
+There is a slight possibility of polarizationFig.6. (a).
+Frequency dependence of electrical conductivity for LTP-18 h sample.
+However, for the present case for LTP as well as composites, low frequency plateau in the conductivity is very apparent and thus polarized eﬀects are neglected.
+Generally, the electrical conductivity of ionic glasses as obtained by various groups, exhibits single Jonscher's power law behavior where dc region is observed at low frequency followed by dispersion at high frequencies according to the following relation:(1) where, ωH is the hopping frequency of the charge carriers, n is dimensionless frequency exponent and σdc is the dc conductivity.
+Thus, σG and σGB were obtained at various temperatures for both LTP and LTPglass–ceramics and were used for analysis.
+Alternatively, the bulk and grain boundary conductivity values can also be obtained from the Nyquist plots.
+The ﬁrst semicircle at high frequency (though does not start at the origin) is may be due to the in-grain/bulk electrical transport in LTP crystallites, whereas the one at low frequency (more apparently seen at high temperatures) is most likely due to the electrical transport across the grain boundaries.
+At further low frequencies, an inclined line is also visible which may be attributed to the interfacial polarization.
+Further, in caseJournal of Non-Crystalline Solids 483 (2018) 126–133assigned to bulk and grain boundary processes, the capacitance values corresponding to the grain and grain boundary were obtained.
+Considering a bulk (in-grain) or grain boundary process as a parallel combination of a resistance R and capacitance C, characteristic relaxation time τ (RC) for each process can be estimated using the following equation: ω (2) max where, ωmax corresponds to a frequency at the apex of the semicircle.
+The capacitance values in 10−12 F range is attributed to bulk and 10−11–10−8 F range to grain boundary.
+The capacitance values as calculated at various temperatures are reported in Table 1. It is interesting to see that the typical values obtained for both the semicircles are found to be in the range corresponding to grain and grain boundary.
+It is still tricky to obtain exact values of σG and σGB from the Nyquist plots.
+On the other hand, it is readily noticed that an appreciable consistency is seen in values obtained from σ-ω plots for a wide range of temperatures.
+Nevertheless, at high temperature, σG and σGB values obtained from σ-ω as well as Nyquist plots are in agreement with each other.
+Therefore, σG and σGB from σ-ω plots were considered to be more accurate and were used for analysis.
+The temperature dependence of bulk (in-grain) electrical conductivity for LTP-6 h, LTP-18 h and their glass–ceramics samples is shown in Fig.8. It is readily noted that 6 h and 18 h milled LTPglass–ceramic composites (i.e.
+LTP-60GC-6 h and LTP-60GC-18 h, respectively) exhibit signiﬁcantly higher conductivity than the pristine LTP milled samples by nearly two orders of magnitude.
+The in-grain conductivity of glass–ceramic possibly increases due to Li+ ion rich surroundings.
+Activation energy of ionic conduction is also found to be signiﬁcantly lower for the glass–ceramic samples.
+To further understand the mechanism of rise in the in-grain conductivity, the glass composition was changed.
+Thus, the Li+ ion contribution in the surroundings of the grain is altered by lowering the Li2SO4 content in the glass.
+The bulk conductivity for LTP-30GC-18 h is signiﬁcantly lower than LTP-60GC-18 h.
+In the present case, the activation energy (Eσ) of in-grain conductivity for LTP-GC composite is however comparable to that of LTP itself.
+Interestingly in-grain conductivity of LTP-GC-18 h is higher than LTP-GC-6 h.
+Milling essentially reduces the particle size which in turn allows the small glass and glass–ceramic grains to exist together homogeneously.
+In the impedance model, R1 and R2 are ingrain and grain boundary resistances respectively, CPE1 and CPE2 are the constant phase elements for in-grain and grain boundary, respectively.
+Rbulk is shown for 165 °C. of LTP-60GC-18 h at higher frequencies, again a tiny semicircle (still oﬀ the origin) is visible which may be attributed to the bulk electrical transport whereas at the low frequencies, a semicircle followed by an inclined line is also evident.
+Thus, the LTP-glass–ceramics also exhibits inter grain and grain boundary transport similar to that of LTP.
+It is important to mention that at higher frequencies error in impedance is signiﬁcant and it is diﬃcult to obtain accurate in-grain conductivity from the high frequency semicircle.
+Therefore, the intercept of the bulk and the grain-boundary arc is considered as bulk resistance as shown in the inset of Fig.7(b).
+For clarity, the high frequency semicircle is plotted on an extended scale and is shown in the inset of the Fig.7(b).
+To further conﬁrm whether the obtained semicircles are correctlyTable 1 Approximate in-grain and grain boundary capacitance (reported with 10% instrumental error) for LTP and LTP-60GC composites obtained from low and high frequency semicircles.
+Grain boundary conductivity (σGB) versus temperature plots for LTP-60GC-6 h and LTP-6 h samples.
+Grain boundary conductivity (σGB) versus temperature plots for LTP-60GC-18 h and LTP-18 h samples. crystallites.
+It may be suggested that the glass–ceramic formation in the surrounding of LTP further ensures Li+ ion rich regions near tiny LTP grains.
+For lower milling time, the Eσ values for LTP-6 h and LTP-60GC6 h are comparable.
+However, for higher milling time, the Eσ values seem to be improved.
+The composite LTP-60GC-18 h exhibits reduced activation energy of ionic conduction in comparison to its precursor LTP-18 h.
+The actual mechanism of enhanced in-grain transport needs further investigations and support from theoretical understanding.
+The σGB values for LTP-60GC-6 h and LTP-60GC-18 h as a function of temperature are plotted in Fig.9. For comparison, σGB is plotted with LTP-18 h prepared with similar heat treatment and milling hours.
+The electrical transport across the grain boundaries is notably aﬀected by composite formation.
+The σGB values are found to be higher for composites in comparison to the respective LTP samples.
+Particularly, the rise is more signiﬁcant for LTP-60GC-6 h for which Eσ value also decreases appreciably.
+It readily suggests that the amorphous regions at the grain boundary play a signiﬁcant role in enhancing the electrical transport across the grain boundaries.
+Inter-grain transport in LTP60GC-18 h however does not show much improvement and is found to be comparable to LTP-18 h that needs further investigations.
+The grain boundary conductivity rise may be examined in the wake of availability of excess Li+ ions at the LTP-glass–ceramic interface.
+This Li+ ion concentration at the grain boundaries eventually helps in the inter-Fig.10. Total conductivity (σtotal) as a function of temperature for LTP and LTP-glassceramic composites.
+The opaque and transparent particles are that of Li2SO4 and LTP re2− ions are shown by ‘+’ and spectively.
+Table 2 A comparison of electrical conductivity, activation energy values for LTP, LTP composites, Li+ ion LSLP glasses and LTP-glass-ceramics.
+Samples reported by others were prepared by various routes and heat treatments.
+SystemLTP-LiPO3-Li2S-SiS2 composite mixture (50:50) LiTi2(PO4)3 LiTi2(PO4)3 (at 900 °C)Li2O–Al2O3–TiO2–P2O5 glass-ceramic 30LSLP glass 60LSLP glass LTP-6 h LTP-6 h LTP-18 h LTP-18 h LTP-60GC-18 h LTP-60GC-18 h LTP-60GC-6 h LTP-60GC-6 h2.0 × 10−06(at 298 K) (total) 1.0 × 10−04 (at 298 K) 2.0 × 10−06 (at 303 K) 3.6 × 10−08(at 298 K) (total) 1.1 × 10−03 (at room temperature) 9.0 × 10−8 (at 323 K) 3.0 × 10−7 (at 323 K) 1.7 × 10−06 (at 323 K) 4.7 × 10−07 (at 360 K) 2.1 × 10−06 (at 323 K) 2.6 × 10−07 (at 360 K) 1.4 × 10−05 (at 323 K) 2.6 × 10−07 (at 360 K) 8.1 × 10−06 (at 323 K) 1.1 × 10−06 (at 360 K)Reference[41] [24] [24] Present work Present work Present work Present work Present work Present work Present work Present workgrain transport as also observed by others.
+In a recent investigation on Li1.5Al0.5Ge1.5(PO4)3 (LAGP), availability of excess Li+ ions improves the grain boundary electrical transport.
+It is suggested that the LAGP with excess amount of lithium possibly increases the Li+ ion concentration at the grain boundaries.
+The total conductivity was calculated from in-grain (RG) and grainboundary resistances (RGB) using the following relation:σ totalwhere, l is the thickness of the pellet and A is its area of cross section.
+For LTP-60GC-18 h, σtotal is found to be comparable to 18 h milled LTP samples possibly due to comparable grain boundary impedance values.
+Further, LTP-6 h exhibits slightly higher conductivity than LTP-18 h.
+Milling of pristine LTP increases the grain boundary impedance as also observed by others.
+Thus, incorporation of glass leads to improvement in overall electrical transport.
+The electrical properties may also be analyzed in view of local structure of 60LSLP glass–ceramic surrounding the LTP grains.
+It is important to note that the Li2SO4 content in 60LSLP is very high (at the solubility limit of Li2SO4) in this matrix.
+Thus the glass in its pristine 2− stage contains Li2SO4 in dissolved state in the form of Li+ and SO4 ions.
+However, in the present case glass–ceramic formation about the2− ions exist in LTP grains is evident and therefore, Li+ and SO4 glass–ceramic phase along with precipitated Li2SO4. For LTP-30GC, the 2− ions but in phase surrounding the LTP may contain only Li+ and SO4 low concentration, whereas for LTP-60GC, the Li+ ion concentration is still high even though Li2SO4 crystallites exist in the matrix.
+When concentration of Li2SO4 is lowered, the in-grain conductivity falls notably.
+This may be due to the fact that the overall mobile ion concentration in 30LSLP glass–ceramic decreases drastically.
+Even if there is slight precipitation of Li2SO4 in 60LSLP glass–ceramic, the Li+ ion concentration predominantly dictate the conductivity.
+A tentative mechanism is suggested in Fig.11 based on present investigations.
+Finally, in Table 2 previously investigated LTP, LTP glass-ceramics and Li+ ion glasses are compared with the present composites.
+It is important to mention that the systems reported by others were prepared by various routes and annealing conditions, thus a comparison in conductivity values may not be meaningful.
+However, the assessment certainly suggests that conductivity and activation energies are in the same order in comparison to LTP/ LTP-composites.
+Apparently, the composites are found to be better than the pristine glasses and some LTPs prepared by other techniques/annealing conditions.
+Thus the present method is useful for preparation of such composites with high ionic conductivity and reproducibility.
+The results also suggest that choice of Li+ ion glass plays important role in the electrical transport.4. ConclusionsInvestigations on these composites prepared by the glass ﬁller ap-proach reveals the following results:(i) The novel technique demonstrated to synthesize LTP-glass-ceramic composites is simple and gives good ﬂexibility.
+The results are highly reproducible.
+(ii) The composites formed by this technique are thermally stable in awide range of temperature (~250 °C).
+(iii) The LTP-glass-ceramic composites mostly contain LiPO3 in glassy phase, some amount of Li2SO4 in dissolved state along with Li2SO4 nano-particles possibly embedded in the glassy-ceramic phase.
+The preparation procedure neither leads to any decomposition of LTP, nor does it appear to react with glass to form any new compound as suggested by XRD.
+(iv) FESEM results suggest that the LTP grains embedded in the glass matrix are of uniform size.
+(v) Glass–ceramic formation leads to increase of σG as well as σGB and hence the total conductivity (σtotal).
+Since the grain boundary impedance plays a major role in the total ionic conductivity, LTP60GC-6 h sample is found to be exhibiting high ionic-conductivity than the other glass-ceramics (LTP-60GC-18 h).
+(vi) The present investigation has been carried out at low sintering condition i.e. by keeping the sample just above the melting point of crystallized glass.Annealing/sintering at high temperature for diﬀerent time may lead to better electrical transport in these glassceramics.

@@ -1,0 +1,82 @@
+We have developed a high performance lithium-ion conducting glass-ceramics.
+This glass-ceramics has the crystalline form of −1 or above at room Li1+x+yAlxTi2−xSiyP3−yO12 with a NASICON-type structure, and it exhibits a high lithium-ion conductivity of 10 temperature.
+Moreover, since this material is stable in the open atmosphere and even to exposure to moist air, it is expected to be applied for various uses.
+One of applications of this material is as a solid electrolyte for a lithium-ion battery.
+Batteries were developed by combining a LiCoO2 positive electrode, a Li4Ti5O12 negative electrode, and a composite electrolyte.
+The battery using the composite electrolyte with a higher conductivity exhibited a good charge–discharge characteristic.
+The use of the all-solid lithium-ion battery, which utilizes an inorganic solid electrolyte, is highly safe, because it does not contain any organic electrolyte solution that presents an explosion hazard.
+Hence, several studies in this ﬁeld have been performed at various research laboratories.
+However, the ionic conductivity of a solid electrolyte is lower than that of a liquid one, and the former shows a larger interfacial resistance with the other solid components like the electrode, etc.
+Hence, solid electrolytes cannot be easily put into practical use.
+We developed a glass-ceramics with the crystalline form of Li1+x+yAlxTi2−xSiyP3−yO12 with a NASICON-type structure by heat-treated glass with a speciﬁc composition .
+This glass-ceramics has a high lithium-ion conductivity that −1 at room temperature, andis equal to or more than 10 its lithium-ion transference number is approximately 1.
+Furthermore, because it is very stable in the atmosphere and even to exposure to moist air, it is possible to use this material to develop a solid electrolyte for a lithium-ion secondary battery.
+However, when using an inorganic solid electrolyte in to createa lithium-ion secondary battery,it is difficult to create a good contact trolyte.
+Therefore, a device that can lower the phase boundary resis-tance between the electrode and electrolyte is necessary.
+We designed and developed composite electrolytes by mixing the glass-ceramic powder with an organic polymer.
+A good ionic conduction and ﬂexibility was obtained in these electrolytes by controlling the particle size and content ratio of the glass-ceramics.
+Lithium-ion batteries were developed by combining a composite electrolyte, an LiCoO2 positive electrode, and an Li4Ti5O12 negative electrode.
+The charge–discharge characteristics of these all-solid lithium-ion rechargeable batteries were measured.
+The results conﬁrmed that it can function effectively as a lithium-ion battery.
+Lithium carbonate (Li2CO3), aluminium metaphosphate (Al(PO3)3), silica (SiO2), orthophosphoric acid (H3PO4), and titanium oxide (TiO2) were mixed together as raw materials for preparing glass.
+The mixture of raw materials was put in a Pt pot and placed in an electric furnace at 1480 C.
+After the raw materials melted, the mixture was stirred using a Pt blade.
+Glass was produced by casting the molten glass into ﬂowingwater and quenching.
+The glass was heated again in the electric furnace and theglass was crystallized (glass-ceramics).
+The glass-ceramics was analyzed using a XRD equipment (Phillips X’Pert MPD PW3050), and the crystalline phase was identiﬁed.
+A 5 mm× 5 mm piece with a thickness of 0.5 mm was cut from the glass-ceramics and polished on both sides.
+An ionblocking electrode was installed on both sides using an Au sputtering target.
+A lead line was mounted on the Au-sputtered electrode using an Au paste.
+The ionic conductivity was obtained from resistance measured by ac complex impedance analysis using an impedance analyzer (Solartron, SI1260) in a temperature range from −80 C and in a frequency range from 1 Hz to 10 MHz.
+The glass-ceramics was milled using a ball mill to produce a powder with an average particle diameter of 1.5 m (powder A).
+The glass-ceramics was also milled using a jet mill to produce a powder with an average particle diameter of 5 m (powder B).
+The particle size distribution for each powder is shown in Fig.1. 
+The particle size distribution was measured using an LS100Q (Coulter).
+A copolymerized material consisting of polyethylene oxide (PEO) and polypropylene oxide (PPO) was used as an organic binder.
+The polymer solution was prepared by dissolving the binder and LITFSI (LiN(CF3SO2)2) in ethanol.
+
+The glass-ceramic powder A or B was added into this polymer solution and mixed using a mixer for 24 h to prepare a composite electrolyte slurry.
+The content ratio of the glass-ceramic powder and binder was glass-ceramics:binder = 75:25 (wt%).
+The composite electrolyte slurry was applied onto the PET ﬁlm using a doctor-blade, and dried at 80 C.
+The composite electrolytes A and B, which were fabricated using the powders with average particle diameters of 1.5 and 5 m, respectively, were ﬂexible and both had a thickness of 25 m.
+The slurry of the positive electrode was prepared by mixing lithium cobalt oxide (LiCoO2), acetylene black (AB), the same copolymer that was used for the composite electrolytes, and ethanol solvents.
+The slurry was coated on Al foil to prepare the positive electrode.
+The composition ratio was LiCoO2:AB:binder = 80:5:15 (wt%).
+After press processing, the positive electrode was dried in a vacuum (80 C, 20 h) to complete fabrication.
+
+The slurry of the negative electrode was prepared using the same components that were used for the positive electrode with the exception of LiCoO2, which was replaced by lithium titanate (Li4Ti5O12).
+The slurry was coated on Cu foil to prepare the negative electrode.
+The composition ratio was Li4Ti5O12:AB:binder = 80:5:15 (wt%).
+After press processing, the fabrication of the negative electrode sheet was completed by drying in a vacuum (80A thin layer of the slurry of the polymer solution (LiTFSI mixed with PEO-PPO, dissolved in EtOH) was applied to just one side of the surface of composite electrolyte A and then dried in a vacuum (80The positive electrode sheet, composite electrolyte, and negative electrode sheet were stacked in that order.
+The applied polymer layer was in contact with negative electrode.
+The stacked cell was enclosed within a coin cell to produce an allsolid lithium-ion secondary battery.
+Hereafter, the batteries with composite electrolytes A and Bare referred to as batteries A and B, respectively.
+The XRD diffraction patterns of the glass-ceramics before and after crystallization are shown in Fig.3. 
+It was conﬁrmed that the main crystal layer of the sample after crystallization by heat-Fig.5. 
+Temperature dependence of the ionic conductivities of the composite electrolytes.
+
+The temperature dependence of the ionic conductivity of the crystallized glass-ceramics is shown in Fig.4.
+
+The temperature dependence of the ionic conductivities of the composite electrolytes A and B containing glass-ceramic powders are shown in Fig.5. 
+The inclinations of both the graphs are similar, but electrolyte B, which was produced using the powder with the larger average particle diameter, shows a higher con-Fig.4.
+Temperature dependence of the ionic conductivity of the glass-ceramics.
+
+This suggests that the system of the glass-ceramics and polymer has only a few phase boundaries and that the phase boundary resistance was restrained in electrolyte B, which contains particles with a comparatively larger size.
+SEM photographs of the cross-sections of batteries are shownin Figs.
+6 and 7.
+The thickness of the positive electrode of battery is 20 ␮m, that of the composite electrolyte is 25 ␮m, and that of the negative electrode is 15 m.
+The batteries were kept for 24 h at 60C, following which charge–discharge measurements were performed at a constant current at this temperature.
+The measuring conditions were a constant current with a charging cut-off voltage of 2.7 V, a discharge cut-off voltage of 1.4 V, and a charge–discharge rate of 1/12 C.
+The shown Figs.8 and 9. The cycle performance is shown in Fig.10.characteristicsThe charge–discharge curves of batteries B and the A are almost identical.
+Compared in detail, however, both the capacity and the cycle characteristic of battery B were superior to10. Cycleperformancebatterythose of battery A.
+The rate of capacity maintenance in battery B was about 90% after 10 cycles, while that of battery A was about 70%.
+This is because the ionic conductivity of electrolyte A is lower than that of electrolyte B.
+Due to the high ionic resistance of the electrolyte, ionic movement between the electrodes might be restricted.
+As a result, it is considered that the cycle characteristic of the charge–discharge performance was affected.
+At any rate, a decrease in capacity observed with the procession of charge–discharge cycles should be suppressed.
+Therefore, it will be necessary to improve the best composition of both the positive and negative electrodes in the future.
+We developed the composite electrolytes consisting of a lithium-ion conducting glass-ceramics and a polymer electrolyte.
+The conductivity of the composite electrolytes was greatly inﬂuenced by the particle size of the glass-ceramics.
+The composite electrolyte containing the glass-ceramics with a larger particle size showed a higher conductivity.
+Batteries were developed by combining a LiCoO2 positive electrode, a Li4Ti5O12 negative electrode, and a composite electrolyte.
+The battery using the composite electrolyte with a higher conductivity exhibited a good charge–discharge characteristic.

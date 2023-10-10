@@ -1,0 +1,69 @@
+Raman and infrared spectra of a series of phosphates Mn
+
+0FxF0.5 have been recorded in  20) crystalline state. Factor group analysis has been performed for space group R3 xs0, 0.1, 0.15 and R3c xs0.25, 0.5 . and assignments of the internal modes of the PO tetrahedra have been made. q 1998 Elsevier Science B.V. All rights reserved.
+
+Keywords: Raman; Infrared; Factor group analysis; Nasicon; Mn
+
+Sodium zirconium silicophosphates Nasicon Zr Si P O 0F with the general formula Na xF3 exhibit, for some compositions, a good threedimensional conductivity and possess considerable chemical and thermal stabilities 1 . There exist a large number of isostructural compounds to Nasicon . like NaM PO 4 3 x M sLi, Na, K, Rb, Cs, M sZr, Hf  14) 2–4 , which are expected to form solid solutions and therefore possess three-dimensional conductivity 5 . We . have recently reported the structure of MnTiCr PO4 3 x  14)  14) S.G.:R R3 6–8 . S.G.:R3c and Mn Ti PO
+
+have been determined. We have shown recently that spectra in the series Ca x x . Mn  14)0.5yx. 4 3 x w . as an end member of 12 . With Mn Ti PO 4 3 . these series and the series Mn PO , 0.5qx 4 3 we recorded the vibrational spectra of a selection of five complexes, and then examined the possible influence of the composition on the spectra.
+
+All syntheses were carried out using conventional solid-state reaction techniques. Powder crystalline samples have been prepared from mixtures of  14) MnCO , nH O , TiO , Cr O and NH H PO in stoichiometric proportions. Each mixture was heated progressively between 200 and 10008C as mentioned w x 6–8 . above for Mn Ti PO
+
+The reaction products were controlled by X-ray powder diffraction. Raman spectra were recorded using the Dilor XY Raman microprobe. The crystalline samples were excited with the 514.5 nm line of an argon ion laser Coherent model Innova 300 . The spectral resolution was 3 cmy1, the laser output power 200 mW, and the integration time 30 s. Infrared spectra were recorded on the Bruker IFS 113 v FTIR-spectrometer as KBr or polyethylene pellets. The spectral resolution was 2 cmy1.
+
+Phosphates com position M n  14)0 .5 q x . 4 Ti PO belong to the  14)2y2 x. N asicon-type the M n  14)0 .5 q x . Ti PO system, the space group is R3  14)2y2 x. C for 0FxF0.15 and R3c D for 0.15 -x  14) 2 3i .-0.50 with Zs4. In all cases, the structure consist of a 3D-network built up of PO tetrahedra and TiO 6 2q or Ti Cr O octahedra linked at the corners. Mn occupy the site usually labeled M1 which is an elongated antiprism formed by the triangular faces of two TiO or Ti Cr O octahedra along the c-axis of the hexagonal cell. In the R3 space group, the cations . are orderly distributed over the two positions 3a 000 and 3b 001r2 of M1 sites, whereas in R3c space group they are statistically distributed in the M1 sites on the 6b positions. In the PO tetrahedra, the oxy-
+
+are placed in the 3b sites Ti Cr
+
+gen and phosphorous atoms occupy 18f sites, whereas the manganese ions are orderly distributed in the 3a and 3b positions. With decreasing titanium content, the chromium ions replace the titanium atoms on the 6c sites, whereas the additional manganese ions leading in to nearly the same distribuMn  14) tion of manganese on 3a 56% and 3b 44% sites. The space group of Mn and 6 Mn Ti Cr is D -R3c with the phospho3d rous and oxygen atoms placed on 18e and 36f sites, respectively. The structural information is summarized in Table 1.
+
+With slightly different structure and crystal symmetry, one has to expect different kinds of Ramanand infrared-active bands in the vibrational spectra. Vibrational analysis for an isolated PO3y anion . with point group T leads to 4 modes see Table 2 , .4 which are one A n ; n PO 4 and two F n ; n PO and d PO modes all of them Raman-active and only n infared-active. By means of separation of the vibrations in the crystalline state into internal and external modes, a factor group analysis of PO3y has been performed using the symmetry of the site inhibited by the centre of the phosphate tetrahedra and therefore C xs0;  14) 0.1; 0.15 and C xs0.25; 0.5 , respectively.
+
+analysis by means of correlation tables of Adams and Newton 13,14 leads to: PO3y translations IIM translations IVM translations 3yPO librations
+
+After subtracting the acoustical modes, A qE , the sum of the external modes is: 8 A q8 E Rag man-active and 8 A q8 E IR-active . .
+
+For the P–O vibrations of the phosphate tetraa n d h e d ro n  14) PO , six Raman-active and six IRMn Ti Cr active stretching vibrations: A qE n1 , A q 3E n , E n , A q3E n , and eight Raman-active and seven infrared-active bending vibrations: 2 A q2 E n , A q3E n , 2 E n , . g 2 A q3E n , are obtained, respectively see . Table 2 : PO3y translations A q2 A q3E qA q2 A
+
+IIM translations IVM translations A qA q2 E qA qA
+
+This results in 3 A q8 E Raman-active and 5 A q9E IR-active vibrational external modes.
+
+There is a significant change in the structure . from space group R3 in Mn Ti PO , 4 3 .  14) . Mn Ti Cr PO , and Mn 1.8 4 3 0.1 4 3 to R 3 c in M n an d T i C r  14) . Mn Ti Cr PO , which leads to a different 4 3 number of Ramanand infrared-active bands in the factor group analysis. This is reflected in the Raman  14) spectra see Fig. 1 of the compounds with the stronger appearance of bands in the region between 1200 and 1300 cmy1 in the latter ones with higher manganese content. In the same way, the band pattern in the P–O stretching vibration region slightly differs with especially one band at about 1035 cmy1 almost vanishing and only appearing as a broad shoulder with increasing manganese content.
+
+In the Raman spectrum of Mn Ti PO , the P–O stretching vibrations appear with seven bands as the strongest signals in the region between about 900 to 1100 cm see Table 3 . In general, the asymmetrical ones are at higher wavenumbers than the symetrical ones 15 , and so we can assign the
+
+lowest ones to n P–O . There are no signals in the Raman higher than 1100 cmy1, and the bands in the infrared spectrum see Fig. 2 at 1267 and 1185 cmy1 can be regarded as P–OrM–O interaction bands 9,10 . With the building in of chromium in the crystalline unit the surroundings of the PO4 tetrahedra change. The bands are broadened and the two relative intensities will change. In this way, . bands in the Raman spectra of Mn Ti PO are 4 3 visible at 1091 and 1083 cmy1, whereas only one broader band appears in the spectra of the chromium xs0.1 and containing compounds at 1089 cm xs . 0.15 , 1088 cm .0.5 .
+
+xs0.25 , and 1094 cm
+
+The factor group analysis results for all compounds in the same number of Raman-active symmetrical P–O stretching bands n , but to six asymmetrical n for the compounds with space group R3 in comparison to four Raman-active for the samples with space group R3c. It is possible to assume, that the band at about 1005 cmy1 could be assigned as an asymmetrical rather than a symmetrical mode, which
+
+. Fig. 2. Mid-infrared spectra of Mn PO 4 3 s0; 0.1; 0.15; 0.25; 0.5 in the range of 500 to 1400 cm . y1
+
+we unfortunately cannot exclude. In the Raman spec. in M n Ti PO , tra, 4 3 . Mn Ti Cr at 4 3 1034, 1038, and 1037 cmy1, respectively, is in the Raman spectra of Mn and Mn Ti Cr only visible as a shoulder of the strong band at 996 and 990 cmy1, respectively. The relative intensity of the band at about 995 cmy1 increases in a similar way to the decrease in intensity of the band at about 975 cmy1.
+
+The factor group analysis also leads to eight infrared-active modes for space group R3 and six bands for space group R3c. Differences in the spectra are only slightly visible due to the broad absorption bands; therefore, overlapping of the signals in the spectra and only Mn Ti Cr shows a slightly different band pattern.
+
+complexes
+
+appears  14)
+
+four bands . PO , 4 3
+
+The asymmetrical bands are to be found in the region of 700 to 500 cm 5,9,10 with six and five bands for the compounds with factor group R3 and R3c, respectively. We find, as already in similar phosphate for .  14) Mn Ti PO , Mn Ti Cr and 4 3  14) Mn PO , which differ only slightly with the different compositions. In the Raman spectra of the remaining two complexes with higher chromium content, a broad band appears at about 675 cmy1 instead of the two weak ones in xs0, 0.1, and 0.15 and an additional band at 568 and 569 cmy1 appears. In the region between 400 and 500 cmy 1 for Mn Ti PO one strong signal consisting of three overlapping bands, which can be assigned to the symmetrical P–O bending vibrations 5 . In this re. gion appears also one band for Mn Ti Cr 4 3 and one Raman-active and Mn m o d e a n d  14) Mn Ti Cr PO , with the latter one having a weak band as a shoulder at 478 cmy1. In the infrared . spectra, a second band appears for Mn Ti PO 4 3 and Mn Ti Cr at 479 and 478 cm . All bands seem only slightly influenced by the composition increasing manganeserchromium and decreasing titanium content, respectively, and so cannot be assigned to a translation of the metal ions.
+
+In the spectra of the isolated PO ion the symmetrical bending vibration is expected to appear at 363 cm three bands in our spectra between 400 and 350 cmy1 are also possible bending vibrations of the PO tetrahedron.
+
+Factor group analysis leads to 16 Ramanand 16 infrared-active modes for factor group R3 and 11 Raman and 14 infrared-active modes for factor group R3c. The variation of the composition of Mn, Cr, and Ti has only a small effect on the lattice modes of . Mn Ti PO , Mn Ti Cr and 4 3  14) PO , which shifts no more than Mn two wavenumbers. With the different factor group R 3 c a n d  14) Mn Ti Cr PO , one signal at 314 cm shifts with decreasing titanium content to 319 cmy1 and in Mn Ti Cr even with a higher intensity to 326 cmy1, whereas the signal at about 349 cmy1 shifts with decreasing intensity, but these signals are also likely to be part of the factor group splitting of n , the symmetrical PO bending vibration.
+
+Detailed assignment of the lattice modes is difficult and almost impossible because of the number of predicted signals to comparison to the low number of observed bands in the spectra, e.g., seven observed Raman-active bands in Mn Ti PO . Additional difficulties arise in finding a band correlation between single compounds. Although bands at 151, MsHf, Zr,  14) 197, and 217 cm Ti have been assigned to Ti translations 9,10 , a conclusion for our system, which contains no M Iions, is not yet possible.
+
+in LiM PO
+
+We recorded vibrational spectra of the Nasiconxs0, like triphosphates Mn 4 0.1, 0.15, 0.25, 0.5 . By means of a factor group analysis, the number of Ramanand infrared-active modes and to explain some differences in the spectra due to dependence of composition and symmetry in the crystalline units. Whereas it is possible to make assignments for the
+
+is possible to predict
+
+

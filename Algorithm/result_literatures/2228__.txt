@@ -1,0 +1,120 @@
+The position of several transition metal redox energies with respect to the Fermi energy of lithium in phosphates with sodium super ionic conductor (NASICON) framework were determined electrochemically upon lithium intercalation. The materials studied were Li2NaV2(P04)3, LiNa2FeV(P04)3, TiNb(P04)3, LiFeNb(P0j3, and Li2FeTi(P0j3 all having NASICON framework. The positions of the redox couples were found centered at the following energies: V4/V3 at 3.8 eV, Fe37Fe2 at 2.8 eV, Ti4/Ti3 at 2.5 eV, Nb57Nb4 at 2.2 eV, Nb47Nb3 at 1.8 eV, and V3/V2 at 1.7 eV below the Fermi energy of lithium. Several of these redox couples were found to overlap each other. Some of these materials look promising as positive electrode materials for Lit-ion batteries.
+
+A growing societal need for a portable source of electric power has created a strong market for a reliable secondary (rechargeable) battery of high energy and power density. In order to create a database of knowledge that can be useful to a battery engineer needing to identify or to design suitable electrode materials for a secondary lithium battery; we have undertaken an electrochemical mapping of the redox potentials of various transition metal ions in an isostructural family of compounds; this family consists of framework structures containing the transition metal atom and a polyanion into/from which an alkali-metal atom can be inserted/extracted reversibly. From a knowledge of the redox energies and of the factors that influence how they can be shifted, the engineer is better able to select and tune a redox couple to meet his/her requirements.
+
+Transition metal compounds possessing 2D van der Waals bonding or 3D frameworks with an interconnected interstitial space are hosts into which a guest species can be inserted reversibly. This property is of technical interest for the design of rechargeable lithium battery cathodes. Of more fundamental interest, it offers the possibility of studying how successive redox energies at the transition metal atoms vary with structure and countercation. Framework oxides were originally identified as Na ion and K ion electrolytes. Since it was shown by Goodenough et at.' that the framework oxides with NASICON structure are good candidates as solid electrolytes in high energy density batteries, considerable work has been devoted to the improvement of the ionic conductivity of these materials and to the understanding of the diffusion mechanism. NASICON materials are a family compounds with M2(XO4)3 frameworks made up of X04 tetrahedra sharing corners with MO6 octahedra and vice versa. The M2(XO4)3 host framework is chemically versatile; it can be stabilized with a variety of transition metal cations M and XO4 polyanions; this versatility has, for example, allowed tailoring a ceramic with zero thermal expansion coefficient.2 Such framework oxides have been known to undergo topotactic insertion/extraction of a mobile atom3-5 and therefore are candidates as electrode materials for rechargeable lithium batteries, electrochromic displays, or smart windows. The open structure of M2(X04)3 supports fast Li or Na ionic conduction and allows up to at least four alkali cations per formula unit in the interstitial space. The NASICON framework is thus a promising host for Li battery cathodes; it can also be used for mapping our various M atom redox potentials with variation of the counter cation X for an isostructural series of compounds. Lithium can be inserted into the NASICON host either chemically or electrochemically provided the metal
+
+atom present in the structure is reducible by elemental lithium. In this work, phosphates such as Li2FeTi(P04)3, and LiNa,FeV(PO4)3, LiFeNb(PO4)3 with NASICON structure were synthesized by employing various techniques; electrochemical insertion and extraction of lithium was performed to establish the relative positions of the Nb4/Nb3, Nb't/Nb4, Ti47Ti3, Fe37Fe2, V4/V3, and V37V2 redox couples. Some of the phosphates with NASICON structure look very attractive as positive electrode materials for rechargeable lithium batteries.
+
+We distinguish the NASICON M2(XO4)3 framework from the monoclinic framework of Fe2(SO4)3 in which the "lantern" units are stacked in a zigzag fashion. This monoclinic polymorph is not to be confused with a slight distortion of monoclinic symmetry of the NASICON structure as a result of an ordering of the mobile alkali ions into the M(2) sites 18e.
+
+In our previous work67 we have reported the positions of Fe37Fe2 and V3/V2 redox couples in sulfates as well as in phosphates, and it was observed that by changing from phosphates to sulfates the positions of these redox couples relative to each other remained constant, only their absolute positions varied by 0.8 eV. We also observed that Li3Fe2(PO4)3 with NASICON structure yields better perf ormance than the monoclinic polymorph at higher current densities owing to the larger size of the bottlenecks for lithium diffusion in the NASICON structure than its monoclinic polymorph.6
+
+The Na superionic conductor Na3Zr2Si2PO,2, NASICON belongs to a class of NZP (NaZr2(P04)3) phases with the general formula Na1Zr,Si1.P3O12. It has an open 3D framework of Zr06 octahedra sharing all corners with X04 (X = Si or P) tetrahedra, tetrahedra sharing all the corners with Zr06 octahedra as shown in Fig. 1; the 3D-linked interstitial space is occupied by alkali A ions. The interstitial space contains three M(2) sites, 18e, separated by one M(1) site, 6b, per formula unit, which makes the interstitial space three-fourths filled with Na ions in NASICON (Na3Zr,Si2PO12). A slight distortion to monoclinic symmetry at room temperature suggests ordering of the Na ions in the M(2) sites; but fast Na ion conductivity at 300°C shows that they are disordered at this temperature.
+
+The framework of NASICON may be described as a stacking of corner-shared [Zr,X3018} "lantern" units parallel to the c-direction.
+
+LiNa2FeV(PO4)3 and Li2NaV2(P0j3 were synthesized by chemical extraction of sodium atoms from Na3FeV(PO4)3 and Na3V2(P04)3 followed by chemical insertion of lithium atoms. Na3FeV(P0j3 and Na3V(PO4)3 were prepared by direct decomposition and solid-state reaction of stoichiometric amounts of NaH2PO4 H2O, V,03, and Fe203. The mixture was first decomposed at 300°C and, after regrinding, the temperature of the sample was slowly raised to
+
+900°C where it was held for 24 h before being slowly cooled. The reaction had to be performed under argon atmosphere in order to prevent the oxidation of V'. Na3FeV(P04)3 and Na3V(P04)3 are isotopic with the slightly distorted monoclinic NASICON Na3Zr2Si2PO12' and Na3Fe2(P04)3, 2 as can be seen from the x-ray diffraction (XRD) patterns in Fig. 2, due to an ordered distribution of Na ions in the M(2) sites. The lattice parameters in Table I increase monotonically as the Fe atoms are replaced by V atoms in the structure.
+
+Treatment of Na3FeV(P04)3 and Na3V(P04)3 with molten LiNO. at 300°C to obtain the lithium analogs resulted in decomposition of the phases. Contrary to the earlier report by Gopalakrishnan et at.,9 the use of Cl2 gas in CHC13 to extract Na° ions from Na3V2(P04)3 to get V2(P04)3 in the NASICON structure proved unsuccessful. The oxidizing power of Cl2 was just strong enough to access the V4 °/V3 + redox couple and not the V°/V4 couple; only two sodium atoms could be extracted from Na3V2(P04)3 resulting in NaV2(P0j3. Moreover, it was quite difficult to remove NaC1, the by-product of the above reaction. In this work, the compounds were treated with NO2PF6 (nitronium hexafluorophosphate) in acetonitrile, which is a much more powerful oxidizing agent than Cl2 in CHC13,'° to extract Na ions. However, it was only possible to extract one and two sodium ions from Na3FeV(P04)3 and Na3V2(P04)3 to obtain the rhombohedral forms of Na2FeV(P04)3 and NaV2(P04)3, respectively. These resultant phases were treated with Lii in CH3CN to obtain the lithiated phases LiNa2FeV(P04)3 and Li2NaV2(P04)3 with the rhombohedral NASICON framework; these later phases were subsequently used in coin-type cells for their electrochemical characterization.
+
+All the materials were characterized by atomic absorption spectroscopy (AAS) to obtain their sodium and lithium content. The volume of the unit cell per formula unit for
+
+(b) Na3FeV(P04)3, and Cc) No3V2(P0J3 with slightly monoclinic àeformotion of the NASICON framework.
+
+Na2FeV(P04)3 barely changed upon lithiation, but there was a visible reduction of the a-parameter and enlargement of the c-parameter. The same observation was noticed in the case of Na3..LirV,(PO4), suggesting similar changes in the relative distribution of alkali ions upon lithiation. Figure 3 shows the XRD patterns of the lithiated phases Li3Fe+(P04)3, Li2NaV,(PO4), and LiNa,FeV(P04)3 The XRD patterns in Fig. 4 show the extraction of sodium from Na3FeV(P04)3 to obtain Na9FeV(P04)3 and subsequent lithiation to produce LiNa2FeV(P04)3.
+
+T1Nb(P04)3 was prepared by solid-state reaction of Ti02, Nb2O, and NaH2PO4 H20. A stoichiometric mixture was mixed thoroughly in an agate mortar and heated at 250°C for 6 h to drive away NH3 and HO and other gaseous products. The mixture was then heated at 600, 900, and 1200°C for 24 h, each with intermittent grinding. Rhombohedral LiFeNb(P04)3 and LioFeTi(PO4): were prepared from NaFeNb(PO4). and Na9FeTi(P04)., respectively, via ionic exchange with molten LiNO: at 300°C. Attempts to prepare LiFeNb(P04)3 and Li2FeTi(P04)3 by direct solidstate reaction proved to be futile; monoclinic Li3Fe2(P04)1 always formed as an impurity. The compounds with sodium were prepared from NaHCO, Fe203, Nb205, Ti02, and NaH2PO4 H20. The stoichiometric mixtures were ground
+
+Table I. Lattice parameters of various compounds with NASICON structure.
+
+Fig. 3. XRD patterns of isofypic lithium-containing rhombohedral (b)
+
+phases with NASICON framework (a) L12NaV2(P04)3, and (c) LiNa2FeV(P04)3.
+
+and heated at 250 and 600°C for 12 h each with intermittent grinding. Na2FeTi(P04)3 formed at 950°C and NaFeNb(P04)3 formed at 1100°C with heating for 24 h. The XRD patterns of the isotypic rhombohedral phases Na2FeTi(P04)3, NaFeNb(P04)3, and TiNb(P04)3 with the
+
+NASICON framework are given in Fig. 4. The compounds with sodium were then treated with an excess of molten LiNO3 for 2 h at 300°C to accomplish an exchange of Na with Li before being cooled, washed in water, and dried. To ensure complete ion exchange, the above procedure was repeated several times. Analysis of the final product by atomic absorption spectroscopy yielded Li0 97Na0 03FeTi(P04)3 and Li1 95Na0 05FeTi(P04)3. TiNb(P04)3 nominal LiFeNb(P04)3, and Li2FeTi(P04)3 were used to positive electrodes in corntype cells for electrochemical lithium intercalation. Figure 5 compares the XRD patterns of Na2FeTi(P04)3, and Li2FeTi(P04)3, both having the rhombohedral NASICON framework.
+
+The lattice parameters of TiNb(P04)3 matched very well with Powder Diffraction File No. 25-0984. All the phases belong to the space group R3c. As the lithium intercalation was done in an electrochemical cell, it was difficult to determine the cell parameters of the electrochemically intercalated phases. In the case of Na2FeTi(P04)3, the caxisis expanded and the a-axis is compressed as sodium is replaced with lithium similar to the observation in the case of Na3FeNb(P04)3. The change in axial ratio is the just opposite in the case of NaFeNb(P04)3, where the c-parameter decreases, and there is a slight increase in the value of a-parameter as sodium is replaced by lithium. The decrease in volume is 3.2% in the case of Na2FeTi(P04)3 and 1.9% for NaFeNb(P04)3; in the former case, two sodium atoms are replaced with two lithium atoms in the latter case only one sodium atom is replaced. Changes in the relative distribution of Na and Li ions over M(1) and M(2) sites were not determined.
+
+Electrochemical characterization of the materials was made with coin-type cells (Type 2023). After the materials were ground to fine particles with a milling machine, they were mixed/blended with acetylene black and polytetrafluoroethylene (PTFE) in the weight ratio 70:25:5. This cathode mixture, after being held at 140°C for 2 h, was
+
+Fig. 4. XRD patterns of sotypic rhombohedral phases with the NASICON framework (a) Na2FeTi(POJ3, (b) NaFeNb(POJ3, and (c) TiNb(POJ3.
+
+Fig. 5. XRD patterns of isotypic rhombohedral phases with the NASICON framework (a) Na2FeTi(P04)3 and (b) its lithium analog Li2FeTi(P04)3 obtained by ionic exchange.
+
+J. Electrochem. Soc., Vol. 144, No. 8, August 1997 The Electrochemical Society, Inc.
+
+rolled into thin sheets of uniform thickness and cut into pellets of the required size for coin-cell fabrication. The electrolyte was 1 M LiC1O4 in a 1:1 mixture of propylene carbonate (PC) and dimethoxyethane (DME). Lithium foil was used as the anode. The coin cell was fabricated in a glove box under argon atmosphere. Cell performance was evaluated by galvanostatically discharging and charging the cell at various current densities at room temperature with an Arbin battery tester system (ABTS). Ionic-conductivity measurements were performed on some of these phosphates with ac impedance spectroscopy; they yielded fairly high values, as expected.
+
+The electrochemical characterization of rhombohedral LiNa0FeV(PO4), performed galvanostatically at a current density of 0.075 mA/cm2 between voltage limits of 4.3 and 1.5 V, is shown in Fig. 6. The discharge curve in the first cycle, after initial charging, corresponds to the insection of —2.3 Li' ions into a formula unit of Na0FeV(P04)3 and has three steps at approximately 3.8, 2.8, and 1.7 V vs. lithium, respectively. The initial oxidation states of the transition metal elements Fe and V are, respectively, 3' and 4 in Na2FeV(P04)3 and the Fe/Fe2' redox couple in this phosphate structure lies 2.8 eV below the Fermi energy of lithium.6 Therefore, the other two steps in the discharge curve at 3.8 and 1.7 V vs. lithium in Fig. 6 can be unambiguously attributed to the V4'/V'1' and V3'/V2' redox couples, respectively.
+
+Attempts to chemically extract all the sodium atoms from monoclinic Na.V2(PO4)3 with a NASICON framework by treatment with NO2PF(, in acetonitrile resulted in the extraction of only two sodium atoms. Subsequent treatment with Lii in acetonitrile yielded Li9NaV,(P04)3, which was electrochemically characterized (Fig. 7). Initial charging up to 4.3 V at a rate of 0.25 mA/cm2 resulted in a plateau at —3.8 to 3.9 V vs. lithium. During discharge, this plateau was reproducible; but it only corresponded to the insertion of 1.5 lithium atoms into a formula unit. Further insertion of 1.5 lithium atoms occurred at a plateau corresponding to —1.7 V in the V(x) curve. From these observations, it can be concluded that in the NASICON structure the V"/V3' redox couple is located at approximately 2.1 eV below the V3'/V2' redox couple, which is 1.7 eV below the Fermi level of lithium, and 1.1 eV above the Fe3'/Fe2' redox couple. The intercalation of lithium into rhombohedral Li2FeTi(P04)3 (F&' and Ti"), prepared by ionic exchange from its sodium analog, is shown in Fig. 8. The discharge and charge curves show that two lithium atoms can be inserted into the structure reversibly at various current
+
+Capacity [mAh/g]
+
+Fig. 7. Discharge curves for a rhombohedral Li2NaV2(P04)3/ LiClO4 + PC + DME/Li coin cell at a current density of 0.25 mA/cm2.
+
+densities. The range from 3.0 to 2.6 V, corresponding to the insertion of the first lithium, may be attributed to the F&'/Fe2 redox couple; a similar voltage range with respect to lithium was found in the V(x) curves for lithium intercalation into Li2Fe(PO4). with NASICON and monoclinic Fe2(504)2 structures, respectively.68 The voltage range 2.7 to 2.5 V corresponds to the insertion of a second lithium; it signals the Ti4'/Ti" redox couple. Li9FeTi(P04)3 looks like a material that can withstand very high current density. The specific capacity and closed-circuit voltage of Li,FeTi(PO4). compares well with that of rhombohedral Li3Fe2(P04)1. The NASICON structure has one M(1) and three M(2) sites for alkali-metal atoms in the structure. Whereas the complete discharge of Li3Fe2(P04)3 forces a fifth lithium into the structure, the discharge of Li2FeTi(P04)3 does not incorporate five lithium atoms, which is favorable for a longer cycle life.
+
+Rao et a!.' have shown that two lithium atoms can be inserted into one formula unit of TiNb(P0j3. Figure 9 shows the discharge and charge characteristics of TiNb(P04), with Ti" and Nb5. It was possible to electrochemically insert three lithium atoms into the structure and access the Nb47Nb3' redox couple. Since the position of the Ti4'/Ti" redox couple was found to be located at 2.7 and 2.5 eV below the Fermi energy of lithium in the case of Li2FeTi(P04)3, we may identify the part of the discharge curve in Fig. 9 corresponding to the insertion of the first lithium atom into a formula unit of TiNb(P04), with the
+
+Fig. 6. Discharge curves for a rhombohedral Li,Na2FeV(P04)3/ LiCIO4 + PC + DME/Li coin cell at a current density of 0.075 mA/cm2.
+
+Fig. 8. Discharge curves for a Li2FeTu(P0J3/LiClO4 + PC + DME/LI
+
+coin cell at variable current densities.
+
+Table II. Relative energy of the redox couples in materials with
+
+Fig. 9. Discharge curve for a ruNb(P04)3/LiClO4 + PC + DME/Li
+
+coin cell at .0 mA/cm2 (2.8 mA/g).
+
+fl4/Ti3 redox couple. The voltage range from 2.5 to 2.2 V is a result of the insertion of a second lithium atom into the formula unit and corresponds to the Nb5/ redox couple. The plateau at 1.8 V resulting from the insertion of a third lithium atom into the formula unit at TiNb(P04)3 corresponds to the Nb47Nb3 redox couple. These assignments are in agreement with the previous result'2 for Li1_Ti2(PO4)3, which gives a flat plateau at 2.5 V due to the presence of two phases, LiTi2(P04)3 (hexagonal) and Li3Ti2(P04)3 (orthorhombic). The presence of another transition metal in the structure seems to suppress the formation of the second phase. Figure 9 also shows that lithium can be extracted reversibly from the structure.
+
+Figure 10 shows the intercalation of lithium into LiFeNb(P04)3; it shows that the curve verifies the previous results on the positions of the Fe3/Fe2, Nb57Nb", and Nb47Nb3 redox couples. It is possible to insert three lithium atoms into the structure; and there are three distinct plateaus in the discharge curve. Unlike Ti4/Ti3 and Nb5/Nb" redox couples in TiNb(P04)3, the Fe3/Fe2 and Nb57Nb4 redox couples are quite distinct as they are separated by ——0.4 eV.
+
+By intercalating lithium into materials with a NASICON framework having different transition metal cations, the positions of the various redox couples with respect to the Fermi energy of lithium were determined. The result of this study is summarized in Table II and in Fig. 11 and 12.
+
+Capacity [mAh/g]
+
+Redox couple
+
+Compounds
+
+Average Polyanion range (V) voltage (V)
+
+Voltage
+
+To confirm the validity of the position of a particular redox couple, lithium intercalation was performed on more than one material having the same redox couple. It was found that several redox couples overlap each other, e.g., there is an overlap of the Fe37Fe2 and Ti/Ti redox couples in Li2+)'eTi(P04)3, and of the Ti'7Ti3 and Nb5/Nb4 couples in LiTiNb(PO4)3. In LiTiNb(PO4)3 and Li,+eNb(PO4)3, the Fe37Fe2 and Ti4/Ti couples lie below the Nb5/Nb4 redox couple, and the Nb47Nb3 couple is accessible, lying only about 0.5 eV above the Nb5/Nb4 redox couple. Among all the couples studied, the V4/V3 redox couple was the most stable, lying —3.8 eV below the Fermi energy of lithium; and the V37V2 redox couple was the least stable lying only 1.7 eV below the Fermi level of lithium. The presence of dissimilar M cations in the NASICON structure, which seems to stabilize the rhombohedral phase during the intercalation process, has little effect on the positions of the redox couples. In this structure the octahedral site M cations are isolated from one another by the bridging polyanions.
+
+In our previous study6'7 of the intercalation of lithium into rhombohedral V2(S04)3 and Fe2(S04)3 with NASICON frameworks, we had determined the positions of the V3/V2 and Fe37Fe2 redox couples at 2.5 and 3.6 eV
+
+Fig. 10. Discharge curves for a LiFeNb(PQJ3/LiCIO4 + PC +
+
+DME/Li coin cell at 1.0 mA/cm2 (2.6 mA/g).
+
+Fig. 11. Relative energies of redox couples in materials having
+
+J. Electrochem. Soc., Vol. 144, No. 8, August 1997 The Electrochemical Society, Inc.
+
+battery voltages are obtained with Fe, V, and Ti. Several materials studied in this work appear to be commercially attractive as positive electrode materials for rechargeable lithium batteries with high power density. The Li3Fe2(P04)3 phase having the rhombohedral NASICON framework can be prepared by ionic exchange from its sodium analog Na3Fe2(P04)3; it shows a continuous solid solution over the range 0 <x c 2 with a closed-circuit voltage at 1 mA/cm2 (23 mA/g) centered at 2.8 V vs. lithium with a capacity of 95 mAh/g.° Li2FeTi(P0j3 having the NASICON framework also looks promising as a cathode material with a voltage ranging from 3.0 to 2.5 V at fairly high current densities.
+
+Manuscript submitted Jan. 29, 1997; revised manuscript
+
+received April 10, 1997.
+
+The University of Texas at Austin assisted in meeting the
+
+publication costs of this article.
+
+Fig. 12. Relative energies of the Fe3/Fe2 and V/V redox couples in sulfates and phosphates having the NASICON frameworks.
+
+below the Fermi level of lithium, respectively. The difference of 1.1 eV between them is the same as that found in phosphates. A change from sulfate to phosphate ions lowers the open-circuit voltage of isostructural compounds by 0.8 V, reflecting a shift in the energy of the redox couples through the decreased competition from the P atom for covalent mixing with oxygen. The weaker the competition, the stronger the covalent mixing at the given transition metal cation and the higher are the energies of the redox couples.
+
+The (X04)" polyanions not only form framework structures that can support fast Lit-ion conduction for higher power density; they also lower the positions of the transition metal redox couples due to a polarization of the oxygen in the polyanionic complex, and technically attractive
+

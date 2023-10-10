@@ -1,0 +1,126 @@
+The glass–ceramics consisting of Nasicon-type Li3Fe2 (PO4)3 crystals with an orthorhombic structure are developed through conventional crystallization in an electric furnace, showing electrical conductivities of 3 × 10− 6 Scm− 1 at room temperature and the activation energies of 0.48 eV (x = 5) and 0.51 eV (x = 10) for Li+ ion conduction in the temperature range of 30–200 °C.
+A continuous wave Nd:YAG laser (wavelength: 1064 nm) with powers of 0.14–0.30 W and a scanning speed of 10 μm/s is irradiated onto the surface of the glasses, and the formation of Li3Fe2(PO4)3 crystals is confirmed from XRD analyses and microRaman scattering spectra.
+The crystallization of the precursor glasses is considered as new route for the fabrication of Li3Fe2(PO4)3 crystals being candidates for use as electrolyte materials in lithium ion secondary batteries.
+Lithium ion secondary batteries have been widely used as energy sources of laptop-type personal computers, mobile phones and other electronic devices.
+From the points of cost and safety, developments of all solid-state lithium ion batteries without using rare metals such as cobalt (high cost) and organic electrolytes (flammable) are strongly desired.
+Lithium iron phosphates such as olivine-type LiFePO4 and Nasicon-type Li3Fe2(PO4)3 have been proposed to be new candidates for the next generation of rechargeable lithium ion batteries.
+They are environmentally benign, and have low raw materials cost.
+In particular, since LiFePO4 has a high theoretical capacity of 170 mAh/g, many studies on the fabrication and characterization of LiFePO4 crystals have been carried out so far.
+LiFePO4 crystals are, therefore, considered to be suitable cathode materials.
+Li3Fe2(PO4)3 has β-Fe2(SO4)3-type crystal structure being similar to the Nasicon-type structure and has the relatively high electric conductivities resulting from the disorder of lithium ions in the structure .
+It has been suggested that Nasicon-type crystals such as Li3Fe2(PO4)3 can be used as solid electrolytes .
+It should be pointed out that the valences of iron ions in Li3Fe2(PO4)3 and LiFePO4 crystals are Fe3+ and Fe2+, respectively.
+Thus, it would be of importance to understand the features of both Li3Fe2(PO4)3 and LiFePO4 crystals from the practical point of view in lithium ion secondary batteries based on lithium iron phosphates.
+These new lithium ion conducting materials have been commonly synthesized via solid-state reactions, co-precipitation, hydrothermal methods, etc.
+Recently, the present authors' group proposed a glass– ceramic processing as a new route for the fabrication of LiFePO4 crystals and succeeded in patterning crystal lines with an assemblage of LiFePO4 crystals on the glass surface by irradiation with a continuous wave (cw) Nd:YAG laser with a wavelength of λ=1064 nm.
+The crystallization of glass is a method for the fabrication of dense condensed materials with desired shapes and also nanostructures, and thus it is of interest to apply a glass–ceramic processing for the fabrication of new lithium ion secondary batteries.
+A laser-induced spatially selected local crystallization technique might lead to the fabrication of microscale lithium ion batteries.
+Thokchom and Kumar reported lithium ion conductive glass–ceramics consisting of Li1 + xAlxTi2 − x (PO4)3 in the system of Li2O–Al2O3–TiO2–P2O5.
+In this paper, we focus our attention on the fabrication of glass–ceramics consisting of Nasicon-like type Li3Fe2(PO4)3 crystals.
+We also consider the patterning of Li3Fe2(PO4)3 crystal lines on the glass surface by Nd:YAG laser irradiation.
+There have been no reports on the processing of glass–ceramics with Li3Fe2(PO4)3 crystals so far.
+In this study, we developed new glasses allowing the formation of Li3Fe2(PO4)3 crystals through the crystallization in the system of Li2O–Fe2O3–Nb2O5–P2O5 and found that crystal lines consisting of Li3Fe2(PO4)3 crystals can be patterned by laser irradiation.
+The composition of 37.5Li2O–25Fe2O3–37.5P2O5 (mol%) corresponding to that of Li3Fe2(PO4)3 does not form a glassy state in a conventional melt quenching method.
+In the previous paper, it was found that a small addition of Nb2O5 is effective in forming glasses in the system of Li2O–FeO–P2O5. 
+We therefore examined the system of Li2O–Fe2O3–Nb2O5–P2O5, in particular the compositions of 37.5Li2O–(25−x)Fe2O3−xNb2O5–37.5P2O5 (mol%) (x = 5,10,15).
+Commercial powders of reagent grade Li2CO3, Fe2O3, Nb2O5, and NH4H2PO4 were mixed and heated at 300 °C for 12 h in air.
+Then, the mixtures were melted at 1200 °C for 12 min in air using an alumina crucible and were poured onto a stainless steel plate and pressed to a thickness of 1–1.5 mm by another iron plate.
+The glass transition, Tg, and crystallization peak, Tp, temperatures were determined using differential thermal analyses (DTA) at a heating rate of 10 K/min.
+The quenched glasses were annealed at Tg for 90 min to release internal stress.
+Optical absorption spectra were taken in the wavelength of 300– 3000 nm on a SHIMADZU UV-3150 spectrometer.
+The glasses were heat treated at around Tp, and the crystalline phases present in the crystallized samples were identified by X-ray diffraction (XRD) analyses (CuKα radiation) at room temperature.
+Micro-Raman scattering spectra at room temperature for the precursor glasses and crystallized samples were taken in the wave number (Raman shift) range of 300– 1200 cm− 1 with a laser microscope (Tokyo Instruments Co., Nanofinder) operated with a Ar+ (488 nm) laser.
+Electrical conductivities of heat-treated samples were measured by an alternating current (AC) impedance method using an impedance analyzer (YHP 4192A) in the range of 5 Hz–13 MHz at room temperature.
+The activation energy of the electrical conductivity for the glass–ceramics was measured in the temperature range of 30–200 °C.
+A continuous wave (cw) Nd:YAG laser operating at λ = 1064 nm was irradiated onto the polished surface of the glasses with a mirror finish.
+The laser beam was focused on the surface of the glasses using an objective lens (magnification 20, numerical aperture NA = 0.4).
+Focused positions of laser beams were moved at a constant speed using a three-dimensional translation stage.
+The laser power was 0.14–0.30 W, and the translation speed of the sample stage was fixed to 10 μm/s.
+The surface morphology of the lines patterned by Nd:YAG laserirradiation was examined from polarized optical microscope and confocal scanning laser microscope (Olympus OLS3000) observations.
+The crystalline phases in the lines were determined from XRD analyses and micro-Raman scattering spectra.
+The XRD patterns for the melt-quenched samples are shown in Fig.1.
+ For the sample of 37.5Li2O–25Fe2O3–37.5P2O5 without Nb2O5, many sharp peaks are observed, and they are assigned to Li3Fe2(PO4)3 crystals with a structure close to the αphase (monoclinic).
+This suggests that the valence of iron ions in the sample melted at 900 °C would be mainly Fe3+.
+On the other hand, for the samples with Nb2O5 addition (x = 5, 10, 15), no sharp peaks were observed, indicating that the melt-quenched samples are in the glass state.
+Abreu et al. examined the glass formation, structure, and crystallization behavior of 0.1Nb2O5–0.4P2O5–0.5Li2O–yFe2O3 (y = 0.1–0.5) samples obtained by a conventional melt quenching method (1200 °C, 1 h, in air) and found that the melt-quenched samples with x = 0.1–0.3 are glasses, but those with x = 0.4 and 0.5 are crystallized, giving mainly LiFePO4 crystals.
+The meltquenched sample with y = 0.3 corresponds to 38Li2O– 23Fe2O3–7.7Nb2O5–38P2O5 (mol%) and is similar to the samples prepared in this study, i.e., 37.5Li2O–(25−x)Fe2O3−xNb2O5− 37.5P2O5. 
+They reported from Mössbauer effect measurements that the valence of iron ions in the glass with y=0.3 is mainly Fe3+, i.e., Fe3+/(Fe3+ +Fe2+)=0.87 and both Fe3+ and Fe2+ ions exist at sites of distorted octahedral coordination as network modifiers.
+The DTA patterns for the melt-quenched samples with x = 5, 10 and 15 are shown in Fig.2. 
+Endothermic peaks due to the glass transition and exothermic peaks due to the crystallization are observed, giving the values of Tg = 468 and Tp = 537 °C for the glass with x = 5, Tg = 479 and Tp = 617 °C for the glass with x = 10, and Tg = 510 and Tp = 737 °C for the glass with x = 15. 
+The optical absorption spectra for the glasses with x = 5 and 10
+at room temperature are shown in Fig.3. 
+The broad peaks are observed at around 1000 and 2000 nm.
+The origin of the absorption peak at around 2000 nm is not clear at this moment.
+These spectra indicate that both Fe3+ and Fe2+ ions are present in the glasses prepared in this study.
+The optical absorption coefficient, α, at 1064 nm is 150 cm− 1 for the glass with x = 5 and 111 cm− 1 for the glass with x = 10.The results shown in Figs.
+1 and 2 demonstrate clearly that the addition of Nb2O5 is effective in forming glasses in the Li2O–Fe2O3–P2O5 system and enhances largely the thermal stability against the crystallization.
+The structure and properties of niobium phosphate glasses have been studied by some authors [18–20], and it has been reported that niobium is a glass former in phosphate glasses and that the crystallization peak temperature increases as the niobium concentration increases.
+The present study suggests that Nb2O5 might act as a glassforming oxide in Li2O–Fe2O3–Nb2O5–P2O5 glasses.
+The XRD patterns for the glass–ceramics obtained by heat treatments at various temperatures (620–710 °C) for 90 min in air in 37.5Li2O–15Fe2O3–10Nb2O5–37.5P2O5 glass with Tg = 479 °C and Tp = 617 °C are shown in Fig.4. 
+The XRD peaks in all these crystallized samples are assigned to Nasicon-type Li3Fe2 (PO4)3 crystals with an orthorhombic structure (γ-phase, space group: Pcan).
+In particular, the samples obtained by heat treatments at temperatures (620–650 °C) close to Tp (617 °C) show only the formation of Nasicon-type Li3Fe2(PO4)3 crystals.
+In the crystallized (710 °C) sample, the formation of unidentified crystalline phases is present beside Nasicon-type Li3Fe2(PO4)3.
+ The XRD patterns for the bulk (surface) and powdered samples of the glass–ceramics with x = 10 obtained by a heat treatment at 620 °C are shown in Fig.5. 
+Both samples show almost the same XRD patterns, indicating that Nasicon-type Li3Fe2(PO4)3 crystals are formed not only at the surface but also in the interior of the glass.
+The DSC measurements for the crystallized samples were carried out to examine whether the glassy phase is still present in the crystallized samples.
+No other exothermic peaks were detected in the DSC patterns, suggesting that the samples obtained by heat treatments at around Tp are sufficiently crystallized.
+The XRD patterns for the glass–ceramics obtained by heat treatments at ~Tp for 90 min in air in 37.5Li2O–(25− x)Fe2O3– xNb2O5–37.5P2O5 glasses are shown in Fig.6.
+ In the glass– ceramics with x = 5 and 10, only Nasicon-type Li3Fe2(PO4)3 crystalline phase is formed, but the formation of unidentified phases was observed in the glass–ceramics with x = 15. These results indicate that the amount of Nb2O5 additions should be less than 10 mol% and the glasses should be crystallized at temperatures of ~Tp for the fabrication of glass–ceramics with Nasicon-type Li3Fe2(PO4)3 crystals with an orthorhombic structure in Li2O–Fe2O3–Nb2O5–P2O5 glasses.
+The cole–cole plots for the 37.5Li2O–15Fe2O3–10Nb2O5– 37.5P2O5 glass–ceramics obtained by a heat treatment at Tp= 617 °C in the range of 5 Hz–13 MHz at temperatures of 31–81 °C is shown in Fig.7, as an example.
+Clear semicircles are observed and no second semicircles appear at temperatures of 31, 48, and 81 °C.
+Similar results were obtained in other glass– ceramics.
+The capacitance, C, was calculated using the equation of C=τ/R, where τ is relaxation time given by τ= 1/ 2πftop, R is resistance, and ftop is the frequency corresponding to the maximumvalue of Z' (imaginary part) in the semicircle as shown in Fig.7. 
+The values of the capacitance for the glass–ceramics were estimated to be 13~17 pF.
+Empirically, the capacitance for the bulk ionic conduction is in the order of pF, and for the grain boundary it is in the order of nF.
+The results obtained therefore, indicate that the main resistance component in the glass– ceramics with Li3Fe2(PO4)3 crystals in the frequency range of 5 Hz–13 MHz is a bulk resistance and the contribution of grain boundaries would be small.
+The electrical conductivities at room temperature for the glass–ceramics obtained by heat treatments at ~Tp for 90 min in air are shown in Fig.8 as a function of Nb2O5 content.
+It is seen that the electrical conductivity is in the order of σ = 10− 6 Scm− 1 and decreases slightly with increasing Nb2O5 content.
+Ivanov-Schitz et al. reported a value of σ = 10− 8 Scm− 1 at 300 K for Li3Fe2(PO4)3 ceramics prepared by an ultrasonic spray pyrolysis method.
+In the previous paper, it was found that the electrical conductivities at room temperature for the glass–ceramics consisting of olivine-type LiFePO4 crystals in 26Li2O–43FeO– 5Nb2O5–26P2O5 (mol%) glass are less than 10− 9 Scm− 1. 
+The higher electrical conductivity of glass–ceramics with Nasicontype Li3Fe2(PO4)3 crystals compared to olivine-type LiFePO4 crystals would be important information for the fabrication of lithium ion secondary batteries in the glass–ceramic processing of lithium iron phosphate glasses.
+The temperature dependence of the electrical conductivity for the glass–ceramics with x = 5 and 10 in the temperature range of 30–200 °C is shown in Fig.9. 
+The activation energy, Ea, was estimated using the Arrhenius equation, σT =σ0exp(−Ea /kT), and was found to be Ea = 0.48 eV for x = 5 and Ea = 0.51 eV for x= 10, where σ is electrical conductivity, σ0 is the pre-exponential factor, T is temperature, and k is the Boltzmann constant.
+These values are close to the values of other Li+ conducting materials such as Ea = 0.48 eV for γ-Li3Fe2(PO4)3 and Ea = 0.50 eV for LiFePO4 .
+It should be pointed out that generally the activation energy for electronic conduction is smaller compared with ionic conduction.
+Therefore, is concluded that the electrical conductivity observed in the glass– ceramics with Li3Fe2(PO4)3 crystals prepared in this study is due to Li+ ion conduction.
+Usually, glass–ceramics (crystallized glasses) are fabricated using well-controlled heat treatments in an electric furnace and desired crystals are formed on the surface or in the interior of the glass, as indicated in the previous section.
+On the other hand, the laser irradiation of glass has been regarded as a process for spatially selected structural modifications and crystallizations in glasses and recently has received much attention.
+The present authors' group developed a technique for laser-induced crystallizations in glasses, which is called the transition metal atom heat (TMAH) processing.
+Some portion of irradiated laser energy is absorbed by TM ions in the glasses through d–d transitions, and the laser energy absorbed by TM ions is transferred to the thermal energy (lattice vibration) through nonradiative relaxation between the excited state and the ground state, inducing the heating of the surrounding of TM ions.
+If the temperature of the laser laser-irradiated region reaches to the crystallization temperature of a given glass, consequently a crystallization is induced.
+Using this technique, the patterning of crystal lines consisting of nonlinear optical or ferroelectric crystals such as Ba2TiGe2O8, Sr0.5Ba0.5Nb2O6, or LiNbO3 has been achieved by just scanning Nd:YAG lasers.
+Very recently, the patterning of lines with olivine-type LiFePO4 crystals has been reported on the surface of Li2O– FeO–Nb2O5–P2O5 glasses .
+As stated in the previous section, it was clarified that the Nasicon-type Li3Fe2(PO4)3 crystals are formed in 37.5Li2O– (25− x)Fe2O3–xNb2O5–37.5P2O5 (mol%) (x = 5,10,15) glasses through conventional crystallization in an electric furnace.
+It is, therefore, expected that cw Nd:YAG laser (λ = 1064 nm) irradiation would induce a formation of Li3Fe2(PO4)3 crystals.
+Moreover, it is of interest to examine the possibility of the patterning of lines with an orientation of Li3Fe2(PO4)3 crystals.
+The confocal scanning laser micrographs for the samples obtained by Nd:YAG laser irradiation in 37.5Li2O–(25− x) Fe2O3–xNb2O5–37.5P2O5 (mol%) (x = 5,10) glasses are shown in Fig.10 (x = 5) and Fig.11 (x = 10), in which the laser irradiations were carried out under varying laser power.
+It is seen that structural changes, i.e., the formation of bumps, are induced in both glasses by laser irradiation.
+Bumps with relatively smooth surfaces are observed under laser irradiation with small power, but periodic bumps tend to appear under laser irradiation with high power.
+the bumps, H,The micro-Raman scattering spectra for the lines induced by laser irradiation are shown in Fig.12 (x = 5) and Fig.13 (x = 10).
+The Raman scattering spectra for the glass (no laser laserirradiated part) and Li3Fe2(PO4)3 crystals synthesized by a conventional solid solid-state reaction (300 °C,10 h + 800 °C, 24 h, in air) are also included in these figures.
+The Raman scattering spectrum for the glass shows broad peaks at ~472,637, 847, and 1007 cm− 1. 
+On the other hand, Nasicon-type Li3Fe2(PO4)3 crystals give several sharp peaks at 451, 1003, 1064, and 1108 cm− 1. 
+The structure of Nasicon-type Li3Fe2 (PO4)3 is based on a three-dimensional network of FeO6 octahedra and PO4 tetrahedra sharing oxygen vertices, and lithium ions are located in interstitial voids in the framework .
+According to Butt et al. the Raman active bands related to PO4 vibrations are located at 451, 996, 1065, and 1100 cm− 1.
+As can be seen in Fig.12,in the line induced by laserthe lines induced by laser irradiation give Raman bands with strong intensities.
+For example, irradiation with P = 0.24 W, strong peaks appeared at 447, 1003, and 1073 cm− 1. 
+Furthermore, it is concluded that the scanning speed of S = 10 μm/s would give enough time to induce atomic rearrangements for the crystallization of Li3Fe2(PO4)3 in the glass with x = 5.
+ As shown in Fig.13, similar features were observed in the glass with x = 10. 
+But in this sample with x = 10, it is found that laser irradiation with a power higher than 0.24 W is needed to induce lines consisting of Li3Fe2(PO4)3 crystals were obtained by a conventional powder crystals.
+These features are consistent with the result (e.g., Fig.2) that the addition of Nb2O5 enhances largely the thermal stability against the crystallization in Li2O–Fe2O3– P2O5 glasses.
+The difference (Fig.3) in the optical absorption coefficient at λ = 1064 nm between the glasses with x = 5 and x = 10 might also have an effect for the laser-induced crystallization behavior.
+The XRD patterns for the assemblage of 100 lines patterned by cw Nd:YAG laser irradiation in the glasses with x = 5 and 10 are shown in Fig.14. 
+Some peaks assigned to Nasicon-type Li3Fe2(PO4)3 crystals are observed, again demonstrating the formation of Nasicon-type Li3Fe2(PO4)3 crystals on the surface of Li2O–Fe2O3–Nb2O5–P2O5 glasses.
+With respect to the orientation of Li3Fe2(PO4)3 crystals along the laser scanning direction, we cannot draw any clear conclusions from the data shown in Fig.14.
+ In the previous paper, the orientation of olivine-type LiFePO4 crystals was proposed in the lines patterned by Nd:YAG laser irradiation in Li2O–FeO–Nb2O5– P2O5 glasses.
+The surface morphology and orientation of Li3Fe2(PO4)3 crystals in the lines will change depending on the temperature profile of the laser-irradiated region.
+Considering the heat balance between laser energy absorbed by iron ions and heat dissipation from the laser-irradiated region to the surrounding glass medium, the temperature of the laser-irradiated region in glass would depend on the amount of iron ions in glass, laser power, laser scanning speed, specific heat and thermal conductivity of glass.
+It is desired to try patterning of Li3Fe2 (PO4)3 crystal lines under various laser irradiation conditionsFig.14. 
+XRD patterns for the assemblage of 100 lines patterned by cw Nd:YAG irradiation in 37.5Li2O–(25 − x)Fe2O3–xNb2O5–37.5P2O5 (mol%) laser (x = 5,10) glasses.
+for glasses with different compositions and to examine the orientation of Li3Fe2(PO4)3 crystals in the lines.
+The glasses with the composition of 37.5Li2O–(25− x) Fe2O3–xNb2O5–37.5P2O5 (mol%) (x = 5,10,15) were prepared, and glass–ceramics consisting of Nasicon-type Li3Fe2(PO4)3 crystals were developed through the conventional crystallization in an electric furnace.
+The glass–ceramics showed an electrical conductivity of 3 × 10− 6 Scm− 1 at room temperature and an activation energy of 0.48 eV (x = 5) and 0.51 eV (x = 10) for Li+ ion conductions in the temperature range of 30–200 °C.
+The lines consisting of Li3Fe2(PO4)3 crystals were also patterned on the surface of the glasses by cw Nd:YAG laser (wavelength: 1064 nm) irradiation with powers of 0.14–0.30 W and a scanning speed of 10 μm/s.
+The crystallization of the precursor glasses was considered as a new route for the fabrication of Li3Fe2(PO4)3 crystals being candidates for use as electrolyte materials in lithium ion secondary batteries.
+
+

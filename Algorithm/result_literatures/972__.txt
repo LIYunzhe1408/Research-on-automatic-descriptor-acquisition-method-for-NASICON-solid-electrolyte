@@ -1,0 +1,55 @@
+We successfully demonstrated the applicability of microcontact impedance spectroscopy (MC IS) on Li+conducting solidelectrolytes and measured the Li+bulk conductivity (σb) of LiTi2(PO4)3 (LTP) and Li1+xAlxTi2-x(PO4)3 (LATP) single crystalsindependent of microstructural effects (e.g., grain boundaries, pores, density).
+
+The crystals had a size of about 100 μm ineach direction and crystallized with NASICON-type structure
+
+Finite element calculations were performed to validatethe impedance data analysis.
+
+ A strong increase in σb in the order of three magnitudes (3.16 × 10-6 to 1.73 × 10-3 S cm-1) wasfound after incorporating 0.1 mol Al3+ per formula unit into LTP.
+
+Moreover, since the crystal structural changes are almostlinear in the LATP system up to x = 0.5, the increase of σb is most probably related to additional Li+sites at the M3 (36f)position.
+
+The additional Li+leads to a displacement of Li+occupying the M1 (6b) sites towards the nearest-neighboring M3position, and therefore opens the fast-conducting pathway within the NASICON structure.
+
+A significant change in σb wasalso observed as the Al3+ content further increased (x = 0.1 to 0.5).
+
+ The highest σb value of 5.63 ×10-3 S cm-1 was obtainedfor samples with x = 0.4.Li1+xAlxTi2-x(PO4)3(LATP) with a NASICON-type structure (NaSuper-Ionic Conductor with space group 	3) is a solidelectrolyte with Li+ion conductivity of approximately 10-4 – 10-3S cm–1 , which makes it acceptable for the construction of anall-solid state Li-ion battery.
+
+NASICON was originallydiscovered in 1976 by Hong et al.as an isostructural Na+-conducting material, namely Na1+xZr2P3-xSixO12.6,7Thereafter, Na+was replaced by Li+to obtain the Li+conducting counterpart.
+
+However, replacing Na+with Li+inLiZr2(PO4)3led to disappointingly low total Li+conductivity(σtotal) of only ~10-9 S cm–1 at room temperature (RT).
+
+A greatenhancement of the Li+conductivity up to 10-6 S cm-1 at RT canbe achieved by substituting Zr4+ with the smaller Ti4+.
+
+8Theadditional partial substitution of Ti4+ by trivalent cations (e.g.,Al3+) made LATP one of the best Li+-conducting materialsamong all inorganic Li+solid electrolytes
+
+Apart from thechemical composition and crystal chemistry, it was also shownthat sintering aids or binders (e.g., Li4P2O7, and Li2O) led to anadditional enhancement of the overall Li+conductivity inNASICON-based materials, regardless of the type and size ofthe trivalent cation used.
+
+The Li+conductivity of solid electrolytes is usually measured byimpedance spectroscopy, which allows the separation of grainand grain boundary contributions.
+
+However, due to the veryhigh Li+bulk conductivity (σb) of LATP (>10-3 S cm-1), thecorresponding arc in the complex impedance plane is in thehigh MHz range and can be conventionally resolved only atvery low temperatures.
+
+Determination of the bulk conductivity is strongly simplifiedwhen large sized single crystals are available; as forpolycrystalline pellets macroscopic electrodes may be used inelectrical measurements and electrical properties can bedetermined without being restricted by the need for a properseparation of partly large grain boundary resistances.
+
+ForLATP, however, as for many other oxides, such large singlecrystals are not available.
+
+Here, a modification of conventionalimpedance spectroscopy comes into play: microelectrodesdeposited on large grains of a polycrystalline sample still allowimpedance measurements which are unaffected by theresistivity of grain boundaries.
+
+This is caused by thespatially very constricted current distribution betweenneighboring microelectrodes.
+
+However, so far this technique oflocal impedance measurements was rarely applied todetermine bulk conductivities in small single crystals.
+
+Rather,properties of individual grain boundaries in polycrystallinematerials were determined15,17,18 or local bulk conductivitieswere analyzed in extended samples with conductivitygradients.
+
+19In this contribution, for the first time micro-contact impedancespectroscopy (MC IS) was applied to small LTP and LATP singlecrystals to exactly determine the Li+bulk conductivity at roomtemperature.
+
+The resulting Li+conductivity is thus independentof microstructural effects (e.g., grain sizes, grain boundaries,density/porosity).
+
+In addition, the single crystals were carefullycharacterized by single crystal X-ray diffraction (SCXRD) andthis enables a precise analysis of the impact of Al3+substitution (e.g., crystal structure, Li+content) on transportproperties and a better understanding of the structureproperty relationship of Li+-based NASICON materials.
+
+The applicability of microcontact impedance spectroscopy todetermine volumetric Li+bulk conductivities of LiTi2(PO4)3andLi1+xAlxTi2-x(PO4)3single crystals at room temperature wassuccessfully demonstrated.
+
+We were able to show that densitycan be excluded as a reason for the strong increase in σb ofthree orders of magnitude (3.12 × 10-6 to 1.73 × 10-3 S cm-1)after substitution with 0.1 mol Al3+ pfu in the LTP structure,which is in contrast to one of the prevailing considerations inprevious studies.
+
+Moreover, since changes in the crystalstructure are almost linear in the LTP-LATP system between x =0 and x = 0.5, the strong increase in σb is related to theadditional Li+at the M3position, which displaces the Li+at M1sites towards the next M3position resulting in fast-conductingions within the NASICON structure.
+
+Finally, σb significantlyincreases as a function of the Al3+ content up to 5.63 ×10-3 Scm-1 for LATP samples with x = 0.1–0.4.

@@ -1,0 +1,18 @@
+Inorganic solid lithium ion conductors are potential candidates asreplacement for conventional organic electrolytes for safety concerns.
+However,achieving a Li-ion conductivity comparable to that in existing liquid electrolytes (>1m Scm−1) remains a challenge in solid-state electrolytes.
+One of the approaches to achieve adesirable conductivity is doping of various elements into the lattice framework.
+Ourdiscussion on the structure and conductivity of crystalline Li-ion conductors includes description on NASICON (NAtrium Super Ionic CONductor)-type conductors, garnet type conductors; perovskite-type conductors, and LISICON (Lithium Super IonicCONductor)-type conductors.
+Moreover, we discuss various strategies currently used toenhance ionic conductivity including theoretical approaches; ultimately optimizing electrolyte/electrode interface and improving cell performance.
+In conclusion, LIBs with liquid electrolytes are still providing a large part of thecurrent energy demand.
+However, serious safety concerns arise due to the usage of liquidelectrolytes.
+Leakage of electrolytes and growth of Li-dendrites caused by contact ofanodes with liquid electrolytes greatly hinder the performance of LIBs.
+Devices operatedat elevated temperatures also suffer from electrolyte evaporation while liquid electrolytesare used.
+Hence, inorganic SEs with room temperature conductivities of >10−3 S cm−1and wide electrochemical stability windows (6 V vs.Li/Li+) have been intensively studied to develop all-solid-state batteries that can be used for applications with widetemperature range.
+Stability of SE/electrode interface is a challenge for facile passage ofLi-ions across the interface.
+From this perspective, we have discussed recent published research activities in synthetic methods and possible dopants, and respective effects onthe crystal lattices of NASICON-type, garnet-type, perovskite-type and LISICON-typeSEs.
+Doping with isovalent or aliovalent elements and addition of additives into theparent structural frameworks enhance the ionic conductivities of SEs due to theframework expansion and increase of mobile Li-ions.
+We have also discussed theinterfacial reactions between SEs and electrodes.
+For example, the solid Li-ion conductorLiTi2(PO4)3-based material, which exhibited high ionic conductivity, was chemically unstable with Li metal due to the reduction of Ti4+.
+Introduction of a protective layer(LiPON film) between SE and Li metal improved the stability.
+Good interfacial contacts between the solid electrolytes and the electrodes can be achieved given the nondeformablenature of the inorganic ceramic SEs.
+However, further studies are needed tobetter understand the interfacial processes between solid electrolytes and electrodes.

@@ -1,0 +1,153 @@
+Carbon dioxide sensing performance of gas sensors using a NASICON (Na3Zr2Si2PO12) solid electrolyte and a Li2CO3-based auxiliary phasewas examined.
+Gradual changes (drifts) in the EMF level with time were observed for the sensor using only Li2CO3 as an auxiliary electrode.
+A new auxiliary electrode material based on Li2CO3 and Nd2O3 was developed to improve the sensing stability.
+The mixture of Li2CO3 andNd2O2+2x(CO3)1−xLi2x was stable to humidity.
+The Nd2O2+2x(CO3)1−xLi2x phase between an auxiliary electrode and NASICON acted as a stablediffusion boundary layer.
+For the mixture of Na2CO3 and Nd2O3, a similar treatment induced formation of only Nd2O2CO3. 
+A higher reactivity ofthe Li+ ions with Nd2O2CO3 and a lower reactivity of the Na+ ions effectively stabilized the diffusion boundary layer.
+The increasing need for reliable and continuous monitoringof CO2 levels in the atmosphere has promoted the developmentof potentiometric sensors using a cation conducting solidelectrolyte and an auxiliary phase on the measuring electrode.
+A potentiometric CO2 sensor with a Li2CO3 layer asan auxiliary electrode shows satisfactory performance with afast response behavior, significant sensitivity and gas selectivity.
+However, poor reproducibility and poor long-term stabilityare observed .
+To fabricate reproducible and durable CO2sensors, maintenance of a stable and reversible ionic activityin the sensing and reference electrodes is the most importanttechnique.
+The output signal of the electromotive force (EMF)is dependent on the difference in ionic activity between theelectrodes.
+It has been reported that the use of Na2CO3 as anauxiliary electrode is not beneficial for potentiometric CO2 gassensors, since the Na2CO3 layer is unstable especially underhumid conditions.
+To minimize the effect of humidity, the useof lithium carbonate and/or the eutectic point composition ofa mixture of carbonates has been proposed instead of Na2CO3.
+Imanaka et al.reported that theCO2 gas sensors usingLi- and Ba-doped Nd2O2CO3 auxiliary electrodes showed goodCO2 response and high stability against water vapor, since theNd2O2CO3 has a very lowsolubility .
+We considered thatthe mixing of rare earth oxides with Li2CO3 is also an effectiveway to thermally stabilize the auxiliary phase due to a matrixeffect.
+In this study, we investigated the effects of adding Nd2O3 tothe Li2CO3 layer acting as an auxiliary electrode on the CO2sensing characteristics and discussed the reactivity between thealkali carbonate and Nd2O3 and also Na3Zr2Si2PO12 to realizethe observed drift phenomenon of the sensing behavior.
+The mixture was prepared by the adding ZrO(NO3)2·2H2Oand NaNO3 solutions to the TEOS(C2H5O)4Si–ethanol–water(1:10:4 mole ratios) solution at pH 0.5. The pH of the solutionwas controlled by adding on a HNO3 solution.
+The precipitatesin the gels obtained by adding a (NH4)2HPO4 solution to themixture was dried and then heated at 600 ◦C.
+The precipitatesball-milled for 12 h were compressed into a disc at a pressureof 1×108 Pa and then sintered at 1200 ◦C for 6 h to obtainNa3Zr2Si2PO12 discs.
+Mixtures of Li2CO3 (99.9%) andNd2O3 (99.9%) in prescribed molar ratios were pulverized andmixed under dry condition by ball milling in a nylon pot withY-stabilized zirconia balls, and then heat-treated in ambient air.
+The treated mixture was pulverized again and then mixed withvaseline for use as an auxiliary electrode material.
+Thermal studies were carried out by thermogravimetricalanalysis (TGA) and differential thermal analysis (DTA) in synthesizedair (syn-air) (<0.5 ppm CO2) and 100% CO2 at heatingand cooling rate of 5 ◦C/min.
+For examinations byXRD(CuK)and SEM, the mixtures were heated from 300 to 1000 ◦C for 2 hin syn-air and 100% CO2. The separate type CO2 gas sensor isillustrated in Fig.1. 
+The Pt paste as a porouselectrode was painted on both sides of the Na3Zr2Si2PO12 disctogether with Au wire and then heated at 600 ◦C.
+The mixturesin prescribed ratios of Li2CO3 and Nd2O3 were then separatelyprepared.
+The mixture containing vaselinewas coated on the surfaceof one side of the Na3Zr2Si2PO12 disc and then heat-treatedat 700 ◦C in CO2. For the sensor with only Li2CO3 as an auxiliaryelectrode, the temperature was increased to 460 ◦C aftercoating with the Li2CO3–vaseline mixture.
+The EMF responsewas measured by a digital electrometer (Advantest TR8652) at460 ◦C in ambient air (CO2 = 370 ppm) supplied from an aircompressor and in a standard 10,000 ppm CO2 gas.
+Althoughthe standard CO2 gas was dry gas, the air from the compressorcontained ambient moisture.
+This test using ambient air issuitable for examining the stability of the CO2 gas sensor.
+Thetwo test gases were alternately introduced into a test chamberat a 30-min interval at a flow rate of 200 ml/min.
+The referenceelectrode was naturally exposed to the ambient air.
+Fig.2 shows the EMF responses of the CO2 gas sensors usingonly Li2CO3 and heat-treated mixtures of Li2CO3 and Nd2O3as an auxiliary electrode.
+In these measurements, air (370 ppmCO2 with ambient moisture) and the standard gas (10,000 ppmCO2) were alternately changed in a 30-min interval.
+The measurementswere started after reaching a designated temperaturefrom room temperature, and then continued for 20–30 days toobserve the stability and reversibility of the EMF response.
+For the sensor with the heat-treated 1:1mixture of Li2CO3 and Nd2O3 as an auxiliary electrode, a similardrift having a decreasing EMF tendency was also observedduring the initial short period.
+No drifts during the initial periodwere detected for the sensors with a mixture of low Li2CO3 contentas an auxiliary electrode.
+For all the examined elements,the estimated electron number for the electrode reaction was2.0±0.2 in the range of reversible sensing performance.
+Thisestimated value using the Nernst equation well agreed with thetheoretical value of 2.0. The observed electron number suggeststhat the drift phenomenon is mainly due to the changes in activitybetween the auxiliary electrode and the electrolyte.
+The detaileddiscussion on the activities will be shown in the later Sections 3and 4.
+During the experimental period, the temperature was intermittentlydecreased to room temperature and after holding therefor a certain period the temperaturewas increased again.
+In theseexperiments, the EMF was observed to be almost the same asthat before cooling.
+A high density NASICON (Na3Zr2Si2PO12) disc wasobtained in this study.
+The electrical conductivity ofNa3Zr2Si2PO12 was higher than 10−2 S cm−1 at temperatureabove 400 ◦C and its activation energy was estimated to be0.31 eV (<500 ◦C) and 0.23 eV (>500 ◦C).
+The XRD patternindicated that the prepared NASICON was composed ofNa3Zr2Si2PO12. The crystal structure of Na3Zr2Si2PO12 wasdetermined to be monoclinic at room temperature but transformedto rhombohedral at temperature above 300 ◦C .
+Itwas concluded from the thermally programmed XRD analysisthat this phase transition was reversible during the temperaturecycles, as shown in Fig.3.
+It seems that Na3Zr2Si2PO12 is reactive with the auxiliaryelectrode materials.
+The mixture of Li2CO3 and Na3Zr2Si2PO12was heat-treated in ambient air in the temperature range from300 to 1000 ◦C.
+The XRD results at room temperature afterheat-treatment are shown in Fig.4. 
+The XRD pattern ofNa3Zr2Si2PO12 in the mixture was not changed by heating at400 ◦C, and the XRD peaks due to the Li2CO3 phase were alsodetected.
+The heating at 500 ◦C resulted in the disappearance ofthe Li2CO3 peaks.
+A further heating at 600 ◦C induced a deformationof the Na3Zr2Si2PO12 phase.
+The observed deformationswere well related to the formation of a more alkali-rich NASICON phase.
+Similar effects to the Li2CO3 mixing on the XRDpatterns were also observed with the Na2CO3 system.
+XRD patternsof the heat-treated mixture of Na3Zr2Si2PO12 powdersand the pre-heated 1:1 mixture of Li2CO3 and Nd2O3 were alsoexamined, and the results are shown in Fig.5. 
+The heating at500 ◦C in syn-air induced no changes of the XRD patterns, but a deformation of the Na3Zr2Si2PO12 phase at 600 ◦C.
+It was concludedthat the reactivity of Na3Zr2Si2PO12 with Li2CO3 wasdepressed by adding Nd2O3.
+It seems that alkali carbonates are reactive with Nd2O3.Furthermore, the reaction of the Na+ ions in Na3Zr2Si2PO12with Nd2O3 is also possible.
+In this case, it seems that theNa+ ions on the surface of the Na3Zr2Si2PO12 disc exist asNa2CO3 especially under dry conditions.
+To examine the reactivityof the alkali carbonates with Nd2O3, the mixtures of alkalicarbonates and Nd2O3 were heat-treated in CO2. 
+The room temperatureXRD patterns of the heat-treated mixtures are shownin Figs.6 and 7 for Li2CO3 and Na2CO3, respectively.
+Theheating at temperature below 400 ◦C induced no changes in the XRD patterns, and Nd2O3 did not react with the alkali carbonates.
+The heating at 600 ◦C induced formation of Nd2O2CO3 forboth systems.
+It should be noted that the heat-treatment of onlyNd2O3 (crystal structure: P-3m1) did not induce the formationof the Nd2O2CO3 phase, while La2O2CO3 was formed by theheat-treatment of only La2O3 (crystal structure: P-3m1) in CO2.
+For the Na2CO3 system (Fig.7), the observed XRD pattern wasnot changed by the heat-treatment in the range between 600and 800 ◦C in CO2. 
+A further heating at a higher temperatureinduced the decomposition to Nd2O3. For the Li2CO3-system(Fig.6), the XRD pattern of the mixture heated at 600 ◦C wasslightly changed with an increase in the heat-treatment temperatureto 800 ◦C.
+The observed change in the pattern was due tothe lithiation of Nd2O2CO3. 
+It is very interesting to note that thelithiation actually progressed, but not with Na+ ions.
+The XRD patterns were also examined for the mixturesheat-treated in syn-air.
+The dioxymonocarbonate could not bedetected by XRD as shown in Figs.8 and 9. 
+The XRD patterndue to Nd2O3 was observed for the mixture heated to 800 ◦C, buta further heating at 900 ◦C induced the formation of LiNdO2 forthe mixture with Li2CO3, while formation of NaNdO2 and/orany anticipated new compounds could not be observed for themixture with Na2CO3. 
+The XRD results in CO2 and syn-air of Figs.6-9 are also listed in Table 1. 
+The gray zones in the table arethe temperatures at which the mixtures of the alkali carbonatesand Nd2O3 have reacted.
+These results suggest that Na2CO3 ismore stable than Li2CO3 when Nd2O3 particles are contactedwith alkali carbonates in CO2 and syn-air (lower levels of CO2).
+LiNdO2 is not a very stable compound and easily decomposesin CO2-containing air.
+The thermal stability of the mixtures of Li2CO3 and Nd2O3heat-treated in CO2 was examined, especially, in syn-air.
+Forcomparison, Li-free Nd2O2CO3 was separately prepared bythermal treatment of Nd-oxalate.
+The XRD pattern of the LifreeNd2O2CO3 fairly agreed with ICSD file 6297 (hexagonal,P63mmc, a = b = 0.3974 nm, c = 1.5703 nm).
+The mixture heatedat 500 ◦C in CO2 was composed of Nd2O3 and Nd2O2CO3, andthe peak positions of the signals due to Nd2O2CO3 also fairlyagreed with the ICSD file 6297. The crystal structure of Nd2O3well fitted to ICSD file 28180 (trigonal/rhombohedral, P-3m1,a = b = 0.3831 nm, c = 0.5999 nm).
+The Nd2O2CO3 is formed byCO3 insertion into the NdO2 interlayer.
+The heating at temperature above 600 ◦C induced the larger shifts of the peak positions corresponding to (0 0 2), (0 0 4), and (0 0 6), to lower diffractionangles than those of other peaks, as shown in Fig.6. 
+These shiftsobserved would be due to the insertion of lithium into the oxycarbonatewith expansion of the c-lattice parameter.
+It seems thatthe Li-carbonate groups lie between the NdO2 layers, but it wasnot possible to determine the Li+ position or the stoichiometryof the Li+-inserted Nd2O2CO3 from the XRD results as it is alight element.
+For the mixture of Li2CO3 and Nd2O3 as-blended, the weightstarted to increase at about 500 ◦C in CO2 atmosphere and themaximum weight was observed at 740 ◦C at a constant heatingrate of 5 ◦C/min.
+A further heating resulted in a decreasedweight, and a constant weight was observed at temperaturehigher than 860 ◦C.
+The TG-results in CO2 for the 1:1 mixtureof Li2CO3 and Nd2O3 heat-treated at 700, 800, and 900 ◦C for2 h in CO2 are shown in Fig.10. 
+During the heating process ofTG, the weight remained constant at temperature below 700 ◦Cand a further heating induced a decrease in weight at around850 ◦Cfor all the examined samples.
+During the cooling process,an increase in weight started at around 800 ◦C and the weightobserved at room temperature was only slightly influenced bythe pretreatment temperature.
+Fig.11 shows the TG results in syn-air of the mixture heat-treated in CO2. The decrease inweight was observed in two steps.
+The samples heat-treated atlow temperature showed a large decrease in weight.
+In parallel,the thermally programmed XRD technique was applied insyn-air, and the results are shown in Fig.12. 
+The XRD patternsare almost identical to each other for the samples heat-treatedat temperature below 600 ◦C, but changed after heat-treatmentabove 700 ◦C.
+The XRD results suggest that the first weightloss observed at around 650 ◦C in syn-air (Fig.11) is due tothe decomposition of the Li-inserted Nd2O2CO3 phase.
+Theweight observed at a temperature of 950 ◦C in Fig.11 correspondsto a mixture of Li2O and Nd2O3, since the XRD patternafter heat-treatment above 700 ◦C are assigned to Nd2O3. Theformation of LiNdO2 is likely, but it was not detected in theXRD pattern.
+Therefore, it is assumed that the product afterheat-treatment in CO2 is expressed as Nd2O2+2x(CO3)1−xLi2xor Nd2O4(CO)1−xLi2x and the heat treated mixture is composedof Nd2O2+2x(CO3)1−xLi2x and (1−x)Li2CO3. 
+Based onthese assumptions, the lithiation degree, x, could be estimatedusing theTGresults.
+The correlation between the estimated lithiationdegree and the c-lattice parameter was examined, and the result is shown in Fig.13.
+ It is confirmed that the c-lattice parameteris well correlated to the lithiation degree, and the lithiationdegree monotonically increased with an increase in the heattreatmenttemperature in CO2, while the result of the mixtureheat-treated at 900 ◦C slightly deviated from the relationshipobserved for the mixtures heated at lower temperatures.
+It seems that the lithiation degree is influenced by the mixingratio of Li2CO3 and Nd2O3. 
+The estimated lattice parameters ofthe mixtures heat-treated at 750 ◦C in CO2 are shown in Fig.14.
+The lattice parametersof [Li2CO3]/[Nd2O3] = 0 are those of Nd2O2CO3. 
+With anincrease in the mixing ratio, the c-lattice parameter increasedand then remained constant.
+Generally, the lithiation degree isdistinctly lower than the mixing ratio.
+In addition, the influenceof heat-treatment time at 800 ◦C in CO2 was examined for[Li2CO3]/[Nd2O3] = 1.0. 
+However, the lattice parameters hardlychanged even when the period changed from 1 to 6 h.
+Thus, it seems that the lithiation degree is mainly controlled by theheat-treatment temperature in CO2.
+To obtain further information, the heat-treated mixtures weresubjected to DTA.
+The peak intensitydue to the melting of Li2CO3 increased with the ratio and thepeak position increased from 700 to 719 ◦C.
+For only Li2CO3,the endothermic peak position was 723 ◦C in syn-air.
+The meltingand decomposition of Li2CO3 may have progressed whenthe defect concentration increases to a critical concentration.
+In syn-air, the decomposition of Li2CO3 to Li2O progressedafter the decomposition of Nd2O2+2x(CO3)1−xLi2x, as shown inFig.11. 
+A lower decomposition temperature observed for themixture with a lower Li2CO3 content may be due to the partialdefect Li2O formation in the Li2CO3 structure along with thedecomposition of Nd2O2+2x(CO3)1−xLi2x.
+In CO2, the decompositionof Nd2O2+2x(CO3)1−xLi2x started at around 840 ◦C andthe endothermic peak due to the melting of Li2CO3 was detectedat 719–723 ◦C.
+The alkali ions are diffusible to each layer.
+The equilibriumstate of the alkali ions distribution over the sensor isachieved with time at a constant temperature.
+Conveniently,the formation of the third layer between the auxiliary and electrolytelayers is assumed.
+When the diffusion of the ions is in asteady/equilibrium state, a stable diffusion potential distributionis formed in the third layer.
+In this case, the newly formed layermay act as a diffusion boundary.
+The diffusion boundary has acertain thickness, and the separation of the auxiliary phase andthe electrolyte is well progressed.
+The stable diffusion boundary isformed under the balance of the slope of the chemical potentialbetween the interlayer and the electrostatic forces for the ions.
+The thickness of the diffusion boundary layer depends on thedifference in the chemical potential to balance the electrostaticforces.
+Under the equilibrium condition, the diffusion potentialis determined only by the difference in the activities of alkaliions and not influenced by the thickness of the layer.
+If theelectrostatic forces for the ions are constant, the thickness ofthe diffusion boundary is proportional to the difference in theactivity.
+To balance this, the activity in the auxiliary electrodelayer increases.
+It is realized that the gradual shifts in EMF arerelated to the changes in activity of the auxiliary electrode andthe electrolyte.
+In this case, the diffusion boundary layer means the Nd2O2+2x(CO3)1−xLi2x phase.
+For the mixture of lithium carbonate andNa3Zr2Si2PO12, the deformation of the Na3Zr2Si2PO12phase was observed after heat-treatment at 500 ◦C in air, asshown in Fig.4. 
+It is expected that such a change graduallyprogressed at a working temperature of 460 ◦C for the sensorwith the Pt/Li2CO3/Na3Zr2Si2PO12/Pt structure.
+The reactionof Li2CO3 with Na3Zr2Si2PO12 and the diffusion of Li+ ionsinto the Na3Zr2Si2PO12 phase induced the decrease in thedifference of the activities between the auxiliary electrodeand the Na3Zr2Si2PO12 phase.
+To depress such changes, it iseffective to depress the diffusion of Li+ ions in Li2CO3. Inthis study, the formation of a stable third layer between theauxiliary layer and the Na3Zr2Si2PO12 layer is considered.
+The XRD changes shown in Fig.5, with the heat-treatment ofthe mixtures of Na3Zr2Si2PO12 and Nd2O2+2x(CO3)1−xLi2x,suggests that the reaction of Na3Zr2Si2PO12 with Li2CO3 canbe depressed by changing the auxiliary electrode materials toNd2O2+2x(CO3)1−xLi2x instead of only Li2CO3. 
+As shown inFig.2, the level of the drift in the sensing characteristics areimproved by using Nd2O2+2x(CO3)1−xLi2x instead of Li2CO3.The diffusion of Na+ ions from NASICON to the auxiliaryelectrode with Li2CO3 has been reported.
+The diffusionof Na+ ions to the auxiliary electrode resulted in an increasein the activity of the auxiliary electrode and a decrease inthe activity difference between the auxiliary electrode andNASICON.
+For the sensor with Pt/Li2CO3, Nd2O2+2x(CO3)1−xLi2x/Na3Zr2Si2PO12/Pt, a reaction of Nd2O2+2x(CO3)1−xLi2xand Na+ ions in Na3Zr2Si2PO12 is expected.
+It seems thatthe surface of the Na3Zr2Si2PO12 electrolyte is covered withNa2CO3 since the sensor is exposed to CO2-containing air.
+Asshown in Fig.7, the heat-treatment of the mixture of Na2CO3and Nd2O3 induced the formation of Nd2O2CO3, and the Na+doping into Nd2O2CO3 could not be detected by the XRDexaminations.
+The confirmed results and the reactivity betweenNd2O2+2x(CO3)1−xLi2x and NASICON shown in Fig.5 suggestthat the formation of the interlayer of Nd2O2+2x(CO3)1−xLi2xbetween the auxiliary electrode and Na3Zr2Si2PO12 is effectivefor depressing the changes in activity of both phases.
+It is concludedthat the Nd2O2+2x(CO3)1−xLi2x layer formed betweenLi2CO3 and Na3Zr2Si2PO12 acts as a stable boundary layer.
+The sensor is usually used to detect the CO2 concentrationin ambient air.
+In this study, the sensing characteristics wereexamined using ambient air.
+It seems that the drifts due to thehumidity are also improved by using the mixture of Li2CO3and Nd2O2+2x(CO3)1−xLi2x instead of only Li2CO3. 
+To confirmthis interpretation, the auxiliary electrode materials in the powderswere exposed to ambient air and then the powders wereexamined with FT-IR, as shown in Fig.16.
+ For only Li2CO3,the absorption peaks due to –OH and H2O were significantlydetected.
+The heat treatment in syn-air induced the decompositionof Li2CO3 to Li2O, so that the peak intensity of –OH wasnot changed by the heat-temperature.
+For the mixtures heatedat 600 and 800 ◦C in CO2, the signals due to –OH groups werenot better detected.
+It is concluded that the heat treatment inCO2 at temperatures above 600 ◦C effectively depressed thehydration.
+When only Li2CO3 was used as an auxiliary electrode material,gradual changes (drifts) in the EMF level with time wereobserved.
+The decrease in EMF with time is due to the reactionof Li2CO3 and Na3Zr2Si2PO12, resulting in an increase inactivity of the alkali oxides in the NASICON phase.
+To improvethe sensing stability, a new auxiliary electrode material basedon Li2CO3 and Nd2O3 was developed.
+Nd2O2CO3 was formedfor the mixture heat-treated at 600 ◦C in CO2. The lithiation ofNd2O2CO3 progressed with increasing the heat treatment temperature.
+The lithiation degree increased with the temperatureand hardly changed with the mixing ratio.
+For the mixture ofNa2CO3 and Nd2O3, a similar treatment induced the formationof only Nd2O2CO3. 
+These results suggest that the mixed layerwith Li2CO3 and Nd2O2+2x(CO3)1−xLi2x between an auxiliaryelectrode and Na3Zr2Si2PO12 acts as a stable diffusion boundarylayer.

@@ -1,0 +1,59 @@
+Alfredopetrovite, Al2(Se4þO3)3  6H2O, is a new secondary selenite mineral from the El Drago´n mine, Antonio QuijarroProvince, Potosı´ Department, Bolivia.
+
+ The mineral occurs in vugs in a matrix of Co-rich krut’aite–penroseite, dolomite and goethite.
+
+Associated minerals are: ahlfeldite, allophane, calcite, chalcomenite, favreauite, fels}oba´nyaite, malachite and molybdomenite.
+
+Crystals occur in drusy/scaly coatings and compact balls, the latter to 0.5 mm in diameter.
+
+Individual crystals are up toabout 0.1 mm across.
+
+ The Mohs hardness of alfredopetrovite is 2½; it has no cleavage, curved fracture and a vitreous lustre.
+
+The calculated density based on the empirical formula is 2.504 g cm3. Alfredopetrovite is uniaxial (þ), with o ¼ 1.554(2) ande ¼ 1.566(2) (white light), and exhibits no pleochroism.
+
+Electron microprobe analyses gave the empirical formulaAl1.94Cu0.07Ni0.03Co0.01Se2.95O15H12.16, based on 15 O apfu.
+
+Alfredopetrovite is hexagonal, space group P62c, with the unit-cellparameters: a ¼ 8.818(3) A˚ , c ¼ 10.721(2) A˚ , V ¼ 722.0(5) A˚ 3 and Z ¼ 2.The eight strongest lines in the X-ray powder diffractionpattern are [dobs/A˚ (I) (hkl)]: 7.63(55)(100), 6.22(55)(101), 5.37(26)(002), 4.398(40)(110,102), 3.404(100)(112), 2.783(50)(211),2.606(22)(203), and 1.6609(26)(410,322,314,116).
+
+ The crystal structure was refined to R1 ¼ 0.0268 for 240 observed reflections [Fo. 4sF].
+
+ The structure is comprised of fairly regular AlO6 octahedra and Se4þO3 triangular pyramids.
+
+Three Se4þO3 pyramids linktwo adjacent AlO6 octahedra forming a [Al(H2O)3]2(Se4þO3)3 cluster structural unit.
+
+These structural units are bonded to one anotheronly via hydrogen bonds yielding a structure with relatively large channels along [001].
+
+The configuration of the cluster is similar tothat of the distinctive unit in the NASICON structure, commonly referred to as a lantern unit.
+
+The new mineral alfredopetrovite was first recognizedduring the characterization of the recently describedmineral favreauite, PbBiCu6O4(SeO3)4(OH)  H2O(Mills et al., 2014).
+
+Detailed study of the mineralsassociated with favreauite revealed rather indistinct colourless to blue, scaly crystal aggregates on two of thecotype specimens of favreauite.
+
+Subsequent examinationof additional small pieces turned up several more examples of the new species.
+
+The species is named for Mr.
+
+Alfredo Petrov (born1955).
+
+Mr Petrov is a British-born geologist/mineralogist of Russian and German extraction with a bachelor’s degree in geology (1982) from San Diego StateUniversity (USA) who has lived much of his adult lifein Bolivia.
+
+He is an avid mineral collector andrenowned mineral connoisseur, specializing in rarespecies, especially from Bolivia, many of which hehas self-collected or obtained by visiting mines andminers.
+
+After receiving his degree, he worked as ageologist for the Bolivian government for more thana decade and since then has done free-lance consultingwork for both the Bolivian government and miningcorporations.
+
+ Mr.Petrov was the first person todecipher the origin of the several Alto Chapare danburite–boracite–povondraite–magesioriebeckite occurrences in Bolivia as being leached saltdome caprocks(Zaˇ ´cˇek et al., 1998, 2000), and the Cerro Sapo sodalitedeposit, also in Bolivia, as being a carbonatite dyke,rather than a hydrothermal ankerite vein (Hyrsl &Petrov, 1999; Petrov, 2009).
+
+Mr.Petrov generously gives back to the mineralogicalcommunity, writing articles for numerous publicationsincluding Rocks and Minerals, Mineralogical Record,Mineral News and Lapis, and serving as an active managerfor Mindat.
+
+
+He also freely provides specimens forscientific research.
+
+The compound name ‘‘alfredopetrovite’’ has been chosen rather than the simpler ‘‘petrovite’’ because of thesimilarity of the latter to petrovicite, which also occurs atthe El Drago´n mine.
+
+The mineral and name were approvedby the IMA–CNMNC (IMA2015–026) prior to publication.
+
+ The description is based upon five small cotype specimens.
+
+Four cotypes are deposited in the collections of theNatural History Museum of Los Angeles County, LosAngeles, USA: catalogue numbers 64111 (also a cotypefor favreauite), 65578, 65579 and 65580.One cotype specimen is housed in the Geosciences collections at MuseumVictoria, Australia, registration number M53004 (also acotype for favreauite).
+

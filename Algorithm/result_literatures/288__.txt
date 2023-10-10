@@ -1,0 +1,708 @@
+Na3.5Mn0.5V1.5(PO4)3  (NVMP)  nanoparticles  uniformly  embedded  in  porous  carbon  matrix  are 
+
+prepared  by  a  facile  solid-state  method  and  evaluated  as  a  novel  cathode  for  sodium-ion 
+
+batteries,  delivering  fascinating  performances  in  terms  of  high  discharge  potential,  exceptional 
+
+rate capability, and ultra-long cycling life. In situ XRD, ex situ XANES and XPS analyses reveal 
+
+that  the  electrochemical  process  undergoes  biphasic  transition  and  single  phase  change  with  a 
+
+relatively small volume change, accompanied by the reversible evolution of Mn2+/3+ and V3+/4+ 
+
+redox  couples.  EIS,  CV  measurements  and  DFT  computations  illuminate  the  facilitated 
+
+electron/ion transfer and low ionic migration energy barrier in NVMP. 
+
+Na3V2(PO4)3  is  one  of  the  most  promising  cathodes  for  sodium-ion  batteries  (SIBs) 
+
+due  to  its  three-dimensional  framework.  To  meet  practical  feasibility,  the  substitution  of 
+
+vanadium  with  low-cost  active  elements  is  urgent.  Here  the  Na+  superionic  conductor 
+
+(NASICON)-type  Na3.5Mn0.5V1.5(PO4)3  nanoparticles  homogeneously  embedded  in  porous 
+
+carbon  matrix  are  prepared  and  investigated  as  a  novel  cathode  for  SIBs.  The  as-prepared 
+
+Na3.5Mn0.5V1.5(PO4)3/C  could  deliver  a  desirable  average  discharge  potential  of  3.43  V  vs. 
+
+Na+/Na  with  fascinating  rate  capability  of  92.7  mA  h  g-1  at  60  C  and  impressive  capacity 
+
+retention  of  87.2%  after  4000  cycles  at  20  C.  In  situ  X-ray  diffraction  reveals  that  the 
+
+electrochemical process undergoes highly reversible biphasic transition and single phase change 
+
+with  a  relatively  small  volume  change  (8.21%),  ensuring  the  high  structural  stability  and 
+
+excellent  cyclic  capability.  The  reversible  evolution  of  Mn2+/3+  and  V3+/4+  redox  couples  upon 
+
+Na+ extraction/insertion has been revealed by the confirmation of valence state via both ex situ 
+
+X-ray absorption near-edge structure spectra and X-ray photoelectron spectroscopy. The superior 
+
+performance of Na3.5Mn0.5V1.5(PO4)3 could be attributed to the high electronic/ionic conductivity 
+
+and  low  sodium-ion  diffusion  energy  barrier,  which  is  supported  by  the  electrochemical 
+
+impedance  spectroscopy  and  cyclic  voltammetry  measurements,  as  well  as  density  functional 
+
+theory computations. 
+
+Sodium-ion  batteries  (SIBs)  have  attracted  extensive  attention  owing  to  the  advantages  of  low 
+
+cost  and  abundant  resources  over  lithium-ion  batteries  (LIBs)  [1-3].  However,  the  radius  of 
+
+sodium (1.02 Å) is much larger than that of lithium (0.76 Å), resulting in sluggish ionic diffusion 
+
+kinetics  associated  with  inferior  rate  capability  and  large  volume  change  correlated  with 
+
+unsatisfactory  cycling  stability  of  the  host  materials  [4-6].  Despite  significant  achievements  in 
+
+improving electrode/electrolyte interface transfer kinetics have been made through modification 
+
+of electrolyte [7,8], it is still imperative to design more applicable electrode materials with high 
+
+performance  for  SIBs  [9-11].  Recently,  tremendous  Na-storage  cathode  materials  with  open 
+
+framework have been explored [12,13], such as layered/tunnel-type transition metal oxides [14-
+
+17]  ,  polyanionic  compounds  [18-23],  Prussian  blue  analogues  [24,25],  and  organic  materials 
+
+[26].  Among  them,  the  Na+  superionic  conductor  (NASICON)-type  polyanionic  phosphate 
+
+Na3V2(PO4)3  (NVP)  with  three-dimensional  (3D)  framework  and  large  tunnels  has  been 
+
+recognized as one of the most promising cathode candidates for SIBs [27]. The NVP can exhibit 
+
+a 3.3-3.4 V voltage platform and a theoretical capacity of 117 mA h g-1 [28]. Nevertheless, it still 
+
+suffers  from  intrinsic  poor  conductivity  and  low  energy  density.  To  alleviate  these  problems, 
+
+various strategies have been proposed, including carbon coating, nanosizing, and cation doping 
+
+[29-31]. As well known, elevating the operating voltage of cathode materials is of great urgency 
+
+in order to meet the practical requirement for energy  density.  Metal ion doping is an effective 
+
+way to improve the operating voltage of NVP, and can simultaneously facilitate the migration of 
+
+Na+. Up to date, numerous metal ions, i.e., Mg2+ [32], Cr3+ [33], Mn2+/Mn3+,  have  been  tried  for  doping  into  NVP,  of  which  the  substitution  of  vanadium  by  the 
+
+earth-abundant  and  electrochemically  active  manganese  has  aroused  a  great  interest.  For example,  Goodenough’s  group  firstly  evaluated  the  Na-storage  behavior  of  Na4MnV(PO4)3  in 
+
+2016, demonstrating two voltage plateaus at 3.3 V and 3.6 V that correspond to the V3+/4+ and 
+
+Mn2+/3+ redox couples, respectively, and delivering a reversible capacity of 90 mA h g-1 at 10 C 
+
+rate  [34].  Inspired  by  this  pioneering  work,  Jiao’s  group  reported  the  preparation  of 
+
+Na4MnV(PO4)3@C@graphene nanocomposites via a simple sol-gel  method, which exhibited a 
+
+high-rate capability of 60.1 mA h g-1 even at 50 C, along with a promising cycling life of 68.8% 
+
+capacity retention after 4000 cycles at 20 C [38]. Then, Masquelier and co-workers examined the 
+
+structural  evolution  of  Na4MnV(PO4)3  during  the  Na+  insertion/extraction.  Three  distinctive 
+
+voltage platforms at 3.3 V, 3.6 V, and 3.9 V can be observed, when the charge cut-off voltage 
+
+was  extended  to  4.3  V.  This  is  mainly  due  to  the  synergistic  effect  of  the  V3+/5+  and  Mn2+/3+ 
+
+multi-electron reactions [39]. In such case, an extraordinary charge capacity of 156 mAh g-1 was 
+
+obtained  in  the  first  cycle.  Nevertheless,  there  is  a  fact  that  Na4MnV(PO4)3 suffers  from  poor 
+
+cyclic stability with drastic capacity fading in subsequent cycles, meanwhile, the disappearance 
+
+of the plateau at 3.9 V during cycling is also an indication of low reversibility. The undesirable 
+
+performance could be mainly attributed to the structure failure which is associated with the Jahn-
+
+Teller distortion of MnO6 (Mn3+) octahedra with anisotropic change of Mn-O bond length. This 
+
+phenomenon  commonly  happens  in  most  Mn-rich  cathode  materials  [40,41].  Therefore,  it  is 
+
+highly  desirable  but  remains  a  significant  challenge  to  develop  appropriate  Mn-doped  NVP 
+
+cathode  materials  that  can  synchronously  enhance  the  operating  voltage  and  achieve  the  long-
+
+term cycling stability. 
+
+To  address  this  point,  the  present  work  introduces  a  suitable  amount  of  Mn  ion  into 
+
+Na3V2(PO4)3  to  form  the  Na-rich  Na3.5Mn0.5V1.5(PO4)3  (NVMP)  cathode.  To  the  best  of  our 
+
+knowledge, there is no report on such  material as a SIB cathode,  meanwhile, there is a strong interest  in  its  Na-storage  behavior.  Herein,  carbon-coated  Na3.5Mn0.5V1.5(PO4)3  nanoparticles 
+
+(NVMP/C) were synthesized through a facile wet ball-milling process followed by a solid-state 
+
+reaction, which could deliver an exceptional rate capability of 92.7 mA  h  g-1 at 60 C within a 
+
+wide  voltage  window  of  2.5-4.1 V,  as  well  as  an  ultra-long  cycling  life  of  87.2%  capacity 
+
+retention after 4000 cycles. Such  fascinating performance is outstanding  among  all the cation-
+
+doped  Na3V2(PO4)3  cathode  materials  reported  so  far.  The  crystal  structure  and  atomic  site 
+
+occupation  of  NVMP  were  determined  by  high-energy  synchrotron  X-ray  diffraction  (SXRD). 
+
+The  phase  transition  of  NVMP  accompanied  by  the  variations  of  V3+/4+  and  Mn2+/3+  redox 
+
+couples upon Na+ insertion/extraction has been revealed by a combination study of in Operando 
+
+XRD,  ex  situ  X-ray  absorption  near-edge  structure  (XANES)  spectroscopy,  and  X-ray 
+
+photoelectron  spectroscopy  (XPS).  In  addition,  the  Na-ion  diffusion  kinetics  and  migration 
+
+pathways  of  the  NVMP/C  have  been  investigated  by  cyclic  voltammetry  (CV)  curves  and 
+
+density functional theory (DFT) computations. 
+
+
+The Na3.5Mn0.5V1.5(PO4)3/C were prepared through wet ball-milling followed by a solid state 
+
+reaction treatment. A typical synthesis was as follows: 0.5 mmol manganese (II) acetylacetone 
+
+(C10H14O4Mn, Macklin, AR), 1.5 mmol vanadyl acetylacetonate (C10H14O5V, Aladdin, AR), 3.5 
+
+mmol  sodium  acetate  (CH3COONa,  Aladdin,  AR),  3.0  mmol  ammonium  biphosphate 
+
+(NH4H2PO4,  Aladdin,  AR),  and  0.2  g  ascorbic  acid  (C6H8O6,  Aladdin,  AR)  were  added  to  a 
+
+mixed solution of ethanol and deionized water (Vethanol : Vwater = 2 : 1), the solution was further 
+
+sonicated for 30 min until a homogeneous suspension formed. Subsequently, the suspension was thoroughly  mixed  by  high-energy  ball-milling  at  400  rpm  for  8  h  in  a  planetary  ball  miller 
+
+(Fritsch Pulverisette 7). Then the mixture was dried at 80 °C for 2 h under magnetic stirring and 
+
+further dried at 120 °C for 1 h in an electric oven, the obtained brown powder was then ground 
+
+using  a  mortar. Afterwards, the  precursor was calcined  at 700 °C for 6 h in high-purity  argon 
+
+atmosphere with a heating rate of 4 °C min-1. 
+
+For  comparison,  Na3V2(PO4)3/C  was  prepared  by  the  same  method  without  the  addition  of 
+
+manganese  acetylacetone.  Na3.5Mn0.5V1.5(PO4)3/C  with  lower  or  higher  carbon  content  was 
+
+fabricated by altering the usage of ascorbic acid to 0.05 g or 0.3 g, respectively, with the other 
+
+synthetic conditions keeping constant. The pure carbon was prepared by just calcining ascorbic 
+
+acid at 700 °C for 6 h in high-purity argon atmosphere with a heating rate of 4 °C min-1. 
+
+
+The crystal structure was characterized by high-energy synchrotron X-ray diffraction (SXRD) 
+
+using the 11-ID-C beamline at Advanced Photon Source (APS) of Argonne National Laboratory. 
+
+The X-ray wavelength was 0.1173 Å. Other X-ray diffraction powder patterns were collected on 
+
+a  X-ray  diffractometer  (Panalytical  X’Pert  Pro,  Cu  Kα  radiation,  λ  =  1.5417  Å).  Nitrogen 
+
+isotherms  were  measured  using  a  Quantochrome  Autosorb-1MP 
+
+absorption  instrument  at  77  K.  The  morphology  of  as-prepared  materials  was  observed  by 
+
+scanning  electron  microscopy  (SEM,  ISS  SUPRA  55)  and  the  microstructure  of  samples  was 
+
+analyzed  by  transmission  electron  microscopy  (TEM,  JEM  2100)  operating  at  200  KV. 
+
+Thermogravimetric  analyses  (TGA)  were  performed  on  a  TG-DSC  analyzer  (TG,  STA409C). 
+
+The  valence  state  was  investigated  by  X-ray  photoelectron  spectroscopy  (XPS)  measurements 
+
+performed with a Kratos AXIS UltraDLD X-ray photoelectron spectrometer. 
+
+For in situ XRD experiment, a special cell employing aluminum foil as current collector and 
+
+testing  window  was  assembled  to  monitor  in  situ  reaction  during  cycling.  Each  scan  was 
+
+collected in 0.02° increments between 18° and 40° at a scanning speed of 0.04° per second. The 
+
+in situ cell was charged and discharged continuously without interval between every scan. 
+
+For  ex  situ  XANES  measurement,  the  electrodes  at  different  charge/discharge  states  were 
+
+disassembled in a glove box and carefully sealed in Capton film, in order to avoid exposure to 
+
+air.  XANES  spectra  were  collected  on  the  1W1B  beamline  at  Beijing  Synchrotron  Radiation 
+
+Facility  (BSRF).  All  samples  were  recorded  at  the  V  K-edge  and  Mn  K-edge  by  fluorescence 
+
+mode. Later data processing was performed using the IFEFFIT program. 
+
+For the construction of half-cells, the cathode was prepared by casting slurry which consists of 
+
+active materials, super P, and CMC binder with a weight ratio of 75:15:10 using water as solvent 
+
+on aluminum foil. Then the electrodes were dried in vacuum at 80 °C for 6 h, the average mass 
+
+loading of active materials for each electrode was about 1.8 mg cm-2. The 2025 coin-type cells 
+
+were  assembled  employing  Na  metal  as  counter/reference  electrode,  glass  fiber  (GF/D)  as 
+
+separator  in  an  argon-filled  glovebox  with  H2O  and  O2  concentration  less  than  0.1  ppm.  1 M 
+
+NaClO4 in propylene carbonate (PC) with 5% fluoroethylene carbonate (FEC) additive was used 
+
+as  electrolyte.  The  galvanostatic  charge/discharge  measurements  were  performed  on  a  Land 
+
+battery  testing  system  (CT2001A).  The  applied  current  densities  and  specific  capacity  values 
+
+were calculated based on the mass of NVMP. Cyclic voltammetry (CV) curves at various scan 
+
+rates  (0.1-4.0  mV  s-1)  in  the  voltage  range  of  2.5  to  4.1  V,  and  electrochemical  impedance 
+
+spectra (EIS) with the frequency from 100 kHz to 100 mHz were both recorded on a CHI660C 
+
+electrochemical  workstation  (Chenhua,  China).  For  the  assembly  of  full  cells,  the  presodiated hard carbon attached on copper foil was adopted as the anode, and matched with the NVMP/C 
+
+cathode.  The  active  mass  loading  of  cathode  is  three  times  of  anode  to  balance  the  capacity. 
+
+Finally, the full cell was measured within a voltage window of 2.0-4.0 V. 
+
+
+Ab-initio  investigations  based  on  density  functional  theory  (DFT)  via  Vienna  ab-initio 
+
+simulation package (VASP) were performed to study the Na+ migration in Na3.5Mn0.5V1.5(PO4)3. 
+
+The  projector  augmented  wave  (PAW)  method  with  Perdew-Burke-Ernzerhof  (PBE)  function 
+
+was used. The energy cutoff was set to 500 eV and k-point separation of 0.03 Å-1 was adopted. 
+
+The convergence tolerance for the force and energy during relaxation were 0.01 eV/Å and 10-5 
+
+eV,  respectively.  The  climbing  image-nudged  elastic  band  (cNEB)  method  and  bond-valence 
+
+energy landscape (BVEL) were used to simulate the Na+ migration paths and barriers. 
+
+The  crystal  structure  of  NVMP  was  characterized  by  high-energy  SXRD  data  which  were 
+
+analyzed by the FullProf Suite software. As shown in Figure 1a, the Rietveld refinement results 
+
+show that the obtained Na3.5Mn0.5V1.5(PO4)3 crystallizes in the NASICON structure with a space 
+
+group  of  R-3c.  A  good  agreement  between  the  calculated  pattern  and  the  collected  profile  has 
+
+been  achieved  (Rwp  =  4.57%).  The  cell  parameters  of  NVMP  are  a  =  b  =  8.80246(5)  Å,  c  = 
+
+21.76591(4) Å, and V = 1460.549 Å3, respectively. The detailed structure information of atomic 
+
+site  and  occupancy  is  given  in  Table  S1  (Supporting  Information).  For  comparison, 
+
+Na3V2(PO4)3/C  (NVP/C)  was  synthesized  by  the  same  method  as  NVMP/C.  The  detailed 
+
+information  of  SXRD  and  Rietveld  refinement  for  NVP  is  shown  in  Figure  S1  (Supporting 
+
+Information). It is obvious that the unit cell volume of Na3.5Mn0.5V1.5(PO4)3 is larger than that of 
+
+Na3V2(PO4)3, which is due to the larger radius of Mn2+ than that of V3+. As shown by the inset of 
+
+Morphology and microstructure of NVMP/C were observed by scanning electron microscopy 
+
+(SEM) and transmission electron microscopy (TEM). As shown in Figure 1b and c, the NVMP/C 
+
+features irregular monodispersed nanoparticles with sizes ranging from 100 to 400 nm. Note that, 
+
+the  morphology  of  NVMP  with  a  proper  carbon  content  of  7.9  wt%  displays  much  less 
+
+agglomeration than those of other carbon contents (Figure S4, Supporting Information), which is 
+
+more  favorable  to  the  rapid  diffusion  of  Na+.  TEM  images  in  Figure  1d  and  e  reveal  that  the 
+
+NVMP nanoparticles are homogeneously embedded in carbon matrix, and the amorphous carbon 
+
+layer with an average thickness of 4 nm is evenly coated on the surface of particles. The high-
+
+resolution  TEM  (HRTEM)  image  indicates  that  the  lattice  fringe  spacing  is  about  0.38  nm, 
+
+consistent with the (113) plane of NVMP. Additionally, the EDS mapping images in Figure 1f 
+
+demonstrate  that  the  elements  of  C,  O,  P,  V,  Mn,  and  Na  are  uniformly  distributed  along  the 
+
+particles framework. The EDS spectrum of NVMP/C is also provided in Figure S5 (Supporting 
+
+Information), revealing that the atomic ratio of Na/Mn/V/P/O is approximately the stoichiometric 
+
+configuration.  X-ray  photoelectron  spectrometry  (XPS)  of  wide-scanning  spectrum  was 
+
+performed  (Figure  S6,  Supporting  Information)  to  gain  further  insight  into  the  chemical 
+
+compositions of NVMP/C, and only the signals of Na, V, Mn, P, O, and C elements are detected 
+
+without  any  other  impurities.  The  porous  characters  of  NVMP/C  were  studied  by  the  N2 
+
+adsorption-desorption isotherms in Figure S7 (Supporting Information), which feature a typical 
+
+type-IV  isotherm  hysteresis  loop.  Accordingly,  the  Brunauer–Emmett–Teller  (BET)  specific 
+
+surface area of NVMP/C is calculated to be 82.6 m2 g-1, and the pore size distribution from the 
+
+Barrette-Joynere-Halenda  (BJH)  model  (inset  of  Figure  S7)  demonstrates  that  the  sample 
+
+contains  a  large  number  of  pores  with  a  main  diameter  of  2.1  nm.  To  better  understand  the 
+
+relationship  between  pore  structure  and  carbon  content, the  N2  adsorption-desorption measurements  for  the  NVMP/C  samples  with  different  carbon  contents  have  been  conducted .  The  BET  surface  areas  for  the  wt  14.3%  and  wt  2.7% 
+
+samples  are  104.1  m2  g-1  and  37.1  m2  g-1,  respectively.  Pore  size  distributions  from  the  BJH 
+
+model indicate that the sample with a  carbon content of 14.3 wt% displays the  most abundant 
+
+pores based on the integral area of pore size distribution curve while the wt 2.7% sample exhibits 
+
+the least, illustrating the advantageous contribution of carbon coating to pore structure. The pore 
+
+structure  could  provide  more  Na+  diffusion  channels  and  a  larger  electrode–electrolyte  contact 
+
+area,  thus  facilitating  the  reaction  kinetics,  which  is  of  great  importance  to  the  outstanding 
+
+electrochemical performance [18,43]. 
+
+The  electrochemical  performance  of  NVMP/C  as  a  cathode  for  SIBs  was  investigated  by 
+
+assembling  coin  cells.  Figure  2a  depicts  the  charge-discharge  profiles  of  NVMP/C  within  a 
+
+voltage window of  2.5-4.1 V vs. Na+/Na at a current density of 1 C (1 C = 110 mA  g-1). The 
+
+electrode  can  deliver  an  initial  charge  capacity  of  129.5  mA  h  g-1,  and  discharge  capacity  of 
+
+109.1  mA  h  g-1,  rendering  a  Coulombic  efficiency  of  84%.  The  irreversible  capacity  could  be 
+
+attributed  to  the  oxidative  electrolyte  decomposition  with  the  formation  of  a  solid-electrolyte 
+
+interface  (SEI)  film,  and  the  lattice  distortion  that  Jahn-Teller  effect  of  Mn3+  brings  about.  Le 
+
+bail  refinement  for  the  discharged  electrode  (1st  discharge)  was  carried  out  (Figure  S9, 
+
+Supporting  Information),  the  calculated  lattice  parameters  are  a  =  b  =  8.79744  (2)  Å,  c  = 
+
+21.82866 (3) Å, and V = 1463.0892 Å3, respectively, which are slightly different from those of 
+
+the  pristine  material,  manifesting  that  the  initial  cycle  is  not  totally  reversible.  Based  on  the 
+
+achieved  specific  capacity,  two  Na+  ions  could  be  reversibly  extracted/inserted  from/into  the 
+
+Na3.5Mn0.5V1.5(PO4)3 per molecule, agreeing well with the currently reported Na3V2(PO4)3-based 
+
+cathode materials [28,30]. After 10 cycles, the discharge capacity still maintains 108.9 mA h g-1
+
+and  the  voltage  profiles  are  well  overlapped,  demonstrating  the  excellent  reversibility  of 
+
+NVMP/C. Note that, the average discharge potential is elevated to 3.43 V vs. Na+/Na (compared 
+
+with  3.3-3.4  V  for  NVP)  by  the  voltage  plateau  positioned  at  around  3.9  V,  which  is  an 
+
+indication of V4+/5+ redox couple and is activated by the substitution of manganese. The similar 
+
+phenomenon was also observed in other cation-doped NVP materials [44,45]. The CV curves of 
+
+the  NVMP/C  electrode  in  Figure  2b  elucidate  that  there  are  mainly  two  pairs  of  redox  peaks 
+
+located at around 3.4 V and 3.9 V, respectively. It is worthwhile to note that another reduction 
+
+peak  located  at  3.22  V  signifies  the  insertion  of  Na+  into  two  different  crystallographic  sites, 
+
+which  has  been  reported  in  many  works  of  Na3V2(PO4)3  [44,46].  Figure  2c  presents  the  rate performance of NVMP/C from 1 C to 60 C. The sample with a lower carbon content of 2.7 wt% 
+
+delivers a discharge capacity of 100.2 mA h g-1  at 1 C, at higher rates, discharge capacities of 
+
+80.5 mA h g-1 and 68.7 mA h g-1 are obtained at 40 C and 60 C, respectively.  In contrast, the 
+
+NVMP  with  a  carbon  content  of  7.9  wt%  shows  a  significantly  enhanced  rate  capability  and 
+
+displays 108.6 mA h g-1, 108.3 mA h g-1, 108.3 mA h g-1, 107.0 mA h g-1, 104.5 mA h g-1, and 
+
+100.1 mA h g-1 at 1 C, 2 C, 5 C, 10 C, 20 C, and 40 C, respectively. Even at a current density of 
+
+60 C, an impressive high discharge capacity of 92.7 mA h g-1 can be achieved. Besides, the rate 
+
+performance  of  the  undoped-Na3V2(PO4)3/C  (NVP/C)  prepared  with  the  same  method  to 
+
+NVMP/C (7.9 wt%) was investigated (Figure  S10, Supporting  Information). This can be 
+
+explained by the lower interface resistance and higher Na+ diffusion coefficient of NVMP/C than 
+
+those  of  NVP/C,  as  evidenced  by  the  electrochemical  impedance  spectra  (EIS)  in  Figure  S11 
+
+(Supporting Information). Furthermore, EIS measurements have been carried out to evaluate the 
+
+conductivity of electrodes with different carbon contents (Figure S12, Supporting Information), 
+
+with  the  increase  of  carbon  content,  the  charge-transfer  resistance  (Rct)  of  electrode  is 
+
+significantly reduced. The rate capability of NVMP with a  higher carbon content of 14.3 wt% 
+
+was  also  examined  (Figure  S13,  Supporting  Information),  though  outstanding  performance  is 
+
+exhibited, its energy density is not comparable to that of NVMP/C (7.9 wt%) when taking active 
+
+mass loading into account. It is noteworthy that pure carbon delivers negligible capacity within 
+
+the  potential  window  of  2.5-4.1  V  (Figure  S14,  Supporting  Information),  thereby  the  specific 
+
+capacity values in this work were calculated based on the active mass of NVMP. To  evaluate  the  long-term  cycling  stability  of  NVMP/C,  galvanostatic  charge/discharge  at  a 
+
+current  density  of  5  C  was  performed  (Figure  2d).  The  electrode  delivers  an  initial  discharge 
+
+capacity of 106.7 mA h g-1, while after 500 cycles a discharge capacity of 96.8 mA h g-1 can be 
+
+maintained,  corresponding  to  a  high  capacity  retention  of  90.7%.  More  impressively,  after 
+
+activation at 1 C for 3 cycles, the NVMP/C (7.9 wt%) affords a discharge capacity of 100.7 mA 
+
+h  g-1  in  the  4th  cycle  and  sustains  87.8  mA  h  g-1  even  after  4000  cycles  at  20  C  (Figure  2e), 
+
+showing an only 12.8% capacity loss upon the prolonged cycling. It is worth mentioning that the 
+
+Coulombic efficiency approaches 100%, which is beneficial for the durable lifetime. The SEM 
+
+image  of  NVMP/C  after  4000  cycles  is  provided  in  Figure  S15  (Supporting  Information),  the 
+
+fundamental morphology of monodispersed nanoparticles can be still maintained without serious 
+
+agglomeration,  further  corroborating  the  stable  structure  of  NVMP/C  during  long-life  cycling. 
+
+For  comparison,  Figure  S16  (Supporting  Information)  presents the long-term  cycling 
+
+performance of the NVMP with a carbon content of 2.7 wt% at 20 C, however, only 54.6 mA h 
+
+g-1  (capacity  retention  of  64.8%)  can  be  obtained  after  4000  cycles.  the  undesirable  rate 
+
+capability  and  cyclic  stability  could  be  attributed  to  the  relatively  low  conductivity.  The 
+
+exceptional rate capability and ultra-long cycling life of NVMP/C are summarized in Table S2, 
+
+its  overall electrochemical performances compare favorably with those previously  reported for 
+
+the metal ion doped or undoped NVP SIB cathode materials. 
+
+For  better  understanding  the  high  rate  performance  of  NVMP/C  in  depth,  diffusion  kinetic 
+
+activities of Na+ were studied by CV curves at different scan rates ranging from 0.1 to 4.0 mV s-1, 
+
+as displayed in Figure 3a. 
+
+The reaction kinetics can be further described using the following relations: 
+
+of which a, b, k1, and k2 are adjustable parameters, which depend on the fitting results between ip 
+
+and v. The value of b determines the type of Na+ (de)insertion, when the b value is close to 0.5, 
+
+the  electrochemical  reaction  is  mainly  controlled  by  Faradaic  intercalation;  when  the  b  value 
+
+approaches 1.0, surface-controlled pseudocapacitive behavior dominates the process [47]. Figure 
+
+3c  shows  the  log(ip)  versus  log(v)  plots  at  the  oxidation  and  reduction  peaks,  the  b  values  of 
+
+Peak1 and Peak2 are 0.74 and 0.77, respectively, manifesting the partial pseudocapacitive effect 
+
+and  thus  enabling  the  fast  reaction  dynamics.  The  pseudocapacitive  contribution  is  calculated 
+
+according to the equation (4), where k1v and k2v1/2 represent the capacitive and diffusion-limited 
+
+currents, respectively [48]. Figure 3d presents the capacitive contribution proportions at various 
+
+scan  rates,  with  the  increase  of  scan  rate,  the  contribution  of  capacitance  increases,  further 
+
+demonstrating  that  the  pseudocapacitive  storage  partially  contribute  to  the  whole  capacity 
+
+especially at the high rates. Figure 3e displays the detailed pseudocapacitive fraction at 0.5 mV s-
+
+1.  The  favorable  heterostructure  of  NVMP/C  incorporating  nanoparticles,  carbon  coating,  and 
+
+porosity  could  build  abundant  active  surfaces/interfaces, leading the  desirable pseudocapacitive effect. 
+
+In  order  to  investigate  the  valence  change  of  Mn  and  V  ions  during  sodium-ion 
+
+extraction/insertion, ex situ XANES and XPS analyses were carried out. For the ex situ XANES 
+
+experiment,  all  electrodes  were  disassembled  without  scraping  from  Al  current  collector  in  a 
+
+glove box and directly sealed in a Kapton film to avoid exposure to air. The XANES spectra at 
+
+the V K-edge are provided in Figure 4a. The energy of the pristine material is very close to that 
+
+of the standard V2O3 sample, indicating that the average valence of V in the pristine sample is 
+
+about trivalent. Upon charged to 4.1 V, the V K-edge absorption spectrum shows obvious shift 
+
+compared with the pristine material. The energy is very close to that of the standard VO2 sample, 
+
+manifesting the average tetravalent state of V in the sample charged to 4.1 V. After discharged to 
+
+2.5 V, the energy recovers to a state approaching the pristine  material, demonstrating the high 
+
+reversibility of V valence evolution during the electrochemical cycling. In addition, XPS spectra 
+
+were given in Figure S17 (Supporting Information) to further probe the valence changes. The V 
+
+2p XPS spectrum of the pristine material displays two peaks at 516.6 eV (V 2p3/2) and 523.5 eV 
+
+(V 2p1/2), suggesting the trivalence of vanadium [34,38]. When the electrode was charged to 4.1 
+
+V, the binding energy of V 2p3/2 and V 2p1/2 shifts to higher values of 517.4 eV and 524.6 eV, 
+
+respectively,  corresponding  to  the  oxidation  of  V3+  to  V4+  during  Na+  extraction  [34,38].  It 
+
+should be mentioned that V5+ is not clearly detected in the present study, which is probably due 
+
+to a small amount of V5+ existing in the charged material. Similar phenomenon was ever reported 
+
+in the Na3V1.6Cr0.4(PO4)3 system [45]. The Mn K-edge absorption spectra are displayed in Figure 
+
+4b. The energy of the pristine material is larger than that of the standard MnO sample, indicating 
+
+that the average valence of Mn is higher than bivalence. The Mn 2p XPS result further reveals 
+
+the co-existence of Mn2+ and Mn3+ valences (Figure S17).  When charged to 4.1 V, the Mn K-
+
+edge absorption spectrum shows a rightward shift to higher energy  compared with the pristine 
+
+material, suggesting the valence change from Mn2+ to Mn3+. XPS result also demonstrates that 
+
+Mn2+ is partially oxided to Mn3+. After discharged to 2.5 V, both Mn K-edge XANES and Mn 2p 
+
+XPS spectra recover to the pristine state, accounting for the prominent reversibility. Based on the 
+
+results discussed above, we can conclude that V3+/4+ and Mn2+/3+ redox couples mainly involve in 
+
+the electrochemical reaction process. 
+
+Although superior cyclic stability and rate capability have been achieved in NVMP/C, it is still 
+
+unclear about the change of crystal structure. It is well known that in situ XRD characterization 
+
+is  an  effective  way  to  elucidate  the  crystal  structure  evolution  [52].  Correspondingly,  the 
+
+operando XRD patterns were collected in the voltage range from 2.5 V to 4.1 V with Al foil as 
+
+both current collector and testing window. As shown in Figure 4c, in general, the (104), (113), 
+
+(024),  (211),  (116),  and  (300)  diffraction  peaks  undergo  evident  shift  and  then  restore  to  the 
+
+initial state in a quite symmetric way, corroborating that the whole charge/discharge process is 
+
+highly reversible. The gradual disappearance of originally existing peaks and the emergence of 
+
+new peaks demonstrate a typical biphasic transition in the reaction process. Particularly, the peak 
+
+of (211) completely disappears upon charging and gradually forms upon discharging; the (104) 
+
+and (300) peaks shift rightward, split into two peaks during the charge process, and subsequently 
+
+merge into one peak, transform back to the initial position during the discharge process (Figure 
+
+4d). Notably, all peaks shift toward higher angles accompanied by the Na+ extraction, indicating 
+
+the contraction of the NVMP unit cell. At the end of desodiation process, all of the characteristic 
+
+peaks can be indexed to a new Na-poor phase of Na1.5Mn0.5V1.5(PO4)3. The Le Bail refinement 
+
+result shows that the generated Na1.5Mn0.5V1.5(PO4)3 crystallizes in rhombohedral structure with 
+
+a R-3c space  group (Figure S18, Supporting  Information), which is very similar to the case of 
+
+NaV2(PO4)3  (fully  desodiated  product  of  NVP)  [27].  It  is  worthwhile  to  emphasize  that  the 
+
+electrochemical process at the voltage plateau of 3.9 V undergoes gradual rightward shift without 
+
+the formation or disappearance of any diffraction peaks, validating a single-phase reaction at this 
+
+stage.  This  is  consistent  with  the  report  of  Na3Al0.5V1.5(PO4)3  [44].  In  order  to  obtain  deep 
+
+understanding  of  the  volume  change  upon  Na+  insertion  and  extraction  processes,  the  Le  Bail 
+
+fitting is conducted using the FullProf program. As elucidated in Figure 4e, the unit cell volume 
+
+gradually shrinks during the charge process and expands during the discharge process. The total 
+
+volume change is calculated to be about 8.21% (∆V / Vpristine) and is close to that of Na3V2(PO4)3 
+
+(8.26%) [27], but is smaller than that of Na4MnV(PO4)3 (more than 10%) [39,53]. The relatively 
+
+small volume change is responsible for the decent cycling ability of the carbon-coated NVMP. 
+
+To  deeply  figure  out  the  prominent  rate  capability  of  NVMP,  DFT  computations  were 
+
+performed to explore the Na-ion migration barrier. The structure of convention cell is shown in 
+
+Figure  5a.  To  simplify  the  calculation,  Mn  was  randomly  distributed  into  V  site  based  on  the 
+
+stoichiometric ratio. Figure 5b displays the primitive cell of NVMP, where the blue isosurface 
+
+represents  the  simulated  Na+  migration  paths  by  the  bond  valence  energy  landscape  (BVEL) 
+
+method, and the black arrow points out the optimum migration path following Na1→Na2 along 
+
+the  interstitial  channels  of  M2(PO4)3  (M  =  Mn,  V)  framework.  The  corresponding  migration 
+
+energy barrier was calculated based on the climbing-image nudged elastic band (cNEB) method 
+
+[54].  As  shown  in  Figure  5c  and  Figure  S19  (Supporting  Information),  the  Na-ion  diffusion 
+
+barriers for NVMP and  NVP are 0.309 eV and 0.342 eV, respectively.  More significantly, the 
+
+diffusion  barrier  of  NVMP  is  lower  than  most  reported  Na-storage  cathode  materials  [55-57], 
+
+which is favorable to the desirable reaction kinetics and outstanding rate performance. 
+
+Furthermore,  the  superb  electrochemical  performance  of  NVMP@C  cathode  inspires  us  to 
+
+examine  its  practical  use  in  full  cells.  Figure  6a  schematically  illustrates  the  configuration  of 
+
+NVMP/C//Hard carbon Na-ion full cell. The Na-storage behavior of the hard carbon anode in a 
+
+half  cell  is  provided  in  Figure  S20  (Supporting  Information).  The  cathode  mass  loading  was 
+
+about 3 times of the anode mass. As depicted in Figure 6b, the electrochemical performance was 
+
+tested within the voltage window of 2.0 to 4.0 V at a current density of 0.5 C. The full cell could 
+
+deliver an initial discharge capacity of 95.7 mA h g-1 with the average working voltage at 3.3 V. 
+
+This corresponds to a remarkable energy density of 234.63 Wh kg-1 based on the total mass of 
+
+cathode and anode active materials. After 50 cycles, the discharge capacity still maintains 81.2 
+
+mA h g-1 (Figure 6c), leading to a promising capacity retention of 84.8%. In addition, Figure 6d 
+
+presents  that  the  light-emitting  diode  (LED)  bulbs  can  be  lighted  up  by  a  coin-type  full  cell, 
+
+demonstrating the great practical feasibility of NVMP@C. 
+
+In summary, NASICON-type Na3.5Mn0.5V1.5(PO4)3 was designed as a novel cathode material 
+
+for  sodium-ion  batteries.  Its  crystal  structure  with  a  space  group  R-3c  was  determined  by  the 
+
+synchrotron XRD Rietveld refinement. DFT computations elucidated that the intrinsic low Na+ 
+
+migration energy  barrier was responsible for the superb rate capability  of NVMP. The  NVMP 
+
+nanoparticles uniformly embedded in porous carbon matrix enabled rapid ionic diffusion kinetics 
+
+and robust structural stability. Therefore, half-cell measurement demonstrates that the NVMP/C 
+
+electrode  could  deliver  a  decent  average  discharge  potential  of  3.43  V  vs.  Na+/Na  with 
+
+exceptional  rate  performance  of  92.7  mA  h  g-1  at  60  C  and  prominent  capacity  retention  of 
+
+87.2%  after  4000  cycles  at  20  C.  In  situ  XRD  revealed  that  the  electrochemical  process 
+
+experienced  highly  reversible  biphasic  transition  and  single  phase  change  with  8.21%  volume 
+
+change  of  unit  cell.  The  Mn2+/3+  and  V3+/4+  redox  couples  occurring  during  the  Na+ 
+
+extraction/insertion  were  further  verified  by  ex  situ  XANES  and  XPS  spectra.  More 
+
+impressively,  the  full  battery  constructed  by  NVMP/C  cathode  and  hard  carbon  anode  could 
+
+achieve an  average operating voltage of 3.3 V and a reversible capacity  of 94 mA h  g-1. Such 
+
+intriguing  performances  are  very  outstanding  among  all  the  metal  ion–doped  NVP  cathode 
+
+materials  reported  to  date.  We  believe  that  the  substitution  of  vanadium  with  appropriate 
+
+electrochemically  active  element  is  an  applicable  strategy  in  developing  high-performance 
+
+NASICON-type SIB cathode materials. 

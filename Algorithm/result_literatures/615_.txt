@@ -1,0 +1,85 @@
+Mixtures of LATP and the different cathode materials were sintered at various temperatures and subsequently analyzed by thermal analysis, X-ray diffraction, and electron microscopy.
+Oxide cathode materials display a rapid decomposition reaction with the electrolyte material even at temperatures as low as 500 °C, while olivine cathode materials are much more stable.
+The oxide cathode materials tend to decompose to lithium-free compounds, leaving lithium to form Li3PO4 and other metal phosphates.
+In contrast, the olivine cathode materials decompose to mixed phosphates, which can, in part, still be electrochemically active.
+Among the olivine cathode materials, LiFePO4 demonstrated the most promising results.
+No secondary phases were detected by X-ray diffraction after sintering a LATP/LiFePO4 mixture at temperatures as high as 700 °C.
+Forschungszentrum Jülich GmbH, Institute of Energy and Climate Research, Materials Synthesis and Processing (IEK-1), 52425 Jülich, GermanyForschungszentrum Jülich GmbH, Institute of Energy and Climate Research, Microstructure and Properties of Materials (IEK-2), 52425 Jülich, Germany52425 Jülich, Germanywhich is ionically conductive and should be electrochemically active as well.
+Solid-state lithium-ion batteries are actually regarded as a battery sensation and expected to overcome the safety issues of lithium-ion batteries in combination with high-power density and high-energy density.
+However, by only replacing the liquid electrolyte with solid electrolytes—using either a polymer or an inorganic solid.
+In addition, the higher density and lower ionic conductivity often observed with solid electrolytes automatically reduce the gravimetric energy density.
+Exceptions to this general rule are sulfur-based electrolytes with their extremely high ionic conductivity.
+Additionally, the sulfuric materials are very ductile and can be processed with electrode materials to form a battery cell by means of simple mechanical pressing
+Unfortunately, the pressure has to be maintained throughout the entire lifetime of such a battery cell in order to ensure proper contact between the components
+Furthermore, this type of battery is also intrinsically unsafe to operate, regardless of the outstanding performance.
+The sulfidic electrolyte releases toxic H2S when it comes in contact with ambient air and moisture.
+In  contrast, oxide-based electrolytes are sufficiently stable to be processed in ambient air: the assembly of an oxidic solid-state battery includes a heat treatment process instead of a mechanical pressing step [8, 9].
+The hardness of most oxidic electrolytes hinders the formation of proper contact with the electrode material and also prevents densificationof the battery by mechanical pressing.
+Nevertheless, this type of battery does not require any further mechanical support after heat treatment.
+The most intensively studied oxidic lithium electrolytes are lithium lanthanum zirconate, lithium lanthanum titanate, and lithium aluminum titanium phosphate (LATP).
+Among these electrolytes, LATP shows the most promising properties for developing an oxide-based solidstate battery.
+It has a NASICON-type crystal structure that exhibits fast ionic conduction with conductivities of up to 0.7 mS/cm.
+Processing is undemanding: the sintering temperature is comparatively low, thus avoiding any lithium addition to compensate for losses during sintering, the starting materials are cheap, the final product is environmentally friendly, and it also has the lowest crystallographic density among the three solid electrolytes mentioned above.
+The thermochemical and electrochemical properties of LATP have been widely investigated, but little is known about possible reactions of the material with cathode materials for all-solid-state Li-ion batteries during the production of the cells as well as during operation and storage of the cells.
+Interfaces and interfacial reactions play a critical role in solid-state batteries.
+High temperatures are often needed to generate a proper contact between the electrode and electrolyte materials and to form an interface with low resistivity.
+However, this can also lead to decomposition and interdiffusion, resulting in interfacial reactions and the formation of a resistive layer.
+Therefore, LATP composites and five commonly used cathode materials were prepared and investigated using the aforementioned techniques to find a suitable combination.
+LiMn2O4 (LMO), LiCoO2 (LCO), LiFePO4 (LFP), LiCoPO4 (LCP), and LiMn0.5Fe0.5PO4 (LMFP) (Sigma-Aldrich) were used as cathode materials.
+For the preparation of the composite electrodes, equal amounts of weight of LATP and cathode material were thoroughly mixed in a mortar and then pressed to pellets at a uniaxial pressure of 12 MPa.
+For comparison, LATP pellets without cathode material were investigated as well.
+The pellets were analyzed by thermogravimetry (TG) and differential −1 to a thermal analysis (DTA) with a heating rate of 5 K min temperature of 800 °C.
+A thermogravimetric differential thermal analyzer (Netzsch STA 449F1) was used for theIonicsmeasurements.
+The samples heating rate of 5 K min containing LMO and LCO were sintered in ambient air, whereas the samples containing LFP, LCP, and LMFP had to be sintered in Ar/H2 to prevent oxygen uptake of the transition metal ion in the olivine cathode [23] material.
+The sintered pellets were then subsequently analyzed by Xray diffraction analysis (XRD) using a D4 ENDEAVOR (Bruker AXS) with Cu-Kα radiation.
+For scanning electron microscopy (SEM) investigations (Zeiss SUPRA 50 VP and Zeiss Merlin), the fracture surfaces of freshly broken pellets or polished cross sections were investigated.
+The polished cross sections were prepared using a JEOL SM-90210 cross-section polisher.
+Energy-dispersive X-ray (EDX) spectra were recorded using a windowless detector (Oxford Instruments X-max extreme) attached to the Zeiss Merlin SEM.
+Results and discussionLATP decomposition in Ar/H2In order to exclude effects resulting from thermal treatment in a reducing atmosphere, the chemical stability of pristine LATP in Ar/H2 was investigated.
+Pure LATP pellets were heated in Ar/H2 at 800 and 900 °C for 1 h and subsequently characterized by XRD at room temperature.
+After heat treatment, the color of all samples turned grayish blue.
+Nevertheless, the heated samples showed that the NASICON crystal structure and the lattice parameters remained the same within the standard deviation.
+The XRD pattern of the sample heat-treated at 800 °C exhibited no majorFig.
+XRD patterns of (a) pristine LATP powder, (b) LATP powder heated in Ar/H2 at 800 °C, and (c) heated in Ar/H2 at 900 °C.
+This indicates the exsolution of aluminum ions from LATP to AlPO4. In addition, the samples displayed a blue coloration [24] that indicated the reduction of Ti4+ to Ti3+.
+However, reflections of Li3PO4 were not observed.
+In light of these results, the heat treatment of the composite electrodes was limited to 800 °C.
+Thermal and chemical stability of LATP-based compositesWith respect to the limited stability of LATP, the thermal and chemical stability of composites consisting of cathode powder and LATP was measured by DTA/TG up to 800 °C.
+The TG curves showed initial mass losses for each composite below 150 °C, most likely due to desorption of surface water.
+Other small mass losses between 0.5 and 1.5 wt% were detected at elevated temperatures starting at about 600 °C.
+In air, the XRD patterns showed no phase changes for all composite samples up to a heat treatment temperature of 500 °C.
+Similar to the results from the DTA/TG measurements, formation of other phases took place at sintering temperatures above 600 °C.
+The NASICON phase was often still present, but decomposition products, such as Li3PO4 and AlPO4, were found.
+X-ray diffraction patterns of pristine LCO [23] and LATP [22] powder as well as LCO and LATP powder mixture sintered in air at different temperatures.
+A similar pattern is also observed with the LATP/LCO mixture, as can be seen in Fig.
+While LATP and LCO are the only phases detected in the mixture that is heat-treated at 500 °C, LCO rapidly begins to releases Li2O and decomposes to Co3O4 when the mixture is heated to 600 °C or higher temperatures.
+Excess Li2O is most likely responsible for the formation of LiTiPO5 and Li3PO4. AlPO4 could not be detected.
+Contrary to expectations, the cathode material contained Li3PO4 at sintering temperatures of 500 °C.
+This impurity phase disappears after heat treatments at higher temperatures.
+The LATP and LCP mixture begins to show some impurities after thermal treatment at 500 and 600 °C, as can be seen in Fig.
+The crystal structures of the two materials do not change.
+At higher temperatures, however, LCP forms the pyrophosphate Li6Co5(P2O7)4, while LATP starts to decompose to LiAl(P2O6)2. This is induced by the partial reduction of Ti4+ to Ti3+.
+The LiAl(P2O6)2-type phase disappears at thermal treatment temperatures of 700 °C and above.
+Consequently, a new AlPO4 phase appears at thermal treatment temperatures of 800 °C.
+To track the evolution of the identified phases, the intensity most intense was compared to the intensity of the other phases.
+The plots tentatively show the evolution of secondary phases and can be found in Figs.
+MicrostructureFor application in a working battery, not only must the major phases remain after sintering, but they also have to form a stable and ionically conductive interface.
+This interface is usually very thin and the crystal structure cannot be detected by XRD.
+For this reason, the microstructure of a composite material was investigated by SEM/EDX.
+The LFP/LATP mixture treated at 700 °C was selected for the measurements, as it did not show any indication of chemical reaction by DTA or XRD analyses.
+Four different phases can clearly be seen in the image of the cross section, which have been analyzed by EDX and are numbered in Fig.
+Phases 3 and 4 have very similar EDX spectra comprising signals of O, Fe, and P.
+The O signal of phase 3, however, is larger than that of phase 4. The lighter shade of the latter phase in the backscattered electron image indicates that this phase has a higher average atomic number than phase 3 (LFP).
+This can be a result of a partial oxidation leading to a non-stoichiometric LiFe1−xPO4 phase.
+However, no different phase in the sample treated at 700 °C could be identified using XRD.
+X-ray diffraction patterns of pristine LMFP and LATPpowder as well as LMFP and LATP powder mixture sintered in Ar/H2 at different temperatures.
+The mixtures containing LFP and LMFP were observed forming iron phosphates such as FePO4 and Li1+xFexTi2−x(PO4)3 with x > 0.6 appearing as orthorhombic Li2FeTi(PO4)3 in the XRD patterns, whereas the LATP/ LCP mixture formed AlPO4 and other phosphates.
+However, all of the modifications are ionically conductive and electrochemically active.
+Additionally, this would perfectly explain the formation of excess AlPO4.
+While LATP grains are well sintered to form a porous framework, LFP is mostly present as single particles or agglomerates of several particles.
+At LATP/LFP interfaces, the two phases exhibit good contact, and no reaction between the two phases can be detected within the resolution limit of the electron microscope.
+However, phase 4 is only detected incontact with LATP, whereas phase 3 (LFP) is observed as isolated particles as well as particles in contact with LATP.
+Summary and conclusionsVarious cathode materials have been co-sintered with LATP at different temperatures and atmospheres to find suitable candidates for the fabrication of a solid-state battery.
+All oxide cathode materials were observed degrading even at very low sintering temperatures, forming electrochemically inactive and ionically blocking secondary phases.
+In contact with phosphate-based electrode materials, LATP was found to be much more stable.
+Among three phosphate-based cathode materials that were tested, the mixture of LATP and LFP demonstrated the most promising results, forming only a small fraction of secondary phases.

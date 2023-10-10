@@ -1,0 +1,15 @@
+Sodium zirconium silicon phosphorus with the composition of Na3Zr2Si2PO12 (NZSP) was prepared by a facilesolid state reaction method.
+The effects of the calcination temperature and rare earth element substitution onthe structure and ionic conductivity of the NZSP material were characterized by X-ray diffraction (XRD),scanning electron microscopy (SEM) and AC impedance measurement.
+The results show that the microstructureand ionic inductivity of the NZSP was strongly affected by the aliovalent substitution of Zr4+ ions inNZSP with rare earth metal of La3+, Nd3+ and Y3+.
+At room temperature, the optimum bulk and total ionicconductivity of the pure NZSP solid electrolyte sintered under different conditions were 6.77×10−4 and4.56×10−4 S cm−1, respectively.
+Substitution of La3+, Nd3+ and Y3+ in place of Zr4+ exhibited higher bulkconductivity compared with that of pure NZSP.
+Maximum bulk and ionic conductivity value of 1.43×10−3 and1.10×10−3 S cm−1 at room temperature were obtained by Na3+xZr1.9La0.1Si2PO12 sample.
+The charge imbalancecreated by aliovalent substitution improves the mobility of Na+ ions in the lattice, which leads to increase in theconductivity.
+AC impedance results indicated that the total ionic conductivity strongly depends on thesubstitution element and the feature of the grain boundary.
+NASICON-type solid electrolyte Na3Zr2Si2PO12 materials are successfullysynthesized by a simple solid-state reaction.
+The NZSP samplesintered at 1150 °C for 12 h displays the maximum bulk and total ionicconductivity of 6.74×10−4 and 4.56×10−4 S cm−1, respectively at roomtemperature.
+Doping by La3+, Nd3+ and Y3+ aliovalent element formsliquid phase during the sintering process.
+The presence of liquid phaseis beneficial for the densification at high temperature which will causethe change in the NASICON structure and affect the conductivity ofmaterial.
+AC impedance studies indicate that the La-doped NASICONdisplays the highest bulk conductivity and total conductivity at roomtemperature, which is 1.43×10−3 and 1.10×10−3 S cm−1, respectively.
+By doping the Zr4+ site with rare earth elements of +3 valence, thesodium in the lattice can be increased, which results in higherconductivity.
+It is concluded that the total ionic conductivity stronglydepends on the substitution element and the feature of the grainboundary.

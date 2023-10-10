@@ -1,0 +1,154 @@
+Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+Interfaces	in	solid-state	sodium-ion	 batteries:	NaCoO2	thin	films	on	solid	 electrolyte	substrates	Conrad Guhl a , Philipp Kehne b, Qianli Ma c, Frank Tietzc, Philipp Komissinskiyb, Wolfram Jaegermann a, René Hausbranda a surface science, TU-Darmstadt, Otto-Berndt-Straße 3, Darmstadt, Hessen, 64285, Germany b advanced thin film technology, TU-Darmstadt, Otto-Berndt-Straße 3, Darmstadt, Hessen, 64285,  Germany c electrochemical storage, FZ-Jülich, Wilhelm-Johnen-Strasse, Jülich, Nordrhein-Westfalen, 52425,  Germany Abstract  On the way to sodium-based all-solid-state batteries, interface analysis is a key issue.
+In this work, the interface between two typical solid sodium-ion conductors (Na-β´´-Al2O3 and NASICON) and the layered  oxide  material  NaCoO2  is  investigated.
+The  formation  of  the  interface  between  the electrolyte  material  and  the  NaCoO2  coating  is  studied  using  an  in-situ  X-ray  photoemission spectroscopy (XPS) surface science approach.
+Only a slight reduction of zirconium and scandium in NASICON was observed in proximity to the cathode side interface, while severe reactions, including the formation of a CaO-Al2O3 mixed phase, were detected between Na-β´´-Al2O3 and NaCoO2. 1. Introduction  The  ever-growing  demand  for  energy  storage  devices  due  to  renewable  energy  supplies  and  the electrification  of  mobility  encourages  scientists  and  engineers  to  explore  possible  new  storage systems.
+In the search for alternatives to the dominant Li-ion battery technology, sodium batteries have  attracted  great  attention  in  the  recent  past  [1-5].
+As  sodium  is  much  more  abundant  than lithium, the potential to decrease costs for large-scale battery applications is obvious.
+Based on the similarities  of  both  alkali  metals,  many  technological  solutions  may  be  transferred  from  Li+  to  Na+ based systems.
+Another key concept of current battery research is an all-solid-state battery (ASSB): due to reduced inactive  volume  and  mass,  potential  energy  densities  are  much  higher  than  in  present  technology using  organic  liquid  electrolytes  [6,  7].
+Furthermore,  the  possible  use  of  metallic  anodes  in  ASSBs MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPToffers a high energy density increase [8].
+Besides the possibility of higher energy densities, ASSBs are also  deemed  to  be  safer,  as  the  organic  liquid  electrolytes  are  replaced  and  the  risk  of  fire  is minimised  [9].
+However,  ASSBs  often  suffer  from  high  interface  resistances  caused  by  reactions during processing or space-charge layers [10-12].
+In conventional Li+-ion batteries, the formation of a solid  electrolyte  interphase  (SEI)  layer  enables  long-term  use.
+This  concept  has  to  be  generally adopted for ASSBs [13] to minimise cell overpotentials and stabilise the cells.
+A relatively new direction of ASSB research is the investigation of sodium-based ASSB cells [2, 14-18].
+Typical  solid  electrolyte  materials  for  sodium  are  the  well-known  Na-β´´-Al2O3  and  the  versatile NASICON  [19,  20].
+The  Na-β´´-Al2O3 structure  is  determined  by  conduction  planes  in  which  sodium ions can move freely, separated by close packed alumina layers [21-23].
+In contrast, within NASICON materials, the conduction channels for alkali ions  are reported between the metal oxide octahedra and interconnecting polyanions [19, 24, 25].
+Both materials showed to be applicable in contact with solid sodium anodes [2, 26] making them interesting electrolyte materials for sodium ASSBs.
+Among many compounds currently discussed as possible cathode materials for sodium-ion batteries, layered sodiated metal oxides are the most promising candidates due to their relatively high energy densities In this study, we investigate the interface formation between the thin film layered cathode material NaCoO2  and  solid  electrolytes  as  Na-β´´-Al2O3  and  NASICON.
+For  the  detailed  examination  of  the interfacial  region,  consecutive  sputter  deposition  and  photoelectron  spectroscopy  is  utilised.
+Using this approach, it is possible to analyse buried interfaces that are usually hidden inside the cell setup.
+This approach can be used to investigate the interlayer formation between two materials, and in the field of lithium-Ion battery interfaces notable progress has been made by this [10, 13, 28].
+The results on the detailed electrochemical characterisation of the corresponding NaCoO2/Na-β´´-Al2O3/Na and NaCoO2/NASICON/Na ASSBs will be published elsewhere [14].
+The  cathode  material  was  deposited  consecutively  by  sputtering  with intermediate  XPS  analysis,  sample  transfer  in  ultra  high  vacuum (UHV)  conditions  inhibited  surface contaminations.
+Two types of solid state electrolyte, NASICON and Na-β´´-Al2O3, were used as bulk The  NASICON  solid-state  electrolyte  plates  with  the  composition  Na3.3Sc0.3Zr1.7(SiO4)2(PO4)  were prepared by a solution-assisted solid-state reaction method as reported in [24].
+Corresponding  amounts  of  NaNO3,  Sc2O3  and ZrO(NO3)2 were first dissolved in deionized water or HNO3 (Aldrich, ACS grade) and mixed into one solution.
+A  stoichiometric  amount  of  Si(OCH2CH3)4  was  also  added  to  the  solution  while  stirring.
+When Si(OCH2CH3)4 was hydrolysed, a stoichiometric amount of NH4H2PO4 was added to the system also with stirring.
+The dried powder was calcined at 800 °C for 3 h and then milled in ethanol with zirconia balls on a milling bench for 48 h.
+The milled powder was put into a cylindrical pressing mould with a diameter of 13 mm and pressed under uniaxial pressure of  75  MPa  at  room  temperature.
+The obtained  pellets  have  a  diameter  of  10.5  mm  and  thickness  of  1.7  mm,  resulting  in  94  %  of  the theoretical  density.
+The  Na-β´´-Al2O3  solid  electrolyte  plates  were  purchased  from  Ionotec  Inc.
+in Solid  electrolyte  substrates  were  introduced  into  the  integrated  UHV  system  Daisy-Bat  (base pressure <10-8 mbar) and heated in clean oxygen atmosphere at 550 °C to reduce the contamination of their surfaces by atmospheric hydrocarbons.
+Thin films of NaCoO2 were deposited by rf magnetron sputtering at the power of 50 W.
+Deposition  on  NASICON  was  performed  in  the  mixture  of  argon  and  oxygen  at 8·10-3 mbar and 6 sccm Ar + 6 sccm O2 flow using a 99.9 % pure NaCoO2 target from FHR Anlagenbau GmbH.
+By  consecutive  high  temperature  (550  °C)  sputter  deposition  of  NaCoO2  with  XPS  analysis after each step, the formation of the electrolyte/NaCoO2 interface was studied.
+XPS was performed using a Physical Electronic VersaProbe 5000 spectrometer with a monochromatic Al-Kα source at the incidence angle of 45°.
+The analyser worked in fixed analyser transition mode with a pass energy of 23.5 eV and step size of 0.1 eV.
+In order to compensate for the surface charge due to the  electronically  insulating  nature  of  the  solid  electrolyte  substrates,  the  spectra  were  recorded using an electron and Ar+-ion neutraliser [29].
+A known overcompensation of the surface charge was corrected for all spectra shown, based on the binding energy of an Au standard.
+A brief test of the electrochemical performance of Na based ASSBs was carried out using model cells assembled inside an Ar filled glovebox.
+NaCoO2 cathode thin films were deposited onto 5x5 mm solid state electrolyte substrates.
+Metallic sodium was pressed to the uncoated side acting as counter and reference  electrode.
+The  resulting  NaCoO2/Na-β´´-Al2O3/Na  and  NaCoO2/NASICON/Na  ASSBs  were cycled  inside  a  swagelock  type  test  cell.
+Electrochemical  characterisation  was  carried  out  using  a biologic VMP2 potentiostat; cells were kept in a climate chamber at 25 °C.
+Apart  from  Na,  Al  and  O  we  detected  traces  of  Ca  (100-200 ppm)  that  are inevitable in commercial Naβ´´-Al2O3 according to the supplier.
+For the clean solid electrolyte Na-β´´-Al2O3 binding energies of around of 75.4 eV for Al2p, 532.4 eV for  O1s  and  1073.8  eV  for  Na1s  were  measured  (see  Figure  1).
+These  binding  energies  are  slightly different from binding energies reported in the literature so far [26, 30].
+Typical binding energies for Al2p  (74 eV)  and  O1s  (531 eV)  are  both  1.4 eV  lower,  resulting  in  same  binding  energy  difference O1s-Al2p.
+Such a shift of binding energy is usually due to difference in calibration of the energy scale.
+For sodium the binding energy is about 2.1 eV higher than the literature value (1071.7 eV), thus the binding  energy  difference  O1s-Na1s  is  different  in  this  work,  compared  to  literature.
+As  literature data are always recorded for samples with a substantial amount of sodium containing surface layers, the relative binding energy is likely due to this.
+The discrepancy for relative Na1s binding energy is most probably due to the higher surface sensitivity of XPS for higher binding energies, thus, a larger influence of the surface layers.
+A detailed study on the challenge of surface layers on Na-β´´-Al2O3 for XPS  analysis  has  been  performed  by  Polak  et  al.
+For  the  interface  experiment  presented here,  a  carbon-free  solid  electrolyte  surface  was  used  to  exclude  reaction  contributions  due  to carbon contamination and restrict reactions to the Na-β´´-Al2O3/NaCoO2 contact.
+As  NaCoO2  was  consecutively deposited  onto  the  Na-β´´-Al2O3  surface,  an  increasing  intensity  of  the  cobalt  emission  was measured.
+The  Co2p  emission  starts  at  low  binding  energy  values  of  around  777.5 eV.
+With  an increasing  layer  thickness  of  NaCoO2,  the  intensity  maximum  shifts  to  higher  binding  energies  of around  779.7 eV.
+In  the  last  steps  of  the  interface  experiment,  the  Co2p  peak  shape  changes  to  a signature  typically  attributed  to  Co3+  [33-35],  as  expected  for  NaCoO2.  At  lower  deposition  time,  a change  in  the  satellite  structure of the  Co2p emission  line  is  notable, which  is  an  indication of  the valance state of the transition metal, as will be discussed later in more detail.
+The  binding  energy  of  the  O1s  emission  decreases  with  NaCoO2  deposition  from  532.4 eV  for  the pristine substrate to 529.3 eV for 9 nm thick NaCoO2 film.
+In the Na1s emission line, the growth of a feature  at  around  1071.5 eV  can  be  followed  during  the  first  deposition  steps.
+For the still thicker films, the Na1s redevelops into an intense, MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTasymmetric emission with an intensity maximum at 1070.5 eV, typical for NaCoO2 in agreement with the Co2p emission.
+As  the  coating  thickness  increases,  the  Al2p  emission  from  the  substrate  fades  until  it  cannot  be detected  anymore.
+Before  the  Al2p  emission  disappears,  a  new  feature  with  a  binding  energy  of 73.8 eV  develops  in  the  Al2p  spectra  of  the  2.3  and  4.5  nm  thick  NaCoO2  films.
+Moreover,  a substantial emission of calcium is observed in these spectra.
+It is known, that the commercial Na-β´´-Al2O3 (the  substrate  material  used  in  this  work)  usually  contains  a  certain  calcium  contamination (<1 at%).
+Throughout the sputtering of NaCoO2, calcium migrates from the bulk of the Na-β´´-Al2O3 substrate preferentially to the NaCoO2 thin film.
+As the used 0.5 mm thick Na-β´´-Al2O3 substrates are much thicker than the NaCoO2 films (some nm), the total amount of calcium in the films can reach several at%.
+The surface calcium content increases with the thickness of the NaCoO2 layer up to a maximum of about 20 at% for the 9.0 nm thick NaCoO2 layer (see Figure 2).
+During the intensity increase, the Ca2p emission also changes its position to lower binding energy values.
+For the still thicker films, the Ca concentration decreases although remains detectable for the 100 nm thick NaCoO2 films.
+Overall the spectra show the deposition of NaCoO2 with some content of calcium even for the final layer.
+In  the  XPS transparent  (0.6  to  4.5 nm  layer thickness)  NaCoO2  layers on  the  Na-β´´ Al2O3 substrate, new components can be observed, indicating the formation of an interfacial phase by the change in binding energy for different elements (Figure 3a).
+In the Al2p emission, a new component at lower binding  energies  was  detected  for  coating  thicknesses  of  1.1-4.5 nm.
+Simultaneously,  a  significant calcium  content  was  measured  in  the  interface  layer.
+The  shape  of  the  Ca2p  emission  shows  two components: a low binding energy component strongly growing later in the experiment and a high binding  energy  component  present  in  proximity  to  the  interface.
+The  calcium  component  at  high binding  energies  and  the  aluminium  component  at  lower  binding  energies  can  be  assigned  to  the formation  of  a  CaO-Al2O3  phase  [36].
+The  measured  Ca2p  binding  energy  of  347.1 eV  for  this interface compound would agree with a reported value for the CaAl2O4 spinel structure [37], based on  the  fits  that  have  been  made  for  the  Ca2p  and  Al2p  signal.
+However,  other  CaO-Al2O3  mixed phases exist [36] and cannot be excluded based on the present XPS data.
+At the same time, the O1s emission develops a new component at 529.3 eV which becomes dominant at 4.5 nm layer thickness; again this is typical for the lattice oxygen in layered cobalt oxides [40-42].
+This effect is due to the incorporation of calcium from the substrate that moves preferentially to the deposited thin film and replaces the sodium in the layered oxide.
+For the layers thinner than 9.0 nm, the calcium forms a mixed CaO-Al2O3 phase as indicated by the spectroscopic data, while it is incorporated into the layered oxide for thicker layers.
+For pure NaCoO2 samples, an ion  exchange  mechanism  of  sodium  substitution  by  calcium  is  also  reported  in  literature  [43]; probably a similar reaction is also taking place in our experiment.
+For the studied film thicknesses of 9, 18, 36 and 100 nm, a clear trend is observable for the surface composition: as the calcium content decreases from a local maximum at 9.0 nm thickness, the sodium content increases again (see Figure 2).
+For layered cobalt oxides, the binding energy of the main emission is typically between 779 and 780 eV due to a MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTmixture  of  Co3+/Co4+  as  the  main  cation  [33].
+The  Co3+  satellite  is  about  9.7 eV  higher  in  binding energy than the main emission [33-35].
+Impurity phases can lead to contributions of Co2+, resulting in an intense satellite feature at around +6.0 eV according to the main emission [47].
+In this study, a significant  amount  of  Co2+  was  observed  for  all  interface  steps  with  high  calcium  content.
+As  the calcium content within the interface vanishes, the Co2p emission develops a shape typical for layered transition metal oxides.
+The Co+3 satellite is separated from the emission maximum by an intensity minimum,  meaning  the  Co+2  content  is  negligible  for  the  last  two  spectra.
+The  spectrum  for  the 100 nm  thick  coating  is  representative  for  “bulk”  thin  film  cathodes  on  Na-β´´-Al2O3  electrolyte During the first steps of the interface experiment, the Na1s develops a pronounced shoulder to lower binding  energy,  while  the  Al2p  and  O1s  emissions  only  show  a  slight  broadening.
+For  the  Co2p emission, which could not be detected for the substrate, very low binding energies were recorded.
+Due  to  the  low  Co2p  intensity,  a  detailed  analysis  is  doubtful  for  the  beginning  of  the  interface experiment.
+However, taking into account the binding energy values of around 777.5 eV, it is evident that no cobalt oxides are detected.
+To the knowledge of the authors, only metallic cobalt is known to have  such  binding  energies.
+As  the  deposition  was  carried  out  by  magnetron  sputtering  from  an oxidic target, this seems questionable.
+Figure 4 shows the substrate core level Na1s, O1s, Zr3d and P2p as well as the Co2p core level of the deposited cathode material NaCoO2. For the pristine state,  multi-component  emissions  for  Na1s  and  O1s  are  visible.
+In  the  Na1s  level,  the  main component  is  located  at  1072 eV,  while  a  minor  emission  is  detected  for  1.6 eV  higher  binding energies.
+These two components agree well with the two possible crystallographic sites for sodium reported for this material [24].
+The O1s emission of the pristine substrate contains two features that are located at 530.6 and 532.1 eV, the origin of these components is not clear.
+Additionally, at the binding  energy  of  536 eV  (not  shown  in  Figure  4),  the  NaKLL  Auger  feature  was  detected  for  the pristine NASICON sample.
+Zr3d and P2p emissions both show single-component emissions that are affected  by  spin-orbital splitting,  leading  to two  features  in  the  Zr3d  and  an  asymmetric  feature  in P2p.
+The  measured  binding  energy  splitting  values  for  P2p  and  Zr3d  are  0.94  and  2.39 eV, respectively, which is in good agreement with literature values [48].
+During the interface experiment changes in the spectral signature of the substrate can be noticed, while  components  of  NaCoO2  are  rising  (see  Figure  4).
+The  Na1s  emission  intensity  decreases  to  a  9 MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTminimum in the first step, just to regain intensity within the rest of the experiment, finishing off with an  intense  asymmetrical  feature.
+As  the  cobalt-containing  layer  is  deposited,  the  Co2p  emission increases  in  intensity  until  it  is  more  or  less  constant  for  the  last  deposition  steps.
+Also  in  this experiment, the Co2p emission shows a change in the shape of the emission: for layer thicknesses >2.4 nm, an intensity minimum develops between the main emission and the Co3+ satellite at around 9.7 eV higher binding energies, indicating NaCoO2. In the beginning of the interface, the O1s emission changes its shape, followed by a shift to lower binding energies.
+As soon as the Co2p emission shows a clear minimum between the main emission and satellite feature, the O1s peak reaches a binding energy  of  529.3 eV,  which  stays  constant  for  the  rest  of  the  experiment.
+In  the  last  step  of  the interface experiment, the NaKLL feature can be observed adjacent to the O1s peak.
+For the elements only  present  in  the  NASICON  substrate,  the  fading  of  the  signal  intensity  can  be  followed.
+Both elements shown here, zirconium and phosphorus, are clearly detectable for coating layers of 4.8 nm or  less.
+In  the  14 nm  step,  a  signal  is  hardly  noticeable  as  the  inelastic  mean  free  path  length  of photoelectrons  is  around  2.4 nm  here.
+However,  before  the  substrate  emission  is  blocked  by  the deposited  layer,  a  change  in  spectral  information  occurs:  the  Zr3d  emission  clearly  shifts  to  lower binding energy values by around 1 eV, while the shift for P2p is hardly noticeable (about 200 meV).
+By  studying  the  complete  XPS  data  set,  it  was  noticed  that  the  structural  cations  scandium  and zirconium  behave  similarly  in  this  experiment  (significant  BE  shift);  the  same  applies  for  the polyanion-building  species  phosphorus  and  silicon  (negligible  BE  shift).
+A possible explanation might be the contact of the substrate surface to the  plasma  in  the  sputtering  process:  the  light  element  sodium,  not  strongly  bound  within  the structure,  is  sputtered  out  of  the  surface  region.
+For  further  deposition  steps,  this  process  might diminish, as the deposition from the sodium-containing target becomes sufficient to compensate for this  loss  and  the  Na1s  signal  becomes  more  intense  again.
+The  other  elements  monitored  in  this experiment behave as expected: a Co2p emission of low intensity appears showing an oxidic nature according to the binding energy.
+Elements solely present in the substrate only show minimal signal MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTIn  the  region  between  0.3  and  4.8 nm,  a  change  in  binding  energy  by  about  1 eV  without  notable change of the signature was observed for Zr3d.
+In  the  current experiment,  the  NaCoO2  was  deposited  as  separated  atoms  on  the  substrate  during  the  sputter process, thus atomic sodium reached the NASICON surface.
+Previous studies have shown that during sputter depositions process related reactions occur, which are similar to the reactions caused by the single  elements  of  the  material  deposited  [49].
+Additionally,  the  substrate  was  heated  to  550 °C, resulting in conditions comparable to the experimental conditions in [2].
+The other structural cation located  in  MO6  octahedra  (scandium)  shows  the  same  behaviour  in  the  interface  experiment.
+A minor shift of about 0.2 eV in binding energy could be recorded, but this is most probably caused by the zirconium and scandium cations adjacent to the polyanions.
+Parallel  to  these  effects,  the  formation  of  a  NaCoO2  layer  was  detected,  resulting  in typical Na1s, Co2p and O1s emissions.
+Na1s and O1s both shift to lower binding energy values in the interface  region,  reaching values  of 529.3  and 1071 eV  in  the  4.8 nm  coating  step.
+In  the  Co2p  emission,  no  clear  minimum  was observed between the main emission and the satellite feature in the interface region.
+The emission in the region between the main emission and the Co3+ satellite is typically attributed to the presence of  Co2+ [33,  35,  50].
+As  the  Na1s  emission  is  not  very  intense  in  this  region,  one  would  expect  a NaxCoO2 layer with low sodium content, resulting in a high fraction of Co4+.
+However, the presence of  Co2+  suggests  that  other  compounds  like  Co3O4  are  also  present  at  the  interface,  but  due  to  the complexity of the transition metal photoemission signal clear assignment is not possible here.
+In  the  last  part  of  the  experiment,  no  substrate  signal  was  detectable  anymore.
+In  Na1s  signal,  an asymmetric  feature  can  be  observed  after  the  final  deposition  step.
+This  is  attributed  to  sodium species  being  coordinated  either  face or  etch-sharing  to  the  CoO6  octahedra  of  NaCoO2[39].
+In comparison  to  preceding  deposition  steps,  an  increase  of  Co3+  is  also  detectable,  as  the  satellite feature is slightly more intense and the high energy shoulder of the main emission vanishes.
+In the 527-538 eV binding energy region, the NaKLL auger feature is well observable again for the last step of the experiment next to the O1s emission at 532.3 eV.
+Besides this, a preferential diffusion of the impurity element calcium takes place to the interface region, probably taking up the interlayer  places  of  the  sodium  [43].
+The  sodium-free  reaction  phase  in  combination  with  the replacement  of  the  alkali  is  assumed  to  result  in  poor  interface  kinetics,  leading  to  bad  cell performance for ASSBs.
+For the other type of interface, a substantially different behaviour was observed in the XPS spectra.
+NASICON substrates only showed a slight binding energy change of the base material due to the high deposition  temperature  and  the  atomic  nature  of  the  sputter  process.
+Additionally,  a  depletion  of sodium  in  proximity  to  the  interface  was  monitored.
+The  absence  of  a  clear  reaction  phase  is assumed to lead to much lower overpotentials for this kind of interface.
+Nevertheless, the detected interface reaction reveals the potential for ASSB optimisation by interface engineering.
+Albeit  the  effect  on  the  overall  cathode  stoichiometry  is  expected  to  be  less severe due to similar volumes of electrolyte and cathode material, this may cause a potential major problem due to interface issues.
+Due to the common calcium impurities, Na-β´´-Al2O3 is problematic for ASSBs if oxide cathode materials are used.
+In the case of NASICON, the effects observed here are probably less of a problem if the materials are brought into contact by bulk methods rather than thin film processing, as no atomic sodium is involved then.
+Electrochemical  charge  discharge  curves  of  model  ASSBs  as  well  as  intermediate  open  circuit potential  development  can  be  seen  in  Figure 6.  During  charge  and  discharge  of  the  cells  one  can clearly see several potential steps, as widely known in literature for NaCoO2 cathodes [51-55].
+The specific cathode capacity of the two model ASSBs is different, with the NASICON based cell showing a MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTsignificantly higher capacity.
+As  both  solid  electrolytes  are  comparable  in  resistance  [24,  57],  this  difference  in  cell performance  is  likely  due  to  the  different  interfacial  properties.
+We  assign  the  relatively  high potential  drop  observed  in  NaCoO2/Na-β´´-Al2O3/Na  ASSBs  to  the  previously  detected  calcium accumulation  in  the  interface  region  hindering  the  Na+  movement  throughout  the  cathode electrolyte interface.
+For  the  NASICON  material,  only  a  slight interface  reaction  was  detected,  which  is  restricted  to  a  region  close  to  the  cathode/electrolyte interface.
+In  the  case  of  Na-β´´-Al2O3 the  formation  of  a  new  phase  at  the  interface  as  well  as  an extensive  region  of  cathode  material  influenced  by  the  common  calcium  impurities  from  the substrate  material  were  detected.
+The observed  interlayers  caused  cell  overpotentials  that  are  in agreement with the interface properties detected by XPS.
+For future studies, it will be interesting to improve the overall cell performance of ASSBs by interface engineering:  Application  of  suitable  thin-film  interlayers  potentially  leads  to  passivating  interfaces that  still  conduct  active  ions.
+Such  interface  engineering  might  well  be  capable  of  significantly improving the power density of ASSBs if it is possible to restrict the ohmic losses to the electrolyte Acknowledgements  This research project was funded by the DFG (HA 6128/2-1 and KO 4093/2-1).

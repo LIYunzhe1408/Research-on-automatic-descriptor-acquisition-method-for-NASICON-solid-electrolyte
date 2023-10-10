@@ -1,0 +1,13 @@
+Solid state ionic conductors are important from an industrial viewpoint.
+A variety of suchconductors have been found.
+In order to understand the reasons for high ionic conductivity in these solids,there have been a number of experimental, theoretical and computational studies in the literature.
+Weprovide here a survey of these investigations with focus on what is known and elaborate on issues thatstill remain unresolved.
+Conductivity depends on a number of factors such as presence of interstitial sites,ion size, temperature, crystal structure etc.
+We discuss the recent results from atomistic computer simulationson the dependence of conductivity in NASICONs as a function of composition, temperature, phasechange and cation among others.
+A new potential for modelling of NASICON structure that has been proposed is also discussed.
+We have provided a summary of experimental,computational and sometimes theoretical studies onsolid-state ionic conductors.
+It appears that the solidstate ionic conductors are superior to liquid electrolytesin several ways.
+The reasons for this is not difficultto appreciate.
+The disorder in these crystallinesolids is significantly less than that seen in liquids.
+There still remain certain aspects that need to beinvestigated.
+These are the microscopic nature of theionic motion, the normal to superionic phase transitions,the dependence of diffusivity on the size ofthe diffusing species, the changes in the zirconium silico phosphate-framework upon the variation ofsize and the content of alkali ion and the role offramework expansions as well as vibrations on conductivity.

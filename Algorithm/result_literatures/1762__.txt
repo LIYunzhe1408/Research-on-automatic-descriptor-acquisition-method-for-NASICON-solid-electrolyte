@@ -1,0 +1,23 @@
+Synthetic conditions are determined for the variable-composition phase Na1 – ıNi1 – ıCr1 + ı(MoO4)3(0 ≤ ı ≤ 0.4) with a NASICON structure.
+The unit cell parameters of this phase are derived from X-ray powderdiffraction data, and the phase is characterized by IR and Raman spectroscopy.
+The oxide phases with a NASICON structure arepromising solid electrolytes since they show a highionic conductivity and a high performance and are environmentallyfriendly.
+Some of the NASICON-type phases with partiallyvacant alkali-metal sites possess superionic properties.
+The variability of cationic composition within theNASICON structure type allows a directed synthesis of NASICON-typeM1–ıA1–ıR1+ı(MoO4)3 phases with adesired composition.
+The NASICON structure is basedon a framework ofA(R)O6octahedra sharing their verticeswith MoO4tetrahedra.
+This structure is topologicallyidentical to corundum.
+The A(R) atoms arelocated on threefold axes; the MoO4groups, on twofoldaxes.
+The stretching frequencyof the MoO4 groups increases by 20–25 cm–1with increasing x (Tables 2, 3), apparently because theenergy of the Mo–O bond increases as the cationicvacancies build up.
+The random distribution of the cationsdoes not affect the fundamental features of thespectra, but it causes some widening of the spectrallines.
+Furthermore, it reduces the distortion of theMoO4 tetrahedra, thus diminishing the splitting of thetriply degenerate stretching mode.
+Since the sodium sublattice vibrations are Ramaninactive,the lines at frequencies below 300 cm–1 aredue to vibrations of the Ni2+ and Cr3+ cations.
+
+The substitution of magnesium forpart of the nickel shifts the 277 cm–1 band to 279 cm–1.
+Furthermore, this band is sensitive to molybdenum isotopesubstitution, shifting from 278 to 280 cm–1.
+The 190 cm–1 band is primarily due the vibrations ofthe chromium cations.
+Note the behavior of the lowestfrequency Raman lines (112–86 cm–1).
+These linesshift upon the partial substitution of magnesium fornickel and weaken as the chromium content ofNa1 − ıNi1 – ıCr1 + ı(MoO4)3 is increased up to x = 0.3. Atlarger values of x, they are not observed at all.
+TheRaman lines at 112–86 cm–1 are assigned to vibrationsof nickel atoms.
+The IR absorption bands appearingbelow 160 cm–1 can be assigned to vibrations of sodiumcations.
+Furthermore, the librations of molybdate groupsare reported to show themselves near 150 cm–1 .
+The above results suggest that, upon the heterovalentsubstitution Na+ + Ni2+ Cr3+ + , the excesschromium cations in Na1 − ıNi1 – ıCr1 + ı(MoO4)3occupy Ni2+ sites.
+The resulting vacancies are located inthe sodium sublattice.

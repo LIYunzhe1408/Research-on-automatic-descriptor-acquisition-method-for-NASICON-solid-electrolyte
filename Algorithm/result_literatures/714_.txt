@@ -1,0 +1,20 @@
+Superionic lithium-ion conductors of NASICON structure are promising solid electrolytes for all solid-statebatteries.
+But still further improvement of the ionic conductivity is necessary to be competitive with today'sliquid electrolytes.
+This requires a thorough understanding of grain and grain boundary ion transport properties.
+However, distinguishing between the impedance contributions of both regimes proved to be difficult before, dueto their overlapping time constants, which often necessitate measurements below 0 °C.
+In contrast, we analyze aLi1.3Al0.3Ti1.7(PO4)3 (LATP) solid electrolyte under battery operation temperatures between 10 °C and 50 °C byimpedance measurements in combination with a distribution of relaxation time analysis in two dimensions (2DDRT).
+By correlation with microstructural observation in the laser-scanning microscope (LSM), scanning electronmicroscope (SEM) and atomic force microscope (AFM) the dominating ion transport pathway is determinedwithin a bricklayer model on a macroscopic scale.
+Moreover, the ionic conductivities of grain and grainboundary are calculated.
+For the grain, conductivity values of 2 mS cm−1 at room temperature are found.
+Theion transport activation energies of both domains are determined to be 182 meV and 430 meV, respectively.
+Optimization routes for further ionic conductivity improvements are derived.
+By impedance measurements of a LATP solid electrolyte combinedwith a 2D-DRT analysis, the impedance contributions of grains andgrain boundaries were distinguished at temperatures between 10 °C and50 °C, which proved to be difficult before.
+The combination of the resultswith structure elucidation by LSM, SEM and AFM revealed adominant ion transport through the grains and perpendicular to thegrain boundaries, while the ion transport along the grain boundarieswas negligible.
+Thus by analyzing the impedance data by a 2D-DRT theion transport mechanism could be unambiguously determined.
+The total, grain and grain boundary ionic conductivities were calculatedin the framework of the brick layer model.
+At RT, a total ionicconductivity of 0.1 mS cm−1, grain ionic conductivity of 2 mS cm−1and grain boundary ionic conductivity of 0.7 μS cm−1 was found.
+Thelarge difference between total and grain boundary ionic conductivitycould be attributed to the geometric ratio of grain size and grainboundary width.
+The conductivity difference of both regimes wentalong with a large difference in their activation energies.
+These were(430±8) meV and (182±11) meV, respectively.
+Thus, the total activationenergy ((399±10) meV) is mostly determined by the grainboundaries.
+It could be shown that further ionic conductivity improvements canbe achieved by either increasing the grain size to grain boundary widthratio or the lithium-ion concentration in the grain boundaries.

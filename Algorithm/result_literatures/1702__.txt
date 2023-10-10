@@ -1,0 +1,127 @@
+Titanium phosphate, Na3[Ti2P2O10F]âxH2O (1), has been synthesized under hydrothermal conditionsand structurally characterized using powder X-ray diffraction, neutron diffraction, and selected area electrondiffraction (SAED).
+crystallizes in the tetragonal space group I4/mmm with a ) 6.4207(1) Å and c )10.6762(2) Å and can be described by the stacking of a square-net sheet consisting of alternative linkageof TiFO5 octahedra and PO4 tetrahedra.
+The TiFO5 octahedron is highly distorted, with a short “titanyl”Ti-O bond and a long Ti-F bond.
+The “titanyl” oxygen is almost doubly bonded to Ti; the square-netsheets are linked only by sharing common F atoms, which lead to a rather opened framework containing2D channels in the ab plane.
+The counter cations Na+ and water molecules reside in the channels.
+Athigh temperature, the adsorbed water molecules escape from the channels, leading to an anhydrous phaseNa3[Ti2P2O10F] (2) with exactly the same structural framework as that of 1. 2 is stable at high temperaturein an Ar atmosphere, but decomposes to other known titanium phosphates and oxide at about 650 °C inair.
+The Na ions in the compound are exchangeable.
+In addition,  exhibits a Na conductivity comparableto that of the NASICON type titanium phosphates.
+Titanium phosphates (TiPOs) are an interesting class ofmaterials that may show various properties and applications,such as nonlinear optics, ion exchange, ion conductivity,4and redox catalysis.
+ In TiPO structures, Ti and P atomsare octahedrally and tetrahedrally coordinated and linked viasharing corners to form various frameworks.
+In the structureof KTP and related compounds MTiOPO4 (M ) Ag, Tl, Cs,Rb, K, Na, Li),7 for example, the TiO6 octahedra sharecorners to form octahedral chains; these are further interconnectedby PO4 tetrahedra, forming a 3D structure.
+The TiO6octahedron in the KTP structure is highly distorted with ashort “titanyl” Ti-O bond (<1.75 Å) and a long trans-Ti-Obond .
+Such asymmetric trans bond distance isresponsible for the localized bond polarization, which leadsto large nonlinear optical coefficients.
+Another interestingfamily of TiPOs is the NASICON type MITi2(PO4)3 and thesubstituted series with a general formula MI1+xTi2-x-y-RIIIxRIVy(PO4)3, where MI can be most of the alkaline metalions and RIII and RIV are the trivalent and tetravalent metalions.
+Most of the NASICON type TiPOs are good ionicconductors, particularly for LiI and NaI cations.
+In thesestructures, TiO6 octahedra and PO4 tetrahedra share cornersand form 3D frameworks with small channels, within whichthe cations MI are distributed and responsible for ionicconductivity.
+Partial substitution of TiIV by other trivalentions may modify the concentration of the carries and theirmobility, which may further modify ionic conductivity ofthe materials.
+In the past several decades, a large number of new TiPOswith diverse structures ranging from 1D chains,2Dlayers and even 3D open frameworks have beensynthesized.
+Most of them, however, are hydrated titanium phosphates consisting of HPO4 groups in the frameworks.
+Because the dehydration temperature of the HPO4 group israther low, the thermal stability of these hydrated titaniumphosphates is, in general, low and thus hardly used inpractice.
+Anhydrous frameworks of TiPOs can also besynthesized under hydrothermal conditions30 by carefullytuning the reaction conditions.
+On the other hand, we havebeen attempting to synthesize new titanium borates (TiBOs),in particular, those with microporous framework structures,during the past several years.
+During the study, a newoxyfluorinated titanium phosphate Na3[Ti2P2O10F]âxH2O (1)was obtained.
+Similar to the NASICON type structure, theframework of this compound also contains small channelsin which Na cations and water molecules reside.
+At hightemperature, water molecules can be completely removed,forming anhydrous Na3[Ti2P2O10F] (2).
+The Na ions in theanhydrous compound are mobile and thus the materialexhibits ionic conductivity and ion-exchange properties.
+Inthis paper, we report the synthesis, structure, conductivity,and ion-exchange properties of this material.
+Single-phase samples of Na3-[Ti2P2O10F]âxH2O (1) were obtained under hydrothermal conditionsin Teflon autoclaves starting from acidic suspensions of NaBO3â4H2O, Ti(SO4)2, and phosphoric acid in a molar ratio of 9.3:1.0:7.0 (Na:Ti:P).
+
+The autoclavewas sealed, heated to 200 °C under autogenous pressure for 7 days,and then cooled to room temperature at a rate of 3 °C/h.
+About2.50 g of product (yield 90% on the basis of Ti(SO4)2), appearingas white powder, was isolated by washing the product with hotdistilled water and drying it at ambient temperature.
+1 is stableand insoluble in water and most organic solvents.
+Initially, thesynthetic study was aimed for titanium borates so that NaBO3â4H2O was used in the starting materials.
+In fact, NaBO3â4H2O canbe replaced by NaH2PO4 without effecting the product.
+Otheramines, such as triethylamine, ethylenediamine, or propane-1,3-diamine, can also be used in the reaction system.
+Na3[Ti2P2O10F](2) can be obtained by heating 1 at 700 °C in an Ar atmosphere.
+The products were examined by X-ray diffraction on a RigakuD/Max-2000 diffractometer.
+Powder X-ray diffraction data usedfor structure determination were recorded on a Bruker D8 Advancediffractometer with Cu KR1 1.54056 Å) radiation at 50 kV and 40mA at room temperature.
+The neutron diffraction data werecollected at room temperature on the Special Environment PowderDiffractometer at the Intense Pulsed Neutron Source of ArgonneNational Laboratory.
+Selected area electron diffraction (SAED) andenergy dispersive X-ray spectroscopy (EDX) were carried out onan H-9000 transmission electron microscope at 300 kV.
+Using EDX,we found fluorine in the compound with a 1.1:2.0 F:P ratio.
+Theelemental ratio (Na:Ti:P) was measured by means of inductivelycoupled plasma optical emission spectroscopy (ICP-OES) on aVarian Vista RL spectrometer with radial plasma observation.
+Asa typical analytic process, 1 was dissolved in acids (HCl or HClplus HNO3) to the appropriate concentration and then measuredby ICP-OES for three parallel samples, which resulted in an averageNa:Ti:P ratio of 1.55:1.00:1.05. Chemical analysis also confirmsthat the compound does not contain boron.
+Thermogravimetricmassspectrometric analysis (TG-MS) was performed in a NetzschSTA 449C simultaneous analyzer utilizing Al2O3 crucibles andtype-S thermocouples.
+The thermal stability was investigated upto 1073 K with TG-MS in a heating/cooling rate of 10 K/min ina dynamic argon atmosphere (gas flow, 0.03 L/min).
+The 1H solidstateNMR spectrum was recorded on a Varian Unity Plus-400spectrometer, 19F and 31P solid-state NMR on a Varian Unity Inova300 spectrometer.
+The recording conditions of the spectra are listedin Table 1.The structure was determined byusing an ab initio method on powder X-ray diffraction data.
+Thepowder diffraction data can be indexed31 to a body centeredtetragonal cell with a ) 6.4207(1) Å and c ) 10.6762(2) Å.
+Thesystematic absence of the reflections indicated the possible spacegroups, I4/mmm, I4mm, I4h2m, I4hm2, I422, I4/m, I4h or I4. Figure 1shows selective area electron diffraction (SAED) patterns in [001],[010], and [113h] zones, which further confirm the I-centeredtetragonal crystal system and the systematic absence of thereflections.
+To further determine the space groups, we conductedsecond-harmonic generation (SHG) coefficient measurements onpowder samples by using the Kurtz-Perry method32 with a YAG:Nd3+ laser (1064 nm).
+Na3[Ti2P2O10F]âxH2O (1) does not showsecond order nonlinear optical effects, so the possible space groupmay be I4/mmm or I4/m.
+The structure solution was initially established in the space groupI4/m using the direct method,where titanium, phosphorus, sodium,and part of the oxygen positions can be directly located.
+The restof the oxygen positions were obtained by subsequent differenceFourier analysis.
+ Careful examining of the atomic parametersrevealed that the structure can, in fact, be described in a highersymmetryspace group, I4/mmm (see the Supporting Information).
+The final structure refinement was carried out simultaneously onpowder X-ray diffraction data and neutron diffraction data usingthe Rietveld method35 with isotropic displacement parameters forall atoms.
+Figure 2 shows the profile fit of the neutron diffractionpattern.
+The refined atomic parameters and calculated bond valancesums are listed in Table 2. 
+The fluorine atom (F1) was assignedon the basis of the result of EDX and the BVS value.
+Additionally,on the basis of the result of chemical analysis and charge balance,Na/Ow1 positions were occupied by Na ions with an occupancyfactor of 0.75, the rest may be empty or filled by water molecules.
+While fixing the occupancy factor of Na ions to 0.75 and assuming that the water molecules are just located at the position of Na/Ow1, the refined occupation factor of water is about 0.09 for thisparticular sample.
+The structure of Na3[Ti2P2O10F]âxH2O (1) represents an interesting structure type consistingof TiFO5 octahedra and PO4 tetrahedra (Figure 3a).
+The Tiatom is located on the 4-fold axis of the structure and in aheavily distorted octahedron represented by a long Ti1-F1bond (2.143(1) Å), a short Ti1-O2 bond (1.611(1) Å), andfour regular Ti1-O3 bonds (2.056(1) Å).
+According to theBVS calculation, Ti1-O2 (BVS ) 1.74) contains considerabledouble-bond character, which, similar to that observedin MTiOPO4 (KTP), could be considered as a titanyl Ti-Oterminal bond in the framework.
+On the other hand, the sitesymmetry of P1 is 4h; PO4 thus adopts an ideal tetrahedralgeometry with a P-O distance of 1.522(1) Å.
+Figure 3bshows a projection of the structure, and one can see that thestructure can be conveniently described as repeat stackingof a square-net sheet along the c axis.
+Figure 3c shows thesquare-net sheet projected along the c axis, in which theTiFO5 octahedra and PO4 tetrahedra are alternatively linkedvia sharing four oxygen atoms (in the ac plane).
+Because ofthe geometry restriction of the PO4 tetrahedron, the squarenetsheet is buckled as shown in Figure 3b.
+In the squarenetsheet, the doubly bonded O2 (the titanyl Ti1-O2 bond)is a terminal oxygen that does not contribute to theconnection between the sheets.
+The square-net sheets areinterconnected thereby only through sharing F atoms onTiFO5 octahedra.
+Because of the long Ti-F-Ti distance(4.3 Å), the framework structure in 1 is quite open,containing 2-dimensional channels of 6-ring windows asshown in Figure 3b, which is topologically similar to NaTi2-(PO4)336 shown in Figure 3d.
+The Na ions are located withinthe channels and coordinated in a monocaped trigonal prism(Na-O2 ) 2.563 (1) Å, Na-O3 ) 2.496(1) Å, and Na-F) 2.526(1) Å).
+The 1H MAS NMR spectrum of 1contains a main peak at 5.3 ppm and two weak bands atabout 10.0 ppm and 14.9 ppm, as shown in Figure 4a.
+Theresonance peak at 5.3 ppm originates from physicallyabsorbed water, whereas the weak bands at 14.9 and 10.0ppm may attribute to chemically adsorbed protons on the surface of the sample, largely due to the formation of theH2PO4- or HPO42- groupson the surfaces of theparticles.
+The peak at -146.0 ppm in the 19F MAS NMRspectrum (reference CFCl3; Figure 4b) originates from thebridging fluorine atom (Ti-F-Ti).
+ The resonance peakat 6.3 ppm in the 31P MAS NMR spectrum (reference 85%H3-PO4; Figure 4c) can be attributed to tetrahedrally coordinatedP.
+The MAS NMR spectra of 1H, 19F, and 31P furtherconfirm the presence of water molecules and fluorine atoms,as well as single crystallographic P site in the structure.
+Thermal Stability.
+Figure 5 shows TG-MS curves of asample of Na3[Ti2P2O10F]âxH2O (1) in Ar.
+loses weightgradually between 200 and 700 °C because of removal ofthe adsorbed water molecules in the channels.
+We also foundthat the content of the adsorbed water is slightly different indifferent samples (see the Supporting Information).
+X-raydiffraction patterns recorded after heat-treatment at differenttemperatures (Figure 6) show that the thermal stability ofthe framework is different in air and Ar.
+In air, the frameworkis retained up to about 650 °C, and above this temperature,it collapses and decomposes to Na4TiP2O9,46 NaTiPO5,47 and TiO2.48 In an Ar atmosphere, the framework may bemaintained up to at least 800 °C, as shown in Figure 6. 
+Thelow thermal stability of the compound in air originates fromsubstitution of the fluorine atoms by oxygen, which resultsin the formation of the titanium phosphates and titaniumoxide.
+Complete removal of the adsorbed water yields ananhydrous compound Na3[Ti2P2O10F] (2).
+In Figure 7, weshow a profile fit of neutron diffraction data collected afterheat-treatment at 800 °C in Ar to the I4/mmm structuremodel.
+The atomic parameters of 2 (Table 3) show only aslight change from that of 1. 
+Therefore, the anhydrouscompound adopts the completely same framework structure,and the only difference is that the adsorbed water moleculesin the channels are completely removed, as indicated by theoccupation factor of the Na/Ow1 site (0.75) in Table 3.
+
+Ion-exchange reactions were carried outin aqueous solution at 60 °C.
+As a typical example, about0.5 g of Na3[Ti2P2O10F]âxH2O (1) was suspended and stirredin 75 mL of 1.0 mol LiCl solutions (pH 7) for 24 h.
+Afterbeing filtered and washed with distilled water, the exchangedsamples were examined by X-ray diffraction and chemicalanalysis (ICP-OES).
+The sample was then used for furtherion exchange.
+Several other monovalant ions, such as K+and NH4+, were used in the exchange reaction, but only Li+was successfully substituted for Na+ ions.
+The substitutionof Li for Na was confirmed by both chemical analysis andX-ray diffraction.
+Figure 8 shows the correlation of themeasured Li content and the lattice constants for a series ofsamples, Na3-3yLi3y[Ti2P2O10F]âxH2O.
+As the Li content inthe sample increases, the lattice constants a and c decreasealmost linearly, indicating that the Na ions in the channelswere indeed exchangeable by Li ions.
+AC impedance was measured with aHP4192A impedance analyzer with an ac voltage of 50 mVand frequency range of 5 Hz to 12 MHz between 200 and540 °C.
+The samples were pressed into pellets and sinteredat 700 °C for 20 h in an Ar atmosphere to remove theadsorbed water and obtain Na3[Ti2P2O10F] (2).
+The densityof the pellet estimated using the Archimedean method wasabout 90% of the ideal density.
+The electrode was paintedwith Pt paste on faces of the pellet and then treated at 550°C for 30 min.
+Figure 9a is a typical impedance spectrumof 2 measured at 200 °C.
+The first semicircle represents bulkproperty, and the second semicircle, which is, in fact,overlapped with a straight line originating from the Warburgdiffusion impedance, is mainly caused by the grainboundary effect.
+From the first semicircle measured atdifferent temperatures, one could extract the bulk conductivityof the sample.
+The bulk conductivity data are plotted aslog(óT) vs 1000/T in Figure 9b.
+Intrinsic activation energies(Ea ) 0.48 eV) were obtained from the slopes of the plot.
+The bulk conductivity value at 200 °C is about 1.0, which is comparable to that of NASICON typeTiPOs52 as shown in Figure 9b.
+The charge carrier in the material is presumably the Na+ions in the channels of structure 2.
+Two aqueous NaCl solutions, one for reference and the otherfor measurement, were separated by solid electrolyte made by Na3[Ti2P2O10F] (2).
+Grid Pt films on both surfaces of thepellet were used as electrodes, and two bended glass tubeswere then bonded on both surfaces, in which the referenceand measured solutions were added.
+As shown in Figure 9c, theEMF of the cell shows a linear dependence on ln(Co/Cx) witha measured transference number of Na+ close to 1.0,indicating that the charge carriers in the material are sodiumions.
+A new titanium phosphate Na3[Ti2P2O10F]âxH2O (1) hasbeen synthesized by the hydrothermal method.
+At hightemperature, the adsorbed water molecules in 1 can becompletely removed to form an anhydrous phase, Na3-[Ti2P2O10F] (2), with an identical framework structure.
+Theframework structures in 1 and 2 can be described as repeatstacking of a square-net sheet.
+The square-net sheet is rathersimilar to the (100) perovskite layer, where half of theoctahedra are replaced by PO4 tetrahedra in an alternativefashion; each TiFO5 octahedron thus connects to four PO4tetrahedra in the plane, and vice versa, in the square-net sheet.
+
+The octahedron TiF2O4 shares four oxygenatoms with PO4 in the plane and leaves two axial fluorineatoms as terminal atoms, so that these are layered compounds.
+This square-net sheetmight be considered as an extreme asymmetric example, inwhich the vanadium ions are coordinated in square pyramidalgeometry with a short double terminal VdO bond and fourregular V-O bonds to the PO4 groups.
+In 1 and 2, the TiFO5octahedra are also highly asymmetric, with an opposite axialshort Ti-O2 (1.611(1) Å) and long Ti-F1 (2.143(1) Å)distances.
+However, the square-net sheets are interconnectedvia the fluorine atom and thus form a 3D framework.
+Additionally, unlike the perovskite structure, the frameworkis rather open, containing 6-ring windows within the abplane, in which the sodium ions and water molecules reside.
+The sodium cations in Na3[Ti2P2O10F]âxH2O are exchangeable.
+Although only Li+ was successfully exchanged intothe material in present study, this is does not mean that thelarge alkaline ions, such K+ and NH4+, are not exchangeable;we would rather attribute this observation to the kineticreason, because even for Li+, the exchange reaction was quiteslow under present conditions (60 °C in aqueous solution).
+At high temperature, the adsorbed water molecules escapefrom the channels, yielding anhydrous Na3[Ti2P2O10F] (2).
+The framework structure in 2 is completely the same as thatin 1, in which the Na/Ow1 site is partially occupied by onlyNa ions.
+Therefore, Na3[Ti2P2O10F] (2) is rather similar toNISICON type TiPOs as far as the mobility of the countercations is concerned.
+The conductivity of Na3[Ti2P2O10F] (2)is moderate, which is similar in magnitude to that of theNISICON compound Na1+xTi2-xAlx(PO4)3,52 as is the activationenergy (Ea ) 0.48 eV).
+Although considering that ourpreliminary conductivity study was conducted only onstoichiometric Na3[Ti2P2O10F] and, additionally, that thismaterial behaves as a pure ionic conductor, further modificationof the materials is desired to improve the conductiveproperties.

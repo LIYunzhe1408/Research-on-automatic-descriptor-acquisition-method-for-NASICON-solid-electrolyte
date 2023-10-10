@@ -1,0 +1,100 @@
+Complex phosphates of titanium, chromium, and metals(2+) of the general formula M0.5(1 + x)CrxTi2 – x(PO4)3 (M = Mg, Ca, Mn, Ni, Sr, Ba, and Pb) were synthesized.
+Their phase formation was studied by means of X-ray powder diffraction, electron probe microanalysis, differential thermal analysis, and IR spectroscopy.
+Individual phases and solid solutions crystallizing in kosnarite and langbeinite structure types were identiﬁed; their crystallographic parameters were calculated.
+The catalytic properties of phosphates Ca0.5(1 + x)CrxTi2 – x(PO4)3 in methanol conversion were studied.
+Phosphates  with frameworks, where L stands for an octahedral cation, are very abundant and diverse in their structures and chemistry.
+They have attracted the attention of specialists for their potential for use as polyfunctional materials with low thermal expansion and thermal conductivity high thermal, chemical, and radiation resistance; ionic conductivity; and catalytic activity.
+Depending  on  the  orientation  of  topologically equivalent polyhedral structural units of the framework in different crystallographic directions, the most abundant  structure  types  for  phosphates  are  minerals , trigonal space group .
+The appearance of the particular crystal  structure  depends  on  isomorphism  of  octahedral framework  cations,  the  set,  and  distribution  of extraframework cations over structural positions.
+Extensive isomorphism of various types of framework cations and extraframework cations leads to variations  in  the  polarity,  Lewis  acidity,  and  other  local parameters of functional sites inside the framework and interstices.
+As  a  consequence,  framework  phosphates can have acidic, basic, or redox properties and be used as catalysts with controlled parameters in organic synthesis .
+Among the NZP titanium phosphates of metals(+2) ) (and  related  compounds,  compounds  M(M =  Mg,  Ca,  Mn,  Co,  Sr,  Pb,  and  Ba)  were  synthesized; for some of them, crystal structure was reﬁned using  the  Rietveld  technique .
+In ,  it  was reported for the ﬁrst time on the preparation of a series (M = Mg, Mn, Co, Ni, Zn, of compounds MCrTi PO 3 4 Cd, Pb, Ca, Sr, and Ba).
+Most data on triple chromium phosphates concern preparation parameters and structure type assignment.
+IR spectroscopic studies of MCrTi 4 3 and  were carried out later .
+Fragmentary data on phosphates M  hamper analysis of  phase formation over a wide  range.
+This work concerns synthesis of new complex phosphates, determination of their structure types, study of their phase formation laws, determination of concentration and temperature stability ﬁelds for NZP compounds and  solid  solutions  in  the  series  of  titanium  chromium phosphates of metals(2+), and study of the catalytic properties of phosphates Ca.
+We  had  to  synthesize  samples  of  complex  phosthe  by  formula described  phates  covering  the  entire  ﬁeld  of  existence  of  suggested orthophosphate phases.
+In the synthesis, stoichiometric  amounts  of  aqueous  solutions  of  metal(2+), chromium, and titanium salts were combined with constant stirring at room temperature.
+Then, orthophosphoric  acid  solution,  also  taken  in  accordance  with  the phosphate  stoichiometry,  was  slowly  added  with  stirring.
+The resulting gel was dried at 100 and then heat treated  with  air  access  at  600,  800,  900,  1000,  and 1100 for at least 24 h at each stage.
+Stepped heating was alternated with dispersion.
+Synthesis products were characterized using the set of physicochemical methods: powder X-ray diffraction, electron probe microanalysis, differential thermal analysis, and IR spectroscopy.
+Control of the chemical composition and homogeneity of samples was implemented by energy dispersive microanalysis  using  a  CamScan VEGA TS  5130MM electron  microscope  equipped  with  a  Link  INCA ENERGY  200C  energy-dispersive  detector.
+PAP  correction  was  used  to  calculate  compositions.
+Errors  in chemical compositions did not exceed 2.5 wt %.
+The phase composition of powders was determined by  X-ray  powder  diffraction  on  DRON-3.0  and  Shimadzu XRD-6000 diffractometers .
+Unit cell parameters were calculated from indexed X-ray diffraction patterns in a 2θ  range  of  10°–50°  and  refined  by  the  least-squares technique.
+Densities  of  phosphates  were  determined  with  apycnometer at 25 relative to decane.
+The functional composition of the products and the choice of space group in indexing were veriﬁed by IR spectroscopy.
+The IR absorption spectra were recorded as  KBr  disks  on  Specord  75  IR  in  the  wavenumber range 1400–400 cm–1.
+Synchronous  differential  thermal  and  gravimetric analysis was carried out on a LABSYS TG–DTG/DSC thermal analyzer in the heating mode at 10 K/min in an argon  atmosphere.
+Heating  was  carried  out  in  Al2O3 crucibles from 25 to 1000°.
+The catalytic properties of phosphates in methanol conversion were studied in a ﬂow-through steel reactor in  an  argon  ﬂow  at  the  atmospheric  pressure  in  the range 280–410°C.
+A  phosphate  sample  (0.300  g)  was mixed with quartz (with 1-mm average particle size).
+Alcohol vapor was fed from a thermostated bubbler to the reactor with ﬂowing argon at a total ﬂow rate of 1.2 L/h.
+Reaction products were analyzed on an LKhM-5 computer-interfaced chromatograph equipped with a heatconductivity detector and columns packed with activated carbon and Poropack T.
+The results of analysis were used to calculate alcohol conversion (%), selectivity S (%), and target product yield from.
+where F is the alcohol vapor ﬂow rate (mmol/h) and W is catalyst sample weight.
+The results obtained from X-ray powder diffraction, differential  thermal  analysis,  and  thermogravimetric analysis  showed  a  complex  character  of  component interactions  in  test  reaction  mixtures,  whose  phase composition is considerably affected by varying cation ratio and temperature.
+Virtually identical X-ray diffraction patterns were obtained for phosphates of identical composition prepared by the sol–gel process or solidphase  process.
+However, we chose the sol–gel process to provide optimal parameters  for  phosphate  formation.
+This  process  produced highly disperse powders with uniform distributions of components at lower temperatures (by 100–200°C) and with better precision.
+Single-phase  products  in  the  test  systems  were formed at 800–1100°C depending on the nature (primarily, the ionic radius) of metal(2+): for compounds with large M2+ cations, higher synthesis temperatures were required.
+At  lower  synthesis  temperatures,  reﬂections from MTi(PO4)2, TiP2O7, TiO2, and CrPO4 appeared in the X-ray diffraction patterns of products along with the target product.
+After single-phase products were annealed at  temperatures  above  the  synthesis  temperature,  their crystallinity improved or they partially degraded.
+X-ray  powder  diffraction  and  electron  probe microanalysis of M0.5(1 + x)CrxTi2 – x(PO4)3 samples with M = Mg, Mn, and Ni and  and with M = Ca, Sr, Ba, and Pb and showed their homogeneity, particle sizes of 1 to 50 µm, closeness of their stoichiometries to theoretical x, and structural analogy to rhombohedral  NZP  phosphates .
+Triple  phosphates were green; their color deepened with increasing chromium  proportion  in  them.
+With  rising  ı  over  the entire  range  of  single-phase  compositions  in  the  test phosphate  series,  X-ray  diffraction  peaks  shifted  to larger angles with an attendant systematic change in their relative  intensities .
+The  crystallographic parameters of the synthesized complex phosphates of titanium, chromium, and metals(2+) are listed in the table.
+The pycnometer density was close to the calculated (X-ray) density (table), validating the adequacy of indexing X-ray diffraction patterns.
+The  similarity  of  formula  units,  closeness  of  unit cell parameters and unit cell volumes, and rhombohedral  symmetry  in  the  test  phosphates  imply  the  common  basis  of  their  crystal  structure  and  suggest  their structural analogy.
+The monotone variations in the unit cell parameters as functions of chemical composition (table) indicate, according to the Vegard rule, the existence of limited solid solution regions.
+Examining the  variations  of  crystallographic  parameters  with increasing metal(2+) percentage in the series of NZP solid solutions with the same metal(2+), we noted the following trends: for the phosphates with Mg, Ni, and Mn, a small decrease in the parameter a and more considerable decreases in the parameter c and unit cell volume; for the phosphates with Ca, Sr, and Ba, a small increase  in  one  parameter  with  an  insigniﬁcant decrease in the other parameter and an increase in the unit  cell  volume;  for  lead-containing  phosphate,  both parameters a and c increase.
+The trends observed in the unit cell parameters can be interpreted qualitatively as follows.
+The parameter c depends  on  the  width  of  columns  built  of  octahedra(Cr/Ti)O6 and tetrahedra PO4 and on the separation between  neighboring  columns;  this  separation  is affected  by  the  percentage  and  radius  of  M2+  ions  in positions M2 (Fig.
+2).
+The rotation and tilt of phosphate tetrahedra, which depend on the percentage and radius of  cations  in  position  M1,  also  affect  the  separation between parallel columns.
+Variation in the parameter is determined by interplay of the following factors: the percentage of cations(2+) in interstices M1 inside columns,  which  decreases  oxygen–oxygen  repulsion; electrostatic  repulsion  of  Ti4+–Ti4+,  Ti4+–Cr3+,  and M2+(M1)–(Cr3+/Ti4+) neighboring polyhedra inside columns;  and  the  Cr3+,  Ti4+,  and  M2+  cation  radii.
+The entrance of extra small cations(2+) (Ni, Mg, and Mn) into  interstices,  with  a  partial  substitution  of  Cr3+  for Ti4+(these  cations  have  virtually  identical  ionic  radii in the framework, leads to a rise to lattice compression in the directions  and as a result of weakening of the aforementioned electrostatic  repulsions;  this  means  that  the  anionic octahedral–tetrahedral framework is adaptable to comparatively small M2+ cations.
+When larger cations (Ca, Sr, Pb, and Ba) are inserted, octahedra M2+O6 bulge out structure  and  loosen  the  initial  framework.
+Larger extraframework  metal(2+)  ions  cause  greater  lattice distortions, reducing the existence region of NZP structure: x ≤ 1.0 for Ca2+, Sr2+, Pb2+, and Ba2+; for smaller cations (Ni2+, Mg2+, and Mn2+ x reaches 1.5. 
+A similar scenario  was  observed  for  NZP  phosphates  of  zirconium.
+Phosphate  Ba1.5Cr2(PO4)3  crystallizes  in langbeinite structure (cubic space group P213, Z = 4) as shown  by  X-ray  powder  diffraction .
+Known langbeinite  framework and contain large extraframework cations  two extraframework positions per formula unit, populated by  two  or,  far  more  rarely,  fewer  cations.
+Such  compounds are exempliﬁed by KTi2(PO4)3, Ba1.5V2(PO4)3, Pb1.5V2(PO4)3, and our synthesized Ba1.5Fe2(PO4)3.
+The unit cell parameters of Ba1.5Cr2(PO4)3, a = 9.821(4) Å, V = 947.378(4) Å3, were calculated from indexing its X-ray diffraction pattern.
+The IR spectra of samples with ı ≥ 0.5 are similar in the  positions  and  shapes  of  absorption  bands  and  are typical  of  orthophosphates  that  crystallize  in  space group R c .
+Factor-group analysis of vibrations in  PO4  tetrahedron  well  explains  the  experimentally determined vibration frequencies and their number.
+Ion  with  regular  tetrahedral  symmetry  Td  has  nine PO4 normal modes: full-symmetry stretching mode (ν1), doubly degenerate bending mode (ν2), and two triply degenerate asymmetric modes F2 (stretching mode ν3 and bending mode ν4).
+Of these vibrations, only ν3 and ν4 are IR-active.
+In a crystal with symmetry R c, the  is reduced to ë2. This positional symmetry of ion  releases degeneration and forbiddance of certain vibrations.
+The IR spectra of such phosphates are expected to contain a band of symmetrical stretching vibrations ν1, two bands ν2, five bands ν3, and five ν4.In the synthesized phosphates, the absorption bands in  the  region  1270–980  cm–1  are  associated  with  the asymmetric stretching P–O mode ν3 in phosphate tetrahedron.
+The appearance of the high-frequency stretching bands at 1270–1210 cm–1 is due to electron-density contribution into the P–O bond from small and highly charged Ti4+ and Cr3+ ions.
+The absorption bands in the region  1000–930  cm–1  are  assigned  to  symmetrical stretching  vibrations  ν1.  
+The  asymmetric  bending vibrations ν4 are represented by two or three (of the ﬁve possible) bands in the region 650–540 cm–1. 
+The symmetrical bending vibrations ν2 appear as the absorption band at 450–430 cm–1. Changes in the spectral pattern (shift and intensity redistribution of bands) in response to smoothly changing composition x are evolutionary and are explained by the rotation and tilt of phosphate tetrahedra upon heterovalent substitutions.
+Phosphates with ı = 0 (M = Mn, Ca, Sr, and Pb) have IR spectra similar to those of zirconium phosphate analogues crystallizing in space group R .
+Metals(2+) in these  compounds  atoms  are  ordered  to  positions  M1. Selection rules for the IR spectra of these phases allow six bands to appear in each of ν3 and ν4 regions.
+Actually,  however,  fewer  bands  appear  in  their  IR  spectra than in spectra of zirconium analogues: three to ﬁve bands ν3 and the characteristic triplet of bands ν4.
+The bands in the region 1000–930 cm–1 are associated with the  symmetrical  stretching  mode  ν1.  
+With  increasing cation(2+) radius, the asymmetric stretching vibrations shift toward lower frequencies, whereas the symmetrical stretching vibrations shift in the opposite direction.
+The region of bending vibrations 645–540 cm–1 is typical of 3. NZP phases with space group R.
+The IR spectra of the compound Ba1.5Cr2(PO4)3 (ı = 2) contain  vibration  bands  peaking  at  1100,  1045,  and 1000  cm–1,  which  are  assigned  to  the  asymmetric stretching mode ν3 of P–O in tetrahedron PO4. 
+The band at 965 cm–1 is due to the symmetrical stretching vibration ν1. In the region 650–530 cm–1, there are a characteristictriplet of bands associated with the asymmetric bending vibrations ν4 (640, 600, and 545 cm–1) and the symmetrical bending vibration ν2 (480 cm–1), in agreement with the  literature  data  on  langbeinite  phosphates  (space group P213).
+formed Thus,  X-ray  powder  diffraction  and  IR  spectroscopic  data  match,  indicating  that  NZP  limited  solid solutions  are  the  studied  systems M0.5(1 + x)CrxTi2 – x(PO4)3, with  for Ni2+, Mg2+, and Mn2+ and for Ca2+, Sr2+, Pb2+, and Ba2+, and the individual  langbeinite  compound  Ba1.5Cr2(PO4)3  is formed with ı = 2. 
+These results imply that metals(2+) in  the  studied  series  populate  extraframework  positions.
+NZP  phosphates  containing  elements  with  various oxidation numbers now receive increasing attention in heterogeneous catalysis as promising solid-phase catalysts  for  acid  processes  (isomerization,  dehydration) and  redox  processes .
+This work studies the catalytic properties of phosphates Ca0.5(1 + x)CrxTi2 – x(PO4)3  with  x  =  0,  0.5,  and  1.0  in methanol conversion 2CH3OH The test phosphates showed reproducible catalytic activity  in  methanol  dehydration  into  dimethyl  ether, which  is  a  promising  green  diesel  fuel.
+Figure  5  displays the dimethyl ether yield and alcohol consumption versus  temperature  over  the  test  phosphates.
+In  their catalytic activities, phosphates can be arranged in the following  order:  Ca0.5Ti2(PO4)3  >  CaCrTi(PO4)3  > Ca0.75Cr0.5Ti1.5(PO4)3. 
+The less active catalyst (regarding yields  of  methanol  dehydration  products)  was  phosphate  with  ı  =  0.5. 
+Apparently,  it  had  less  defective crystal structure and a lower speciﬁc surface area.
+In the experiments carried out at 390°C, methanol conversion only reached 26%.
+For all compositions above 390°C, chromatograms contained peaks characteristic of dehydration products (formaldehyde) and methanol degradation (carbon oxides).
+The  activity  of  the  test  phosphates  in  methanol dehydration can be due to their acidic properties generated by coordinatively unsaturated titanium and chromium cations, which have high charges and polarizing effects and are potential alcohol adsorption sites.
+The data on the catalytic activity and selectivity of framework phosphates in methanol dehydration, either obtained in this work or known from the literature, showed that they are active and selective catalysts;  with  certain  chemical  compositions  and  under certain  conditions,  they  can  compete  with  industrial catalysts of methanol dehydration.
+To  summarize,  we  have  synthesized  phosphates M0.5(1 + x)CrxTi2 – x(PO4)3, determined the concentration bounds of existence  of  kosnarite  (NZP)  solid  solutions  in  these  systems,  and  characterized  the  individual  compound Ba1.5Cr2(PO4)3  with  langbeinite  structure.
+Phosphates have framework structures.
+Our results clariﬁed the phase formation  scenario  in  systems  M0.5(1  +  x)CrxTi2 – x(PO4)3 and provided the basis for discussion of the effects of various structure-forming factors on structurally related phosphates.
+The utility of NZP phosphates as catalysts for methanol dehydration into dimethyl ether (a green diesel fuel) was demonstrated.

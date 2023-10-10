@@ -1,0 +1,15 @@
+To address the safety issues related to liquid electrolyte and improve the battery performance, Solid StateElectrolytes (SSEs) are now in frontier area of research interest.
+We report here synthesis of Li-SSE based on Li2OAl2O3-GeO2-P2O5 (LAGP) system with NASICON structure.
+Glass sample with nominal compositionLi1.5Al0.5Ge1.5P2.5Si0.5O12 was prepared by melt-quenching technique.
+Non-isothermal crystallization kinetics was studiedusing DSC and activation energy of crystallisation was calculated to be 􀌱 246 kJ/mol using Kissinger’s equation.
+XRD ofheat treated samples show the formation of required LiGe2(PO4)3 phase along with other minor phases.
+Compositionalanalysis using SEM-EDX confirms enrichment of Ge and Si along the grain boundaries.
+Lithium rechargeable batteries with high theoretical specific gravimetric energy density have become the firstchoice for energy storage and power sources in various fields including electrical vehicles, harvesting non gridenergy sources, portable electronics etc.
+Li-battery using SSE shows better thermal and chemical stabilitysuitable for high temperature applications.
+Many glass-ceramics electrolytes have been investigated, but few havebeen evaluated in actual electrochemical cells.
+In the present work, we focused on synthesis of NASICON [3, 4]based Li-SSEs & characterized for their phase evolution and crystallization kinetics.
+The LAGP glass ceramics was synthesized by melt-quenching technique followed by controlled crystallization.
+Crystallization kinetics was studied using non-isothermal kinetics and activation energy for crystallization wascalculated as 264kJ/mol.
+XRD shows formation of LiGe2(PO4)3 phase along with some minor additional phaseswhen sample heat treated at above 5800C.
+Microstructure showed uniformly dispersed crystalline phase in bulkglass.
+EDX showed enrich Ge and Si along the grain boundary and confirm the presence of minor GeO2 and SiO2phases.

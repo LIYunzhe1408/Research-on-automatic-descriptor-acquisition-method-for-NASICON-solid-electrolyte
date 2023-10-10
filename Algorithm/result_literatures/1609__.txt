@@ -1,0 +1,75 @@
+NASICON Na1þxZr2SixPx 3O12 powders were prepared by solid-state synthesis, a fraction was ion exchanged by Li or K, verified by X-ray diffraction and energy dispersive X-ray analysis, blended with tin oxide powder, transferred to thick film pastes, and dispensed on a commercial sensor substrate (Heraeus, Germany). 
+Simultaneous gas sensitivity measurements on nine SnO2/NASICON-type (M1þxZr2SixPx 3O12, x=0, 2.2, 3, M = Li, Na, K) composites in thermocyclic sensor operation mode by exposure to different concentrations of Ethanol, Toluene, Propylene, CO, and H2 in humidified synthetic air show a strong correlation of the gas-sensing properties with the mobile ion concentration and type of the solid electrolyte additive.
+
+Ionic conductors and semiconducting metal oxides are often used gas-sensing materials. 
+The sensor investigated in this work is a semiconducting resistive gas sensor based on tin dioxide/NASICON(-type) composites. 
+For these sensors, different measurement modes are applicable, e.g., temperature pulse modulation or isothermal operatio. 
+In this work, the thermocyclic operation mode is used. 
+If temperature is varied periodically, e.g., triangularly over time, gas-specific fingerprints called conductance-over-time-profiles (CTP) are obtained. 
+These allow (1) the study of the temperature-dependent gasspecific surface processes reflected in conductance changes and (2) the use of gas-specific CTP features for identification and analysis of single gas components and even gas mixtures by adequate numerical signal analysis. 
+Another way to increase the chemical analysis capability is to tailor the selectivity to specific gas components by admixing of additives as Pt or PdO, by doping with aliovalent ions, and to combine sensor elements with different gas-sensing properties in arrays to obtain a matrix of sensing data for chemical gas analysis by numerical procedures. 
+These additives work as catalysts for the surface reaction of the target gas with oxygen and take considerable influence on the sensor sensitivity. 
+And, of course, by combination of suitable additive choice with the thermocyclic operation method, further success in chemical analysis performance is expected. 
+As systematically investigated in for the first time,the admixing of the Na ion conductor NASICON  (Na1þxZr2SixPx 3O12) in SnO2 gas-sensitive layers takes important influence on the gas sensitivity . 
+These experiments suggested that the individual surface processes with the target gas, and the related interactions with the surface near electrons are influenced by the NASICON  which, in turn, partially leads to considerable enhancement or decline of the sensitivity. 
+This depends on the target gas and Na ion concentration (x-value) of the NASICON additive . 
+However, the underlying surface processes are still not fully understood.
+In this work, NASICON-type M1þxZr2SixPx 3O12 (x=0, 2.2, 3, M = Li, Na, K) structures prepared as powders are used as additives in SnO2/additive gas-sensing composite layers to study the influence of the mobile ion type and concentration on the gas-sensing properties to vapors of ethanol and toluene and to gases like CO, H2, and propylene.
+Sensitivity measurements were done which fulfill the criterions of equal temperature, gas concentrations, and  gas stream conditions for all 20 sensors operated simultaneously. 
+For this purpose, two new measurement chambers were built (Fig. 2a), each of both can be equipped with up to ten sensors with uniform individual gas paths to suppress cross talking. 
+As a sensor substrate, a commercial chip 6× 6 mm2 (MSP769, Heraeus) with integrated Pt25 heater and a Pt1000 temperature sensor was used. 
+This allows the temperature control of each individual sensor chip. 
+Two interdigital gold electrode pairs with common electrical ground were dispensed on the unused side (Fig. 2b) and electrically connected to the pins of the MSP769 with silver lacquer to sample resistances of two gas-sensing layers in parallel.
+The synthesis of NASICON-type powders followed the solid-state reaction route published in. 
+NASICON powders were transformed to the Li and K analogs (LISICON and KSICON) by ion exchange in molten lithium nitrate at 280 °C and potassium nitrate at 359 °C, respectively, in a volume ratio of 1:20 for 6 h. 
+The resulting powders, NASICON x=0; 2.2; 3, LISICON x=0; 2.2; 3, KSICON x=0; 2.2; 3 were washed, dried, and analyzed with X-ray diffraction (XRD; Fig. 3). 
+Their grain size distribution was analyzed by laser diffraction (Fig. 4). 
+These powders were mixed up with tin oxide powder which had been prepared according to a sol–gel route in a weight ratio of 1/5 and with an organic binder to form a thick film paste. 
+After dispensing on the Au electrodes, these pastes were heated to burn the organics out and finally sintered.
+The aging of the sensors for about 2 weeks and the sensitivity measurements were done in humidified (rH= 50%, T=22 °C) synthetic air and humidified gas–air mixtures, respectively. 
+For each measurement, the layers were exposed to synthetic air for at least 10 h before different concentrations of the sample gas were exposed, each for at least 3 h. 
+The temperature cycle period was 60 min to establish almost steady-state conditions (Fig. 5). 
+For the following discussions, the relative mean sensitivity (Srel,mean) was calculated from these data according to Eq. 1, where G0(T)
+is the CTP, taken from the last thermo-cycle sampled with
+humidified synthetic air and GC(T) is taken from the last
+cycle at gas exposure.
+
+The NASICON powders show the expected XRD pattern for NASICON x=0, 2.2, and 3. 
+Concerning the ionexchanged powders, partially distinct shifts of reflections related to NASICON are observed (Fig. 3), which indicate lattice distortion effects due to ion exchange. 
+However, these patterns are all indicated as NASICON-type structures with only small contributions from ZrO2 as a second phase. 
+Furthermore, is remarkably changed to smaller particles for the NASICONtype structures x=0 and x=3 (less for KSICON x=3) while for x=2.2, this is not significantly influenced by the ion-exchange process.
+This behavior may be explained by decomposition of grain agglomerates of NASICON with x=0 and 3 due to mechanical stress by the exchange process. 
+In the case of K+ exchange, this leads to complete vanishing of grains with sizes >20 μm. 
+The energy dispersive Xray (EDX) spectra (Fig. 6) received from all SnO2/ NASICON-type M1þxZr2SixPx 3O12 (x=0, 2.2, 3, M = Li, Na, K) composite layers indicate that the ion exchange was of different extent. 
+With the used amount of molten salt in relation to the amount of NASICON powder exchanged, the remaining Na+ concentration in the NASICON-type structures should be less than 1%. 
+For LISICON, this may be true but the KSICON powders with x=2.2 and x=3 contain still a nonnegligible Na ion concentration (Fig. 6).
+It should be mentioned again that two individual sensors of all composites and of pure tin oxide were measured simultaneously in the two new measurement cells (Fig. 2). 
+Table 1 gives the abbreviations for these composites. 
+Fig. 7 exemplifies the CTP of various layers exposed to different gases each for two equal sensors in different cells. 
+Differences are obvious and maybe are the consequence of limited reproducibility of layer thickness, orientation of the sensor in the cavity (gas stream; Fig. 2), and temperature control. 
+This results in unequal sensitivity for layers of the same material (Fig. 8). 
+In spite of this, the mean values allow a discussion of the influence of the composite material on the sensitivity behavior. 
+This is confirmed, e.g., by the sensitivity measurements at different concentrations (500/1,000/2,000 ppm) of ethanol where the resulting Srel,mean (Fig. 9) relate to the gas concentration as expected (Srel,mean(c)~acb). 
+The CTP of the pure tin oxide sensor (Fig. 10) indicates three individual conductivity maxima or shoulders at different ethanol concentrations when the temperature is increased (sampling point 1–128, Fig. 5). 
+The surface processes which cause these maxima are not clear, but one can see (Fig. 11) that the additives take specific influence on these processes. 
+For all NASICONtype additives, the first and second maximum are depressed with increasing ionic concentration (x-value) or in other the sensitivities for ethanol, words, there is a strong preference of the surface processes reflected by the third maximum with the mobile ion concentration. 
+Furthermore, it is obvious that the increase of the conductance with higher gas concentrations is depending on x as well (Figs. 9 and 11). 
+This systematic relation between ion concentration and sensitivity has been investigated further for different gases at 1,000 ppm gas concentration (Fig. 12). 
+The sensitivity behaviors of the SnO2/NASICON composites are mostly similar described in (Fig. 1), e.g., the sensitivity to ethanol is increasing; 
+however, the sensitivity to propylene and hydrogen is partially strongly reduced with increasing Na+ content. 
+This characteristic sensitivity behavior was also observed in relation to the pure SnO2-layer sensitivities. 
+It seems to be a common property of all investigated SnO2 or NASICONtype composites (Fig. 9). 
+Furthermore, the highest sensitivity of the pure SnO2 layers is obtained for toluene, but the sensitivity with increasing x is decreasing in agreement with reported results in. 
+Layers made of pure SnO2 show the lowest sensitivity to CO as compared with all other gas components investigated in this study (Fig. 12). 
+However, CO exposure is reflected in increasing conductance changes with increasing x of the SnO2 or NASICON-type composites. 
+This behavior seems to be in contrary to results reported in and has to be discussed in context with the unusual sensitivity maximum for the composite with NASICON (x=2.2) when exposed to CO and the sensitivity minimum for the composite with KSICON (x=2.2) when exposed to toluene. 
+For interpretation, according to Eq. 1, one has to keep in mind that Srel,mean is determined by Gc(T) and G0(T). 
+The data show that for CO exposure, the increase of Srel,mean with x is a result of decreasing Gc(T) and stronger decrease of G0(T) with x. 
+Generally, Srel,mean (x) is determined by the relative trend of Gc(T) and G0(T) with x. 
+This can even result in Srel,mean (x) in a maximum or a minimum.
+
+The similar effect observed in previous studies, that the gas sensitivity of SnO2/additive layers (additives: Na1þxZr2SixPx 3O12, x=0, 2.2, 3) is considerably enhanced when exposed to ethanol and strongly reduced when exposed to toluene, propylene, and hydrogen and that this behavior is characteristically accentuated with increasing x, could be also observed in Li+ and K+ exchanged M1þxZr2SixPx 3O12 for x=0, 2.2, 3. 
+The effect of influence on the gas sensitivity of SnO2/M1þxZr2SixPx 3O12 layers depends also on the ion radius of the M cation. 
+This suggests an interaction between electronic charge carriers in SnO2 and the alkali cations in the NASICON-type admixtures.
+
+

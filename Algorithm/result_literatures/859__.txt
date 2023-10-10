@@ -1,0 +1,58 @@
+The cooperation between host and activator ions in nature could enable novel controllability of emissioncolors in single host.
+
+ This work presents the vacuum ultraviolet-visible (VUV-Vis) spectroscopic properties of Tb3þ-doped NASICON-type RE1/3Zr2(PO4)3 (RE ¼ Y, La, Gd and Lu) prepared by a Pechini method.
+
+The cooperation between self-active host and Tb3þ ions leads to tunable emission from the (greenish-)blue to yellowish-green region by appropriate adjusting the Tb3þ content.
+
+The visible cross relaxationbetween Tb3þ ions and energy transfer from host/Gd3þ to Tb3þ were observed and confirmed.
+
+A detailedenergy level diagram that contains 4f levels of all divalent and trivalent lanthanide ions with respect tothe valence and conduction bands of Gd1/3Zr2(PO4)3 has been constructed and explained.
+
+In addition, theenergy transfer processes and cross relaxation processes were discussed.
+
+Luminescent materials have played an important role in thedevelopment of novel lighting and display technology [1,2].
+
+VUVexcited luminescent materials are indispensable for applicationsof plasma display panels (PDPs), vacuum fluorescent displays,three-dimensional (3D) displays, and Hg-free fluorescent lamps.
+
+ Finding novel bright luminescent materials with goodcontrollability of emission colors in single-phase host is one hotresearch topic [1].
+
+Based on the energy transfer mechanism fromhost to activators, utilizing the cooperation between self-activehost and activator ions is one effective strategy for synthesis ofsingle-phase tunable luminescent materials [1].
+
+Besides phosphates [4e10], many compounds containing closed-shell transitionmetal cations such as Zr4þ [11,12], Ti4þ, and W6þ [13,14], are widelyused in the area of luminescent material, due to their bright broadultraviolet-visible emissions and effective energy transfer to activator ions [5,15e18].
+
+ For luminescent materials research, the rareearth (RE) ions play an important role overall system performance due to their f-f or d-f transitions.
+
+Among these RE ions, theTb3þ emission with high luminescence efficiency can be tunedalong a large color region from blue to green by well-known crossrelaxation energy transfer process, which depends on Tb3þ concentration and cut off phonon frequency of host lattices [19,20].
+
+It isnecessary to study the luminescence behavior of Tb3þ cations indifferent hosts in detail due to its host dependent characteristics[19,20].
+
+Recently, Naþ ion super ionic conductors type (NASICONtype) zirconium phosphates with a three-dimensional (3D) rigid[Zr2(PO4)3] network have attracted intense attention, due to theirexcellent properties, including the large band gap [11,12,21] and thehigh chemical [22] and physical [23,24] stability.
+
+The typicalNASICON MZr2(PO4)3 crystal structure consists of a 3D rigidnetwork formed by PO4 tetrahedra sharing the corners with ZrO6octahedra.
+
+Many NASICON-type related zirconium phosphates withdifferent substitutions have been extensively studied as novel REdoped luminescent materials [11,21,22,24e27].
+
+This NASICON-typecrystal structure could offer several conditions suitable for Tb3þdoped luminescent materials: (1) The 3D rigid [Zr2(PO4)3] networkexhibits great VUV luminescence properties [11,27].
+
+The 3Drigid [Zr2(PO4)3] network shows high chemical and physical stabilities [21e25].
+
+Large average distance (>5 Å) between Tb3þions [26] would inhibit luminescence concentration quenching ofTb3þ emission intensity.
+
+ The VUV luminescence propertiesof RE-doped AZr2(PO4)3 (Aþ ¼ Li, Na, K) [11] and MII1/2Zr2(PO4)3(MII ¼ Ca, Sr, Ba) [16,18,21,25,26] were demonstrated as novel potential luminescent materials.
+
+In this study, a series of Tb3þ-doped RE1/3Zr2(PO4)3 (RE ¼ Y, La,Gd and Lu) phosphors are synthesized by a facile Pechini method.
+
+Inaddition, the Tb3þ-related luminescence behavior and the energytransfers from host/Gd3þ to Tb3þ were investigated according to thespectroscopic characteristics.
+
+The Tb3þ concentration dependentcolor tunable luminescence properties are discussed.
+
+Moreover, theenergy level diagram containing the position of the 4f and 5d levelsof all divalent and trivalent lanthanide ions relative to the valenceand conduction band of Gd1/3Zr2(PO4)3 has been constructed anddiscussed in detail.
+
+In conclusion, Tb3þ-doped RE1/3Zr2(PO4)3 (RE ¼ Y, La, Gd, and Lu)samples were prepared using a Pechini method.
+
+In these samples,tunable emission from the (greenish-)blue to yellowish-green region was obtained by varying the Tb3þ concentration under thecooperation between host and Tb3þ ions.
+
+By comparing the luminescence properties of these samples, it has been found that theGd3þ ions play an intermediate role in energy transfer from the hostabsorption band to the Tb3þ ions in host lattice.
+
+The energy levelscheme of lanthanide 4f/5d states in Gd1/3Zr2(PO4)3 will be onestrong aid in the research on the luminescence properties of theseRE-doped NASICON zirconium phosphates compounds.
+

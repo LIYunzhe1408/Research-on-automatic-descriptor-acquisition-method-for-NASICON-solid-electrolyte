@@ -1,0 +1,16 @@
+Sodium-ion batteries, representative members of the post-lithium-battery club, are very attractive and promising for large-scale energy storage applications.
+The increasing technological improvements in sodium-ion batteries (Na-ion batteries) are being driven by the demand for Na-based electrode materials that are resource-abundant, cost-effective, and long lasting.
+Polyanion- type compounds are among the most promising electrode materials for Na-ion batteries due to their stability, safety, and suitable operating voltages.
+The most representative polyanion-type electrode materials are Na3V2(PO4)3 and NaTi2(PO4)3 for Na-based cathode and anode materials, respectively.
+Both show superior electrochemical properties and attractive prospects in terms of their development and application in Na-ion batteries.
+Carbonophosphate Na3MnCO3PO4 and amorphous FePO4 have also recently emerged and are contributing to further developing the research scope of polyanion-type Na-ion batteries.
+However, the typical low conductivity and relatively low capacity performance of such materials still restrict their development.
+This paper presents a brief review of the research progress of polyanion-type electrode materials for Na-ion batteries, summarizing recent accomplishments, highlighting emerging strategies, and discussing the remaining challenges of such systems.
+Na-ion batteries are being considered one of the most suitable electrochemical power sources for large-scale electrical energy storage due to the merits of abundant raw materials, significantly low cost, and relatively high specific capacity.
+The last five years have witnessed the rapid development of ambienttemperature Na-ion batteries.
+Among the different kinds of electrode materials for this system, polyanion-type compounds such as phosphates, pyrophosphates, sulfates, silicates, carbonophosphates, and so on have attracted significant attention.
+In this review, we focused on the research progress of polyanion- type compounds for Na-ion batteries.
+By systematic better cope with the intrinsic low electronic conductivity of polyanion compounds, some strategies have been used to enhance the electrochemical performance of such compounds: (1) building conductive frameworks of carbon matrices; (2) element substitution to improve the operating potential and Na-ion diffusion coefficients; (3) controlled synthesis of a special morphology to optimize the structure of materials; and (4) designing and selecting suitable electrolytes.
+The future development of polyanion materials is expected to address some issues, such as (1) material genetic engineering combined with experimental science to select suitable materials for Na storage; (2) using material science and electrochemical technology to design and achieve special preferred orientation or morphology; (3) further improving the electrochemical reaction kinetics.
+Along with the urgent demand for large-scale energy storage, the development of Na-ion batteries is opening a new era full of opportunities and challenges, and the development of key materials is the main driving force.
+Better understanding and development of polyanion materials will result in strong support for promoting the commercialization of Na-ion batteries.

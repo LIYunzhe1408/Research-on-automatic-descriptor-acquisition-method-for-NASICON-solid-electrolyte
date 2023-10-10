@@ -1,0 +1,10 @@
+Because of the poor sintering ability and low phase purity limit in the applicationof a Na3Zr2Si2PO12 solid electrolyte, it is important to find an effectiveway to obtain a pure and dense Na3Zr2Si2PO12 ceramic at reduced temperature.
+In this study, high conductive indium-tin oxide (ITO) was innovativelyused as the sintering additive to improve the purity and density of theNa3Zr2Si2PO12 ceramic.
+The influence of ITO additive on density, phase,microstructure and conductivity of the Na3Zr2Si2PO12 ceramic was investigated.
+Archimedes method, x-ray diffraction, scanning electron microcopy andcomplex impedance spectroscopy were used as experimental techniques toevaluate the effect of the additive.
+The results show that the ITO sinteringadditive increases not only the purity and density but also the conductivity ofthe Na3Zr2Si2PO12 ceramic.
+The Na3Zr2Si2PO12 ceramic with 3 wt.% ITOadditive sintered at 1150C for 4 h possesses a high density of 3.15 g/cm3 andgood conductivity of (3.95 ± 0.12) 9 104 S/cm.
+The main objective of this work is to verify thatITO can be used as an effective additive inNa3Zr2Si2PO12 solid electrolyte.
+The ITO additivecan reduce the sintering temperature, increase thedensity and improve the conductivity, which is dueto the distortion of the Na3Zr2Si2PO12 lattice.
+Byadding 3 wt.% ITO, Na3Zr2Si2PO12 sintered at1150C for 4 h obtains a high density of 3.15 g/cm3and good conductivity of (3.95 ± 0.12) 9 104 S/cm.
+The increase in conductivity is attributed to thedense microstructure, uniform grain size, distributionof excess ITO in the liquid phase and lesscoulombic repulsion between the In3+ and the Na+.

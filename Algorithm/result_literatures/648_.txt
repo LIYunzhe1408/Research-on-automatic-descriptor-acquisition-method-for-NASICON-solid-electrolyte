@@ -1,0 +1,188 @@
+Fast growing markets of mobile electronic devices, electric vehicles, and smart grids raised the demand for high energy density lithium batteries.
+Such high energy density batteries can be realized by utilizing the metallic lithium as an anode.
+However, the use of high capacity lithium anode is hampered by the serious safety issues related to the formation of dendrites during lithium deposition/dissolution cycles.
+Replacing ﬂammable and volatile liquid electrolytes with inorganic solid electrolytes in rechargeable lithium batteries could circumvent the safety issues to a large extent. 
+This has led to a renewed focus on fast lithium ion conducting materials in recent years.
+LixM2(PO4)3 phases is one such group which is being widely investigated as the potential solid electrolytes for next-generation rechargeable lithium battery applications.
+Structural framework of these materials consists of corner sharing MO6 octahedra and PO4 tetrahedra forming a 3D network of through which lithium ion movement is facilitated.
+Several compounds with M ¼ Ti, Zr, Sn, Hf, Sc, etc. have been studied extensively for their structure and electrochemical behavior.
+Rhombohedral LiTi2(PO4)3 based compounds conductivity among various LixM2(PO4)3.
+Electrochemical stability against lithium metal, high grain boundary resistance, high interfacial resistance, and difﬁculty in sintering remain serious issues with the effective use of these materials a lithium batteries.
+LiZr2(PO4)3 (LZP) is another important compound in view of the high reduction potential against lithium metal which makes it an attractive candidate for use as an electrolyte in high energy density batteries.
+LZP crystallizes in monoclinic (b0 phase) or triclinic (a0 phase) structures at room temperature depending on the synthesis conditions.
+While there have been some reports on the structure and lithium ion conduction in rhombohedral LiZr2(PO4)3 (a phase), reports on monoclinic LZP are scarce.
+An orthorhombic (b) to monoclinic (b0) phase transition around 300 C on cooling has been reported in low In the b0 structure temperature synthesized b-phase.
+(Fig. 1), fully ordered Li is located in a regular tetrahedral surrounding with no vacant neighboring site available for facile orders of magnitude increase in conductivity.
+Arbi et al. linked improved Li mobility in Al3þ doped LiTi2(PO4)3 to the local distortions arising from vibrational motion of O ions.
+Raman spectroscopy is very sensitive to any small change in the unit cell; therefore, any change in the unit cell will be reﬂected via a change in the phonon self-energy parameters such as phonon frequency.
+In this system Zr and lithium ions are linked with PO4 tetrahedra via ZreOeP bonds, therefore any change in the ZreO and LieO interaction will be directly reﬂected as a change in mode frequency associated with the internal modes of PO4 tetrahedra.
+Gaining an understanding of the structure e composition e property relationship is crucial to advance the fundamental knowledge about the Li-ion conduction in these materials.
+This motivated us to perform a detailed Raman analysis of LiZr2(PO4)3 as a function of doping and understand the effect of doping on the phonon modes which may result from the change in lattice parameter as well as increase in Li ion concentration with doping.
+þ3 substitution in low temperature synthesized monoclinic LZP on its crystal structure, microstructure, vibrational characteristics, and lithium conductivity.
+Direct current polarization study to estimate the contribution of ionic conductivity to the total conductivity in the selected composition is also reported.
+In the present work, we focus on the effects of AlLi1þxZr2-xAlx(PO4)3 [x ¼ 0, 0.1, 0.2, 0.25, 0.3, 0.4, and 0.5] powders were synthesized via a sol-gel method using citric acid as chelating agent.
+Starting precursors (of purity >99.5%) LiNO3, ZrOCl2.8H2O, Al(NO3)3, and NH4H2PO4 were dissolved in doubly deionized water in separate beakers.
+Except for LiNO3, which was taken in 10% excess of desired stoichiometry, all precursors were used in the stoichiometric ratio.
+These solutions were mixed in an aqueous solution of citric acid and ethylene glycol (molar ratio of ethylene glycol:citric acid ¼ 1:1) under continuous stirring.
+After vigorous stirring at 80 C for 6 h, the solution was heated at 150 C to obtain a semi-transparent gel.
+This gel was further calcined at 500 C for 12 h to obtain a white powder.
+This powder was then pressed uniaxially under a pressure of 200 MPa into cylindrical pellets with the thickness of 1e2 mm and diameter of 10 mm.
+The pressed pellets were then sintered at 900 C for 12 h at a heating rate of 3 C/min for varying durations in air.
+During the ﬁnal sintering, pellets were buried in the sacriﬁcial powder of the same composition to minimize volatilization of lithium and to avoid the contamination from alumina boat.
+To conﬁrm the phase purity, sintered pellets were crushed into powders and X-ray diffraction patterns were recorded using a Bruker-D2 Phaser diffractometer with Cu-Ka radiation in the 2q range of 10e80 at a step size of 0.02.
+Archimedes' method was used to calculate the densities of the sintered pellets by using the Xylene (density ~ 0.86 g/cm3) as the liquid medium.
+Unpolarised micro Raman measurements were performed by Raman spectrometer (LabRam HR-Evolution) in the backscattering conﬁguration.
+Under ambient environment, the Raman spectra were recorded through collecting scattered light dispersed by spectrometer with 1800 lines/mm grating with Peltier cooled CCD de 1.
+The obtained tector in the frequency range from 50 to 1200 cm Raman spectra were excited by 532 nm laser with 50x LWD objective.
+Laser power was kept low (~1 mW) at the sample surface in order to avoid any heating effect.
+Field emission scanning electron microscope (SUPRA 55) equipped with an Oxford Link-Isis energy dispersive X-ray spectroscopy (EDS) detector was used for compositional and microstructural analyses.
+Fig. 1. Schematic representation of the LiZr2(PO4)3 with monoclinic structure. Large spheres represent lithium ions; ZrO6 octahedra and PO4 tetrahedra are shown in green and violet colors, respectively. Red colour solid sphere represents oxygen atoms. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the Web version of this article.)
+For impedance and chronoamperometry measurements, polished surfaces of pellets were painted with hopping; whereas, in b structure, Li was found to be distributed over two sites in 2:1 ratio.
+The short distance between partially occupied sites produces low energy barrier for Li ions between these sites in orthorhombic LZP.
+As a result, relatively lower lithium ionic conductivity and higher activation energy is expected in b0-LZP as compared to b-LZP.
+The reported room temperhigh ionic conductivity (>1 mScm ature ionic conductivity for both a0 and b0 phases of LZP is much lower than desired for battery applications.
+Concerted efforts, therefore, have been exercised in this regard to improve the lithium ion conduction in LZP. Most of these studies have been on stabilizing the high conducting a-phase of LZP by aliovalent doping.
+Lithium motion in inorganic solid electrolytes is primarily via thermally activated hopping of Li ions between vacant (Schottky defects) and/or interstitial (Frenkel defects) sites.
+Amount of these intrinsic defects determine the ionic conductivity in a given material.
+In addition, polarizability and size of the constituent ions affect the ionic conductivity as these determine the nature of conduction pathways for ions in the material.
+Extrinsic interstitials and vacancies can also be induced by the substitution of aliovalent cations.
+Accordingly, ionic conduction in solids can be tailored by the appropriate doping.
+For instance, doping of Al3þ in LixM2(PO4)3 (where M ¼ Ti, Ge, Sc, Hf, etc.) ceramics is known to increase the lithium ion conductivity significantly.
+For instance, optimum Al3þ doping in LiTi2(PO4)3 and LiGe2(PO4)3 was reported to increase the room temperature ionic conductivity by 3 orders of magnitude.
+Such phenomenal enhancement in conductivity has been attributed to the increased Li concentration, change in the size of the þ bottleneck of Li transport pathways, and improved sintering behaviour.
+However, it was shown recently that additional Li to compensate the charge imbalance due to the substitution of tetravalent Ti4þ inﬂuences the ionic mobility only marginally.
+This opening of the bottleneck results in a decrease of the activation energy by a mere 0.02 eV and does not explain the 3 silver electrodes on either side to act as ion-blocking electrodes and were then cured at 500 C for 15 min to achieve the proper pellet electrode adhesion.
+Complex impedance spectroscopy (CIS) measurements were performed using a computer controlled Newtons 4th LTD LCR meter (model: PSM 1735) by applying a sinusoidal signal with 500 mVrms amplitude over 1 Hz to 1 MHz frequency range.
+Temperature-dependent impedance measurements were carried out in the range 25e300 C.
+For these measurements, samples were kept at the desired temperature for at least 15 min before triggering the frequency sweep for impedance measurement.
+Ion transference number was determined by the DC polarization method under an applied ﬁeld of 1 V using a Keithley Source Meter (model 2401).
+The room temperature powder XRD patterns of Li1þxZr1xAlx(PO4)3 (x ¼ 0e0.5) [hereinafter, labeled as LZAP-100x] are shown in Fig. 2.
+Preliminary analysis of these patterns shows that all doped samples exhibit a predominantly monoclinic symmetry similar to b0-LZP.
+For samples with x  0.3, except a lowintensity unidentiﬁed peak around 18.3, no impurity peak is apparent in the XRD patterns whereas sample with x ¼ 0.4 shows an impurity peak around 23 intensity of which increases further for x ¼ 0.5.
+To calculate the variation of lattice parameters with Aldoping content, room temperature XRD data were reﬁned in the full proﬁle matching mode via LeBail method using Bruker Topas 3.2 software.
+Peak proﬁle was reﬁned using the fundamental parameter approach with an asymmetry correction according to axial divergence, and a 6-order polynomial function was used to ﬁt the background.
+Sample displacement error, lattice parameters, crystallite size, and lattice strain were varied during the reﬁnement.
+The representative proﬁle ﬁts for x ¼ 0, 0.25, and 0.50 are depicted in Fig. 3 and ﬁnal reﬁned lattice parameters obtained by LeBail reﬁnement are summarized in Table 1.
+Fig. 3 conﬁrms that all major peaks in the XRD patterns of pure LZAP-00 and LZAP-25 are consistent with the space group P21/n. 
+Some of the peaks in the XRD patterns of LZP-40 and LZAP-50 samples could not be ﬁtted with monoclinic P21/n space group necessitating the inclusion of secondary phase.
+Reports on many other Al-doped NASICON-type compounds show the existence of AlPO4 impurity phase.
+Indeed, the minor impurity peaks observed in samples with x ¼ 0.4 and x ¼ 0.5 were found to belonging to the orthorhombic AlPO4 with the space group C2221 and the LeBail reﬁnement of XRD patterns by using both monoclinic P21/n and orthorhombic C2221 phases resulted in a satisfactory match between observed and calculated patterns (Fig. 3, x ¼ 0.5).
+This conﬁrms that the solubility limit of Al3þ in monoclinic LiZr2(PO4)3 is ~0.3.
+Asterisks in Figs. 2 and 3 denote the unidentiﬁed impurity peak at about 18.3 that was observed in all samples.
+Amount of Aledoping did not affect the intensity of this peak.
+The list of hkl and corresponding reﬁned 2q positions for monoclinic P21/n and orthorhombic C2221 phases in LZAP-50 sample are provided in Table S1 (see Supplementary Materials).
+Analysis of LeBail reﬁnement results showed that lattice parameters decrease with increase in Aledoping in 0  x  0.3 range (Table 1).
+This decrease in lattice parameters is as expected; the ionic radius of Al3þ (0.535 Å, in 6 coordination) is signiﬁcantly smaller than that of Zr4þ (0.72 Å, in 6 coordination) and Al3þ in LZP at M-site would lead to shrinkage of the unit cell.
+For higher doping (x ¼ 0.4 and 0.5), change in lattice parameters and cell volume is very sluggish conﬁrming that in these samples Al substitutes Zr partially and results in the formation of AlPO4 impurity phase.
+Fig. 2. Room temperature powder XRD patterns of Li1þxZr2-xAlx(PO4)3 samples.
+Major peaks for monoclinic LZAP (P21/n) and orthorhombic AlPO4 (S.G. C2221) phases are indicated by the symbols ^ and #, respectively. * indicates an unidentiﬁed XRD peak.
+Fig. 3. LeBail proﬁle ﬁts of room temperature XRD patterns of (a) LZAP-00, (b) LZAP25, and (c) LZAP-50 samples. Observed XRD patterns are denoted by the cross symbols () and the calculated ones by solid blue lines, bars represent the calculated peak positions and the lower solid gray line denotes the difference curve. * indicates the presence of a small unidentiﬁed peak. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the Web version of this article.
+Table 1 Reﬁned lattice parameters (a, b, and c), lattice angle (b), unit cell volume, and theoretical x-ray density of Li1þxZr2-xAlx(PO4)3 samples calculated from le-Bail proﬁle matching of room temperature x-ray diffraction data.
+Relative density and the average grain esize is provided for Li1þxZr2-xAlx(PO4)3 ceramics sintered at 900 C for 12 h.
+The factor group analysis based on the monoclinic structure (space group P21/n) for b0-LiZr2(PO4)3 gives rise to total Raman and infrared active modes in irreducible representation at the centre of Brillouin zone as, GRaman ¼ 54Ag þ 54Eg; GIR ¼ 53Au þ 52Bu.
+Out of 108 Raman active modes, these are further divided into internal and external modes as: Gint ¼ 27Ag þ 27Eg with v1 ¼ 3Ag þ 3Eg; v2 ¼ 6Ag þ 6Eg; v3 þ v4 ¼ 18Ag þ 18Eg associated with the vibration of PO4 and Gext ¼ 27Ag þ 27Eg i.e. 36 translational modes GðLiÞtrans ¼ 3Ag þ 3Eg; GðZrÞtrans ¼ 6Ag þ 6Eg; GðPO4Þtrans ¼ 9Ag þ 9Egand modes librational GðPO4Þlib ¼ 9Ag þ 9Eg.
+However, the recorded Raman spectra of b0LiZr2 (PO4)3 under ambient condition exhibits only 31 distinct modes, as shown in Fig. 4.
+This may be due to the weak intensity of external mode and some degeneracies. Observed phonon modes are assigned in two categories in accordance with the literature as internal and external modes.
+Internal vibrations usually consist of intramolecular stretching and bending vibrations of PO4 tetrahedra, whereas the external vibration modes correspond to þ and (PO4)3ions.
+In translation and libration motion of Li  1 correspond to the external Raman spectra features below 350 cm , Zr4þ vibration motion i.e. translational and libration motion of Li  1 originate and (PO4)3ions, and all phonon modes above 350 cm from internal vibrations associated with PO4 tetrahedra.
+The internal modes associated with PO4 tetrahedra consist of four basic modes of vibration i.e. v1, v2, v3 and v4. 
+Out of these four types, v2 and v4 correspond to intramolecular bending vibration and that of v1 and v3 originates from intramolecular stretching vibration associated with PO4.
+Fig. 4. Room temperature Raman spectra of Li1þxZr2-xAlx (PO4)3 (x ¼ 0, 0.1, 0.2, 0.25, 0.3, 0.4 and 0.5). The shaded yellow region shows the part, where maximum change is observed for internal modes associated with PO4 tetrahedra. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the Web version of this article.
+Fig. 4 shows the room temperature Raman spectrum of b0-LiZr2(PO4)3, where a broad mode in the frequency range of  1 is attributed to v1 and v3 stretching vibration of 900e1200 cm 1 PO4 tetrahedra (v1 vibrational modes at 967, 989, 1009, 1028 cm  1), and v3 vibrational modes at 1050, 1062, 1078, 1092, 1156 cm  1are assigned to while the modes appearing in range 400e650 cm v2 and v4 bending vibrations of PO4 tetrahedra.
+We note that similar intensity dominant character of v1 vibrational mode around  1 is also reported for LixTi2(PO4)3 (x ¼ 1, 2, and 3).
+1005 cm Doping evolution of the Raman spectrum (see Fig. 4) of Al-doped Li1þxZr2-xAlx (PO4)3 system shows that there is no distinct change in the phonon modes with 10% of Al doping at Zr-site in parent compound, however as the Al-doping is increased up to 50% all the  1 are phonon modes in the frequency range of 900e1200 cm merged and the few weak modes in the low-frequency region 50 1 disappeared or become too weak to be observed.
+Another 360 cm interesting observation is the transfer of spectral weight from a  1 (see Fig. 5 b mode around 430 cm and c), associated with bending vibrations of PO4 tetrahedra, with the increase in doping hinting towards the reorientations of the molecular units.
+This broadening in the higher frequency region and spectral weight transfer between bending modes clearly suggests that PO4 tetrahedra is distorted and distortion increases with increase in doping.
+The doping evolution of the internal phonon modes, highlighted with yellow color in Fig. 4, clearly indicate distortion in Li1þxZr2-xAlx(PO4)3 with Al-doping at Zr-site, in particular this distortion prominently affects the internal stretching and bending mode of vibration associated with PO4.
+All the recorded Raman spectra were ﬁtted with a sum of Lorentzian function to extract the peak frequency of the phonon modes.
+Table 2 shows the peak frequency of the observed phonon modes for different Al doping.
+In Fig. 5 (a), we have plotted the phonon frequency of some of the prominent intramolecular bending modes in the frequency  1 and intramolecular stretching mode at range from 400 to 650 cm  1 as a function of Al doping.
+The phonon modes around 1156 cm  1 shows shift toward higher wave number up  1 and 432 cm 412 cm to 25% substitution of Zr4þ and, thereafter it remains almost  1 and constant up to 50% doping; however, modes around 633 cm  1 shows continuous increase but change after 25e30% 1156 cm doping is marginal.
+As the structure of b0-LiZr2(PO4)3 is formed by corner-sharing PO4 tetrahedra and ZrO6 octahedra with interstitial lithium atom in this framework (see Fig. 1).
+A change in local structural unit may affect these bending modes, therefore the doping with smaller ionic radii Al3þ in place of larger ionic radii Zr4þ may result in to distortion in (Al/ZrO6) octahedra, which may lead to distortion in associated PO4 tetrahedra, also reﬂected in our experimental observation via the change in phonon frequency associated with PO4.
+The observed shift (Du) in the phonon frequency of intramolecular bending  1, modes around 411 cm 1 and 432 cm 1 and 6 cm 
+We note that change in the frequency of 1156 cm stretching mode is almost half of that of bending modes suggesting that bending modes are more susceptible to the doping.
+This may results from the fact that bending modes (v2 and v4) are less localized, as compared to the stretching vibrations (v1 and v3) of PO4 tetrahedra, therefore bending modes are more sensitive to any change consistent with our observation.
+A solid may be assumed to be made of atoms attached with springs with a ﬁnite spring constant (k). Mode frequency (u) in this p simplest approximation is then proportional to the root of the spring constant (uf ﬃﬃﬃk ).
+As the doping is increased, it leads to change in lattice parameters or indirectly affect the effective spring constant between atoms.
+Such changes directly affect the mode frequency and as a result mode frequency gets changed/renormalized. Doping in these systems also leads to change in Li-ion concentration.
+The renormalization of the mode frequency may also result from a change in Li-ion mobility owing to its increased concentration.
+Change in mode frequency due to Li-ions may stem from its strong interactions with internal vibrations associated with PO4 tetrahedra.
+Therefore, the change in mode frequency of the order of 5e14 cm change in lattice parameters with doping alone can not explain the observed change in mode frequency associated with the bending modes of PO4.
+Other potential cause for the observed change in the mode frequency may be Li ions.
+Because with the increase in doping of Al, the concentration of Li-ions increases and this increase leads to signiﬁcant enhancement of ionic conduction in this system, we note that the increase in ionic conduction with doping is maximum only up to 25e30% and after that it is marginal.
+Interestingly the change in mode frequency is also maximum only up to the same percentage of doping (Fig. 5(a)), which clearly suggests that renormalization of the mode frequencies is controlled by Li-ion motion via strongly interacting with internal bending modes of PO4 tetrahedra.
+For ceramics electrolytes, relative density plays an important role in determining the electrical and mechanical properties, and incidence properties.
+Moreover, for hybrid electrolyte batteries, solid electrolyte membrane must be impermeable to the liquid electrolytes.
+Fig. 6. SEM image showing the microstructure of Li1þxZr2-xAlx (PO4)3 samples sintered at 900 C for 10 h (a) x ¼ 0, (b) x ¼ 0.1, (c) x ¼ 0.2, (d) x ¼ 0.25, (e) x ¼ 0.3, (f) x ¼ 0.4, and (g) x ¼ 0.5.
+(x ¼ 0) pellet sintered at 900 C for 12 h (see Fig. 6(a)).
+The relative density LZAP-00 sample is only around 72%.
+With the increase in Al-doping, there is a noticeable change in the microstructure of LZAP ceramics: inter-grain pores decrease, grains are tightly packed, and there is a signiﬁcant increase in the average grain size.
+Relative density and average grain size of various LZAP ceramics are listed in Table 1.
+LZAP-25 ceramic show highest relative density of 94% of theoretical density with an average grain size of um.
+Some intra-grain pores are visible in the SEM image.
+However, no intergrain micro-cracks which have been observed in pure and doped rhombohedral LiZr2(PO4)3 ceramics are present.
+This absence of micro-cracks might be due to the absence of large anisotropic thermal expansion of lattice parameters typically observed in aeLiZr2(PO4)3.
+For samples with higher doping of Al3þ (x ¼ 0.4 and x ¼ 0.5), relative density decreases slightly to 91% and 89% from ~94% for x ¼ 0.25.
+Nevertheless, all doped samples show signiﬁcantly improved relative density and increased grain size.
+This indicates that substitution of Al3þ favors the facile mass diffusion of constituent ions which helps in better sintering of ceramic.
+A similar effect of improved density upon Al doping has been observed in other LizM2(PO4)3 compounds.
+The small drop in relative density for the pellets with x ¼ 0.4 and x ¼ 0.5 can be attributed to the appearance of impurity AlPO4 phase.
+AC impedance spectroscopy can be used to separate the quantitative contributions from the electrode-sample interface, grain boundary, and intra-grain (or bulk) to the charge transport mechanism in polycrystalline materials.
+AC impedance data in the form of Nyquist plots for LZAP ceramics measured at 30 C is shown in Fig. 7.
+Only a single semicircular arc is observed in the entire 1 Hze1 MHz frequency range for x ¼ 0 sample (Fig. 7(a)).
+Whereas for doped samples along with the semicircular arc(s) a long tail in the lower frequency region is also observed.
+Such low-frequency tails in complex impedance plot represent the response due to the ion-blocking electrodes and are a characteristic feature of ionic 539 conductors.
+At higher temperatures (50 C), pristine LZP also shows a tailelike feature in the low frequency region (representative plot at 150 C, Fig. 8c) similar to doped samples.
+The appearance of a tail and the reduction in the intercept of semicircular arc on xeaxis on the lower frequency side suggests that the ionic conduction becomes more facile at these temperatures.
+To calculate the effective conductivity of the sample, complex impedance data was ﬁtted to various equivalent circuit models. 
+As a preliminary analysis, pseudo-capacitances associated with the tail  5 F whereas those for semiwere estimated to be around ~10  11 F range for all samples.
+This sugcircular arc were in ~10 gests that tail in low-frequency region and semicircular arc in higher frequency region are associated with the blocking layer at electrode interface and grain þ grain boundary of the sample, respectively.
+Ideally, the difference in values of relaxation times for the conduction in bulk and grain boundaries leads to a deconvolution of resistances associated with these components.
+A series combination of two constant phase element (Q) and resistor (R) in parallel circuit (i.e., QgjjRg þ QgbjjRgb) are used to model the capacitance and resistance associated with grain and grain boundary, respectively.
+Here R represents the low frequency limiting resistance and Q represent the pseudo-capacitor with  1 of the material.
+However, in the preimpedance ZQ sent investigation, we could not ﬁt the high-frequency semicircular arc to the equivalent circuit QgjjRg þ QgbjjRgb satisfactorily for any sample except LZAP-50; such attempts resulted either in the erroneously ﬁtted parameters or in a strong dependency of the ﬁtted parameters on the initialization values of these parameters.
+Therefore, the complex impedance data for compositions with x ¼ 0, 0.1, 0.2, 0.25, 0.3, and 0.4 was ﬁtted to the equivalent circuit model Q1jjR1 þ Q2jjR2 as shown in the inset of Fig. 8(c).
+Here, Q1jjR1 represents the total response from the bulk (grain and grain boundary) in all samples whereas Q2jjR2 represents the response from the sample e electrode interface.
+For LZAP-50, equivalent circuit [QGjjRG þ QGBjjRGB þ Q2jjR2] was used to ﬁt the impedance data where QGjjRG þ QGBjjRGB represent the total response from the sample.
+The appearance of distinct ‘grain boundary’ response in Fig. 7.
+Nyquist impedance plots of LZAP-100x samples recorded at room temperature (30 C).
+Fig. 8. Equivalent circuit modeling of impedance data for (a) LZAP-00 at 30 C, (b) LZAP-25 at 30 C, and (c) LZAP-00 at 150 C.
+Scattered symbols are measured data from samples and the solid red line is equivalent circuit ﬁtting results.
+The inset shows the equivalent circuit used to ﬁt the experimental data. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the Web version of this article.)
+Nyquist plot for LZAP-50 sample could be related to the presence of signiﬁcant amount of AlPO4 phase in this sample as demonstrated by x-ray diffraction results.
+These equivalent circuits ﬁt the impedance data of all samples reasonably well in the entire temperature range, and representative ﬁttings of experimental data are shown as solid line in Fig. 8.
+Accordingly, the room temperature conductivities and activation energies in Table 3 represent the total (grain þ grain boundary) values for all compositions under investigation.
+Pure LZAP (sample with x ¼ 0) shows room temperature (30 C) conductivity of about 2.27 10 doping room temperature conductivity increases to a maximum of  1  4 U 1m 1.8310 again to  1 for x ¼ 0.5.
+At 150 C, the value of conductivity  5 U 1m 2.85  10 for LiZr2 are (PO4)3  3 U 1m  1and 3.44  10 1.31  10 1. 
+Temperature dependence of the conductivity of LZAP-100x ceramics is shown in Fig. 9 and a nearly linear relationship between ln(s) and 1000/T is observed in the studied temperature range.
+The Arrhenius equation: sðTÞ ¼ s0 expð   EA=kBTÞ where s0 is the so-called pre-exponential factor; EA is the activation energy per charge carrier, kB is the Boltzmann's constant, and T is the absolute temperature has been used to ﬁt the s(T) data.
+The conductivity data follow the Arrhenius law reasonably well for all samples in 30e210 C range.
+The calculated values of activation energy EA are given in Table 3. With the increase in Al3þ content, EA decreases from 0.589 ± 0.004 eV for x ¼ 0 to 0.479 ± 0.002 eV for x ¼ 0.25.
+With further increase in x (0.3), EA increases with doping and its value for sample with x ¼ 0.5 is ~0.57 eV. Similarly, conductivity shows an inverse trend in x ¼ 0.3e0.5 range and decreases.
+This behavior could be arising from the appearance of secondary phase (AlPO4) as corroborated by the x-ray diffraction data.
+To understand the effect of Al doping on the solid-state lithium diffusion in LZAP-x ceramics, NernsteEinstein relation D ¼ kBT Nq2sDC was used to estimate the solid-state lithium diffusion coefﬁcient (D).
+Here, kB is Boltzmann's constant; q is the elementary charge, and N is the number density of charge carriers which was þ taken as the number of Li per unit volume V of the unit cell.
+The calculated D for all samples under investigation is provided in  21 Table 3. The value of room temperature D ranges from 9.0  10  1 for Li1.25Zm2s r1.75Al0.25(PO4)3 (x ¼ 0.25).
+Table 3 Room temperature (30 C) conductivity, associated activation energy, and macroscopic lithium diffusion coefﬁcient for Li1þxZr2-xAlx(PO4)3 ceramics.
+Fig. 10. DC polarization behavior of Ag/Li1.25Zr1.75Al0.25 (PO4)3/Ag cell under an applied voltage of 1 V.
+Fig. 9. Temperature dependence of DC conductivity of LZAP-100x samples for various x. Solid lines are linear ﬁt to the Arrhenius equation.
+7Li NMR and neutron powder diffraction data for rhombohedral Li1þxTi2-xAlx(PO4)3 have shown that the introduction of Al3þ in crystal structure modiﬁes the lithium diffusion pathways and lowers the activation energy via Ti/ AlO6 stretching distortion.
+More studies on the local structure and impedance characteristics of monoclinic Al3þ doped LZP single crystal (or single grain using microcontact) are warranted to establish the exact contributions from the microstructure and the lattice to the enhanced conductivity. For practical applications in bulk rechargeable lithium batteries, the Li conductivity  1of a solid electrolyte is expected to be of the order 10  1.
+The room temperature ionic conductivity obtained 10 for Li1.25Zr1.75Al0.25(PO4)3 is nearly two orders lower than those reported for some of the other NASCION-type and Garnet structured electrolytes.
+Such low value of conductivity makes LZAP-25 impractical for use as an electrolyte in bulk lithium ion batteries.
+However, this material could be explored as a potential electrolyte candidate in thin-ﬁlms based micro-batteries as these require very low currents to operate.
+Prior to this, electrochemical stability window of LZAP-25 and its stability with the potential anode and cathode materials need to be studied in details.
+Room temperature DC polarization study with Ag acting as blocking electrodes was carried out in order to estimate the contribution of the ionic conductivity component to the total conductivity of Li1.25Zr1.75Al0.25(PO4)3 sample and the result for an applied voltage of 1 V is shown in Fig. 10.
+The initial value of the current (I0) is around 9.2 mA which shows a typical exponential decay with the measurement time.
+As lithium ions are blocked by Ag electrode, only the electronic charge carriers contribute to the steady-state current (ISS ~ 0.04 mA).
+Ionic transference number, deﬁned as tionic ¼ 1 (ISS/I0), is found to be close to 0.99.
+The doped LiZr2(PO4)3 lithium ion conducting solid electrolytes were successfully prepared via a sol-gel route.
+X-ray diffraction data conﬁrmed the samples sintered at 900 C for 12 h belonging to a monoclinic structure with the space group P21/n at room temperature.
+Introduction of Al3þ into monoclinic LiZr2(PO4)3 decreases the unit cell volume and increases the grain size & densiﬁcation.
+A minor AlPO4 phase was observed in samples with x  0.3.
+Alsubstituted samples have higher ionic conductivities and lower activation energies than the undoped sample with the highest total  1 at 30 C obtained for Li1.25Zconductivity of 1.83  10 r1.75Al0.25(PO4)3 which is roughly 80 times that of monoclinic LiZr2(PO4)3.
+Al doping resulted in the distortion of PO4 tetrahedra reﬂected in the renormalization of the phonon frequency and signiﬁcant spectral weight transfer with doping.
+It is concluded from the decrease in activation energy and an increase in lithium diffusion coefﬁcient that improvement in conductivity in doped Al3þ substituted samples arises from the cumulative effects of better þ densiﬁcation, increased Li concentration, and possibly additional interstitial migration.
+DC polarization study conﬁrmed that the contribution of electronic conductivity to total conductivity in LZAP-25 sample is negligible.
+Needless to say that despite signiﬁcant improvement with Al-doping, the low value of ionic conductivity makes monoclinic an unlikely candidate for practical electrolyte applications in Li-based bulk rechargeable batteries operating at room temperature.

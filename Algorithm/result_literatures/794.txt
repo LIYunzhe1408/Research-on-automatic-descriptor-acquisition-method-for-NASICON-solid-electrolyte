@@ -1,0 +1,25 @@
+The conversion of alcohols towards aldehydes in the presence of catalysts by non-oxidative
+dehydrogenation requires special importance from the perspective of green chemistry. Sodium
+(Na) super ionic conductor (NASICON)-type hydrogen titanium phosphate sulfate (HTPS;
+H1(xTi2(PO4)3)x(SO4)x, x = 0.5–1) catalysts were synthesized by the sol-gel method, characterized
+by N2 gas sorption, X-ray powder diffraction (XRD), scanning electron microscopy (SEM),
+transmission electron microscopy (TEM), NH3 temperature-programmed desorption (NH3-TPD),
+ultraviolet–visible (UV-VIS) spectroscopy, and their catalytic properties were studied for the
+non-oxidative dehydrogenation of methanol and ethanol. The ethanol is more reactive than methanol,
+with the conversion for ethanol exceeding 95% as compared to methanol, where the conversion has
+a maximum value at 55%. The selectivity to formaldehyde is almost 100% in methanol conversion,
+while the selectivity to acetaldehyde decreases from 56% to 43% in ethanol conversion, when the
+reaction temperature is increased from 250 to 400 oC.
+The non-oxidative dehydrogenation of methanol and ethanol to the respective aldehydes was
+carried out over a new titanium phosphate sulfate catalyst, H1􀀀xTi2(PO4)3􀀀x(SO4)x, which has a high
+surface area and high porosity.
+The catalytic activity increasing depends on a variety of factors, such as (i) the presence of isolated
+tetrahedral species; (ii) higher surface area, which leads to more active sites on the surface; and (iii) the
+presence of a weak and medium acidity making the catalysts calcinated at 600 and 650 C, more active
+than the one calcinated at 700 C.
+With methanol, selectivity for formaldehyde was nearly 100% and, at temperatures above 300 C,
+the conversion was higher than 50%. The catalyst performance was steady for at least 15 h at 350 C.
+In contrast, the catalyst showed over 95% conversion of ethanol even at temperatures as low as 250 C,
+with selectivity for acetaldehyde up to 56%. The compounds are the first examples of solid acids that
+efficiently catalyze non-oxidative dehydrogenation of alcohols. Their robust catalytic activities warrant
+further exploration of similar solid acids in search for ideal catalysts for the reactions.

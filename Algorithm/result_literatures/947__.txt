@@ -1,0 +1,72 @@
+The role of iron in Na1.5Fe0.5Ti1.5(PO4)3/C electrode material for Na batterieshas been studied by 57Fe Mossbauer spectroscopy in operando mode.
+
+The potential pro- ¨file obtained in the galvanostatic regime shows three plateaus at different voltages due todifferent reaction mechanisms.
+
+ Two of them, at 2.2 and 0.3 V vs Na+/Na0, have been associated to redox processes involving iron and titanium in Na1.5Fe0.5Ti1.5(PO4)3.The role oftitanium was previously elucidated for NaTi2(PO4)3 and the effect of the substitution of Fefor Ti was investigated with 57Fe Mossbauer spectroscopy.
+
+We show that iron is an elec- ¨trochemically active center at 2.2 V with the reversible Fe3+/Fe2+ transformation and thenremains at the oxidation state Fe2+ along the sodiation until the end of discharge at 0 V.
+
+Li-ion batteries provide high energy density and are now widely used for electrical energystorage.
+
+However, the development of sustainable and renewable energy sources stronglyincreases the demand for lithium.
+
+Unfortunately, lithium resources are limited and unevenlydistributed worldwide.
+
+In addition, the cost and the safety of lithium storage systems couldbe the major drawbacks for large-scale applications [1].
+
+In that context, rechargeable Naion batteries can be considered a serious alternative in the future because of the low cost andnatural abundance of sodium as well as the improved safety of the batteries with the use ofaqueous electrolytes [2].
+
+The need for new electrode materials with high specific capacity, low irreversible loss,high coulombic efficiency and long cycle life is crucial for the development of the Naion technology.
+
+NASICON (Na Super Ionic Conductors) type materials with the formulaunit NaxMy(PO4)3, where M is a transition metal, have attracted a considerable attentionbecause of their high ionic conductivity and the possibility of tuning the operation voltageby changing M [3].
+
+The structure of NaxMy(PO4)3 can be described as a three-dimensionalframework of corner sharing MO6 octahedra and PO4 tetrahedra with interconnected channels for the diffusion of Na+ ions.
+
+NaTi2(PO4)3 is an interesting example because of itspromising electrochemical performances and its peculiar potential profile [4–6].
+
+ The potential curve exhibits a plateau at about 2.1 V vs Na+/Na0 fixed by the redox potential ofTi4+/Ti3+ and a theoretical specific capacity of 133 mAh g−1, and another plateau at about0.4 V due to the Ti3+/Ti2+ redox couple which has not been widely investigated.
+
+As aconsequence, the composition Na3Ti2(PO4)3 can be used in a symmetrical electrochemical cell involving the reversible reactions NaTi2(PO4)3 ↔ Na3Ti2(PO4)3 at the cathodeand Na3Ti2(PO4)3 ↔ Na4Ti2(PO4)3 at the anode [6].
+
+However, this material suffers fromsome limitations such as poor electronic conductivity and needs improvements for practicalapplications.
+
+The present paper concerns the analysis of the electrochemical reaction mechanismsof Na1.5Fe0.5Ti1.5(PO4)3/C composite as electrode material for Na-ion batteries in thepotential range 0–3 V.
+
+The substitution of Fe for Ti and the carbon coating increase theionic and electronic conductivity, respectively, and both improve the electrochemical performances as shown previously for the potential plateau at ∼2.2 V [7, 8].
+
+The present worksupplements these studies by considering the overall potential range.
+
+A particular attentionis devoted to the effect of Fe for Ti substitution studied by 57Fe Mossbauer spectroscopy in ¨operando mode, which is a unique tool to analyze electrochemical reaction mechanisms inbatteries at the atomic scale [9–13].
+
+Na1.5Fe0.5Ti1.5(PO4)3 was prepared by solid-state reaction from stoichiometric amounts ofNa2CO3, (NH4)2HPO4, Fe2O3 and TiO2 precursors heated at 400 ◦C under air for 12 h in anopen alumina crucible and cooled to room temperature.
+
+The product was then hand-groundand heated at 600 ◦C for 12 h and, after cooling at room temperature, reground and calcinedat 1000 ◦C for 12 h to obtain a pure powder of Na1.5Fe0.5Ti1.5(PO4)3.The carbon coatingwas obtained by mixing this powder with 15 wt% of sucrose in acetone, drying the solutionfor the evaporation of acetone and heating the product at 500 ◦C for 6 h in flowing argon.
+
+The X-ray diffraction (XRD) patterns were collected under Bragg-Brentano geometry at2θ in the range 12–120◦ with PHILIPS X’Pert MPD equipped with the X’celerator detectorusing Ni filter and Cu-Kα radiation (λ = 1.5418 A).
+
+The microstructure was analyzed with a ˚scanning electron microscope (SEM) and the specific surface area of the powdered sampleswas evaluated with the Brunauer Emmett Teller (BET) method from nitrogen physisorptionmeasurements at 77 K with a Micrometric ASAP 2020.The residual carbon content wasdetermined from thermogravimetric analysis (TGA) with a heating rate of 10 ◦C min−1using a thermal analyzer Labsys.
+
+The 57Fe Mossbauer spectra were recorded in transmission geometry and a constantacceleration mode at room temperature with 57Co (Rh) γ source.
+
+The velocity scale wascalibrated using high-purity iron foil absorber as a standard at room temperature.
+
+The valuesof isomer shift (δ), quadrupole splitting (), full line width at half-maximum () and relative area (RA) were determined by fitting Lorentzian lines to the experimental data with anonlinear least-square method.
+
+ The values of the isomer shift are given with respect to α-Fe.
+
+The working electrodes were prepared by mixing 80 wt% active material and 20 wt%Super P carbon powder.
+
+A specific electrochemical cell was used for in situ 57Fe Mossbauer ¨spectroscopy [14] that was assembled inside the dry box under controlled argon atmosphere by using a sodium foil as the counter electrode, a borosilicate glass microfiber sheet(Whattman) as the separator and an organic electrolyte with 1M NaClO4 dissolved in a solution of propylene carbonate (PC) and 5 vol% of fluoroethylene carbonate (FEC) as additive.
+
+The Mossbauer data were collected for one discharge-charge cycle in the range 1–3 V, fol- ¨lowed by a full discharge until 0 V performed in the galvanostatic mode at C/25 (1 Na/f.u.in25 h), during time steps of 4 h.
+
+Thus, each spectrum corresponds to the insertion (discharge)or extraction (charge) of 0.16 Na/f.u.
+
+The reaction mechanism of Na1.5Fe0.5Ti1.5(PO4)3/C composite considered as possible positive or negative electrode for Na-ion batteries has been investigated by 57Fe Mossbauer ¨spectroscopy in operando mode.
+
+The potential curve obtained for the full discharge showsthree different plateaus that have been assigned to the Fe3+/Fe2+ followed by Ti4+/Ti3+reversible transformations at 2.2 V, the SEI formation due to irreversible electrolyte decomposition at 0.6 V and the Ti3+/Ti2+ reversible transformation at 0.3 V, respectively.
+
+Iron isonly electrochemically active along the first plateau where it improves the electrochemicalperformances.
+
+ To use Na1.5Fe0.5Ti1.5(PO4)3/C at lower potential, parasitic side reactionsshould be reduced since they use a large amount of Na but further experiments are neededto understand these mechanisms.
+

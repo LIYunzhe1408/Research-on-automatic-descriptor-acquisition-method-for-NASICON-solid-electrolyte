@@ -1,0 +1,26 @@
+The application of sodium-ion batteries (SIBs) is largely depended on the high energy densityelectrode system since it suffers from intrinsic high voltage of Na (0.33 V vs. Li).
+
+Toovercome these limitations, we propose a high-voltage sodium-ion full cell via cathodicpolarization suppression.
+
+NASICON structured Na3V2(PO4)3 (NVP) cathode and poorlygraphitized hard carbon (HC) anode are synthesized as the targeted materials through aneasily scalable coprecipitation method and a simple biomass-directed technique, respectively.
+
+Through morphologic optimization and carbon decoration, the NVP half cell demonstrates ahigh output voltage of 3.4 V, ultralong cyclability (over 4000 cycles) and distinguished ratecapability (77 mA h g-1at 150 C), which is attributed to the enhanced electrical transportbehaviours and carrier transmission dynamics.
+
+When extended to NVP//HC, the overpotentialhas been successfully restrained, and the full cell exhibits a theoretical median voltage of 3.3V, which shows substantial increases in the energy density (＞20%) compared to bulk andbare NVP based full cell.
+
+The prototype design of high-energy and low-cost sodium-ion fullcell in this work opens the door for accelerating the development and application of SIBs.
+
+In summary, we have developed the cathodic polarization suppressed NVP//HC full cell witha 3.3 V high-voltage based on the easily scalable synthesized 3D interconnected NVP cathodeand biomass method fabricated HC anode.
+
+The properties of cathode and anode materialshave been systematically investigated.
+
+Compared with NVP-Bulk and NVP-Bare, the 3Dinterconnected NVP cathode exhibits a high output voltage of 3.4 V, outstanding cyclingstability (84.5% capacity retention over 4000 cycles at 15 C) and superior rate performance(77 mA h g-1at 150 C).
+
+Most importantly, the polarization of full cell has been successfullysuppressed and the median voltage of NVP-NP//HC reaches up to 3.3 V due to the enhancedelectrical transport behaviours and carrier transmission dynamics.
+
+The NVP-NP//HC showssubstantial increases in the energy density (＞20%) towards NVP-Bulk//HC and NVPBare//HC, which considerably exceeding the performances of previously reported NVP basedsodium-ion full cells and exhibits great potential for renewable energy storage application.
+
+This work focuses on not only the development of low-cost cathode/anode materials but alsothe full-cell design depending on electrochemistry considerations.
+
+We believe that this highvoltage NVP//HC full cell with suppressed polarization based on easily scalable and biomassapproach can inspire new thought in the construction of high-energy and low-costrechargeable SIBs.
+

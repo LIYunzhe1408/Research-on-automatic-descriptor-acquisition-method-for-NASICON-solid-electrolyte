@@ -1,0 +1,10 @@
+Aluminum has long been regarded as a promising anode for energy storage due to itshigh energy density and low cost, but its application is hindered by the inability of cathodes toprovide reversible Al3+ insertion.
+In contrast, we report the use of Al as cathode allows arechargeable high-energy battery.
+The battery comprises a molten sodium anolyte and a molten NaAl2Cl7 catholyte, separated by a NaSICON solid Na+ electrolyte.
+It is operated at 200 °C toovercome the ceramic separator kinetics and to keep sodium and NaAl2Cl7 in the molten state.
+Due to the simple composition and trivalence of Al, the sodium anolyte and NaAl2Cl7 catholyte togethershows a high energy density of 366 Wh kg-1 although its voltage is only about 1.55 V and only 60%of the capacity can be realized.
+The high energy density, low-cost and internal safety make this newcell chemistry applicable to the large scale energy storage market.
+In summary, we demonstrate here that molten NaAl2Cl7 can serve as a catholyte and can deliver ahigh capacity of 296.4 mAh g-1 at 60% depth of discharge; a 1.55 V discharge voltage, which ishigher than expected from aqueous solution potential data, can be obtained with the molten saltmedium.
+By using NaAl2Cl7 as catholyte and molten sodium as anolyte, we show a high energyefficiency Na-Al prototype battery of which we can find no previous record.
+Although the capacityfades undesirably in the present cell, its high energy density, low cost, high safety and replenishablereserves making the Na-Al battery particularly promising in the grid-storage market.
+The optimumworking temperature, catholyte composition, and battery configuration need to be further researched.

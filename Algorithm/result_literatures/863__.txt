@@ -1,0 +1,67 @@
+A NASICON-type (Na ion super conductor) structured Li1.3Al0.3Ti1.7(PO4)3 (LATP) solid electrolyte with high lithium ion conductivity was synthesized using a simple solution method with 85% H3PO4 solution.
+
+In comparisonwith conventional solid-state reaction and sol-gel method, the pure LATP powders and dense LATP pelletswere obtained at a relatively lower temperature.
+
+The LATP powders and the resultant pellets were characterizedby X-ray diffraction, scanning electron microscopy (SEM) and AC impedance spectroscopy.
+
+The LATP pelletobtained at 800 °C for 12 h shows the highest total conductivity of 1.21 × 10−3 S cm−1 at room temperatureand the lowest activation energy of 0.26 eV.
+
+These results imply that the LATP electrolytes obtained using thismethod can be considered as candidates for solid state electrolytes.
+
+Recently, the rechargeable lithium ion batteries (LIBS) have beenwidely used as power sources for mobile electronic devices and considered as one of the best large-scale energy storage systems for use inelectric vehicles and electrical energy storage systems [1].
+
+However,the safety issues resulting from the leakage and combustion of organicliquid electrolyte restrict the large-scale applications of LIBS.
+
+To improvethe safety and stability of LIBS, the inflammable ceramic electrolyteswith high electrochemical safety have been studied extensively, suchas Perovskite-type [2], NASICON-type [3], Garnet-type [4], andsulfide-based glasses [5].
+
+Among the above-mentioned solid state electrolytes, NASICON-typeceramics have attracted much attention due to their high excellentconductivity at room temperature as well as good stability underatmosphere, which have been considered as potential candidates forsolid state electrolytes [3].
+
+The LiTi2(PO4)3 ceramic electrolyte withNASICON-type structure is composed of TiO6 octahedral and PO4tetrahedral which are linked by shared oxygen atoms to form athree-dimension (3D) network structure.
+
+In this structure, if the Ti4+cation is partially substituted by some trivalent cations such as Al3+,Sc3+, Y3+ or La3+, the conductivity of LiTi2(PO4)3 will be appreciablyenhanced, which can be ascribed to the increase of lithium ion contentas well as the densification of the sample pellets.
+
+Moreover, the Aldoped LiTi2(PO4)3 (LATP) compound possesses the maximumconductivity.
+
+Currently, various synthetic methods have been employed toprepare the LATP samples, such as solid-state reaction [6,7], sol-gelmethod [8–13], co-precipitation method [14,15], melt-quenching [16],spray-drying [17] spark plasma sintering (SPS) [18,19] and hydrothermally synthesis [20].
+Aono et al.
+
+ prepared Li1.3M0.3Ti1.7(PO4)3(M = Al or Sc) with the maximum conductivity of 7 × 10−4 S cm−1by solid-state reaction, which is almost comparable to that of Li3N. G.B. Kunshina et al.
+
+ [10] synthesized Li1.3Al0.3Ti1.7(PO4)3 (LATP) by amodified sol-gel process.
+
+The LATP pellet sintered at 1000 °C has thetotal conductivity as high as (3–4) × 10−4 S cm−1. L. Z. Huang et al.
+
+[14] synthesized Li1.4Al0.4Ti1.6(PO4)3 ceramic powders by a coprecipitation method.
+
+The bulk and total lithium ionic conductivity ofthe sintered pellet at 900 °C for 6 h are 2.19 × 10−3 and1.83 × 10−4 S cm−1.Fu [16] prepared Li1+xAlxTi2-x(PO4)3 using aconventional melt-quenching method and an extremely high value of1.3 × 10−3 S cm−1 was achieved for the calcined sample at a temperature as high as 1450 °C. K. M.Kim prepared [20] Li1+xAlxTi2 − x(PO4)3solid electrolytes by an effective hydrothermal reaction.
+
+The higherionic conductivities (2.56 × 10−4-2.65 × 10−4 S cm−1 at 25 °C) arealso shown for the LATP (x = 0.3) samples sintered at 900–950 °C.
+
+Among the above-mentioned methods, the solid-state reaction suffersfrom forming the secondary phases and the melt-quenching processrequires higher sintering temperature [14].
+
+The sol-gel method andco-precipitation method involve in the complexing agent orcoprecipitator, which results in higher production cost.
+
+Therefore, it ismeaningful to explore a low-cost method for the preparation of LATPsamples.
+
+The solution method is a simple and low-cost method, which has beensuccessfully applied to prepare anhydrous proton conductors [22–24].
+
+Compared with the solid-state reaction and sol-gel method, low temperature is needed for the preparation of inorganic powders, and thus reduces the energy consumption and production cost.
+
+To our knowledge,there were no reports on the preparation of LATP powders using the solution method.
+
+ In this work, the NASICON-type Li1.3Al0.3Ti1.7(PO4)3 powdersand electrolyte pellets were prepared via the simple solution method.
+
+Theeffects of preparation parameters such as excessive Li content, sinteringtemperature and holding time on the electrochemical properties ofLATP electrolytes were investigated.
+
+This study will offer a simple and effective approach to prepare high conductivity LATP electrolytes for allsolid state LIBS.
+
+In this work, the pure LATP solid electrolyte powders with rhombohedral NASICON-type structure were successfully prepared via a novelsolution method.
+
+Then, the dense electrolyte pellets were obtained ata low sintering temperature.
+
+The electrochemical properties of LATPelectrolyte were strongly dependent on the sintering temperature aswell as holding time.
+
+The produced LATP electrolyte sintered at 800 °Cfor 12 h shows the highest total conductivity of 1.21 × 10−3 S cm−1 at25 °C and the lowest activate energy of 0.26 eV, which is attributableto its dense structure.
+
+These results demonstrate that the solutionmethod is an effective approach to prepare high electrical conductivityLATP electrolytes at a lower sintering temperature.
+

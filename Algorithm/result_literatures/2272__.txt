@@ -1,0 +1,164 @@
+Home Search Collections
+
+Journals About Contact us My IOPscience
+
+Line sharpening effect due to PCI in Ar LMM Auger spectra: experimental and theoretical
+
+results
+
+This content has been downloaded from IOPscience. Please scroll down to see the full text.
+
+View the table of contents for this issue, or go to the journal homepage for more
+
+Download details:
+
+IP Address: 155.69.4.4 This content was downloaded on 25/08/2015 at 21:48
+
+Please note that terms and conditions apply.
+
+Line sharpening effect due to PCI in Ar LMM Auger  spectra: experimental and theoretical results 
+
+S Hedman, K Helenelund, L Asplund, U Gelius and K Siegbahn  Institute of  Physics, Box 530, University of  Uppsala, S-751 21 Uppsala, Sweden 
+
+Received 21 July  1982, in final form 20 August 1982 
+
+Abstract.  High-resolution argon LMM Auger spectra excited by electroris at two different  excess  energies  (2750  and  30eV)  above  the  L3 level  in  Ar  are  presented.  Due  to  post-collision interaction  (PCI) the low-energy  excited spectrum reveals a line sharpening  effect  of  the  low-energy  sides  of  the  peaks  which  are  sharper  than  the  corresponding  Lorentzian.  An  extra structure at  the  high-energy  side  of  the  L2M2,3M2,3 (IDz) peak  and  an  edge  at  209eV  are  observed.  These  are  interpreted  to  be  caused  by  electron  shake down  from  the  electron  continuum  to ionic Rydberg  states.  A  new semiclassical  theory  for  PCI  in  photoexcited  Auger  spectra  is  outlined.  The  theory  leads  to  simple  analytical  expressions which reproduce the experimental  Auger  line  shapes both  at low  and at high excess energies. 
+
+In the study of  energy levels in atoms, ions and molecules different excitation processes  are used, e.g. photon, electron or ion excitation.  The subsequent de-excitation of  the  excited states can  take place by  emission of  a charged particle.  This is the case in  Auger decay and in autoionisation.  If  at the time of  such an emission more charged  particles  are  present  besides the  ion  and  the  emitted  particle  these  three  or  more  particles may interact.  This interaction is called post-collision interaction  (PCI). 
+
+In Auger decay the effect of  PCI generally manifests itself as an energy shift as well  as a modified and broadened peak profile.  Since the PCI is dependent on the number  of  charged particles with which the interaction occurs, the PCI in Auger decay will be  dependent  on  the  excitation  process.  The  strength  of  the  interaction  is  inversely  proportional to the distance between the charged particles at the time of  emission of  the Auger electron.  This distance is a function of  the excess energy at the excitation,  El, that is the difference between the excitation energy and the binding energy of  the  core  electron  level  involved  in  the  primary  excitation.  In  photon-excited  Auger  spectra, the shift is a direct function of  the excess energy, while in  electron-excited  spectra there  is  an  additional  dependence  on  how  the  excess energy  is  distributed  between the two electrons.  Even at high excess energies one of  the electrons is likely  to be rather low in energy.  Hence, electron-excited spectra show a more pronounced  PCI effect than photon-excited  spectra at the same excess energy. 
+
+The PCI  process has been  studied  widely, first in ion scattering  experiments  e.g.  by Barker and Berry (1966) and by Gerber et a1 (1972) and later in electron scattering  experiments  by  Smith et a1  (1974), Hicks  et  al  (1974), Spence  (1975), Fryar  and  McConkey (1976) and by Baxter et a1  (1979). 
+
+Recently, PCI has been given a great deal of  attention in Auger decay experiments.  Photoexcited Auger electron studies with synchrotron radiation have been reported  0022-3700/82/220799 + 08$02.00  @ 1982 The Institute of  Physics 
+
+
+by Schmidt et a1  (1977, 1981), Hanashiro et a1  (1979), Bahl et a1  (1979) and Chiang  et a1  (1980). Auger  decay following electron  excitation  has been  studied by  Ohtani  et  a1  (1976), Hink  et  a1  (1979), Suzuki  et  a1  (1979), Huster  (1980), DuBois  and  Rradbro (1980) and Huster and Mehlhorn  (1982). 
+
+Various  theoretical  treatments for  PCI  in  Auger  decay  have  been  presented.  A  semiclassical theory which results in a simple analytical expression for the PCI function  has been  developed by Niehaus  (1977). Based  on the classical Barker-Berry  theory  Huster derived the same analytical expression (Huster 1980). More rigorous quantum  mechanical models which include the PCI effect have been proposed by Nienhuis and  Heideman  (1975), Wendin (1978), Amusia et a1  (1977, 1980), Amusia (1980), Aberg  (1980) and by van der Water et a1  (1981). In autoionisation the 'shake-down'  model  of  King et a1  (1975), Read (1975, 1977) and Read and Comer  (1980) has been  able  to reproduce the complex lineshapes. 
+
+In this letter we report new features in the argon LMM Auger electron spectrum  with electron  excitation  at energies near the L2,3 ionisation  threshold.  These results  are the first reported from a new high-resolution electron spectrometer built in Uppsala  (Gelius et a1  1974, 1982). 
+
+The electron spectrometer contains a number of  excitation sources.  A high-power  monochromatised  x-ray source,  a uv source with  a toroidal grating  and an electron  gun for Auger excitation.  In this study we used  the electron gun to focus an electron  beam  into a carbon-coated  gas cell.  The pressure  in the gas cell was kept  at  about  1 Pa.  Electrons  scattered or emitted  in  a  small  solid  angle  at  105" to the primary  beam are preretarded and focused onto the entrance slit of  the energy analyser using  an electrostatic lens.  The electrons are energy analysed in a hemispherical electrostatic  analyser  with  multichannel  electron  detection  and  recorded  using  a  video  camera  connected to a multiprocessor  computer (Basilier 1980). 
+
+The electron analyser with a radius of  36 cm was operated in a constant-resolution  mode  (20 eV analyser  energy).  The theoretical  resolution of  the analyser  (at 20 eV  analyser  energy  and  0.3 mm  slit  width)  is better  than  0.02 eV.  However,  charging  effects  in  the gas cell  have  limited  the  experimental  resolution  to about 0.06 eV in  this study. 
+
+Calibration  of 
+
+the  Kr M5N2,3N2,3 ('So)  Auger line.  For the energy shift of  the peak position, As, we use  the functional form (Huster and Mehlhorn  1982) 
+
+the  Ar  LMM  PCI  energy  shifts  was  made  against 
+
+where El is the excess energy  and T1 is the natural lifetime of  the primary ionised  state.  c  and a are constants independent of  the element used. 
+
+The energy  difference  between  the Ar L3M2,3M2,3 ('Dz)  line  and  the  Kr  Auger 
+
+line used can thus be written as 
+
+where AEB  is the electron binding energy difference between the Ar L3 level and the  KrM5 level,  i.e.  154.8eV.  A.  denotes the Auger  energy  difference  between  these  lines at infinite excess energy, i.e. with no PCI. 
+
+The constants c, a and A.  were determined by a least-squares fit of  36 experimental  energy differences, A(E?'), with excess energies El for Ar L3 varying between  5  and  4750 eV (Helenelund et a1  1982).  We use rar = 0.12 eV (Nordgren et a1  1979) and  rKr = 0.090 eV (McGuire 1972). The value of  rKr is not critical.  The optimal values 
+
+of  the constants were found to be c = 4.9, a = -0.37  and A.  = 152.16 eV.  Our values  of  c  and  a differ  somewhat  from the values  of  Huster  and  Mehlhorn  (1982) who  obtained c = 5.3 and a = -0.45.  However, their treatment of  the relative shift implies  that the point  at E l  = 1500 eV is given infinite statistical weight,  and their values of  c  and a therefore depend critically on this single point. 
+
+The above value for A.  can be used  to obtain the electron binding energy for the  krypton M5 level.  The Ar L3M2,3M2,3 ('So) nominal Auger  energy, i.e. without  PCI,  can  be  evaluated  from  accurate  optical  data for  Ar  (Nordgren et a1  1979, Bashkin  and  Stoner  1978)  to  203.502eV.  This  value  and  the  value  of  A.  gives  the  Kr M5N2,3N2,3 ('So)  nominal Auger  energy of  51.34 eV.  Combined with optical data  for  the  Kr  Auger  final  state which  lies  42.461 eV  above  the ground  state  (Moore  1949, Minnhagen  et a1  1969), the value of  the Kr M5 level is thus determined  to be  93.80eV.  This value  is  in  excellent  agreement  with  the values  of  Johansson  et  a1  (1973) (93.80 eV) and King et a1  (1977) (93.788 eV). A  more detailed  study of  the  energy  shift  as  a  function  of  the excess  energy  will  be  presented  in  a  forthcoming  work (Helenelund el a1  1982). 
+
+Auger  electron  spectra  from  argon  recorded  at  two  different  electron  impact  energies (3 keV and 280 eV) are shown in figure  1. The upper  spectrum shows that  the  lines  are  asymmetric  due to  the  PCI  effect  even  at  this  high  energy.  This  is  a 
+
+Excess  energy  2750 eV 
+
+Excess  energy  3 0 e V  
+
+Kinetic  energy  ieV) 
+
+Figure  1. Argon  L2,3M2,3M2,3 Auger  spectra, electron  excited  at  two  different  excess  energies.  The prominent  change of  the shape of  the spectra is caused by PCI. 
+
+Letter to the Editor 
+
+consequence  of  the energy distribution  between  the two initial electrons which  is U  shaped, thus having  a  high  probability  for  one electron  to  be  low  in  energy.  The  lower  spectrum  clearly  shows the asymmetry of  the peaks resulting  from  the more  pronounced PCI at this low energy. 
+
+The different shapes  of  the Ar L3M2.3M2,3 (IS,)  peak  at the two different  excess  energies  are shown  in  greater detail  in  figure  2.  A  Voigt  function  is  included  for  comparison.  At high excitation energy the shape is mainly due to Lorentzian lifetime  broadening and  instrumental  broadening,  the asymmetry resulting  from a small  PCI  contribution. 
+
+function 
+
+-Vcigt  --_  . .. . .. . . . . Excess  energy 2750 eV 
+
+Excess  energy  30 eV 
+
+Figure  2.  Argon  L3M2,~M2,31So Auger  peak  at  two  different  excess energies.  A  Voigt  function (I = 0.12 eV and c = 0.06 eV) is included for comparison.  The peaks have been  shifted  so that their peak  positions  coincide.  Note  that  the steep low-energy  side of  the  30 eV excess energy peak is steeper than the Voigt function. 
+
+In  the low-energy  excited  spectrum the peak  is steep on the left  side, which  is  considerably sharper than the Voigt function and even sharper than a Lorentzian with  the natural half  width (rA,). The same effect can also be observed in the other peaks  in  figure  1.  This line  sharpening  effect  on  the low-energy  side of  the peaks  can be  seen as an effect of  ‘time selection’ in PCI. 
+
+Qualitatively,  this  effect  can  be explained  by  a  simple  model.  Auger  electrons  contributing  to the  intensity  on the steep low-energy  side  have  acquired  a  smaller  energy shift from the PCI  interaction than most of  the electrons.  This means that for  these events the Coulomb interaction between the ion and the (two) slow electron(s)  at  the  time  of  the  Auger  decay  was  smaller  than  the  Coulomb  interaction  on  the  average.  In other words,  the slow electron(s) must  have moved  away  an extra  long  distance from the ion when the Auger decay took place.  However, the excess energy  is  the  same  for  all  Auger  transitions.  Hence,  these  Auger  transitions  must  have  occurred after an extra long time, i.e. the corresponding primary ions must have been  extra long lived.  This is also seen from the semiclassha1 theory by Niehaus in which  the PCI energy is directly related to the decay time (Niehaus 1977, Huster 1980). The  decay  time  on  the  steep low-energy  side  is  by  this  theory  found to  vary  typically 
+
+Letter to the Editor 
+
+between  about  10 T~  (at 1% of  the peak intensity)  and 2 TO (near the peak),  being  about 4 T~ at half  the peak height.  T~ is the natural lifetime of  the primary hole state.  It is a well known phenomenon  in physics, and fully in line with the uncertainty  principle, that for extra long-lived states the line width will be smaller than the natural  line width for that state (Denis and DCsesquelles 1979). Therefore, one should expect  that the low-energy side of  the Auger lines actually  are sharper than the Lorentzian  distribution  with  the natural  line width.  By  the same arguments the opposite must  be true for the high-energy side of  the Auger lines.  These PCI effects become strikingly  significant for low excess energies.  It is interesting to note that by the PCI  effect it is  thus in effect possible to make a kind of  time-selective study on a time scale as short  as  10-l'  to  10-l6s which is  a typical  lifetime of  the core hole  states.  The effect of  'time selection' in PCI has been discussed earlier in connection with the sharp structures  observed in autoionisation spectra of  argon by Wilden et a1  (1978).  Line sharpening  in  autoionisation spectra has  also been  commented  on by  Read and Comer  (1980),  Amusia (1980) and by Amusia e l  a1  (1980). 
+
+Previous experimental results on PCI  in Auger spectra have been  compared with  the analytical expressions for the PCI line shape obtained by Niehaus (1977). However,  in  this  context  it has been  noticed  that these  analytical expressions  are incorrect  at  high excess energies since, in the high-energy limit, the Niehaus expressions result in  a delta function instead of  a Lorentz function with the proper natural line width.  To  obtain  agreement with the experimental results for high excess energies the Niehaus  PCI  function  must be convoluted  with  a Lorentzian.  It is then questionable whether  this should not be done for all excess energies in order to treat the theory consistently.  The sharp low-energy edge obtained by the Niehaus expressions at low excess energies  would  then disappear.  Previous  experimental results  did not fully contradict such a  treatment although a somwhat better agreement was found when no convolution with  a Lorentzian was made (Huster 1980, Huster and Mehlhorn  1982). 
+
+The present experimental results indicate than an improved PCI theory is required  to account  for  the  line  sharpening  effect  in  a  proper way.  We  have  developed  an  alternative  semiclassical  model  for  PCI  in  Auger  decay  following  photoionisation  (Helenelund et a1  1982). WKB  wavefunctions are used  to describe the slow receding  electron,  before  and after  the Auger  decay.  The transition  amplitude  can then be  expressed as a one-particle overlap integral.  The new theory describes the line shape  continuously from low to high excess energies.  With this theory the correct steep left  side of  the peaks at low excess energies is well described  and the proper Lorentzian  shape is obtained in the high-energy limit. 
+
+The following expression  is obtained  for the Auger  decay transition  probability, 
+
+P ( E ) ,  including PCI: 
+
+where g(E) = C [ E ~ + ( I ' / ~ ) ~ ] ~ [ ( E ~ + E ) ~ + ~ ~ ] ~ / ~  
+
+and 
+
+In this expression, c  is a constant, z* = E +;iT  and E ,  = 1/S, where S  can be taken to  be the expectation value ( r )  of  the orbital to be ionised. 
+
+I1(z) and 12(z) are given by 
+
+Letter to the Editor 
+
+and 
+
+This theory gives the same energy shift of  the peak position  as the Niehaus theory,  except  for  negative  values  of  the  excess  energy  where  the  Niehaus  theory  has  a  singularity and gives different peak profiles. 
+
+In  figure  3 the experimental  Ar L3M2,3M2,3 (‘So) peak  obtained  at  30 eV excess  energy is compared with a line calculated according to our theory.  The excess energy  of  the theoretical line was chosen to best reproduce the experimental line shape and  was found to be 3 eV.  However,  the theoretical  shift  at this  excess  energy  is  only  0.12 eV whereas the experimental shift is 0.17 eV.  To faciliate the comparison of  the  line shapes the theoretical energy scale in figure 3 was therefore shifted. 
+
+I  1 0   Relative  energy  lev) 
+
+Figure 3.  Comparison between the theoretical and experimental line shapes. The theoreti cal  PCI  function  has  an  excess  energy,  E:’  = 3 eV.  The experimental  electron-excited  peak was obtained at 30 eV excess energy. 
+
+The argument for choosing a smaller excess energy for the theoretical photoexcited  spectrum  is  the  above  mentioned  U-shaped  energy  distribution  between  the  two  electrons  in  the  case  of  electron  excitation.  This causes  the energy  shift  and  peak  profile to be most influenced by the low-energy electron.  On the other hand, account ing for the complete energy distribution by merely selecting a single energy value is  a crude approximation.  Therefore, one can hardly  expect  to obtain  an optimal line  shape and correct energy shift simultaneously. 
+
+The structure at 206.4 eV in the low-energy excited spectrum in figure 1, is probably  due to the one of  the two outgoing electrons which is trapped in a shakedown process  in  a  Rydberg  state.  This  will  give  a  noncontinuous  sharing  of  the  excess  energy  between  the two  electrons  and will  favour certain  energy shifts.  As one electron  is  trapped and the final product is a singly ionised  atom the effect  can  also be seen as  an  autoionising  effect  with  an  excited  final  state.  It  is  probably  not  caused  by  an  interference effect due to coherent mixing of Auger transitions from two closely spaced 
+
+Letter to the Editor 
+
+core hole states as discussed for the MgLzMIMl ('So)  line by  Niehaus  (1977).  The  reason  for  this  is  that  we  observe  a  similar structure  in  the  NeKLL  (IDz) Auger  spectrum where such interference effects cannot occur since there is only one initial  core hole state. 
+
+On the high-energy side of  the spectrum in  figure  1 (at 209eV), we  observe an  edge which we tentatively explain as  an effect of  autoionisation.  This edge becomes  even more pronounced at lower excess energies (Helenelund et al  1982). 
+
+We want to thank Professor Mehlhorn for interesting discussions and communications  during the early course of  this work. 
+
+References 
+
+Aberg T  1980 Phys. Scr. 21 495-502  Amusia M Ya 1980 Appl. Opt. 19 4042-50  Amusia M Ya, Kuchiev M Yu and Sheinerman S A  1980 Coherence and  Correlation  in Atomic  Collisions 
+
+ed H Kleinpoppen and G F Williams (New York: Plenum) pp 297-313 
+
+Amusia M Ya, Kushiev M Yu; Sheinerman S A and Sheftel S I 1977 J. Phys. B: At. Mol. Phys. 10 L535-9  Bahl M K, Watson R L and Irgollic K J 1979 Phys. Rev. Lett. 42 165-8  Barker R B and Berry H W 1966 Phys. Rev. 151 14-9  Bashkin S  and Stoner J 0 Jr  1978 Atomic Energy Levels and  Grotrian Diagrams 2  (Amsterdam: North
+
+Basilier  E  1980 Uppsala University Institute of Physics Report  UUIP-1022  Baxter J A, Comer J, Hicks P J and McConkey J W 1979 J. Phys. B: At. Mol. Phys. 12 2031-41  Chiang T-C, Eastman D E, Himpsel F J, Kaindl G and Aono M  1980 Phys. Rev. Lett. 45 1846-9  Denis A and DCsesquelles J 1979 Phys. Rev. A 21 1602-5  DuBois R and Redbro M 1980 J. Phys. B: A t .  Mol. Phys. 13 3739-44  Fryar J and McConkey J W 1976 J. Phys. B: At. Mol. Phys. 9 619-29  Gelius U, Fellner-Feldegg H, Wannberg B, Nilsson A G, Basilier E and SiegbahnK 1974 Uppsala University 
+
+Institute of Physics Report UUIP-855 
+
+Gelius U et a1  1982 to be published  Gerber G, Morgenstern R and Niehaus A  1972 J. Phys. B: At. Mol. Phys. 5 1396-411  Hanashiro H, Suzuki Y, Sasaki T, Mikuni A, Takayanagi T, Wakiya K, Suzuki H, Danjo A, Hino T and 
+
+Helenelund K, Hedman S, Asplund L, Gelius U and Siegbahn K  1982 Phys. Scr. submitted  Hicks P J, CvejanoviC S, Comer J, Read F H and Sharp J M 1974 Vacuum 24 573-80  Hink W, Schmitt H P and Ebding T 1979 J. Phys. B: A t .  Mol. Phys. 12 L257-9  Huster R 1980 Diplomarbeit Fakultat fur Physik  der Universitat Freiburg  Huster R and Mehlhorn W 1982 2. Phys. A 307 67-73  Johansson  G, Hedman J, Berndtsson A, Klasson  M and Nilsson R  1973 J. Electron Spectrosc.  L295-317  King G C, Read F H and Bradford R C 1975 J. Phys. B: A t .  Mol. Phys. 8 2210-24  King G C, Tronc M, Read F H and Bradford R C 1977 J. Phys. B: A t .  Mol. Phys. 10 2479-95.  McGuire E J 1972 Phys. Rev. A 5 1052-9  Minnhagen L, Strihed H and Petersson B 1969Ark. Phys. 39 471-93  Moore C E 1949 Atomic Energy Levels  NBS Circular No 467, vol  1 (Washington, DC: US Govt Printing 
+
+Niehaus A  1977 J. Phys. B: At. Mol. Phys. 10 1845-57  Nienhuis G and Heideman H G M 1975 J. Phys. B: At. Mol. Phys. 8 2225-32  Nordgren J, Agren H, Nordling C and Siegbahn K 1979 Phys. Scr. 19 5-10  Ohtani S, Nishimura H, Suzuki H and Wakiya K 1976 Phys. Rev. Lett. 36 863-6  Read F H  1975 Radiat. Res. 64 23-36  1977 J. Phys. B: At. Mol. Phys. 10 L207-12  Read F H  and Comer J 1980 Coherence and Correlation in Atomic  Collisions ed H Kleinpoppen and J F 
+
+Williams (New York: Plenum) pp 243-55 
+
+Letter to the Editor 
+
+Schmidt V, Krummacher S ,  Wuilleumier F and Dhez P 1981 Phys. Rev. A 24 1803-11  Schmidt V, Sandner N, Mehlhorn W, Adam M Y and Wuilleumier F 1977 Phys. Rev. Lett. 28 63-6  Smith  A  J, Hicks P J,  Read  F H, CvejanoviC S ,  King G C M,  Comer J  and Sharp J M  1974 J. Phys. B: 
+
+Spence D  1975 Phys. Rev. A 12 2353-60  Suzuki  H,  Muto M,  Takayanagi  T,  Wakiya  K  and  Ohtani  S  1979 Proc.  11th Int.  Conf.  on  Physics  of  Electronic and Atomic Collisions ed N  Oda and K  Takayanagi (Kyoto: Society for Atomic Collision  Research) pp 258-59 
+
+van der Water W, Heideman H G M and Nienhuis G 1981 J. Phys. B: At. Mol. Phys. 14 2935-80  Wendin G 1978 Proc. ofthe Daresbury Meeting on Phofoionisation of Atoms and Molecules ed B D Buckley 

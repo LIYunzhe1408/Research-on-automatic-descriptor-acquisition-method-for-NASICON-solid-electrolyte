@@ -1,0 +1,58 @@
+Crystals  of  the  double  sulfate  CaMg2(SO4)3  have  been  obtained  by  solid-state  reactions  of  stoichiometric  amounts  of  anhydrous  CaSO4  and  MgSO4  in  sealed  and  evacuated  silica  tubes  with  chlorine  gas  as  mineraliser.
+The crystal structure was determined from single crystal X-ray diffractometer data [P63/m, Z = 2,  a  =  8.3072(4),  c  =  7.3057(8)  Å,  R[F2  >  2σ(F2)] =  0.0317,  wR(F2  all)  =  0.0785,  476  structure  factors,  33  variable  parameters]  and  consists  of  distorted  [CaO6]  octahedra  (3  symmetry),  [MgO6]  octahedra  (3  symmetry) and SO4 tetrahedra (m symmetry) as single building units.
+The structure is made up of 1 ∞[CaO6/2]  chains of face-sharing [CaO6] octahedra that extend parallel to [001], alternating with columns of face-sharing  [MgO3/1O3/2]2  dimers.
+Both  types  of  chains  are  linked  via  corner-sharing  with  SO4  tetrahedra  into  a  threedimensional  framework  structure.
+Although  the  compound  crystallizes  in  a  new  structure  type,  it  is  topologically  related  to  the  NaZr2(PO4)3  (Nasicon)  structure,  and  a  comparative  discussion  between  both  structural arrangements is given.
+ In  a  period  of  an  increasing  global  energy  demand,  the  scarcity  of  high-quality  raw  materials  for  energy  production  on  the  basis  of  combustion  methods  forces  the  use  of  lower-quality  material, e.g.brown  coal  or  petroleum coke, which possess a higher sulfur content and thus result in higher SO2 emissions.
+The reduction  of these polluting emissions (acid rain) is statutory for most industrialized countries and the segregation of the  emitted SO2 by flue-gas desulfurazion (FGS) is a well developed method with a precipitator efficiency of more  than 95%.
+Normally, limestone (CaCO3) is applied for this process, but sometimes dolomite (CaMg(CO3)2) is  used instead.
+Besides gypsum (CaSO4·2H2O), the hemihydrate CaSO4·½H2O, anhydrite (CaSO4), MgSO4 or its  various hydrated forms, the double calcium magnesium sulfate CaMg2(SO4)3 (in older studies the composition  of  this  compound  was  reported  to  be  CaMg3(SO4)4 ,  but  more  recent  investigations  revealed  the  correct  composition as CaMg2(SO4)3) is one of the obtained products of the latter process control.
+This material  was  also  found  in  the  ashes  of  coal-fired  powder  plants  or  in  the  hot-gas  filtration  vessels  of  a  pressurizedfluidized  bed  combustion  plant .
+Therefore  a  detailed  knowledge  of  the  formation  conditions  for  CaMg2(SO4)3 and of its crystal structure is desirable, in particular for determination of the relative fraction of  the  various  solid  phases  present  in  FGS  products,  in  ashes  or  in  filter  cakes  by  using  the  Rietveld  method.
+Although the unit cell dimensions of CaMg2(SO4)3 were previously determined from single crystal data are close to those of the present study), its crystal structure has not been reported since.
+In this article the crystal growth via solid/gas-phase reactions and the crystal structure of CaMg2(SO4)3 are  described  and  a  comparative  discussion  with  the  structure  of  the  isoformular  NaZr2(PO4)3  (Nasicon  =  Nasuper-ionic conductor) structure-type is presented.
+Anhydrous CaSO4 and MgSO4 were prepared by dehydration of MgSO4·7H2O  at  700°C  for  one  day.
+Stoichiometric  amounts  of  the  educts  were  mixed  in  the  ratio  CaSO4:  MgSO4  =  1:  2  and  intimately  ground  in  an  agate  mortar.
+The  mixture  was  annealed  with  50  mg  of  PtCl2,  which  acts  as  an  easyly  manageable  source  for  the  mineralising  chlorine  gas  released  at  higher  temperatures, in a sealed and evacuated silica ampoule (∅ 2.5 cm, length ca.9 cm) at 900°C in a conventional  muffle  furnace  for  five  days.
+Besides  few  crystals  of  elemental  platinum,  colourless  translucent  crystals  of  CaMg2(SO4)3 with an unspecific habit and maximal edge lengths of up to 0.5 mm were grown.
+In a parallel  experiment under the same conditions but without addition of PtCl2, only polycrystalline material was obtained  with grain sizes < 1 µm.
+Polycrystalline samples or ground single crystal material were characterized by X-ray  powder  diffraction  (XRPD)  using  a  Philips  X’Pert  Pro  diffractometer.
+Semi-quantitative  analyses  of  the  products  were  carried  out  in  a  scanning  electron  microscope   with  an  EDAX  (energydispersive  analysis  of  X-rays)  attachment.
+They  revealed  an  average  Ca:Mg:S  ratio  of  1.1:1.9:2.9  which  conforms with the results of the X-ray structure refinement.
+The X-ray powder diffraction patterns of the batch  products  (with  and  without  addition  of  the  mineraliser)  were  in  very  good  agreement  with  the  powder  diffraction  file  entry  #19-0241  [6]  (note  that  this  entry  gives  the  wrong  formula  “CaMg3(SO4)4“,  see  also  page 1) and the X-ray powder data given by Smith et al..
+The quality of selected CaMg2(SO4)3 single crystals was checked under a polarizing microscope.
+Diffraction  intensities (Mo K α  radiation, 0.71073 Å) were collected at 22(1)°C in the ω-scan technique with 0.3° rotation  width  and  20  seconds  exposure  time  per  frame  on  a  SMART  three-circle  diffractometer  (Bruker-AXS)  equipped with an APEX CCD camera.
+The measured intensities were corrected for Lorentz and polarization         Matthias Weil: Single crystal growth of CaMg2(SO4)31060    effects,  and  an  absorption  correction  was  applied  using  the  multi-scan  approach  with  the  program  SADABS .
+The  crystal  structure  of  CaMg2(SO4)3  was  solved  by  Direct  Methods  and  refined  with  the  SHELXTL  program  package .
+In  the  final  refinement  cycles,  the  temperature  factors  of  all  atoms  were  refined  anisotropically, and the final difference Fourier maps did not indicate any additional atomic sites.
+Crystal data  of  this  new  structure  were  standardized  with  the  program  STRUCTURE-TIDY .
+Details  of  the  data  collection and refinement are summarized in table 1, atomic parameters and isotropic displacement parameters  are  given  in  table  2,  and  selected  distances  and  angles  as  well  as  bond-valence  calculations  for  the  individual atoms, as calculated with the parameters of Brese and O’Keeffe , are listed in table 3. Further  details of the crystal structure investigation may be obtained from Fachinformationszentrum Karlsruhe, 76344  Eggenstein-Leopoldshafen, Germany, e-mail: crysdata@fiz-karlsruhe.
+de, on quoting the CSD number listed at  the end of table 1. 
+Drawings of structural details were produced using the program ATOMS .
+ The  structure  refinement  confirms  the  assumed  formula  CaMg2(SO4)3 .
+The  crystal  structure  of  this  compound is made up of distorted [CaO6] octahedra (3 symmetry), [MgO6] octahedra (3 symmetry) and SO4  tetrahedra  (m  symmetry)  as  single  building  units.
+The  [CaO6]  octahedra  share  opposite  faces  resulting  in  1 z].
+Parallel to these chains, columns of [MgO3/1O3/2]2 dimers built of  ∞[CaO6/2] chains that extend along [0 0  z] so that empty trigonal prisms of oxygen atoms  two face-sharing [MgO6] octahedra are stacked along [⅓ ⅔  are formed between the dimers.
+Both types of chains share corners with the oxygen atoms of the SO4 tetrahedra  to establish a three-dimensional framework (Fig.1, left).
+The oxygen atoms have coordination numbers of 2  and 3. 
+O1 is coordinated to one S and to one Mg atom, O2 has two Ca atoms and one neighbouring S atom,  whereas  O3  is  coordinated  to  two  Mg  and  one  S  atom.
+The  Ca−O,  Mg−O  and  S−O  bond  lengths  are  in  the  typical ranges (Table 3), and the sums of the ionic radii  compare well with the observed average distances:  Ca−O 2.35 versus 2.369 Å, Mg−O 2.07 versus 2.072 Å and S−O 1.47 versus 1.459 Å.
+Likewise, the results of  the bond-valence calculations (Table 3) are in agreement with the expected values of 2 for Ca, Mg and O, and  of 6 for S .
+
+Comparison  of  the  crystal  structure  of  CaMg2(SO4)3  with  that  of  the  isoformular  (both  compounds  have  the  general  formula  AB2(CX4)3)  NaZr2(PO4)3  (Nasicon)  reveals  a  topological  relationship.
+The linkage of the single  building units of NaZr2(PO4)3,  viz.
+distorted [NaO6] octahedra (3 symmetry), [ZrO6] octahedra (3 symmetry)  and PO4 tetrahedra (2 symmetry), is very similar to that of the double sulfate.
+Columns of condensed [MO6]  polyhedra (M = Na, Zr) extend along [0 0  z] and are linked via corner sharing with XO4 tetrahedra  (X = P) into a three-dimensional framework, see figure 1 (right).
+The chief difference between both structures  pertains to the setup of the metal-oxide chains.
+Whereas in CaMg2(SO4)3 two types of chains are present, viz.
+1 ∞[CaO6/2] chains and columns of [MgO3/1O3/2]2 dimers (Fig.
+2, left), in NaZr2(PO4)3 only one type is realized z] and [⅓ ⅔           Matthias Weil: Single crystal growth of CaMg2(SO4)31062    with one [NaO6] and two capping and face-sharing [ZrO6] octahedra.
+In analogy with the [MgO3/1O3/2]2 dimers  in  CaMg2(SO4)3,  the  resulting  [(ZrO3/1O3/2)(NaO6/2)(ZrO3/2O3/1)]  units  are  stacked  under  formation  of  empty  trigonal  prisms  of  oxygen  atoms  (Fig.
+2,  right).
+Another  resemblance  between  both  structures  concerns  the  comparatively large temperature factors of the metal atoms that are located at the sites with 3 symmetry, viz.
+In  case  of  the  NaZr2(PO4)3  structure,  this  behaviour  is  correlated  with the high Na+-cation conductor properties.
+Corresponding temperature-dependent conductivity and  X-ray diffraction measurements of CaMg2(SO4)3 have not yet been made, but are planned for the future.
+The  large temperature factor of Ca might, however, also be caused by a partial occupation of the respective site or  by an unrecognized superstructure.
+Therefore refinements with a free site occupation factorof the Ca  site  and  long-exposure  X-ray  measurements  of  single  crystals  and  of  powders  were  performed.
+The  freely  refined s.o.f.showed full occupancy of the Ca site within the twofold standard deviation, and long-exposure  measurements did not reveal any superstructure reflections, indicating that the presented model is essentially  correct.
+

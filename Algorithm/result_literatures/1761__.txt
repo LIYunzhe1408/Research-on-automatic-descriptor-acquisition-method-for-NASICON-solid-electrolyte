@@ -1,0 +1,35 @@
+Structural sites occupied by lithium in the rhombohedral LiTi2-xZrx(PO4)3 series (0 e x e 2) have beeninvestigated by 7Li NMR spectroscopy.
+At room temperature, the XRD patterns of the end-members of theseries display rhombohedral R3hc symmetry in LiTi2(PO4)3 and triclinic C1h in LiZr2(PO4)3.
+ In the first compound,Li ions occupy M1 sites; however, in the second one Li occupy intermediate M1/2 sites.
+As the temperatureincreases, a first-order displacive transformation is detected in the triclinic phase, but a second-order/disordertransition is detected in the rhombohedral phase.
+From the temperature dependence of the 7Li NMR quadrupoleconstant (CQ) of the two compounds, the evolution of M1 and M1/2 sites occupancy in the Nasicon conductionnetwork has been deduced.
+At high temperatures, analyzed phases tend toward a disordered rhombohedralphase, in which both M1 and M1/2 sites are equally populated and in which lithium mobility is favored by theexistence of vacant M1 sites.
+According to this study, this phase can also be obtained by substituting Ti byZr in the LiTi2-xZrx(PO4)3 series.
+Interest in lithium ion conducting solids has considerablyincreased because of their potential application as electrolytesin rechargeable lithium batteries.
+LiMIV2(PO4)3 compounds withNASICON1 structure (acronym for Na SuperIonic Conductors)have been extensively studied for their good ionic conductivity.
+In these compounds, structure is formed by M2(PO4)3 units inwhich each MO6 octahedron shares corners with six PO4tetrahedra and each tetrahedron shares oxygens with fouroctahedra (Figure 1a).
+The ideal framework displays therhombohedral symmetry (space group R3hc), but in someparticular cases a triclinic distortion (space group C1h) has beendetected.
+
+The progressive increase of the c/a ratio produces the splitting of (104) and (110) peaks near 20°, and that of the (214) and(300) peaks near 36.5°.
+Unit cell parameters deduced from thesepatterns are given in Table 1. In the case of the sample x ) 2,only the XRD pattern of the rhombohedral phase, recorded at70 °C, has been considered.
+7Li NMR (I ) 3/2) spectra of the LiR2(PO4)3 samples areformed by a central (-1/2,1/2) and two satellite (-3/2,-1/2and 1/2,3/2) transitions.
+14 In previous works, quadrupoleconstants (CQ and è parameters) of lithium located at M1 andM1/2 sites were deduced in LiMIV2(PO4)3 compounds.
+
+The variations of CQvalues of LiTi2(PO4)3 and LiZr2(PO4)3 are given in Figure 3a.
+For sake of comparison, CQ values measured in isostructuralLiGe2(PO4)3 and LiHf2(PO4)3 phases are also included.
+Intriclinic LiZr2(PO4)3 and LiHf2(PO4)3 phases, CQ and è valuesare more important (180 kHz, 0.6), indicating that sites occupiedby Li display lower symmetry.
+
+In the rhombohedral LiTi2-xZrx(PO4)3 series,quadrupole CQ constants measured at room temperature increasefrom 40 to 120 kHz as the Zr content increases (Figure 3b).
+Insamples with x > 1.5, quadrupole constants measured at roomtemperature are near those measured at 340 K in the rhombohedralLiZr2(PO4)3 phase.
+
+A similar effectcan be obtained by substitution of Ti by Zr in LiTi2-xZrx(PO4)3series.
+In these samples, unit cell expansion associated with Zrincorporation favors the progressive occupation of M1/2 at theexpense of M1 sites.
+Along this series, Li mobility increasesand activation energy Ea decreases from 0.46 to 0.3 eV2. 
+Thestabilization of the rhombohedral phase in Zr-doped sampleseliminates problems derived from stresses produced at thetriclinic-rhombohedral transition and enlarges the electrochemicalwindow (lower reducibility of Zr) of experimental devices.
+Li sites and lithium mobility in LiTi2-xZrx(PO4)3 series havebeen analyzed with 7Li NMR spectroscopy.
+From the analysisof quadrupole constants of end members of the series, the preferential occupation of M1 sites in rhombohedral and that ofM1/2 sites in triclinic phases were deduced.
+The analysis of the temperature dependence of CQ valuesshowed the progressive occupation of midway M1/2 sites at theexpense of M1 sites when the temperature increases in therhombohedral LiTi2(PO4)3 sample.
+The opposite effect wasdetected in triclinic LiZr2(PO4)3 samples, where M1/2 sites arepreferentially occupied at low temperatures.
+Above the triclinicrhombohedraltransition, a full delocation of lithium on M1 andM1/2 sites was detected.
+In the case of LiTi2-xZrx(PO4)3 series,a similar effect is produced when Ti is substituted by larger Zrcations.
+The stabilization of the rhombohedral phase in Zr-dopedsamples eliminates problems derived from stresses produced atthe triclinic-rhombohedral transition and enlarges the electrochemicalwindow (lower reducibility of Zr) of experimentaldevices.

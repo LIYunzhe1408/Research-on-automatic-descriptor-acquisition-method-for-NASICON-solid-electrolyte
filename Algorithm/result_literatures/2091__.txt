@@ -1,0 +1,56 @@
+The detection of CO2 gas at several temperatures using NASICON as a solid electrolyte interacting with Na2CO3 or Na2CO3–BaCO3 mixtures has been demonstrated previously. Further work has shown that although the detection of CO2 is possible, with a pseudo-Nernstian response, the values of the slope and the constant in the emf versus logPCO2 equation were not always the same as those expected by the theory. The results also suggest that the presence of oxygen in the gas mixture may affect the response of the sensor. Other effects, as the decomposition of Na2CO3 and the formation of Na2O in the surface of NASICON should also be considered. # 2000 Published by Elsevier Science B.V.
+
+The CO2 sensor is based upon the solid electrolyte NASICON (three-dimensional Na 135) conductor) combined with a phase containing Na2CO3 (Fig. 1). NASICON is afamily of
+
+1 135)xZr2SixP3 255)xO12 where 0 < x < 3. But the maximum conductivity is achieved at x  25) 2. The active auxiliary reference may be Na2CO3 or Na2CO3–BaCO3 mixture. The eutectic point composition of this mixture has been proposed by [1–3] to minimise the effect of the humidity and to impede the decomposition of Na2CO3 during the experiments.
+
+The external coat (Au or Au–Pd) allows O2 to go through, but not other more complex molecular gases such as CO2. When the sensor is exposed to a ﬂow of gas containing CO2, a difference of potential is then created, and it can be measured. The reactions that take place in this system are considered to be
+
+Both electrodes are exposed to the same test gas. It is important to note that the O2 is not present in the overall reaction, but occurs in the two electrode reactions, and cancels out.
+
+Then, if a difference of potential is measured at different concentrations of CO2, and these values are plotted as a , a straight line with a slope equal to function of log PCO2  255)2.303RT/nF is expected.
+
+NASICON was prepared from 158.93 g of Na2CO3, 120.14 g of SiO2, 246.40 g of ZrO2 and 115.00 g of NH4HPO4. To calcinate this powder the furnace was programmed as follows  15) 108C/min until 443 K  15) 12 h at 443 K  15) 38C/min until 1423 K  15) 5 h at 1423 K  15) 108C/min until 373 K
+
+In hydrostatic chamber was used in order to prepare sensors with a length of 25 mm, an external diameter of 6.2 mm and an internal diameter of 3.2 mm. The tubes were pressed at 1200 bars for 6 s.
+
+The active auxiliary references used in these experiments are compounds sensitive to CO2. They were introduced inside the sensor at the same time as the internal electrode (the platinum wire), and were melted to achieve a total
+
+The external electrodes (Au and Au–Pd coats) were prepared using S150 Sputter Coater (Edwards) under vaccum for 20 min, then a platinum wire was put around the sensor and attached with the platinum ink.
+
+A scheme of the apparatus used to calibrate the sensors is shown in Fig. 2. Two tubes of alumina were used to put the platinum leads inside protecting against short-circuits. These tubes went through a rubber bung placed in one of the furnace holes. The leads were connected to a voltmeter. At both ends of the furnace a rubber bung with a hole to permit the entrance and the exit of gases was provided. In all the cases the sensor was heated without gas ﬂow at the right temperature for 45 min. Then a ﬂow of 1.3 l min 255)1 of diluent gas was introduced into the furnace during approximately 20 min to achieve the equilibrium in the sensor; and different concentrations of CO2 were introduced into the system using a 850 series gas blender.
+
+The sensors were tested at 773, 873 and 973 K, at varying concentrations of CO2 in the ranges 1 ppm–1% and 1–99%. Oxygen concentration was not maintained at a constant level but allowed to ﬂuctuate to make up the total gas mixtures and was dependent upon the CO2 concentration as well as the nature of the diluent used.
+
+Experimental results at 873 K are shown in Fig. 3. In almost all the experiments a pseudo-Nernstian response of the sensors is obtained when different concentrations of CO2 are introduced in the system. The Table 1 summarises the results obtained in the experiments under the conditions in which the sensor produces steady potentials. The emf is expressed as
+
+Only in one case (Au–Pd, BaCO3–Na2CO3 (2), argon, 873 K) the experimental slope is signiﬁcantly near the theoretical slope, but straight the emf with the logarithm of partial pressure of CO2 are clearly obtained in all the other cases. Since the response is pseudo-Nernstian, correction factors must be applied to the slope: E  136) constant  255) factor  2) 2:303RT
+
+The presence of oxygen seems to affect the response of the sensor, even if it does not appear in the overall reaction. A first approach showed that the oxygen would not affect the response of the sensor as a partial pressure inside the logarithm in any simple way. So a correction factor may be introduced in the experimental slope to quantify the difference between the results and the theory.
+
+Seemingly this factor depends on the range of CO2, as well. The dependence of this correction factor with the oxygen and the CO2 can be transduced in different mechanisms of reaction at the different experimental conditions (Fig. 4, Table 2).
+
+When the sensors were tested using a range of CO2 of 0–1%, two different behaviours of the emf at different levels of CO2 were observed (Fig. 5).
+
+In general, when sensors coated with gold were used, the external electrode disappeared with time and the sensors cannot function properly.
+
+If the experiments using Au–Pd coat as an external electrode and Na2CO3 as an active reference are considered, the following calculations can be done:
+
+Fig. 5. Au–Pd coated sensor. Active reference: Na2CO3. Test of low concentrations of CO2 diluted in argon at 973 K.
+
+One of the problems found during the experiments consisted in the variable partial pressure of O2 in the system when air was used as a diluent. Even if the dependence of the ratio with the concentrations of CO2 and O2 is clear, this function could not be quantitatively deduced. More work needs to be done to ﬁnd the complete behaviour of the factor and a physical explanation for this phenomenon. In further experiments a constant partial pressure of O2 will be used. Other way of considering these differences could be the supposition that other mechanisms of reaction are occurring in the three cases.
+
+For the sensors using mixtures of Na2CO3–BaCO3 as a reference the Nernstian response was only found at 873 K, even if the values of the slopes are the closest to the theoretical value, especially for the sensor with auxiliary reference with melting point 1023 K. The problem with this type of sensor is that its range of working temperatures is
+
+very small when compared with the sensors containing Na2CO3, but on the other hand its response is more reproducible.
+
+The inherent instability of pure Na2CO3 in contact with NASICON cannot be overcome, however, the use of Na2CO3 within solid solutions whereby its stability is greatly enhanced, and the use of lower temperatures kinethe decomposition of Na2CO3 may help tically inhibit improve the reproductibility under different gas compositions of CO2 and O2, while the response time may be slower.
+
+instead of NASICON as the electrolyte. Saito et al. [5] , reported that although emfs are proportional to log PCO2 they are a function of Na2O/Al2O3 ratio in the b00-alumina. At ratios of Na2O=Al2O3  21) 1=5, the emfs with b00-alumina were higher than with NASICON, indicating aNa2O in b00alumina were lower than aNa2O in NASICON which should promote the instability of Na2CO3 in contact with b00alumina. Chu et al. [3] reported that with both b00-alumina and NASICON, the experimental slopes did not correspond graphs. to the calculated slope in the emf versus log PCO2 Although they did not specify the composition of Nab00alumina, they speculated on the possibility of formation of Na2O or Na2O2 which can modify the number of electrons in the reaction from two to four. In the case of mixed potentials the number of electrons may lie between 2 and 4, as in the fact observed in this work (Table 2). According to a recent work by Vandecruys et al. [6] on the aNa2O in Nab-alumina system, they reported that aNa2O varied from 3  2) 10 255)11 to 1:6  2) 10 255)13 composition varied from Na2O 1)5.5Al2O3 to Na2O 1)9Al2O3, these values being higher than aNa2O in NASICON at 923 K (3 2)10–15). Therefore, the use of Na2O 1)5.5Al2O3 may result in greater stability of the interface.
+
+In general, the sensors used in this project clearly respond to CO2. Unfortunately, a successful overall calibration has not been possible, and in consequence the measurements taken with these sensors will not be reliable. However, the results obtained in this project suggest the consideration of new variables to obtain a coherent solution.
+
+The formation of Na2O in the external faces of NASICON may produce a new phase in the system, and the conductivity of Na 135) can change. This new phase can provoke other mechanisms of reaction still not understood. It may be useful to investigate sensors using Nab-alumina with high concentrations of Na2O so that Na2CO3 is stable at the interface.
+
+The limit of detection of CO2 changes with the concentration of O2 in the system and with the temperature. Because the dependence of the ratio on both O2 and CO2 is still not clear, further experiments must be carried out. It is envisaged that use of fuzzy logic with neural properties can help identify the calibration procedures, which will be carried out in further work.
+

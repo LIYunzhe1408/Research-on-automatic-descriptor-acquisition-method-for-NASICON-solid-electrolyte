@@ -1,0 +1,10 @@
+An electrochemical cell was developed for operando soft X-ray absorption spectroscopic (XAS) study of an all-solidstatelithium-ion battery.
+Operando XAS experiments were performed for a battery using LiMn2O4 as a cathodematerial and a NASICON-type lithium conductive glass ceramic sheet (LICGC) as a solid electrolyte.
+O K-edge, MnL-edge and Ti L-edge XAS spectra were taken during the charging process up to 2.2V.
+Detailed analysis of the XASspectra revealed that the valence change from Mn3+ to Mn4+ occurred during charge with simultaneous change inthe spectrum of O K-pre-edge region.
+Ti L-edge spectra revealed a partial change from Ti4+ to Ti3+ in the LICGC atthe anode side, indicating a rather dispersed anode formation.
+We performed operando soft XAS exepriments for the lithiumion battery using LICGC as a solid electrolyte and LiMn2O4 as acathode.
+O K-edge and Mn L-edge XAS spectra obtained duringcharge revealed that the increase in the O K-pre-edge peak intensityis concomitant with the oxidation of Mn ion.
+Ti L-edge spectra fromself-formed anode could also be observed which indicated a partialreduction from Ti4+ to Ti3+.
+The self-formed anode in LICGC wasnot concentrated in the electrolyte/collector interphase, but ratherdiffused in LICGC.
+The present experiment demonstrated thepotential of operando soft XAS measurements for detailed analysesof all-solid-state batteries.

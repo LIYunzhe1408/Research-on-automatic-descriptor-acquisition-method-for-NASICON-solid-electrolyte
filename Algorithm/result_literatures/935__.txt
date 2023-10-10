@@ -1,0 +1,88 @@
+Ca0.5Zr2(PO4)3 and Ca0.45Eu0.05Zr2(PO4)3 nanophosphors have been synthesized by a sol–gelprocess under acid and basic conditions.
+
+In order to achieve the reduction of Eu3+ to Eu2+,europium-doped samples were treated in a reducing atmosphere flow.
+
+The effects of thedifferent synthesis conditions and the partial substitution of calcium by europium ions onthe structure of the samples were analyzed by x-ray diffraction (XRD) transmission electronmicroscopy (TEM) and micro-Raman spectroscopy.
+
+Luminescence and magnetic propertieswere investigated by photoluminescence (PL) spectroscopy and magnetic susceptibilitymeasurements.
+
+XRD patterns can be indexed to a rhombohedral symmetry of space groupR-3 with Z = 6, consistent with a NASICON-type structure.
+
+A higher crystallinity was foundin the samples prepared under basic conditions.
+
+TEM images of all the synthesized samplesshow spherically shaped particles.
+
+A broadening of the Raman bands as a result of nonequivalent vibrations of the orthophosphate groups is observed for samples prepared underacid conditions.
+
+The same effect was found when calcium is substituted by europium into theCa0.5Zr2(PO4)3 host.
+
+PL spectra exhibit strong emission in the blue-green spectral range dueto Eu2+ 4f65d1-4f7transitions and no evidence of Eu3+ emission.
+
+Magnetic measurementsconfirm the 2+ oxidation state of europium ions in all samples.
+
+The synthesis of luminescent materials with a suitable excitation range, high quantum yield, chemical stability and lowthermal quenching is an increasingly active research field.
+
+This interest mainly arises from the problem of global energydemand.
+
+Solid-state lighting (SSL) based on rare earths havebecome a promising alternative to conventional incandescentand fluorescent lamps for illumination [1–4].
+
+These materialsoffer a high light output with low energy consumption [5,6].
+
+Currently, the development of this technology is focusedtoward phosphors exhibiting desirable color emission of highefficiency under UV excitation [7].
+
+Over the years, obtainingwhite light based on the combination of different phosphorsemitting in the red, green and blue ranges of the visible spectrum has been a challenging task [8, 9].
+
+Phosphors emitting inthe red and green ranges of the visible spectrum are rather wellknown, while those providing blue emission have been investigated to a lesser extent.
+
+Some studies have determined thatunder UV excitation the emission spectrum of Eu2+ cations iscentered in the blue range of the visible spectrum.
+
+This emission is generally attributed to 4f65d1-4f7electronic transitions.
+
+However, it has also been reported that, depending on the hostand the environment of the Eu2+ cations, the emission can bemodified to greenish or purplish [10–12].
+
+In this regard, recentstudies have been focused on the study of the optical properties of different materials such as (Ca/Sr/Ba)2SiO4: Eu2+,CsMBr3: Eu2+ (with M = Mg, Ca, Sr) or CaAl2O4: Eu2+,Nd3+ [13–15].
+
+M0.5Zr2(PO4)3 orthophosphates with M = Ca2+, Sr2+ andBa2+, crystallize in a NASICON-type structure [7, 16].
+
+Dueto the versatility of this matrix, these compounds have beenwidely investigated as ionic conductors [17], low thermalexpansion ceramics [18] or luminescent materials [19].
+
+Infact, alkaline earth metals phosphates doped with Eu2+ arealso studied because of their interesting luminescence emission based on M2+ replacement by Eu2+ cations [16].
+
+Inthese cases, a partial inhibition of the luminescence emission or quenching occurs, which has been attributed to aslight displacement between the ground and excited states[7].
+
+When this gap is reduced, it is possible to obtain highefficiency luminescent phosphors useful for laser devices andoptical materials under UV excitation [20].
+
+As it is also thecase for other stoichiometries, the final optical properties ofEu2+-doped M0.5−xEuxZr2(PO4)3 phosphors will depend onthe size and shape [21, 22] of their constituent particles [23].
+
+Traditional methods such as solid state reactions [16] or coprecipitation techniques [7] have been described in order toobtain M0.5−xEuxZr2(PO4)3 as single phases.
+
+However, thedevelopment of new sol-gel processes currently enables thesynthesis of samples with more uniform morphologies andmuch smaller particle sizes.
+
+Such processes have been alreadytested for the synthesis of compounds with similar stoichiometries but doped with cations other than Eu2+ [24].
+
+In thepresent work, we describe the synthesis of Ca0.5Zr2(PO4)3 andCa0.45Eu0.05Zr2(PO4)3 samples by a sol-gel process under acidand basic conditions.
+
+The effects of different synthesis conditions and the partial substitution of calcium by europium ionson the spectral distribution and intensity of the photoluminescence (PL) emission have been assessed.
+
+These luminescenceproperties have been correlated with the morphology, crystalstructure, optical and magnetic properties of the synthesizedsamples.
+
+Ca0.5Zr2(PO4)3 and Ca0.45Eu0.05Zr2(PO4)3 nanopowders weresynthesized by a sol-gel method under acid and basic conditions.
+
+In order to achieve the complete reduction of Eu3+ toEu2+, Eu-doped samples were prepared in a reducing atmosphere following two different treatments.
+
+In general, XRDpatterns of the synthesized samples reveal the formation ofsingle crystalline phases with NASICON-type structure.
+
+Ahigher crystallinity is observed in samples obtained at basicpH.
+
+TEM micrographs of the nanopowders show sphericalparticles in different degrees of agglomeration.
+
+Partial substitution of calcium by europium causes a slight structural distortion, evidenced by a broadening of the Raman peaks as aresult of non-equivalency vibrations of phosphate groups.
+
+PLspectra exhibit a strong emission in the blue–green region ofthe visible spectrum due to Eu2+ 4f65d1-4f7transitions and noevidence of Eu3+ emission.
+
+Magnetic measurements confirmthe 2+ oxidation state of europium ions in these samples.
+
+Inthe present work, we describe the synthesis of Ca0.5Zr2(PO4)3and Ca0.45Eu0.05Zr2(PO4)3 samples by a sol-gel process underacid and basic conditions.
+
+The effects of the different synthesisconditions and the partial substitution of calcium by europiumions on the morphology, crystal structure, optical and magnetic properties of the samples have been investigated.
+

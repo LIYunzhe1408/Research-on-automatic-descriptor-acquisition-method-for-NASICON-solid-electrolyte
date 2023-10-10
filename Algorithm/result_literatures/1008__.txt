@@ -1,0 +1,391 @@
+NASICON-Structured NaSn2(PO4)3 with Excellent Highrate Properties as Anode Material for Lithium Ion Batteries.
+
+Advanced  Li-ion  batteries  with  high  rate  properties  are  highly  demanded  and  have 
+generated  much  attention  in  the  research  community.  Here,  we  present  a  simple  sol-gel and solid-state reaction to synthesize NASICON-structured NaSn2(PO4)3 as anode material for lithium ion batteries. The obtained material exhibits excellent cycling performance and high rate capacity for  half  cell  and  LiFePO4/NaSn2(PO4)3  full  cell.  Cyclic  voltammograms  (CV)  and  galvanostatic intermittent titration technique (GITT) were used to analyze the kinetics and thermodynamics of the electrode. Morphology and structure evolution of the NaSn2(PO4)3 electrode after cycling were explored  by  transmission  electron  microscopy  (TEM).  These  results  showed  nanoscale  Sn  was uniformly dispersed in the lithium phosphate matrix during the first discharge. It is proposed that the  enhanced  properties  are  attributed  to  the  “in-situ”  formation  of  the  ionic  conductor  as protective  matrices,  which  prevents  the  aggregation  of  nanoparticles  during  the  cycling  and provides Li+ diffusion channels in the electrode for fast electrochemical reaction. 
+
+
+High  capacity  lithium  alloy  anodes  (such  as  Sn,  Ge)  have  been  considered  as  a  promising alternative to graphite as the anode materials for lithium-ion batteries (LIBs) owing to their high theoretical  capacity,  more  than  twice  of  graphite  (372  mAh  g-1).1  However,  the  commercial application  of  those  materials  is  limited  by  their  rapid  capacity  fading  due  to  the  large  volume change  during  the  charge-discharge  process.  Extensive  efforts  have  been  made  to  improve  the cycling performance of Sn-based electrode materials, including synthesizing nanoscale materials or  micro/nanostructure  composites,2-5  designing  active-inactive  composites,6-8  such  as  Sn-based oxides  (SnO,  SnO2)9-11  and  Sn-M′  alloy  (M′=Co,  Mn,  Cu,  Ni,  etc.)12-17.  The  introduction  of  an inactive  matrix  as  a buffer  layer  is  expected  to  help  the  cyclability  of  the  compounds.  An  ideal matrix  should  allow  rapid  transportation  of  Li  ion  and  have  a  stable  structure  to  hinder  the aggregation of active nanoparticles. Carbon, due to its high electronic conductivity, is considered as  one  of  the  most  commonly  used  matrix  or  coating  layer  to  buffer  the  huge  expansion  of  Sn anode.11,  18-20  Unfortunately,  carbon-based  matrix  is  impermeable  to  lithium  ions,  which  is detrimental to the Li+  diffusion during the charge-discharge process. Compared to pure metallic Sn, Sn-based oxides shows an enhanced stability because nanoscale Li2O as an inorganic matrix formed during the first discharging process preserves the active particles’ structural integrity. 21, 22 The  ionic  conductivity  of  Li3PO4  (8.62  ×  10-8  S  cm-1)  is  higher  than  that  of  Li2O.  Sn-based phosphates  exhibit  superior  electrochemical  properties  compared  to  the  counterpart  of  oxide, because the nanosized Li3PO4, in-situ formed during the first discharge process, provides abetter matrix compared to Li2O.23-27 Sn, as a metallic element, has a high electronic conductivity of 15.1 Scm-1.  Improving  the  ability  of  Li+  transportation  is  the  critical  issue  for  the  cyclability  of Lithium  phosphate,  a  Li+  conductor,  is  often  regarded  as  a  potential  candidate  for  solid  state electrolyte  due  to  its  high  ionic  conductivity.  Moreover,  Na  substituted  Li3PO4  materials (Li3-xNaxPO4)  shows  an  improved  ionic  conductivity  of  6.5×  10-5 S  cm-1  at  room  temperature, which  is  higher  than  the  value  of  Li3PO4  by  2  orders  of  magnitude.28,  29  Therefore,  lithium phosphate is expected to serve as an appropriate matrix to improve the Li+ ionic permeability of electrodes. NaSn2(PO4)3 has a three-dimensional framework in which alkali metal ions can easily diffuse through well-defined ion channels. The ionic conductivity was about 1.5 × 10-5 S cm-1 at 25 ℃.30 In this work, NaSn2(PO4)3 for the first time was used as electrochemical active material for LIBs. During the initial insertion of Li, “in-situ” formation of nano-sized Sn was dispersed in the  ionic  conductor  of  lithium  phosphate  matrix,  which  prevents  the  aggregation  of  metallic  Sn nanoparticles  during  the  cycling.  Ionic  conductive  matrix  is  desirable  to  provide  a  fast  Li+ diffusion in electrode for electrochemical reaction, thus exhibiting excellent cycling performance and high-rate capacity. 
+
+
+The  NASICON  structured  NaSn2(PO4)3  was  synthesized  by  a  sol-gel  process  and  followed  by 
+
+solid-state  reaction.  Typically,  4  mmol  SnCl2,  1  mmol  Na2CO3,  6  mmol  NH4H2PO4,  were 
+
+sequentially  added  to  100  mL  of  0.02  M  aqueous  citric  acid  solution  while  the  solution  was 
+
+continuously stirred. Then, water was evaporated at 80 °C to transform the solution from sol to gel. 
+
+After the transformation, the  gel was dried in an oven at 70 °C for 1 day. Once the  gel became 
+
+completely dry, the gel was heat-treated at 350 °C for 5 hrs under nitrogen atmosphere to remove 
+
+CO2,  H2O,  and  NH3.  Afterward,  the  compound  was  grounded  once  again  in  a  mortar  to  ensure 
+
+uniform  mixing  between  precursors.  Finally,  the  powder  was  annealed  at  700  °C  under 
+
+atmosphere for 12 hrs to produce the final compound. 
+
+X-ray  diffraction  (XRD)  patterns  of  the  as  prepared  samples  were  collected  on  a  Bruker  D8 
+
+diffractometer using Cu Kα radiation. The morphology of the materials was observed by Hitachi 
+
+S-4800  field  emission  scanning  electron  microscope  (FE-SEM).High  resolution  transmission 
+
+electron  microscope  (HRTEM)  images  were  taken  on  a  JEOLJEM-2010F  microscope  (JEOL, 
+
+Japan)  at  an  acceleration  voltage  of  200kV.  Raman  spectra  were  recorded  at  room  temperature 
+
+using a Thermo Scientific DXRxi system with excitation from an Ar laser at 532 nm. 
+
+Electrochemical  characterization  of  the  sample  was  carried  out  using  coin  cells.  The 
+
+NaSn2(PO4)3electrode was prepared by coating a mixture of 80 wt.% NaSn2(PO4)3,10 wt.% PVDF 
+
+and 10 wt.% Super P onto Cu current collector. The LiFePO4 electrode was prepared by coating a 
+
+mixture of 80 wt.% NaSn2(PO4)3, 10 wt.% PVDF and 10 wt.% Super P onto Al current collector. 
+
+All assembly of cells  was carried out in an argon-filled glove box. The charge/discharge, C-rate 
+
+capacity  and  cycling  ability  of  cells  were  recorded  on  a  LAND  battery  test  system.  GITT 
+
+experiment was performed by charging/discharging the cell for 1 h at a current density of 50 mA 
+
+g-1 and relaxing for 4 hrs to reach a quasi-equilibrium state and then repeating this process until 
+
+the voltage limitation was reached. 
+
+
+The structure and morphology of NaSn2(PO4)3 were characterized by XRD and SEM. Figure 1a 
+
+presents the XRD pattern of the as-synthesized NaSn2(PO4)3, which is well-indexed to the R-3C 
+
+space group under the rhombohedral lattice with a = b = 8.507 Å and c = 22.467 Å. No impurity 
+
+phase was detected, implying that the as-prepared sample is a pure-phase material. The sharp peak 
+
+intensity indicates the good crystallinity. The inset of Figure1a demonstrates the crystal structure 
+
+diagram  of  rhombohedral  NaSn2(PO4)3,  which  is  built  up  from  isolated  [SnO6]4 octahedral  and 
+
+[PO4]3tetrahedral units interlinked via corners to establish the framework anion [Sn2(PO4)3]-. The 
+
+sodium  atoms  are  located  in  the  voids/channels  of  the  framework.  The  open,  3D  nature  of  the 
+
+NASICON framework is known for facile sodium ion migration. The morphology of the obtained 
+
+material is spherical-like, with particle size of around100 nm as shown in Figure 1b and c. Active 
+
+materials with nanometer size effectively shorten the pathway lengths of the lithium ion diffusion 
+
+during the Li+ insertion/extraction processes. A HRTEM image (Figure 1d) taken on the edge of 
+
+an individual nanoparticle in Figure 1c shows clear lattice fringes of a highly ordered crystalline 
+
+structure with a (012) interplanar spacing of 6.17 Å.   
+
+
+To explore the lithium storage properties of the prepared sample as a potential anode material for 
+
+LIBs, a series of electrochemical measurements were performed using a two-electrode cell, where 
+
+NaSn2(PO4)3  serves  as  the  working  electrode  and  lithium  metal  as  the  counter.  The 
+
+discharge-charge  cycling  performance  is  evaluated  in  the  potential  range  of  5  mV  ~  2.0  V  at  a 
+
+current  density  of  50  mA  g-1.  As  shown  in  Figure  2a,  the  electrode  exhibits  a  high  discharge 
+
+capacity  of  320  mAh  g-1  after  120  cycles  with  the  retention  of  87%.  Also,  the  Coulombic 
+
+efficiency  keeps  steadily  more  than  98%  after  the  initial  cycle.  Long  cycling  stability  of  the 
+
+electrode  was  verified  at  current  densities  of  500  mA  g-1  and  1.0  A  g-1  (Figure  S1),  indicating 
+
+excellent  cycling  performance  of  the  as-obtained  material.  The  high-rate  capability  of  the 
+
+NaSn2(PO4)3  electrode  at  different  current  densities  is  displayed  in  Figure  2b.  The  reversible 
+
+capacity of the NaSn2(PO4)3 electrode decreases lightly from 370 mAh g-1 to 300 mAh g-1 when 
+
+the  current  density  is  increased  from  50  mA  g-1  to  1.0  A  g-1.  Even  when  the  current  density  is 
+
+increased to a very high rate of 2 A g-1, the electrode can still deliver a reversible capacity of 270 
+
+mAh g-1, corresponding to 73 % of the capacity at the current density of 0.1 A g-1, indicating that 
+
+the  obtained  material  delivers  an  excellent  high-rate  capacity.  Figure  2c  presents  the 
+
+corresponding charge-discharge voltage profiles at varied current densities. One charge-discharge 
+
+plateau  appears  below  1.0  V,  and  the  separation  of  potential  between  charge-discharge  plateau 
+
+increases  slightly  with  the  increasing  charge-discharge  current  densities,  indicating  that  the 
+
+electrode  exhibits  fast  kinetics  property  and  weak  electrochemical  polarization.  The  capacity 
+
+retention  and  high  rate  capacities  are  much  higher  than  previous  reported  results  on  Sn-based 
+
+oxide and phosphate.
+
+Figure 2d shows the discharge-charge voltage profiles at current density of 50 mA g-1 for the first 
+
+two  cycles.  The  initial  discharge  and  charge  capacities  are  989  and  417  mAh  g-1,  respectively, 
+
+indicating  a  relatively  large  initial  irreversible  capacity  loss  (58%).  Similar  large  irreversible 
+
+capacity loss was also observed previously for Sn-based oxides anodes (such as SnO2, Zn2SnO4), 
+
+which  is  attributed  to  the  irreversible  reduction  of  Sn4+  to  metallic  Sn  and  irreversible 
+
+decomposition  of  electrolyte  to  form  solid  electrolyte  interface  (SEI)  layer  on  the  electrode 
+
+surface.11,  32-34  There  are  two  obvious  plateaus  in  the  first  discharge  process.  A  sloping 
+
+discharge/charge  profile  below  1.5  V  may  be  ascribed  to  the  formation  of  SEI  layer.35  A  clear 
+
+plateau appears at approximately 1.2 V and ends at approximately 1.0 V, with a discharge capacity 
+
+of 390 mAh g-1 during the first discharge. The capacity of this plateau corresponds to intercalation 
+
+of  about 8  Li+ per NaSn2(PO4)3  molecule  corresponding  to  the reduction of Sn4+  to  metallic  Sn 
+
+accompanied by the formation of Li salt inactive matrix. This process results in large irreversible 
+
+capacity  and  low  initial  Coulumbic  efficiency.  The  sloping  plateau  from  1.0  V  to  5  mV  with  a 
+
+discharge capacity of 561 mAh g-1 is obtained in the first and following cycles, which correlates to 
+
+the  sequential  reversible  alloying  reaction  accompanying  Li+ insertion  into  Sn.  The  theoretical 
+
+capacity of NaSn2(PO4)3 with full lithiation of Li4.4Sn is 433 mAh g-1. As shown in Figure 2b, the 
+
+first discharge capacity is 989 mAh g-1. However, the theoretical capacity of the first discharge is 
+
+about 826 mAh g-1 according to the above two electrochemical process, exceeding the theoretical 
+
+capacity by 163 mAh g-1. The exceeding capacity can be ascribed to the formation of SEI layer on 
+
+the  surface  of  electrode.  Ex-Raman  and  FTIR  spectra  (Figure  S2  and  S3)  confirmed  that  the 
+
+predominant component of SEI is Li2CO3 and lithium alkylcarbonates (ROCO2Li). The variation 
+
+of  relative  intensity  suggested  that  Li2CO3  could  be  partly  reversible  decomposition  during  the 
+
+Ex-situ XRD were conducted to investigate the phase transformation of NaSn2(PO4)3 anode in the 
+
+electrochemical cycle. As shown in Figure S4, the electrode before  cycling shows characteristic 
+
+peaks of the crystallized NaSn2(PO4)3, consistent with the previous discussion in Fig. 1. When the  cell  is  discharged  to  1.0  V,  the  intensity  of  NaSn2(PO4)3  peaks  become  weak,  indicating 
+
+uncompleted reaction of NaSn2(PO4)3. Moreover, the diffraction peaks appear at 30.5° and 31.8°  at the discharge potential of 0.05 V can be index to lithiated Sn, according to literature reported  before.34 The characteristic  peaks of  Li3PO4  and  Li2NaPO4  show  very  weak  diffracted  intensity,  reflecting the poor crystallinity of the products.   
+
+TEM images of the electrode materials were taken when the cell is discharged to 5 mV(Figure 3a), 
+
+which shows that highly dispersed amorphous Sn alloy nanoparticles are embedded uniformly in 
+
+the matrix. STEM and element mapping (Figure 3b) also clearly identify the spatial distributions 
+
+of  Sn,  P  and  O,  which  again  confirms  that  element  Sn  was  homogeneously  dispersed  in  the 
+
+surrounding P and O elements. HRTEM taken form Figure 3c shows the lattice spacings of 3.67 Å 
+
+and  2.56  Å  are  in  good  agreement  with  (111)  and  (131)  inter  planar  spacings  of  orthorhombic 
+
+Li3PO4  and  Li2NaPO4,  respectively.  The  formation  of  Li3PO4  and  Li2NaPO4  provides  great 
+
+inactive matrices, which effectively hinder the aggregation of Sn nanoparticles. Lithium phosphate 
+
+as a promising lithium ionic conductor has been regarded as a potential solid electrolyte for high 
+
+energy batteries.28 Phosphate (Li3PO4 and Li2NaPO4) with high ionic conductivity formed around 
+
+the  electrochemically  active  Sn  as  a  promising  matrix  facilitates  the  Li-ion diffusion  during  the 
+
+following cycles, thus the electrode exhibits an excellent high-rate performance. 
+
+
+The morphology and structure evolution of the NaSn2(PO4)3 electrode after cycles were explored 
+
+by TEM  imaging.  Figure 4b  shows  the TEM  image  of  the  NaSn2(PO4)3  electrode  after  the  first 
+
+discharge.  It  is  clearly  observed  that  the  morphology  of  the  NaSn2(PO4)3  particles  has  changed 
+
+comparing to the materials before cycling (Figure4a). The particle of NaSn2(PO4)3 pulverized into 
+
+alloyed  Sn  nanocrystallines  with  the  sizes  of  about  10  nm,  which  is  about  1.9  times  than  the 
+
+average diameter of particle charge state (5.1 nm), implying about 3.7 times of volume expansion 
+
+for the electrode during the cycling (Figure S5). The volume expansion factor is comparable to the 
+
+theoretical value of that from Sn to Li4.4Sn during Li insertion.36 It could be found that the alloyed 
+
+nano-Sn  dispersed  uniformly  in  phosphate  matrix  during  the  initial  Li+  insertion,  which  could 
+
+buffer  the  volume  expansion/extraction.  After  100  cycles,  the  nanoparticles  still  maintain 
+
+homogenous distribution without obvious change of the particle size (Figure 4c).The maintaining 
+
+structure  and  morphology  of  the  materials  after  the  long  cycles  indicates  that  active  Sn 
+
+nanoparticle  do  not  agglomerate  during  the  continuous  alloying-dealloying  processes.  These 
+
+results prove that the inorganic matrix of Li3PO4 and Li2NaPO4 serves as an effectively protecting 
+
+layer which successfully buffers the mechanical stress resulting from the severe volume change of 
+
+Sn  nanoparticles  during  Li+ insertion/extraction, leading to excellent stable cycle-life performances.
+
+
+
+The kinetic and thermodynamics behaviors of the NaSn2(PO4)3 are investigated by CV and GITT 
+
+techniques. CV (Figure5a) is carried out between 0.05 and 2.5 V vs. Li+/Li at scan rates ranging 
+
+from 0.5 to 2.5 mV s-1. With an increasing scan rate, anodic potential shifts to higher voltages and 
+
+the cathodic potential shifts to lower voltages, indicating an increased polarization at higher sweep 
+
+rates because of kinetic limitations associated with the Li+ diffusion through the active material. 
+
+Slight shifts of potential of anodic and cathodic peaks at fast scan rate suggests the existence of 
+
+fast  kinetics  and  rapid  storage  mechanism  for  NaSn2(PO4)3.  The  small  potential  separation 
+
+between  anodic  and  cathodic  peaks  with  various  scan  reveals  the  high  reversibility  and  weak polarization of the electrochemical reaction in the battery. 
+
+
+To further understand the kinetic performance of NaSn2(PO4)3, diffusion coefficient of Li ions was 
+
+calculated according to equation (1). Figure 5b shows the square root relationship curve between 
+
+the anodic and cathodic peak currents (Ip) and the scan rate. The result reveals a linear relationship 
+
+between peak current and potential scan rate, indicating that the diffusion of Li+ in the electrode is 
+
+the rate-determining step. This reaction can be described by the following equation: 
+
+where  A  is  the  electrode  area,  D  is  the  solid-phase  diffusion  coefficient  of  Li  ions,  C  is  the 
+
+concentration of reactants, and n is the number of electrons involved in the rate-determining step. 
+
+According to Eq. (1), the solid-phase diffusion coefficient of Li+ can be obtained from the slope in 
+
+a plot of Ip vs. υ1/2. The value of A is 280 cm2, which is obtained by multiplying the BET specific 
+
+surface area (28 m2 g-1) of NaSn2(PO4)3 powder with the loading mass on the electrode (Figure S6). 
+
+Each unit cell of NaSn2(PO4)3 contains four lithium ions, and the volume of each unit cell is 1.48 
+
+× 10-27 m3, so the value of C is 4.4 × 10-3 mol cm-3. Consequently, the value of the apparent DLi 
+
+for NaSn2(PO4)3 is calculated to be 6.03 × 10-12 cm2 s-1. These values are higher than that of SnO2 
+
+reported  in  previous  studies,31  demonstrating  the  existence  of  the  Li3PO4  and  NaLi2PO4  matrix with a high Li-ion diffusion coefﬁcient. 
+
+
+GITT technique has been widely used to study  the thermodynamic and kinetic properties of the 
+
+electrode material. The difference estimated from the GITT curve between the cutoff voltage and 
+
+the open circuit voltage measured after relaxation is shown in Figure 5c, in which 0 refers to full 
+
+delithiation  state  and  100%  refers  to  full  lithiation  state.  Such  difference  can  reflect  the 
+
+polarization  for  Li+  insertion  and  extraction  in  electrodes.  For  the  first  discharge,  a  large overpotential is observed during the initial 45% of lithiation state, and continuously decreases with the following Li+ insertion. This implies that the reactions that take place in initial plateau for the 
+
+first cycling are kinetically limited. As shown in Figure 5d, a small overpotential (below 0.15 V) 
+
+is observed during the reversible alloying-dealloying process, implying this process is kinetically 
+
+fast  and  close  to  the  equilibrium,  which  might  be  due  to  the  high  ionic  and  electronic 
+
+conductivities of the materials.   
+
+
+
+To fully reveal the potential application of theNaSn2(PO4)3as an anode, a full lithium-ion cell was 
+
+assembled  by  using  LiFePO4  electrode  as  cathode.  The  initial  Coulombic  efficiency  of 
+
+NaSn2(PO4)3  was  found  too  low  to  be  used  as  an  anode  for  the  full-cell  directly  as  discussed previously. The prelithiation of the negative electrode offers the possibility of tuning the potential of  the  battery  and  thus  achieving  remarkable  gravimetric  energy  and  power  density  values, 
+
+reported by Passerini et al.37. For NaSn2(PO4)3/LiFePO4 full cell, electrochemical prelithiation of 
+
+NaSn2(PO4)3  anode  was  taken  to  achieve  the  demand  of  initial  Coulombic  efficiency.  In  the 
+
+present study, with the prelithiation step, anode was prepared by galvanostatic cycling in lithiation 
+
+degree of cut-off potential of 1.5 V after 3 cycles at a relatively low current density (50 mA g -1 ) 
+
+using  metallic  Li  as  counter  electrode.  Figure  S7  shows  the  individual  potential  profile  of 
+
+NaSn2(PO4)3/Li,  LiFePO4/Li  and  NaSn2(PO4)3/LiFePO4  full  battery.  The  NaSn2(PO4)3  anode 
+
+presents potential plateaus between 0.2 ~ 0.5 V, and the LiFePO4 cathode shows flat potential at ca. 
+
+3.4  V.  The  NaSn2(PO4)3/LiFePO4full  battery  shows  a  sloping  voltage  profile  from  2.0  to  3.8  V with excellent reversibility. 
+
+
+The  electrochemical  performance  of  full-cell  based  on  prelithiation  of  NaSn2(PO4)3  and  fresh 
+
+LiFePO4  electrode  was  shown  in  Figure  6.  The  reversible  capacity  of  the  cathode  in  the  cells 
+
+reached 120 mAh g-1 (calculated on the mass of LiFePO4) at 0.5 C with Coulombic efficiency of 
+
+the cell around 99%. The long-term cycle stability of this battery was examined at 1.0 C and the 
+
+results  are  given  in  Figure  5a.  The  battery  shows  indiscernible  capacity  decay  from  initial  107 
+
+mAh g-1 to 97 mAh g-1 over 200 cycles, corresponding to 91 % capacity retention. As shown in 
+
+inset  of  Figure  6a,  batteries  exhibited  flat  charge  and  discharge  voltages  at  ~  3  V,  showing  an 
+
+insignificant voltage hysteresis. Cathodic peak and anodic peak of CV curves (Figure S8) at the 
+
+potentials of 2.87 V and 3.21 V correspond to the phase changes during the lithium intercalation 
+
+and  de-intercalation,  which  is  consistent  with  the  charge-discharge  voltage  plateaus.  Rate 
+
+performance testing reveals that the battery of NaSn2(PO4)3/LiFePO4 displays excellent high-rate 
+
+capacities at charge/discharge rates from 0.5 C to 20 C (Figure 6b). As can be seen from inset of 
+
+Figure 6b, the battery exhibits well-defined change/discharge plateaus with slight decrease in the 
+
+discharge voltage from 2.8 V to 2.6 V when the current rate increases drastically from 0.5 C to 20 
+
+C. Such  small  voltage drops  with  increased discharge rates  suggest ultrafast  kinetics  in  steps of 
+
+this  full  battery  reaction.  Also,  a  higher  energy  density  of  the  battery  was  assembled  by  using 
+
+LiNi0.5Mn1.5O4  as  cathode.  The  charge-discharge  curves  of  the  battery  shows  that  the  average 
+
+discharge potential is 3.9 V and the discharge capacity is 104 mAh g-1 (Figure S9), delivering a 
+
+higher  energy  density  compared  to  that  of  NaSn2(PO4)3/LiFePO4.  The  results  indicated  a  great 
+
+potential practical application of NaSn2(PO4)3 as anode material of lithium-ion batteries. 
+
+
+
+In summary, electrochemical performances of NASICON-structured NaSn2(PO4)3 as anode have 
+
+been thoroughly evaluated in present work. NaSn2(PO4)3 with particle sizes of approximately 100 
+
+nm was prepared using a sol-gel and solid-sate reaction. The obtained material exhibits excellent 
+
+cycling performance and high rate capacities for both half cell and NaSn2(PO4)3/LiFePO4 full cell. 
+
+The  kinetics  and  thermodynamics  analysis  reveals  that  electrochemical  reaction of NaSn2(PO4)3 
+
+used  as  anode  material  for  LIBs  exhibits  the  high  reversibility  and  negligible  polarization.  The 
+
+enhanced properties are attributed to the “in-situ” formation of Li3PO4 and Li2NaPO4 as protective 
+
+matrix  during  the  first  Li-insert  reaction,  which  prevents  the  aggregation  of  nano-sized  active 
+
+materials during the cycling and provides a great Li+ diffusion channel in electrode for high rate 
+
+electrochemical reaction. 
+

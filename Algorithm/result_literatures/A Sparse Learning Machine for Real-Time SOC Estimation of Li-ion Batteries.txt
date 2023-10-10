@@ -1,0 +1,17 @@
+Kalman Filter has been widely used in real-time battery SOC estimation, however, to build a suitable dynamic battery state-space model is a key challenge, and most existing methods still use the offline modelling approach.
+This paper tackles the challenge by proposing a novel sparse learning machine for real-time SOC estimation. This is achieved first by developing a new learning machine based on the traditional least squares support vector machine (LS-SVM) to capture the process dynamics of Li-ion batteries in real-time.
+The proposed learning machine reduces the dimension of the projected high dimensional feature space with no loss of input information, leading to improved model sparsity and accuracy.
+Experimental results on the Federal Urban Drive Schedule (FUDS) test data reveal that the performance of the proposed algorithm is significantly enhanced, where the maximum absolute error is only one sixth of that obtained by the conventional LS-SVMs and the mean square error of the SOC estimations reaches to 10−7 , while the proposed method is executed nearly 10 times faster than the conventional LS-SVMs.
+Sparse learning machine, state-of-charge (SOC), least squares support vector machine (LS-SVM), differential evolution (DE), unscented Kalman filter (UKF).
+In this paper, a sparse learning machine namely S-DE-WLM is used to build the battery state-space model based our early work in [31], and the main technical contributions are summarized as follows.
+To strike the balance between the model accuracy and model complexity, a regularization term is added to the traditional sum of squared error cost function. Further, a weighting scheme is applied to adjust the contribution of each training sample based on its proximity to the next forecasting time interval.
+To improve the sparsity of the proposed model, a fast recursive method is applied to select the nonlinear feature based on the weighted LS-SVM formulation. Instead of using the kernel trick, the feature mapping functions is determined first.
+In order to enhance the model accuracy and to reduce the computation complexity, a sparse learning machine is presented in the following section.
+To build the battery model using the proposed algorithm, a series of experiments were conducted on a 5-Ah LiFePo4 battery using a multi-function Arbin BT2000 battery test device and the test data were recorded by a host computer.
+The battery was placed in a temperature chamber with constant temperature of 25❽.
+Once the measurement equation developed by the proposed method is combined with the state equation, the UKF algorithm is then applied to estimate SOC.
+A novel sparse learning machine based on the LS-SVM formulation has been proposed for real-time SOC estimation in this paper.
+A mapping function instead of the kernel function is first applied to produce the nonlinear features space.
+In order to construct sparse learning machine, a fast selection method is used to select the mapping function, while the nonlinear parameters in the mapping functions are optimized by the DE algorithm.
+The experimental results confirm that the proposed method can build a more accurate battery model with excellent generalization performance in comparison with two other methods, namely SVM and LS-SVM models. Note that a small data set is used to train the model, and the proposed method is suitable for online implementations.
+The obtained battery model is then used as the measurement equation, a highly accurate SOC estimation is achieved by using the UKF algorithm.

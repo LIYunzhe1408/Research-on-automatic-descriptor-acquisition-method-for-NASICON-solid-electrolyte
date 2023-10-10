@@ -1,0 +1,88 @@
+Sulfate attracts considerable interest as anion of cathode materials for lithium and sodium-ions batteries because they  induce  high  voltage.
+Here,  Fe2(SO4)3  in  the  rhombohedral  NASICON  phase  is  examined  as  a  Na-ion  cathode.
+Electrochemical,  structural and theoretical methods are employed.
+Starting from the charged state, Fe2(SO4)3 can be discharged to near theoretical  capacity under a very slow, GITT experimental condition.
+However, the available capacity rapidly drops under high current.
+First  principle calculations found that one of the alkali metal sites is metastable and a high diffusion barrier of 0.9 eV for Na+ ion migration is found.
+The NASICON-type structure with its opened framework is generally considered to bring about good ionic conduc2anion limits the site availability and mobility of the Na+ ion in the NASICON phase of  tor.
+However the small size of the SO4 Fe2(SO4)3, which account for their inferior properties compare with the recently discovered alluaudite polymorph.
+Prompted by the strong voice of reducing cost and realizing  sustainability  of  battery  materials,  researches  of  sodium  ion  batteries  recently  become  very  active.
+For  cathode  materials  different  insightful  candidates,  such  as  two  layer  prismatic  (P2)1,2 and three layer octahedral (O3) type oxide3,4, iron-based  pyrophosphate5  and  sulfate6,7,  vanadium-based  phosphate  and  fluorophosphate8,9, as well as the more recent alluaudite phase  10,  have  been  examined.Here we investigate the rhombohedral NASICON structured  Fe2(SO4)3 as a sodium cathode.
+This material has the favorable  properties of containing all earth abundant, non-toxic elements.
+2ion is expected to increase the redox potenIn addition,  SO4 tial  of  Fe3+/Fe2+  due  to  its  large  inductive  effects11.  The  isomeric  alluaudite  phase  has  recently  been  discovered10,  by  comparing the two polymorphs it will provide insights into the  influence of the structures upon electrochemical performance.
+By  chemical  means,  NASICON  NaxFe2(SO4)3  can  only  be  synthesized in the x=0 phase, the compound can be obtained in  the rhombohedral or monoclinic forms.
+Early studies7,11 found  that lithium can be inserted into both forms and the monoclinic  phase will convert to an orthorhombic structure upon insertion.
+Subsequent  studies12–14  were  concentrated  on  the  rhombohe-dral  phase  since  capacity  fade  is  observed  to  be  less  serious.
+Although  maximum  insertion  of  1.8  Li  per  formula  unit  has  been  reported,  the  maximum  reversible  capacity  is  restrained  to  about  1  Li  ion12,13.  Application  as  cathode  for  sodium  ion  battery  has  recently  been  reported15,  the  reversible  capacity  however is only about 0.6 Na ion per Fe2(SO4)3. NASICON  structure  is  supposedly  ideal  for  ionic  transport  and  sulfates  has  a  special  position  in  cathode  materials  because they induce high voltage, the disappointing performance  of Fe2(SO4)3 is therefore worth investigating.
+In this work we  study firstly the maximum amount of sodium ions that can be  inserted  into  the  Fe2(SO4)3  structure  using  the  GITT  method.
+We then characterize the electrode with various amount of Na  by  ex  situ  XRD  and  57Fe  Mössbauer  spectroscopies.
+Impedance  spectroscopy  was  employed  to  investigate  the  electronic/ionic  of  Na0.65Fe2(SO4)3. A first-principles study was performed to gain  further  insight.
+We  conclude  that  the  electrochemical  performances  of  NASICON-type  were  inferior  to  our  recently  reported alluaudite-type Na2.4Fe1.8(SO4)3 due to its intrinsic metastability of the supposedly Na site and high migration barrier.
+intermediates conductivity Methodology Section Fe2(SO4)3  was prepared11  via  the  thermal  decomposition  of  (NH4)2Fe(SO4)2·6H2O at a temperature of 500  °C in air for 5  hours with a heating rate of 5 °C min-1. The sample was then  dried overnight at 120 °C under vacuum to completely remove JournalofMaterialsChemistryAAcceptedManuscriptPublished on 24 January 2018. Downloaded by University of Reading on 26/01/2018 11:15:01. View Article OnlineDOI: 10.1039/C7TA08606GJournal of Materials Chemistry APage 2 of 15water and then kept in the glove box.
+The complete removal of  crystalline  water  was  verified  by  TGA  measurements,  which  showed  a  negligible  mass  loss  (∼0.5  %)  over  the  whole  temperature range (Figure SI1).
+Estimation of the crystalline size  by  XRD  analysis  shows  a  value  of  about  0.1  µm.
+This  was  further  confirmed  by  SEM  measurements,  which  showed  agglomerates of particles of approximately 0.5 µm (Figure SI2).
+In  a  typical  experiment  employing  chemical  reduction  to  prepare sodiated Na0.65Fe2(SO4)3, 1.2 g of Fe2(SO4)3 and 24 ml  of NaBH4-diglyme solution (0.5 M) were dispersed in tetrahydrofuran (THF) and then stirred for one week at a temperature  of  60  °C.
+The  solution  was  then  filtered,  washed  thoroughly  and dried.
+The  mixed powders  with  an  average  weight  of  about  25  mg  were  pressed  under  a  pressure  of  15.0  MPa,  producing  a  smooth  tablet  with  a  diameter  of  14  mm.
+Alternatively,  a  slurry  of  Fe2(SO4)3,  PVDF  and  carbon  black  in  the  solvent  NMP  was  casted  on  an  Al  foil  by  the  a  blade  and  then  punched  into  a  circular  electrode  (Ø16  mm)  after  drying  completely.
+The  mass  density  of  Fe2(SO4)3  was  about  1.5  mg  cm-2.  To  get  an  accurate  analysis,  the  data  of  ex-situ  XRD,  GITT  and  Mössbauer spectra were collected with a thick tablet as electrode in  the  cell.
+The  electrochemical  measurement  was  performed  using a circular electrode on an Al foil as electrode.
+X-ray  powder  diffraction  patterns  were  acquired  in  the  2θ  range  of  10–80°  by  a  Bruker  AXS  D8  ADVANCE  powder  diffractometer  equipped  with  a  Co  Kα  radiation  source  (λ=  1.541 Å) operating at 35 kV and 40 mA.
+For ex-situ XRD, the  electrode was recuperated and sealed inside an Ar-filled sample  holder.
+Galvanostatic  cycling was conducted by a TOSCAT-3100 unit at rates of 0.1 to  10 C using a 2032-type cell.
+Field-emission  scanning  electron  microscopy  (FE-SEM)  measurements  were  performed  using  a  S-4800  HITACHI  instrument  with  an  acceleration  voltage  of  3  kV.
+Thermogravi-metric  analysis  (TGA)  was  carried  out  with  a  Netzsch  STA  2500 Regulus between 30 ºC and 500 ºC and a heating rate of  5 K/min under argon atmosphere.
+In  the  impedance  measurement,  the  powder  samples  of  Na0.65Fe2(SO4)3  were  pelletized  by  isostatic  pressuring  under  300 MPa.
+Gold  metal  was  then  sputtered  on  both  sides  to  serve  as  electronic  electrode  blocking  the  ionic  exchange.
+Impedance  measurements were performed by 1296 Dielectric Interface combined  with  1260  Impedance/Gain-Phase  Analyzer  (Solartron)  in  the  frequency range from 107 to 10-1 Hz.
+The measurements were  performed  in  the  temperature  range  of  room  temperature  to  about 280 °C to avoid thermal decomposition of Fe2(SO4)3. The  ab  initio  calculations  were  performed  in  the  density  functional  theory  (DFT)  and  projector  augmented  wave16  (PAW)  frameworks  as  implemented  in  the  Vienna  Ab-initio  Simulation  Package17  (VASP).
+The  generalized  gradient  approximation  (GGA)  with  the  PBE  exchange-correlation  functional18 is used.
+In the total energy  calculation,  a  hexagonal  unit  cell  was  used  and  the  GGA+U  method  was  employed,  a  U-J  value  of  4.2  eV  for  Fe  was  assumed.
+The  k-point  meshes  for  Brillouin  zone  sampling  was  3×1×3 within the Monkhorst-Pack scheme.
+Geometry optimization  was  performed,  the  force  convergence  was  set  to  0.01  eV/Å.
+The  voltages  were  calculated  by  the  difference  of  the  total  energies between  the  reactants  and products  in  the  electrochemical  reaction.
+The  migration  activation  barrier  of  Na  was calculated with the nudged elastic band method.
+The situation  in  the  low  Na  concentration  was  modeled,  one  Na  atom  was  introduced  into  the  cell  containing  272  of  other  atoms.
+Only the  Γ point was used in the Brillouin zone sampling for  the supercell calculation.
+lantern  basic NASICON  structure  is  well  known,  it  consists  of  a  threedimensional  framework  of  MO6(M'O6)  octahedra  sharing  all  their corners with XO4 tetrahedra and vice versa, they form a  characteristic  repeating  unit  consists  of  MM'(XO4)3.  The  lanterns  are  aligned  in  parallel  (Figure  4c)  while  in  the  monoclinic  polymorph  the  lanterns  are  aligned  roughly  orthogonal.
+The  resulting  three-dimensional  framework  generates  large  interstitial  space  and  provide  well  connected pathways for the fast transportation of alkali ions19. Up  to  5  alkali  metal  ions  per  formula  unit  of  MM'(XO4)3  can  be  20.  accommodated in the structure, as in the case of Li5Fe2(PO4)3 In the rhombohedral phase, it is common to have the symme2 JournalofMaterialsChemistryAAcceptedManuscriptPublished on 24 January 2018. Downloaded by University of Reading on 26/01/2018 11:15:01. View Article OnlineDOI: 10.1039/C7TA08606GPage 3 of 15Journal of Materials Chemistry Atries of ܴ3തܿ (167) or ܴ3ത (148), various positions can be taken  by the alkali metal ions, they can occupy the 6b (3a and 3b in  ܴ3ത)  or  18e  (18f  in ܴ3ത)  site  (Figure  4c)  as  well  as  positions  between these sites.
+The discharge process shows  an  extended  voltage  platform  from  0  to  about  60  mAh  g-1 at  about  3.0  V,  and  then  drop  to  about  2.0  V  when  discharge  further.
+The discharge capacity is about 110 mAh g-1. Assuming  a  theoretical  capacity  of  118  mAh  g-1,  93.2%  of  Fe3+  is  reduced  to  Fe2+.
+The  charging  process  starting  from  2  V  shows a sharp jump to 3.0 V, this behavior is observed in other  cathode materials when discharged to 2V21, this may be due to  some  irreversible  transformations  (see  below).
+Nevertheless,  charging  shows  a  plateau  at  near  3.2  V,  close  to  that  of  the  discharging one.
+The charging extends to 4.0 V and in total a  capacity  of  95  mAhg-1  could be  recovered.
+Comparing  to  the  discharge  capacity  of  110  mAh  g-1,  22.8%  of  Fe2+  remains  unreacted,  and  a  compound  Na0.46Fe2(SO4)3  forms,  demonstrating  that  large  irreversibility  still  exists  in  the  first  cycle  even under very slow rate using GITT within the voltage window.
+To  gain  further  details  about  the  structural  and  chemical  changes in the material during the GITT experiment we measured ex-situ XRD and Mössbauer spectroscopies of the sample  at  different  stages  of  charge.
+At  x  = 1.84,  the  maximum  amount  of  sodium  which  we  can  insert,  the  peaks  become  much  broadened  showing  the  decrease  in  crystallinity.
+The Mössbauer spectrum shows that 92.2% of Fe is in the +2 oxidation  state,  this  agrees  excellently  with  the  value  of  92.0%  determined  by  electrochemical  means,  supports  that  the  observed GITT  curve is due to the redox reaction of Fe but not  other  side  reactions.
+In  the  charging  process,  as  x  decreases  the XRD peaks sharpened again, and when  x = 0.46 no more  Na  is  extractable.
+We tested the ܴ3ത and the ܴ3തܿ models,  and  found  that  the ܴ3ത  model  agrees  better  in  terms  of  peak  matching and the goodness parameter Rwp (Figure 3), previous  study24  shows  that  the ܴ3ത model  is  also better  to describe  the  analogous  compound  NaFeMg(SO4)3.  The  cell  parameters  changes  from  a=8.244Å,  c=22.144Å  in  the  x  =  0  case  to  a=8.516Å,  c=22.024Å  in  the  x  =  0.46  case.
+We  computed  the  voltage  by  ab  initio  calculation,  we  assumed the Na ions are located at the M(1) and M(2) positions  of  analogous  Na4Fe2(PO4)3  compound22  (space  group  ܴ3തܿ ).
+The  occupancy  ratio  of  M(1):M(2)  sites  is 1:3  (located  at  the  6b and 18e sites respectively).
+For the reaction Fe2(SO4)3 + Na  → NaFe2(SO4)3 we get an average voltage of 3.2 V with preference of Na inserted into the 3a and 3b sites.
+The calculated  voltage  agrees  very  well  with  the  first  plateau  in  our  GITT  experiment  and  that  of  the  recent  report15  where  it  was  discharged/charged  to  a  capacity  of  40-50  mAh/g.
+For  NaFe2(SO4)3 + Na → Na2Fe2(SO4)3 where the Na is located at  the 18f site, we found an average voltage of 3.0 V.
+This deviates significantly from the second plateau (at about 2.0 V) of  our GITT discharging curve (Figure 1).
+The second plateau at  2.0  V  disappears  during  the  charging  process  (Figure  1),  together  with  the  disagreement  with  the  calculated  voltage,  we  propose  that  the  end  product  of  the  initial  discharging  may  involve  some  irreversible  processes  such  as  a  partial  breakdown  of  the  structure.
+This  may  also  be  responsible  for  the  trapping of 0.46 Na/fu in the structure that is not extractable in  the charging process.
+Nevertheless,  the  calculated  voltages  (3.0  –  3.2  V)  of  NASICON Fe2(SO4)3 is much lower than that of the alluaudite  phase (at about 4 V).
+Since the voltage of the material depends  on the relative stability of the sodiated and desodiated phases,  we conclude that, in addition to a stabilized desodiated phase,  the sodiated phase of NASICON is highly unstable.
+We  calculated  the  migration  activation  barrier  of  Na  in  Fe2(SO4)3  at  the  limit  of  low  Na  concentration,  the  result  is  shown in Figure 4. The lowest energy positions are located at  the  octahedral  3a  and  3b  sites.
+DFT  calculations  were  then  performed to elucidate the minimum energy pathway that connected  these  two  sites.
+We  found  that  the  3b  site  is  0.4  eV  more stable than the 3a site, consistent with the larger volume  of  the  former.
+The  path  for  the  transport  between  these  two  sites is shown in Figure 4. It is a sigmoid shaped path.
+Starting  from the 3a site, it ascends to the 18f site proceeding approximately  on  the  bc  plane  (Figure  4b)  and  then  turns  to  ascend  along  the  ac  plane  before  reaching  the  3b  site.
+The  largest  activation energy for the migration is 0.89 eV that corresponds  to  the  migration  from  the  3b  site  to  the  intermediate  18f  site  with  the  highest  energy  point  closed  to  the  18f  site.
+Similar  sigmoid  path  was  observed  in  Na3Ti2(PO4)3  through  joint  probability density function analysis of XRD data26. We computed the profile of Na3Fe2(PO4)3 for comparison, in which the  Fe  ions  also  have  the  +3  oxidation  state.
+The 18f site (18e  in ܴ3തܿ), which locates in the “sulfur (phosphorus) layer” (Figure 4c), is a stable site for Na in Na3Fe2(PO4)3, but is metastable  in  the  sulfate  case.
+Another  difference  is  that  for  Na3Fe2(PO4)3  the  highest  energy  points  are  at  the  positions  where  the  path  penetrates  the  two  triangular  faces  of  the  3a JournalofMaterialsChemistryAAcceptedManuscriptPublished on 24 January 2018. Downloaded by University of Reading on 26/01/2018 11:15:01. View Article OnlineDOI: 10.1039/C7TA08606GJournal of Materials Chemistry APage 4 of 15(3b)  octahedra  (Figure  4c), but  in  the  sulfate  system  they  are  closed  to  the  18f  site.
+Comparing to the alluaudite polymorph10, the activation energy  for  NASICON-type  Fe2(SO4)3,  0.89  eV,  is  also  much  larger.
+For  the  alluaudite10,  which  has  two  independent  diffusion  channels,  the  calculated  activation  energies  are  0.3  and  0.5 eV at similar low concentration of Na.
+We may conclude  that  the  undesirable  performance  of  the  NASICON-type  Fe2(SO4)3  in  comparison  to  the  alluaudite-type  is  due  to  the  lack of low activation energy diffusion channel in the former,  as schematically compared in Figure 5. Indeed, the impedance  analysis  of  Na0.65Fe2(SO4)3  that  was  synthesized  from  chemical  reduction  of  Fe2(SO4)3  by  NaBH4  (Figure  6)  shows  the  absence of typical behavior of ionic conductors (Warburg diffusion  at  low  frequency),  demonstrating  the  dominant  electronic conductivity and low ionic conductivity of the intermediate  Na0.65Fe2(SO4)3.  On  the  contrary,  the  alluaudite  polymorph shows a long straight line (Warburg impedance) at low  frequency  (Figure  6).
+The  dominant  ionic  conductivity  was  measured as 1×10-7S/cm at room temperature28, which enables  the  high-rate  capability  of  the  alluaudite  polymorph.
+On  the  other  hand,  we  computed  DFT band  gaps  (d-d  transitions)  of  0.9  eV  and  1.2  eV  for  the  NASICON  and  alluaudite  phases  (NaxFe2(SO4)3, x=1) respectively, these are consistent with the  higher electronic conductivity of the NASICON phase (Figure  6).
+The metastability of the 18f sites also contributes to the undesirable  performance  of  the  present  material.
+Despite  the  insertion  of  nearly  2  Na  ions  and  concomitant  reduction  of  Fe3+ by the GITT method, the instability of the resulting structure  brings  about  some  irreversibly  structural  transformation.
+In comparison to phosphate, sulfate can deliver higher voltage for the cathode.
+Unfortunately, the size of sulfate is smaller, the thermochemical radii27 of sulfate is 2.18 Å in comparison to 2.30 Å of phosphate, which contribute to the slow migration  and  unavailability  of  additional  sites  for  sodium.

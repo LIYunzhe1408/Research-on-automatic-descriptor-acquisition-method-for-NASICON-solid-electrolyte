@@ -1,0 +1,65 @@
+Lithium-ion conductor Li1.3Al0.3Ti1.7(PO4)3 with an ultrapure NASICON-type phase is synthesized by a 1,2-propylene glycol (1,2-PG)-assisted sol-gel method and characterized by diﬀerential thermal analysis-thermo gravimetric analysis, X-ray diﬀraction, scanning electron microscopy, electrochemical impedance spectroscopy, and chronoamperometry test. Due to the use of 1,2-PG, a homogeneous and light yellow transparent precursor solu3−. Well crystallized tion is obtained without the precipitation of Ti4+ and Al3+ with PO4 Li1.3Al0.3Ti1.7(PO4)3 can be prepared at much lower temperatures from 850 ◦C to 950 ◦C within a shorter synthesis time compared with that prepared at a temperature above 1000 ◦C by a conventional solid-state reaction method. The lithium ionic conductivity of the sintered pellets is up to 0.3 mS/cm at 50 ◦C with an activation energy as low as 36.6 kJ/mol for the specimen pre-sintered at 700 ◦C and sintered at 850 ◦C. The high conductivity, good chemical stability and easy fabrication of the Li1.3Al0.3Ti1.7(PO4)3 provide a promising candidate as solid electrolyte for all-solid-state Li-ion rechargeable batteries. Key words: Lithium aluminum titanium phosphate, Lithium-ion conductor, NASICON electrolyte, Impedance spectroscopy
+
+Lithium aluminum titanium phosphate (Li1.3Al0.3 Ti1.7(PO4)3) with a NASICON-type structure has been well known as an excellent solid electrolyte for lithium ion batteries [1−9], which can resolve the safety issue of lithium ion batteries by replacing the ﬂammable liquid electrolyte used in the state-of-the-art cells. So far, the Li1.3Al0.3Ti1.7(PO4)3 has been mainly prepared by a traditional solid-state reaction, which requires long time of ball milling and sintering process and high temperature heat-treatment. These procedures usually result in the deviation in the composition.
+
+The sol-gel method is known as an eﬀective approach to synthesize multi-component oxides at low temperatures. However, the crucial step for obtaining a homogeneous Li1.3Al0.3Ti1.7(PO4)3 sol is to prepare a highly homogeneous precursor while avoiding the precipita3−. Although some tions of Ti4+ and Al3+ with PO4 researchers have found a method to stabilize Ti4+ in aqueous solutions by using hydrogen peroxide and ammonia as the complexing agents [10, 11], it does not 3− because Ti3(PO4)4 prework in the presence of PO4 cipitate is very insoluble and would be produced. Other researchers have also reported the preparation of a sta-
+
+Author to whom correspondence should be addressed. E-mail: cchchen@ustc.edu.cn. Tel.: +86-551-63600314
+
+ble precursor solution for Li1.4Al0.4Ti1.6(PO4)3 based on citric acid-assisted sol-gel method [9], however, the control of the pH value and the amount of the glycol increase the complexity and the failure rate of the experiment.
+
+In the present work, we have found that it is possible to obtain a homogeneous Li1.3Al0.3Ti1.7(PO4)3 sol without using any other additives but 1,2-propylene glycol (1,2-PG) as the solvent. We optimize the heattreatment temperatures which are lower than that of the traditional solid-state method to form highly pure nano-scaled powders. We also investigate the inﬂuence of the sintering temperature of the pellets on their electrical properties.
+
+Stoichiometric amounts of reagent-grade Ti(OC4H9)4 (AR), LiNO3 (AR), Al(NO3)3·9H2O (AR) were dissolved in 1,2-PG to form a transparent glycolic solution of 0.85 mol/L Ti4+, 0.65 mol/L Li+ and 0.15 mol/L Al3+. Then the solution was stirred at 80 ◦C for 1 h on a magnetic stirrer. After cooling down to the room temperature, a stoichiometric amount of H3PO4 (85%, AR) was slowly added into the glycolic solution with a molar ratio Ti:P=1.7:3 to form a homogeneous and light yellow transparent precursor solution. It was kept at 150 ◦C for 12 h in an oven to form a brown-color xerogel, which was subsequently ground into a powder in an
+
+FIG. 1 DTA-TGA curves of the grounded powder of xerogel.
+
+agate mortar. Then the powder was calcined at 600 ◦C for 5 h in air, and it was ground again and sintered at 700 ◦C for 5 h in air to obtain a Li1.3Al0.3Ti1.7(PO4)3 (LATP) powder.
+
+The LATP powder was ground and pressed into pellets at the pressure of 350 MPa using a small amount of 1.0% polyvinyl-alcohol (PVA) solution as a binder. The pellets were 15 mm in diameter and 1.5 mm in thickness. They were then sintered at 850, 900, and 950 ◦C in air for 5 h, respectively.
+
+thermal analysis-thermo gravimetric analysis(DTA-TGA) of the xerogel was performed at a heating rate of 10 ◦C/min in the temperature range of 30−950 ◦C in air. The phase identiﬁcation of the sintered powders and pellets was performed by X-ray diﬀraction (ARD, Philips X’Pert Pro Super, Cu Kα radiation). The surface and cross-section morphologies of the sintered pellets were studied by a scanning electron microscope (SEM, Hitachi X-650).
+
+To measure the ionic conductivity of the sintered LATP pellets, their surfaces were painted with a conductive low-temperature silver paste as the electrodes. The electrochemical impedance spectra (EIS) were measured at diﬀerent temperatures on an IM6ex Electrochemical Workstation in the frequency range from 0.1 Hz to 1 MHz. The chronoamperometry test of the samples was also performed on a CHI 604 Electrochemical Workstation.
+
+Figure 1 shows the DTA-TGA curves of the grounded powder of xerogel. There is a weight loss of about 30% in the temperature range of 30 ◦C to 600 ◦C, which can be attributed to the decomposition of the sample to release CO2 and H2O. The peak around 650 ◦C can be ascribed to the chemical reactions between the precursors to form a crystalline phase. No obvious further weight loss from 700 ◦C to 950 ◦C is observed. Based on the DTA-TGA data, a thermal treatment was carried out with a two-step sintering process: the xerogel was
+
+FIG. 2 XRD patterns of (a) the powder grounded from xerogel (150 ◦C) and powders calcined at 600 and 700 ◦C, (b) pellets calcined at 850, 900, and 950 ◦C .
+
+pre-sintered at 600 ◦C for 5 h, grounded and calcined at 700 ◦C for another 5 h in air.
+
+Figure 2 shows the XRD patterns of the powder grounded from the xerogel, powders sintered at 600 and 700 ◦C (Fig.2(a)) and pellets sintered at 850, 900, and 950 ◦C (Fig.2(b)). The diﬀraction peaks of all sintered specimens mainly show the peaks corresponding to LiTi2(PO4)3 (JCPD card No.35-0754). The xerogel powder shows an amorphous phase which is helpful to obtain a pure phase product at a lower temperature. After being pre-sintered at 600 and 700 ◦C, the powders show a pure phase corresponding to LiTi2(PO4)3 except for an unknown impurity peak at about 23.3◦. Unlike the powders, all the pellets sintered at 850, 900, and 950 ◦C show pure LiTi2(PO4)3-type phase with strong diﬀraction intensity. A combination of the DTA-TGA data and the XRD data shows that the formation of LATP phase has already started at a temperature below 600 ◦C and the heat-treatment process at 600 and 700 ◦C for 5 h cannot result in a complete reaction. Nevertheless, the heat-treatment for the pellets at 850, 900, and 950 ◦C can lead to a pure LiTi2(PO4)3-type phase.
+
+Figure 3 shows the SEM micrographs of the crosssection and surface of the pellets sintered at 850, 900,
+
+FIG. 3 SEM micrographs of the surface and cross-section morphologies of the pellets sintered at 850 ◦C (a) and (b), 900 ◦C (c) and (d), and 950 ◦C (e) and (f).
+
+FIG. 4 EIS plots of the pellets sintered at 850 (a) and (b), 900 (c) and (d), and 950 ◦C (e) and (f) in the temperature range from 50 ◦C to 200 ◦C.
+
+and 950 ◦C for 5 h. All the samples show relatively dense structures (Fig.3 (a)−(c)). The average grain size increases signiﬁcantly along with increasing the temperature from ca. 0.5 µm (850 ◦C) to ca. 2−5 µm (950 ◦C) ((Fig.3 (d)−(f)).
+
+Figure 4 shows the EIS of the pellets sintered at 850, 900 and 950 ◦C in the temperature range from 50 ◦C to 200 ◦C. It can be seen that the spectra at 50 and
+
+100 ◦C consist of an incomplete semicircle in the high frequency range and a long sloping line in the low frequency range. In this case, the total resistance (Rt) and the bulk resistance (Rb) of the samples can be obtained from the right and left intercepts of the semicircle at the real axis in the plots, respectively. We may also derive the grain-boundary resistance (Rgb) with the relationship Rgb=Rt−Rb. However, when the temperature in-
+
+c 176)2012 Chinese Physical Society
+
+FIG. 5 Arrhenius plots of the pellets sintered at 850, 900, and 950 ◦C.
+
+FIG. 6 The chronoamperometry curves of the 850 ◦Csintered pellet at room temperature with applying two different voltages 1.0 and 2.0 V.
+
+creases to 150 and 200 ◦C, only the low-frequency sloping line can be measured under our conditions. Therefore, in the whole temperature range of measurement, we only derive the total conductivity (σt) based on the Rt obtained from the EIS spectra. It is found that the total conductivity at 50 ◦C decreases gradually along with increasing the sintering temperature from 850 ◦C to 950 ◦C with the maximum value of σt, 0.3 mS/cm, for the 850 ◦C sample. This result is somewhat against the general knowledge that the increase in the sintering temperature should be beneﬁcial for the ionic conductivity because a higher sintering temperature may increase the density and average grain size of the sample, as shown in Fig.3, and hence decrease the resistance at grain boundaries. One possible reason for this unusual result is that a certain insulating impurity may be segregated from the main LATP phase and enrich at grain boundaries. The higher the sintering temperature, the more impurity phase is produced. The nature of such an impurity phase is under investigation. Another possible reason is that there seems to be more severe cracking on the pellets sintered at higher temperatures (Fig.3 (d)−(f)).
+
+Figure 5 shows the temperature dependence of ionic conductivity for the specimens sintered at 850, 900, and 950 ◦C. σt is found to obey the Arrhenius equation:
+
+where T is the absolute temperature, A the preexponential factor, Ea the activation energy for conduction, and R the gas constant (8.314 J/(mol K)). The 850 ◦C-sintered specimen gives the maximum value of σt at 50 ◦C (0.3 mS/cm) and the minimum value of activation energy Ea (36.6 kJ/mol). If extrapolating the ﬁtting straight line down to room temperature (25 ◦C) for the 850 ◦C-sample, we obtain its σt at 25 ◦C to be 0.102 mS/cm, which is in the same order of magnitude as the data obtained by Xu et al. [9].
+
+Instead of using EIS which is an AC technique, we can also use DC technique such as chronoamperome-
+
+try to estimate the ionic and electronic resistances of the samples. The chronoamperometry curve at room temperature for the 850 ◦C-sintered pellet is shown in Fig.6. Two constant DC voltages, i.e. 2.0 and 1.0 V, respectively, are applied to the specimen and the current relaxation is measured. The initial current values at 2.0 and 1.0 V are 0.702 and 0.373 mA, respectively. Thus, the current is mainly linearly proportional to the applied voltage within the experimental errors. And the initial current corresponds to the sum of the ionic and electronic resistance. For example, from the measurement of 1.0 V voltage, the overall ionic and electronic resistance is about 1.0 V/0.37 mA=2.7 kΩ. Meanwhile, the equilibrium current value after the relaxation is about 0.005 mA, which corresponds to an electronic resistance of about 200 kΩ. It means that the ionic transference number is approximately 0.99, meaning that Li1.3Al0.3Ti1.7(PO4)3 is a pure lithium ion conductor.
+
+Lithium-ion conductor Li1.3Al0.3Ti1.7(PO4)3 with a NASICON-type phase is successfully synthesized by 1,2-PG-assisted sol-gel method. The maximum value of σt is 0.3 mS/cm at 50 ◦C with an activation energy Ea of 36.6 kJ/mol for the 850 ◦C-sintered specimen. This method makes it easy to prepare a homogeneous precursor solution for the Li1.3Al0.3Ti1.7(PO4)3 at a considerably low temperature for a short synthesis time in comparison with traditional solid-state reaction methods. The high conductivity, good chemical stability and easy fabrication of the Li1.3Al0.3Ti1.7(PO4)3 provide a promising candidate as a solid electrolyte for all-solidstate lithium ion rechargeable batteries.
+
+NASICON-type Structured Li1.3Al0.3Ti1.7(PO4)3
+
+This work was supported by the National Natural Science Foundation of China (No.20971117 and No.10979049) and the Education Department of Anhui Province (No.KJ2009A142). We are also grateful to the Solar Energy Operation Plan of Academia Sinica.

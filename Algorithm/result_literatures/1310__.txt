@@ -1,0 +1,57 @@
+TiO2 exhibits  strongly  photocatalytic  activity  and  hence  has found  wide  applications  in  environment  ﬁelds  such  as  air/water puriﬁcation,  deodorization,  sterilization,  as  well  as  self-cleaning [1].  The  activity  of  TiO2 depends  on  its  crystalline  structure  and particle  sizes,  and  has  been  reported  to  be  higher  in  the  nano-sized anatase  [2].  For  practical  applications,  the  nano-sized  anatase particles  usually  need  to  be  coated  on  an  appropriate  substrate. However,  this  brings  about  a  problem;  such  coating  ﬁlms  easily peel  off  from  the  substrate  over  time,  leading  a  short  service  life. Glass  ceramics  do  not  have  such  problem  and  furthermore  they have  advantages  in  ease  of  manufacture  in  different  sizes  and shapes,  such  as  sheets,  rods,  tubes  and  ﬁbers.  It  is  therefore interesting  to  explore  photocatalytic  glass  ceramics.
+
+Glass  ceramics  are  hybrid  materials  of  glasses  and  crystals  and their  characteristics  usually  depend  strongly  on  the  properties  of the  precipitated  crystals.  By  adjusting  the  glass  compositions  and the  heat-treatment  conditions,  it  is  possible  to  precipitate  a  desired crystal  in  a  glass  and  hence  realize  the  similar  properties  to  the crystal.  Recently,  the  present  author  has  successfully  precipitated anatase-type  TiO2 in  the  phosphate  glasses  [3].  The  resultant  glass ceramics  contained  nano-sized  TiO2 and  showed  high  photocatalytic  activity.  More  recently,  during  the  course  of  studying  the relationship  between  the  glass  composition  and  the  photocatalytic activity,  the  author  further  found  that  glass  ceramics  containing only  Nasicon-type  crystals,  MTi4(PO4)6 (M  =  Mg,  Ca,  Sr  and  Ba)  or RTi2(PO4)3 (R  =  Li,  Na  and  K)  showed  effective  photocatalytic
+
+0025-5408/$  –  see  front  matter  ß  2012  Elsevier  Ltd.  All  rights  reserved. http://dx.doi.org/10.1016/j.materresbull.2012.10.009
+
+activity.  In  this  paper,  preparation  and  the  photocatalytic  activity of  the  glass  ceramics  containing  these  Nasicon-type  crystals  will  be presented.  Some  of  these  Nasicon-type  crystals  are  well  known  as fast  ion  conductors  or  very  low  thermal  expansion  materials  [4–8], but  no  observation  of  photocatalytic  activity  has  been  reported  so far.
+
+Glasses  were  prepared  by  using  reagent  grade  Mg(PO3)2, Ca(PO3)2,  Sr(PO3)2,  Ba(PO3)2,  Li3PO4,  NaH2PO4,  KH2PO4,  TiO2, NH4H2PO4 and  SiO2 as  starting  materials.  The  batches  were  placed in  platinum  crucibles  and  melted  in  an  electrical  furnace.  The batches  were  ﬁrst  kept  at  700  8C  for  2  h  in  order  to  release  volatile products  coming  from  the  starting  materials.  Then,  they  were heated  to  1450–1500  8C  and  melted  at  the  temperatures  for  3  h. Finally,  the  melts  were  poured  directly  from  the  furnace  into  cool water  to  quench  them  to  room  temperature,  thereby  avoiding crystallization  and  preserving  the  amorphous  nature  of  the  glasses. After  being  oven  dried  at  80  8C  in  air  for  one  day  the  resultant  glass frits  were  further  crushed,  and  particles  with  a  size  of  1.0–3.0  mm were  used  for  heat-treatments  and  property  measurements.
+
+The  glass  transition  temperature  and  crystallization  temperature  were  determined  by  differential  thermal  analysis  (DTA)  at  a heating  rate  of  10  K/min.
+
+Crystalline  phases  were  identiﬁed  by  X-ray  diffraction  (XRD) analysis  (Philips  Diffractometer)  on  powder  samples.  Cu  Ka
+
+glasses  whose  compositions  can  be  expressed  as  37.5P2O5– 50TiO2–12.5MO  and  37.5P2O5–50TiO2–12.5R2O–10SiO2 were used  further  crystallization  experiments  and  property measurements.
+
+Fig.  1  shows  the  DTA  curves  for  the  as-made  glasses.  Only  one crystallization  peak  is  observed  in  every  sample.  The  crystallization  temperature  increased  with  the  increase  in  the  radius  of  M2+ or  R+ ion,  ranging  from  740  8C  to  830  8C  for  the  M-containing samples  and  710  8C  to  810  8C  for  the  R-containing  samples.  XRD measurements  on  the  powder  samples  heated  to  the  crystallization  temperature  without  holding  stages  revealed  that  the
+
+radiation  was  obtained  from  a  copper  X-ray  tube  operated  at  40  kV and  40  mA.  The  measurements  were  made  in  step-scanning  mode and  the  diffraction  angle  (2u)  ranged  from  108  and  608  with  a  step size  of  0.018  and  a  step  time  of  2  s.
+
+Diffuse  reﬂectance  spectra  of  powder  samples  were  measured using  a  UV  spectrometer  (V-650,  JASCO  Corporation)  equipped with  an  integrating  sphere  to  evaluate  the  optical  band  gaps.
+
+Photocatalytic  activity  of  the  glass  ceramics  was  evaluated  by the  decomposition  of  both  methylene  blue  (MB)  and  acetaldehyde. Before  the  measurements,  the  glass  ceramics  were  soaked  in 4.6  wt.%  HF  aqueous  solution  for  1  min  in  order  to  remove  the residual  glassy  phase  in  the  surface.  For  the  MB  decomposition experiment,  1.0  g  of  the  glass  ceramics  were  dispersed  in  5  ml  of MB  solution  (0.01  mmol/L),  and  the  concentration  changes  of  MB under  dark  conditions  and  UV  irradiation  were  measured respectively  at  an  interval  of  30  min  using  UV  spectrometer  (V650,  JASCO  Corporation)  to  evaluate  the  adsorption  and  photodecomposition  properties.  For  the  acetaldehyde  decomposition experiment,  12.0  g  of  the  glass  ceramics  were  uniformly  spread over  an  area  of  60  cm2 in  a  tightly  sealed  quartz  vessel.  80  ppm  of gaseous  acetaldehyde  was  into  the  vessel,  and  the concentration  changes  of  both  acetaldehyde  and  carbon  dioxide were  monitored  using  a  gas  chromatography  (GC-8A,  SIMADZU) before  and  after  UV  irradiation.
+
+Glass  formation  of  compositions  corresponding  to  the  stoichiometric  Nasicon-type  crystals,  MTi4(PO4)6 (M  =  Mg,  Ca,  Sr  and Ba)  and  RTi2(PO4)3 (R  =  Li,  Na  and  K)  was  ﬁrst  investigated.  Pure glasses  were  obtained  for  the  M-containing  compositions,  but  not for  the  R-containing  ones.  To  improve  the  glass  formation  ability of  the  latter  compositions,  SiO2 was  incorporated  and  pure  glasses were  obtained  with  the  incorporation  of  10  mol%  SiO2.  These  pure
+
+Fig.  1.  DTA  curves  of  37.5P2O5–50TiO2–12.5MO  and  37.5P2O5–50TiO2–12.5R2O– 10SiO2 glasses.
+
+Fig.  2.  XRD  patterns  of  (a)  37.5P2O5–50TiO2–12.5MO  and  (b)  37.5P2O5–50TiO2– 12.5R2O–10SiO2 glasses  heat-treated  at  850  8C  for  4  h.
+
+Fig.  3.  Diffuse  reﬂectance  spectra  of  37.5P2O5–50TiO2–12.5MgO  and  37.5P2O5– 50TiO2–12.5Na2O–10SiO2 glasses  heat-treated  at  850  8C  for  4  h.
+
+crystallization  peak  in  every  sample  is  due  to  single  Nasicon-type crystalline  phase.
+
+Glass  ceramics  for  the  investigations  of  photocatalytic  activity were  obtained  by  the  heat-treatments  at  850  8C  for  4  h.  Fig.  2 shows  the  XRD  patterns  of  the  glass  ceramics.  Appearance  of  sharp diffraction  peaks  indicates  crystallization  took  place.  All  the diffraction  peaks  observed  in  every  sample  are  attributable  to single  Nasicon-type  crystalline  phases,  MTi4(PO4)6 or  RTi2(PO4)3.
+
+Fig.  3  shows  typical  diffuse  reﬂectance  spectra  of  Mg and  Nacontaining  glass  ceramics.  Both  samples  have  almost  the  same absorption  properties  and  no  absorption  is  observed  in  the  visible region.  From  the  absorption  edges  the  optical  band  gaps  of  these two  glass  ceramics  were  estimated  to  be  about  3.2  eV.  This  value  is nearly  equivalent  to  that  of  the  typical  photocatalyst  TiO2,
+
+Fig.  5.  Relationship  between  the  decomposed  fraction  of  MB  and  the  kinds  of  metal ions  for  37.5P2O5–50TiO2–12.5MO  (M  =  Mg,  Ca,  Sr  and  Ba)  and  37.5P2O5–50TiO2– 12.5R2O–10SiO2 (R  =  Li,  Na  and  K)  glass  ceramics.
+
+MB  decomposition  experiments  were  carried  out  to  investigate the  photocatalytic  activity  of  the  obtained  glass–ceramics.  Changes in  MB  concentrations  have  been  measured  under  both  dark conditions  and  UV  light  irradiation.  Typical  results  are  shown  in Fig.  4.  The  decrease  of  MB  concentration  in  the  dark  is  due  to adsorption  while  that  under  UV  irradiation  results  from  both adsorption  and  decomposition  of  MB.  The  former  did  not  change much  and  nearly  reached  saturation  in  about  60  min,  but  the  latter changed  markedly  and  no  MB  could  be  detected  after  120  min, indicating  that  the  glass  ceramic  efﬁciently  decomposes  MB.  To compare  the  decomposition  ability  for  different  M2+ or  R+ ion,  the decomposed  fraction  of  MB  after  UV  irradiation  for  90  min  was calculated.  The  results  are  shown  in  Fig.  5.  The  decomposition ability,  i.e.  photocatalytic  activity,  varied  largely  but  no  dependence  on  the  radius  of  M2+ or  R+ ion  was  observed.  The  Mg and  Cacontaining  glass  ceramics  showed  much  higher  activity  than  the other  ones.  The  activity  for  the  MgO-containing  sample  was  further conﬁrmed  by  the  photodecomposition  of  CH3CHO  as  shown  in Fig.  6.  Before  the  UV  irradiation,  there  was  only  a  slight  decrease  of CH3CHO  due  to  the  adsorption  and  no  CO2 was  detectable.
+
+Fig.  4.  Changes  in  MB  concentrations  under  both  dark  condition  and  UV  irradiation for  37.5P2O5–50TiO2–12.5MgO  glass  heat-treated  at  850  8C  for  4  h.
+
+Fig.  6.  Concentration  changes  of  both  CH3CHO  and  CO2 before  and  after  UV irradiation.
+
+However,  when  irradiated  with  UV  light,  CH3CHO  showed  an immediate  decrease  and  at  the  same  time  CO2 appeared.  After  4  h of  UV  irradiation,  CH3CHO  almost  vanished  and  the  concentration of  CO2 reached  150  ppm.  This  value  is  approximately  two  times  of initial  injected  CH3CHO,  indicating  the  complete  decomposition  of CH3CHO.  Since  no  phototocatalytic  activity  could  be  conﬁrmed  for the  as-made  glasses,  it  is  reasonable  to  believe  that  the  observed photocatalytic  activity  in  the  present  glass  ceramics  is  due  to  the Nasicon  crystals.  This  is  the  ﬁrst  observation  of  photocatalytic activity  on  the  Nasicon  crystals  and  the  mechanism  is  presently unclear.  Investigation  on  this  aspect  including  the  effects  of  the crystallite  size,  the  volume  fraction  of  the  crystallites  and  the surface  morphology  improve  the photocatalytic  activity.
+
+Glass  ceramics  containing  Nasicon-type  crystals,  MTi4(PO4)6 (M  =  Mg,  Ca,  Sr  and  Ba)  and  RTi2(PO4)3 (R  =  Li,  Na  and  K)  were  found to  show  effective  photocatalytic  activity  under  UV  irradiation  with
+
+intensity  of  1.0  mW/cm2.  MgTi4(PO4)6 and  CaTi4(PO4)6 precipitated  glass  ceramics  exhibited  higher  activity.  To  the  present  author’s knowledge,  this  is  the  ﬁrst  observation  of  photocatalytic  activity  on Nasicon-type  crystals.
+
+Acknowledgments
+
+The  author  would  like  to  thank  N.  Watanabe  and  T.  Morita  for
+
+the  measurements  of  the  photocatalytic  properties.

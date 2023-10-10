@@ -1,0 +1,55 @@
+Trivalent cation-doped sodium zirconium phosphates Na M Zr
+
+norganic solid electrolytes have been widely investigated because of their potential use in energy storage/conversion systems, sensors and so on. Among Ionic ] Conductor) which is a solid solution between ] NaZr P O (NZP) and Na Zr Si O (NZS) is one of the most intensively studied materials [1,2]. The
+
+Figs. 1–4 show the XRD patterns with different dopant content, x in M-NZP (M: In, Yb, Tb and Gd),
+
+Fig. 1. X-ray diffraction patterns (a) of nominal Na pelletizing powder as a function of In content (x); (b) is added for clarifying whether the two-phase region was present or not.
+
+Fig. 2. X-ray diffraction patterns (a) of nominal Na Yb Zr pelletizing powder as a function of Yb content (x); (b) is added for clarifying whether the two-phase region was present or not.
+
+respectively. All the peaks of NASICON phases could be indexed on the basis of the hexagonal cell ](R3c) of NZP [19]. The variation of lattice parameters a and c is shown in Fig. 5 for all the systems. For the In-NZP system (Fig. 1), a NASICON phase was obtained as a single phase up to x51.4; all the XRD peaks shift monotonously to high or low angle with increasing In content. For x$1.5, In O , 3 2 InPO , and an unidentiﬁed phase were detected.
+
+The variation of lattice parameters a and c as a function of the In content (Fig. 5(a)) shows good agreement with the above result. Both hexagonal a and c changed linearly similar to the data of Delmas et al. [7] (n, m), indicating that a homogeneous solid solution could be formed up to x51.4. The solubility limit was given as x51.85 by Delmas et al. [7] and x52.0 by Winand et al. [10], which were larger than our result. However, complete elimina-
+
+Fig. 3. X-ray diffraction patterns (a) of nominal Na pelletizing powder as a function of Tb content (x); (b) is added for clarifying whether the two-phase region was present or not.
+
+Fig. 4. X-ray diffraction patterns (a) of nominal Na Gd Zr pelletizing powder as a function of Gd content (x); (b) is added for clarifying whether the two-phase region was present or not.
+
+tion of impurity phases from the samples above x51.5 was not accomplished even for longer ﬁring (24 h) as reported in the literature [7,10].
+
+The composition dependence of the XRD patterns of Yb-NZP (Fig. 3) and Er-NZP (not shown) systems were quite similar to each other. Although all the XRD peaks shifted to lower 2u angle up to x50.8 with increasing Yb content, the direction of the (116)
+
+peak shifts to higher 2u angle above x51.2. Simultaneously, the (202) peak appeared and its intensity increased drastically above x51.2. These observations suggest that another NASICON-type solid solution is formed at above x51.0. The compositional dependence of the lattice parameters for Ybor Er-NZP systems (Fig. 5(b) and (c), respectively) suggest the existence of new NASICON phase, i.e.,
+
+the c-parameters increased up to x50.8, and then decreased rapidly between 1.2 and 1.9, as reported by Delmas et al. [7]. Such compositional dependency of the c-parameter for Ybor Er-NZP systems is completely different from that for In-NZP, in which only one solid solution is observed over the single
+
+In the Gd-NZP system, a slight XRD peak shift up to x50.2 was observed until a new peak was formed between (104) and (110) (Fig. 4). All the XRD peaks in each pattern between x50.3 and 0.4 could be indexed as a mixture of the two NASICON phases (R3c) with different lattice parameters (See Fig. 5(f)). No single-phase region of the new NGdP phase has been observed even at the solubility limit of Gd
+
+under our ﬁring condition.
+
+The composition dependence of the lattice parameters of In-NZP is clearly different from other MNZP systems. This difference may be attributed to 31 the large difference in ionic radii between In (r50.790 A) and the other dopants (Fig. 6). With increasing the radius of M , the homogeneity range (d) of NZP-based solid solution seems to be narrower, and the two-phases region (h) around x51.0 becomes wider. The above results reveal that both the stability of NASICON framework and the phase appearance has a strong dependence on the ionic sizes of trivalent dopants.
+
+Delmas et al. reported a similar unusual composition dependence of a and c for the Yb-NZP system [7]. However, they did not detect the presence of a phase boundary experimentally, because the discontinuity in lattice parameters was too small. We have demonstrated the crystallographic behavior of the trivalent ion doped NZP solid solutions by examining systems with larger rare earth dopants. It was found that the new solid solution (NMP phase) was formed and had a slightly different NASICONtype framework structure in the system involving larger dopants than In . Fujitsu et al. [8] prepared 31Y -doped NZP and observed a broad maximum of the c-parameter around x50.75, as in the Yb or 31 Er -doped systems. Since the ionic radius of Y ˚ (0.900 A [21]) is intermediate between those of Er 31 and Dy , the apparent c-axis maximum can be attributed to the formation of a new NASICON phase at high Y content (x$1.0).
+
+The stability of the NYbP phase was examined in air using a sample with x51.9, Fig. 7. After the as-prepared sample (Fig. 7(c)) was kept at 608C for 1 month, additional XRD peaks marked with ' were
+
+Fig. 9 represents the temperature dependence of electrical conductivity for a single phase In-NZP with the compositions, x50–1.4. All log(s) vs. 1/T plots were approximately linear. The conductivity increased with increasing In content with an almost constant activation energy (40 kJ/mol), suggesting that the conductivity enhancement was mainly due to an increase in the concentration of mobile Na ions. This behavior is consistent with the results reported by Delmas et al. [7].
+
+The temperature dependence of electrical con-
+
+Fig. 9. Temperature dependence of electrical conductivity for the polycrystalline pellets within a single phase of NZP-based solid solution in Na P O system. Activation energy was obtained from each ﬁtted line.
+
+ductivity for Na Yb Zr P O (Fig. 10) is seen to change depending on the Yb content. In Fig. 10(a), the plots are linear with similar activation energies (40 kJ/mol) as in In-NZP samples. In Fig. 10(b), large deviations from linearity occurred above 500 K and the conductivity decreased with increasing Yb content. Simultaneously, the activation energy obtained from the linear region below 500 K increased. The difference between samples with low and high Yb contents supports the presence of two kinds of solid solutions. This means that the contribution of the framework structure (mobility term) to the ionic conductivity can not be ignored for NYbP phase. No thermal anomaly was observed near 500 K by DTA measurements for NYbP (x51.3 and 1.9) phases, indicating that the deviation cannot not be associated with a ﬁrst-order structural transition. XRD measurements at elevated temperature will be needed for providing further explanations. The difference in the compositional dependence of the activation energy between the two kinds of solid solutions is also observed for Erand Tb-NZP systems, which suggests that the mobility term of mobile Na ions is predominant for understanding the conduction mechanism of NMP solid solutions. The hypothesis may explain the presence of maximum in the dopant content dependence of the electrical conductivity [11].
+
+2.2.1. Conclusions
+
+P O (M: In, Yb, Er, Dy, Tb, and Gd) solid electrolytes were prepared in order to examine the effect of the sizes of trivalent cations on the solubility limit of NASICON framework structure, and on the electrical conductivity. The XRD patterns showed two different phases; one was assigned to the previously-reported NZP-based solid solution and the other one to a new phase (NMP (M: Yb, Er, Dy, Tb, Gd)) with NASICON framework structure, produced when the ionic radius of M ion and x, the amount substituted, is large. The stability range of the new NASICON phase was sensitive to the dopant radii. This new phase could be regarded as a metastable phase, which was easily stabilized by quenching the sample from slightly high temperature (2008C). The temperature dependence of electrical conductivity revealed large differences between NZP-based solid solutions including
+
+Y. Miyajima et al. / Solid State Ionics 124(1999)201–211
+
+Fig. 10. Temperature dependence of electrical conductivity for the polycrystalline pellets in the composition range of (a) NZP-based solid solution and (b) NYbP solid solution in Na Yb Zr
+
+Fig. 11. Dopant content dependence of activation energy for In(d), Yb(h, j), Er(n, m) and Tb-NZP (y, ') systems. All open and closed symbols indicate the data for NMP and NZP-based solid solutions, respectively.
+
+In or Yb, and NYbP phases; the conductivity of the former phase seems to dependent mainly on the mobile Na ion content, while the conductivity of the latter phase depended mainly on the mobility of the Na

@@ -1,0 +1,129 @@
+Chromium-containing NASICON-related phosphates of the type Na(1+x)CrxM(2−x)P3O12) (M=Ti, Hf, Zr) have been synthesised by solid statereaction and structurally characterised by Rietveld refinement of the powder X-ray diffraction data.
+Materials of composition A(1+x)/2CrxZr(2−x)P3O12 (A=Cd, Ca, Sr), have also been prepared and characterised.
+The crystal structure of Na(1+x)CrxM(2−x)P3O12 corresponds to R-3c symmetryfor x values ranging from 0.15 to 2.00, whereas compounds of composition A(1+x)/2CrxZr(2−x)P3O12 corresponding to R-3c are obtained whenx≤1.00 for Sr2+ and Ca2+, and x≤1.50 for Cd2+.
+The polarizing effect of the two different metal ions A and M on the phosphorus atom and theP–O bond was studied by both 31P MAS NMR and infrared spectroscopy and shows that the electron density on the phosphorus, and thus thestrength of the P–O bonds, are affected by both the interstitial (A) and the structural (M) metal ions.
+(PO4)3, commonly known as NZP, have been widely investigatedsince their discovery, and in particular for practicalapplication as solid electrolytes for battery materials and sensorsdue to their high ionic conductivity .
+A variety ofcompositions can be achieved based on the general formulaAnM2(PO4)3, where the balancing ions(s), A, can be an alkali,alkaline earth, or transition metal, M is commonly a transitionmetal such as Fe, Cr, Ti, Zr, Hf, or Nb, and P can also be(partially) substituted by Si, As, S or Se.
+The best-knownmaterial in this series is the fast-ion conductor NASICON,Na3Zr2(PO4)(SiO4)2.
+ Ionic conductivity in these compounds has been correlated with the movement of ions through vacantsites in the crystal structure , and the flexibility of theframework has allowed the synthesis of compounds with thesmallest ion H+  as well as monovalent  with divalent and higher valent ions occupying the interstitial sites.
+This flexibility also manifests itself in the ability toimmobilize radioactive nuclei .
+These compounds are alsovalued and exploited for their low thermal expansion .
+The NZP crystal structure consists of a framework of cornersharedPO4 tetrahedra and MO6 octahedra producing two differenttypes of sites that set up a three-dimensional linked-channelnetwork.
+Cations A, of considerably different sizes and chargeranging from 1+ to 4+ can be located  in these sites.
+The type I sites (one per formula unit) have a distorted octahedralcoordination and are situated between two MO6 octahedraalong the c axis to produce ribbons of O3MO3AO3MO3.
+The type II sites (three per formula unit) are larger with 8–10coordinating oxygen ions and are located between theseribbons.
+The flexibility of the structure is due to the ability ofthe phosphate unit to rotate without breaking the existingsymmetry.
+When the ribbons expand along the c axis thestructure contracts in the a direction, while a contraction alongthe c direction moves the ribbons away from each other with anexpansion along the a axis.
+In both cases a concomitant rotationof the PO43− unit takes place as a function of the degree ofsubstitution of the A and M ions.
+In order to accommodate ionsin the type I sites the skeleton contracts in the a direction andexpands along the c direction.
+The opposite occurs when extraions are accommodated in the type II sites.
+The tensions within the structure may cause the cations to move from the type I tothe type II sites and also to distort the crystalline structure tomonoclinic symmetry.
+Cuadrado and Alamo  reported the synthesis, andapplication as pigments in glazes, of chromium-containingNASICON-type phases with compositions Na(1+x)CrxM(2−x)P3O12 and Ca(1+x)/2CrxZr(2−x)P3O12 (x=0.06–1.00).
+Other studieshave looked at NASICON structures containing niobiumand zirconium .
+However, very few papers have been devotedto chromium-containing NASICON-related phases and mostof them only to compounds with the formula A0.5CrZrP3O12where A=Ca2+, Sr2+, Ba2+, Mn2+, Pb2+ .
+Studies ofLi(1+x)CrxHf(2−x)P3O12 systems with x=0.0–2.0 were performedby Losilla et al.and particular attention was given to thedetermination of the crystal structure and Li+ conductivity.
+Spectroscopic studies on the structure of NASICONvanadium and niobium phosphate glasses with related structureshave been performed by Rao et al.
+In this work we report our findings on the structuralproperties of NASICONS which arose as the results of a searchfor new, stable, high-temperature pigments.
+This led us to thepreparation of six new series of NASICON-related compoundswith the composition Na(1+x)CrxM(2−x)P3O12 (M=Ti, Hf, Zr)and A(1+x)/2CrxZr(2−x)P3O12 (A=Cd2+, Ca2+, Sr2+).
+The compoundsin these series have been structurally characterised usingboth diffraction and spectroscopic techniques.
+The effects ofincreasing chromium substitution on type I and type IIoccupation, on the distortion of the phosphate chains, and onthe changes in bonding has been examined, as has the effect ofchanging the charge on the counter ions.
+Compounds of composition Na(1+x)CrxM(2−x)P3O12 wereprepared from stoichiometric quantities of (NH4)2HPO4, MO2(M=Ti, Zr, Hf), Cr2O3 and 0.2% excess of Na2CO3 which hadbeen ball-milled for 30 min in acetone.
+The same procedure wasfollowed for the preparation ofmixtures to obtainA(1+x)/2CrxZr(2−x)P3O12 (A=Cd2+, Ca2+, Sr2+) using CdCO3, CaCO3 and SrCO3 instoichiometric amounts, respectively (x=0.15–1.00 for A=Sr2+,Ca2+; x=0.15–1.50 for A=Cd2+).
+The mixtures were dried atroom temperature in air, heated to 800 °C at 100 °C/h, maintainedat this temperature for 12 h, cooled, ground and calcined at1200 °C for 5 h.
+Mixtures where A is Cd2+, Ca2+ or Sr2+ wereheated to 1300 °C during the final calcination step.
+Powder X-ray diffraction (XRD) patterns were recorded witha Siemens D5000 diffractometer in reflection mode using CuKαradiation.
+XRD patterns were collected between 10° and 75°with 0.02° step size and 10 s counting time, and were refined bythe Rietveld method using the WinMProf program.
+31P NMR spectra were recorded at 161.992 MHz with a JeolEX400 FT NMR spectrometer equipped with a 5 mm highspeedMAS probe from Data Scientific Inc. using a pulse lengthof 2 ms with a delay of 10 s between pulses, and spinning speedof 7 kHz.
+All spectra were recorded at 298 K.
+Chemical shiftvalues are quoted with respect to 85% aqueous H3PO4 solution.
+FT-IR spectra were performed on KBr pellets, and recorded on aNicolet 205 instrument.
+All spectra were recorded at 8 cm−1resolution.
+The XRD data of these materials indicate the formation ofsingle crystalline phases with structures which could be indexedto the rhombohedral R-3c NASICON-type structure for xvarying between 0.15 and 2.00. 
+The samples were a light pinkcolour for low chromium content (x≤0.5) while for higherconcentration the compounds were a light green colour whichbecame more marked at x≥1.75. 
+The formation of Cr5(P3O10)3was observed when the components were used in stoichiometricproportions, and to obtain a single phase, Na2CO3 was requiredin the reactant mixture in a 0.1–0.2% excess; if the excess ofNa2CO3 was greater (0.5–1%) Na3PO4 was formed in the finalproduct.
+Previous work reported the formation NaZrO3 as asecondary phase in the synthesis of Na(1+x)CrxZr(2−x)P3O12compounds with x ranging from 0.00 to 1.00.
+The crystal structure of the NASICON-related phasesobtained were refined by the Rietveld  method usingtheWinMProf profile refinement program .
+The peak shapewas assumed to be pseudo-Voigt functions.
+The structures ofNa(1+x)CrxM(2−x)P3O12 as a function of x were determined usingthe R-3c structure of Na3Cr2(PO4)3 as a starting model.
+The Cr3+and M ions were assumed to be randomly distributed at the 12coctahedral sites.
+In the refinement of compounds with formulaNa(1+x)CrxM(2−x)P3O12 the type I sites were initially assumed tobe fully occupied and the excess of sodium needed tocounterbalance the negative charge of the phosphate as aconsequence of the increased Cr/Zr ratio was postulated to belocated in the type II sites at (x, y, z as 0.65, 0, 0.25, respectively).
+In the initial stages of the refinement the scale factor, the zeropoint correction, the background parameters, the unit cellparameters, and the pseudo-Voigt coefficients were refinedfirst.
+The positional parameters of the atoms were then refined.
+The Cr/Zr ratio was allowed to change freely, constraining thefull occupancy of the 12c octahedral sites.
+The occupationfactor of the type II sites was refined so that the electroneutralityof the formula was maintained.
+The temperature factorsfor each site and the occupancy of the type I sites were finallyrefined.
+In all cases, with different metal ions M occupying theoctahedral sites (M=Hf, Zr, Ti), the unit cell parameters a(b),and c change linearly as a function of x (which varies between0.00 and 2.00; Fig.1 and Table 1).
+The a, c parameters as wellas x, are shown in Fig.
+1a as a function of the starting materialcomposition.
+The linear decrease of the a(b) and c parametersas a function of x reflects the substitution of the Zr4+ and Hf4+ions by the smaller Cr3+ ions in the case of Na(1+x)CrxM(2−x)P3O12. 
+The variation of the ionic (crystal) radii of M are Ti4+(r=75 pm)≈Cr3+ (r=76 pm) bZr4+ (r=86 pm)≈Hf4+(r=85 pm) .
+The a and c parameters decrease almostidentically in the case of Hf4+ and Zr4+, which have almost thesame ion size.
+In the substitution of Ti4+ by Cr3+, where the ionsare very similar in size but not in charge, there is a smalldecrease of the c parameter, and the increase of the a, bparameters is due to the occupation of the type II sites by theextra sodium ions and the concomitant adjustment of thestructure to accommodate these ions.
+The refined Cr3+/M metalion ratios agree very well with the nominal composition of thematerials, thus confirming the random substitution by Cr3+ ionson M in the octahedral sites.
+The refinements demonstrate thatthe sodium ion occupancy of the type I sites decreases as a function of x: the type I sites get smaller along the c axis as aresult of the replacement of the M4+ ions by Cr3+ ions and thesodium ions tend to migrate into the bigger type II sites.
+Accordingly, for x=1.00 the type I sites are fully occupied, forx=1.5 the occupancy decreases to 0.97, to 0.86 when x=1.75,and to 0.79 when x=2.00.For compounds of the type A(1+x)/2CrxZr(2−x)P3O12 withA=Ca2+, Sr2+, Cd2+ the single NASICON-type phase wasformed only following a final calcination step at 1300 °C for atleast 5 h.
+The formation of the NASICON-type phase wasdependent on the type of A ion as well as on the initialcomposition of the mixture and therefore on the value of x.
+Noformation of a NASICON-related phase was detected whenA=Mg2+.
+According to the literature, Mg0.5Zr2P3O12 crystallisesin the monoclinic symmetry (space group P21/n) .
+Thesamples were a yellowish colour for low chromium content(x≤0.5).
+At x=1.00 the compounds were a very light greencolour.
+Only with A=Cd2+ at x=1.50 was a deeper green colourobserved.
+The observed, calculated and difference patternsobtained from the final structural refinement of the data forCd1.25Cr1.5Zr0.5P3O12 are shown in Fig.2 as an example(RwP%=12.8, RF%=14.8, χ2 =4.7).
+Fig.1b and Table 2 show the variation of the cell parameters(a, b, c) as well as of the calculated composition x as a functionof the nominal composition which was obtained by Rietveldrefinement for A(1+x)/2CrxZr(2−x)P3O12 (A=Cd2+, Ca2+, Sr2+).
+In the case of Sr2+, and Ca2+ the NASICON-related structure isformed as a unique phase within the composition interval0.00≤x≤1.00, and in the case of Cd2+ the interval extends over0.00≤x≤1.50. 
+All parameters vary linearly as a function of xwithin the composition range where the NASICON-related structure is formed as a unique phase.
+In compounds withformula A(1+x)/2CrxZr(2−x)P3O12, the full occupancy of the type Isites is achieved when x=1.00, and for xN1.00 the hexagonalphase can become unstable.
+In phases having the same ratio of Cr3+/Zr4+ the a parameterdecreases whereas the c parameter increases with an increase inthe radius of the cation A.
+The relevant crystal radii are:Na+ r=116 pm; Cd2+ r=109 pm; Ca2+ r=114 pm; Sr2+r=132 pm.
+We observe that, when A=Sr2+, the a parameter is lower than for the materials where A=Ca2+ and Cd2+.
+This isbecause the A2+ ions occupy the type I sites situated betweentwo MO6 octahedra when x≤1.00, rendering the c-parametervalue higher in the case of the larger Sr2+ as compared with Ca2+and Cd2+.
+The expansion of the framework along the c-axiscauses a rotation of the tetrahedral PO4 units connecting twoparallel columns, with a concomitant contraction of the structurealong the a-direction.
+The Sr2+ ion produces a more pronouncedrotation of the phosphate units in the crystalline framework, andtherefore a more enhanced shrinkage of the structure along the aaxis is observed.
+The formation of the NASICON-type phase as a function of xdepends on the metal ion A2+.
+The more pronounced distortionson the structure framework caused by the larger interstitial ionslimit the formation of the NASICON-related structure tox≤1.00 in the case of Ca2+ and Sr2+; whereas the NASICONrelatedstructure is formed as x approaches x=1.50 with thesmaller ion Cd2+.
+Similar behaviour was observed by Miyajima in the case of NASICON-type compounds in the seriesNa(1+x)MxZr(2-x)(PO4)3 as a function of the ionic size of Mwhere M is In3+, Yb3+, Er3+, Dy3+, Tb3+, Gd3+, Sm3+: ionswith a radius less than 90 pm form NASICON-related structureswith x up to 2, while the substitution is drastically decreasedwith ions with a radius greater than 90 pm.
+The Rietveldrefinement of Cd1.25Cr1.5Zr0.5P3O12 also showed that the occupancy of type I sites is 0.92 for x=1.00 but decreases to 0.89 when x=1.50.
+The substitution of the Zr4+ ions with Cr3+ and the insertionof A ions into the cavities eventually deforms the crystallinestructure to such a degree that the NASICON-related phase islost and a monoclinic phase is formed.
+The size of the A and Mions play an important role in the formation of the NASICONtypestructure and causes the distortion of the phosphate units; atthe same time their charge density affects the electron density ofthe phosphorus and therefore the strength of the M–O–P bonds.
+Infrared spectra of the compounds Na(1+x)CrxM(2−x)P3O12(M=Ti, Zr, Hf, x varies 0.15–2.00) are shown in Fig.
+3a, b and c.
+In the spectra two main regions can be identified in the range1300–400 cm−1 which are attributed to the phosphate unit:(1) The bands between 1250 and 900 cm−1 are ascribed to thestretching vibrations of the PO4 unit (ν1 and ν3 modes)(2) The bands between 650 and 400 cm−1 are due to thedeformation of the O–P–O angle (ν2 and ν4 modes)The ν3 mode is very sensitive to any phosphate distortioncaused by the polarizing effect of the neighbouring metal ions inthe crystal structure .
+The broad bands and complexity ofthese spectra indicate that the phosphate group is highlydistorted, and the symmetry of the PO43− group reduced to D3hfrom the Td symmetry of the isolated ion.
+The dimension and thecharge of the metal ions contained in the ribbons of thecrystalline structure influence the degree of distortion of the PO43−unit and consequently the strength of the P–O bonds.
+Table 3 shows the frequencies of the bands as a function of the metal ionM(M=Ti4+, Zr4+, andHf4+) and as a function of their substitutionwith Cr3+.
+A shift towards higher frequencies is observed for theantisymmetric P–O stretching mode ν3 as the metal ion Mchanges fromTi4+ to Zr4+ to Hf4+.
+A further shift to higher energyis observed when the M ion is substituted by Cr3+.
+This shift tohigher energies is due to the increase of the covalent character ofthe P–Obond as a consequence of the decreasing polarizing effectof metal ions with increasing atomic number .
+Further, thebands ν2 and ν4 assigned to O–P–O bending modes depend onthe substitution of the M metal ions with Cr3+.
+The frequency ofν4 decreases slightly as a function of the substitution, the effectincreasing down the group.
+The band due to the ν2 mode is shiftedto higher frequencies.
+The intense high frequency band at 1227–1185 cm−1 is ascribed to the interaction between the P–O bondand the adjacent M–O bonds and is therefore stronglydependent on the size of the M ion.
+The band shifts to lowerenergies as the substitution of M with the smaller Cr3+ ion takesplace as previously shown for similar NASICON-relatedcompounds.
+The band observed in the 740–755 cm−1 region (Fig.3a, b, c),which increases in intensity as the substitution of Cr3+ increases,is thought to be due to the vibrational modes of the CrO6 octahedra.
+The infrared spectra of A0.9Cr0.8Zr1.2P3O12 (A is Ca2+, Sr2+and Cd2+) are shown in Fig.3d.
+The region between 1250 and900 cm−1 in the case of Sr2+ appears broad and not clearlydefined, probably due to the strong distortion of the phosphateunit derived from the insertion of Sr2+ into the cavities.
+In thecase of the spectra of Cd0.9Cr0.8Zr1.2P3O12, the ν3 band showsa shift towards lower frequencies as compared with Ca0.9Cr0.8Zr1.2P3O12 as a result of the stronger polarizing effect ofCd2+.
+The electron density of the P–O bonds is affected bythe polarizing effect of the metal ions in the cavities, as wellas by the structural metal ions in the ribbons of the crystallinestructure (Cr3+, Ti4+, Zr4+, Hf4+).
+This contrasts with the lackof effect brought about by change in alkali metal ion .
+The polarizing effect of the two different types of metal ion(structural and interstitial) on the phosphorus atom has also beenshown by 31P MAS NMR spectroscopy.
+31P MAS NMR spectraof the sample Na(1+x)CrxZr(2−x)P3O12 and Ca(1+x)/2CrxZr(2−x)P3O12 as a function of x were recorded at room temperature(Fig.4a and b, respectively).
+In all cases the intensities of thephosphorus bands decrease as a function of x.
+This is due tothe increase in substitution of the paramagnetic Cr3+ for Zr4+in the crystalline framework.
+This shortens the time of decayof the phosphorus signal, and part of the signal is lost resultingin a low-resolution spectrum particularly where high quantitiesof chromium (xN1.00) are present.
+A greater number of scans(1000 scans) were required to obtain a signal with goodresolution in samples where xN1.00, whereas at lowerchromium content (x≤0.55) 20 scans were sufficient.
+Inthese NASICON-related structures the oxygen atoms in eachPO4 tetrahedron are shared with four octahedra.
+As the amountof chromium increases the phosphorus can be thought of ashaving one or more adjacent Cr3+ ions; when x=2.00 all thephosphorus atoms have Cr3+ atoms as next neighbours.
+As thevalue of x increases, a shoulder appears in the MAS NMRspectrum at higher ppm, and this becomes more marked as xincreases.
+The variation of the position of the phosphorus bandis due to the different polarizing strength of the tetravalent metalions with respect to the trivalent ions.
+As tetravalent metal ionshave a smaller radius and a larger charge with respect tochromium they are able to withdraw the electron density fromthe oxygen atoms, and therefore from the phosphorus moreeffectively than the Cr3+ ion.
+This produces a higher shieldingeffect on the 31P NMR resonance, which accounts for the shift ofthe band to higher ppm.
+The same behaviour was found in thecase of Ca(1+x)/2CrxZr(2−x)P3O12 (Fig.4b).
+In Fig.4c the x valuewas fixed at 0.45 and the type of counterion was changed: Ca2+,Cd2+, Sr2+, Na+.
+It can be observed that the metal ions in thecavities of the crystalline structure also affect the electrondensity of the phosphorus, reinforcing the infrared observations.
+The Cd2+ ion is smaller than Ca2+ vide infra and both are smallerthan Sr2+, thus their polarizing effect on the phosphorusdecreases with increasing radius; the consequent increase inelectron density, results in a shift to more negative ppm in theNMR spectra.
+The Na+ ion appears to have a greater polarizingeffect than Sr2+: the significantly larger size of the strontium ionwith respect to sodium may account for its lower polarizingeffect despite its higher charge.
+All the NASICON-type structures studied were stable at hightemperatures, and thermal analysis did not show any mass lossbetween room temperature and 1100 °C.
+Differential scanningcalorimetry did not show any structural transitions on heating.
+NASICON-type phosphates with the crystal structure ofNa(1+x)CrxM(2−x)P3O12 corresponding to R-3c symmetry withx ranging from 0 to 2.00 have been synthesised.
+Phosphateswith ion metals Ca2+, Cd2+ and Sr2+ form rhombohedralstructures of formula A(1+x)/2CrxZr(2−x)P3O12 where x=0–1.00for Sr2+ and Ca2+ and x=0–1.5 for Cd2+.
+Both the structural metal atoms occupying the octahedralsites in the ribbons, and the interstitial metal ions in the cavities,affect the electron density of the phosphorus atom and thereforethe covalent nature of the P–O bond, as evidenced by infraredspectroscopy and 31P MAS NMR spectra.

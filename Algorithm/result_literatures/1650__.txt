@@ -1,0 +1,154 @@
+
+Single crystals of NASICON type phosphates Mn1.65TiIII/IV and CoTi4(PO4)6 (lavender colour) were grown by chemical vapour and transport.
+The FeTi4(PO4)6 were refined from single crystal data.
+For the first time a superstructure for a NASICON type phosphate of general formula AIIBIV is observed and successfully refined (FeTi4(PO4)6 [data for Mn1.65Ti4(PO4)6 in brackets] rhombohedral.
+For FeTi4(PO4)6 astructure with a highly ordered cation distribution among the octahedral voids and crystal chemical reasonable interatomic distances results.
+SXRD investigations on CoTi4(PO4)6 reveal also the presence of a superstructure along the NASICON c-axis .
+A new description of the NASICON structure based on group-subgroup considerations shows its close relationship to the NiAs structure .
+The NASICON structure family comprises an exceptionally large number of members.
+The aristotype of the whole family, NaZr2(PO4)3 [4], crystallizes in space group R3¯c (Z ⫽ 3, a ⫽ 8.043(2) A˚ , c ⫽ 22.7585(9) A˚ ).
+Its structure consists of a framework of [ZrIVO6] octahedra and [PO4] tetrahedra.
+Between two [ZrIVO6] octahedra there is an additional octahedral void which is fully occupied by Na⫹ ions.
+Thus, trimeric units [NaZr2O12] of face-sharing octahedra are stacked along the c-axis.
+Each [MO6] group shares its six vertices with phosphate tetrahedra, thus all [NaTi2O12] units are linked via 12 [PO4] groups to 8 further trimers.
+Polynary NASICON type phosphates AB2(PO4)6 occur with a large variety of elements and oxidation states for metal ions A and B.
+NbIVNbV(PO4)3, where  represents an octahedral void, builds an empty NASICON crystal structure.
+This structure type is also adopted by several anhydrous composition 2(SO4)3 .
+Further memMIII bers of the family belong to the compositional series
+ in which the octahedral voids [AO6] are only partially occupied.
+Almost all of the NASICON type compounds known in literature are described in rhombohedral space groups with typical unit cell dimensions a  .
+In recent years a series of NASICON type titanium(IV) phosphates with general formula 1/2AII 2(PO4)3 have been synthesized .
+All these crystal structures were refined from powder data only.
+The crystal structure of FeTi4(PO4)6 has been described in space group R3¯ with a  8.511(1) A˚ and c ⫽20.985(3) A˚ .
+For the Fe2 ions a disorder among two different sites (3a and 3b) was assumed with site occupancy factors of 0.73 and 0.27, respectively.
+Whereas for site Fe1 (Wyckhoff 3a) an almost regular octahedral environment with d(Fe-O)  2.18 A˚ was obtained, the coordination for Fe2 on site 3b shows unreasonable interatomic distances with d(Fe-O)  2.50 A˚ .
+For CoTi4(PO4)6 too, unusual interatomic distances d(Co-O) ⫽ 2.28 A˚ were derived from powder data .
+This situation demanded for a detailed structural investigation on NASICON type phosphates from single-crystal data.
+In this paper we report on crystallization of NASICON type and CoTi4(PO4)6. 
+The crystal structures of the iron and manganese compounds were refined from single crystal data.
+A new crystal chemical approach to the NASICON structure family based on group-subgroup relations [19] is presented.
+
+These tubes were placed in the temperature gradient 1000 씮 900 °C of electrically heated twozone furnaces.
+In chemical vapour transport experiments, mixtures of the starting materials (according to eq.(1) and (2)) were used.
+Experiments with separately synthesized phosphates MTi4(PO4)6 as source materials did not show any significant difference in their transport behaviour.
+Mn1.65Ti4(PO4)6. In transport experiments aiming at the crystallization of MnTi4(PO4)6 deposition of crystals (Fig.1a) on the sink side was obtained under reducing conditions, only.
+Mixtures I2/PI3 (from in situ reaction of 5 mg red phosphorus and 100 mg iodine) were used as transport agent.
+After 7 days, about 50 mg of black, pillar-shaped crystals with edge lengths up to 0.5 mm were deposited at the sink side, whereas a black powder remained at the source side.
+In eq.(3) the dominant transport reaction is given.
+Powder samples that were obtained under non-reducing conditions were colourless.
+This points to the possibility of a partial reduction of Ti4⫹ to Ti3⫹ according to eq.(4).
+Migration of MnTi4(PO4)6 via the gas phase was not observed under oxidizing conditions, e.g.using chlorine as transport agent.
+FeTi4(PO4)6. Crystals of FeTi4(PO4)6 were grown using mixtures Cl2/PCl3/TiCl4 (from in situ reaction of 3 mg TiP with 100 mg chlorine) as transport agent according to eq.(5).
+During 7 days about 20 mg orange-red prismatic crystals were obtained at the sink side, with edge lengths up to 0.4 mm.
+FeTi4(PO4)6 can also be crystallized using mixtures H2/HCl/(N2) (from in situ thermal decomposition of about 10 mg NH4Cl) as transporting agent.
+Grey crystals were obtained in that way, due to a partial reduction of Ti4⫹ to Ti3⫹.
+Adding more NH4Cl (about 30 mg) to the silica tube results in the formation of TiIII 4⫺xFeII x/ 2TiIV 4[Si2O(PO4)6] structure type ; singlecrystal structure refinement in ) at the sink side due to a reduction of Ti4⫹ to Ti3⫹ and reaction with the silica tube.
+The formation of lavender-coloured CoTi4(PO4)6 crystals was obtained using chlorine (from in situ thermal decomposition of PtCl2), mixtures H2/HCl/(N2) (from in situ thermal decomposition of NH4Cl), HCl/(N2) (from in situ thermal decomposition of stoichiometric amounts of PtCl2 and NH4Cl), and mixtures Cl2/PCl3/ TiCl4 (from in situ reaction of TiP with a surplus of chlorine), respectively.
+Generally, the obtained crystals were heavily twinned and thus not suitable for SXRD investigations (Fig 1c).
+Wellshaped tabular hexagonal crystals were only obtained by addition of 5 mg NH4Cl and 100 mg chlorine (eq.(6)).
+Even after 14 days only a few mg (< 5 mg) of well crystallized CoTi4(PO4)6 were obtained with edge lengths up to 0.15 mm.
+To prevent the formation of the neighbouring phosphates CoTi2O2(PO4)2 and Co2P2O7.
+
+
+It is quite remarkable that all our attempts to synthesize “NiTi4(PO4)6” were unsuccessful, leading only to the containing formation of NiTi2O2(PO4)2 and TiP2O7.
+3 TiP2O7 ⫹ TiO2 ⫹ MO 씮 MTi4(PO4)6 (M ⫽Mn, Co) 9 TiP2O7 ⫹ 3 TiO2 ⫹ Fe2O3 ⫹ Fe 씮 3 FeTi4(PO4)6two-phase mixturesContributions on Thermal Behaviour and Crystal Chemistry of Anhydrous Phosphates.
+
+By EDX-analysis the chemical composition of deposited crystals was confirmed.
+No incorporation of silicon into the phosphates was detected.
+Guinier photographs using the image plate technique  were taken for identification, examination of the powder samples for purity and for determination of lattice parameters.
+Details on this technique were reported in.
+The lattice parameters were determined using the program SOS .
+X-Ray single-crystal study.
+Intensity data for “MnTi4(PO4)6” and FeTi4(PO4)6 have been measured on a κ-CCD diffractometer (Enraf-Nonius Inc.
+) at ambient temperature.
+For both compounds, an empirical absorption correction with multiscans  was applied.
+Structure determination and refinement were performed using the SHELX-97 suite in the WinGX  framework.
+The data collection of Mn1.65Ti4(PO4)6 was performed on a black crystal with edge lengths 0.45  0.35  0.32 mm.
+A whole sphere in the range 3.37 θ 34.52° was measured.
+Observed lattice parameters are in agreement with former powder X-ray investigations .
+On the basis of systematic absences and intensity distribution space group R3¯ was derived.
+Starting parameters for the single crystal structure refinements were obtained by Direct Methods in SHELXS .
+Thus, the metal and phosphorus atoms were revealed.
+Subsequent Δ-Fourier syntheses allowed localisation of the oxygen atoms.
+It turned out that two different sites are occupied by manganese.
+The occupancy parameters for these positions and for the two titanium positions (both 6c) have been refined independently.
+For Mn1 (site 3a) occupancy of 65 % was obtained whereas for site Mn2 (3b) complete occupancy was found.
+The occupancy for both titanium sites refined to unity.
+This leads to the actual composition Mn1.65Ti4(PO4)6. 
+In a final step one of the twinning laws  (2-fold axis along [1 0 0]) or alternatively  (mirror plane perpendicular [1 0 0]) was introduced.
+These twinning laws were derived by group-subgroup considerations , relating the structure of Mn1.65Ti4(PO4)6 to that of the aristotype NaZr2(PO4)3. 
+In the translationsgleiche transition of index 2 from space group R3¯2/c to space group R3¯ the 2-fold axis along [1 0 0] and the mirror plane perpendicular to [1 0 0] are lost, but they are preserved as twinning elements in the crystal.
+Finally, all atoms were refined allowing for anisotropic displacement parameters.
+For the crystal structure determination of FeTi4(PO4)6 an orange crystal with dimensions 0.27 x 0.12 x 0.04 mm was measured in the range 2.92 θ  35.02° (whole sphere).
+The observed lattice parameters already indicated the presence of a superstructure with the c-axis doubled with respect to unit cell dimensions derived from powder data .
+Our study revealed a rhombohedral cell.
+The observed systematic extinctions and the intensity distribution were compatible with space groups R3¯c, R32, R3c, R3¯ and R3. 
+Starting parameters for the single crystal structure refinements were obtained by Direct Methods assuming space group R3. 
+In further refinement cycles all atoms were found and refined with anisotropic displacement parameters in this preliminary structure model.
+Afterwards the se-arch for higher symmetry was performed using PLATON  and R32 was found as possible higher symmetric space group.
+After transformation of the atomic parameters racemic twinning was assumed in agreement with group-subgroup relations of the superstructure model to the aristotypes crystal structure.
+Finally the structure was refined with anisotropic displacement parameters for all atoms.
+The crystal structure of CoTi4(PO4)6 could not be refined to full satisfaction from our single crystal data.
+Never the less, the lattice parameters observed from a single crystal indicate the presence of a superstructure with the c-axis five times larger than that derived from powder data (Fig.2).
+The intensity distribution and systematic absences are in good agreement with space group R3¯c.
+However, we believe that the true symmetry is lower.
+Fig.2 Precession photograph of the (h1l) layer of CoTi4(PO4)6 calculated from κ-CCD intensity data.
+Information on crystal data, intensity measurement and structure refinements is summarized in Table 1. 
+Final atomic coordinates, isotropic displacement parameters and interatomic distances for Mn1.65Ti4(PO4)6 and FeTi4(PO4)6 are given in Tables 2 to 5. 
+
+In contrast to previously published studies [14⫺17] our data clearlyTable 1 Mn1.65Ti4(PO4)6 and FeTi4(PO4)6. Crystallographic data, information on data collection and refinement.
+
+the NASICON typeSingle-crystal structure refinements for the manganese and the iron phosphate converged at reasonable residuals and led to crystal chemical plausible interatomic distances (Fig.
+3, 4 and 5; Table 4 and 5).
+
+These values for d(Mn-O) are also in good agreement with thoseTable 4 Interatomic distances /A˚ in Mn1.65Ti4(PO4)6.Table 5 Interatomic distances /A˚ in FeTi4(PO4)6.obtained for other anhydrous manganese phosphates.
+
+Our study revealed that crystal chemical reasonable interatomic distances (2.178(4) A˚ ⱕ d(FeII-O) ⱕ 2.200(4) A˚ )Contributions on Thermal Behaviour and Crystal Chemistry of Anhydrous Phosphates.
+
+Fig.5 ORTEP-plot for [FeIITiIV are given at the 50 % probability level.
+2O12] in FeTi4(PO4)6 Ellipsoidsan ordered distribution of the iron(II) cations in this cell setting is possible.
+Our new approach to the NASICON crystal structure which is based on symmetry considerations in terms of group-subgroup relations shows that this structure type can be derived from the NiAs crystal structure (P63/mmc (Z ⫽ 2,Fig.4 ORTEP-plot for [MnIITiIV soids are given at the 50 % probability level.
+are obtained assuming space group R32 and regarding the superstructure.
+The actual space group R32 was indicated during the single crystal structure refinement and is also supported by the group theoretical considerations.
+The supercell leads to 6 formulae FeTi4(PO4)6 per unit cell.
+R32 is actually the space group of highest symmetry in whichFig.6 Arrangement of phosphate groups within the crystal structure of NaZr2(PO4)3 in comparison to the arrangement of arsenide after transformation of the NiAs unit cell in space group P63/mmc to space group R3¯c.
+
+In this structure the arsenide ions form the hexagonal close packing (site 2c) and all of the octahedral voids therein are occupied by nickel atoms on Wyckhoff position 2a.
+In the NASICON crystal structure phosphate tetrahedra form the hexagonal close packing with metal cations in octahedral voids.
+In the aristotype of the NASICON structure family, NaZr2(PO4)3 [4], phosphorus, the centre of the [PO4] tetrahedra, occupies position 18e.
+2/3 of the octahedral voids in this packing, [(PO4)6], are occupied by zirconium(IV) ions on position 12c and 1/3 of these voids is occupied by sodium ions on position 6b.
+The sequence of close-packed phosphate layers along the c-axis is [a1 b1 a2 b2 a3 b3 a1 b1].
+Figure 6 illustrates the arrangement of the As ions, that results from the transform-ation of the NiAs unit cell in space group P63/mmc to space group R3¯c according to group-subgroup relations in comparison with the arrangement of phosphate groups within the crystal structure of NaZr2(PO4)3. Whereas in the crystal structure of NaZr2(PO4)3 all of the octahedral voids formed by [PO4] groups are occupied, there are voids within the structures of FeTi4(PO4)6 and Mn1.65Ti4(PO4)6. For NaZr2(PO4)3 the occupancy sequence of.
+Fig.7 shows the group-subgroup relationship of NiAs, NaZr2(PO4)3, Mn1.65Ti4(PO4)6 and FeTi4(PO4)6. The Wyckhoff position 6b of the NASICON aristotype NaZr2(PO4)3 results in position 6c by the translationsgleiche transition of index 2 from R3¯c to R32.
+ This transition,Fig.7 Group-subgroup relations between NiAs and members of the NASICON structure family.
+Contributions on Thermal Behaviour and Crystal Chemistry of Anhydrous Phosphates.
+The isomorphic transition of index 2 finally leads to a splitting of position 6c into two independent positions 6c.
+This way the ordered distribution of iron(II) among octahedral voids is possible.
+Actually, the Fe2⫹ ions occupy only one of the two possible 6c positions.
+In the structure refinement of FeTi4(PO4)6 no disordered distribution of iron(II) among both sites was indicated.
+Twinning of Mn1.65Ti4(PO4)6 can also be rationalized by these group-subgroup considerations.
+By the translationsgleiche transition of index 2 from R3¯c to R3¯ the 2-fold axis along and the c-glide plane perpendicular to [1 0 0] are lost.
+These symmetry elements are preserved as twinning elements as observed for Mn1.65Ti4(PO4)6. 
+The transition to lower symmetry causes splitting of Wyckhoff position 6b to 3a and 3b.
+Our structure refinement revealed that position 3b is fully occupied by manganese(II) whereas position 3a is occupied to an extend of 65 % resulting in the actual composition Mn1.65Ti4(PO4)6 with the occupancy sequence for the octahedral voids stacked along [0 0 1].
+Comparison of the different interatomic distances 1.8505(19)  indicates that position Ti2 is a mixed position titanium(III/IV).
+In contrast, Ti1 is only occupied by tetravalent titanium.
+This partial reduction of titanium causes additional incorporation of manganese(II) and deviation from the ideal composition “MnTi4(PO4)6“.
+Based on X-ray powder data the crystal structure of CoTi4(PO4)6 was initially described in space group R3¯c .
+Some years later space groups R3¯ and R32 were discussed .
+Also for CoTi4(PO4)6 dubious bond-lengths d(CoII-O) ⫽ 2.28 A˚ have been reported , while typical bond-lengths d(CoII-O) in already known anhydrous phosphates vary in the range of 2.00⫺2.20 A˚ [e.
+g.
+Our new single crystal X-ray study points to the presence of a superstructure for this compound, whose lattice parameters are related to the subcell byThis shows that the questionable interatomic distances d(Co-O) reported in are obviously the consequence of ignoring the superstructure.
+Although single crystal X-ray experiments indicate space group R3¯c for this compound we suppose that this is only the result of high pseudo symmetry within the structure.
+The isomorphic transition of index 5 in this space group leads to a splitting of Wyckhoff position 6b in the subcell to positions 6b, 2 x 12c in the enlarged unit cell.
+This Wyckhoff splitting does not allow an ordered cobalt(II) distribution among these sites due to15 formulae per unit cell.
+Also in space group R32 a highly ordered structure is impossible due to the splitting of Wyckhoff 6c to 5 x 6c during the isomorphic transition of index 5. The space group with highest symmetry allowing an ordered cation distribution among the resulting octahedral voids in the supercell is R3¯.
+Detailed investigations on the crystal structure of CoTi4(PO4)6 from single crystal data are in progress.
+Due to high pseudo-symmetry of the hexagonal closepacked arrangement of tetrahedral [XO4] (X: P, Si) groups members of the NASICON structure family are prone to twinning during crystallization.
+Refinements of these structures from single crystal data will be hampered almost inevitably by this problem.
+X-ray powder diffraction data on the other hand are generally not suitable to detect superstructures.
+For the NASICON type phosphates FeTi4(PO4)6 and CoTi4(PO4)6, containing rather small divalent cations on the A sites (which are occupied by Na⫹ in the aristotype NaZr2(PO4)3), the formation of superstructures is revealed by single crystal X-ray diffraction.
+The structure refinement clearly shows an highly ordered distribution of Fe2⫹ over the available A sites.
+For Mn1.65Ti4(PO4)6 containing the larger Mn2⫹ ions on the A site no superstructure is observed.
+We believe, that introduction of rather small cations to the A sites of the NASICON structure type requires a significant, yet not impossible relaxation of the surrounding lattice, followed by formation of a superstructure.
+In this context it appears quite likely, that Ni2⫹ ions are simply too small to be accommodated in this structure type.

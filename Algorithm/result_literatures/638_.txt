@@ -1,0 +1,14 @@
+A NASICON-based mixed-potential gas sensor utilizing the perovskite-typeorthoferrite LaxSm1-xFeO3 (x=0.2, 0.4, 0.5, 0.6, 0.8) sensing electrode (SE) wasdesigned for SO2 detection.
+The research mainly put emphasis on the effect ofdifferent La3+ doping ratios in LaxSm1-xFeO3 on the sensing characteristics, and thehighest response value (-86.5mV) to 1ppm SO2 was observed for the sensor usingLa0.5Sm0.5FeO3-SE.
+The response value of the fabricated sensor displayed segmentallylinear relationship with the logarithm of SO2 concentration in the ranges of 0.005-0.2ppm and 0.2-5 ppm, and the slopes were -8 and -86 mV/decade, respectively.
+Otherwise, the low detection limit of the present sensor even could reach to 5ppb withan accurate response value (-8.4mV).
+Meanwhile, the sensor also showed goodrepeatability, long-term stability and selectivity toward other interfering gases.
+Furthermore, the electrochemical impendence curves indicated the reason that thesensor attached with La0.5Sm0.5FeO3-SE displayed the higher response values than theother sensors.
+The result indicated that differences of electrocatalytic activity wascaused by diverse La3+ doping content in sensing electrode.
+The sensing mechanismrelated to the mixed potential was demonstrated by the polarization curve.
+In summary, the sensing material LaxSm1-xFeO3(x=0.2, 0.4, 0.5, 0.6, 0.8) wassynthesized via a facile sol-gel method, and the NASICON-based sensor usingLaxSm1-xFeO3-SE was fabricated and used for SO2 detection at 275°C.
+The sensorutilizing La0.5Sm0.5FeO3-SE displayed the highest response value towards SO2 andwas confirmed to reach to the low detection limit of 5ppb.
+The response value (ΔV) ofthe sensor was sectionally linearly changed with the logarithm of SO2 concentrationwithin the ranges of 0.005-0.2ppm and 0.2-5ppm, and the sensitivities were -8 and-86mV/decade, respectively.
+At the same time, the fabricated sensor also showed thegood repeatability, swift response and recovery times, long-term stability and prettygood selectivity.
+Hence, the fabricated sensor utilizing La0.5Sm0.5FeO3-SE wasthought to be a promising candidate to monitor SO2 at low concentrat.
+

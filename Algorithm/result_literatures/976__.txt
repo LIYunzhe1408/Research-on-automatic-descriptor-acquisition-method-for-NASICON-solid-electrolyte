@@ -1,0 +1,86 @@
+Na3V2(PO4)3 is one of the most promising cathode materials for rechargeable sodium-ion batteries, which can deliver two Naþ ions extraction/insertion from/into the crystal structure.
+
+To further improve the electrochemical performance of the carbon-coated Na3V2(PO4)3 electrode, theconducting graphene has been adopted.
+
+In this paper, graphene-wrapped Na3V2(PO4)3/C nanocomposite has been successfully synthesizedthrough a hydrothermal-assisted sol–gel method.
+
+X-ray diffraction (XRD) results demonstrate that the obtained nanocomposite is well crystallizedwith NASICON-type structure.
+
+The scanning electron microscopy (SEM) and transmission electron microscopy (TEM) images reveal that themodification of Na3V2(PO4)3/C with graphene could construct an effective conducting network, which significantly enhances the electronicconductivity of Na3V2(PO4)3/C based sample.
+
+Thus, the graphene-wrapped Na3V2(PO4)3/C exhibits superior high-rate capacity and excellentcycling stability.
+
+ It shows an initial charge capacity of 113 mA h g1 and a discharge capacity of 106.5 mA h g1 at 0.1 C, and retains stabledischarge capacities of 104.3, 101.1, 96.4 and 93 mA h g1 at current rates of 0.2 C, 0.5 C, 1 C and 2 C, respectively.
+
+Even at higher rate of 5 C,it can still deliver a discharge capacity of 88.7 mA h g1 with remarkable capacity retention of 92.5% after 200 cycles.
+
+This synthetic strategyshould be helpful for the design of other conducting network structured electrodes with high-performances.
+
+There has been a steady increase in demand for clean andefficient energy storage devices due to the ever-rising concernsabout limited global energy supply and environment andclimate changes [1–6].
+
+Among the various available energystorage technologies, lithium-ion batteries play a dominant rolein portable electronic devices and have become the primecandidate to power the next generation electric vehicles andplug-in hybrid electric vehicles [1,5,7–9].
+
+Nevertheless, thefurther development of rechargeable lithium-ion batteries stillfaces a serious challenge that arises from the cathode materials.
+
+Especially, the amount of lithium resources in the earth is notsufficient, which makes the lithium-ion batteries too muchexpensive.
+
+Oppositely, the sodium resources are inexhaustibleand homogenously spread around the globe, suggesting thatsodium-ion batteries are more sustainable, crust and economical than the lithium-ion batteries for large-scale stationarybatteries [10–12].
+
+Up to now, many sodium ion based materials such as NaxCoO2 [13], NaxMnO2 [14], NaFePO4 [15], Na0.7Fe0.7Mn0.3O2[16], and Na3V2(PO4)3 [17–25] have been proved to bepromising as electrode materials for sodium-ion batteries.
+
+Among these materials, Na3V2(PO4)3 with NASICON structure which has large interstitial channels for fast Naþ ionmigration through the empty space in its crystal structure [19]shows a very flat voltage curve with a plateau at around 3.4 Vvs.
+
+ Naþ/Na (similar as the plateau voltage of LiFePO4 vs.Liþ/Li).
+
+The NASICON structure is built up from isolated[VO6] octahedral and [PO4] tetrahedrally interlinked viacorners to establish the framework anion [V2(PO4)3]3.
+
+Moreover, the theoretical capacity of Na3V2(PO4)3 is 176 mA h g1based on all of the three Naþ ions extracted from the materiallattice, but the extraction of the third Naþ ion is very difficult.
+
+It can deliver a theoretical discharge capacity of 118 mA h g1with two Naþ ions being completely extracted up to 4.0 V vs.Naþ/Na.
+
+Unfortunately, the electronic conductivity of the pureNa3V2(PO4)3 is as low as LiFePO4 and Li3V2(PO4)3, whichsignificantly limits its electrochemical performance and furtherpractical applications.
+
+In recent years, a number of approaches to overcome theseissues have been explored with various strategies.
+
+Carboncoating [17–20,22] is the most common way to improve theelectrochemical performance of Na3V2(PO4)3 because it isfacile, rapid, and easily spreadable to other cathode materials.
+
+Owing to this carbon shell layer, which could be able toenhance the electronic conductivity [26,27], the rate capabilityand cycling stability will be improved.
+
+Li's group [28] reportedthat the carbon-coated Na3V2(PO4)3 synthesized through acarbon-thermal reduction method exhibited an initial specificdischarge capacity of 98.17 mA h g1 at 0.1 C in the potentialwindow of 2.5–3.8 V vs. Naþ/Na.
+
+ And about 95.1% of itsdischarge capacity can be obtained after 50 cycles.
+
+AnotherNa3V2(PO4)3/C [21] fabricated by a sol–gel route delivered areversible specific capacity of 84.8 and 66.5 mA h g1 at0.2 and 1 C, respectively, indicating that although the carboncoating approach has been effective to a certain degree, thehigh-rate capacity remains low.
+
+Therefore, it remains challenging to obtain high-rate capacity and good cycling stability ofNa3V2(PO4)3 electrode for sodium-ion batteries.
+
+Graphene is a two-dimensional (2D) one-atom-thick conductor with high surface area, chemical stability, mechanicalstrength and flexibility, making it a useful growth substrate toanchor active materials for electrochemical energy storageapplications [29–34].
+
+Up to the present, many cathodematerials including LiMnO2 [35], LiMn2O4 [36,37], LiFePO4[38,39] and Li3V2(PO4)3 [40–42], LiVPO4F [43] have beenmodified with conducting graphene, which exhibit superiorhigh-rate capacity and excellent cycling stability.
+
+Althoughmany groups have previously demonstrated the effect ofconducting graphene in rechargeable lithium-ion batteries,only a few reports of graphene-modified Na3V2(PO4)3 assodium-ion batteries electrode exist in the literature.
+
+In 2013,Jung's group firstly prepared graphene-modified Na3V2(PO4)3via sol–gel and solid-state reaction [25].
+
+And the obtainedNa3V2(PO4)3/graphene composite displays an excellent highrate performance and cycling stability.
+
+However, the pureNa3V2(PO4)3 particles were only wrapped by graphene in theirstudy.
+
+Significantly, the Na3V2(PO4)3 should be coated withcarbon to form a conducting network with graphene forelectron transport, which may further improve the high-rateelectrochemical activity of Na3V2(PO4)3.Herein, we develop a hydrothermal-assisted sol–gel methodfor the synthesis of graphene-wrapped Na3V2(PO4)3/C nanocomposite.
+
+The added graphene mixed with the carbon forms aconducting network which is helpful for the transport ofelectron.
+
+The electrochemical performance of graphene-modified Na3V2(PO4)3/C cathode material in rechargeable sodiumion batteries is investigated and compared with the pureNa3V2(PO4)3/C.
+
+In this study, we speculate that the resultingnanocomposite would exhibit significantly improved Na storage performance.
+
+In summary, we report a hydrothermal-assisted sol–gelapproach to attach NVP/C nanoparticles on the surface ofgraphene to improve the high-rate performance of electrode forsodium-ion batteries.
+
+The added graphene not only preventsthe growth of NVP/C particles, but also improves theirelectronic conductivity.
+
+In the material, graphene can form aconducting network with the coated carbon, and NVP/Cnanoparticles are strongly adhered to the surface of grapheneand wrapped into the graphene nanosheets uniformly.
+
+Thus,the obtained NVP/(CþG) sample exhibits impressive electrochemical performance as electrode for sodium-ion batterieswhen charged–discharged in the voltage range of 2.5–3.8 V.
+
+Inall, the as-synthesized NVP/(CþG) nanocomposite can beconsidered as a suitable cathode material for rechargeablesodium-ion batteries.
+

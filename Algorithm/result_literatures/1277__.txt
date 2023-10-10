@@ -1,0 +1,65 @@
+Powders of the Nasicon material NaTi2(PO4)3 were directly synthesized at ultra-low temperature. NaTi2(PO4)3 was obtained by mixing the initial reagents titanium hydroxide, 85 % H3PO4, and NaH2PO42H2O at 85 °C for 3.5 h or at 125 °C for 1.5 h. The raw materials and synthesized products were characterized for purity, crystal structure, particle size, and powder morphology by thermogravimetric analysis, differential scanning calorimetry, X-ray diffraction (XRD), Fouriertransform infrared spectroscopy, scanning electron microscopy (SEM), and UV– visible diffuse reﬂectance spectroscopy. XRD results revealed that NaTi2(PO4)3 powders with rhombohedral crystal structure were synthesized at 85 and 125 °C. SEM patterns showed that the as-prepared products were agglomerated and that each of the agglomerations consisted of many small grains 50–80 nm in diameter. Keywords Nasicon compounds  NaTi2(PO4)3  Ultra-low temperature  Characterization
+
+Nasicon is the acronym for sodium (Na) super ion conductor, a class of complex crystalline materials based on NaZr2(PO4)3 (NZP) with high Na? ion conductivity [1]. These compounds have many interesting physical and chemical properties. The covalent network skeleton of the Nasicon materials has been shown to be a fast-ion conductor and proposed for use as high energy-density batteries, electrochemical
+
+sensors, and other devices [2–6]. These materials are remarkably useful for nuclear waste disposal, because heavier radioactive elements can be loaded into their structures by substitution [7]. They are also highly valuable for their low thermal expansion behavior [8], luminescence [9], and ultraviolet shielding properties [10]. NaTi2(PO4)3 is also a host structure for Nasicon compounds [11]. In 1968 Hagman and Kierkegaard reported the preparation of NaTi2(PO4)3 as a single crystal by heating NaPO3 and TiO2 at 1,100 °C for several weeks [12]. Later, a high-temperature solid-state method for preparation of NaTi2(PO4)3 by calcination of Na2CO3, TiO2, and (NH4)2HPO4 or NH4H2PO4 at 800–1,200 °C has usually been used [11, 13–15]. It has also been reported that NaTi2(PO4)3 powder can be obtained by a hydrothermal method—heating a mixture of TiO2, 85 % H3PO4, and NaOH for 5–7 days at 200–250 °C [16]. Microwave-assisted synthesis of NaTi2(PO4)3 from NaH2PO42H2O, (NH4)2HPO4, and TiO2 has also been reported [17]. Recently, a sol–gel method for the synthesis of NaTi2(PO4)3 from titanium powder, sodium nitrate, and ammonium dihydrogen phosphate has also been reported [18].
+
+All these methods suffer from at least one disadvantage: long reaction time (hydrothermal method), high reaction temperature ([1,000 °C for the solid-state reaction and [500 °C for the sol–gel method), and use of additional microwave irradiation. Therefore, a facile and rapid synthetic method is required because of the importance of the title compounds. Because titanium hydroxide will react to yield titanium dioxide when heated, we realized it might be possible to prepare NaTi2(PO4)3 directly from titanium hydroxide, 85 % H3PO4 and NaH2PO42H2O at ultra-low temperature.
+
+Materials and reagents Titanium hydroxide (TiO(OH)20.6H2O, TiOH hereafter), sodium dihydrogen phosphate (NaH2PO42H2O; 99.0 %), and phosphoric acid (H3PO4; 85.0 % by weight) were used as starting materials. To prepare TiOH, an appropriate amount of deionized water was added to 1,000 mL 2.13 mol L-1 TiCl4–C2H5OH solution to furnish 2,500 mL 0.85 mol L-1 TiCl4–C2H5OH–H2O solution (solution A). Anhydrous ethanol (1,000 mL), 600 mL 14 mol L-1 ammonia, and 200 mL triethylolamine (99 %) were mixed, and the resulting solution was diluted with distilled water to furnish 2,500 mL mixed solution (solution B). Solution B was quickly poured into solution A with mechanical mixing, and slurry of pH 6 was formed. Subsequently the slurry was isolated by ﬁltration and washed with deionized water and ethanol. The water was removed by azeotropic distillation, and the residue was dried at 105 °C for 1.5 h. The molecular formula of the above obtained TiOH was established as TiO(OH)20.6H2O by thermogravimetric (TG) analysis.
+
+the chemicals were analytical reagent grade and used without further
+
+Synthesis of sodium titanium phosphate
+
+Synthesis of the NaTi2(PO4)3 powder The initial reactants TiOH, 85 % H3PO4, and NaH2PO42H2O were mixed in the stoichiometric molar ratio 2:2:1 then ground in a Teﬂon mortar until a homogenous mixture was obtained. The mixture was heated in an oven at 125 °C (or 85 °C) for 1.5, 3.5, or 5.5 h. After natural cooling to room temperature, white products were obtained without any treatment. If excess of H3PO4 was used the molar ratio of TiOH, 85 % H3PO4, and NaH2PO42H2O was 2:3:1. The mixture was heated in an oven at 125 °C for 1.5, 3.5, or 5.5 h. After natural cooling to room temperature, the white products obtained were washed sufﬁciently with methanol and dried in an oven at 70 °C for 1 h. And the experiment was repeated several times to test reproducibility.
+
+The structure of as-synthesized materials was conﬁrmed by powder X-ray diffraction (XRD) using a D/MAX-RB X-ray diffractometer (Rigaku, Japan) with a graphite monochromator and Cu Ka radiation (40 kV, 100 mA). The step scan mode was used, with a step width of 0.02°, at a rate of 4° (2h) min-1, in the scan range 10–80°. Phase indexing was performed by use of MDI Jade 6.5 software. Fourier transform infrared (FTIR) spectra were obtained from KBr discs on a Perkin–Elmer Spectrum GX. Eight scans with a resolution of 4 cm-1, in the range 4,000–400 cm-1, were co-added. UV–visible diffuse reﬂectance spectra (UV–DRS) were recorded with a Lambda 900 UV–Vis-NIR spectrophotometer. The PELA1020 Sphere Accessory was equipped with a 60 mm Spectralon integrating sphere, transfer optics, a thermostat-regulated lead sulﬁde detector, and an extended range photomultiplier tube. Morphology was observed by use of a scanning electron microscope (SEM) (JSM-7500F-EDS). Differential scanning calorimetry (DSC) was performed with a Perkin–Elmer Diamond DSC, with a heating rate of 5 K min-1 under N2 ﬂow. TG analysis was performed with a Perkin–Elmer Pyris 1 TGA. The atmosphere was air, at a ﬂow rate of 20 mL min-1. The samples were heated in the range from 30 to 800 °C at 20 K min-1.
+
+Figure 1 shows the XRD patterns of NaTi2(PO4)3 prepared at 125 °C for different times. All the peaks in Fig. 1 are in good agreement with the standard value for NaTi2(PO4)3 crystal (JCPDS no. 84–2009) [13]. It is apparent that TiOH, 85 % H3PO4, and NaH2PO42H2O have reacted thoroughly at 125 °C for 1.5 h. Prolonging the reaction time does not make any difference to the crystallinity of the products compared with that obtained after 1.5 h. If excess H3PO4 was used, the sample was washed with methanol to remove excess H3PO4. It seems that excess H3PO4 does not affect the crystallinity of the target product. NaTi2(PO4)3 has a
+
+Fig. 1 X-ray powder diffraction patterns of NaTi2(PO4)3 prepared at 125 °C with a 2:2:1 and b 2:3:1 molar ratio of TiOH, 85 % H3PO4, and NaH2PO42H2O. The samples washed with methanol are marked ‘‘m’’
+
+rhombohedral c = 21.8871 nm. The space group is R3c and Z is six. For comparison, experimental lattice parameters are given in Table 1.
+
+structure with cell parameters a = 8.4754 nm and the The TiOH–85 % H3PO4–NaH2PO42H2O molar ratio of 2:2:1 is suitable for the preparation of highly crystalline NaTi2(PO4)3. In the following discussion, all samples are prepared in this ratio. This chemical reaction could be explained by the required stoichiometric ratio related to the reaction below:
+
+Figure 2 shows the XRD results for NaTi2(PO4)3 prepared at 85 °C for different times. It can be observed that the XRD pattern of NaTi2(PO4)3 prepared with a reaction time of 3.5 h is perfect and without other phases. Prolonged reaction gives
+
+Table 1 Comparison of the lattice parameters of NaTi2(PO4)3 synthesized under different conditions T (°C)
+
+Lattice parameters
+
+TiOH–H3PO4 (85 %)–NaH2PO42H2O molar ratio
+
+Synthesis of sodium titanium phosphate
+
+Fig. 2 X-ray powder diffraction patterns of NaTi2(PO4)3, prepared at 85 °C for 3.5 and 5.5 h and of JCPDS 84–2009
+
+the same results as that for 3.5 h. The XRD patterns of the synthesized samples are in excellent agreement with JCPDS card no. 84–2009. The lattice parameters are given in Table 1. It is should be noted that NaTi2(PO4)3 cannot be obtained when the reaction time is 1.5 h at 85 °C.
+
+To check the quality of the as-synthesized samples obtained by use of this method, FTIR spectroscopy was used to characterize the products; the results are shown in Fig. 3. It is apparent that identical FTIR spectra are obtained from the products synthesized at 85 °C for 3.5 h and at 125 °C for 1.5 h. The stretching modes of a 3anion with Td symmetry have four internal modes of vibration, which are free PO4 the symmetric and antisymmetric stretching mode of the P–O bonds, and symmetric and antisymmetric bending mode of the O–P–O bonds [19, 20]. These vibrational
+
+Fig. 3 FTIR spectra of the products synthesized at a 85 °C for 3.5 h, b 125 °C for 1.5 h
+
+Fig. 4 DSC curves of TiOH, 85 % H3PO4, NaH2PO42H2O, and their mixture
+
+wave numbers are in reasonable agreement with the experimental absorption bands the NaTi2(PO4)3 product obtained. They are m (POP) = 1,226 cm-1, m for (PO4) = 1,039, 578 cm-1. Peaks at 3,435 and 1,638 cm-1 are attributed to OH vibration, which results from the KBr discs.
+
+Figure 4 shows DSC curves of the raw materials and their mixture. Both 85 % H3PO4 and NaH2PO42H2O give endothermic peaks; these are caused by dehydration of the 85 % H3PO4 and NaH2PO42H2O, at very low temperature. The DSC curve of the TiOH reagent contains no endothermic or exothermic peaks. For the mixture of TiOH, 85 % H3PO4, and NaH2PO42H2O, the endothermic peak at approximately 120 °C is substantial, indicating that reaction occurs between TiOH, 85 % H3PO4, and NaH2PO42H2O. Analysis of the DSC curves shows explicitly the occurrence of a reaction between TiOH, 85 % H3PO4, and NaH2PO42H2O.
+
+To study the microstructure of the as-synthesized NaTi2(PO4)3 powders, representative SEM images were obtained from the powders NaTi2(PO4)3 and are shown in Fig. 5. It can be observed that the powders prepared at 85 °C for 3.5 h and 125 °C for 1.5 h are agglomerated and irregular in shape. Each of the agglomerations consists of many small grains 50–80 nm in diameter.
+
+The UV–DRS of NaTi2(PO4)3 samples are shown in Fig. 6. It can be seen that UV– DRS of the products synthesized at 85 °C for 3.5 h and at 125 °C for 1.5 h have strong UV absorption at wavelengths between 200 and 400 nm. The extent of UV
+
+Synthesis of sodium titanium phosphate
+
+Fig. 5 SEM images of the samples synthesized at a 85 °C for 3.5 h, b 125 °C for 1.5 h
+
+Fig. 6 UV–DRS of the products synthesized at a 85 °C for 3.5 h, and b 125 °C for 1.5 h, the inset shows UV absorption peak area of NaTi2(PO4)3 synthesized at 85 and 125 °C for different times
+
+absorption is related to UV absorption peak area—the larger the peak area, the stronger the UV absorbance [21, 22]. Plots of the UV absorption peak areas of the corresponding products are shown in the inset in Fig. 6. These show the UV absorption peak area for the products is very large and nearly identical. Therefore, it is believed that NaTi2(PO4)3 would be a new potential ultraviolet shielding material.
+
+The binary metal phosphate NaTi2(PO4)3 was successfully synthesized by heating the reagents TiOH, 85 % H3PO4, and NaH2PO42H2O in the molar ratio 2:2:1 at 125 °C for 1.5 h. NaTi2(PO4)3 powders can also be synthesized by heating at 85 °C for slightly longer—3.5 h. The grain size of the as-synthesized NaTi2(PO4)3 was in the range 50–80 nm, as observed by SEM. It is believed NaTi2(PO4)3 could be a good ultraviolet shielding material, providing a protective coating against radiation. This
+
+method is a facile, the reaction temperature is low, and the reaction time is short. This is an environmentally friendly way of preparing ﬁne powders of these materials.

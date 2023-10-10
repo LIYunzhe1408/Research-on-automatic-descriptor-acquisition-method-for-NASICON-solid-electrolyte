@@ -1,0 +1,86 @@
+In this paper synthesis and catalytic properties of new catalysts based on double lithium-zirconiumphosphate (LiZr2(PO4)3) with monoclinic NASICON-type structure, doped by indium, niobium and molybdenum are discussed.
+
+The obtained samples with particle size of 50–300 nm were characterized byX-ray diffraction, scanning electron microscopy and X-ray microanalysis.
+
+The synthesized samplesexhibit catalytic activity in the dehydration and dehydrogenation reactions of ethanol conversion.
+
+Themain products were acetaldehyde, diethyl ether, hydrogen, C2- and C4-hydrocarbons.
+
+Indium- andmolibdenum-doped samples were characterized by high activity in dehydrogenation processes, whileniobium-doped was more active in dehydration processes.
+
+ The highest selectivity in diethyl ether formation was achieved for LiZr2(PO4)3 and Nb-doped samples (90 and 60% at 300 ◦C).
+
+The highest hydrogenyield (up to 60%) was obtained with the use of In-doped catalyst.
+
+LiZr2(PO4)3 and Mo-doped samples arealso noticeable for high C4-hydrocarbons formation, selectivity to which reaches 60% at 390 ◦C.
+
+Use of a100% hydrogen selective palladium-ruthenium alloy membrane increases hydrogen yield by 20%.
+
+Low-temperature fuel cells are the most promising alternativeenergy sources.
+
+ For their implementation the new ways of hydrogen production based on renewable raw materials are developed.
+
+One of the most promising methods is bio-alcohols conversion.
+
+Atthe same time, alcohols can be used for obtaining a number ofcommercially important products, such as hydrocarbons, ethers,aldehydes, ketones, hydrogen, and so on.
+
+In this regard, new catalysts for the selective alcohols conversion into desired productsneed to be found.
+
+Complex phosphates are considered as one of the promisingtypes of catalysts for the alcohols conversion.
+
+Materials with NASICON (NA Super Ionic CONductor) structure type have generalformula AxB2(ZO4)3, where A - is alkali or alkaline earth element,B - polyvalent element (Zr, Ti, Sc etc.), Z - phosphorus or silicon.
+
+Their structure is presented by edge-linked BO6 octahedra and ZO4tetrahedra.
+
+A-cations are located in the cavities of this structure[1,2]Interest in these compounds is determined primarily by theirhigh ionic conductivity [3–5], which is achieved due to presenceof conduction channels in their structure [2].
+
+Other advantagesof the NASICON-type compounds are high chemical, thermal andradiation stability.
+
+The variability of structure allows both iso- andheterovalent doping [6,7].
+
+This defines a wide range of possibleapplications of these compounds [8–10] as lithium power sources[11,12], in fuel cells [13], in sensors [14–16], in radionuclide cleaning [17] and in catalysis [18–20].
+
+The ability to heterovalent substitution is important for the catalytic applications, since it allows to vary the number and strengthof acid(BrønstedandLewis) andredox centers atthe surface.
+
+Chemical and thermal stability allows to use catalysts based on suchcompounds inconditions in whichthemetal catalysts aredegraded.
+
+Therefore, attempts to use these compounds as catalysts in alcoholconversion were made by the number of authors [21–28].
+
+During the catalytic process certain products could be selectively separated or fed to the reaction mixture through membrane[29–31].
+
+The main advantage of this method is the possibilityof thermodynamic equilibrium shifting due to removal of product from reaction mixture.
+
+This is especially evident in reactionswith hydrogen participation when membranes based on palladium alloys are used, because of their high hydrogen permeability[32–34].
+
+Hydrogen, obtained in such reactors, requires no furtherpurification due to high selectivity of such membranes.
+
+Nowadaysmany researches are devoted to carrying out catalytic processes inmembrane reactors [35–39].
+
+The aim of this work was to obtain the LiZr2(PO4)3 NASICONtype phosphates with heterovalent substitution of the zirconiumand phosphorus ions and their testing in the process of ethanolconversion.
+
+It was assumed thatthe substitution of some zirconiumions on indium or niobium will change the acid-base properties ofcatalysts and their activity in dehydration processes.
+
+At the sametime, replacement of the phosphorus on molybdenum will makethem active in redox dehydrogenation processes.
+
+The doped lithium-zirconium phosphate with NASICON structure canhave catalytic activity indehydrogenationanddehydrationprocesses.
+
+It was assumed that a Pd-based membrane allows toextract hydrogen from the reaction mixture and displace the reaction equilibrium.
+
+For this purpose the obtained catalysts wereinvestigated in the membrane reactor with Pd-Ru membrane.
+
+Advantages ofthis rector and membrane properties were discussedalso.
+
+The single-phase catalysts were obtained based on double lithium-zirconium phosphate with NASICON-type structureLiZr2(PO4)3 doped by In, Nb, and Mo, with a particle size lessthan 200 nm.
+
+ All samples exhibit activity in the ethanol dehydration and dehydrogenation processes.
+
+The main products are theC2- and C4-hydrocarbons, diethyl ether, acetaldehyde and hydrogen.
+
+It has been shown that the doping by indium increases theyield of acetaldehyde and hydrogen, doping by niobium - diethylether and ethylene.
+
+Molybdenum incorporation increases the catalyst activity in the ethanol dehydrogenation rate and reduces thetemperature ofthe reaction on 60 ◦C.
+
+Itis worth mentioned that C4-hydrocarbons are formed on LiZr2(PO4)3 and Li0.9Zr2P2.9Mo0.1O12catalysts with selectivity up to 60% at high temperatures.
+
+Carrying out the process in a membrane reactor leads to theincrease in the hydrogen yield due to the thermodynamic equilibrium shift and increase in the ethanol conversion.
+

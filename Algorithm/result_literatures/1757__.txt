@@ -1,0 +1,60 @@
+Amorphous sodium-containing titanium phosphate (sampleTiP), obtained by heating a disordered precursor at 300 ◦Cunder air, electrochemicallyreacts with lithium by means of non-aqueous lithium cells.
+Discharge curves of EC/DEC cells in the 3.5–1.5 Vregion, were different to that observedfor NASICON titanium phosphates but the related capacity can be associated to the reduction of Ti4+ to Ti3+.
+Another sample, C-TiP, obtainedby using nitrogen atmosphere during the thermal treatment, was able to provide 75% more capacity in this region.
+This sample contained carbonbecause of the incomplete pyrolysis of the surfactant present in the precursor.
+Carbon is supposed to stay occluded inside the pores consideringthe values of pores surface area, total conductivity and HRTEM measurements.
+These titanium phosphates were also tested as negative electrodes.
+Electrochemical impedance spectroscopy measurements suggest that both titanium phosphates are reduced to yield titanium, lithia and phosphorusat 0.0V.
+In our opinion, the presence of carbon in C-TiP is the key factor for the enhanced reactivity in the 3.2–1.5V region but is not enough toobtain a good electrochemical performance, in terms of cycling efficiency.
+Lithium transition metal phosphates (LTMP) have recentlyfound application in the field of electrochemical energy storage,especially those with olivine or NASICON structures.
+
+Recorded spectra were always fittedusing Gauss–Lorentz curves in order to more accurately determinethe binding energy of the different element core levels.
+
+The electrochemical performance of our samples  was analysedby means of swagelock two electrode and glass three electrodecells.
+The working electrode consisted of a stainless-steelgrid on which the cathodic material was pressed.
+The cathodewas made of a mixture of active material (85 wt%), graphite(10 wt%) and PTFE (5 wt%) as binding agent.
+The mixturewas pressed onto a stainless-steel grid, with a geometric surfacearea of 1 cm2.
+ The electrolyte used was 1M LiClO4 inPC or 1M LiPF6 in EC/DEC solvent, as discussed in the text.
+For the preliminary tests and the EIS experiments, we used thethree electrode configuration.
+The counter electrode was a goldwire directly immersed in the electrolyte solution, close to theworking electrode.
+A lithium wire acted as reference electrode.
+Cycling tests were carried out with swagelock cells, which useda lithium disk as reference and counter electrode.
+Galvanostaticdischarges were performed using a MacPile II (BioLogic)potentiostat connected to an Imac computer.
+Working electrodeswere discharged from OCV (close to 3.0 V) until 0.0V versusthe lithium reference electrode.
+The discharge–charge rate was28mAg−1. All the tests were carried out at least twice.
+
+
+The profile of the curves shown bythe four cells looks quite similar.
+It consists of three regions: asmooth voltage fading from OCV to 1.0V followed by a pseudoplateauin the 1.0–0.5V region and then, a smooth voltagefading to 0.0V.
+The extension of the first voltage region is practicallyindependent of the system and is close to 200 mAh g−1.
+The extension of the 1.0–0.5V pseudoplateau was dependenton the electrolyte solvent, being more developed for EC/DECthan for PC, a feature not well understood.
+TiP and C-TiP cellsprovide similar capacities for PC solvent, meanwhile C-TiP provides150 mAh g−1 more than TiP in the EC/DEC cell.
+In somecases, the total discharge of the cells leads to capacities as highas 1000 mAh g−1, an interesting value for negative electrodepurposes.
+In order to choose an adequate electrolyte for our tests, wehave carried out impedance measurements at different states ofcharge.
+The data therein discussed are only approximate as theporosity of our samples influences the exact analysis, althoughboth materials show similar textural properties.
+The spectra soobtainedand fitted results for the TiP and C-TiP electrodes areshown in Fig.9a and b, respectively.
+At the end of the discharge,the spectra suggest that the frequency response of both TiP andC-TiP, in PC based electrolyte, are similar to that of a modifiedRandles equivalent circuit, by using a supplementary parallelresistor–capacitor (R//C) combination.
+If we envisage the formationof a surface layer which exhibits lower ionic conductivitythat the liquid electrolyte, we can describe it as a resistor and acapacitor placed in parallel.
+The associated resistor characterisesthe lithium ion transport inside the layer while the capacitor representsthe new ionic charge distribution in the surface layer.
+
+From the refinement ofthese impedance diagrams, the resistance of the surface film,Rfilm, can be evaluated, being equal to 600 and 800 for TiPand C-TiP, respectively (the presence of carbon being presum ably responsible for the larger PC degradation at the surfaceof the C-TiP based electrode).
+By contrast, the cells built withEC/DEC have lower impedance.
+Moreover, at the end of the discharge,one cannot see any distortion in the corresponding EISspectra (only one semicircle at high frequencies), suggestingthat the cells can be modelled by a classical Randles equivalentcircuit.
+Surprisingly it seems that no film was formed at the surfaceof the electrodes, in this electrolytic solution, or at least thefilm is not big enough to create a resistor–capacitor responsein the EIS spectra.
+Moreover, the fact that C-TiP diagram evenshows a lower global impedance than the carbon-free materialindicates that carbon is not promoting the electrolyte reductionat deep discharge.
+Following the EIS experiments we concludedthat EC/DEC was a superior solvent, so we discontinued the useof PC.
+
+First, the regionup to 1.0V and the pseudoplateau at 1.0V were less extenseand another pseudoplateau was developed at 0.6V.
+Decreasingthe amount of solvent also decreased at the end of discharge thecapacities, that were below 800 mAh g−1. For C-TiP sample, theeffect is stronger as the percolation of the solvent is hindered bycarbon occluded in the pores.
+
+However, their values inthe third cycle are too small for a practical negative electrode.
+Two mesoporous titanium phosphates have been synthesisedin thiswork.
+Galvanostatic, total conductivity and electrochemicalimpedance spectroscopy results clearly indicate the presenceof carbon in the sample C-TiP, which seems to increase itsreactivity when compared to TiP.
+Microscopy examinations andporosity measurements are consistent with the localisation ofcarbon in the phosphate pores.
+The role of carbon in the electrochemicalactivity of our titanium phosphates is controversial.
+First of all, being occluded in the pores of C-TiP it makesaccess of solvent difficult and then, limits the electrochemicalprocess.
+Secondly, it largely increases the reactivity at highvoltages, beyond the expected reactions involving the Ti4+/Ti3+couple.
+Galvanostatic and EIS measurements strongly indicatethat between 1.0 and 0.0V, the reduction of phosphate leadsto Ti, P4 and Li2O, although a possible reaction involving thesolvent cannot be discarded.
+In this voltage region, the effectof carbon is not very important.
+Several questions arose abouthow carbon enhances the reaction, particularly up to 1.5V.
+Weare tempted to relate this effect to the increased conductivity ofC-TiP as compared to TiP.

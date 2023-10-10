@@ -1,0 +1,50 @@
+Lithium ionic conductive solid electrolyte discs based on NASICON-typeLi1+xGaxTi2-x(PO4)3 (x = 0.1 - 0.9) were prepared by a wet-chemical route at 1173 - 1273K.
+Crystalline phase, density, and electrical conductivity of the sintered discs were systematicallyinvestigated.
+Single phase of LiTi2(PO4)3 systems were obtained at the calcination temperaturesabove 773K.
+Maximum conductivity 7.3 x 10-4 S/cm at 303K and activation energy of 0.30eVwere obtained for the Li1.25Ga0.25Ti1.75(PO4)3 discs sintered at 1223K.
+Recently high energy density and long life batteries using solid electrolytes have been requested.
+Lithium ion conductors especially are promising as the electrolyte for this purpose .
+It is wellknown that NASICON(Na3Zr2Si2PO12) is a good three–dimensional sodium ion conductor based onthe parent compound Na3Zr2P3O12(NZP) .
+The usual structure of these compounds isrhombohedra, space group R3c, but in some particular cases they also show a low temperaturephase of lower symmetry .
+In both phases the framework is built up by M2(PO4)3 units inwhich two MO6 octahedral and three PO4 tetrahedral share oxygen atoms.
+Lithium analoguesof Na3Zr2P3O12(NZP), exhibits a low ionic conductivity because a Li+ ion is too small in size tomigrate freely in their three-dimension network structure.
+The ionic conductivity for the system isgreatly increased when Zr4+ in LiZr2(PO4)3 is replaced by the smaller Li+ ion.
+Since tunnels inLiTi2(PO4)3 are more suitable size for the lithium ion migration .
+In general, Li+ conductivity ishigher and activation energy lower in rhombohedra phases.
+Activation energies for lithium motiondecreases when the tetravalent M cations replaced with Ti4+.
+In this paper, high lithium ion conductive solid electrolyte discs based on NASICON-typeLi1+xGaxTi2-x(PO4)3 (x = 0.1 - 0.9) could be prepared by a wet-chemical route at 1173 - 1273K, andtheir phase, ionic conductivity, activation energy and density are investigated.
+Compounds with composition Li1+xGaxTi2-x(PO4)3, with x = 0.1 - 0.9 were synthesized by a sol-gelmethod as shown in Fig.1.
+ Aqueous solutions of LiNO3, TiO(OCCH3CHCOCH3)2, Ga(NO3)2･8H2O, TiO2(rutile), Li3(PO4) and (NH4)H2PO4 in stoichiometric ratios were mixed together to forma sol, which was dehydrated at 348K for about 3h to form a viscous gel .
+The gel was thendried at 393K for 12h to form a fine dry xerogel powder, which was then ground and calcined at 773K for 3h.
+The calcined material was ground again and ballmilled for 4h.
+The powder was pressed into sample discs under520MPa, and finally sintered at 1173 - 1273K for 6h in air.
+Theywere characterized by means of thermogravimetry differentialthermal analysis (TG-DTA) (Rigaku TG8120), X-ray diffraction(XRD) (XD-D1, Shimadzu Ltd), field emission scanningelectron microscopy (FE-SEM) (JIR-5500, Jeol Ltd), and ACcomplex impedance techniques(HIOKI 3521 Z), and so on.
+Figure 2 shows XRD patterns of Li1+xGaxTi2-x(PO4)3 (x = 0.1 -0.9) sintered at 1173 - 1273K for 6h in air.
+All diffraction lineswere indexed based on a rhombohedral structure with a spacegroup of R3c.
+When the discs were sintered at 1173K, thesingle phase solid electrolyte was formed between x = 0 and x =0.4, while the impurity phases of LiTiPO5 and GaPO4(hexagonal) appeared at the higher content ratio of x > 0.5.While, for the discs sintered at 1223K, the single phase solidelectrolyte was formed between x = 0.25 and 0.35. 
+On theother hand, when the discs were sintered at 1273K, the singlephase solid electrolyte was formed up to x = 0.2, while theimpurity phases of LiTiPO5 and GaPO4 (orthorhombic)appeared for x > 0.4.
+Figure 3 shows the TG-DTA curves of the Li1.2Ga0.2Ti1.8(PO4)3 xerogel powder before heat treatment at 773K.
+The sampleshowed weight loss in the examinedtemperature range between 373 and673K.
+The TG curve was due to theseparated organics.
+In contrast, DTApeak was appeared at around 873 -973K.
+The DTA curves were due tobe crystallized.
+All the other samples ofTG-DTA curves were similar in shapefor Li1.2Ga0.2Ti1.8(PO4)3.Figure 4 shows the SEM image of the surface of theLi1.3Ga0.3Ti1.7(PO4)3 sintered at 1173K.
+Similar sizedparticles with a mean particle size of about 1μm wereshown.
+The particle size was increased by increasingthe sintering temperature and content of Ga3+, butsimilarly sized particles were not observed.
+Fig.5shows the relation between the relative density of thesintered discs and the x value for the Li1+xGaxTi2-x(PO4)3systems.
+Relative density of LiTi2(PO4)3 (x=0) was aslow as 55%.
+Relative density was increased until formed up to x = 0.3, while relative density wasdecreased for x > 0.4, as impurity phases appeared for x > 0.4. 
+Fig.6 shows variation of latticeconstants a(A) and c(A) for the Li1+xGaxTi2-x(PO4)3 discs at 1173K.
+The lattice constants a(A) andc(A) increased with the increase in Ga3+ up to x = 0.4 because the ionic radius of Ga3+ was slightlylarger than that of Ti4+.
+The single phase was formed up to x=0.4, while an impurity phase appearedfor x > 0.5. 
+The replaceable limit for a Ga3+ ion was around x = 0.4.Figure 7 shows the electrical conductivity results withx in the Li1+xGaxTi2-x(PO4)3 systems at 303K.
+Theconductivity was greatly enhanced by Ga3+substitution.
+The maximum conductivity of ca.
+7.3×10-4 S/cm and activation energy of 0.30eV at303K was obtained for the Li1.25Ga0.25Ti1.75(PO4)3discs prepared at 1223K.
+In order to clarify theeffect of high densification on the conductivityincrease, Li3PO4 or TiO2 (rutile type) (2, 5, 10 wt%)was used as a binder .
+They were added toLi1.25Ga0.25Ti1.75(PO4)3 sintered 1223K, which had themaximum conductivity.
+The conductivity of all ofthese samples with binder was lower than the diskwithout binder in which the maximum conductivitywas as high as 7.3×10-4 S/cm at 303K.
+LiTi2(PO4)3 showed low ionic conductivity and density in the sintered discs.
+The partial substitutionof Ti4+ site with Ga3+ in the LiTi2(PO4)3 system was very effective for the enhancement of theconductivity.
+The maximum conductivity of ca.
+7.3×10-4 S/cm and activation energy of 0.30eV at303K was obtained for the Li1.25Ga0.25Ti1.75(PO4)3 discs prepared at 1223K.

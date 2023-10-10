@@ -1,0 +1,79 @@
+Conductivity measurements have been performed on the solid solution series, Na Zr
+
+P O , for 0 , x , 2. These materials are Zr-deﬁcient nasicon. A monoclinic to rhombohedral phase transition occurs around x 5 0.333. The variation of the ionic conductivity as a function of the composition x is investigated in the temperature range 150–600 K. It is shown that the bulk ionic conductivity decreases slightly from 6 3 10 S cm for the Zr non-deﬁcient nasicon (x 5 0) to S cm for the Zr highest-deﬁcient material (x 5 1.667). The presence of the above mentioned structural change 6 3 10 does not affect the ionic conductivity. The mobility of the Na ions in these materials seems to be mostly inﬂuenced by the size of the bottlenecks through which the ions have to pass. The variations of both the ionic conductivity and the activation energy of the ionic motion process in the bulk of the material can be explained by structural considerations. 1999 Elsevier Science B.V. All rights reserved.
+
+The Zr Si P O , represented an important im11x provement in solid electrolyte developments because their three-dimensional framework structure presents a high ionic conductivity comparable to that of two-dimensional networks, such as b-alumina. One of the ﬁrst investigations was performed by Hong [1], who demonstrated that solids in the above compositional range (0 , x , 3) heated to 12008C
+
+crystallize in the nasicon structure. These structures have rhombohedral symmetry except in the interval 1.8 , x ,2.2 where a small distortion to monoclinic
+
+symmetry occurs. Even though the nasicon type structures are stable in a large triangular zone of the quaternary phase diagram Na O–ZrO –P O –SiO , 2 delimited compositions NaZr P O , 12 Na Zr Si O , and Na Zr P O [2]. Most of the studies [3–7] have been concentrated on the above reported formula, all around the composition x 5 2. In fact the highest conductivity values were observed in the range 1.8 , x , 2.4. A commercial product (NKG-Co. Ltd Japan) having nominal composition Na Zr Si PO , was already produced and investigated as a carbon dioxide sensor [8–10].
+
+Only few studies were dedicated to other compositions: Kohler et al. [2] and later Rudolf et al. [11,12] succeeded in preparing Zr-deﬁcient mono[13] proposed a clinic solids. Von Alpen et al. different general formula, Na Si P O , 12 in order to obtain a zirconia free material. However, even though zirconia-free, the Von Alpen materials consist of two phases, when generally the Hong compositions contain two (when zirconia-free) or even three different phases. In fact, many authors demonstrated that a glassy phase (which is basically a sodium silicophosphate with some dissolved zirconia) forms in many compositions, mostly in the silica rich ones. This phase has a high ionic conductivity, but unfortunately, it rapidly degrades upon contact with humidity. In addition, the appearance of new phases after high temperature treatments, principally liquid phases, was observed and correlated to an increase in powder sinterability.
+
+In a previous paper [14] we investigated further the ternary ﬁeld extending among NaZr P O , 12 Na Zr Si O and Na Zr P O . In particular we selected those compositions which have a constant number of three Na ions per structural building unit (SBU) in order to maintain the constant amount of ionic carriers already present in Na Zr Si PO . The aim of this work is to assess the ionic conductivity of the above compositions expressed by the relation, Na Zr P O , and to correlate it to the x value.
+
+Owing to the difﬁculty in obtaining high-purity nasicon ceramics through conventional solid state reactions, we have elaborated a sol-gel preparative technique in order to obtain the preliminary formation of an amorphous solid (xerogel). The higher reactivity of this precursor leads more easily to monophasic compositions, without impurities at the grain boundary, and at the same time originates very small grains which are sintered more easily.
+
+We have obtained these xerogels through the following preparative steps.
+
+A measured volume of tetraethylorthosilicate (TEOS) is added to an equal volume of ethanol and half a volume of distilled water. The pH of the aqueous alcoholic solution is adjusted to 0.5–1 with a few drops of 1 M HNO . In this way TEOS is ﬁrstly partially hydrolyzed to silanol monomers.
+
+Stoichiometric quantities of NaNO (BDH Chemicals, purity . 99.5%) and of zirconium dinitrate oxide ZrO(NO ) .xH O (Ventron, ZrO 5 45.68%) are dissolved in a little amount of a mixture of water/nitric acid (1:1) and added to the solution A while stirring carefully until a clear phase is obtained.
+
+A suitable portion of (NH ) HPO (Merck, purity . 99.5%) is dissolved in a mixture of distilled water and nitric acid (1:1) and then quickly added to the (A 1 B) solution prepared above, always stirring vigorously. In this way a dense gel forms, which is ﬁrstly dried at 1058C (under stirring) and then cautiously and gradually heated in air up to 4008C, thus removing excess water, alcohol and gaseous products formed by decomposition of nitrates, so obtaining a white amorphous crispy powder.
+
+The following samples x 5 0, 0.333, 0.667, 1.000, the solid solution series 1.333 and 1.667 of Na Zr P O have been prepared. Each amorphous sample was submitted to simultaneous DTA and TG analysis in order to determine the crystallization temperature of the xerogels from the position of the relative exotherms. These temperatures were comprised for all the samples between 650 and 7008C. At these low temperatures the XRD patterns showed very broad peaks of the nasicon structure. The samples, after crystallization at the above temperatures, were ground in an agate mortar, then axially cold pressed at 0.1 GPa and ﬁnally sintered directly at 12008C for 30 min. Some sam21 ples were also sintered by slow heating (58C min ) from room temperature up to 12008C. Sintering at 12008C conﬁrmed the poor sinterability of these powders. Even though starting from high density grain (55–65% of theoretical value) only some
+
+compositions were able to overcome 90% of the theoretical value [15]. The density of the sample has been measured picnometrically on the samples used for conductivity. For x 5 0 it was less than 70%. However for x 5 0.333 the density of the sample was 76% and for x 5 0.667 and x 5 1.333 it was greater than on Na Zr O sintered at 12008C showed the presence of a glassy phase, supporting the assumption already suggested in the literature that nasicon undergoes a liquid phase sintering [5,16,17]. The appearance of this liquid phase may induce the segregation of zirconia crystals by a dissolution– precipitation process, particularly if the samples are sintered by slow heating (58C min
+
+The X-ray powder patterns were recorded at room temperature with a Philips PW1710 diffractometer equipped with a graphite monochromator on the diffracted beam and a sample spinner. The relevant powder diffraction data together with the unit cell dimensions reﬁned therefrom for the monophasic studied samples are reported in Ref. [14]. The composition x 5 0 corresponds to the classical nasicon composition Na Zr Si PO . The unit cell parameters and the space groups of the above monophasic compositions are reported in Table 1. All the samples have been sintered directly at 12008C.
+
+tron) from 150 K to 600 K in the frequency range 4 MHz–1 Hz. An applied voltage of 100 or 200 mV (r.m.s.) was used (the response of the electrochemical cell remains linear up to 500 mV). Either platinum paste or sputtered gold were used as ionically blocking electrodes. The dimensions of the samples were typically 1 cm in diameter and 1 to 2 mm in thickness (the form factor was then around 0.2 cm ). For measurements above room temperature the sample was ﬁxed up in a two-electrode cell in an oven under pure dehydrated N atmosphere (less than 5 ppm of O ). For measurements below room temperature the sample was ﬁxed up in a two-electrode cell in a cryogenerator under vacuum. The samples were allowed to equilibrate for 1 to 2 h before measurement until obtaining reproducible impedance spectra. The grain boundary conductivity was better observed in samples with sputtered gold electrodes than in samples with platinum paste electrodes due to a diffusion process which occurs at low frequencies in the platinum paste, this diffusion partly masking the grain boundary circle. On the other hand, with gold electrode the grain boundary circle and the electrode polarization are well separated as shown in Fig. 3a. To model bulk and grain boundary conduction we used a series circuit made of two ZARC-Cole elements (ZC). Each element is a distributed element and is a combination of a constant phase element (CPE) and a resistor R [18]. The CPE element takes into account the electrical inhomogeneity of the sample. The impedance of such a ZC element is given by the relationship:
+
+Conductivity measurements have been carried out with a Frequency Response Analyzer 1276 (Solar-
+
+and is represented by a complex plane impedance
+
+The nasicon framework structure is characterized by structural building units (SBU) made of two overlaying ZrO octahedra linked by (Si,P)O tetrahedra. Into these tetrahedra silicon and phosphorus are randomly distributed on sites with fourfold coordination. These SBU are connected by (Si,P)O4 tetrahedra to form inﬁnite ribbons parallel to the located in the c-axis. The Na interSBU positions, are connected by a more or less wide channel where Na ions can diffuse. These ions have to pass through bottlenecks formed by ZrO octahedra and (Si,P)O tetrahedra, as shown in Fig. 1. Since these bottlenecks exceed 4.8 A, the 1Na ions can be mobile in this material. In the solid solution series Na Zr three sodium ions balance the negative charge of the SBU. In the ternary diagram delimited by the compositions NaZr P O –Na Zr Si PO –Na Zr the studied samples are located on the line extending from Na Zr Si PO , and Na Zr P O as shown in Fig. 2. In these materials Si are partly (or in the tetrahedra. This completely) replaced by P substitution leads to the removal of Zr in some of the octahedra to compensate the gain of the positive charge in the SBU. The Zr non-deﬁcient Nasicon (x50) structure is monoclinic at room temperature [1] and presents three different Na sites not fully occupied. According to Mazza et al. [14], a monoclinic to rhombohedral phase transition occurs in the Zr-deﬁcient Nasicon for x lying between 0.333 and 0.667. In the rhombohedral phase only two different 1Na
+
+
+
+Fig. 1. Part of the structure, showing the columns of NaO , ZrO 6 and (Si,P)O polyhedra. Large dark circles represent Na(1) positions, large open square Na(2) position, arrow represents the conduction path of Na
+
+The Nyquist plots of the impedance obtained on Na Zr P O , with sputtered gold electrodes, display two different shapes depending on the composition x. For 0#x#1 the impedance diagrams
+
+Fig. 2. Composition line of the examined samples.
+
+Nyquist representation of the modulus (M 5 jvC Z,0 with C 5 « s/l). For all the samples the modulus diagrams display two semicircles and then two relaxation processes. This means that in all materials bulk and grain boundary conductivities are present. The high frequency semicircle can be attributed to the bulk conductivity and the low frequency one to the grain boundary conductivity. The impedance diagrams for high x values display only one well shaped semicircle because the capacitance of the
+
+Fig. 3. Nyquist plots of the impedance diagrams (a) and modulus diagrams (b) obtained in the frequency range 1 MHz–1 Hz on Na Zr
+
+P O (x50.667) at 248 K (upper diagrams) and 225 K (lower diagrams).
+
+O. Bohnke et al. / Solid State Ionics 122(1999)127–136
+
+Fig. 4. (a) Nyquist plots of the impedance diagrams (a) and modulus diagrams (b) obtained in the frequency range 1 MHz–1 Hz on Na Zr
+
+P O (x51.333) at 244 K (upper diagrams) and 226 K (lower diagrams).
+
+bulk and the grain boundary are of the same order of magnitude in these materials, may be due to the heat treatment conditions and/or to the composition. Figs. 3a and 4a also show that the centers of the experimental semicircles are displaced below the real axis. This feature is generally observed in most of the ceramic materials. It indicates the presence of distributed elements in the material–electrode system
+
+and explains the choice of the model we used (with CPE elements) to estimate the bulk and grain boundary conductivities. The parameter f is then related to the width of the relaxation time distribution.
+
+In order to quantitatively estimate the bulk and grain boundary conductivities of these samples we used the equivalent circuit shown in Fig. 5 with two ZC elements. The resistances represent the ionic
+conductive paths in the bulk (R ) and in the grain boundary (R ), the CPEs represent the space charge polarizations grain boundaries (CPE ) and at the interface electrode– electrolyte at the compositions these parameters have been determined as a function of temperature by ﬁtting the experimental data with the above described electrical model. From the values of R and R the bulk and grain boundary conductivities have been calculated.
+
+low frequency (CPE ). For all
+
+As an example, Fig. 6 shows the conductivity variations obtained as a function of inverse of temperature for the composition x50.667. The grain boundary conductivity is roughly one order of magnitude smaller than the bulk conductivity. The capacitance associated with the high frequency arc is found to be around 10 F and the one associated to 28 the lower frequency arc lies between 10 F. The high frequency arc of Fig. 3a can then be identiﬁed as a bulk property from the fact that the capacitance is of the order of pF (C ł3 pF cm , 21 the form factor of the sample is 0.32 cm ) and the lower frequency arc to the grain boundary property
+
+Fig. 8. Room temperature conductivity (a), activation energy (b) P O (0#x,2) as for the solid solution series Na Zr a function of the composition parameter x, for the Na hopping motion in the bulk (n) and grain boundaries (s).
+
+temperature conductivity (a) and the activation energy (b) for both the bulk and grain boundary conductivities as a function of composition x. The room temperature conductivity decreases slightly with composition and remains between 10 and 10 S cm , the activation energy increases from 0.33 to 0.42 eV at x.1. For x,1 both the conductivity and the activation energy remain constant to the value of the classical nasicon Na Zr Si PO (i.e. 6310 tively [17]).
+
+Fig. 9. Variation of the cell parameters a and c (curves a and b, respectively) and of the cell volume (curve c) of the solid solution series Na Zr P O as a function of the composition parameter x.
+
+of the bottleneck size of the ion pathways decreases the ion mobility and may increase the activation energy of the motion process.
+
+As x increases, phosphate tetrahedra replace silicate tetrahedra leading to a tilting in such a way to decrease the c-axis and to close the bottlenecks. This process becomes important around x51 as shown in Fig. 9b. This process can increase the barrier to ion motion, as shown in Fig. 8b, and decrease the ions conductivity. Moreover the substitution of Si 41 by P in the octahedra to compensate the gain of the positive charges in the SBU. The presence of Zr-free octain the hedra can alter the distribution of Na 1 different available sites. If some of the Na ions can be located in the Zr-free octahedra they will become immobile. Consequently the conductivity may also decrease because of a decrease of the number of mobile ions. More studies are necessary to clarify these points and to locate the Na ions in the structure as the octahedra are more and more Zr-free.
+

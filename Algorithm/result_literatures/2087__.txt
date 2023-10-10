@@ -1,0 +1,59 @@
+Solid electrolytes are wider and wider used in electrochemical devices. They are of peculiar importance to gas sensors, membranes, pumps and fuel cells. The study of the conductivity of the thick ﬁlm fast ion conducting systems (NASICON and BICUVOX) was carried out using ac impedance spectroscopy. Investigations of changes of electrolytes conductivity with temperature (Arrhenius plots) were carried out. Conducted research was conﬁrmed through practical applications of NASICON in thick ﬁlm NO2 sensor and BICUVOX solid electrolyte in fuel cell (SOFC). # 2001 Elsevier Science Ltd. All rights reserved.
+
+The inorganic ionic conductors are commonly used in the novel electrotechnical devices such as gas sensors, membranes, pumps and fuel cells. These devices are of peculiar importance to environment protection. Gas sensors, in method of analysis being a concentration cell with solid-state electrolyte, enable the detection and measurement of hazard gases (SOx, NOx),1 whereas solid oxide fuel cells (SOFC) are the eﬀective (60%) environmentally benign source of electric energy.2
+
+The systematic name: solid state electrolytes contain the chemical compounds exhibiting practically only the ionic conductivity which magnitude at high temperature is comparable to the conductivity of liquid electrolytes, i.e. it is in the range of 1 S/cm. The high value of ionic conductivity of this group of compounds is an eﬀect of both: ion charge carrier high concentration and mobility. The high concentration and mobility of the charge carriers of these solid state electrolytes results from the crystal structure of these compounds. Their structure consists of the two kinds of ions: ones constituting the immobile space crystal lattice and the others easy moving inside this lattice and establishing the ‘molten’ sublattice.
+
+The mobile ions generally come to be the small cations, so these kinds of conductor are usually cation conductors. The most popular one is the Na-SuperIonic-Conductor (NASICON). The name NASICON contains the whole group of Na+ ionic conductors with chemical formula Na1+xZr2SixP3 xO12 (04x43), yet it was estimated that the composition with x=2.2 gives the highest electrical conductivity.3 NASICON constitute the essential part of broad range of electrochemical sensors of such hazard gases as: NO, NO2, CO2.4 However, the research into the increase of the ionic conductivity of NASICON, in order to optimise the sensors parameters (dimensions, time of answers, stability), is still carried out.
+
+Along with ionic conductors with molten sublattice there are some conductors in which the electrical conductivity is controlled by the total number of defects (concentrated defect type). The crystal lattice of these compounds constitutes two sublattices of close-packed ions where one of the sublattices is highly defected. The defected sublattice is usually the anionic one and that is why they are well known conductors (ZrO2 and CaF2) of O2  and F  ions. The novelty in this group of conductors, due to high O2  conductivity at relatively low temperature are so called BIMEVOX5 and BICUVOX in particular, the conductors based on stabilised Bi2O3. The electrical conductivity  of BICUVOX.10 (Bi2V0.9Cu0.1O5.35), at 250–450C temperatures is about two orders of magnitude higher then the best oxide ion
+
+For example, at 400C the conductivity of BICUVOX.10 reaches 10 2   1cm 1.6 The solid state electrolytes oxygen ion conducting power is fully utilised in fuel cells (SOFC) to generate electricity from chemical energy with low emissions.
+
+For high ionic conductivity the super ionic conductors in the electrotechnical devices are utilised above all in the form of high dense ceramic sintering bodies. These devices usually require the electrolyte layer 1 mm and less in thickness to assure the short paths for ion migration. Such sintered bodies are not easy to be handled without damage by mass production methods.
+
+In this paper, a new method of manufacturing solid electrolytes is presented. Instead of the previously used ceramic method, thick ﬁlm technology was applied. The work was aimed at estimation if the ionic conductivity of NASICON and BICUVOX electrolytes in devices made by thick ﬁlm technology (thickness of electrolyte ﬁlms 200 mm) is suﬃcient for NO2 sensors and SOFC applications.
+
+Because NASICON and BICUVOX are not commercially available the ﬁrst step in this study was the synthesis of them. The NASICON (Na3.2Zr2Si2.2P0.8 O12) sample was synthesised from mixture of chemically pure NaHCO3, ZrO2, SiO2 and NH4PO4.3H2O powder (produced by POCH) by annealing at 210C for 20 h (for decomposition of NaHCO3 and NH4PO4.3H2O). Powder X-ray diﬀraction (XRD) analysis of annealing mixture identiﬁed Na2CO3 and Na2HPO4 and the amorphic SiO2 in the mixture. DRON X-ray diﬀractometer with Co radiation ﬁltered with Fe ﬁlter was study. To decompose Na2CO3 and used in this Na2HPO4 the mixture was further annealing at 1140C for 3 h. Decomposition was conﬁrmed by XRD analysis. Only ZrO2 and Na2ZrSiO7 was found in it. The convert ZrO2 and Na2ZrSiO7 into NASICON the mixture was milling again and annealing at 1260C for 3.5 h. XRD analysis conﬁrmed the synthesis of NASICON. The other solid electrolyte BICUVOX.10 (Bi2V0.9Cu0.1O5.35) was prepared by solid-state reaction from stoichiometric amounts of the following chemically pure oxides (from POCH): Bi2O3, V2O5 and CuO using the method described by Simner.6 The mixture of starting powders was dispersed in methanol and ball-milled for 15 h. The resulting mix was dried, thoroughly ground to break up any large agglomerates, and then ﬁred at 800C for 5 h in air. To ensure complete reaction the material was ground and reﬁred at 800C for 5 h. By
+
+correlation with X-ray diﬀraction studies carried out by other workers6 XRD analysis of mixture conﬁrmed the synthesis of BICUVOX.
+
+To obtain the pastes applicable for printing thick ﬁlms the NASICON and BICUVOX powders were mixed with organic binder (vehicle). Then the pastes were screen-printed on alumina substrates and sintered.
+
+The electrical conductivity of the electrolytes was analysed in function of temperature by complex impedance spectroscopy. An ac two-point impedance measurement computer-controlled Hewlett-Packard precision LCR meter Model HP 4284A, with 20 mVrms test signal over the frequency range 20 Hz to 1 MHz with 10 point per frequency decade was employed. Pt porous thick ﬁlm electrodes were applied.
+
+The thick ﬁlm electrolyte layers along with printed Pt electrodes constituted electrochemical cells. The galvanic cells using NASICON were intended for NO2 sensors. Their design and principle of operation are described elsewhere.7 NO2 concentrations were established by measuring of cell emf. The sensors response times were also at spotlights.
+
+The BICUVOX electrolytes were used for SOFCs realisation. For this purpose the perforated alumina plate with printed on the BICUVOX layer were placed in a steel tube through which the CH4 was ﬂowing. The cell emf was measured.
+
+The Nyquist plots for a thick ﬁlm NASICON sample at 23, 50 and 100C are shown in Fig. 1. At higher frequencies the well resolved semicircular arc appears. This arc is attributed to the bulk properties of electrolyte and diminishes with increase of temperature. At lower frequencies the start of the other semisecular is traceable and can be ascribed to the electrode polarisation eﬀect. On the basis of Nyquist plots the resistive component of impedance was established.8 This resistive the total component was used to derive the values of conductivity in the function of temperature for thick ﬁlm NASICON sample. A typical Arrhenius plot for this thick ﬁlm electrolyte is illustrated in Fig. 2. As expected, the conductivity increases with increased temperature but generally it is much lower in comparison to ceramic bodies
+
+conductivity. The conductivity of NASICON thick ﬁlm at 300C corresponds to 0.001   1 cm 1 whereas conductivity of NASICON ceremal 0.159   1 cm 1.3 The discrepancy is the result of diﬀerences in sample densities (the pores retard the ion transition in material). The typical Nyquist plot for a thick ﬁlm BICUVOX sample at 300C is shown in Fig. 3. The Arrhenius plot for BICUVOX (Fig. 4) was traced in the same manner. In the temperature range 150–400C the conductivity of BICUVOX thick ﬁlm is much lower than the conductivity of BICUVOX sintered pills. However, at
+
+higher temperatures (>400C) the BICUVOX ceramic body has no advantages over thick ﬁlm and the conductivity is approximately 0.01   1 cm 1 at 400C and 0.1   1 cm 1 at 600C.
+
+Fig. 5 illustrates the performance of the sensor base on the thick ﬁlm NASICON. The cell emf response to the logarithm of NO2 in the wide range of NO2 concentrations (10–1000 ppm) was linear and corresponds to the Nernst equation.9 The response time of sensor was determined for the NO2 partial pressures varied between atmospheric and 17 ppm (Fig. 5). The response time depends sharply on solid electrolyte thickness.10 Application of thick ﬁlm electrolyte (ﬁlm thickness 0.2 mm) instead of the ceramic one4 allows to make the response time signiﬁcantly shorter due to the electrolyte thickness decrease.
+
+The emf quantity delivered from cells based on BICUVOX electrolyte (screen printing executions) — 0.3 V at
+
+Fig. 1. Nyquist plots for a thick ﬁlm NASICON sample at 23, 50 and 100C.
+
+Fig. 4. Arrhenius plot for a thick ﬁlm BICUVOX.10 sample.
+
+Fig. 2. Arrhenius plot for a thick ﬁlm NASICON sample.
+
+Fig. 3. Typical Nyquist plot for a thick ﬁlm BICUVOX.10 sample recorded at 300C.
+
+Fig. 5. Performance of sensor based on thick ﬁlm NASICON electrolyte at 200C: emf vs. NO2 concentration and response transient to 17 NO2 ppm.
+
+G. Pasciak et al. / Journal of the European Ceramic Society 21 (2001) 1867–1870
+
+400C — arouse the trust to come, in the pursuit of increase of energy eﬃciency, to commercial resolutions.
+
+The following conclusions can be drown from our
+
+. Thick ﬁlm technology allows for the manufacturing of solid electrolytes such as NASICON or BICUVOX.
+
+. The conductivity of thick ﬁlm electrolytes in general is lower than the conductivity of electrolytes ceramic body. Thick ﬁlm electrolytes are suitable for gas sensors and fuel cells applications.
+
+. Application of thick ﬁlm (layer thickness 0.2 mm) instead of the ceramic technology signiﬁcantly decreases the response time of NO2 sensor, due to the decrease in the electrolyte thickness.

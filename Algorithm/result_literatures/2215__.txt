@@ -1,0 +1,122 @@
+Crystallised fast Li 135) conductors have been used as ionic sensitive materials for lithium ion measurements by potentiometry. The compounds are NASICON-type ceramics of general formula Li1 135)xAlxM2 255)x(PO4)3 (M  136) Ti or Ge and 0.3 20)x 20)0.7). For 0.3 20)x 20)0.7, the electrodes present a Nernstian response down to a detection limit of 6 2)10 255)5 to 2 2)10 255)4 mol l 255)  135) and K 135)) are governed by steric effects. The most selective NASICON-type skeleton is the one presenting the smallest unit cell (i.e. Li1 135)xAlxGe2 255)x(PO4)3), in spite of a lower ionic bulk conductivity than its Ti-based homologous Li1 135)xAlxTi2 255)x(PO4)3. The Li;Na are 0.65 and 1.6 2)10 255)2 for Li1.3Al0.3Ti1.7(PO4)3 and for Li1.3Al0.3Ge1.7(PO 4)3 potentiometric interference coef®cient Kpot respectively. The Kpot Li;j coef®cients have been determined by the mixed solutions method using the Nikolskii-Eisenman Li;j depends on Li 135) concentration when the primary ion level is ®xed and on the j empirical equation. It has been shown that Kpot interfering ion concentration when the j level is ®xed. Such results indicate clearly that the Nikolskii±Eisenman model is not suf®ciently adapted to the characterization of NASICON-type electrodes. # 1997 Elsevier Science B.V.
+
+Keywords: Ion-selective electrode; Ionic conductor; NASICON structure; Selectivity
+
+Ion-selective electrodes (ISEs) are very attractive for ion activity measurements in biological systems. For the determination of lithium, although spectrometric methods remain the reference techniques, potentiometric analysis is in full development. Such analysers present a low operational cost, a relative simplicity of use, a principle of measurement which
+
+allows a response to the activity of free ions (important parameters in physiology) and a direct and eventually continuous analysis of samples.
+
+The therapy of manic depressive psychosis with lithium salts requires periodic measurements of the Li 135) concentration in whole blood, plasma, urine or serum. The analysis is dif®cult because of the low lithium concentration compared to the high content of the natural cations (especially Na 135)). The ionic composition of different physiological media and the concentration of the toxic and the therapic lithium doses are quoted in Table 1. It should be noticed that the therapic concentration of Li 135) in urine is relatively
+
+Table 1 Toxic and therapic lithium concentrations and normal cationic compositions in physiological fluids [1,2]
+
+The Li 135)-ISEs are ®rst kind electrodes, using organic or inorganic sensitive materials. Most of the inorganic membranes are Li 135) conductive glasses of possible composition 15% Li2O, 25% Al2O3 and 60% SiO2 [3,4], or single or polycrystalline phases LixV2O5 or LiMoO3 [5]. Such ISEs generally present poor detection performances (Nernstian response from 10 255)3 to 1 mol l 255)1 in the case of LixV2O5) and low selectivity properties (Table 2). Li 135) electrodes using polymeric membranes have recently attracted much attention [6±8]. They are based on the use of a neutral carrier with an ability to complex Li 135). 1,10-Phenanthroline derivatives have shown high capabilities for the Li 135) detection. Recently, Sun et al. have reported, in the case of a Li 135)-ISE based on this carrier, a linear response from 10 255)4 to 1 mol l 255)1, an average slope of 56.4 mV/decade of 9.5 2)10 255)5 mol l 255)1 [8]. Selectivity properties of this sensor are quoted in Table 2. Studies of commercialized Li 135)-ISE analysers equipped with polymeric membranes have been carried out in physiological ¯uids [9±11]. These tests have shown both the good correlation between potentiometric and spectrometric measurements (essentially ¯ame the possibility of fast analysis with ISEs. Nevertheless
+
+the lifetime of this type of electrode and the low resistance to temperature of organic compounds can be the limiting factors. The development of ISEs based on mineral membranes could overcome such problems. The main objective of the present work is the study of lithium selective electrodes using Li 135) conductive ceramics. The membranes can comprise NASICONtype materials (acronym of NAtrium Super Ionic CONductor) [12]. This type of potentiometric sensor has been proposed for instance for Na 135) determination [13,14]. The detection properties of the sensors are comparable to those of the commercialized Na 135) glass electrodes [15,16].
+
+One of the interesting properties of NASICON-type compounds is to have a structure with different conductive sites whose size can be calibrated to the conductive cation. Therefore, it is possible to synthesize NASICON-type materials with different conductive ions, for example Li 135), Ag 135), K 135) [12] or Cu 135) [17]. The main problem is to adapt the covalent skeleton to the physicochemical properties of the charge carrier to optimize of the ionic conduction.
+
+We have carried out the characterization of Li 135)ISEs constructed with Li 135)-NASICON of general formula Li1 135)xAlxM2 255)x(PO4)3 (M  136) Ti or Ge and 0 20)x 20)0.7). Their structure can be described as a covalent skeleton [M2P3O12] 255), constituted of PO4
+
+Ceramic materials have been elaborated by the sol± gel route in order to obtain samples of high quality. A comparison of sol±gel and co-grinding processes showed that better results are obtained by the sol± gel route because the packing density, purity and stability in water are more adapted to ionic analysis by potentiometry [20]. The sol±gel synthesis of Li1 135)xAlxM2 255)x(PO4)3 (M  136) Ti or Ge and 0 20)x 20)0.7) is described in detail elsewhere [20,21]. It is based on fast hydrolysis and polycondensation reactions of alkoxide solutions of Al(OC4H9)3 and Ge(OC2H5)4 or Ti(OC4H9)4 in butanol with an aqueous solution of CH3COOLi and NH4H2PO4. A ®ne precipitate is formed. After drying and calcination, the powders are pressed into pellets (2500 bar) and sintered between 850 and 10008C depending on the composition. The ceramic materials are manufactured into cylindrical samples of 5 to 6 mm diameter and 2 to 4 mm thickness. The surface of the pellets is then polished.
+
+The electrical characterization of the materials has been made by impedance spectroscopy, using an HP
+
+4192 A Hewlett-Packard impedance analyser in the frequency range 5 Hz to 13 MHz. The total resistance of samples was determined from the sum of the bulk and the grain boundary impedance diagrams. The complete study on compounds Li1 135)xAlxM2 255)x(PO4)3 [21], with 0.3 20)x 20)0.7 and M 136)Ti and Ge, will be reported in detail elsewhere and only the main results will be mentioned below. 2.2. Preparation of Li 135) selective electrodes
+
+The sensitive ceramic membrane is inserted at the extremity of the electrode body. Inside, a silver wire covered with silver chloride is immersed in a lithium salt solution (LiCl 0.1 mol l 255)1). This system constitutes the internal reference of the electrode. It should be noted that solid internal references have been also tested with a view to produce a solid-state tubular selective electrode for ¯ow injection analysis, for instance using a graphite-epoxy system [19,21], but results have shown problems linked to the stability and the reproducibility of the potential for steady state measurements. Consequently, in this study, we have exclusively used the liquid reference system described below to characterize the different ceramics.
+
+2.3.1. Calibration The electrochemical cell used for measurements is the following:Ag±AgCl/LiCl 0.1 mol l 255)1/Li 135)-NASICON/analysed solution/reference electrode (SCE) The supporting electrolyte is 0.1 mol l 255)1 BaCl2 solution. The external reference electrode is a saturated calomel from Tacussel, equipped with a double junction containing the BaCl2 solution. Calibration graphs were obtained over the range 10 255)6 to 10 255)1 mol l 255)1 by addition of LiCl standards. Solutions were stirred and measurements were done at room temperature using a high impedance potentiometer (1013  , Aries 20 000 Tacussel). The detection limit was determined according to IUPAC recommendations [22].
+
+where R, T, z, F and a are the gas constant, the absolute temperature, the charge of the ion, the Faraday constant and the ionic activity respectively.
+
+The interference of the proton and of the principal alkaline and alkaline earth metal in biological ¯uids (i.e. Na 135), K 135), Ca2 135) and Mg2 135)) have been studied.
+
+ions present
+
+The ®rst method used is the following: the primary ion concentration has been kept constant and ®rstly equal to 1 2)10 255)2 mol l 255)1. Successive additions of a solution containing the interfering ion j have been made (in the case of the proton interference, the pH has been measured with a glass electrode). The plot of the cell potential as a function of the j concentration leads to the determination of Kpot Li;j [20]. This operation has been repeated for each interfering cation (i.e. H3O 135), Na 135), K 135), Ca2 135) Mg2 135)) and for the Li 135) concentrations of 1 2)10 255)1, 1 2)10 255)2 and 1 2)10 255)3 mol l 255)1. In the second method, the interference level has been successively ®xed at 1 2)10 255)3, 1 2)10 255)2 and 0.1 mol l 255)1 and the electrode calibrated with additions of a lithium salt solution [22]. This procedure has been only used in the case of sodium interference.
+
+All samples solutions were prepared from chlorides of alkali and alkaline earth metal. The supporting electrolyte was the BaCl2 solution excepted for the study of the calcium interference where a ¯occulation was observed. Consequently, a Tris buffer solution from Tacussel1 (pH 8) was used in this case.
+
+the lithium solubility. Consequently, the electrodes equipped with the sol±gel materials are more sensitive than those made with co-ground components, because of the presence of the soluble Li2CO3 phase in the latter. The packing density of the sensitive membrane is also an important factor for optimal lithium detection. In the case of a Li1.3Al0.3Ti1.7(PO4)3 electrode membrane, the detection limit is 5 2)10 255)3 mol l 255)1 for a 85% packing density p.d sample and 1 2)10 255)4 mol l 255)1 for a 93%. A sensitive membrane presenting a low packing density induces a high Li 135) concentration at the electrode-solution interface due to the high content of Li 135) retained in the pores of the ceramics.
+
+
+The quality of the ceramic samples being an important parameter, the following experiments have been conducted with samples of equivalent packing density. Results concerning the detection properties of different materials are presented in Table 3. Examples of calibration graphs are given in Fig. 1(a). The electrodes membranes Li1 135)xAlxM2 255)x(PO4)3 with 0.3 20)x 20)0.7 have a Nernstian response to Li 135) and a detection limit of about 1 2)10 255)4 mol l 255)1. Such results could be compatible with biomedical analysis (see Table 1) without taking into account the interference phenomena which will be studied below. The total ionic conductivity varies from 1.5 2)10 255)5 to 2.8 2)10 255)4 S cm 255)1 at room temperature, depending on the composition [21]. Such values are suf®cient for ISE devices but a too low conductivity, for instance for x 136)0 (about 10 255)8 S cm 255)1 at room temperature) does not allow accurate potentiometric measurements with
+
+Table 3 Detection limit and sensitivity of Li 135)-NASICON selective electrodes
+
+Detection limit (mol l 255)1)
+
+Sensitivity at room temperature (mV/decade)
+
+3. Results and discussion
+
+3.1. Detection properties
+
+It has recently been shown that the detection properties of the Li 135)-NASICON electrodes are linked to the water stability of the ceramic compounds [20,21]. The detection limit is correlated to the equilibrium value of
+M. Cretin, P. Fabry / Analytica Chimica Acta 354 (1997) 291±299
+
+Fig. 1. Examples of calibration graph: (a) Li1.7Al0.7Ge1.3(PO4)3 membrane; (b) Li1.3Al0.3Ge1.7(PO4)3 membrane.
+
+the usual geometric parameters of the membranes (3 mm thickness and 6 mm diameter). The bulk conductivity of the Ti-based materials (10 255)3 S cm 255)1 at room temperature) is 5 times higher than the Ge-based material for x 136)0.3. It seems that the variation of conductivity has no effect on the Li 135) detection limit of the electrodes. Moreover, structural analysis of the Li 135)-NASICON compounds has shown the presence of parasite phases: GeO2 in Li1 135)xAlxGe2 255)x(PO4)3 and LiTiOPO4 in Li1 135)xAlxTi2 255)x(PO4)3 [20,21]. These phases have a very low water solubility and have no effect on the detection properties.
+
+Fig. 2. Response of a Li1.3Al0.3Ge1.7(PO4)3 membrane electrode as a function of the acidity of the medium (Li 135) 136)10 255)2 mol l 255)1). The plot allows the determination of Kpot
+
+3.2.1. Protonic interference
+
+The response of a Li 135)-NASICON electrode as a function of the acidity of the medium is presented in Fig. 2. The lithium concentration is 1 2)10 255)2 mol l 255)1. The protonic potentiometric interference coef®cients are grouped in Table 4. Then results are compared to the values obtained for a Na 135) selective electrode based on NASICON material (Na3Zr2Si2PO12). Proton interferences can be due to surface processes [23]. Na 135)-NASICON membranes, which are siliconbased materials, have a high proton sensitivity (i.e. a high K pot Na;H value) on account of Si±OH surface groups. It has been shown that the presence of Si±OH groups is favoured by the sol±gel synthesis process. They can be eliminated only by use of a high sintering temperature (12008C). In such a case, the selectivity against the proton is improved but the electrode is slightly less
+
+Table 4 Protonic interference of Na 135) and Li 135) sensitive membranes
+
+Sensitivity Na 135)
+
+Membranes
+
+a Function of the sintering temperature.
+
+Table 5 Interferences of the alkaline and alkaline earth ions (Li 135)  136)10 255)2 mol l 255)1) on the Li 135)-NASICON ceramics
+
+Ge) surface groups. This property could lead to the possible detection of Li 135) in acidic ¯uids like gastric juice. It should be noticed that the Li 135)-NASICON proton interference coef®cient is signi®cantly lower than those usually reported in the case of polymeric electrode membranes (Table 2).
+
+ Interferences of alkali and alkaline earth
+
+Table 6 Ionic radii of the principal interfering ions in octahedrical site [24]
+
+Li;j (with j  136) Na 135), K 135), Mg2 135) and Ca2 135)) determination has been done by following the ®rst method described in Section 2.3. The Li 135) concentration has been kept constant at 1 2)10 255)2 mol l 255)1. The values of the potentiometric interference coef®cients are given in Table 5.
+
+the potentiometric interference coef®cient can be described as the product of an exchange equilibrium constant with the electrochemical mobility ratio of the ions in the membrane.
+
+In our case, for a given compound, the selectivity against singly charged cations seems to depend on the interfering ion size. The ionic radii of the ions studied are given in Table 6 [24]. Na 135), which has an ionic radius of 1.02 AÊ , presents a higher interference on Li 135)-NASICON than K 135) (ionic radius 1.38 AÊ ) which could be too large for ionic exchange.
+
+For alkaline earth metal ions (Mg2 135), Ca2 135)), the experimental values of KPot Li;M are in the range 1±2 2)10 255)2. The change is not very signi®cant. The difference of size of these ions compared to Li 135) may not be suf®cient to play a determining role. Then the double charge of such ions, which is not favourable for the NASICON host structure, seems to play the major effect in the selectivity phenomenon.
+
+The second interesting point of this interference study is the lowest interference which is obtained for a given ion (i.e. Na 135)) with the Ge-based materials. For
+
+example, for a charge carrier rate of 1.3 (x 136)0.3), Kpot is 0.65 and 1.6 2)10 255)2 for Li1.3Al0.3Ti1.7(PO4)3 and respectively. The structural Li1.3Al0.3Ge1.7(PO4)3 characterizations of Li 135)-NASICON compounds [21] have allowed it to be shown that the volume of the hexagonal unit is highly depending on the tetravalent cation in the octahedrical position (i.e. Ti4 135) and Ge4 135)). The total substitution Ti/Ge leads to a 6% shrinkage of the crystal cell. It seems that this structural effect improves the ionic selectivity against singly charged cations. In this case, the process would be essentially based on steric effects, either modifying the Keq value (ajm decreases when the unit cell is shrunk), or modifying the mobility ratio (the more the unit cell is shrunk, the more the j mobility is decreased compared to that for Li 135) which is favoured by a calibrated conductive site). A comparison of the cell parameters and the Kpot Li;j values for different NASICON membranes has been made elsewhere [25] which showed that character several orders of magnitude can be obtained for K pot Li;j when the crystal cell is shrunk.
+
+This study has been carried out on the membranes against Na 135) (i.e. with Li1 135)xAlxGe2 255)x(PO4)3 with x from 0.5 to 0.7), following the second procedure described in Section 2.3. The lithium concentration must be higher than the detection limit (1 2)10 255)4 mol l 255)1) and was successively ®xed at 1 2)10 255)3, 1 2)10 255)2 and 0.1 mol l 255)1. The results are presented in Fig. 3.
+
+For any membrane composition and any interfering Li;j is an increasing function of the Li 135) conion, Kpot centration (Fig. 3). For doubly charged ions (Ca2 135) and Mg2 135)) and in the studied concentration range, the function is proportional to as Li For singly charged cations, it tends to a similar function for the highest Li 135) concentrations and to a constant for the lowest values. The observed Kpot Li;j variations are too important to be due only to the variation of the activity coef®cients of the solutions. These effects could be related to the kinetics of the ionic exchanges at the membrane-solution interface, which certainly depend on the ionic species.
+
+Fig. 3. Variations of Kpot Li1.5Al0.5Ge1.5(PO4)3; Ge1.3(PO4)3.
+
+Li;H with the primary ion concentration: (a) (b) Li1.6Al0.6Ge1.4(PO4)3; (c) Li1.7Al0.7-
+
+From a fundamental point of view, it has been Li;j depends on Li 135) and j interfering shown that Kpot ion concentrations and so the classical description seems to be not well adapted to the characterization of the NASICON electrodes. Complementary experiments are needed to provide an improved interference model.
+
+From a practical point of view, the characteristics of such sensors are compatible with urine analysis because the voltage is always situated in the Nernstian range [19]. Nevertheless, use in blood analysis is rather delicate because the high Na 135) level in such a medium leads to measure a voltage close to the detection limit, i.e. a sub-nernstian response. An improvement using transient measurements in ¯ow injection devices has been proposed recently because the Li 135) response is faster than that for Na 135) [19].
+
+Fig. 4. Variations of Kpot for a Li1.6Al0.6Ge1.4(PO4)3 membrane electrode.
+
+Li;Na with the interfering ion concentration
+
+Li1.6Al0.6Ge1.4(PO4)3 membrane. The evolutions of K pot Li;Na are plotted in Fig. 4. In this case, K pot Li;Na is a decreasing function of the interfering ion concentration.
+
+As the potentiometric interference coef®cient is highly dependent on the primary and interfering ion concentrations, it is essential to determine the Kpot Li;j values for the corresponding experimental conditions. For biomedical applications, i.e. blood and urine analysis, the main interfering ion concentration can be assumed constant to a ®rst approximation (about 10 255)1 mol l 255)1) and the lithium concentration is lower than 1 2)10 255)3 mol l 255)1. The results plotted in Fig. 3 show that Kpot Li;Na is approximately constant for a given membrane in such concentration ranges.
+
+From a fundamental point of view, these preliminary results show that the usual Nikolskii relation does not appear to be well described the ionic interference phenomena on such membranes. As a consequence, it becomes necessary to carry out a more elaborate study, for instance by impedance spectroscopy, in view of the development of a complementary interference model about the kinetics of the ion exchange at the NASICON-solution interface. Such experiments are in progress in our laboratory.
+
+The lithium ion conductors based on the NASICON structure are ceramics well adapted to Li 135) determination with ISEs. The electrodes equipped with sensitive
+
+This work was supported by the ReÂgion RhoÃneAlpes in collaboration with Radiometer Analytical
+

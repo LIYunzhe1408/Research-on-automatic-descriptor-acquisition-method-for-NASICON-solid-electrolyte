@@ -1,0 +1,123 @@
+New lithium–niobium and lithium–tantalum phosphates Li= Nb, Ta) are synthesized by the solid-phase method. 
+The compounds prepared are characterized using electron microprobe analy) ( sis, X-ray powder diffraction, and IR spectroscopy. 
+The crystal structure of the Li PO  phosphate is 4 3 7/4 determined from the X-ray powder diffraction data (the Rietveld method) and belongs to the framework type. 
+vertex-shared octahedra and PO  and LiO The framework of the structure consists of TaO  tetrahedra. 
+The iso6 6 4 structural phosphates Li , (PO4)3 crystallize in the trigonal crystal system (space group Z = 6) and belong to the NaZr2(PO4)3 structure type. 
+
+The  structural  family  of  sodium  zirconium  phos( ) phate  NaZr PO   (NZP)  includes  compounds  and 3 4 2 solid  solutions  described  by  the  crystal  chemical  for1) ( ( mula  where M M  →  0 1 − {[ ( } ] ) p  represents the framework of the strucO T L ∞ 3 3 4 2 1) ture  (   is  the  framework  charge)  and    and p  →  1 0 ( 2)   are the types of extraframework cation posiM  →  3 0 tions with the designated number of occupied sites. 
+The framework of the structure is formed by   verO L 6 tex-shared  octahedra  and  tetrahedra.  
+The M 2 M 1 extraframework  positions    have  different sizes  and  represent  convenient  sites  for  arranging  a wide  set  of  cations  capable  of  compensating  for  the framework charge. 
+The majority of the representatives of  the  NZP  family  contain  phosphorus  as  an  anionforming  element T , The  structure-forming  cations  L which exhibit a predominantly covalent nature of the metal–oxygen bond, can exist in oxidation states from 5+ to 1+. 
+The extraframework positions   can contain identical cations or a particular set of predominantly low-charged cations in oxidation states from 1+ to  4+  or  remain  vacant,  depending  on  the  oxidation  and  state of the ions located in the   positions and on L T the condition of electroneutrality of the compound as a whole.
+
+The  NZP  phosphates  with  vacant  extraframework positions  (“empty”  frameworks)  are  of  fundamental interest in the ﬁeld of the chemistry and crystal chemistry of framework compounds, because the number of these phosphates that heretofore have been synthesized and investigated is very limited. 
+The NZP phosphates with  empty  frameworks  are  also  of  great  practical importance owing to their ultralow thermal expansion, which  has  been  predicted  from  the  relevant  crystal chemical data and the empirical relationships proposed in for the thermal expansion of the lattice of these compounds.
+
+The  theoretically  possible  formula  types  of  NZP phosphates  with  vacant  extraframework  positions  of ) (  can be calculated from the composition  PO 3 4  +  the condition of framework formation   = 2 and the r s  +  condition of framework electroneutrality   = 9 (at mr  = 0).
+By solving the system of these equations for parp ticular values of  , we obtain the possible formula types of NZP phosphates with empty electroneu1+ L7/4 ) ,  ( ) , ( PO tral  PO L1/4 4 3 3 4 3+ L3/2 5+ 4+ ( ) PO .  
+It  should  be  noted L1/2 L L 3 4 that a necessary condition for the formation of orthophosphates with empty frameworks is the presence of cations in the oxidation state 5+ together with cations in the oxidation state 1+, 2+, 3+, or 4+.
+The general formula of these compounds can be written as.
+Compounds  with  a  structure  containing  both  the framework positions occupied by elements in the oxidation state 1+ and vacant extraframework positions are unknown. 
+However, there exist phosphates with occupied  extraframework  positions.  These  phosphates  are represented  by  the  sodium-containing compounds Na4[NaM](PO4)3 (M = Ti, Zr, Hf), space group R32, Z = 6 [2–4],  and  Na4[Na0.5Yb1.5](PO4)3,  space  group  , R3c Z = 6 [5].
+
+There exist a wide variety of known representatives the  compositions of  2+ L5/3 (PO4)3,  and  L4+L5+(PO4)3  with L2/3 L2+ = Mg, Mn, Ni, Co, Cu, Zn [6, 7], L3+ = Al, Cr, Fe [8, 9], L4+ = Ti, Zr, Hf, Nb, Ge, V [10–20], and L5+ = V, Nb, Sb, Ta. 
+The analysis of the data available in the literature has demonstrated that, apart from niobium (tantalum) (r = 0.64 Å; the coordination number is 6 [21]), the  framework  positions  of  the  NZP  phosphates  are occupied by relatively small cations with the effective radii  ranging  from  0.53  Å  (Ge)  to  0.74  Å  (Zn).  
+It  is expected  that  the  cations  in  the  oxidation  state  1+, which correspond to the aforementioned empirical condition, can be as follows: Li (r = 0.76 Å; the coordination number is 6) and Cu (r = 0.77 Å; the coordination number is 6).
+
+The  purpose  of  this  study  was  to  synthesize  the Li1/4M7/4(PO4)3 (M = Nb, Ta) orthophosphates, to investigate the phase formation and thermal stability of these compounds,  and  to  reﬁne  the  crystal  structure  of  the Li1/4Ta7/4(PO4)3 phosphate by the Rietveld method.
+
+The Li1/4M7/4(PO4)3 (M = Nb, Ta) phosphates were synthesized  from  a  mixture  of  the  initial  reactants M2O5, LiCl · H2O, and NH4H2PO4, which were taken in stoichiometric amounts. 
+The reaction mixture was subjected to heat treatment at a temperature of 823 K for 24 h under the conditions providing free access for air. 
+The optimum synthesis conditions and the upper limit of the thermal stability of the phosphates under investigation were determined from the results of the differential thermal analysis (DTA) of the mixtures of the initial components and the X-ray powder diffraction analysis of the samples annealed at temperatures of 823, 873, 973, and 1073 K for 12–48 h.
+
+The  differential  thermal  analysis  of  the  reaction mixtures was carried out in an air atmosphere with the use  of  a  Karat  thermoanalytical  complex  in  the temperature range from 323 to 1273 K at a heating rate of 20 K/min. 
+The weighed portion was 60–100 mg. 
+In order to prevent sintering of the reaction mixture with the walls of the alundum crucible used in the thermoanalytical complex, the mixture was diluted in a weight ratio of 2 : 1 with an inert ﬁlling material (silica glass crushed to powder).
+
+The X-ray powder diffraction analysis of the samples was performed on a DRON-3M diffractometer (ﬁltered CuKα radiation; scan rate, 1 deg/min; scan range 2θ =10°–50°). 
+The IR absorption spectra were recorded on  an  FTIR-8400  Fourier  spectrophotometer  in  the wave number range 400–1400 cm–1 at room temperature.  
+The  samples  used  in  the  recording  of  the  IR absorption spectra were prepared as follows: a suspension of the phosphates in isopropyl alcohol was applied to a zinc selenide substrate with subsequent drying.
+
+The chemical composition and homogeneity of the phosphates synthesized were checked with a CamScan MV-2300  (VEGA  TS  5130MM)  scanning  electron microscope equipped with YAG detectors of secondary and  reﬂected  electrons  and  a  Link  INCA  ENERGY 200C  energy-dispersive  X-ray  microanalyzer  with  a Si(Li) semiconductor detector. 
+The compositions were calculated using the PAP correction method. The error in  the  determination  of  the  sample  composition  was equal to 2 at %.
+
+The X-ray diffraction patterns used for the Rietveld reﬁnement of the structure of the Li1/4Ta7/4(PO4)3 phosphate were recorded on a STOE STADI MP diffractometer  equipped  with  a  position-sensitive  linearresponse  detector  (PSD)  in  transmission  geometry (λ-CuKα1;  Ge(111)  bent  monochromator;  scan  width 2θ = 2.5° in the range 5° < 2θ < 118.38°; resolution, 0.02° in 2θ; exposure time, 720 s). 
+The structure was reﬁned with the WYRIET (version 3.3) software package.  The  proﬁles  of  the  diffraction  peaks  were approximated  by  the  Pearson VII  function  at  6FWHM. 
+The asymmetry of the diffraction peaks was reﬁned in the range 2θ < 90°.
+The ion scattering curves were used for  all  elements. 
+The  crystal  structure  was  reﬁned  by gradually adding reﬁned parameters with the continuous  graphic  simulation  of  the  background  until  the R factors became equal to a constant value. 
+The structural model of the Nb2(PO4)3 phosphate with the atomic coordinates taken from (space group  , structure type of sodium zirconium phosphate) was used as the starting model in the reﬁnement of the crystal structure  of  the  Li1/4Ta7/4(PO4)3  phosphate.  
+For  the  Ta2O5 impurity phase (space group Pmm2), only the scaling factor, the unit cell parameters, and the proﬁle parameters were reﬁned.
+
+
+The  analysis  of  the  X-ray  powder  diffraction  data has demonstrated that the formation of crystalline products depends on the chosen lithium salt and the modiﬁcation  of  the  crystal  structure  of  niobium  oxide.  
+For example, in the case when the lithium carbonate was used as the initial reactant, the main phases in the samples at a temperature of 873 K were niobium (tantalum) oxides and orthorhombic niobium (tantalum) oxophosphates, i.e., structural analogues of ε-NbOPO4 (PDF2 no. 40-0124).
+The same result was obtained with the use of tetragonal Nb2O5 (PDF2 no. 72-1484). 
+The samples  with  the  NZP  main  phase  were  synthesized only with the use of LiCl · H2O and orthorhombic niobium  (tantalum)  oxides  (PDF2  nos.  30-0873  and 79-1375) at temperatures of 823–873 K.
+
+The  results  obtained  from  the  differential  thermal analysis  of  the  stoichiometric  mixtures  of  the  initial components  (LiCl  ·  H2O,  orthorhombic  Nb2O5  or Ta2O5,  and  NH4H2PO4)  indicate  that  their  interaction has  a  complex  character.  
+The  endothermic effects observed in the DTA curves in the temperature range 420–530 K are attributed to the decomposition of ammonium hydrophosphate into ammonia and orthophosphoric acid. 
+The products of the decomposition  of  NH4H2PO4,  which  contain  phosphoric  acids, and crystalline hydrate water of lithium chloride lead to the  formation  of  a  liquid  phase,  which,  most  likely, encourages  the  exothermic  reaction  between  niobium (tantalum)  oxide,  lithium  chloride,  and  phosphoruscontaining reactant (effects with an initial temperature of 614 (603) K). 
+This interaction results in the formation  of  an  X-ray  amorphous  phase.  
+The  endothermic effects revealed in the DTA curves at a temperature of 1067 (1085) K are attributed to the reaction of decomposition of the NZP phase into niobium and tantalum oxophosphates.
+
+The  behavior  of  the  samples  composed  of  thoroughly  ground  mixtures  formed  from  stoichiometric amounts  of  the  initial  reactants  and  subjected  to sequential isothermal annealing at temperatures of 823, 873, 973, and 1073 K for 12–24 h also exhibits a complex character. 
+According to the X-ray powder diffraction data, the samples annealed at temperatures of 823 and 873 K have a crystal structure, contain a phase with an NZP-type structure and niobium (tantalum) oxide, and do not contain niobium or tantalum oxophosphates. 
+An  increase  in  the  annealing  temperature  to 973 K leads to an increase in the degree of crystallinity of the NZP phase, a decrease in the intensity of the diffraction reﬂections from niobium (tantalum) oxide, and the formation of the oxophosphate phase with a monoclinic unit cell. 
+Upon annealing of niobium-containing and  tantalum-containing  phosphates  at  identical  temperatures for the same time, the content of the niobium oxide impurity phase in the samples is always higher than the content of the tantalum oxide impurity phase. 
+This  experimental  fact  indicates  a  higher degree of completeness for the reaction of formation of lithium–tantalum orthophosphate. 
+A further increase in the  annealing  temperature  to  1073  K  results  in  the decomposition of the NZP phase into niobium (tantalum) oxophosphates that are isostructural to monoclinic TaOPO4 (PDF2 no. 84-1096). 
+Figure 2 shows the X-ray diffraction  patterns  of  the  NZP  phase  (pattern  3)  and niobium  oxophosphate  (pattern  7),  which  were obtained by subtracting the X-ray diffraction patterns of niobium oxide (pattern 1) and NZP phosphate (pattern  3)  from  the  corresponding  X-ray  diffraction  patterns of the mixtures of these phases (patterns 2, 6). 
+The analysis of the X-ray diffraction pattern obtained after the  subtraction  of  the  pattern  of  the  niobium  oxide impurity phase, as well as the X-ray diffraction pattern obtained for the NZP compound in the course of this procedure, conﬁrms both the validity of the assumption regarding  the Li1/4Nb7/4(PO4)3 phosphate to compounds of the NZP family and the composition of the impurity phase. 
+This allowed us to include the impurity phase in the further reﬁnement  of  the Li1/4Ta7/4(PO4)3 phosphate.
+
+It could be expected that the chemical durability of niobium-containing  and  tantalum-containing  NZP phosphates should be lower than the chemical durability  of  impurity  phases,  i.e.,  the  oxides  and  oxophosphates of these metals. 
+The precipitation of these impurity phases from the synthesized samples could serve as an additional criterion for the reliability of their identiﬁcation. 
+In order to check this assumption, the lithium– niobium phosphate sample annealed at a temperature of 973  K  was  treated  with  a  concentrated  hydroﬂuoric acid for 1 h. 
+According to the X-ray powder diffraction data,  the  undissolved  residue  contains  niobium  oxide and niobium oxophosphate (Fig. 2, pattern 5). 
+The main phase with an NZP structure dissolved in hydroﬂuoric acid.
+
+The  Li1/4M7/4(PO4)3  phosphates  synthesized  upon annealing  at  a  temperature  of  823  K  represent  white polycrystalline powders. 
+The X-ray powder diffraction patterns  of  these  samples  were  indexed  within  space . 
+The Nb2(PO4)3 phosphate was used as an group  analogue.  
+The  unit  cell  parameters  calculated  by  the least-squares method are as follows: a = 8.641(4) Å, c = 22.02(2)Å, and V = 1424(1) Å3 for the lithium–niobium phosphate and a = 8.614(1) Å, c = 22.062(5) Å, and V = 1418(1) Å3 for the lithium–tantalum phosphate. 
+These unit cell parameters are close to those of other niobiumcontaining  and  tantalum-containing  NZP  phosphates with empty frameworks. 
+A decrease in the unit cell  volume  of  the  tantalum  compound  is  associated with the lanthanide contraction, which manifests itself despite the identical effective sizes of the tantalum and niobium ions.
+
+The results of the electron microprobe analysis of the  Li1/4Ta7/4(PO4)3  sample  have  demonstrated  that  it consists of crystallites ~5 µm in size and contains two phases . 
+The composition of the impurity phase corresponds to the formula  Ta2O5.  The  main  phase  contains unreacted  tantalum  oxide,  which  makes  up  nuclei  of crystallites. 
+Since the electron microprobe analysis did not enable one to quantitatively determine the lithium content, the molar ratios of phosphorus, tantalum, and oxygen  were  chosen  as  a  criterion  for  the  correspondence of the composition of the synthesized phosphate to  the  theoretical  formula  Li1/4Ta7/4(PO4)3.  
+It  can  be seen from the data presented in Table 1 that these ratios are  constant  and  close  to  the  theoretical  molar  ratios calculated for the lithium–tantalum phosphate and tantalum  oxide  phases  and  differ  substantially  from  the corresponding  molar  ratios  obtained  for  the  tantalum oxophosphate.
+
+The results of the electron microprobe analysis of the tantalum-containing sample allow us to assume that the content of the impurity phase (unreacted tantalum oxide) in powder particles less than 1 µm in diameter is lower because they are fragments of the outer crystallite shell  that  predominantly  consists  of  the  main  phase with an NZP structure (Fig. 3). 
+The phase with an NZP structure  was  precipitated  by  the  sedimentation  fractionation  of  the  sample.  For  this  purpose,  a  weighed portion of the sample was shaken up with water for a time calculated from the standard formula used in the dispersion analysis of powders: 
+where τ is the time (seconds) of the complete sedimentation of particles with a diameter d (meters) and a density  ρ  (kilograms  per  cubic  meter)  in  a  dispersion medium with a viscosity µ (pascal · seconds) and a density ρ0 (kilograms per cubic meter), g is the acceleration of  gravity  (meters  per  square  second),  and  h  is  the height of the suspension column (meters). 
+After the calculated time elapsed, a suspension of a powder containing particles with a speciﬁed size of ~0.7 µm was taken from the dispersion thus prepared and was used to separate a fraction of 0.5to 0.7-µm particles by means of the  sequential  sedimentation  and  decantation,  which then  was  subjected  to  the  X-ray  powder  diffraction analysis. 
+The results of this analysis indicate that the intensity  of  the  diffraction  lines  of  the  impurity phase decreases by 35% as compared to the intensity of the diffraction lines of the main phases. 
+It is evident that, in order to prepare the pure phase with an NZP  structure,  it  is  necessary  to  separate  particles with sizes less than 0.5 µm. 
+However, this procedure involves some difﬁculties because of the high sedimentation stability of sols containing particles with these sizes.
+
+The IR spectroscopic data of the synthesized phosphates are in agreement with the X-ray diffraction data and suggest that these compounds belong to the orthophosphate class. 
+The IR spectra of the lithium– niobium and lithium–tantalum phosphates are similar to those of niobium-containing and tantalum-containing  NZP  phosphates.  
+In  the  IR  spectra,  the absorption  bands  observed  at  frequencies  of  1030– 1340 cm–1 are assigned to the v3 stretching vibrations of the  phosphorus–oxygen  bonds  in  the  PO4  tetrahedra, the absorption band at a frequency of 910 cm–1 is attributed to the v1 stretching vibrations, and the absorption bands in the range 565–690 cm–1 correspond to the v4 bending vibrations.
+
+The structure of the Li1/4Ta7/4(PO4)3 phosphate was reﬁned from the X-ray powder diffraction data by the Rietveld  method.  
+The  crystallographic  data  for  the structure of the lithium–tantalum phosphate in the form of the CIF ﬁle have been deposited with the Inorganic Crystal  Structure  Database  (ICSD  no.  419053).  
+The structural model of the Nb2(PO4)3 phosphate with the atomic  coordinates  taken  from  was  used  as  the starting model in the reﬁnement of the crystal structure of the Li1/4Ta7/4(PO4)3 compound. 
+The crystallographic data, experimental details, and parameters of the structure  solution  and  reﬁnement  for  the  Li1/4Ta7/4(PO4)3 phosphate are summarized in Table 2. 
+The experimental  and  calculated  X-ray  diffraction  patterns  of  the phosphate  under  investigation  are  shown  in  Fig.  5. 
+The ﬁnal coordinates, thermal parameters of atomic displacements  in  the  isotropic  approximation,  and occupancies of the cation positions are presented in Table 3.
+
+The  results  of  the  structure  reﬁnement  of  the Li1/4Ta7/4(PO4)3 phosphate indicate that this compound belongs  to  the  structural  family  of  the  NaZr2(PO4)3 phosphate and has a framework structure. 
+The framework of the Li1/4Ta7/4(PO4)3 phosphate consists of discrete slightly distorted (Ta,Li)O6 octahedra and PO4 tetrahedra shared by vertices (Fig. 6). 
+The (Li,Ta)–O(1) and  (Li,Ta)–O(2)  bond  lengths  are  equal  to  1.972(8) and 1.937(8) Å, respectively. 
+The P–O(1) and P–O(2) bond lengths are 1.529(8) and 1.515(8) Å, respectively. 
+The extraframework crystallographic positions remain empty. 
+The contents of the phases contained in the studied sample were determined in the course of the reﬁnement from their total content equal to 100 wt %: 92 ± 2 wt  %  Li0.25Ta1.75(PO4)3  and  7.7 ±  0.1  wt  %  í‡2é5. 
+The large factor Rwp (9.37%) is explained by the presence of the í‡2é5 phase. The structural model of the í‡2é5 phase was not refined because of the large number  (47)  of  independent  atomic  positions,  on  the  one hand, and the low content of this phase in the sample, on the other hand.
+In this case, the values of the structure factor and Bragg factor R (2.64 and 1.62%, respectively)  strongly  support  the  results  of  the  structure reﬁnement of the Li1/4Ta7/4(PO4)3 phosphate.
+
+Thus,  the  Li1/4Nb7/4(PO4)3  and  Li1/4Ta7/4(PO4)3 phosphates are the ﬁrst and, possibly, unique represen(PO4)3,  which  are tatives  of  the  formula  type  included in the series of NZP isostructural phosphates (PO4)3, with  empty  electroneutral  frameworks  2+ L5/3 (PO4)3,  and  L4+L5+(PO4)3.  
+The L2/3 formation  of  compounds  of  the  composition 1+ L7/4 (PO4)3 is hindered because of the large differL1/4 ence in the oxidation states of the framework-forming ions. 
+In turn, this difference leads to the problem associated  with  the  maintenance  of  the  local  electrostatic bond  valence  balance  in  the  structurally  equivalent framework positions occupied by mutually substituted ions in the oxidation states 1+ and 5+.
+

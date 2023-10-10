@@ -1,0 +1,11 @@
+Ternary indium (III) phosphates with three-dimensional frameworks, [M3In(PO4)2]n (M ¼ K, n ¼ 10; M ¼ Rb, n ¼ 2), are found andfirstly reported in this paper.
+These compounds have been obtained by high temperature solid-state reactions and their crystal structureshave been determined by single crystal X-ray diffraction analysis.
+The title compounds, which crystallize in monoclinic system, possessthe same [In(PO4)2]n3n anionic frameworks built up from interconnected InO6 octahedra and PO4 tetrahedra and have an interestingtunnel structure where M+ cations are located.
+Optical and bonding properties of [Rb3In(PO4)2]2 are investigated in terms of measuredabsorption and emission spectra, and calculated band structures and density of states.
+The crystal band structures obtained by the DFTmethod show that the solid compound of [Rb3In(PO4)2]2 is an insulator with direct band gap, and the P–O covalent bond characters arelarger than the In–O ones in this compound.
+In the present work, [M3In(PO4)2]n (M ¼ K, n ¼ 10;M ¼ Rb, n ¼ 2) have been synthesized by solid-statereaction and their structures have been determined by thesingle crystal X-ray diffraction technique.
+These compoundspossess the same three-dimensional [In(PO4)2]n3nanionic frameworks with channels occupied by M+ ions.
+The frameworks are built up from interconnected [InO6]octahedra and [PO4] tetrahedra.
+The observed absorptionedge and shoulder peak is separate at about 400 and220nm, and two emission peaks are located at 445nm and575nm for the powder phase of [Rb3In(PO4)2]2. Thecalculated band structures show that the solid state of[Rb3In(PO4)2]2 is an insulator with direct band gap atabout 3.18 eV and the optical transition of lowest energymainly originates from O-2p to In-5s states.
+In [Rb3In(PO4)2]2, the [PO4] tetrahedra have covalence bondcharacters and the Rb–O ionic interactions are stronger.
+The optical dielectric constant of [Rb3In(PO4)2]2 crystal isestimated to be 1.5102, 1.5914, and 1.5657 in x, y, and zdirections, respectively, taken as theoretical predictions.

@@ -1,0 +1,16 @@
+All-solid-state lithium batteries offer notable advantages over conventional Li-ion batteries with liquid electrolytes in terms of energy density, stability, and safety.
+To realize thistechnology, it is critical to develop highly reliable solid-state inorganic electrolytes with highionic conductivities and acceptable processability.
+Li1+xAlxTi2-x(PO4)3 (LATP) with aNASICON (Na superionic conductor)-like structure is regarded as a potential solid electrolyte,owing to its high “bulk” conductivity (~10–3 S cm–1) and excellent stability against air andmoisture.
+However, the solid LATP electrolyte still suffers from a low “total” conductivity,mainly due to the blocking effect of grain boundaries to Li+ conduction.
+Here, we propose anLATP–Bi2O3 composite solid electrolyte showing a very high total conductivity (9.4 × 10–4 Scm–1) at room temperature.
+We suggest that Bi2O3 acts as a microstructural modifier toeffectively reduce the fabrication temperature of the electrolyte while enhancing its ionicconductivity.
+Bi2O3 promotes the densification of the LATP electrolyte, thereby improving itsstructural integrity, and at the same time, it facilitates Li+ conduction, leading to reduced grain boundary resistance.
+The feasibility of the LATP–Bi2O3 composite electrolyte in all-solid-stateLi batteries is also examined in this study.
+LATP–Bi2O3 composite solid electrolytes were successfully synthesized by a Pechini routecombined with a sintering process at 850 oC.
+Even though the processing temperature is decreased by ~100 oC, the composite electrolyte offers a high ionic conductivity of 9.4 × 10–4S cm–1 at 25 oC, which is higher than that of the LATP electrolyte.
+The conductivity improvement is mainly attributed to the Bi2O3 additive introduced as a microstructural modifierduring synthesis.
+Based on various structural and electrochemical analyses, we confirmed thatthe incorporated Bi2O3 promotes effective densification of LATP, thereby improving itsstructural integrity.
+Compared with the LATP electrolyte, the LATP–Bi2O3 composite electrolyte exhibits a reduced grain boundary resistance, which is mainly responsible for theenhanced ionic conductivity.
+Furthermore, an all-solid-state Li battery assembled with theLATP–Bi2O3 composite electrolyte shows reversible charge–discharge operation withoutsignificant capacity fading.
+It is expected that further interfacial engineering of the batteryconfiguration would be helpful to improve the electrochemical performance.
+Our approach will provide a practical guideline for resolving the technical issues of NASICON-type solidelectrolytes toward the realization of all-solid-state Li batteries.

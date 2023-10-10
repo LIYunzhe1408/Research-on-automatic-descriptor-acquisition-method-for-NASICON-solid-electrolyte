@@ -1,0 +1,233 @@
+Ni0.5Ti2(PO4)3/C Nasicon-type phosphate is introduced as a new anode material for Lithium ion 
+
+batteries  (LIBs).  Ni0.5Ti2(PO4)3/C  was  synthetized  via  the  sol-gel  route  and  delivered  some 
+
+remarkable electrochemical performances.  Specifically, Ni0.5Ti2(PO4)3/C electrode evidenced 
+
+a high rate capability performance and delivered high reversible capacities ranging from 130 
+
+mAh/g to about 111 mAh/g at current rates ranging from 0.1C to 5C in the voltage window of 
+
+1.85-3V vs Li+/Li. At the same voltage range, the material reached an initial capacity of 105 
+
+mAh/g with a capacity retention of about 82% after 1000 cycles at the high current rate of 10C. 
+
+The electrodes were also tested at the wider voltage range of 0.5-3V vs Li+/Li and show good 
+
+reversibility  and  rate  capability  performance.  Moreover,  Ni0.5Ti2(PO4)3/C  electrodes  were 
+
+found  to  enable  fast  Li+  diffusion  (order  of  10-13  cm2/s)  compared  to  other  Nasicon-type 
+
+materials. As a result, a first discharge capacity of 480 mAh/g is reached.  
+
+
+Research and development of energy storage materials have been considered as high priority 
+
+topic due to their key role in the development and use of clean and renewable energy sources 
+
+as alternatives to fossil ones [1,2].  
+
+For  the  advantage  of  their  high  energy  density,  energy  efficiency,  long  cycle  life  and  the 
+
+continuous drop of their cost, lithium-ion batteries (LIBs) are considered as one of the most 
+
+promising energy devices for  the portable electronic and electric vehicles (EVs) markets [3–
+
+6]. However, LIBs still suffer from safety issues related to the formation of metallic lithium 
+
+(dendrite) while using graphite as an anode material because of the low plateau voltage (~0.1V) 
+
+[7,8].  With the aim of finding safer alternatives to be used as anode for LIBs, many research 
+
+efforts have been done to investigate new materials providing good and stable electrochemical 
+
+performance and better safety conditions than graphite [8,9].  
+
+Among the panoply of existing  materials, the phosphate-based materials providing attractive 
+
+properties such as the long-term cycling life, good structural stability, better safety and high 
+
+ionic conductivity, were considered as promising electrode materials for LIBs as well as sodium 
+
+ion batteries (SIBs) [10–12]. As part of this compound class, Nasicon-type materials with the 
+
+general  formula  AxMM’(PO4)3  where  “A”  can  be  either  monovalent  (Li+,  Na+)  or  divalent 
+
+(Mg2+, Ca2+, Mn2+, etc.) ions, and M and M’ are transitional metals (Ti, Fe, V, Zr, Sc, etc.), 
+
+stand as potential candidates that can be used either as electrode materials, or solid electrolyte 
+
+for both LIBs and SIBs [5,11,13]. 
+
+As part of these Nasicon materials, the A0.5Ti2(PO4)3 family, where A is a divalent ion (Mn2+, 
+
+Mg2+, Ca2+, Fe2+, etc.)  is considered for negative electrodes for LIBs and SIBs, because of the 
+
+low working voltage (~2.5 vs Li+/Li and ~2.2 vs Na+/Na) as well as the empty sites that these 
+
+compounds provide for lithium (or sodium) hosting (3.5 empty sites) [14–17]. Nevertheless, 
+
+Ni0.5Ti2(PO4)3 was not reported to date although Ni2+ is the cation exhibiting the closer ionic radii to that of Li+. This property could be considered as an advantage for the lithium insertion 
+
+during the electrochemical cycling as a result of a better diffusion of Li+ inside the existing 
+
+channels, as reported by Z. Wu et al. in their interesting review regarding the use of Nasicon 
+
+type phosphates as solid electrolyte for all-solid-state lithium batteries [18].  According to these 
+
+authors, the high Li+ ionic conductivity can be only achieved as the channel size of Nasicon 
+
+framework structure is comparable to the ion size. 
+
+Likely to the known Li4Ti5O5 anode material, A0.5Ti2(PO4)3 materials offer a minimum chance 
+
+for the formation of SEI and lithium dendrites due to the relatively higher working voltage 
+
+corresponding  to  titanium  (Ti)  redox  reactions  (~1.5  V  for  Li4Ti5O12,  and  ~2.5  V  for 
+
+A0.5Ti2(PO4)3  materials)  compared  to  graphite  (~0.1).  The  electrochemical  behavior  of  the 
+
+A0.5Ti2(PO4)3 materials is based on a two-step lithium insertion/extraction mechanism due to 
+
+the existence of two different vacant sites for lithium intercalation, while in Li4Ti5O5 anode, 
+
+with spinel structure, the insertion mechanism is based on two-phase step, where lithium is 
+
+inserted into the vacant site (16c) and at the same time structural lithium ions existing in the 
+
+structure migrate from their structural site (8a) to the new hosting site (16c). [19,20] 
+
+In this work, we report the optimization of the synthesis process of a new Nasicon-structure 
+
+electrode  material  Ni0.5Ti2(PO4)3/C  (NTP@C)  and  its  electrochemical  behavior  as  a  novel 
+
+anode material for use in Li-ion batteries within two potential ranges 1.85-3.0V and 0.5-3.0V. 
+
+Furthermore, an analysis of the structure, morphology and electrochemical kinetics of the as-
+
+prepared NTP@C material are provided in this manuscript.  
+
+
+
+The  synthesis  of  Ni0.5Ti2(PO4)3  (NTP)  Nasicon-type  material  is  accomplished  via  the 
+
+conventional sol-gel synthesis route, by mixing a stoichiometric amounts of C4H6NiO4,4H2O 
+
+(99.0%;  Sigma-Aldrich)  dissolved  in  ethanol,  H3PO4  (85,8%;  Sigma-Aldrich),  and  TiCl4 
+
+solution (99.0%; Sigma-Aldrich) diluted in ethanol. After mixing four about 2 hours, a gel was 
+
+obtained. The gel is then dried at 90 °C for 24 hours and calcined at 680 °C for 12 hours under 
+
+air. This synthesis temperature was selected as best after numerous attempts done in a narrow 
+
+temperature range (660 – 700 °C). The resulting NTP powder (85wt%) was ground with 15 
+
+wt% of sucrose in acetone, then the mixture was dried and annealed at 600 °C for 5 h under an 
+
+argon flow. The final Ni0.5Ti2(PO4)3/C (NTP@C) composite material was black. 
+
+The  phase  structure    and  morphology  of  the  prepared  NTP  and  NTP@C  material  were 
+
+characterized by powder X-ray diffraction (XRD, Rigaku Ultima IV, Cu Kα radiation), Raman 
+
+spectroscopy (Cofotec MR520 3D Raman confocal microscope; 532 nm beam),  field-emission 
+
+scanning electron microscopy (SEM TESCAN Mira 3 LM field emission),  and field-emission 
+
+transmission electron microscopy (TEM, FEI Tecnai Spirit).  
+
+The  specific  surface  area  of  the  NTP  and  NTP@C  materials  was  determined  at  77K  using 
+
+Brunauer-Emmett-Teller  (BET)  method  on  a  Gemini  VII  2390  Surface  Area  Analyzer 
+
+(Micromeritics Instrument Corp.). The degassing conditions were set to be 200°C during 24h 
+
+for both samples.  
+
+The carbon content in the composite material was determined by thermogravimetric thermal 
+
+analysis (TGA), with a heating rate of 10°C/min using a Discovery TGA instrument under air 
+
+10.1002/cssc.201902002Accepted ManuscriptChemSusChemThis article is protected by copyright. 
+
+
+The X-ray photoelectron spectroscopy (XPS) data were collected on a SPECS Phoibos 100 spectrometer using Mg Kα X-ray. Samples were transferred into the XPS chamber through 
+
+glove box without exposure to air. To remove the electrolyte residues on the surface, samples 
+
+were sputtered using Ar+ prior to the XPS measurement. The binding energy was corrected 
+
+using the C 1s peak at 285 eV.
+
+
+
+Electrodes were prepared by blending 75 wt% of NTP@C active materials, 15 wt% Super P as 
+
+the conductive additive and 10 wt% of Carboxymethyl cellulose (CMC) as a binder dissolved 
+
+in distilled water. The obtained slurry is then pasted onto a cooper foil and dried at 80 °C for 
+
+12 h in a vacuum chamber. The electrodes were cut into discs with two different diameters, 11 
+
+and 12.6 mm with active material mass load around 1-2 mg/cm2. Metallic lithium foil was used 
+
+as the counter and reference electrode. Commercial Celgard was used as a separator. The used 
+
+electrolyte was 1M LiPF6 dissolved in ethylene carbonate (EC) and dimethylcarbonate (DMC) 
+
+Electrochemical  tests  were  performed  with  CR2032  coin  cells.  Cells  were  assembled  in  an 
+
+argon-filled  glove  box  with  water  and  oxygen  contents  below  0.1  ppm.  The  cells  were 
+
+electrochemically tested at two different potential ranges of 1.85-3.0 V and 0.5-3.0 V vs Li+/Li. 
+
+The  electrochemical  tests  were  carried  out  on  an  MPGE  (Biologic  instrument),  Arbin 
+
+instrument  and  Autolab  (Metrohm  autolab) instruments.  
+
+Electrochemical impedance spectroscopy (EIS) tests were performed using an SP150 Biologic instrument.  
+
+
+
+Nasicon-type  Ni0.5Ti2(PO4)3  was  reported  to  be  a  thermodynamically  unstable  material  that 
+
+decomposes easily to an oxyphosphate phase[21,22]. With the aim of optimizing the synthesis 
+
+conditions  related  to  this  Ni0.5Ti2(PO4)3  Nasicon  material,  its  crystallization  process  was 
+
+followed  by  X-ray  powder  diffraction  in  the  temperature  range  of  [660-700  °C].  As 
+
+demonstrated in Fig. 1-(a), at a temperature of 660 °C, only some characteristic peaks related 
+
+to the TiP2O7 phase appear. At 680 °C, the XRD pattern shows the crystallization of the material 
+
+as  a  Nasicon  phase  (space  group  R-3)  with  minor  impurity  traces  of  TiP2O7  (~3  %)  and 
+
+Ni0.5TiOPO4 (~3 %). At 700 °C, the Nasicon structure of the material was preserved but the 
+
+appearance  of  more  intense  TiP2O7  and  Ni0.5TiOPO4  related  peaks  compared  to  the  ones 
+
+obtained at 680 °C was observed. 
+
+
+
+Based on these results, only the Ni0.5Ti2(PO4)3 material obtained at 680°C is considered for the 
+
+following  characterizations.  At  this  synthesis  temperature,  the  peaks  identified  as  Nasicon 
+
+crystalline phase were indexed assuming a rhombohedral symmetry (space group R-3). 
+
+In the R-3 space group, the structure of the material (Fig. S1) is built by lantern-like units 
+
+sequenced along the c-axis and each unit is composed of four [TiO6] octahedra and two [PO4] 
+
+tetrahedra sharing O-atoms as corners [11]. Theoretically, Ni2+ ions occupy only the more stable 
+
+3a site leaving more vacant voids at the 3b sites[16,17] 
+
+
+
+Moreover, the carbon content in the NTP@C composite material was qualitatively recognized 
+
+by Raman spectroscopy as XRD analysis was unable to prove the presence of carbon in an amorphous form. 

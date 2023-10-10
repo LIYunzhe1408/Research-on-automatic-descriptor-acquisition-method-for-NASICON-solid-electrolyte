@@ -1,0 +1,23 @@
+Hexagonal Na3Zr2PO4(SiO4)2 is a well-known fast Na+conductor commonly referred toas NASICON.
+
+The low cost and wide availability of sodium invites exploration of Na+-insertioncathodes with the hexagonal NASICON framework structure.
+
+Here we report a low-temperaturesynthesis of NaFe2PO4(SO4)2 with the same host framework as NASICON and its performanceas the cathode of a Na/Na1+xFe2PO4(SO4)2 cell operating on the Fe3+/Fe2+ redox couple.
+
+The cellprovides a single-phase reaction having a capacity approaching 100 mAh g-1 at 0.1 C after 50cycles over the voltage range 2 ≤ V ≤ 4 V with a coulomb efficiency approaching 100%.
+
+Anincrease in capacity with cycling is the result of aging of an unoptimized electrode morphology.
+
+The rechargeable Li-ion battery (LIB) of the wireless hand-held devices has stimulatedattempts to develop lower-cost batteries for large-capacity energy storage that can competeeconomically with the energy stored in a fossil fuel1-4.The energy of a fossil fuel is delivered asthe heat of combustion with attendant polluting gases; the energy stored in the electrodes of arechargeable battery is delivered as clean electric power without the thermodynamic constraintsof a heat engine.
+
+Rechargeable batteries for large-capacity storage of electrical energy from othersources than fossil fuels, e.g.radiant-solar, wind, and nuclear, fall into two classes: (1) stationarybatteries and (2) portable batteries that power electric road vehicles
+
+Since sodium is abundantand widely available from the oceans, there is increasing interest in the development of Na-ionbatteries.
+
+However, the larger size of the Na+ion and the stronger Na+-Na+coulomb interactionsmakes it more difficult to identify insertion-compound hosts for large-capacity, reversiblechemical reactions5,6.Several oxide hosts for the cathode of a sodium battery have been identified7-9; they allhave either a layered or framework structure.
+
+Vacuum-dried Na2MnFe(CN)6 with the perovskitestructure has also been shown to provide fast, reversible extraction of Na+at a voltage V = 3.4 Vversus Na0to below -20°C with a long cycle life,10,11 but the cyanide anion may restrict its use.
+
+Therefore, there is a continuing interest to identify other low-cost Na+-ion cathodes; and oxideswith the hexagonal NASICON structure of Na3Zr2PO4(SiO4)2 that offer a framework structuresupporting fast Na+conductivity with a possible capacity of two Na+/formula unit.
+
+In this paper,we report an investigation of the reversible insertion of Na+into a NaFe2PO4(SO4)2 sinceFe2(SO4)3 is known12,13 to give a V = 3.6 V versus Li0corresponding to 3.3 V versus Na0.

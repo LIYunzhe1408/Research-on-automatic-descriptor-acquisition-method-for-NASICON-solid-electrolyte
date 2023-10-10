@@ -1,0 +1,83 @@
+In this paper, we present the synthesis and characterizations of NaSICON-type ionic conducting ceramics of the general formulaNa1þxM1.775Six0.9P3.9xO12 with 1.8  x  2.2 and M¼ Zr or Hf.
+The effect of the total substitution of zirconium by hafnium on electric propertieshas been studied.
+The various compositions were prepared by using the solegel method and the synthesized precursors were characterizedby coupled DTAeTG.
+The oxides obtained after pyrolysis of the precursors were identified by X-ray diffraction.
+A sintering study by thermodilatometrypermits to select the best thermal cycle adapted to our ceramics.
+Furthermore, the electric conductivity of the sintered ceramic sampleswas characterized by complex impedance spectroscopy.
+These results show that ceramics containing Zr synthesized by soft method, presenta higher total conductivity than those obtained in literature (to be around 104 S cm1).
+The total substitution of Zr by Hf still improves thisconductivity for some compositions.
+With the increasing gas pollution in the atmosphere (SOx,NOx and COx), a monitoring and controlling system is becomingmore and more important.
+In this field, many studies wereinvestigated on solid-state potentiometric sensors.
+In the caseof CO2 pollution, the first device based on K2CO3 electrolyteand carbonates as sensing electrode was proposed by Gauthierand Chamberland .
+Solid-electrolyte sensors seem to bevery promising in this respect due to their low cost of productionand high performance in selectivity and sensitivity.
+NaSICON has been proposed as an eligible solid-electrolyte materialfor the preparation of all-solid-state electrochemical cellsand chosen for its high Naþ conductivity allowing fast Naþexchange at the interfaces.
+In a precedent work, the systematic study carried out on theNaSICON series of the general formula Na2.8Zr2ySi1.84yP1.2þ4yO12 with 0  y  0.45, we noted that the compositiony ¼ 0.225 is better in terms of electric conductivity .
+A previousstudy  had shown the interest of the hafnium elementon the electric properties of the NaSICON family.
+Thus, inorder to improve conductivity of these ceramics, we synthesizeda new family of ionic conducting ceramics based onhafnium by the complete substitution of Zr by Hf.
+The results of electric conductivities are compared.
+Taking into account the difficulty in obtaining pure ceramicsof NaSICON by solid-state reaction, the precursorswere prepared using a solegel method which implies thepreliminary formation of an amorphous solid .
+The usedprecursors were NaNO3, (NH4)2HPO4 and ZrO(NO3)2. Forhafnium precursor, we have used hafnium oxynitrate synthesizedfrom hafnium tetrachloride HfCl4 .
+The synthesizedprecursors were characterized by coupled differential thermalanalysis and thermogravimetry (DTAeTG) (Setaram TGA92)between room temperature and 1100 C, and the heating ratewas 10 C/min.
+After pyrolysis the obtained oxides were identifiedby X-ray diffraction .
+The different compositions studied are presented on the isoplethiccut of the existence field of the NaSICON phase(Fig.1).
+Electrical properties were determined based on ac impedancespectroscopy measurements.
+Frequency response analyser(FRA) (Impedancemeter Solartron, model 1260) wasused.
+The measurements were achieved between 100 and3.2 107 Hz in the temperature range 25e110 C under air.
+An applied voltage was fixed at 100 mV.
+The sample was allowedto equilibrate for 1 h before measurements of thereproducible impedance spectra could be obtained.
+In order to identify the weight losses related to the heattreatment, we followed the precursor decomposition of the Na2.800Zr1.775Si0.900P2.100O12 composition by DTAeTG coupled to mass spectroscopy (MS).
+The sample is analyzed under air in a platinum crucibleaccording to the following procedure: 20 up to 1000 C withv ¼ 10 K/min.
+Regarding the mass spectroscopy results, the followedcompounds are C, N, O, H2O, N2, CO, NO, O2, CO2 and NO2.
+The sampling device is thermostated at 200 C to avoid condensationin the transfer line.
+Fig.2 presents the thermogramobtained by DTAeTG for the Na2.800Zr1.775Si0.900P2.100O12composition and presents two successive mass losses associatedwith thermal phenomena (endothermic or exothermic).
+The products resulting from thermolysis are identified bymass spectroscopy (Fig.3).
+We can identify the first massloss as water departure, the second corresponds to a simultaneouswater departure, CO2, NO and NO2. CO and N2 havingthe same atomic mass unit do not make it possible to seewhether there was CO departure.
+We represent on Fig.4 the obtained X-ray diffraction patternsof Na2.800Zr1.775Si0.900P2.100O12 and Na2.800Hf1.775Si0.900P2.100O12 compositions.
+The obtained diffractograms at ambient temperature showthat the synthesized compounds are single phase.
+The analysisshows that the dominant phase after pyrolysis is NaSICON(without any detected trace of ZrO2).
+No other phase suchas SiO2, HfO2, ZrSiO4, Na3PO12, Na2SiO3 or Na2ZrO3 couldbe detected in these samples.
+The indexing of the peaks is made by X’Pert HightScor andthe refinement of the parameters has been carried out by Paramsoftware.
+All NaSICON compositions could be indexed toa rhombohedral structure in the space group R-3c according to JCPDS-ICDD file no 33-1313. 
+For example, we give in Table 1,2q, the inter-reticular distances, the relative intensities and theMiller indices (hkl ) of the indexed peaks of Na2.800Hf1.775Si0.900P2.100O12 and Na2.800Zr1.775Si0.900P2.100O12.The refinement results of the cell parameters of the variouscompositions are regrouped in Table 2.
+Fig.5 presents the cell volume evolution of the differenthafnium and zirconium compositions studied.
+
+So the cell parameter ‘‘c’’ evolves and reaches a maximum for Na3Zr1.775Si1.1P1.9O12 and Na3Hf1.775-Si1.1P1.9O12. 
+This parameter decreases for x > 2, involvinga variation of the diffusion barrier of the Naþ ions .
+Thecell volume follows the same evolution with a maximumalso for x ¼ 2.0 in agreement with the literature .
+According to the systematic study that we carried out onthe composition series of general formula Na2.800Zr2ySi1.84yP1.2þ4yO12, we found that the composition y ¼ 0.225 has bestconductivity .
+To further improve conductivity of Na2.800Zr1.775Si0.900P2.100O12 composition, we carried out a thermodilatometricstudy on a calcined powder at 600 C in the form ofcompacted pellet by uniaxial pressing (190 MPa).
+Heating from 25 to 600 C with a speed of 0.5 C/min toavoid any crack and to delicately evacuate water.
+At 600 C, we maintain a constant temperature for approximately5 h to ensure the calcinations of the residualorganometallic products, oxidation and burning of the carbonaceousresidues.
+The sample was heated up to 1100 C with a rate of 3 C/min.
+The slow heat treatments led to an organization of thecations (Na, Zr) causing the distortion of the SiO4 and PO4tetrahedra .
+The sintering stage is located at 1100 Cduring 20 h.
+ Finally the sample was cooled to room temperature ata mean rate (0.5 C/min) to avoid thermal shocks.
+Fig.6 shows the thermogram obtained by thermodilatometryfor the composition y ¼ 0.225. 
+From ambient temperatureup to 150 C, the compacted sample dilates slightly.
+This phenomenonis due to the boiling of water existing inside the sampleand to the release of imprisoned air.
+The contraction of thesample observed from 900 C is indication of the beginning ofthe ceramics’ thickening.
+At 1050 C, the sintering rate wasmaximum and after the isotherm of 5 h at 1100 , we don’tobserve any more withdrawal on the thermodilatometric curve.
+This fact translates the end of the sintering of the sample.
+Thetotal shrinkage measured at the sintering time is very important(about 32%).
+Figs.7 and 8 represent, respectively, the Nyquist diagrams ofNa2.800Hf1.775Si0.900P2.100O12 and Na2.800Zr1.775Si0.900P2.100O12compositions.
+For all considered compositions, the separationbetween the response of the grain boundaries and the electrodecharacteristic allowsus tomeasure, without anyambiguity, the totalresistance of a sample.
+We represent in Table 3 the total conductivityat 300 K and activation energy values of the variousstudied compositions out of hafnium and zirconium.
+These results show that ceramics containing Zr, elaboratedby solegel method, has a total conductivity higher than thatgiven in the literature .
+The substitution of Zr by Hfstill improves conductivity for some compositions (x ¼ 1.8 and x ¼ 2).
+For the less conducting samples such as Zr (x ¼ 2),Hf (x ¼ 1.9, 2.1 and 2.2) the low conductivity value can be explainedby a blocking effect at the grain boundaries.
+Takinginto account the influence of the microstructure on the amplitudeof the blocking effect of the charge carriers , allcomparison with other materials must be carried out withprecaution.
+The evolution of the corresponding activation energy Ea isrepresented in Fig.9. For the studied compositions, Ea variesbetween 0.17 and 0.37 eV.
+These values are in agreementwith literature data for NaSICON conductors by sodium ions[15e17].
+
+The Ea value is in agreement withthat given for Na3Zr2Si2PO12  but the total conductivityis lower than that generally obtained under the same experimentalconditions (to be around 104 S cm1 ).
+Thisdifference can be explained by a reduction in the concentrationin charge carriers.
+However, it is significant to recall that the microstructure has also a notable influence.
+For example,Bohnke et al. report a conductivity at 300 K equal to8.6  105 S cm1 in the case of a Na3Zr2Si2PO12 samplewhose amplitude of the blocking effect of the grain boundariesrepresents 80% of the total resistance of sintered material.
+For all studied compositions, the best electric propertieswere obtained with Na2.800Hf1.775Si0.900P2.100O12 and Na2.900Zr1.775SiP2O12 compounds.
+In this case the total conductivityis similar to that obtained in the literature.
+In this paper, two families of conducting ceramics of thegeneral formula Na1þxM1.775Six0.9P3.9xO12 (with 1.8  x 2.2 and M¼ Zr or Hf) were studied.
+The oxide powderssynthesized by solegel method were calcined and sintered underthe same conditions in order to compare their electric conductivity.
+The thermal analysis (DTAeTG) allows us todetermine optimal temperature of obtaining oxide (700 C).
+All NaSICON compositions could be indexed to a rhombohedralstructure in the space group R-3c according to JCPDSICDDfile no 33-1313. The obtained diffractograms at ambienttemperature show that the synthesized compounds are singlephase.
+The substitution of Zr by Hf improves electric conductivityfor some compositions.
+The activation energy of NaSICON based on Hf is higher than that based on Zr for xlower than 2.1. For all studied compositions, the best electricproperties were obtained with Na2.800Hf1.775Si0.900P2.100O12and Na2.900Zr1.775SiP2O12 compounds.

@@ -1,0 +1,59 @@
+In this work, the optimum manufacturing condition was investigated for the granuletype cathodes used in low temperature sodium-metal chloride batteries using NaSICON(Na1+xZr2SixP3-xO12) solid electrolytes.
+
+The granule-type cathodes with different shapes,pore sizes and tap densities were obtained by controlling operation parameters ofgranulator such as roll speed and pressure.
+
+From standard cell tests at 195 oC using fourgranule-type cathodes, the optimum roll speed (1.5 rpm) was sorted to produce stablegranule-type cathodes for efficient electrochemical performance.
+
+From thecharacterization of granules and the battery tests, it was revealed that the polygon-typegranules (A, C) produced at an adequate roll speed (1.5 rpm) enable favorable batteryperformances even at high current density of 50 mA/cm2for 200 cycles.
+
+The mainadvantages of A and C granule-type cathodes seem to come from the stable metalconnection among the granules that attribute to the favorable morphology (polygon) andhomogeneous green compacts.
+
+The relatively more efficient cathode kinetics wereobserved for the A sample manufactured at higher roll pressure (10 MPa) comparedwith the C sample (1.2 MPa), which supported the importance of roll pressure inoptimizing the microscopic properties inside the granules (pore size distribution, greendensity, metal connectivity, etc.) for positive cathode kinetics.
+
+Sodium-metal chloride battery (Zebra battery) is a promising candidate for gridenergy storage and electric vehicle applications due to its high energy density, highdurability and zero self-discharge [1-6].
+
+Although the Zebra battery is already precommercialized by FIAMM SoNick and General Electric, many researchers are stillinvestigating advanced technologies for enhanced performance, long-term durabilityand cost competiveness [7-10].
+
+The low temperature operation (below 200 oC) of Zebra battery is fairly attractiveto obtain longer life cycle and low-cost construction materials (sealant, metal parts) [8,11].
+
+To get appropriate battery performances at low temperature below 200 oC,significant efforts should be focused on reducing internal resistance contributed by thesolid electrolyte, negative/positive electrodes and metal current collector parts.
+
+Inparticular, NaSICON (Na1+xZr2SixP3-xO12) materials have attracted significant interestsas a promising solid electrolyte for low temperature sodium rechargeable batteries dueto its high ionic conductivity of 0.15~0.2 S/cm-1 at 200 oC which are comparable to thatβ”-Alumina at 260 oC [3].
+
+In addition to the preliminary reports that reveal the highstability of NaSICON in molten sodium and molten salt electrolyte [12-14], theresearchers recently reported the low temperature Zebra battery using NaSICON whichare successfully operational at 195 oC [15].
+
+To get further improvement in cell performance, thorough investigations arenecessary in cathode development to get an optimum composition, microstructure andgeometry.
+
+Zebra battery is typically fabricated in a discharge state and the initialcathode material is composed of transition metal chlorides and excess metals.
+
+There area few literature reports regarding cathode development which deal with the compositioncontrol [4, 16-18] and manufacturing conditions [4, 19-21].
+
+Although cathode materialsfor Zebra batteries can be prepared by various processes to have diverse shapes andmicrostructures, the major commercial players have focused on developing granule-typecathodes due to their advantages in manufacturing simplicity and cost [4, 8, 16, 19, 20].
+
+Roll compaction is a proven dry-granulation process in pharmaceutical industry forproducing fine powders in order to improve the fluidity and homogeneity of powdermixture, so that it can be handled easily [22].
+
+In Zebra battery industry, this rollcompaction seems to be advantageous in manufacturing high capacity cells by simplyfilling them in the cathode volume through a small hole.
+
+Furthermore, another benefit ofthe granule-type cathodes is fabrication of Zebra cells with diverse shapes regardless ofcell design due to its high fluidity.
+
+However, no publications and patents were reportedso far to explain the manufacturing processes of granule-type cathodes used in Zebrabattery.
+
+In this work, the researchers have studied to find out key parameters to manufacturehigh-quality cathode-type granules using a dry roll compaction method that enables theoptimal electrochemical performance of Zebra battery at 195 oC.
+
+The roll compactionconditions were controlled as key influential parameters which determine the size, shapeand pore structure of the granules.
+
+The optimum processing condition for the granuletype cathodes was discussed considering electrochemical performance in unique celltests with a self-developed Zebra cell configuration with NaSICON solid electrolytemembrane.
+
+The long-term performances of the cells using stable granule-type cathodeswere evaluated with the consideration of cathode characteristics and NaSICON stability.
+
+The manufacturing parameters were controlled to determine the optimumprocessing condition of NaCl-Ni cathode granules for sodium-metal chloride batteries.
+
+It was discovered that the optimum roll speed and pressure were essential to producestable granule-type cathodes for efficient electrochemical performance.
+
+The high rollspeed (2.5 rpm) was revealed to produce thin and fragile granules (B, D) causing adramatic increase of ohmic cell resistance.
+
+The rise of ohmic resistance in cathodes isexplained by the poor electronic conduction among granules due to the insufficientmetal connection caused by plate-type granule morphology.
+
+The cells using A and Cgranule-type cathodes manufactured at roll speed of 1.5 rpm exhibited potential batteryperformances even at high current density of 50 mA/cm2for 200 cycles withoutobservable cell degradation.
+
+The relatively more efficient cathode kinetics of sample Acompared with those of sample C may be due to higher roll pressure (10 MPa) whichenables the facile electrochemical reactions inside granules.

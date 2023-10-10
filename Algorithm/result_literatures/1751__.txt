@@ -1,0 +1,116 @@
+Crystal frameworks that can accommodate awide range of elements, oxidation states, and stoichiometriesare an important component of solid-statechemistry.
+These frameworks allow for unique comparisonsof different metal-cation compositions with identicalatomic arrangements.
+The mineral Lyonsite, a-Cu3Fe4ACHTUNGTRENUNG(VO4)6, is emerging as the archetypal frameworkstructure for a large class of materials, similar to knownframeworks such as perovskite, garnet, apatite, andspinel.
+The new lyonsite-type oxides Li2.82Hf0.795Mo3O12 and Li3.35Ta0.53Mo3O12, in which hafnium and tantalumretain their highest oxidation states, are presented toadvance the concept of the lyonsite structure as anadaptable framework.
+Minerals such as perovskite (CaTiO3), garnets (A3B2-ACHTUNGTRENUNG(SiO4)3), apatites (A5ACHTUNGTRENUNG(BO4)3X), and spinel (MgAl2O4) are the archetypal structures for large numbers of materialswith different chemical compositions within each structuretype.
+Each has been reviewed extensively.
+Oxide classessuch as these can accommodate a wide variety of metal cat-ACHTUNGTRENUNGions while retaining their unique structure, and are wellstudiedfor various properties afforded by this versatility.
+Properties can often be tuned or changed by elemental substitution,and materials with the same structural connectivitycan be studied for different purposes.
+A lesser known, butubiquitous structure type with similar adaptive propertiestakes its name from the mineral Lyonsite, a-Cu3Fe4ACHTUNGTRENUNG(VO4)6.
+High-oxidationstatecations (+5, +6) occupy the two unique tetrahedrallycoordinated B sites.
+The structural connectivity of lyonsitetypeoxides is based on an array of pseudohexagonal oxygenatoms, and built up of isolated BO4 tetrahedra linked byAO6 chains, which can be seen in Figure 1. 
+The most uniquefeatures of the structure are the hexagonal tunnels that consist of AO6 polyhedra.
+Two sides of the hexagonal tunnelare created by zigzag sheets of edge-sharing A-centeredtrigonal prisms, while the remaining four sides are composedof columns of edge-sharing A-centered octahedra.
+Isolated BO4 tetrahedra are joined to the inside of the tunnel, andinfinite chains of face shared AO6 octahedra pass throughthe center of these tunnels.
+
+As illustrated in Table 1,the cation charge has almost no effect on the identity of A,with cations of oxidation state +1 through +4 shown tooccupy the six-coordinate positions.
+In this concept article, itis shown that Hf4+ and Ta5+ (a pentavalent cation) canoccupy the A-centered AO6 polyhedra.
+It appears thatnearly any cation can be used for this position if it is of suitablesize.
+However, charge balance must always be maintained,and A is rarely a single type of cation.
+Generally, Ais a combination of two cations of different oxidation statesarranged such that the total composition is charge neutral.
+The B site is limited to smaller, highly charged ions that areable to form BO4 tetrahedra.
+To date, V5+, Mo6+, and W6+have been found to occupy the B site, and it is likely thatsimilarly sized, highly charged cations (As5+, P5+, Si4+, etc.)will also be found to fill thatposition.
+A timeline of thelyonsite structure is listed inTable 2. 
+The largest percentage,by a wide margin, of theexisting lyonsite-type compoundsare molybdates.
+However, most of the lyonsite type molybdates are still only known from their powder X-ray diffraction patterns.
+The only known lyonsite-type molybdate with only onecation in the octahedral/trigonal prismatic positions was oneof the first lyonsite compounds discovered: Cu3.85Mo3O12,discovered in 1971.
+This is unusual because the A site isusually occupied by a combination of two cations.
+However,Cu3.85Mo3O12 requires the presumption of Cu+, and themonovalent cation is consistent with other lyonsite type molybdates.
+While one of the A site cations in lyonsite typemolybdates is always monovalent, the remaining cation isquite flexible.
+
+However, cation vacancies can only be toleratedto a certain extent before any crystal framework will collapse,and the best way for lyonsite-type molybdates to havean average charge of +3/2 on the A site is to incorporate amonovalent cation.
+a-Cu3Fe4ACHTUNGTRENUNG(VO4)6 was discoveredin 1987, but no reference was made to the relationshipbetween this new mineral and the large family of molybdates.
+
+It is, indeed, quite remarkable that such differentcompositions could retain the same structure.
+Nonetheless,the discovery of the mineral suggested that V5+ could beused in place of Mo6+ for the tetrahedral cation.
+
+Additionally,it is possible that the lyonsite structure was notformed because of the off-cation stoichiometric compositionalrange for the lyonsite-type vanadates.
+That is, thereare potentially numerous lyonsite-type vanadates thatsimply have not been discovered owing to the off-stoichiometriccation ratios caused by the aforementioned cation vacancies.
+
+Both compositions lie on the Cu3+1.5xFe4xACHTUNGTRENUNG(VO4)6 phase line,suggesting some off-stoichiometric range of existence forthe lyonsite-type compounds and a transition between thetwo structures somewhere along the tie line.
+Similarly,Co3Fe4ACHTUNGTRENUNG(VO4)6 has been described as having the b-Cu3Fe4-ACHTUNGTRENUNG(VO4)6 structure type by comparing powder diffraction patterns.
+However, Co4Fe3.33ACHTUNGTRENUNG(VO4)6 has the lyonsite structuretype,and again, both compositions lie on theCo3+1.5xFe4xACHTUNGTRENUNG(VO4)6 phase line.
+It is certainly possible thatfurther investigations of other A3+1.5xB4-xACHTUNGTRENUNG(VO4)6 compositionalranges will yield similar results.
+As suggested above, the Fe7ACHTUNGTRENUNG(PO4)6 structure type representsanother large class of materials, and could itself bethe focus of new solid-state chemistry.
+For a short explanationof how various elemental compositions and structuresare related within the Fe7ACHTUNGTRENUNG(PO4)6 structure type, the reader isreferred to reference .
+Perhaps one reason why the Fe7-ACHTUNGTRENUNG(PO4)6 structure is preferred at ambient pressure is becausecation vacancies are necessary to form lyonsite-type vanadateswith a stoichiometric A3B4ACHTUNGTRENUNG(VO4)6 formula, but are notnecessary when the Fe7ACHTUNGTRENUNG(PO4)6 structural framework is used.
+The special role of cation vacancies will be discussed in thenext section.
+Similar to the vanadates, it is likely that manyphosphates and arsenates will form the lyonsite structurewith some combination of pressure and off-stoichiometriccation ratios.
+
+Interestingly, in reporting Mg2.5VWO8, theauthors reported unsuccessful attempts to substitute otherdivalent cations for Mg2+.
+Other stoichiometries within theternary Li2O–MOx–WO3 phase system such as LiMACHTUNGTRENUNG(WO4)2(M=Fe, Ga, Sc, In) and Li2MACHTUNGTRENUNG(WO4)2 (M=Co, Ni, Cu)are known, but the Li2M2ACHTUNGTRENUNG(WO4)3 stoichiometry is unknownfor any element other than magnesium.
+More research isneeded to understand the relative stability of the lyonsitecrystalline framework for tungsten versus molybdenum.
+
+
+This relationship issummarized in Table 3. 
+The lyonsite structure is remarkably adaptable, in part,because of the ability to incorporate varying amounts ofcation vacancies.
+The percent of A site cation vacancies forvarious stoichiometries are listed in Table 2. 
+To understandthe typical positioning of the cation vacancies, a more detailedstructural investigation is helpful.
+The structure isformed from isolated tetrahedra linked by octahedra andtrigonal prisms that form zigzag sheets and columns, respectively(see Figure 1).
+These sheets and columns share cornersand form hexagonal tunnels.
+The connectivity of theAO6 polyhedra that form the hexagonal tunnels is depictedin Figure 2. 
+The isolated tetrahedra are joined to the innerwall of the hexagonal tunnels, and infinite chains of facesharedoctahedra (see Figure 3) pass through the center ofthe tunnels.
+The cation vacancies are localized on these infinitechains of face-shared octahedra, thereby minimizingthe coulombic repulsions associated with the close partitioningof cations within the infinite chain.
+
+Removing an A cation perturbs not only the cation distribution,but also the oxygen framework.
+In fully occupiedlyonsite type structures, each oxygen atom is three-coordinate,bonded twice to an AO6-centered cation and once to aBO4-centered cation.
+A vacancy on the face-shared octahedralposition decreases the coordination of the oxygenatoms surrounding the vacancy to two, bonded once to anAO6-centered cation and once to a BO4-centered cation.
+The under coordinated oxygen atoms can satisfy bond valenceby displacing toward the higher oxidation state transition-metal cation.
+For example, in Mg2.5VMoO8, in which the infinite chains of face-shared octahedra are occupied byMg2+ ions, the crystallographic bond lengths of MoObonds surrounding the vacancies are significantly shorterthan the other tetrahedral bond lengths.
+In fact, Ramanspectroscopy revealed that higher order bond interactionsare likely formed.
+It would be valuable, then, to synthesize structures withhigher oxidation state metal cations occupying the infinitechains of face-shared octahedra to provide a structural comparison.
+The higher oxidation state cation should provide astronger binding interaction between itself and the under coordinatedoxygen.
+In addition, high-oxidation-state cationsin this position further promote the concept of lyonsite asan adaptable framework structure.
+
+The crystal structure of Li2.82Hf0.795Mo3O12 is identical toother lyonsite-type compounds and consists of two crystallographicallynon-equivalent mixed Li/Hf octahedral sites andone LiO6 trigonal prismatic position surrounded by twocrystallographically non-equivalent isolated MoO4 tetrahedra(see Figure 4).
+Chains of both edge-sharing LiO6 trigonalprisms and edge-sharing MO6 octahedra are linked byisolated MoO4 tetrahedra and form pseudohexagonal tunnelsalong the a axis (see Figure 2).
+Infinite columns of facesharing M(2)O6 octahedra pass through the center of thetunnels (see Figure 3), with 38.5% of the positions vacantowing to the coulombic repulsions associated with the closepartitioning of face-shared cations.
+All oxygen atoms are three-coordinate (discountingcation vacancies), and each are bound to one molybdenum and two hafnium and/or lithium atoms.
+M(1)O6 is joined toLi(3)O6 by sharing corners.
+Both Mo(1)O4 and Mo(2)O4 tetrahedraare connected to the M(1)O6 octahedra by sharingcorners, while LiO6 prisms share corners with only theMo(2)O4 tetrahedra.
+The structure of Li3.35Ta0.53Mo3O12 is shown in Figure 5.
+The connectivity is identical to that of Li2.82Hf0.795Mo3O12 and other lyonsite-type materials.
+However, a loss of symmetrythat reduces the space group from Pnma to Pmn21can be attributed to the placement of Ta(1) and Li(9) on distinctpositions in the infinite chains of face-shared octahedradown the center of the hexagonal tunnels.
+This cation order,coupled with the cation vacancies on the Li(9) position,probably occurs to minimize the coulombic repulsions thatwould be associated with placing pentavalent cations in suchclose proximity (2.5 I).
+This is further illustratedin Figure 6.
+A similar symmetry reduction (Pnma!Pmn21) patternand doubling of one lattice constant have been observedpreviously for Li2ZrACHTUNGTRENUNG(MoO4)3. 
+One might expect similarlycharged Hf4+ to behave like Zr4+ and adopt the Pmn21space group.
+However, Li2.82Hf0.795Mo3O12 retains the highersymmetry space group.
+Because Li2.82Hf0.795Mo3O12 is in thehigher symmetry space group, there is no crystallographicordering of the face-shared cations and vacancies.
+However,the site occupancy suggests that Hf4+ is most likely alternatingpredominately with vacancies.
+It appears that the higheroxidation state cations show a tendency to systematicallyorder themselves down the hexagonal tunnels on the facesharedpositions.
+The order places either Li+ or cation vacancieson both sides of the high-oxidation-state cations,which serves to reduce the repulsions that would be associatedwith close partitioning of face-shared cations of suchhigh oxidation states.
+
+This may be expected because all of the vacant positions aremissing Li+ ions.
+Both the Hf4+ and Ta5+ site occupancyalong the infinite chains of face-shared octahedra is ~50%.
+This corresponds to Hf4+ and Ta5+ ions bordered by either& or Li+, as previously discussed.
+Therefore, a Li+ vacancywould leave a very high oxidation state metal cation sharingthe under coordinated oxygen with Mo6+.
+The under coordinatedoxygen atom does not need to displace toward theMo6+ in order to maintain its bond valence, as is necessarywhen Mg2+ shares the under coordinated oxygen with Mo6+.
+The experimental details of synthesis and X-ray crystallographiccharacterization of Li2.82Hf0.795Mo3O12 andLi3.35Ta0.53Mo3O12 are given in the Supporting Information.
+Variations in structure within a particular structural familyare not unusual.
+For example, SrTiO3 is cubic while CaTiO3 is orthorhombic, but both exhibit the same connectivityidentical with the perovskite structure.
+Similar structural distortionsand variations occur within the lyonsite crystallinelattice.
+Although the majority of lyonsite-type oxides are inthe orthorhombic space group Pnma, several structures withthe lyonsite-type connectivity are known with lower symmetry.
+The orthorhombic crystal class is generally preserved,and subclasses of the Pnma space group are observed.
+The origin of the symmetry reduction is understood forLi2ZrACHTUNGTRENUNG(MoO4)3 and Li3.35Ta0.53ACHTUNGTRENUNG(MoO4)3.
+ In Li2ZrACHTUNGTRENUNG(MoO4)3, theface-shared octahedral position is ordered with Zr4+ ions alternatingwith cation vacancies, which results in the doublingof one of the lattice constants and the loss of a mirror plane.
+Likewise, Ta5+ ions alternate with Li+ ions in Li3.35Ta0.53-ACHTUNGTRENUNG(MoO4)3. In contrast, it is unclear why the distortion to theP212121 space group occurs.
+It has been suggested that a distortionof the trigonal prismatic environment causes the lossof symmetry, although the origin of this distortion is unknown.
+Adaptable framework structures can have different propertiesbecause of the varying elemental compositions.
+To date,the lyonsite structure type has been investigated for twoproperties: ionic conduction and catalysis.
+High electricalconductivity was first observed for Li2Cu2ACHTUNGTRENUNG(MoO4)3 in1981,and a significant effort has since been made to investigatethe conductivity of many of the molybdates.
+[The lyonsite structure fits the criteria for NASICON ionconductors owing to the arrangement of the isolated(MO4)n polyanion tetrahedra.
+A review of various familiesof AxByACHTUNGTRENUNG(MoO4)z molybdate families discusses the ionic conductionof lyonsite type molybdates.
+The lyonsite crystal framework constitutes a large family ofmaterials, spanning a wide range of elements, oxidationstates, and cation stoichiometries similar to other importantstructure types such as perovskite, garnet, apatite, andspinel.
+The use of cation vacancies and off-cation stoichiometryby lyonsite-type oxides contributes to this remarkablyadaptive structure type.
+The crystal structures of the lyonsitetype molybdates Li2.82Hf0.795Mo3O12 and Li3.35Ta0.53Mo3O12have been determined, and are consistent with other knownlyonsite-type phases.

@@ -1,0 +1,148 @@
+The increasing  demand  of large-scale  energy  storage    prompted  a  battery  technical  revolution.
+Despite  the  lithium  ion  batteries  (LIBs)  have  been  employed  extensively  in  electrical  vehicles,  hybrid  electrical  vehicles  and  other  mobile  devices,  the  high  cost  and  limited  lithium  sources  prevented  the  application  on  large-scale  energy  storage.
+Meanwhile,  sodium  ion  batteries  (SIBs) have  attracted great interests  due  to  the  abundance  resources  and  the  similar  chemical  and  physical  properties  of  sodium  compared  with  lithium.
+Thus,  developing  applicable  electrode  for  high  performance  SIBs  is  becoming imperative.
+Owing  to  the  larger  ion  radius  and  heavier  weight  of  sodium  ion,  numerous  electrode  materials  for  SIBs  suffered  from  huge  volume  change  and  poor  electrochemical  performance.
+Meanwhile,  Various  cathode  materials  including  layered  transition  metal  oxides  and  polyanionic  insertion/extraction  compounds  frameworks6,7,  such  as  capability  Na0.44MnO2,8,9 NaCrO2,10–14 NaFeFe(CN)6,15–17 Na3V2(PO4)3,18–22  NaFePO4.
+Among them, NASICON type Na3V2(PO4)3 (NVP) is excellent  Na+ large  open exhibit for its caused conductivity  of  NVP one of the best candidates as its stable structure and fast Na+  diffusion.
+NVP  is  a  typical  NASICON  material  showing  large  open 3D channels allow for rapid Na+ transportation.
+A theory  specific  capacity  of  117  mAh  g-1  at  3.4  V  (vs. Na/Na+)  is  reported  by  the  previous  work.
+Nevertheless,  poor  electrochemical  inferior  performance of  rate  capability  and long-term cycle  life.
+Many  strategies  have  been  proposed  to  improve  the  electronic  conductivity  including  metal  ions  doping,  carbon  coating,  and  fantastic  nano-architecture  construction.
+Various  nanostructured  or  double-layer  carbon  coated  NVP  have  been  designed  to  exhibit  high  rate  performances.
+However,  those  synthetic routes  are  so  complicated  and  expensive  that  the  large-scale  production  is  unavailable.
+Actually,  the  bulk  phase characteristics of NVP  are difficult  to modify  by carbon  coating,  while  ions  doping  is  considered  to  be  more  effective  and  more  practical  method  to  improve  the  electrochemical  performance.
+Transition  metal  ions,  such  as  Al  ,  Mn,  Fe  etc.,  were  introduced  into  NVP  replacing  V3+  ion,  which  verified  better electrochemical performance.
+In  this  work,  the  minimum  substitution  of  molybdenum  (+6)  ion  (Mo+6)  in  the  V  sites  of  NVP  is  investigated  as  a  cathode  material  for  sodium  ion  battery.
+Mo+6  is  a  typical  transition  metal  ion  with  a  radius  of  0.62  Å,  which  is  smaller  than that of V3+ (0.74 Å).
+Vacancies will be created with higher  valence  metal  ion  doping,  which  favor  for  ion  transportation.
+Besides,  Mo+6  doping  was  proved  to  improve  the  electronic  conductivity  of  some  cathode  materials43,44.
+A  series  of  Mo+6  doped  Na3-5xV2-xMox(PO4)3/C  (x  =  0  −  0.04)  samples  were  synthesized  by  solid  state  reaction.
+A  tiny  doping  of  Mo6+  is  demonstrated to improve the electrochemical performance of  NVP  cathode,  its  rate  capability  and  cycling  performance.
+More  significantly,  the  Mo6+  doping  is  found  to  improve  the  structural  stability  and  the  sodium  ion  diffusion  kinetics.
+A  series  of  Na3-5xV2-xMox(PO4)3/C  (x  =  0  −  0.04)  were    synthesized through a facile one-step solid-state method with  Na2CO3,  MoO3,  V2O5,  NH3H2PO4  and  glucose.
+The  mass  proportion  of  glucose  to  other  raw  materials  was  6:100.
+Stoichiometric raw materials were thoroughly mixed in a nylon  jar  with  10  mL  of  ethanol.
+The  mixture  was  high-energy  ball  milled  for  30  min  before  being  dried  at  80  °C  for  10  h.
+Subsequently,  the  precursors  were  heated  to  350  °C  and  maintained  for  6  h  and  followed  by  800  °C  for  10  h  in  Ar/H2  and  cooled  down  to  room  temperature  naturally.
+All  the  chemicals were used directly without any further purification,  and all were analytical reagents.
+The  crystal structures  of  Na3-5xMoxV2-x(PO4)3  were    determined  by  X-ray  diffraction  (XRD,  PANalytical  B.V.,  Holland)  with  Cu  Kα  radiation  of  λ  =  1.5405  Å.
+Rietveld  refinement  was  carried out using the  GSAS  suite  of programs  with  the  EXPGUI  interface.
+The  morphology  was  observed  by  scanning  electron  microscopy  (SEM,  Nova  nanoSEM  450)  under  10  kV  accelerating  voltage  coupled  with  an  energydispersive  X-ray  (EDX)  spectrometer.
+The  high-resolution  transmission  electron  microscopy  (HR-TEM)  images  and  selected  area  electron  diffraction  (SAED)  patterns  were  recorded using a transmission electron microscopy (TEM, JEM2100).
+Thermogravimetric  (TG,  NETZSCH  STA449F3)  analysis  was applied to measure the carbon content in air at a heating  rate of 10°C min-1. 
+Electrochemical  performances  were  measured  on  CR2032  coin  cells.
+The  working  electrodes  were  prepared  by  using  a  slurry  of  the  active  materials,  C-black  and  polyvinylidene  difluoride  (PVDF)  binder  (70:  20:  10  wt  %)  mixed  in  N-methyl  pyrrolidinone (NMP).
+The slurry was pasted onto an aluminum  foil.
+After being dried at 120 °C for 12 h in a vacuum oven, the  foil  was  roll  pressed  and  punched  into  round  disks  with  a  diameter of 8 mm.
+The loading of active material on each disk  was  about  2  mg  cm-2.
+The  counter  electrode  was  sodium  metal.
+The electrolyte was 1 mol L-1 NaClO4 in a mixed solvent  of  propylene  carbonate  and  fluoroethylene  carbonate  (3%  volume  ratio).
+A  thin  sheet  of  microporous  glass  fiber  (Whatman  GF/D)  served  as  the  separator.
+The  cells  were  assembled  in  an  argon-filled  glove  box.
+Cyclic  voltammetry  (CV)  performances  were  measured  by  an  electrochemical  workstation (PARSTAT MC, Princeton Applied Research, US) at  a scan rate of 0.1 mV s-1 within a voltage range of 2.2 – 3.8 V.
+Electrochemical  impedance  spectroscopy  (EIS)  were  also the equivalent carried out on the PARSTAT MC with a potential amplitude of 5  mV in a frequency range of 105 10-1 Hz.
+ZView software was  used to simulate the equivalent circuit of EIS and calculate the  parameters  of  circuit.
+Galvanostatic  charge/discharge measurements were performed on a battery  testing system (Land CT2001A, China) at 25 °C at various rates  (0.5  ‒  10  C).
+Galvanostatic  intermittent  titration  technique  (GITT) was carried out by cycling a battery at 0.1 C for 10 min  and  rest  for  40  min  between  steps  on  a  battery  test  system  (Arbin  BT2043,US).
+Electronic  conductivity  was  evaluated  by  resistivity measurements of powder pellet and electrode.
+Density Functional Theory (DFT) calculations with the Hubbard  U  (Ueff  =  2.0  eV)  correction  for  Mo3d  electrons  were  performed  with  the  Vienna  Ab-initio  Simulation  Package  (VASP)45,46  and  the  projector  augmented  wave  method  (PAW)47 was adopted for the treatment of core electrons.
+The  exchange-correlation  function  is  described  by  the  Perdew,  Burke, and Ernzerhof (PBE) version of the generalized gradient  approximation (GGA)48,49.
+An energy cutoff of 500 eV was used  with  Monkhorst  k-points  sampling  scheme  for  geometry  optimization,  while  a  larger  grid  8×4×10  was  used  for  electronic  structure  computation)50.
+Conjugated  gradient  method was used to geometry optimization and all the atomic  coordinates were fully relaxed until the maximal force on each  atom was less than 0.02 eV Å−1, and the convergence condition  for energy  is  10−4  eV.
+For the  elementary diffusion processes,  we  defined  Na  diffusion  pathways  and  then  calculated  the  corresponding  activation  barriers  using  the  nudged  elastic  band (NEB).
+Fig.S1 shows Rietveld refinements of different contents of  Mo6+  doped  Na3-5xMoxV2-x(PO4)3  and  the  crystal  schematic  illustration  of  R3C  space  group.
+The  refined  XRD  patterns  indicate  a  low  content  of  Mo6+ doping  does  not  damage  the  NASICON  structure.
+The  selected  refinements  patterns  of  2%  Mo-doped  sample  was  shown  inset  illustrates  the  crystal  structure  of  Na2.9V1.98Mo0.02  (PO4)  3/C  (NVMoP), which is built of VO6 octahedral and PO4 tetrahedral.
+Sodium ions occupy interstitial sites with octahedral (M1) and  tetrahedral (M2) geometries51–53.
+Fig.  2  (a)  HRTEM  images  of  Na2.9V1.98Mo0.02 (PO4)3  (inset  in  (a):  SAED  patterns) and EDS mapping of Na2.9V1.98Mo0.02(PO4)3: (b) SEM ,(c) V, (d)  Mo.
+Rietveld refinement results are summarized in Table S1.
+As the  Mo6+  doping  content  increasing,  less  Na  ions  are  introduced  into the crystal lattice that the lattice parameters of a (b) and c  and  cell  volume  increase,  as  seen  in  Fig 1b.
+Fig.S2  exhibits  XRD  patterns  of  various  contents  of  Mo6+  doped  NVP,  which  show  slightly  peak  shift  as  Mo  increasing.
+It  suggests  the  smaller radius of Mo6+ (0.62 Å) than V3+ (0.74 Å) caused slightly  distortion  of  lattice,  which  confirm  the  Mo6+  replacement  of  V3+ .
+The  vacancies are introduced for  charge  balance  as Mo6+  represents  a  higher  valence.
+To  further  confirm  the  doped  states  of  Mo  ion,  we  investigated  the  valence  state  of  the  transition  metals  in  the  samples  before  and  after  doping  by  XPS analysis.
+For the pristine NVP sample in Fig.S3a, the V2p  XPS spectra show two bands at 517.1 eV and 523.9 eV, which  correspond to V2p3/2 and V2p1/2 transitions respectively.
+In Fig. S3b,  the  V2p  scans  for  NVMoP  sample  represent  two  peaks  located at the similar positions, indicating the valence of V ion  does  not  change  after  doping.
+The  Mo  3d  XPS  spectra  of  NVMoP in Fig. S3c consist of two broad bands at 232.75 eV and  235.8  eV,  which  are  in  agreement with  Mo  (VI)  3d5/2  and  Mo  (VI)  3d3/2,  respectively.
+It  confirms  Mo6+  ions  maintain  their  valence states during the doping process.
+Typical  SEM  images  and  HRTEM  images  of  NVMoP  are    shown in Fig. 2.
+The  HRTEM  images and SAED patterns in Fig.3a confirm a single crystal character of NVMoP nanoparticle.
+A  clear lattice fringes with an expanding d-spacing of 0.6297 nm  is  observed  corresponding  to  (012)  planes  of  NVMoP.21  It  is  accordance with the above XRD results of enlarged lattice cell.
+A  uniform  thin  carbon  coating  layer  was  clearly  observed  on  the  surface  of  the  particle,  with  a  thickness  of  around  5nm.
+Appropriate  to  electron  transportation.
+The  carbon  contents  of  all  samples  evaluated  by thermogravimetric analysis (TGA) are about 2.4 wt % in Fig. S4.
+Fig. 3 Ex-situ XRD patterns of charged and discharged Na2.9V1.98Mo0.02(PO4)3.
+Mo  is  found  to  be  uniformly  distributed  in  the  NVMoP  sample,  demonstrating  Mo  is  successfully  doped  into  the  sample.
+As  expected,  V  ion  can  be  seen  a  corresponding  distributing to the particles.
+Ex-situ  XRD  was  carried  out  to  explore  the  structural  transformation  during  the  sodium  ions  de-intercalation  and  intercalation  reactions  with  NVMoP  electrode  in  a  whole  electrochemical cycle.
+Fig.4 exhibits the Bragg peak evolution  ranged from 10° to 50° for NVMoP electrode at various depth  of  charging  and  discharging,  which  well  demonstrates  the  structural  evolution  of  NVMoP  electrode  cycled  between  2.2  and  3.8  V  at  a  current  rate  of  0.1  C.
+At  the  beginning  of  electrochemical process (stage I), the XRD patterns correspond  to  a  NASICON  structure.
+While  charging to  3.3  V (stage  II),  all  peaks  begin  to  broaden,  no  longer  sharp  and  slightly  shift  to  higher angles.
+Two  couples of double peaks near  20o and  32o  have  merged  into  one  broad  band.
+Continued  to  charging  to  point III, a sequence of new peaks occurs at higher angles.
+This  result  indicates  the  appearance  of  Na1.9V1.98Mo0.02(PO4)3,  which is  the new phase  of desodiated  Na2.9V1.98Mo0.02(PO4)3.20  After discharging to stage IV, it shows the similar XRD patterns  to  stage  III,  suggesting  the  co-existence  of  NVMoP  and  its  desodiated  phase.
+Stage  V  presents  the  signal  of  the  desodiated  phase  begins  to  weaken.
+At  the  end  of  the  discharging  (stage  VI),  the  patterns  recover  to  a  NASICON  structure  while  those  of  the  desodiated  phase  disappeared.
+The  XRD  patterns  evolution  agrees  well  with  the  previous  report,20,30,54 indicating a poor influence of Mo6+ doping on the  structural  transformation.
+More  significantly,  the  structure  is  highly reversible during the charge-discharge process.
+To  further  evaluate  the  Mo6+  doping  effect  on  the    electrochemical  properties  of  Na3-5xV2-xMox(PO4)3,  the  electrochemical  performances  of  NVP/C  and  various  Mo6+  doped  Na3-5xV2-xMox(PO4)3/C  (x  =  0  −  0.04)  cathodes  are  investigated  and  compared  in  Fig. 4.
+Fig. 4a  displays  the  rate  performance of  various  Na3-5xV2-xMox(PO4)3/C electrodes from  0.5  to 10  C and Fig. S5 compares the charge/discharge curves  of  the  electrodes  at  different  rates.
+It  is  clear  that  all  Mo6+  doped  Na3-5xV2-xMox(PO4)3/C  electrodes  show  better  rate  capability  than  pristine  NVP  electrode,  especially  at  high current  density.
+Fig  S6  presented  charge/discharge  curves  of  similar  specific  capacities  of  various  Mo-doped  Na3-5xV2xMox(PO4)3/C  4b,  Na2.9V1.98Mo0.02(PO4)3/C  electrode  delivers  capacities  of  102.9  and 92.1 mAh g-1 at 5, 10 C, respectively, which is much higher  than those of un-doped NVP/C electrode (98.7 mAh g-1  at 5 C  and  76.8  mAh  g-1  at  10  C).
+Two  discharge  potential  plateaus  are  occurred  at  high  rates.
+While the rate increases from 0.5 C to 10 C, there  is  a  little  potential  drop  in  the  charge/discharge  curves  of  NVMoP  electrode.
+Similarly,  all  Mo6+  doped  samples  exhibit  less  voltage  difference  than  un-doped  sample.
+It  shows  the  crystal  structures  of  Mo6+  doped  Na3-5xV2-xMox(PO4)3/C  are  more stable during the charging/discharging process.
+The cycle  performances  of  doped  and  un-doped  NVP  electrode  at  10  C  are  compared,  as  shown  in  Fig. 4c.
+It  is  obvious  that  all  Mo6+  doped Na3-5xMoxV2-x(PO4)3/C show superior cycle stability than  pristine  NVP  sample,  among  which,  2  %  Mo-doped  sample  demonstrates  the  most stable  cycle  capability  with a  capacity  retention  of  81%  over  500  cycles.
+Fig. 4d  shows  the  charge/discharge  profiles  of  NVP/C  and  Na3-5xV2-xMox(PO4)3/C  after  cycled  for  500  cycles  at  10  C. NVMoP/C  (x  =  0.02)  electrode  still  reaches  a  capacity  of  75.2  mAh∙g-1  after  500  cycles, while the capacity of pristine NVP electrode drops to no  more than 10 mAh∙g-1.
+We can draw a clear conclusion that the  rate  performance  and  cycle  stability  are  both  improved  by  Mo6+  doping,  which  might  result  from  better  Na+  ion  kinetics  and more stable structure.
+Na-ion  kinetic  activities  of  the  electrodes  are  further  discussed  by  GITT  and  CV  in  Fig. 5.
+GITT  measurements  for  NVMoP/C  and  NVP/C  electrodes  at  the  first  cycle  are  illustrated  in  Fig. 5a.
+At  this  slow  scan  rate,  both  samples  display  only  one  smooth  plateau  at  3.37  V.
+During  the  charge/discharge  process,  the  profile  of  NVMoP/C  shows  less  overpotential than NVP/C, suggesting a faster Na+ ion reaction  kinetics with less polarization by Mo6+ doping.
+Meanwhile, the  CV curve in Fig. 5b also exhibits a much less polarization during  the electrochemical reaction  of NVMoP than non-doped NVP,  which  agree  well  with  the  GITT  tests.
+To  further  understand  the  sodium  ion  diffusion  kinetics  during  the  electrochemical  process  of  NVP/C  and  Na3-5xMoxV2-x(PO4)3/C,  the  CV  performances  at  different  scan  rates  of  0.1,  0.2,  0.4,  0.6,  0.8  and 1 mV∙s-1 within a voltage range of 2.2 – 3.8V vs. Na+/Na, as  shown  in  Fig. S7.
+All  samples  exhibit  two  reduction  peaks  at  slow scan  rates,  which  means the  presence of  two interstitial  sodium ion storage sites and the insertion of sodium ions into  the two sites at different potentials.
+For un-doped sample, two  peaks  merged  into  one  broad  band  at  high  rates,  while  the  Mo6+-doping  electrodes  still  present  two  distinct  cathodic  peaks.
+The potential gap between the oxidation and reduction  peaks  becomes  larger  as  the  scan  rate  increasing,  which  demonstrates an exacerbating polarization.
+Thus, the diffusion  coefficient  of  sodium  ion  can  be  calculated  by  classical  Randles-Sevick  equation:  Ip  =  2.69×105n3/2ACNa+D1/2 1/2,  in  ν which  Ip is the peak current (A), n  is the number of electrons  transferred  per  molecule,  A  is  the  active  surface  area  of  the 
+Fig. 4 Electrochemical performance of Na3-5xV2-xMox(PO4)3(x= 0.01 – 0.04): (a) Rate  performance  of  Na3-5xV2-xMox(PO4)3  from  0.5C  to  10C;  (b)  Charge  and  discharge  curves of Na2.9V1.98Mo0.02(PO4)3 at different rate; (c) Cycle performance of Na3-5xV2xMox(PO4)3  at  10C  (d)  Charge  and  Discharge  curves  of  Na3-5xV2-xMox(PO4)3 at  10C  rate after 500 cycles.electrode,  D  is  the  Na-ion  diffusion  coefficient,  v  is  the  scan  rate,  CNa+  is  the  concentration  of  sodium  ion  in  the  crystal.
+As the  Mo doping  amount  increasing,  the  Na-ion diffusion kinetics  is  improved.
+The  potential  difference  between  DNa1  and  DNa2  remains  at  0.14V  after  Mo  doping,  it  can  be  ascribed  to  the  multiple  Na  ion  kinetics  and  thermodynamic  behaviour  influenced by Mo6+.
+Our  calculation  shows  there  are  three  possible sodium diffusion paths in NVMoP, as shown in Fig.6a.
+Pathway  1  represents  Na  ions  migrate  through  a-direction  from Na1 to Na2 occupation.
+As  seen  in  Fig.  S8b,  after  500  cycles,  Nyquist  plots  of  NVP  exhibit  a  semicircle  at  the  high-middle  frequency  region  while  two  distinct  depressed  semicircles  appear  at  the  high-to-medium  frequency  region  for  NVMoP  sample.
+Both two plots can be fitted to two semicircles at the  high  and  medium  frequency,  corresponding  to  the  charge  transfer  resistance  (R2)  and  impedance  (R3),  respectively,  which  represent  the  internal  resistance  of  the  electrode.
+Obviously, the resistance of the Mo-doped material  is  much  lower  than  that  of  the  pristine  NASICON  material.
+Furthermore,  the  formation  of  the  passive  layer  on  the  electrode  provides  protection  for  the  active  material,  which  significantly  improves  the  electrochemical  reversibility  during  cycling.
+According to the electronic conductivities data of Na35xV2-xMox(PO4)3 listed in Table  S4,  the electronic  conductivities  of  both  powders  and  electrode  are  increased  as  Mo6+  doping  (the sample of x = 0.01 is an exception probably due to a less  carbon  coating).
+However,  the  conductivities  begin  to  drop  with the increase of Mo6+ doping contents.
+To  summarize,  a  series  of  Mo6+  doped  Na3-5xV2-xMox(PO4)3    (x = 0, 0.01, 0.02, 0.03, 0.04) cathode materials were prepared  by  a  solid-state  method.
+It  has  been  found  that  the  the  Na3-5xV2-xMox(PO4)3  are  significantly  conductivity  of  improved  after  Mo  doping,  in  a  dramatic  improvement  of  the  rate  and  cycle  performances.
+For  NVMoP/C, when the cycling rate increased from 0.5 C to 10 C,  the specific capacity only decreased from112.5 mAh∙g-1 to 94.2  mAh∙g-1,  demonstrating  a  superior  rate  capability.
+It  also  exhibits  a  stable  cycle  life  over  500  cycles  at  10C  rate  with  a  capacity retention of 93.5%.
+More importantly, we have found  the  Na  ion  diffusion  kinetics  was  significantly  improved  as  a  result  of  Mo  doping.
+These  results  have  strongly  confirmed  high  valence  metal  ion  doping  is  an  efficient  strategy  to  optimize  the  NASICON  structured  materials  as  high  rate  and  stable  ion  batteries.
+Furthermore,  an  insight  view  of  Na  ion  kinetics  was  revealed  by  high  valence  ion  doping,  which  can  be  applied  to  other  electrode materials.
+In  addition,  the  authors  thank  the    State  Key  Laboratory  of  Material  Processing    and  Die  &  Mould  Technology，the  Analytical  and  Testing  Center  of  Huazhong  University  of  Science  and  Technology  for  XRD,  SEM  and  TEM  measurement.
+Fig. 6 (a) Illustration Na1-Na2 diffusion paths (b) Reaction energy of Na+ ion diffusing  along  Na1-Na2  direction  in  pathway  2  (c)  Schematic  illustration  of  possible  Na-ion  migration paths with different Na vacancies.
+Inter layer pathway  3  exhibits  the  ions  migrate  across  the  channels  between  adjacent  octahedron  along  the  c-direction.
+These  results  are  consistent with previous report.
+Since the migration energy  is  rather  high  for  pathway  3,  the  possible  for  sodium  ions  diffusion through the third path is relatively low.
+The reaction  energy for pathway 1 and 2 is so close that energy barrier for  Na  ions  pass  along  the  later  path  is  calculated  for  the  comparison between the NVMoP and un-doped NVP.
+From Fig.6b, it is obvious that the migration barrier for Mo6+ doped NVP  is  lower  than  that  of  pristine  NVP.
+Especially  when  the  coordinative  number  reaches  2,  the  energy  difference  between  two  materials  starts  to  become  more  obvious.
+The  energy  barrier  is reduced from 0.3952 eV to  0.3117eV by  Mo  doping  at  the  coordination  of  2.
+According  to  the  above  calculations,  Fig.  6c  displays  the  possible  sodium  diffusion  pathways  for  NVMoP,  which  are  labelled  by  blue  atoms.
+Na1  moves  to  Na2  followed  with  Na2  moves  to  Na1  through  pathway  1  and  pathway  2,  where  sodium  ions  migrate  into  lattice  through  the  hexagonal  bottleneck  of  VO6  octahedron  and PO4 tetrahedron.
+Electrochemical  kinetics  was  further  explored  by  EIS  measurements.
+Fig. S8a displays the Nyquist plots of NVMoP/C  electrode at different cycles at 10C rate.
+For the fresh cell, the  EIS plot is composed of  a semicircle  at high-middle frequency  region,  corresponding  reaction  resistance  (R2)  in  the  electrode,  and  an  inclined  line  at  low  frequency  region  associated  with  the  Warburg  impedance  (W1)  defined  with  the  diffusion  of  Na+  ions  within  the  electrode.
+After cycling, the EIS curves present two depressed  semicircles at the high-to-middle frequency region and a slope  at low frequency region, which are enlarged in the inset of Fig.  S8a.
+The  new  emerging  semicircle  is  related  to  the  solidelectrolyte  indicating  a  stable  passive  layer  formed  on  the  surface  of  the  Mo-doped  electrode after cycling.
+The EIS spectra for the cycled cells are  well  fitted  to  the  equivalent  circuit  shown  in  the  inset  of  Fig.  S8a and the fitting values are listed in Table S3.
+
+
+
