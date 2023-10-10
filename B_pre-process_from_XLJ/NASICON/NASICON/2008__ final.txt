@@ -1,0 +1,195 @@
+Constant-pressure, constant-temperature variable-shape simulation cell Monte Carlo and microcanonical ensemble molecular dynamics simulation of superionic conducting rhombohedral phase of Nasicon, Na1+,ZmSi,P;-,01», 0 =≠= 3, at a temperature of 600 K is reported. 
+Changes in structure, conductivity, hop path, site occupancies, bond lengths of framework atoms with composition are discussed. 
+Average Na(1)-O distance shows a peak at≠= 2, while Na(2)-O distance shows a monotonic increase. 
+Sum of the sodium occupancies at Na(1) and mid-Na sites adds up to a constant value of one which supports the conclusion of Boilot et al' based on X-ray diffraction. 
+Occupancy of Na(1) site attains a minimum at x= 2. 
+The predominant conduction channel (which carries more than 90% of the sodium ions) is found to be the one connecting Na(1)-mid-Na-Na(2). 
+Density contours for sodium, depicting this conduction channel, are reported. 
+Free energy profile along the conduction channel suggests that entropy contribution cannot be neglected. 
+The mid-Na site is not associated with a free energy minimum.
+In his pioneering work Hong showed that it is possible to synthesize a series of materials of the general formula Nai+ZmSi,P3-.0)2 with 0 =≠= 3 and that the material NasZr»SipPO,; (the composition with≠= 2) is an excellent ionic conductor. 
+The conductivity of NasZr»SizPOy» above 443 K was found to be comparable to that of Na-B-alumina, with many an advantage in practical applications as a fast ion conductor." Henceforth, materials with topology and structure similar to those of NasZrSizPO;» are referred to as Nasicons (for NaSuperlonic Conductors), irrespective of whether they classify as superionic conductors or not and whether other alkali ions replace Na. 
+These materials exhibit many useful as well as interesting properties which are often attributed to their unique structural features. 
+They have an open framework structure, consisting of corner-linked ZrOs-octahedra and (Si/P)O4-tetrahedra. 
+The resulting covalently bonded framework is highly stable and at the same time flexible. 
+The low-temperature structure of Naj+ZrSi,P3-,O12 for≠< 1.6 and≠> 2.4 is thombohedral (hexagonal) with an R3cspace group." The compounds in the above range of compositions are not known to exhibit angamma phase transitions up to their melting points (>1650 degree C). 
+This transition is suggested to be a second-order 2 transition. 
+The transition is also accompanied by an increase in conductivity and over the transition region (400 K < T, < 460 K) the activation energy gradually reduces to half its value in the monoclinie phase.>!"The high-temperature thombohedral R3c-phase is the one of particular interest here, due to its high ionic conductivity. 
+A particularly interesting aspect of Na1+Zr»Si,P3-,O12 is that as the composition, x, increases the conductivity initially increases, by many orders of magnitude, up to an≠~ 2. 
+Beyond this it decreases showing" an anomalous peak near≠= 2. 
+Different groups have suggested different pathways for Nat migration.'~'> Even after numerous experimental investigations, in the past three decades, many aspects of the ionic motion in these materials remain poorly understood.
+Recently a few theoretical efforts have also been made to understand some of these aspects of ionic motion in Nasicontype solids. 
+They employ a Distance Least Square (DLS) method to substantiate their experimental findings. 
+Yet another interesting study in the present context is by Daniele Mazza,! degree who has investigated the variation in activation energy with composition as well as the preferred ionic pathway for conduction. 
+An interesting observation of the study is that distortion of the structure, from the ideally stacked polyhedra, enhances the conductivity. 
+The study makes use of a bond valence equation (BVE) and suffers from some limitations as it is based on a rigid framework model-neglecting the framework motions-and long-range Coulombic interactions are not accounted for.'" These methods also have the inherent drawback of not being able to probe ion dynamics.
+Classical molecular dynamics (MD) and Monte Carlo (MC) techniques have been extensively used, as complementary to experimental probes, in elucidating the nature of the ionic motion and related aspects of superionic conductors in the last three decades. 
+These simulation techniques make use of a model interionic potential that can reproduce the well-established experimental results. 
+Of the most successful model potentials in the past, those by Vashishta and Rahman on Ag! !' and by Walker and Catlow on Na-S-alumina'Φ are particularly noteworthy. 
+The development of interionic potentials are quite tedious, particularly in the case of relatively complex materials such as Nasicons. 
+Analysis of MD trajectories is carried out to derive insight into structure, conductivity, ion occupancy at various sites, hop path from one site to another, and free energy. 
+Intermolecular Potential An interionic pair potential proposed recently,"" 44;"%; 4 A,(0, + 0," _ %, )where q; is the charge and 0; is the ionic radii of the ith ion, has been employed in the present study. 
+A; and C; are, respectively, the overlap-repulsive energy and dispersion energy of ion pairs i and j. 
+Here i and j refer to Na, Zr, Si, P, and 0.
+The parameters of the potential have been determined by fitting to the structure and conductivity of just one single composition (x = 2), viz., NasZrSizPOy», at just one single temperature, T ~ 600 K in the following way.
+A set of initial values were chosen to start with for the parameters q;, A;, and C;. 
+The pressures again obtained from MD simulations were adjusted to yield as close a value as possible to the atmospheric pressure by adjusting the charges and C;; values.
+The former were more effective in obtaining the correct pressure. 
+We also ensured that the melting point of the solid is high by suitable scaling of all parameters.
+MD is carried out iteratively after every refined set of parameters. 
+Every time, the resulting structure and conductivity from MD are compared with experiments and further adjustments in parameters are made based on the criteria discussed above. 
+The procedure is repeated until MD results are close to the experimental data. 
+It may be noted that a change in a single parameter can alter several properties and adjustment in more than one parameter is required to get agreement in a single property. 
+The above-discussed procedure is one of the many ways of achieving an optimized set of parameters. 
+We have chosen to carry out constant-temperature and constant-pressure Monte Carlo calculations with variable-shape simulation cell> (NPT-MC) to obtain the lattice parameters. 
+Microcanonical ensemble molecular dynamics (NVE-MD) simulations"Φ have been carried out to obtain structural and dynamical properties. 
+The lattice parameters for the latter simulation were those obtained from NPT-MC simulations. 
+This procedure will yield results identical to those obtained from constant-pressure, constant-temperature MD simulations.
+Variable-shape NPT-MC simulations at 600 K and 1 atm pressure were carried out initially. 
+Their positions were therefore fixed such that they are evenly distributed in the Si/P site across the unit cell at the beginning of the simulation. 
+Displacements to alter the size and shape of the simulation cell are attempted every four MC moves. 
+MC move consists of an attempt to move all the particles within the simulation cell once, chosen sequentially. 
+Properties are calculated for 20≠10 degree MC steps after devoting 15≠10 degree steps for proper equilibration of the system. 
+These simulations yield the volume and cell parameters (a, b, c, a, 3, and ) as well as the atomic positions under a given set of external conditions. 
+Simulations have been carried out for eight different compositions,≠= 0, 0.5, 1.0, 1.5, 2, 2.5, 2.7, and 3. 
+At≠= 0, N = 972 ions which progressively increases to 1134 for≠= 3. 
+The simulation cell is of size 26.673≠26.673≠22.87 A at≠= 0. 
+The NVE-MD simulations were performed, at the desired temperature of 600 K, in a thombohedral simulation cell with cell parameters (a, b, and c) obtained from variable-shape NPT-MC simulations. 
+The initial configuration of ions for the NVE-MD simulations were the final configurations from NPT-MC simulations. 
+Initial velocities were chosen from a Maxwellian velocity distribution for 600 K. 
+The velocity form of the Verlet algorithm with an integration time step Ar = 2.5 fs is found to yield good energy conservation. 
+An equilibration of over 200 ps was followed by a production run of 1 ns. 
+The structure (Rﬁc) of Nasicons may be described as consisting of corner-sharing POY/SiOq4 tetrahedra and Zr04 octahedra interconnected to give rise to a three-dimensional network through which the alkali ions can move. 
+Each octahedron is connected to six tetrahedra and each tetrahedron is connected to four octahedra. 
+Zr-O, Si-O, and P-O radial distribution functions (rdf's) are shown in Figure 1(a-c) for the low-temperature structure, R3c, at≠= 0, 1, 2, and 3. 
+The average bond lengths for bonded pairs (Zr-O, Si-O, and P-O) have been obtained by averaging over all first coordination oxygen shells of the corresponding atom and over all MD steps. 
+Changes in the bond lengths of Zr-O, Si-O and P-O with composition may be seen. 
+The coordination numbers for Zr, Si and P are seen to be 6, 4 and 4 oxygens at all compositions as expected. 
+In addition, average Na(1)-O, Na(2)-O and mid Na-O distances are listed in Table 2. 
+Bond angles in Nasicons may play an important role in the changes observed in both structure and conductivity with composition. 
+Table 3 lists the average O-Zr-O, O-Si-O, O-P-O, Zr-O-Si, and Zr-O-P bond angles at different compositions along with X-ray diffraction results reported by Hazen et al"Φ for≠= 0.11. 
+The O-Zr-O, O-Si-O, and O-P-O are the angles within the polyhedra and are expected to be more stiff, while Zr-O-Si and Zr-O-P are the angles between polyhedra whose flexibility is important for rotation of polyhedra which have been found to play an important role in structural and other property variations with composition. 
+Note that the O-Zr-O and O-(Si/P)-O angles are close to 90 degree and 109.5%, respectively, suggesting the presence of idealThe radial distribution functions (rdf's) for ion pairs (a) Zr-O, (b) Si-O, and (c) P-O for four compositions (x = 0, 1, 2, and 3), from NVE-MD at 600 K, are compared with those from the experimental structure of NasZraSizPO;>. 
+The rdf's from NVE-MD are displaced along the Y-axis for clarity. 
+as a function of≠for Nai++ZraSi,P3-.O12 from variable-size variable-shape NPTMC simulation at 600 K. 
+The a and c from NPT-MC are compared with those from X-ray diffraction performed either at 573 or at 623 K.
+that the composition where the maximum of the c parameter is observed coincides with the maximum in the conductivity in these materials. 
+Figure 2 shows the variation of the a and c parameters (obtained as a function of≠from the NPT-MC simulations). 
+It is seen that the anomalous maximum, near≠= 2, of the c parameter (Figure 2b) as well as the monotonic increase of the a parameter (Figure 2a) are correctly reproduced by the interionic potential. 
+The other lattice parameters, a, /, and gamma (the angles of the thombohedral unit cell), are found to be within 0.5 degree of the expected values, a = /3 = 90 degree and gamma = 120 degree. 
+At low compositions (x = 0 and 1), it is seen that the value of the lattice parameter a obtained from NPT-MC is slightly higher than the experimental value. 
+The difference is probably due to the limited duration of these runs, as we shall see in the next section. 
+More detailed variation of a and c with≠obtained in this study suggests that the lattice parameters are successfully reproduced over the whole composition range 0 =≠= 3. 
+Overall it is seen that the geometry of the polyhedra (octahedra and tetrahedra) as well as the angles between the polyhedral units are reproduced well. 
+The lattice parameters and their variation with composition are also in agreement with the X-ray diffraction results available in the literature suggesting that the potential is able to successfully reproduce the structure. 
+One of the most interesting and technologically important aspect of Nasicons is their high ionic conductivity. 
+such as near isotropic (three-dimensional) mobility of ions, easier synthetic roots, lower sintering temperature, low thermal expansivities, etc., over S-alumina. 
+These are important advantages particularly when considering these materials for battery applications.
+The members of the series with composition in the range of 1.6 <≠< 2.4 have high conductivities above 573 K and therefore qualifies as a superionic conductor. 
+Figure 3a shows the evolution of mean square displacement (MSD) of Na+ ions with time for compositions≠= 0.5, 1.0, 1.5, 2.0, 2.5, and 2.7. 
+For the two end members (not shown),≠= 0 and≠= 3, the MSD reaches a plateau within 2 ps at 0.52 and 0.44 A?, respectively. 
+The diffusion coefficient (D) of the Na+ ions for each of these compositions is calculated from the slope of the respective MSD. 
+where Ny, is the number of Na+ ions in the simulation cell of volume V, D is the diffusivity at temperature 7, and ks is the Boltzmann's constant. 
+The conductivity calculated from the above expression for the various compositions is plotted in Figure 3b. 
+Also shown are the experimental values from Boilot et al' It may be seen that the variation of a; with≠including the anomalous maximum near≠= 2 is correctly reproduced. 
+For the two end members≠= 0 and 3, the diffusion coefficient and hence the conductivity is too low and MD is unable to estimate the values correctly. 
+Alternative ways, such as those suggested by Chandler and co-workers,>"" may need to be employed at these compositions. 
+Na(2) (Na(2)-O), and mid-Na ((mid-Na)-O) sites as a function of composition, x, obtained from NVE-MD simulations.
+the conductivity is still not very high, MD results are higher than reported by experiments. 
+This aspect is evident from the MSD which shows a deviation from linearity. 
+Further, the reduced slope toward the tail (400-500 ps) suggests that longer runs might yield lower values of diffusion coefficients and provide more accurate estimates.
+It is well-known that framework structures with a large number of partially occupied sites with good connectivity across them (pathways with low energetic barriers connecting them) are good candidates for superionic conductor. 
+The Nasicon-framework, [Zr»((Si/P)O4)3], is one which offers a large number of sites for Na+ to occupy. 
+The maximum in the conductivity coincides with the maximum in the c parameter.' To understand the relationship between these, we looked at the changes in the framework with composition, x. 
+The Na(1) site is at the center of a distorted oxygen octahedra (Na(1)O) which is sandwiched between two Zr0s along the c axis. 
+The Na(2) site, on the other hand, is irregularly eight-coordinated with oxygens forming a Na(2)O polyhedra which is located between the ribbons forming the framework. 
+The mid-Na site is five-coordinated with oxygen (forming mid-NaOs polyhedra), out of the five oxygens three are part of the Na(1)Os while the other two belong to the Na(2)Os. 
+Figure 4 shows the variation of the Na-O distance at the three sites (denoted as, Na(1)-O, Na(2)-O, and (mid-Na)O) as a function of composition x. 
+The Na-O distance at the various sites also serves as a good measure of the sizes of the corresponding Na-O polyhedra. 
+It is seen that the Na(1)Os increases initially, as≠increases, shows a maximum around x= 2 and then falls off anomalously when≠= 3. 
+These observations are in good qualitative agreement with the X-ray diffraction resultsThe sum of the occupancies in Na(1) and mid-Na is also shown.
+at 443 K by Boilot et al' The (mid-Na)-O appears to be more or less constant (within the error bars of simulation) over the whole range of compositions. 
+Considering the fact that the Na(1)Os lies between two rigid Zr0s along the c axis the anomalous expansion of the Na(1)Os with≠seems to be associated with a similar change in the c axis. 
+The slight expansion of the Na(2)Os with≠is probably related to the a parameter expansion.
+It is found that as≠increases from 0 the occupancy of Na(1) decreases initially, from one, until it reaches a minimum at≠= 2 and then increases to its original value of one when≠= 3. 
+On the contrary the occupancy of the mid-Na site shows an anomalous maximum, again, around≠= 2. 
+Here we assign a Na+ ion to a given site if that ion is within a distance of 0.8 A from the site position. 
+However, it provides an idea of how site occupancies vary with composition. 
+It appears that the anomalous increase in the mid-Na occupancy is at the expense of Na(1) occupancy since the sum of the two (broken line) appears to maintain a constant of one, over the entire range of composition. 
+The occupancy of the Na(2) site is found to be monotonically increasing with≠from a value of zero at≠= 0 to the maximum possible value of 3 at≠= 3. 
+Boilot et al have examined this aspect of site occupancies and their possible relevance to the conductivity of Nai++ZmSi,P3-,O12.' They have suggested a chemical formula:The simulation results are in remarkable agreement with this view of Boilot et al'These distances correspond to first and second nearest neighbor distances of Na(1) (the 6b position) with respect to another Na(1) site. 
+These peaks occur at 23.3, 4.6, 6.3, and 9.1 A which corresponds to the nearest neighbor Na(1)-Na(2), Na(2)-Na(2), Na(1)-Na(1) and next nearest neighbor Na(1)-Na(1) distances, respectively. 
+The typical separation between the mid-Na site and Na(/Na(2) is 1.7-1.8 A (the exact position of the mid-Na site is found to depend on the composition). 
+The pathway of Na+ ions has been the subject of much discussion in many of the earlier investigations on Nasicon. 
+However there has been little or no convergence of ideas about this aspect. 
+There are two possible hop paths from which Na+ ions can choose, the Na(1)-Na(2) and the Na(Φ2)-Na(2). 
+Tran Qui et al." analyzing the size of the bottlenecks for ionic motion along these two paths concluded that Na(2)-Na(2) hops are more probable than Na(1)-Na(2) hops as the bottleneck for the Na(2)-Na(2) was found to be wider (and possibly offers a lower barrier). 
+TABLE 4: The Fraction of the Na(1)-Na(2) and Na(2)-Na(2) Hops with Respect to the Total Number of Na+ Hops at the Various Compositions, Calculated from NVE-MDx Na(1)-NaQ) NaQ)-Na) 0.0 .000 0.000 0.5 0.967 0.033 1.0 0.944 0.056 1.5 0.985 0.015 2.0 0.945 0.055 2.5 .989 0.011 27 .998 0.002 3.0 0.000 0.000"The Na(1)-Na(1) hops were essentially zero at all values of x.
+which is the component, along the ab plane, of the vector joining a given Na(l) site to one of its neighboring Na2) sites (see the text for details). 
+Mazza,' degree on the basis of bond valence equations also suggested that it is Na(1)-Na(2) hops that are more probable. 
+The other possible hop path (Na(1)-Na(1)) has not been observed. 
+In the present study we have analyzed all the possible Na+ hops to obtain the number of Na(1)-Na(1), Na(1)-Na(2), and Na(2)-Na(2) hops, and the results are given in Table 4. 
+It may be seen that the majority (more than 90%) of hops are between Na(1) and Na(2), for all the compositions where Na+t mobility is observed. 
+The considerable occupancy of the mid-Na site provides additional evidence in support of this since the mid-Na site is located in the Na(1)-Na(2) hop path. 
+Figure 7 shows a contour diagram of the Na+ in-plane density defined by the plane consisting of the c axis and the component of the vector 7,, =77,, where 7 is the vector joining a given Na(2) with one of its neighboring but a particular Na(1) and 7; is its component along the c axis. 
+The density has been obtained by counting all Na+ within a thickness of 0.05 A of this plane over the entire run length of the NVE-MD. 
+The contour diagram in Figure 7 appears similar to those given by Kohler and Shulz'>" in their X-ray diffraction studies (see Figure 5 of ref 11 and Figure 4 of ref 13). 
+It is evident from Figure 7 that Na(1) thermal ellipsoid is elongated along the ab plane and contracted along the c axis. 
+On the contrary the Na(2) thermal ellipsoid is much longer along the c axis while shorter on the ab plane. 
+An MD trajectory of NaΦ ion during a hop from Na(1) to Na(2) site. 
+The trajectory generated corresponds to 600 K and≠= 2 composition. 
+The positions of Na(1), Na(2), and mid-Na sites suggested by X-ray diffraction study of Boilot et al is also shown as spheres.
+But in this region no island corresponding to a local maximum in density is seen in the contour plot. 
+Instead, a rather smooth density distribution between Na(1) and Na(2) sites is evident. 
+Below we discuss the variation in potential energy and free energy along the hop path.
+The actual trajectory of the hop from Na(1) to Na(2) is rather complex. 
+Figure 8 shows an MD trajectory of Na+ ion traversing from the Na(1) to Na(2) site. 
+Note that this is not the average trajectory but is one of the hop trajectories. 
+A simplification of this trajectory in terms of a single scalar quantitiy indicating the progress of the hop from Na(1) to Na(2) site will be helpful in understanding the nature of potential energy and other changes along the trajectory.
+where N is the total number of atoms in the simulation cell and S(7; F,) = (r;) is given in eq 1. 
+The position vector of the Na(1) site from which this ion is hopping is then subtracted from 7; and the dot product with the vector from Na(1) to Na(2) is taken to get d;2 as mentioned above and ungamma'(d;2) is obtained from uy,,;(7;). 
+The potential energy profiles for three compositions,≠= 0.5, 2, and 2.7 are shown in Figure 9. 
+Note that the curve in Figure 9 has been obtained by averaging over the MD trajectories and include framework relaxations. 
+It is seen that for the x= 0.5 the energies of Na(1) and mid-Na sites are lower (hence more favorable) while that of Na(2) is higher. 
+For≠= 2 the energies of Na(1), mid-Na, and Na(2) are comparable and the energy profile shows smaller energy barriers for hops between sites. 
+For≠= 2.7, again the profile shows larger variations and Na(1) appears to be higher in energy than Na(2). 
+These findings suggest that ions mobility or conductivity is highest when the potential energy landscape has only moderate or low intensity undulations. 
+This is the case with≠= 2 which leads to lower activation energy and high mobility. 
+These findings are identical to that found by Chitra and YashonathΦ" for diffusion of Lennard-Jones sorbates of different sizes within NaY zeolite: a rather flat potential energy landscape was found to be associated with high self-diffusivity. 
+This is because the appropriate quantity to be considered here is the free energy (AF) which will account for the entropy variations as well as the variations in energy, along the hop path. 
+The fact that the Na-O distances at the various sites depend on the composition emphasizes the role of entropy on the site occupancies as well as in deciding the free energy barrier for site to site hops.
+The free energies have been calculated from the populations of Na ions, P(d;;), over the entire pathway connecting Na(1) and Na(2). 
+Here d;, is treated as the diffusion coordinate akin to a reaction coordinate. 
+where T is the temperature in Kelvin and X3 is the Boltzmann constant. 
+the framework ions and therefore they essentially are in the canonical ensemble at constant temperature. 
+It can be seen that for≠= 0.5 the population of Na(1) is larger than that of Na(2) while for≠= 2.7 the population in Na(2) is higher than that in Na(1). 
+For the compositions with low conductance≠= 0.5 and 2.7, the free energy barriers for the Na(1) to Na(2) hop is higher compared to that of the high conducting≠= 2 composition.
+It is seen in Figure 10b that there is no local minimum in the free-energy profile at d;» = 1.7-1.8 A, that corresponds to the mid-Na position. 
+In fact, the mid-Na region corresponds neither to a minimum nor a maximum but is rather flat. 
+We see that at x= 2 there is considerable population (Na+ of about 0.6) around this region and a somewhat lesser (Na+ of 0.3) but nonzero population at≠= 0.5 and 2.7. 
+This suggests that mid-Na site is a rather spatially extended one (unlike the Na(1) or Na(2)). 
+Cherkaoui et al" found in their NMR studies evidence for the presence of mid-Na site between Na(1) and Na(2). 
+However, none of the X-ray diffraction studies prior to those by Boilot et al." could identify this site probably because of the highly delocalized nature of this site. 
+Note that the deficiency in their density matches well with the density of Na fons at the mid-Na site obtained by us. 
+It is evident that the site occupancies (see Figure 5) are higher for the mid-Na site as compared to the Na(1) site for intermediate compositions (1.0 <≠< 2.5). 
+From Figure 10b it is seen that in the intermediate composition, the free energy of Na(1) site is almost comparable with those of mid-Na site. 
+The fact that we do not shift the site positions with compositions gives rise to this apparent anomaly where the mid-Na site has a larger population than Na(1). 
+It has been suggested by Kohler and Shulz that there are two bottlenecks, in the Na(1)-Na(2) hop path.'' These bottlenecks are formed by triangular arrangement of oxygens, with their centers roughly at a distance of 1/3 and 2/3 of the Na(1)-Na(2) separation, from Na(1). 
+The first bottleneck, nearer to Na(1), BN1, is formed by one triangular face of the Na(1)Os. 
+The other bottleneck, BN2, shares two oxygens (an edge of the Na(1)Os) with BN1 while the third oxygen belongs to the Na(2)Os. 
+It may be noticed that the free energy profiles along the Na(1)Na(2) hop path (Figure 10b) do not show any barriers (except the slight shoulder in the case of≠= 0.5 at dj2 = 1.0 A) where the bottlenecks BN1 and BN2 are located. 
+The reason for the disappearance of the barriers at BN1 and BN2 in Naj+ZnSi,.P3-,O12 could be static and dynamic changes of the framework from its ideally stacked polyhedra. 
+Of the static changes in the framework, the predominant one in the present context is the anomalous expansion of the Na(1)Os, shown in Figure 4. 
+This expansion of Na(1)Os near≠= 2 causes widening of bottlenecks (as the bottleneck, BN1, is formed entirely by the triangular face of the Na(1)Os as well as one edge of BN2) and could be thus offering a lower free energy barrier for the Na+ hops for compositions near≠= 2. 
+These are aspects that require further, moredetailed analysis of the NVE-MD trajectories.
+The recently proposed interionic potential has been found to predict known quantities relating to structure, conductivity, and other properties in good agreement with experiments. 
+In view of the good agreement, it appears reasonable to expect that the other properties that may be obtained with the help of this model will be reliable and correct. 
+Many of the results are in excellent agreement with the X-ray diffraction results of Boilot et al' For example, the sum of the sodium occupaney at the Na(1) and mid-Na site add up to unity. 
+The preferred conduction channel is found to be the one connecting Na(1) and Na(2) sites. 
+Present study suggests that the anomalous behavior in the c parameter may arise from the anomalous behavior of Na(1)-O distance. 
+Variation in the a parameter probably arises from similar variation in the Na(2)-O distance. 
+Additional work is required to clarify the role of framework and role of rotation of the polyhedra in giving the observed behavior of conductivity with composition x. 
+Role of ion-ion repulsion in the resulting increase in conductivity and structural change also needs to be investigated. 
+The authors gratefully acknowledge support from Department of Science and Technology, New Delhi, under a project entitled Investigations into Diffusion of Polyatomic Molecules through Porous Media. 
+Umarji for useful discussions regarding Nasicon structure and properties and Professor K. 
+
